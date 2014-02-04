@@ -1,722 +1,739 @@
 # Article Annexe III
 
-Grilles de cotation ovines
-
 GRILLES DE COTATION OVINES
 
 Cotations nationales et régionales des agneaux de boucherie
 
-Semaine n°…. du …. Au….
+Semaine n° du au
 
-Prix entrée abattoir (HT) exprimé en euro/kg de carcasse (cinquième quartier inclus), frais de transport inclus
+Prix "entrée abattoir" (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus
 
 <table>
 <tbody>
 <tr>
-<td colspan="2" rowspan="2" width="190">
-<br/>
+<td colspan="2" rowspan="2">
 <br/>
 </td>
-<td colspan="8" width="481">
-<p align="center">COTATIONS REGIONALES</p>
+<td colspan="8">
+<p align="center">COTATIONS RÉGIONALES </p>
 </td>
-<td rowspan="2" width="62">
-<br/>
-<br/>
+<td colspan="4" rowspan="2">
+<p align="center">COTATIONS NATIONALES </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="240">
-<p align="center">Bassin Nord</p>
+<td colspan="4">
+<p align="center">Bassin Nord </p>
 </td>
-<td colspan="4" width="240">
-<p align="center">Bassin Sud</p>
-</td>
-</tr>
-<tr>
-<td width="103">
-<p align="center">Etat d’engraissement</p>
-</td>
-<td width="87">
-<p align="center">Conformation</p>
-</td>
-<td width="62">
-<p align="center">Moins de 16 kg</p>
-</td>
-<td width="59">
-<p align="center">16 à 19 kg</p>
-</td>
-<td width="59">
-<p align="center">19 à 22 kg</p>
-</td>
-<td width="60">
-<p align="center">Plus de 22 kg</p>
-</td>
-<td width="62">
-<p align="center">Moins de 16 kg</p>
-</td>
-<td width="59">
-<p align="center">16 à 19 kg</p>
-</td>
-<td width="59">
-<p align="center">19 à 22 kg</p>
-</td>
-<td width="60">
-<p align="center">Plus de 22 kg</p>
-</td>
-<td width="62">
-<p align="center">Moins de 16 kg</p>
+<td colspan="4">
+<p align="center">Bassin Sud </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="103">
-<p>2 (CIRE)</p>
+<td>
+<p align="center">Etat d'engraissement </p>
 </td>
-<td valign="top" width="87">
+<td>
+<p align="center">Conformation </p>
+</td>
+<td>
+<p align="center">13 à 16 kg </p>
+</td>
+<td>
+<p align="center">16 à 19 kg </p>
+</td>
+<td>
+<p align="center">19 à 22 kg </p>
+</td>
+<td>
+<p align="center">Plus de 22 kg </p>
+</td>
+<td>
+<p align="center">13 à 16 kg </p>
+</td>
+<td>
+<p align="center">16 à 19 kg </p>
+</td>
+<td>
+<p align="center">19 à 22 kg </p>
+</td>
+<td>
+<p align="center">Plus de 22 kg </p>
+</td>
+<td>
+<p align="center">13 à 16 kg </p>
+</td>
+<td>
+<p align="center">16 à 19 kg </p>
+</td>
+<td>
+<p align="center">19 à 22 kg </p>
+</td>
+<td>
+<p align="center">Plus de 22 kg </p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p align="center">2 (CIRE)</p>
+</td>
+<td>
 <p align="center">U</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="87">
+<td>
 <p align="center">R</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="87">
+<td>
 <p align="center">O</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="103">
-<p>3 (COUVERT)</p>
+<td rowspan="3">
+<p align="center">3 (COUVERT)</p>
 </td>
-<td valign="top" width="87">
+<td>
 <p align="center">U</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="87">
+<td>
 <p align="center">R</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="87">
+<td>
 <p align="center">O</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="103">
-<p>4 (GRAS)</p>
+<td rowspan="3">
+<p align="center">4 (GRAS)</p>
 </td>
-<td valign="top" width="87">
+<td>
 <p align="center">U</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="87">
+<td>
 <p align="center">R</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="87">
+<td>
 <p align="center">O</p>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
-<br/>
-<br/>
-</td>
-<td valign="top" width="59">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="59">
-<br/>
-<br/>
-</td>
-<td valign="top" width="60">
-<br/>
+<td>
 <br/>
 </td>
-<td valign="top" width="62">
+<td>
 <br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Cotations nationales et régionales des brebis de boucherie
+.
 
-Semaine n°…. du …. Au….
+<div align="center">
 
-Prix entrée abattoir (HT) exprimé en euro/kg de carcasse (cinquième quartier inclus), frais de transport inclus
-
+<br/>
+<p>Cotations nationales et régionales des brebis de boucherie </p>
+<p>Semaine n° du au </p>
+<p>Prix "entrée abattoir" (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus </p>
 <table>
 <tbody>
 <tr>
-<td colspan="2" rowspan="2" width="182">
+<td colspan="2" rowspan="2">
 <br/>
 </td>
-<td colspan="4" width="322">
-<p align="center">COTATIONS REGIONALES</p>
+<td colspan="4">
+<p align="center">COTATIONS RÉGIONALES </p>
 </td>
-<td colspan="2" rowspan="2" width="162">
-<p align="center">COTATIONS NATIONALES</p>
+<td colspan="2" rowspan="2">
+<p align="center">COTATIONS NATIONALES </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="159">
-<p align="center">Bassin Nord</p>
+<td colspan="2">
+<p align="center">Bassin Nord </p>
 </td>
-<td colspan="2" width="159">
-<p align="center">Bassin Sud</p>
-</td>
-</tr>
-<tr>
-<td width="97">
-<p align="center">Etat d'engraissement</p>
-</td>
-<td width="81">
-<p align="center">Conformation</p>
-</td>
-<td width="79">
-<p align="center">Moins de 30 kg</p>
-</td>
-<td width="77">
-<p align="center">Plus de 30 kg</p>
-</td>
-<td width="79">
-<p align="center">Moins de 30 kg</p>
-</td>
-<td width="77">
-<p align="center">Plus de 30 kg</p>
-</td>
-<td width="81">
-<p align="center">Moins de 30 kg</p>
-</td>
-<td width="77">
-<p align="center">Plus de 30 kg</p>
+<td colspan="2">
+<p align="center">Bassin Sud </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="97">
-<p>2 (CIRE)</p>
+<td>
+<p align="center">Etat d'engraissement </p>
 </td>
-<td width="81">
-<p align="center">U</p>
+<td>
+<p align="center">Conformation </p>
 </td>
-<td width="79">
-<br/>
+<td>
+<p align="center">Moins de 30 kg </p>
 </td>
-<td width="77">
-<br/>
+<td>
+<p align="center">Plus de 30 kg </p>
 </td>
-<td width="79">
-<br/>
+<td>
+<p align="center">Moins de 30 kg </p>
 </td>
-<td width="77">
-<br/>
+<td>
+<p align="center">Plus de 30 kg </p>
 </td>
-<td width="81">
-<br/>
+<td>
+<p align="center">Moins de 30 kg </p>
 </td>
-<td width="77">
-<br/>
+<td>
+<p align="center">Plus de 30 kg </p>
 </td>
 </tr>
 <tr>
-<td width="81">
-<p align="center">R</p>
+<td rowspan="3">
+<p align="center">2 (CIRE) </p>
 </td>
-<td width="79">
+<td>
+<p align="center">U </p>
+</td>
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="81">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="81">
-<p align="center">O</p>
+<td>
+<p align="center">R </p>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="81">
+<td>
 <br/>
 </td>
-<td width="77">
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="3" width="97">
-<p>3 (COUVERT)</p>
-</td>
-<td width="81">
-<p align="center">U</p>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="77">
-<br/>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="77">
-<br/>
-</td>
-<td width="81">
-<br/>
-</td>
-<td width="77">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="81">
-<p align="center">R</p>
+<td>
+<p align="center">O </p>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="81">
+<td>
 <br/>
 </td>
-<td width="77">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="81">
-<p align="center">O</p>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="77">
-<br/>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="77">
-<br/>
-</td>
-<td width="81">
-<br/>
-</td>
-<td width="77">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3" width="97">
-<p>4 (GRAS)</p>
+<td rowspan="3">
+<p align="center">3 (COUVERT) </p>
 </td>
-<td width="81">
-<p align="center">U</p>
+<td>
+<p align="center">U </p>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="81">
+<td>
 <br/>
 </td>
-<td width="77">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="81">
-<p align="center">R</p>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="77">
-<br/>
-</td>
-<td width="79">
-<br/>
-</td>
-<td width="77">
-<br/>
-</td>
-<td width="81">
-<br/>
-</td>
-<td width="77">
+<td>
 <br/>
 </td>
 </tr>
 <tr>
-<td width="81">
-<p align="center">O</p>
+<td>
+<p align="center">R </p>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="79">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
 <br/>
 </td>
-<td width="81">
+<td>
 <br/>
 </td>
-<td width="77">
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">O </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p align="center">4 (GRAS) </p>
+</td>
+<td>
+<p align="center">U </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">R </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">O </p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
 <br/>
 </td>
 </tr>
 </tbody>
 </table>
+<br/>
+<br/>
+<p>.</p>
+<div align="center">
+
+<br/>
+
+</div>
+
+</div>
