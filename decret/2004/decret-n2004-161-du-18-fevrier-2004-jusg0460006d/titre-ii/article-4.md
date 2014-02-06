@@ -10,13 +10,13 @@ b) Le directeur des services judiciaires ou son représentant ;
 
 c) Le directeur de l'administration pénitentiaire ou son représentant ;
 
-d) L'inspecteur général des services judiciaires ou son représentant ;
+d) Les chefs de cour de la cour d'appel de Paris et les chefs de juridiction du tribunal de grande instance de Paris ou leurs représentants ;
 
-e) Les chefs de cour de la Cour d'appel de Paris et les chefs de juridiction du tribunal de grande instance de Paris ou leurs représentants ;
+e) Le directeur du budget ou son représentant ;
 
-f) Le directeur du budget ou son représentant ;
+f) Le préfet de la région Ile-de-France, préfet de Paris, ou son représentant ;
 
-g) Le préfet de la région Ile-de-France, préfet de Paris, ou son représentant ;
+g) Le préfet de police ou son représentant ;
 
 h) Le maire de Paris ou son représentant ;
 

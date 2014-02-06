@@ -8,7 +8,7 @@ Il assure la direction générale de l'établissement ; à ce titre :
 
 2° Il définit les objectifs de travail et les indicateurs d'évaluation des personnels ;
 
-3° Il est ordonnateur des recettes et des dépenses au titre des opérations d'investissement, des contrats de partenariat et de la convention de gestion mentionnée ci-dessus ;
+3° Il est ordonnateur des recettes et des dépenses au titre des opérations d'investissement et de la convention de gestion mentionnée à l'article 3 bis ;
 
 4° Il peut créer des régies de recettes et des régies d'avances sur avis conforme de l'agent comptable, dans les conditions prévues par le décret du 20 juillet 1992 susvisé ;
 
@@ -17,3 +17,5 @@ Il assure la direction générale de l'établissement ; à ce titre :
 6° Il représente l'établissement en justice et dans les actes de la vie civile.
 
 Il peut déléguer sa signature aux directeurs, directeurs de programme et chefs de service.
+
+La limite d'âge du directeur général de l'Etablissement public du palais de justice de Paris est fixée à soixante-dix ans.
