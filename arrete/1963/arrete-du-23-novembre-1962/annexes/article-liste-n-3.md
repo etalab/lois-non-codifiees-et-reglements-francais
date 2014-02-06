@@ -985,7 +985,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 </tr>
 <tr>
 <td align="center">
-<br/>Sisteron-Thèze</td>
+<br/>Sisteron-Vaumeilh</td>
 <td align="center">
 <br/>Alpes-de-Haute-Provence</td>
 <td align="center">
