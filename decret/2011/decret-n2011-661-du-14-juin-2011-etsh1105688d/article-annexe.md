@@ -6,4 +6,6 @@ Assistants médico-administratifs ;
 
 Techniciens et techniciens supérieurs hospitaliers ;
 
-Techniciens et techniciens supérieurs hospitaliers de l'Assistance publique-hôpitaux de Paris.
+Techniciens et techniciens supérieurs hospitaliers de l'Assistance publique-hôpitaux de Paris ;
+
+Animateurs.

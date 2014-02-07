@@ -677,7 +677,6 @@
 - [Décret n°93-644 du 26 mars 1993 (SPSS9300594D)](decret-n93-644-du-26-mars-1993-spss9300594d)
 - [Décret n°93-647 du 26 mars 1993 (SPSS9300508D)](decret-n93-647-du-26-mars-1993-spss9300508d)
 - [Décret n°93-649 du 26 mars 1993 (SPSS9300768D)](decret-n93-649-du-26-mars-1993-spss9300768d)
-- [Décret n°93-654 du 26 mars 1993 (SPSX9300193D)](decret-n93-654-du-26-mars-1993-spsx9300193d)
 - [Décret n°93-657 du 26 mars 1993 (SPSX9300196D)](decret-n93-657-du-26-mars-1993-spsx9300196d)
 - [Décret n°93-658 du 26 mars 1993 (SPSX9300197D)](decret-n93-658-du-26-mars-1993-spsx9300197d)
 - [Décret n°93-659 du 26 mars 1993 (SPSX9300198D)](decret-n93-659-du-26-mars-1993-spsx9300198d)
