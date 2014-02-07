@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS RELATIVES À LA FISCALITÉ
+
+- [Article 8](article-8.md)

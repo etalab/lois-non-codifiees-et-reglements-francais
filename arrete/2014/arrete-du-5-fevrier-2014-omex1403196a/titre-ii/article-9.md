@@ -1,0 +1,3 @@
+# Article 9
+
+Pour l'application des articles précédents et particulièrement pour l'appréciation de la réalité des coûts des produits pétroliers et du taux de productivité des opérateurs de la chaîne pétrolière, y compris ceux du gaz de pétrole liquéfié, l'administration dispose des pouvoirs d'enquête prévus par le titre V du livre IV du code de commerce portant notamment sur tous les éléments de la comptabilité (générale et analytique et autres outils de gestion financière), de la facturation, y compris les éléments contractuels couverts par le secret des affaires. En contrepartie, l'administration veille à garantir la protection des éléments couverts par ledit secret.

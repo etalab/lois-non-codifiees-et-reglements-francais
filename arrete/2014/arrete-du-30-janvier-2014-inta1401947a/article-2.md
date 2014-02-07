@@ -1,0 +1,3 @@
+# Article 2
+
+Les conditions de règlement des frais de déplacement des agents définis à l'article 1er du présent arrêté sont régies par l'arrêté du 22 août 2006 pris pour l'application des articles 2-8,6 et 7 du décret n° 2006-781 du 3 juillet 2006 et portant politique voyages des personnels civils du ministère de l'intérieur et de l'aménagement du territoire. Eu égard à la situation particulière de ces agents nécessitant des déplacements fréquents et réguliers, les dérogations prévues par les articles 2-8,6 et 7 du décret n° 2006-781 du 3 juillet 2006 sont précisées aux articles 3 à 5 du présent arrêté.
