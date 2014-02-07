@@ -468,7 +468,6 @@
 - [Arrêté du 12 juin 1995 (INTE9500325A)](arrete-du-12-juin-1995-inte9500325a)
 - [Arrêté du 12 juin 1995 (JUSB9510148A)](arrete-du-12-juin-1995-jusb9510148a)
 - [Arrêté du 12 juin 1995 (MCCB9500485A)](arrete-du-12-juin-1995-mccb9500485a)
-- [Arrêté du 12 juin 1996 (TASA9620036A)](arrete-du-12-juin-1996-tasa9620036a)
 - [Arrêté du 12 octobre 1994 (SPSS9402167A)](arrete-du-12-octobre-1994-spss9402167a)
 - [Arrêté du 12 octobre 1995 (ECOT9510246A)](arrete-du-12-octobre-1995-ecot9510246a)
 - [Arrêté du 12 octobre 1995 (JUSB9510325A)](arrete-du-12-octobre-1995-jusb9510325a)
