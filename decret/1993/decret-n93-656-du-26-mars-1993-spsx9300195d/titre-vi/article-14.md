@@ -1,3 +1,0 @@
-# Article 14
-
-Pour la constitution initiale du corps des éducateurs de jeunes enfants sont intégrés, à compter du 1er août 1991, sous réserve qu'ils aient la qualité d'agent titulaire ou stagiaire, les personnels exerçant dans l'un des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée, occupant un emploi d'éducateur de jeunes enfants ou de moniteur de jardin d'enfants et titulaires du diplôme d'Etat d'éducateur de jeunes enfants ou d'un diplôme sanctionnant une formation analogue et délivré par une des écoles agréées par le ministère des affaires sociales antérieurement à l'application du décret du 11 janvier 1973 susvisé instituant le nouveau diplôme d'Etat.

@@ -1,3 +1,0 @@
-# Article 15
-
-Pour la constitution initiale du corps des conseillers en économie sociale et familiale, sont intégrés à compter du 1er janvier 1993, sous réserve qu'ils aient la qualité d'agents titulaires ou stagiaires, les personnels exerçant à la date de publication du présent décret dans l'un des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée, occupant un emploi de conseiller en économie sociale et familiale ou de monitrice d'enseignement ménager et titulaires soit du diplôme d'Etat de conseiller en économie sociale et familiale, soit du monitorat d'enseignement ménager familial.

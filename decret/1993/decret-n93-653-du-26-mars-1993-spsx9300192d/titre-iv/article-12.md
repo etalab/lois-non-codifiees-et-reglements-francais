@@ -1,3 +1,0 @@
-# Article 12
-
-Peuvent être nommés au grade de conseiller en économie sociale et familiale principal, après inscription sur un tableau d'avancement, dans la limite d'une nomination pour un effectif de deux conseillers en économie sociale et familiale du premier grade ou d'un agent lorsque cette condition n'est pas applicable, les conseillers en économie sociale et familiale du premier grade ayant atteint au 1er janvier de l'année au titre de laquelle est dressé ce tableau d'avancement, au moins le 5e échelon de ce grade et justifiant à cette date d'au moins quatre ans de services effectifs dans le présent corps.
