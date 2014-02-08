@@ -2758,8 +2758,6 @@
 - [Arrêté du 28 décembre 2012 (TRAM1240461A)](arrete-du-28-decembre-2012-tram1240461a)
 - [Arrêté du 28 décembre 2012 (TRAM1240465A)](arrete-du-28-decembre-2012-tram1240465a)
 - [Arrêté du 28 février 2012 (DEFL1206398A)](arrete-du-28-fevrier-2012-defl1206398a)
-- [Arrêté du 28 février 2012 (DEFL1206525A)](arrete-du-28-fevrier-2012-defl1206525a)
-- [Arrêté du 28 février 2012 (DEFL1206538A)](arrete-du-28-fevrier-2012-defl1206538a)
 - [Arrêté du 28 février 2012 (DEVP1208070A)](arrete-du-28-fevrier-2012-devp1208070a)
 - [Arrêté du 28 février 2012 (IOCR1135745A)](arrete-du-28-fevrier-2012-iocr1135745a)
 - [Arrêté du 28 février 2012 (IOCR1135781A)](arrete-du-28-fevrier-2012-iocr1135781a)
