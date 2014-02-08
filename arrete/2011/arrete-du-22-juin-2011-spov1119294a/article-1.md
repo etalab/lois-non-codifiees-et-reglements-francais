@@ -24,9 +24,11 @@ Les directeurs des centres de ressources, d'expertise et de performance sportive
 
 ― centre de ressources, d'expertise et de performance sportives de La Réunion : 1 ;
 
+― centre de ressources, d'expertise et de performance sportives de Rhône-Alpes : 1 ;
+
 ― centre de ressources, d'expertise et de performance sportives de Strasbourg : 1 ;
 
-― centre de ressources, d'expertise et de performance sportives du Sud-Est : 4 ;
+― centre de ressources, d'expertise et de performance sportives de Provence-Alpes-Côte d'Azur : 3 ;
 
 ― centre de ressources, d'expertise et de performance sportives de Toulouse : 1 ;
 
