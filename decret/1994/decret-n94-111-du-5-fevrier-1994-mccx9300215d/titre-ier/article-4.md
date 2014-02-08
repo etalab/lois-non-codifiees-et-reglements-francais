@@ -4,9 +4,9 @@ L'Opéra national de Paris est administré par un conseil d'administration qui c
 
 1° Cinq représentants de l'Etat nommés par décret dans les conditions suivantes :
 
-a) Quatre représentants du ministre chargé de la culture, dont le             directeur général de la création artistique et le secrétaire général ;
+a) Quatre représentants du ministre chargé de la culture, dont un représentant de la direction générale de la création artistique et un représentant du secrétariat général ;
 
-b) Le directeur du budget du ministère chargé du budget ;
+b) Un représentant de la direction du budget ;
 
 2° Quatre représentants des salariés ;
 
