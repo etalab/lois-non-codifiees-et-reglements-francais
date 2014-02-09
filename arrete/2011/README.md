@@ -1053,7 +1053,6 @@
 - [Arrêté du 13 juillet 2011 (AGRT1117088A)](arrete-du-13-juillet-2011-agrt1117088a)
 - [Arrêté du 13 juillet 2011 (BCRE1120124A)](arrete-du-13-juillet-2011-bcre1120124a)
 - [Arrêté du 13 juillet 2011 (DEVP1116918A)](arrete-du-13-juillet-2011-devp1116918a)
-- [Arrêté du 13 juillet 2011 (DEVP1119594A)](arrete-du-13-juillet-2011-devp1119594a)
 - [Arrêté du 13 juillet 2011 (EFII1118195A)](arrete-du-13-juillet-2011-efii1118195a)
 - [Arrêté du 13 juillet 2011 (ESRS1113674A)](arrete-du-13-juillet-2011-esrs1113674a)
 - [Arrêté du 13 juillet 2011 (ETSF1118305A)](arrete-du-13-juillet-2011-etsf1118305a)

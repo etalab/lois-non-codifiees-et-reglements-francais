@@ -1,5 +1,0 @@
-# Article 11
-
-Le président est élu par les membres du conseil pour une durée de trois ans. Le conseil procède à l'élection de son président, à bulletins secrets, au premier tour, s'il obtient les suffrages à la majorité absolue de la totalité des membres du conseil scientifique. Si cette majorité n'est pas atteinte, il est procédé à un deuxième tour à la majorité simple des suffrages exprimés. En cas de partage égal des voix, le candidat le plus âgé est proclamé élu. En cas d'absence ou d'empêchement du président, la séance est présidée par le doyen d'âge parmi les présents. En cas de vacance définitive de la présidence, il est procédé à de nouvelles élections selon les mêmes modalités que celles visées au présent article.
-
-Le président peut inviter à siéger, en tant qu'expert, à tout ou partie des réunions du conseil scientifique et technique, des personnalités scientifiques choisies en raison de leurs compétences dans les domaines concernant le service. Celles-ci n'ont pas le droit de vote.

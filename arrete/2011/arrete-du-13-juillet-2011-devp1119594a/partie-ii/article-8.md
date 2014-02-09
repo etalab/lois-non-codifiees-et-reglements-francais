@@ -1,3 +1,0 @@
-# Article 8
-
-Le conseil scientifique et technique (CST) du service central d'hydrométéorologie et d'appui à la prévision des inondations, institué par l'article 8.3.1 de l'arrêté du 9 juillet 2008 susvisé, est consulté, sur la base d'un rapport rédigé par le chef du service, sur le programme des études et recherches, sur les orientations en matière d'harmonisation et de certification des appareils de mesures et d'outils de modélisation. Il contribue à la coordination des actions scientifiques et techniques entreprises par les services techniques et établissements publics de l'Etat en matière d'hydrologie et de prévision des crues ainsi qu'à l'organisation de la validation des méthodes utilisées.
