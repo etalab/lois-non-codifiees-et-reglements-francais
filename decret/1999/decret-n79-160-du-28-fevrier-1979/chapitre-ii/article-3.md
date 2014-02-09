@@ -1,8 +1,8 @@
 # Article 3
 
-Les déclarations de candidature sont reçues à compter du quatrième lundi précédant le jour du scrutin. Elles doivent être déposées au plus tard à 18 heures, heure de Paris.
+Les déclarations de candidature sont reçues à compter du cinquième lundi précédant le jour du scrutin. Elles doivent être déposées au plus tard à 18 heures, heure de Paris.
 
-Elles sont rédigées sur papier libre.
+Elles sont rédigées sur un imprimé.
 
 Elles sont accompagnées de la désignation d'un délégué, ayant qualité pour suivre la procédure prévue à l'article 12 de la loi du 7 juillet 1977 susvisée.
 

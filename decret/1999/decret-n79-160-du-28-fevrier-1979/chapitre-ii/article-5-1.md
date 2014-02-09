@@ -1,3 +1,9 @@
 # Article 5-1
 
-L'information des Etats membres de l'Union européenne sur l'identité de leurs ressortissants candidats en France, prévue par le dernier alinéa de l'article 9 de la loi n° 77-729 du 7 juillet 1977 susvisée, est assurée par le ministre de l'intérieur.
+L'autorité administrative française compétente mentionnée aux articles 5, 11 et 14-1 de la loi du 7 juillet 1977 susvisée est le ministre de l'intérieur.
+
+A ce titre, le ministre de l'intérieur assure l'information des Etats membres de l'Union européenne :
+
+1° Sur l'inéligibilité des ressortissants français candidats dans un Etat membre de l'Union européenne autre que la France ;
+
+2° Sur l'identité de leurs ressortissants candidats en France, en application des I et II de l'article 11 de la loi du 7 juillet 1977 susvisée.

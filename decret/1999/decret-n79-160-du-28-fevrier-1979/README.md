@@ -6,4 +6,5 @@
 - [Chapitre III : Propagande](chapitre-iii)
 - [Chapitre IV : Opérations électorales](chapitre-iv)
 - [Chapitre V : Dispositions relatives à l'outre-mer.](chapitre-v)
+- [Chapitre VI : Dispositions relatives au vote des Français établis hors de France](chapitre-vi)
 - [Article 29](article-29.md)
