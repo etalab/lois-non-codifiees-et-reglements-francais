@@ -1,128 +1,177 @@
 # Article 4
 
-<div>
-<br/>Dans le cadre d'une licence à finalité statistique, les tarifs de réutilisation des données du SIV sont les suivants :<br/> 4.1. Pour un usage interne (prix de la ligne en euros) :<br/>
+Dans le cadre d'une licence à finalité statistique, les tarifs de réutilisation des données du SIV sont les suivants :
+
+4.1. Pour un usage interne (prix de la ligne en euros) :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>NOMBRE DE LIGNES LIVRÉES</th>
-<th>
-<br/>BLOC 1</th>
-<th>
-<br/>BLOC 2</th>
-<th>
-<br/>BLOC 3</th>
-<th>
-<br/>BLOC 4</th>
-<th>
-<br/>BLOC 5</th>
-<th>
-<br/>BLOC 6</th>
-<th>
-<br/>TOTAL</th>
+<td>
+<p align="center"> NOMBRE DE LIGNES LIVRÉES </p>
+</td>
+<td>
+<p align="center"> BLOC 1</p>
+</td>
+<td>
+<p align="center"> BLOC 2</p>
+</td>
+<td>
+<p align="center"> BLOC 3</p>
+</td>
+<td>
+<p align="center"> BLOC 4</p>
+</td>
+<td>
+<p align="center"> BLOC 5</p>
+</td>
+<td>
+<p align="center"> BLOC 6</p>
+</td>
+<td>
+<p align="center"> TOTAL</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>De 1 à 5 000 000</td>
+<br/>De 1 à 5 000 000 <br/>
+</td>
 <td align="center">
-<br/>0,001 60</td>
+<br/>0,000 96 <br/>
+</td>
 <td align="center">
-<br/>0,001 60</td>
+<br/>0,000 96 <br/>
+</td>
 <td align="center">
-<br/>0,000 40</td>
+<br/>0,000 24 <br/>
+</td>
 <td align="center">
-<br/>0,002 00</td>
+<br/>0,001 2 <br/>
+</td>
 <td align="center">
-<br/>0,002 00</td>
+<br/>0,001 2 <br/>
+</td>
 <td align="center">
-<br/>0,000 40</td>
+<br/>0,000 24 <br/>
+</td>
 <td align="center">
-<br/>0,008 00</td>
+<br/>0,004 8 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Plus de 5 000 000</td>
+<br/>Plus de 5 000 000 <br/>
+</td>
 <td align="center">
-<br/>0,001 00</td>
+<br/>0,000 6 <br/>
+</td>
 <td align="center">
-<br/>0,001 00</td>
+<br/>0,000 6 <br/>
+</td>
 <td align="center">
-<br/>0,000 25</td>
+<br/>0,000 15 <br/>
+</td>
 <td align="center">
-<br/>0,001 25</td>
+<br/>0,000 75 <br/>
+</td>
 <td align="center">
-<br/>0,001 25</td>
+<br/>0,000 75 <br/>
+</td>
 <td align="center">
-<br/>0,000 25</td>
+<br/>0,000 15 <br/>
+</td>
 <td align="center">
-<br/>0,005 00</td>
+<br/>0,003</td>
 </tr>
+</tbody>
 </table>
 
 </div>
-<br/>
-<br/> 4.2. Pour un usage de vente de prestations à des tiers (prix de la ligne en euros) :<br/>
-<div align="center">
+
+4.2. Pour un usage de vente de prestations à des tiers (prix de la ligne en euros) : <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>NOMBRE DE LIGNES LIVRÉES</th>
-<th>
-<br/>BLOC 1</th>
-<th>
-<br/>BLOC 2</th>
-<th>
-<br/>BLOC 3</th>
-<th>
-<br/>BLOC 4</th>
-<th>
-<br/>BLOC 5</th>
-<th>
-<br/>BLOC 6</th>
-<th>
-<br/>TOTAL</th>
+<td>
+<p align="center"> NOMBRE DE LIGNES LIVRÉES </p>
+</td>
+<td>
+<p align="center"> BLOC 1</p>
+</td>
+<td>
+<p align="center"> BLOC 2</p>
+</td>
+<td>
+<p align="center"> BLOC 3</p>
+</td>
+<td>
+<p align="center"> BLOC 4</p>
+</td>
+<td>
+<p align="center"> BLOC 5</p>
+</td>
+<td>
+<p align="center"> BLOC 6</p>
+</td>
+<td>
+<p align="center"> TOTAL</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>De 1 à 5 000 000</td>
+<br/>De 1 à 5 000 000 <br/>
+</td>
 <td align="center">
-<br/>0,002 56</td>
+<br/>0,001 54 <br/>
+</td>
 <td align="center">
-<br/>0,002 56</td>
+<br/>0,001 54 <br/>
+</td>
 <td align="center">
-<br/>0,000 64</td>
+<br/>0,000 38 <br/>
+</td>
 <td align="center">
-<br/>0,003 20</td>
+<br/>0,001 92 <br/>
+</td>
 <td align="center">
-<br/>0,003 20</td>
+<br/>0,001 92 <br/>
+</td>
 <td align="center">
-<br/>0,000 64</td>
+<br/>0,000 38 <br/>
+</td>
 <td align="center">
-<br/>0,012 80</td>
+<br/>0,007 68 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Plus de 5 000 000</td>
+<br/>Plus de 5 000 000 <br/>
+</td>
 <td align="center">
-<br/>0,001 60</td>
+<br/>0,000 96 <br/>
+</td>
 <td align="center">
-<br/>0,001 60</td>
+<br/>0,000 96 <br/>
+</td>
 <td align="center">
-<br/>0,000 40</td>
+<br/>0,000 24 <br/>
+</td>
 <td align="center">
-<br/>0,002 00</td>
+<br/>0,001 2 <br/>
+</td>
 <td align="center">
-<br/>0,002 00</td>
+<br/>0,001 2 <br/>
+</td>
 <td align="center">
-<br/>0,000 40</td>
+<br/>0,000 24 <br/>
+</td>
 <td align="center">
-<br/>0,008 00</td>
+<br/>0,004 8</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
