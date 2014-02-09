@@ -479,7 +479,6 @@
 - [Arrêté du 25 novembre 2005 (ECOP0500880A)](arrete-du-25-novembre-2005-ecop0500880a)
 - [Arrêté du 25 novembre 2005 (EQUP0501474A)](arrete-du-25-novembre-2005-equp0501474a)
 - [Arrêté du 25 octobre 2005 (BUDR0503046A)](arrete-du-25-octobre-2005-budr0503046a)
-- [Arrêté du 25 octobre 2005 (INTC0500642A)](arrete-du-25-octobre-2005-intc0500642a)
 - [Arrêté du 25 mai 2005 (DEFP0500517A)](arrete-du-25-mai-2005-defp0500517a)
 - [Arrêté du 25 mai 2005 (EQUP0500067A)](arrete-du-25-mai-2005-equp0500067a)
 - [Arrêté du 25 mai 2005 (SANY0521951A)](arrete-du-25-mai-2005-sany0521951a)
