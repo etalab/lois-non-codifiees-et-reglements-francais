@@ -25,6 +25,7 @@
 - [Décret n°2014-112 du 6 février 2014 (INTA1331241D)](decret-n2014-112-du-6-fevrier-2014-inta1331241d)
 - [Décret n°2014-113 du 6 février 2014 (BUDE1323989D)](decret-n2014-113-du-6-fevrier-2014-bude1323989d)
 - [Décret n°2014-10 du 7 janvier 2014 (PROI1321932D)](decret-n2014-10-du-7-janvier-2014-proi1321932d)
+- [Décret n°2014-114 du 7 février 2014 (DEVX1331261D)](decret-n2014-114-du-7-fevrier-2014-devx1331261d)
 - [Décret n°2014-5 du 7 janvier 2014 (DEVR1331930D)](decret-n2014-5-du-7-janvier-2014-devr1331930d)
 - [Décret n°2014-6 du 7 janvier 2014 (MENE1321718D)](decret-n2014-6-du-7-janvier-2014-mene1321718d)
 - [Décret n°2014-7 du 7 janvier 2014 (AFSH1329323D)](decret-n2014-7-du-7-janvier-2014-afsh1329323d)
