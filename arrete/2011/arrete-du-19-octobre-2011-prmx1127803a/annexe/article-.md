@@ -62,4 +62,6 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture des implantations territoriales de Barr, Soufflenheim, Wasselonne et Bouxwiller de la direction départementale des territoires du Bas-Rhin ;
 
-- fermeture des implantations territoriales de Fécamp, Forges-les-Eaux, Neufchâtel-en-Bray, Pavilly et Yvetot de la direction départementale des territoires et de la mer de Seine-Maritime.
+- fermeture des implantations territoriales de Fécamp, Forges-les-Eaux, Neufchâtel-en-Bray, Pavilly et Yvetot de la direction départementale des territoires et de la mer de Seine-Maritime ;
+
+- fermeture de l'antenne de Châteaurenard de l'implantation territoriale d'Arles de la direction départementale des territoires et de la mer des Bouches-du-Rhône.
