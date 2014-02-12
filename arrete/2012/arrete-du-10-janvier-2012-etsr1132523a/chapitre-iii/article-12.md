@@ -1,10 +1,8 @@
 # Article 12
 
-Pour chaque examen professionnel, le jury, nommé par arrêté du ministre chargé travail et de la santé, comprend :
+Pour chaque examen professionnel, le jury nommé par arrêté des ministres chargés des affaires sociales comprend au moins trois fonctionnaires appartenant à un corps de catégorie A ou détachés dans un emploi de catégorie A des ministères chargés des affaires sociales.
 
-― un fonctionnaire appartenant à un corps dont l'indice brut terminal est au moins doté de la hors-échelle, lettre A, ou détaché dans un emploi des ministères chargés des affaires sociales, dont l'indice brut terminal est au moins doté de la hors-échelle, lettre A, président ;
-
-― au moins cinq fonctionnaires appartenant à un corps de catégorie A ou détachés dans un emploi de catégorie A des ministères chargés des affaires sociales.
+Le président du jury est choisi parmi des fonctionnaires appartenant à un corps dont l'indice brut terminal est au moins doté de la hors-échelle, lettre A, ou détaché dans un emploi des ministères chargés des affaires sociales, dont l'indice brut terminal est au moins doté de la hors-échelle, lettre A, président.
 
 En cas d'empêchement du président, cette fonction est assurée par le membre du jury le plus ancien appartenant au corps ou à l'emploi le plus élevé.
 
