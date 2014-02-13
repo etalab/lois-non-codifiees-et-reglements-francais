@@ -59,6 +59,7 @@
 - [Arrêté du 11 décembre 2013 (INTC1326207A)](arrete-du-11-decembre-2013-intc1326207a)
 - [Arrêté du 11 décembre 2013 (INTJ1316729A)](arrete-du-11-decembre-2013-intj1316729a)
 - [Arrêté du 11 décembre 2013 (OMEO1330580A)](arrete-du-11-decembre-2013-omeo1330580a)
+- [Arrêté du 11 octobre 2013 (AFSR1325790A)](arrete-du-11-octobre-2013-afsr1325790a)
 - [Arrêté du 12 août 2013 (INTA1319038A)](arrete-du-12-aout-2013-inta1319038a)
 - [Arrêté du 12 août 2013 (INTA1319074A)](arrete-du-12-aout-2013-inta1319074a)
 - [Arrêté du 12 août 2013 (INTA1319645A)](arrete-du-12-aout-2013-inta1319645a)
