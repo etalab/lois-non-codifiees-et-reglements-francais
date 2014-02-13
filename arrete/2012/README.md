@@ -1616,7 +1616,6 @@
 - [Arrêté du 19 décembre 2012 (BUDE1229778A)](arrete-du-19-decembre-2012-bude1229778a)
 - [Arrêté du 19 décembre 2012 (BUDE1229830A)](arrete-du-19-decembre-2012-bude1229830a)
 - [Arrêté du 19 décembre 2012 (BUDW1237311A)](arrete-du-19-decembre-2012-budw1237311a)
-- [Arrêté du 19 décembre 2012 (DEFD1240293A)](arrete-du-19-decembre-2012-defd1240293a)
 - [Arrêté du 19 décembre 2012 (DEFH1242066A)](arrete-du-19-decembre-2012-defh1242066a)
 - [Arrêté du 19 décembre 2012 (DEVK1242295A)](arrete-du-19-decembre-2012-devk1242295a)
 - [Arrêté du 19 décembre 2012 (ETLL1239803A)](arrete-du-19-decembre-2012-etll1239803a)
