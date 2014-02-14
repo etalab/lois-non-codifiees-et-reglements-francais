@@ -1669,7 +1669,6 @@
 - [Arrêté du 20 février 2007 (SANH0720859A)](arrete-du-20-fevrier-2007-sanh0720859a)
 - [Arrêté du 20 janvier 2011 (BCRD1100722A)](arrete-du-20-janvier-2011-bcrd1100722a)
 - [Arrêté du 20 janvier 2011 (ESRS1033689A)](arrete-du-20-janvier-2011-esrs1033689a)
-- [Arrêté du 20 janvier 2011 (ETSO1033786A)](arrete-du-20-janvier-2011-etso1033786a)
 - [Arrêté du 20 janvier 2011 (JUSC1101832A)](arrete-du-20-janvier-2011-jusc1101832a)
 - [Arrêté du 20 janvier 2011 (JUSF1101363A)](arrete-du-20-janvier-2011-jusf1101363a)
 - [Arrêté du 20 juillet 2011 (AGRT1119267A)](arrete-du-20-juillet-2011-agrt1119267a)
