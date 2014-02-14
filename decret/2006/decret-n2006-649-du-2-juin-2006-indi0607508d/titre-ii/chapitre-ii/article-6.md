@@ -8,7 +8,7 @@ I.-Le demandeur d'une autorisation présentée au titre de l'article 3 constitue
 
 3° Un exposé relatif, selon le cas, aux méthodes de recherches ou d'exploitation envisagées ;
 
-4° L'étude d'impact définie à  l'article R. 122-3 du code de l'environnement. Pour les injections de gaz naturel ou de gaz de pétrole liquéfié (GPL) en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable, l'étude d'impact doit, notamment, démontrer que l'injection est effectuée de manière à éviter tout risque présent ou futur de détérioration de la qualité des eaux souterraines concernées ;
+4° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement. Pour les injections de gaz naturel ou de gaz de pétrole liquéfié (GPL) en nappe aquifère contenant ou en contact avec de l'eau potable ou qui peut être rendue potable, l'étude d'impact doit, notamment, démontrer que l'injection est effectuée de manière à éviter tout risque présent ou futur de détérioration de la qualité des eaux souterraines concernées ;
 
 5° Le document de sécurité et de santé prévu à l'article 28 ;
 
@@ -18,7 +18,7 @@ I.-Le demandeur d'une autorisation présentée au titre de l'article 3 constitue
 
 II.-Le dossier comprend également :
 
-1° Pour les travaux d'exploitation et de recherches de mines mentionnés aux 1° et 2° de l'article 3, l'étude de dangers définie à l'article L. 512-1 du code de l'environnement ;
+1° Pour les travaux d'exploitation et de recherches de mines mentionnés aux 1°, 2°, 8° et 9° de l'article 3, l'étude de dangers définie à l'article L. 512-1 du code de l'environnement ;
 
 2° Pour les travaux mentionnés au 4° de l'article 3 :
 
