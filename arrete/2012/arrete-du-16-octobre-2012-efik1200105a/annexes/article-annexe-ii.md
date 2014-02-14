@@ -6,9 +6,9 @@ PRÉVUE EN APPLICATION DE L'ARTICLE 7
 
 Le secrétaire général du groupe.
 
-Le directeur général adjoint finances, stratégie, filiales et international.
+Le directeur du pôle finances, stratégie, filiales et participations du groupe.
 
-Le directeur des fonds d'épargne.
+La directrice générale adjointe du groupe et directrice des fonds d'épargne.
 
 Le directeur des retraites et de la solidarité.
 
@@ -16,7 +16,7 @@ Le directeur des services bancaires.
 
 le directeur du développement territorial et du réseau.
 
-Le caissier général, directeur des back-offices.
+Le caissier général, directeur de l'exécution des opérations financières.
 
 Le directeur des ressources humaines de l'établissement public Caisse des dépôts et consignations.
 
