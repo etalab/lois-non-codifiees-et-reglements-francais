@@ -5,3 +5,5 @@ Les données à caractère personnel et les informations relatives au recrutemen
 La conservation des données relatives aux motifs d'absence est limitée à une durée n'excédant pas deux ans, sauf dispositions législatives contraires.
 
 Les informations relatives aux sanctions sont conservées cinq ans au maximum.
+
+Sans préjudice des dispositions du deuxième alinéa du présent article, les données à caractère personnel et les informations enregistrées relatives à la gestion du temps de travail des personnels civils sont conservées cinq ans au maximum.

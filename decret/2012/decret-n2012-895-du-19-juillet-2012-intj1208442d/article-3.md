@@ -8,4 +8,8 @@ II. ― Peuvent être destinataires de tout ou partie des données mentionnées 
 
 2° Des centres médicaux de la gendarmerie nationale et du ministère de la défense, dans le cadre de la gestion du recrutement et des ressources humaines ;
 
-3° Des services de la gendarmerie nationale chargés de l'instruction des dossiers de candidature, dans le cadre de leur mission de gestion du recrutement.
+3° Des services de la gendarmerie nationale chargés de l'instruction des dossiers de candidature, dans le cadre de leur mission de gestion du recrutement ;
+
+4° Des services du ministère de l'intérieur chargés de la gestion administrative et de la gestion de la paie des personnels ;
+
+5° De l'Observatoire de la santé des vétérans du ministère de la défense, dans le cadre de sa mission de veille sanitaire au profit des militaires.

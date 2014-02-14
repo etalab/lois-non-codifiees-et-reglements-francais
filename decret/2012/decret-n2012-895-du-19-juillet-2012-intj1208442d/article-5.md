@@ -1,6 +1,6 @@
 # Article 5
 
-Dans le cadre des finalités définies à l'article 1er et dans la limite des informations nécessaires, le traitement « Agorha » peut être mis en relation avec :
+Dans le cadre des finalités définies à l'article 1er et dans la limite des informations nécessaires, le traitement "Agorha" peut être mis en relation avec :
 
 1° Le ou les traitements du ministère de la défense relatifs :
 
@@ -18,4 +18,6 @@ e) A la reconversion ;
 
 a) A la Caisse nationale militaire de sécurité sociale ;
 
-b) A la Caisse de compensation des prestations familiales, des accidents du travail et de prévoyance des travailleurs de Nouvelle-Calédonie.
+b) A l'Imprimerie nationale, pour l'établissement des cartes professionnelles individuelles ;
+
+3° Les traitements du ministère de l'intérieur relatifs aux ressources humaines.

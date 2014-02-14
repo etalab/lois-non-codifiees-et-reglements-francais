@@ -262,6 +262,8 @@ b) Fiches de vœux.
 
 18° Identification des conseillers réserve.
 
+19° Disponibilités (réservistes uniquement).
+
 E. ― Missions et déplacements
 
 1° Type.
@@ -311,6 +313,22 @@ H. ― Logement
 6° Nombre de personnes hébergées.
 
 7° Montant du loyer et des charges.
+
+I. - Temps de travail des personnels civils de la gendarmerie
+
+1° Plan de roulement mensuel ou cycle de travail ;
+
+2° Taux d'activité ;
+
+3° Régime horaire ;
+
+4° Décharges d'activité de service ou sujétions particulières ouvrant droit à crédit d'heures de délégation ou à congés spéciaux ;
+
+5° Suivi journalier des horaires de travail effectifs ;
+
+6° Astreintes, permanences, interventions ;
+
+7° Suivi des demandes de congés et d'autorisations d'absences.
 
 III. ― Données à caractère économique et financier
 
