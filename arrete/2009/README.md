@@ -147,7 +147,6 @@
 - [Arrêté du 3 mars 2009 (IOCA0831276A)](arrete-du-3-mars-2009-ioca0831276a)
 - [Arrêté du 3 mars 2009 (IOCA0831282A)](arrete-du-3-mars-2009-ioca0831282a)
 - [Arrêté du 3 mars 2009 (IOCA0831284A)](arrete-du-3-mars-2009-ioca0831284a)
-- [Arrêté du 3 mars 2009 (JUSK0905268A)](arrete-du-3-mars-2009-jusk0905268a)
 - [Arrêté du 3 mars 2009 (MENJ0905112A)](arrete-du-3-mars-2009-menj0905112a)
 - [Arrêté du 3 mars 2009 (MTSO0905172A)](arrete-du-3-mars-2009-mtso0905172a)
 - [Arrêté du 3 mars 2009 (MTSW0905168A)](arrete-du-3-mars-2009-mtsw0905168a)
