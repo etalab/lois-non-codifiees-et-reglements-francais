@@ -1278,7 +1278,7 @@ f) le carnet de route. Toutefois l'emport de ce document n'est pas obligatoire s
 
 6.1.1.3. Pour tout vol en U.L.M., pour lequel les terrains de décollage et d'atterrissage sont différents :
 
-a) la carte d'identification ;
+a) La carte d'identification portant une date de validité ou la carte d'identification accompagnée de l'accusé réception de la déclaration du postulant indiquant que son ULM est apte au vol ;
 
 b) la licence du pilote et si nécessaire la déclaration de niveau de compétence pour la pratique des activités particulières ;
 
