@@ -52,6 +52,7 @@
 - [Décret n°2014-121 du 11 février 2014 (TRAT1329110D)](decret-n2014-121-du-11-fevrier-2014-trat1329110d)
 - [Décret n°2013-1010 du 12 novembre 2013 (ESSC1305378D)](decret-n2013-1010-du-12-novembre-2013-essc1305378d)
 - [Décret n°2013-1149 du 12 décembre 2013 (EFIT1322863D)](decret-n2013-1149-du-12-decembre-2013-efit1322863d)
+- [Décret n°2014-122 du 12 février 2014 (EFIT1401443D)](decret-n2014-122-du-12-fevrier-2014-efit1401443d)
 - [Décret n°2013-1157 du 13 décembre 2013 (AFSS1327045D)](decret-n2013-1157-du-13-decembre-2013-afss1327045d)
 - [Décret n°2014-30 du 13 janvier 2014 (AFSA1317441D)](decret-n2014-30-du-13-janvier-2014-afsa1317441d)
 - [Décret n°2014-29 du 14 janvier 2014 (MENE1331944D)](decret-n2014-29-du-14-janvier-2014-mene1331944d)
