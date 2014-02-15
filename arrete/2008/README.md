@@ -965,6 +965,7 @@
 - [Arrêté du 25 juin 2008 (SJSS0815735A)](arrete-du-25-juin-2008-sjss0815735a)
 - [Arrêté du 25 mars 2008 (DEVA0805433A)](arrete-du-25-mars-2008-deva0805433a)
 - [Arrêté du 25 mars 2008 (ECES0807188A)](arrete-du-25-mars-2008-eces0807188a)
+- [Arrêté du 25 mars 2008 (IOCE0809922A)](arrete-du-25-mars-2008-ioce0809922a)
 - [Arrêté du 25 novembre 1996 (MAEA9620525A)](arrete-du-25-novembre-1996-maea9620525a)
 - [Arrêté du 25 novembre 2008 (AGRM0823922A)](arrete-du-25-novembre-2008-agrm0823922a)
 - [Arrêté du 25 novembre 2008 (AGRS0827572A)](arrete-du-25-novembre-2008-agrs0827572a)
