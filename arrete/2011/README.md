@@ -1436,7 +1436,6 @@
 - [Arrêté du 17 novembre 2006 (EQUP0601914A)](arrete-du-17-novembre-2006-equp0601914a)
 - [Arrêté du 17 novembre 2011 (AGRT1131116A)](arrete-du-17-novembre-2011-agrt1131116a)
 - [Arrêté du 17 novembre 2011 (APPD1131165A)](arrete-du-17-novembre-2011-appd1131165a)
-- [Arrêté du 17 novembre 2011 (CPTX1130938A)](arrete-du-17-novembre-2011-cptx1130938a)
 - [Arrêté du 17 novembre 2011 (DEFH1129326A)](arrete-du-17-novembre-2011-defh1129326a)
 - [Arrêté du 17 novembre 2011 (ETSH1131616A)](arrete-du-17-novembre-2011-etsh1131616a)
 - [Arrêté du 17 novembre 2011 (ETSZ1132151A)](arrete-du-17-novembre-2011-etsz1132151a)
