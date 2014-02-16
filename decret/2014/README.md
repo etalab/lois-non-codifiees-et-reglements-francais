@@ -19,6 +19,7 @@
 - [Décret n°2014-107 du 4 février 2014 (PROI1322522D)](decret-n2014-107-du-4-fevrier-2014-proi1322522d)
 - [Décret n°2014-98 du 4 février 2014 (EFIT1400579D)](decret-n2014-98-du-4-fevrier-2014-efit1400579d)
 - [Décret n°2014-99 du 4 février 2014 (AFSH1328922D)](decret-n2014-99-du-4-fevrier-2014-afsh1328922d)
+- [Décret n°73-879 du 4 septembre 1973](decret-n73-879-du-4-septembre-1973)
 - [Décret n°2013-475 du 5 juin 2013 (DEVL1305385D)](decret-n2013-475-du-5-juin-2013-devl1305385d)
 - [Décret n°2014-109 du 6 février 2014 (MCCB1331136D)](decret-n2014-109-du-6-fevrier-2014-mccb1331136d)
 - [Décret n°2014-111 du 6 février 2014 (INTA1401976D)](decret-n2014-111-du-6-fevrier-2014-inta1401976d)
