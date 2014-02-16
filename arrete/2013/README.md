@@ -235,6 +235,7 @@
 - [Arrêté du 28 novembre 2013 (AGRT1328270A)](arrete-du-28-novembre-2013-agrt1328270a)
 - [Arrêté du 28 novembre 2013 (JUSF1329701A)](arrete-du-28-novembre-2013-jusf1329701a)
 - [Arrêté du 28 novembre 2013 (MENE1329365A)](arrete-du-28-novembre-2013-mene1329365a)
+- [Arrêté du 28 octobre 2013 (DEVA1326873A)](arrete-du-28-octobre-2013-deva1326873a)
 - [Arrêté du 30 juillet 2013 (ACTI1318927A)](arrete-du-30-juillet-2013-acti1318927a)
 - [Arrêté du 30 juin 1992 (INDM9200552A)](arrete-du-30-juin-1992-indm9200552a)
 - [Arrêté du 30 octobre 2012 (DEVK1237686A)](arrete-du-30-octobre-2012-devk1237686a)
