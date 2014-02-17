@@ -8,15 +8,17 @@ Règles relatives à la gestion des PPS.
 
 3. L'ordre de priorité d'attribution des PPS est le suivant :
 
-― attribution à un navire ayant pêché dans le cadre du PPS concerné au cours de l'année de la demande ;
+- attribution à un navire ayant pêché dans le cadre du PPS concerné au cours de l'année de la demande ;
 
-― attribution à un navire ayant pêché dans le cadre du PPS concerné au cours des trois années précédentes ;
+- attribution à un navire ayant pêché dans le cadre du PPS concerné au cours de l'année précédant la demande ;
 
-― autres demandes :
+- attribution aux autres demandes, dans l'ordre de priorité suivant :
 
-― premières installations,
+- les demandes déposées par les armateurs ou les marins ayant au moins neuf mois d'embarquement à la pêche sur les douze mois précédant la date limite de dépôt des demandes ;
 
-― navires ayant pêché la quatrième année précédant la demande ou toute année antérieure.
+- les demandes correspondant à des premières installations, entendues comme les demandes déposées par des demandeurs ayant acheté leur premier navire dans les douze mois précédant la date limite de dépôt des demandes ;
+
+- les demandes correspondant à des nouvelles installations, entendues comme les demandes déposées par des demandeurs ayant acheté ou transformé un navire afin de pratiquer un métier différent de celui précédemment pratiqué.
 
 4. En cas de disponibilité d'un PPS, le permis peut être attribué à un nouveau demandeur, dans le respect du contingent fixé pour chaque régime, après avis du groupe de travail pour l'attribution des PPS pour la Méditerranée.
 
