@@ -97,7 +97,6 @@
 - [Arrêté du 3 mai 2002 (JUSF0250070A)](arrete-du-3-mai-2002-jusf0250070a)
 - [Arrêté du 3 mai 2002 (MCCB0200329A)](arrete-du-3-mai-2002-mccb0200329a)
 - [Arrêté du 3 mai 2002 (MESO0210707A)](arrete-du-3-mai-2002-meso0210707a)
-- [Arrêté du 4 août 1987 (JUSC8720620A)](arrete-du-4-aout-1987-jusc8720620a)
 - [Arrêté du 4 avril 2002 (DEFP0201490A)](arrete-du-4-avril-2002-defp0201490a)
 - [Arrêté du 4 avril 2002 (INTE0200182A)](arrete-du-4-avril-2002-inte0200182a)
 - [Arrêté du 4 décembre 2002 (AGRP0202724A)](arrete-du-4-decembre-2002-agrp0202724a)
