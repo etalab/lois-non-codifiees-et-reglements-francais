@@ -6,7 +6,7 @@ La conférence de police est consultée sur la répartition des crédits de fonc
 
 Cette conférence est composée :
 
-a) Des préfets de département du ressort concerné ;
+a) Des préfets de département du ressort concerné et, dans la zone de défense et de sécurité Sud, du préfet de police des Bouches-du-Rhône ;
 
 b) Du secrétaire général pour l'administration de la police ;
 
