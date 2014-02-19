@@ -109,3 +109,7 @@ Dans la limite d'une fréquence hebdomadaire au total sur les liaisons suivantes
 Lille - Dakar (Sénégal) ;
 
 Strasbourg - Dakar (Sénégal).
+
+Jusqu'au 31 janvier 2019
+
+Lyon-Alger (Algérie).
