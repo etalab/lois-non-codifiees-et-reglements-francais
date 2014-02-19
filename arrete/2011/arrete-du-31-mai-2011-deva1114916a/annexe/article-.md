@@ -175,3 +175,7 @@ Paris - Hassi Messaoud (Algérie) ;
 Toulouse - Alger (Algérie) ;
 
 Toulouse - Oran (Algérie).
+
+Jusqu'au 31 janvier 2019
+
+Lille-Oran (Algérie).
