@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [Titre Ier : De la qualification des exploitations agricoles.](titre-ier)
 - [Article 2](article-2.md)
-- [Titre II : Des instances consultatives.](titre-ii)
 - [Article 3](article-3.md)
 - [Titre III : Des organismes certificateurs.](titre-iii)
 - [Article 27](article-27.md)

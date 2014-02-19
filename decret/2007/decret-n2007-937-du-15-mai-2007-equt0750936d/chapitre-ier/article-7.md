@@ -1,6 +1,6 @@
 # Article 7
 
-Tout amendement à une disposition essentielle du plan de sûreté approuvé d'un navire est soumis à l'approbation préalable du ministre chargé des transports après avis de la commission de sûreté des navires.
+Tout amendement à une disposition essentielle du plan de sûreté approuvé d'un navire est soumis à l'approbation préalable du ministre chargé des transports.
 
 Les dispositions essentielles du plan de sûreté d'un navire battant pavillon français sont :
 

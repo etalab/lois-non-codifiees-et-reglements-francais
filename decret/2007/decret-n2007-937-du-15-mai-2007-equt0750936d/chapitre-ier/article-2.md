@@ -1,6 +1,6 @@
 # Article 2
 
-Tout navire battant pavillon français soumis en vertu du 1 ou du 2 de l'article 3 du règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 aux prescriptions de ce règlement détient à bord et applique un plan de sûreté approuvé par le ministre chargé des transports après avis de la commission de sûreté des navires instituée à l'article 16 du présent décret.
+Tout navire battant pavillon français soumis en vertu du 1 ou du 2 de l'article 3 du règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 aux prescriptions de ce règlement détient à bord et applique un plan de sûreté approuvé par le ministre chargé des transports.
 
 Tout navire battant pavillon français entrant dans le champ d'application de ce même règlement au titre du 3 de son article 3 compte tenu de l'évaluation obligatoire du risque de sûreté que le ministre chargé des transports réalise est soumis aux mêmes obligations.
 

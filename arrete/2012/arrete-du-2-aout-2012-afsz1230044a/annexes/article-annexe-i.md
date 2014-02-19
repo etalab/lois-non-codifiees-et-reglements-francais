@@ -157,14 +157,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Conseil de modération et de prévention (prévention de l'alcoolisme) <br/>
-</td>
-<td align="center">DGS <br/>MC2 <br/>
-</td>
-<td align="center">Loi n° 2006-11 du 5 janvier 2006 d'orientation agricole (art. 69) <br/>Décret n° 2006-159 du 14 février 2006 <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Conseil national du syndrome immunodéficitaire acquis <br/>
 </td>
 <td align="center">DGS <br/>RI2 <br/>

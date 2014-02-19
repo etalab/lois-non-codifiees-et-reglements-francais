@@ -741,7 +741,6 @@
 - [Décret n°98-412 du 28 mai 1998 (ECOF9820822D)](decret-n98-412-du-28-mai-1998-ecof9820822d)
 - [Décret n°98-413 du 28 mai 1998 (ECOT9891083D)](decret-n98-413-du-28-mai-1998-ecot9891083d)
 - [Décret n°98-424 du 28 mai 1998 (AGRA9800629D)](decret-n98-424-du-28-mai-1998-agra9800629d)
-- [Décret n°98-431 du 28 mai 1998 (PRMX9803001D)](decret-n98-431-du-28-mai-1998-prmx9803001d)
 - [Décret n°98-432 du 28 mai 1998 (MENF9800934D)](decret-n98-432-du-28-mai-1998-menf9800934d)
 - [Décret n°97-1002 du 29 octobre 1997 (INTM9700008D)](decret-n97-1002-du-29-octobre-1997-intm9700008d)
 - [Décret n°97-1247 du 29 décembre 1997 (MESS9724006D)](decret-n97-1247-du-29-decembre-1997-mess9724006d)

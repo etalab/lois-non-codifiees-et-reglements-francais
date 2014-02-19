@@ -56,6 +56,7 @@
 - [Décret n°2011-1317 du 17 octobre 2011 (MFPF1113937D)](decret-n2011-1317-du-17-octobre-2011-mfpf1113937d)
 - [Décret n°2011-1597 du 21 novembre 2011 (DEVR1126147D)](decret-n2011-1597-du-21-novembre-2011-devr1126147d)
 - [Décret n°2011-1918 du 21 décembre 2011 (IOCD1123883D)](decret-n2011-1918-du-21-decembre-2011-iocd1123883d)
+- [Décret n°2011-193 du 21 février 2011 (PRMX1104430D)](decret-n2011-193-du-21-fevrier-2011-prmx1104430d)
 - [Décret n°2011-303 du 21 mars 2011 (EFIE1102125D)](decret-n2011-303-du-21-mars-2011-efie1102125d)
 - [Décret n°2011-1155 du 22 septembre 2011 (AGRT1108536D)](decret-n2011-1155-du-22-septembre-2011-agrt1108536d)
 - [Décret n°2011-1156 du 22 septembre 2011 (AGRT1108537D)](decret-n2011-1156-du-22-septembre-2011-agrt1108537d)

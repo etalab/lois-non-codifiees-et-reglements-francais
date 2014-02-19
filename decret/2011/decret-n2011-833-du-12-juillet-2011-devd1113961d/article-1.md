@@ -5,13 +5,11 @@ est établie ainsi qu'il suit :
 
 1. Instances consultatives à vocation généraliste
 
-Le           Conseil national de la transition écologique.
+Le Conseil national de la transition écologique.
 
 2. Instances consultatives à vocation spécialisée
 
 Le Comité national de l'eau.
-
-Le Conseil supérieur des transports terrestres et de l'intermodalité.
 
 Le Haut Comité pour la transparence et l'information sur la sûreté nucléaire.
 

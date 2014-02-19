@@ -164,7 +164,6 @@
 - [Arrêté du 3 juin 2010 (AGRG1014798A)](arrete-du-3-juin-2010-agrg1014798a)
 - [Arrêté du 3 juin 2010 (AGRS1014108A)](arrete-du-3-juin-2010-agrs1014108a)
 - [Arrêté du 3 juin 2010 (DEFK1015881A)](arrete-du-3-juin-2010-defk1015881a)
-- [Arrêté du 3 juin 2010 (DEVA1009430A)](arrete-du-3-juin-2010-deva1009430a)
 - [Arrêté du 3 juin 2010 (DEVU1012649A)](arrete-du-3-juin-2010-devu1012649a)
 - [Arrêté du 3 juin 2010 (ESRS1013083A)](arrete-du-3-juin-2010-esrs1013083a)
 - [Arrêté du 3 juin 2010 (MCCB1014731A)](arrete-du-3-juin-2010-mccb1014731a)

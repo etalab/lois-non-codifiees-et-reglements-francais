@@ -683,7 +683,6 @@
 - [Décret n°2010-824 du 20 juillet 2010 (ECET1011624D)](decret-n2010-824-du-20-juillet-2010-ecet1011624d)
 - [Décret n°2010-825 du 20 juillet 2010 (ECES1014851D)](decret-n2010-825-du-20-juillet-2010-eces1014851d)
 - [Décret n°2010-826 du 20 juillet 2010 (ECED1014804D)](decret-n2010-826-du-20-juillet-2010-eced1014804d)
-- [Décret n°2010-827 du 20 juillet 2010 (ECET1018749D)](decret-n2010-827-du-20-juillet-2010-ecet1018749d)
 - [Décret n°2010-828 du 20 juillet 2010 (IOCJ1016348D)](decret-n2010-828-du-20-juillet-2010-iocj1016348d)
 - [Décret n°2010-829 du 20 juillet 2010 (MENA1013554D)](decret-n2010-829-du-20-juillet-2010-mena1013554d)
 - [Décret n°2010-519 du 20 mai 2010 (PRMX1009475D)](decret-n2010-519-du-20-mai-2010-prmx1009475d)
