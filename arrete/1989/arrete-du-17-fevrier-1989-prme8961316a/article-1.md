@@ -56,9 +56,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 <td valign="top" width="170">
 <p>Tortue peinte.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -70,23 +68,15 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 <td valign="top" width="170">
 <p>Tortue à charnières.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
 <p align="center">Sauriens</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -117,18 +107,14 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Gymnophtalmus plei.</p>
 </td>
 <td valign="top" width="170">
 <p>Gymnophtalme de Plée.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -140,61 +126,35 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 <td valign="top" width="170">
 <p>Anolis de Saint-Martin.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anolis gingivinus.</p>
 </td>
 <td valign="top" width="170">
 <p>Anolis de Saint-Barthélémy.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Anolis marmoratus.</p>
 </td>
 <td valign="top" width="170">
 <p>Anolis marbré.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Iguana delicatissima.</p>
 </td>
 <td valign="top" width="170">
 <p>Iguane des Antilles.</p>
-</td>
-<td valign="top" width="170">
-<p>Lézard. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="170">
-<p>Iguana iguana.</p>
-</td>
-<td valign="top" width="170">
-<p>Iguane vert.</p>
 </td>
 <td valign="top" width="170">
 <p>Lézard. </p>
@@ -215,9 +175,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sphaerodactylus sputator.</p>
 </td>
@@ -229,9 +187,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Sphaerodactylus macrolepis.</p>
 </td>
@@ -243,9 +199,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Thecadactylus rapicauda.</p>
 </td>
@@ -285,9 +239,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Alsophis rijersmaï.</p>
 </td>
@@ -299,9 +251,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Liophis juliae (Dromicus juliae).</p>
 </td>
@@ -322,9 +272,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 <td valign="top" width="170">
 <p>Typhlops de Guadeloupe.</p>
 </td>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 </tr>
 <tr>
 <td width="170">
@@ -369,9 +317,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Eleutherodactylus martinisensis.</p>
 </td>
@@ -383,9 +329,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Eleutherodactylus pinchoni.</p>
 </td>
@@ -397,9 +341,7 @@ Sont interdits sur tout le territoire du département de la Guadeloupe et en tou
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
+<td valign="top" width="170"/>
 <td valign="top" width="170">
 <p>Eleutherodactylus johnstonei.</p>
 </td>
