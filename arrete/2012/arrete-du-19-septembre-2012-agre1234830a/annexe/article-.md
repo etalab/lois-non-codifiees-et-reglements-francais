@@ -293,5 +293,15 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <p align="center">14 novembre 2018 </p>
 </td>
 </tr>
+<tr>
+<td>ALIQUA<br/>3, chemin du Paradis<br/>27220 La Boissière</td>
+<td>RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement.<br/>RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement.</td>
+<td>
+<p align="center">27 janvier 2014</p>
+</td>
+<td>
+<p align="center">26 janvier 2019</p>
+</td>
+</tr>
 </tbody>
 </table>
