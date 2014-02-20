@@ -1,75 +1,48 @@
 # Article Annexe II
 
-CHEFS DES SERVICES DES SYSTÈMES D'INFORMATION
-
-ET DE COMMUNICATION ACCÉDANT À L'INDICE BRUT 1015
+Chefs des services des systèmes d'information et de communication accédant à l'indice brut 1015
 
 Préfectures
 
 <table>
 <tbody>
 <tr>
-<td colspan="2">
-<p align="center"> LOCALISATION</p>
+<td colspan="2" width="411">
+<p align="center">LOCALISATION</p>
 </td>
-<td>
-<p align="center"> FONCTIONS</p>
+<td width="186">
+<p align="center">FONCTIONS</p>
 </td>
-<td>
+<td width="75">
 <p align="center">POINTS NBI </p>
 </td>
 </tr>
 <tr>
-<td align="center">13<br/>
+<td width="37">
+<p align="center">13</p>
 </td>
-<td align="left">Service régional et départemental des systèmes d'information et de communication des Bouches-du-Rhône<br/>
+<td width="372">
+<p>Service régional et départemental des systèmes d'information et de communication des Bouches-du-Rhône</p>
 </td>
-<td align="center">Chef du SRDSIC<br/>
+<td width="186">
+<p align="left">Chef du SRDSIC</p>
 </td>
-<td align="center">40<br/>
-</td>
-</tr>
-<tr>
-<td align="center">91<br/>
-</td>
-<td align="left">Service départemental des systèmes<br/>d'information et de communication<br/>de l'Essonne<br/>
-</td>
-<td align="center">Chef du SDSIC<br/>
-</td>
-<td align="center">40<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-Service régional des systèmes d'information et de communication (SRSIC)
-
-<table>
-<tbody>
-<tr>
-<td colspan="2">
-<p align="center"> LOCALISATION</p>
-</td>
-<td>
-<p align="center"> FONCTIONS</p>
-</td>
-<td>
-<p align="center">POINTS NBI </p>
+<td width="75">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">78 </td>
-<td align="center" rowspan="2">SRSIC de la zone de défense de Paris<br/>
+<td width="37">
+<p align="center">91</p>
 </td>
-<td align="center">Chef du SRSIC<br/>
+<td width="372">
+<p>Service départemental des systèmes<br/>d'information et de communication<br/>de l'Essonne</p>
 </td>
-<td align="center">40<br/>
+<td width="186">
+<p align="left">Chef du SDSIC</p>
 </td>
-</tr>
-<tr>
-<td align="center">Adjoint au chef du SRSIC<br/>
-</td>
-<td align="center">40<br/>
+<td width="75">
+<p align="center">40</p>
 </td>
 </tr>
 </tbody>
@@ -80,101 +53,142 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 <table>
 <tbody>
 <tr>
-<td colspan="2">
-<p align="center"> LOCALISATION</p>
+<td colspan="2" width="378">
+<p align="center">LOCALISATION</p>
 </td>
-<td>
-<p align="center"> FONCTIONS</p>
+<td width="189">
+<p align="center">FONCTIONS</p>
 </td>
-<td>
-<p align="center"> POINTS NBI</p>
-</td>
-</tr>
-<tr>
-<td align="center">13<br/>
-</td>
-<td align="left">SZSIC de la zone de défense Sud<br/>
-</td>
-<td align="center">Adjoint au chef du SZSIC<br/>
-</td>
-<td align="center">40<br/>
+<td width="76">
+<p align="center">POINTS NBI</p>
 </td>
 </tr>
 <tr>
-<td align="center">33<br/>
+<td width="38">
+<p align="center">13</p>
 </td>
-<td align="left">SZSIC de la zone de défense Sud-Ouest<br/>
+<td width="378">
+<p>SZSIC de la zone de défense Sud</p>
 </td>
-<td align="center">Adjoint au chef du SZSIC<br/>
+<td width="189">
+<p align="left">Adjoint au chef du SZSIC</p>
 </td>
-<td align="center">40<br/>
-</td>
-</tr>
-<tr>
-<td align="center">35<br/>
-</td>
-<td align="left">SZSIC de la zone de défense Ouest<br/>
-</td>
-<td align="center">Adjoint au chef du SZSIC<br/>
-</td>
-<td align="center">40<br/>
+<td width="76">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
-<td align="center">57<br/>
+<td width="38">
+<p align="center">33</p>
 </td>
-<td align="left">SZSIC de la zone de défense Est<br/>
+<td width="378">
+<p>SZSIC de la zone de défense Sud-Ouest</p>
 </td>
-<td align="center">Adjoint au chef du SZSIC<br/>
+<td width="189">
+<p align="left">Adjoint au chef du SZSIC</p>
 </td>
-<td align="center">40<br/>
+<td width="76">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
-<td align="center">69<br/>
+<td width="38">
+<p align="center">35</p>
 </td>
-<td align="left">SZSIC de la zone de défense Sud<br/>
+<td width="378">
+<p>SZSIC de la zone de défense Ouest</p>
 </td>
-<td align="center">Adjoint au chef du SZSIC<br/>
+<td width="189">
+<p align="left">Adjoint au chef du SZSIC</p>
 </td>
-<td align="center">40<br/>
+<td width="76">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p align="center">57</p>
+</td>
+<td width="378">
+<p>SZSIC de la zone de défense Est</p>
+</td>
+<td width="189">
+<p align="left">Adjoint au chef du SZSIC</p>
+</td>
+<td width="76">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td width="38">
+<p align="center">69</p>
+</td>
+<td width="378">
+<p>SZSIC de la zone de défense Sud</p>
+</td>
+<td width="189">
+<p align="left">Adjoint au chef du SZSIC</p>
+</td>
+<td width="76">
+<p align="center">40</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Services de l'administration centrale
+Services de l'administration centrale et dans la zone de défense et de sécurité de Paris
 
 <table>
 <tbody>
 <tr>
-<td colspan="2">
-<p align="center"> LOCALISATION</p>
-</td>
-<td>
-<p align="center"> FONCTIONS</p>
-</td>
-<td>
-<p align="center"> POINTS NBI</p>
+<td align="center" colspan="2">LOCALISATION</td>
+<td align="center">FONCTIONS</td>
+<td align="center">
+<p>POINTS NBI</p>
 </td>
 </tr>
 <tr>
-<td align="center">75<br/>
+<td rowspan="2" width="38">
+<p align="center">75</p>
 </td>
-<td align="left">Direction des systèmes d'information et de communication<br/>
+<td rowspan="2" width="378">
+<p>Direction des systèmes d'information et de communication.</p>
 </td>
-<td align="center">Adjoint au sous-directeur de la supervision et de la production (SDSP)</td>
-<td align="center">40<br/>
+<td width="189">
+<p>Adjoint au sous-directeur de la supervision et de la production (SDSP).</p>
+</td>
+<td width="76">
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
-<td align="center">75<br/>
+<td width="189">
+<p>Adjoint au sous-directeur des applications (SDA).</p>
 </td>
-<td align="left">Préfecture de police<br/>
+<td width="76">
+<p align="center">40</p>
 </td>
-<td align="center">Chef du département radiocommunications opérationnelles<br/>
+</tr>
+<tr>
+<td rowspan="2" width="38">
+<p align="center">75</p>
 </td>
-<td align="center">40<br/>
+<td rowspan="2" width="378">
+<p>Direction opérationnelle des services techniques et logistiques.</p>
+</td>
+<td width="189">
+<p>Chef de la mission gouvernance SIC.</p>
+</td>
+<td width="76">
+<p align="center">40</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Chef du département infrastructures opérationnelles.</p>
+</td>
+<td width="76">
+<p align="center">40</p>
 </td>
 </tr>
 </tbody>
