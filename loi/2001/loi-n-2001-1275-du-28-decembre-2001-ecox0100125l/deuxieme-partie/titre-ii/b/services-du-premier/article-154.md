@@ -1,18 +1,10 @@
 # Article 154
 
-I. Les dépenses faites sur les fonds spéciaux inscrits au programme intitulé : "Coordination du travail gouvernemental" sont examinées chaque année par une commission de vérification chargée de s'assurer que les crédits sont utilisés conformément à la destination qui leur a été assignée par la loi des finances.
+I. Les dépenses faites sur les fonds spéciaux inscrits au programme intitulé : " Coordination du travail gouvernemental " sont examinées chaque année par une commission de vérification chargée de s'assurer que les crédits sont utilisés conformément à la destination qui leur a été assignée par la loi des finances.
 
 Les services destinataires de ces crédits tiennent le compte d'emploi des fonds ainsi versés.
 
-II. La commission est composée ainsi qu'il suit :
-
-- deux députés, dont le président de la commission, désignés par le président de l'Assemblée nationale pour la durée de leur mandat ;
-
-- deux sénateurs désignés par le président du Sénat après chaque renouvellement triennal ;
-
-- deux membres nommés pour cinq ans, par décret, parmi les membres de la Cour des comptes, sur proposition de son premier président.
-
-Sauf démission, il ne peut être mis fin aux fonctions de membre de la commission qu'en cas d'empêchement constaté par celle-ci. Les membres de la commission désignés en remplacement de ceux dont le mandat a pris fin avant son terme normal sont nommés pour la durée restant à courir dudit mandat.
+II.-La commission de vérification constitue une formation spécialisée de la délégation parlementaire au renseignement. Elle est composée de deux députés et de deux sénateurs, membres de la délégation parlementaire au renseignement, désignés de manière à assurer une représentation pluraliste. Le président de la commission de vérification est désigné chaque année par les membres de la délégation.
 
 III. La commission prend connaissance de tous les documents, pièces et rapports susceptibles de justifier les dépenses considérées et l'emploi des fonds correspondants.
 
@@ -28,13 +20,13 @@ V. La commission doit avoir terminé ses travaux avant le 31 mars de l'année qu
 
 VI. Les vérifications terminées, la commission établit un rapport sur les conditions d'emploi des crédits.
 
-Le rapport est remis par le président de la commission au Président de la République, au Premier ministre et aux présidents et rapporteurs généraux des commissions de l'Assemblée nationale et du Sénat chargées des finances.
+Le rapport est présenté aux membres de la délégation parlementaire au renseignement qui ne sont pas membres de la commission. Il est également remis, par le président de la délégation, aux présidents et rapporteurs généraux des commissions de l'Assemblée nationale et du Sénat chargées des finances ainsi qu'au Président de la République et au Premier ministre.
 
 VII. La commission dresse un procès-verbal dans lequel elle constate que les dépenses réalisées sur les crédits visés au I sont couvertes par des pièces justificatives pour un montant égal.
 
 Le procès-verbal est remis par le président de la commission au Premier ministre et au ministre chargé du budget qui le transmet à la Cour des comptes.
 
-VII bis. - Les crédits nécessaires au fonctionnement de la commission sont inscrits au programme intitulé "Coordination du travail gouvernemental.
+VII bis.-Les crédits nécessaires au fonctionnement de la commission sont inscrits au programme intitulé " Coordination du travail gouvernemental.
 
 Le président est ordonnateur des dépenses de la commission. Il a autorité sur les agents de la commission. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas applicables aux dépenses de la commission.
 
