@@ -1,0 +1,5 @@
+# Article 18
+
+Le canton n° 17 (Toulouse-3) comprend la partie de la commune de Toulouse située à l'intérieur d'un périmètre défini par l'axe des voies et limites suivantes : canal de Brienne, boulevard Armand-Duportal, boulevard Lascrosses, rue du Canon-d'Arcole, rue de la Paix, rue Danielle-Casanova, rue de Grèce, avenue Honoré-Serres, avenue des Minimes, avenue Frédéric-Estèbe, avenue de Mazades, rue de Négreneys, boulevard Pierre-et-Marie-Curie, rue Pierre-Cazeneuve, rue Marie-Claire-de-Catellan, ligne de chemin de fer de Brive à Toulouse via Capdenac, rue du Faubourg-Bonnefoy, avenue de Lavaur, rue de Giroussens, chemin Maurice, rue de Périole, rue Saint-Louis, rue Frédéric-Petit, rue Jolimont, rue des Redoutes, avenue Yves-Brunaud, avenue Georges-Pompidou, boulevard de Marengo, pont Pompidou, boulevard de la Gare, rue de la Colombette, rue Maury, place de Danloup, rue Gabriel-Péri, rue des Sept-Troubadours, boulevard Lazare-Carnot, boulevard de Strasbourg, rue d'Alsace-Lorraine, rue de Metz, place Esquirol, pont Neuf, cours de la Garonne.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Toulouse.
