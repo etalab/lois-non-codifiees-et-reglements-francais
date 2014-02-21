@@ -1,3 +1,0 @@
-# Article 412-26
-
-Lorsque l'OPCVM nourricier est un OPCVM à vocation générale relevant de la sous-section 1 de la section 2, un OPCVM réservé à certains investisseurs relevant de la section 3, un fonds commun de placement d'entreprise ou une SICAV d'actionnariat salarié relevant de la section 5 du présent chapitre et qu'il change d'OPCVM maître consécutivement à la liquidation, fusion ou division de son OPCVM maître, il ne doit pas porter atteinte au droit de sortie sans frais des porteurs en suspendant provisoirement les rachats ou les remboursements, sauf si des circonstances exceptionnelles obligent à une telle suspension afin de protéger les intérêts des porteurs.

@@ -1,5 +1,0 @@
-# Article 412-40
-
-Le montant net des honoraires perçus par la société de gestion de portefeuille à raison de prestations de conseils fournies à des sociétés dont un FCPR détient des titres conduit à une diminution, au prorata de la participation détenue, de la commission à laquelle cette société de gestion de portefeuille a droit au titre de la gestion de ce fonds.
-
-Une instruction de l'AMF précise les conditions d'application du présent article.
