@@ -8,3 +8,4 @@
 - [Section 6 : Information des investisseurs](section-6)
 - [Section 7 : Commercialisation en France d'OPCVM](section-7)
 - [Section 8 : Passeport](section-8)
+- [Article 411-2](article-411-2.md)
