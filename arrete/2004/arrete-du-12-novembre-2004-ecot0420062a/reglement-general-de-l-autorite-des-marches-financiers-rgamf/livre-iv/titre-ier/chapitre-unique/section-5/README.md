@@ -6,3 +6,4 @@
 - [Paragraphe 5 : Informations](paragraphe-5)
 - [Paragraphe 6 : Conversion d'OPCVM existants en OPCVM nourriciers et changement d'OPCVM maître](paragraphe-6)
 - [Paragraphe 7 : Fusions et scissions de l'OPCVM maître](paragraphe-7)
+- [Article 411-85-1](article-411-85-1.md)
