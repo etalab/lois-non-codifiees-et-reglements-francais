@@ -1,6 +1,5 @@
 # TITRE Ier : Organismes de placement collectif en valeurs mobilières
 
-- [Chapitre Ier : Organismes de placement collectif en valeurs mobilières](chapitre-ier)
 - [Chapitre unique : Organismes de placement collectif en valeurs mobilières](chapitre-unique)
 - [Chapitre III : Organismes de placement collectifs en valeurs mobilières réservés à certains investisseurs](chapitre-iii)
 - [Chapitre IV : Fonds communs de placement à risques](chapitre-iv)
