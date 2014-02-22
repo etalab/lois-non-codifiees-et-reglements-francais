@@ -1,0 +1,5 @@
+# Article 9
+
+Le canton n° 8 (Dieue-sur-Meuse) comprend les communes suivantes : Ambly-sur-Meuse, Ancemont, Autrécourt-sur-Aire, Bannoncourt, Baudrémont, Beaulieu-en-Argonne, Beausite, Belrain, Bouquemont, Brizeaux, Courcelles-en-Barrois, Courouvre, Dieue-sur-Meuse, Dompcevrin, Evres, Foucaucourt-sur-Thabas, Fresnes-au-Mont, Génicourt-sur-Meuse, Gimécourt, Heippes, Ippécourt, Julvécourt, Kœur-la-Grande, Kœur-la-Petite, Lahaymeix, Landrecourt-Lempire, Lavallée, Lavoye, Lemmes, Levoncourt, Lignières-sur-Aire, Longchamps-sur-Aire, Ménil-aux-Bois, Les Monthairons, Neuville-en-Verdunois, Nicey-sur-Aire, Nixéville-Blercourt, Nubécourt, Osches, Pierrefitte-sur-Aire, Pretz-en-Argonne, Rambluzin-et-Benoite-Vaux, Récourt-le-Creux, Rupt-devant-Saint-Mihiel, Rupt-en-Woëvre, Saint-André-en-Barrois, Sampigny, Senoncourt-les-Maujouy, Seuil-d'Argonne, Sommedieue, Les Souhesmes-Rampont, Souilly, Thillombois, Tilly-sur-Meuse, Les Trois-Domaines, Vadelaincourt, Ville-devant-Belrain, Villers-sur-Meuse, Ville-sur-Cousances, Villotte-sur-Aire, Waly, Woimbey.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Dieue-sur-Meuse.

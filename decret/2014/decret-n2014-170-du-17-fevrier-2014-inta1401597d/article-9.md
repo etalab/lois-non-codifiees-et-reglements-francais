@@ -1,0 +1,9 @@
+# Article 9
+
+Le canton n° 8 (Castres-2) comprend :
+
+1° Les communes suivantes : Burlats, Montfa, Roquecourbe, Saint-Germier, Saint-Jean-de-Vals, Saint-Salvy-de-la-Balme ;
+
+2° La partie de la commune de Castres située au nord et à l'est d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Saint-Germier, avenue d'Albi (route départementale 612), chemin de la Verdarié, chemin du Rosé, limite sud des parcelles cadastrales 23, 123, 129, 16, 13 et 12 jusqu'au chemin de la Fosse, limite nord de la parcelle cadastrale OA feuille 5 jusqu'à la route de Puech-Auriol, ruisseau de Roudil jusqu'au chemin rural reliant le chemin des Amialhes et le ruisseau de Roudil, ligne droite orientée est/ouest jusqu'à la jonction des parcelles cadastrales OA feuille 5, HI feuille1 et CX feuille 1, route de Puech-Auriol jusqu'au chemin des Amialhes, ligne joignant les extrémités nord-est et nord-ouest de la parcelle cadastrale CV feuille 1 jusqu'au chemin de la Fosse, rue Saint-Jean, chemin du Pont-Saint-Jean, ligne droite jusqu'à la limite nord de la parcelle cadastrale AR feuille 1, limite nord de la parcelle cadastrale AR feuille 1, avenue de Roquecourbe à partir du ruisseau du Rosé, cours de l'Agout, ligne droite perpendiculaire au cours de l'Agout pour rejoindre le point le plus au nord de la rue Sœur-Audenet, rue Sœur-Audenet, avenue Jean-Moulin, boulevard du Maréchal-Joffre, rue Peraudel, avenue du Lieutenant-Jacques-Deplats, rue Paul-Barthes, rue Ernest-Barthe, chemin de Saint-Hippolyte, lotissement des Tuileries (inclus), ligne droite reliant le chemin de Saint-Hippolyte à la Durenque, cours de la Durenque, avenue Charles-de-Gaulle (route départementale 612), route de Mazamet, jusqu'à la limite territoriale de la commune de Lagarrigue.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Castres.

@@ -1,0 +1,5 @@
+# Article 16
+
+Le canton n° 15 (Saint-Laurent-en-Grandvaux) comprend les communes suivantes : Arsure-Arsurette, Barésia-sur-l'Ain, Bief-des-Maisons, Bief-du-Fourg, Billecul, Boissia, Bonlieu, Censeau, Cerniébaud, Les Chalesmes, Charcier, Charency, Charézier, Château-des-Prés, La Chaumusse, Chaux-des-Crotenay, Chaux-des-Prés, La Chaux-du-Dombief, Chevrotaine, Clairvaux-les-Lacs, Cogna, Communailles-en-Montagne, Conte, Crans, Cuvier, Denezières, Doucier, Doye, Entre-deux-Monts, Esserval-Combe, Esserval-Tartre, La Favière, Foncine-le-Bas, Foncine-le-Haut, Fontenu, Fort-du-Plasne, Fraroz, La Frasnée, Le Frasnois, Gillois, Grande-Rivière, Hautecour, Lac-des-Rouges-Truites, Largillay-Marsonnay, La Latette, Longcochon, Marigny, Menétrux-en-Joux, Mesnois, Mièges, Mignovillard, Molpré, Mournans-Charbonny, Nozeroy, Onglières, Patornay, Les Piards, Les Planches-en-Montagne, Plénise, Plénisette, Pont-de-Poitte, Prénovel, Rix, Saffloz, Saint-Laurent-en-Grandvaux, Saint-Maurice-Crillat, Saint-Pierre, Saugeot, Songeson, Soucia, Thoiria, Uxelles, Vertamboz.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Saint-Laurent-en-Grandvaux.

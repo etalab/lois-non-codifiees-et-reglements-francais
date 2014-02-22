@@ -1,0 +1,5 @@
+# Article 20
+
+Le canton n° 19 (Mézidon-Canon) comprend les communes suivantes : Les Authieux-Papion, Auvillars, Beaufour-Druval, Beuvron-en-Auge, Biéville-Quétiéville, Bissières, La Boissière, Bonnebosq, Cambremer, Castillon-en-Auge, Condé-sur-Ifs, Corbon, Coupesarte, Crèvecœur-en-Auge, Croissanville, Drubec, Formentin, Le Fournet, Gerrots, Grandchamp-le-Château, Hotot-en-Auge, La Houblonnière, Léaupartie, Lécaude, Lessard-et-le-Chêne, Magny-la-Campagne, Magny-le-Freule, Manerbe, Méry-Corbon, Le Mesnil-Eudes, Le Mesnil-Mauger, Le Mesnil-Simon, Mézidon-Canon, Les Monceaux, Monteille, Montreuil-en-Auge, Notre-Dame-d'Estrées, Notre-Dame-de-Livaye, Percy-en-Auge, Le Pré-d'Auge, Prêtreville, Repentigny, La Roque-Baignard, Rumesnil, Saint-Désir, Saint-Germain-de-Livet, Saint-Jean-de-Livet, Saint-Julien-le-Faucon, Saint-Laurent-du-Mont, Saint-Loup-de-Fribois, Saint-Martin-de-Mailloc, Saint-Ouen-le-Pin, Saint-Pierre-des-Ifs, Valsemé, Victot-Pontfol, Vieux-Fumé.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Mézidon-Canon.

@@ -1,0 +1,5 @@
+# Article 25
+
+Le canton n° 24 (Vitry-sur-Seine-1) comprend la partie de la commune de Vitry-sur-Seine située au nord d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Villejuif, avenue du Colonel-Fabien, rue Edouard-Tremblay, rue Meissonier, voie des Monis, rue de la Petite-Saussaie, voie Houdon, voie Van-Loo, chemin Saint-Martin, rue Edouard-Till, rue Edouard-Tremblay, rue Langlois, avenue Lucien-Français, rue de Meissen, rue de Kladno, avenue Youri-Gagarine, rue Camille-Groult, place des Martyrs-de-la-Déportation, rue du 18-Juin-1940, rue Dupetitval, avenue Guy-Môquet, avenue Paul-Vaillant-Couturier, rue Neuve, rue Gabriel-Péri, rue de l'Argonne, rue du Colonel-Moll, rue d'Odessa, voie située dans le prolongement de la rue de la Marne, avenue Jean-Jaurès, avenue du Président-Salvador-Allende (route départementale 148), pont du Port-à-l'Anglais, jusqu'à la limite territoriale de la commune d'Alfortville.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Vitry-sur-Seine.

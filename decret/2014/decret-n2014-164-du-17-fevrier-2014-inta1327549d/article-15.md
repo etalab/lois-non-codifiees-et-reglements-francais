@@ -1,0 +1,5 @@
+# Article 15
+
+Le canton n° 14 (Scey-sur-Saône-et-Saint-Albin) comprend les communes suivantes : Aroz, Baignes, Les Bâties, Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur, Bourguignon-lès-la-Charité, Boursières, Bucey-lès-Traves, Chantes, La Chapelle-Saint-Quillain, Chassey-lès-Scey, Chemilly, Clans, Etrelles-et-la-Montbleuse, Ferrières-lès-Scey, Frasne-le-Château, Fresne-Saint-Mamès, Fretigney-et-Velloreille, Grandvelle-et-le-Perrenot, Greucourt, Lieffrans, Mailley-et-Chazelot, Mercey-sur-Saône, Motey-sur-Saône, Neuvelle-lès-la-Charité, Noidans-le-Ferroux, Oiselay-et-Grachaux, Ovanches, Le Pont-de-Planches, Pontcey, Raze, Rosey, Rupt-sur-Saône, Saint-Gand, Sainte-Reine, Scey-sur-Saône-et-Saint-Albin, Seveux, Soing-Cubry-Charentenay, Traves, Vaux-le-Moncelot, Velle-le-Châtel, Velleguindry-et-Levrecey, Vellemoz, Vellexon-Queutrey-et-Vaudey, La Vernotte, Vezet, Vy-le-Ferroux, Vy-lès-Rupt.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Scey-sur-Saône-et-Saint-Albin.
