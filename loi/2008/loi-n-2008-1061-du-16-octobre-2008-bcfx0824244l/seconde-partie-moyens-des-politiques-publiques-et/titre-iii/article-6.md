@@ -38,7 +38,7 @@ Peuvent être mobilisés en application du présent article :
 
 3° Les prêts mentionnés aux I et II de l'article L. 513-4 du code monétaire et financier ;
 
-4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel et de résolution conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément aux articles L. 511-41 et L. 613-20-4 dudit code ;
+4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel et de résolution conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément       au I de l'article L. 511-41 et au I de l'article L. 613-20-4 dudit code ;
 
 5° Les prêts à la consommation consentis aux particuliers résidant en France ou, selon des modalités à définir par la société mentionnée au premier alinéa, ceux consentis à des particuliers résidant dans d'autres Etats membres de l'Union européenne ;
 
