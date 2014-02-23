@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 bocage à Osmoderma eremita entre Sillé-le-Guillaume et la Grande Charnie » (zone spéciale de conservation FR 5202003) l'espace délimité sur la carte d'assemblage au 1/60 000 et les sept cartes au 1/25 000 ci-jointes, s'étendant dans le département de la Sarthe sur une partie du territoire des communes suivantes : Chemiré-en-Charnie, Crissé, Le Grez, Joué-en-Charnie, Neuvillette-en-Charnie, Parennes, Rouessé-Vassé, Rouez, Ruillé-en-Champagne, Saint-Denis-d'Orques, Saint-Rémy-de-Sillé, Saint-Symphorien, Sillé-le-Guillaume, Tennie, Epineu-le-Chevreuil.

@@ -1,0 +1,5 @@
+# Article 3
+
+Le canton n° 2 (Bouxwiller) comprend les communes suivantes : Alteckendorf, Berstett, Bosselshausen, Bossendorf, Bouxwiller, Buswiller, Dingsheim, Dossenheim-Kochersberg, Duntzenheim, Durningen, Ettendorf, Fessenheim-le-Bas, Furdenheim, Geiswiller, Gingsheim, Gougenheim, Grassendorf, Griesheim-sur-Souffel, Handschuheim, Hochfelden, Hohatzenheim, Hohfrankenheim, Hurtigheim, Ingenheim, Issenhausen, Ittenheim, Kienheim, Kirrwiller, Kuttolsheim, Lixhausen, Melsheim, Minversheim, Mittelhausen, Mutzenhouse, Neugartheim-Ittlenheim, Obermodern-Zutzendorf, Obersoultzbach, Pfettisheim, Pfulgriesheim, Quatzenheim, Ringeldorf, Ringendorf, Rohr, Schaffhouse-sur-Zorn, Schalkendorf, Scherlenheim, Schnersheim, Schwindratzheim, Stutzheim-Offenheim, Truchtersheim, Uttwiller, Waltenheim-sur-Zorn, Wickersheim-Wilshausen, Willgottheim, Wilwisheim, Wingersheim, Wintzenheim-Kochersberg, Wiwersheim, Zœbersdorf.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Bouxwiller.

@@ -1,0 +1,5 @@
+# Article 9
+
+Le canton n° 8 (Ingwiller) comprend les communes suivantes : Adamswiller, Altwiller, Asswiller, Bærendorf, Berg, Bettwiller, Bischholtz, Bissert, Burbach, Bust, Butten, Dehlingen, Diedendorf, Diemeringen, Domfessel, Dossenheim-sur-Zinsel, Drulingen, Durstel, Erckartswiller, Eschbourg, Eschwiller, Eywiller, Frohmuhl, Gœrlingen, Gungwiller, Harskirchen, Herbitzheim, Hinsbourg, Hinsingen, Hirschland, Ingwiller, Keskastel, Kirrberg, Lichtenberg, Lohr, Lorentzen, Mackwiller, Menchhoffen, Mulhausen, Neuwiller-lès-Saverne, Niedersoultzbach, Œrmingen, Ottwiller, Petersbach, La Petite-Pierre, Pfalzweyer, Puberg, Ratzwiller, Rauwiller, Reipertswiller, Rexingen, Rimsdorf, Rosteig, Sarre-Union, Sarrewerden, Schillersdorf, Schœnbourg, Schopperten, Siewiller, Siltzheim, Sparsbach, Struth, Thal-Drulingen, Tieffenbach, Vœllerdingen, Volksberg, Waldhambach, Weinbourg, Weislingen, Weiterswiller, Weyer, Wimmenau, Wingen-sur-Moder, Wolfskirchen, Zittersheim.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune d'Ingwiller.

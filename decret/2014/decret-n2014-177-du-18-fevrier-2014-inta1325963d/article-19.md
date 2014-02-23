@@ -1,0 +1,5 @@
+# Article 19
+
+Le canton n° 18 (Rennes-1) comprend la partie de la commune de Rennes située au nord d'une ligne définie par l'axe des voies et limites suivantes : à partir de la limite territoriale de la commune de Saint-Grégoire, rue de l'Amiral-Gaspard-de-Coligny, avenue Germaine-Dulac, avenue André-Mussat, avenue de Cucille, rue Robert-d'Arbrissel, rue Louis-Joubin, ligne de chemin de fer de Rennes à Saint-Malo, passage piétonnier donnant accès à l'avenue du 41e-Régiment-d'Infanterie, avenue du 41e-Régiment-d'Infanterie, boulevard du Maréchal-de-Lattre-de-Tassigny, rue Pierre-Gourdel, rue de Dinan, rue d'Echange, contour Saint-Aubin, rue de Bonne-Nouvelle, rue d'Antrain, rue Lesage, rue du Général-Maurice-Guillaudot, place Saint-Mélaine (parc du Thabor inclus), rue de la Palestine à partir de l'intersection avec l'avenue de Grignan, boulevard de Metz, rue de Fougères, route de Fougères, jusqu'à la limite territoriale de la commune de Cesson-Sévigné.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Rennes.

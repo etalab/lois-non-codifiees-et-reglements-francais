@@ -1,0 +1,7 @@
+# Article 23
+
+Le canton n° 22 (Semur-en-Auxois) comprend les communes suivantes : Aisy-sous-Thil, Arnay-sous-Vitteaux, Avosnes, Bard-lès-Epoisses, Beurizot, Bierre-lès-Semur, Boussey, Brain, Braux, Brianny, Champeau-en-Morvan, Champrenault, Charigny, Charny, Chassey,
+
+Chevannay, Clamerey, Corrombles, Corsaint, Courcelles-Frémoy, Courcelles-lès-Semur, Dampierre-en-Montagne, Dompierre-en-Morvan, Epoisses, Flée, Fontangy, Forléans, Genay, Gissey-le-Vieil, Jeux-lès-Bard, Juillenay, Juilly, Lacour-d'Arcenay, Lantilly, Magny-la-Ville, Marcellois, Marcigny-sous-Thil, Marcilly-et-Dracy, Massingy-lès-Semur, Massingy-lès-Vitteaux, Millery, Missery, Molphey, Montberthault, Montigny-Saint-Barthélemy, Montigny-sur-Armançon, Montlay-en-Auxois, La Motte-Ternant, Nan-sous-Thil, Noidan, Normier, Pont-et-Massène, Posanges, Précy-sous-Thil, La Roche-en-Brenil, Roilly, Rouvray, Saffres, Saint-Andeux, Saint-Didier, Saint-Euphrône, Saint-Germain-de-Modéon, Saint-Hélier, Saint-Mesmin, Saint-Thibault, Sainte-Colombe, Saulieu, Semur-en-Auxois, Sincey-lès-Rouvray, Souhey, Soussey-sur-Brionne, Thoisy-la-Berchère, Thorey-sous-Charny, Thoste, Torcy-et-Pouligny, Toutry, Uncey-le-Franc, Velogny, Vesvres, Vic-de-Chassenay, Vic-sous-Thil, Vieux-Château, Villargoix, Villars-et-Villenotte, Villeberny, Villeferry, Villeneuve-sous-Charigny, Villy-en-Auxois, Vitteaux.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Semur-en-Auxois.

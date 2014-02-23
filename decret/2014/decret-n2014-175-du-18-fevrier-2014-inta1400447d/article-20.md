@@ -1,0 +1,5 @@
+# Article 20
+
+Le canton n° 19 (Montbard) comprend les communes suivantes : Alise-Sainte-Reine, Arrans, Asnières-en-Montagne, Athie, Benoisey, Boux-sous-Salmaise, Buffon, Bussy-le-Grand, Champ-d'Oiseau, Charencey, Corpoyer-la-Chapelle, Courcelles-lès-Montbard, Crépand, Darcey, Eringes, Etais, Fain-lès-Montbard, Fain-lès-Moutiers, Flavigny-sur-Ozerain, Fontaines-les-Sèches, Fresnes, Frôlois, Gissey-sous-Flavigny, Grésigny-Sainte-Reine, Grignon, Hauteroche, Jailly-les-Moulins, Lucenay-le-Duc, Marigny-le-Cahouët, Marmagne, Ménétreux-le-Pitois, Montbard, Montigny-Montfort, Moutiers-Saint-Jean, Mussy-la-Fosse, Nesle-et-Massoult, Nogent-lès-Montbard, Planay, Pouillenay, Quincerot, Quincy-le-Vicomte, La Roche-Vanneau, Rougemont, Saint-Germain-lès-Senailly, Saint-Rémy, Salmaise, Seigny, Senailly, Source-Seine, Thenissey, Touillon, Venarey-les-Laumes, Verdonnet, Verrey-sous-Salmaise, Villaines-les-Prévôtes, La Villeneuve-les-Convers, Viserny.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Montbard.
