@@ -1,11 +1,9 @@
 # Article 3
 
-Le titre professionnel d'agent(e) magasinier(ère) est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel d'agent (e) magasinier (ère) est composé des deux unités constitutives suivantes :
 
-1. Traiter des commandes de produits pour assurer leur expédition aux destinataires ;
+1. Effectuer la réception de marchandises, la mise en stock et le suivi des articles.
 
-2. Effectuer les opérations de réception des commandes « fournisseur » ;
+2. Traiter les commandes de produits et les mettre à disposition des clients.
 
-3. Mettre les produits en stock et assurer le suivi du stock physique et informatisé.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
