@@ -1,6 +1,6 @@
 # Article 7
 
-Les moyens financiers consacrés à la mise en œuvre du programme national de rénovation urbaine, entre 2004 et 2013, sont fixés à 12 milliards d'euros.
+Les moyens financiers consacrés à la mise en œuvre du programme national de rénovation urbaine, entre 2004 et 2015, sont fixés à 12 milliards d'euros.
 
 Ces moyens sont affectés à l'Agence nationale pour la rénovation urbaine, créée par l'article 10, à partir des contributions versées, notamment, par l'Etat et l'Union d'économie sociale du logement mentionnée à l'article L. 313-17 du code de la construction et de l'habitation.
 

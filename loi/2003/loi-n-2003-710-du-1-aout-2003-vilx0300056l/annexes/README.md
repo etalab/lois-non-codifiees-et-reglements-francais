@@ -1,3 +1,0 @@
-# Annexes
-
-- [OBJECTIFS ET INDICATEURS DE LA POLITIQUE DE LA VILLE.](objectifs-et)

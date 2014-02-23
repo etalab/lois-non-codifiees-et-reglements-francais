@@ -4,4 +4,3 @@
 - [Titre II : Développement économique des quartiers prioritaires](titre-ii)
 - [Titre III : Procédure de rétablissement personnel](titre-iii)
 - [Titre IV : Dispositions diverses](titre-iv)
-- [Annexes](annexes)

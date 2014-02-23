@@ -1,6 +1,6 @@
 # Article 1
 
-Constitue une discrimination directe la situation dans laquelle, sur le fondement de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie ou une race, sa religion, ses convictions, son âge, son handicap, son orientation ou identité sexuelle ou son sexe, une personne est traitée de manière moins favorable qu'une autre ne l'est, ne l'a été ou ne l'aura été dans une situation comparable.
+Constitue une discrimination directe la situation dans laquelle, sur le fondement de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie ou une race, sa religion, ses convictions, son âge, son handicap, son orientation ou identité sexuelle, son sexe ou son lieu de résidence, une personne est traitée de manière moins favorable qu'une autre ne l'est, ne l'a été ou ne l'aura été dans une situation comparable.
 
 Constitue une discrimination indirecte une disposition, un critère ou une pratique neutre en apparence, mais susceptible d'entraîner, pour l'un des motifs mentionnés au premier alinéa, un désavantage particulier pour des personnes par rapport à d'autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour réaliser ce but ne soient nécessaires et appropriés.
 

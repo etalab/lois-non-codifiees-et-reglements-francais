@@ -1,3 +1,0 @@
-# Article 3
-
-Il est créé, auprès du ministre chargé de la ville, un Observatoire national des zones urbaines sensibles chargé de mesurer l'évolution des inégalités sociales et des écarts de développement dans chacune des zones urbaines sensibles, de suivre la mise en oeuvre des politiques publiques conduites en leur faveur, de mesurer les moyens spécifiques mis en oeuvre et d'en évaluer les effets par rapport aux objectifs et aux indicateurs de résultats mentionnés à l'annexe 1 de la présente loi. L'Etat, les collectivités territoriales et leurs établissements publics respectifs lui communiquent les éléments nécessaires à l'accomplissement de sa mission, sous réserve de l'application des dispositions législatives imposant une obligation de secret.
