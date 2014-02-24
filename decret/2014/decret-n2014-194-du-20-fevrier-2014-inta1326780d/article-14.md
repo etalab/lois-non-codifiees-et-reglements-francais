@@ -1,0 +1,5 @@
+# Article 14
+
+Le canton n° 13 (Limoges-6) comprend la partie de la commune de Limoges incluse dans le périmètre défini par l'axe des voies et limites suivantes : rue François-Chenieux, rond-point de Carnot, avenue du Général-Leclerc, avenue Lucien-Faure, rue de Fontaury, rue de la Passerelle, rue du Chinchauvaud, ligne de chemin de fer, rue Auguste-Rodin, rue du Chinchauvaud, rue Aristide-Briand, cours Gay-Lussac, cours Vergniaud, cours Bugeaud, avenue du Général-de-Gaulle, place Jourdan, rue Porte-Tourny, rue Saint-Pierre, rue Rafilhoux, avenue Jean-Jaurès, boulevard Louis-Blanc, avenue Baudin, rue Ferdinand-Buisson, rue du Clos-Adrien, avenue Ernest-Ruben, rue Pétiniaud-Beaupeyrat, cours Jean-Pénicaud, avenue Saint-Eloi, rue Paul-Derignac, rue Montalembert, rue François-Perrin, rue du Clos-Rocher, rue Armand-Dutreix, rue Victor-Chabot, rue d'Antony, avenue des Ruchoux, rue La Boétie, rue des Arts, rue Montmailler, avenue Berthelot, rue Gustave-Nadaud, rue des Coopérateurs.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Limoges.

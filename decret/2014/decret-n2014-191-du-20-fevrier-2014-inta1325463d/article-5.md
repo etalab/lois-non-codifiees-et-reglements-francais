@@ -1,0 +1,5 @@
+# Article 5
+
+Le canton n° 4 (Le Diois) comprend les communes suivantes : Aix-en-Diois, Arnayon, Aubenasson, Aucelon, Aurel, Barnave, Barsac, La Bâtie-des-Fonds, Beaumont-en-Diois, Beaurières, Bellegarde-en-Diois, Boulc, Brette, Chalancon, Chamaloc, Charens, Chastel-Arnaud, Châtillon-en-Diois, La Chaudière, Die, Espenel, Establet, Eygluy-Escoulin, Glandage, Gumiane, Jonchères, Laval-d'Aix, Lesches-en-Diois, Luc-en-Diois, Lus-la-Croix-Haute, Marignac-en-Diois, Menglon, Miscon, Molières-Glandaz, Montlaur-en-Diois, Montmaur-en-Diois, La Motte-Chalancon, Pennes-le-Sec, Ponet-et-Saint-Auban, Pontaix, Poyols, Pradelle, Les Prés, Recoubeau-Jansac, Rimon-et-Savel, Rochefourchat, Romeyer, Rottier, Saillans, Saint-Andéol, Saint-Benoit-en-Diois, Saint-Dizier-en-Diois, Saint-Julien-en-Quint, Saint-Nazaire-le-Désert, Saint-Roman, Saint-Sauveur-en-Diois, Sainte-Croix, Treschenu-Creyers, Vachères-en-Quint, Val-Maravel, Valdrôme, Vercheny, Véronne, Volvent.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Die.
