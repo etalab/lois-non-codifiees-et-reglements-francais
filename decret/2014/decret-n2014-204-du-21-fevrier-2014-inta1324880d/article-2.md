@@ -1,0 +1,5 @@
+# Article 2
+
+Le canton n° 1 (Bram) comprend les communes suivantes : Alaigne, Baraigne, Belflou, Bellegarde-du-Razès, Belpech, Belvèze-du-Razès, Bram, Brézilhac, Brugairolles, Cahuzac, Cailhau, Cailhavel, Cambieure, La Cassaigne, Cazalrenoux, La Courtète, Cumiès, Donazac, Escueillens-et-Saint-Just-de-Bélengard, Fajac-la-Relenque, Fanjeaux, Fenouillet-du-Razès, Ferran, Fonters-du-Razès, La Force, Gaja-la-Selve, Generville, Gourvieille, Gramazie, Hounoux, Lafage, Lasserre-de-Prouille, Laurabuc, Laurac, Lauraguel, Lignairolles, La Louvière-Lauragais, Malviès, Marquein, Mayreville, Mazerolles-du-Razès, Mézerville, Mireval-Lauragais, Molandier, Molleville, Montauriol, Montgradail, Monthaut, Orsans, Payra-sur-l'Hers, Pech-Luna, Pécharic-et-le-Py, Pexiora, Peyrefitte-sur-l'Hers, Plaigne, Plavilla, Pomy, Ribouisse, Routier, Saint-Amans, Saint-Gaudéric, Saint-Julien-de-Briola, Saint-Michel-de-Lanès, Saint-Sernin, Sainte-Camelle, Salles-sur-l'Hers, Seignalens, Villarzel-du-Razès, Villasavary, Villautou, Villepinte, Villesiscle.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Bram.

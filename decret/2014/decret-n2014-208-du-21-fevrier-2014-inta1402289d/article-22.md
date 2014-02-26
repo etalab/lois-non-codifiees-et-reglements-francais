@@ -1,0 +1,5 @@
+# Article 22
+
+Le canton n° 21 (Sézanne-Brie et Champagne) comprend les communes suivantes : Allemant, Barbonne-Fayel, Bergères-sous-Montmirail, Bethon, Boissy-le-Repos, Bouchy-Saint-Genest, Broussy-le-Petit, Broyes, Champguyon, Chantemerle, Charleville, Châtillon-sur-Morin, Chichey, Corfélix, Corrobert, Courgivaux, Escardes, Les Essarts-le-Vicomte, Les Essarts-lès-Sézanne, Esternay, Fontaine-Denis-Nuisy, La Forestière, Fromentières, Le Gault-Soigny, Gaye, Janvilliers, Joiselle, Lachy, Linthelles, Linthes, Mécringes, Le Meix-Saint-Epoing, Mœurs-Verdey, Mondement-Montgivroux, Montgenost, Montmirail, Morsains, Nesle-la-Reposte, Neuvy, La Noue, Oyes, Péas, Queudes, Reuves, Réveillon, Rieux, Saint-Bon, Saint-Loup, Saint-Remy-sous-Broyes, Saudoy, Sézanne, Soizy-aux-Bois, Le Thoult-Trosnay, Tréfols, Vauchamps, Verdon, Le Vézier, Villeneuve-la-Lionne, La Villeneuve-lès-Charleville, Villeneuve-Saint-Vistre-et-Villevotte, Vindey.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Sézanne.

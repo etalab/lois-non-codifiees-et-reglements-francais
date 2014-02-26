@@ -1,0 +1,5 @@
+# Article 3
+
+Le canton n° 2 (Carcassonne-1) comprend la partie de la commune de Carcassonne située au nord d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Pennautier, sur le chemin de Fresquel au point de latitude nord 43° 23 et de longitude 2° 33, une ligne droite suivant la voie de desserte locale jusqu'à la rue Pierre-Pavanetto, ligne droite dans le prolongement de la rue Pierre-Pavanetto jusqu'à l'angle de la rue Louis-Blériot, route départementale 6113, avenue du Président-Franklin-Roosevelt, pont de la Paix, canal du Midi, passerelle, boulevard de Varsovie, boulevard Marcou, boulevard Barbès, boulevard du Commandant-Roumens, boulevard Camille-Pelletan, square Gambetta, rue Fédou, cours de l'Aude, route départementale 118, avenue Georges-Guille, rue Magellan, rue André-Jean-Cayatte, route départementale 49, avenue Claude-Bernard, chemin de Gougens, jusqu'à la limite territoriale de la commune de Villemoustaussou.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Carcassonne.

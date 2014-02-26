@@ -1,0 +1,5 @@
+# Article 23
+
+Le canton n° 22 (Vertus-Plaine Champenoise) comprend les communes suivantes : Allemanche-Launay-et-Soyer, Anglure, Angluzelles-et-Courcelles, Athis, Bagneux, Bannes, Baudement, Bergères-lès-Vertus, Broussy-le-Grand, La Celle-sous-Chantemerle, Chaintrix-Bierges, Chaltrait, La Chapelle-Lasson, Clamanges, Clesles, Conflans-sur-Seine, Connantray-Vaurefroy, Connantre, Corroy, Courcemain, Ecury-le-Repos, Esclavolles-Lurey, Etréchy, Euvy, Faux-Fresnay, Fère-Champenoise, Germinon, Gionges, Givry-lès-Loisy, Gourgançon, Granges-sur-Aube, Loisy-en-Brie, Marcilly-sur-Seine, Marigny, Marsangis, Le Mesnil-sur-Oger, Moslins, Oger, Ognes, Pierre-Morains, Pleurs, Pocancy, Potangis, Rouffy, Saint-Just-Sauvage, Saint-Mard-lès-Rouffy, Saint-Quentin-le-Verger, Saint-Saturnin, Saron-sur-Aube, Soulières, Thaas, Trécon, Val-des-Marais, Vélye, Vert-Toulon, Vertus, Villeneuve-Renneville-Chevigny, Villers-aux-Bois, Villeseneux, Villiers-aux-Corneilles, Voipreux, Vouarces, Vouzy.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Vertus.

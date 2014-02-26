@@ -1,0 +1,5 @@
+# Article 7
+
+Le canton n° 6 (Dormans-Paysages de Champagne) comprend les communes suivantes : Anthenay, Aougny, Le Baizil, Bannay, Baslieux-sous-Châtillon, Baye, Beaunay, Belval-sous-Châtillon, Binson-et-Orquigny, Bligny, Boursault, Le Breuil, Brouillet, La Caure, Chambrecy, Champaubert, Champlat-et-Boujacourt, Champvoisy, La Chapelle-sous-Orbais, Châtillon-sur-Marne, Chaumuzy, Coizard-Joches, Congy, Cormoyeux, Corribert, Courjeonnet, Courthiézy, Cuchery, Cuisles, Damery, Dormans, Etoges, Fèrebrianges, Festigny, Fleury-la-Rivière, Igny-Comblizy, Jonquery, Lagery, Leuvrigny, Lhéry, Mareuil-en-Brie, Mareuil-le-Port, Marfaux, Margny, Montmort-Lucy, Nesle-le-Repons, La Neuville-aux-Larris, Œuilly, Olizy, Orbais-l'Abbaye, Passy-Grigny, Poilly, Pourcy, Reuil, Romery, Romigny, Saint-Martin-d'Ablois, Sainte-Gemme, Sarcy, Suizy-le-Franc, Talus-Saint-Prix, Tramery, Troissy, Vandières, Vauciennes, Venteuil, Verneuil, Ville-en-Tardenois, La Ville-sous-Orbais, Villers-sous-Châtillon, Villevenard, Vincelles.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Dormans.
