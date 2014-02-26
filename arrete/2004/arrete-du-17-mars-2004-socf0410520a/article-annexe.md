@@ -1,10 +1,6 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
-
-Intitulé :
 
 Titre professionnel : monteur levageur.
 
@@ -14,55 +10,51 @@ Code NSF : 254 s.
 
 Résumé du référentiel d'emploi
 
-Le monteur levageur assemble, au sol et en hauteur, tous les éléments qui constituent l'ossature d'immeubles, de hangars, d'usines ou de grandes surfaces. Le levage est assuré par un ou plusieurs conducteurs de grues mobiles dont le monteur levageur commande la manoeuvre, quelles que soient les charges soulevées et le type de matériel utilisé sur le chantier. Il réalise aussi le montage et démontage des grues à tour. Dans tous les cas, il prépare le chantier, assure la sécurité, décharge les éléments constitutifs de l'ouvrage, réalise l'assemblage au sol, l'élingage pour l'opération de levage, l'assemblage en hauteur, et enfin les réglages de finition.
+Le monteur levageur est un professionnel qui construit au sol et en hauteur, en équipe, des ouvrages du bâtiment et des travaux publics, sous la responsabilité d'un chef d'équipe. Pour le levage, une grue mobile ou grue à tour avec son conducteur sont mis à la disposition de l'équipe de montage levage. Le monteur levageur n'est pas le conducteur de la grue. Il assure l'accrochage des charges, il guide les manœuvres du grutier en utilisant les gestes conventionnels.
 
-Le monteur levageur travaille en équipe sous les directives d'un chef d'équipe. L'emploi est non sédentaire. La mobilité est au minimum régionale, mais souvent nationale voire internationale. Les activités s'exerceront en plein air, en hauteur et en toutes saisons. Les horaires sont réguliers ; cependant, des impératifs de délais peuvent occasionner des dépassements. L'éloignement fréquent du lieu de travail implique un temps de déplacement et nécessite souvent un hébergement à proximité. L'utilisation des plates-formes élévatrices mobiles de personnes (PEMP) améliore les conditions de travail en hauteur, même si la manipulation de certains outillages impose une bonne condition physique.
+Les ouvrages érigés sont principalement des ossatures d'immeubles, d'usines et de grandes surfaces. Les structures sont en acier, bois ou béton. Le monteur levageur assure les différentes phases liées au montage levage quels que soient le type de matériel utilisé et les charges soulevées.
+
+L'emploi est non sédentaire. La mobilité est au minimum régionale mais souvent nationale voire internationale. Les réalisations sont principalement en plein air, en hauteur et en toutes saisons. L'éloignement fréquent du lieu de travail implique un temps de déplacement et une vie hebdomadaire à proximité du chantier. Le travail en hauteur, bien que largement aidé par les engins de levage, demeure physique.
+
+Le monteur levageur réalise son activité dans le respect des règles de sécurité individuelles et collectives (et, s'il existe, en application du PPSPS, sinon du plan de prévention).
+
+Le monteur levageur déplace et manœuvre des plates-formes élévatrices automotrices multidirectionnelles PEMP (plate-forme élévatrice mobile de personnel) catégorie 3B. Pour les opérations de déchargement et de préparation du chantier. Pour la conduite de cet engin, le monteur détient l'autorisation de conduite délivrée par son employeur. La capacité à conduire la PEMP est indispensable pour accéder à l'emploi.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser le montage-levage, en sécurité,
+Réaliser le montage levage de structures préfabriquées
 
-de structures préfabriquées du bâtiment et travaux publics
+du bâtiment et des travaux publics
 
-Diriger des manoeuvres de levage en appliquant les gestes de commandement.
+Conduire et utiliser, en sécurité, les plates-formes élévatrices mobiles de personnel (PEMP), suivant la recommandation CNAM R 386M.
 
-Assembler et adapter au sol et en hauteur des sous-ensembles préfabriqués en respectant des indications écrites.
+Pré-assembler au sol des éléments de structures.
 
-Participer à la vérification des implantations et des altitudes sur un chantier de construction.
+Diriger le levage et assembler en hauteur des structures.
 
-Contrôler et régler les alignements, l'horizontalité, la verticalité et les assemblages réalisés.
-
-Conduire et utiliser, en sécurité, les plates-formes élévatrices mobiles de personne (PEMP) suivant la recommandation CNAM (R 386M).
-
-Mettre en oeuvre les élingues et les apparaux de levage.
-
-2. Réaliser le montage-levage, en sécurité, d'appareil de levage
-
-et des biens d'équipement industriel
-
-Monter et démonter, au sol et en hauteur, des équipements industriels.
-
-Monter et démonter, au sol et en hauteur, des équipements de levage et manutention.
-
-Diriger des manoeuvres de levage en appliquant les gestes de commandement.
-
-Mettre en oeuvre les élingues et les apparaux de levage.
-
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Entreprises de montage levage.
+Les entreprises de montage levage.
+
+Les entreprises de charpentes métalliques, bois lamellé collé et béton.
+
+Les entreprises de travail temporaire.
+
+Monteur levageur.
+
+Monteur en structures métalliques.
 
 Code ROME :
 
-42121 - Monteur(se) en structures métalliques.
+F1502-Montage de structures métalliques.
 
 Réglementation de l'activité :
 
-Recommandation CNAM R 386M pour la conduite de plates-formes élévatrices mobiles de personnes (PEMP).
+La conduite des engins servant au levage, des charges et/ ou des personnes, est réservée aux travailleurs qui ont reçu une formation adéquate (art. R. 4323-55 du code du travail).
 
 Autorité responsable de la certification :
 
@@ -70,8 +62,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
