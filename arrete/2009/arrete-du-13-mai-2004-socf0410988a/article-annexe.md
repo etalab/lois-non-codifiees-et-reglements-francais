@@ -2,94 +2,134 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : technicien (ne) d'exploitation en transports terrestres de marchandises.
+Intitulé : technicien (ne) d'exploitation en transports terrestres de marchandises
 
 Niveau : IV.
 
-Code NSF : 311.
+Code NSF : 311 t.
 
 Résumé du référentiel d'emploi
 
-Le technicien d'exploitation organise, optimise et suit l'ensemble des prestations de transport terrestre de marchandises commandées par les clients internes ou externes à son entreprise. Il agit dans un souci d'efficacité commerciale, administrative, financière et technique et en conformité avec les réglementations applicables.
+Dans le respect de la réglementation, le (la) technicien (ne) d'exploitation en transports terrestres de marchandises organise l'ensemble de la prestation de transport terrestre de marchandises dans un but d'optimisation des moyens et de la satisfaction client.
 
-En fonction des caractéristiques de chaque demande, le technicien d'exploitation affecte les moyens humains et matériels nécessaires. Il organise à partir de moyens de transport terrestre (route, rail, fleuve) le déplacement des marchandises, adapte au quotidien les moyens de transport à la charge de travail, suit le déroulement des opérations de transport et connexes. Il coordonne l'activité de plusieurs opérateurs et assure la traçabilité des opérations. Il veille à la conformité des opérations afin de prévenir tout risque de réclamations et de litiges et traite les dysfonctionnements dans le respect du contrat de transport. Il s'assure de la bonne fin des opérations, valide les documents, clôt le dossier transport et traite des dossiers de litiges, le cas échéant.
+En fonction des caractéristiques de la commande, il (elle) vérifie leur faisabilité par les moyens propres de l'entreprise ou décide de la faire réaliser par un autre transporteur. En cas de besoin, il (elle) cherche de la marchandise à transporter ou en propose à d'autres transporteurs. Il peut utiliser les bourses de fret sur internet.
 
-L'emploi de technicien (ne) d'exploitation en transports de marchandises requiert de l'autonomie dans l'organisation de son travail et de la réactivité aux aléas. Il (elle) travaille seul (e) ou en équipe.L'usage de l'anglais professionnel est souvent nécessaire.
+Afin d'engager le contrat de transport, le (la) technicien (ne) d'exploitation en transports terrestres de marchandises enregistre la commande.
 
-L'emploi s'exerce principalement en bureau avec de fréquentes interventions extérieures, sur le quai ou sur les zones d'entreposage, où il peut être soumis à des niveaux sonores importants ou à des basses températures.
+Il (elle) affecte les véhicules aux conducteurs et organise le transport dans un souci d'efficacité technique, financière, commerciale, administrative et environnementale. Il (elle) peut coordonner l'activité de plusieurs opérateurs. Il (elle) suit l'activité des conducteurs et les assiste à distance en cas d'imprévu.
 
-Les horaires de travail sont réguliers et peuvent dans certains cas supposer un travail posté de nuit et en fin de semaine.
+Pour disposer à chaque instant d'informations exactes sur l'activité en cours, le (la) technicien (ne) d'exploitation en transports terrestres de marchandises tient à jour les plannings et les tableaux de bord. Le (la) technicien (ne) d'exploitation en transports terrestres de marchandises assure la traçabilité des opérations, prévient les réclamations et les litiges et traite les dysfonctionnements dans le respect du contrat de transport. Il (elle) s'assure du bon déroulement des opérations, valide les documents, clôt le dossier transport et transmet les éléments pour la facturation aux services concernés.
+
+En cas de litige relevant de ses attributions, il (elle) détermine l'indemnisation du client dans le respect de la réglementation et des procédures de l'entreprise.
+
+Il (elle) utilise l'anglais au niveau A2 du cadre européen commun de référence pour les langues
+
+Il (elle) utilise le vocabulaire technique fréquemment employé dans le domaine du transport terrestre.
+
+Le (la) technicien (ne) d'exploitation en transports terrestres de marchandises travaille seul (e) ou en équipe sous la responsabilité du responsable d'exploitation. Il (elle) respecte les procédures de l'entreprise et la réglementation, rend compte régulièrement à sa hiérarchie et l'alerte en cas de dysfonctionnement dépassant le cadre de ses attributions. Il (elle) peut être force de proposition pour améliorer la qualité de service.
+
+Il (elle) réagit rapidement en cas d'imprévu et modifie ses priorités.
+
+Le (la) technicien (ne) d'exploitation en transports terrestres de marchandises communique fréquemment par téléphone. Il est quotidiennement en relation avec les clients, les conducteurs, les personnels des autres services et de nombreux interlocuteurs externes.
+
+L'activité de ce métier s'exerce au sein d'entreprises de messagerie, de transport routier de marchandises ou dans les services transport d'entreprises. Les conditions d'exercice varient selon la taille de l'entreprise.
+
+L'emploi est sédentaire et s'exerce au sein d'un service d'exploitation. En fonction des contraintes de l'activité du site, les horaires de travail peuvent être décalés ou postés et des astreintes sont possibles.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Prendre, rechercher et traiter
+1. Prendre, rechercher et traiter les commandes
 
-les commandes de transport de marchandises
+de transports terrestres de marchandises
 
-Réceptionner et sélectionner une commande de transport de marchandises qui peut être rédigée en anglais.
+Enregistrer une commande de transport, y compris rédigée en anglais, et en vérifier la faisabilité.
 
-Rechercher, sélectionner et remettre du fret.
+Remettre du fret et en rechercher.
 
-Négocier, en anglais si nécessaire, les conditions de réalisation du transport dans la limite de sa délégation.
+Etudier et choisir une solution de transport.
 
-2. Planifier et affecter les ressources humaines et matérielles
+2. Organiser une opération de transport terrestre
 
-en transport de marchandises
-
-Rechercher et choisir une solution de transport appropriée.
+de marchandises
 
 Affecter les moyens et rassembler les documents nécessaires à la réalisation de l'opération de transport.
 
 Mettre à jour et contrôler les plannings d'exploitation des transports.
 
-Transmettre, en anglais si nécessaire, les instructions aux opérateurs et les informations aux clients, autres prestataires et sous-traitants.
+Assurer l'appui aux conducteurs.
 
-3. Organiser et suivre une opération de transport terrestre
+Assurer le suivi des différentes phases de transport, y compris en anglais.
 
-national et international et remédier aux aléas
+Clore le dossier de transport de marchandises et en assurer la traçabilité.
 
-Assurer le suivi de la réalisation des différentes phases du transport de marchandises.
+3. Suivre la qualité de service, prévenir et traiter les litiges
 
-Assurer l'appui aux conducteurs et animer une équipe d'opérateurs, en anglais si nécessaire.
+Constituer un dossier litige relatif au transport de marchandises.
 
-Constituer, alimenter, clore le dossier de transport de marchandises et en assurer la traçabilité.
+Traiter les litiges.
 
-4. Prévenir et traiter les litiges relatifs au transport
+Renseigner les tableaux de bord et outils de suivi qualité et satisfaction client.
 
-de marchandises, dans la limite de sa délégation
+Compétences transversales de l'emploi (le cas échéant)
 
-Mettre en œuvre les procédures destinées à la prévention des litiges et des réclamations.
+Communiquer oralement avec les interlocuteurs d'un service d'exploitation des transports, y compris en anglais.
 
-Constituer et instruire un dossier litiges relatif au transport de marchandises.
+Organiser son activité en s'adaptant aux priorités d'un service exploitation des transports.
 
-Apporter des solutions aux litiges et réclamations relatifs au transport de marchandises, dans la limite de sa délégation, et en rendre compte, y compris en anglais.
-
-Secteurs d'activité ou types d'emploi
+Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi s'exerce au sein de plusieurs types d'entreprise : transport pour compte d'autrui, transport pour compte propre, et concerne le transport terrestre de marchandises à dominante routier.
+Les différents secteurs d'activités concernés sont principalement :
+
+Les entreprises de service, du secteur transport et logistique.
+
+Les entreprises industrielles et commerciales comportant des activités de transport de marchandises.
+
+Les types d'emplois accessibles sont les suivants :
+
+-agent d'exploitation ;
+
+-agent de planning ;
+
+-affréteur ;
+
+-assistant d'exploitation ;
+
+-dispatcheur/ répartiteur transport routier de marchandises ;
+
+-exploitant ;
+
+-employé du service exploitation ;
+
+-technicien d'exploitation ;
+
+-responsable camionnage ;
+
+-agent litiges transport de marchandises.
 
 Codes ROME :
 
-43333-Litigeur transport.
+N4203-Intervention technique d'exploitation des transports routiers de marchandises ;
 
-43332-Affréteur.
-
-43331-Personnel administratif de la circulation internationale des marchandises.
+N1201-Affrètement transport.
 
 Réglementation de l'activité :
 
-Aucune réglementation spécifique.
+Néant.
 
 Autorité responsable de la certification :
 
-Le ministère chargé de l'emploi.
+Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Aucune base spécifique.
+Code de l'éducation, articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
+
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 5 juin 2014.

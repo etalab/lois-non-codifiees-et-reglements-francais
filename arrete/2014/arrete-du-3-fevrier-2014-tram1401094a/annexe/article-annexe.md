@@ -1,8 +1,6 @@
 # Article Annexe
 
-CONTINGENTS (*) DE PUISSANCE ET DE JAUGE EN FONCTION
-
-DES RÉGIONS ET DES CATÉGORIES DE PME
+CONTINGENTS (*) DE PUISSANCE ET DE JAUGE EN FONCTION DES RÉGIONS ET DES CATÉGORIES DE PME
 
 Tableau 1
 
@@ -13,27 +11,31 @@ Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 <table>
 <tbody>
 <tr>
-<th>RÉGIONS<br/>
-</th>
-<th>JAUGE UMS<br/>
-</th>
-<th>PUISSANCE kW<br/>
-</th>
-<th>UMS'S<br/>
-</th>
+<td>
+<p align="center">RÉGIONS</p>
+</td>
+<td>
+<p align="center">JAUGE UMS</p>
+</td>
+<td>
+<p align="center">PUISSANCE kW</p>
+</td>
+<td align="center">UMS'S</td>
 </tr>
 <tr>
-<td align="center">Moins de 25 m :<br/>
+<td align="center">
+<p align="left">Moins de 25 m :<br/>
+</p>
 </td>
-<td align="center">87,54<br/>
-</td>
-<td align="center">1 010<br/>
-</td>
+<td align="center">142,90</td>
+<td align="center">1 495</td>
 <td align="center">0<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Dont Aquitaine<br/>
+<td align="center">
+<p align="left">Dont Aquitaine<br/>
+</p>
 </td>
 <td align="center">13,70<br/>
 </td>
@@ -43,7 +45,23 @@ Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 </td>
 </tr>
 <tr>
-<td align="center">Dont Bretagne<br/>
+<td>
+<p align="left">Dont Basse-Normandie</p>
+</td>
+<td>
+<p align="center">55,36</p>
+</td>
+<td>
+<p align="center">485</p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Dont Bretagne<br/>
+</p>
 </td>
 <td align="center">53,06<br/>
 </td>
@@ -53,7 +71,9 @@ Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 </td>
 </tr>
 <tr>
-<td align="center">Dont Corse<br/>
+<td align="center">
+<p align="left">Dont Corse<br/>
+</p>
 </td>
 <td align="center">7,34<br/>
 </td>
@@ -63,7 +83,9 @@ Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 </td>
 </tr>
 <tr>
-<td align="center">Dont Nord - Pas-de-Calais<br/>
+<td align="center">
+<p align="left">Dont Nord - Pas-de-Calais<br/>
+</p>
 </td>
 <td align="center">11,60<br/>
 </td>
@@ -73,7 +95,9 @@ Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 </td>
 </tr>
 <tr>
-<td align="center">Dont PACA<br/>
+<td align="center">
+<p align="left">Dont PACA<br/>
+</p>
 </td>
 <td align="center">1,84<br/>
 </td>
@@ -89,24 +113,32 @@ Renouvellement de navires sans augmentation de capacité ou 1 pour 1
 
 Tableau 2
 
-Permis de mise en exploitation  autre
+Permis de mise en exploitation autre
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>RÉGIONS<br/>
-</th>
-<th>JAUGE UMS<br/>
-</th>
-<th>PUISSANCE kW<br/>
-</th>
-<th>UMS'S<br/>
-</th>
+<td>
+<p align="center">RÉGIONS<br/>
+</p>
+</td>
+<td>
+<p align="center">JAUGE UMS</p>
+</td>
+<td>
+<p align="center">PUISSANCE kW</p>
+</td>
+<td>
+<p align="center">UMS'S<br/>
+</p>
+</td>
 </tr>
 <tr>
-<td align="center">Plus de 25 m :<br/>
+<td align="center">
+<p align="left">Plus de 25 m :<br/>
+</p>
 </td>
 <td align="center">393,00<br/>
 </td>
@@ -116,17 +148,19 @@ Permis de mise en exploitation  autre
 </td>
 </tr>
 <tr>
-<td align="center">Moins de 25 m :<br/>
+<td align="center">
+<p align="left">Moins de 25 m :<br/>
+</p>
 </td>
-<td align="center">382,53<br/>
-</td>
-<td align="center">4 268<br/>
-</td>
+<td align="center">436,97</td>
+<td align="center">4 688</td>
 <td align="center">0<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Dont Aquitaine<br/>
+<td align="center">
+<p align="left">Dont Aquitaine<br/>
+</p>
 </td>
 <td align="center">11,77<br/>
 </td>
@@ -136,17 +170,20 @@ Permis de mise en exploitation  autre
 </td>
 </tr>
 <tr>
-<td align="center">Dont Basse-Normandie<br/>
+<td align="center">
+<p align="left">Dont Basse-Normandie<br/>
+</p>
 </td>
-<td align="center">73,99<br/>
-</td>
-<td align="center">761<br/>
+<td align="center">128,43</td>
+<td align="center">1 136<br/>
 </td>
 <td align="center">0<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Dont Bretagne<br/>
+<td align="center">
+<p align="left">Dont Bretagne<br/>
+</p>
 </td>
 <td align="center">26,87<br/>
 </td>
@@ -156,7 +193,9 @@ Permis de mise en exploitation  autre
 </td>
 </tr>
 <tr>
-<td align="center">Dont Corse<br/>
+<td align="center">
+<p align="left">Dont Corse<br/>
+</p>
 </td>
 <td align="center">2,91<br/>
 </td>
@@ -166,7 +205,9 @@ Permis de mise en exploitation  autre
 </td>
 </tr>
 <tr>
-<td align="center">Dont Languedoc-Roussillon<br/>
+<td align="center">
+<p align="left">Dont Languedoc-Roussillon<br/>
+</p>
 </td>
 <td align="center">11,17<br/>
 </td>
@@ -176,17 +217,21 @@ Permis de mise en exploitation  autre
 </td>
 </tr>
 <tr>
-<td align="center">Dont PACA<br/>
+<td align="center">
+<p align="left">Dont PACA<br/>
+</p>
 </td>
 <td align="center">24,99<br/>
 </td>
-<td align="center">438<br/>
+<td align="center">483<br/>
 </td>
 <td align="center">0<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Dont Pays de la Loire<br/>
+<td align="center">
+<p align="left">Dont Pays de la Loire<br/>
+</p>
 </td>
 <td align="center">228,83<br/>
 </td>
@@ -196,7 +241,9 @@ Permis de mise en exploitation  autre
 </td>
 </tr>
 <tr>
-<td align="center">Dont Poitou-Charentes<br/>
+<td align="center">
+<p align="left">Dont Poitou-Charentes<br/>
+</p>
 </td>
 <td align="center">2,00<br/>
 </td>
@@ -212,24 +259,29 @@ Permis de mise en exploitation  autre
 
 Tableau 3
 
-Permis de mise en exploitation  de droit
+Permis de mise en exploitation de droit
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>RÉGIONS<br/>
-</th>
-<th>JAUGE UMS<br/>
-</th>
-<th>PUISSANCE kW<br/>
-</th>
-<th>UMS'S<br/>
-</th>
+<td>
+<p align="center">RÉGIONS<br/>
+</p>
+</td>
+<td>
+<p align="center">JAUGE UMS</p>
+</td>
+<td>PUISSANCE kW<br/>
+</td>
+<td align="center">UMS'S<br/>
+</td>
 </tr>
 <tr>
-<td align="center">Moins de 25 m :<br/>
+<td align="center">
+<p align="left">Moins de 25 m :<br/>
+</p>
 </td>
 <td align="center">16,96<br/>
 </td>
@@ -239,7 +291,9 @@ Permis de mise en exploitation  de droit
 </td>
 </tr>
 <tr>
-<td align="center">Dont Basse-Normandie<br/>
+<td align="center">
+<p align="left">Dont Basse-Normandie<br/>
+</p>
 </td>
 <td align="center">16,22<br/>
 </td>
@@ -249,7 +303,9 @@ Permis de mise en exploitation  de droit
 </td>
 </tr>
 <tr>
-<td align="center">Dont Corse<br/>
+<td align="center">
+<p align="left">Dont Corse<br/>
+</p>
 </td>
 <td align="center">0,74<br/>
 </td>
