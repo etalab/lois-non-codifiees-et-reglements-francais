@@ -14,10 +14,10 @@ Il est composé de huit membres titulaires et huit membres suppléants exerçant
 
 ― un procureur près un tribunal de grande instance ;
 
-― un directeur de greffe d'un tribunal de grande instance ;
+― un directeur de greffe ;
 
 ― un président de tribunal de commerce ;
 
 ― un président de conseil de prud'hommes ; le titulaire est un représentant des employeurs et le suppléant un représentant des salariés les années paires. Cet ordre est inversé les années impaires.
 
-Le chef de cabinet de la direction des services judiciaires ou son adjoint assure le secrétariat de ce comité.
+Le chef de cabinet de la direction des services judiciaires ou son adjoint ou, par délégation, le chef du pôle des distinctions honorifiques ou son adjoint assure le secrétariat de ce comité.
