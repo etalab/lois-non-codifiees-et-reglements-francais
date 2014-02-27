@@ -1819,7 +1819,6 @@
 - [Arrêté du 21 décembre 2009 (AGRG0927709A)](arrete-du-21-decembre-2009-agrg0927709a)
 - [Arrêté du 21 décembre 2009 (AGRS0927989A)](arrete-du-21-decembre-2009-agrs0927989a)
 - [Arrêté du 21 décembre 2009 (DEVA0930625A)](arrete-du-21-decembre-2009-deva0930625a)
-- [Arrêté du 21 décembre 2009 (DEVL0931165A)](arrete-du-21-decembre-2009-devl0931165a)
 - [Arrêté du 21 décembre 2009 (ECEP0931221A)](arrete-du-21-decembre-2009-ecep0931221a)
 - [Arrêté du 21 décembre 2009 (IOCA0931734A)](arrete-du-21-decembre-2009-ioca0931734a)
 - [Arrêté du 21 décembre 2009 (MCCB0930461A)](arrete-du-21-decembre-2009-mccb0930461a)
