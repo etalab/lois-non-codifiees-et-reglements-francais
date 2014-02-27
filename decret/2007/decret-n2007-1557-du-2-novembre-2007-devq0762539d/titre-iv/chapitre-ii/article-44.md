@@ -10,7 +10,9 @@ II.-Le décret autorisant la mise à l'arrêt définitif et le passage en phase 
 
 3° Fixe le délai dans lequel le passage en phase de surveillance doit être réalisé ;
 
-4° Peut modifier le décret d'autorisation de création de l'installation pour adapter, en fonction de l'avancement des opérations, la périodicité des réexamens de sûreté ou le périmètre de l'installation et fixer les conditions auxquelles cette adaptation est subordonnée.
+4° Peut modifier le décret d'autorisation de création de l'installation pour adapter, en fonction de l'avancement des opérations, la périodicité des réexamens de sûreté ou le périmètre de l'installation et fixer les conditions auxquelles cette adaptation est subordonnée ;
+
+5° Précise si l'installation nucléaire de base comprend un équipement ou une installation mentionné au premier alinéa de l'article L. 593-3 du code de l'environnement soumis aux dispositions de l'article L. 229-5 de ce même code.
 
 Les dispositions mentionnées au 4° ne prennent effet qu'après décision de l'Autorité de sûreté nucléaire constatant que les conditions fixées sont remplies. Cette décision fait l'objet des mesures de publication applicables aux autorisations de mise en service.
 

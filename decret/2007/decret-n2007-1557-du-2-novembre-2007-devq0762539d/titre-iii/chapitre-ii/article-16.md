@@ -22,4 +22,6 @@ Le périmètre peut toutefois exclure certains de ces installations, ouvrages ou
 
 5° Impose les éléments essentiels que requiert la protection des intérêts mentionnés au I de l'article 28 de la loi du 13 juin 2006 ; il peut subordonner à un accord des ministres chargés de la sûreté nucléaire ou de l'Autorité de sûreté nucléaire la réalisation de certaines opérations particulières en considération de leur impact sur ces intérêts ;
 
-6° Fixe la périodicité des réexamens de sûreté mentionnés au III de l'article 29 de la loi du 13 juin 2006 si les particularités de l'installation justifient que cette périodicité ne soit pas égale à dix ans et peut imposer l'intervention du premier réexamen de sûreté dans un délai particulier pour tenir compte des essais et des contrôles réalisés au début du fonctionnement de l'installation.
+6° Fixe la périodicité des réexamens de sûreté mentionnés au III de l'article 29 de la loi du 13 juin 2006 si les particularités de l'installation justifient que cette périodicité ne soit pas égale à dix ans et peut imposer l'intervention du premier réexamen de sûreté dans un délai particulier pour tenir compte des essais et des contrôles réalisés au début du fonctionnement de l'installation ;
+
+7° Mentionne si l'installation nucléaire de base comprend un équipement ou une installation mentionné au premier alinéa de l'article L. 593-3 du code de l'environnement soumis aux dispositions de l'article L. 229-5 de ce même code.

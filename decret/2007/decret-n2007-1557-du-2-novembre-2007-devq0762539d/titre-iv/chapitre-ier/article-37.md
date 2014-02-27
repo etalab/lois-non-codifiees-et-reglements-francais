@@ -14,9 +14,9 @@ La demande est accompagnée d'un dossier comprenant :
 
 3° Une mise à jour du plan de démantèlement décrivant les étapes envisagées pour le démantèlement et l'état du site après celui-ci ; ce plan présente les prévisions d'utilisation ultérieure du site et précise les mesures de surveillance et d'entretien qui seront nécessaires après le démantèlement ;
 
-4° Une carte au 1 / 25 000 indiquant la localisation de l'installation à démanteler ;
+4° Une carte au 1/25 000 indiquant la localisation de l'installation à démanteler ;
 
-5° Un plan de situation au 1 / 10 000 indiquant le périmètre de l'installation et mentionnant notamment les bâtiments avec leur affectation, les voies de chemin de fer, les voies publiques, les points d'eau, canaux et cours d'eau, les réseaux de transport d'énergie et de produits énergétiques ainsi que les servitudes d'utilité publique éventuellement instituées en application de l'article 31 de la loi du 13 juin 2006 ;
+5° Un plan de situation au 1/10 000 indiquant le périmètre de l'installation et mentionnant notamment les bâtiments avec leur affectation, les voies de chemin de fer, les voies publiques, les points d'eau, canaux et cours d'eau, les réseaux de transport d'énergie et de produits énergétiques ainsi que les servitudes d'utilité publique éventuellement instituées en application de l'article 31 de la loi du 13 juin 2006 ;
 
 6° Si la demande comprend une modification du périmètre de l'installation, une note présentant le nouveau périmètre demandé et les installations, ouvrages et équipements qu'il inclut en application du 2° du II de l'article 16 ;
 
@@ -28,7 +28,17 @@ La demande est accompagnée d'un dossier comprenant :
 
 10° Les règles générales de surveillance et d'entretien à observer, pour la protection des intérêts mentionnés au I de l'article 28 de la loi du 13 juin 2006, du début de la mise à l'arrêt définitif jusqu'à l'éventuel déclassement ;
 
-11° Le cas échéant, les servitudes d'utilité publique prévues à l'article 31 de la loi du 13 juin 2006 que l'exploitant propose d'instituer sur le terrain d'assiette de l'installation après son démantèlement, et les modifications qu'il propose d'apporter aux servitudes déjà instituées autour de ce site.
+11° Le cas échéant, les servitudes d'utilité publique prévues à l'article 31 de la loi du 13 juin 2006 que l'exploitant propose d'instituer sur le terrain d'assiette de l'installation après son démantèlement, et les modifications qu'il propose d'apporter aux servitudes déjà instituées autour de ce site ;
+
+12° Un document comportant la description si, après la mise à l'arrêt définitif, l'installation nucléaire de base comprend un équipement ou une installation mentionné au premier alinéa de l'article L. 593-3 du code de l'environnement soumis aux dispositions de l'article L. 229-5 de ce même code :
+
+a) Des matières premières et combustibles dont l'emploi est susceptible d'entraîner des émissions de gaz à effet de serre ;
+
+b) Des sources d'émission de ces gaz ;
+
+c) Des mesures prises pour quantifier les émissions dans le cadre d'un plan de surveillance qui réponde aux exigences du règlement visé à l'article 14 de la directive 2003/87/ CE du 13 octobre 2003 modifiée.
+
+Le dossier comprend également un résumé non technique des informations mentionnées aux a à c.
 
 L'exploitant peut fournir sous la forme d'un dossier séparé les éléments dont il estime que la divulgation serait de nature à porter atteinte à des intérêts visés au I de l'article L. 124-4 du code de l'environnement.
 

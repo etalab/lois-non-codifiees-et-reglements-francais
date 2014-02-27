@@ -4,7 +4,7 @@ I.-Lorsque l'Autorité de sûreté nucléaire prévoit d'édicter, pour l'applic
 
 II.-Lorsque les prescriptions envisagées sont relatives aux prélèvements d'eau, aux rejets d'effluents dans le milieu ambiant et à la prévention ou à la limitation des nuisances de l'installation pour le public et l'environnement, l'Autorité de sûreté nucléaire transmet le projet de prescriptions assorti d'un rapport de présentation au préfet mentionné au I de l'article 13 et à la commission locale d'information.
 
-Le préfet soumet le projet de prescriptions et le rapport de présentation au conseil départemental de l'environnement et des risques sanitaires et technologiques mentionné à l'article R. 1416-16 du code de la santé publique.L'exploitant a la faculté de se faire entendre par le conseil ou de désigner à cet effet un mandataire. Il est informé, par le préfet, au moins quinze jours à l'avance, de la date et du lieu de la réunion du conseil. Un représentant de la commission locale d'information peut se faire entendre dans les mêmes conditions. Le président de l'Autorité de sûreté nucléaire ou son représentant peut assister à la réunion du conseil départemental et y présenter ses observations. Le conseil départemental dispose d'un délai de trois mois pour émettre son avis, qui est transmis par le préfet à l'Autorité de sûreté nucléaire.
+Le préfet soumet le projet de prescriptions et le rapport de présentation au conseil départemental de l'environnement et des risques sanitaires et technologiques mentionné à l'article R. 1416-16 du code de la santé publique. L'exploitant a la faculté de se faire entendre par le conseil ou de désigner à cet effet un mandataire. Il est informé, par le préfet, au moins quinze jours à l'avance, de la date et du lieu de la réunion du conseil. Un représentant de la commission locale d'information peut se faire entendre dans les mêmes conditions. Le président de l'Autorité de sûreté nucléaire ou son représentant peut assister à la réunion du conseil départemental et y présenter ses observations. Le conseil départemental dispose d'un délai de trois mois pour émettre son avis, qui est transmis par le préfet à l'Autorité de sûreté nucléaire.
 
 Dans le même délai, la commission locale d'information peut adresser ses observations à l'Autorité de sûreté nucléaire.
 
@@ -24,13 +24,15 @@ IV.-Les prescriptions arrêtées par l'Autorité de sûreté nucléaire peuvent 
 
 5° La gestion des sources radioactives nécessaires au fonctionnement de l'installation, y compris en matière de transport de ces sources ;
 
-6° Les moyens nécessaires aux analyses et mesures utiles au contrôle de l'installation et à la surveillance de ses effets sur l'environnement, ainsi que les conditions dans lesquelles les résultats de ces analyses et mesures sont portés à la connaissance de l'Autorité de sûreté nucléaire et, le cas échéant, du service chargé de la police des eaux et de la              direction régionale de l'environnement, de l'aménagement et du logement  ;
+6° Les moyens nécessaires aux analyses et mesures utiles au contrôle de l'installation et à la surveillance de ses effets sur l'environnement, ainsi que les conditions dans lesquelles les résultats de ces analyses et mesures sont portés à la connaissance de l'Autorité de sûreté nucléaire et, le cas échéant, du service chargé de la police des eaux et de la direction régionale de l'environnement, de l'aménagement et du logement ;
 
 7° Les informations et rapports que l'exploitant doit fournir à l'Autorité de sûreté nucléaire périodiquement ou en cas de situation particulière ;
 
 8° Les modalités pratiques d'information du public sur la sûreté de l'installation et sur son impact sur la santé des personnes et sur l'environnement, ainsi que sur les actions à entreprendre en cas d'accident.
 
 Les prescriptions peuvent subordonner à l'accord de l'Autorité de sûreté nucléaire la réalisation de certaines opérations particulières en considération de leur impact sur les intérêts mentionnés au I de l'article 28 de la loi du 13 juin 2006.
+
+Lorsque l'installation nucléaire de base comprend un équipement ou une installation mentionné au premier alinéa de l'article L. 593-3 du code de l'environnement soumis aux dispositions de l'article L. 229-5 de ce même code, des prescriptions fixent les modalités pratiques de quantification, de déclaration des émissions de gaz à effet de serre et de restitution des quotas selon les modalités prévues aux articles R. 229-20 et R. 229-21 du code de l'environnement ainsi qu'un plan de surveillance des émissions de gaz à effet de serre de l'installation répondant aux exigences du règlement visé à l'article 14 de la directive 2003/87/ CE modifiée.
 
 Les prescriptions peuvent être communes à plusieurs installations ou équipements d'un même site placées sous la responsabilité d'un même exploitant et relevant du régime des installations nucléaires de base.
 
