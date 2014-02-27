@@ -1,0 +1,5 @@
+# Article 3
+
+Le canton n° 2 (Blois-1) comprend la partie de la commune de Blois située à l'ouest d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Saint-Sulpice-de-Pommeray, lisière de la forêt, allée de Bégon, route départementale 766, route de Château-Renault, ligne droite dans le prolongement de la rue Molière, rue Lenôtre, rue de la Quinière, rue de Cabochon, rue Gallieni, rue Albert-Ier, sentier rural 83 dit de la Villeneuve, ligne de chemin de fer, rue Augustin-Thierry, rue Albert-Ier, rue Félix-Duban, rue Charles-d'Orléans, rue Jacques-Gabriel, rue de Cabochon, rue Racine, rue du Moulin-Blanc, route de Château-Renault, chemin de Brisebarre, rue de Frileuse, sentier de l'Arrou, chemin du Val-de-l'Arrou, voie communale 151, rue Etienne-Baudet, rue Bossuet, rue du Bellay, rue Michel-Bégon, rue de la Mare, avenue de Vendôme, jusqu'à la limite territoriale de la commune de Villebarou.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Blois.
