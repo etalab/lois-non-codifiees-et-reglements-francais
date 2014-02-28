@@ -442,7 +442,6 @@
 - [Arrêté du 20 février 2002 (MJSK0270046A)](arrete-du-20-fevrier-2002-mjsk0270046a)
 - [Arrêté du 20 février 2002 (RECF0200093A)](arrete-du-20-fevrier-2002-recf0200093a)
 - [Arrêté du 20 février 2002 (RECF0200094A)](arrete-du-20-fevrier-2002-recf0200094a)
-- [Arrêté du 20 juin 2002 (DEFD0201779A)](arrete-du-20-juin-2002-defd0201779a)
 - [Arrêté du 20 juin 2002 (DEVG0210246A)](arrete-du-20-juin-2002-devg0210246a)
 - [Arrêté du 20 juin 2002 (DEVG0210247A)](arrete-du-20-juin-2002-devg0210247a)
 - [Arrêté du 20 juin 2002 (DEVP0210218A)](arrete-du-20-juin-2002-devp0210218a)
