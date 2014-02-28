@@ -21,3 +21,5 @@ A compter de la session 2013 de l'examen du baccalauréat général, les candida
 - subissent l'épreuve de littérature étrangère en langue étrangère dans une autre langue que la langue allemande ;
 
 - ne sont pas autorisés à choisir une langue vivante régionale au titre de l'épreuve de langue vivante 2.
+
+A compter de la session 2014 de l'examen du baccalauréat général, pour les candidats au titre de l'Abibac dans la série littéraire, l'épreuve de langue vivante 1 ou 2 approfondie, définie par l'arrêté du 15 septembre 1993 susvisé comme l'un des choix possibles au titre de l'épreuve n° 11 de spécialité, est orale, d'une durée de 20 minutes et indépendante des autres épreuves. Elle ne peut pas être choisie au second groupe d'épreuves.
