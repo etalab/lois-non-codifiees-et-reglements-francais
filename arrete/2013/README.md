@@ -35,6 +35,7 @@
 - [Arrêté du 6 décembre 2013 (JUSF1330632A)](arrete-du-6-decembre-2013-jusf1330632a)
 - [Arrêté du 6 décembre 2013 (PROL1326145A)](arrete-du-6-decembre-2013-prol1326145a)
 - [Arrêté du 6 septembre 2013 (DEVD1322670A)](arrete-du-6-septembre-2013-devd1322670a)
+- [Arrêté du 8 novembre 2013 (DEVA1326585A)](arrete-du-8-novembre-2013-deva1326585a)
 - [Arrêté du 9 décembre 2003 (SOCF0311961A)](arrete-du-9-decembre-2003-socf0311961a)
 - [Arrêté du 9 décembre 2013 (AFSA1328859A)](arrete-du-9-decembre-2013-afsa1328859a)
 - [Arrêté du 9 décembre 2013 (AGRG1328237A)](arrete-du-9-decembre-2013-agrg1328237a)
