@@ -1,0 +1,5 @@
+# Article 12
+
+Le canton n° 11 (Nîmes-2) comprend la partie de la commune de Nîmes située à l'est d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Sainte-Anastasie, route d'Uzès, chemin de la Calmette, chemin de Font-Baumettes, chemin du Puits-de-Brunel, rue des Trois-Ponts, route d'Uzès, rue Ambroise-Croizat, rue Pitot-Prolongée, rue Pitot, ligne de chemin de fer, impasse Demians, rue Demians, rue des Trois-Fontaines, rue de la Garrigue, rue de l'Enclos-Rey, rue de la Poudrière, avenue du Mont-Duplan, rue Vincent-Faïta, boulevard Etienne-Saintenac, place de la Division-Daguet, boulevard Gambetta, boulevard de l'Amiral-Courbet, place Gabriel-Péri, rue Pierre-Semard, rue de Beaucaire, route de Beaucaire, rond-point Rishon-le-Zion, boulevard du Président-Salvador-Allende, rond-point Haroun-Tazieff, rue Cristino-Garcia, cours d'eau, autoroute A 9, route de Beaucaire, jusqu'à la limite territoriale de la commune de Rodilhan.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Nîmes.

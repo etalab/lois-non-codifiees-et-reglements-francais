@@ -1,0 +1,5 @@
+# Article 10
+
+Le canton n° 9 (Bapaume) comprend les communes suivantes : Ablainzevelle, Achiet-le-Grand, Achiet-le-Petit, Avesnes-lès-Bapaume, Ayette, Bancourt, Bapaume, Baralle, Barastre, Beaulencourt, Beaumetz-lès-Cambrai, Béhagnies, Bertincourt, Beugnâtre, Beugny, Biefvillers-lès-Bapaume, Bihucourt, Bourlon, Bucquoy, Buissy, Bullecourt, Bus, Chérisy, Courcelles-le-Comte, Croisilles, Douchy-lès-Ayette, Ecourt-Saint-Quentin, Ecoust-Saint-Mein, Epinoy, Ervillers, Favreuil, Fontaine-lès-Croisilles, Frémicourt, Gomiécourt, Graincourt-lès-Havrincourt, Grévillers, Hamelincourt, Haplincourt, Havrincourt, Hermies, Inchy-en-Artois, Lagnicourt-Marcel, Lebucquière, Léchelle, Ligny-Thilloy, Marquion, Martinpuich, Metz-en-Couture, Morchies, Morval, Mory, Moyenneville, Neuville-Bourjonval, Noreuil, Oisy-le-Verger, Palluel, Pronville, Quéant, Riencourt-lès-Bapaume, Rocquigny, Rumaucourt, Ruyaulcourt, Sains-lès-Marquion, Saint-Léger, Sapignies, Le Sars, Sauchy-Cauchy, Sauchy-Lestrée, Le Transloy, Trescault, Vaulx-Vraucourt, Vélu, Villers-au-Flos, Warlencourt-Eaucourt, Ytres.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Bapaume.
