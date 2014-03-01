@@ -20,7 +20,17 @@ I. - Dans chaque établissement, les catégories d'information enregistrées dan
 
 - numéro FINESS de l'établissement ;
 
-- numéro du séjour en hospitalisation à domicile : identifiant correspondant à l'ensemble du séjour d'hospitalisation à domicile ;
+- pour les établissements de santé mentionnés aux a, b et c de l'article L. 162-22-6 du code de la sécurité sociale, l'identification du séjour correspond au numéro du séjour en hospitalisation à domicile : identifiant unique pour l'ensemble du séjour d'hospitalisation à domicile ;
+
+- pour les établissements de santé mentionnés aux d et e l'article L. 162-22-6 du code de la sécurité sociale, l'identification du séjour correspond aux éléments suivants :
+
+- numéro d'entrée ;
+
+- numéro de facture ;
+
+- séjour facturable à l'assurance maladie ;
+
+- le cas échéant, motif de la non-facturation à l'assurance maladie ;
 
 - type de lieu de domicile du patient, complété, le cas échéant, par le numéro d'identification dans le fichier national des établissements sanitaires et sociaux de l'établissement d'hébergement des personnes âgées avec lequel il a été passé convention ;
 
@@ -46,6 +56,14 @@ I. - Dans chaque établissement, les catégories d'information enregistrées dan
 
 - diagnostic principal ;
 
+- diagnostic (s) correspondant au mode de prise en charge principal ;
+
+- nombre de diagnostic (s) correspondant au mode de prise en charge principal ;
+
+- diagnostic (s) correspondant au mode de prise en charge associé, le cas échéant ;
+
+- nombre de diagnostic (s) correspondant au mode de prise en charge associé ;
+
 - diagnostics associés, le cas échéant ;
 
 - indice de Karnofsky ;
@@ -57,6 +75,12 @@ I. - Dans chaque établissement, les catégories d'information enregistrées dan
 - date de début de sous-séquence ;
 
 - date de fin de sous-séquence ;
+
+- dernière sous-séquence du séjour ;
+
+- numéro de version du format du RPSS ;
+
+- confirmation de codage ;
 
 - les actes réalisés au cours du séjour et codés selon la version la plus récente de la liste établie dans les conditions fixées par l'article L. 162-1-7 du code de la sécurité sociale.
 
@@ -71,3 +95,13 @@ III. - Pour les établissements de santé mentionnés aux a, b et c de l'article
 - un fichier dénommé "VID-HOSP" comporte les informations permettant de connaître la situation du patient au regard de l'assurance maladie. Ces informations sont décrites dans le guide figurant à l'annexe du présent arrêté.
 
 IV. - Pour les établissements de santé mentionnés aux d et e de l'article L. 162-22-6 du code de la sécurité sociale, les informations de facturation sont produites pour chacune des prestations réalisées au cours de chaque sous-séquence, sous forme d'un résumé standardisé de facturation (RSF) décrit dans le guide figurant à l'annexe du présent arrêté.
+
+V. - Un fichier relatif aux conventions mentionnées au onzième alinéa du 2° de l'article 2 encadrant l'intervention des établissements de santé d'hospitalisation à domicile dans les établissements sociaux ou médico-sociaux est produit. Les informations qui y sont renseignées sont les suivantes :
+
+- numéro FINESS de l'établissement social et médico-social ;
+
+- code forfait de soins ;
+
+- date de début de la convention ;
+
+- date de fin de la convention.
