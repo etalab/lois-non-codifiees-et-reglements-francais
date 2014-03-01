@@ -46,7 +46,6 @@
 - [Décret n°85-715 du 10 juillet 1985](decret-n85-715-du-10-juillet-1985)
 - [Décret n°85-720 du 10 juillet 1985](decret-n85-720-du-10-juillet-1985)
 - [Décret n°85-721 du 10 juillet 1985](decret-n85-721-du-10-juillet-1985)
-- [Décret n°85-722 du 10 juillet 1985](decret-n85-722-du-10-juillet-1985)
 - [Décret n°84-1110 du 11 décembre 1984](decret-n84-1110-du-11-decembre-1984)
 - [Décret n°85-1093 du 11 octobre 1985](decret-n85-1093-du-11-octobre-1985)
 - [Décret n°85-199 du 11 février 1985](decret-n85-199-du-11-fevrier-1985)
