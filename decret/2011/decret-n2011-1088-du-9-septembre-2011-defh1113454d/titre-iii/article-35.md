@@ -1,0 +1,3 @@
+# Article 35
+
+Les dispositions statutaires particulières applicables au corps des agents techniques de l'électronique de la direction générale de la sécurité extérieure, au corps des agents des transmissions de la direction générale de la sécurité extérieure, au corps des agents des services techniques de la direction générale de la sécurité extérieure, aux corps des ouvriers professionnels et des maîtres ouvriers de la direction générale de la sécurité extérieure ainsi qu'à l'emploi d'agent principal des services techniques de cette direction et aux corps de conducteurs d'automobile et de chefs de garage de la direction générale de la sécurité extérieure applicables avant la date d'entrée en vigueur du présent décret sont abrogées.
