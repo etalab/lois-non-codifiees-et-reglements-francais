@@ -1336,7 +1336,6 @@
 - [Arrêté du 16 janvier 2012 (JUSF1201876A)](arrete-du-16-janvier-2012-jusf1201876a)
 - [Arrêté du 16 janvier 2012 (JUSF1201889A)](arrete-du-16-janvier-2012-jusf1201889a)
 - [Arrêté du 16 janvier 2012 (JUSF1201892A)](arrete-du-16-janvier-2012-jusf1201892a)
-- [Arrêté du 16 janvier 2012 (JUSF1201895A)](arrete-du-16-janvier-2012-jusf1201895a)
 - [Arrêté du 16 juillet 1984](arrete-du-16-juillet-1984)
 - [Arrêté du 16 juillet 2001 (MENP0101562A)](arrete-du-16-juillet-2001-menp0101562a)
 - [Arrêté du 16 juillet 2012 (AFSS1227850A)](arrete-du-16-juillet-2012-afss1227850a)
