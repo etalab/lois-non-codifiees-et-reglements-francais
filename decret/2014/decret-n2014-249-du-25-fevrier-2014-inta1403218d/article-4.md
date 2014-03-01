@@ -1,0 +1,5 @@
+# Article 4
+
+Le canton n° 3 (Avignon-2) comprend la partie de la commune d'Avignon située au nord d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune des Angles, ligne de chemin de fer d'Avignon à Miramas, canal de Champfleury depuis son extrémité, avenue Eisenhower, avenue Etienne-Martelange, avenue Monclar, rue Universelle, place Saint-Ruf, avenue Saint-Ruf, ligne de chemin de fer d'Avignon à Miramas, ligne de chemin de fer de Paris à Marseille, avenue de la Folie, ligne droite perpendiculaire à la rue Konrad-Adenauer, rue Konrad-Adenauer, rue Emile-Picard, rue des Frères-Lumière, chemin du Pont-des-Deux-Eaux, avenue de la Folie, rue Vincent-Van-Gogh, rue Jean-Claude-Cundier, ligne droite dans le prolongement de la rue Jean-Claude-Cundier jusqu'à la rue Mélinée-et-Missak-Manouchian, avenue de la Folie, rond-point, rue Pierre-Mendès-France, rond-point, avenue de l'Amandier, carrefour de Réalpanier, jusqu'à la limite territoriale de la commune du Pontet.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune d'Avignon.

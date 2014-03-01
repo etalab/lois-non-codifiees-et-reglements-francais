@@ -1,0 +1,9 @@
+# Article 1
+
+I. ― Sous réserve des dispositions de l'article 2, les fonctionnaires et les agents non titulaires des départements ou des régions de Guyane ou de Martinique qui, aux dates respectives de création des collectivités territoriales de Guyane ou de Martinique, exercent leurs fonctions dans les services du département ou de la région sont réputés, à compter de ces dates, relever des collectivités territoriales de Guyane ou de Martinique dans les conditions de statut et d'emploi qui sont les leurs.
+
+II. ― Les fonctionnaires et les agents non titulaires des départements ou des régions de Guyane ou de Martinique qui, aux dates respectives de création des collectivités territoriales de Guyane ou de Martinique, exercent leurs fonctions en dehors des services du département ou de la région sont réputés, à compter de ces dates, exercer leurs fonctions en dehors des services des collectivités territoriales de Guyane ou de Martinique dans les conditions de statut et d'emploi qui sont les leurs.
+
+III. ― Les fonctionnaires et les agents non titulaires de personnes morales de droit public autres que les départements et les régions de Guyane ou de Martinique qui, aux dates respectives de création des collectivités territoriales de Guyane ou de Martinique, exercent leurs fonctions dans les services du département ou de la région sont réputés, à compter de ces dates, exercer leurs fonctions dans les services des collectivités territoriales de Guyane ou de Martinique dans les conditions de statut et d'emploi qui sont les leurs.
+
+IV. ― Les fonctionnaires et les agents non titulaires mentionnés aux I, II et III conservent, s'ils y ont intérêt, le bénéfice du régime indemnitaire ainsi que, à titre individuel, les avantages acquis en application du troisième alinéa de l'article 111 de la loi du 26 janvier 1984 susvisée, qui leur étaient applicables dans les départements et les régions de Guyane ou de Martinique.

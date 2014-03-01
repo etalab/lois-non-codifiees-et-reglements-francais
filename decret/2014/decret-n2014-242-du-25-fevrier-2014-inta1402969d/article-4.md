@@ -1,0 +1,5 @@
+# Article 4
+
+Le canton n° 3 (Les Coteaux) comprend les communes suivantes : Antin, Aries-Espénan, Aubarède, Barthe, Bazordan, Bernadets-Debat, Betbèze, Betpouy, Bonnefont, Bouilh-Péreuilh, Boulin, Bugard, Cabanac, Campuzan, Castelnau-Magnoac, Castelvieilh, Castéra-Lou, Casterets, Caubous, Chelle-Debat, Cizos, Collongues, Coussan, Devèze, Dours, Estampures, Fontrailles, Fréchède, Gaussan, Gonez, Guizerix, Hachan, Hourc, Jacque, Lalanne, Lalanne-Trie, Lamarque-Rustaing, Lansac, Lapeyre, Laran, Larroque, Laslades, Lassales, Lizos, Louit, Lubret-Saint-Luc, Luby-Betmont, Lustar, Marquerie, Marseillan, Mazerolles, Monléon-Magnoac, Monlong, Mun, Oléac-Debat, Organ, Osmets, Peyret-Saint-André, Peyriguère, Pouy, Pouyastruc, Puntous, Puydarrieux, Sabalos, Sadournin, Sariac-Magnoac, Sère-Rustaing, Soréac, Souyeaux, Thermes-Magnoac, Thuy, Tournous-Darré, Trie-sur-Baïse, Vidou, Vieuzos, Villembits, Villemur.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune Trie-sur-Baïse.

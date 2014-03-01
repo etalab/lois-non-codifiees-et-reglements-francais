@@ -1,0 +1,5 @@
+# Article 7
+
+Le canton n° 6 (Breteuil) comprend les communes suivantes : Ambenay, Les Baux-de-Breteuil, Bémécourt, Bois-Anzeray, Bois-Arnault, Bois-Normand-près-Lyre, Les Bottereaux, Breteuil, Broglie, Capelle-les-Grands, Chaise-Dieu-du-Theil, Chamblac, Chambord, Champignolles, La Chapelle-Gauthier, Chéronvilliers, Le Chesne, Cintray, Condé-sur-Iton, Dame-Marie, Ferrières-Saint-Hilaire, Francheville, La Goulafrière, Grand-Camp, Guernanville, La Guéroulde, La Haye-Saint-Sylvestre, Juignettes, Mélicourt, Mesnil-Rousset, Montreuil-l'Argillé, Neaufles-Auvergny, La Neuve-Lyre, Notre-Dame-du-Hamel, Rugles, Saint-Agnan-de-Cernières, Saint-Antonin-de-Sommaire, Saint-Aubin-du-Thenney, Saint-Denis-d'Augerons, Saint-Denis-du-Béhélan, Saint-Jean-du-Thenney, Saint-Laurent-du-Tencement, Saint-Nicolas-d'Attez, Saint-Ouen-d'Attez, Saint-Pierre-de-Cernières, Saint-Quentin-des-Isles, Sainte-Marguerite-de-l'Autel, La Trinité-de-Réville, Verneusses, La Vieille-Lyre.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Breteuil.

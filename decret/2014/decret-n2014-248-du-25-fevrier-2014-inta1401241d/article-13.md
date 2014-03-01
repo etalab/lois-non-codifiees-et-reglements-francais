@@ -1,0 +1,5 @@
+# Article 13
+
+Le canton n° 12 (Montagne Basque) comprend les communes suivantes : Ahaxe-Alciette-Bascassan, Aincille, Ainharp, Ainhice-Mongelos, Alçay-Alçabéhéty-Sunharette, Aldudes, Alos-Sibas-Abense, Anhaux, Arnéguy, Arrast-Larrebieu, Ascarat, Aussurucq, Banca, Barcus, Béhorléguy, Berrogain-Laruns, Bidarray, Bussunarits-Sarrasquette, Bustince-Iriberry, Camou-Cihigue, Caro, Charritte-de-Bas, Chéraute, Espès-Undurein, Estérençuby, Etchebar, Gamarthe, Garindein, Gotein-Libarrenx, Haux, L'Hôpital-Saint-Blaise, Idaux-Mendy, Irouléguy, Ispoure, Jaxu, Lacarre, Lacarry-Arhan-Charritte-de-Haut, Laguinge-Restoue, Larrau, Lasse, Lecumberry, Lichans-Sunhar, Lichos, Licq-Athérey, Mauléon-Licharre, Menditte, Mendive, Moncayolle-Larrory-Mendibieu, Montory, Musculdy, Ordiarp, Ossas-Suhare, Ossès, Roquiague, Sainte-Engrâce, Saint-Etienne-de-Baïgorry, Saint-Jean-le-Vieux, Saint-Jean-Pied-de-Port, Saint-Martin-d'Arrossa, Saint-Michel, Sauguis-Saint-Etienne, Tardets-Sorholus, Trois-Villes, Uhart-Cize, Urepel, Viodos-Abense-de-Bas.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Mauléon-Licharre.

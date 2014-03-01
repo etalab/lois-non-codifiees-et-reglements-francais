@@ -24,7 +24,7 @@ a) La prise en charge de la majoration de participation fixée en application de
 
 b) Les dépassements d'honoraires sur les actes cliniques et techniques pris en application des dispositions du 18° de l'article L. 162-5 du code de la sécurité sociale, à hauteur au moins du montant du dépassement autorisé sur les actes cliniques.
 
-II.-Les prestations servies au titre du régime complémentaire sont dues au titre des prestations faisant l'objet d'une prise en charge par le régime général de la sécurité sociale et s'ajoutent à ce dernier montant dans la limite du montant des frais effectivement engagés par le bénéficiaire ou, si elle est inférieure, dans la limite suivante :
+II.-Les prestations servies au titre du régime complémentaire sont dues au titre des prestations faisant l'objet d'une prise en charge par le régime général de la sécurité sociale. Elles sont servies dans la limite du montant des frais effectivement engagés par le bénéficiaire ou, si elle est inférieure, dans la limite suivante incluant la prise en charge par le régime général de la sécurité sociale :
 
 1° 100 % du tarif de responsabilité du régime général de la sécurité sociale dans le cas où le bénéficiaire aurait eu la possibilité de recevoir les soins ou le traitement dans un établissement ayant passé convention avec la caisse d'assurance maladie des industries électriques et gazières ;
 
@@ -46,7 +46,7 @@ b) Aliments destinés à des fins médicales spéciales ;
 
 c) Aliments diététiques sans gluten ;
 
-d) Prothèses externes non orthopédiques (prothèses de sein, aérateurs trans-tympaniques, prothèses vocales, prothèses respiratoires pour trachéotomie) ;
+d) Abrogé ;
 
 7° 200 % du même tarif pour les frais d'hébergement lors d'une cure thermale ;
 
@@ -58,17 +58,19 @@ b) Prothèses oculaires et faciales ;
 
 c) Postiches ;
 
-d) Orthèses ;
+d) Orthèses (bandages herniaires, orthèses plantaires, coques talonnières, orthèses élastiques de contention des membres, ceintures médico-chirurgicales et corsets orthopédiques en tissu armé, colliers cervicaux, appareils divers de correction orthopédique, chaussures thérapeutiques de série, appareil de marché monté sur chaussures de série non thérapeutiques, vêtements compressifs sur mesure pour grands brûlés) ;
 
-e) Canules trachéales.
+e) Canules trachéales ;
 
-9° 360 % du même tarif pour les actes et frais relevant de la nomenclature des prothèses dentaires et d'orthopédie dento-faciale ;
+f) Prothèses externes non orthopédiques (prothèses de sein, aérateurs transtympaniques, prothèses vocales, prothèses respiratoires pour trachéotomie) ;
 
-10° 585 % du même tarif pour les frais relevant de la nomenclature des appareils électroniques correcteurs de surdité ;
+9° 495 % du même tarif pour les actes et frais relevant de la nomenclature des prothèses dentaires et 360 % pour les actes et frais relevant de la nomenclature d'orthopédie dento-faciale ;
 
-11° Pour les bénéficiaires âgés de dix-huit ans et plus, 705 % du même tarif, augmenté d'un forfait de 15 euros par verre et 15 euros par monture, pour les frais relevant de la nomenclature de l'optique médicale ;
+10° 650 % du même tarif pour les frais relevant de la nomenclature des appareils électroniques correcteurs de surdité ;
 
-12° Pour les bénéficiaires âgés de moins de dix-huit ans, 255 % du même tarif pour les montures, 305 % pour les verres et 705 % pour les lentilles de contact admises au remboursement au titre du régime général de la sécurité sociale.
+11° Pour les bénéficiaires âgés de dix-huit ans et plus, 760 % du même tarif pour les montures augmenté d'un forfait de 15 euros par monture, 860 % pour les verres augmenté d'un forfait de 15 euros par verre et 705 % pour les lentilles de contact admises au remboursement au titre du régime général de la sécurité sociale ;
+
+12° Pour les bénéficiaires âgés de moins de dix-huit ans, 320 % du même tarif pour les montures, 370 % pour les verres et 705 % pour les lentilles de contact admises au remboursement au titre du régime général de la sécurité sociale.
 
 III.-Les prestations servies au titre du régime complémentaire sont également dues au titre des spécialités pharmaceutiques admises au remboursement au titre du régime général de la sécurité sociale dans les limites suivantes :
 

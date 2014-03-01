@@ -1,0 +1,5 @@
+# Article 16
+
+Le canton n° 15 (Nantes-5) comprend la partie de la commune de Nantes située au nord d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Saint-Herblain, boulevard Emile-Romanet, rue du Jamet, rue Jean-Olivesi, rue Lucien-Aubert, rue Romain-Rolland, rue Firmin-Colas, rue de l'Etang, boulevard Jean-Moulin, rue des Alouettes, rue du Bois-Hardy, rue du Moulin-de-l'Abbaye, rue des Pavillons, rue du Bois-Hercé, boulevard Léon-Jouhaux, boulevard René-Coty, rue de l'Amiral-du-Chaffault, rue de Plaisance, rue de la Montagne, boulevard Pasteur, chemin Guilbaud, rue Nicolas-Appert, rue Renan, chemin des Rivières, avenue du Midi, rue Littré, rue Bouchaud, rue du Coteau, rue Bouchaud, rue des Dervallières, rue Francis-Merlant, rue George-Sand, boulevard Luc-Olivier-Merson, boulevard Meusnier-de-Querlon, boulevard des Anglais, rue Chanoine-Larose, rue Georges-Méliès, rue de la Maison-Blanche, jusqu'à la limite territoriale de la commune de Saint-Herblain.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Nantes.

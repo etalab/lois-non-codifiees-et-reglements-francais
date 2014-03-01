@@ -1,0 +1,3 @@
+# Article 3
+
+La commission administrative paritaire du corps des chargés d'éducation populaire et de jeunesse demeure compétente jusqu'au prochain renouvellement général et le mandat de ses membres est maintenu. Elle siège en formation conjointe avec la commission administrative paritaire du corps des conseillers d'éducation populaire et de jeunesse. A cet effet, les représentants du grade de conseiller d'éducation populaire et de jeunesse hors classe siègent avec les représentants du grade de chargé d'éducation populaire et de jeunesse de classe exceptionnelle. Les représentants du grade de conseiller d'éducation populaire et de jeunesse de classe normale assurent la représentation du membre du grade de chargé d'éducation populaire et de jeunesse hors classe.
