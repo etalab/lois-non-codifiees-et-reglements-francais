@@ -1290,7 +1290,6 @@
 - [Arrêté du 15 mai 2011 (ETSH1120002A)](arrete-du-15-mai-2011-etsh1120002a)
 - [Arrêté du 16 août 2011 (AGRM1112338A)](arrete-du-16-aout-2011-agrm1112338a)
 - [Arrêté du 16 août 2011 (DEFH1120609A)](arrete-du-16-aout-2011-defh1120609a)
-- [Arrêté du 16 août 2011 (IOCC1122890A)](arrete-du-16-aout-2011-iocc1122890a)
 - [Arrêté du 16 août 2011 (JUSF1123165A)](arrete-du-16-aout-2011-jusf1123165a)
 - [Arrêté du 16 août 2011 (JUST1122407A)](arrete-du-16-aout-2011-just1122407a)
 - [Arrêté du 16 décembre 2010 (AGRS1032821A)](arrete-du-16-decembre-2010-agrs1032821a)
