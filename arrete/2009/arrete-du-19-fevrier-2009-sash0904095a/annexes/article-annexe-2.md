@@ -1,97 +1,106 @@
 # Article Annexe 2
 
-LISTE DES FORFAITS DE L'INSUFFISANCE RÉNALE CHRONIQUE À DOMICILE OU EN AUTODIALYSE
+LISTE DES FORFAITS DE L'INSUFFISANCE RÉNALE CHRONIQUE À DOMICILE,
+
+EN UNITÉ DE DIALYSE MÉDICALISÉE OU EN AUTODIALYSE
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">CODE</p>
+<td align="center"> CODE </td>
+<td align="center"> FORFAIT </td>
+</tr>
+<tr>
+<td align="center">
+<br/>D11 <br/>
 </td>
-<td>
-<p align="center">FORFAIT</p>
+<td align="left">
+<br/>Forfait d'hémodialyse en unité de dialyse  médicalisée <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">D11 </p>
+<br/>D12 <br/>
 </td>
-<td align="center">
-<p align="left">Forfait d'hémodialyse en unité de dialyse médicalisée </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">D12 </p>
-</td>
-<td align="center">
-<p align="left">Forfait d'autodialyse simple </p>
+<td align="left">
+<br/>Forfait d'autodialyse simple <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">D13 </p>
+<br/>D13 <br/>
 </td>
-<td align="center">
-<p align="left">Forfait d'autodialyse assistée </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">D14 </p>
-</td>
-<td align="center">
-<p align="left">Forfait d'hémodialyse à domicile </p>
+<td align="left">
+<br/>Forfait d'autodialyse assistée <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">D15 </p>
+<br/>D14 <br/>
 </td>
-<td align="center">
-<p align="left">Forfait de dialyse péritonéale automatisée (DPA) </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">D16 </p>
-</td>
-<td align="center">
-<p align="left">Forfait de dialyse péritonéale continue ambulatoire (DPCA) </p>
+<td align="left">
+<br/>Forfait d'hémodialyse à domicile <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">D20 </p>
+<br/>D15 <br/>
 </td>
-<td align="center">
-<p align="left">Forfait d'entraînement à la dialyse péritonéale automatisée </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">D21 </p>
-</td>
-<td align="center">
-<p align="left">Forfait d'entraînement à la dialyse péritonéale continue ambulatoire </p>
+<td align="left">
+<br/>Forfait de dialyse péritonéale automatisée (DPA)  <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">D22 </p>
+<br/>D16 <br/>
 </td>
-<td align="center">
-<p align="left">Forfait de dialyse péritonéale automatisée pour une hospitalisation d'une durée comprise entre 3 et 6 jours </p>
+<td align="left">
+<br/>Forfait de dialyse péritonéale continue  ambulatoire (DPCA) <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">D23 </p>
+<br/>D20 <br/>
 </td>
+<td align="left">
+<br/>Forfait d'entraînement à la dialyse péritonéale  automatisée <br/>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre 3 et 6 jours </p>
+<br/>D21 <br/>
+</td>
+<td align="left">
+<br/>Forfait d'entraînement à la dialyse péritonéale  continue ambulatoire <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>D22 <br/>
+</td>
+<td align="left">
+<br/>Forfait de dialyse péritonéale automatisée pour  une hospitalisation d'une durée comprise entre 3 et 6 jours <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>D23 <br/>
+</td>
+<td align="left">
+<br/>Forfait de dialyse péritonéale continue  ambulatoire pour une hospitalisation d'une durée comprise entre 3 et 6 jours  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>D24 <br/>
+</td>
+<td align="left">
+<br/>Forfait d'entraînement à l'hémodialyse en unité  de dialyse médicalisée <br/>
 </td>
 </tr>
 </tbody>
 </table>
-<div align="left"/>
+
+</div>

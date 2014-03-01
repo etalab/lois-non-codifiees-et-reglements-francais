@@ -1,3232 +1,3244 @@
 # Article Annexe 1 (suite 1)
 
-LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
+LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOUR" (suite)
 
 <div>
 <table>
 <tbody>
 <tr>
-<td>02M10T</td>
-<td>536<br/>
+<td align="center">GHS </td>
+<td align="center">GHM </td>
+<td align="center">LIBELLÉ DU GHM </td>
+</tr>
+<tr>
+<td align="center">536 <br/>
+</td>
+<td align="center">02M10T<br/>
 </td>
-<td>Symptômes et autres recours aux soins de la CMD 02, très courte durée <br/>
+<td align="left">Symptômes et autres recours aux soins de la CMD  02, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td> 02M10Z </td>
-<td> 535</td>
-<td> Symptômes et autres recours aux soins de la CMD 02 </td>
+<td align="center">
+<br/>535 <br/>
+</td>
+<td align="center">
+<br/>02M10Z<br/>
+</td>
+<td align="left">
+<br/>Symptômes et autres recours aux soins de la CMD  02<br/>
+</td>
 </tr>
 <tr>
-<td>
-<p>   03C051 </p>
+<td align="center">
+<br/>624 <br/>
 </td>
-<td>
-<p>   624 </p>
+<td align="center">
+<br/>03C051<br/>
 </td>
-<td>
-<p>   Réparations de fissures labiale et palatine, niveau 1 </p>
+<td align="left">
+<br/>Réparations de fissures labiale et palatine,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C052 </p>
+<td align="center">
+<br/>625 <br/>
 </td>
-<td>
-<p>   625 </p>
+<td align="center">
+<br/>03C052<br/>
 </td>
-<td>
-<p>   Réparations de fissures labiale et palatine, niveau 2 </p>
+<td align="left">
+<br/>Réparations de fissures labiale et palatine,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C053 </p>
+<td align="center">
+<br/>626 <br/>
 </td>
-<td>
-<p>   626 </p>
+<td align="center">
+<br/>03C053<br/>
 </td>
-<td>
-<p>   Réparations de fissures labiale et palatine, niveau 3 </p>
+<td align="left">
+<br/>Réparations de fissures labiale et palatine,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C054 </p>
+<td align="center">
+<br/>627 <br/>
 </td>
-<td>
-<p>   627 </p>
+<td align="center">
+<br/>03C054<br/>
 </td>
-<td>
-<p>   Réparations de fissures labiale et palatine, niveau 4 </p>
+<td align="left">
+<br/>Réparations de fissures labiale et palatine,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C05T </p>
+<td align="center">
+<br/>711 <br/>
 </td>
-<td>
-<p>   711 </p>
+<td align="center">
+<br/>03C05T<br/>
 </td>
-<td>
-<p>   Réparations de fissures labiale et palatine, très courte durée </p>
+<td align="left">
+<br/>Réparations de fissures labiale et palatine,  très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C061 </p>
+<td align="center">
+<br/>628 <br/>
 </td>
-<td>
-<p>   628 </p>
+<td align="center">
+<br/>03C061<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans,   niveau 1 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C062 </p>
+<td align="center">
+<br/>629 <br/>
 </td>
-<td>
-<p>   629 </p>
+<td align="center">
+<br/>03C062<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans,   niveau 2 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C063 </p>
+<td align="center">
+<br/>630 <br/>
 </td>
-<td>
-<p>   630 </p>
+<td align="center">
+<br/>03C063<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans,   niveau 3 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C064 </p>
+<td align="center">
+<br/>631 <br/>
 </td>
-<td>
-<p>   631 </p>
+<td align="center">
+<br/>03C064<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans,   niveau 4 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C06J </p>
+<td align="center">
+<br/>632 <br/>
 </td>
-<td>
-<p>   632 </p>
+<td align="center">
+<br/>03C06J<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans,   en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge inférieur à 18 ans, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C071 </p>
+<td align="center">
+<br/>633 <br/>
 </td>
-<td>
-<p>   633 </p>
+<td align="center">
+<br/>03C071<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans,   niveau 1 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C072 </p>
+<td align="center">
+<br/>634 <br/>
 </td>
-<td>
-<p>   634 </p>
+<td align="center">
+<br/>03C072<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans,   niveau 2 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C073 </p>
+<td align="center">
+<br/>635 <br/>
 </td>
-<td>
-<p>   635 </p>
+<td align="center">
+<br/>03C073<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans,   niveau 3 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C074 </p>
+<td align="center">
+<br/>636 <br/>
 </td>
-<td>
-<p>   636 </p>
+<td align="center">
+<br/>03C074<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans,   niveau 4 </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C07J </p>
+<td align="center">
+<br/>637 <br/>
 </td>
-<td>
-<p>   637 </p>
+<td align="center">
+<br/>03C07J<br/>
 </td>
-<td>
-<p>   Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans,   en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur les sinus et l'apophyse  mastoïde, âge supérieur à 17 ans, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C091 </p>
+<td align="center">
+<br/>638 <br/>
 </td>
-<td>
-<p>   638 </p>
+<td align="center">
+<br/>03C091<br/>
 </td>
-<td>
-<p>   Rhinoplasties, niveau 1 </p>
+<td align="left">
+<br/>Rhinoplasties, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C092 </p>
+<td align="center">
+<br/>639 <br/>
 </td>
-<td>
-<p>   639 </p>
+<td align="center">
+<br/>03C092<br/>
 </td>
-<td>
-<p>   Rhinoplasties, niveau 2 </p>
+<td align="left">
+<br/>Rhinoplasties, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C093 </p>
+<td align="center">
+<br/>640 <br/>
 </td>
-<td>
-<p>   640 </p>
+<td align="center">
+<br/>03C093<br/>
 </td>
-<td>
-<p>   Rhinoplasties, niveau 3 </p>
+<td align="left">
+<br/>Rhinoplasties, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C094 </p>
+<td align="center">
+<br/>641 <br/>
 </td>
-<td>
-<p>   641 </p>
+<td align="center">
+<br/>03C094<br/>
 </td>
-<td>
-<p>   Rhinoplasties, niveau 4 </p>
+<td align="left">
+<br/>Rhinoplasties, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C09J </p>
+<td align="center">
+<br/>642 <br/>
 </td>
-<td>
-<p>   642 </p>
+<td align="center">
+<br/>03C09J<br/>
 </td>
-<td>
-<p>   Rhinoplasties, en ambulatoire </p>
+<td align="left">
+<br/>Rhinoplasties, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C101 </p>
+<td align="center">
+<br/>643 <br/>
 </td>
-<td>
-<p>   643 </p>
+<td align="center">
+<br/>03C101<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 1 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C102 </p>
+<td align="center">
+<br/>644 <br/>
 </td>
-<td>
-<p>   644 </p>
+<td align="center">
+<br/>03C102<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 2 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C103 </p>
+<td align="center">
+<br/>645 <br/>
 </td>
-<td>
-<p>   645 </p>
+<td align="center">
+<br/>03C103<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 3 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C104 </p>
+<td align="center">
+<br/>646 <br/>
 </td>
-<td>
-<p>   646 </p>
+<td align="center">
+<br/>03C104<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 4 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C111 </p>
+<td align="center">
+<br/>647 <br/>
 </td>
-<td>
-<p>   647 </p>
+<td align="center">
+<br/>03C111<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 1 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C112 </p>
+<td align="center">
+<br/>648 <br/>
 </td>
-<td>
-<p>   648 </p>
+<td align="center">
+<br/>03C112<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 2 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C113 </p>
+<td align="center">
+<br/>649 <br/>
 </td>
-<td>
-<p>   649 </p>
+<td align="center">
+<br/>03C113<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 3 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C114 </p>
+<td align="center">
+<br/>650 <br/>
 </td>
-<td>
-<p>   650 </p>
+<td align="center">
+<br/>03C114<br/>
 </td>
-<td>
-<p>   Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 4 </p>
+<td align="left">
+<br/>Amygdalectomies et/ou adénoïdectomies isolées,  âge supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C121 </p>
+<td align="center">
+<br/>651 <br/>
 </td>
-<td>
-<p>   651 </p>
+<td align="center">
+<br/>03C121<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 1 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C122 </p>
+<td align="center">
+<br/>652 <br/>
 </td>
-<td>
-<p>   652 </p>
+<td align="center">
+<br/>03C122<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 2 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C123 </p>
+<td align="center">
+<br/>653 <br/>
 </td>
-<td>
-<p>   653 </p>
+<td align="center">
+<br/>03C123<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 3 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C124 </p>
+<td align="center">
+<br/>654 <br/>
 </td>
-<td>
-<p>   654 </p>
+<td align="center">
+<br/>03C124<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans,   niveau 4 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C131 </p>
+<td align="center">
+<br/>655 <br/>
 </td>
-<td>
-<p>   655 </p>
+<td align="center">
+<br/>03C131<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 1 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C132 </p>
+<td align="center">
+<br/>656 <br/>
 </td>
-<td>
-<p>   656 </p>
+<td align="center">
+<br/>03C132<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies   et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C133 </p>
+<td align="center">
+<br/>657 <br/>
 </td>
-<td>
-<p>   657 </p>
+<td align="center">
+<br/>03C133<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 3 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C134 </p>
+<td align="center">
+<br/>658 <br/>
 </td>
-<td>
-<p>   658 </p>
+<td align="center">
+<br/>03C134<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales et les végétations adénoïdes autres que les   amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans,   niveau 4 </p>
+<td align="left">
+<br/>Interventions sur les amygdales et les  végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies  isolées, âge supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C141 </p>
+<td align="center">
+<br/>659 <br/>
 </td>
-<td>
-<p>   659 </p>
+<td align="center">
+<br/>03C141<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge inférieur à 18 ans,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C142 </p>
+<td align="center">
+<br/>660 <br/>
 </td>
-<td>
-<p>   660 </p>
+<td align="center">
+<br/>03C142<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge inférieur à 18 ans,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C143 </p>
+<td align="center">
+<br/>661 <br/>
 </td>
-<td>
-<p>   661 </p>
+<td align="center">
+<br/>03C143<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge inférieur à 18 ans,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C144 </p>
+<td align="center">
+<br/>662 <br/>
 </td>
-<td>
-<p>   662 </p>
+<td align="center">
+<br/>03C144<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge inférieur à 18 ans,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C14J </p>
+<td align="center">
+<br/>663 <br/>
 </td>
-<td>
-<p>   663 </p>
+<td align="center">
+<br/>03C14J<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire </p>
+<td align="left">
+<br/>Drains transtympaniques, âge inférieur à 18 ans,  en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C151 </p>
+<td align="center">
+<br/>664 <br/>
 </td>
-<td>
-<p>   664 </p>
+<td align="center">
+<br/>03C151<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge supérieur à 17 ans,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C152 </p>
+<td align="center">
+<br/>665 <br/>
 </td>
-<td>
-<p>   665 </p>
+<td align="center">
+<br/>03C152<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge supérieur à 17 ans,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C153 </p>
+<td align="center">
+<br/>666 <br/>
 </td>
-<td>
-<p>   666 </p>
+<td align="center">
+<br/>03C153<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge supérieur à 17 ans,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C154 </p>
+<td align="center">
+<br/>667 <br/>
 </td>
-<td>
-<p>   667 </p>
+<td align="center">
+<br/>03C154<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Drains transtympaniques, âge supérieur à 17 ans,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C15J </p>
+<td align="center">
+<br/>668 <br/>
 </td>
-<td>
-<p>   668 </p>
+<td align="center">
+<br/>03C15J<br/>
 </td>
-<td>
-<p>   Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire </p>
+<td align="left">
+<br/>Drains transtympaniques, âge supérieur à 17 ans,  en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C161 </p>
+<td align="center">
+<br/>669 <br/>
 </td>
-<td>
-<p>   669 </p>
+<td align="center">
+<br/>03C161<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge   ou le cou, niveau 1 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales portant sur  les oreilles, le nez, la gorge ou le cou, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C162 </p>
+<td align="center">
+<br/>670 <br/>
 </td>
-<td>
-<p>   670 </p>
+<td align="center">
+<br/>03C162<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge   ou le cou, niveau 2 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales portant sur  les oreilles, le nez, la gorge ou le cou, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C163 </p>
+<td align="center">
+<br/>671 <br/>
 </td>
-<td>
-<p>   671 </p>
+<td align="center">
+<br/>03C163<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge   ou le cou, niveau 3 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales portant sur  les oreilles, le nez, la gorge ou le cou, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C164 </p>
+<td align="center">
+<br/>672 <br/>
 </td>
-<td>
-<p>   672 </p>
+<td align="center">
+<br/>03C164<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge   ou le cou, niveau 4 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales portant sur  les oreilles, le nez, la gorge ou le cou, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C16J </p>
+<td align="center">
+<br/>673 <br/>
 </td>
-<td>
-<p>   673 </p>
+<td align="center">
+<br/>03C16J<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge   ou le cou, en ambulatoire </p>
+<td align="left">
+<br/>Autres interventions chirurgicales portant sur  les oreilles, le nez, la gorge ou le cou, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C171 </p>
+<td align="center">
+<br/>674 <br/>
 </td>
-<td>
-<p>   674 </p>
+<td align="center">
+<br/>03C171<br/>
 </td>
-<td>
-<p>   Interventions sur la bouche, niveau 1 </p>
+<td align="left">
+<br/>Interventions sur la bouche, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C172 </p>
+<td align="center">
+<br/>675 <br/>
 </td>
-<td>
-<p>   675 </p>
+<td align="center">
+<br/>03C172<br/>
 </td>
-<td>
-<p>   Interventions sur la bouche, niveau 2 </p>
+<td align="left">
+<br/>Interventions sur la bouche, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C173 </p>
+<td align="center">
+<br/>676 <br/>
 </td>
-<td>
-<p>   676 </p>
+<td align="center">
+<br/>03C173<br/>
 </td>
-<td>
-<p>   Interventions sur la bouche, niveau 3 </p>
+<td align="left">
+<br/>Interventions sur la bouche, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C174 </p>
+<td align="center">
+<br/>677 <br/>
 </td>
-<td>
-<p>   677 </p>
+<td align="center">
+<br/>03C174<br/>
 </td>
-<td>
-<p>   Interventions sur la bouche, niveau 4 </p>
+<td align="left">
+<br/>Interventions sur la bouche, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C17J </p>
+<td align="center">
+<br/>678 <br/>
 </td>
-<td>
-<p>   678 </p>
+<td align="center">
+<br/>03C17J<br/>
 </td>
-<td>
-<p>   Interventions sur la bouche, en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur la bouche, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C181 </p>
+<td align="center">
+<br/>679 <br/>
 </td>
-<td>
-<p>   679 </p>
+<td align="center">
+<br/>03C181<br/>
 </td>
-<td>
-<p>   Pose d'implants cochléaires, niveau 1 </p>
+<td align="left">
+<br/>Pose d'implants cochléaires, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C182 </p>
+<td align="center">
+<br/>680 <br/>
 </td>
-<td>
-<p>   680 </p>
+<td align="center">
+<br/>03C182<br/>
 </td>
-<td>
-<p>   Pose d'implants cochléaires, niveau 2 </p>
+<td align="left">
+<br/>Pose d'implants cochléaires, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C183 </p>
+<td align="center">
+<br/>681 <br/>
 </td>
-<td>
-<p>   681 </p>
+<td align="center">
+<br/>03C183<br/>
 </td>
-<td>
-<p>   Pose d'implants cochléaires, niveau 3 </p>
+<td align="left">
+<br/>Pose d'implants cochléaires, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C184 </p>
+<td align="center">
+<br/>682 <br/>
 </td>
-<td>
-<p>   682 </p>
+<td align="center">
+<br/>03C184<br/>
 </td>
-<td>
-<p>   Pose d'implants cochléaires, niveau 4 </p>
+<td align="left">
+<br/>Pose d'implants cochléaires, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C191 </p>
+<td align="center">
+<br/>683 <br/>
 </td>
-<td>
-<p>   683 </p>
+<td align="center">
+<br/>03C191<br/>
 </td>
-<td>
-<p>   Ostéotomies de la face, niveau 1 </p>
+<td align="left">
+<br/>Ostéotomies de la face, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C192 </p>
+<td align="center">
+<br/>684 <br/>
 </td>
-<td>
-<p>   684 </p>
+<td align="center">
+<br/>03C192<br/>
 </td>
-<td>
-<p>   Ostéotomies de la face, niveau 2 </p>
+<td align="left">
+<br/>Ostéotomies de la face, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C193 </p>
+<td align="center">
+<br/>685 <br/>
 </td>
-<td>
-<p>   685 </p>
+<td align="center">
+<br/>03C193<br/>
 </td>
-<td>
-<p>   Ostéotomies de la face, niveau 3 </p>
+<td align="left">
+<br/>Ostéotomies de la face, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C194 </p>
+<td align="center">
+<br/>686 <br/>
 </td>
-<td>
-<p>   686 </p>
+<td align="center">
+<br/>03C194<br/>
 </td>
-<td>
-<p>   Ostéotomies de la face, niveau 4 </p>
+<td align="left">
+<br/>Ostéotomies de la face, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C19J </p>
+<td align="center">
+<br/>712 <br/>
 </td>
-<td>
-<p>   712 </p>
+<td align="center">
+<br/>03C19J<br/>
 </td>
-<td>
-<p>   Ostéotomies de la face, en ambulatoire </p>
+<td align="left">
+<br/>Ostéotomies de la face, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C201 </p>
+<td align="center">
+<br/>687 <br/>
 </td>
-<td>
-<p>   687 </p>
+<td align="center">
+<br/>03C201<br/>
 </td>
-<td>
-<p>   Interventions de reconstruction de l'oreille moyenne, niveau 1 </p>
+<td align="left">
+<br/>Interventions de reconstruction de l'oreille  moyenne, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C202 </p>
+<td align="center">
+<br/>688 <br/>
 </td>
-<td>
-<p>   688 </p>
+<td align="center">
+<br/>03C202<br/>
 </td>
-<td>
-<p>   Interventions de reconstruction de l'oreille moyenne, niveau 2 </p>
+<td align="left">
+<br/>Interventions de reconstruction de l'oreille  moyenne, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C203 </p>
+<td align="center">
+<br/>689 <br/>
 </td>
-<td>
-<p>   689 </p>
+<td align="center">
+<br/>03C203<br/>
 </td>
-<td>
-<p>   Interventions de reconstruction de l'oreille moyenne, niveau 3 </p>
+<td align="left">
+<br/>Interventions de reconstruction de l'oreille  moyenne, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C204 </p>
+<td align="center">
+<br/>690 <br/>
 </td>
-<td>
-<p>   690 </p>
+<td align="center">
+<br/>03C204<br/>
 </td>
-<td>
-<p>   Interventions de reconstruction de l'oreille moyenne, niveau 4 </p>
+<td align="left">
+<br/>Interventions de reconstruction de l'oreille  moyenne, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C20J </p>
+<td align="center">
+<br/>691 <br/>
 </td>
-<td>
-<p>   691 </p>
+<td align="center">
+<br/>03C20J<br/>
 </td>
-<td>
-<p>   Interventions de reconstruction de l'oreille moyenne, en ambulatoire </p>
+<td align="left">
+<br/>Interventions de reconstruction de l'oreille  moyenne, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C211 </p>
+<td align="center">
+<br/>692 <br/>
 </td>
-<td>
-<p>   692 </p>
+<td align="center">
+<br/>03C211<br/>
 </td>
-<td>
-<p>   Interventions pour oreilles décollées, niveau 1 </p>
+<td align="left">
+<br/>Interventions pour oreilles décollées, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C212 </p>
+<td align="center">
+<br/>693 <br/>
 </td>
-<td>
-<p>   693 </p>
+<td align="center">
+<br/>03C212<br/>
 </td>
-<td>
-<p>   Interventions pour oreilles décollées, niveau 2 </p>
+<td align="left">
+<br/>Interventions pour oreilles décollées, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C213 </p>
+<td align="center">
+<br/>694 <br/>
 </td>
-<td>
-<p>   694 </p>
+<td align="center">
+<br/>03C213<br/>
 </td>
-<td>
-<p>   Interventions pour oreilles décollées, niveau 3 </p>
+<td align="left">
+<br/>Interventions pour oreilles décollées, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C214 </p>
+<td align="center">
+<br/>695 <br/>
 </td>
-<td>
-<p>   695 </p>
+<td align="center">
+<br/>03C214<br/>
 </td>
-<td>
-<p>   Interventions pour oreilles décollées, niveau 4 </p>
+<td align="left">
+<br/>Interventions pour oreilles décollées, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C21J </p>
+<td align="center">
+<br/>696 <br/>
 </td>
-<td>
-<p>   696 </p>
+<td align="center">
+<br/>03C21J<br/>
 </td>
-<td>
-<p>   Interventions pour oreilles décollées, en ambulatoire </p>
+<td align="left">
+<br/>Interventions pour oreilles décollées, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C241 </p>
+<td align="center">
+<br/>698 <br/>
 </td>
-<td>
-<p>   698 </p>
+<td align="center">
+<br/>03C241<br/>
 </td>
-<td>
-<p>   Interventions sur les glandes salivaires, niveau 1 </p>
+<td align="left">
+<br/>Interventions sur les glandes salivaires, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C242 </p>
+<td align="center">
+<br/>699 <br/>
 </td>
-<td>
-<p>   699 </p>
+<td align="center">
+<br/>03C242<br/>
 </td>
-<td>
-<p>   Interventions sur les glandes salivaires, niveau 2 </p>
+<td align="left">
+<br/>Interventions sur les glandes salivaires, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C243 </p>
+<td align="center">
+<br/>700 <br/>
 </td>
-<td>
-<p>   700 </p>
+<td align="center">
+<br/>03C243<br/>
 </td>
-<td>
-<p>   Interventions sur les glandes salivaires, niveau 3 </p>
+<td align="left">
+<br/>Interventions sur les glandes salivaires, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C244 </p>
+<td align="center">
+<br/>701 <br/>
 </td>
-<td>
-<p>   701 </p>
+<td align="center">
+<br/>03C244<br/>
 </td>
-<td>
-<p>   Interventions sur les glandes salivaires, niveau 4 </p>
+<td align="left">
+<br/>Interventions sur les glandes salivaires, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C24J </p>
+<td align="center">
+<br/>702 <br/>
 </td>
-<td>
-<p>   702 </p>
+<td align="center">
+<br/>03C24J<br/>
 </td>
-<td>
-<p>   Interventions sur les glandes salivaires, en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur les glandes salivaires, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C251 </p>
+<td align="center">
+<br/>703 <br/>
 </td>
-<td>
-<p>   703 </p>
+<td align="center">
+<br/>03C251<br/>
 </td>
-<td>
-<p>   Interventions majeures sur la tête et le cou, niveau 1 </p>
+<td align="left">
+<br/>Interventions majeures sur la tête et le cou,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C252 </p>
+<td align="center">
+<br/>704 <br/>
 </td>
-<td>
-<p>   704 </p>
+<td align="center">
+<br/>03C252<br/>
 </td>
-<td>
-<p>   Interventions majeures sur la tête et le cou, niveau 2 </p>
+<td align="left">
+<br/>Interventions majeures sur la tête et le cou,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C253 </p>
+<td align="center">
+<br/>705 <br/>
 </td>
-<td>
-<p>   705 </p>
+<td align="center">
+<br/>03C253<br/>
 </td>
-<td>
-<p>   Interventions majeures sur la tête et le cou, niveau 3 </p>
+<td align="left">
+<br/>Interventions majeures sur la tête et le cou,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C254 </p>
+<td align="center">
+<br/>706 <br/>
 </td>
-<td>
-<p>   706 </p>
+<td align="center">
+<br/>03C254<br/>
 </td>
-<td>
-<p>   Interventions majeures sur la tête et le cou, niveau 4 </p>
+<td align="left">
+<br/>Interventions majeures sur la tête et le cou,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C261 </p>
+<td align="center">
+<br/>707 <br/>
 </td>
-<td>
-<p>   707 </p>
+<td align="center">
+<br/>03C261<br/>
 </td>
-<td>
-<p>   Autres interventions sur la tête et le cou, niveau 1 </p>
+<td align="left">
+<br/>Autres interventions sur la tête et le cou,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C262 </p>
+<td align="center">
+<br/>708 <br/>
 </td>
-<td>
-<p>   708 </p>
+<td align="center">
+<br/>03C262<br/>
 </td>
-<td>
-<p>   Autres interventions sur la tête et le cou, niveau 2 </p>
+<td align="left">
+<br/>Autres interventions sur la tête et le cou,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C263 </p>
+<td align="center">
+<br/>709 <br/>
 </td>
-<td>
-<p>   709 </p>
+<td align="center">
+<br/>03C263<br/>
 </td>
-<td>
-<p>   Autres interventions sur la tête et le cou, niveau 3 </p>
+<td align="left">
+<br/>Autres interventions sur la tête et le cou,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C264 </p>
+<td align="center">
+<br/>710 <br/>
 </td>
-<td>
-<p>   710 </p>
+<td align="center">
+<br/>03C264<br/>
 </td>
-<td>
-<p>   Autres interventions sur la tête et le cou, niveau 4 </p>
+<td align="left">
+<br/>Autres interventions sur la tête et le cou,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C27J </p>
+<td align="center">
+<br/>713 <br/>
 </td>
-<td>
-<p>   713 </p>
+<td align="center">
+<br/>03C27J<br/>
 </td>
-<td>
-<p>   Interventions sur les amygdales, en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur les amygdales, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C28J </p>
+<td align="center">
+<br/>714 <br/>
 </td>
-<td>
-<p>   714 </p>
+<td align="center">
+<br/>03C28J<br/>
 </td>
-<td>
-<p>   Interventions sur les végétations adénoïdes, en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur les végétations adénoïdes, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C291 </p>
+<td align="center">
+<br/>715 <br/>
 </td>
-<td>
-<p>   715 </p>
+<td align="center">
+<br/>03C291<br/>
 </td>
-<td>
-<p>   Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes,   niveau 1 </p>
+<td align="left">
+<br/>Autres interventions sur l'oreille, le nez ou la  gorge pour tumeurs malignes, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C292 </p>
+<td align="center">
+<br/>716 <br/>
 </td>
-<td>
-<p>   716 </p>
+<td align="center">
+<br/>03C292<br/>
 </td>
-<td>
-<p>   Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes,   niveau 2 </p>
+<td align="left">
+<br/>Autres interventions sur l'oreille, le nez ou la  gorge pour tumeurs malignes, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C293 </p>
+<td align="center">
+<br/>717 <br/>
 </td>
-<td>
-<p>   717 </p>
+<td align="center">
+<br/>03C293<br/>
 </td>
-<td>
-<p>   Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes,   niveau 3 </p>
+<td align="left">
+<br/>Autres interventions sur l'oreille, le nez ou la  gorge pour tumeurs malignes, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C294 </p>
+<td align="center">
+<br/>718 <br/>
 </td>
-<td>
-<p>   718 </p>
+<td align="center">
+<br/>03C294<br/>
 </td>
-<td>
-<p>   Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes,   niveau 4 </p>
+<td align="left">
+<br/>Autres interventions sur l'oreille, le nez ou la  gorge pour tumeurs malignes, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C29J </p>
+<td align="center">
+<br/>719 <br/>
 </td>
-<td>
-<p>   719 </p>
+<td align="center">
+<br/>03C29J<br/>
 </td>
-<td>
-<p>   Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes,   en ambulatoire </p>
+<td align="left">
+<br/>Autres interventions sur l'oreille, le nez ou la  gorge pour tumeurs malignes, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C301 </p>
+<td align="center">
+<br/>720 <br/>
 </td>
-<td>
-<p>   720 </p>
+<td align="center">
+<br/>03C301<br/>
 </td>
-<td>
-<p>   Interventions sur l'oreille externe, niveau 1 </p>
+<td align="left">
+<br/>Interventions sur l'oreille externe, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C302 </p>
+<td align="center">
+<br/>721 <br/>
 </td>
-<td>
-<p>   721 </p>
+<td align="center">
+<br/>03C302<br/>
 </td>
-<td>
-<p>   Interventions sur l'oreille externe, niveau 2 </p>
+<td align="left">
+<br/>Interventions sur l'oreille externe, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C303 </p>
+<td align="center">
+<br/>722 <br/>
 </td>
-<td>
-<p>   722 </p>
+<td align="center">
+<br/>03C303<br/>
 </td>
-<td>
-<p>   Interventions sur l'oreille externe, niveau 3 </p>
+<td align="left">
+<br/>Interventions sur l'oreille externe, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C304 </p>
+<td align="center">
+<br/>723 <br/>
 </td>
-<td>
-<p>   723 </p>
+<td align="center">
+<br/>03C304<br/>
 </td>
-<td>
-<p>   Interventions sur l'oreille externe, niveau 4 </p>
+<td align="left">
+<br/>Interventions sur l'oreille externe, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03C30J </p>
+<td align="center">
+<br/>724 <br/>
 </td>
-<td>
-<p>   724 </p>
+<td align="center">
+<br/>03C30J<br/>
 </td>
-<td>
-<p>   Interventions sur l'oreille externe, en ambulatoire </p>
+<td align="left">
+<br/>Interventions sur l'oreille externe, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K021 </p>
+<td align="center">
+<br/>815 <br/>
 </td>
-<td>
-<p>   815 </p>
+<td align="center">
+<br/>03K021<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents avec certaines extractions, réparations   et prothèses dentaires, niveau 1 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents avec  certaines extractions, réparations et prothèses dentaires, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K022 </p>
+<td align="center">
+<br/>816 <br/>
 </td>
-<td>
-<p>   816 </p>
+<td align="center">
+<br/>03K022<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents avec certaines extractions, réparations   et prothèses dentaires, niveau 2 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents avec  certaines extractions, réparations et prothèses dentaires, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K023 </p>
+<td align="center">
+<br/>817 <br/>
 </td>
-<td>
-<p>   817 </p>
+<td align="center">
+<br/>03K023<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents avec certaines extractions, réparations   et prothèses dentaires, niveau 3 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents avec  certaines extractions, réparations et prothèses dentaires, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K024 </p>
+<td align="center">
+<br/>818 <br/>
 </td>
-<td>
-<p>   818 </p>
+<td align="center">
+<br/>03K024<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents avec certaines extractions, réparations   et prothèses dentaires, niveau 4 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents avec  certaines extractions, réparations et prothèses dentaires, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K02J </p>
+<td align="center">
+<br/>819 <br/>
 </td>
-<td>
-<p>   819 </p>
+<td align="center">
+<br/>03K02J<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents avec certaines extractions, réparations   et prothèses dentaires, en ambulatoire </p>
+<td align="left">
+<br/>Affections de la bouche et des dents avec  certaines extractions, réparations et prothèses dentaires, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K03J </p>
+<td align="center">
+<br/>820 <br/>
 </td>
-<td>
-<p>   820 </p>
+<td align="center">
+<br/>03K03J<br/>
 </td>
-<td>
-<p>   Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire </p>
+<td align="left">
+<br/>Séjours comprenant une endoscopie  oto-rhino-laryngologique, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03K04J </p>
+<td align="center">
+<br/>821 <br/>
 </td>
-<td>
-<p>   821 </p>
+<td align="center">
+<br/>03K04J<br/>
 </td>
-<td>
-<p>   Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire </p>
+<td align="left">
+<br/>Séjours comprenant certains actes non  opératoires de la CMD 03, en ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M021 </p>
+<td align="center">
+<br/>822 <br/>
 </td>
-<td>
-<p>   822 </p>
+<td align="center">
+<br/>03M021<br/>
 </td>
-<td>
-<p>   Traumatismes et déformations du nez, niveau 1 </p>
+<td align="left">
+<br/>Traumatismes et déformations du nez, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M022 </p>
+<td align="center">
+<br/>823 <br/>
 </td>
-<td>
-<p>   823 </p>
+<td align="center">
+<br/>03M022<br/>
 </td>
-<td>
-<p>   Traumatismes et déformations du nez, niveau 2 </p>
+<td align="left">
+<br/>Traumatismes et déformations du nez, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M023 </p>
+<td align="center">
+<br/>824 <br/>
 </td>
-<td>
-<p>   824 </p>
+<td align="center">
+<br/>03M023<br/>
 </td>
-<td>
-<p>   Traumatismes et déformations du nez, niveau 3 </p>
+<td align="left">
+<br/>Traumatismes et déformations du nez, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M024 </p>
+<td align="center">
+<br/>825 <br/>
 </td>
-<td>
-<p>   825 </p>
+<td align="center">
+<br/>03M024<br/>
 </td>
-<td>
-<p>   Traumatismes et déformations du nez, niveau 4 </p>
+<td align="left">
+<br/>Traumatismes et déformations du nez, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M02T </p>
+<td align="center">
+<br/>874 <br/>
 </td>
-<td>
-<p>   874 </p>
+<td align="center">
+<br/>03M02T<br/>
 </td>
-<td>
-<p>   Traumatismes et déformations du nez, très courte durée </p>
+<td align="left">
+<br/>Traumatismes et déformations du nez, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M031 </p>
+<td align="center">
+<br/>826 <br/>
 </td>
-<td>
-<p>   826 </p>
+<td align="center">
+<br/>03M031<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M032 </p>
+<td align="center">
+<br/>827 <br/>
 </td>
-<td>
-<p>   827 </p>
+<td align="center">
+<br/>03M032<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M033 </p>
+<td align="center">
+<br/>828 <br/>
 </td>
-<td>
-<p>   828 </p>
+<td align="center">
+<br/>03M033<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M034 </p>
+<td align="center">
+<br/>829 <br/>
 </td>
-<td>
-<p>   829 </p>
+<td align="center">
+<br/>03M034<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M03T </p>
+<td align="center">
+<br/>875 <br/>
 </td>
-<td>
-<p>   875 </p>
+<td align="center">
+<br/>03M03T<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   inférieur à 18 ans, très courte durée </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge inférieur à 18 ans, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M041 </p>
+<td align="center">
+<br/>830 <br/>
 </td>
-<td>
-<p>   830 </p>
+<td align="center">
+<br/>03M041<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M042 </p>
+<td align="center">
+<br/>831 <br/>
 </td>
-<td>
-<p>   831 </p>
+<td align="center">
+<br/>03M042<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M043 </p>
+<td align="center">
+<br/>832 <br/>
 </td>
-<td>
-<p>   832 </p>
+<td align="center">
+<br/>03M043<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M044 </p>
+<td align="center">
+<br/>833 <br/>
 </td>
-<td>
-<p>   833 </p>
+<td align="center">
+<br/>03M044<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M04T </p>
+<td align="center">
+<br/>876 <br/>
 </td>
-<td>
-<p>   876 </p>
+<td align="center">
+<br/>03M04T<br/>
 </td>
-<td>
-<p>   Otites moyennes et autres infections des voies aériennes supérieures, âge   supérieur à 17 ans, très courte durée </p>
+<td align="left">
+<br/>Otites moyennes et autres infections des voies  aériennes supérieures, âge supérieur à 17 ans, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M051 </p>
+<td align="center">
+<br/>834 <br/>
 </td>
-<td>
-<p>   834 </p>
+<td align="center">
+<br/>03M051<br/>
 </td>
-<td>
-<p>   Troubles de l'équilibre, niveau 1 </p>
+<td align="left">
+<br/>Troubles de l'équilibre, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M052 </p>
+<td align="center">
+<br/>835 <br/>
 </td>
-<td>
-<p>   835 </p>
+<td align="center">
+<br/>03M052<br/>
 </td>
-<td>
-<p>   Troubles de l'équilibre, niveau 2 </p>
+<td align="left">
+<br/>Troubles de l'équilibre, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M053 </p>
+<td align="center">
+<br/>836 <br/>
 </td>
-<td>
-<p>   836 </p>
+<td align="center">
+<br/>03M053<br/>
 </td>
-<td>
-<p>   Troubles de l'équilibre, niveau 3 </p>
+<td align="left">
+<br/>Troubles de l'équilibre, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M054 </p>
+<td align="center">
+<br/>837 <br/>
 </td>
-<td>
-<p>   837 </p>
+<td align="center">
+<br/>03M054<br/>
 </td>
-<td>
-<p>   Troubles de l'équilibre, niveau 4 </p>
+<td align="left">
+<br/>Troubles de l'équilibre, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M05T </p>
+<td align="center">
+<br/>877 <br/>
 </td>
-<td>
-<p>   877 </p>
+<td align="center">
+<br/>03M05T<br/>
 </td>
-<td>
-<p>   Troubles de l'équilibre, très courte durée </p>
+<td align="left">
+<br/>Troubles de l'équilibre, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M061 </p>
+<td align="center">
+<br/>838 <br/>
 </td>
-<td>
-<p>   838 </p>
+<td align="center">
+<br/>03M061<br/>
 </td>
-<td>
-<p>   Epistaxis, niveau 1 </p>
+<td align="left">
+<br/>Epistaxis, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M062 </p>
+<td align="center">
+<br/>839 <br/>
 </td>
-<td>
-<p>   839 </p>
+<td align="center">
+<br/>03M062<br/>
 </td>
-<td>
-<p>   Epistaxis, niveau 2 </p>
+<td align="left">
+<br/>Epistaxis, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M063 </p>
+<td align="center">
+<br/>840 <br/>
 </td>
-<td>
-<p>   840 </p>
+<td align="center">
+<br/>03M063<br/>
 </td>
-<td>
-<p>   Epistaxis, niveau 3 </p>
+<td align="left">
+<br/>Epistaxis, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M064 </p>
+<td align="center">
+<br/>841 <br/>
 </td>
-<td>
-<p>   841 </p>
+<td align="center">
+<br/>03M064<br/>
 </td>
-<td>
-<p>   Epistaxis, niveau 4 </p>
+<td align="left">
+<br/>Epistaxis, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M06T </p>
+<td align="center">
+<br/>878 <br/>
 </td>
-<td>
-<p>   878 </p>
+<td align="center">
+<br/>03M06T<br/>
 </td>
-<td>
-<p>   Epistaxis, très courte durée </p>
+<td align="left">
+<br/>Epistaxis, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M071 </p>
+<td align="center">
+<br/>842 <br/>
 </td>
-<td>
-<p>   842 </p>
+<td align="center">
+<br/>03M071<br/>
 </td>
-<td>
-<p>   Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1 </p>
+<td align="left">
+<br/>Tumeurs malignes des oreilles, du nez, de la  gorge ou de la bouche, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M072 </p>
+<td align="center">
+<br/>843 <br/>
 </td>
-<td>
-<p>   843 </p>
+<td align="center">
+<br/>03M072<br/>
 </td>
-<td>
-<p>   Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2 </p>
+<td align="left">
+<br/>Tumeurs malignes des oreilles, du nez, de la  gorge ou de la bouche, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M073 </p>
+<td align="center">
+<br/>844 <br/>
 </td>
-<td>
-<p>   844 </p>
+<td align="center">
+<br/>03M073<br/>
 </td>
-<td>
-<p>   Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3 </p>
+<td align="left">
+<br/>Tumeurs malignes des oreilles, du nez, de la  gorge ou de la bouche, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M074 </p>
+<td align="center">
+<br/>845 <br/>
 </td>
-<td>
-<p>   845 </p>
+<td align="center">
+<br/>03M074<br/>
 </td>
-<td>
-<p>   Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4 </p>
+<td align="left">
+<br/>Tumeurs malignes des oreilles, du nez, de la  gorge ou de la bouche, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M07T </p>
+<td align="center">
+<br/>846 <br/>
 </td>
-<td>
-<p>   846 </p>
+<td align="center">
+<br/>03M07T<br/>
 </td>
-<td>
-<p>   Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très   courte durée </p>
+<td align="left">
+<br/>Tumeurs malignes des oreilles, du nez, de la  gorge ou de la bouche, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M081 </p>
+<td align="center">
+<br/>847 <br/>
 </td>
-<td>
-<p>   847 </p>
+<td align="center">
+<br/>03M081<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M082 </p>
+<td align="center">
+<br/>848 <br/>
 </td>
-<td>
-<p>   848 </p>
+<td align="center">
+<br/>03M082<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M083 </p>
+<td align="center">
+<br/>849 <br/>
 </td>
-<td>
-<p>   849 </p>
+<td align="center">
+<br/>03M083<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M084 </p>
+<td align="center">
+<br/>850 <br/>
 </td>
-<td>
-<p>   850 </p>
+<td align="center">
+<br/>03M084<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M08T </p>
+<td align="center">
+<br/>879 <br/>
 </td>
-<td>
-<p>   879 </p>
+<td align="center">
+<br/>03M08T<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge inférieur à 18 ans, très courte durée </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge inférieur à 18 ans, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M091 </p>
+<td align="center">
+<br/>851 <br/>
 </td>
-<td>
-<p>   851 </p>
+<td align="center">
+<br/>03M091<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M092 </p>
+<td align="center">
+<br/>852 <br/>
 </td>
-<td>
-<p>   852 </p>
+<td align="center">
+<br/>03M092<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M093 </p>
+<td align="center">
+<br/>853 <br/>
 </td>
-<td>
-<p>   853 </p>
+<td align="center">
+<br/>03M093<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M094 </p>
+<td align="center">
+<br/>854 <br/>
 </td>
-<td>
-<p>   854 </p>
+<td align="center">
+<br/>03M094<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M09T </p>
+<td align="center">
+<br/>855 <br/>
 </td>
-<td>
-<p>   855 </p>
+<td align="center">
+<br/>03M09T<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche,   âge supérieur à 17 ans, très courte durée </p>
+<td align="left">
+<br/>Autres diagnostics portant sur les oreilles, le  nez, la gorge ou la bouche, âge supérieur à 17 ans, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M101 </p>
+<td align="center">
+<br/>856 <br/>
 </td>
-<td>
-<p>   856 </p>
+<td align="center">
+<br/>03M101<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18  ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M102 </p>
+<td align="center">
+<br/>857 <br/>
 </td>
-<td>
-<p>   857 </p>
+<td align="center">
+<br/>03M102<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18  ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M103 </p>
+<td align="center">
+<br/>858 <br/>
 </td>
-<td>
-<p>   858 </p>
+<td align="center">
+<br/>03M103<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18  ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M104 </p>
+<td align="center">
+<br/>859 <br/>
 </td>
-<td>
-<p>   859 </p>
+<td align="center">
+<br/>03M104<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18  ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M10T </p>
+<td align="center">
+<br/>880 <br/>
 </td>
-<td>
-<p>   880 </p>
+<td align="center">
+<br/>03M10T<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge inférieur à 18 ans, très courte durée </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18  ans, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M111 </p>
+<td align="center">
+<br/>860 <br/>
 </td>
-<td>
-<p>   860 </p>
+<td align="center">
+<br/>03M111<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17  ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M112 </p>
+<td align="center">
+<br/>861 <br/>
 </td>
-<td>
-<p>   861 </p>
+<td align="center">
+<br/>03M112<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17  ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M113 </p>
+<td align="center">
+<br/>862 <br/>
 </td>
-<td>
-<p>   862 </p>
+<td align="center">
+<br/>03M113<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17  ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M114 </p>
+<td align="center">
+<br/>863 <br/>
 </td>
-<td>
-<p>   863 </p>
+<td align="center">
+<br/>03M114<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17  ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M11T </p>
+<td align="center">
+<br/>881 <br/>
 </td>
-<td>
-<p>   881 </p>
+<td align="center">
+<br/>03M11T<br/>
 </td>
-<td>
-<p>   Affections de la bouche et des dents sans certaines extractions, réparations   ou prothèses dentaires, âge supérieur à 17 ans, très courte durée </p>
+<td align="left">
+<br/>Affections de la bouche et des dents sans  certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17  ans, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M121 </p>
+<td align="center">
+<br/>864 <br/>
 </td>
-<td>
-<p>   864 </p>
+<td align="center">
+<br/>03M121<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18   ans, niveau 1 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M122 </p>
+<td align="center">
+<br/>865 <br/>
 </td>
-<td>
-<p>   865 </p>
+<td align="center">
+<br/>03M122<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18   ans, niveau 2 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M123 </p>
+<td align="center">
+<br/>866 <br/>
 </td>
-<td>
-<p>   866 </p>
+<td align="center">
+<br/>03M123<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18   ans, niveau 3 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M124 </p>
+<td align="center">
+<br/>867 <br/>
 </td>
-<td>
-<p>   867 </p>
+<td align="center">
+<br/>03M124<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18   ans, niveau 4 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M131 </p>
+<td align="center">
+<br/>868 <br/>
 </td>
-<td>
-<p>   868 </p>
+<td align="center">
+<br/>03M131<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17   ans, niveau 1 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M132 </p>
+<td align="center">
+<br/>869 <br/>
 </td>
-<td>
-<p>   869 </p>
+<td align="center">
+<br/>03M132<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17   ans, niveau 2 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M133 </p>
+<td align="center">
+<br/>870 <br/>
 </td>
-<td>
-<p>   870 </p>
+<td align="center">
+<br/>03M133<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17   ans, niveau 3 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M134 </p>
+<td align="center">
+<br/>871 <br/>
 </td>
-<td>
-<p>   871 </p>
+<td align="center">
+<br/>03M134<br/>
 </td>
-<td>
-<p>   Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17   ans, niveau 4 </p>
+<td align="left">
+<br/>Infections aiguës sévères des voies aériennes  supérieures, âge supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M14Z </p>
+<td align="center">
+<br/>872 <br/>
 </td>
-<td>
-<p>   872 </p>
+<td align="center">
+<br/>03M14Z<br/>
 </td>
-<td>
-<p>   Explorations et surveillance pour affections ORL </p>
+<td align="left">
+<br/>Explorations et surveillance pour affections  ORL<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M15T </p>
+<td align="center">
+<br/>882 <br/>
 </td>
-<td>
-<p>   882 </p>
+<td align="center">
+<br/>03M15T<br/>
 </td>
-<td>
-<p>   Symptômes et autres recours aux soins de la CMD 03, très courte durée </p>
+<td align="left">
+<br/>Symptômes et autres recours aux soins de la CMD  03, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   03M15Z </p>
+<td align="center">
+<br/>873 <br/>
 </td>
-<td>
-<p>   873 </p>
+<td align="center">
+<br/>03M15Z<br/>
 </td>
-<td>
-<p>   Symptômes et autres recours aux soins de la CMD 03 </p>
+<td align="left">
+<br/>Symptômes et autres recours aux soins de la CMD  03<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C021 </p>
+<td align="center">
+<br/>1005 <br/>
 </td>
-<td>
-<p>   1005 </p>
+<td align="center">
+<br/>04C021<br/>
 </td>
-<td>
-<p>   Interventions majeures sur le thorax, niveau 1 </p>
+<td align="left">
+<br/>Interventions majeures sur le thorax, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C022 </p>
+<td align="center">
+<br/>1006 <br/>
 </td>
-<td>
-<p>   1006 </p>
+<td align="center">
+<br/>04C022<br/>
 </td>
-<td>
-<p>   Interventions majeures sur le thorax, niveau 2 </p>
+<td align="left">
+<br/>Interventions majeures sur le thorax, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C023 </p>
+<td align="center">
+<br/>1007 <br/>
 </td>
-<td>
-<p>   1007 </p>
+<td align="center">
+<br/>04C023<br/>
 </td>
-<td>
-<p>   Interventions majeures sur le thorax, niveau 3 </p>
+<td align="left">
+<br/>Interventions majeures sur le thorax, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C024 </p>
+<td align="center">
+<br/>1008 <br/>
 </td>
-<td>
-<p>   1008 </p>
+<td align="center">
+<br/>04C024<br/>
 </td>
-<td>
-<p>   Interventions majeures sur le thorax, niveau 4 </p>
+<td align="left">
+<br/>Interventions majeures sur le thorax, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C031 </p>
+<td align="center">
+<br/>1009 <br/>
 </td>
-<td>
-<p>   1009 </p>
+<td align="center">
+<br/>04C031<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales sur le système respiratoire, niveau 1 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales sur le  système respiratoire, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C032 </p>
+<td align="center">
+<br/>1010 <br/>
 </td>
-<td>
-<p>   1010 </p>
+<td align="center">
+<br/>04C032<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales sur le système respiratoire, niveau 2 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales sur le  système respiratoire, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C033 </p>
+<td align="center">
+<br/>1011 <br/>
 </td>
-<td>
-<p>   1011 </p>
+<td align="center">
+<br/>04C033<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales sur le système respiratoire, niveau 3 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales sur le  système respiratoire, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C034 </p>
+<td align="center">
+<br/>1012 <br/>
 </td>
-<td>
-<p>   1012 </p>
+<td align="center">
+<br/>04C034<br/>
 </td>
-<td>
-<p>   Autres interventions chirurgicales sur le système respiratoire, niveau 4 </p>
+<td align="left">
+<br/>Autres interventions chirurgicales sur le  système respiratoire, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C041 </p>
+<td align="center">
+<br/>1013 <br/>
 </td>
-<td>
-<p>   1013 </p>
+<td align="center">
+<br/>04C041<br/>
 </td>
-<td>
-<p>   Interventions sous thoracoscopie, niveau 1 </p>
+<td align="left">
+<br/>Interventions sous thoracoscopie, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C042 </p>
+<td align="center">
+<br/>1014 <br/>
 </td>
-<td>
-<p>   1014 </p>
+<td align="center">
+<br/>04C042<br/>
 </td>
-<td>
-<p>   Interventions sous thoracoscopie, niveau 2 </p>
+<td align="left">
+<br/>Interventions sous thoracoscopie, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C043 </p>
+<td align="center">
+<br/>1015 <br/>
 </td>
-<td>
-<p>   1015 </p>
+<td align="center">
+<br/>04C043<br/>
 </td>
-<td>
-<p>   Interventions sous thoracoscopie, niveau 3 </p>
+<td align="left">
+<br/>Interventions sous thoracoscopie, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04C044 </p>
+<td align="center">
+<br/>1016 <br/>
 </td>
-<td>
-<p>   1016 </p>
+<td align="center">
+<br/>04C044<br/>
 </td>
-<td>
-<p>   Interventions sous thoracoscopie, niveau 4 </p>
+<td align="left">
+<br/>Interventions sous thoracoscopie, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04K02J </p>
+<td align="center">
+<br/>1129 <br/>
 </td>
-<td>
-<p>   1129 </p>
+<td align="center">
+<br/>04K02J<br/>
 </td>
-<td>
-<p>   Séjours comprenant une endoscopie bronchique, en ambulatoire </p>
+<td align="left">
+<br/>Séjours comprenant une endoscopie bronchique, en  ambulatoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M021 </p>
+<td align="center">
+<br/>1130 <br/>
 </td>
-<td>
-<p>   1130 </p>
+<td align="center">
+<br/>04M021<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge inférieur à 18 ans,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M022 </p>
+<td align="center">
+<br/>1131 <br/>
 </td>
-<td>
-<p>   1131 </p>
+<td align="center">
+<br/>04M022<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge inférieur à 18 ans,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M023 </p>
+<td align="center">
+<br/>1132 <br/>
 </td>
-<td>
-<p>   1132 </p>
+<td align="center">
+<br/>04M023<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge inférieur à 18 ans,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M024 </p>
+<td align="center">
+<br/>1133 <br/>
 </td>
-<td>
-<p>   1133 </p>
+<td align="center">
+<br/>04M024<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge inférieur à 18 ans,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M02T </p>
+<td align="center">
+<br/>1237 <br/>
 </td>
-<td>
-<p>   1237 </p>
+<td align="center">
+<br/>04M02T<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge inférieur à 18 ans, très courte durée </p>
+<td align="left">
+<br/>Bronchites et asthme, âge inférieur à 18 ans,  très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M031 </p>
+<td align="center">
+<br/>1134 <br/>
 </td>
-<td>
-<p>   1134 </p>
+<td align="center">
+<br/>04M031<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge supérieur à 17 ans,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M032 </p>
+<td align="center">
+<br/>1135 <br/>
 </td>
-<td>
-<p>   1135 </p>
+<td align="center">
+<br/>04M032<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge supérieur à 17 ans,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M033 </p>
+<td align="center">
+<br/>1136 <br/>
 </td>
-<td>
-<p>   1136 </p>
+<td align="center">
+<br/>04M033<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge supérieur à 17 ans,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M034 </p>
+<td align="center">
+<br/>1137 <br/>
 </td>
-<td>
-<p>   1137 </p>
+<td align="center">
+<br/>04M034<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Bronchites et asthme, âge supérieur à 17 ans,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M03T </p>
+<td align="center">
+<br/>1238 <br/>
 </td>
-<td>
-<p>   1238 </p>
+<td align="center">
+<br/>04M03T<br/>
 </td>
-<td>
-<p>   Bronchites et asthme, âge supérieur à 17 ans, très courte durée </p>
+<td align="left">
+<br/>Bronchites et asthme, âge supérieur à 17 ans,  très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M041 </p>
+<td align="center">
+<br/>1138 <br/>
 </td>
-<td>
-<p>   1138 </p>
+<td align="center">
+<br/>04M041<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge inférieur  à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M042 </p>
+<td align="center">
+<br/>1139 <br/>
 </td>
-<td>
-<p>   1139 </p>
+<td align="center">
+<br/>04M042<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge inférieur  à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M043 </p>
+<td align="center">
+<br/>1140 <br/>
 </td>
-<td>
-<p>   1140 </p>
+<td align="center">
+<br/>04M043<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge inférieur  à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M044 </p>
+<td align="center">
+<br/>1141 <br/>
 </td>
-<td>
-<p>   1141 </p>
+<td align="center">
+<br/>04M044<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge inférieur  à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M051 </p>
+<td align="center">
+<br/>1142 <br/>
 </td>
-<td>
-<p>   1142 </p>
+<td align="center">
+<br/>04M051<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge supérieur  à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M052 </p>
+<td align="center">
+<br/>1143 <br/>
 </td>
-<td>
-<p>   1143 </p>
+<td align="center">
+<br/>04M052<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge supérieur  à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M053 </p>
+<td align="center">
+<br/>1144 <br/>
 </td>
-<td>
-<p>   1144 </p>
+<td align="center">
+<br/>04M053<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge supérieur  à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M054 </p>
+<td align="center">
+<br/>1145 <br/>
 </td>
-<td>
-<p>   1145 </p>
+<td align="center">
+<br/>04M054<br/>
 </td>
-<td>
-<p>   Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Pneumonies et pleurésies banales, âge supérieur  à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M05T </p>
+<td align="center">
+<br/>1239 <br/>
 </td>
-<td>
-<p>   1239 </p>
+<td align="center">
+<br/>04M05T<br/>
 </td>
-<td>
-<p>   Transferts et autres séjours pour pneumonies et pleurésies banales, âge   supérieur à 17 ans </p>
+<td align="left">
+<br/>Transferts et autres séjours pour pneumonies et  pleurésies banales, âge supérieur à 17 ans<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M061 </p>
+<td align="center">
+<br/>1146 <br/>
 </td>
-<td>
-<p>   1146 </p>
+<td align="center">
+<br/>04M061<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  inférieur à 18 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M062 </p>
+<td align="center">
+<br/>1147 <br/>
 </td>
-<td>
-<p>   1147 </p>
+<td align="center">
+<br/>04M062<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  inférieur à 18 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M063 </p>
+<td align="center">
+<br/>1148 <br/>
 </td>
-<td>
-<p>   1148 </p>
+<td align="center">
+<br/>04M063<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  inférieur à 18 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M064 </p>
+<td align="center">
+<br/>1149 <br/>
 </td>
-<td>
-<p>   1149 </p>
+<td align="center">
+<br/>04M064<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  inférieur à 18 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M06T </p>
+<td align="center">
+<br/>1150 <br/>
 </td>
-<td>
-<p>   1150 </p>
+<td align="center">
+<br/>04M06T<br/>
 </td>
-<td>
-<p>   Transferts et autres séjours courts pour infections et inflammations   respiratoires, âge inférieur à 18 ans </p>
+<td align="left">
+<br/>Transferts et autres séjours courts pour  infections et inflammations respiratoires, âge inférieur à 18 ans<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M071 </p>
+<td align="center">
+<br/>1151 <br/>
 </td>
-<td>
-<p>   1151 </p>
+<td align="center">
+<br/>04M071<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  supérieur à 17 ans, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M072 </p>
+<td align="center">
+<br/>1152 <br/>
 </td>
-<td>
-<p>   1152 </p>
+<td align="center">
+<br/>04M072<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  supérieur à 17 ans, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M073 </p>
+<td align="center">
+<br/>1153 <br/>
 </td>
-<td>
-<p>   1153 </p>
+<td align="center">
+<br/>04M073<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  supérieur à 17 ans, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M074 </p>
+<td align="center">
+<br/>1154 <br/>
 </td>
-<td>
-<p>   1154 </p>
+<td align="center">
+<br/>04M074<br/>
 </td>
-<td>
-<p>   Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4 </p>
+<td align="left">
+<br/>Infections et inflammations respiratoires, âge  supérieur à 17 ans, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M07T </p>
+<td align="center">
+<br/>1155 <br/>
 </td>
-<td>
-<p>   1155 </p>
+<td align="center">
+<br/>04M07T<br/>
 </td>
-<td>
-<p>   Transferts et autres séjours courts pour infections et inflammations   respiratoires, âge supérieur à 17 ans </p>
+<td align="left">
+<br/>Transferts et autres séjours courts pour  infections et inflammations respiratoires, âge supérieur à 17 ans<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M081 </p>
+<td align="center">
+<br/>1156 <br/>
 </td>
-<td>
-<p>   1156 </p>
+<td align="center">
+<br/>04M081<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques, niveau 1 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M082 </p>
+<td align="center">
+<br/>1157 <br/>
 </td>
-<td>
-<p>   1157 </p>
+<td align="center">
+<br/>04M082<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques, niveau 2 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M083 </p>
+<td align="center">
+<br/>1158 <br/>
 </td>
-<td>
-<p>   1158 </p>
+<td align="center">
+<br/>04M083<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques, niveau 3 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M084 </p>
+<td align="center">
+<br/>1159 <br/>
 </td>
-<td>
-<p>   1159 </p>
+<td align="center">
+<br/>04M084<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques, niveau 4 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M08T </p>
+<td align="center">
+<br/>1160 <br/>
 </td>
-<td>
-<p>   1160 </p>
+<td align="center">
+<br/>04M08T<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques, très courte durée </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M091 </p>
+<td align="center">
+<br/>1161 <br/>
 </td>
-<td>
-<p>   1161 </p>
+<td align="center">
+<br/>04M091<br/>
 </td>
-<td>
-<p>   Tumeurs de l'appareil respiratoire, niveau 1 </p>
+<td align="left">
+<br/>Tumeurs de l'appareil respiratoire, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M092 </p>
+<td align="center">
+<br/>1162 <br/>
 </td>
-<td>
-<p>   1162 </p>
+<td align="center">
+<br/>04M092<br/>
 </td>
-<td>
-<p>   Tumeurs de l'appareil respiratoire, niveau 2 </p>
+<td align="left">
+<br/>Tumeurs de l'appareil respiratoire, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M093 </p>
+<td align="center">
+<br/>1163 <br/>
 </td>
-<td>
-<p>   1163 </p>
+<td align="center">
+<br/>04M093<br/>
 </td>
-<td>
-<p>   Tumeurs de l'appareil respiratoire, niveau 3 </p>
+<td align="left">
+<br/>Tumeurs de l'appareil respiratoire, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M094 </p>
+<td align="center">
+<br/>1164 <br/>
 </td>
-<td>
-<p>   1164 </p>
+<td align="center">
+<br/>04M094<br/>
 </td>
-<td>
-<p>   Tumeurs de l'appareil respiratoire, niveau 4 </p>
+<td align="left">
+<br/>Tumeurs de l'appareil respiratoire, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M09T </p>
+<td align="center">
+<br/>1165 <br/>
 </td>
-<td>
-<p>   1165 </p>
+<td align="center">
+<br/>04M09T<br/>
 </td>
-<td>
-<p>   Tumeurs de l'appareil respiratoire, très courte durée </p>
+<td align="left">
+<br/>Tumeurs de l'appareil respiratoire, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M101 </p>
+<td align="center">
+<br/>1166 <br/>
 </td>
-<td>
-<p>   1166 </p>
+<td align="center">
+<br/>04M101<br/>
 </td>
-<td>
-<p>   Embolies pulmonaires, niveau 1 </p>
+<td align="left">
+<br/>Embolies pulmonaires, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M102 </p>
+<td align="center">
+<br/>1167 <br/>
 </td>
-<td>
-<p>   1167 </p>
+<td align="center">
+<br/>04M102<br/>
 </td>
-<td>
-<p>   Embolies pulmonaires, niveau 2 </p>
+<td align="left">
+<br/>Embolies pulmonaires, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M103 </p>
+<td align="center">
+<br/>1168 <br/>
 </td>
-<td>
-<p>   1168 </p>
+<td align="center">
+<br/>04M103<br/>
 </td>
-<td>
-<p>   Embolies pulmonaires, niveau 3 </p>
+<td align="left">
+<br/>Embolies pulmonaires, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M104 </p>
+<td align="center">
+<br/>1169 <br/>
 </td>
-<td>
-<p>   1169 </p>
+<td align="center">
+<br/>04M104<br/>
 </td>
-<td>
-<p>   Embolies pulmonaires, niveau 4 </p>
+<td align="left">
+<br/>Embolies pulmonaires, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M10T </p>
+<td align="center">
+<br/>1170 <br/>
 </td>
-<td>
-<p>   1170 </p>
+<td align="center">
+<br/>04M10T<br/>
 </td>
-<td>
-<p>   Embolies pulmonaires, très courte durée </p>
+<td align="left">
+<br/>Embolies pulmonaires, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M111 </p>
+<td align="center">
+<br/>1171 <br/>
 </td>
-<td>
-<p>   1171 </p>
+<td align="center">
+<br/>04M111<br/>
 </td>
-<td>
-<p>   Signes et symptômes respiratoires, niveau 1 </p>
+<td align="left">
+<br/>Signes et symptômes respiratoires, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M112 </p>
+<td align="center">
+<br/>1172 <br/>
 </td>
-<td>
-<p>   1172 </p>
+<td align="center">
+<br/>04M112<br/>
 </td>
-<td>
-<p>   Signes et symptômes respiratoires, niveau 2 </p>
+<td align="left">
+<br/>Signes et symptômes respiratoires, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M113 </p>
+<td align="center">
+<br/>1173 <br/>
 </td>
-<td>
-<p>   1173 </p>
+<td align="center">
+<br/>04M113<br/>
 </td>
-<td>
-<p>   Signes et symptômes respiratoires, niveau 3 </p>
+<td align="left">
+<br/>Signes et symptômes respiratoires, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M114 </p>
+<td align="center">
+<br/>1174 <br/>
 </td>
-<td>
-<p>   1174 </p>
+<td align="center">
+<br/>04M114<br/>
 </td>
-<td>
-<p>   Signes et symptômes respiratoires, niveau 4 </p>
+<td align="left">
+<br/>Signes et symptômes respiratoires, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M121 </p>
+<td align="center">
+<br/>1175 <br/>
 </td>
-<td>
-<p>   1175 </p>
+<td align="center">
+<br/>04M121<br/>
 </td>
-<td>
-<p>   Pneumothorax, niveau 1 </p>
+<td align="left">
+<br/>Pneumothorax, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M122 </p>
+<td align="center">
+<br/>1176 <br/>
 </td>
-<td>
-<p>   1176 </p>
+<td align="center">
+<br/>04M122<br/>
 </td>
-<td>
-<p>   Pneumothorax, niveau 2 </p>
+<td align="left">
+<br/>Pneumothorax, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M123 </p>
+<td align="center">
+<br/>1177 <br/>
 </td>
-<td>
-<p>   1177 </p>
+<td align="center">
+<br/>04M123<br/>
 </td>
-<td>
-<p>   Pneumothorax, niveau 3 </p>
+<td align="left">
+<br/>Pneumothorax, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M124 </p>
+<td align="center">
+<br/>1178 <br/>
 </td>
-<td>
-<p>   1178 </p>
+<td align="center">
+<br/>04M124<br/>
 </td>
-<td>
-<p>   Pneumothorax, niveau 4 </p>
+<td align="left">
+<br/>Pneumothorax, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M12T </p>
+<td align="center">
+<br/>1179 <br/>
 </td>
-<td>
-<p>   1179 </p>
+<td align="center">
+<br/>04M12T<br/>
 </td>
-<td>
-<p>   Pneumothorax, très courte durée </p>
+<td align="left">
+<br/>Pneumothorax, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M131 </p>
+<td align="center">
+<br/>1180 <br/>
 </td>
-<td>
-<p>   1180 </p>
+<td align="center">
+<br/>04M131<br/>
 </td>
-<td>
-<p>   Œdème pulmonaire et détresse respiratoire, niveau 1 </p>
+<td align="left">
+<br/>Œdème pulmonaire et détresse respiratoire,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M132 </p>
+<td align="center">
+<br/>1181 <br/>
 </td>
-<td>
-<p>   1181 </p>
+<td align="center">
+<br/>04M132<br/>
 </td>
-<td>
-<p>   Œdème pulmonaire et détresse respiratoire, niveau 2 </p>
+<td align="left">
+<br/>Œdème pulmonaire et détresse respiratoire,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M133 </p>
+<td align="center">
+<br/>1182 <br/>
 </td>
-<td>
-<p>   1182 </p>
+<td align="center">
+<br/>04M133<br/>
 </td>
-<td>
-<p>   Œdème pulmonaire et détresse respiratoire, niveau 3 </p>
+<td align="left">
+<br/>Œdème pulmonaire et détresse respiratoire,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M134 </p>
+<td align="center">
+<br/>1183 <br/>
 </td>
-<td>
-<p>   1183 </p>
+<td align="center">
+<br/>04M134<br/>
 </td>
-<td>
-<p>   Œdème pulmonaire et détresse respiratoire, niveau 4 </p>
+<td align="left">
+<br/>Œdème pulmonaire et détresse respiratoire,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M13T </p>
+<td align="center">
+<br/>1184 <br/>
 </td>
-<td>
-<p>   1184 </p>
+<td align="center">
+<br/>04M13T<br/>
 </td>
-<td>
-<p>   Œdème pulmonaire et détresse respiratoire, très courte durée </p>
+<td align="left">
+<br/>Œdème pulmonaire et détresse respiratoire, très  courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M141 </p>
+<td align="center">
+<br/>1185 <br/>
 </td>
-<td>
-<p>   1185 </p>
+<td align="center">
+<br/>04M141<br/>
 </td>
-<td>
-<p>   Maladies pulmonaires interstitielles, niveau 1 </p>
+<td align="left">
+<br/>Maladies pulmonaires interstitielles, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M142 </p>
+<td align="center">
+<br/>1186 <br/>
 </td>
-<td>
-<p>   1186 </p>
+<td align="center">
+<br/>04M142<br/>
 </td>
-<td>
-<p>   Maladies pulmonaires interstitielles, niveau 2 </p>
+<td align="left">
+<br/>Maladies pulmonaires interstitielles, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M143 </p>
+<td align="center">
+<br/>1187 <br/>
 </td>
-<td>
-<p>   1187 </p>
+<td align="center">
+<br/>04M143<br/>
 </td>
-<td>
-<p>   Maladies pulmonaires interstitielles, niveau 3 </p>
+<td align="left">
+<br/>Maladies pulmonaires interstitielles, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M144 </p>
+<td align="center">
+<br/>1188 <br/>
 </td>
-<td>
-<p>   1188 </p>
+<td align="center">
+<br/>04M144<br/>
 </td>
-<td>
-<p>   Maladies pulmonaires interstitielles, niveau 4 </p>
+<td align="left">
+<br/>Maladies pulmonaires interstitielles, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M14T </p>
+<td align="center">
+<br/>1189 <br/>
 </td>
-<td>
-<p>   1189 </p>
+<td align="center">
+<br/>04M14T<br/>
 </td>
-<td>
-<p>   Maladies pulmonaires interstitielles, très courte durée </p>
+<td align="left">
+<br/>Maladies pulmonaires interstitielles, très  courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M151 </p>
+<td align="center">
+<br/>1190 <br/>
 </td>
-<td>
-<p>   1190 </p>
+<td align="center">
+<br/>04M151<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur le système respiratoire, niveau 1 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur le système  respiratoire, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M152 </p>
+<td align="center">
+<br/>1191 <br/>
 </td>
-<td>
-<p>   1191 </p>
+<td align="center">
+<br/>04M152<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur le système respiratoire, niveau 2 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur le système  respiratoire, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M153 </p>
+<td align="center">
+<br/>1192 <br/>
 </td>
-<td>
-<p>   1192 </p>
+<td align="center">
+<br/>04M153<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur le système respiratoire, niveau 3 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur le système  respiratoire, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M154 </p>
+<td align="center">
+<br/>1193 <br/>
 </td>
-<td>
-<p>   1193 </p>
+<td align="center">
+<br/>04M154<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur le système respiratoire, niveau 4 </p>
+<td align="left">
+<br/>Autres diagnostics portant sur le système  respiratoire, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M15T </p>
+<td align="center">
+<br/>1194 <br/>
 </td>
-<td>
-<p>   1194 </p>
+<td align="center">
+<br/>04M15T<br/>
 </td>
-<td>
-<p>   Autres diagnostics portant sur le système respiratoire, très courte durée </p>
+<td align="left">
+<br/>Autres diagnostics portant sur le système  respiratoire, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M161 </p>
+<td align="center">
+<br/>1195 <br/>
 </td>
-<td>
-<p>   1195 </p>
+<td align="center">
+<br/>04M161<br/>
 </td>
-<td>
-<p>   Traumatismes thoraciques, niveau 1 </p>
+<td align="left">
+<br/>Traumatismes thoraciques, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M162 </p>
+<td align="center">
+<br/>1196 <br/>
 </td>
-<td>
-<p>   1196 </p>
+<td align="center">
+<br/>04M162<br/>
 </td>
-<td>
-<p>   Traumatismes thoraciques, niveau 2 </p>
+<td align="left">
+<br/>Traumatismes thoraciques, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M163 </p>
+<td align="center">
+<br/>1197 <br/>
 </td>
-<td>
-<p>   1197 </p>
+<td align="center">
+<br/>04M163<br/>
 </td>
-<td>
-<p>   Traumatismes thoraciques, niveau 3 </p>
+<td align="left">
+<br/>Traumatismes thoraciques, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M164 </p>
+<td align="center">
+<br/>1198 <br/>
 </td>
-<td>
-<p>   1198 </p>
+<td align="center">
+<br/>04M164<br/>
 </td>
-<td>
-<p>   Traumatismes thoraciques, niveau 4 </p>
+<td align="left">
+<br/>Traumatismes thoraciques, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M16T </p>
+<td align="center">
+<br/>1199 <br/>
 </td>
-<td>
-<p>   1199 </p>
+<td align="center">
+<br/>04M16T<br/>
 </td>
-<td>
-<p>   Traumatismes thoraciques, très courte durée </p>
+<td align="left">
+<br/>Traumatismes thoraciques, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M171 </p>
+<td align="center">
+<br/>1200 <br/>
 </td>
-<td>
-<p>   1200 </p>
+<td align="center">
+<br/>04M171<br/>
 </td>
-<td>
-<p>   Epanchements pleuraux, niveau 1 </p>
+<td align="left">
+<br/>Epanchements pleuraux, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M172 </p>
+<td align="center">
+<br/>1201 <br/>
 </td>
-<td>
-<p>   1201 </p>
+<td align="center">
+<br/>04M172<br/>
 </td>
-<td>
-<p>   Epanchements pleuraux, niveau 2 </p>
+<td align="left">
+<br/>Epanchements pleuraux, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M173 </p>
+<td align="center">
+<br/>1202 <br/>
 </td>
-<td>
-<p>   1202 </p>
+<td align="center">
+<br/>04M173<br/>
 </td>
-<td>
-<p>   Epanchements pleuraux, niveau 3 </p>
+<td align="left">
+<br/>Epanchements pleuraux, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M174 </p>
+<td align="center">
+<br/>1203 <br/>
 </td>
-<td>
-<p>   1203 </p>
+<td align="center">
+<br/>04M174<br/>
 </td>
-<td>
-<p>   Epanchements pleuraux, niveau 4 </p>
+<td align="left">
+<br/>Epanchements pleuraux, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M17T </p>
+<td align="center">
+<br/>1204 <br/>
 </td>
-<td>
-<p>   1204 </p>
+<td align="center">
+<br/>04M17T<br/>
 </td>
-<td>
-<p>   Epanchements pleuraux, très courte durée </p>
+<td align="left">
+<br/>Epanchements pleuraux, très courte  durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M181 </p>
+<td align="center">
+<br/>1205 <br/>
 </td>
-<td>
-<p>   1205 </p>
+<td align="center">
+<br/>04M181<br/>
 </td>
-<td>
-<p>   Bronchiolites, niveau 1 </p>
+<td align="left">
+<br/>Bronchiolites, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M182 </p>
+<td align="center">
+<br/>1206 <br/>
 </td>
-<td>
-<p>   1206 </p>
+<td align="center">
+<br/>04M182<br/>
 </td>
-<td>
-<p>   Bronchiolites, niveau 2 </p>
+<td align="left">
+<br/>Bronchiolites, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M183 </p>
+<td align="center">
+<br/>1207 <br/>
 </td>
-<td>
-<p>   1207 </p>
+<td align="center">
+<br/>04M183<br/>
 </td>
-<td>
-<p>   Bronchiolites, niveau 3 </p>
+<td align="left">
+<br/>Bronchiolites, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M184 </p>
+<td align="center">
+<br/>1208 <br/>
 </td>
-<td>
-<p>   1208 </p>
+<td align="center">
+<br/>04M184<br/>
 </td>
-<td>
-<p>   Bronchiolites, niveau 4 </p>
+<td align="left">
+<br/>Bronchiolites, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M18T </p>
+<td align="center">
+<br/>1240 <br/>
 </td>
-<td>
-<p>   1240 </p>
+<td align="center">
+<br/>04M18T<br/>
 </td>
-<td>
-<p>   Bronchiolites, très courte durée </p>
+<td align="left">
+<br/>Bronchiolites, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M191 </p>
+<td align="center">
+<br/>1209 <br/>
 </td>
-<td>
-<p>   1209 </p>
+<td align="center">
+<br/>04M191<br/>
 </td>
-<td>
-<p>   Tuberculoses, niveau 1 </p>
+<td align="left">
+<br/>Tuberculoses, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M192 </p>
+<td align="center">
+<br/>1210 <br/>
 </td>
-<td>
-<p>   1210 </p>
+<td align="center">
+<br/>04M192<br/>
 </td>
-<td>
-<p>   Tuberculoses, niveau 2 </p>
+<td align="left">
+<br/>Tuberculoses, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M193 </p>
+<td align="center">
+<br/>1211 <br/>
 </td>
-<td>
-<p>   1211 </p>
+<td align="center">
+<br/>04M193<br/>
 </td>
-<td>
-<p>   Tuberculoses, niveau 3 </p>
+<td align="left">
+<br/>Tuberculoses, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M194 </p>
+<td align="center">
+<br/>1212 <br/>
 </td>
-<td>
-<p>   1212 </p>
+<td align="center">
+<br/>04M194<br/>
 </td>
-<td>
-<p>   Tuberculoses, niveau 4 </p>
+<td align="left">
+<br/>Tuberculoses, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M19T </p>
+<td align="center">
+<br/>1213 <br/>
 </td>
-<td>
-<p>   1213 </p>
+<td align="center">
+<br/>04M19T<br/>
 </td>
-<td>
-<p>   Tuberculoses, très courte durée </p>
+<td align="left">
+<br/>Tuberculoses, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M201 </p>
+<td align="center">
+<br/>1214 <br/>
 </td>
-<td>
-<p>   1214 </p>
+<td align="center">
+<br/>04M201<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques surinfectées, niveau 1 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques surinfectées,  niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M202 </p>
+<td align="center">
+<br/>1215 <br/>
 </td>
-<td>
-<p>   1215 </p>
+<td align="center">
+<br/>04M202<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques surinfectées, niveau 2 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques surinfectées,  niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M203 </p>
+<td align="center">
+<br/>1216 <br/>
 </td>
-<td>
-<p>   1216 </p>
+<td align="center">
+<br/>04M203<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques surinfectées, niveau 3 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques surinfectées,  niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M204 </p>
+<td align="center">
+<br/>1217 <br/>
 </td>
-<td>
-<p>   1217 </p>
+<td align="center">
+<br/>04M204<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques surinfectées, niveau 4 </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques surinfectées,  niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M20T </p>
+<td align="center">
+<br/>1218 <br/>
 </td>
-<td>
-<p>   1218 </p>
+<td align="center">
+<br/>04M20T<br/>
 </td>
-<td>
-<p>   Bronchopneumopathies chroniques surinfectées, très courte durée </p>
+<td align="left">
+<br/>Bronchopneumopathies chroniques surinfectées,  très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M211 </p>
+<td align="center">
+<br/>1219 <br/>
 </td>
-<td>
-<p>   1219 </p>
+<td align="center">
+<br/>04M211<br/>
 </td>
-<td>
-<p>   Suivis de greffe pulmonaire, niveau 1 </p>
+<td align="left">
+<br/>Suivis de greffe pulmonaire, niveau  1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M212 </p>
+<td align="center">
+<br/>1220 <br/>
 </td>
-<td>
-<p>   1220 </p>
+<td align="center">
+<br/>04M212<br/>
 </td>
-<td>
-<p>   Suivis de greffe pulmonaire, niveau 2 </p>
+<td align="left">
+<br/>Suivis de greffe pulmonaire, niveau  2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M213 </p>
+<td align="center">
+<br/>1221 <br/>
 </td>
-<td>
-<p>   1221 </p>
+<td align="center">
+<br/>04M213<br/>
 </td>
-<td>
-<p>   Suivis de greffe pulmonaire, niveau 3 </p>
+<td align="left">
+<br/>Suivis de greffe pulmonaire, niveau  3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M214 </p>
+<td align="center">
+<br/>1222 <br/>
 </td>
-<td>
-<p>   1222 </p>
+<td align="center">
+<br/>04M214<br/>
 </td>
-<td>
-<p>   Suivis de greffe pulmonaire, niveau 4 </p>
+<td align="left">
+<br/>Suivis de greffe pulmonaire, niveau  4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M22Z </p>
+<td align="center">
+<br/>1223 <br/>
 </td>
-<td>
-<p>   1223 </p>
+<td align="center">
+<br/>04M22Z<br/>
 </td>
-<td>
-<p>   Explorations et surveillance pour affections de l'appareil respiratoire </p>
+<td align="left">
+<br/>Explorations et surveillance pour affections de  l'appareil respiratoire<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M23T </p>
+<td align="center">
+<br/>1224 <br/>
 </td>
-<td>
-<p>   1224 </p>
+<td align="center">
+<br/>04M23T<br/>
 </td>
-<td>
-<p>   Autres symptômes et recours aux soins de la CMD 04, très courte durée </p>
+<td align="left">
+<br/>Autres symptômes et recours aux soins de la CMD  04, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M23Z </p>
+<td align="center">
+<br/>1225 <br/>
 </td>
-<td>
-<p>   1225 </p>
+<td align="center">
+<br/>04M23Z<br/>
 </td>
-<td>
-<p>   Autres symptômes et recours aux soins de la CMD 04 </p>
+<td align="left">
+<br/>Autres symptômes et recours aux soins de la CMD  04<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M24E </p>
+<td align="center">
+<br/>1226 <br/>
 </td>
-<td>
-<p>   1226 </p>
+<td align="center">
+<br/>04M24E<br/>
 </td>
-<td>
-<p>   Affections de la CMD   04 avec décès : séjours de moins de 2 jours </p>
+<td align="left">
+<br/>Affections de la CMD 04 avec décès : séjours de  moins de 2 jours<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M251 </p>
+<td align="center">
+<br/>1227 <br/>
 </td>
-<td>
-<p>   1227 </p>
+<td align="center">
+<br/>04M251<br/>
 </td>
-<td>
-<p>   Grippes, niveau 1 </p>
+<td align="left">
+<br/>Grippes, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M252 </p>
+<td align="center">
+<br/>1228 <br/>
 </td>
-<td>
-<p>   1228 </p>
+<td align="center">
+<br/>04M252<br/>
 </td>
-<td>
-<p>   Grippes, niveau 2 </p>
+<td align="left">
+<br/>Grippes, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M253 </p>
+<td align="center">
+<br/>1229 <br/>
 </td>
-<td>
-<p>   1229 </p>
+<td align="center">
+<br/>04M253<br/>
 </td>
-<td>
-<p>   Grippes, niveau 3 </p>
+<td align="left">
+<br/>Grippes, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M254 </p>
+<td align="center">
+<br/>1230 <br/>
 </td>
-<td>
-<p>   1230 </p>
+<td align="center">
+<br/>04M254<br/>
 </td>
-<td>
-<p>   Grippes, niveau 4 </p>
+<td align="left">
+<br/>Grippes, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M25T </p>
+<td align="center">
+<br/>1231 <br/>
 </td>
-<td>
-<p>   1231 </p>
+<td align="center">
+<br/>04M25T<br/>
 </td>
-<td>
-<p>   Grippes, très courte durée </p>
+<td align="left">
+<br/>Grippes, très courte durée<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M261 </p>
+<td align="center">
+<br/>1232 <br/>
 </td>
-<td>
-<p>   1232 </p>
+<td align="center">
+<br/>04M261<br/>
 </td>
-<td>
-<p>   Fibroses kystiques avec manifestations pulmonaires, niveau 1 </p>
+<td align="left">
+<br/>Fibroses kystiques avec manifestations  pulmonaires, niveau 1<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M262 </p>
+<td align="center">
+<br/>1233 <br/>
 </td>
-<td>
-<p>   1233 </p>
+<td align="center">
+<br/>04M262<br/>
 </td>
-<td>
-<p>   Fibroses kystiques avec manifestations pulmonaires, niveau 2 </p>
+<td align="left">
+<br/>Fibroses kystiques avec manifestations  pulmonaires, niveau 2<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M263 </p>
+<td align="center">
+<br/>1234 <br/>
 </td>
-<td>
-<p>   1234 </p>
+<td align="center">
+<br/>04M263<br/>
 </td>
-<td>
-<p>   Fibroses kystiques avec manifestations pulmonaires, niveau 3 </p>
+<td align="left">
+<br/>Fibroses kystiques avec manifestations  pulmonaires, niveau 3<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M264 </p>
+<td align="center">
+<br/>1235 <br/>
 </td>
-<td>
-<p>   1235 </p>
+<td align="center">
+<br/>04M264<br/>
 </td>
-<td>
-<p>   Fibroses kystiques avec manifestations pulmonaires, niveau 4 </p>
+<td align="left">
+<br/>Fibroses kystiques avec manifestations  pulmonaires, niveau 4<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>   04M26T </p>
+<td align="center">
+<br/>1236 <br/>
 </td>
-<td>
-<p>   1236 </p>
+<td align="center">
+<br/>04M26T<br/>
 </td>
-<td>
-<p>   Fibroses kystiques avec manifestations pulmonaires, très courte durée </p>
+<td align="left">
+<br/>Fibroses kystiques avec manifestations  pulmonaires, très courte durée<br/>
 </td>
 </tr>
 </tbody>

@@ -1,4884 +1,4324 @@
 # Article Annexe 8 liste 1
 
-Liste 1 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue
+Liste 1 : diagnostics et actes associés autorisant la facturation d'un  supplément de surveillance continue
 
 <div align="center">
+
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">CODE CIM-10</p>
-</td>
-<td>
-<p align="center">   LIBELLÉS CIM-10 </p>
-</td>
-<td>
-<p align="center">CODES ACTES CCAM </p>
-</td>
-<td>
-<p align="center">   LIBELLÉS CCAM </p>
-</td>
+<td align="center"> CODES CIM-10 </td>
+<td align="center"> LIBELLÉS CIM-10 </td>
+<td align="center"> CODES ACTES CCAM</td>
+<td align="center"> LIBELLÉS CCAM </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D61. 0 </p>
+<td align="center">
+<br/>D61. 0 <br/>
 </td>
-<td>
-<p>   Aplasie médullaire constitutionnelle </p>
+<td align="center">
+<br/>Aplasie médullaire constitutionnelle <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D61. 1 </p>
+<td align="center">
+<br/>D61. 1 <br/>
 </td>
-<td>
-<p>   Aplasie médullaire médicamenteuse </p>
+<td align="center">
+<br/>Aplasie médullaire médicamenteuse <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D61. 2 </p>
+<td align="center">
+<br/>D61. 2 <br/>
 </td>
-<td>
-<p>   Aplasie médullaire due à d'autres agents externes </p>
+<td align="center">
+<br/>Aplasie médullaire due à d'autres agents  externes <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D61. 3 </p>
+<td align="center">
+<br/>D61. 3 <br/>
 </td>
-<td>
-<p>   Aplasie médullaire idiopathique </p>
+<td align="center">
+<br/>Aplasie médullaire idiopathique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D61. 8 </p>
+<td align="center">
+<br/>D61. 8 <br/>
 </td>
-<td>
-<p>   Autres aplasies médullaires précisées </p>
+<td align="center">
+<br/>Autres aplasies médullaires précisées <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D61. 9 </p>
+<td align="center">
+<br/>D61. 9 <br/>
 </td>
-<td>
-<p>   Aplasie médullaire, sans précision </p>
+<td align="center">
+<br/>Aplasie médullaire, sans précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   D62 </p>
+<td align="center">
+<br/>D62 <br/>
 </td>
-<td>
-<p>   Anémie posthémorragique aiguë </p>
+<td align="center">
+<br/>Anémie posthémorragique aiguë <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E10. 0 </p>
+<td align="center">
+<br/>E10. 0 <br/>
 </td>
-<td>
-<p>   Diabète sucré insulino-dépendant, avec coma </p>
+<td align="center">
+<br/>Diabète sucré insulino-dépendant, avec coma  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E10. 1 </p>
+<td align="center">
+<br/>E10. 1 <br/>
 </td>
-<td>
-<p>   Diabète sucré insulino-dépendant, avec acidocétose </p>
+<td align="center">
+<br/>Diabète sucré insulino-dépendant, avec  acidocétose <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E11. 00 </p>
+<td align="center">
+<br/>E11. 00 <br/>
 </td>
-<td>
-<p>   Diabète sucré non insulinodépendant insulinotraité, avec coma </p>
+<td align="center">
+<br/>Diabète sucré non insulinodépendant  insulinotraité, avec coma <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E11. 08 </p>
+<td align="center">
+<br/>E11. 08 <br/>
 </td>
-<td>
-<p>   Diabète sucré non insulinodépendant non insulinotraité ou sans précision,   avec coma </p>
+<td align="center">
+<br/>Diabète sucré non insulinodépendant non  insulinotraité ou sans précision, avec coma <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E11. 10 </p>
+<td align="center">
+<br/>E11. 10 <br/>
 </td>
-<td>
-<p>   Diabète sucré non insulinodépendant insulinotraité, avec acidocétose </p>
+<td align="center">
+<br/>Diabète sucré non insulinodépendant  insulinotraité, avec acidocétose <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E11. 18 </p>
+<td align="center">
+<br/>E11. 18 <br/>
 </td>
-<td>
-<p>   Diabète sucré non insulinodépendant non insulinotraité ou sans précision,   avec acidocétose </p>
+<td align="center">
+<br/>Diabète sucré non insulinodépendant non  insulinotraité ou sans précision, avec acidocétose <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E12. 0 </p>
+<td align="center">
+<br/>E12. 0 <br/>
 </td>
-<td>
-<p>   Diabète sucré de malnutrition, avec coma </p>
+<td align="center">
+<br/>Diabète sucré de malnutrition, avec coma  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E12. 1 </p>
+<td align="center">
+<br/>E12. 1 <br/>
 </td>
-<td>
-<p>   Diabète sucré de malnutrition, avec acidocétose </p>
+<td align="center">
+<br/>Diabète sucré de malnutrition, avec acidocétose  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E13. 0 </p>
+<td align="center">
+<br/>E13. 0 <br/>
 </td>
-<td>
-<p>   Autres diabètes sucrés précisés, avec coma </p>
+<td align="center">
+<br/>Autres diabètes sucrés précisés, avec coma  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E13. 1 </p>
+<td align="center">
+<br/>E13. 1 <br/>
 </td>
-<td>
-<p>   Autres diabètes sucrés précisés, avec acidocétose </p>
+<td align="center">
+<br/>Autres diabètes sucrés précisés, avec  acidocétose <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E14. 0 </p>
+<td align="center">
+<br/>E14. 0 <br/>
 </td>
-<td>
-<p>   Diabète sucré, sans précision, avec coma </p>
+<td align="center">
+<br/>Diabète sucré, sans précision, avec coma  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E14. 1 </p>
+<td align="center">
+<br/>E14. 1 <br/>
 </td>
-<td>
-<p>   Diabète sucré, sans précision, avec acidocétose </p>
+<td align="center">
+<br/>Diabète sucré, sans précision, avec acidocétose  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E27. 1 </p>
+<td align="center">
+<br/>E27. 1 <br/>
 </td>
-<td>
-<p>   Insuffisance corticosurrénale primaire </p>
+<td align="center">
+<br/>Insuffisance corticosurrénale primaire <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E27. 2 </p>
+<td align="center">
+<br/>E27. 2 <br/>
 </td>
-<td>
-<p>   Crise addisonienne </p>
+<td align="center">
+<br/>Crise addisonienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E27. 3 </p>
+<td align="center">
+<br/>E27. 3 <br/>
 </td>
-<td>
-<p>   Insuffisance corticosurrénale médicamenteuse </p>
+<td align="center">
+<br/>Insuffisance corticosurrénale médicamenteuse  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E27. 4 </p>
+<td align="center">
+<br/>E27. 4 <br/>
 </td>
-<td>
-<p>   Insuffisances corticosurrénales, autres et sans précision </p>
+<td align="center">
+<br/>Insuffisances corticosurrénales, autres et sans  précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E83. 50 </p>
+<td align="center">
+<br/>E83. 50 <br/>
 </td>
-<td>
-<p>   Hypercalcémie supérieure à 3 millimoles [mmol] par litre </p>
+<td align="center">
+<br/>Hypercalcémie supérieure à 3 millimoles [mmol]  par litre <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E83. 51 </p>
+<td align="center">
+<br/>E83. 51 <br/>
 </td>
-<td>
-<p>   Hypocalcémie inférieure à 1,5 millimoles [mmol] par litre </p>
+<td align="center">
+<br/>Hypocalcémie inférieure à 1,5 millimoles [mmol]  par litre <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E87. 00 </p>
+<td align="center">
+<br/>E87. 00 <br/>
 </td>
-<td>
-<p>   Hypernatrémie supérieure à 150 millimoles [mmol] par litre </p>
+<td align="center">
+<br/>Hypernatrémie supérieure à 150 millimoles [mmol]  par litre <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E87. 10 </p>
+<td align="center">
+<br/>E87. 10 <br/>
 </td>
-<td>
-<p>   Hyponatrémie inférieure à 120 millimoles [mmol] par litre </p>
+<td align="center">
+<br/>Hyponatrémie inférieure à 120 millimoles [mmol]  par litre <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E87. 50 </p>
+<td align="center">
+<br/>E87. 50 <br/>
 </td>
-<td>
-<p>   Hyperkaliémie supérieure à 6,5 millimoles [mmol] par litre </p>
+<td align="center">
+<br/>Hyperkaliémie supérieure à 6,5 millimoles [mmol]  par litre <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E87. 60 </p>
+<td align="center">
+<br/>E87. 60 <br/>
 </td>
-<td>
-<p>   Hypokaliémie inférieure à 2,5 millimoles [mmol] par litre </p>
+<td align="center">
+<br/>Hypokaliémie inférieure à 2,5 millimoles [mmol]  par litre <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   E89. 6 </p>
+<td align="center">
+<br/>E89. 6 <br/>
 </td>
-<td>
-<p>   Hypofonctionnement corticosurrénal (de la médullaire) après un acte à visée   diagnostique et thérapeutique </p>
+<td align="center">
+<br/>Hypofonctionnement corticosurrénal (de la  médullaire) après un acte à visée diagnostique et thérapeutique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F10. 4 </p>
+<td align="center">
+<br/>F10. 4 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome   de sevrage avec delirium </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement liés à  l'utilisation d'alcool : syndrome de sevrage avec délirium <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F10. 40 </p>
+<td align="center">
+<br/>F10. 40 <br/>
 </td>
-<td>
-<p>   Syndrome de sevrage de l'alcool avec délirium, sans convulsion </p>
+<td align="center">
+<br/>Syndrome de sevrage de l'alcool avec délirium,  sans convulsion <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F10. 41 </p>
+<td align="center">
+<br/>F10. 41 <br/>
 </td>
-<td>
-<p>   Syndrome de sevrage de l'alcool avec délirium, avec convulsions </p>
+<td align="center">
+<br/>Syndrome de sevrage de l'alcool avec délirium,  avec convulsions <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 0 </p>
+<td align="center">
+<br/>F11. 0 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement liés à l'utilisation d'opiacés :   intoxication aiguë </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement liés à  l'utilisation d'opiacés : intoxication aiguë <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 00 </p>
+<td align="center">
+<br/>F11. 00 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les   opiacés, sans complication </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, sans complication <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 01 </p>
+<td align="center">
+<br/>F11. 01 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés,   avec traumatismes ou autres blessures physiques </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, avec traumatismes ou autres blessures  physiques <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 02 </p>
+<td align="center">
+<br/>F11. 02 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les   opiacés, avec d'autres complications médicales </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, avec d'autres complications médicales  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 03 </p>
+<td align="center">
+<br/>F11. 03 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les   opiacés, avec délirium </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, avec délirium <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 04 </p>
+<td align="center">
+<br/>F11. 04 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les   opiacés, avec distorsion des perceptions </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, avec distorsion des perceptions <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 05 </p>
+<td align="center">
+<br/>F11. 05 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les   opiacés, avec coma </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, avec coma <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 06 </p>
+<td align="center">
+<br/>F11. 06 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë par les   opiacés, avec convulsions </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë par les opiacés, avec convulsions <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   F11. 07 </p>
+<td align="center">
+<br/>F11. 07 <br/>
 </td>
-<td>
-<p>   Troubles mentaux et du comportement dus à une intoxication aiguë pathologique   par les opiacés </p>
+<td align="center">
+<br/>Troubles mentaux et du comportement dus à une  intoxication aiguë pathologique par les opiacés <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G00. 0 </p>
+<td align="center">
+<br/>G00. 0 <br/>
 </td>
-<td>
-<p>   Méningite à Haemophilus </p>
+<td align="center">
+<br/>Méningite à Haemophilus <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G00. 1 </p>
+<td align="center">
+<br/>G00. 1 <br/>
 </td>
-<td>
-<p>   Méningite à pneumocoques </p>
+<td align="center">
+<br/>Méningite à pneumocoques <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G00. 2 </p>
+<td align="center">
+<br/>G00. 2 <br/>
 </td>
-<td>
-<p>   Méningite à streptocoques </p>
+<td align="center">
+<br/>Méningite à streptocoques <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G00. 3 </p>
+<td align="center">
+<br/>G00. 3 <br/>
 </td>
-<td>
-<p>   Méningite à staphylocoques </p>
+<td align="center">
+<br/>Méningite à staphylocoques <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G00. 8 </p>
+<td align="center">
+<br/>G00. 8 <br/>
 </td>
-<td>
-<p>   Autres méningites bactériennes </p>
+<td align="center">
+<br/>Autres méningites bactériennes <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G00. 9 </p>
+<td align="center">
+<br/>G00. 9 <br/>
 </td>
-<td>
-<p>   Méningite bactérienne, sans précision </p>
+<td align="center">
+<br/>Méningite bactérienne, sans précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G01 </p>
+<td align="center">
+<br/>G01 <br/>
 </td>
-<td>
-<p>   Méningite au cours d'affections bactériennes classées ailleurs </p>
+<td align="center">
+<br/>Méningite au cours d'affections bactériennes  classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G04. 0 </p>
+<td align="center">
+<br/>G04. 0 <br/>
 </td>
-<td>
-<p>   Encéphalite aiguë disséminée </p>
+<td align="center">
+<br/>Encéphalite aiguë disséminée <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G04. 1 </p>
+<td align="center">
+<br/>G04. 1 <br/>
 </td>
-<td>
-<p>   Paraplégie spastique tropicale </p>
+<td align="center">
+<br/>Paraplégie spastique tropicale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G04. 2 </p>
+<td align="center">
+<br/>G04. 2 <br/>
 </td>
-<td>
-<p>   Méningo-encéphalite et méningomyélite bactériennes, non classées aiileurs </p>
+<td align="center">
+<br/>Méningo-encéphalite et méningomyélite  bactériennes, non classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G04. 8 </p>
+<td align="center">
+<br/>G04. 8 <br/>
 </td>
-<td>
-<p>   Autres encéphalites, myélites et encéphalomyélites </p>
+<td align="center">
+<br/>Autres encéphalites, myélites et  encéphalomyélites <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G04. 9 </p>
+<td align="center">
+<br/>G04. 9 <br/>
 </td>
-<td>
-<p>   Encéphalite, myélite et encéphalomyélite, sans précision </p>
+<td align="center">
+<br/>Encéphalite, myélite et encéphalomyélite, sans  précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G05. 0 </p>
+<td align="center">
+<br/>G05. 0 <br/>
 </td>
-<td>
-<p>   Encéphalite, myélite et encéphalomyélite au cours d'infections bactériennes   classées ailleurs </p>
+<td align="center">
+<br/>Encéphalite, myélite et encéphalomyélite au  cours d'infections bactériennes classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G05. 1 </p>
+<td align="center">
+<br/>G05. 1 <br/>
 </td>
-<td>
-<p>   Encéphalite, myélite et encéphalomyélite au cours d'infections virales   classées ailleurs </p>
+<td align="center">
+<br/>Encéphalite, myélite et encéphalomyélite au  cours d'infections virales classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G05. 2 </p>
+<td align="center">
+<br/>G05. 2 <br/>
 </td>
-<td>
-<p>   Encéphalite, myélite et encéphalomyélite au cours d'autres maladies   infectieuses et parasitaires classées ailleurs </p>
+<td align="center">
+<br/>Encéphalite, myélite et encéphalomyélite au  cours d'autres maladies infectieuses et parasitaires classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G05. 8 </p>
+<td align="center">
+<br/>G05. 8 <br/>
 </td>
-<td>
-<p>   Encéphalite, myélite et encéphalomyélite au cours d'autres affections   classées ailleurs </p>
+<td align="center">
+<br/>Encéphalite, myélite et encéphalomyélite au  cours d'autres affections classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G08 </p>
+<td align="center">
+<br/>G08 <br/>
 </td>
-<td>
-<p>   Phlébite et thrombophlébite intracrâniennes et intrarachidiennes </p>
+<td align="center">
+<br/>Phlébite et thrombophlébite intracrâniennes et  intrarachidiennes <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G41. 0 </p>
+<td align="center">
+<br/>G41. 0 <br/>
 </td>
-<td>
-<p>   Etat de grand mal épileptique </p>
+<td align="center">
+<br/>Etat de grand mal épileptique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G41. 1 </p>
+<td align="center">
+<br/>G41. 1 <br/>
 </td>
-<td>
-<p>   Etat de petit mal épileptique </p>
+<td align="center">
+<br/>Etat de petit mal épileptique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G41. 2 </p>
+<td align="center">
+<br/>G41. 2 <br/>
 </td>
-<td>
-<p>   Etat de mal épileptique partiel complexe </p>
+<td align="center">
+<br/>Etat de mal épileptique partiel complexe  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G41. 8 </p>
+<td align="center">
+<br/>G41. 8 <br/>
 </td>
-<td>
-<p>   Autres états de mal épileptique </p>
+<td align="center">
+<br/>Autres états de mal épileptique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G61. 0 </p>
+<td align="center">
+<br/>G61. 0 <br/>
 </td>
-<td>
-<p>   Syndrome de Guillain-Barré </p>
+<td align="center">
+<br/>Syndrome de Guillain-Barré <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G70. 0 </p>
+<td align="center">
+<br/>G70. 0 <br/>
 </td>
-<td>
-<p>   Myasthénie </p>
+<td align="center">
+<br/>Myasthénie <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G70. 2 </p>
+<td align="center">
+<br/>G70. 2 <br/>
 </td>
-<td>
-<p>   Myasthénie congénitale et au cours du développement </p>
+<td align="center">
+<br/>Myasthénie congénitale au cours du développement  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G73. 0 </p>
+<td align="center">
+<br/>G73. 0 <br/>
 </td>
-<td>
-<p>   Syndrome myasthénique au cours de maladies endocriniennes </p>
+<td align="center">
+<br/>Syndrome myasthénique au cours de maladies  endocriniennes <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G73. 1 </p>
+<td align="center">
+<br/>G73. 1 <br/>
 </td>
-<td>
-<p>   Syndrome de Lambert-Eaton </p>
+<td align="center">
+<br/>Syndrome de Lambert-Eaton (C00-D48Æ) <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G73. 2 </p>
+<td align="center">
+<br/>G73. 2 <br/>
 </td>
-<td>
-<p>   Autres syndromes myasthéniques au cours de maladies tumorales </p>
+<td align="center">
+<br/>Autres syndromes myasthéniques au cours de  maladies tumorales (C00-D48Æ) <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   G73. 3 </p>
+<td align="center">
+<br/>G73. 3 <br/>
 </td>
-<td>
-<p>   Syndrome myasthénique au cours d'autres maladies classées ailleurs </p>
+<td align="center">
+<br/>Syndrome myasthénique au cours d'autres maladies  classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I20. 0 </p>
+<td align="center">
+<br/>I20. 0 <br/>
 </td>
-<td>
-<p>   Angine de poitrine instable </p>
+<td align="center">
+<br/>Angine de poitrine instable <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I20. 0 + 0 </p>
+<td align="center">
+<br/>I20. 0 + 0 <br/>
 </td>
-<td>
-<p>   Angine de poitrine [angor] instable avec élévation des marqueurs biochimiques   [enzymes] myocardiques </p>
+<td align="center">
+<br/>Angine de poitrine [angor] instable avec  élévation des marqueurs biochimiques [enzymes] myocardiques <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I20. 1 </p>
+<td align="center">
+<br/>I20. 1 <br/>
 </td>
-<td>
-<p>   Angine de poitrine avec spasme coronaire vérifié </p>
+<td align="center">
+<br/>Angine de poitrine avec spasme coronaire vérifié  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 00 </p>
+<td align="center">
+<br/>I21. 00 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en   charge initiale </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde (de la  paroi) antérieure, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 000 </p>
+<td align="center">
+<br/>I21. 000 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde (de la paroi antérieure), prise en   charge initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde (de la  paroi antérieure), prise en charge initiale, infarctus de 24 heures ou moins  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 10 </p>
+<td align="center">
+<br/>I21. 10 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde (de la paroi inférieure), prise en   charge initiale </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde (de la  paroi inférieure), prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 100 </p>
+<td align="center">
+<br/>I21. 100 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde de la paroi inférieure, prise en   charge initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde de la  paroi inférieure, prise en charge initiale, infarctus de 24 heures ou moins  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 20 </p>
+<td align="center">
+<br/>I21. 20 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde d'autres localisations, prise en   charge initiale </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde d'autres  localisations, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 200 </p>
+<td align="center">
+<br/>I21. 200 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde d'autres localisations, prise en   charge initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde d'autres  localisations, prise en charge initiale, infarctus de 24 heures ou moins  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 30 </p>
+<td align="center">
+<br/>I21. 30 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde de localisation non précisée, prise   en charge initiale </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde de  localisation non précisée, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 300 </p>
+<td align="center">
+<br/>I21. 300 <br/>
 </td>
-<td>
-<p>   Infarctus (transmural aigu) du myocarde de localisation non précisée, prise   en charge initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus (transmural aigu) du myocarde de  localisation non précisée, prise en charge initiale, infarctus de 24 heures ou  moins <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 40 </p>
+<td align="center">
+<br/>I21. 40 <br/>
 </td>
-<td>
-<p>   Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale </p>
+<td align="center">
+<br/>Infarctus sous-endocardique (aigu du myocarde),  prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 400 </p>
+<td align="center">
+<br/>I21. 400 <br/>
 </td>
-<td>
-<p>   Infarctus sous-endocardique (aigu du myocarde), prise en charge initiale,   infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus sous-endocardique (aigu du myocarde),  prise en charge initiale, infarctus de 24 heures ou moins <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 90 </p>
+<td align="center">
+<br/>I21. 90 <br/>
 </td>
-<td>
-<p>   Infarctus (aigu) du myocarde sans précision, prise en charge initiale </p>
+<td align="center">
+<br/>Infarctus (aigu) du myocarde sans précision,  prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I21. 900 </p>
+<td align="center">
+<br/>I21. 900 <br/>
 </td>
-<td>
-<p>   Infarctus (aigu) du myocarde sans précision, prise en charge initiale,   infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus (aigu) du myocarde sans précision,  prise en charge initiale, infarctus de 24 heures ou moins <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 00 </p>
+<td align="center">
+<br/>I22. 00 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition (de la paroi) antérieure, prise en charge   initiale </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition (de la paroi)  antérieure, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 000 </p>
+<td align="center">
+<br/>I22. 000 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition (de la paroi antérieure), prise en charge   initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition (de la paroi  antérieure), prise en charge initiale, infarctus de 24 heures ou moins <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 10 </p>
+<td align="center">
+<br/>I22. 10 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition, de la paroi inférieure, prise en charge   initiale </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition, de la paroi  inférieure, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 100 </p>
+<td align="center">
+<br/>I22. 100 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition (de la paroi inférieure), prise en charge   initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition (de la paroi  inférieure), prise en charge initiale, infarctus de 24 heures ou moins <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 80 </p>
+<td align="center">
+<br/>I22. 80 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition d'autres localisations, prise en charge   initiale </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition d'autres  localisations, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 800 </p>
+<td align="center">
+<br/>I22. 800 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition d'autres localisations, prise en charge   initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition d'autres  localisations, prise en charge initiale, infarctus de 24 heures ou moins  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 90 </p>
+<td align="center">
+<br/>I22. 90 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition de localisation non précisée, prise en   charge initiale </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition de  localisation non précisée, prise en charge initiale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I22. 900 </p>
+<td align="center">
+<br/>I22. 900 <br/>
 </td>
-<td>
-<p>   Infarctus du myocarde à répétition de localisation non précisée, prise en   charge initiale, infarctus de 24 heures ou moins </p>
+<td align="center">
+<br/>Infarctus du myocarde à répétition de  localisation non précisée, prise en charge initiale, infarctus de 24 heures ou  moins <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 0 </p>
+<td align="center">
+<br/>I23. 0 <br/>
 </td>
-<td>
-<p>   Hémopéricarde comme complication récente d'un infarctus aigu du myocarde </p>
+<td align="center">
+<br/>Hémopéricarde comme complication récente d'un  infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 1 </p>
+<td align="center">
+<br/>I23. 1 <br/>
 </td>
-<td>
-<p>   Communication interauriculaire comme complication récente d'un infarctus aigu   du myocarde </p>
+<td align="center">
+<br/>Communication interauriculaire comme  complication récente d'un infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 2 </p>
+<td align="center">
+<br/>I23. 2 <br/>
 </td>
-<td>
-<p>   Communication interventriculaire comme complication récente d'un infarctus   aigu du myocarde </p>
+<td align="center">
+<br/>Communication interventriculaire comme  complication récente d'un infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 3 </p>
+<td align="center">
+<br/>I23. 3 <br/>
 </td>
-<td>
-<p>   Rupture de la paroi cardiaque sans hémopéricarde comme complication récente   d'un infarctus aigu du myocarde </p>
+<td align="center">
+<br/>Rupture de la paroi cardiaque sans hémopéricarde  comme complication récente d'un infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 4 </p>
+<td align="center">
+<br/>I23. 4 <br/>
 </td>
-<td>
-<p>   Rupture des cordages tendineux comme complication récente d'un infarctus aigu   du myocarde </p>
+<td align="center">
+<br/>Rupture des cordages tendineux comme  complication récente d'un infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 5 </p>
+<td align="center">
+<br/>I23. 5 <br/>
 </td>
-<td>
-<p>   Rupture du muscle papillaire comme complication récente d'un infarctus aigu   du myocarde </p>
+<td align="center">
+<br/>Rupture du muscle papillaire comme complication  récente d'un infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 6 </p>
+<td align="center">
+<br/>I23. 6 <br/>
 </td>
-<td>
-<p>   Thrombose de l'oreillette, de l'auricule et du ventricule comme complication   récente d'un infarctus aigu du myocarde </p>
+<td align="center">
+<br/>Thrombose de l'oreillette, de l'auricule et du  ventricule comme complication récente d'un infarctus aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I23. 8 </p>
+<td align="center">
+<br/>I23. 8 <br/>
 </td>
-<td>
-<p>   Autres complications récentes d'un infarctus aigu du myocarde </p>
+<td align="center">
+<br/>Autres complications récentes d'un infarctus  aigu du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I24. 0 </p>
+<td align="center">
+<br/>I24. 0 <br/>
 </td>
-<td>
-<p>   Thrombose coronaire n'entraînant pas un infarctus du myocarde </p>
+<td align="center">
+<br/>Thrombose coronaire n'entraînant pas un  infarctus du myocarde <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I24. 1 </p>
+<td align="center">
+<br/>I24. 1 <br/>
 </td>
-<td>
-<p>   Syndrome de Dressler </p>
+<td align="center">
+<br/>Syndrome de Dressler <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I26. 0 </p>
+<td align="center">
+<br/>I26. 0 <br/>
 </td>
-<td>
-<p>   Embolie pulmonaire, avec mention de cœur pulmonaire aigu </p>
+<td align="center">
+<br/>Embolie pulmonaire, avec mention de cœur  pulmonaire aigu <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I30. 0 </p>
+<td align="center">
+<br/>I30. 0 <br/>
 </td>
-<td>
-<p>   Péricardite idiopathique aiguë non spécifique </p>
+<td align="center">
+<br/>Péricardite idiopathique aiguë non spécifique  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I30. 1 </p>
+<td align="center">
+<br/>I30. 1 <br/>
 </td>
-<td>
-<p>   Péricardite infectieuse </p>
+<td align="center">
+<br/>Péricardite infectieuse <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I31. 1 </p>
+<td align="center">
+<br/>I31. 1 <br/>
 </td>
-<td>
-<p>   Péricardite constrictive chronique </p>
+<td align="center">
+<br/>Péricardite constrictive chronique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I33. 0 </p>
+<td align="center">
+<br/>I33. 0 <br/>
 </td>
-<td>
-<p>   Endocardite infectieuse aiguë et subaiguë </p>
+<td align="center">
+<br/>Endocardite infectieuse (aiguë et subaiguë)  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I33. 9 </p>
+<td align="center">
+<br/>I33. 9 <br/>
 </td>
-<td>
-<p>   Endocardite aiguë, sans précision </p>
+<td align="center">
+<br/>Endocardite aiguë, sans précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I41. 1 </p>
+<td align="center">
+<br/>I41. 1 <br/>
 </td>
-<td>
-<p>   Myocardite au cours de maladies virales classées ailleurs </p>
+<td align="center">
+<br/>Myocardite au cours de maladies virales classées  ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I42. 1 </p>
+<td align="center">
+<br/>I42. 1 <br/>
 </td>
-<td>
-<p>   Myocardiopathie obstructive hypertrophique </p>
+<td align="center">
+<br/>Myocardiopathie obstructive hypertrophique  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I44. 2 </p>
+<td align="center">
+<br/>I44. 2 <br/>
 </td>
-<td>
-<p>   Bloc auriculoventriculaire complet </p>
+<td align="center">
+<br/>Bloc auriculoventriculaire complet <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I45. 5 </p>
+<td align="center">
+<br/>I45. 5 <br/>
 </td>
-<td>
-<p>   Autre bloc cardiaque précisé </p>
+<td align="center">
+<br/>Autre bloc cardiaque précisé <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I45. 8 </p>
+<td align="center">
+<br/>I45. 8 <br/>
 </td>
-<td>
-<p>   Autres troubles précisés de la conduction </p>
+<td align="center">
+<br/>Autres troubles précisés de la conduction  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I47. 2 </p>
+<td align="center">
+<br/>I47. 2 <br/>
 </td>
-<td>
-<p>   Tachycardie ventriculaire </p>
+<td align="center">
+<br/>Tachycardie ventriculaire <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I50. 1 </p>
+<td align="center">
+<br/>I50. 1 <br/>
 </td>
-<td>
-<p>   Insuffisance ventriculaire gauche </p>
+<td align="center">
+<br/>Insuffisance ventriculaire gauche <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GLLD003 </p>
+<td align="center">
+<br/>GLLD003 <br/>
 </td>
-<td>
-<p>   Ventilation spontanée au masque facial, par canule nasale ou par sonde   nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive   [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures </p>
+<td align="center">
+<br/>Ventilation spontanée au masque facial, par  canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression  expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I50. 1 </p>
+<td align="center">
+<br/>I50. 1 <br/>
 </td>
-<td>
-<p>   Insuffisance ventriculaire gauche </p>
+<td align="center">
+<br/>Insuffisance ventriculaire gauche <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GLLD017 </p>
+<td align="center">
+<br/>GLLD017 <br/>
 </td>
-<td>
-<p>   Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la   ventilation mécanique, par 24 heures </p>
+<td align="center">
+<br/>Oxygénothérapie avec surveillance continue de  l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I67. 4 </p>
+<td align="center">
+<br/>I67. 4 <br/>
 </td>
-<td>
-<p>   Encéphalopathie hypertensive </p>
+<td align="center">
+<br/>Encéphalopathie hypertensive <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I85. 0 </p>
+<td align="center">
+<br/>I85. 0 <br/>
 </td>
-<td>
-<p>   Varices œsophagiennes hémorragiques </p>
+<td align="center">
+<br/>Varices œsophagiennes hémorragiques <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   I98. 3 </p>
+<td align="center">
+<br/>I98. 3 <br/>
 </td>
-<td>
-<p>   Varices œsophagiennes hémorragiques au cours de maladies classées ailleurs </p>
+<td align="center">
+<br/>Varices œsophagiennes hémorragiques au cours de  maladies classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J46 </p>
+<td align="center">
+<br/>J46 <br/>
 </td>
-<td>
-<p>   Etat de mal asthmatique </p>
+<td align="center">
+<br/>Etat de mal asthmatique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J68. 0 </p>
+<td align="center">
+<br/>J68. 0 <br/>
 </td>
-<td>
-<p>   Bronchite et pneumopathie dues à des agents chimiques, des émanations, des   fumées et des gaz </p>
+<td align="center">
+<br/>Bronchite et pneumopathie dues à des agents  chimiques, des émanations, des fumées et des gaz <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GELD005 </p>
+<td align="center">
+<br/>GELD005 <br/>
 </td>
-<td>
-<p>   Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec   surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et   surveillance de la fréquence cardiaque, pendant au moins 2 heures </p>
+<td align="center">
+<br/>Nébulisation d'agent thérapeutique à destination  bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure  transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins  2 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J90 </p>
+<td align="center">
+<br/>J90 <br/>
 </td>
-<td>
-<p>   Epanchement pleural, non classé ailleurs </p>
+<td align="center">
+<br/>Epanchement pleural, non classé ailleurs  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J91 </p>
+<td align="center">
+<br/>J91 <br/>
 </td>
-<td>
-<p>   Epanchement pleural au cours de maladies classées ailleurs </p>
+<td align="center">
+<br/>Epanchement pleural au cours de maladies  classées ailleurs <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J93. 0 </p>
+<td align="center">
+<br/>J93. 0 <br/>
 </td>
-<td>
-<p>   Pneumothorax spontané avec pression positive </p>
+<td align="center">
+<br/>Pneumothorax spontané avec pression positive  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J93. 1 </p>
+<td align="center">
+<br/>J93. 1 <br/>
 </td>
-<td>
-<p>   Autres pneumothorax spontanés </p>
+<td align="center">
+<br/>Autres pneumothorax spontanés <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J93. 8 </p>
+<td align="center">
+<br/>J93. 8 <br/>
 </td>
-<td>
-<p>   Autres pneumothorax </p>
+<td align="center">
+<br/>Autres pneumothorax <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J93. 9 </p>
+<td align="center">
+<br/>J93. 9 <br/>
 </td>
-<td>
-<p>   Pneumothorax, sans précision </p>
+<td align="center">
+<br/>Pneumothorax, sans précision <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J96. 0 </p>
+<td align="center">
+<br/>J96. 0 <br/>
 </td>
-<td>
-<p>   Insuffisance respiratoire aiguë </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GLLD003 </p>
+<td align="center">
+<br/>GLLD003 <br/>
 </td>
-<td>
-<p>   Ventilation spontanée au masque facial, par canule nasale ou par sonde   nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive   [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures </p>
+<td align="center">
+<br/>Ventilation spontanée au masque facial, par  canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression  expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J96. 0 </p>
+<td align="center">
+<br/>J96. 0 <br/>
 </td>
-<td>
-<p>   Insuffisance respiratoire aiguë </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GLLD015 </p>
+<td align="center">
+<br/>GLLD015 <br/>
 </td>
-<td>
-<p>   Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP]   inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures </p>
+<td align="center">
+<br/>Ventilation mécanique intratrachéale avec  pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure  ou égale à 60 %, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   J96. 0 </p>
+<td align="center">
+<br/>J96. 0 <br/>
 </td>
-<td>
-<p>   Insuffisance respiratoire aiguë </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GLLD017 </p>
+<td align="center">
+<br/>GLLD017 <br/>
 </td>
-<td>
-<p>   Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la   ventilation mécanique, par 24 heures </p>
+<td align="center">
+<br/>Oxygénothérapie avec surveillance continue de  l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K25. 0 </p>
+<td align="center">
+<br/>J96. 00 <br/>
 </td>
-<td>
-<p>   Ulcère de l'estomac aigu, avec hémorragie </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë de type I  [hypoxique] <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>GLLD003 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Ventilation spontanée au masque facial, par  canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression  expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K25. 2 </p>
+<td align="center">
+<br/>J96. 00 <br/>
 </td>
-<td>
-<p>   Ulcère de l'estomac aigu, avec hémorragie et perforation </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë de type I  [hypoxique] <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>GLLD015 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse   sanguine </p>
+<td align="center">
+<br/>Ventilation mécanique intratrachéale avec  pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure  ou égale à 60 %, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K25. 4 </p>
+<td align="center">
+<br/>J96. 00 <br/>
 </td>
-<td>
-<p>   Ulcère de l'estomac chronique ou non précisé, avec hémorragie </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë de type I  [hypoxique] <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>GLLD017 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Oxygénothérapie avec surveillance continue de  l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K26. 0 </p>
+<td align="center">
+<br/>J96. 01 <br/>
 </td>
-<td>
-<p>   Ulcère du duodénum aigu, avec hémorragie </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë de type II  [hypercapnique] <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>GLLD003 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Ventilation spontanée au masque facial, par  canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression  expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K26. 2 </p>
+<td align="center">
+<br/>J96. 01 <br/>
 </td>
-<td>
-<p>   Ulcère du duodénum aigu, avec hémorragie et perforation </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë de type II  [hypercapnique] <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>GLLD015 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Ventilation mécanique intratrachéale avec  pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure  ou égale à 60 %, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K26. 4 </p>
+<td align="center">
+<br/>J96. 01 <br/>
 </td>
-<td>
-<p>   Ulcère du duodénum chronique ou non précisé, avec hémorragie </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë de type II  [hypercapnique] <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>GLLD017 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Oxygénothérapie avec surveillance continue de  l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 0 </p>
+<td align="center">
+<br/>J96. 09 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn de l'intestin grêle </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë, type non  précisé <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>GLLD003 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Ventilation spontanée au masque facial, par  canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression  expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 0 </p>
+<td align="center">
+<br/>J96. 09 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn de l'intestin grêle </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë, type non  précisé <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>GLLD015 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Ventilation mécanique intratrachéale avec  pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure  ou égale à 60 %, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 0 </p>
+<td align="center">
+<br/>J96. 09 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn de l'intestin grêle </p>
+<td align="center">
+<br/>Insuffisance respiratoire aiguë, type non  précisé <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>GLLD017 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Oxygénothérapie avec surveillance continue de  l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 1 </p>
+<td align="center">
+<br/>K25. 0 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn du gros intestin </p>
+<td align="center">
+<br/>Ulcère de l'estomac aigu, avec hémorragie  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 1 </p>
+<td align="center">
+<br/>K25. 2 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn du gros intestin </p>
+<td align="center">
+<br/>Ulcère de l'estomac aigu, avec hémorragie et  perforation <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 1 </p>
+<td align="center">
+<br/>K25. 4 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn du gros intestin </p>
+<td align="center">
+<br/>Ulcère de l'estomac chronique ou non précisé,  avec hémorragie <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 8 </p>
+<td align="center">
+<br/>K26. 0 <br/>
 </td>
-<td>
-<p>   Autres formes de la maladie de Crohn </p>
+<td align="center">
+<br/>Ulcère du duodénum aigu, avec hémorragie  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 8 </p>
+<td align="center">
+<br/>K26. 2 <br/>
 </td>
-<td>
-<p>   Autres formes de la maladie de Crohn </p>
+<td align="center">
+<br/>Ulcère du duodénum aigu, avec hémorragie et  perforation <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 8 </p>
+<td align="center">
+<br/>K26. 4 <br/>
 </td>
-<td>
-<p>   Autres formes de la maladie de Crohn </p>
+<td align="center">
+<br/>Ulcère du duodénum chronique ou non précisé,  avec hémorragie <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demimasse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 9 </p>
+<td align="center">
+<br/>K50. 0 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn, sans précision </p>
+<td align="center">
+<br/>Maladie de Crohn de l'intestin grêle <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 9 </p>
+<td align="center">
+<br/>K50. 0 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn, sans précision </p>
+<td align="center">
+<br/>Maladie de Crohn de l'intestin grêle <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K50. 9 </p>
+<td align="center">
+<br/>K50. 0 <br/>
 </td>
-<td>
-<p>   Maladie de Crohn, sans précision </p>
+<td align="center">
+<br/>Maladie de Crohn de l'intestin grêle <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 0 </p>
+<td align="center">
+<br/>K50. 1 <br/>
 </td>
-<td>
-<p>   Pancolite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Maladie de Crohn du gros intestin <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 0 </p>
+<td align="center">
+<br/>K50. 1 <br/>
 </td>
-<td>
-<p>   Pancolite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Maladie de Crohn du gros intestin <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 0 </p>
+<td align="center">
+<br/>K50. 1 <br/>
 </td>
-<td>
-<p>   Pancolite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Maladie de Crohn du gros intestin <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 2 </p>
+<td align="center">
+<br/>K50. 8 <br/>
 </td>
-<td>
-<p>   Rectite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Autres formes de la maladie de Crohn <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 2 </p>
+<td align="center">
+<br/>K50. 8 <br/>
 </td>
-<td>
-<p>   Rectite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Autres formes de la maladie de Crohn <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 2 </p>
+<td align="center">
+<br/>K50. 8 <br/>
 </td>
-<td>
-<p>   Rectite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Autres formes de la maladie de Crohn <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 3 </p>
+<td align="center">
+<br/>K50. 9 <br/>
 </td>
-<td>
-<p>   Recto-sigmoïdite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Maladie de Crohn, sans précision <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 3 </p>
+<td align="center">
+<br/>K50. 9 <br/>
 </td>
-<td>
-<p>   Recto-sigmoïdite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Maladie de Crohn, sans précision <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 3 </p>
+<td align="center">
+<br/>K50. 9 <br/>
 </td>
-<td>
-<p>   Recto-sigmoïdite ulcéreuse (chronique) </p>
+<td align="center">
+<br/>Maladie de Crohn, sans précision <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 4 </p>
+<td align="center">
+<br/>K51. 0 <br/>
 </td>
-<td>
-<p>   Polypes coliques inflammatoires </p>
+<td align="center">
+<br/>Pancolite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 4 </p>
+<td align="center">
+<br/>K51. 0 <br/>
 </td>
-<td>
-<p>   Polypes coliques inflammatoires </p>
+<td align="center">
+<br/>Pancolite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 4 </p>
+<td align="center">
+<br/>K51. 0 <br/>
 </td>
-<td>
-<p>   Polypes coliques inflammatoires </p>
+<td align="center">
+<br/>Pancolite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 5 </p>
+<td align="center">
+<br/>K51. 2 <br/>
 </td>
-<td>
-<p>   Colite ulcéreuse gauche </p>
+<td align="center">
+<br/>Rectite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 5 </p>
+<td align="center">
+<br/>K51. 2 <br/>
 </td>
-<td>
-<p>   Colite ulcéreuse gauche </p>
+<td align="center">
+<br/>Rectite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 5 </p>
+<td align="center">
+<br/>K51. 2 <br/>
 </td>
-<td>
-<p>   Colite ulcéreuse gauche </p>
+<td align="center">
+<br/>Rectite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 8 </p>
+<td align="center">
+<br/>K51. 3 <br/>
 </td>
-<td>
-<p>   Autres rectocolites hémorragiques </p>
+<td align="center">
+<br/>Recto-sigmoïdite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 8 </p>
+<td align="center">
+<br/>K51. 3 <br/>
 </td>
-<td>
-<p>   Autres rectocolites hémorragiques </p>
+<td align="center">
+<br/>Recto-sigmoïdite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 8 </p>
+<td align="center">
+<br/>K51. 3 <br/>
 </td>
-<td>
-<p>   Autres rectocolites hémorragiques </p>
+<td align="center">
+<br/>Recto-sigmoïdite ulcéreuse (chronique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 9 </p>
+<td align="center">
+<br/>K51. 4 <br/>
 </td>
-<td>
-<p>   Rectocolite hémorragique, sans précision </p>
+<td align="center">
+<br/>Polypes coliques inflammatoires <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF001 </p>
+<td align="center">
+<br/>HSLF001 <br/>
 </td>
-<td>
-<p>   Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories   par kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 9 </p>
+<td align="center">
+<br/>K51. 4 <br/>
 </td>
-<td>
-<p>   Rectocolite hémorragique, sans précision </p>
+<td align="center">
+<br/>Polypes coliques inflammatoires <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF002 </p>
+<td align="center">
+<br/>HSLF002 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme   par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K51. 9 </p>
+<td align="center">
+<br/>K51. 4 <br/>
 </td>
-<td>
-<p>   Rectocolite hémorragique, sans précision </p>
+<td align="center">
+<br/>Polypes coliques inflammatoires <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLF003 </p>
+<td align="center">
+<br/>HSLF003 <br/>
 </td>
-<td>
-<p>   Alimentation parentérale avec apport de plus de 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K85. 0 </p>
+<td align="center">
+<br/>K51. 5 <br/>
 </td>
-<td>
-<p>   Pancréatite aiguë idiopathique </p>
+<td align="center">
+<br/>Colite ulcéreuse gauche <br/>
 </td>
-<td>
-<p align="center">
-<br/>
-</p>
+<td align="center">
+<br/>HSLF001 <br/>
+</td>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 5 <br/>
+</td>
+<td align="center">
+<br/>Colite ulcéreuse gauche <br/>
+</td>
+<td align="center">
+<br/>HSLF002 <br/>
+</td>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 5 <br/>
+</td>
+<td align="center">
+<br/>Colite ulcéreuse gauche <br/>
+</td>
+<td align="center">
+<br/>HSLF003 <br/>
+</td>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 8 <br/>
+</td>
+<td align="center">
+<br/>Autres recto-colites hémorragiques <br/>
+</td>
+<td align="center">
+<br/>HSLF001 <br/>
+</td>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 8 <br/>
+</td>
+<td align="center">
+<br/>Autres recto-colites hémorragiques <br/>
+</td>
+<td align="center">
+<br/>HSLF002 <br/>
+</td>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 8 <br/>
+</td>
+<td align="center">
+<br/>Autres recto-colites hémorragiques <br/>
+</td>
+<td align="center">
+<br/>HSLF003 <br/>
+</td>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
 </td>
-<td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 9 <br/>
+</td>
+<td align="center">
+<br/>Recto-colite hémorragique, sans précision  <br/>
+</td>
+<td align="center">
+<br/>HSLF001 <br/>
+</td>
+<td align="center">
+<br/>Alimentation entérale et parentérale, avec  apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par  24 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 9 <br/>
+</td>
+<td align="center">
+<br/>Recto-colite hémorragique, sans précision  <br/>
+</td>
+<td align="center">
+<br/>HSLF002 <br/>
+</td>
+<td align="center">
+<br/>Alimentation parentérale avec apport de 20 à 35  kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K51. 9 <br/>
+</td>
+<td align="center">
+<br/>Recto-colite hémorragique, sans précision  <br/>
+</td>
+<td align="center">
+<br/>HSLF003 <br/>
+</td>
+<td align="center">
+<br/>Alimentation parentérale avec apport de plus de  35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K85. 0 <br/>
+</td>
+<td align="center">
+<br/>Pancréatite aiguë idiopathique <br/>
+</td>
+<td align="center">
+<br/>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K85. 1 </p>
+<td align="center">
+<br/>K85. 1 <br/>
 </td>
-<td>
-<p>   Pancréatite aiguë d'origine biliaire </p>
+<td align="center">
+<br/>Pancréatite aiguë d'origine biliaire <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K85. 2 </p>
+<td align="center">
+<br/>K85. 2 <br/>
 </td>
-<td>
-<p>   Pancréatite aiguë alcoolique </p>
+<td align="center">
+<br/>Pancréatite aiguë d'origine alcoolique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K85. 3 </p>
+<td align="center">
+<br/>K85. 3 <br/>
 </td>
-<td>
-<p>   Pancréatite aiguë médicamenteuse </p>
+<td align="center">
+<br/>Pancréatite aiguë médicamenteuse <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K85. 8 </p>
+<td align="center">
+<br/>K85. 8 <br/>
 </td>
-<td>
-<p>   Autres pancréatites aiguës </p>
+<td align="center">
+<br/>Autres pancréatites aiguës <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K85. 9 </p>
+<td align="center">
+<br/>K85. 9 <br/>
 </td>
-<td>
-<p>   Pancréatite aiguë, sans précision </p>
+<td align="center">
+<br/>Pancréatite aiguë, sans précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K92. 0 </p>
+<td align="center">
+<br/>K92. 0 <br/>
 </td>
-<td>
-<p>   Hématémèse </p>
+<td align="center">
+<br/>Hématémèse <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demi-masse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K92. 1 </p>
+<td align="center">
+<br/>K92. 1 <br/>
 </td>
-<td>
-<p>   Mélæna </p>
+<td align="center">
+<br/>Melæna <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demi-masse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   K92. 2 </p>
+<td align="center">
+<br/>K92. 2 <br/>
 </td>
-<td>
-<p>   Hémorragie gastro-intestinale, sans précision </p>
+<td align="center">
+<br/>Hémorragie gastro-intestinale, sans précision  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demi-masse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   L. 51.20 </p>
+<td align="center">
+<br/>L. 51.20 <br/>
 </td>
-<td>
-<p>   Epidermolyse nécrosante suraiguë [Lyell] avec décollement égal ou supérieur à   30 % (de la surface du corps) </p>
+<td align="center">
+<br/>Epidermolyse nécrosante suraiguë [Lyell] avec  décollement égal ou supérieur à 30 % (de la surface du corps) <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   L. 51.29 </p>
+<td align="center">
+<br/>L. 51.29 <br/>
 </td>
-<td>
-<p>   Epidermolyse nécrosante suraiguë [Lyell] avec décollement inférieur à 30 %   (de la surface du corps) ou sans précision </p>
+<td align="center">
+<br/>Epidermolyse nécrosante suraiguë [Lyell] avec  décollement inférieur à 30 % (de la surface du corps) et sans précison <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 6 </p>
+<td align="center">
+<br/>M72. 6 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante </p>
+<td align="center">
+<br/>Fasciite nécrosante <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 60 </p>
+<td align="center">
+<br/>M72. 60 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Sièges multiples </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Sièges multiples <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 61 </p>
+<td align="center">
+<br/>M72. 61 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Région scapulaire </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Région scapulaire  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 62 </p>
+<td align="center">
+<br/>M72. 62 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Bras </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Bras <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 63 </p>
+<td align="center">
+<br/>M72. 63 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Avant-bras </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Avant-bras <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 64 </p>
+<td align="center">
+<br/>M72. 64 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Main </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Main <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 65 </p>
+<td align="center">
+<br/>M72. 65 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Région pelvienne et cuisse </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Région pelvienne et cuisse  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 66 </p>
+<td align="center">
+<br/>M72. 66 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Jambe </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Jambe <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 67 </p>
+<td align="center">
+<br/>M72. 67 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Cheville et pied </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Cheville et pied <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 68 </p>
+<td align="center">
+<br/>M72. 68 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Autres localisations </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Autres localisations  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   M72. 69 </p>
+<td align="center">
+<br/>M72. 69 <br/>
 </td>
-<td>
-<p>   Fasciite nécrosante ― Siège non précisé </p>
+<td align="center">
+<br/>Fasciite nécrosante ― Siège non précisé  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   N17. 0 </p>
+<td align="center">
+<br/>N17. 0 <br/>
 </td>
-<td>
-<p>   Insuffisance rénale aiguë avec nécrose tubulaire </p>
+<td align="center">
+<br/>Insuffisance rénale aiguë avec nécrose tubulaire  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   N17. 1 </p>
+<td align="center">
+<br/>N17. 1 <br/>
 </td>
-<td>
-<p>   Insuffisance rénale aiguë avec nécrose corticale aiguë </p>
+<td align="center">
+<br/>Insuffisance rénale aiguë avec nécrose corticale  aiguë <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   N17. 2 </p>
+<td align="center">
+<br/>N17. 2 <br/>
 </td>
-<td>
-<p>   Insuffisance rénale aiguë avec nécrose médullaire </p>
+<td align="center">
+<br/>Insuffisance rénale aiguë avec nécrose  médullaire <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O14. 1 </p>
+<td align="center">
+<br/>O14. 1 <br/>
 </td>
-<td>
-<p>   Prééclampsie sévère </p>
+<td align="center">
+<br/>Prééclampsie sévère <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O15. 0 </p>
+<td align="center">
+<br/>O15. 0 <br/>
 </td>
-<td>
-<p>   Eclampsie au cours de la grossesse </p>
+<td align="center">
+<br/>Eclampsie au cours de la grossesse <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O15. 1 </p>
+<td align="center">
+<br/>O15. 1 <br/>
 </td>
-<td>
-<p>   Eclampsie au cours du travail </p>
+<td align="center">
+<br/>Eclampsie au cours du travail <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O15. 2 </p>
+<td align="center">
+<br/>O15. 2 <br/>
 </td>
-<td>
-<p>   Eclampsie au cours de la puerpéralité </p>
+<td align="center">
+<br/>Eclampsie au cours de la puerpéralité <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O15. 9 </p>
+<td align="center">
+<br/>O15. 9 <br/>
 </td>
-<td>
-<p>   Eclampsie, sans précision quant à la période </p>
+<td align="center">
+<br/>Eclampsie, sans précision quant à la période  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O72. 0 </p>
+<td align="center">
+<br/>O72. 0 <br/>
 </td>
-<td>
-<p>   Hémorragie de la délivrance (troisième période) </p>
+<td align="center">
+<br/>Hémorragie de la délivrance (troisième période)  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demi-masse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O72. 1 </p>
+<td align="center">
+<br/>O72. 1 <br/>
 </td>
-<td>
-<p>   Autres hémorragies immédiates du post-partum </p>
+<td align="center">
+<br/>Autres hémorragies immédiates du post-partum  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demi-masse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   O72. 2 </p>
+<td align="center">
+<br/>O72. 2 <br/>
 </td>
-<td>
-<p>   hémorragie du post-partum, tardive et secondaire </p>
+<td align="center">
+<br/>Hémorragie du post-partum, tardive et secondaire  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   FELF011 </p>
+<td align="center">
+<br/>FELF011 <br/>
 </td>
-<td>
-<p>   Transfusion de concentré de globules rouges d'un volume inférieur à une   demimasse sanguine </p>
+<td align="center">
+<br/>Transfusion de concentré de globules rouges d'un  volume inférieur à une demi-masse sanguine <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 40.20 </p>
+<td align="center">
+<br/>R40. 20 <br/>
 </td>
-<td>
-<p>   Etat végétatif chronique </p>
+<td align="center">
+<br/>Etat végétatif chronique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 40.28 </p>
+<td align="center">
+<br/>R40. 28 <br/>
 </td>
-<td>
-<p>   Coma, autre et sans précision </p>
+<td align="center">
+<br/>Coma, autre et sans précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
+<br/>
 <br/>
-</p>
 </td>
-<td>
+<td align="center">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 57.0 </p>
+<td align="center">
+<br/>R57. 0 <br/>
 </td>
-<td>
-<p>   Choc cardiogénique </p>
+<td align="center">
+<br/>Choc cardiogénique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   EQLF001 </p>
+<td align="center">
+<br/>EQLF001 <br/>
 </td>
-<td>
-<p>   Injection intraveineuse continue de dobutamine ou de dopamine à débit   inférieur à 8 µgrammes par kilogramme par minute [µg/ kg/ min], ou de   dopexamine en dehors de la période néonatale, par 24 heures </p>
+<td align="center">
+<br/>Injection intraveineuse continue de dobutamine  ou de dopamine à débit inférieur à 8 µgrammes par kilogramme par minute [µg/ kg/  min], ou de dopexamine en dehors de la période néonatale, par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 57.1 </p>
+<td align="center">
+<br/>R57. 1 <br/>
 </td>
-<td>
-<p>   Choc hypovolémique </p>
+<td align="center">
+<br/>Choc hypovolémique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   ENLF001 </p>
+<td align="center">
+<br/>ENLF001 <br/>
 </td>
-<td>
-<p>   Pose de dispositif intraartériel de surveillance de la pression   intraartérielle </p>
+<td align="center">
+<br/>Pose de dispositif intra-artériel de  surveillance de la pression intra-artérielle <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 57.1 </p>
+<td align="center">
+<br/>R57. 1 <br/>
 </td>
-<td>
-<p>   Choc hypovolémique </p>
+<td align="center">
+<br/>Choc hypovolémique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   EPLF002 </p>
+<td align="center">
+<br/>EPLF002 <br/>
 </td>
-<td>
-<p>   Pose d'un cathéter veineux central, par voie transcutanée </p>
+<td align="center">
+<br/>Pose d'un cathéter veineux central, par voie  transcutanée <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 57.1 </p>
+<td align="center">
+<br/>R57. 1 <br/>
 </td>
-<td>
-<p>   Choc hypovolémique </p>
+<td align="center">
+<br/>Choc hypovolémique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   EQLF002 </p>
+<td align="center">
+<br/>EQLF002 <br/>
 </td>
-<td>
-<p>   Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50   millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte </p>
+<td align="center">
+<br/>Perfusion intraveineuse de produit de  remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en  moins de 24 heures, chez l'adulte <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 57.2 </p>
+<td align="center">
+<br/>R57. 2 <br/>
 </td>
-<td>
-<p>   Choc septique </p>
+<td align="center">
+<br/>Choc septique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 57.8 </p>
+<td align="center">
+<br/>R57. 8 <br/>
 </td>
-<td>
-<p>   Autres chocs </p>
+<td align="center">
+<br/>Autres chocs <br/>
 </td>
-<td>
-<p align="center">
-<br/>   EQLF001 </p>
+<td align="center">
+<br/>EQLF001 <br/>
 </td>
-<td>
-<p>   Injection intraveineuse continue de dobutamine ou de dopamine à débit   inférieur à 8 µgrammes par kilogramme par minute [µg/ kg/ min], ou de   dopexamine en dehors de la période néonatale, par 24 heures </p>
+<td align="center">
+<br/>Injection intraveineuse continue de dobutamine  ou de dopamine à débit inférieur à 8 µgrammes par kilogramme par minute [µg/ kg/  min], ou de dopexamine en dehors de la période néonatale, par 24 heures  <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 65.1 </p>
+<td align="center">
+<br/>R65. 1 <br/>
 </td>
-<td>
-<p>   Syndrome de réponse inflammatoire systémique d'origine infectieuse avec   défaillance d'organe </p>
+<td align="center">
+<br/>Syndrome de réponse inflammatoire systémique  d'origine infectieuse avec défaillance d'organe <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   R. 65.3 </p>
+<td align="center">
+<br/>R65. 3 <br/>
 </td>
-<td>
-<p>   Syndrome de réponse inflammatoire systémique d'origine non infectieuse avec   défaillance d'organe </p>
+<td align="center">
+<br/>Syndrome de réponse inflammatoire systémique  d'origine non infectieuse avec défaillance d'organe <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 00 </p>
+<td align="center">
+<br/>S06. 00 <br/>
 </td>
-<td>
-<p>   Commotion cérébrale, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Commotion cérébrale, sans plaie intracrânienne  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 10 </p>
+<td align="center">
+<br/>S06. 10 <br/>
 </td>
-<td>
-<p>   Œdème cérébral traumatique, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Œdème cérébral traumatique, sans plaie  intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 20 </p>
+<td align="center">
+<br/>S06. 20 <br/>
 </td>
-<td>
-<p>   Lésion traumatique cérébrale diffuse, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Lésion traumatique cérébrale diffuse, sans plaie  intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 30 </p>
+<td align="center">
+<br/>S06. 30 <br/>
 </td>
-<td>
-<p>   Lésion traumatique cérébrale en foyer, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Lésion traumatique cérébrale en foyer, sans  plaie intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 40 </p>
+<td align="center">
+<br/>S06. 40 <br/>
 </td>
-<td>
-<p>   Hémorragie épidurale, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Hémorragie épidurale, sans plaie intracrânienne  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 50 </p>
+<td align="center">
+<br/>S06. 50 <br/>
 </td>
-<td>
-<p>   Hémorragie sousdurale traumatique, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Hémorragie sous-durale traumatique, sans plaie  intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 60 </p>
+<td align="center">
+<br/>S06. 60 <br/>
 </td>
-<td>
-<p>   Hémorragie sousarachnoïdienne traumatique, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Hémorragie sous-arachnoïdienne traumatique, sans  plaie intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 70 </p>
+<td align="center">
+<br/>S06. 70 <br/>
 </td>
-<td>
-<p>   Lésion traumatique intracrânienne avec coma prolongé, sans plaie   intracrânienne </p>
+<td align="center">
+<br/>Lésion traumatique intracrânienne avec coma  prolongé, sans plaie intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S06. 80 </p>
+<td align="center">
+<br/>S06. 80 <br/>
 </td>
-<td>
-<p>   Autres lésions traumatiques intracrâniennes, sans plaie intracrânienne </p>
+<td align="center">
+<br/>Autres lésions traumatiques intracrâniennes,  sans plaie intracrânienne <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S12. 00 </p>
+<td align="center">
+<br/>S12. 00 <br/>
 </td>
-<td>
-<p>   Fracture fermée de la première vertèbre cervicale </p>
+<td align="center">
+<br/>Fracture fermée de la première vertèbre  cervicale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S12. 10 </p>
+<td align="center">
+<br/>S12. 10 <br/>
 </td>
-<td>
-<p>   Fracture fermée de la deuxième vertèbre cervicale </p>
+<td align="center">
+<br/>Fracture fermée de la deuxième vertèbre  cervicale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S12. 20 </p>
+<td align="center">
+<br/>S12. 20 <br/>
 </td>
-<td>
-<p>   Fracture fermée d'autres vertèbres cervicales précisées </p>
+<td align="center">
+<br/>Fracture fermée d'autres vertèbres cervicales  précisées <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S12. 70 </p>
+<td align="center">
+<br/>S12. 70 <br/>
 </td>
-<td>
-<p>   Fractures fermées multiples du rachis cervical </p>
+<td align="center">
+<br/>Fractures fermées multiples du rachis cervical  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S13. 4 </p>
+<td align="center">
+<br/>S13. 4 <br/>
 </td>
-<td>
-<p>   Entorse et foulure du rachis cervical </p>
+<td align="center">
+<br/>Entorse et foulure du rachis cervical <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 00 </p>
+<td align="center">
+<br/>S27. 00 <br/>
 </td>
-<td>
-<p>   Pneumothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Pneumothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB007 </p>
+<td align="center">
+<br/>AFLB007 <br/>
 </td>
-<td>
-<p>   Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans   guidage </p>
+<td align="center">
+<br/>Injection thérapeutique péridurale [épidurale]  d'agent pharmacologique, sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 00 </p>
+<td align="center">
+<br/>S27. 00 <br/>
 </td>
-<td>
-<p>   Pneumothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Pneumothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB017 </p>
+<td align="center">
+<br/>AFLB017 <br/>
 </td>
-<td>
-<p>   Administration péridurale [épidurale] d'agent pharmacologique au long cours </p>
+<td align="center">
+<br/>Administration péridurale [épidurale] d'agent  pharmacologique au long cours <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 00 </p>
+<td align="center">
+<br/>S27. 00 <br/>
 </td>
-<td>
-<p>   Pneumothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Pneumothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 10 </p>
+<td align="center">
+<br/>S27. 10 <br/>
 </td>
-<td>
-<p>   Hémothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Hémothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB007 </p>
+<td align="center">
+<br/>AFLB007 <br/>
 </td>
-<td>
-<p>   Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans   guidage </p>
+<td align="center">
+<br/>Injection thérapeutique péridurale [épidurale]  d'agent pharmacologique, sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 10 </p>
+<td align="center">
+<br/>S27. 10 <br/>
 </td>
-<td>
-<p>   Hémothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Hémothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB017 </p>
+<td align="center">
+<br/>AFLB017 <br/>
 </td>
-<td>
-<p>   Administration péridurale [épidurale] d'agent pharmacologique au long cours </p>
+<td align="center">
+<br/>Administration péridurale [épidurale] d'agent  pharmacologique au long cours <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 10 </p>
+<td align="center">
+<br/>S27. 10 <br/>
 </td>
-<td>
-<p>   Hémothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Hémothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 20 </p>
+<td align="center">
+<br/>S27. 20 <br/>
 </td>
-<td>
-<p>   Hémopneumothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Hémopneumothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB007 </p>
+<td align="center">
+<br/>AFLB007 <br/>
 </td>
-<td>
-<p>   Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans   guidage </p>
+<td align="center">
+<br/>Injection thérapeutique péridurale [épidurale]  d'agent pharmacologique, sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 20 </p>
+<td align="center">
+<br/>S27. 20 <br/>
 </td>
-<td>
-<p>   Hémopneumothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Hémopneumothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB017 </p>
+<td align="center">
+<br/>AFLB017 <br/>
 </td>
-<td>
-<p>   Administration péridurale [épidurale] d'agent pharmacologique au long cours </p>
+<td align="center">
+<br/>Administration péridurale [épidurale] d'agent  pharmacologique au long cours <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 20 </p>
+<td align="center">
+<br/>S27. 20 <br/>
 </td>
-<td>
-<p>   Hémopneumothorax traumatique, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Hémopneumothorax traumatique, sans plaie  intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 30 </p>
+<td align="center">
+<br/>S27. 30 <br/>
 </td>
-<td>
-<p>   Autres lésions traumatiques du poumon, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Autres lésions traumatiques du poumon, sans  plaie intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB007 </p>
+<td align="center">
+<br/>AFLB007 <br/>
 </td>
-<td>
-<p>   Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans   guidage </p>
+<td align="center">
+<br/>Injection thérapeutique péridurale [épidurale]  d'agent pharmacologique, sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 30 </p>
+<td align="center">
+<br/>S27. 30 <br/>
 </td>
-<td>
-<p>   Autres lésions traumatiques du poumon, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Autres lésions traumatiques du poumon, sans  plaie intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   AFLB017 </p>
+<td align="center">
+<br/>AFLB017 <br/>
 </td>
-<td>
-<p>   Administration péridurale [épidurale] d'agent pharmacologique au long cours </p>
+<td align="center">
+<br/>Administration péridurale [épidurale] d'agent  pharmacologique au long cours <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S27. 30 </p>
+<td align="center">
+<br/>S27. 30 <br/>
 </td>
-<td>
-<p>   Autres lésions traumatiques du poumon, sans plaie intrathoracique </p>
+<td align="center">
+<br/>Autres lésions traumatiques du poumon, sans  plaie intrathoracique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GGJB001 </p>
+<td align="center">
+<br/>GGJB001 <br/>
 </td>
-<td>
-<p>   Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans   guidage </p>
+<td align="center">
+<br/>Drainage d'un épanchement de la cavité pleurale,  par voie transcutanée sans guidage <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S36. 00 </p>
+<td align="center">
+<br/>S36. 00 <br/>
 </td>
-<td>
-<p>   Lésion traumatique de la rate, sans plaie intra-abdominale </p>
+<td align="center">
+<br/>Lésion traumatique de la rate, sans plaie  intra-abdominale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S36. 01 </p>
+<td align="center">
+<br/>S36. 01 <br/>
 </td>
-<td>
-<p>   Lésion traumatique de la rate, avec plaie intra-abdominale </p>
+<td align="center">
+<br/>Lésion traumatique de la rate, avec plaie  intra-abdominale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S36. 10 </p>
+<td align="center">
+<br/>S36. 10 <br/>
 </td>
-<td>
-<p>   Lésion traumatique du foie et de la vésicule biliaire, sans plaie   intra-abdominale </p>
+<td align="center">
+<br/>Lésion traumatique du foie et de la vésicule  biliaire, sans plaie intra-abdominale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S36. 11 </p>
+<td align="center">
+<br/>S36. 11 <br/>
 </td>
-<td>
-<p>   Lésion traumatique du foie et de la vésicule biliaire, avec plaie   intra-abdominale </p>
+<td align="center">
+<br/>Lésion traumatique du foie et de la vésicule  biliaire, avec plaie intra-abdominale <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S47. + 0 </p>
+<td align="center">
+<br/>S47. + 0 <br/>
 </td>
-<td>
-<p>   Ecrasement de la région scapulaire </p>
+<td align="center">
+<br/>Ecrasement de la région scapulaire <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S77. 0 </p>
+<td align="center">
+<br/>S77. 0 <br/>
 </td>
-<td>
-<p>   Ecrasement de la hanche </p>
+<td align="center">
+<br/>Ecrasement de la hanche <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S77. 1 </p>
+<td align="center">
+<br/>S77. 1 <br/>
 </td>
-<td>
-<p>   Ecrasement de la cuisse </p>
+<td align="center">
+<br/>Ecrasement de la cuisse <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   S77. 2 </p>
+<td align="center">
+<br/>S77. 2 <br/>
 </td>
-<td>
-<p>   Ecrasement de la hanche avec la cuisse </p>
+<td align="center">
+<br/>Ecrasement de la hanche avec la cuisse <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T20. 2 </p>
+<td align="center">
+<br/>T20. 2 <br/>
 </td>
-<td>
-<p>   Brûlure du second degré de la tête et du cou </p>
+<td align="center">
+<br/>Brûlure du second degré de la tête et du cou  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GELD005 </p>
+<td align="center">
+<br/>GELD005 <br/>
 </td>
-<td>
-<p>   Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance   de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de   la fréquence cardiaque, pendant au moins 2 heures </p>
+<td align="center">
+<br/>Nébulisation d'agent thérapeutique à destination  bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure  transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins  2 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T20. 3 </p>
+<td align="center">
+<br/>T20. 3 <br/>
 </td>
-<td>
-<p>   Brûlure du troisième degré de la tête et du cou </p>
+<td align="center">
+<br/>Brûlure du troisième degré de la tête et du cou  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GELD005 </p>
+<td align="center">
+<br/>GELD005 <br/>
 </td>
-<td>
-<p>   Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec   surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et   surveillance de la fréquence cardiaque, pendant au moins 2 heures </p>
+<td align="center">
+<br/>Nébulisation d'agent thérapeutique à destination  bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure  transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins  2 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T20. 6 </p>
+<td align="center">
+<br/>T20. 6 <br/>
 </td>
-<td>
-<p>   Corrosion du second degré de la tête et du cou </p>
+<td align="center">
+<br/>Corrosion du second degré de la tête et du cou  <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GELD005 </p>
+<td align="center">
+<br/>GELD005 <br/>
 </td>
-<td>
-<p>   Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec   surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et   surveillance de la fréquence cardiaque, pendant au moins 2 heures </p>
+<td align="center">
+<br/>Nébulisation d'agent thérapeutique à destination  bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure  transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins  2 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T20. 7 </p>
+<td align="center">
+<br/>T20. 7 <br/>
 </td>
-<td>
-<p>   Corrosion du troisième degré de la tête et du cou </p>
+<td align="center">
+<br/>Corrosion du troisième degré de la tête et du  cou <br/>
 </td>
-<td>
-<p align="center">
-<br/>   GELD005 </p>
+<td align="center">
+<br/>GELD005 <br/>
 </td>
-<td>
-<p>   Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec   surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et   surveillance de la fréquence cardiaque, pendant au moins 2 heures </p>
+<td align="center">
+<br/>Nébulisation d'agent thérapeutique à destination  bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure  transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins  2 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T27. 0 </p>
+<td align="center">
+<br/>T27. 0 <br/>
 </td>
-<td>
-<p>   Brûlure du larynx et de la trachée </p>
+<td align="center">
+<br/>Brûlure du larynx et de la trachée <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T27. 1 </p>
+<td align="center">
+<br/>T27. 1 <br/>
 </td>
-<td>
-<p>   Brûlure comprenant le larynx et la trachée avec les poumons </p>
+<td align="center">
+<br/>Brûlure comprenant le larynx et la trachée avec  les poumons <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T28. 0 </p>
+<td align="center">
+<br/>T28. 0 <br/>
 </td>
-<td>
-<p>   Brûlure de la bouche et du pharynx </p>
+<td align="center">
+<br/>Brûlure de la bouche et du pharynx <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T31. 1 </p>
+<td align="center">
+<br/>T31. 1 <br/>
 </td>
-<td>
-<p>   Brûlures couvrant entre 10 et moins de 20 % de la surface du corps </p>
+<td align="center">
+<br/>Brûlures couvrant entre 10 et moins de 20 % de  la surface du corps <br/>
 </td>
-<td>
-<p align="center">
-<br/>   EQLF002 </p>
+<td align="center">
+<br/>EQLF002 <br/>
 </td>
-<td>
-<p>   Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50   millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte </p>
+<td align="center">
+<br/>Perfusion intraveineuse de produit de  remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en  moins de 24 heures, chez l'adulte <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T31. 1 </p>
+<td align="center">
+<br/>T31. 1 <br/>
 </td>
-<td>
-<p>   Brûlures couvrant entre 10 et moins de 20 % de la surface du corps </p>
+<td align="center">
+<br/>Brûlures couvrant entre 10 et moins de 20 % de  la surface du corps <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLD002 </p>
+<td align="center">
+<br/>HSLD002 <br/>
 </td>
-<td>
-<p>   Alimentation entérale par sonde avec apport &gt; 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Surveillance tonométrique continue du pH  intramuqueux gastrique ou colique et/ ou du gradient gastroartériel ou  coloartériel de la PCO2, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T31. 2 </p>
+<td align="center">
+<br/>T31. 2 <br/>
 </td>
-<td>
-<p>   Brûlures couvrant entre 20 et moins de 30 % de la surface du corps </p>
+<td align="center">
+<br/>Brûlures couvrant entre 20 et moins de 30 % de  la surface du corps <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T32. 1 </p>
+<td align="center">
+<br/>T32. 1 <br/>
 </td>
-<td>
-<p>   Corrosions couvrant entre 10 % et moins de 20 % de la surface du corps </p>
+<td align="center">
+<br/>Corrosions couvrant entre 10 et moins de 20 % de  la surface du corps <br/>
 </td>
-<td>
-<p align="center">
-<br/>   EQLF002 </p>
+<td align="center">
+<br/>EQLF002 <br/>
 </td>
-<td>
-<p>   Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres   par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte </p>
+<td align="center">
+<br/>Perfusion intraveineuse de produit de  remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en  moins de 24 heures, chez l'adulte <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T32. 1 </p>
+<td align="center">
+<br/>T32. 1 <br/>
 </td>
-<td>
-<p>   Corrosions couvrant entre 10 % et moins de 20 % de la surface du corps </p>
+<td align="center">
+<br/>Corrosions couvrant entre 10 et moins de 20 % de  la surface du corps <br/>
 </td>
-<td>
-<p align="center">
-<br/>   HSLD002 </p>
+<td align="center">
+<br/>HSLD002 <br/>
 </td>
-<td>
-<p>   Alimentation entérale par sonde avec apport &gt; 35 kilocalories par   kilogramme par jour [kcal/ kg/ jour], par 24 heures </p>
+<td align="center">
+<br/>Surveillance tonométrique continue du pH  intramuqueux gastrique ou colique et/ ou du gradient gastroartériel ou  coloartériel de la PCO2, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T32. 2 </p>
+<td align="center">
+<br/>T32. 2 <br/>
 </td>
-<td>
-<p>   Corrosions couvrant entre 20 % et moins de 30 % de la surface du corps </p>
+<td align="center">
+<br/>Corrosions couvrant entre 20 et moins de 30 % de  la surface du corps <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T37. 2 </p>
+<td align="center">
+<br/>T37. 2 <br/>
 </td>
-<td>
-<p>   Intoxication par antipaludiques et médicaments agissant sur d'autres   protozoaires du sang </p>
+<td align="center">
+<br/>Intoxication par antipaludiques et médicaments  agissant sur d'autres protozoaires du sang <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T38. 3 </p>
+<td align="center">
+<br/>T38. 3 <br/>
 </td>
-<td>
-<p>   Intoxication par insuline et hypoglycémiants oraux [antidiabétiques] </p>
+<td align="center">
+<br/>Intoxication par insuline et hypoglycémiants  oraux [antidiabétiques] <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T39. 1 </p>
+<td align="center">
+<br/>T39. 1 <br/>
 </td>
-<td>
-<p>   Intoxication par dérivés du 4-aminophénol </p>
+<td align="center">
+<br/>Intoxication par dérivés du 4-aminophénol  <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T44. 7 </p>
+<td align="center">
+<br/>T44. 7 <br/>
 </td>
-<td>
-<p>   Intoxication par bêta-bloquants, non classés ailleurs </p>
+<td align="center">
+<br/>Intoxication par bêta-bloquants, non classés  ailleurs <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T46. 1 </p>
+<td align="center">
+<br/>T46. 1 <br/>
 </td>
-<td>
-<p>   Intoxication par inhibiteurs calciques </p>
+<td align="center">
+<br/>Intoxication par inhibiteurs calciques <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T75. 4 </p>
+<td align="center">
+<br/>T75. 4 <br/>
 </td>
-<td>
-<p>   Effets du courant électrique </p>
+<td align="center">
+<br/>Effets du courant électrique <br/>
 </td>
-<td>
-<p align="center">
-<br/>   DEQP007 </p>
+<td align="center">
+<br/>DEQP007 <br/>
 </td>
-<td>
-<p>   Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou   télésurveillance, avec surveillance continue de la pression intraartérielle   et/ ou de la saturation artérielle en oxygène par méthodes non effractives,   par 24 heures </p>
+<td align="center">
+<br/>Surveillance continue de l'électrocardiogramme  par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la  pression intra-artérielle et/ ou de la saturation artérielle en oxygène par  méthodes non effractives, par 24 heures <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T78. 0 </p>
+<td align="center">
+<br/>T78. 0 <br/>
 </td>
-<td>
-<p>   Choc anaphylactique dû à une intolérance alimentaire </p>
+<td align="center">
+<br/>Choc anaphylactique dû à une intolérance  alimentaire <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T78. 2 </p>
+<td align="center">
+<br/>T78. 2 <br/>
 </td>
-<td>
-<p>   Choc anaphylactique, sans précision </p>
+<td align="center">
+<br/>Choc anaphylactique, sans précision <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T78. 3 </p>
+<td align="center">
+<br/>T78. 3 <br/>
 </td>
-<td>
-<p>   Œdème angioneurotique </p>
+<td align="center">
+<br/>Œdème angioneurotique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T80. 5 </p>
+<td align="center">
+<br/>T80. 5 <br/>
 </td>
-<td>
-<p>   Choc anaphylactique dû au sérum </p>
+<td align="center">
+<br/>Choc anaphylactique dû au sérum <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T88. 2 </p>
+<td align="center">
+<br/>T88. 2 <br/>
 </td>
-<td>
-<p>   Choc anesthésique </p>
+<td align="center">
+<br/>Choc anesthésique <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
-</td>
-<td>
 <br/>
+</td>
+<td align="center">
 <br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">
-<br/>   T88. 6 </p>
+<td align="center">
+<br/>T88. 6 <br/>
 </td>
-<td>
-<p>   Choc anaphylactique dû à des effets indésirables d'une substance   médicamenteuse appropriée et correctement administrée </p>
+<td align="center">
+<br/>Choc anaphylactique dû à des effets indésirables  d'une substance médicamenteuse appropriée et correctement administrée <br/>
 </td>
-<td>
-<p align="center">
+<td align="center">
 <br/>
-</p>
+<br/>
 </td>
-<td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 </tbody>
 </table>
+
 </div>
