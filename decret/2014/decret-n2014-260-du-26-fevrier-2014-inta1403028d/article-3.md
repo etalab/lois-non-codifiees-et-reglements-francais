@@ -1,0 +1,5 @@
+# Article 3
+
+Le canton n° 2 (Boën-sur-Lignon) comprend les communes suivantes : Ailleux, Amions, Arthun, Boën-sur-Lignon, Bully, Bussy-Albieux, Cervières, Cezay, Chalmazel, La Chamba, La Chambonie, Champdieu, Châtelneuf, La Côte-en-Couzan, Dancé, Débats-Rivière-d'Orpra, Essertines-en-Châtelneuf, Grézolles, L'Hôpital-sous-Rochefort, Jeansagnière, Leigneux, Luré, Marcilly-le-Châtel, Marcoux, Montverdun, Noirétable, Nollieux, Palogneux, Pommiers, Pralong, Sail-sous-Couzan, Saint-Bonnet-le-Courreau, Saint-Didier-sur-Rochefort, Saint-Etienne-le-Molard, Saint-Georges-de-Baroille, Saint-Georges-en-Couzan, Saint-Germain-Laval, Saint-Jean-la-Vêtre, Saint-Julien-d'Oddes, Saint-Julien-la-Vêtre, Saint-Just-en-Bas, Saint-Laurent-Rochefort, Saint-Martin-la-Sauveté, Saint-Paul-de-Vézelin, Saint-Polgues, Saint-Priest-la-Vêtre, Saint-Sixte, Saint-Thurin, Sainte-Agathe-la-Bouteresse, Sainte-Foy-Saint-Sulpice, Les Salles, Sauvain, Souternon, Trelins, La Valla-sur-Rochefort.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Boën-sur-Lignon.

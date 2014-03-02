@@ -1,0 +1,5 @@
+# Article 7
+
+Le canton n° 6 (Montauban-1) comprend la partie de la commune de Montauban située à l'ouest d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Bressols, cours du Tarn, Pont-Neuf, avenue Marceau-Hamecher, avenue Chamier, rue Roger-Salengro, avenue Aristide-Briand, ligne de chemin de fer Les Aubrais-Montauban, cours du Tarn, Pont-Vieux, place Antoine-Bourdelle, rue de l'Hôtel-de-Ville, rue du Docteur-Lacaze, place Franklin-Roosevelt, rue Notre-Dame, place du Maréchal-Foch, avenue Léon-Gambetta, place de la Libération, rue Léon-Cladel, avenue du 11e-Régiment-d'Infanterie, avenue de Falguières, rue Henri-Tournié, rue des Primeurs, rue du Colonel-Christian-Gerona, rue du Docteur-Labat, ligne de chemin de fer Les Aubrais-Montauban, chemin de Matras, route départementale 959, chemin Prax-Paris, chemin des Gascous, chemin de Bonnefond, chemin de Fustie, chemin de Bondillou, route de Mirabel, jusqu'à la limite territoriale de la commune de Lamothe-Capdeville.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Montauban.

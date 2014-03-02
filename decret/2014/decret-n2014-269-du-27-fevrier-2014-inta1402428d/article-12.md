@@ -1,0 +1,5 @@
+# Article 12
+
+Le canton n° 11 (Matha) comprend les communes suivantes : Antezant-la-Chapelle, Asnières-la-Giraud, Aulnay, Bagnizeau, Ballans, Bazauges, Beauvais-sur-Matha, Blanzac-lès-Matha, Blanzay-sur-Boutonne, Bresdon, Brie-sous-Matha, La Brousse, Cherbonnières, Chives, Coivert, Contré, Courcelles, Courcerac, Cressé, Dampierre-sur-Boutonne, Les Eduts, Les Eglises-d'Argenteuil, Fontaine-Chalendray, Fontenet, Gibourne, Le Gicq, Gourvillette, Haimps, Loiré-sur-Nie, Louzignac, Macqueville, Massac, Matha, Mons, Néré, Neuvicq-le-Château, Nuaillé-sur-Boutonne, Paillé, Poursay-Garnaud, Prignac, Romazières, Saint-Georges-de-Longuepierre, Saint-Julien-de-l'Escap, Saint-Mandé-sur-Brédoire, Saint-Martial, Saint-Martin-de-Juillers, Saint-Ouen, Saint-Pardoult, Saint-Pierre-de-Juillers, Saint-Pierre-de-l'Isle, Saint-Séverin-sur-Boutonne, Saleignes, Seigné, Siecq, Sonnac, Thors, Les Touches-de-Périgny, Varaize, Vervant, La Villedieu, Villemorin, Villiers-Couture, Vinax.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Matha.

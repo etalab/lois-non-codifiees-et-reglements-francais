@@ -1,0 +1,5 @@
+# Article 17
+
+Le canton n° 16 (La Seyne-sur-Mer-1) comprend la partie de la commune de La Seyne-sur-Mer située au nord d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Six-Fours-les-Plages, chemin de Ferri, chemin des Barelles, route de Janas, cours d'eau, chemin de Fabregas-aux-Moulières, chemin de Fabregas, route départementale 816, chemin de l'Oide, chemin des Deux-Chênes, chemin des Plaines, route de Fabregas, rue du Lotissement « les Acacias », lotissement « les Acacias » jusqu'au croisement de l'avenue Auguste-Renoir, avenue Auguste-Renoir, rond-point, avenue Auguste-Renoir, rond-point du Docteur-Jean-Sauvet, avenue Auguste-Renoir, rond-point Salvador-Allende, avenue Pablo-Neruda, rond-point, avenue Fernand-Léger, avenue Noël-Verlaque, chemin de l'Evescat-aux-Sablettes, avenue Henri-Guillaume, chemin de l'Evescat, chemin de l'Evescat-au-Fort-Caire, avenue du Général-Carmille, avenue Auguste-Plane, jusqu'au littoral.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de La Seyne-sur-Mer.

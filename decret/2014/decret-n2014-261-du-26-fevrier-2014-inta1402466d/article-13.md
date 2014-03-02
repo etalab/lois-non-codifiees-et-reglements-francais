@@ -1,0 +1,5 @@
+# Article 13
+
+Le canton n° 12 (Nancy-1) comprend la partie de la commune de Nancy située à l'ouest et au sud d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Laxou, avenue de la Libération, rue de la Colline, rue Saint-Bodon, rue d'Auxonne, quai Claude-le-Lorrain, passerelle, ligne de chemin de fer, rue Raymond-Poincaré, rue Stanislas, place Stanislas, rue des Dominicains, rue du Pont-Mouja, rue Saint-Nicolas, rue Charles-III, boulevard Lobau, rue Molitor, place du Général-Giraud, rue de la Salle, rond-point, rue des Fabriques, rue de Saint-Dizier, rue de la Salpêtrière, rue des Quatre-Eglises, avenue du Général-Leclerc, rue Boulay-de-la-Meurthe, boulevard de l'Insurrection-du-Ghetto-de-Varsovie, avenue du Général-Leclerc, ligne de chemin de fer, pont des Fusillés, rue de Mon-Désert, rue Emile-Bertin, avenue de la Libération, jusqu'à la limite territoriale de la commune de Villers-lès-Nancy.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Nancy.

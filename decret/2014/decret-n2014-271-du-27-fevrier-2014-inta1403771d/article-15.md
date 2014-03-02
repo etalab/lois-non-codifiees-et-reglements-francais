@@ -1,0 +1,5 @@
+# Article 15
+
+Le canton n° 14 (Marseille-3) comprend la partie de la commune de Marseille située au nord d'une ligne définie par l'axe des voies et limites suivantes : depuis le Cap-Janet, ligne droite tracée jusqu'à l'intersection de l'autoroute A 55 et du chemin du Littoral, chemin du Littoral, boulevard Demandolx, rue de l'Alliance, traverse de la Madrague, chemin de la Madrague-Ville, rue Cazemajou, rue d'Anthoine, avenue Roger-Salengro, traverse du Bachas, boulevard Ferdinand-de-Lesseps, traverse du Bachas, ligne droite dans le prolongement de la traverse du Bachas, ruisseau des Aygalades, boulevard du Capitaine-Gèze, avenue des Aygalades, rue Le Chatelier, ruisseau des Aygalades, autoroute A 7 à partir de l'extrémité de la rue Augustin-Roux, ruisseau des Aygalades, ligne de chemin de fer, autoroute A 7, chemin de Saint-Antoine à Saint-Joseph, traverse de l'Eglise-de-Saint-Antoine, ligne droite dans le prolongement de la traverse de l'Eglise-de-Saint-Antoine, autoroute A 7, canal de Marseille, jusqu'à la limite territoriale de la commune des Pennes-Mirabeau.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Marseille.

@@ -1,0 +1,5 @@
+# Article 19
+
+Le canton n° 18 (Ham) comprend les communes suivantes : Ablaincourt-Pressoir, Assevillers, Athies, Belloy-en-Santerre, Berny-en-Santerre, Béthencourt-sur-Somme, Billancourt, Breuil, Brouchy, Buverchy, Chaulnes, Chuignes, Cizancourt, Croix-Moligneaux, Curchy, Dompierre-Becquincourt, Douilly, Ennemain, Epénancourt, Eppeville, Esmery-Hallon, Estrées-Deniécourt, Falvy, Fay, Fontaine-lès-Cappy, Foucaucourt-en-Santerre, Framerville-Rainecourt, Fresnes-Mazancourt, Grécourt, Ham, Herleville, Hombleux, Hyencourt-le-Grand, Languevoisin-Quiquery, Licourt, Lihons, Marchélepot, Matigny, Mesnil-Saint-Nicaise, Moyencourt, Misery, Monchy-Lagache, Morchain, Muille-Villette, Nesle, Offoy, Omiécourt, Pargny, Pertain, Potte, Proyart, Punchy, Puzeaux, Quivières, Rethonvillers, Rouy-le-Grand, Rouy-le-Petit, Saint-Christ-Briost, Sancourt, Soyécourt, Tertry, Ugny-l'Equipée, Vauvillers, Vermandovillers, Villecourt, Voyennes, Y.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Ham.

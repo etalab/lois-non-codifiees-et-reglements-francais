@@ -1,0 +1,5 @@
+# Article 36
+
+Le canton n° 35 (Yvetot) comprend les communes suivantes : Allouville-Bellefosse, Amfreville-les-Champs, Ancretiéville-Saint-Victor, Anvéville, Autretot, Auzebosc, Auzouville-l'Esneval, Baons-le-Comte, Bénesville, Berville, Bois-Himont, Boudeville, Bourdainville, Bretteville-Saint-Laurent, Butot, Canville-les-Deux-Eglises, Carville-Pot-de-Fer, Cideville, Criquetot-sur-Ouville, Doudeville, Ecretteville-lès-Baons, Ectot-l'Auber, Ectot-lès-Baons, Etalleville, Etoutteville, Flamanville, Fultot, Gonzeville, Grémonville, Harcanville, Hautot-le-Vatois, Hautot-Saint-Sulpice, Héricourt-en-Caux, Hugleville-en-Caux, Lindebeuf, Motteville, Ouville-l'Abbaye, Prétot-Vicquemare, Reuville, Robertot, Routes, Saint-Clair-sur-les-Monts, Saint-Laurent-en-Caux, Saint-Martin-aux-Arbres, Sainte-Marie-des-Champs, Saussay, Le Torp-Mesnil, Touffreville-la-Corbeline, Valliquerville, Veauville-lès-Baons, Vibeuf, Yerville, Yvecrique, Yvetot.
+
+Le bureau centralisateur de ce canton est le bureau centralisateur de la commune d'Yvetot.
