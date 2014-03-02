@@ -16,6 +16,4 @@ III. - Ces conventions fixent en outre :
 
 ― les actions, coordonnées entre les parties contractantes, de prévention et d'information sur la maîtrise de la consommation en énergie et en eau, pour les personnes qui bénéficient d'une aide du fonds de solidarité logement ;
 
-― le cas échéant, les procédures communes de contrôle entre le fonds de solidarité pour le logement et les fournisseurs des documents attestant des aides accordées par le fonds de solidarité pour le logement ;
-
 ― les modalités de contribution des fournisseurs à l'évaluation des besoins prévue à l'article 4 de la loi du 31 mai 1990 susvisée et aux actions du plan départemental d'action pour le logement des personnes défavorisées dans le domaine de la prévention et du traitement des impayés d'eau et d'énergie ainsi qu'à l'évaluation de ces actions.
