@@ -66,23 +66,43 @@ DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) OU DIRECTIONS DÉPARTEMENTALES
 </td>
 </tr>
 <tr>
-<td>DDTM de la Loire-Atlantique </td>
-<td>Loire-Atlantique <p>Vendée<br/>
+<td align="left" valign="top">
+<p align="left">DDTM de la Loire-Atlantique </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Loire-Atlantique </p>
+<p>Vendée<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td>DDT de Vaucluse </td>
-<td>
-<p>Vaucluse</p>
+<td align="left" valign="top">
+<p align="left">DDT de Vaucluse </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Vaucluse</p>
 <p>Alpes-de-Haute-Provence</p>
 <p>Hautes-Alpes</p>
 </td>
 </tr>
 <tr>
-<td>DDT de Seine-et-Marne</td>
-<td>Seine-et-Marne <p>Essonne<br/>
+<td align="left" valign="top">
+<p align="left">DDT de Seine-et-Marne</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Seine-et-Marne </p>
+<p align="left">Essonne<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">DDT de la Creuse </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Creuse </p>
+<p>Corrèze </p>
+<p>Haute-Vienne</p>
 </td>
 </tr>
 </tbody>
