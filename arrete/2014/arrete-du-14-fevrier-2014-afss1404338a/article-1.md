@@ -1,0 +1,3 @@
+# Article 1
+
+Sont approuvés le protocole du 18 avril 2013 définissant les modalités de gestion et de renseignement du Système national d'information interrégimes de l'assurance maladie (SNIIRAM), signé par la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse centrale de mutualité sociale agricole et la Caisse nationale du régime social des indépendants, et son annexe relative au point 4 portant sur l'accès des agences régionales de santé au SNIIRAM, en tant qu'elle prévoit cet accès pour les expérimentations relatives aux personnes âgées en risque de perte d'autonomie (PAERPA) prévues par l'article 48 de la loi n° 2012-1404 du 17 décembre 2012 relative au financement de la sécurité sociale pour 2013.
