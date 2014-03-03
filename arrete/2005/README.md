@@ -66,7 +66,6 @@
 - [Arrêté du 4 mars 2005 (EQUS0401060A)](arrete-du-4-mars-2005-equs0401060a)
 - [Arrêté du 4 novembre 2005 (MENF0502404A)](arrete-du-4-novembre-2005-menf0502404a)
 - [Arrêté du 4 novembre 2005 (SANY0524113A)](arrete-du-4-novembre-2005-sany0524113a)
-- [Arrêté du 4 mai 2005 (SANP0521726A)](arrete-du-4-mai-2005-sanp0521726a)
 - [Arrêté du 5 août 2005 (AGRG0501828A)](arrete-du-5-aout-2005-agrg0501828a)
 - [Arrêté du 5 avril 2005 (DEFD0500474A)](arrete-du-5-avril-2005-defd0500474a)
 - [Arrêté du 5 avril 2005 (DEFD0500475A)](arrete-du-5-avril-2005-defd0500475a)
