@@ -1,78 +1,74 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : agent (e) de maintenance sur équipements bureautiques.
+Intitulé : installateur (trice) dépanneur (se) en informatique (ancien intitulé : agent [e] de maintenance sur équipements bureautiques).
 
 Niveau : V.
 
-Code NSF : 255 r.
+Code NSF : 326 r.
 
 Résumé du référentiel d'emploi
 
-L'agent de maintenance sur équipements bureautiques est un professionnel qui effectue, en clientèle, en atelier ou en boutique, l'intégration, la mise en service, la maintenance d'équipements bureautiques de type ordinateur personnel, station de travail, clients légers ou périphériques selon des procédures opératoires définies. Il assure la traçabilité de ses interventions en complétant les documents administratifs (fiche d'intervention, de suivi, éléments de facturation...).
+L'installateur (trice) dépanneur (se) en informatique est un (e) professionnel (le) qui effectue en atelier, sur site ou en environnement commercial l'intégration, la mise en service, la connexion au réseau, la maintenance et le reconditionnement d'équipements informatiques fixes ou mobiles de type micro-ordinateur, station de travail, tablette, smartphone ou périphérique.
 
-Il doit faire preuve d'autonomie dans son domaine de compétence tout en rendant compte régulièrement à sa hiérarchie. Dans certains environnements, son activité pourra nécessiter une collaboration avec des spécialistes.
+Les postes occupés sont fortement liés au contexte de travail. Dans un environnement d'utilisateurs professionnels (service informatique d'entreprise ou ESN), l'installateur (trice) dépanneur (se) en informatique est technicien (ne) de déploiement ou agent (e) de maintenance informatique intervenant sur site pour effectuer des interventions prédéfinies.
 
-Capacités attestées
+En entreprise spécialisée dans le reconditionnement d'équipements informatiques, il (elle) est agent (e) de récupération. Il (elle) traite les différents équipements, dans le respect de l'environnement, conformément aux normes européennes sur les déchets des équipements électriques et électroniques (DEEE).
 
-et descriptif des composantes de la certification
+Dans un espace commercial (magasin, enseigne nationale), auprès de particuliers, il (elle) est technicien (ne) de services après-vente (SAV) ou technicien (ne) d'atelier et est amené (e), en plus des activités d'installation et dépannage, à conseiller et informer les clients.
 
-1. Assembler et maintenir des équipements
+Dans un environnement domestique, il (elle) assiste, dépanne et informe les clients en tant que technicien (ne) de proximité.
 
-bureautiques en atelier ou en magasin
+Lors de ses interventions, il (elle) prend en compte la sécurité des équipements et des données et la protection des données personnelles.
 
-Conseiller le client sur des solutions techniques adaptées et vendre des consommables et sous-ensembles d'équipements bureautiques.
+L'installateur (trice) dépanneur (se) en informatique est directement rattaché (e) à un hiérarchique ou un donneur d'ordre auquel il (elle) rend compte régulièrement. Il (elle) intervient le plus souvent seul (e), parfois en équipe et doit respecter des procédures opératoires et des consignes.
 
-Assembler et configurer des équipements bureautiques.
+Cet emploi comporte des contraintes de délais et de durée d'intervention et requiert habileté manuelle et minutie.
 
-Installer le système d'exploitation et les applicatifs sur des équipements bureautiques.
+Certains postes peuvent comporter de nombreux déplacements et nécessiter un permis de conduire et d'autres sont sédentaires.
 
-Diagnostiquer et réparer les incidents matériels sur des équipements bureautiques.
+Capacités attestées et descriptif
 
-2. Mettre en service et maintenir
+des composantes de la certification
 
-des équipements bureautiques dans un environnement domestique
+1. Intégrer, dépanner et reconditionner des équipements
 
-Mettre en service et / ou faire évoluer un équipement bureautique dans un environnement domestique.
+informatiques en atelier ou sur site
 
-Configurer un réseau domestique et le sécuriser.
+Intégrer un micro-ordinateur.
 
-Diagnostiquer et réparer les incidents dans un environnement informatique domestique.
+Installer le système d'exploitation et les applications sur un micro-ordinateur.
 
-Démontrer au client le bon fonctionnement de l'équipement bureautique et l'accompagner dans son exploitation.
+Dépanner un équipement informatique fixe ou mobile.
 
-3. Déployer et intervenir sur des équipements
+Reconditionner un équipement informatique fixe ou mobile.
 
-bureautiques dans un environnement professionnel
+2. Mettre en service des équipements informatiques
 
-Intervenir sur des incidents dans un environnement informatique professionnel.
+dans un environnement de réseau domestique ou professionnel
 
-Déployer et paramétrer des équipements fixes et mobiles dans un environnement informatique professionnel.
+Raccorder un équipement informatique à un réseau local et à Internet et le dépanner.
 
-Adapter une configuration et assurer l'évolution des équipements fixes et mobiles dans un environnement informatique professionnel.
+Participer à l'information des utilisateurs.
 
-Intégrer des équipements bureautiques selon une procédure définie.
+Déployer et personnaliser des postes de travail.
 
-Secteurs d'activités ou types d'emploi
+Mettre en service un équipement informatique mobile.
+
+Participer à la sécurisation des équipements informatiques fixes et mobiles.
+
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-L'agent de maintenance sur équipements bureautiques exerce son métier dans des structures de type :
+Tous les secteurs d'activité sont concernés.
 
--structure utilisatrice d'informatique, telle qu'une grande entreprise ou collectivité territoriale ;
-
--société de services et d'ingénierie informatique (SSII) réalisant du déploiement et de la maintenance d'équipements ;
-
--structure de distribution professionnelle ou grand public telle qu'un assembleur, une grande surface ou un magasin spécialisé ;
-
--prestataire spécialisé dans l'assistance et les services informatiques aux particuliers et aux PME.
+Les types d'emploi accessibles sont les suivants : agent (e) de maintenance informatique ; technicien (ne) de déploiement ; agent (e) de récupération ; technicien (ne) d'atelier ; technicien (ne) SAV ; technicien (ne) sur site.
 
 Code ROME :
 
-52322-maintenicien-maintenicienne en matériel bureautique.
+I1401-Maintenance informatique et bureautique.
 
 Réglementation de l'activité :
 
@@ -87,3 +83,5 @@ Bases légales et réglementaires :
 Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 23 juin 2014.

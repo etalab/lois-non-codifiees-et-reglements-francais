@@ -1,11 +1,9 @@
 # Article 3
 
-Le titre professionnel d'agent (e) de maintenance sur équipements bureautiques est composé des trois unités constitutives, dont la liste suit :
+Le titre professionnel d'installateur (trice) dépanneur (se) en informatique est composé des deux unités constitutives suivantes :
 
-1. Assembler et maintenir des équipements bureautiques en atelier ou en magasin ;
+1. Intégrer, dépanner et reconditionner des équipements informatiques en atelier ou sur site ;
 
-2. Mettre en service et maintenir des équipements bureautiques dans un environnement domestique ;
-
-3. Déployer et intervenir sur des équipements bureautiques dans un environnement professionnel.
+2. Mettre en service des équipements informatiques dans un environnement de réseau domestique ou professionnel.
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

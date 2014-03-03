@@ -1,9 +1,39 @@
 # Article 3
 
-Le titre professionnel de gestionnaire de paie est composé de deux unités constitutives dont la liste suit :
+Les  titulaires des certificats de compétences professionnelles obtenus  antérieurement à la date d'entrée en vigueur du présent arrêté  modificatif sont réputés avoir obtenu les nouveaux certificats de  compétences professionnelles selon le tableau figurant ci-dessous.
 
-1. Assurer la tenue et le suivi du dossier social de l'entreprise ;
+<div align="center">
 
-2. Assurer la gestion de la paie et des déclarations sociales.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>GESTIONNAIRE DE PAIE <br/>
+<br/>(arrêté du 20 décembre 2005) <br/>
+<br/>
+</th>
+<th>
+<br/>GESTIONNAIRE DE PAIE <br/>
+<br/>(présent arrêté) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Assurer la tenue et le suivi du dossier social de l'entreprise <br/>
+</td>
+<td align="center">
+<br/>Assurer la tenue et le suivi du dossier social de l'entreprise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Assurer la gestion de la paie et des déclarations sociales <br/>
+</td>
+<td align="center">
+<br/>Assurer la production de la paie et élaborer les données de synthèse<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+</div>
