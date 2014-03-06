@@ -17,107 +17,107 @@ Les tarifs maximaux de remboursement des frais d'impression de ces documents son
 <table>
 <tbody>
 <tr>
-<th>FORMULE DE REMBOURSEMENT<br/>
+<th>FORMULE DE REMBOURSEMENT <br/>
 </th>
-<th>TARIFS HT<br/>Impression recto<br/>
+<th>TARIFS HT <br/>Impression recto <br/>
 </th>
-<th>TARIFS HT<br/>Impression recto verso<br/>
+<th>TARIFS HT <br/>Impression recto verso <br/>
 </th>
 </tr>
 <tr>
-<td align="center">Le premier mille<br/>
+<td align="center">Le premier mille <br/>
 </td>
-<td align="center">196 €<br/>
+<td align="center">196 € <br/>
 </td>
-<td align="center">255 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">19 €<br/>
-</td>
-<td align="center">25 €<br/>
+<td align="center">255 € <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Les 10 000 premières<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">367 €<br/>
+<td align="center">19 € <br/>
 </td>
-<td align="center">480 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">19 €<br/>
-</td>
-<td align="center">25 €<br/>
+<td align="center">25 € <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Les 30 000 premières<br/>
+<td align="center">Les 10 000 premières <br/>
 </td>
-<td align="center">747 €<br/>
+<td align="center">367 € <br/>
 </td>
-<td align="center">980 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">15 €<br/>
-</td>
-<td align="center">20 €<br/>
+<td align="center">480 € <br/>
 </td>
 </tr>
 <tr>
-<td align="center">les 50 000 premières<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">1 047 €<br/>
+<td align="center">19 € <br/>
 </td>
-<td align="center">1 380 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">13 €<br/>
-</td>
-<td align="center">17 €<br/>
+<td align="center">25 € <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Les 100 000 premières<br/>
+<td align="center">Les 30 000 premières <br/>
 </td>
-<td align="center">1 697 €<br/>
+<td align="center">747 € <br/>
 </td>
-<td align="center">2 230 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">11 €<br/>
-</td>
-<td align="center">14 €<br/>
+<td align="center">980 € <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Les 200 000 premières<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">2 797 €<br/>
+<td align="center">15 € <br/>
 </td>
-<td align="center">3 630 €<br/>
+<td align="center">20 € <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Le mille suivant<br/>
+<td align="center">les 50 000 premières <br/>
 </td>
-<td align="center">11 €<br/>
+<td align="center">1 047 € <br/>
 </td>
-<td align="center">14 €<br/>
+<td align="center">1 380 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">13 € <br/>
+</td>
+<td align="center">17 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Les 100 000 premières <br/>
+</td>
+<td align="center">1 697 € <br/>
+</td>
+<td align="center">2 230 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">11 € <br/>
+</td>
+<td align="center">14 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Les 200 000 premières <br/>
+</td>
+<td align="center">2 797 € <br/>
+</td>
+<td align="center">3 630 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">11 € <br/>
+</td>
+<td align="center">14 € <br/>
 </td>
 </tr>
 </tbody>
@@ -152,231 +152,231 @@ Les tarifs maximaux de remboursement des frais d'impression de ces documents son
 <table>
 <tbody>
 <tr>
-<th>FORMATS DU BULLETIN DE VOTE<br/>
+<th>FORMATS DU BULLETIN DE VOTE <br/>
 </th>
-<th>FORMULE DE REMBOURSEMENT<br/>
+<th>FORMULE DE REMBOURSEMENT <br/>
 </th>
-<th>TARIFS HT<br/>Impression recto<br/>
+<th>TARIFS HT <br/>Impression recto <br/>
 </th>
-<th>TARIFS HT<br/>Impression recto verso<br/>
+<th>TARIFS HT <br/>Impression recto verso <br/>
 </th>
 </tr>
 <tr>
-<td align="center">148 mm × 210 mm (listes de 15 à 31 noms)<br/>
+<td align="center">148 mm × 210 mm (listes de 15 à 31 noms) <br/>
 </td>
-<td align="center">Le premier mille<br/>
+<td align="center">Le premier mille <br/>
 </td>
-<td align="center">120 €<br/>
+<td align="center">120 € <br/>
 </td>
-<td align="center">135 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">15 €<br/>
-</td>
-<td align="center">17 €<br/>
+<td align="center">135 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Les 10 000 premiers<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">255 €<br/>
+<td align="center">15 € <br/>
 </td>
-<td align="center">288 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">13 €<br/>
-</td>
-<td align="center">15 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">210 mm × 297 mm (listes de plus de 31 noms)<br/>
-</td>
-<td align="center">Le premier mille<br/>
-</td>
-<td align="center">176 €<br/>
-</td>
-<td align="center">199 €<br/>
+<td align="center">17 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Le mille suivant<br/>
+<td align="center">Les 10 000 premiers <br/>
 </td>
-<td align="center">19 €<br/>
+<td align="center">255 € <br/>
 </td>
-<td align="center">22 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Les 10 000 premiers<br/>
-</td>
-<td align="center">347 €<br/>
-</td>
-<td align="center">397 €<br/>
+<td align="center">288 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Le mille suivant<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">18 €<br/>
+<td align="center">13 € <br/>
 </td>
-<td align="center">21 €<br/>
+<td align="center">15 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">210 mm × 297 mm (listes de plus de 31 noms) <br/>
+</td>
+<td align="center">Le premier mille <br/>
+</td>
+<td align="center">176 € <br/>
+</td>
+<td align="center">199 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Les 30 000 premiers<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">707 €<br/>
+<td align="center">19 € <br/>
 </td>
-<td align="center">817 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">15 €<br/>
-</td>
-<td align="center">17 €<br/>
+<td align="center">22 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">les 50 000 premiers<br/>
+<td align="center">Les 10 000 premiers <br/>
 </td>
-<td align="center">1 007 €<br/>
+<td align="center">347 € <br/>
 </td>
-<td align="center">1 157 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">12 €<br/>
-</td>
-<td align="center">14 €<br/>
+<td align="center">397 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Les 100 000 premiers<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">1 607 €<br/>
+<td align="center">18 € <br/>
 </td>
-<td align="center">1 857 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">11 €<br/>
-</td>
-<td align="center">13 €<br/>
+<td align="center">21 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Les 200 000 premiers<br/>
+<td align="center">Les 30 000 premiers <br/>
 </td>
-<td align="center">2 707 €<br/>
+<td align="center">707 € <br/>
 </td>
-<td align="center">3 157 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">11 €<br/>
-</td>
-<td align="center">13 €<br/>
+<td align="center">817 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Les 300 000 premiers<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">3 807 €<br/>
+<td align="center">15 € <br/>
 </td>
-<td align="center">4 457 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Le mille suivant<br/>
-</td>
-<td align="center">11 €<br/>
-</td>
-<td align="center">13 €<br/>
+<td align="center">17 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Les 400 000 premiers<br/>
+<td align="center">les 50 000 premiers <br/>
 </td>
-<td align="center">4 907 €<br/>
+<td align="center">1 007 € <br/>
 </td>
-<td align="center">5 757 €<br/>
+<td align="center">1 157 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Le mille suivant<br/>
+<td align="center">Le mille suivant <br/>
 </td>
-<td align="center">11 €<br/>
+<td align="center">12 € <br/>
 </td>
-<td align="center">13 €<br/>
+<td align="center">14 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Les 100 000 premiers <br/>
+</td>
+<td align="center">1 607 € <br/>
+</td>
+<td align="center">1 857 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">11 € <br/>
+</td>
+<td align="center">13 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Les 200 000 premiers <br/>
+</td>
+<td align="center">2 707 € <br/>
+</td>
+<td align="center">3 157 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">11 € <br/>
+</td>
+<td align="center">13 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Les 300 000 premiers <br/>
+</td>
+<td align="center">3 807 € <br/>
+</td>
+<td align="center">4 457 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">11 € <br/>
+</td>
+<td align="center">13 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Les 400 000 premiers <br/>
+</td>
+<td align="center">4 907 € <br/>
+</td>
+<td align="center">5 757 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Le mille suivant <br/>
+</td>
+<td align="center">11 € <br/>
+</td>
+<td align="center">13 € <br/>
 </td>
 </tr>
 </tbody>
@@ -384,7 +384,7 @@ Les tarifs maximaux de remboursement des frais d'impression de ces documents son
 
 </div>
 
-Les travaux de composition et d'impression des bulletins de vote font l'objet du taux réduit de TVA, hormis en outre-mer.
+Les travaux de composition et d'impression des bulletins de vote font l'objet du taux réduit de TVA,     .
 
 Le remboursement des frais d'impression des bulletins de vote est déterminé en fonction du nombre total de bulletins de vote imprimés par le candidat tête de liste sur la base de la tranche tarifaire la plus proche des quantités imprimées.
 
