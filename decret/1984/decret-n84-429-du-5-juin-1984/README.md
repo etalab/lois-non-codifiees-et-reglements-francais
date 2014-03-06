@@ -4,7 +4,7 @@
 - [CHAPITRE Ier : DISPOSITIONS GENERALES](chapitre-ier)
 - [Article 2](article-2.md)
 - [CHAPITRE II : ORGANISATION ADMINISTRATIVE](chapitre-ii)
-- [CHAPITRE III : DISPOSITIONS FINANCIERES ET COMPTABLES](chapitre-iii)
+- [CHAPITRE III : DISPOSITIONS FINANCIERES, BUDGETAIRES ET COMPTABLES](chapitre-iii)
 - [CHAPITRE IV : DISPOSITIONS FINALES](chapitre-iv)
 - [Article 23](article-23.md)
 - [Article Annexe](article-annexe.md)

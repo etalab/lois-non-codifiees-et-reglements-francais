@@ -12,6 +12,6 @@ Le président du conseil d'administration est nommé parmi ses membres par décr
 
 La durée des fonctions de membre du conseil d'administration est de cinq ans. La présidence de la séance suivant la mise en place et le renouvellement du conseil est assurée par le plus âgé des membres. Les membres du conseil d'administration, à l'exception du président, exercent leurs fonctions à titre gratuit.
 
-Le ou les directeurs généraux délégués,        le contrôleur budgétaire et le secrétaire général assistent aux séances du conseil d'administration avec voix consultative. Le président du conseil d'administration peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
+Le ou les directeurs généraux délégués,  l'autorité chargée du contrôle économique et financier et le secrétaire général assistent aux séances du conseil d'administration avec voix consultative. Le président du conseil d'administration peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 
 Les administrateurs décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été nommés ou élus doivent être remplacés. Dans ce cas le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.

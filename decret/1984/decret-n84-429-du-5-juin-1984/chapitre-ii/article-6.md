@@ -8,11 +8,11 @@ Il délibère sur :
 
 2° Le programme d'activité du centre et les modalités générales de ses interventions ;
 
-3° L'état annuel des prévisions de recettes et de dépenses et ses modifications ;
+3° Le budget et ses modifications ;
 
 4° Le rapport annuel d'activité ;
 
-5° Le compte financier et l'affectation des résultats de l'exercice ;
+5° Les comptes de l'établissement et l'affectation des résultats de l'exercice ;
 
 6° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
 
