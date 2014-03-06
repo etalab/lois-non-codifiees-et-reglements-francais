@@ -4,6 +4,4 @@ La validation des compétences se fait par semestre, dans l'ordre chronologique 
 
 La note finale d'une épreuve du semestre est la moyenne de la note du contrôle de synthèse de cette épreuve et de la moyenne des notes aux contrôles de routine dans cette épreuve. Cette note finale de l'épreuve, pondérée du coefficient de l'épreuve qui lui correspond dans l'annexe C, donne les points de l'épreuve. La somme des points des épreuves d'un bloc rapportée à la somme des coefficients du bloc donne la moyenne pondérée du bloc d'épreuves.
 
-Est éliminatoire la note inférieure à 5 à un contrôle de synthèse ou un contrôle de transition. Les contrôles de routine ne donnent pas lieu à note éliminatoire.
-
-En cas de note éliminatoire, et à condition que le seuil de la moyenne pondérée du bloc soit atteint, une épreuve orale de rattrapage est organisée pour chaque note éliminatoire. La nouvelle note obtenue se substitue à la note éliminatoire et ne peut elle-même faire l'objet d'un rattrapage.
+Est éliminatoire la note inférieure à 10 sur 20 aux épreuves de synthèse "simulateur navigation" et "simulateur machines".

@@ -1,3 +1,3 @@
 # Article 3
 
-Le cursus de formation comprend un premier cycle de trois ans conduisant au brevet de chef de quart de navire de mer, suivi d'un second cycle de deux ans conduisant au diplôme d'études supérieures de la marine marchande (DESMM).
+Le cursus de formation se déroule en dix semestres consécutifs, numérotés de S1 à S10. Outre la formation décrite au titre Ier du présent arrêté, chaque semestre comporte une évaluation des compétences précisée au titre II et une validation de ce semestre précisée au titre III.
