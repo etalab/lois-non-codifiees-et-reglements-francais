@@ -571,13 +571,18 @@ La puissance de l'installation correspond à la somme des puissances des nouveau
 </div>
 <div align="left"/>
 <div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">Certificats d'économies d'énergie </div>
 
 Opération n° IND-BA-12
 
 Système de récupération de chaleur
 
-sur une tour aéro-réfrigérante
+sur une tour aéroréfrigérante
 
 1. Secteur d'application :
 
@@ -585,21 +590,25 @@ Industrie.
 
 2. Dénomination :
 
-Mise  en place d'un système de récupération de chaleur en amont d'une tour  aéro-réfrigérante (TAR) pour le chauffage ou le préchauffage d'eau  chaude sanitaire, de fluides de process, d'eau de chauffage ou d'air.
+Mise  en place d'un système de récupération de chaleur en amont d'une tour  aéroréfrigérante (TAR) pour le chauffage ou le préchauffage d'eau chaude  sanitaire, de fluides de process, d'eau de chauffage ou d'air.
 
 3. Conditions pour la délivrance de certificats :
 
-Les systèmes de refroidissement industriel concernés par cette fichesont les suivants :
+Les systèmes de refroidissement industriel concernés par cette fiche sont les suivants :
 
 - TAR humide en circuit fermé ou ouvert (aussi appelée tour de refroidissement) ;
 
-- TAR sèche en circuit fermé ou ouvert (aussi appelée aérocondenseurou dry-cooler) ;
+- TAR sèche en circuit fermé ou ouvert (aussi appelée aérocondenseur ou dry-cooler) ;
 
 - TAR hybride (humide/ sèche) en circuit fermé ou ouvert.
 
-La  puissance thermique évacuable à la tour Qtar (kW) doit être inférieure  ou égale à 7 MW, en particulier les TAR des centrales de production  d'électricité sont exclues du domaine d'application de la fiche.
+La  puissance thermique évacuable à la tour doit être inférieure ou égale à  7 MW ; en particulier, les TAR des centrales de production  d'électricité sont exclues du domaine d'application.
 
-La puissance thermique évacuable est fournie par une note de calcul ou par la documentation technique du constructeur.
+La puissance thermique évacuable Q<sub>tar</sub> (kW) est fournie par une note de calcul ou par la documentation technique du constructeur.
+
+La puissance thermique récupérée Q<sub>recup</sub>  (kW) est fournie par une étude thermique de besoin d'énergie et de  dimensionnement de l'échangeur, réalisée par un bureau d'étude ou un  professionnel.
+
+Le professionnel atteste que Q<sub>recup</sub> < 0, 7*Q<sub>tar</sub>.
 
 Mise en place réalisée par un professionnel.
 
@@ -613,9 +622,9 @@ Mise en place réalisée par un professionnel.
 <tr>
 <td align="center"/>
 <td align="center"/>
-<td align="center" colspan="2">RÉGIME DE FONCTIONNEMENT <br/>de l'installation <br/>(1)  </td>
+<td align="center" colspan="2">RÉGIME DE FONCTIONNEMENT <br/>de l'installation (1)  </td>
 <td align="center"/>
-<td align="center" colspan="2">TYPE D'UTILISATION <br/>(2)  </td>
+<td align="center" colspan="2">TYPE D'UTILISATION (2)  </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
@@ -633,7 +642,7 @@ Mise en place réalisée par un professionnel.
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">Qtar (kW) </td>
+<td align="center">Q<sub>recup</sub> (kW) </td>
 <td align="center"> x</td>
 <td align="center">2 × 8 avec arrêt le week-end  </td>
 <td align="center">0,49 <br/>
@@ -645,7 +654,7 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">x <br/>
 </td>
-<td align="center"> 38 885<br/>
+<td align="center"> 48   606 <br/>
 </td>
 </tr>
 <tr>
@@ -692,9 +701,15 @@ Mise en place réalisée par un professionnel.
 </div>
 <div align="left"/>
 <div align="left"/>
-<div align="left">Qtar est la puissance thermique évacuable de la tour aéro-réfrigérante en kW. </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left"/>Q<sub>recup</sub> est la puissance thermique récupérée en kW.
 
-(1)  Les régimes horaires mentionnés dans le tableau ci-dessus correspondent  au fonctionnement de l'installation de refroidissement et non pas au  régime de travail du personnel.
+(1)  Les régimes horaires mentionnés dans le tableau ci-dessus correspondent  au fonctionnement de l'installation de récupération de chaleur et non  pas au régime de travail du personnel.
 
 (2) Le type d'utilisation correspond à celui de la chaleur valorisée récupérée sur la tour aéroréfrigérante.
 
