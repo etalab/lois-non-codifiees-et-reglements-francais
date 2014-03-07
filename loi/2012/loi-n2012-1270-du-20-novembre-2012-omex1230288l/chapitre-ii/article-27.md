@@ -1,6 +1,6 @@
 # Article 27
 
-I. ― En vue de rapprocher la législation applicable au Département de Mayotte de la législation applicable en métropole ou dans les autres collectivités relevant de l'article 73 de la Constitution, ou de les mettre en conformité avec le droit de l'Union européenne dans le cadre de l'accession du Département de Mayotte au statut de région ultrapériphérique à compter du 1er janvier 2014, le Gouvernement est autorisé, dans les conditions prévues à l'article 38 de la Constitution et dans un délai de dix-huit mois à compter de la promulgation de la présente loi, à modifier par ordonnances :
+I. ― En vue de rapprocher la législation applicable au Département de Mayotte de la législation applicable en métropole ou dans les autres collectivités relevant de l'article 73 de la Constitution, ou de les mettre en conformité avec le droit de l'Union européenne dans le cadre de l'accession du Département de Mayotte au statut de région ultrapériphérique à compter du 1er janvier 2014, le Gouvernement est autorisé, dans les conditions prévues à l'article 38 de la Constitution et dans un délai de dix-huit mois, ou de trente mois pour les législations mentionnées aux 4° et 7° du présent I, à compter de la promulgation de la présente loi, à modifier par ordonnances :
 
 1° L'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte, afin de définir des conditions mieux adaptées au défi migratoire ;
 

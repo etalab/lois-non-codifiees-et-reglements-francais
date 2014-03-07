@@ -1,6 +1,6 @@
 # Article 21
 
-A titre expérimental, pendant une durée de trois ans à compter de la promulgation de la présente loi, les contrats de professionnalisation peuvent être conclus par un particulier employeur, sous réserve d'un accompagnement de ce dernier adapté aux spécificités de son statut.
+A titre expérimental,              jusqu'au 31 décembre 2015, les contrats de professionnalisation peuvent être conclus par un particulier employeur, sous réserve d'un accompagnement de ce dernier adapté aux spécificités de son statut.
 
 Un accord de branche étendu détermine :
 
