@@ -21,7 +21,6 @@
 - [Décret n°2005-420 du 4 mai 2005 (SANP0521306D)](decret-n2005-420-du-4-mai-2005-sanp0521306d)
 - [Décret n°2005-1123 du 6 septembre 2005 (INTD0500244D)](decret-n2005-1123-du-6-septembre-2005-intd0500244d)
 - [Décret n°2005-1514 du 6 décembre 2005 (DOMA0500027D)](decret-n2005-1514-du-6-decembre-2005-doma0500027d)
-- [Décret n°84-252 du 6 avril 1984](decret-n84-252-du-6-avril-1984)
 - [Décret n°2005-326 du 7 avril 2005 (SOCX0500072D)](decret-n2005-326-du-7-avril-2005-socx0500072d)
 - [Décret n°59-157 du 7 janvier 1959](decret-n59-157-du-7-janvier-1959)
 - [Décret n°2002-329 du 8 mars 2002 (INTD0200054D)](decret-n2002-329-du-8-mars-2002-intd0200054d)

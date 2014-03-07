@@ -1,9 +1,0 @@
-# Article 40
-
-Chaque électeur reçoit par voie postale, en même temps que les circulaires et  les bulletins de vote des candidats, l'enveloppe d'expédition, l'enveloppe  d'identification et l'enveloppe de scrutin opaque et non gommée lui permettant  de voter par correspondance.
-
-L'électeur fait parvenir sous  pli fermé à l'ambassadeur ou au chef de poste consulaire l'enveloppe  d'identification revêtue de ses nom et prénom et de sa signature, renfermant  elle-même l'enveloppe de scrutin contenant le bulletin de vote. L'enveloppe  d'identification doit parvenir à destination au plus tard le deuxième jour  précédent le jour du scrutin à 18 heures (heure légale locale). Les enveloppes  parvenues en retard ne sont pas ouvertes et sont incinérées en présence de  l'autorité compétente qui en dresse procès-verbal.
-
-Il est  tenu un registre du vote par correspondance sous pli fermé, composé de pages  numérotées. Il est fait mention au registre des enveloppes d'identification  reçues au fur et à mesure de leur arrivée. Sur chaque enveloppe est aussitôt  apposé un numéro d'ordre. Doivent être inscrits au registre sans délai le numéro  d'ordre, la date, l'heure d'arrivée de l'enveloppe à l'ambassade ou au poste  consulaire concerné, les nom et prénom de l'électeur, son numéro d'inscription  sur la liste électorale et le nom du fonctionnaire ou agent ayant procédé à cet  enregistrement. Après la clôture du scrutin, ce registre est paraphé par le  président du bureau de vote assisté de ses assesseurs. Tout électeur, tout  candidat ou membre de liste ou leurs délégués dûment mandatés peuvent consulter  le registre et y consigner leurs observations relatives aux opérations du vote  par correspondance.
-
-Un arrêté du ministre des affaires  étrangères précise en tant que de besoin les modalités d'application du présent  article.
