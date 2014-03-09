@@ -1,13 +1,11 @@
 # Article 16
 
-Le conseil scientifique :
+Le comité d'orientations stratégiques propose au conseil d'administration et au directeur les orientations stratégiques pour le centre.
 
-1° Propose au conseil d'administration et au directeur :
+Il élabore le plan stratégique pluriannuel en conformité :
 
-a) La définition des orientations techniques du centre ;
+1° Au titre du calcul numérique intensif, avec les orientations nationales du comité stratégique pour le calcul intensif et les plans stratégiques de la société GENCI ;
 
-b) Les éléments d'une politique d'équipement de celui-ci en matériels et logiciels ;
+2° Au titre de l'archivage pérenne de données électroniques, avec les préconisations du comité interministériel aux Archives de France.
 
-2° Propose chaque année la répartition, entre les services demandeurs, des ressources que le centre peut offrir en matière de calcul scientifique ;
-
-3° Elabore chaque année un rapport sur l'activité technique et scientifique du centre qui est soumis au conseil d'administration.
+Il se réunit au moins une fois par an, à la demande du président du conseil d'administration ou du directeur du centre.

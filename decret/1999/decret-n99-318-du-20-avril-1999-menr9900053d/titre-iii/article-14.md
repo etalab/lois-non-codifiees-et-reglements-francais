@@ -10,7 +10,7 @@ Le directeur dirige l'établissement. A ce titre :
 
 4° Il est ordonnateur des recettes et dépenses de l'établissement ;
 
-5° Il attribue les ressources informatiques dans le cadre de la répartition annuelle proposée par le conseil scientifique ;
+5° Il attribue les ressources informatiques sur les équipements propres du centre ; il représente le centre lorsque celui-ci est maître d'œuvre pour les moyens de calcul nationaux hébergés pour le compte de la société GENCI et, à ce titre, est responsable de l'exécution des affectations des ressources sur des moyens de calcul ;
 
 6° Il a autorité sur l'ensemble des personnels de l'établissement et nomme à toutes les fonctions au sein de celui-ci ;
 
