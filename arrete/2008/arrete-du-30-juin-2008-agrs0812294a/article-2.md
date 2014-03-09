@@ -2,7 +2,7 @@
 
 Le service de la production agricole élabore, veille à la mise en œuvre et à l'évaluation des politiques économiques dans les secteurs des cultures, de l'élevage et des produits végétaux comme animaux. Il définit les moyens contribuant au développement économique des exploitations, à l'évolution de leurs structures, à leur diversification et leur insertion environnementale et territoriale.
 
-I.-La sous-direction des produits et des marchés définit, veille à la mise en œuvre et à l'évaluation de la politique de gestion des marchés et d'orientation des productions agricoles et alimentaires. Elle assure, pour le compte du ministre, la tutelle sur les offices d'intervention et les organismes professionnels et interprofessionnels compétents pour les produits végétaux et animaux.
+I.-La sous-direction des produits et des marchés définit, veille à la mise en œuvre et à l'évaluation de la politique de gestion des marchés et d'orientation des productions agricoles et alimentaires. Elle assure, pour le compte du ministre, la tutelle sur les offices d'intervention, le suivi des organismes professionnels et interprofessionnels et, le cas échéant, l'homologation ou l'extension des accords présentés par les organisations de producteurs, leurs associations et les organisations interprofessionnelles compétentes pour les produits végétaux et animaux.
 
 La sous-direction des produits et marchés comprend :
 
