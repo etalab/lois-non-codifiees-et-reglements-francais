@@ -1,6 +1,6 @@
 # Article 12-4
 
-Il est créé auprès de chacun des vice-recteurs de Nouvelle-Calédonie et du Département de Mayotte quatre commissions administratives paritaires :
+Il est créé auprès de chacun des vice-recteurs de Nouvelle-Calédonie, du département de Mayotte et de Polynésie française quatre commissions administratives paritaires :
 
 1° Une commission compétente à l'égard des professeurs agrégés de l'enseignement du second degré dont le nombre de représentants du personnel est ainsi fixé : quatre membres titulaires, quatre membres suppléants représentant la classe normale ; un membre titulaire, un membre suppléant représentant la hors-classe ;
 
