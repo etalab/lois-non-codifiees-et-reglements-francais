@@ -16,7 +16,7 @@ Le directeur général des douanes et droits indirects, avec l'accord du directe
 
 Le ministre de tutelle pour les agents comptables d'établissements publics ou de groupements d'intérêt public nommés par le ministre de tutelle avec l'agrément du ministre chargé du budget.
 
-Le directeur régional, départemental, local ou spécialisé des finances publiques pour :
+Le directeur régional, départemental, local ou spécialisé des finances publiques, ou le chef du pôle interrégional d'apurement administratif pour :
 
 - les comptables de la direction générale des finances publiques, comptables des collectivités territoriales et des établissements publics, autres que ceux visés aux alinéas précédents ;
 
