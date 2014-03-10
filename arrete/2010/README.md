@@ -871,7 +871,6 @@
 - [Arrêté du 11 janvier 2010 (SASF1001075A)](arrete-du-11-janvier-2010-sasf1001075a)
 - [Arrêté du 11 juillet 2011 (DEVK1119401A)](arrete-du-11-juillet-2011-devk1119401a)
 - [Arrêté du 11 juin 2010 (AGRT1014457A)](arrete-du-11-juin-2010-agrt1014457a)
-- [Arrêté du 11 juin 2010 (BCRE1011011A)](arrete-du-11-juin-2010-bcre1011011a)
 - [Arrêté du 11 juin 2010 (DEFD1015648A)](arrete-du-11-juin-2010-defd1015648a)
 - [Arrêté du 11 juin 2010 (DEFD1015658A)](arrete-du-11-juin-2010-defd1015658a)
 - [Arrêté du 11 juin 2010 (DEVA1011574A)](arrete-du-11-juin-2010-deva1011574a)
