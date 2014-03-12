@@ -572,7 +572,6 @@
 - [Arrêté du 8 février 2012 (EFIT1202279A)](arrete-du-8-fevrier-2012-efit1202279a)
 - [Arrêté du 8 février 2012 (INDR1204137A)](arrete-du-8-fevrier-2012-indr1204137a)
 - [Arrêté du 8 juillet 2011 (DEFH1119402A)](arrete-du-8-juillet-2011-defh1119402a)
-- [Arrêté du 8 juin 2004 (EQUP0400901A)](arrete-du-8-juin-2004-equp0400901a)
 - [Arrêté du 8 juin 2012 (AFSH1225482A)](arrete-du-8-juin-2012-afsh1225482a)
 - [Arrêté du 8 juin 2012 (AFSH1225568A)](arrete-du-8-juin-2012-afsh1225568a)
 - [Arrêté du 8 juin 2012 (AFSH1226179A)](arrete-du-8-juin-2012-afsh1226179a)
