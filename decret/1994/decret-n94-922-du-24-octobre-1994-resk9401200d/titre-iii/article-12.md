@@ -20,4 +20,4 @@ Le directeur exerce notamment les compétences suivantes :
 
 8° Il est chargé de l'organisation des opérations électorales.
 
-Il peut déléguer sa signature au secrétaire général.
+Il peut déléguer sa signature aux personnels de catégorie A placés sous son autorité.
