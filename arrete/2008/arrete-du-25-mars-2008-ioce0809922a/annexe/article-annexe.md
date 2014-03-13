@@ -29,35 +29,13 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Chef IDSC. <br/>
-<br/>Adjoint au chef IDSC. <br/>
-<br/>Chef de la MRI. <br/>
-<br/>Membre d'un cabinet ministériel. </p>
+<p>Chef IDSC. </p>
+<p>Adjoint au chef IDSC. </p>
+<p>Chef de la MRI. </p>
+<p>Membre d'un cabinet ministériel. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re catégorie. </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Chef du COGIC. <br/>
-<br/>Chef d'un service à compétence nationale. <br/>
-<br/>Chef d'état-major de zone. </p>
-</td>
-<td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
+<p>1re catégorie. </p>
 </td>
 <td>
 <p align="center">
@@ -70,21 +48,36 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Adjoint au sous-directeur en administration centrale. <br/>
-<br/>Chef de bureau en administration centrale. <br/>
-<br/>IDSC. <br/>
-<br/>Conseiller social à la DGSCGC. <br/>
-<br/>Chef de la cellule communication/ porte-parole. <br/>
-<br/>Adjoint au chef du COGIC. </p>
+<p>Chef du COGIC. </p>
+<p>Chef d'un service à compétence nationale. </p>
+<p>Chef d'état-major de zone. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
+<p>1re, 2e et 3e catégories. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adjoint au sous-directeur en administration centrale. </p>
+<p>Chef de bureau en administration centrale. </p>
+<p>IDSC. </p>
+<p>Conseiller social à la DGSCGC. </p>
+<p>Chef de la cellule communication/ porte-parole. </p>
+<p>Adjoint au chef du COGIC. </p>
+</td>
+<td>
+<p>1re, 2e et 3e catégories. </p>
+</td>
+<td>
+<p>1re, 2e et 3e catégories. </p>
 </td>
 <td>
 <br/>
@@ -92,75 +85,16 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Expert technique international (selon la définition des postes prévue à l'arrêté du 7 juin 2012 </p>
+<p>Expert technique international (selon la définition des postes prévue à l'arrêté du 7 juin 2012 </p>
 <p>portant classement des postes d'experts techniques internationaux par groupe et indemnité </p>
-<p>de résidence à l'étranger). <br/>
-<br/>Chef de projet à l'international. </p>
+<p>de résidence à l'étranger). </p>
+<p>Chef de projet à l'international. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
+<p>1re, 2e et 3e catégories. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Directeur de la protection civile de la Polynésie française. <br/>
-<br/>Adjoint au chef d'état-major de zone. </p>
-</td>
-<td>
-<p align="left">
-<br/>3e, 4e et 5e catégories. </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Chef de projet en administration centrale. <br/>
-<br/>Chargé de mission. <br/>
-<br/>Adjoint au chef de bureau en administration centrale. </p>
-</td>
-<td>
-<p align="left">
-<br/>4e et 5e catégories. </p>
-</td>
-<td>
-<p align="left">
-<br/>2e, 3e et 4e catégories. </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Officier de sécurité civile auprès du haut commissaire de la Nouvelle-Calédonie. </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
-</td>
-<td>
-<p align="left">
-<br/>3e, 4e et 5e catégories. </p>
+<p>1re, 2e et 3e catégories. </p>
 </td>
 <td>
 <br/>
@@ -168,30 +102,76 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Chef de bureau en état-major de zone ou dans un service déconcentré. <br/>
-<br/>Chargé de mission technique. <br/>
-<br/>Directeur du SIS de Saint-Pierre et Miquelon. <br/>
-<br/>Chef de section en administration centrale. </p>
+<p>Directeur de la protection civile de la Polynésie française. </p>
+<p>Adjoint au chef d'état-major de zone. </p>
+</td>
+<td>
+<p>3e, 4e et 5e catégories. </p>
 </td>
 <td>
 <p align="center">
 <br/>- </p>
 </td>
 <td>
-<p align="left">
-<br/>3e, 4e et 5e catégories. </p>
-</td>
-<td>
-<p align="left">
-<br/>Chef de groupement. </p>
+<p align="center">
+<br/>- </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>
-<br/>Autres officiers d'état-major de zone. <br/>
-<br/>Autres officiers du COGIC. </p>
+<p>Chef de projet en administration centrale. </p>
+<p>Chargé de mission. </p>
+<p>Adjoint au chef de bureau en administration centrale. </p>
+</td>
+<td>
+<p>4e et 5e catégories. </p>
+</td>
+<td>
+<p>2e, 3e et 4e catégories. </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Officier faisant fonction de chef d'état-major de zone en Nouvelle-Calédonie </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p>3e, 4e et 5e catégories. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur adjoint de la protection civile de la Polynésie française </p>
+<p>Chef de bureau en état-major de zone ou dans un service déconcentré. </p>
+<p>Chargé de mission technique. </p>
+<p>Directeur du SIS de Saint-Pierre et Miquelon. </p>
+<p>Chef de section en administration centrale. </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+<td>
+<p>3e, 4e et 5e catégories. </p>
+</td>
+<td>
+<p>Chef de groupement. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Autres officiers d'état-major de zone. </p>
+<p>Autres officiers du COGIC. </p>
 </td>
 <td>
 <p align="center">
@@ -202,8 +182,7 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 <br/>- </p>
 </td>
 <td>
-<p align="left">
-<br/>Chef de groupement. </p>
+<p>Chef de groupement. </p>
 </td>
 </tr>
 </tbody>
@@ -239,34 +218,14 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Directeur. </p>
+<p>Directeur. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re catégorie. </p>
-</td>
-<td>
-<p align="center">
-<br/>- </p>
+<p>1re catégorie. </p>
 </td>
 <td>
 <p align="center">
 <br/>- </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Directeur adjoint. </p>
-</td>
-<td>
-<p align="left">
-<br/>2e et 3e catégories. </p>
-</td>
-<td>
-<p align="left">
-<br/>1re et 2e catégories. </p>
 </td>
 <td>
 <p align="center">
@@ -275,12 +234,25 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Directeur de département. </p>
+<p>Directeur adjoint. </p>
 </td>
 <td>
-<p align="left">
-<br/>3e, 4e et 5e catégories. </p>
+<p>2e et 3e catégories. </p>
+</td>
+<td>
+<p>1re et 2e catégories. </p>
+</td>
+<td>
+<p align="center">
+<br/>- </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur de département. </p>
+</td>
+<td>
+<p>3e, 4e et 5e catégories. </p>
 </td>
 <td>
 <p align="center">
@@ -293,16 +265,14 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Chargé de mission. </p>
+<p>Chargé de mission. </p>
 </td>
 <td>
 <p align="center">
 <br/>- </p>
 </td>
 <td>
-<p align="left">
-<br/>4e et 5e catégories. </p>
+<p>4e et 5e catégories. </p>
 </td>
 <td>
 <p align="center">
@@ -311,16 +281,14 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Adjoint au directeur de département. </p>
+<p>Adjoint au directeur de département. </p>
 </td>
 <td>
 <p align="center">
 <br/>- </p>
 </td>
 <td>
-<p align="left">
-<br/>4e et 5e catégories. </p>
+<p>4e et 5e catégories. </p>
 </td>
 <td>
 <p align="center">
@@ -329,8 +297,7 @@ ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 </tr>
 <tr>
 <td>
-<p>
-<br/>Chef de division. </p>
+<p>Chef de division. </p>
 </td>
 <td>
 <p align="center">
@@ -377,16 +344,13 @@ AUTRES ÉTABLISSEMENTS PUBLICS DE L'ÉTAT
 </tr>
 <tr>
 <td>
-<p>
-<br/>Chef de projet à l'international. </p>
+<p>Chef de projet à l'international. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
+<p>1re, 2e et 3e catégories. </p>
 </td>
 <td>
-<p align="left">
-<br/>1re, 2e et 3e catégories. </p>
+<p>1re, 2e et 3e catégories. </p>
 </td>
 <td>
 <p align="center">
@@ -395,17 +359,14 @@ AUTRES ÉTABLISSEMENTS PUBLICS DE L'ÉTAT
 </tr>
 <tr>
 <td>
-<p>
-<br/>Inspecteur auprès de l'autorité de sûreté nucléaire. <br/>
-<br/>Poste à l'INHESJ, l'IHEDN. </p>
+<p>Inspecteur auprès de l'autorité de sûreté nucléaire. </p>
+<p>Poste à l'INHESJ, l'IHEDN. </p>
 </td>
 <td>
-<p align="left">
-<br/>3e catégorie. </p>
+<p>3e catégorie. </p>
 </td>
 <td>
-<p align="left">
-<br/>2e, 3e, 4e et 5e catégories. </p>
+<p>2e, 3e, 4e et 5e catégories. </p>
 </td>
 <td>
 <p align="center">
