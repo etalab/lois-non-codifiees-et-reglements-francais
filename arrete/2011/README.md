@@ -733,7 +733,6 @@
 - [Arrêté du 10 août 2011 (ETSH1122443A)](arrete-du-10-aout-2011-etsh1122443a)
 - [Arrêté du 10 août 2011 (ETSS1120486A)](arrete-du-10-aout-2011-etss1120486a)
 - [Arrêté du 10 août 2011 (IOCJ1114391A)](arrete-du-10-aout-2011-iocj1114391a)
-- [Arrêté du 10 août 2011 (MENH1118087A)](arrete-du-10-aout-2011-menh1118087a)
 - [Arrêté du 10 décembre 2010 (DEVP1028898A)](arrete-du-10-decembre-2010-devp1028898a)
 - [Arrêté du 10 décembre 2010 (INDR1032557A)](arrete-du-10-decembre-2010-indr1032557a)
 - [Arrêté du 10 décembre 2010 (INDR1032558A)](arrete-du-10-decembre-2010-indr1032558a)
