@@ -1999,7 +1999,6 @@
 - [Arrêté du 22 juillet 2011 (MENE1120763A)](arrete-du-22-juillet-2011-mene1120763a)
 - [Arrêté du 22 juin 2011 (DEVD1109895A)](arrete-du-22-juin-2011-devd1109895a)
 - [Arrêté du 22 juin 2012 (AFSH1226882A)](arrete-du-22-juin-2012-afsh1226882a)
-- [Arrêté du 22 juin 2012 (AFSH1227610A)](arrete-du-22-juin-2012-afsh1227610a)
 - [Arrêté du 22 juin 2012 (AFSP1227093A)](arrete-du-22-juin-2012-afsp1227093a)
 - [Arrêté du 22 juin 2012 (BUDE1224003A)](arrete-du-22-juin-2012-bude1224003a)
 - [Arrêté du 22 juin 2012 (DEFD1226995A)](arrete-du-22-juin-2012-defd1226995a)
