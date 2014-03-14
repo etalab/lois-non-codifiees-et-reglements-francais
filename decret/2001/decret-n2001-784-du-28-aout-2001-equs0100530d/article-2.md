@@ -8,7 +8,7 @@ Le conseil est composé comme suit :
 
 Deux membres du Sénat et deux membres de l'Assemblée nationale, désignés par leur assemblée respective ;
 
-Un membre du   Conseil économique, social et environnemental ;
+Un membre du Conseil économique, social et environnemental ;
 
 Un représentant des régions, désigné par l'Association des présidents de conseils régionaux ;
 
@@ -48,7 +48,7 @@ Le ministre chargé de la santé ou son représentant ;
 
 Le délégué interministériel à la sécurité routière ;
 
-Le président de la mission interministérielle de lutte contre la drogue et la toxicomanie.
+Le président de la mission interministérielle de lutte contre les drogues et les conduites addictives.
 
 Les membres mentionnés au 1° ci-dessus sont nommés par décret.
 
