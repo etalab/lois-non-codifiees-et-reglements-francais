@@ -1,3 +1,5 @@
 # Article 2
 
-Le cycle se déroule selon deux modes de formation, le premier, dénommé « cycle court », d'une durée de six mois, ouvert aux fonctionnaires titulaires d'une licence de l'enseignement supérieur ou d'un diplôme ou titre d'un niveau au moins équivalent, le second, dénommé « cycle long », d'une durée de quinze mois, ouvert aux fonctionnaires ne possédant pas un tel diplôme.
+Le cycle préparatoire au concours interne de commissaire de police est d'une durée de six mois à compter du premier jour ouvrable du mois de septembre de l'année précédant les épreuves du second concours pour l'accès au corps de conception et de direction.
+
+Ce cycle comprend 20 places.

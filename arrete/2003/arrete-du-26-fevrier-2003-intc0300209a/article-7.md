@@ -1,6 +1,6 @@
 # Article 7
 
-Les volumes horaires des matières enseignées durant le cycle court sont les suivants :
+Les volumes horaires des matières enseignées sont les suivants :
 
 Culture générale : 60 heures ;
 
