@@ -1,71 +1,63 @@
 # Article 2
 
-Les catégories d'informations nominatives enregistrées concernant les éducateurs sportifs exerçant contre rémunération une activité d'enseignement dans le domaine des activités physiques et sportives ainsi que les exploitants de ces établissements sont les suivantes :
+Les catégories d'informations nominatives enregistrées concernant les éducateurs sportifs exerçant contre rémunération une activité d'enseignement dans le domaine des activités physiques et sportives ainsi que les responsables de ces établissements sont les suivantes :
 
-- le nom ;
+- nom et prénom(s) ;
 
-- le prénom ;
+- civilité, date et lieu de naissance, nationalité ;
 
-- la date de naissance ;
+- adresse du domicile ;
 
-- le lieu de naissance ;
+- numérosde téléphone fixe, numéro de téléphone portable, télécopie, courriel ;
 
-- le sexe ;
+- noms et prénoms des parents (pour les personnes nées à l'étranger) ;
 
-- la nationalité ;
+- statut professionnel (salarié, indépendant, stagiaire, libre prestataire de service ou libre établissement) ;
 
-- l'adresse dans le département du lieu d'exercice ;
+- activité d'éducateur sportif exercée (à titre principal ou secondaire) ;
 
-- le numéro de téléphone du lieu d'exercice ;
+- titres et diplômes professionnels ;
 
-- le numéro de télécopie du lieu d'exercice ;
+- dates du livret de formation, établissement du stage pratique (établissements déclarés) ;
 
-- l'adresse du domicile ;
+- numéro du diplôme, date d'obtention, date de recyclage, durée de recyclage ;
 
-- le numéro de téléphone du domicile ;
+- tuteur du stagiaire (éducateurs déclarés) ;
 
-- le numéro de télécopie du domicile ;
-
-- la date de création de la fiche ;
-
-- la date de mise à jour ;
-
-- la validité ;
-
-- le statut professionnel (salarié ou indépendant) ;
-
-- les titres et diplômes professionnels ;
-
-- le numéro du diplôme ;
-
-- sa date d'obtention, le certifié conforme ;
-
-- la date de révision (MNS) ;
-
-- le numéro d'autorisation d'exercice ;
-
-- la date d'autorisation d'exercice ;
-
-- la date d'injonction ;
-
-- la date d'interdiction ;
-
-- extrait de casier judiciaire (oui ou non) ;
-
-- la fiche d'état civil (oui ou non) ;
-
-- certificat médical (oui ou non) ;
-
-- établissements d'exercice ;
-
-- numéro de la carte professionnelle ;
-
-- date de délivrance ;
-
-- lieu de délivrance ;
+- numéro d'autorisation d'exercice, date d'autorisation d'exercice ;
 
 - date de début de l'enseignement ;
 
-- fonction et condition d'exercice ;
+- activités et disciplines pratiquées ;
 
-- type d'établissement.
+- nom du lieu de pratique et/ou de l'équipement ;
+
+- établissements d'exercice ;
+
+- dénomination sociale de l'établissement ; type d'établissement (forme juridique) ; numéro de SIRET ;
+
+- établissement exerçant son activité en ZUS (oui ou non) ;
+
+- numéro d'agrément, date de l'agrément ;
+
+- adresse de l'établissement et/ou du lieu de pratique ;
+
+- téléphone fixe, téléphone portable, télécopie, courriel et site internet de l'établissement ;
+
+- fonction (pour les responsables des établissements) ;
+
+- existence de locaux de sommeil (oui ou non), accueil de mineurs dans les locaux de sommeil (oui ou non), capacité d'accueil en lits ;
+
+- numéro de la carte professionnelle, date et lieu de délivrance, date de fin de validité ;
+
+- copies de la pièce d'identité, du certificat médical, des titres et diplômes professionnels ;
+
+- le cas échéant, copies de l'attestation de recyclage, de l'autorisation d'exercice et de l'attestation de reconnaissance ou d'équivalence de diplôme ;
+
+- pour les personnes en formation, copie de l'attestation justifiant des exigences minimales préalables à la mise en situation pédagogique et toute pièce justifiant du tutorat (convention de stage etc.) ;
+
+- copie des statuts de l'établissement ;
+
+- photographie d'identité ;
+
+- déclaration sur l'honneur (oui ou non).
