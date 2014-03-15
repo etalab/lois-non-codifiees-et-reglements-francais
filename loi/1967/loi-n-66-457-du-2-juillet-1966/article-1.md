@@ -14,6 +14,6 @@ Constitue notamment un motif sérieux et légitime de s'opposer au raccordement 
 
 Constitue également un motif sérieux et légitime de s'opposer au raccordement à un réseau de communications électroniques à très haut débit en fibre optique ouvert au public la décision prise par le propriétaire, dans un délai de six mois suivant la demande du ou des locataires ou occupants de bonne foi, d'installer des lignes de communications électroniques à très haut débit en fibre optique en vue d'assurer la desserte de l'ensemble des occupants de l'immeuble dans des conditions satisfaisant les besoins spécifiques du demandeur. Dans ce cas, une convention est établie entre le propriétaire de l'immeuble et l'opérateur dans les conditions prévues par l'article L. 33-6 du code des postes et des communications électroniques.
 
-Lorsqu'elles sont réalisées par un opérateur de communications électroniques exploitant un réseau ouvert au public, les opérations d'installation mentionnées au premier alinéa du présent II se font aux frais de cet opérateur.
+Lorsqu'elles sont réalisées par un opérateur de communications électroniques exploitant un réseau ouvert au public, les opérations d'installation mentionnées au premier alinéa du présent II se font dans les conditions financières prévues à l'article L. 33-6 du code des postes et des communications électroniques.
 
 Le présent II est applicable à tous les immeubles à usage d'habitation ou à usage mixte, quel que soit leur régime de propriété.
