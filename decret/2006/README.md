@@ -43,6 +43,7 @@
 - [Décret n°2006-1625 du 19 décembre 2006 (BUDB0630177D)](decret-n2006-1625-du-19-decembre-2006-budb0630177d)
 - [Décret n°2006-708 du 19 juin 2006 (SANS0621670D)](decret-n2006-708-du-19-juin-2006-sans0621670d)
 - [Décret n°2006-1409 du 20 novembre 2006 (INTD0600258D)](decret-n2006-1409-du-20-novembre-2006-intd0600258d)
+- [Décret n°2006-1034 du 21 août 2006 (INDI0608021D)](decret-n2006-1034-du-21-aout-2006-indi0608021d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
 - [Décret n°2006-726 du 22 juin 2006 (MENX0600078D)](decret-n2006-726-du-22-juin-2006-menx0600078d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
