@@ -1,0 +1,3 @@
+# Article 1
+
+A compter de la mise en œuvre opérationnelle du système d'alerte et d'information des populations dans le département, le service départemental d'incendie et de secours assure, à la demande du préfet de département, la diffusion des messages d'alerte et d'information par ce système. Les modalités d'installation par l'Etat et les modalités d'accès et d'utilisation du système d'alerte et d'information des populations par le service départemental d'incendie et de secours sont préalablement définies par une convention signée entre le préfet de département et le président du conseil d'administration du service départemental d'incendie et de secours de ce département.

@@ -1,0 +1,3 @@
+# Article 3
+
+A compter de la mise en œuvre opérationnelle du système d'alerte et d'information des populations dans le département, et dans les communes dont le conseil municipal a décidé de se raccorder à ce système et le maire de l'utiliser, le service départemental d'incendie et de secours assure, à la demande du maire, la diffusion des messages d'alerte et d'information par ce système. Les modalités d'accès et d'utilisation du système d'alerte et d'information des populations par le service départemental d'incendie et de secours pour le compte des maires sont préalablement définies par une convention signée par le préfet du département, le président du conseil d'administration du service départemental d'incendie et de secours et le maire.
