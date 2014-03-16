@@ -15,443 +15,378 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <table>
 <tbody>
 <tr>
-<td width="38">
+<td>
+<br/>
 <br/>
 </td>
-<td width="265">
-<p align="center">CERTIFICATS/VISITES</p>
+<td>
+<p align="center">CERTIFICATS/VISITE</p>
 </td>
-<td width="95">
-<p align="center">BUREAU<br/>Veritas</p>
+<td>
+<p align="center">BUREAU VERITAS </p>
 </td>
-<td width="95">
-<p align="center">DET NORSKE Veritas</p>
+<td>
+<p align="center">DNV-GL AS </p>
 </td>
-<td width="95">
-<p align="center">GERMANISCHER Lloyd</p>
-</td>
-<td width="95">
-<p align="center">RINA<br/>Services<br/>s. p. a.</p>
+<td>
+<p align="center">RINA Services s.p.a </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td valign="top" width="265">
-<p>Permis de navigation </p>
+<td align="left">
+<br/>Permis de navigation <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">-</p>
+<td align="center">
+<br/>- <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">-</p>
+<td align="center">
+<br/>- <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">-</p>
-</td>
-<td valign="top" width="95">
-<p align="center">-</p>
+<td align="center">
+<br/>- <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au franc-bord/Certificat de franc-bord </p>
+<td align="left">
+<br/>Visites relatives au franc-bord/ Certificat de franc-bord <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">3</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Certificat d'exemption au titre de la Load Line </p>
+<td align="left">
+<br/>Certificat d'exemption au titre de la Load Line <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>D <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>D <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
-</td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>D <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">4</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la sécurité de construction/Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
+<td align="left">
+<br/>Visites relatives à la sécurité de construction/ Certificat de sécurité pour navire de charge et fiche d'équipement modèle C <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">5</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td valign="top" width="265">
-<p>Certificat d'exemption au titre de la Solas </p>
+<td align="left">
+<br/>Certificat d'exemption au titre de la Solas <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>D <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>D <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
-</td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>D <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">6</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
+<td align="left">
+<br/>Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/ Certificat de sécurité pour navire de charge <br/>et fiche d'équipement modèle C <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">7</p>
+<td align="center">
+<br/>7 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C </p>
+<td align="left">
+<br/>Visites relatives à la sécurité du matériel d'armement/ Certificat de sécurité pour navire de charge et fiche d'équipement modèle C <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">8</p>
+<td align="center">
+<br/>8 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/Certificat international d'aptitude au transport de gaz liquéfié en vrac </p>
+<td align="left">
+<br/>Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/ Certificat international d'aptitude au transport de gaz liquéfié en vrac <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">9</p>
+<td align="center">
+<br/>9 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/Certificat international d'aptitude au transport de produits chimiques dangereux en vrac </p>
+<td align="left">
+<br/>Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/ Certificat international d'aptitude au transport <br/>de produits chimiques dangereux en vrac <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">10</p>
+<td align="center">
+<br/>10 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la prévention de la pollution par les hydrocarbures/Certificat international de prévention de la pollution par les hydrocarbures </p>
+<td align="left">
+<br/>Visites relatives à la prévention de la pollution par les hydrocarbures/ Certificat international de prévention de la pollution par les hydrocarbures <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">11</p>
+<td align="center">
+<br/>11 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/Certificat international de prévention de la pollution liée au transport de substances liquides nocives en vrac </p>
+<td align="left">
+<br/>Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/ Certificat international de prévention de la pollution <br/>liée au transport de substances liquides nocives en vrac <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">12</p>
+<td align="center">
+<br/>12 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au registre des apparaux de levage/Approbation du registre </p>
+<td align="left">
+<br/>Visites relatives au registre des apparaux de levage/ Approbation du registre <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">13</p>
+<td align="center">
+<br/>13 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au registre des ordures/ Approbation plan et registre des ordures </p>
+<td align="left">
+<br/>Visites relatives au registre des ordures/ Approbation plan et registre des ordures <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">14</p>
+<td align="center">
+<br/>14 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la prévention de la pollution de l'atmosphère par les navires/Certificat international de prévention de la pollution de l'atmosphère </p>
+<td align="left">
+<br/>Visites relatives à la prévention de la pollution de l'atmosphère par les navires/ Certificat international de prévention de la pollution de l'atmosphère <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">15</p>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure </p>
+<td align="left">
+<br/>Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">16</p>
+<td align="center">
+<br/>16 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la prévention de la pollution par les eaux usées/Certificat international de prévention de la pollution par les eaux usées </p>
+<td align="left">
+<br/>Visites relatives à la prévention de la pollution par les eaux usées/ Certificat international de prévention de la pollution par les eaux usées <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">17</p>
+<td align="center">
+<br/>17 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à l'hygiène et à l'habitabilité </p>
+<td align="left">
+<br/>Visites relatives à l'hygiène et à l'habitabilité <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">18</p>
+<td align="center">
+<br/>18 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs </p>
+<td align="left">
+<br/>Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution <br/>de l'atmosphère par les moteurs <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">19</p>
+<td align="center">
+<br/>19 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visite réalisée en vertu des dispositions d'une recommandation d'une organisation internationale </p>
+<td align="left">
+<br/>Visite réalisée en vertu des dispositions d'une recommandation d'une organisation internationale <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescription spéciales applicables aux navires transportant des marchandises dangereuses </p>
+<td align="left">
+<br/>Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/ Document de conformité <br/>prescriptions spéciales applicables aux navires transportant des marchandises dangereuses <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">21</p>
+<td align="center">
+<br/>21 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visite relative à la prévention de la pollution atmosphérique/Certificat international de rendement énergétique (IEE) </p>
+<td align="left">
+<br/>Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE) <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 </tbody>
@@ -473,125 +408,95 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 <table>
 <tbody>
 <tr>
-<td width="38">
-<br/>
+<td/>
+<td align="center">CERTIFICATS/VISITE</td>
+<td align="center">BUREAU VERITAS</td>
+<td align="center">DNV-GL AS </td>
+<td align="center">RINA <br/>Services s.p.a</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="265">
-<p align="center">CERTIFICATS/VISITES</p>
+<td align="left">
+<br/>Visites relatives au Certificat international ou national de franc-bord/ Certificat de franc-bord <br/>
 </td>
-<td width="95">
-<p align="center">BURAU <br/>Veritas</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td width="95">
-<p align="center">DET NORSKE <br/>Veritas</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td width="95">
-<p align="center">GERMANISCHER <br/>Lloyd</p>
-</td>
-<td width="95">
-<p align="center">RINA <br/>Services <br/>s. p. a.</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au Certificat international ou national de franc-bord/Certificat de franc-bord </p>
+<td align="left">
+<br/>Certificat d'exemption au titre de la Load Line <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>D <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>D <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>D <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Certificat d'exemption au titre de la Load Line </p>
+<td align="left">
+<br/>Visites relatives au registre des apparaux de levage/ Approbation du registre <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">D</p>
-</td>
-<td valign="top" width="95">
-<p align="center">D</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">
-<br/>3</p>
+<td align="center">
+<br/>4 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">
-<br/>Visites relatives au registre des apparaux de levage/Approbation du registre </p>
+<td align="left">
+<br/>Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">4</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure </p>
+<td align="left">
+<br/>Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution <br/>de l'atmosphère par les moteurs <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">5</p>
-</td>
-<td valign="top" width="265">
-<p align="left">Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 </tbody>
@@ -608,63 +513,48 @@ H : Habilitation comprenant l'étude, la réalisation des visites à bord et la 
 <table>
 <tbody>
 <tr>
-<td width="38">
-<br/>
+<td/>
+<td align="center">CERTIFICATS/VISITE</td>
+<td align="center">BUREAU VERITAS</td>
+<td align="center">DNV-GL AS </td>
+<td align="center">RINA <br/>Services s.p.a</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td width="265">
-<p align="center">CERTIFICATS/VISITES</p>
+<td align="center">
+<p align="left">
+<br/>Visites relatives au certificat international de jaugeage des navires/ Certificat international de jaugeage des navires <br/>
+</p>
 </td>
-<td width="95">
-<p align="center">BUREAU <br/>Veritas</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td width="95">
-<p align="center">DET NORSKE <br/>Veritas</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td width="95">
-<p align="center">GERMANISCHER <br/>Lloyd</p>
-</td>
-<td width="95">
-<p align="center">RINA <br/>Services <br/>s. p. a.</p>
+<td align="center">
+<br/>H <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="38">
-<p align="center">1</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au Certificat international de jaugeage des navires/Certificat international de jaugeage des navires </p>
+<td align="center">
+<p align="left">
+<br/>Visites relatives au certificat national de jaugeage des navires/ Certificat national de jaugeage des navires <br/>
+</p>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H <br/>
 </td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="38">
-<p align="center">2</p>
-</td>
-<td valign="top" width="265">
-<p align="left">Visites relatives au Certificat national de jaugeage des navires/Certificat national de jaugeage des navires </p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
-</td>
-<td valign="top" width="95">
-<p align="center">H</p>
+<td align="center">
+<br/>H<br/>
 </td>
 </tr>
 </tbody>
