@@ -11,7 +11,6 @@
 - [Arrêté du 1 janvier 2007 (BUDR0603075A)](arrete-du-1-janvier-2007-budr0603075a)
 - [Arrêté du 1 juin 2004 (SOCF0411185A)](arrete-du-1-juin-2004-socf0411185a)
 - [Arrêté du 1 mars 2007 (DEFH0700300A)](arrete-du-1-mars-2007-defh0700300a)
-- [Arrêté du 1 novembre 2006 (ECOP0600719A)](arrete-du-1-novembre-2006-ecop0600719a)
 - [Arrêté du 1 octobre 2007 (DEFD0767147A)](arrete-du-1-octobre-2007-defd0767147a)
 - [Arrêté du 1 octobre 2007 (DEFH0764500A)](arrete-du-1-octobre-2007-defh0764500a)
 - [Arrêté du 1 octobre 2007 (IOCC0766721A)](arrete-du-1-octobre-2007-iocc0766721a)
