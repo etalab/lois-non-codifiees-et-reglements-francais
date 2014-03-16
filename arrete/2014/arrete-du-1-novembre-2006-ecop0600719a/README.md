@@ -4,3 +4,4 @@
 - [I. - Déplacements en métropole à l'occasion d'une mission ou d'un intérim](i)
 - [III - Stages de formation.](iii)
 - [IV - Dispositions communes.](iv)
+- [Annexes](annexes)
