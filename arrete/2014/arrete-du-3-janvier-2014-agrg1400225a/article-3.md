@@ -6,13 +6,13 @@ Les vingt circonscriptions régionales de l'ordre des vétérinaires sont fixée
 <tbody>
 <tr>
 <td>
-<p align="center"> RÉGIONS</p>
+<p align="center">RÉGIONS</p>
 </td>
 <td>
-<p align="center"> DÉPARTEMENTS CONCERNÉS</p>
+<p align="center">DÉPARTEMENTS CONCERNÉS</p>
 </td>
 <td>
-<p align="center"> NOMBRE<br/>de conseillers</p>
+<p align="center">NOMBRE<br/>de conseillers</p>
 </td>
 </tr>
 <tr>
@@ -28,10 +28,10 @@ Les vingt circonscriptions régionales de l'ordre des vétérinaires sont fixée
 </tr>
 <tr>
 <td align="center">
-<p align="left">AQUITAINE, communautés et pays d'outre-mer </p>
+<p align="left">AQUITAINE, collectivités d'outre-mer </p>
 </td>
 <td align="center">
-<p align="left">Dordogne (24), Gironde (33), Landes (40), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Saint-Pierre-et-Miquelon (975), Wallis-et-Futuna (986), Polynésie française (987), Nouvelle-Calédonie (988)</p>
+<p align="left">Dordogne (24), Gironde (33), Landes (40), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Saint-Pierre-et-Miquelon (975), Wallis-et-Futuna (986), Polynésie française (987), Nouvelle-Calédonie (988),  Saint-Barthélemy (977), Saint-Martin (978) </p>
 </td>
 <td align="center">
 <p align="center">12</p>
