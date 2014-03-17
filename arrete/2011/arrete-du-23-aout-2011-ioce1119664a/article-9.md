@@ -4,8 +4,10 @@ La sous-direction de la planification et de la gestion des crises comprend :
 
 ― le bureau de la planification, exercices, retour d'expérience ;
 
-― le bureau opérations et gestion interministérielle des crises ;
+― le bureau des opérations et de la gestion de crise ;
 
-― le bureau d'expertise résilience aux risques ;
+― le bureau d'analyse et de gestion des risques  ;
 
 ― le bureau de l'alerte, de la sensibilisation et de l'éducation des publics.
+
+Le Centre national civil et militaire de formation et d'entraînement aux événements de nature nucléaire, radiologique, biologique, chimique et explosive est rattaché fonctionnellement à cette sous-direction.

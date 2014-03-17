@@ -11,3 +11,5 @@ La direction générale de la sécurité civile et de la gestion des crises, sou
 ― la sous-direction des moyens nationaux ;
 
 ― le cabinet.
+
+Le Centre national civil et militaire de formation et d'entraînement aux événements de nature nucléaire, radiologique, biologique, chimique et explosive est placé auprès du directeur général de la sécurité civile et de la gestion des crises.
