@@ -1,6 +1,6 @@
 # Article 7
 
-Les cadres de santé sont recrutés parmi les candidats qui satisfont aux conditions exigées à la date du 19 juin 2009 pour l'accès au corps homologue de la fonction publique hospitalière, par concours sur titres pouvant être ouverts :
+Les cadres de santé sont recrutés parmi les candidats qui satisfont aux conditions exigées à la date du  9 décembre 2011 pour l'accès au corps homologue de la fonction publique hospitalière, par concours sur titres pouvant être ouverts :
 
 1° Pour au moins 90 % des postes à pourvoir, aux militaires de carrière et aux militaires servant en vertu d'un contrat ;
 

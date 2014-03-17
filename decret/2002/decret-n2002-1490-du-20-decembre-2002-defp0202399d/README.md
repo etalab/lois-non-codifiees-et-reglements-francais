@@ -5,5 +5,6 @@
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Formation spécialisée.](chapitre-iv)
 - [Chapitre IV bis : Dispositions spécifiques relatives à la procédure disciplinaire.](chapitre-iv-bis)
-- [Chapitre VI : Dispositions finales.](chapitre-vi)
+- [Chapitre VI : Dispositions transitoires.](chapitre-vi)
+- [Chapitre VII : Dispositions finales.](chapitre-vii)
 - [Article 17](article-17.md)

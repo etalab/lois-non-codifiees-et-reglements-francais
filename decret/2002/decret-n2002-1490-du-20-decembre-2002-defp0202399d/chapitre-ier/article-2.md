@@ -2,154 +2,177 @@
 
 Les militaires infirmiers et techniciens des hôpitaux des armées sont constitués en corps de militaires de carrière dont la hiérarchie particulière ne comporte pas d'assimilation avec la hiérarchie militaire générale, sous réserve des dispositions des articles 10, 12-2, 12-4, 12-6 et 12-8.
 
-La hiérarchie des grades et échelons ainsi que l'échelonnement indiciaire sont ceux qui sont en vigueur à la date du 19 juin 2009.
+La hiérarchie des grades et échelons ainsi que l'échelonnement indiciaire sont ceux qui sont prévus à la date du 9 décembre 2011 dans le corps de la fonction publique hospitalière désigné comme corps homologue dans les tableaux ci-après :
 
-Dans le corps de la fonction publique hospitalière désigné comme corps homologue dans le tableau ci-après :
+1° Cas général :
 
 <table>
 <tbody>
 <tr>
-<td width="340">
-<p align="center">CORPS MILITAIRES</p>
+<td align="center"> CORPS MILITAIRES </td>
+<td align="center"> CORPS HOMOLOGUES<br/> de la fonction publique hospitalière</td>
+</tr>
+<tr>
+<td align="left">
+<br/>1. Corps des psychologues <br/>
 </td>
-<td width="340">
-<p align="center">CORPS HOMOLOGUES<br/>de la fonction publique hospitalière</p>
+<td align="left">
+<br/>Corps des psychologues <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>1. Corps de directeur des soins.</p>
+<td align="left">
+<br/>2. Corps de directeurs des soins <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps de directeur des soins. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>2. Corps des cadres de santé.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des cadres de santé. </p>
+<td align="left">
+<br/>Corps de directeurs des soins <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>3. Corps des sages-femmes.</p>
+<td align="left">
+<br/>3. Corps des cadres de santé <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des sages-femmes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>4. Corps des infirmiers.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des infirmiers. </p>
+<td align="left">
+<br/>Corps des cadres de santé <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>5. Corps des infirmiers de bloc opératoire.</p>
+<td align="left">
+<br/>4. Corps des sages-femmes <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des infirmiers de bloc opératoire. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>6. Corps des infirmiers anesthésistes.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des infirmiers anesthésistes. </p>
+<td align="left">
+<br/>Corps des sages-femmes <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>7. Corps des puéricultrices.</p>
+<td align="left">
+<br/>5. Corps des infirmiers en soins généraux et spécialisés <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des puéricultrices. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>8. Corps des masseurs-kinésithérapeutes.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des masseurs-kinésithérapeutes. </p>
+<td align="left">
+<br/>Corps des infirmiers en soins généraux et spécialisés <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>9. Corps des orthophonistes.</p>
+<td align="left">
+<br/>6. Corps des masseurs-kinésithérapeutes <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des orthophonistes. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>10. Corps des orthoptistes.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des orthoptistes. </p>
+<td align="left">
+<br/>Corps des masseurs-kinésithérapeutes <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>11. Corps des diététiciens.</p>
+<td align="left">
+<br/>7. Corps des diététiciens <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des diététiciens. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>12. Corps des techniciens de laboratoire.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des techniciens de laboratoire. </p>
+<td align="left">
+<br/>Corps des diététiciens <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>13. Corps des manipulateurs d'électroradiologie médicale.</p>
+<td align="left">
+<br/>8. Corps des techniciens de laboratoire <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des manipulateurs d'électroradiologie médicale. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>14. Corps des préparateurs en pharmacie hospitalière.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des préparateurs en pharmacie hospitalière. </p>
+<td align="left">
+<br/>Corps des techniciens de laboratoire <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">15. Corps des aides-soignants et des agents des services hospitaliers qualifiés.</p>
+<td align="left">
+<br/>9. Corps des manipulateurs d'électroradiologie médicale <br/>
 </td>
-<td valign="top" width="340">
-<p>Corps des aides-soignants et des agents des services hospitaliers qualifiés.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>16. Corps des secrétaires médicaux.</p>
-</td>
-<td valign="top" width="340">
-<p>Corps des secrétaires médicaux. </p>
+<td align="left">
+<br/>Corps des manipulateurs d'électroradiologie médicale <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">17. Corps des techniciens supérieurs.</p>
+<td align="left">
+<br/>10. Corps des préparateurs en pharmacie hospitalière <br/>
 </td>
-<td>
-<p align="left">Corps des techniciens supérieurs.</p>
+<td align="left">
+<br/>Corps des préparateurs en pharmacie hospitalière <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>11. Corps des aides-soignants et des agents des services hospitaliers qualifiés <br/>
+</td>
+<td align="left">
+<br/>Corps des aides-soignants et des agents des services hospitaliers qualifiés <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>12. Corps des assistants médico-administratifs <br/>
+</td>
+<td align="left">
+<br/>Corps des assistants médico-administratifs <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>13. Corps des techniciens et techniciens supérieurs hospitaliers <br/>
+</td>
+<td align="left">
+<br/>Corps des techniciens et techniciens supérieurs hospitaliers <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+2° Cas des corps militaires en extinction :
+
+<table>
+<tbody>
+<tr>
+<td align="center"> CORPS MILITAIRES EN EXTINCTION</td>
+<td align="center"> CORPS HOMOLOGUES<br/> de la fonction publique hospitalière</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Corps des infirmiers <br/>
+</td>
+<td align="left">
+<br/>Corps des infirmiers <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Corps des infirmiers de bloc opératoire <br/>
+</td>
+<td align="left">
+<br/>Corps des infirmiers de bloc opératoire <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Corps des infirmiers anesthésistes <br/>
+</td>
+<td align="left">
+<br/>Corps des infirmiers anesthésistes <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Corps des puéricultrices <br/>
+</td>
+<td align="left">
+<br/>Corps des puéricultrices <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Corps des orthophonistes <br/>
+</td>
+<td align="left">
+<br/>Corps des orthophonistes <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Corps des orthoptistes <br/>
+</td>
+<td align="left">
+<br/>Corps des orthoptistes<br/>
 </td>
 </tr>
 </tbody>

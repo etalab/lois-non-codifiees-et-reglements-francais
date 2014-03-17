@@ -1,6 +1,6 @@
 # Article 8
 
-Les directeurs des soins sont recrutés parmi les militaires appartenant au corps de cadres de santé ou les titulaires du diplôme de cadre de santé, ayant exercé au moins cinq ans de services effectifs en qualité de cadres et satisfaisant aux conditions exigées à la date du 19 juin 2009 pour l'accès au corps homologue de la fonction publique hospitalière, par concours sur épreuves pouvant être ouverts, dans les filières infirmière, de rééducation et médico-technique :
+Les directeurs des soins sont recrutés parmi les militaires appartenant au corps de cadres de santé ou les titulaires du diplôme de cadre de santé, ayant exercé au moins cinq ans de services effectifs en qualité de cadres et satisfaisant aux conditions exigées à la date du  9 décembre 2011 pour l'accès au corps homologue de la fonction publique hospitalière, par concours sur épreuves pouvant être ouverts, dans les filières infirmière, de rééducation et médico-technique :
 
 1° Pour au moins 90 % des postes à pourvoir, aux militaires de carrière et aux militaires servant en vertu d'un contrat ;
 
