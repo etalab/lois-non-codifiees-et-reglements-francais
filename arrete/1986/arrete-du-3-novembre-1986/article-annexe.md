@@ -218,13 +218,13 @@ LISTE DES DISCIPLINES, NATURE ET DURÉE DES ÉPREUVES
 </tr>
 <tr>
 <td width="227">
-<p>Série STG - sciences et technologies de la gestion</p>
+<p>Série STMG - sciences et technologies du management et de la gestion </p>
 </td>
 <td valign="bottom" width="227">
-<p>Économie-droit</p>
+<p>Management <br/>et sciences de gestion </p>
 </td>
 <td valign="bottom" width="227">
-<p>6 h</p>
+<p>4 h</p>
 </td>
 </tr>
 <tr>
