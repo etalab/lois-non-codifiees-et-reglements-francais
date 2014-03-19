@@ -1,0 +1,3 @@
+# Article 160
+
+Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur les conséquences de la fin de l'application du règlement (CE) n° 1400/2002 de la Commission, du 31 juillet 2002, concernant l'application de l'article 81, paragraphe 3, du traité à des catégories d'accords verticaux et de pratiques concertées dans le secteur automobile. Ce rapport précise notamment quelles en ont été les conséquences pour les consommateurs et les distributeurs automobiles. Il envisage l'opportunité de mettre en place un cadre juridique approprié pour les distributeurs automobiles.
