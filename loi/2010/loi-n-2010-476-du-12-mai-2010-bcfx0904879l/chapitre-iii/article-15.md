@@ -9,3 +9,7 @@ L'entreprise justifie de ses moyens humains et matériels et communique l'ensemb
 L'entreprise sollicitant l'agrément ne peut avoir son siège social, une filiale ou un équipement dans un Etat ou territoire non coopératif au sens de l'article 238-0 A du code général des impôts.
 
 Toute modification de ces éléments intervenant postérieurement à l'agrément est portée à la connaissance de l'Autorité de régulation des jeux en ligne dans les conditions prévues au V de l'article 21.
+
+Elle justifie de l'existence d'une sûreté, d'une fiducie, d'une assurance, d'un compte sous séquestre ou de tout autre instrument ou mécanisme garantissant, en toutes circonstances, le reversement de la totalité des avoirs exigibles des joueurs.
+
+L'opérateur veille à ce que l'étendue de la garantie qu'il fournit soit toujours à la mesure des avoirs exigibles des joueurs. Il informe, sans délai, l'Autorité de régulation des jeux en ligne des variations qui affectent l'étendue de cette garantie. Le cas échéant, l'Autorité de régulation des jeux en ligne peut, de sa propre initiative, exiger de l'opérateur qu'il procède aux adaptations nécessaires de l'étendue de cette garantie, dans un délai qu'elle détermine.

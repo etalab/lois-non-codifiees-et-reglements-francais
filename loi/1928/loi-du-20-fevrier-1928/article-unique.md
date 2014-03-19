@@ -2,7 +2,7 @@
 
 Dans le commerce des eaux-de-vie, le mot " fine " ne pourra être employé que s'il est accompagné d'une appellation géographique viticole ou cidricole, et pour désigner une eau-de-vie de vins ou de cidre provenant exclusivement de la région ainsi indiquée.
 
-Seront punis des peines prévues à l'article L. 214-2 du code de la consommation ceux qui contreviennent aux dispositions du paragraphe précédent, sans préjudice, le cas échéant, des peines encourues pour les délits réprimés par les articles L. 213-1 et L. 216-5 du code de la consommation.
+Seront punis des peines prévues à l'article L. 214-2 du code de la consommation ceux qui contreviennent aux dispositions du paragraphe précédent, sans préjudice, le cas échéant, des peines encourues pour les délits réprimés par l'article L. 213-1 du code de la consommation.
 
 La présente loi ne sera applicable aux produits entreposés chez les détaillants que six mois après sa promulgation.
 

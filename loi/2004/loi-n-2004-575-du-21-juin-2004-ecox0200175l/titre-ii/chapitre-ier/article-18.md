@@ -1,3 +1,0 @@
-# Article 18
-
-Dans les conditions prévues par décret en Conseil d'Etat, des mesures restreignant, au cas par cas, le libre exercice de leur activité par les personnes mentionnées aux articles 14 et 16 peuvent être prises par l'autorité administrative lorsqu'il est porté atteinte ou qu'il existe un risque sérieux et grave d'atteinte au maintien de l'ordre et de la sécurité publics, à la protection des mineurs, à la protection de la santé publique, à la préservation des intérêts de la défense nationale ou à la protection des personnes physiques qui sont des consommateurs ou des investisseurs autres que les investisseurs appartenant à un cercle restreint définis à l'article L. 411-2 du code monétaire et financier.

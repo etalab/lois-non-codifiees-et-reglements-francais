@@ -2,11 +2,9 @@
 
 I. ― Sous réserve des dispositions des articles L. 561-37 et L. 561-38 du code monétaire et financier, la commission des sanctions de l'Autorité de régulation des jeux en ligne peut prononcer, dans les conditions prévues au présent article, des sanctions à l'encontre d'un opérateur de jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 de la présente loi.
 
-II. ― En cas de manquement d'un opérateur de jeux ou de paris en ligne agréé aux obligations législatives et réglementaires applicables à son activité, notamment aux dispositions de l'article 7 de la présente loi, et sous réserve des dispositions des articles L. 561-37 et L. 561-38 du code monétaire et financier, le collège de l'Autorité de régulation des jeux en ligne le met en demeure de s'y conformer dans un délai qui ne peut être inférieur à un mois ni supérieur à six mois et renouvelable une fois sauf en cas de manquement grave et répété.
+II. ― Le collège de l'Autorité de régulation des jeux en ligne peut décider l'ouverture d'une procédure de sanction à l'encontre d'un opérateur de jeux ou de paris en ligne agréé ayant manqué ou manquant aux obligations législatives et réglementaires applicables à son activité, sous réserve des articles L. 561-37 et L. 561-38 du code monétaire et financier. Il notifie alors les griefs aux personnes en cause et en saisit la commission des sanctions.
 
-Au terme du délai prévu à l'alinéa précédent, l'opérateur de jeux ou de paris en ligne qui a déféré à la mise en demeure est tenu de se soumettre dans le délai d'un mois à une nouvelle certification selon les modalités définies à l'article 23 de la présente loi.
-
-S'il n'y a pas déféré ou si, le cas échéant à la suite de cette nouvelle procédure de certification, les mesures correctives prises par l'opérateur sont jugées insuffisantes par le collège de l'Autorité de régulation des jeux en ligne, celui-ci peut décider l'ouverture d'une procédure de sanction. Il notifie alors les griefs aux personnes en cause et en saisit la commission des sanctions.
+Préalablement à cette notification, le collège de l'Autorité de régulation des jeux en ligne informe l'opérateur concerné des manquements qui lui sont imputés et des sanctions qu'il encourt, et l'invite à présenter, dans un délai qui ne peut être inférieur à trente jours, ses observations en réponse. Cette information et cette réponse sont adressées par tout moyen propre à attester de leur date de réception.
 
 III. ― La commission des sanctions de l'Autorité de régulation des jeux en ligne peut, avant de prononcer les sanctions prévues aux IV à VII, entendre toute personne dont l'audition lui paraît utile.
 

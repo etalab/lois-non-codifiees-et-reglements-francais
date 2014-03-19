@@ -11,3 +11,5 @@ Un contrôle permanent de l'activité des opérateurs de jeux ou de paris en lig
 4° Les événements relatifs à l'évolution et à la maintenance des matériels, plates-formes et logiciels de jeux utilisés.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise la liste des données que les opérateurs de jeux ou de paris en ligne sont tenus de mettre à la disposition de l'Autorité de régulation des jeux en ligne. Il précise les modalités techniques de stockage et de transmission de ces données, le délai pendant lequel l'opérateur est tenu de les archiver, ainsi que les modalités des contrôles réalisés par l'Autorité de régulation des jeux en ligne à partir de ces données.
+
+Toutefois, pour l'application du présent article, les données relatives aux opérations de jeu réalisées dans le cadre de l'exploitation des droits exclusifs en matière d'offre publique de jeux en ligne accordés sur le fondement de l'article 136 de la loi du 31 mai 1933 portant fixation du budget général de l'exercice 1933 ne font pas partie des données exigibles par l'Autorité de régulation des jeux en ligne.
