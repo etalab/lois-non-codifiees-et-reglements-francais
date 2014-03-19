@@ -1,3 +1,3 @@
 # Article 2
 
-Est un jeu de hasard un jeu payant où le hasard prédomine sur l'habileté et les combinaisons de l'intelligence pour l'obtention du gain.
+La notion de jeu d'argent et de hasard dans la présente loi s'entend des opérations mentionnées aux articles L. 322-2 et L. 322-2-1 du code de la sécurité intérieure.
