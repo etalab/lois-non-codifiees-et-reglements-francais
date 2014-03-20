@@ -16,7 +16,7 @@ Bassin d'Aquitaine :
 
 - la Garonne entre le pont de Malauze (PK 772,250) et le confluent avec le Lot à l'écluse de Nicole (PK 946,200) ;
 
-- le Lot en amont du pont de Larnagol, département du Lot (PK 793,600) et entre le barrage de Luzech, département du Lot (PK 867,800) et le barrage de Fumel, département du Lot-et-Garonne (PK 78,400). le Lot en aval de la chaussée de Touzac (PK 88, 700) et en amont de la chaussée d'Escambous (PK 110, 00).
+- le Lot, en amont du pont de Larnagol, département du Lot (PK 793,600) ; le Lot, entre le barrage de Luzech, département du Lot (PK 867,800), et 300 mètres en aval du barrage d'Albas (PK 120,800) ; le Lot, entre la limite départementale des départements du Lot et de Lot-et-Garonne, en aval de la chaussée d'Orgueil (PK 82,060), et le barrage de Fumel, département de Lot-et-Garonne (PK 78,400).
 
 Lacs d'Aquitaine et des Landes :
 
