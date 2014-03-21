@@ -1,11 +1,9 @@
 # Article 3
 
-Le titre professionnel de ferronnier est composé des trois unités constitutives dont la liste suit :
+Le titre professionnel de ferronnier est composé des deux unités constitutives suivantes :
 
-1. Fabriquer des ouvrages plans courants de métallerie ;
+1. Réaliser des ouvrages de métallerie-ferronnerie.
 
-2. Fabriquer des ouvrages de ferronnerie ;
-
-3. Réaliser du mobilier et des objets décoratifs en ferronnerie.
+2. Façonner des ouvrages de style en ferronnerie.
 
 Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

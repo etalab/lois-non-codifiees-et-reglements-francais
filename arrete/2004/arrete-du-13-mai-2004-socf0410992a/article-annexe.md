@@ -2,9 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de ferronnier.
+Intitulé : ferronnier (ancien intitulé).
 
 Niveau : V.
 
@@ -12,53 +10,69 @@ Code NSF : 254 v.
 
 Résumé du référentiel d'emploi
 
-Le ferronnier fabrique à partir de plans ou de croquis tous les éléments métalliques forgés du bâtiment, les ouvrages d'accès (portes et portails) et les ouvrages décoratifs (panneaux de volutes, garde-corps, rampes, grilles). Il fabrique également du mobilier en fer forgé, des outils tels que les burins et pointerolles et des quincailleries pour la menuiserie bois : gond, penture, loquet et targette.
+Le ferronnier fabrique à partir de plans ou de croquis tous les éléments métalliques forgés du bâtiment :
 
-Le ferronnier exerce son emploi à l'atelier et ponctuellement sur chantier pour poser ses productions. Il travaille souvent seul et ses horaires sont réguliers. Il exerce dans de petites entreprises qui adoptent des méthodes de travail destinées à réduire les exigences physiques notamment pour la manutention de charges lourdes et pour la frappe de grosses sections (utilisation du marteau-pilon).
+-ouvrages d'accès : portes et portails ;
 
-Dans tous les cas, le ferronnier doit appliquer strictement les consignes de sécurité.
+-ouvrages décoratifs : panneaux de volutes, garde-corps, rampes et grilles ;
+
+-mobilier et objets décoratifs.
+
+Il fabrique également la quincaillerie pour la menuiserie bois, tels les gonds, les pentures, les loquets et les targettes.
+
+Enfin, il fabrique et entretient ses outils tels que les burins et les pointerolles.
+
+Le ferronnier applique des méthodes de production traditionnelles. Toutefois, lors de l'intégration de ses réalisations dans le bâtiment, il doit tenir compte des conditions contemporaines de mise en œuvre pour préserver l'isolation thermique, notamment lors des scellements.
+
+Le ferronnier exerce son emploi à l'atelier et ponctuellement sur chantier pour l'installation de ses productions.
+
+Les contraintes de l'emploi se limitent au port des équipements individuels de protection.
+
+Les horaires sont, en général, réguliers, directement liés à la charge de travail.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Fabriquer des ouvrages plans courants de métallerie
+1. Réaliser des ouvrages de métallerie-ferronnerie
 
-Fabriquer des ouvrages barreaudés en profilés laminés.
+Fabriquer des ouvrages barreaudés.
 
-Fabriquer des ouvrages de métallerie en tôle.
+Fabriquer des ouvrages métalliques de fermeture.
 
-Assembler des profils tubulaires et laminés par soudage électrique.
+Installer des ouvrages de métallerie-ferronnerie.
 
-Réaliser au plan des châssis fixes et ouvrants en acier.
+2. Façonner des ouvrages de style en ferronnerie
 
-2. Fabriquer des ouvrages de ferronnerie
-
-Adapter une structure en ferronnerie en harmonie avec le style de la construction.
+Fabriquer des éléments d'ouvrage de style en ferronnerie.
 
 Rénover des ouvrages de ferronnerie.
 
-Elaborer une production de ferronnerie suivant un plan.
+Préparer la finition et la protection des ouvrages en ferronnerie.
 
-Poser des ouvrages de ferronnerie.
+Réaliser ses outils et appliquer les traitements thermiques.
 
-3. Réaliser du mobilier et des objets décoratifs en ferronnerie
+Secteurs d'activités et types d'emploi
 
-Réaliser un élément de lustrerie.
+accessibles par le détenteur du titre
 
-Façonner des objets décoratifs et utilitaires en ferronnerie.
+Les entreprises de ferronnerie ;
 
-Assurer la finition et la protection des structures ou objets de ferronnerie.
+Les entreprises de ferronnerie d'art ;
 
-Réaliser des traitements thermiques.
+Les entreprises de métallerie ;
+
+Ferronnier ;
+
+Métallier-ferronnier.
 
 Code ROME :
 
-47311 : Métallier (ère) artisanal (e).
+B1601-Métallerie d'art.
 
 Réglementation de l'activité :
 
-Néant.
+Sans objet.
 
 Autorité responsable de la certification :
 
