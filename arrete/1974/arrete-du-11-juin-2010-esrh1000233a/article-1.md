@@ -12,7 +12,7 @@ Une note inférieure à 5 à l'une ou l'autre de ces épreuves est éliminatoire
 
 2. Épreuves orales d'admission
 
-a) Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte relatif à une situation professionnelle (préparation : trente minutes, durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum, entretien : vingt minutes minimum ; coefficient 3).
+a) Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte relatif à une situation professionnelle (préparation : trente minutes, durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum, entretien : vingt minutes minimum ; coefficient 4).
 
 b) Entretien de culture générale avec le jury, débutant par le commentaire d'un texte portant sur les grands thèmes de l'actualité intellectuelle, culturelle, économique et sociale (préparation : trente minutes ; durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum et entretien : vingt minutes minimum ; coefficient 3).
 

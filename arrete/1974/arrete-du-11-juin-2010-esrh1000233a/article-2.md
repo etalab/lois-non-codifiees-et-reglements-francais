@@ -10,7 +10,7 @@ Toute note inférieure à 5 à cette épreuve est éliminatoire.
 
 2. Épreuves orales d'admission
 
-a) Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte relatif à une situation professionnelle. Pour conduire cet entretien, le jury dispose du dossier constitué par le candidat lors de l'inscription, en vue de la reconnaissance des acquis de l'expérience professionnelle (préparation : trente minutes, durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum, entretien : vingt minutes minimum ; coefficient 3).
+a) Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte relatif à une situation professionnelle. Pour conduire cet entretien, le jury dispose du dossier constitué par le candidat lors de l'inscription, en vue de la reconnaissance des acquis de l'expérience professionnelle (préparation : trente minutes, durée de l'épreuve : trente minutes dont commentaire : dix minutes maximum, entretien : vingt minutes minimum ; coefficient 4).
 
 En vue de cette épreuve, le candidat établit un dossier de reconnaissance des acquis de son expérience professionnelle comportant les rubriques mentionnées en annexe 2 du présent arrêté qu'il remet au service organisateur à une date fixée dans l'arrêté d'ouverture du concours. Le dossier de reconnaissance des acquis de l'expérience professionnelle ainsi que le guide d'aide au remplissage sont disponibles sur le site internet du ministère. Le dossier est transmis au jury par le service gestionnaire du concours après l'établissement de la liste d'admissibilité.
 
