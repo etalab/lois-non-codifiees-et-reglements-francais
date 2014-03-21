@@ -14,7 +14,9 @@ Base des fusiliers-marins et des commandos de Lorient (personnel destiné à ren
 
 Flottille amphibie de Toulon ;
 
-École de plongée.
+École de plongée ;
+
+Cellule plongée humaine et d'intervention sous la mer (personnel nageur de combat).
 
 2° Armée de l'air :
 
