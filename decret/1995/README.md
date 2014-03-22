@@ -306,7 +306,6 @@
 - [Décret n°95-678 du 9 mai 1995 (DOMP9500013D)](decret-n95-678-du-9-mai-1995-domp9500013d)
 - [Décret n°95-679 du 9 mai 1995 (ACVE9550001D)](decret-n95-679-du-9-mai-1995-acve9550001d)
 - [Décret n°95-680 du 9 mai 1995 (FPPA9500055D)](decret-n95-680-du-9-mai-1995-fppa9500055d)
-- [Décret n°95-681 du 9 mai 1995 (FPPA9500068D)](decret-n95-681-du-9-mai-1995-fppa9500068d)
 - [Décret n°95-682 du 9 mai 1995 (RESR9500635D)](decret-n95-682-du-9-mai-1995-resr9500635d)
 - [Décret n°95-683 du 9 mai 1995 (SPSS9501270D)](decret-n95-683-du-9-mai-1995-spss9501270d)
 - [Décret n°95-686 du 9 mai 1995 (SPSG9500963D)](decret-n95-686-du-9-mai-1995-spsg9500963d)
