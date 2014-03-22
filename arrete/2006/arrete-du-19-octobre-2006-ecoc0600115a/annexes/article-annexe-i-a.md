@@ -136,7 +136,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
+<p>Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -309,7 +309,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">Légumes racines. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">7 g / kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.</p>
+<p align="left">7 g/kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Teneur résiduelle en aluminium ≤3 mg/kg de matière sèche dans le produit fini.</p>
@@ -878,7 +878,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">Production de levures. </p>
 </td>
 <td>
-<p align="left">A la dose maximale de 500 mg/kg </p>
+<p align="left">A la dose maximale de 500 mg/kg. </p>
 </td>
 <td>
 <p align="left">Teneur résiduelle inférieure à 50 mg/ kg de levure. <br/>
@@ -1004,7 +1004,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70° C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1161,7 +1161,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
+<p>A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1282,6 +1282,29 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Hypochlorite de sodium. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de décontamination des produits d'origine végétale. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et fruits, légumes, champignons et herbes aromatiques prêts à l'emploi (dits de quatrième gamme). <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Concentration en chlore libre du bain de chloration : 80 ppm au maximum. </p>
+<p align="left">Rinçage obligatoire. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organohalogénés adsorbables AOX). <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Mélange de copolymères monoester (CAS n° 9009-36-6) et diester (CAS n° 67167-17-3) d'acide oléique et d'acide oléique libre (5-10 %) dont le copolymère de base est identifié par le CAS n° 9003-11-6 (PM 1990-2250). <br/>
 </p>
 </td>
@@ -1359,7 +1382,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg. <br/>
+<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg. <br/>
 </p>
 </td>
 </tr>

@@ -1795,24 +1795,6 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS JUSQU'AU 31 DÉCEMBRE 2014
 <p>Hypochlorite de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
-</td>
-<td valign="top" width="114">
-<p align="left">Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et fruits, légumes et champignons crus prêts à l'emploi (dits de quatrième gamme). </p>
-</td>
-<td valign="top" width="174">
-<p>Concentration en chlore libre du bain de chloration : 80 ppm au maximum. </p>
-<p>Rinçage obligatoire. </p>
-</td>
-<td valign="top" width="118">
-<p>Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX). </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="152">
-<p>Hypochlorite de sodium.</p>
-</td>
-<td valign="top" width="122">
 <p>Agents décolorants.</p>
 </td>
 <td valign="top" width="114">

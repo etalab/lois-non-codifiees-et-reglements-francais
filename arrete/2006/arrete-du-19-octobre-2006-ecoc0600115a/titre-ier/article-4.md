@@ -1,63 +1,13 @@
 # Article 4
 
-1. Les préparations enzymatiques à usage alimentaire peuvent être additionnées, en vue d'assurer leur conservation, des substances énumérées ci-après :
+1. Les préparations enzymatiques à usage alimentaire, citées dans le présent arrêté, peuvent être additionnées des produits suivants afin de les diluer, de les disperser ou de les conserver :
 
-a) Pour toutes les préparations enzymatiques sous forme liquide relevant du présent arrêté : acide sorbique, sorbate de sodium, sorbate de potassium et sorbate de calcium ;
+- denrées ou boissons destinées à l'alimentation humaine ;
 
-b) Pour les préparations enzymatiques présentées sous forme liquide, à l'exception de celles utilisées en œnologie :
+- additifs alimentaires, y compris les supports figurant à la partie 3 de l'annexe III du règlement (CE) n° 1333/2008 du Parlement européen et du Conseil du 16 septembre 2008 sur les additifs alimentaires.
 
--acide benzoïque, benzoate de sodium, benzoate de potassium et benzoate de calcium ;
+2. Les préparations enzymatiques peuvent être immobilisées sur des supports inertes constitués :
 
--esters méthylique et éthylique de l'acide parahydroxybenzoïque et leurs dérivés sodiques ;
+- de composants répondant aux dispositions du règlement (CE) n° 1935/2004 du Parlement européen et du Conseil du 27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant les directives 80/590/ CEE et 89/109/ CEE ;
 
-c) Pour la papaïne présentée sous forme liquide et la bêta-amylase d'orge non germée : anhydride sulfureux.
-
-d) Pour les préparations enzymatiques présentées sous forme liquide : chlorure de potassium à la dose maximale de 250 grammes par litre de préparation ;
-
-e) Pour les préparations enzymatiques présentées sous forme solide : chlorure de potassium à la dose maximale de 50 grammes par kilogramme de préparation ;
-
-f) Pour la papaïne en poudre : métabisulfite de sodium à la dose maximale de 1 gramme pour 100 grammes de préparation.
-
-L'emploi des agents conservateurs précités dans les préparations enzymatiques n'entraîne pas dans les denrées et boissons citées en annexe I C des teneurs résiduelles supérieures à 1 milligramme par kilogramme.
-
-La proportion totale d'agents conservateurs cités aux points a, b et c ne dépasse pas 5 grammes par litre de préparation.
-
-2. Les préparations enzymatiques utilisées en oenologie peuvent être diluées, dispersées ou additionnées des produits suivants :
-
--maltodextrines ;
-
--citrate de sodium ;
-
--sulfate d'ammonium.
-
-3. Les préparations enzymatiques à usage alimentaire, citées dans le présent arrêté, peuvent être diluées, dispersées ou additionnées des produits suivants :
-
-a) Pour les préparations enzymatiques, à l'exception de celles utilisées en œnologie :
-
--denrées ou boissons destinées à l'alimentation de l'homme ;
-
--sorbitol à la dose maximale de 60 grammes pour 100 grammes de préparation ;
-
--acétates de sodium, de potassium et de calcium à la dose maximale de 3,5 grammes pour 100 grammes de préparation ;
-
--lactates de sodium, de potassium et de calcium ;
-
--acide citrique, citrates de sodium, de potassium et de calcium ;
-
--pour les préparations de chymosine : méthionine, à la dose strictement nécessaire pour limiter la perte d'activité ;
-
--supports et solvants porteurs de l'annexe IV de l'arrêté du 2 octobre 1997 susvisé autorisés sans restriction d'usage ainsi que ceux autorisés pour la catégorie d'additifs enzymes, dans les conditions fixées au présent arrêté ou, à défaut, dans les conditions fixées à l'article 9 et à l'annexe IV de l'arrêté du 2 octobre 1997 ;
-
--sels de magnésium d'acides gras, dioxyde de silicium pour les préparations enzymatiques présentées sous forme de tablettes, sous réserve que ces substances n'exercent pas de fonction technologique dans le produit fini ;
-
--méthionine selon le principe du quantum satis pour les préparations d'alpha-amylase de Bacillus licheniformis MOL. 2083 recombiné génétiquement.
-
-b) Pour les préparations enzymatiques liquides, y compris celles utilisées en œnologie :
-
--glycérol à la dose maximale de 60 grammes pour 100 grammes de préparation ;
-
-4. Les préparations enzymatiques peuvent être immobilisées sur des supports inertes constitués :
-
--de composants répondant aux dispositions du décret du 8 juillet 1992 susvisé ;
-
--de composants dont l'emploi pour cet usage est prévu en annexe I C.
+- de composants dont l'emploi pour cet usage est prévu à l'annexe I-C.
