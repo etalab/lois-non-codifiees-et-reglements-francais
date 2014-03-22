@@ -1,0 +1,3 @@
+# Article 1
+
+Les sociétés de participations financières de professions libérales ayant pour objet la détention de parts ou d'actions de sociétés ayant elles-mêmes pour objet l'exercice de deux ou plusieurs des professions d'avocat, de notaire, d'huissier de justice, de commissaire-priseur judiciaire, d'expert-comptable, de commissaire aux comptes ou de conseil en propriété industrielle ainsi que la participation à tout groupement de droit étranger ayant pour objet l'exercice de l'une ou plusieurs de ces professions sont régies par les dispositions du livre II du code de commerce, sous réserve des dispositions du présent décret.
