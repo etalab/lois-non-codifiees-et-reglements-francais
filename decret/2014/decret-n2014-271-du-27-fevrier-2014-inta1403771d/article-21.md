@@ -1,5 +1,0 @@
-# Article 21
-
-Le canton n° 20 (Marseille-9) comprend la partie de la commune de Marseille située au sud d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune d'Aubagne, limite territoriale du 9e arrondissement, canal de Marseille, résidence Parc-Berger (incluse), résidence Campagne-Berger (exclue), canal de Marseille, boulevard du Redon, allée des Pins, chemin de la Colline-Saint-Joseph, rue de l'Horticulture, traverse de la Gaye, chemin Joseph-Aiguier, rue de l'Aviateur-Le-Brix, boulevard Lucé, rue Jules-Isaac, boulevard de la Fabrique, avenue de Mazargues, avenue d'Haïfa, avenue de Hambourg, traverse Frédéric-Vin, traverse de Pomègues, boulevard Baptistin-Cayol, boulevard des Joncs, boulevard du Sablier, avenue Bonneveine, avenue Pierre-Mendès-France, au niveau de la rue Gatons, ligne droite perpendiculaire à l'avenue Pierre-Mendès-France et tracée jusqu'au littoral.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Marseille.

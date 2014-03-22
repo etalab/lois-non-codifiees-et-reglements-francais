@@ -1,5 +1,0 @@
-# Article 11
-
-Le canton n° 10 (Les Coteaux de Dordogne) comprend les communes suivantes : Baron, Belvès-de-Castillon, Bossugan, Branne, Cabara, Camiac-et-Saint-Denis, Castillon-la-Bataille, Civrac-sur-Dordogne, Coubeyrac, Daignac, Dardenac, Doulezon, Espiet, Flaujagues, Gardegan-et-Tourtirac, Génissac, Gensac, Grézillac, Guillac, Jugazan, Juillac, Lugaignac, Mouliets-et-Villemartin, Moulon, Naujan-et-Postiac, Nérigean, Pessac-sur-Dordogne, Pujols, Rauzan, Saint-Aubin-de-Branne, Saint-Emilion, Saint-Etienne-de-Lisse, Saint-Genès-de-Castillon, Saint-Germain-du-Puch, Saint-Hippolyte, Saint-Jean-de-Blaignac, Saint-Laurent-des-Combes, Saint-Magne-de-Castillon, Saint-Pey-d'Armens, Saint-Pey-de-Castets, Saint-Philippe-d'Aiguille, Saint-Quentin-de-Baron, Saint-Sulpice-de-Faleyrens, Saint-Vincent-de-Pertignas, Sainte-Colombe, Sainte-Florence, Sainte-Radegonde, Sainte-Terre, Les Salles-de-Castillon, Tizac-de-Curton, Vignonet.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Castillon-la-Bataille.

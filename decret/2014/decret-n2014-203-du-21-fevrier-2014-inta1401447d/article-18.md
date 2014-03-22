@@ -1,5 +1,0 @@
-# Article 18
-
-Le canton n° 17 (Signy-l'Abbaye) comprend les communes suivantes : Antheny, Aouste, Aubigny-les-Pothées, Auboncourt-Vauzelles, Barbaise, Blanchefosse-et-Bay, Bossus-lès-Rumigny, Cernion, Champlin, Chappes, Chaumont-Porcien, Chesnois-Auboncourt, Clavy-Warby, Dommery, Doumely-Bégny, Draize, L'Echelle, Estrebay, Faissault, Faux, La Férée, Flaignes-Havys, Fraillicourt, Le Fréty, Girondelle, Givron, Grandchamp, Gruyères, Hagnicourt, Hannappes, Jandun, Justine-Herbigny, Lalobbe, Launois-sur-Vence, Lépron-les-Vallées, Liart, Logny-Bogny, Lucquy, Maranwez, Marby, Marlemont, Mesmont, Montmeillant, Neufmaison, La Neuville-lès-Wasigny, Neuvizy, Novion-Porcien, Prez, Puiseux, Raillicourt, Remaucourt, Renneville, Rocquigny, La Romagne, Rouvroy-sur-Audry, Rubigny, Rumigny, Saint-Jean-aux-Bois, Saulces-Monclin, Sery, Signy-l'Abbaye, Sorcy-Bauthémont, Thin-le-Moutier, Vaux-lès-Rubigny, Vaux-Montreuil, Vaux-Villaine, Viel-Saint-Remy, Villers-le-Tourneur, Wagnon, Wasigny, Wignicourt.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Signy-l'Abbaye.

@@ -1,5 +1,0 @@
-# Article 16
-
-Le canton n° 15 (Ornans) comprend les communes suivantes : Les Alliés, Amancey, Amathay-Vésigneux, Amondans, Arçon, Arc-sous-Cicon, Aubonne, Bians-les-Usiers, Bolandoz, Bonnevaux-le-Prieuré, Bugny, Cademène, Chantrans, Charbonnières-les-Sapins, Chassagne-Saint-Denis, Châteauvieux-les-Fossés, La Chaux, Cléron, Crouzet-Migette, Déservillers, Durnes, Echevannes, Eternoz, Evillers, Fertans, Flagey, Foucherans, Gevresin, Gilley, Goux-les-Usiers, Hauterive-la-Fresse, L'Hôpital-du-Grosbois, Labergement-du-Navois, Lavans-Vuillafans, Lizine, Lods, Longeville, La Longeville, Maisons-du-Bois-Lièvremont, Malans, Malbrans, Mérey-sous-Montrond, Montbenoît, Montflovin, Montgesoye, Montmahoux, Mouthier-Haute-Pierre, Nans-sous-Sainte-Anne, Ornans, Ouhans, Renédale, Reugney, Saint-Gorgon-Main, Sainte-Anne, Saraz, Saules, Scey-Maisières, Septfontaines, Silley-Amancey, Sombacour, Tarcenay, Trépot, Ville-du-Pont, Villers-sous-Montrond, Vuillafans.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune d'Ornans.

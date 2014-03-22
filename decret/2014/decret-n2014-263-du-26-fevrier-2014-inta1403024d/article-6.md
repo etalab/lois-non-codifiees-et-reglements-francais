@@ -1,5 +1,0 @@
-# Article 6
-
-Le canton n° 5 (Albert) comprend les communes suivantes : Acheux-en-Amiénois, Albert, Arquèves, Auchonvillers, Authie, Authuille, Aveluy, Bayencourt, Bazentin, Beaucourt-sur-l'Ancre, Beaumont-Hamel, Bécordel-Bécourt, Bertrancourt, Bouzincourt, Bray-sur-Somme, Buire-sur-l'Ancre, Bus-lès-Artois, Cappy, Carnoy, Chuignolles, Coigneux, Colincamps, Contalmaison, Courcelette, Courcelles-au-Bois, Curlu, Dernancourt, Eclusier-Vaux, Englebelmer, Etinehem, Forceville, Fricourt, Frise, Grandcourt, Harponville, Hédauville, Hérissart, Irles, Laviéville, Léalvillers, Louvencourt, Mailly-Maillet, Mametz, Maricourt, Marieux, Méaulte, Méricourt-sur-Somme, Mesnil-Martinsart, Millencourt, Miraumont, Montauban-de-Picardie, Morlancourt, La Neuville-lès-Bray, Ovillers-la-Boisselle, Pozières, Puchevillers, Pys, Raincheval, Saint-Léger-lès-Authie, Senlis-le-Sec, Suzanne, Thiepval, Thièvres, Toutencourt, Varennes, Vauchelles-lès-Authie, Ville-sur-Ancre.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune d'Albert.

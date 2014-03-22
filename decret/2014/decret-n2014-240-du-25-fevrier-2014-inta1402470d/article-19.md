@@ -1,5 +1,0 @@
-# Article 19
-
-Le canton n° 18 (Valdahon) comprend les communes suivantes : Adam-lès-Vercel, Athose, Avoudrey, Battenans-Varin, Belleherbe, Belmont, Bremondans, Bretonvillers, Chamesey, Charmoille, Chasnans, Chaux-lès-Passavant, Chevigney-lès-Vercel, Consolation-Maisonnettes, Cour-Saint-Maurice, Courtetain-et-Salans, Domprel, Epenouse, Epenoy, Etalans, Etray, Eysson, Fallerans, Flangebouche, Fuans, Germéfontaine, Fournets-Luisans, Grandfontaine-sur-Creuse, La Grange, Guyans-Durnes, Guyans-Vennes, Hautepierre-le-Châtelet, Landresse, Laviron, Longechaux, Longemaison, Longevelle-lès-Russey, Loray, Magny-Châtelard, Nods, Orchamps-Vennes, Orsans, Ouvans, Passonfontaine, Péseux, Pierrefontaine-les-Varans, Plaimbois-Vennes, Provenchère, Rantechaux, Rosières-sur-Barbèche, Rosureux, La Sommette, Valdahon, Vanclans, Vaucluse, Vauclusotte, Vellerot-lès-Vercel, Vennes, Vercel-Villedieu-le-Camp, Vernierfontaine, Verrières-du-Grosbois, Villers-Chief, Villers-la-Combe, Voires.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Valdahon.

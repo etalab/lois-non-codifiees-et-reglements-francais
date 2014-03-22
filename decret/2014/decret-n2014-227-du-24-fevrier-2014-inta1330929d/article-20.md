@@ -1,5 +1,0 @@
-# Article 20
-
-Le canton n° 19 (Nice-5) comprend la partie de la commune de Nice située à l'intérieur d'un périmètre défini par l'axe des voies et limites suivantes : boulevard Gambetta, ligne de chemin de fer, rue Cros-de-Capeu, rue Georges-Doublet, rue Henry-de-Cessole, rue du Grand-Pin, boulevard de Cessole, avenue Cyrnos, avenue du Caire, chemin de la Maion-Grossa, boulevard de Cessole, avenue de la Vallière, avenue Valentiny, avenue de Saint-Sylvestre, avenue du Ray, avenue Gravier, avenue Vismara, avenue Henri-Dunant, chemin de Riba-de-Mouela, avenue Scudéri, avenue Jean-de-la-Fontaine, petite avenue des Orangers, avenue des Mimosas, ligne droite prolongeant l'avenue de la Marne et passant par l'avenue des Poilus et l'avenue Mireille jusqu'à la rue des Lilas, rue des Lilas, avenue de Brancolar, avenue Daviot, avenue Saint-Lambert, avenue Joseph-Vallot, avenue Valrose, avenue Raymond-Comboul, rue Rouget-de-L'Isle, rue de la Reine-Jeanne, square du Colonel-Jean-Pierre, rue de l'Abbé-Grégoire.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Nice.

@@ -1,5 +1,0 @@
-# Article 4
-
-Le canton n° 3 (Bordeaux-2) comprend la partie de la commune de Bordeaux située à l'intérieur d'un périmètre défini par l'axe des voies et des limites suivantes : depuis la limite territoriale de la commune du Bouscat, rue de la Croix-de-Seguey, rue Labottière, rue Camille-Godard, rue Mandron, rue de la Course, rue d'Aviau, cours de Verdun, cours Xavier-Arnozan, place Lainé, la Garonne du droit de la place Lainé jusqu'au droit du cours du Chapeau-Rouge, cours du Chapeau-Rouge, cours de l'Intendance, rue Vital-Carles, place Pey-Berland, rue des Frères-Bonie, cours d'Albret, rue Joseph-de-Carayon-Latour, rue Jean-Fleuret, rue Marguerite-Crauste, rue François-de-Sourdis, rue Fernand-Audeguil, rue de Pessac, cours du Maréchal-Gallieni, jusqu'à la limite territoriale de la commune de Pessac, limites territoriales des communes de Pessac et de Mérignac, rue de la Pelouse-de-Douet, place Amélie-Raba-Léon, rue Frantz-Despagnet, boulevard Antoine-Gautier, boulevard du Président-Wilson, jusqu'à la rue de la Croix-de-Seguey.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Bordeaux.

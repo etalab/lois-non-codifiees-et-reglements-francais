@@ -1,5 +1,0 @@
-# Article 4
-
-Le canton n° 3 (Aurillac-2) comprend la partie de la commune d'Aurillac située à l'est d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune d'Ytrac, chemin d'Antuejoul, chemin des Remparts, rue de Pesteils, route de Belbex, rue Gaston-Maumy, avenue de la Liberté (route départementale 120), rue Croix-du-Vialenc, rue Loucheur, rue du Docteur-Michel, rue Ribot, boulevard Louis-Dauzier, boulevard Eugène-Linthilhac, place d'Aurinques, rue du Président-Delzons, place du Square, avenue Gambetta, cours de la Jordanne, rue du Pont-d'Aliès, pont Pierre-Marty, cours de la Jordanne, rue Pierre-Marty, rue de Clairvivre, promenade, rue de la Jordanne, ligne droite perpendiculaire à la rue de la Jordanne partant entre le 10 et le 12 jusqu'à la ligne de chemin de fer, ligne de chemin de fer reliant Ytrac à Clermont-Ferrand, jusqu'à la limite territoriale de la commune d'Arpajon-sur-Cère.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune d'Aurillac.

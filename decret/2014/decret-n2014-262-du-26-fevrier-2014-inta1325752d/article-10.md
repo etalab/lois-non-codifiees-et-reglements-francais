@@ -1,5 +1,0 @@
-# Article 10
-
-Le canton n° 9 (Perpignan-4) comprend la partie de la commune de Perpignan située au sud de l'axe des voies suivantes : depuis la limite territoriale de la commune de Saleilles, route d'Elne, rond-point du Moulin-à-Vent, avenue d'Argelès-sur-Mer, rond-point du Pou-de-Les-Coulabres, avenue Georges-Guynemer, boulevard Aristide-Briand, rue Jean-Vielledent, place Jean-Moulin, rue de la Côte-des-Carmes, rue de la Fontaine-Neuve, rue Emile-Zola, place Hyacinthe-Rigaud, rue de la Fusterie, place des Poilus, rue des Augustins, place du Pont-d'en-Vestit, rue Grande-la-Monnaie, rue des Sureaux, rue Jean-de-Gazanyola, rue des Archers, rue des-Rois-de-Majorque, rue des Lices, rue du Lieutenant-Pruneta, avenue Gilbert-Brutus, boulevard Félix-Mercader, avenue du Général-Guillaut, rond-point des Baléares, avenue d'Espagne, route du Perthus, jusqu'à la limite territoriale de la commune de Pollestres.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Perpignan.

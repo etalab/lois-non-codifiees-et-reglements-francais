@@ -1,5 +1,0 @@
-# Article 25
-
-Le canton n° 24 (Saint-Pons-de-Thomières) comprend les communes suivantes : Agel, Aigne, Aigues-Vives, Assignan, Azillanet, Babeau-Bouldoux, Beaufort, Berlou, Boisset, Cambon-et-Salvergues, Capestang, Cassagnoles, Castanet-le-Haut, La Caunette, Cazedarnes, Cébazan, Cessenon-sur-Orb, Cesseras, Colombières-sur-Orb, Courniou, Creissan, Cruzy, Félines-Minervois, Ferrals-les-Montagnes, Ferrières-Poussarou, Fraisse-sur-Agout, La Livinière, Minerve, Mons, Montels, Montouliers, Olargues, Olonzac, Oupia, Pardailhan, Pierrerue, Poilhes, Prades-sur-Vernazobre, Prémian, Puisserguier, Quarante, Rieussec, Riols, Roquebrun, Rosis, Saint-Chinian, Saint-Etienne-d'Albagnan, Saint-Jean-de-Minervois, Saint-Julien, Saint-Martin-de-l'Arçon, Saint-Pons-de-Thomières, Saint-Vincent-d'Olargues, La Salvetat-sur-Agout, Siran, Le Soulié, Vélieux, Verreries-de-Moussans, Vieussan, Villespassans.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Saint-Pons-de-Thomières.

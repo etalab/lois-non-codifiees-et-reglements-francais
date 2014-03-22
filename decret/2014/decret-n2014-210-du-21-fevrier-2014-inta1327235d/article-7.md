@@ -1,5 +1,0 @@
-# Article 7
-
-Le canton n° 6 (Brassac-les-Mines) comprend les communes suivantes : Antoingt, Anzat-le-Luguet, Apchat, Ardes, Augnat, Auzat-la-Combelle, Bansat, Beaulieu, Bergonne, Boudes, Brassac-les-Mines, Le Breuil-sur-Couze, Chalus, Chaméane, Champagnat-le-Jeune, La Chapelle-Marcousse, La Chapelle-sur-Usson, Charbonnier-les-Mines, Chassagne, Collanges, Dauzat-sur-Vodable, Egliseneuve-des-Liards, Esteil, Gignat, La Godivelle, Jumeaux, Lamontgie, Madriat, Mareugheol, Mazoires, Moriat, Nonette, Orsonnette, Parentignat, Peslières, Les Pradeaux, Rentières, Roche-Charles-la-Mayrand, Saint-Alyre-ès-Montagne, Saint-Etienne-sur-Usson, Saint-Genès-la-Tourette, Saint-Germain-Lembron, Saint-Gervazy, Saint-Hérent, Saint-Jean-en-Val, Saint-Jean-Saint-Gervais, Saint-Martin-d'Ollières, Saint-Martin-des-Plains, Saint-Quentin-sur-Sauxillanges, Saint-Rémy-de-Chargnat, Sauxillanges, Sugères, Ternant-les-Eaux, Usson, Valz-sous-Châteauneuf, Varennes-sur-Usson, Vernet-la-Varenne, Vichel, Villeneuve.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Brassac-les-Mines.

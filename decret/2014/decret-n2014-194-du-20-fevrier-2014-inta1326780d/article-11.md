@@ -1,5 +1,0 @@
-# Article 11
-
-Le canton n° 10 (Limoges-3) comprend la partie de la commune de Limoges incluse dans le périmètre défini par l'axe des voies et limites suivantes : avenue Montjovis, rue de Bellac, boulevard de Beaublanc, boulevard du Vigénal, avenue de Louyat, rue Clément-Marot, avenue du Général-Leclerc, rue Degas, rue Alain, rue René-Péchieras, rue Gustave-Courbet, rue Horace-Vernet, rue Camille-Corot, rue Detaille, ligne de chemin de fer, autoroute A 20, ligne de chemin de fer, rue Aristide-Briand, rue Jules-Michelet, rue du Quai-Militaire, rue du Docteur-Emile-Dubois, rue Aristide-Briand, rue du Puy-du-Pic, impasse d'Ambazac, rue Aristide-Briand, ligne de chemin de fer, rue du Chinchauvaud, rue de la Passerelle, rue de Fontaury, avenue Lucien-Faure, avenue du Général-Leclerc, rond-point de Carnot, rue François-Chénieux, rue des Coopérateurs, rue Gustave-Nadaud, avenue Marcelin-Berthelot, rue Montmailler.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Limoges.

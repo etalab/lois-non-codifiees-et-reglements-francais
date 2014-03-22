@@ -1,5 +1,0 @@
-# Article 11
-
-Le canton n° 10 (Saint-Denis-2) comprend la partie de la commune de Saint-Denis située à l'ouest d'une ligne définie par l'axe des voies et limites suivantes : depuis le littoral, cours d'eau Ravine-du-Butor, rue Marcel-Pagnol (direction Nord-Ouest), rue du Général-de-Gaulle, rue Jacob, rue Monthyon (direction Ouest), rue du Ruisseau-des-Noirs (direction Nord), rue du Général-de-Gaulle (direction Ouest), rue Gibert-des-Molières (direction Sud), ligne de 2 006 mètres reliant les huit points de longitude et latitude respectives 338400,96/7689713,86, 338341,15/7689699,81, 338160,80/7689523,91, 338081,25/7689296,86, 337962,17/7689130,76, 337757,77/7688492,25, 337778,04/7688122,64, et 337570,97/7688112,67, rivière Saint-Denis (direction Sud-Ouest), segment de 1 139 mètres reliant les deux points de longitude et latitude respectives 336991,90/7679237,00 et 337150,56/7678109,03, jusqu'à la limite territoriale de la commune de La Possession.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Saint-Denis.

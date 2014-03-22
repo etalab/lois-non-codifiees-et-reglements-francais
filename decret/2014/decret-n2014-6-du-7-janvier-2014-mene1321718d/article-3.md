@@ -1,5 +1,0 @@
-# Article 3
-
-Après la mise en œuvre des dispositions prévues par les articles D. 331-26 à D. 331-32 du code de l'éducation, lorsque les propositions du conseil de classe sont conformes aux demandes des responsables légaux de l'élève ou de l'élève majeur, le chef d'établissement prend les décisions d'orientation conformément à ces demandes et les notifie aux responsables légaux de l'élève ou à l'élève majeur.
-
-Lorsque ces propositions ne sont pas conformes aux demandes, le chef d'établissement ou son représentant avec le professeur principal de la classe reçoivent l'élève et ses responsables légaux afin de leur expliquer les propositions du conseil de classe, de recueillir leurs observations et de proposer un entretien avec un conseiller d'orientation-psychologue dans un délai de cinq jours ouvrables. Si, au terme de ces cinq jours, le cas échéant après une nouvelle rencontre avec le chef d'établissement ou son représentant organisée à la demande de l'élève et ses responsables légaux, ces derniers maintiennent leur choix, le chef d'établissement prononce une décision d'orientation conforme à ce choix. Il en informe l'équipe éducative.

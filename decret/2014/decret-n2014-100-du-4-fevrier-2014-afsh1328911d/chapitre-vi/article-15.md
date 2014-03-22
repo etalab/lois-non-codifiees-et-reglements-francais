@@ -1,5 +1,0 @@
-# Article 15
-
-I. - Les concours de recrutement ouverts dans les corps régis par le décret n° 93-653 du 26 mars 1993 modifié portant statut particulier des conseillers en économie sociale et familiale de la fonction publique hospitalière, le décret n° 93-655 du 26 mars 1993 modifié portant statut particulier des éducateurs techniques spécialisés de la fonction publique hospitalière et le décret n° 93-656 du 26 mars 1993 modifié portant statut particulier des éducateurs de jeunes enfants de la fonction publique hospitalière, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, dont les arrêtés d'ouverture ont été publiés avant la date d'entrée en vigueur du présent décret, demeurent régis par les dispositions applicables à la date de publication de ces arrêtés.
-
-II. - Les lauréats des concours mentionnés au I, dont la nomination n'a pas été prononcée dans les corps régis par les dispositions des décrets du 26 mars 1993 précités avant l'entrée en vigueur du présent décret, peuvent être nommés dans les corps correspondants régis par le présent décret.

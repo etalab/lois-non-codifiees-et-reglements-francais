@@ -1,5 +1,0 @@
-# Article 13
-
-Le canton n° 12 (Dijon-5) comprend la partie de la commune de Dijon située au sud d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Longvic, rue de Longvic, rue Théophile-Foisset, rond-point Edmond-Michelet, cours du Général-de-Gaulle, place du Président-Wilson, rue Claude-Basire, boulevard Carnot, rue de la Synagogue, rue de Tivoli, rue de la Manutention, rue de Berbisey, rue du Bourg, rue Stéphen-Liégeard, rue des Forges, rue de la Liberté, rue Bossuet, rue Michelet, rue de la Prévôté, rempart de la Miséricorde, rue Mariotte, boulevard Sévigné, rue de l'Arquebuse, rue de l'Hôpital, cours de la Rivière-de-l'Ouche, avenue de l'Ouche, avenue Gustave-Eiffel, boulevard des Bourroches, rue En-Saint-Jacques, rue de Tremolois, rue du Vice-Amiral-Violette, rue Charles-Oursel, rue Georges-Serraz, jusqu'à la limite territoriale de la commune de Chenôve.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Dijon.

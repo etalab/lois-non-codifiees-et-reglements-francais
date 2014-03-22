@@ -1,5 +1,0 @@
-# Article 4
-
-Le canton n° 3 (Bavans) comprend les communes suivantes : Accolans, Aibre, Allondans, Anteuil, Appenans, Arcey, Bavans, Belvoir, Berche, Beutal, Blussangeaux, Blussans, Bournois, Branne, Bretigney, Chaux-lès-Clerval, Chazot, Clerval, Colombier-Fontaine, Crosey-le-Grand, Crosey-le-Petit, Dampierre-sur-le-Doubs, Désandans, Dung, Echenans, Etouvans, Etrappe, Faimbe, Fontaine-lès-Clerval, Gémonval, Geney, L'Hôpital-Saint-Lieffroy, Hyémondans, L'Isle-sur-le-Doubs, Issans, Laire, Lanans, Lanthenans, Longevelle-sur-Doubs, Lougres, Mancenans, Marvelise, Médière, Montenois, Onans, Orve, Pompierre-sur-Doubs, Présentevillers, La Prétière, Rahon, Randevillers, Rang, Raynans, Roche-lès-Clerval, Saint-Georges-Armont, Saint-Julien-lès-Montbéliard, Saint-Maurice-Colombier, Sainte-Marie, Sancey-le-Grand, Sancey-le-Long, Santoche, Semondans, Servin, Sourans, Soye, Surmont, Valonne, Vaudrivillers, Vellerot-lès-Belvoir, Vellevans, Vernois-lès-Belvoir, Le Vernoy, Villars-sous-Ecot, Vyt-lès-Belvoir.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Bavans.

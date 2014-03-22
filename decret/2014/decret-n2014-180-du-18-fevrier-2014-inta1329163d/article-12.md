@@ -1,5 +1,0 @@
-# Article 12
-
-Le canton n° 11 (Grenoble-3) comprend la partie de la commune de Grenoble située au sud de l'Isère à l'intérieur d'un périmètre défini par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de La Tronche, pont du Sablon, rue Saint-Ferjus, avenue Saint-Roch, rue Auguste-Prudhomme, rue Joseph-Chanrion, rue de l'Alma, rue de l'Abbé-de-la-Salle, rue Condillac, place Vaucanson, place du Docteur-Léon-Martin, cours Lafontaine, boulevard Gambetta, place Gustave-Rivet, boulevard du Maréchal-Foch, rue de Stalingrad, rue des Déportés-du-11-Novembre-1943, rue Paul-Bourget, rue du Docteur-Bordier, rue Marcel-Peretto, avenue Marcellin-Berthelot, rue de l'Arlequin, avenue de la Bruyère, limite du parc Jean-Verlhac, chemin de la Piscine, chemin reliant le chemin de la Piscine à l'avenue de Constantine, avenue de Constantine, rue Maurice-Dodero, avenue de l'Europe, avenue Marie-Reynoard, jusqu'à la limite territoriale de la commune d'Echirolles.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Grenoble.

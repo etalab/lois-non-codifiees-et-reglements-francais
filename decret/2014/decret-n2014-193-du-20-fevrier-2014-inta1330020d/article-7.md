@@ -1,5 +1,0 @@
-# Article 7
-
-Le canton n° 6 (Gap-1) comprend la partie de la commune de Gap située à l'intérieur d'un périmètre défini par l'axe des voies et limites suivantes : rue Louis-Comté, ligne droite dans le prolongement de la rue Louis-Comté jusqu'à la ligne de chemin de fer, ligne de chemin de fer de Gap à Veynes, traverse de l'Adret, rue Jean-Macé, rue du Parc-Saint-Joseph, rue Charles-Aurouze, ligne de chemin de fer de Gap à Veynes, avenue du Commandant-Dumont, rond-point du Cèdre, avenue du Maréchal-Foch, rue du Docteur-Ayasse, boulevard Bellevue, impasse du Sous-Bois, ligne droite dans le prolongement de l'impasse du Sous-Bois jusqu'à la lisière du bois de Saint-Mens, lisière du bois de Saint-Mens, rue du Collet, rue Kapadoce, route de Valserres, rue Beauregard, cours de la Luye, ligne droite perpendiculaire au cours de la Luye jusqu'à la rue de Villeneuve, rue de Villeneuve, rue du Parc, avenue Jean-Jaurès.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Gap.

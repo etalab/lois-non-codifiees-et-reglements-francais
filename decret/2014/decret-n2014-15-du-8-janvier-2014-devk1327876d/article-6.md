@@ -1,3 +1,0 @@
-# Article 6
-
-Jusqu'à la mise en place auprès du directeur général du CEREMA de la commission administrative paritaire locale du corps des adjoints administratifs, qui interviendra à l'issue du prochain renouvellement général des instances représentatives du personnel de la fonction publique, les décisions de gestion déléguées au directeur général du CEREMA et nécessitant l'avis préalable de la commission administrative paritaire sont soumises à l'avis de la commission administrative paritaire nationale de ce corps instituée auprès du directeur des ressources humaines du ministère de l'écologie, du développement durable et de l'énergie.

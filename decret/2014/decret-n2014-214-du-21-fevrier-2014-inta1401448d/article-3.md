@@ -1,5 +1,0 @@
-# Article 3
-
-Le canton n° 2 (Bonnières-sur-Seine) comprend les communes suivantes : Adainville, Arnouville-lès-Mantes, Auffreville-Brasseuil, Bazainville, Bennecourt, Blaru, Boinville-en-Mantois, Boinvilliers, Boissets, Boissy-Mauvoisin, Bonnières-sur-Seine, Bourdonné, Breuil-Bois-Robert, Bréval, Chaufour-lès-Bonnières, Civry-la-Forêt, Condé-sur-Vesgre, Courgent, Cravent, Dammartin-en-Serve, Dannemarie, Favrieux, Flacourt, Flins-Neuve-Eglise, Fontenay-Mauvoisin, Freneuse, Gommecourt, Goussonville, Grandchamp, Gressey, Guerville, Hargeville, La Hauteville, Houdan, Jeufosse, Jouy-Mauvoisin, Jumeauville, Limetz-Villez, Lommoye, Longnes, Maulette, Ménerville, Méricourt, Moisson, Mondreville, Montchauvet, Mousseaux-sur-Seine, Mulcent, Neauphlette, Orgerus, Orvilliers, Osmoy, Perdreauville, Port-Villez, Prunay-le-Temple, Richebourg, Rolleboise, Rosay, Saint-Illiers-la-Ville, Saint-Illiers-le-Bois, Saint-Martin-des-Champs, Septeuil, Soindres, Tacoignières, Le Tartre-Gaudran, Le Tertre-Saint-Denis, Tilly, Vert, La Villeneuve-en-Chevrie, Villette.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Bonnières-sur-Seine.

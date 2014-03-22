@@ -1,5 +1,0 @@
-# Article 24
-
-Le canton n° 23 (Trévières) comprend les communes suivantes : Aignerville, Asnières-en-Bessin, Balleroy, La Bazoque, Bernesq, Blay, Le Breuil-en-Bessin, Bricqueville, Cahagnolles, La Cambe, Canchy, Cardonville, Cartigny-l'Epinay, Castillon, Castilly, Colleville-sur-Mer, Colombières, Cormolain, Cricqueville-en-Bessin, Crouay, Deux-Jumeaux, Ecrammeville, Englesqueville-la-Percée, Etréham, La Folie, Formigny, Foulognes, Géfosse-Fontenay, Grandcamp-Maisy, Isigny-sur-Mer, Lison, Litteau, Longueville, Louvières, Maisons, Mandeville-en-Bessin, Le Molay-Littry, Monfréville, Montfiquet, Mosles, Neuilly-la-Forêt, Noron-la-Poterie, Osmanville, Les Oubeaux, Planquery, Rubercy, Russy, Saint-Germain-du-Pert, Saint-Laurent-sur-Mer, Saint-Marcouf, Saint-Martin-de-Blagny, Saint-Paul-du-Vernay, Saint-Pierre-du-Mont, Sainte-Honorine-de-Ducy, Sainte-Honorine-des-Pertes, Sainte-Marguerite-d'Elle, Sallen, Saon, Saonnet, Surrain, Tour-en-Bessin, Tournières, Trévières, Le Tronquay, Trungy, Vaubadon, Vierville-sur-Mer, Vouilly.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Trévières.

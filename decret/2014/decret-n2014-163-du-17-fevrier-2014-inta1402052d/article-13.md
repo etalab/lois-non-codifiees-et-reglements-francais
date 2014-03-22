@@ -1,5 +1,0 @@
-# Article 13
-
-Le canton n° 12 (Poissons) comprend les communes suivantes : Aillianville, Aingoulaincourt, Annonville, Audeloncourt, Bassoncourt, Bourg-Sainte-Marie, Bourmont, Brainville-sur-Meuse, Breuvannes-en-Bassigny, Busson, Chalvraines, Chambroncourt, Champigneulles-en-Bassigny, Chaumont-la-Ville, Cirfontaines-en-Ornois, Clinchamp, Doncourt-sur-Meuse, Echenay, Effincourt, Epizon, Germainvilliers, Germay, Germisay, Gillaumé, Goncourt, Graffigny-Chemin, Hâcourt, Harréville-les-Chanteurs, Huilliécourt, Humberville, Illoud, Lafauche, Leurville, Levécourt, Lezéville, Liffol-le-Petit, Longchamp, Maisoncelles, Malaincourt-sur-Meuse, Manois, Mennouveaux, Merrey, Millières, Montreuil-sur-Thonnance, Morionvilliers, Nijon, Noncourt-sur-le-Rongeant, Orquevaux, Outremécourt, Ozières, Pansey, Paroy-sur-Saulx, Poissons, Prez-sous-Lafauche, Romain-sur-Meuse, Sailly, Saint-Blin, Saint-Thiébault, Saudron, Semilly, Sommerécourt, Soulaucourt-sur-Mouzon, Thol-lès-Millières, Thonnance-les-Moulins, Vaudrecourt, Vesaignes-sous-Lafauche, Vroncourt-la-Côte.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Poissons.

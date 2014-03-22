@@ -1,5 +1,0 @@
-# Article 6
-
-Le canton n° 5 (Jussey) comprend les communes suivantes : Aboncourt-Gesincourt, Aisey-et-Richecourt, Alaincourt, Ambiévillers, Arbecey, Augicourt, Barges, La Basse-Vaivre, Betaucourt, Betoncourt-sur-Mance, Blondefontaine, Bougey, Bourbévelle, Bourguignon-lès-Morey, Bousseraucourt, Cemboing, Cendrecourt, Chargey-lès-Port, Charmes-Saint-Valbert, Chauvirey-le-Châtel, Chauvirey-le-Vieil, Cintrey, Combeaufontaine, Confracourt, Cornot, Corre, Demangevelle, Fouchécourt, Gevigney-et-Mercey, Gourgeon, Hurecourt, Jonvelle, Jussey, Lambrey, Lavigney, Magny-lès-Jussey, Malvillers, Melin, Molay, Montcourt, Montdoré, Montigny-lès-Cherlieu, La Neuvelle-lès-Scey, Oigney, Ormoy, Ouge, Passavant-la-Rochère, Pont-du-Bois, Preigney, Purgerot, La Quarte, Raincourt, Ranzevelle, La Roche-Morey, La Rochelle, Rosières-sur-Mance, Saint-Marcel, Selles, Semmadon, Tartécourt, Vauvillers, Vernois-sur-Mance, Villars-le-Pautel, Vitrey-sur-Mance, Vougécourt.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Jussey.

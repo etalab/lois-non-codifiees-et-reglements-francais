@@ -1,5 +1,0 @@
-# Article 13
-
-Le canton n° 12 (Le Mans-3) comprend la partie de la commune du Mans située à l'intérieur d'un périmètre défini par l'axe des voies et limites suivantes : pont Gambetta, cours principal de la Sarthe, ligne droite jusqu'à l'extrémité de l'intersection de la rue Alphonse-Poitevin et de la rue Saint-Pavace, rue Alphonse-Poitevin jusqu'à l'intersection avec la ruelle Sainte-Barbe, rue Henry-Delagenière jusqu'à l'intersection de la ruelle Sainte-Barbe, rue de l'Abbaye-Saint-Vincent, rue de l'Enclos, rue de Bellevue, rue des Maillets, rue des Victimes-du-Nazisme, rue des Pompes, rue de la Rivière, rue Prémartine, rue René-Bardet, rue de l'Eglantine, rue de Cyrus, rue de l'Eventail, rue de la Solitude, chemin de Malpalu, rue Gazonfier, avenue Bollée, boulevard Nicolas-Cugnot, rue de l'Estérel, rue des Pays-Bas, rue de la Bertinière, rue de Mayence, rue de la Mare, avenue Jean-Jaurès, boulevard Emile-Zola, boulevard Robert-Jarry, pont des Tabacs, cours de la Sarthe.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune du Mans.

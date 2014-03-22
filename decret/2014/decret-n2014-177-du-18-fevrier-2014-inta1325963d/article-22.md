@@ -1,5 +1,0 @@
-# Article 22
-
-Le canton n° 21 (Rennes-4) comprend la partie de la commune de Rennes située à l'intérieur du périmètre suivant : à partir de la limite territoriale de la commune de Saint-Jacques-de-la-Lande, boulevard Georges-Clemenceau, boulevard Emile-Combes, rue André-Rouault, boulevard Oscar-Leroux, rue Adolphe-Leray, rue Saint-Hélier, ligne de chemin de fer de Paris-Montparnasse à Brest, rue Raoul-Dautry, boulevard de Beaumont, place de la Gare, avenue Jean-Janvier, pont Pasteur, rue Gambetta, contour de la Motte, rue du Général-Maurice-Guillaudot, rue Lesage, rue d'Antrain, rue de Bonne-Nouvelle, contour Saint-Aubin, rue d'Echange, rue de Dinan, rue Pierre-Gourdel, boulevard du Maréchal-de-Lattre-de-Tassigny, quai d'Ille-et-Rance, pont de Bretagne, quai de la Prévalaye, rue d'Inkermann, lignes de chemin de fer de Paris-Montparnasse à Brest et de Rennes à Redon, jusqu'à la limite territoriale de la commune de Saint-Jacques-de-la-Lande.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Rennes.

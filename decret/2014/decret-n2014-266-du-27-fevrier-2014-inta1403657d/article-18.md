@@ -1,5 +1,0 @@
-# Article 18
-
-Le canton n° 17 (Le Havre-4) comprend la partie de la commune du Havre située à l'est d'une ligne définie par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Gonfreville-l'Orcher, route nationale 282, boulevard de Leningrad, boulevard de Graville, rue Aristide-Briand, cours de la République, tunnel Jenner, rue de Tourneville, rue Pasteur, rue du Général-Rouelle, rue des Acacias, rue Jenner, tunnel Jenner, place Jenner, avenue René-Dehayes, lisière est de la forêt de Montgeon, allée des Cigales, rue Socrate, chemin de la rue Socrate à la rue William-Cargill, rue William-Cargill, rue Jean-Bouise sud, allée Etienne-Peau, ligne droite jusqu'à la rue Adèle-Robert, rue Adèle-Robert, rue Socrate, place des Martyrs, rue Flandres-Dunkerque, rue des Londes, avenue du 8-Mai-1945, rue Fourier, rue Edouard-Vaillant, avenue Pierre-Courtade, rue Virgil-Grissom, rue du Docteur-Vannier, chemin de Caucriauville, jusqu'à la limite territoriale de la commune d'Harfleur.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune du Havre.

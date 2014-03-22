@@ -1,5 +1,0 @@
-# Article 15
-
-Le canton n° 14 (Saint-Gaudens) comprend les communes suivantes : Aspret-Sarrat, Ausson, Balesta, Blajan, Bordes-de-Rivière, Boudrac, Boulogne-sur-Gesse, Cardeilhac, Castéra-Vignoles, Cazaril-Tambourès, Charlas, Ciadoux, Clarac, Cuguron, Le Cuing, Escanecrabe, Estancarbon, Franquevielle, Gensac-de-Boulogne, Labarthe-Inard, Labarthe-Rivière, Lalouret-Laffiteau, Landorthe, Larcan, Larroque, Lécussan, Lespiteau, Lespugue, Lieoux, Lodes, Loudet, Lunax, Miramont-de-Comminges, Mondilhan, Montgaillard-sur-Save, Montmaurin, Montréjeau, Nénigan, Nizan-Gesse, Péguilhan, Pointis-Inard, Ponlat-Taillebourg, Régades, Rieucazé, Saint-Ferréol-de-Comminges, Saint-Gaudens, Saint-Ignan, Saint-Lary-Boujean, Saint-Loup-en-Comminges, Saint-Marcet, Saint-Pé-Delbosc, Saint-Plancard, Saman, Sarrecave, Sarremezan, Saux-et-Pomarède, Savarthès, Sédeilhac, Les Tourreilles, Valentine, Villeneuve-de-Rivière, Villeneuve-Lécussan.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Saint-Gaudens.

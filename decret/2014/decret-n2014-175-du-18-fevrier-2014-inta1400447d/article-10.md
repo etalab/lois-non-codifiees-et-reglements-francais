@@ -1,5 +1,0 @@
-# Article 10
-
-Le canton n° 9 (Dijon-2) comprend la partie de la commune de Dijon située à l'intérieur d'un périmètre défini par l'axe des voies et limites suivantes : depuis la limite territoriale de la commune de Fontaine-lès-Dijon, rue Octave-Terrillon, rue Claude-Hoin, rue de Beauséjour, rue de la Houblonnière, rue Jules-Forey, avenue du Drapeau, ligne de tramway, avenue Garibaldi, rue Sambin, rue Gagnereaux, place Barbe, rue d'Ahuy, rue Claude-Bernard, place Saint-Bernard, boulevard de la Trémouille, rue de la Préfecture, place Notre-Dame, rue des Forges, rue Stéphen-Liégeard, rue du Bourg, rue Berbisey, rue de la Manutention, rue de Tivoli, rue de la Synagogue, boulevard Carnot, place du 30-Octobre-et-de-la-Légion-d'Honneur, boulevard de Strasbourg, ligne de chemin de fer, boulevard des Martyrs-de-la-Résistance, place Saint-Exupéry, boulevard Pascal, avenue du Drapeau, avenue de Langres, rond-point de la Nation, rue de Bruges, jusqu'à la limite territoriale de la commune de Fontaine-lès-Dijon.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Dijon.

@@ -1,5 +1,0 @@
-# Article 19
-
-Le canton n° 18 (Livarot) comprend les communes suivantes : Auquainville, Les Autels-Saint-Bazile, Bellou, Boissey, Bretteville-sur-Dives, La Brévière, Cernay, Cerqueux, La Chapelle-Haute-Grue, La Chapelle-Yvon, Cheffreville-Tonnencourt, La Croupte, Familly, Fervaques, La Folletière-Abenon, Friardel, Heurtevent, Hiéville, Lisores, Livarot, Le Mesnil-Bacley, Le Mesnil-Durand, Le Mesnil-Germain, Meulles, Mittois, Montviette, Les Moutiers-Hubert, Notre-Dame-de-Courson, Orbec, L'Oudon, Ouville-la-Bien-Tournée, Préaux-Saint-Sébastien, Saint-Cyr-du-Ronceray, Saint-Denis-de-Mailloc, Saint-Georges-en-Auge, Saint-Germain-de-Montgommery, Saint-Julien-de-Mailloc, Saint-Martin-de-Bienfaite-la-Cressonnière, Saint-Martin-du-Mesnil-Oury, Saint-Michel-de-Livet, Saint-Ouen-le-Houx, Saint-Pierre-de-Mailloc, Saint-Pierre-sur-Dives, Sainte-Foy-de-Montgommery, Sainte-Marguerite-de-Viette, Sainte-Marguerite-des-Loges, Thiéville, Tordouet, Tortisambert, Vaudeloges, Vendeuvre, La Vespière, Vieux-Pont-en-Auge.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Livarot.

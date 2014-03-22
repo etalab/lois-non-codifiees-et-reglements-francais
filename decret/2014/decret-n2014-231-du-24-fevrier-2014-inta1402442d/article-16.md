@@ -1,5 +1,0 @@
-# Article 16
-
-Le canton n° 15 (Voves) comprend les communes suivantes : Allaines-Mervilliers, Allonnes, Baigneaux, Baignolet, Barmainville, Baudreville, Bazoches-en-Dunois, Bazoches-les-Hautes, Beauvilliers, Boisville-la-Saint-Père, Boncé, Bouville, Bullainville, Cormainville, Courbehaye, Dambron, Fains-la-Folie, Fontenay-sur-Conie, Fresnay-l'Evêque, Le Gault-Saint-Denis, Germignonville, Gommerville, Gouillons, Guilleville, Guillonville, Intréville, Janville, Levesville-la-Chenard, Loigny-la-Bataille, Louville-la-Chenard, Lumeau, Mérouville, Meslay-le-Vidame, Montainville, Moutiers, Neuvy-en-Beauce, Neuvy-en-Dunois, Nottonville, Oinville-Saint-Liphard, Orgères-en-Beauce, Ouarville, Péronville, Pézy, Poinville, Poupry, Prasville, Pré-Saint-Evroult, Pré-Saint-Martin, Le Puiset, Réclainville, Rouvray-Saint-Denis, Rouvray-Saint-Florentin, Sancheville, Santilly, Terminiers, Theuville, Tillay-le-Péneux, Toury, Trancrainville, Varize, Viabon, Villars, Villeau, Villeneuve-Saint-Nicolas, Vitray-en-Beauce, Voves, Ymonville.
-
-Le bureau centralisateur de ce canton est le bureau centralisateur de la commune de Voves.
