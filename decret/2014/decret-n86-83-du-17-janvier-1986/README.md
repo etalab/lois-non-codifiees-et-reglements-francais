@@ -9,3 +9,4 @@
 - [Titre IX : Travail à temps partiel](titre-ix)
 - [Titre X : Suspension et discipline](titre-x)
 - [Titre XI : Fin du contrat - Licenciement](titre-xi-fin)
+- [Titre XII : Indemnité de licenciement](titre-xii)
