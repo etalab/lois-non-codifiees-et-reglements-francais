@@ -1,6 +1,7 @@
 # 2014
 
 - [Décret n°95-681 du 9 mai 1995 (FPPA9500068D)](decret-n95-681-du-9-mai-1995-fppa9500068d)
+- [Décret n°86-83 du 17 janvier 1986](decret-n86-83-du-17-janvier-1986)
 - [Décret n°2013-938 du 18 octobre 2013 (INTA1315613D)](decret-n2013-938-du-18-octobre-2013-inta1315613d)
 - [Décret n°2014-352 du 19 mars 2014 (INTA1406269D)](decret-n2014-352-du-19-mars-2014-inta1406269d)
 - [Décret n°2014-353 du 19 mars 2014 (MENH1326267D)](decret-n2014-353-du-19-mars-2014-menh1326267d)
