@@ -1,0 +1,5 @@
+# Article 40-1
+
+I.-Les  agents contractuels  exerçant leurs fonctions dans les conditions prévues par les articles 34 à 40 du présent décret peuvent être autorisés à assurer un service à temps partiel annualisé dans les conditions prévues par le décret n° 2002-1072 du 7 août 2002 relatif au temps partiel annualisé dans la fonction publique de l'Etat, selon les modalités définies au II.
+
+II.-Les  agents contractuels  perçoivent mensuellement une rémunération brute égale au douzième de leur rémunération annuelle brute. Celle-ci est calculée selon les principes définis à l'article 39 du présent décret en fonction du rapport entre la durée annuelle du service effectuée et de la durée résultant des obligations annuelles de service fixées en application des dispositions de l'article 1er ou de l'article 7 du décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat, pour les agents exerçant à temps plein les mêmes fonctions.

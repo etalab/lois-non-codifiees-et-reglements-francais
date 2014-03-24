@@ -1,3 +1,0 @@
-# Article 42-1
-
-Les agents non titulaires de l'Etat et de ses établissements publics à caractère administratif, employés pour une durée indéterminée, occupant un emploi permanent à temps complet, admis à exercer leurs fonctions à temps partiel, en application de l'article 5-1 de l'ordonnance n° 82-297 du 31 mars 1982 portant modification de certaines dispositions du code des pensions civiles et militaires de retraite et relative à la cessation d'activité des fonctionnaires et des agents de l'Etat et des établissements publics de l'Etat à caractère administratif sont régis, outre les dispositions de ladite ordonnance, par les dispositions du titre IX du présent décret.

@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [CHAPITRE Ier : Classement des emplois.](chapitre-ier)
-- [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE III : Rémunération.](chapitre-iii)
 - [CHAPITRE IV : Notation et avancement.](chapitre-iv)
 - [CHAPITRE V : Protection sociale.](chapitre-v)
