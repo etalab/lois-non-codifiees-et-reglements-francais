@@ -2,4 +2,10 @@
 
 - [Titre II : Modalités de recrutement](titre-ii)
 - [Titre III : Congé annuel, congé pour formation syndicale, pour formation de cadres et d'animateurs pour la jeunesse, congé pour formation professionnelle et congé de représentation](titre-iii)
+- [Titre IV : Congés pour raison de santé](titre-iv)
+- [Titre V : Congés non rémunérés pour raisons familiales ou personnelles](titre-v)
+- [Titre VI : Absences résultant d'une obligation légale et des activités dans une réserve](titre-vi)
+- [Titre VIII : Condition de réemploi](titre-viii)
 - [Titre IX : Travail à temps partiel](titre-ix)
+- [Titre X : Suspension et discipline](titre-x)
+- [Titre XI : Fin du contrat - Licenciement](titre-xi-fin)
