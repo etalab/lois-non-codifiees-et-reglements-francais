@@ -1,0 +1,7 @@
+# Article 6-1
+
+<div align="left">La  commission d'examen des candidatures mentionnée à l'article 6 est  composée de quatre ou six personnalités choisies en raison de leur  compétence dans le domaine de la recherche et du développement  technologique, parmi lesquelles un président, nommées par arrêté du  ministre chargé de la recherche. Elle comprend un nombre égal de femmes  et d'hommes.<br/>
+<br/>  Après examen des dossiers de candidature  transmis à chacun de ses membres par le ministre chargé de la recherche,  la commission sélectionne les candidats qu'elle auditionnera, dans la  limite de quatre. En cas de partage égal des avis sur le choix de ces  candidats, la voix du président de la commission est prépondérante. La  commission transmet un rapport écrit motivant l'avis porté sur chacun  des candidats auditionnés au ministre chargé de la recherche afin  d'éclairer son choix.<br/>
+<br/>  Les débats de la commission sont confidentiels.<br/>
+<br/>  Le mandat des membres de la commission cesse de  plein droit à compter de la date de nomination du président de l'Agence  nationale de la recherche dans les conditions prévues à l'article 6.<br/>
+<br/>  Les membres de la commission exercent leurs  fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de  séjour peuvent être remboursés dans les conditions prévues par la  réglementation applicable aux fonctionnaires de l'Etat.</div>

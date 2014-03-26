@@ -2,7 +2,7 @@
 
 Les dépenses de l'Agence nationale pour la recherche comprennent :
 
-1° Les aides aux projets de recherche et de développement technologique et les dotations aux fondations de recherche ;
+1° Les aides aux projets de recherche et de développement technologique, incluant une part forfaitaire mentionnée à l'article L. 329-5 du code de la recherche, contribuant à couvrir les coûts indirects des projets, et les dotations aux fondations de recherche ;
 
 2° Les frais de personnel ;
 
