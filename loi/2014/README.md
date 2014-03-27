@@ -16,3 +16,4 @@
 - [LOI n°2014-56 du 27 janvier 2014 (JUSX1132133L)](loi-n2014-56-du-27-janvier-2014-jusx1132133l)
 - [LOI n°2014-57 du 27 janvier 2014 (AFSX1241471L)](loi-n2014-57-du-27-janvier-2014-afsx1241471l)
 - [LOI n°2014-58 du 27 janvier 2014 (RDFX1306287L)](loi-n2014-58-du-27-janvier-2014-rdfx1306287l)
+- [Loi n°96-1237 du 30 décembre 1996 (LOGX9600119L)](loi-n96-1237-du-30-decembre-1996-logx9600119l)
