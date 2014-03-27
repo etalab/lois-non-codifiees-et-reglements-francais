@@ -1,3 +1,5 @@
 # Article 5
 
-Des commissions spécialisées sont créées au sein du Conseil supérieur, en tant que de besoin, par décision du président du Conseil supérieur qui désigne la personne chargée d'en présider les travaux et qui en fixe la composition. En fonction de leur champ de compétence, elles comprennent, le cas échéant, des experts extérieurs au Conseil supérieur.
+I. - Le Conseil supérieur de la propriété littéraire et artistique se réunit sur convocation de son président au moins deux fois par an. Il se réunit de plein droit à la demande du ministre chargé de la culture ou des deux tiers de ses membres.
+
+II. - Le secrétariat du Conseil supérieur est assuré par les services du secrétariat général du ministère chargé de la culture.

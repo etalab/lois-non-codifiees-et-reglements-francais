@@ -1,3 +1,7 @@
 # Article 9
 
-Les fonctions de membre du Conseil supérieur de la propriété littéraire et artistique sont gratuites. Il peut toutefois être alloué des indemnités correspondant aux frais de déplacement et de séjour effectivement supportés à l'occasion des réunions du Conseil supérieur de la propriété littéraire et artistique, dans les conditions prévues par le décret du 28 mai 1990 susvisé fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux et de certains organismes subventionnés. En outre, les rapporteurs peuvent être rétribués sur les crédits de vacation du ministère de la culture et de la communication.
+I.-Le Conseil supérieur de la propriété littéraire et artistique est assisté de rapporteurs désignés par le président du Conseil supérieur et, pour les membres du Conseil d'Etat, de la Cour des comptes ou de la Cour de cassation respectivement, sur proposition du vice-président du Conseil d'Etat, du premier président de la Cour des comptes et du premier président de la Cour de cassation. En outre, les membres du Conseil supérieur peuvent être désignés comme rapporteur.
+
+Les rapporteurs rendent compte de leurs travaux ou de ceux de la commission spécialisée dans laquelle ils siègent au Conseil supérieur.
+
+II.-Les rapporteurs peuvent être rétribués en tant que collaborateurs extérieurs du ministre chargé de la culture, au sens du décret n° 2004-71 du 16 janvier 2004 précité.
