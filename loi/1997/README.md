@@ -5,7 +5,6 @@
 - [Loi n° 96-1107 du 18 décembre 1996 (EQUX9601733L)](loi-n-96-1107-du-18-decembre-1996-equx9601733l)
 - [Loi n° 96-1235 du 30 décembre 1996 (JUSX9600198L)](loi-n-96-1235-du-30-decembre-1996-jusx9600198l)
 - [Loi n° 96-1236 du 30 décembre 1996 (ENVX9500163L)](loi-n-96-1236-du-30-decembre-1996-envx9500163l)
-- [Loi n° 96-1237 du 30 décembre 1996 (LOGX9600119L)](loi-n-96-1237-du-30-decembre-1996-logx9600119l)
 - [Loi n° 96-1239 du 30 décembre 1996 (MAEX9600015L)](loi-n-96-1239-du-30-decembre-1996-maex9600015l)
 - [Loi n° 96-1240 du 30 décembre 1996 (JUSX9600062L)](loi-n-96-1240-du-30-decembre-1996-jusx9600062l)
 - [Loi n° 96-1241 du 30 décembre 1996 (DOMX9500100L)](loi-n-96-1241-du-30-decembre-1996-domx9500100l)

@@ -2,5 +2,4 @@
 
 - [Titre II : De l'incapacité d'exercer des activités d'entremise et de gestion des immeubles et fonds de commerce.](titre-ii)
 - [Titre II bis : De l'encadrement et du contrôle des activités de transaction et de gestion immobilières](titre-ii-bis)
-- [Titre III : Des sanctions pénales.](titre-iii)
 - [Titre IV : Dispositions diverses.](titre-iv)

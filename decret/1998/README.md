@@ -216,7 +216,6 @@
 - [Décret n°98-1129 du 9 décembre 1998 (INTM9800027D)](decret-n98-1129-du-9-decembre-1998-intm9800027d)
 - [Décret n°98-150 du 9 mars 1998 (ATEN9860019D)](decret-n98-150-du-9-mars-1998-aten9860019d)
 - [Décret n°98-152 du 9 mars 1998 (MENF9800379D)](decret-n98-152-du-9-mars-1998-menf9800379d)
-- [Décret n°98-20 du 9 janvier 1998 (EQUC9800009D)](decret-n98-20-du-9-janvier-1998-equc9800009d)
 - [Décret n°98-271 du 9 avril 1998 (MESS9820674D)](decret-n98-271-du-9-avril-1998-mess9820674d)
 - [Décret n°98-272 du 9 avril 1998 (MESN9820169D)](decret-n98-272-du-9-avril-1998-mesn9820169d)
 - [Décret n°98-275 du 9 avril 1998 (MESS9821137D)](decret-n98-275-du-9-avril-1998-mess9821137d)

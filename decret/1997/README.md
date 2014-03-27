@@ -261,7 +261,6 @@
 - [Décret n°97-1042 du 14 novembre 1997 (AGRA9701653D)](decret-n97-1042-du-14-novembre-1997-agra9701653d)
 - [Décret n°97-1045 du 14 novembre 1997 (FPPA9700153D)](decret-n97-1045-du-14-novembre-1997-fppa9700153d)
 - [Décret n°97-1050 du 14 novembre 1997 (ECOT9720031D)](decret-n97-1050-du-14-novembre-1997-ecot9720031d)
-- [Décret n°97-143 du 14 février 1997 (LOGC9700015D)](decret-n97-143-du-14-fevrier-1997-logc9700015d)
 - [Décret n°97-146 du 14 février 1997 (ECOT9700004D)](decret-n97-146-du-14-fevrier-1997-ecot9700004d)
 - [Décret n°97-235 du 14 mars 1997 (MAEC9710005D)](decret-n97-235-du-14-mars-1997-maec9710005d)
 - [Décret n°97-237 du 14 mars 1997 (BUDF9720717D)](decret-n97-237-du-14-mars-1997-budf9720717d)
