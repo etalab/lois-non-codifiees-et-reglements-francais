@@ -2,557 +2,977 @@
 
 LISTE DES ÉTABLISSEMENTS PROPOSANT UNE SECTION BINATIONALE BACHIBAC
 
+À LA RENTRÉE 2014
+
 <table>
 <tbody>
 <tr>
-<td width="224">
-<p align="center">ACADÉMIE</p>
+<td align="center"> ACADÉMIE </td>
+<td align="center"> ÉTABLISSEMENT </td>
+<td align="center"> OUVERTURE DE LA SECTION <br/>(en classe de seconde) </td>
+<td align="center"> PREMIÈRE SESSION <br/>Bachibac à venir</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie d'Aix-Marseille <br/>
 </td>
-<td width="224">
-<p align="center">ÉTABLISSEMENT</p>
+<td align="left">
+<br/>Lycée Saint-Charles, Marseille <br/>
 </td>
-<td width="224">
-<p align="center">DATE DE L'OUVERTURE DE LA SECTION <br/>(correspondant à l'ouverture <br/>de la classe de seconde)</p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="224">
-<p align="left">Académie d'Aix-Marseille </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Saint-Charles, Marseille </p>
+<td align="left">
+<br/>Lycée Théodore Aubanel, Avignon <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Théodore Aubanel, Avignon </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée polyvalent de la Méditerranée, La Ciotat </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="left">
+<br/>Lycée polyvalent de la Méditerranée, La Ciotat <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Jean Lurçat, Martigues </p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Emile Zola, Aix-Perthuis </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="224">
-<p align="left">Académie de Bordeaux </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Maurice Ravel, Saint-Jean-de-Luz </p>
+<td align="left">
+<br/>Lycée Jean Lurçat, Martigues <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée de Grand Air, Arcachon </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Bertrand de Born, Périgueux </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Emile Zola, Aix-Perthuis <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Saint-Thomas d'Aquin, Saint-Jean-de-Luz </p>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Victor Louis, Talence </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>2015 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Académie de Caen </p>
+<td align="left">
+<br/>Académie de Bordeaux <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Charles de Gaulle, Caen </p>
+<td align="left">
+<br/>Lycée Maurice Ravel, Saint-Jean-de-Luz <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Académie de Clermont-Ferrand </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Jeanne d'Arc, Clermont-Ferrand </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Académie de Créteil </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Delacroix, Maisons-Alfort </p>
+<td align="left">
+<br/>Lycée de Grand Air, Arcachon <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2013-2014</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="224">
-<p align="left">Académie de Dijon </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Charles de Gaulle, Dijon </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Pontus de Tyard, Chalon-sur-Saône </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Bertrand de Born, Périgueux <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée régional Montchapet, Dijon </p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Académie de la Guadeloupe </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Gerville Réache, Basse-Terre </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="224">
-<p align="left">Académie de Lille </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Marguerite de Flandre, Gondecourt </p>
+<td align="left">
+<br/>Lycée Saint-Thomas d'Aquin, Saint-Jean-de-Luz <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Léon Gambetta, Tourcoing </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée européen Montebello, Lille </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Victor Louis, Talence <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Louis Blaringhem, Béthune </p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Fernand Darchicourt, Hénin-Beaumont </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Jules Mousseron, Denain </p>
+<td align="left">
+<br/>Académie de Caen <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="left">
+<br/>Lycée Charles de Gaulle, Caen <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="224">
-<p align="left">Académie de Lyon </p>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Jean Perrin, Lyon </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>2015 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Edgar Quinet, Bourg-en-Bresse </p>
+<td align="left">
+<br/>Académie de Clermont-Ferrand <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Jeanne d'Arc, Clermont-Ferrand <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Claude Bernard, Villefranche-sur-Saône </p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2013-2014</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="224">
-<p align="left">Académie de Montpellier </p>
+<td align="left">
+<br/>Académie de Créteil <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Jules Guesde, Montpellier </p>
+<td align="left">
+<br/>Lycée Delacroix, Maisons-Alfort <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>Rentrée scolaire 2013 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Albert Camus, Nîmes </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>2016 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée François Arago, Perpignan </p>
+<td align="left">
+<br/>Académie de Dijon <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="left">
+<br/>Lycée Pontus de Tyard, Chalon-sur-Saône <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Jacques Prévert, Saint-Cristol-lez-Alès </p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Académie de Nancy-Metz </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Jeanne d'Arc, Nancy </p>
+<td align="left">
+<br/>Lycée régional Montchapet, Dijon <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="5" valign="top" width="224">
-<p align="left">Académie de Nantes </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Bellevue, Le Mans </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Pierre Mendès France, La Roche-sur-Yon </p>
+<td align="left">
+<br/>Académie de la Guadeloupe <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="left">
+<br/>Lycée Gerville-Réache, Basse-Terre <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Jules Verne, Nantes </p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Ambroise Paré, Laval </p>
+<td align="left">
+<br/>Académie de Lille <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="left">
+<br/>Lycée Marguerite de Flandre, Gondecourt <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Chevrollier, Angers</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2013-2014</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Académie de Nice </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Beaussier, La Seyne-sur-Mer </p>
+<td align="left">
+<br/>Lycée Léon Gambetta, Tourcoing <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="224">
-<p align="left">Académie d'Orléans-Tours</p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Paul-Louis Courier, Tours </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Jean Giraudoux, Châteauroux </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="left">
+<br/>Lycée européen Montebello, Lille <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Augustin Thierry, Blois </p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2013-2014</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="224">
-<p align="left">Académie de Paris </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Maurice Ravel, 20e arrondissement </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Molière, 16e arrondissement </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="left">
+<br/>Lycée Louis Blaringhem, Béthune <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Académie de Poitiers </p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Jean Dautet, La Rochelle </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Académie de Reims </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Léon Bourgeois, Epernay </p>
+<td align="left">
+<br/>Lycée Fernand Darchicourt, Hénin-Beaumont <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Académie de Rennes </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée René Descartes, Rennes </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="224">
-<p align="left">Académie de La Réunion </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Evariste Parny, Saint-Paul </p>
+<td align="left">
+<br/>Lycée Jules Mousseron, Denain <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Mahatma Gandhi, Saint-André </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>2015 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Académie de Rouen </p>
+<td align="left">
+<br/>Académie de Lyon <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Val de Seine, Grand-Quevilly </p>
+<td align="left">
+<br/>Lycée Jean Perrin, Lyon <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2012-2013</p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="5" valign="top" width="224">
-<p align="left">Académie de Toulouse </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Lycée Victor Hugo, Colomiers </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Edmond Rostand, Bagnères-de-Luchon </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Edgar Quinet, Bourg-en-Bresse <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Maréchal Lannes, Lectoure </p>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée du Castella, Pamiers </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée René Billières, Argelès-Gazost </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Claude Bernard, Villefranche-sur-Saône <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="5" valign="top" width="224">
-<p align="left">Académie de Versailles </p>
+<td align="center">
+<br/>Rentrée scolaire 2013 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Lycée Emilie de Breteuil, Montigny-le-Bretonneux </p>
-</td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>2016 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Francisque Sarcey, Dourdan </p>
+<td align="left">
+<br/>Académie de Montpellier <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Jules Guesde, Montpellier <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="224">
-<p align="left">Lycée Albert Camus, Bois-Colombes </p>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Van Gogh, Ermont </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2010-2011</p>
+<td align="left">
+<br/>Lycée Albert Camus, Nîmes <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="224">
-<p align="left">Lycée Marie Curie, Sceaux </p>
+<td align="left">
+<br/>
+<br/>
+<br/>
 </td>
-<td valign="top" width="224">
-<p align="left">Rentrée scolaire 2011-2012</p>
+<td align="left">
+<br/>Lycée François Arago, Perpignan <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="676">
-<p align="left">Les modifications apportées à la liste des sections Bachibac pour la rentrée 2013-2014 sont les suivantes :</p>
-<p align="left">Ouvertures de section :</p>
-<p align="left">- lycée Delacroix, Maisons-Alfort, académie de Créteil ;</p>
-<p align="left">- lycée Claude Bernard, Villefranche-sur-Saône, académie de Lyon ;</p>
-<p align="left">- lycée Chevrollier, Angers, académie de Nantes ;</p>
-<p align="left">- lycée Augustin Thierry, Blois, académie d'Orléans-Tours.</p>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Jacques Prévert, Saint-Cristol-lès-Alès <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Nancy-Metz <br/>
+</td>
+<td align="left">
+<br/>Lycée Jeanne d'Arc, Nancy <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Nantes <br/>
+</td>
+<td align="left">
+<br/>Lycée Bellevue, Le Mans <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Pierre Mendès France, La Roche-sur-Yon <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Jules Verne, Nantes <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Ambroise Paré, Laval <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
+</td>
+<td align="center">
+<br/>2015 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Chevrollier, Angers <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2013 <br/>
+</td>
+<td align="center">
+<br/>2016 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Ile de Nantes, Nantes <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2014 <br/>
+</td>
+<td align="center">
+<br/>2017 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée privé Blanche de Castille, Nantes <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2014 <br/>
+</td>
+<td align="center">
+<br/>2017 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée privé Notre-Dame, Le Mans <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2014 <br/>
+</td>
+<td align="center">
+<br/>2017 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Nice <br/>
+</td>
+<td align="left">
+<br/>Lycée Beaussier, La Seyne-sur-Mer <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie d'Orléans-Tours <br/>
+</td>
+<td align="left">
+<br/>Lycée Paul-Louis Courier, Tours <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
+</td>
+<td align="center">
+<br/>2015 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Jean Giraudoux, Châteauroux <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
+</td>
+<td align="center">
+<br/>2015 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Augustin Thierry, Blois <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2013 <br/>
+</td>
+<td align="center">
+<br/>2016 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Paris <br/>
+</td>
+<td align="left">
+<br/>Lycée Maurice Ravel <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Molière <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Poitiers <br/>
+</td>
+<td align="left">
+<br/>Lycée Jean Dautet, La Rochelle <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Reims <br/>
+</td>
+<td align="left">
+<br/>Lycée Léon Bourgeois, Epernay <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Rennes <br/>
+</td>
+<td align="left">
+<br/>Lycée René Descartes, Rennes <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de La Réunion <br/>
+</td>
+<td align="left">
+<br/>Lycée Evariste Parny, Saint-Paul <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Mahatma Gandhi, Saint-André <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Rouen <br/>
+</td>
+<td align="left">
+<br/>Lycée Val de Seine, Grand-Quevilly <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2012 <br/>
+</td>
+<td align="center">
+<br/>2015 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Toulouse <br/>
+</td>
+<td align="left">
+<br/>Lycée Victor Hugo, Colomiers <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Edmond Rostand, Bagnères-de-Luchon <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Maréchal Lannes, Lectoure <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée du Castella, Pamiers <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée René Billières, Argelès-Gazost <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Lapérouse, Albi <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2014 <br/>
+</td>
+<td align="center">
+<br/>2017 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Michelet, Montauban <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2014 <br/>
+</td>
+<td align="center">
+<br/>2017 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Académie de Versailles <br/>
+</td>
+<td align="left">
+<br/>Lycée Emilie de Breteuil, Montigny-le-Bretonneux <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Francisque Sarcey, Dourdan <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Albert Camus, Bois-Colombes <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Van Gogh, Ermont <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2010 <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>
+<br/>
+<br/>
+</td>
+<td align="left">
+<br/>Lycée Marie Curie, Sceaux <br/>
+</td>
+<td align="center">
+<br/>Rentrée scolaire 2011 <br/>
+</td>
+<td align="center">
+<br/>2014 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>Les modifications apportées à la liste des sections Bachibac pour la rentrée 2014 sont les suivantes : <br/>
+<p>Ouvertures de section : </p>
+<p>- lycée Ile de Nantes, Nantes, académie de Nantes ; </p>
+<p>- lycée privé Blanche de Castille académie de Nantes ; </p>
+<p>- lycée privé Notre-Dame, Le Mans, académie de Nantes ; </p>
+<p>- lycée Lapérouse, Albi, académie de Toulouse ; </p>
+<p>- lycée Michelet, Montauban, académie de Toulouse. </p>
+<p>Fermeture de section : lycée Charles de Gaulle, Dijon, académie de Dijon (dernière session Bachibac 2014).<br/>
+</p>
 </td>
 </tr>
 </tbody>
