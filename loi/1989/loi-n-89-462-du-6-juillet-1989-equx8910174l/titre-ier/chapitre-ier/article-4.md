@@ -18,11 +18,11 @@ g) Qui prévoit la résiliation de plein droit du contrat en cas d'inexécution 
 
 h) Qui autorise le bailleur à diminuer ou à supprimer, sans contrepartie équivalente, des prestations stipulées au contrat ;
 
-i) Qui autorise le bailleur à percevoir des amendes en cas d'infraction aux clauses d'un contrat de location ou d'un règlement intérieur à l'immeuble ;
+i) Qui autorise le bailleur à percevoir des amendes ou des pénalités  en cas d'infraction aux clauses d'un contrat de location ou d'un règlement intérieur à l'immeuble ;
 
 j) Qui interdit au locataire l'exercice d'une activité politique, syndicale, associative ou confessionnelle ;
 
-k) Qui impose au locataire la facturation de l'état des lieux dès lors que celui-ci n'est pas établi par un huissier de justice dans le cas prévu par l'article 3 ;
+k) Qui impose au locataire la facturation de l'état des lieux de sortie  dès lors que celui-ci n'est pas établi par un huissier de justice dans le cas prévu par l'article 3-2 ;
 
 l) Qui prévoit le renouvellement du bail par tacite reconduction pour une durée inférieure à celle prévue à l'article 10 ;
 
@@ -36,6 +36,8 @@ p) Qui fait supporter au locataire des frais de relance ou d'expédition de la q
 
 q) Qui prévoit que le locataire est automatiquement responsable des dégradations constatées dans le logement ;
 
-r) Qui interdit au locataire de demander une indemnité au bailleur lorsque ce dernier réalise des travaux d'une durée supérieure à quarante jours ;
+r) Qui interdit au locataire de demander une indemnité au bailleur lorsque ce dernier réalise des travaux d'une durée supérieure à vingt et un  jours ;
 
-s) Qui permet au bailleur d'obtenir la résiliation de plein droit du bail au moyen d'une simple ordonnance de référé insusceptible d'appel.
+s) Qui permet au bailleur d'obtenir la résiliation de plein droit du bail au moyen d'une simple ordonnance de référé insusceptible d'appel ;
+
+t) Qui impose au locataire, en surplus du paiement du loyer pour occupation du logement, de souscrire un contrat pour la location d'équipements.

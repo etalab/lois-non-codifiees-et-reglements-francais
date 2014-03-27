@@ -12,4 +12,6 @@ L'aide financière et les frais de démolition sont imputés sur le fonds de pr�
 
 Le barème de l'aide financière mentionnée au premier alinéa du présent article est fixé par arrêté des ministres chargés du logement, de l'outre-mer et du budget en fonction de l'état technique et sanitaire de la construction, de la valeur des matériaux, de la surface des locaux et de la durée d'occupation.
 
+Les conditions de versement de l'aide financière font l'objet d'une convention entre l'autorité compétente et la personne bénéficiaire.
+
 Le propriétaire foncier est tenu de prendre toutes mesures pour empêcher toute occupation future des terrains ainsi libérés. En cas de défaillance du propriétaire, le représentant de l'Etat dans le département procède d'office, après mise en demeure restée sans effet dans le délai fixé, aux mesures nécessaires aux frais du propriétaire. La créance publique est récupérable comme en matière de contributions directes ; elle est garantie par une hypothèque légale sur le terrain d'assiette.

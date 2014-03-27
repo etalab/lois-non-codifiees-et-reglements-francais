@@ -1,6 +1,6 @@
 # Article 30
 
-L'assemblée générale des copropriétaires, statuant à la double majorité prévue à l'article 26, peut, à condition qu'elle soit conforme à la destination de l'immeuble, décider toute amélioration, telle que la transformation d'un ou de plusieurs éléments d'équipement existants, l'adjonction d'éléments nouveaux, l'aménagement de locaux affectés à l'usage commun ou la création de tels locaux.
+L'assemblée générale des copropriétaires, statuant à la majorité prévue à l'article 25, peut, à condition qu'elle soit conforme à la destination de l'immeuble, décider toute amélioration, telle que la transformation d'un ou de plusieurs éléments d'équipement existants, l'adjonction d'éléments nouveaux, l'aménagement de locaux affectés à l'usage commun ou la création de tels locaux.
 
 Elle fixe alors, à la même majorité, la répartition du coût des travaux et de la charge des indemnités prévues à l'article 36 ci-après, en proportion des avantages qui résulteront des travaux envisagés pour chacun des copropriétaires, sauf à tenir compte de l'accord de certains d'entre eux pour supporter une part de dépenses plus élevée.
 

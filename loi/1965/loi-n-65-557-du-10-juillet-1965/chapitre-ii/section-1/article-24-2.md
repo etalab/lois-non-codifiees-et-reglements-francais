@@ -4,4 +4,4 @@ Lorsque l'immeuble n'est pas équipé de lignes de communications électroniques
 
 L'assemblée générale est tenue de statuer sur toute proposition visée au premier alinéa.
 
-Par dérogation au j de l'article 25 de la présente loi, la décision d'accepter cette proposition est acquise à la majorité prévue au premier alinéa de l'article 24.
+Par dérogation au h de l'article 25 de la présente loi, la décision d'accepter cette proposition est acquise à la majorité prévue au premier alinéa du I de l'article 24.

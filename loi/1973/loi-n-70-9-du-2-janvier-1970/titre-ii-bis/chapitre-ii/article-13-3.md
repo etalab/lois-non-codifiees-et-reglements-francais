@@ -1,0 +1,3 @@
+# Article 13-3
+
+Sous réserve des dispositions leur imposant la divulgation de certaines informations, les personnes mentionnées à l'article 1er respectent la confidentialité des données dont elles ont connaissance dans l'exercice de leurs activités. Ce principe ne fait pas obstacle à la communication aux copropriétaires de tout élément nécessaire au bon fonctionnement du syndicat. Il ne fait également pas obstacle au signalement d'un habitat manifestement indigne au sens de l'article 1er-1 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement au maire de la commune concernée.

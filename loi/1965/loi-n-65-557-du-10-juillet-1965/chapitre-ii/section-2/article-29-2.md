@@ -1,9 +1,5 @@
 # Article 29-2
 
-Le président du tribunal de grande instance statuant comme en matière de référé peut, pour les nécessités de l'accomplissement de la mission confiée à l'administrateur provisoire et à la demande de celui-ci, suspendre ou interdire, pour une période d'au plus six mois renouvelable une fois, toute action en justice de la part des créanciers dont la créance contractuelle a son origine antérieurement à cette décision et tendant :
+Une copie de l'ordonnance de désignation de l'administrateur provisoire ainsi que les rapports établis par celui-ci sont portés à la connaissance des copropriétaires.
 
-- à la condamnation du syndicat débiteur au paiement d'une somme d'argent ;
-
-- à la résolution d'un contrat de fourniture d'eau, de gaz, d'électricité ou de chaleur pour défaut de paiement d'une somme d'argent.
-
-La décision de suspension ou d'interdiction provisoire des poursuites arrête toute voie d'exécution à l'encontre du syndicat et suspend les délais impartis à peine de déchéance ou de résolution des droits.
+Une copie de l'ordonnance de désignation est également adressée par le greffe du tribunal de grande instance au procureur de la République, au représentant de l'Etat dans le département, au maire de la commune et au président de l'établissement public de coopération intercommunale compétent en matière d'habitat du lieu de situation de l'immeuble concerné. A leur demande, les rapports établis par l'administrateur provisoire leur sont communiqués par le greffe du tribunal de grande instance.

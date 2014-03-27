@@ -1,0 +1,16 @@
+# Article 8-1
+
+<div align="left">I. ― La colocation est définie comme la location d'un même logement par plusieurs locataires, constituant leur résidence principale, et formalisée par la conclusion d'un contrat unique ou de plusieurs contrats entre les locataires et le bailleur. <br/>
+<br/>II. ― Lorsque la colocation est formalisée par la conclusion de plusieurs contrats entre les locataires et le bailleur, elle constitue une division du logement tenue au respect des articles L. 111-6-1 et L. 111-6-1-1 du code de la construction et de l'habitation. <br/>
+<br/>Chaque contrat de bail formalisant une colocation respecte le présent titre Ier ou, s'il concerne un logement loué meublé, le titre Ier bis de la présente loi. <br/>
+<br/>Le montant de la somme des loyers perçus de l'ensemble des colocataires ne peut être supérieur au montant du loyer applicable au logement en application des articles 17 ou 25-9. Les articles 17-1 et 17-2 sont applicables. <br/>
+<br/>Les normes de peuplement prises en application du 2° du I de l'article L. 831-3 du code de la sécurité sociale s'imposent aux logements loués en colocation. <br/>
+<br/>Un décret en Conseil d'Etat adapte aux logements loués en colocation les caractéristiques applicables aux conditions de décence. <br/>
+<br/>III. ― Le contrat de bail d'une colocation respecte un contrat type défini par décret en Conseil d'Etat, pris après avis de la Commission nationale de concertation. <br/>
+<br/>IV. ― Les parties au contrat de bail d'une colocation peuvent convenir dans le bail de la souscription par le bailleur d'une assurance pour compte récupérable auprès des colocataires dans les conditions prévues au g de l'article 7. Les colocataires peuvent provoquer la résiliation de l'assurance pour compte récupérable dans les conditions fixées au même article. <br/>
+<br/>V. ― Les charges locatives accessoires au loyer principal d'un contrat de bail d'une colocation sont récupérées par le bailleur au choix des parties comme prévu par ce contrat : <br/>
+<br/>1° Soit dans les conditions prévues à l'article 23, lorsqu'il s'agit de provisions pour charges ; <br/>
+<br/>2° Soit sous la forme d'un forfait versé simultanément au loyer, dont le montant et la périodicité de versement sont définis dans le contrat et qui ne peut donner lieu à complément ou à régularisation ultérieure. Le montant du forfait de charges est fixé en fonction des montants exigibles par le bailleur en application de l'article 23 et peut être révisé chaque année aux mêmes conditions que le loyer principal. Ce montant ne doit pas être manifestement disproportionné au regard des charges dont le locataire ou, le cas échéant, le précédent locataire se serait acquitté. <br/>
+<br/>VI. ― La solidarité d'un des colocataires et celle de la personne qui s'est portée caution pour lui prennent fin à la date d'effet du congé régulièrement délivré et lorsqu'un nouveau colocataire figure au bail. A défaut, la solidarité du colocataire sortant s'éteint au plus tard à l'expiration d'un délai de six mois après la date d'effet du congé. <br/>
+<br/>L'acte de cautionnement des obligations d'un ou de plusieurs colocataires résultant de la conclusion d'un contrat de bail d'une colocation identifie nécessairement, sous peine de nullité, le colocataire pour lequel le congé met fin à l'engagement de la caution.<br/>
+</div>

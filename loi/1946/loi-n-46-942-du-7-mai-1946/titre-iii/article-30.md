@@ -18,9 +18,7 @@ II. - Par dérogation aux dispositions du premier alinéa de l'article 12, il es
 
 Par dérogation au premier alinéa de l'article 13, pendant une période transitoire de quatre ans à compter de la date du 15 septembre 1998, le président de ce conseil est désigné par le président du Conseil supérieur de l'ordre des géomètres experts.
 
-III. - Par dérogation aux dispositions du deuxième alinéa de l'article 12, le conseil régional de la Réunion est composé de cinq membres dont trois élus par les géomètres experts inscrits au tableau de l'ordre de la circonscription et deux désignés par le président du Conseil supérieur de l'ordre.
-
-Par dérogation au premier alinéa de l'article 13, pendant une période transitoire de quatre ans à compter de la date du 15 septembre 1998, le président de ce Conseil est désigné par le président du Conseil supérieur de l'ordre des géomètres experts.
+III. - Par dérogation au premier alinéa de l'article 12, il est créé, à compter de la date d'entrée en vigueur de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové, un conseil régional de La Réunion et Mayotte composé de six membres, représentant les membres de l'ordre des géomètres-experts exerçant à La Réunion et à Mayotte. Par dérogation au deuxième alinéa du même article 12, pendant une période transitoire de six ans à compter de la date d'entrée en vigueur de la loi n° 2014-366 du 24 mars 2014 précitée, un tiers des membres du conseil régional est désigné par le président du Conseil supérieur de l'ordre des géomètres-experts.
 
 IV. - A Mayotte, outre les personnes remplissant les conditions prévues à l'article 3, peuvent être inscrites au tableau de l'ordre des géomètres-experts alors même qu'elles ne sont pas titulaires de l'un des diplômes mentionnés au 4° de l'article 3 et à condition d'en avoir fait la demande auprès du Conseil supérieur de l'ordre des géomètres-experts dans une période de deux ans à compter du 1er janvier 2012 les personnes :
 

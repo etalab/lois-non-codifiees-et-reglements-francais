@@ -1,0 +1,3 @@
+# Article 24-7
+
+Sauf dans le cas où le syndicat des copropriétaires assure la maîtrise d'ouvrage des travaux portant sur les parties communes et les parties privatives de l'immeuble en application du c du II de l'article 24, le syndicat des copropriétaires peut délibérer sur la création ou l'adhésion à une association foncière urbaine prévue au 5° de l'article L. 322-2 du code de l'urbanisme. Dans ce cas, par dérogation à l'article 14, l'association foncière urbaine exerce les pouvoirs du syndicat des copropriétaires portant sur les travaux de restauration immobilière relatifs aux parties communes de l'immeuble jusqu'à leur réception définitive.

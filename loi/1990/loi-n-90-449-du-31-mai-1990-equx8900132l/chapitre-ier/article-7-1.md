@@ -1,3 +1,7 @@
 # Article 7-1
 
-Pour l'application de l'article 2, le plan d'action pour le logement des personnes défavorisées de Mayotte inclut le plan d'accueil, d'hébergement et d'insertion des personnes sans domicile à compter de la date d'entrée en vigueur de l'article L. 312-5-3 du code de l'action sociale et des familles à Mayotte.
+Afin d'organiser le traitement coordonné des situations d'expulsion locative, une charte pour la prévention de l'expulsion est élaborée dans chaque département avec l'ensemble des partenaires concernés.
+
+Cette charte est approuvée par le comité responsable du plan départemental d'action pour le logement et l'hébergement des personnes défavorisées et fait l'objet d'une évaluation annuelle devant ce même comité ainsi que devant la commission de coordination des actions de prévention des expulsions locatives.
+
+Un décret fixe la liste des dispositions appelées à figurer dans la charte.

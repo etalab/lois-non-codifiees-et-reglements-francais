@@ -18,7 +18,7 @@ En l'absence de revente ou de cession de droits réels portant sur tout ou parti
 
 Les actes de vente et de cession de droits réels successifs reprennent les obligations résultant du présent article pour en assurer la publication au fichier immobilier.
 
-II.-L'article L. 240-1 et le premier alinéa de l'article L. 213-1 du code de l'urbanisme ne sont pas applicables aux cessions mentionnées au I du présent article.
+II.-L'article L. 240-1 et  les cinq premiers alinéas  de l'article L. 213-1 du code de l'urbanisme ne sont pas applicables aux cessions mentionnées au I du présent article.
 
 III.-à IV.-A modifié les dispositions suivantes :
 

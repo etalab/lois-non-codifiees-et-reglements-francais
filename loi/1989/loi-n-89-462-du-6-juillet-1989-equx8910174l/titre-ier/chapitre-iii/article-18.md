@@ -1,5 +1,7 @@
 # Article 18
 
-Dans la zone géographique où le niveau et l'évolution des loyers comparés à ceux constatés sur l'ensemble du territoire révèlent une situation anormale du marché locatif, un décret en Conseil d'Etat, pris après avis de la Commission nationale de concertation, peut fixer le montant maximum d'évolution des loyers des logements vacants définis au b de l'article 17 et des contrats renouvelés définis au c du même article.
+Pour chacune des zones d'urbanisation continue de plus de 50 000 habitants où il existe un déséquilibre marqué entre l'offre et la demande de logements, entraînant des difficultés sérieuses d'accès au logement sur l'ensemble du parc résidentiel existant qui se caractérisent notamment par le niveau élevé des loyers, le niveau élevé des prix d'acquisition des logements anciens ou le nombre élevé de demandes de logement par rapport au nombre d'emménagements annuels dans le parc locatif social, un décret en Conseil d'Etat, pris après avis de la Commission nationale de concertation, fixe annuellement  le montant maximum d'évolution des loyers des logements vacants et des contrats renouvelés.
 
-Ce décret précise sa durée de validité qui ne peut excéder un an et peut prévoir des adaptations particulières, notamment en cas de travaux réalisés par les bailleurs ou de loyers manifestement sous-évalués.
+Ce décret peut prévoir des adaptations particulières, notamment en cas de travaux réalisés par les bailleurs ou de loyers manifestement sous-évalués.
+
+En cas de litige entre les parties résultant de l'application de ce décret, la commission départementale de conciliation est compétente et sa saisine constitue un préalable obligatoire à la saisine du juge par l'une ou l'autre des parties.

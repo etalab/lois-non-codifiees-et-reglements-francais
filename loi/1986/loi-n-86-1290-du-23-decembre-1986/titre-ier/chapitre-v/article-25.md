@@ -6,6 +6,6 @@ Si les locaux loués depuis le 23 décembre 1986 ne satisfont pas aux caractéri
 
 A défaut d'accord entre les parties, le juge saisi détermine, le cas échéant, la nature des travaux à réaliser et le délai de leur exécution, qu'il peut même d'office assortir d'une astreinte. Il peut également se prononcer sur une demande de modification du loyer fixé par le bailleur ou proposé par le locataire.
 
-A défaut de mise aux normes effectuée dans les conditions précitées, le loyer des locaux soumis au présent article est fixé conformément au b de l'article 17 de la loi n° 89-462 du 6 juillet 1989.
+A défaut de mise aux normes effectuée dans les conditions précitées, le loyer des locaux soumis au présent article est fixé conformément aux II ou III de l'article 17 de la loi n° 89-462 du 6 juillet 1989.
 
 Les dispositions du présent article ne sont pas applicables aux locaux classés en catégorie IV.

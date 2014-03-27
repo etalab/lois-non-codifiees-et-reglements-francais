@@ -22,7 +22,7 @@ Dans le présent cahier des charges :
 
 ― le sigle " GRL " désigne la garantie universelle des risques locatifs ;
 
-― les termes " locataires éligibles 1 % Logement ", " locataires éligibles Etat ", " locataires éligibles 1 % Logement / Etat " et autres locataires éligibles désignent les catégories de locataires définies à l'article 3 ;
+― les termes " locataires éligibles 1 % Logement ", " locataires éligibles Etat ", " locataires éligibles 1 % Logement/ Etat " et autres locataires éligibles désignent les catégories de locataires définies à l'article 3 ;
 
 ― le terme " Loyer " désigne le loyer et les charges et taxes locatives, y compris leur révision contractuelle, dus par le locataire à l'assuré et y compris les indemnités d'occupation éventuellement prononcées en cas de résiliation judiciaire du bail ;
 
@@ -30,7 +30,7 @@ Dans le présent cahier des charges :
 
 ― les termes " Société anonyme ou mutuelle d'assurances contrôlée " désignent une société anonyme ou mutuelle d'assurances dont un Assureur détient le contrôle au sens de l'article L. 430-1 du code de commerce ;
 
-― le sigle " UESL " désigne l'Union d'économie sociale du logement mentionnée à l'article L. 313-17 du code de la construction et de l'habitation.
+― le sigle " UESL " désigne l'Union des entreprises et des salariés pour le logement mentionnée à l'article L. 313-17 du code de la construction et de l'habitation.
 
 Section 1
 
@@ -66,7 +66,7 @@ Le contrat socle de GRL
 
 I. ― Principe.
 
-Destiné à couvrir un large public de locataires, dont les conditions d'éligibilité sont définies à l'article 3, le dispositif de GRL se caractérise par un contrat d'assurance conclu entre l'Assureur et le Bailleur. Les garanties minimales qu'il prévoit, décrites au III, sont indépendantes de la solvabilité des locataires, dès lors qu'ils sont éligibles au contrat socle.A ce titre, des compensations sont accordées aux Assureurs dans les conditions définies à la section 3.
+Destiné à couvrir un large public de locataires, dont les conditions d'éligibilité sont définies à l'article 3, le dispositif de GRL se caractérise par un contrat d'assurance conclu entre l'Assureur et le Bailleur. Les garanties minimales qu'il prévoit, décrites au III, sont indépendantes de la solvabilité des locataires, dès lors qu'ils sont éligibles au contrat socle. A ce titre, des compensations sont accordées aux Assureurs dans les conditions définies à la section 3.
 
 Le contrat socle est commercialisé par les Assureurs, qui ont signé avec l'APAGL la convention mentionnée à l'article 16, via leurs réseaux habituels de distribution vers les Bailleurs.
 
@@ -146,15 +146,15 @@ Le contrat socle prévoit que si le locataire est éligible à une aide personne
 
 IV. ― Les démarches préventive et curative.
 
-L'APAGL assure auprès des locataires relevant de la catégorie des locataires éligibles 1 % Logement / Etat une démarche préventive des sinistres et une démarche curative, sans que ces démarches aient pour effet d'exonérer les locataires de leur propre responsabilité.
+L'APAGL assure auprès des locataires relevant de la catégorie des locataires éligibles 1 % Logement/ Etat une démarche préventive des sinistres et une démarche curative, sans que ces démarches aient pour effet d'exonérer les locataires de leur propre responsabilité.
 
 1° La démarche préventive auprès des locataires.
 
-Une démarche préventive, qui consiste, d'une part, à informer les locataires éligibles 1 % Logement / Etat sur les précautions utiles pour réduire les risques de difficultés financières en fonction de leur situation et sur les dispositifs d'aide et de soutien existants, d'autre part, à les orienter vers des organismes susceptibles d'apporter aide et soutien, est mise en œuvre par l'APAGL afin de prévenir les risques d'impayés de Loyer.
+Une démarche préventive, qui consiste, d'une part, à informer les locataires éligibles 1 % Logement/ Etat sur les précautions utiles pour réduire les risques de difficultés financières en fonction de leur situation et sur les dispositifs d'aide et de soutien existants, d'autre part, à les orienter vers des organismes susceptibles d'apporter aide et soutien, est mise en œuvre par l'APAGL afin de prévenir les risques d'impayés de Loyer.
 
 2° La démarche curative auprès des locataires.
 
-En cas de déclaration de sinistre au titre de la garantie Loyers impayés concernant un locataire éligible 1 % Logement / Etat, l'Assureur saisit l'APAGL dans un délai précisé par la Convention.L'APAGL réalise une analyse de la situation familiale, sociale et financière du locataire et détermine si cette situation nécessite qu'elle assure un traitement social. Elle prescrit à l'Assureur des modalités de recouvrement adaptées soit à l'amiable soit au contentieux.
+En cas de déclaration de sinistre au titre de la garantie Loyers impayés concernant un locataire éligible 1 % Logement/ Etat, l'Assureur saisit l'APAGL dans un délai précisé par la Convention. L'APAGL réalise une analyse de la situation familiale, sociale et financière du locataire et détermine si cette situation nécessite qu'elle assure un traitement social. Elle prescrit à l'Assureur des modalités de recouvrement adaptées soit à l'amiable soit au contentieux.
 
 La procédure de recouvrement amiable consiste, pour l'APAGL, à établir avec le locataire un plan d'apurement de la dette adapté à sa situation. Ce plan s'accompagne d'une reprise au moins partielle de paiement des Loyers.
 
@@ -208,7 +208,7 @@ I. ― Les catégories de locataires.
 
 On distingue parmi les locataires :
 
-― les locataires éligibles au contrat socle. On distingue parmi eux les locataires éligibles 1 % Logement, les locataires éligibles Etat et les autres locataires éligibles. Les termes " locataires éligibles 1 % Logement / Etat " utilisés ci-après désignent les locataires relevant des locataires éligibles 1 % Logement ou des locataires éligibles Etat ;
+― les locataires éligibles au contrat socle. On distingue parmi eux les locataires éligibles 1 % Logement, les locataires éligibles Etat et les autres locataires éligibles. Les termes " locataires éligibles 1 % Logement/ Etat " utilisés ci-après désignent les locataires relevant des locataires éligibles 1 % Logement ou des locataires éligibles Etat ;
 
 ― les locataires qui ne sont pas éligibles au contrat socle en raison de leur taux d'effort trop élevé ou indéterminé.
 
@@ -218,11 +218,11 @@ La répartition des locataires par catégorie est effectuée par l'Assureur au m
 
 Le taux d'effort est calculé selon la formule :
 
-Taux d'effort = Loyer mensuel / Ressources mensuelles.
+Taux d'effort = Loyer mensuel/ Ressources mensuelles.
 
 Les ressources prises en compte pour son calcul comprennent l'ensemble des revenus des personnes composant le ménage locataire ou des colocataires, soit la somme des revenus d'activités ou pensions, des allocations familiales et sociales, y compris aides au logement éventuelles versées, conformément au 3° du III de l'article 2, directement au Bailleur, et des autres revenus à caractère régulier, tels que définis dans la notice mentionnée au 8° de l'article 17.
 
-Le Bailleur a pour obligation de vérifier que le taux d'effort du locataire est inférieur ou égal à 50 %.A cette fin, il demande au locataire de produire les pièces justificatives permettant de contrôler son taux d'effort et de déterminer son profil.
+Le Bailleur a pour obligation de vérifier que le taux d'effort du locataire est inférieur ou égal à 50 %. A cette fin, il demande au locataire de produire les pièces justificatives permettant de contrôler son taux d'effort et de déterminer son profil.
 
 Le contrat socle peut couvrir à la fois des locataires entrants et des locataires en place.
 
@@ -308,7 +308,7 @@ Les modalités de souscription par les bailleurs
 
 Les Bailleurs peuvent souscrire un contrat individuel par lot ou un contrat groupe, incluant la gestion de plusieurs lots.
 
-La vérification de l'éligibilité des logements des locataires au contrat socle relève de la responsabilité des Assureurs, sur production par le Bailleur des pièces justificatives.L'Assureur peut déléguer cette vérification mais doit alors se mettre en mesure d'obtenir sur demande la présentation des pièces justificatives et il en conserve en tout état de cause la responsabilité.
+La vérification de l'éligibilité des logements des locataires au contrat socle relève de la responsabilité des Assureurs, sur production par le Bailleur des pièces justificatives. L'Assureur peut déléguer cette vérification mais doit alors se mettre en mesure d'obtenir sur demande la présentation des pièces justificatives et il en conserve en tout état de cause la responsabilité.
 
 En cas de changement des locataires ou d'un des locataires, l'Assureur doit effectuer soit un avenant, soit une résiliation avec souscription d'un nouveau contrat. En cas d'avenant ou de nouveau contrat souscrit, la catégorie dans laquelle est affecté le nouveau locataire résulte de l'application des dispositions du II de l'article 3.
 
@@ -322,7 +322,7 @@ Dans le cadre de la surveillance du portefeuille et en cas d'aggravation du risq
 
 ― diminution de la garantie globale ;
 
-― mise en place ou augmentation de la franchise et / ou d'une période de carence ;
+― mise en place ou augmentation de la franchise et/ ou d'une période de carence ;
 
 ― augmentation du taux de prime ;
 
@@ -330,7 +330,7 @@ Dans le cadre de la surveillance du portefeuille et en cas d'aggravation du risq
 
 L'Assureur est tenu d'informer l'APAGL de toute modification des garanties du contrat socle d'un Bailleur ou d'un courtier d'assurance.
 
-2° Par ailleurs, à la demande de l'APAGL, l'Assureur peut, à l'échéance du contrat et sur la catégorie des publics éligibles 1 % Logement / Etat, décider de procéder à toute modification des garanties du contrat socle selon les formes mentionnées ci-dessus ou mettre fin à la couverture des locataires éligibles 1 % Logement / Etat. Si l'Assureur refuse les modifications demandées par l'APAGL, cette dernière peut saisir le comité d'éthique mentionné au 4° de l'article 17 et décider que le contrat, après son échéance, ne relève plus du contrat socle et est exclu du champ des compensations.
+2° Par ailleurs, à la demande de l'APAGL, l'Assureur peut, à l'échéance du contrat et sur la catégorie des publics éligibles 1 % Logement/ Etat, décider de procéder à toute modification des garanties du contrat socle selon les formes mentionnées ci-dessus ou mettre fin à la couverture des locataires éligibles 1 % Logement/ Etat. Si l'Assureur refuse les modifications demandées par l'APAGL, cette dernière peut saisir le comité d'éthique mentionné au 4° de l'article 17 et décider que le contrat, après son échéance, ne relève plus du contrat socle et est exclu du champ des compensations.
 
 3° Dès amélioration du risque sur l'une ou l'autre catégorie des publics éligibles, l'Assureur opère le rétablissement des garanties minimales du contrat socle de ce Bailleur ou de ce courtier d'assurance sur la catégorie des publics concernée selon les modalités qu'il détermine.
 
@@ -342,7 +342,7 @@ Les modalités de gestion des sinistres
 
 La gestion et l'indemnisation des sinistres sont effectuées par les Assureurs sous leur seule responsabilité.
 
-Toutefois, pour les locataires éligibles 1 % Logement / Etat, cette gestion et cette indemnisation s'opèrent selon des modalités qui sont encadrées par la Convention et ses annexes et dans le cadre des démarches préventives et curatives mentionnées au IV de l'article 2.
+Toutefois, pour les locataires éligibles 1 % Logement/ Etat, cette gestion et cette indemnisation s'opèrent selon des modalités qui sont encadrées par la Convention et ses annexes et dans le cadre des démarches préventives et curatives mentionnées au IV de l'article 2.
 
 Article 8
 
@@ -360,7 +360,7 @@ Rôle de l'Assureur et des compensations financières
 
 L'Assureur conserve la totalité de la prime, indépendamment de la catégorie des locataires éligibles au contrat socle. Il finance l'intégralité de ses frais généraux et est responsable, à l'égard du Bailleur, du règlement intégral de l'indemnisation des sinistres.
 
-Lorsqu'il concerne des locataires éligibles 1 % Logement / Etat, le financement de ce règlement intégral est complété par les compensations financières qui lui sont versées par l'UESL à partir du fonds de garantie universelle des risques locatifs mentionné au IV de l'article L. 313-20 du code de la construction et de l'habitation (fonds GRL), selon les modalités décrites à la présente section. Le montant de ces compensations est établi uniquement en fonction des primes et sinistres relatifs à des locataires éligibles 1 % Logement / Etat et aux garanties minimales du contrat socle.
+Lorsqu'il concerne des locataires éligibles 1 % Logement/ Etat, le financement de ce règlement intégral est complété par les compensations financières qui lui sont versées par l'UESL à partir du fonds de garantie universelle des risques locatifs mentionné au IV de l'article L. 313-20 du code de la construction et de l'habitation (fonds GRL), selon les modalités décrites à la présente section. Le montant de ces compensations est établi uniquement en fonction des primes et sinistres relatifs à des locataires éligibles 1 % Logement/ Etat et aux garanties minimales du contrat socle.
 
 Article 10
 
@@ -428,7 +428,7 @@ Les primes et sinistres pris en compte sont ceux reçus ou versés au titre d'un
 
 ― au titre des seules garanties minimales du contrat socle, à l'exclusion de toute garantie optionnelle ;
 
-― au titre des seuls locataires éligibles 1 % Logement / Etat, à l'exclusion de tout autre locataire ; par ailleurs, la ventilation entre les primes et sinistres correspondant, d'une part, aux seuls locataires éligibles 1 % Logement, d'autre part, aux seuls locataires éligibles Etat, est communiquée par l'Assureur à l'APAGL de manière à permettre le calcul des compensations qui seront remboursées par l'Etat, sans que cette distinction entre les différentes catégories de locataires ait une incidence sur le calcul des compensations versées par l'UESL à l'Assureur.
+― au titre des seuls locataires éligibles 1 % Logement/ Etat, à l'exclusion de tout autre locataire ; par ailleurs, la ventilation entre les primes et sinistres correspondant, d'une part, aux seuls locataires éligibles 1 % Logement, d'autre part, aux seuls locataires éligibles Etat, est communiquée par l'Assureur à l'APAGL de manière à permettre le calcul des compensations qui seront remboursées par l'Etat, sans que cette distinction entre les différentes catégories de locataires ait une incidence sur le calcul des compensations versées par l'UESL à l'Assureur.
 
 Les primes prises en compte :
 
@@ -456,7 +456,7 @@ Les primes et sinistres pris en compte sont ceux reçus ou versés au titre d'un
 
 ― au titre des seules garanties minimales du contrat socle, à l'exclusion de toute garantie optionnelle ;
 
-― au titre des seuls locataires éligibles 1 % Logement / Etat, à l'exclusion de tout autre locataire ; par ailleurs, la ventilation entre les primes et sinistres correspondant, d'une part, aux seuls locataires éligibles 1 % Logement, d'autre part, aux seuls locataires éligibles Etat, est communiquée par l'Assureur à l'APAGL de manière à permettre le calcul des compensations qui seront remboursées par l'Etat, sans que cette distinction entre les différentes catégories de locataires ait une incidence sur le calcul des compensations dues par l'UESL à l'Assureur.
+― au titre des seuls locataires éligibles 1 % Logement/ Etat, à l'exclusion de tout autre locataire ; par ailleurs, la ventilation entre les primes et sinistres correspondant, d'une part, aux seuls locataires éligibles 1 % Logement, d'autre part, aux seuls locataires éligibles Etat, est communiquée par l'Assureur à l'APAGL de manière à permettre le calcul des compensations qui seront remboursées par l'Etat, sans que cette distinction entre les différentes catégories de locataires ait une incidence sur le calcul des compensations dues par l'UESL à l'Assureur.
 
 Les primes prises en compte :
 
@@ -474,7 +474,7 @@ Les sinistres pris en compte sont les charges correspondant aux prestations dét
 
 Les provisions sont évaluées selon l'une ou l'autre des différentes méthodes de provisionnement visées au dernier alinéa de l'article R. 331-26 du code des assurances, et selon les paramètres chiffrés résultant de la notice mentionnée au 9° de l'article 17, de manière à assurer une appréciation du montant des compensations à l'égard de chaque Assureur selon des modalités comptables et techniques cohérentes entre tous les Assureurs.
 
-Pour les Exercices de rattachement 2009, 2010 et 2011, ces paramètres sont fixés de manière uniforme pour l'ensemble des Assureurs. Par la suite, ces paramètres peuvent être différenciés en fonction des situations propres à chaque Assureur.
+Pour les Exercices de rattachement 2009,2010 et 2011, ces paramètres sont fixés de manière uniforme pour l'ensemble des Assureurs. Par la suite, ces paramètres peuvent être différenciés en fonction des situations propres à chaque Assureur.
 
 Les provisions inscrites dans les comptes de l'Assureur restent de l'entière responsabilité de ce dernier et peuvent éventuellement être différentes de celles prises en compte pour le calcul des compensations.
 
@@ -508,7 +508,7 @@ Les transmissions d'informations
 
 auprès de l'APAGL et de l'UESL
 
-Aux fins d'assurer le suivi et l'évolution statistique du dispositif GRL, les Assureurs effectuent, auprès de l'APAGL et de l'UESL, des transmissions d'informations régulières et détaillées, en application du règlement mentionné au 3° de l'article 17. Ces transmissions d'informations détaillées ne portent que sur les locataires éligibles 1 % Logement / Etat.
+Aux fins d'assurer le suivi et l'évolution statistique du dispositif GRL, les Assureurs effectuent, auprès de l'APAGL et de l'UESL, des transmissions d'informations régulières et détaillées, en application du règlement mentionné au 3° de l'article 17. Ces transmissions d'informations détaillées ne portent que sur les locataires éligibles 1 % Logement/ Etat.
 
 Outre les caractéristiques des logements et des locataires, ces transmissions comportent également, en base annuelle, l'ensemble des constituants techniques du compte de résultat (primes, sinistres, produits financiers) pour chaque Exercice de rattachement, lesquels doivent être transmis dans les deux mois suivant la clôture de l'exercice comptable.
 
@@ -526,7 +526,7 @@ Son alimentation par les Assureurs et l'APAGL permettra de gérer les différent
 
 Par ailleurs, le système d'information sera utilisé comme outil de contrôle et de transmission d'informations.
 
-Chaque Assureur est responsable de la saisie et de l'alimentation périodique des données relatives aux fonctionnalités mentionnées ci-dessus (hormis le traitement social géré par l'APAGL) pour les locataires éligibles 1 % Logement / Etat. Cette saisie peut être sous-traitée par l'Assureur, sous sa seule responsabilité.
+Chaque Assureur est responsable de la saisie et de l'alimentation périodique des données relatives aux fonctionnalités mentionnées ci-dessus (hormis le traitement social géré par l'APAGL) pour les locataires éligibles 1 % Logement/ Etat. Cette saisie peut être sous-traitée par l'Assureur, sous sa seule responsabilité.
 
 A titre transitoire et dans l'attente de la mise en œuvre opérationnelle du système d'information précité, les échanges de données se font selon les modalités transitoires prévues par la Convention.
 
@@ -542,7 +542,7 @@ Les objectifs à atteindre, qui font l'objet d'un contrôle de l'APAGL à la fin
 
 ― respect de l'engagement de distribution du contrat socle GRL dans les conditions fixées à l'article 2 ;
 
-― taux de sinistralité (apprécié selon l'approche comptable) ne s'écartant pas significativement du taux moyen de sinistralité enregistré pour l'ensemble des assureurs.S'y substitue à compter de l'Exercice 2011 le taux de sinistralité ne s'écartant pas significativement du taux de sinistralité attendu déterminé dans les conditions fixées au 2° ci-dessous ;
+― taux de sinistralité (apprécié selon l'approche comptable) ne s'écartant pas significativement du taux moyen de sinistralité enregistré pour l'ensemble des assureurs. S'y substitue à compter de l'Exercice 2011 le taux de sinistralité ne s'écartant pas significativement du taux de sinistralité attendu déterminé dans les conditions fixées au 2° ci-dessous ;
 
 ― taux de recouvrement des sinistres n'enregistrant pas un écart significatif par rapport à la moyenne des taux de recouvrement réalisés par l'ensemble des assureurs ;
 
@@ -550,11 +550,11 @@ Les objectifs à atteindre, qui font l'objet d'un contrôle de l'APAGL à la fin
 
 2° Modalités de détermination du taux de sinistralité attendu.
 
-Pour chaque Exercice à compter de l'Exercice 2011, l'APAGL identifie des catégories types de locataires, éligibles 1 % Logement / Etat, dont le taux de sinistralité est relativement constant et représentatif de la catégorie. Elle détermine le taux de sinistralité moyen constaté sur l'ensemble des Assureurs pour chaque catégorie de locataires. Un référentiel fixant les catégories de locataires et leur taux de sinistralité est approuvé par le conseil d'administration de l'APAGL.
+Pour chaque Exercice à compter de l'Exercice 2011, l'APAGL identifie des catégories types de locataires, éligibles 1 % Logement/ Etat, dont le taux de sinistralité est relativement constant et représentatif de la catégorie. Elle détermine le taux de sinistralité moyen constaté sur l'ensemble des Assureurs pour chaque catégorie de locataires. Un référentiel fixant les catégories de locataires et leur taux de sinistralité est approuvé par le conseil d'administration de l'APAGL.
 
 Le taux individuel de sinistralité attendu d'un Assureur est déterminé à compter du premier Exercice entier de sa participation au dispositif et pour chaque Exercice suivant. Il est approuvé par le conseil d'administration de l'APAGL et notifié à l'Assureur.
 
-Le taux individuel de sinistralité attendu d'un Assureur résulte de la moyenne des taux de sinistralité moyens constatés pour chaque catégorie de locataires pondérée par la répartition des locataires éligibles 1 % Logement / Etat des logements couverts par l'Assureur selon les catégories de locataires précitées.
+Le taux individuel de sinistralité attendu d'un Assureur résulte de la moyenne des taux de sinistralité moyens constatés pour chaque catégorie de locataires pondérée par la répartition des locataires éligibles 1 % Logement/ Etat des logements couverts par l'Assureur selon les catégories de locataires précitées.
 
 3° Autres objectifs et indicateurs de résultats.
 
@@ -566,13 +566,13 @@ Les modalités de contrôle des Assureurs par l'APAGL
 
 L'APAGL veille au respect par les Assureurs des dispositions du présent cahier des charges ainsi que des clauses et engagements fixés dans les Conventions. Elle peut contrôler, à ses frais, la bonne application du cahier des charges et de la Convention par chaque Assureur.
 
-Le contrôle peut s'effectuer sur l'ensemble des contrats concernant les locataires éligibles 1 % Logement / Etat relatifs au présent dispositif, soit en continu, soit sur pièces et, le cas échéant, sur place, dans les conditions prévues par le règlement mentionné au 6° de l'article 17.
+Le contrôle peut s'effectuer sur l'ensemble des contrats concernant les locataires éligibles 1 % Logement/ Etat relatifs au présent dispositif, soit en continu, soit sur pièces et, le cas échéant, sur place, dans les conditions prévues par le règlement mentionné au 6° de l'article 17.
 
-L'APAGL peut diligenter des contrôles par sondage sur pièces sur les contrats des locataires " autres éligibles " et non éligibles et, le cas échéant, sur place, dans les conditions mentionnées à l'alinéa précédent, de manière en particulier à vérifier qu'il n'y a pas d'erreur de répartition entre locataires éligibles 1 % Logement / Etat, autres éligibles et non éligibles.
+L'APAGL peut diligenter des contrôles par sondage sur pièces sur les contrats des locataires " autres éligibles " et non éligibles et, le cas échéant, sur place, dans les conditions mentionnées à l'alinéa précédent, de manière en particulier à vérifier qu'il n'y a pas d'erreur de répartition entre locataires éligibles 1 % Logement/ Etat, autres éligibles et non éligibles.
 
 Le contrôle de l'APAGL s'exerce sans préjudice des prérogatives de l'Autorité de contrôle des assurances et mutuelles.
 
-L'Assureur est tenu de se réserver auprès de ses contreparties directes ou indirectes (courtiers, Bailleurs) la possibilité d'avoir accès à l'ensemble des documents permettant de justifier que les locataires sont ou non éligibles 1 % Logement / Etat et à l'ensemble des documents justifiant de la réalité des sinistres.
+L'Assureur est tenu de se réserver auprès de ses contreparties directes ou indirectes (courtiers, Bailleurs) la possibilité d'avoir accès à l'ensemble des documents permettant de justifier que les locataires sont ou non éligibles 1 % Logement/ Etat et à l'ensemble des documents justifiant de la réalité des sinistres.
 
 L'Assureur transmet à l'APAGL les données statistiques et comptables communiquées à l'Autorité de contrôle des assurances et mutuelles incluant les garanties couvertes par le dispositif et telles que décrites aux articles R. 341-5 et suivants du code des assurances.
 
@@ -600,7 +600,7 @@ Article 16
 
 La Convention entre l'APAGL et chaque Assureur
 
-La distribution par une société anonyme ou mutuelle d'assurances d'un contrat d'assurances dans le cadre du dispositif GRL est subordonnée à la conclusion d'une Convention entre l'APAGL et l'entreprise d'assurance.L'UESL est également, directement ou par l'intermédiaire de l'APAGL, engagée par cette Convention.
+La distribution par une société anonyme ou mutuelle d'assurances d'un contrat d'assurances dans le cadre du dispositif GRL est subordonnée à la conclusion d'une Convention entre l'APAGL et l'entreprise d'assurance. L'UESL est également, directement ou par l'intermédiaire de l'APAGL, engagée par cette Convention.
 
 Cette Convention comprend l'engagement des deux parties à respecter les dispositions du présent cahier des charges.
 
@@ -668,7 +668,7 @@ Ce règlement précise le déroulement des contrôles mentionnés à l'article 1
 
 7° Le règlement des modalités de gestion et d'indemnisation des sinistres.
 
-Ce règlement précise, pour les sinistres concernant les locataires éligibles 1 % Logement / Etat, les règles qui s'imposent en matière de gestion et d'indemnisation des sinistres pour contribuer à l'efficacité du dispositif GRL, et en particulier les délais d'indemnisation et les règles internes de recouvrement.
+Ce règlement précise, pour les sinistres concernant les locataires éligibles 1 % Logement/ Etat, les règles qui s'imposent en matière de gestion et d'indemnisation des sinistres pour contribuer à l'efficacité du dispositif GRL, et en particulier les délais d'indemnisation et les règles internes de recouvrement.
 
 8° La notice de définition de la base ressources et de la notion de précarité.
 
@@ -692,9 +692,9 @@ La Convention et ses annexes peuvent être modifiées à l'initiative de l'APAGL
 
 Doivent être distinguées :
 
-1° Les modifications apportées aux clauses techniques des modèles types d'annexes, approuvées dans les conditions fixées à l'article 16. Ces modifications entraînent une actualisation systématique des annexes de toutes les Conventions conclues entre l'APAGL et les Assureurs avant l'adoption de ces modifications.L'Assureur est informé par l'APAGL de ces modifications ;
+1° Les modifications apportées aux clauses techniques des modèles types d'annexes, approuvées dans les conditions fixées à l'article 16. Ces modifications entraînent une actualisation systématique des annexes de toutes les Conventions conclues entre l'APAGL et les Assureurs avant l'adoption de ces modifications. L'Assureur est informé par l'APAGL de ces modifications ;
 
-2° Les modifications qui affectent à titre individuel un Assureur. Elles sont approuvées par le conseil d'administration de l'APAGL, après avis du comité mentionné au 4° de l'article 17.L'APAGL notifie par lettre recommandée avec accusé de réception les modifications apportées, qui entrent en vigueur au plus tôt un mois après la notification de modification par l'APAGL, ce délai pouvant être réduit en cas d'accord de l'Assureur.
+2° Les modifications qui affectent à titre individuel un Assureur. Elles sont approuvées par le conseil d'administration de l'APAGL, après avis du comité mentionné au 4° de l'article 17. L'APAGL notifie par lettre recommandée avec accusé de réception les modifications apportées, qui entrent en vigueur au plus tôt un mois après la notification de modification par l'APAGL, ce délai pouvant être réduit en cas d'accord de l'Assureur.
 
 En cas de désaccord de l'Assureur avec les modifications qui lui sont notifiées en application du 2° du présent article, il dispose d'une faculté exceptionnelle de résiliation dans le délai d'un mois à compter de la notification de modification de la Convention par l'APAGL. Cette résiliation doit être notifiée à l'APAGL par lettre recommandée avec accusé de réception.
 
@@ -734,4 +734,4 @@ Evaluation du dispositif
 
 Article 21
 
-L'APAGL procède à une évaluation de l'efficacité économique et sociale du dispositif GRL, qui fera l'objet d'un rapport présenté à son conseil d'administration au plus tard le 31 mai 2012.A cette fin, les Assureurs et leurs fédérations professionnelles fournissent, au plus tard le 31 mars 2012, tous les éléments permettant d'effectuer cette évaluation.
+L'APAGL procède à une évaluation de l'efficacité économique et sociale du dispositif GRL, qui fera l'objet d'un rapport présenté à son conseil d'administration au plus tard le 31 mai 2012. A cette fin, les Assureurs et leurs fédérations professionnelles fournissent, au plus tard le 31 mars 2012, tous les éléments permettant d'effectuer cette évaluation.

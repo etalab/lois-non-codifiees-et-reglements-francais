@@ -2,6 +2,8 @@
 
 - [Article 17](article-17.md)
 - [Article 17-1](article-17-1.md)
+- [Article 17-1-1](article-17-1-1.md)
+- [Article 17-2](article-17-2.md)
 - [Article 18](article-18.md)
 - [Article 18-1](article-18-1.md)
 - [Article 18-1 A](article-18-1-a.md)
@@ -21,6 +23,8 @@
 - [Article 24-4](article-24-4.md)
 - [Article 24-5](article-24-5.md)
 - [Article 24-6](article-24-6.md)
+- [Article 24-7](article-24-7.md)
+- [Article 24-8](article-24-8.md)
 - [Article 25](article-25.md)
 - [Article 25-1](article-25-1.md)
 - [Article 26](article-26.md)

@@ -16,7 +16,7 @@ A modifié les dispositions suivantes :
 
 I.
 
-C.-La part non affectée, après application de l'article L. 4414-7 du code général des collectivités territoriales et du 1 du II de l'article 57 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, du produit annuel de la taxe sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux perçue dans la région d'Ile-de-France est affectée, après déduction d'une fraction fixée à 24,61 % de la fraction versée à l'Union d'économie sociale du logement en application du même 1, à l'établissement public Société du Grand Paris créé par l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+C.-La part non affectée, après application de l'article L. 4414-7 du code général des collectivités territoriales et du 1 du II de l'article 57 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, du produit annuel de la taxe sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux perçue dans la région d'Ile-de-France est affectée, après déduction d'une fraction fixée à 24,61 % de la fraction versée à l'Union des entreprises et des salariés pour le logement en application du même 1, à l'établissement public Société du Grand Paris créé par l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 II.
 

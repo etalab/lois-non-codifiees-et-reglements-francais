@@ -1,6 +1,7 @@
 # Section 2 : Dispositions particulières aux copropriétés en difficulté.
 
 - [Article 29-1](article-29-1.md)
+- [Article 29-1 C](article-29-1-c.md)
 - [Article 29-1 A](article-29-1-a.md)
 - [Article 29-1 B](article-29-1-b.md)
 - [Article 29-2](article-29-2.md)
@@ -8,3 +9,12 @@
 - [Article 29-4](article-29-4.md)
 - [Article 29-5](article-29-5.md)
 - [Article 29-6](article-29-6.md)
+- [Article 29-7](article-29-7.md)
+- [Article 29-8](article-29-8.md)
+- [Article 29-9](article-29-9.md)
+- [Article 29-10](article-29-10.md)
+- [Article 29-11](article-29-11.md)
+- [Article 29-12](article-29-12.md)
+- [Article 29-13](article-29-13.md)
+- [Article 29-14](article-29-14.md)
+- [Article 29-15](article-29-15.md)

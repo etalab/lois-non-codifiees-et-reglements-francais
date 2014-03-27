@@ -1,0 +1,14 @@
+# Article 29-11
+
+<div align="left">I. ― Si la situation financière de la copropriété ne permet pas de réaliser les travaux nécessaires à la conservation et la mise en sécurité de l'immeuble, la protection des occupants, la préservation de leur santé et la réduction des charges de copropriété permettant son redressement financier, le juge peut placer l'immeuble sous administration provisoire renforcée : <br/>
+<br/>1° Sur saisine du maire de la commune du lieu de situation, du président de l'établissement public de coopération intercommunale compétent en matière d'habitat ou du représentant de l'Etat dans le département ; <br/>
+<br/>2° Ou sur saisine de l'administrateur provisoire déjà désigné en vertu de l'article 29-1. <br/>
+<br/>II. ― Dans le cadre du placement sous administration provisoire renforcée, le juge autorise l'administrateur provisoire, désigné en vertu de l'article 29-1, à conclure une convention à durée déterminée, au nom du syndicat des copropriétaires, avec un ou plusieurs opérateurs compétents en matière de maîtrise d'ouvrage de travaux et de mise au point de financement d'opération de travaux, qui peut être notamment l'un des organismes mentionnés aux articles L. 321-14, L. 321-29 et L. 326-1 du code de l'urbanisme et aux articles L. 411-2 et L. 481-2 du code de la construction et de l'habitation. <br/>
+<br/>La décision du juge est notifiée aux parties intéressées ainsi qu'au maire de la commune du lieu de situation, au président de l'établissement public de coopération intercommunale compétent en matière d'habitat et au représentant de l'Etat dans le département. <br/>
+<br/>III. ― L'administrateur provisoire peut confier à l'opérateur, par cette convention, toutes les missions concourant au redressement de la copropriété, notamment la maîtrise d'ouvrage d'un programme de travaux et la mise au point du financement de l'opération. Un décret précise les modalités de rémunération de l'opérateur à la charge des copropriétaires. <br/>
+<br/>Le juge homologue la convention conclue entre l'opérateur et l'administrateur provisoire. <br/>
+<br/>L'exécution de la convention peut se poursuivre même si la mission de l'administrateur provisoire est terminée. La convention prend fin à l'expiration du terme fixé par elle. <br/>
+<br/>IV. ― Le maire de la commune du lieu de situation de l'immeuble ou le président de l'établissement public de coopération intercommunale compétent en matière d'habitat peuvent engager à tout moment la procédure prévue à l'article L. 615-6 du code de la construction et de l'habitation. La conclusion de la convention mentionnée au II du présent article est alors suspendue dans l'attente de la décision du juge, mais la mission de l'administrateur provisoire se poursuit dans les conditions prévues à l'article 29-1.<br/>
+<br/>
+<br/>
+</div>

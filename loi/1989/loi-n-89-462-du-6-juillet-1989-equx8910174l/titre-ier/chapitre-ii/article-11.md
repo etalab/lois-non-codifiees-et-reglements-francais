@@ -10,4 +10,4 @@ Lorsque l'événement s'est produit et est confirmé, le locataire est déchu de
 
 Lorsque l'événement ne s'est pas produit ou n'est pas confirmé, le contrat de location est réputé être de trois ans.
 
-Si le contrat prévu au présent article fait suite à un contrat de location conclu avec le même locataire pour le même local, le montant du nouveau loyer ne peut être supérieur à celui de l'ancien éventuellement révisé conformément au deuxième alinéa du d de l'article 17.
+Si le contrat prévu au présent article fait suite à un contrat de location conclu avec le même locataire pour le même local, le montant du nouveau loyer ne peut être supérieur à celui de l'ancien éventuellement révisé conformément à l'article 17-1.

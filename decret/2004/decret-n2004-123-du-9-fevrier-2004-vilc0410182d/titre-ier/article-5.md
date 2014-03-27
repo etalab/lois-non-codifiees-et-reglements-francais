@@ -6,9 +6,9 @@ Le conseil d'administration règle par ses délibérations les affaires de l'ét
 
 2° Il approuve les conventions passées avec la Caisse des dépôts et consignations fixant le montant annuel et les modalités de sa participation au financement du programme national pluriannuel de rénovation urbaine ;
 
-2° bis Il approuve la convention avec l'Union d'économie sociale du logement (Action Logement) prise en application de l'article L. 313-3 du code de la construction et de l'habitation.
+2° bis Il approuve la convention avec l'Union des entreprises et des salariés pour le logement (Action Logement) prise en application de l'article L. 313-3 du code de la construction et de l'habitation.
 
-3° Il vote        le budget , et ses modifications. Il approuve le compte financier et décide de l'affectation des résultats. Il adopte le règlement comptable et financier.
+3° Il vote le budget, et ses modifications. Il approuve le compte financier et décide de l'affectation des résultats. Il adopte le règlement comptable et financier.
 
 4° Il adopte la charte prévue au troisième alinéa de l'article 10 de la loi du 1er août 2003 susvisée.
 

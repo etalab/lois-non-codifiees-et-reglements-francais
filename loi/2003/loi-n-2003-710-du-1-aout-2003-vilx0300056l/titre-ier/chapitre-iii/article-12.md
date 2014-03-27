@@ -4,7 +4,7 @@ Les recettes de l'Agence nationale pour la rénovation urbaine sont constituées
 
 1° Les subventions de l'Etat ;
 
-2° Les contributions de l'Union d'économie sociale du logement ;
+2° Les contributions de l'Union des entreprises et des salariés pour le logement ;
 
 3° Les subventions de la Caisse des dépôts et consignations ;
 

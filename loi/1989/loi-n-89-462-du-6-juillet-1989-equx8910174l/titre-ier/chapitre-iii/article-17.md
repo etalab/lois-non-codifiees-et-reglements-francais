@@ -1,43 +1,41 @@
 # Article 17
 
-a) Le loyer :
+I. ― Les zones d'urbanisation continue de plus de 50 000 habitants où il existe un déséquilibre marqué entre l'offre et la demande de logements, entraînant des difficultés sérieuses d'accès au logement sur l'ensemble du parc résidentiel existant, qui se caractérisent notamment par le niveau élevé des loyers, le niveau élevé des prix d'acquisition des logements anciens ou le nombre élevé de demandes de logement par rapport au nombre d'emménagements annuels dans le parc locatif social, sont dotées d'un observatoire local des loyers prévu à l'article 16 de la présente loi. Un décret fixe la liste des communes comprises dans ces zones.
 
-- des logements neufs ;
+Dans ces zones, le représentant de l'Etat dans le département fixe chaque année, par arrêté, un loyer de référence, un loyer de référence majoré et un loyer de référence minoré, exprimés par un prix au mètre carré de surface habitable, par catégorie de logement et par secteur géographique.
 
-- des logements vacants ayant fait l'objet de travaux de mise ou de remise en conformité avec les caractéristiques définies en application des premier et deuxième alinéas de l'article 6 ;
+Les catégories de logement et les secteurs géographiques sont déterminés en fonction de la structuration du marché locatif constatée par l'observatoire local des loyers.
 
-- des logements conformes aux normes définies par ledit décret, faisant l'objet d'une première location ou, s'ils sont vacants, ayant fait l'objet depuis moins de six mois de travaux d'amélioration portant sur les parties privatives ou communes, d'un montant au moins égal à une année du loyer antérieur, est fixé librement entre les parties.
+Chaque loyer de référence est égal au loyer médian calculé à partir des niveaux de loyers constatés par l'observatoire local des loyers selon les catégories de logement et les secteurs géographiques.
 
-b) Le loyer des logements vacants ou faisant l'objet d'une première location qui ne sont pas visés au a ci-dessus est fixé par référence aux loyers habituellement constatés dans le voisinage pour des logements comparables dans les conditions définies à l'article 19, s'il est supérieur au dernier loyer exigé du précédent locataire.
+Chaque loyer de référence majoré et chaque loyer de référence minoré sont fixés respectivement par majoration et par minoration du loyer de référence.
 
-Les dispositions de l'alinéa précédent sont applicables jusqu'au 31 juillet 1997. Avant cette date, le Gouvernement présentera au Parlement un rapport d'exécution permettant d'établir la comparaison entre l'évolution des loyers des logements vacants selon qu'ils relèvent du a ou du b du présent article.
+Les compétences attribuées au représentant de l'Etat dans le département par le présent article sont exercées, dans la région d'Ile-de-France, par le représentant de l'Etat dans la région.
 
-Toutefois, le Gouvernement présentera au Parlement, dans un délai d'un an à compter de la promulgation de la loi n° 92-722 du 29 juillet 1992 portant adaptation de la loi n° 88-1088 du 1er décembre 1988 relative au minimum d'insertion et relative à la lutte contre la pauvreté et l'exclusion sociale et professionnelle, un rapport d'information sur les logements vacants dans les agglomérations de plus de 200 000 habitants au sens du recensement général de la population, spécifiant, entre autres, les motifs et la durée de la vacance.
+Le loyer de référence majoré est égal [Rédaction conforme à l'article 1er de la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] à un montant supérieur de 20 % au loyer de référence.
 
-En cas de non-respect par le bailleur des dispositions de l'article 19, le locataire dispose, sans qu'il soit porté atteinte à la validité du contrat en cours, d'un délai de deux mois pour contester le montant du loyer auprès de la commission de conciliation.
+Le loyer de référence minoré est égal [Rédaction conforme à l'article 1er de la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] au loyer de référence diminué de 30 %.
 
-A défaut d'accord constaté par la commission, le juge, saisi par l'une ou l'autre des parties, fixe le loyer.
+II. ― A. ― Dans les zones où s'applique l'arrêté mentionné au I, le loyer de base des logements mis en location est fixé librement entre les parties lors de la conclusion du contrat de bail, dans la limite du loyer de référence majoré. Une action en diminution de loyer peut être engagée si le loyer de base prévu dans le contrat de bail est supérieur au loyer de référence majoré en vigueur à la date de signature dudit contrat.
 
-c) Lors du renouvellement du contrat, le loyer ne donne lieu à réévaluation que s'il est manifestement sous-évalué.
+B. ― Un complément de loyer [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] peut être appliqué au loyer de base tel que fixé au A pour des logements présentant des caractéristiques de localisation ou de confort [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] par comparaison avec les logements de la même catégorie situés dans le même secteur géographique. Les modalités d'application du présent alinéa sont précisées par décret en Conseil d'Etat.
 
-Dans ce cas, le bailleur peut proposer au locataire, au moins six mois avant le terme du contrat et dans les conditions de forme prévues à l'article 15, un nouveau loyer fixé par référence aux loyers habituellement constatés dans le voisinage pour des logements comparables dans les conditions définies à l'article 19.
+Le montant du complément de loyer [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] et les caractéristiques du logement le justifiant sont mentionnés au contrat de bail.
 
-Lorsque le bailleur fait application des dispositions du présent c, il ne peut donner congé au locataire pour la même échéance du contrat.
+Lorsqu'un complément de loyer [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] est appliqué, le loyer s'entend comme la somme du loyer de base et de ce complément.
 
-La notification reproduit intégralement, à peine de nullité, les dispositions des alinéas du présent c et mentionne le montant du loyer ainsi que la liste des références ayant servi à le déterminer.
+Un complément de loyer [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] ne peut être appliqué à un loyer de base inférieur au loyer de référence majoré.
 
-En cas de désaccord ou à défaut de réponse du locataire quatre mois avant le terme du contrat, l'une ou l'autre des parties saisit la commission de conciliation.
+Le locataire qui souhaite contester le complément de loyer  [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] dispose d'un délai de trois mois à compter de la signature du bail pour saisir la commission départementale de conciliation prévue à l'article 20 de la présente loi.
 
-A défaut d'accord constaté par la commission, le juge est saisi avant le terme du contrat. A défaut de saisine, le contrat est reconduit de plein droit aux conditions antérieures du loyer éventuellement révisé. Le contrat dont le loyer est fixé judiciairement est réputé renouvelé pour la durée définie à l'article 10, à compter de la date d'expiration du contrat. La décision du juge est exécutoire par provision.
+En cas de contestation, il appartient au bailleur de démontrer que le logement présente des caractéristiques de localisation ou de confort [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] par comparaison avec les logements de la même catégorie situés dans le même secteur géographique.
 
-La hausse convenue entre les parties ou fixée judiciairement s'applique par tiers ou par sixième selon la durée du contrat.
+En cas de conciliation, le montant du loyer, tenant compte de l'éventuel complément de loyer, [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014] est celui fixé par le document de conciliation délivré par la commission départementale de conciliation.
 
-Toutefois, cette hausse s'applique par sixième annuel au contrat renouvelé, puis lors du renouvellement ultérieur, dès lors qu'elle est supérieure à 10 p. 100 si le premier renouvellement avait une durée inférieure à six ans.
+En l'absence de conciliation, le locataire dispose d'un délai de trois mois à compter de la réception de l'avis de la commission départementale de conciliation pour saisir le juge d'une demande en annulation ou en diminution du complément de loyer [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-691 DC du 20 mars 2014]. La fin de non-recevoir tirée de l'absence de saisine préalable de la commission départementale de conciliation peut être soulevée d'office par le juge.
 
-La révision éventuelle résultant du d ci-dessous s'applique à chaque valeur ainsi définie.
+Dans les deux cas, le loyer résultant du document de conciliation ou de la décision de justice s'applique à compter de la prise d'effet du bail.
 
-d) Lorsque le contrat de location prévoit la révision du loyer, celle-ci intervient chaque année à la date convenue entre les parties ou, à défaut, au terme de chaque année du contrat.
+III. ― En dehors des territoires mentionnés au I, la fixation du loyer des logements mis en location est libre.
 
-L'augmentation du loyer qui en résulte ne peut excéder la variation d'un indice de référence des loyers publié par l'Institut national de la statistique et des études économiques chaque trimestre et qui correspond à la moyenne, sur les douze derniers mois, de l'évolution des prix à la consommation hors tabac et hors loyers. A défaut de clause contractuelle fixant la date de référence, cette date est celle du dernier indice publié à la date de signature du contrat de location.
-
-e) Lorsque les parties sont convenues, par une clause expresse, de travaux d'amélioration du logement que le bailleur fera exécuter, le contrat de location ou un avenant à ce contrat fixe la majoration du loyer consécutive à la réalisation de ces travaux.
+IV. ― Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

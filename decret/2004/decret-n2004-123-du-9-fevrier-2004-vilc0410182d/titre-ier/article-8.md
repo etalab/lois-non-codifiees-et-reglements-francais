@@ -10,7 +10,7 @@ Il est présidé par le directeur général de l'agence ou son représentant, co
 
 -un représentant de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ;
 
--deux représentants de l'Union d'économie sociale du logement ;
+-deux représentants de l'Union des entreprises et des salariés pour le logement ;
 
 -un représentant de la Caisse des dépôts et consignations.
 
@@ -32,13 +32,13 @@ Il est présidé par le directeur général de l'agence ou son représentant, co
 
 -un représentant de l'Agence nationale de l'habitat ;
 
--deux représentants de l'Union d'économie sociale du logement (Action Logement) ;
+-deux représentants de l'Union des entreprises et des salariés pour le logement (Action Logement) ;
 
 -un représentant de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré (Union sociale pour l'habitat) ;
 
 -un représentant de la Caisse des dépôts et consignations.
 
-Assistent également, avec voix consultative, le membre         du contrôleur budgétaire, l'agent comptable, le délégué général pour la coordination de l'hébergement et l'accès au logement des personnes sans-abri ou mal logées ou son représentant et, en tant que de besoin, un représentant du ministre chargé de l'économie, un représentant du ministre chargé de l'outre-mer, un représentant du ministre chargé des affaires sociales, un représentant du ministre chargé de la santé, un représentant de la Caisse nationale des allocations familiales et un représentant de l'établissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux.
+Assistent également, avec voix consultative, le membre du contrôleur budgétaire, l'agent comptable, le délégué général pour la coordination de l'hébergement et l'accès au logement des personnes sans-abri ou mal logées ou son représentant et, en tant que de besoin, un représentant du ministre chargé de l'économie, un représentant du ministre chargé de l'outre-mer, un représentant du ministre chargé des affaires sociales, un représentant du ministre chargé de la santé, un représentant de la Caisse nationale des allocations familiales et un représentant de l'établissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux.
 
 Ces membres sont désignés par le ministre ou l'organisme qu'ils représentent.
 

@@ -1,5 +1,13 @@
 # Article 2
 
-Les dispositions du présent titre sont d'ordre public. Elles s'appliquent aux locations de locaux à usage d'habitation principale ou à usage mixte professionnel et d'habitation principale ainsi qu'aux garages, places de stationnement, jardins et autres locaux, loués accessoirement au local principal par le même bailleur.
+Les dispositions du présent titre sont d'ordre public.
 
-Toutefois, elles ne s'appliquent ni aux locations à caractère saisonnier, à l'exception de l'article 3-1, ni aux logements foyers, à l'exception des deux premiers alinéas de l'article 6 et de l'article 20-1. Elles ne s'appliquent pas non plus, à l'exception de l'article 3-1, des deux premiers alinéas de l'article 6 et de l'article 20-1, aux locaux meublés, aux logements attribués ou loués en raison de l'exercice d'une fonction ou de l'occupation d'un emploi, aux locations consenties aux travailleurs saisonniers.
+Le présent titre s'applique aux locations de locaux à usage d'habitation ou à usage mixte professionnel et d'habitation, et qui constituent la résidence principale du preneur, ainsi qu'aux garages, aires et places de stationnement, jardins et autres locaux, loués accessoirement au local principal par le même bailleur. La résidence principale est entendue comme le logement occupé au moins huit mois par an, sauf obligation professionnelle, raison de santé ou cas de force majeure, soit par le preneur ou son conjoint, soit par une personne à charge au sens du code de la construction et de l'habitation.
+
+Toutefois, ce titre ne s'applique pas :
+
+1° Aux logements-foyers, à l'exception du premier alinéa de l'article 6 et de l'article 20-1 ;
+
+2° Aux logements meublés, régis par le titre Ier bis ;
+
+3° Aux logements attribués ou loués en raison de l'exercice d'une fonction ou de l'occupation d'un emploi et aux locations consenties aux travailleurs saisonniers, à l'exception de l'article 3-3, des deux premiers alinéas de l'article 6, de l'article 20-1 et de l'article 24-1.

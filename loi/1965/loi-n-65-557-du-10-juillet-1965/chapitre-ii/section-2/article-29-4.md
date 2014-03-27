@@ -1,5 +1,11 @@
 # Article 29-4
 
-Sur le rapport de l'administrateur provisoire précisant les conditions matérielles, juridiques et financières mentionnées à l'article 28 et consignant l'avis des copropriétaires, le président du tribunal de grande instance, statuant comme en matière de référé, peut prononcer aux conditions qu'il fixe la division si d'autres mesures ne permettent pas le rétablissement du fonctionnement normal de la copropriété.
+I. ―  Dans un délai de deux mois à compter de sa nomination, l'administrateur provisoire procède à des mesures de publicité pour permettre aux créanciers de produire les éléments nécessaires à l'évaluation du montant de leurs créances.
 
-Le président du tribunal de grande instance statuant comme en matière de référé désigne, pour chaque syndicat des copropriétaires né de la division, la personne chargée de convoquer l'assemblée générale en vue de la désignation d'un syndic.
+II. ―  A partir de la publication de l'ordonnance de désignation de l'administrateur provisoire, les créanciers du syndicat des copropriétaires déclarent leurs créances dans un délai fixé par décret en Conseil d'Etat.
+
+Après vérification des créances déclarées, l'administrateur provisoire établit et publie la liste des créances déclarées.
+
+Les créanciers disposent d'un délai de deux mois à compter de la publication de la liste pour contester son contenu auprès du président du tribunal de grande instance.
+
+III. ―  Les créances non déclarées régulièrement dans les délais prévus au II sont inopposables à la procédure.

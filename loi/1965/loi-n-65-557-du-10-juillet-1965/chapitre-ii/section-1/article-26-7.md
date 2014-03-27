@@ -4,4 +4,6 @@ Le syndicat des copropriétaires est garanti en totalité, sans franchise et san
 
 Le cautionnement solidaire ne peut résulter que d'un engagement écrit fourni par une entreprise d'assurance spécialement agréée, par un établissement de crédit, une société de financement ou une institution mentionnée à l'article L. 518-1 du code monétaire et financier.
 
+Le cautionnement solidaire prévu aux deux premiers alinéas est facultatif lorsque le prêt souscrit par le syndicat a pour unique objectif le préfinancement de subventions publiques accordées au syndicat pour la réalisation des travaux votés. Les décisions attributives de subventions sont alors obligatoirement communiquées à l'organisme prêteur par le syndic.
+
 Au regard du privilège prévu au 1° bis de l'article 2374 du code civil, les sommes correspondant au remboursement de l'emprunt ainsi qu'au paiement des accessoires sont assimilées au paiement des charges et travaux. Après mise en œuvre de la caution, celle-ci est subrogée de plein droit dans l'exercice du privilège du syndicat des copropriétaires prévu au même 1° bis.

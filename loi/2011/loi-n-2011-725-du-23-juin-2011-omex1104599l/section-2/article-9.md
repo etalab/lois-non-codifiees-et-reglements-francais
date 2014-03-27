@@ -1,6 +1,6 @@
 # Article 9
 
-I. ― Dans les secteurs d'habitat informel tels que définis au deuxième alinéa du g de l'article 4 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, le représentant de l'Etat dans le département peut, à l'intérieur d'un périmètre qu'il définit et qui fait l'objet d'un projet global d'aménagement et d'assainissement établi par délibération du conseil municipal ou, le cas échéant, de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière d'habitat, déclarer par arrêté l'insalubrité des locaux, ensembles de locaux, installations ou terrains, utilisés aux fins d'habitation mais impropres à cet objet pour des raisons d'hygiène, de salubrité ou de sécurité.
+I. ― Dans les secteurs d'habitat informel tels que définis à l'article 1er-1 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, le représentant de l'Etat dans le département peut, à l'intérieur d'un périmètre qu'il définit et qui fait l'objet d'un projet global d'aménagement et d'assainissement établi par délibération du conseil municipal ou, le cas échéant, de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière d'habitat, déclarer par arrêté l'insalubrité des locaux, ensembles de locaux, installations ou terrains, utilisés aux fins d'habitation mais impropres à cet objet pour des raisons d'hygiène, de salubrité ou de sécurité.
 
 A l'intérieur du périmètre mentionné au premier alinéa, il peut, dans un délai qu'il fixe, ordonner la démolition et interdire à l'habitation les locaux et installations qu'il a désignés. Il prescrit toutes mesures nécessaires pour en empêcher l'accès et l'usage au fur et à mesure de leur évacuation. Ces mesures peuvent être exécutées d'office après avertissement de la personne à l'origine de l'édification des locaux en cause ou de la personne qui a mis le terrain à disposition aux fins d'habitation. L'avertissement est effectué par affichage sur la façade des bâtiments concernés. Les mêmes mesures peuvent être décidées à tout moment par le maire au nom de l'Etat et exécutées d'office.
 
@@ -32,7 +32,7 @@ Si après mise en demeure les travaux n'ont pas été exécutés, l'autorité ad
 
 Les premier et quatrième alinéas du présent IV ne font pas obstacle à l'application de l'article L. 1331-29 du code de la santé publique lorsque les locaux déclarés insalubres ont été édifiés par une personne titulaire de droits réels sur le terrain d'assiette.
 
-Le bailleur est tenu d'assurer le relogement des occupants ou d'y contribuer selon les dispositions des deux derniers alinéas du  III du présent article. En cas de défaillance du bailleur, le relogement des occupants est assuré selon les dispositions de l'avant-dernier alinéa du même III.
+Le bailleur est tenu d'assurer le relogement des occupants ou d'y contribuer selon les dispositions des deux derniers alinéas du III du présent article. En cas de défaillance du bailleur, le relogement des occupants est assuré selon les dispositions de l'avant-dernier alinéa du même III.
 
 En cas de démolition des locaux à usage d'habitation des occupants à l'origine de leur édification, le relogement de ces personnes est effectué par la personne publique ou le concessionnaire de l'opération d'aménagement ou d'assainissement intéressant le périmètre concerné.
 
@@ -40,6 +40,6 @@ V. ― Le recouvrement des créances relatives à la démolition et à l'obligat
 
 VI. ― Le présent article ne fait pas obstacle à l'application de l'article L. 1331-25 du code de la santé publique.
 
-VII. ― Lorsque l'assainissement du périmètre délimité par l'arrêté du représentant de l'Etat dans le département nécessite l'expropriation des terrains d'assiette des locaux utilisés aux fins d'habitation, celle-ci peut être conduite selon les dispositions des articles 13, 14, 15, 17 et 19 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre.
+VII. ― Lorsque l'assainissement du périmètre délimité par l'arrêté du représentant de l'Etat dans le département nécessite l'expropriation des terrains d'assiette des locaux utilisés aux fins d'habitation, celle-ci peut être conduite selon les dispositions des articles 13,14,15,17 et 19 de la loi n° 70-612 du 10 juillet 1970 tendant à faciliter la suppression de l'habitat insalubre.
 
 L'indemnité d'expropriation du propriétaire est calculée sur la valeur du terrain sans qu'il soit tenu compte de celle des locaux et installations à usage d'habitation édifiés par des personnes non titulaires de droits réels sur ce terrain.

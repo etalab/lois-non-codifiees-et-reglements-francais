@@ -1,6 +1,6 @@
 # Article 22-1
 
-Le cautionnement ne peut pas être demandé par un bailleur qui a souscrit une assurance garantissant les obligations locatives du locataire, sauf en cas de logement loué à un étudiant ou un apprenti.
+Le cautionnement ne peut pas être demandé, à peine de nullité, par un bailleur qui a souscrit une assurance, ou toute autre forme de garantie, garantissant les obligations locatives du locataire, sauf en cas de logement loué à un étudiant ou un apprenti. Cette disposition ne s'applique pas au dépôt de garantie mentionné à l'article 22.
 
 Si le bailleur est une personne morale autre qu'une société civile constituée exclusivement entre parents et alliés jusqu'au quatrième degré inclus, le cautionnement ne peut être demandé que :
 
@@ -9,6 +9,8 @@ Si le bailleur est une personne morale autre qu'une société civile constituée
 - ou si le logement est loué à un étudiant ne bénéficiant pas d'une bourse de l'enseignement supérieur.
 
 Lorsqu'un cautionnement pour les sommes dont le locataire serait débiteur dans le cadre d'un contrat de location conclu en application du présent titre est exigé par le bailleur, celui-ci ne peut refuser la caution présentée au motif qu'elle ne possède pas la nationalité française ou qu'elle ne réside pas sur le territoire métropolitain.
+
+Le cautionnement pour les sommes dont le locataire serait débiteur s'étend également aux sommes correspondant aux aides versées au bailleur en application de l'article 24-2.
 
 Lorsque le cautionnement d'obligations résultant d'un contrat de location conclu en application du présent titre ne comporte aucune indication de durée ou lorsque la durée du cautionnement est stipulée indéterminée, la caution peut le résilier unilatéralement. La résiliation prend effet au terme du contrat de location, qu'il s'agisse du contrat initial ou d'un contrat reconduit ou renouvelé, au cours duquel le bailleur reçoit notification de la résiliation.
 
