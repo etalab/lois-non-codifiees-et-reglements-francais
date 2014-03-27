@@ -1,0 +1,3 @@
+# Article 2
+
+Le Gouvernement remet au Parlement, dans les six mois suivant la promulgation de la présente loi, un rapport sur l'opportunité de réviser le décret n° 2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement décent pris pour l'application de l'article 187 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, notamment sur la possibilité d'une évolution de la définition du seuil minimal de surface habitable en deçà duquel un logement est considéré comme indécent et d'une intégration de la performance énergétique parmi les caractéristiques du logement décent.
