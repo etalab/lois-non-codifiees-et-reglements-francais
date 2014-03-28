@@ -30,13 +30,9 @@ B. ― Situation familiale
 
 ― nom de famille, le cas échéant, nom marital ou d'usage, et prénoms ;
 
-― sexe ;
-
 ― adresse ;
 
 ― date et lieu de naissance ;
-
-― nationalité ;
 
 ― corps, grade, indice du conjoint, lorsqu'il est employé par le ministère chargé de l'éducation nationale, de la jeunesse, de la vie associative ou celui chargé de l'enseignement supérieur et de la recherche ;
 
