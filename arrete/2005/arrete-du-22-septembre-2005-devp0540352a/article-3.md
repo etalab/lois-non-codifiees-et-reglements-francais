@@ -76,4 +76,4 @@ g) Pour les moteurs de propulsion utilisés sur les bateaux de la navigation int
 
 - le 31 décembre 2007 pour les moteurs de catégories V2.1, V2.2, V2.3, V2.4 et V2.5.
 
-Les réceptions par type des moteurs accordées conformément aux exigences des directives et règlements listés à l'annexe XII de la directive 97/68/CE valent réception par type au titre du présent arrêté pour les catégories de moteurs D, E, F, G, H, I, J, K, L et M telles que définies à l'article 9, paragraphes 2 et 3, de la directive 97/68/CE susvisée.
+Les réceptions par type des moteurs accordées conformément aux exigences des directives et règlements listés à l'annexe XII de la directive 97/68/CE valent réception par type au titre du présent arrêté pour les catégories de moteurs D, E, F, G, H, I, J, K, L, M, N, P, Q et R telles que définies à l'article 9, paragraphes 2 et 3, de la directive 97/68/CE susvisée, telle que modifiée en dernier lieu par la directive 2012/46/UE.
