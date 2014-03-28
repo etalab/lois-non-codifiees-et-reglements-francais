@@ -459,7 +459,6 @@
 - [Arrêté du 17 août 1998 (ECOU9800018A)](arrete-du-17-aout-1998-ecou9800018a)
 - [Arrêté du 17 août 1998 (MESG9810924A)](arrete-du-17-aout-1998-mesg9810924a)
 - [Arrêté du 17 avril 1998 (ECOA9850001A)](arrete-du-17-avril-1998-ecoa9850001a)
-- [Arrêté du 17 avril 1998 (INTA9800193A)](arrete-du-17-avril-1998-inta9800193a)
 - [Arrêté du 17 décembre 1998 (EQUA9801634A)](arrete-du-17-decembre-1998-equa9801634a)
 - [Arrêté du 17 février 1998 (EQUA9800237A)](arrete-du-17-fevrier-1998-equa9800237a)
 - [Arrêté du 17 juillet 1998 (ECOB9830039A)](arrete-du-17-juillet-1998-ecob9830039a)

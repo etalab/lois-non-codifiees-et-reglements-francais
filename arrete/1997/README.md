@@ -867,7 +867,6 @@
 - [Arrêté du 27 juin 1997 (MESS9722157A)](arrete-du-27-juin-1997-mess9722157a)
 - [Arrêté du 27 mars 1997 (ECOD9770004A)](arrete-du-27-mars-1997-ecod9770004a)
 - [Arrêté du 27 mars 1997 (ECOT9720009A)](arrete-du-27-mars-1997-ecot9720009a)
-- [Arrêté du 27 mars 1997 (INTA9700121A)](arrete-du-27-mars-1997-inta9700121a)
 - [Arrêté du 27 mars 1997 (JUSF9750024A)](arrete-du-27-mars-1997-jusf9750024a)
 - [Arrêté du 27 mars 1997 (JUSF9750025A)](arrete-du-27-mars-1997-jusf9750025a)
 - [Arrêté du 27 mars 1997 (TASE9710467A)](arrete-du-27-mars-1997-tase9710467a)
