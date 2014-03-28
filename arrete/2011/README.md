@@ -1264,8 +1264,6 @@
 - [Arrêté du 15 mars 2011 (IOCC1106402A)](arrete-du-15-mars-2011-iocc1106402a)
 - [Arrêté du 15 novembre 2010 (DEVA1024087A)](arrete-du-15-novembre-2010-deva1024087a)
 - [Arrêté du 15 novembre 2011 (AGRG1131058A)](arrete-du-15-novembre-2011-agrg1131058a)
-- [Arrêté du 15 novembre 2011 (AGRM1128049A)](arrete-du-15-novembre-2011-agrm1128049a)
-- [Arrêté du 15 novembre 2011 (AGRM1128051A)](arrete-du-15-novembre-2011-agrm1128051a)
 - [Arrêté du 15 novembre 2011 (AGRT1128322A)](arrete-du-15-novembre-2011-agrt1128322a)
 - [Arrêté du 15 novembre 2011 (DEFH1125963A)](arrete-du-15-novembre-2011-defh1125963a)
 - [Arrêté du 15 novembre 2011 (DEVA1127300A)](arrete-du-15-novembre-2011-deva1127300a)
