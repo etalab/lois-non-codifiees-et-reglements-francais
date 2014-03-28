@@ -103,7 +103,6 @@
 - [Arrêté du 21 décembre 2000 (INTE0000759A)](arrete-du-21-decembre-2000-inte0000759a)
 - [Arrêté du 21 décembre 2000 (MESH0024007A)](arrete-du-21-decembre-2000-mesh0024007a)
 - [Arrêté du 21 novembre 2001 (MESG0123786A)](arrete-du-21-novembre-2001-mesg0123786a)
-- [Arrêté du 22 juin 2000 (ECOR0007048A)](arrete-du-22-juin-2000-ecor0007048a)
 - [Arrêté du 22 novembre 2000 (DEFB0002354A)](arrete-du-22-novembre-2000-defb0002354a)
 - [Arrêté du 22 novembre 2000 (EQUK0001854A)](arrete-du-22-novembre-2000-equk0001854a)
 - [Arrêté du 22 novembre 2000 (MAEA0020511A)](arrete-du-22-novembre-2000-maea0020511a)
