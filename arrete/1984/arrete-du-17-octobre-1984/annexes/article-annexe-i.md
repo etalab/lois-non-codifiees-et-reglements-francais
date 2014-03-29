@@ -36,7 +36,7 @@ Poireau (Allium porrum L.).
 
 Poirée (Beta vulgaris L., var. cycla (L.) Ulrich).
 
-Tomate (Lycopersicon Lycopersicum (L.) Karst. ex Farwell).
+Tomate (Solanum lycopersicum L.).
 
 B - Autres espèces.
 

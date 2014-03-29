@@ -94,7 +94,7 @@
 
 23. Lactuca sativa L. - Laitue.
 
-24. Lycopersicon esculentum Mill. - Tomate.
+24. Solanum lycopersicum L. - Tomate
 
 25. Petroselinum crispum (Mill.) Nyman ex A. W. Hill - Persil.
 
