@@ -12,10 +12,12 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 <tbody>
 <tr>
 <td>
-<p align="center">PROFIL DE CONSOMMATION DES CLIENTS<br/>à un réseau public de distribution </p>
+<p align="center">
+<br/>PROFIL DE CONSOMMATION DES CLIENTS </p>
+<p align="center">raccordés à un réseau de distribution </p>
 </td>
 <td>
-<p align="center">INTITULÉ</p>
+<p align="center">INTITULÉ </p>
 </td>
 </tr>
 <tr>
@@ -25,8 +27,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé semestriel vérifiant CAR &lt; 6 000 kWh <br/>
+<p>Client à relevé semestriel vérifiant CAR &lt; 6 000 kWh <br/>
 </p>
 </td>
 </tr>
@@ -37,8 +38,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé semestriel vérifiant CAR &gt; 6 000 kWh <br/>
+<p>Client à relevé semestriel vérifiant CAR &gt; 6 000 kWh <br/>
 </p>
 </td>
 </tr>
@@ -49,8 +49,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant ≤ PH 39 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant ≤ PH 39 % <br/>
 </p>
 </td>
 </tr>
@@ -61,8 +60,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant 39 % &lt; PH≤ 50 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant 39 % &lt; PH ≤ 50 % <br/>
 </p>
 </td>
 </tr>
@@ -73,8 +71,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant 50 % &lt; PH ≤ 58 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant 50 % &lt; PH ≤ 58 % <br/>
 </p>
 </td>
 </tr>
@@ -85,8 +82,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant 58 % &lt; PH ≤ 69 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant 58 % &lt; PH ≤ 69 % <br/>
 </p>
 </td>
 </tr>
@@ -97,8 +93,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant 69 % &lt; PH ≤ 75 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant 69 % &lt; PH ≤ 75 % <br/>
 </p>
 </td>
 </tr>
@@ -109,8 +104,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant 75 % &lt; PH ≤81 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant 75 % &lt; PH ≤ 81 % <br/>
 </p>
 </td>
 </tr>
@@ -121,8 +115,7 @@ Les profils de consommation affectés à chaque client final de gaz naturel par 
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Client à relevé mensuel ou journalier vérifiant PH &gt; 81 % <br/>
+<p>Client à relevé mensuel ou journalier vérifiant PH &gt; 81 % <br/>
 </p>
 </td>
 </tr>

@@ -4,3871 +4,3902 @@ Chaque droit unitaire de stockage donne accès à un volume utile et à un débi
 
 Les droits unitaires de stockage correspondant aux profils de consommation visés à l'article 1er sont les suivants :
 
+<div>
 <table>
 <tbody>
 <tr>
-<td width="170">
-<p align="center">PROFIL DE CONSOMMATION <br/>des clients finals raccordés <br/>au réseau de distribution</p>
-</td>
-<td width="284">
-<p align="center">DROIT UNITAIRE EXPRIMÉ EN VOLUME UTILE <br/>en MWh pour 1 000 MWh de consommation <br/>annuelle de référence</p>
-</td>
-<td width="227">
-<p align="center">DROIT UNITAIRE EXPRIMÉ EN DÉBIT <br/>de soutirage en MWh/ j pour 1 000 MWh <br/>de consommation annuelle de référence</p>
-</td>
+<td align="center"> PROFIL DE CONSOMMATION <p>des clients finals raccordés </p>au réseau de distribution </td>
+<td align="center"> DROIT UNITAIRE EXPRIMÉ EN VOLUME UTILE <p>en MWh pour 1   000 MWh </p>de consommation annuelle de référence</td>
+<td align="center"> DROIT UNITAIRE EXPRIMÉ EN DÉBIT <p>de soutirage en MWh/ j pour 1   000 MWh </p>de consommation annuelle de référence</td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo d'Agen</p>
+<td align="center">
+<br/>Station météo d'Agen <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">410</p>
+<td align="center">
+<br/>415 <br/>
 </td>
-<td width="227">
-<p align="center">7,7</p>
+<td align="center">
+<br/>7,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">140</p>
+<td align="center">
+<br/>125 <br/>
 </td>
-<td width="227">
-<p align="center">5,1</p>
+<td align="center">
+<br/>4,1 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">290</p>
+<td align="center">
+<br/>295 <br/>
 </td>
-<td width="227">
-<p align="center">6,85</p>
+<td align="center">
+<br/>6,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">385</p>
+<td align="center">
+<br/>390 <br/>
 </td>
-<td width="227">
-<p align="center">9,4</p>
+<td align="center">
+<br/>9,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">495</p>
+<td align="center">
+<br/>505 <br/>
 </td>
-<td width="227">
-<p align="center">12</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">615</p>
+<td align="center">
+<br/>600 <br/>
 </td>
-<td width="227">
-<p align="center">16,5</p>
+<td align="center">
+<br/>16 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo d'Auxerre</p>
+<td align="center">
+<br/>Station météo d'Auxerre <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">410</p>
+<td align="center">
+<br/>415 <br/>
 </td>
-<td width="227">
-<p align="center">8,7</p>
+<td align="center">
+<br/>8,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">165</p>
+<td align="center">
+<br/>150 <br/>
 </td>
-<td width="227">
-<p align="center">5,8</p>
+<td align="center">
+<br/>4,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>330 <br/>
 </td>
-<td width="227">
-<p align="center">8,1</p>
+<td align="center">
+<br/>7,9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">410</p>
+<td align="center">
+<br/>415 <br/>
 </td>
-<td width="227">
-<p align="center">10</p>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">510</p>
+<td align="center">
+<br/>520 <br/>
 </td>
-<td width="227">
-<p align="center">12</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">640</p>
+<td align="center">
+<br/>625 <br/>
 </td>
-<td width="227">
-<p align="center">16</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Bâle-Mulhouse</p>
+<td align="center">
+<br/>Station météo de Bâle-Mulhouse <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">480</p>
+<td align="center">
+<br/>485 <br/>
 </td>
-<td width="227">
-<p align="center">9,15</p>
+<td align="center">
+<br/>9,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">205</p>
+<td align="center">
+<br/>190 <br/>
 </td>
-<td width="227">
-<p align="center">6,1</p>
+<td align="center">
+<br/>5,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">400</p>
+<td align="center">
+<br/>405 <br/>
 </td>
-<td width="227">
-<p align="center">8,55</p>
+<td align="center">
+<br/>8,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">500</p>
+<td align="center">
+<br/>505 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">615</p>
+<td align="center">
+<br/>625 <br/>
 </td>
-<td width="227">
-<p align="center">13</p>
+<td align="center">
+<br/>12,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">780</p>
+<td align="center">
+<br/>765 <br/>
 </td>
-<td width="227">
-<p align="center">17</p>
+<td align="center">
+<br/>16 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Besançon</p>
+<td align="center">
+<br/>Station météo de Besançon <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">465</p>
+<td align="center">
+<br/>470 <br/>
 </td>
-<td width="227">
-<p align="center">8</p>
+<td align="center">
+<br/>8,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">185</p>
+<td align="center">
+<br/>175 <br/>
 </td>
-<td width="227">
-<p align="center">5,15</p>
+<td align="center">
+<br/>4,1 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">365</p>
+<td align="center">
+<br/>370 <br/>
 </td>
-<td width="227">
-<p align="center">7,15</p>
+<td align="center">
+<br/>7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">470</p>
+<td align="center">
+<br/>475 <br/>
 </td>
-<td width="227">
-<p align="center">8,85</p>
+<td align="center">
+<br/>8,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">575</p>
+<td align="center">
+<br/>585 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>11 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">715</p>
+<td align="center">
+<br/>700 <br/>
 </td>
-<td width="227">
-<p align="center">14,5</p>
+<td align="center">
+<br/>14 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Biarritz-Anglet</p>
+<td align="center">
+<br/>Station météo de Biarritz-Anglet <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">355</p>
+<td align="center">
+<br/>365 <br/>
 </td>
-<td width="227">
-<p align="center">6,25</p>
+<td align="center">
+<br/>6,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">100</p>
+<td align="center">
+<br/>86 <br/>
 </td>
-<td width="227">
-<p align="center">4,25</p>
+<td align="center">
+<br/>3,25 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">225</p>
+<td align="center">
+<br/>230 <br/>
 </td>
-<td width="227">
-<p align="center">5,35</p>
+<td align="center">
+<br/>5,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">295</p>
+<td align="center">
+<br/>300 <br/>
 </td>
-<td width="227">
-<p align="center">6,55</p>
+<td align="center">
+<br/>6,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">380</p>
+<td align="center">
+<br/>395 <br/>
 </td>
-<td width="227">
-<p align="center">8,4</p>
+<td align="center">
+<br/>8,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">455</p>
+<td align="center">
+<br/>435 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Bonneville</p>
+<td align="center">
+<br/>Station météo de Bonneville <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">420</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">8,35</p>
+<td align="center">
+<br/>8,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">170</p>
+<td align="center">
+<br/>155 <br/>
 </td>
-<td width="227">
-<p align="center">5,6</p>
+<td align="center">
+<br/>4,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">335</p>
+<td align="center">
+<br/>340 <br/>
 </td>
-<td width="227">
-<p align="center">7,75</p>
+<td align="center">
+<br/>7,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">425</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">9,7</p>
+<td align="center">
+<br/>9,65 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">525</p>
+<td align="center">
+<br/>530 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>11,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">655</p>
+<td align="center">
+<br/>645 <br/>
 </td>
-<td width="227">
-<p align="center">15,5</p>
+<td align="center">
+<br/>14,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Bordeaux-Mérignac</p>
+<td align="center">
+<br/>Station météo de Bordeaux-Mérignac <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">480</p>
+<td align="center">
+<br/>490 <br/>
 </td>
-<td width="227">
-<p align="center">8,35</p>
+<td align="center">
+<br/>8,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">170</p>
+<td align="center">
+<br/>155 <br/>
 </td>
-<td width="227">
-<p align="center">5,65</p>
+<td align="center">
+<br/>4,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">350</p>
+<td align="center">
+<br/>360 <br/>
 </td>
-<td width="227">
-<p align="center">7,6</p>
+<td align="center">
+<br/>7,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">450</p>
+<td align="center">
+<br/>460 <br/>
 </td>
-<td width="227">
-<p align="center">9,5</p>
+<td align="center">
+<br/>9,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">565</p>
+<td align="center">
+<br/>585 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">700</p>
+<td align="center">
+<br/>680 <br/>
 </td>
-<td width="227">
-<p align="center">15</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Bourges</p>
+<td align="center">
+<br/>Station météo de Bourges <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">390</p>
+<td align="center">
+<br/>395 <br/>
 </td>
-<td width="227">
-<p align="center">7,75</p>
+<td align="center">
+<br/>7,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">145</p>
+<td align="center">
+<br/>135 <br/>
 </td>
-<td width="227">
-<p align="center">5,05</p>
+<td align="center">
+<br/>4,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">290</p>
+<td align="center">
+<br/>290 <br/>
 </td>
-<td width="227">
-<p align="center">6,95</p>
+<td align="center">
+<br/>6,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">390</p>
+<td align="center">
+<br/>390 <br/>
 </td>
-<td width="227">
-<p align="center">9,55</p>
+<td align="center">
+<br/>9,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">505</p>
+<td align="center">
+<br/>510 <br/>
 </td>
-<td width="227">
-<p align="center">12,5</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">640</p>
+<td align="center">
+<br/>625 <br/>
 </td>
-<td width="227">
-<p align="center">17</p>
+<td align="center">
+<br/>16 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Brest-Guipavas</p>
+<td align="center">
+<br/>Station météo de Brest-Guipavas <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">315</p>
+<td align="center">
+<br/>315 <br/>
 </td>
-<td width="227">
-<p align="center">6</p>
+<td align="center">
+<br/>6,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">110</p>
+<td align="center">
+<br/>97,5 <br/>
 </td>
-<td width="227">
-<p align="center">4,15</p>
+<td align="center">
+<br/>3,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">225</p>
+<td align="center">
+<br/>225 <br/>
 </td>
-<td width="227">
-<p align="center">5,3</p>
+<td align="center">
+<br/>5,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">290</p>
+<td align="center">
+<br/>290 <br/>
 </td>
-<td width="227">
-<p align="center">6,6</p>
+<td align="center">
+<br/>6,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">365</p>
+<td align="center">
+<br/>370 <br/>
 </td>
-<td width="227">
-<p align="center">8,15</p>
+<td align="center">
+<br/>8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">445</p>
+<td align="center">
+<br/>430 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>9,9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Chambéry-Aix</p>
+<td align="center">
+<br/>Station météo de Chambéry-Aix <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">420</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">7,75</p>
+<td align="center">
+<br/>7,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">170</p>
+<td align="center">
+<br/>155 <br/>
 </td>
-<td width="227">
-<p align="center">5,2</p>
+<td align="center">
+<br/>4,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">335</p>
+<td align="center">
+<br/>340 <br/>
 </td>
-<td width="227">
-<p align="center">7,1</p>
+<td align="center">
+<br/>6,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">425</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">8,85</p>
+<td align="center">
+<br/>8,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">525</p>
+<td align="center">
+<br/>530 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">655</p>
+<td align="center">
+<br/>645 <br/>
 </td>
-<td width="227">
-<p align="center">14</p>
+<td align="center">
+<br/>13,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Chartres</p>
+<td align="center">
+<br/>Station météo de Chartres <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">430</p>
+<td align="center">
+<br/>435 <br/>
 </td>
-<td width="227">
-<p align="center">8,3</p>
+<td align="center">
+<br/>8,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">175</p>
+<td align="center">
+<br/>165 <br/>
 </td>
-<td width="227">
-<p align="center">5,55</p>
+<td align="center">
+<br/>4,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">350</p>
+<td align="center">
+<br/>355 <br/>
 </td>
-<td width="227">
-<p align="center">7,65</p>
+<td align="center">
+<br/>7,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">440</p>
+<td align="center">
+<br/>445 <br/>
 </td>
-<td width="227">
-<p align="center">9,6</p>
+<td align="center">
+<br/>9,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">545</p>
+<td align="center">
+<br/>550 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>11,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">685</p>
+<td align="center">
+<br/>670 <br/>
 </td>
-<td width="227">
-<p align="center">15</p>
+<td align="center">
+<br/>14,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Clermont-Ferrand</p>
+<td align="center">
+<br/>Station météo de Clermont-Ferrand <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">445</p>
+<td align="center">
+<br/>450 <br/>
 </td>
-<td width="227">
-<p align="center">8,9</p>
+<td align="center">
+<br/>9,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">175</p>
+<td align="center">
+<br/>165 <br/>
 </td>
-<td width="227">
-<p align="center">5,95</p>
+<td align="center">
+<br/>4,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">355</p>
+<td align="center">
+<br/>355 <br/>
 </td>
-<td width="227">
-<p align="center">8,25</p>
+<td align="center">
+<br/>8,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">445</p>
+<td align="center">
+<br/>450 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">555</p>
+<td align="center">
+<br/>565 <br/>
 </td>
-<td width="227">
-<p align="center">12,5</p>
+<td align="center">
+<br/>12,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">690</p>
+<td align="center">
+<br/>680 <br/>
 </td>
-<td width="227">
-<p align="center">16,5</p>
+<td align="center">
+<br/>15,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Cognac</p>
+<td align="center">
+<br/>Station météo de Cognac <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">320</p>
+<td align="center">
+<br/>320 <br/>
 </td>
-<td width="227">
-<p align="center">7,2</p>
+<td align="center">
+<br/>7,25 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">110</p>
+<td align="center">
+<br/>98 <br/>
 </td>
-<td width="227">
-<p align="center">4,7</p>
+<td align="center">
+<br/>3,65 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">225</p>
+<td align="center">
+<br/>230 <br/>
 </td>
-<td width="227">
-<p align="center">6,35</p>
+<td align="center">
+<br/>6,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">295</p>
+<td align="center">
+<br/>295 <br/>
 </td>
-<td width="227">
-<p align="center">7,85</p>
+<td align="center">
+<br/>7,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">370</p>
+<td align="center">
+<br/>375 <br/>
 </td>
-<td width="227">
-<p align="center">9,85</p>
+<td align="center">
+<br/>9,65 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">450</p>
+<td align="center">
+<br/>435 <br/>
 </td>
-<td width="227">
-<p align="center">13</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Colmar-Houssen</p>
+<td align="center">
+<br/>Station météo de Colmar-Houssen <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">470</p>
+<td align="center">
+<br/>475 <br/>
 </td>
-<td width="227">
-<p align="center">7,55</p>
+<td align="center">
+<br/>7,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">185</p>
+<td align="center">
+<br/>175 <br/>
 </td>
-<td width="227">
-<p align="center">4,85</p>
+<td align="center">
+<br/>3,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">370</p>
+<td align="center">
+<br/>375 <br/>
 </td>
-<td width="227">
-<p align="center">6,7</p>
+<td align="center">
+<br/>6,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">475</p>
+<td align="center">
+<br/>480 <br/>
 </td>
-<td width="227">
-<p align="center">8,3</p>
+<td align="center">
+<br/>8,25 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">580</p>
+<td align="center">
+<br/>590 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">725</p>
+<td align="center">
+<br/>710 <br/>
 </td>
-<td width="227">
-<p align="center">13,5</p>
+<td align="center">
+<br/>13 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Dijon-Longvic</p>
+<td align="center">
+<br/>Station météo de Dijon-Longvic <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">435</p>
+<td align="center">
+<br/>440 <br/>
 </td>
-<td width="227">
-<p align="center">9,05</p>
+<td align="center">
+<br/>9,1 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">180</p>
+<td align="center">
+<br/>165 <br/>
 </td>
-<td width="227">
-<p align="center">6</p>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">355</p>
+<td align="center">
+<br/>355 <br/>
 </td>
-<td width="227">
-<p align="center">8,45</p>
+<td align="center">
+<br/>8,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">445</p>
+<td align="center">
+<br/>450 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">550</p>
+<td align="center">
+<br/>560 <br/>
 </td>
-<td width="227">
-<p align="center">12,5</p>
+<td align="center">
+<br/>12,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">690</p>
+<td align="center">
+<br/>680 <br/>
 </td>
-<td width="227">
-<p align="center">16,5</p>
+<td align="center">
+<br/>16 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Dinard-Pleurtuit</p>
+<td align="center">
+<br/>Station météo de Dinard-Pleurtuit <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">330</p>
+<td align="center">
+<br/>330 <br/>
 </td>
-<td width="227">
-<p align="center">7</p>
+<td align="center">
+<br/>7,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">115</p>
+<td align="center">
+<br/>105 <br/>
 </td>
-<td width="227">
-<p align="center">4,8</p>
+<td align="center">
+<br/>3,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">240</p>
+<td align="center">
+<br/>245 <br/>
 </td>
-<td width="227">
-<p align="center">6,3</p>
+<td align="center">
+<br/>6,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">310</p>
+<td align="center">
+<br/>310 <br/>
 </td>
-<td width="227">
-<p align="center">7,9</p>
+<td align="center">
+<br/>7,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">390</p>
+<td align="center">
+<br/>395 <br/>
 </td>
-<td width="227">
-<p align="center">9,65</p>
+<td align="center">
+<br/>9,45 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">475</p>
+<td align="center">
+<br/>460 <br/>
 </td>
-<td width="227">
-<p align="center">12,5</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo d'Entzheim</p>
+<td align="center">
+<br/>Station météo d'Entzheim <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">465</p>
+<td align="center">
+<br/>470 <br/>
 </td>
-<td width="227">
-<p align="center">8,45</p>
+<td align="center">
+<br/>8,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">185</p>
+<td align="center">
+<br/>175 <br/>
 </td>
-<td width="227">
-<p align="center">5,35</p>
+<td align="center">
+<br/>4,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">370</p>
+<td align="center">
+<br/>370 <br/>
 </td>
-<td width="227">
-<p align="center">7,6</p>
+<td align="center">
+<br/>7,45 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">475</p>
+<td align="center">
+<br/>475 <br/>
 </td>
-<td width="227">
-<p align="center">9,4</p>
+<td align="center">
+<br/>9,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">580</p>
+<td align="center">
+<br/>585 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>11,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">720</p>
+<td align="center">
+<br/>705 <br/>
 </td>
-<td width="227">
-<p align="center">15,5</p>
+<td align="center">
+<br/>14,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Grenoble-Saint-Geoirs</p>
+<td align="center">
+<br/>Station météo de Grenoble-Saint-Geoirs <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">440</p>
+<td align="center">
+<br/>445 <br/>
 </td>
-<td width="227">
-<p align="center">8,05</p>
+<td align="center">
+<br/>8,1 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">170</p>
+<td align="center">
+<br/>160 <br/>
 </td>
-<td width="227">
-<p align="center">5,15</p>
+<td align="center">
+<br/>4,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">340</p>
+<td align="center">
+<br/>345 <br/>
 </td>
-<td width="227">
-<p align="center">7,2</p>
+<td align="center">
+<br/>7,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">440</p>
+<td align="center">
+<br/>445 <br/>
 </td>
-<td width="227">
-<p align="center">8,9</p>
+<td align="center">
+<br/>8,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">540</p>
+<td align="center">
+<br/>550 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>11 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">670</p>
+<td align="center">
+<br/>655 <br/>
 </td>
-<td width="227">
-<p align="center">14,5</p>
+<td align="center">
+<br/>14 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Lille-Lesquin</p>
+<td align="center">
+<br/>Station météo de Lille-Lesquin <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">425</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">8,15</p>
+<td align="center">
+<br/>8,25 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">165</p>
+<td align="center">
+<br/>155 <br/>
 </td>
-<td width="227">
-<p align="center">5,2</p>
+<td align="center">
+<br/>4,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>330 <br/>
 </td>
-<td width="227">
-<p align="center">7,35</p>
+<td align="center">
+<br/>7,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">420</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">9,1</p>
+<td align="center">
+<br/>9,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">515</p>
+<td align="center">
+<br/>525 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>11 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">640</p>
+<td align="center">
+<br/>625 <br/>
 </td>
-<td width="227">
-<p align="center">15</p>
+<td align="center">
+<br/>14 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Luxeuil</p>
+<td align="center">
+<br/>Station météo de Luxeuil <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">495</p>
+<td align="center">
+<br/>500 <br/>
 </td>
-<td width="227">
-<p align="center">8,8</p>
+<td align="center">
+<br/>8,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">200</p>
+<td align="center">
+<br/>190 <br/>
 </td>
-<td width="227">
-<p align="center">5,55</p>
+<td align="center">
+<br/>4,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">395</p>
+<td align="center">
+<br/>400 <br/>
 </td>
-<td width="227">
-<p align="center">7,95</p>
+<td align="center">
+<br/>7,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">510</p>
+<td align="center">
+<br/>515 <br/>
 </td>
-<td width="227">
-<p align="center">9,85</p>
+<td align="center">
+<br/>9,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">620</p>
+<td align="center">
+<br/>630 <br/>
 </td>
-<td width="227">
-<p align="center">12</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">775</p>
+<td align="center">
+<br/>760 <br/>
 </td>
-<td width="227">
-<p align="center">16</p>
+<td align="center">
+<br/>15,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Lyon-Bron</p>
+<td align="center">
+<br/>Station météo de Lyon-Bron <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">405</p>
+<td align="center">
+<br/>410 <br/>
 </td>
-<td width="227">
-<p align="center">7,85</p>
+<td align="center">
+<br/>7,9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">160</p>
+<td align="center">
+<br/>150 <br/>
 </td>
-<td width="227">
-<p align="center">5,3</p>
+<td align="center">
+<br/>4,25 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>325 <br/>
 </td>
-<td width="227">
-<p align="center">7,2</p>
+<td align="center">
+<br/>7,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">410</p>
+<td align="center">
+<br/>415 <br/>
 </td>
-<td width="227">
-<p align="center">9</p>
+<td align="center">
+<br/>9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">505</p>
+<td align="center">
+<br/>515 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">635</p>
+<td align="center">
+<br/>620 <br/>
 </td>
-<td width="227">
-<p align="center">14</p>
+<td align="center">
+<br/>13,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Marignane</p>
+<td align="center">
+<br/>Station météo de Marignane <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">280</p>
+<td align="center">
+<br/>280 <br/>
 </td>
-<td width="227">
-<p align="center">6,45</p>
+<td align="center">
+<br/>6,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">89</p>
+<td align="center">
+<br/>77,5 <br/>
 </td>
-<td width="227">
-<p align="center">4,45</p>
+<td align="center">
+<br/>3,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">190</p>
+<td align="center">
+<br/>190 <br/>
 </td>
-<td width="227">
-<p align="center">5,75</p>
+<td align="center">
+<br/>5,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">245</p>
+<td align="center">
+<br/>245 <br/>
 </td>
-<td width="227">
-<p align="center">7,15</p>
+<td align="center">
+<br/>7,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">310</p>
+<td align="center">
+<br/>320 <br/>
 </td>
-<td width="227">
-<p align="center">8,85</p>
+<td align="center">
+<br/>8,65 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">375</p>
+<td align="center">
+<br/>360 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>11 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Metz-Frescaty</p>
+<td align="center">
+<br/>Station météo de Metz-Frescaty <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">460</p>
+<td align="center">
+<br/>465 <br/>
 </td>
-<td width="227">
-<p align="center">7,6</p>
+<td align="center">
+<br/>7,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">175</p>
+<td align="center">
+<br/>165 <br/>
 </td>
-<td width="227">
-<p align="center">5</p>
+<td align="center">
+<br/>3,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">350</p>
+<td align="center">
+<br/>355 <br/>
 </td>
-<td width="227">
-<p align="center">6,85</p>
+<td align="center">
+<br/>6,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">475</p>
+<td align="center">
+<br/>480 <br/>
 </td>
-<td width="227">
-<p align="center">9,35</p>
+<td align="center">
+<br/>9,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">615</p>
+<td align="center">
+<br/>625 <br/>
 </td>
-<td width="227">
-<p align="center">12</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">790</p>
+<td align="center">
+<br/>780 <br/>
 </td>
-<td width="227">
-<p align="center">16,5</p>
+<td align="center">
+<br/>16 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Montélimar</p>
+<td align="center">
+<br/>Station météo de Montélimar <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">350</p>
+<td align="center">
+<br/>355 <br/>
 </td>
-<td width="227">
-<p align="center">6,5</p>
+<td align="center">
+<br/>6,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">125</p>
+<td align="center">
+<br/>115 <br/>
 </td>
-<td width="227">
-<p align="center">4,3</p>
+<td align="center">
+<br/>3,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">260</p>
+<td align="center">
+<br/>260 <br/>
 </td>
-<td width="227">
-<p align="center">5,7</p>
+<td align="center">
+<br/>5,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">335</p>
+<td align="center">
+<br/>335 <br/>
 </td>
-<td width="227">
-<p align="center">7,05</p>
+<td align="center">
+<br/>7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">415</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">8,9</p>
+<td align="center">
+<br/>8,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">510</p>
+<td align="center">
+<br/>495 <br/>
 </td>
-<td width="227">
-<p align="center">11,5</p>
+<td align="center">
+<br/>11 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Nantes-Bouguenais</p>
+<td align="center">
+<br/>Station météo de Nantes-Bouguenais <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>325 <br/>
 </td>
-<td width="227">
-<p align="center">6,75</p>
+<td align="center">
+<br/>6,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">110</p>
+<td align="center">
+<br/>100 <br/>
 </td>
-<td width="227">
-<p align="center">4,45</p>
+<td align="center">
+<br/>3,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">230</p>
+<td align="center">
+<br/>230 <br/>
 </td>
-<td width="227">
-<p align="center">5,9</p>
+<td align="center">
+<br/>5,8 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">300</p>
+<td align="center">
+<br/>300 <br/>
 </td>
-<td width="227">
-<p align="center">7,3</p>
+<td align="center">
+<br/>7,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">375</p>
+<td align="center">
+<br/>380 <br/>
 </td>
-<td width="227">
-<p align="center">9,2</p>
+<td align="center">
+<br/>9,05 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">460</p>
+<td align="center">
+<br/>440 <br/>
 </td>
-<td width="227">
-<p align="center">12</p>
+<td align="center">
+<br/>11,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Nice</p>
+<td align="center">
+<br/>Station météo de Nice <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">210</p>
+<td align="center">
+<br/>210 <br/>
 </td>
-<td width="227">
-<p align="center">4,65</p>
+<td align="center">
+<br/>4,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">53,5</p>
+<td align="center">
+<br/>41,5 <br/>
 </td>
-<td width="227">
-<p align="center">3,3</p>
+<td align="center">
+<br/>2,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">120</p>
+<td align="center">
+<br/>125 <br/>
 </td>
-<td width="227">
-<p align="center">3,85</p>
+<td align="center">
+<br/>3,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">160</p>
+<td align="center">
+<br/>160 <br/>
 </td>
-<td width="227">
-<p align="center">4,7</p>
+<td align="center">
+<br/>4,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">215</p>
+<td align="center">
+<br/>220 <br/>
 </td>
-<td width="227">
-<p align="center">6,15</p>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">250</p>
+<td align="center">
+<br/>235 <br/>
 </td>
-<td width="227">
-<p align="center">7,95</p>
+<td align="center">
+<br/>7,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Nîmes-Courbessac</p>
+<td align="center">
+<br/>Station météo de Nîmes-Courbessac <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">280</p>
+<td align="center">
+<br/>280 <br/>
 </td>
-<td width="227">
-<p align="center">6,3</p>
+<td align="center">
+<br/>6,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">89,5</p>
+<td align="center">
+<br/>78 <br/>
 </td>
-<td width="227">
-<p align="center">4,2</p>
+<td align="center">
+<br/>3,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">190</p>
+<td align="center">
+<br/>190 <br/>
 </td>
-<td width="227">
-<p align="center">5,5</p>
+<td align="center">
+<br/>5,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">245</p>
+<td align="center">
+<br/>250 <br/>
 </td>
-<td width="227">
-<p align="center">6,75</p>
+<td align="center">
+<br/>6,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">315</p>
+<td align="center">
+<br/>320 <br/>
 </td>
-<td width="227">
-<p align="center">8,55</p>
+<td align="center">
+<br/>8,4 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">380</p>
+<td align="center">
+<br/>360 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Paris-Montsouris</p>
+<td align="center">
+<br/>Station météo de Paris-Montsouris <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">385</p>
+<td align="center">
+<br/>385 <br/>
 </td>
-<td width="227">
-<p align="center">7,5</p>
+<td align="center">
+<br/>7,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">145</p>
+<td align="center">
+<br/>130 <br/>
 </td>
-<td width="227">
-<p align="center">4,85</p>
+<td align="center">
+<br/>3,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">290</p>
+<td align="center">
+<br/>290 <br/>
 </td>
-<td width="227">
-<p align="center">6,65</p>
+<td align="center">
+<br/>6,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">370</p>
+<td align="center">
+<br/>375 <br/>
 </td>
-<td width="227">
-<p align="center">8,2</p>
+<td align="center">
+<br/>8,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">460</p>
+<td align="center">
+<br/>470 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">570</p>
+<td align="center">
+<br/>555 <br/>
 </td>
-<td width="227">
-<p align="center">13,5</p>
+<td align="center">
+<br/>13 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Pau-Uzein</p>
+<td align="center">
+<br/>Station météo de Pau-Uzein <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">470</p>
+<td align="center">
+<br/>480 <br/>
 </td>
-<td width="227">
-<p align="center">7</p>
+<td align="center">
+<br/>7,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">160</p>
+<td align="center">
+<br/>145 <br/>
 </td>
-<td width="227">
-<p align="center">4,65</p>
+<td align="center">
+<br/>3,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">335</p>
+<td align="center">
+<br/>340 <br/>
 </td>
-<td width="227">
-<p align="center">6,05</p>
+<td align="center">
+<br/>6,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">435</p>
+<td align="center">
+<br/>440 <br/>
 </td>
-<td width="227">
-<p align="center">7,5</p>
+<td align="center">
+<br/>7,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">545</p>
+<td align="center">
+<br/>560 <br/>
 </td>
-<td width="227">
-<p align="center">9,5</p>
+<td align="center">
+<br/>9,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">665</p>
+<td align="center">
+<br/>650 <br/>
 </td>
-<td width="227">
-<p align="center">12,5</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Perpignan</p>
+<td align="center">
+<br/>Station météo de Perpignan <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">315</p>
+<td align="center">
+<br/>325 <br/>
 </td>
-<td width="227">
-<p align="center">5,8</p>
+<td align="center">
+<br/>6,15 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">82</p>
+<td align="center">
+<br/>65,5 <br/>
 </td>
-<td width="227">
-<p align="center">4</p>
+<td align="center">
+<br/>3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">185</p>
+<td align="center">
+<br/>190 <br/>
 </td>
-<td width="227">
-<p align="center">4,9</p>
+<td align="center">
+<br/>4,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">245</p>
+<td align="center">
+<br/>250 <br/>
 </td>
-<td width="227">
-<p align="center">6</p>
+<td align="center">
+<br/>6,25 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>340 <br/>
 </td>
-<td width="227">
-<p align="center">7,75</p>
+<td align="center">
+<br/>7,9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">385</p>
+<td align="center">
+<br/>360 <br/>
 </td>
-<td width="227">
-<p align="center">10</p>
+<td align="center">
+<br/>9,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Reims-Courcy</p>
+<td align="center">
+<br/>Station météo de Reims-Courcy <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">430</p>
+<td align="center">
+<br/>435 <br/>
 </td>
-<td width="227">
-<p align="center">8,3</p>
+<td align="center">
+<br/>8,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">165</p>
+<td align="center">
+<br/>150 <br/>
 </td>
-<td width="227">
-<p align="center">5,35</p>
+<td align="center">
+<br/>4,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>325 <br/>
 </td>
-<td width="227">
-<p align="center">7,5</p>
+<td align="center">
+<br/>7,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">435</p>
+<td align="center">
+<br/>440 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">565</p>
+<td align="center">
+<br/>575 <br/>
 </td>
-<td width="227">
-<p align="center">13</p>
+<td align="center">
+<br/>13 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">725</p>
+<td align="center">
+<br/>710 <br/>
 </td>
-<td width="227">
-<p align="center">18,5</p>
+<td align="center">
+<br/>17,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Rouen-Boos</p>
+<td align="center">
+<br/>Station météo de Rouen-Boos <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">400</p>
+<td align="center">
+<br/>405 <br/>
 </td>
-<td width="227">
-<p align="center">7,7</p>
+<td align="center">
+<br/>7,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">150</p>
+<td align="center">
+<br/>140 <br/>
 </td>
-<td width="227">
-<p align="center">4,95</p>
+<td align="center">
+<br/>3,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">305</p>
+<td align="center">
+<br/>305 <br/>
 </td>
-<td width="227">
-<p align="center">6,85</p>
+<td align="center">
+<br/>6,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">390</p>
+<td align="center">
+<br/>395 <br/>
 </td>
-<td width="227">
-<p align="center">8,45</p>
+<td align="center">
+<br/>8,45 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">480</p>
+<td align="center">
+<br/>490 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">595</p>
+<td align="center">
+<br/>580 <br/>
 </td>
-<td width="227">
-<p align="center">14</p>
+<td align="center">
+<br/>13 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Saint-Etienne-Bouthéon</p>
+<td align="center">
+<br/>Station météo de Saint-Etienne-Boutheon <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">420</p>
+<td align="center">
+<br/>425 <br/>
 </td>
-<td width="227">
-<p align="center">8,85</p>
+<td align="center">
+<br/>8,9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">160</p>
+<td align="center">
+<br/>150 <br/>
 </td>
-<td width="227">
-<p align="center">5,6</p>
+<td align="center">
+<br/>4,6 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">325</p>
+<td align="center">
+<br/>325 <br/>
 </td>
-<td width="227">
-<p align="center">8</p>
+<td align="center">
+<br/>7,85 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">415</p>
+<td align="center">
+<br/>420 <br/>
 </td>
-<td width="227">
-<p align="center">9,95</p>
+<td align="center">
+<br/>9,9 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">515</p>
+<td align="center">
+<br/>520 <br/>
 </td>
-<td width="227">
-<p align="center">12,5</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">635</p>
+<td align="center">
+<br/>620 <br/>
 </td>
-<td width="227">
-<p align="center">16</p>
+<td align="center">
+<br/>15,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Toulouse-Blagnac</p>
+<td align="center">
+<br/>Station météo de Toulouse-Blagnac <br/>
 </td>
-<td width="284">
+<td align="center">
 <br/>
+<br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">480</p>
+<td align="center">
+<br/>495 <br/>
 </td>
-<td width="227">
-<p align="center">8,1</p>
+<td align="center">
+<br/>8,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">170</p>
+<td align="center">
+<br/>155 <br/>
 </td>
-<td width="227">
-<p align="center">5,3</p>
+<td align="center">
+<br/>4,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">345</p>
+<td align="center">
+<br/>350 <br/>
 </td>
-<td width="227">
-<p align="center">7,2</p>
+<td align="center">
+<br/>7,3 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">445</p>
+<td align="center">
+<br/>455 <br/>
 </td>
-<td width="227">
-<p align="center">8,85</p>
+<td align="center">
+<br/>9,2 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">560</p>
+<td align="center">
+<br/>580 <br/>
 </td>
-<td width="227">
-<p align="center">11</p>
+<td align="center">
+<br/>11,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">685</p>
+<td align="center">
+<br/>670 <br/>
 </td>
-<td width="227">
-<p align="center">14,5</p>
+<td align="center">
+<br/>14,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Station météo de Tours</p>
+<td align="center">
+<br/>Station météo de Tours <br/>
 </td>
-<td width="284">
+<td align="center">
+<br/>
 <br/>
 </td>
-<td width="227">
+<td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P11</p>
+<td align="center">
+<br/>P11 <br/>
 </td>
-<td width="284">
-<p align="center">93</p>
+<td align="center">
+<br/>94 <br/>
 </td>
-<td width="227">
-<p align="center">2,35</p>
+<td align="center">
+<br/>2,35 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P12</p>
+<td align="center">
+<br/>P12 <br/>
 </td>
-<td width="284">
-<p align="center">380</p>
+<td align="center">
+<br/>385 <br/>
 </td>
-<td width="227">
-<p align="center">7,7</p>
+<td align="center">
+<br/>7,75 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P13</p>
+<td align="center">
+<br/>P13 <br/>
 </td>
-<td width="284">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
-<td width="227">
-<p align="center">0</p>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P14</p>
+<td align="center">
+<br/>P14 <br/>
 </td>
-<td width="284">
-<p align="center">7,65</p>
+<td align="center">
+<br/>18,5 <br/>
 </td>
-<td width="227">
-<p align="center">1,7</p>
+<td align="center">
+<br/>1,55 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P15</p>
+<td align="center">
+<br/>P15 <br/>
 </td>
-<td width="284">
-<p align="center">140</p>
+<td align="center">
+<br/>130 <br/>
 </td>
-<td width="227">
-<p align="center">4,95</p>
+<td align="center">
+<br/>3,95 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P16</p>
+<td align="center">
+<br/>P16 <br/>
 </td>
-<td width="284">
-<p align="center">285</p>
+<td align="center">
+<br/>285 <br/>
 </td>
-<td width="227">
-<p align="center">6,85</p>
+<td align="center">
+<br/>6,7 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P17</p>
+<td align="center">
+<br/>P17 <br/>
 </td>
-<td width="284">
-<p align="center">365</p>
+<td align="center">
+<br/>370 <br/>
 </td>
-<td width="227">
-<p align="center">8,5</p>
+<td align="center">
+<br/>8,45 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P18</p>
+<td align="center">
+<br/>P18 <br/>
 </td>
-<td width="284">
-<p align="center">455</p>
+<td align="center">
+<br/>460 <br/>
 </td>
-<td width="227">
-<p align="center">10,5</p>
+<td align="center">
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">P19</p>
+<td align="center">
+<br/>P19 <br/>
 </td>
-<td width="284">
-<p align="center">560</p>
+<td align="center">
+<br/>545 <br/>
 </td>
-<td width="227">
-<p align="center">14</p>
+<td align="center">
+<br/>13<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
 
 Les valeurs des droits unitaires sont actualisées, en tant que de besoin, annuellement.
 
