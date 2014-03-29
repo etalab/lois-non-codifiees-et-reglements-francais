@@ -8,7 +8,7 @@ I. - Epreuves écrites d'admissibilité
 
 Durée de l'épreuve : trois heures. Coefficient 2.
 
-2. Questions et cas pratiques portant sur l'information bibliographique, sa structure et ses accès. Deux cas pratiques au plus sont donnés en langue étrangère (allemand, anglais, espagnol, italien), et le candidat traite les cas pratiques de la langue de son choix.
+2. Questions et cas pratiques portant sur l'information bibliographique, sa structure et ses accès. Deux de ces cas pratiques sont donnés et traités en langue étrangère : l'un est donné et traité en anglais uniquement ; l'autre est donné et traité en allemand, anglais, espagnol ou italien au choix du candidat qui se détermine le jour de l'épreuve.
 
 Durée de l'épreuve : trois heures. Coefficient 2.
 
