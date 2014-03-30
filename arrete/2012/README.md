@@ -729,7 +729,6 @@
 - [Arrêté du 10 décembre 2012 (AGRE1238257A)](arrete-du-10-decembre-2012-agre1238257a)
 - [Arrêté du 10 décembre 2012 (AGRE1238258A)](arrete-du-10-decembre-2012-agre1238258a)
 - [Arrêté du 10 décembre 2012 (AGRE1238259A)](arrete-du-10-decembre-2012-agre1238259a)
-- [Arrêté du 10 décembre 2012 (DEVR1238788A)](arrete-du-10-decembre-2012-devr1238788a)
 - [Arrêté du 10 décembre 2012 (ETSD1240857A)](arrete-du-10-decembre-2012-etsd1240857a)
 - [Arrêté du 10 décembre 2012 (SPOR1242030A)](arrete-du-10-decembre-2012-spor1242030a)
 - [Arrêté du 10 février 2012 (BCRE1128715A)](arrete-du-10-fevrier-2012-bcre1128715a)
