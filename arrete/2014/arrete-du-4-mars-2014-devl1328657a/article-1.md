@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 bocage de Montsûrs à la forêt de Sillé-le-Guillaume » (zone spéciale de conservation FR 5202007) l'espace délimité sur la carte d'assemblage au 1/70 000 et les six cartes au 1/25 000 ci-jointes, s'étendant dans le département de la Mayenne sur une partie du territoire des communes suivantes : Assé-le-Bérenger, La Bazouge-des-Alleux, Brée, La Chapelle-Rainsouin, Châlons-du-Maine, Deux-Evailles, Gesnes, Montsûrs, Mézangers, Neau, Saint-Christophe-du-Luat, Saint-Céneré, Saint-Georges-sur-Erve, Saint-Ouën-des-Vallons, Sainte-Gemmes-le-Robert, Torcé-Viviers-en-Charnie, Voutré, Evron.

@@ -1,0 +1,3 @@
+# Article 1
+
+Le directeur général de la police nationale, le directeur général de la gendarmerie nationale et la directrice générale des douanes et droits indirects sont autorisés à mettre en œuvre, au sein des centres de coopération policière et douanière, des traitements automatisés de données à caractère personnel ayant pour finalité la gestion et le suivi de l'activité et de la traçabilité des échanges d'informations relatives à la coopération policière et douanière entre les Etats parties à la convention d'application de l'accord de Schengen du 14 juin 1985, conformément aux dispositions de l'article 39 (5°) de cette convention.
