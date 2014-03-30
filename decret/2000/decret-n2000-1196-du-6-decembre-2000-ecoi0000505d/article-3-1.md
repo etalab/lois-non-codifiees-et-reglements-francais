@@ -1,3 +1,3 @@
 # Article 3-1
 
-Les dispositions du présent décret sont applicables à Mayotte.
+Lorsque les conditions fixées par les articles L. 314-1 à L. 314-13 du code de l'énergie sont réunies, les producteurs qui en font la demande bénéficient de l'obligation d'achat d'électricité prévue par l'article L. 314-1 pour les installations de production d'électricité, d'une puissance installée inférieure ou égale à 12 mégawatts, utilisant l'énergie dégagée par la combustion ou l'explosion du gaz de mine, à la condition qu'il s'agisse d'un gaz de récupération et cette récupération se faisant sans intervention autre que celle rendue nécessaire par l'aspiration de ce gaz sur les vides miniers afin de maintenir ceux-ci en dépression.
