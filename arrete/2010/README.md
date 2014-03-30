@@ -1824,7 +1824,6 @@
 - [Arrêté du 21 décembre 2009 (SASS0931113A)](arrete-du-21-decembre-2009-sass0931113a)
 - [Arrêté du 21 décembre 2010 (AGRG1033043A)](arrete-du-21-decembre-2010-agrg1033043a)
 - [Arrêté du 21 décembre 2010 (AGRS1022865A)](arrete-du-21-decembre-2010-agrs1022865a)
-- [Arrêté du 21 décembre 2010 (BCRB1020289A)](arrete-du-21-decembre-2010-bcrb1020289a)
 - [Arrêté du 21 décembre 2010 (BCRB1033386A)](arrete-du-21-decembre-2010-bcrb1033386a)
 - [Arrêté du 21 décembre 2010 (BCRD1031108A)](arrete-du-21-decembre-2010-bcrd1031108a)
 - [Arrêté du 21 décembre 2010 (DEFH1022420A)](arrete-du-21-decembre-2010-defh1022420a)
