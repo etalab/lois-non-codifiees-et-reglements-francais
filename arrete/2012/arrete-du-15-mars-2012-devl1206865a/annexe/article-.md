@@ -1,7 +1,5 @@
 # Article 
 
-A N N E X E
-
 LISTE PAR DÉPARTEMENT DES GRANDS LACS INTÉRIEURS ET LACS DE MONTAGNE POUR LESQUELS PEUT ÊTRE ÉTABLIE UNE RÉGLEMENTATION SPÉCIALE DE LA PÊCHE
 
 Département de l'Ain
@@ -131,6 +129,8 @@ Etangs de Frasne.
 Département du Finistère
 
 Lac de retenue Saint-Michel, à Brennilis
+
+Lac du Drennec, communes de Sizun et Commana
 
 Département de la Haute-Garonne
 

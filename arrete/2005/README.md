@@ -108,7 +108,6 @@
 - [Arrêté du 7 novembre 2005 (INTE0500792A)](arrete-du-7-novembre-2005-inte0500792a)
 - [Arrêté du 7 novembre 2005 (SANS0524098A)](arrete-du-7-novembre-2005-sans0524098a)
 - [Arrêté du 7 octobre 2005 (MENP0501988A)](arrete-du-7-octobre-2005-menp0501988a)
-- [Arrêté du 7 septembre 2005 (AGRA0502034A)](arrete-du-7-septembre-2005-agra0502034a)
 - [Arrêté du 7 septembre 2005 (DEFP0501107A)](arrete-du-7-septembre-2005-defp0501107a)
 - [Arrêté du 8 août 2005 (SANA0522895A)](arrete-du-8-aout-2005-sana0522895a)
 - [Arrêté du 8 avril 2005 (DEVN0540129A)](arrete-du-8-avril-2005-devn0540129a)

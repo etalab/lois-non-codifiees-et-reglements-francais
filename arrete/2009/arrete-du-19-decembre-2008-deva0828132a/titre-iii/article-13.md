@@ -1,8 +1,8 @@
 # Article 13
 
-La direction  gestion des ressources  (DSAC/GR) comprend :
+La direction gestion des ressources (DSAC/GR) comprend :
 
-Le pôle  ressources humaines  (GR/RH) qui :
+Le pôle "ressources humaines" (GR/RH) qui :
 
 ― établit en liaison avec les échelons interrégionaux les effectifs cible de la direction de la sécurité de l'aviation civile, notamment concernant la répartition fonctionnelle et géographique ;
 
@@ -12,11 +12,25 @@ Le pôle  ressources humaines  (GR/RH) qui :
 
 ― assure la gestion individuelle des agents de l'échelon central de la direction de la sécurité de l'aviation civile ;
 
-― élabore et met en œuvre le plan de formation de la direction de la sécurité de l'aviation civile.
-
 Dans ces domaines, il coordonne l'action des directions interrégionales chargées des tâches correspondantes pour leur direction.
 
-Le pôle  finances  (GR/FIN), qui :
+Le pôle "formation et compétences" (GR/FOR), qui :
+
+- élabore et met en œuvre le schéma directeur de la formation de la direction de la sécurité de l'aviation civile ;
+
+- organise la mise en œuvre du plan de formation de la direction de la sécurité de l'aviation civile en liaison avec le secrétariat général et, le cas échéant, avec la direction des services de la navigation aérienne, établit le plan de formation des personnels de l'échelon central ;
+
+- coordonne l'ensemble des activités relatives à l'acquisition et au maintien des compétences des agents de la direction de la sécurité de l'aviation civile en liaison avec les directions techniques et les directions interrégionales ;
+
+- est chargé de la coordination avec l'Ecole nationale de l'aviation civile en vue de l'élaboration et du suivi des objectifs stratégiques de cet établissement public national à caractère administratif dans les domaines intéressant la direction de la sécurité de l'aviation civile ainsi que des échanges relatifs à la définition et aux conditions des engagements conventionnels entre l'Ecole nationale de l'aviation civile et la direction générale de l'aviation civile ;
+
+- est également l'interlocuteur de la direction du transport aérien pour toutes les questions relatives aux formations d'agents de la DSAC relevant de ses domaines de compétences ;
+
+- assure la participation de la DSAC aux instances traitant des questions de formation au sein de la direction générale de l'aviation civile ;
+
+- est chargé de la délivrance et du renouvellement des licences de surveillance et qualifications associées aux agents concernés en liaison avec les directions techniques et les directions interrégionales de la direction de la sécurité de l'aviation civile.
+
+Le pôle "finances" (GR/FIN), qui :
 
 ― assure, en liaison avec le secrétariat général de la DGAC, la préparation en dépenses du budget de la direction de la sécurité de l'aviation civile et établit les documents budgétaires correspondants ;
 

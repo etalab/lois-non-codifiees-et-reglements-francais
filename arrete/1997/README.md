@@ -333,7 +333,6 @@
 - [Arrêté du 11 septembre 1997 (MCCB9700693A)](arrete-du-11-septembre-1997-mccb9700693a)
 - [Arrêté du 12 août 1997 (AGRA9701223A)](arrete-du-12-aout-1997-agra9701223a)
 - [Arrêté du 12 août 1997 (AGRA9701688A)](arrete-du-12-aout-1997-agra9701688a)
-- [Arrêté du 12 août 1997 (AGRA9701689A)](arrete-du-12-aout-1997-agra9701689a)
 - [Arrêté du 12 août 1997 (AGRM9701745A)](arrete-du-12-aout-1997-agrm9701745a)
 - [Arrêté du 12 décembre 1996 (INTC9700073A)](arrete-du-12-decembre-1996-intc9700073a)
 - [Arrêté du 12 décembre 1997 (AGRG9702126A)](arrete-du-12-decembre-1997-agrg9702126a)
