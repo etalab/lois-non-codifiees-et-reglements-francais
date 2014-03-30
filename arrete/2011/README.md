@@ -384,7 +384,6 @@
 - [Arrêté du 6 juin 2011 (AGRT1109085A)](arrete-du-6-juin-2011-agrt1109085a)
 - [Arrêté du 6 juin 2011 (DEVA1114918A)](arrete-du-6-juin-2011-deva1114918a)
 - [Arrêté du 6 juin 2011 (DEVL1114722A)](arrete-du-6-juin-2011-devl1114722a)
-- [Arrêté du 6 juin 2011 (IOCC1111973A)](arrete-du-6-juin-2011-iocc1111973a)
 - [Arrêté du 6 juin 2011 (MCCD1116270A)](arrete-du-6-juin-2011-mccd1116270a)
 - [Arrêté du 6 octobre 2011 (DEVD1126006A)](arrete-du-6-octobre-2011-devd1126006a)
 - [Arrêté du 6 octobre 2011 (DEVK1124039A)](arrete-du-6-octobre-2011-devk1124039a)
