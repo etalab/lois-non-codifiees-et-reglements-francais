@@ -1,0 +1,3 @@
+# Article 8
+
+Lorsque des biocarburants issus des matières premières listées dans le tableau de l'annexe II du présent arrêté entrent en usine exercée de raffinage ou en entrepôt fiscal de stockage, lieux définis au code des douanes (respectivement aux articles 163 et 158 A), éventuellement mélangés à d'autres biocarburants ou incorporés dans du carburant, leur nature et leurs quantités doivent être mentionnées sur le document d'accompagnement ou sur le document administratif unique. Ces quantités sont reprises en entrée de comptabilité matières de biocarburants en usine exercée de raffinage et de comptabilité matières de teneur en biocarburants en entrepôt fiscal de stockage.

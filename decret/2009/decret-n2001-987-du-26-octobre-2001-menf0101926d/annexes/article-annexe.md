@@ -1,24 +1,20 @@
 # Article ANNEXE
 
-A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche :
+A.-Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire à l'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche :
 
-1° Directeur général et directeur d'administration centrale ;
+1° Secrétaire général ;
 
-2° Secrétaire général ;
+2° Directeur général, directeur et délégué d'administration centrale ;
 
 3° Chef du service de l'inspection générale de l'administration de l'éducation nationale et de la recherche et doyen de l'inspection générale de l'éducation nationale ;
 
 4° Médiateur de l'éducation nationale ;
 
-5° Délégué à la communication ;
+5° Chef de service ;
 
-6° Chef de service et adjoint à un directeur général ou à un directeur ou à un délégué, directeur de l'Ecole supérieure de l'éducation nationale, de l'enseignement supérieur et de la recherche et directeur du pôle de contractualisation et de financement des établissements de formation et de recherche ;
+6° Sous-directeur ;
 
-7° Sous-directeur ;
-
-8° (Supprimé)
-
-9° Expert de haut niveau ou directeur de projet.
+7° Expert de haut niveau ou directeur de projet.
 
 B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indiciaire dans les services déconcentrés du ministère chargé de l'éducation nationale :
 

@@ -1,0 +1,3 @@
+# Article 2
+
+Le titulaire de la spécialité ou de la mention « parachute biplace (tandem) » du brevet d'Etat d'éducateur sportif option « parachutisme » ou du brevet professionnel de la jeunesse de l'éducation populaire et du sport spécialité « parachutisme » transmet, chaque année impaire, au directeur technique national du parachutisme un certificat médical de non-contre-indication à la pratique et à l'enseignement du tandem, établi à l'appui d'un électrocardiogramme d'effort interprété, datant de moins de trois mois, fourni par l'éducateur sportif. Le certificat est délivré selon le modèle disponible sur le site internet de la Fédération française de parachutisme.

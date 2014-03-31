@@ -2,9 +2,9 @@
 
 Une nouvelle bonification indiciaire, prise en compte et soumise à cotisation pour le calcul de la pension de retraite, peut être versée mensuellement, dans la limite des crédits disponibles :
 
-I.-                  A l'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche :
+I.-A l'administration centrale des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche :
 
-a) Aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux titulaires d'emplois de direction nommés dans les conditions prévues par le décret du 19 septembre 1955 susvisé, aux responsables de mission et aux directeurs de projet exerçant l'une des fonctions mentionnées au A de l'annexe du présent décret ;
+a) Aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux titulaires d'emplois de direction nommés dans les conditions prévues par le décret n° 2012-32 du 9 janvier 2012 relatif aux emplois de chef de service et de sous-directeur des administrations de l'Etat, aux responsables de mission et aux directeurs de projet exerçant l'une des fonctions mentionnées au A de l'annexe du présent décret ;
 
 b) Aux membres des inspections générales exerçant l'une des fonctions mentionnées au A de l'annexe au présent décret.
 
