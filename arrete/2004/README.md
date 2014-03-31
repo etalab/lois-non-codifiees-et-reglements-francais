@@ -583,7 +583,6 @@
 - [Arrêté du 23 mai 2005 (PRMX0508441A)](arrete-du-23-mai-2005-prmx0508441a)
 - [Arrêté du 24 août 2004 (EQUP0400841A)](arrete-du-24-aout-2004-equp0400841a)
 - [Arrêté du 24 août 2004 (MENA0401645A)](arrete-du-24-aout-2004-mena0401645a)
-- [Arrêté du 24 août 2004 (MJSK0470184A)](arrete-du-24-aout-2004-mjsk0470184a)
 - [Arrêté du 24 décembre 2003 (ECOC0300122A)](arrete-du-24-decembre-2003-ecoc0300122a)
 - [Arrêté du 24 décembre 2004 (LOGU0412571A)](arrete-du-24-decembre-2004-logu0412571a)
 - [Arrêté du 24 février 2004 (DEFP0400198A)](arrete-du-24-fevrier-2004-defp0400198a)
