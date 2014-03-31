@@ -1,3 +1,0 @@
-# Article 9 ter
-
-Le service des grands projets immobiliers assure, conjointement avec les opérateurs concernés, le pilotage des opérations immobilières d'intérêt national. Il assure, le cas échéant, en liaison avec la direction générale pour l'enseignement supérieur et l'insertion professionnelle, la direction générale pour la recherche et l'innovation et la direction des affaires financières, la programmation et la gestion des crédits qui y sont dédiés. En tant que centre de ressources et d'expertise sur les contrats de partenariat public-privé, il assure une mission transversale de soutien et d'accompagnement des opérateurs. Il organise, le cas échéant, le transfert du patrimoine aux établissements d'enseignement supérieur, en liaison avec France Domaine.
