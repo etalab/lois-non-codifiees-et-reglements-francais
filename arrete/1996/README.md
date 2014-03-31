@@ -613,7 +613,6 @@
 - [Arrêté du 20 août 1996 (MAEA9620417A)](arrete-du-20-aout-1996-maea9620417a)
 - [Arrêté du 20 décembre 1995 (ECOT9540292A)](arrete-du-20-decembre-1995-ecot9540292a)
 - [Arrêté du 20 décembre 1995 (ENVE9540434A)](arrete-du-20-decembre-1995-enve9540434a)
-- [Arrêté du 20 décembre 1996 (ECOD9650003A)](arrete-du-20-decembre-1996-ecod9650003a)
 - [Arrêté du 20 décembre 1996 (ECOT9620053A)](arrete-du-20-decembre-1996-ecot9620053a)
 - [Arrêté du 20 décembre 1996 (ENVE9650459A)](arrete-du-20-decembre-1996-enve9650459a)
 - [Arrêté du 20 décembre 1996 (INTE9600554A)](arrete-du-20-decembre-1996-inte9600554a)
