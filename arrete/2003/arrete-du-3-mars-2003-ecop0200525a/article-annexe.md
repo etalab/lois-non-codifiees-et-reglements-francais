@@ -13,20 +13,19 @@ Président d'une section
 </p>
 </td>
 <td>
-<p align="center"> NOMBRE D'EMPLOIS</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center"> NOMBRE DE POINTS PAR EMPLOI</p>
+<p align="center">NOMBRE DE POINTS PAR EMPLOI</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Président d'une section<br/>
+<p>Président d'une section<br/>
 </p>
 </td>
 <td align="center">
-<br/>47<br/>
+<br/>49<br/>
 </td>
 <td align="center">
 <br/>80<br/>
@@ -41,10 +40,10 @@ Procureur financier dirigeant le ministère public
 <tbody>
 <tr>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center"> NOMBRE D'EMPLOIS</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
 <p align="center">NOMBRE DE POINTS PAR EMPLOI</p>
@@ -52,8 +51,7 @@ Procureur financier dirigeant le ministère public
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Procureur financier dirigeant le ministère public<br/>
+<p>Procureur financier dirigeant le ministère public<br/>
 </p>
 </td>
 <td align="center">

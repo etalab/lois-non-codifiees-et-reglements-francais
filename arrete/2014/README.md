@@ -376,6 +376,7 @@
 - [Arrêté du 19 mars 2014 (ETLL1401089A)](arrete-du-19-mars-2014-etll1401089a)
 - [Arrêté du 19 mars 2014 (JUSC1405041A)](arrete-du-19-mars-2014-jusc1405041a)
 - [Arrêté du 19 mars 2014 (MCCB1405229A)](arrete-du-19-mars-2014-mccb1405229a)
+- [Arrêté du 20 décembre 1996 (ECOD9650003A)](arrete-du-20-decembre-1996-ecod9650003a)
 - [Arrêté du 20 décembre 2013 (AFSS1331707A)](arrete-du-20-decembre-2013-afss1331707a)
 - [Arrêté du 20 décembre 2013 (AFSS1331756A)](arrete-du-20-decembre-2013-afss1331756a)
 - [Arrêté du 20 décembre 2013 (BUDB1326031A)](arrete-du-20-decembre-2013-budb1326031a)

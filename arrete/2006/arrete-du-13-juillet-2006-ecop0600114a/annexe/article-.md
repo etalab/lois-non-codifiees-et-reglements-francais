@@ -323,7 +323,7 @@ FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATIO
 <p>Président d'une chambre régionale des comptes comprenant au moins trois sections</p>
 </td>
 <td width="142">
-<p align="center">8</p>
+<p align="center">9</p>
 </td>
 <td width="194">
 <p align="center">150</p>
@@ -334,7 +334,7 @@ FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATIO
 <p>Président d'une chambre régionale ou territoriale des comptes comprenant moins de trois sections</p>
 </td>
 <td width="142">
-<p align="center">10</p>
+<p align="center">9</p>
 </td>
 <td width="194">
 <p align="center">140</p>
