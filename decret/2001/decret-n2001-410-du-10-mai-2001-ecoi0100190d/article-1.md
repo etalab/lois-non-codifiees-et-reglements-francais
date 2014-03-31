@@ -1,6 +1,6 @@
 # Article 1
 
-I.-Une personne demandant à bénéficier de l'obligation d'achat en application du décret du 6 décembre 2000 susvisé doit produire auprès du préfet (direction régionale de l'industrie, de la recherche et de l'environnement) un dossier qui comporte les éléments suivants :
+I.-Une personne demandant à bénéficier de l'obligation d'achat en application du décret du 6 décembre 2000 susvisé doit produire auprès du préfet ( direction régionale de l'environnement, de l'aménagement et du logement ) un dossier qui comporte les éléments suivants :
 
 1° S'il s'agit d'une personne physique, ses nom, prénom et domicile ou, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire du dossier et, lorsque le dossier est déposé par un mandataire, la preuve d'un mandat exprès autorisant le mandataire à agir pour le compte du demandeur ;
 
@@ -16,13 +16,13 @@ I.-Une personne demandant à bénéficier de l'obligation d'achat en application
 
 I bis.-Pour l'application de l'article 10 de la loi du 10 février 2000 susvisée et du décret du 6 décembre 2000 susvisé, deux machines électrogènes ne peuvent être considérées comme installées sur deux sites distincts si la distance qui les sépare est inférieure à la distance suivante :
 
-a) Dans le cas d'installations mentionnées aux 2° et 5° de l'article 2 du décret du 6 décembre 2000 susvisé : 1 500 mètres ;
+a) Dans le cas d'installations mentionnées aux 2° et 5° de l'article 2 et à l'article 3-1 du décret du 6 décembre 2000 susvisé : 1 500 mètres ;
 
 b) Dans le cas d'installations mentionnées aux 3°, 4° et 6° de l'article 2 et à l'article 3 du décret du 6 décembre 2000 susvisé : 500 mètres ;
 
 c) Dans le cas d'installations mentionnées au 1° de l'article 2 du décret du 6 décembre 2000 susvisé : 250 mètres.
 
-II.-Une personne demandant à bénéficier de l'obligation d'achat en application du deuxième alinéa (1°) de l'article 10 de la loi du 10 février 2000 susvisée, lorsque l'installation vise l'alimentation d'un réseau de chaleur, doit adresser au préfet (direction régionale de l'industrie, de la recherche et de l'environnement) un dossier qui comporte les éléments mentionnés aux 1°, 2°, 3° et 4° du I ci-dessus, ainsi que les éléments établissant que la puissance installée de l'installation est en rapport avec la taille du réseau de chaleur existant ou à créer qui sera alimenté par cette installation.
+II.-Une personne demandant à bénéficier de l'obligation d'achat en application du deuxième alinéa (1°) de l'article 10 de la loi du 10 février 2000 susvisée, lorsque l'installation vise l'alimentation d'un réseau de chaleur, doit adresser au préfet ( direction régionale de l'environnement, de l'aménagement et du logement ) un dossier qui comporte les éléments mentionnés aux 1°, 2°, 3° et 4° du I ci-dessus, ainsi que les éléments établissant que la puissance installée de l'installation est en rapport avec la taille du réseau de chaleur existant ou à créer qui sera alimenté par cette installation.
 
 II bis.-Une personne demandant à bénéficier de l'obligation d'achat en application du 3° de l'article 10 de la loi du 10 février 2000 susvisée doit produire auprès du préfet un dossier qui comporte les éléments mentionnés aux 1°, 2°, 3° et 4° du I ci-dessus. Lorsque le bénéfice de l'obligation d'achat est subordonné à l'implantation en zone de développement de l'éolien, doivent également être fournis le permis de construire de l'installation lorsqu'il est nécessaire et, s'il y a lieu, les autres autorisations requises en application du code de l'environnement ainsi que les éléments permettant d'apprécier que l'installation est implantée dans le périmètre d'une zone de développement de l'éolien.
 
