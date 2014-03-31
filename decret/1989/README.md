@@ -308,7 +308,6 @@
 - [Décret n°89-272 du 26 avril 1989 (MCCB8900049D)](decret-n89-272-du-26-avril-1989-mccb8900049d)
 - [Décret n°89-323 du 26 avril 1989 (MERR8900022D)](decret-n89-323-du-26-avril-1989-merr8900022d)
 - [Décret n°89-46 du 26 janvier 1989 (TEFF8903068D)](decret-n89-46-du-26-janvier-1989-teff8903068d)
-- [Décret n°89-518 du 26 juillet 1989 (MCCT8900419D)](decret-n89-518-du-26-juillet-1989-mcct8900419d)
 - [Décret n°89-792 du 26 octobre 1989 (MENK8970096D)](decret-n89-792-du-26-octobre-1989-menk8970096d)
 - [Décret n°90-949 du 26 octobre 1990 (SPSH9002061D)](decret-n90-949-du-26-octobre-1990-spsh9002061d)
 - [Décret n°89-346 du 26 mai 1989 (ACVP8920017D)](decret-n89-346-du-26-mai-1989-acvp8920017d)
