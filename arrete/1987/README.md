@@ -165,7 +165,6 @@
 - [Arrêté du 9 septembre 1987 (AGRS8701615A)](arrete-du-9-septembre-1987-agrs8701615a)
 - [Arrêté du 9 septembre 1987 (ASEP8701315A)](arrete-du-9-septembre-1987-asep8701315a)
 - [Arrêté du 9 septembre 1987 (BUDR8703109A)](arrete-du-9-septembre-1987-budr8703109a)
-- [Arrêté du 9 septembre 1987 (ENVP8700258A)](arrete-du-9-septembre-1987-envp8700258a)
 - [Arrêté du 10 août 1989 (AGRA8901053A)](arrete-du-10-aout-1989-agra8901053a)
 - [Arrêté du 10 août 1989 (AGRA8901054A)](arrete-du-10-aout-1989-agra8901054a)
 - [Arrêté du 10 août 1989 (AGRA8901055A)](arrete-du-10-aout-1989-agra8901055a)
