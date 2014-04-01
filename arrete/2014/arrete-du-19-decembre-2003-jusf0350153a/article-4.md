@@ -1,0 +1,3 @@
+# Article 4
+
+Les dépenses des services mentionnés à l'article 1er qui délivrent des prestations d'action éducative dans le cadre d'un placement familial sont prises en charge, dans les conditions prévues par le décret du 22 octobre 2003 susvisé, sous la forme d'un prix de journée. Les services perçoivent un prix de journée pour chaque personne placée et présente, dans la limite de la durée fixée par l'autorité judiciaire. Pour le calcul et le versement des prix de journée, les absences occasionnelles des personnes placées sont prises en compte selon les modalités prévues par l'arrêté du 4 juillet 1966 susvisé.

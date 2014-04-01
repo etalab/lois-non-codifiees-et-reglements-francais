@@ -6,6 +6,7 @@
 - [LOI n°2013-713 du 5 août 2013 (INTX1318406L)](loi-n2013-713-du-5-aout-2013-intx1318406l)
 - [LOI n°2014-1 du 2 janvier 2014 (EFIX1320236L)](loi-n2014-1-du-2-janvier-2014-efix1320236l)
 - [LOI n°2014-126 du 14 février 2014 (INTX1302982L)](loi-n2014-126-du-14-fevrier-2014-intx1302982l)
+- [LOI n°2014-172 du 21 février 2014 (INTX1240667L)](loi-n2014-172-du-21-fevrier-2014-intx1240667l)
 - [LOI n°2014-173 du 21 février 2014 (VILX1315170L)](loi-n2014-173-du-21-fevrier-2014-vilx1315170l)
 - [LOI n°2014-201 du 24 février 2014 (AFSX1315898L)](loi-n2014-201-du-24-fevrier-2014-afsx1315898l)
 - [LOI n°2014-237 du 27 février 2014 (EFIX1402357L)](loi-n2014-237-du-27-fevrier-2014-efix1402357l)
