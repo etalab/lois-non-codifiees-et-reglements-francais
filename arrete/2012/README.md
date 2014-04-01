@@ -1909,7 +1909,6 @@
 - [Arrêté du 21 décembre 2012 (BUDW1237678A)](arrete-du-21-decembre-2012-budw1237678a)
 - [Arrêté du 21 décembre 2012 (BUDW1237681A)](arrete-du-21-decembre-2012-budw1237681a)
 - [Arrêté du 21 décembre 2012 (DEFH1241372A)](arrete-du-21-decembre-2012-defh1241372a)
-- [Arrêté du 21 décembre 2012 (DEVA1241221A)](arrete-du-21-decembre-2012-deva1241221a)
 - [Arrêté du 21 décembre 2012 (DEVR1239991A)](arrete-du-21-decembre-2012-devr1239991a)
 - [Arrêté du 21 décembre 2012 (DEVR1242932A)](arrete-du-21-decembre-2012-devr1242932a)
 - [Arrêté du 21 décembre 2012 (ETLL1240794A)](arrete-du-21-decembre-2012-etll1240794a)
