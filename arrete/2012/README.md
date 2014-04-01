@@ -497,7 +497,6 @@
 - [Arrêté du 7 février 2012 (ESRS1202470A)](arrete-du-7-fevrier-2012-esrs1202470a)
 - [Arrêté du 7 février 2012 (IOCD1203117A)](arrete-du-7-fevrier-2012-iocd1203117a)
 - [Arrêté du 7 février 2012 (JUSB1203248A)](arrete-du-7-fevrier-2012-jusb1203248a)
-- [Arrêté du 7 juillet 2004 (EQUP0400818A)](arrete-du-7-juillet-2004-equp0400818a)
 - [Arrêté du 7 juin 2011 (DEFH1116106A)](arrete-du-7-juin-2011-defh1116106a)
 - [Arrêté du 7 juin 2011 (DEVC1115639A)](arrete-du-7-juin-2011-devc1115639a)
 - [Arrêté du 7 juin 2012 (AFSH1225414A)](arrete-du-7-juin-2012-afsh1225414a)
