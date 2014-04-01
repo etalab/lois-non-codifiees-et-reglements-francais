@@ -351,6 +351,7 @@
 - [Arrêté du 19 juin 1987 (ECOC8710068A)](arrete-du-19-juin-1987-ecoc8710068a)
 - [Arrêté du 19 juin 1987 (INDT8700178A)](arrete-du-19-juin-1987-indt8700178a)
 - [Arrêté du 19 mars 1987 (ASEE8703232A)](arrete-du-19-mars-1987-asee8703232a)
+- [Arrêté du 19 mars 1987 (INTB8700105A)](arrete-du-19-mars-1987-intb8700105a)
 - [Arrêté du 19 mai 1987 (ASEE8703366A)](arrete-du-19-mai-1987-asee8703366a)
 - [Arrêté du 19 mai 1987 (EXTE8700212A)](arrete-du-19-mai-1987-exte8700212a)
 - [Arrêté du 19 mai 1987 (TRST8700105A)](arrete-du-19-mai-1987-trst8700105a)
