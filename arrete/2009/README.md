@@ -880,7 +880,6 @@
 - [Arrêté du 12 janvier 2009 (SJSH0830561A)](arrete-du-12-janvier-2009-sjsh0830561a)
 - [Arrêté du 12 janvier 2009 (SJSP0901086A)](arrete-du-12-janvier-2009-sjsp0901086a)
 - [Arrêté du 12 juillet 2010 (MEND0916956A)](arrete-du-12-juillet-2010-mend0916956a)
-- [Arrêté du 12 juin 2009 (AGRG0913489A)](arrete-du-12-juin-2009-agrg0913489a)
 - [Arrêté du 12 juin 2009 (AGRP0910110A)](arrete-du-12-juin-2009-agrp0910110a)
 - [Arrêté du 12 juin 2009 (AGRT0912592A)](arrete-du-12-juin-2009-agrt0912592a)
 - [Arrêté du 12 juin 2009 (BCFB0913423A)](arrete-du-12-juin-2009-bcfb0913423a)
