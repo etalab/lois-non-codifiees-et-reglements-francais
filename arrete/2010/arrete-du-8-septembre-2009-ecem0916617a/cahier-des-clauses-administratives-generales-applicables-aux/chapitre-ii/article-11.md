@@ -20,7 +20,7 @@ Commentaires :
 
 L'expression nature d'ouvrage est entendue au sens défini à l'article 17. 1 ci-après.
 
-Dans le cas d'une formule mixte faisant intervenir des prix forfaitaires et des prix unitaires, les prescriptions relatives à chacun de ces modes sont applicables pour le calcul de la somme due au titulaire.
+11.2.3. Dans le cas d'une formule mixte faisant intervenir des prix forfaitaires et des prix unitaires, les prescriptions relatives à chacun de ces modes sont applicables pour le calcul de la somme due au titulaire.
 
 11. 3. Approvisionnements :
 

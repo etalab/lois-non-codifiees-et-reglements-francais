@@ -84,6 +84,6 @@ Dans le cadre de la mise en demeure, le représentant du pouvoir adjudicateur in
 
 Lorsque le représentant du pouvoir adjudicateur résilie le marché pour motif d'intérêt général, le titulaire a droit à une indemnité de résiliation, obtenue en appliquant au montant initial hors taxes du marché, diminué du montant hors taxes non révisé des prestations reçues, un pourcentage fixé par les documents particuliers du marché ou, à défaut, de 5 %.
 
-Le titulaire a droit, en outre, à être indemnisé de la part des frais et investissements, éventuellement engagés pour le marché et strictement nécessaires à son exécution, qui n'aurait pas été prise en compte dans le montant des prestations payées. Il lui incombe d'apporter toutes les justifications nécessaires à la fixation de cette partie de l'indemnité, dans un délai de quinze jours après la notification de la résiliation du marché.
+Le titulaire a droit, en outre, à être indemnisé de la part des frais et investissements, éventuellement engagés pour le marché et strictement nécessaires à son exécution, qui n'aurait pas été prise en compte dans le montant des prestations payées. Il lui incombe d'apporter toutes les justifications nécessaires à la fixation de cette partie de l'indemnité.
 
 Le titulaire doit, à cet effet, présenter une demande écrite, dûment justifiée, dans le délai de deux mois compté à partir de la notification de la décision de résiliation.

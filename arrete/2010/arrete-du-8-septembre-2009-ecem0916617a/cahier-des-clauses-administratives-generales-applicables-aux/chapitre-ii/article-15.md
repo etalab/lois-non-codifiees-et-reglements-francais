@@ -2,7 +2,7 @@
 
 Augmentation du montant des travaux
 
-15.1. Le montant des travaux s'entend du montant des travaux évalués, au moment de la décision d'augmentation ou de diminution du montant des travaux, à partir des prix initiaux du marché définis à l'article 13.1.1, en tenant compte éventuellement des prix nouveaux, fixés en application de l'article 14.3 ou devenus définitifs en application de l'article 14.4.
+15.1. Le montant des travaux s'entend du montant des travaux évalués, au moment de la décision d'augmentation ou de diminution du montant des travaux, à partir des prix initiaux du marché définis à l'article 13.1.1, en tenant compte éventuellement des prix nouveaux, fixés en application de l'article 14.3 ou devenus définitifs en application de l'article 14.5.
 
 Le montant contractuel des travaux est le montant des travaux résultant des prévisions du marché, c'est-à-dire du marché initial éventuellement modifié par les avenants intervenus.
 

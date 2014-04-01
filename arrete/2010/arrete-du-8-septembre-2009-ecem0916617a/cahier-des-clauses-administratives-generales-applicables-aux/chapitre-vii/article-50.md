@@ -10,11 +10,11 @@ Le représentant du pouvoir adjudicateur et le titulaire s'efforceront de régle
 
 Dans son mémoire en réclamation, le titulaire expose les motifs de son différend, indique, le cas échéant, les montants de ses réclamations et fournit les justifications nécessaires correspondant à ces montants. Il transmet son mémoire au représentant du pouvoir adjudicateur et en adresse copie au maître d'œuvre.
 
-Si la réclamation porte sur le décompte général du marché, ce mémoire est transmis dans le délai de quarante-cinq jours à compter de la notification du décompte général.
+Si la réclamation porte sur le décompte général du marché, ce mémoire est transmis dans le délai de trente jours à compter de la notification du décompte général.
 
 Le mémoire reprend, sous peine de forclusion, les réclamations formulées antérieurement à la notification du décompte général et qui n'ont pas fait l'objet d'un règlement définitif.
 
-50.1.2. Après avis du maître d'œuvre, le représentant du pouvoir adjudicateur notifie au titulaire sa décision motivée dans un délai de quarante-cinq jours à compter de la date de réception du mémoire en réclamation.
+50.1.2. Après avis du maître d'œuvre, le représentant du pouvoir adjudicateur notifie au titulaire sa décision motivée dans un délai de trente jours à compter de la date de réception du mémoire en réclamation.
 
 50.1.3. L'absence de notification d'une décision dans ce délai équivaut à un rejet de la demande du titulaire.
 
