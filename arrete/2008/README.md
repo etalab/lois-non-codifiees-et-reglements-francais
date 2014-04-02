@@ -1275,7 +1275,6 @@
 - [Arrêté du 1er décembre 2008 (IMIC0827548A)](arrete-du-1er-decembre-2008-imic0827548a)
 - [Arrêté du 1er décembre 2008 (IOCA0828733A)](arrete-du-1er-decembre-2008-ioca0828733a)
 - [Arrêté du 1er février 2008 (AGRS0801369A)](arrete-du-1er-fevrier-2008-agrs0801369a)
-- [Arrêté du 1er février 2008 (BCFW0805670A)](arrete-du-1er-fevrier-2008-bcfw0805670a)
 - [Arrêté du 1er février 2008 (IOCA0800741A)](arrete-du-1er-fevrier-2008-ioca0800741a)
 - [Arrêté du 1er février 2008 (MCCH0802849A)](arrete-du-1er-fevrier-2008-mcch0802849a)
 - [Arrêté du 1er février 2008 (MCCH0802856A)](arrete-du-1er-fevrier-2008-mcch0802856a)
