@@ -8,7 +8,7 @@ Les personnels nommés dans cet emploi assurent les fonctions suivantes :
 
 3° Chargé des fonctions de directeur de cabinet en préfecture ;
 
-4° Chef de bureau, adjoint au chef de bureau ou fonction comportant des responsabilités similaires dans les services de l'administration centrale relevant du ministre de l'intérieur, du ministre chargé de l'outre-mer et du ministre chargé de l'immigration, dans les structures de formation de la police nationale, à la préfecture de police et à la préfecture de la région d'Ile-de-France, préfecture de Paris et dans les établissements publics administratifs relevant du ministre de l'intérieur ou du ministre chargé de l'immigration ;
+4° Chef de bureau, adjoint au chef de bureau ou fonction comportant des responsabilités similaires dans les services de l'administration centrale relevant du ministre de l'intérieur et du ministre chargé de l'outre-mer, dans les structures de formation de la police nationale, à la préfecture de police et à la préfecture de la région d'Ile-de-France, préfecture de Paris et dans les établissements publics administratifs relevant du ministre de l'intérieur ;
 
 5° Chef de service administratif et technique de la police nationale ;
 

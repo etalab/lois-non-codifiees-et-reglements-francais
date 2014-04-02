@@ -1,3 +1,3 @@
 # Article 8
 
-La liste des postes vacants de conseiller d'administration fait l'objet d'une publication au niveau national sur le site internet du ministère chargé de la fonction publique.
+Sauf en cas de renouvellement ou de prolongation exceptionnelle de détachement du fonctionnaire occupant un emploi de conseiller d'administration, la nomination dans un tel emploi est précédée de la publication d'un avis de vacance par voie électronique sur le service de la communication publique en ligne du ministre chargé de la fonction publique. Dans un délai de trente jours à compter de la publication de la vacance, les candidatures à l'emploi intéressé sont transmises au ministre ou à l'autorité dont relève l'emploi.
