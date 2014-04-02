@@ -117,7 +117,6 @@
 - [Décret n°82-904 du 20 octobre 1982](decret-n82-904-du-20-octobre-1982)
 - [Décret n°82-1089 du 21 décembre 1982](decret-n82-1089-du-21-decembre-1982)
 - [Décret n°82-355 du 21 avril 1982](decret-n82-355-du-21-avril-1982)
-- [Décret n°82-358 du 21 avril 1982](decret-n82-358-du-21-avril-1982)
 - [Décret n°82-628 du 21 juillet 1982](decret-n82-628-du-21-juillet-1982)
 - [Décret n°82-629 du 21 juillet 1982](decret-n82-629-du-21-juillet-1982)
 - [Décret n°82-630 du 21 juillet 1982](decret-n82-630-du-21-juillet-1982)
