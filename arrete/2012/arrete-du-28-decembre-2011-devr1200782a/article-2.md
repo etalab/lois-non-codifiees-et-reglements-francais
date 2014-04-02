@@ -462,9 +462,44 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">7,76</p>
 </td>
 </tr>
+<tr>
+<td align="center" valign="top">
+<p align="center">11</p>
+</td>
+<td align="center" valign="top">
+<p align="center">1er octobre 2013 -<br/>31 décembre 2013 </p>
+</td>
+<td align="center" valign="top">0,020 </td>
+<td align="center" valign="top">0,044 </td>
+<td align="center" valign="top">29,10 </td>
+<td align="center" valign="top">supprimé</td>
+<td align="center" valign="top">supprimé</td>
+<td align="center" valign="top">supprimé</td>
+<td align="center" valign="top">14,54 </td>
+<td align="center" valign="top">13,81 </td>
+<td align="center" valign="top">7,55 </td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<p align="center">12</p>
+</td>
+<td align="center" valign="top">1er janvier 2014 -<br/>31 mars 2014</td>
+<td align="center" valign="top">0,020 </td>
+<td align="center" valign="top">0</td>
+<td align="center" valign="top">28,51 </td>
+<td align="center" valign="top">supprimé</td>
+<td align="center" valign="top">supprimé</td>
+<td align="center" valign="top">supprimé</td>
+<td align="center" valign="top">14,54 </td>
+<td align="center" valign="top">13,81 </td>
+<td align="center" valign="top">7,36</td>
+</tr>
 </tbody>
 </table>
 </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left">
 <br/>
 </div>
