@@ -1,5 +1,5 @@
 # Article 1
 
-Les grands ensembles et les quartiers d'habitat dégradés mentionnés au 3 de l'article 42 modifié de la loi du 4 février 1995 susvisée sont ceux figurant dans la liste annexée au présent décret. Les zones concernées sont délimitées par un trait de couleur rouge sur les plans au 1 / 25 000 annexés au présent décret (1).
+Les grands ensembles et les quartiers d'habitat dégradés mentionnés au 3 de l'article 42 modifié de la loi du 4 février 1995 susvisée sont ceux figurant dans la liste annexée au présent décret. Les zones concernées sont délimitées par un trait de couleur rouge sur les plans au 1/25 000 annexés au présent décret (1).
 
-(1) Ces plans pourront être consultés à la         secrétariat général du comité interministériel des villes, 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine, et auprès des préfectures concernées.
+(1) Ces plans pourront être consultés au Commissariat général à l'égalité des territoires, 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine, et auprès des préfectures concernées.

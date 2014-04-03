@@ -2,4 +2,4 @@
 
 Liste des zones de redynamisation urbaine des communes de France métropolitaine.
 
-Les documents relatifs aux délimitations rue par rue des quartiers figurant dans cette liste peuvent être consultés à la         secrétariat général du comité interministériel des villes, 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine Cedex, auprès des préfectures et des directions des services fiscaux des départements concernés et auprès des mairies des communes concernées (Le tableau de cette liste n'est pas reproduit).
+Les documents relatifs aux délimitations rue par rue des quartiers figurant dans cette liste peuvent être consultés à la      Commissariat général à l'égalité des territoires, 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine Cedex, auprès des préfectures et des directions des services fiscaux des départements concernés et auprès des mairies des communes concernées (Le tableau de cette liste n'est pas reproduit).

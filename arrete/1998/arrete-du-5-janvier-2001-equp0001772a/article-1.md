@@ -1,6 +1,6 @@
 # Article 1
 
-L'échelonnement indiciaire applicable à l'emploi de         secrétaire général du comité interministériel des villes est fixé comme suit :
+L'échelonnement indiciaire applicable à l'emploi de      commissaire général délégué à l'égalité des territoires est fixé comme suit :
 
 <table>
 <tbody>

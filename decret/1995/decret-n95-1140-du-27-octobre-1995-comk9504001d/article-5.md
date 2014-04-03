@@ -22,6 +22,6 @@ Elle comprend, en outre :
 
 -le directeur du budget ou son représentant ;
 
--le secrétaire général du comité interministériel des villes ou son représentant.
+-le      commissaire général délégué à l'égalité des territoires ou son représentant.
 
-Le directeur, le        contrôleur budgétaire et l'agent comptable de la caisse nationale de l'Organisation autonome nationale de l'industrie et du commerce assistent avec voix consultative aux séances de la commission. Le président peut, en outre, appeler à y participer toute personne dont il juge la présence utile compte tenu de l'ordre du jour.
+Le directeur, le contrôleur budgétaire et l'agent comptable de la caisse nationale de l'Organisation autonome nationale de l'industrie et du commerce assistent avec voix consultative aux séances de la commission. Le président peut, en outre, appeler à y participer toute personne dont il juge la présence utile compte tenu de l'ordre du jour.

@@ -2,9 +2,9 @@
 
 Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président. La convocation est de droit lorsqu'elle est demandée par la moitié au moins des membres du conseil d'administration.
 
-Le préfet de la région Ile-de-France, le préfet du département des Yvelines, le secrétaire général du groupe central des grandes opérations d'urbanisme et le secrétaire général du comité interministériel des villes, ou leurs représentants, assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le préfet de la région Ile-de-France, le préfet du département des Yvelines, le secrétaire général du groupe central des grandes opérations d'urbanisme et le      commissaire général délégué à l'égalité des territoires, ou leurs représentants, assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
-Le directeur régional de l'équipement, le directeur départemental de l'équipement, le        contrôleur budgétaire et l'agent comptable ont accès aux séances du conseil d'administration.
+Le directeur régional de l'équipement, le directeur départemental de l'équipement, le contrôleur budgétaire et l'agent comptable ont accès aux séances du conseil d'administration.
 
 Les procès-verbaux et délibérations leur sont adressés.
 
