@@ -6,7 +6,7 @@ La sous-direction de l'innovation, de la compétitivité et du développement de
 
 En coordination avec les administrations et organismes concernés, il propose et met en œuvre toutes mesures visant à favoriser la recherche et l'innovation des entreprises, les transferts et la valorisation de la recherche publique en faveur des entreprises ainsi que des démarches collectives d'innovation.
 
-Il exerce la tutelle d'OSEO, en liaison avec la        direction générale du Trésor et le ministère chargé de la recherche, et prépare, pour le compte de la direction générale, les conseils d'administration de l'Agence nationale de la recherche. Il propose et met en œuvre des mesures fiscales ou financières d'appui à l'innovation des entreprises et à la diffusion de l'innovation.
+Il exerce la tutelle d'OSEO, en liaison avec la direction générale du Trésor et le ministère chargé de la recherche, et prépare, pour le compte de la direction générale, les conseils d'administration de l'Agence nationale de la recherche. Il propose et met en œuvre des mesures fiscales ou financières d'appui à l'innovation des entreprises et à la diffusion de l'innovation.
 
 Il coordonne la prospective sur l'évolution des technologies-clés et des formes de management en entreprise et appuie les expérimentations en vue de leur diffusion dans les entreprises. Il veille à la diffusion des technologies dans les entreprises. Il assure le pilotage du réseau des pôles d'innovation pour l'artisanat et les petites entreprises, en liaison avec l'Institut supérieur des métiers.
 
@@ -16,7 +16,7 @@ Il participe à l'élaboration de la politique nationale de recherche et veille 
 
 Pour le compte du ministère, il propose et met en œuvre les orientations de la politique de soutien au développement des pôles de compétitivité.
 
-En liaison avec la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale, il assure le pilotage interministériel de cette politique, qu'il anime et met en œuvre.
+En liaison avec le Commissariat général à l'égalité des territoires, il assure le pilotage interministériel de cette politique, qu'il anime et met en œuvre.
 
 3° Le bureau de la compétitivité et du développement des entreprises :
 

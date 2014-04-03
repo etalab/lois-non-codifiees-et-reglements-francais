@@ -14,13 +14,13 @@ Ce comité, chargé d'assurer la coordination de l'application des décisions du
 
 -le directeur du budget ou son représentant ;
 
--le        directeur général du Trésor ou son représentant ;
+-le directeur général du Trésor ou son représentant ;
 
 -le directeur national d'interventions domaniales ou son représentant ;
 
 -le responsable de la mission interministérielle chargée de la valorisation du patrimoine immobilier de l'Etat ou son représentant ;
 
--le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
+-le             commissaire général à l'égalité des territoires  ou son représentant ;
 
 -le directeur général des collectivités locales ou son représentant ;
 

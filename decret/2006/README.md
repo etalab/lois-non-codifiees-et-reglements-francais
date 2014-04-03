@@ -27,6 +27,7 @@
 - [Décret n°2006-313 du 10 mars 2006 (DEFD0600178D)](decret-n2006-313-du-10-mars-2006-defd0600178d)
 - [Décret n°2007-842 du 11 mai 2007 (SANH0721622D)](decret-n2007-842-du-11-mai-2007-sanh0721622d)
 - [Décret n°2006-1139 du 12 septembre 2006 (ECOT0637137D)](decret-n2006-1139-du-12-septembre-2006-ecot0637137d)
+- [Décret n°2006-429 du 12 avril 2006 (INTR0600060D)](decret-n2006-429-du-12-avril-2006-intr0600060d)
 - [Décret n°2005-1555 du 13 décembre 2005 (SOCO0511976D)](decret-n2005-1555-du-13-decembre-2005-soco0511976d)
 - [Décret n°2006-1140 du 13 septembre 2006 (EQUU0601555D)](decret-n2006-1140-du-13-septembre-2006-equu0601555d)
 - [Décret n°2006-1141 du 13 septembre 2006 (EQUU0601556D)](decret-n2006-1141-du-13-septembre-2006-equu0601556d)

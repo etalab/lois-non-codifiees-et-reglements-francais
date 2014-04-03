@@ -24,7 +24,7 @@ a) Dix-sept membres de droit représentant l'administration :
 
 ― le directeur général de l'Institut national de la statistique et des études économiques ;
 
-― le        directeur général du Trésor ;
+― le directeur général du Trésor ;
 
 ― le directeur général des finances publiques ;
 
@@ -34,7 +34,7 @@ a) Dix-sept membres de droit représentant l'administration :
 
 ― le directeur général des collectivités locales ;
 
-― le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
+― le             commissaire général à l'égalité des territoires  ;
 
 ― le directeur général des statistiques de la Banque de France,
 

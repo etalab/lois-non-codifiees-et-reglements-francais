@@ -1,6 +1,6 @@
 # Article 1
 
-Le comité d'orientation du                 centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CERTU) mentionné à l'article 6 du décret du 9 février 1994 susvisé comprend quarante-sept membres :
+Le comité d'orientation du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CERTU) mentionné à l'article 6 du décret du 9 février 1994 susvisé comprend quarante-sept membres :
 
 -le président, élu local ;
 
@@ -26,7 +26,7 @@ Neuf membres de droit :
 
 -la déléguée à la sécurité et à la circulation routières ;
 
--le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale.
+-le commissaire général à l'égalité des territoires.
 
 Huit représentants de l'Etat :
 

@@ -4,7 +4,7 @@ L'établissement est administré par un conseil d'administration composé de dou
 
 1. Six représentants de l'Etat :
 
-a) Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
+a) Le             commissaire général à l'égalité des territoires  ou son représentant ;
 
 b) Le directeur du budget ou son représentant ;
 
@@ -28,4 +28,4 @@ Les fonctions de membre du conseil d'administration ne sont pas rémunérées. E
 
 Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président, qui fixe l'ordre du jour de la réunion et dirige les débats. Les délibérations sont prises à la majorité des membres présents. En cas de partage des voix, celle du président est prépondérante.
 
-Le        contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux délibérations du conseil d'administration.
+Le contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux délibérations du conseil d'administration.
