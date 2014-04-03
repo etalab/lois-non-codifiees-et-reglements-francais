@@ -1,3 +1,0 @@
-# TITRE Ier :   DES ÉQUIVALENCES ADMISES DES TITRES ET DIPLÔMÉS
-
-- [Article 1](article-1.md)

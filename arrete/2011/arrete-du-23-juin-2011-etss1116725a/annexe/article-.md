@@ -274,9 +274,9 @@ Date d'effet et paiement de la pension de retraite complémentaire
 
 La date d'effet de la pension de retraite complémentaire est fixée, au plus tôt, au premier jour du trimestre civil qui suit la demande écrite de l'adhérent et à la condition qu'il ait adressé à la caisse l'ensemble des pièces justificatives dans les trois mois suivants sa demande. A défaut, cette date d'effet pourra être modifiée par la caisse.
 
-La pension de retraite complémentaire est versée trimestriellement, à terme échu et jusqu'au jour du décès.
+La pension de retraite complémentaire est versée mensuellement, à terme échu et jusqu'au jour du décès.
 
-Les arrérages se rapportant au trimestre au cours duquel survient le décès de l'adhérent sont versés à son conjoint survivant non séparé de corps en vertu d'un jugement ou d'un arrêt définitif ou, à défaut, entre les mains du notaire chargé du règlement de la succession.
+Les arrérages se rapportant au mois au cours duquel survient le décès de l'adhérent sont versés à son conjoint survivant non séparé de corps en vertu d'un jugement ou d'un arrêt définitif ou, à défaut, entre les mains du notaire chargé du règlement de la succession.
 
 La liquidation de la pension de retraite complémentaire ne peut, en aucun cas, être antérieure à la date de réception de la demande de l'adhérent et ce quelle que soit la cause du retard apportée au dépôt de celle-ci.
 
@@ -348,11 +348,11 @@ Article 24
 
 Date d'effet de la pension de réversion
 
-En cas de décès de l'adhérent titulaire d'une pension de retraite complémentaire, la pension de réversion prend effet au premier jour du trimestre civil suivant le décès de l'adhérent si la demande est déposée dans le délai d'un an suivant le décès.
+En cas de décès de l'adhérent titulaire d'une pension de retraite complémentaire, la pension de réversion prend effet au premier jour du mois civil suivant le décès de l'adhérent si la demande est déposée dans le délai d'un an suivant le décès.
 
 Si la demande est déposée après l'expiration du délai d'un an mentionné à l'alinéa précédent, la pension de réversion prend effet au premier jour du mois suivant la date de réception de la demande.
 
-Si l'adhérent n'était pas titulaire d'une pension de retraite complémentaire, la pension de réversion prend effet au premier jour du trimestre civil au cours duquel survient le décès de l'adhérent si la demande est déposée dans le délai d'un an suivant le décès.
+Si l'adhérent n'était pas titulaire d'une pension de retraite complémentaire, la pension de réversion prend effet au premier jour du mois civil au cours duquel survient le décès de l'adhérent si la demande est déposée dans le délai d'un an suivant le décès.
 
 Si la demande est déposée après l'expiration du délai d'un an mentionné à l'alinéa précédent, la pension de réversion prend effet au premier jour du mois suivant la date de réception de la demande.
 
@@ -360,7 +360,7 @@ Dans tous les cas, le bénéficiaire de la pension de réversion doit adresser, 
 
 La liquidation de la pension de réversion ne peut, en aucun cas, être antérieure à la date de réception de la demande du bénéficiaire et ce quelle que soit la cause du retard apportée au dépôt de celle-ci.
 
-La pension de réversion est versée trimestriellement, à terme échu et jusqu'au jour du décès.
+La pension de réversion est versée mensuellement, à terme échu et jusqu'au jour du décès.
 
 Article 25
 
@@ -371,6 +371,8 @@ Lorsque, au décès de l'adhérent, il existe un conjoint survivant ainsi qu'un 
 Ce partage est opéré lors de la liquidation des droits du premier d'entre eux qui en fait la demande.
 
 Au décès de l'un des bénéficiaires, sa part accroît celle de l'autre ou, s'il y a lieu, des autres.
+
+La date d'effet de la révision de la pension de réversion intervient le premier jour du mois civil suivant la date de réception par la caisse de la notification du décès.
 
 Article 26
 
