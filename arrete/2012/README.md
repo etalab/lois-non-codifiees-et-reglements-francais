@@ -2435,7 +2435,6 @@
 - [Arrêté du 26 décembre 2012 (INTJ1239768A)](arrete-du-26-decembre-2012-intj1239768a)
 - [Arrêté du 26 décembre 2012 (MCCK1241907A)](arrete-du-26-decembre-2012-mcck1241907a)
 - [Arrêté du 26 janvier 2012 (AGRT1133028A)](arrete-du-26-janvier-2012-agrt1133028a)
-- [Arrêté du 26 janvier 2012 (BCRB1200922A)](arrete-du-26-janvier-2012-bcrb1200922a)
 - [Arrêté du 26 janvier 2012 (ETSH1203179A)](arrete-du-26-janvier-2012-etsh1203179a)
 - [Arrêté du 26 janvier 2012 (ETSP1202517A)](arrete-du-26-janvier-2012-etsp1202517a)
 - [Arrêté du 26 janvier 2012 (INDR1203198A)](arrete-du-26-janvier-2012-indr1203198a)
