@@ -86,7 +86,7 @@ Le secrétaire général du ministère chargé de la culture, ou son représenta
 
 Le directeur de l'accueil, de l'intégration et de la citoyenneté, ou son représentant ;
 
-Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale, ou son représentant ;
+Le commissaire général à l'égalité des territoires, ou son représentant ;
 
 7° Au titre des opérateurs publics :
 

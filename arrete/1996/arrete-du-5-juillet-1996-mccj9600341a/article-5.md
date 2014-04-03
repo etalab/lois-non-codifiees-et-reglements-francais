@@ -12,7 +12,7 @@ c) Le directeur général de la création artistique ou son représentant ;
 
 d) Le chef du service de l'inspection générale des affaires culturelles ou son représentant ;
 
-e) Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
+e) Le             commissaire général à l'égalité des territoires  ou son représentant ;
 
 f) Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
