@@ -12,7 +12,7 @@ d) 8 avril 2015 : annexe V en tant qu'elle concerne les membres d'équipage de c
 
 e) 8 avril 2015 : annexes VI et VII en tant qu'elles concernent les organismes de formation qui ne dispensent des formations que dans le cadre de l'octroi de licences de pilote d'aéronef léger, de licences de pilote privé avion, de licences de pilote de ballon ou de licences de pilote de planeur, sauf lorsqu'elles s'appliquent à la licence de pilote d'aéronef léger (avion) ;
 
-f) 8 avril 2014 : dispositions du règlement (UE) n° 1178/2011 en tant qu'elles sont applicables aux pilotes détenant une licence délivrée par un Etat tiers à l'Union européenne et effectuant des opérations non commerciales sur les aéronefs visés à l'article 4 (1) (b ou c) du règlement (CE) n° 216/2008 ;
+f) 8 avril 2015 : dispositions du règlement (UE) n° 1178/2011 en tant qu'elles sont applicables aux pilotes détenant une licence délivrée par un Etat tiers à l'Union européenne et effectuant des opérations non commerciales sur les aéronefs visés à l'article 4 (1) (b ou c) du règlement (CE) n° 216/2008 ;
 
 g) 8 avril 2015 : section 3 (Exigences spécifiques LAPL) de la partie B (Exigences applicables aux certificats médicaux des pilotes) de l'annexe IV, sauf en tant qu'elle s'applique à la licence de pilote d'aéronef léger (avion) ;
 
