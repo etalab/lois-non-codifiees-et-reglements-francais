@@ -1,18 +1,16 @@
 # Article Annexe 1
 
-Dispositions générales :
+A. ― Dispositions générales :
 
 Sans préjudice du respect des conditions d'application prévues par la présente annexe, les utilisateurs des produits mentionnés respectent les préconisations faites par les services chargés de la protection des végétaux dans le département.
 
-Les traitements insecticides prévus contre Rhynchophorus ferrugineus aux articles 11 et 12 du présent arrêté sont réalisés conformément aux prescriptions de l'arrêté du 5 juin 2009 relatif à l'utilisation de traitements dans le cadre de la lutte obligatoire contre certains organismes nuisibles. Les inflorescences de tout palmier traité par pulvérisation foliaire ou traitement du sol en utilisant des produits phytopharmaceutiques à base d'imidaclopride, à l'exception des traitements effectués en serre, doivent être coupées et éliminées à leur émergence dans l'année de traitement.
+A l'exception des traitements effectués en cultures protégées non accessibles aux pollinisateurs, les inflorescences de tout palmier traité par pulvérisation foliaire ou traitement du sol avec des préparations insecticides à base d'imidaclopride ou en injection par des préparations insecticides à base de benzoate d'émamectine doivent être coupées et éliminées durant le traitement et à leur émergence durant l'année qui suit le traitement.
 
-Traitements préventifs des palmiers en plantation :
+L'application des produits phytopharmaceutiques par un prestataire de services est subordonnée à la détention d'un agrément dans le respect des articles L. 254-2 et suivants du code rural et de la pêche maritime
 
-Les traitements sont réalisés par pulvérisation des parties aériennes des palmiers.
+B. ― Traitements préventifs des palmiers en plantation :
 
-Le programme de traitement porte sur la période de vol des insectes adultes.
-
-Deux stratégies de traitement peuvent êtres mises en œuvre :
+Une des trois stratégies de traitements suivantes doit être mise en œuvre : deux stratégies de traitement par pulvérisation des parties aériennes des palmiers (stratégies n° 1 et n° 2) ainsi qu'une stratégie de traitement par injection dans le stipe du palmier (stratégie n° 3). Ces programmes de traitement portent sur la période de vol des insectes adultes :
 
 Stratégie 1
 
@@ -29,6 +27,10 @@ b) La période estivale : du 1er juillet au 31 août.
 c) La période automnale : du 1er septembre au 15 novembre.
 
 5 applications d'une préparation de nématodes entomopathogènes espacées de 21 jours doivent être réalisées sur cette période.
+
+Les traitements chimiques sont réalisés en utilisant des produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
+
+Les traitements biologiques sont réalisés avec une préparation à base de nématodes entomopathogènes, Steinernema carpocapsae, à une dose de 180 millions de formes juvéniles/ hl d'eau au minimum. La préparation devra être appliquée conformément aux recommandations du distributeur. Il convient notamment d'éviter leur utilisation en période chaude et sèche.
 
 Stratégie 2
 
@@ -48,20 +50,18 @@ c) La période automnale : du 1er septembre au 15 novembre.
 
 Les traitements chimiques sont réalisés en utilisant des produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
 
-L'application des produits phytopharmaceutiques à base d'imidaclopride par un prestataire de services est subordonnée à la détention d'un agrément dans le respect des articles L. 254-2 et suivants du code rural et de la pêche maritime.
+Les traitements biologiques sont réalisés avec une préparation à base de nématodes entomopathogènes, Steinernema carpocapsae, à une dose de 180 millions de formes juvéniles/ hl d'eau au minimum. La préparation devra être appliquée conformément aux recommandations du distributeur. Il convient notamment d'éviter leur utilisation en période chaude et sèche.
 
-Les traitements biologiques sont réalisés avec une préparation à base de nématodes entomopathogènes, Steinernema carpocapsae, à une dose de 180 millions de formes juvéniles / hl d'eau au minimum. La préparation devra être appliquée conformément aux recommandations du distributeur. Il convient notamment d'éviter leur utilisation en période chaude et sèche.
+Stratégie 3
 
-Traitements préventifs des palmiers en conteneurs dans des lieux de production, de stockage ou de vente de palmiers :
+Traitement à l'aide d'un produit phytopharmaceutique insecticide injectable dans le stipe du palmier à base de benzoate d'émamectine autorisée pour l'usage palmier d'ornement en injection sur charançon rouge du palmier selon les conditions d'utilisation suivantes : le traitement est réalisé une fois par an en période printanière du 1er mars au 30 juin. L'injection est réalisée via 2 trous opposés et décalés en hauteur, d'une profondeur allant de 15 à 40 cm de manière à atteindre, si possible, le centre du stipe. Dans chacun de ces trous sont injectés 25 ml de produit pur. Ces trous sont réalisés dans le stipe du palmier généralement à hauteur d'homme sauf pour les petits sujets pour lesquels la distance entre les points d'injection et la base de la couronne ne doit pas être inférieure à 50 cm.
+
+C. ― Traitements préventifs des palmiers en conteneurs dans des lieux de production, de stockage ou de vente de palmiers :
 
 Les traitements sont réalisés par traitement du sol en utilisant des produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
 
-L'application des produits phytopharmaceutiques à base d'imidaclopride par un prestataire de services est subordonnée à la détention d'un agrément dans le respect des articles L. 254-2 et suivants du code rural et de la pêche maritime.
+D. ― Traitements des palmiers ayant fait l'objet d'une intervention d'éradication par destruction de la partie infestée du végétal :
 
-Traitements des palmiers ayant fait l'objet d'une intervention d'éradication par destruction de la partie infestée du végétal :
+Les parties blessées du végétal font l'objet, immédiatement après l'intervention de destruction de la partie infestée, de l'application par pulvérisation des parties aériennes de produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009 ou par injection d'un produit phytopharmaceutique dans le stipe du palmier à base de benzoate d'émamectine homologuée pour l'usage palmier d'ornement en injection sur charançon rouge du palmier selon les conditions d'utilisation suivante : le traitement est réalisé une fois par an en période printanière du 1er mars au 30 juin. L'injection est réalisée via 2 trous opposés et décalés en hauteur, d'une profondeur allant de 15 à 40 cm de manière à atteindre, si possible, le centre du stipe. Dans chacun de ces trous sont injectés 25 ml de produit pur. Ces trous sont réalisés dans le stipe du palmier généralement à hauteur d'homme sauf pour les petits sujets pour lesquels la distance entre les points d'injection et la base de la couronne ne doit pas être inférieure à 50 cm.
 
-Les parties blessées du végétal font l'objet, immédiatement après l'intervention de destruction de la partie infestée, de l'application par pulvérisation des parties aériennes de produits phytopharmaceutiques à base d'imidaclopride conformément aux prescriptions de l'arrêté du 5 juin 2009.
-
-Par ailleurs, un produit phytopharmaceutique à propriété fongicide est appliqué immédiatement après intervention, renouvelé deux fois. Ces traitements sont réalisés par l'application d'une préparation homologuée pour l'usage Arbres et arbustes d'ornement ― Traitement des parties aériennes ― Maladies diverses, à partir de mancozèbe et de myclobutanil aux doses homologuées.
-
-L'application des produits phytopharmaceutiques par un prestataire de services est subordonnée à la détention d'un agrément dans le respect de l'article L. 254-2 et suivants du code rural et de la pêche maritime.
+Par ailleurs, une préparation fongicide est appliquée immédiatement après intervention, renouvelée deux fois. Ces traitements sont réalisés par l'application d'une préparation autorisée pour l'usage Arbres et arbustes d'ornement ― traitement des parties aériennes ― maladies diverses, à partir de mancozèbe et de myclobutanil aux doses homologuées.

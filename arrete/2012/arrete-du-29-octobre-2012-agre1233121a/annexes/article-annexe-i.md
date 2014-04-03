@@ -4,75 +4,75 @@ LISTE DES DIPLÔMES, TITRES ET CERTIFICATS ENREGISTRÉS AU RÉPERTOIRE NATIONAL 
 
 1. Diplômes
 
-Baccalauréat professionnel spécialité conduite et gestion de l'exploitation agricole .
+Baccalauréat professionnel spécialité conduite et gestion de l'exploitation agricole.
 
-Baccalauréat professionnel spécialité conduite et gestion de l'entreprise hippique .
+Baccalauréat professionnel spécialité conduite et gestion de l'entreprise hippique.
 
-Baccalauréat professionnel gestion et conduite d'un élevage canin et félin .
+Baccalauréat professionnel gestion et conduite d'un élevage canin et félin.
 
-Baccalauréat professionnel conduite et gestion d'une entreprise du secteur canin et félin .
+Baccalauréat professionnel conduite et gestion d'une entreprise du secteur canin et félin.
 
-Baccalauréat professionnel spécialité travaux paysagers .
+Baccalauréat professionnel spécialité travaux paysagers.
 
-Baccalauréat professionnel aménagements paysagers .
+Baccalauréat professionnel aménagements paysagers.
 
-Baccalauréat professionnel gestion et conduite des chantiers forestiers .
+Baccalauréat professionnel gestion et conduite des chantiers forestiers.
 
-Baccalauréat professionnel forêt .
+Baccalauréat professionnel forêt.
 
-Baccalauréat professionnel productions aquacoles .
+Baccalauréat professionnel productions aquacoles.
 
-Baccalauréat professionnel productions horticoles .
+Baccalauréat professionnel productions horticoles.
 
-Baccalauréat professionnel spécialité agroéquipement .
+Baccalauréat professionnel spécialité agroéquipement.
 
-Baccalauréat technologique, série sciences et technologies de l'agronomie et de l'environnement .
+Baccalauréat technologique, série sciences et technologies de l'agronomie et de l'environnement.
 
-Baccalauréat technologique, série sciences et technologies de l'agronomie et du vivant .
+Baccalauréat technologique, série sciences et technologies de l'agronomie et du vivant.
 
-Baccalauréat série D' sciences et techniques agronomiques .
+Baccalauréat série D'sciences et techniques agronomiques.
 
 Brevet de technicien agricole.
 
-Brevet professionnel, option responsable d'exploitation agricole .
+Brevet professionnel, option responsable d'exploitation agricole.
 
-Brevet professionnel option responsable d'entreprise hippique .
+Brevet professionnel option responsable d'entreprise hippique.
 
-Brevet professionnel option productions horticoles .
+Brevet professionnel option productions horticoles.
 
-Brevet professionnel option responsable d'atelier de productions horticoles .
+Brevet professionnel option responsable d'atelier de productions horticoles.
 
 Brevet professionnel option aménagements paysagers
 
-Brevet professionnel option travaux paysagers .
+Brevet professionnel option travaux paysagers.
 
-Brevet professionnel option travaux forestiers .
+Brevet professionnel option travaux forestiers.
 
-Brevet professionnel option responsable de chantiers forestiers .
+Brevet professionnel option responsable de chantiers forestiers.
 
-Brevet professionnel option agroéquipements .
+Brevet professionnel option agroéquipements.
 
-Brevet professionnel option agroéquipement, conduite et maintenance des matériels .
+Brevet professionnel option agroéquipement, conduite et maintenance des matériels.
 
-Brevet professionnel option responsable d'exploitation aquacole maritime-continentale .
+Brevet professionnel option responsable d'exploitation aquacole maritime-continentale.
 
 Brevet de technicien supérieur agricole.
 
 Brevet de technicien supérieur agroéquipement délivré par le ministère chargé de l'éducation nationale.
 
-Diplôme universitaire de technologie génie biologique , option agronomie .
+Diplôme universitaire de technologie génie biologique, option agronomie.
 
-Diplôme universitaire de technologie de biologie appliquée, option agronomie .
+Diplôme universitaire de technologie de biologie appliquée, option agronomie.
 
-Diplôme national d'œnologue intégrant le module intitulé : fonctionnement, diagnostic et direction de l'exploitation vitivinicole . (L'obtention de ce module devra faire l'objet soit d'une mention spéciale sur le diplôme lui-même, soit d'une attestation jointe.)
+Diplôme national d'œnologue intégrant le module intitulé : fonctionnement, diagnostic et direction de l'exploitation vitivinicole. (L'obtention de ce module devra faire l'objet soit d'une mention spéciale sur le diplôme lui-même, soit d'une attestation jointe.)
 
 Diplôme de docteur vétérinaire.
 
 Diplôme national d'œnologue délivré à compter de l'année 2009.
 
-Licence professionnelle agriculture et développement durable en milieu tropical et insulaire .
+Licence professionnelle agriculture et développement durable en milieu tropical et insulaire.
 
-Licence professionnelle management et gestion des entreprises de la filière cheval .
+Licence professionnelle management et gestion des entreprises de la filière cheval.
 
 Licence professionnelle management et développement économique de l'entreprise agricole délivrée par l'institut universitaire de l'Aisne.
 
@@ -86,7 +86,7 @@ Licence professionnelle viticulture raisonnée et certification environnementale
 
 Licence professionnelle agriculture raisonnée et certification environnementale délivrée par SupAgro Montpellier.
 
-Master production végétale et industrie agroalimentaire , délivré par l'université Picardie Jules-Verne d'Amiens.
+Master production végétale et industrie agroalimentaire, délivré par l'université Picardie Jules-Verne d'Amiens.
 
 Master en viticulture, œnologie, économie, gestion viti-vinicole délivré par SupAgro Montpellier.
 
@@ -100,59 +100,59 @@ Les diplômes d'ingénieurs délivrés par des écoles sous leur ancienne ou nou
 <tbody>
 <tr>
 <td>
-<p align="center"> ANCIENNE DÉNOMINATION</p>
+<p align="center">ANCIENNE DÉNOMINATION </p>
 </td>
 <td colspan="6">
-<p align="center"> NOUVELLE DÉNOMINATION</p>
+<p align="center">NOUVELLE DÉNOMINATION </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">L'Institut national agronomique de Paris-Grignon<br/>L'Ecole nationale du génie rural, des eaux et des forêts<br/>
+<p align="left">L'Institut national agronomique de Paris-Grignon <br/>L'Ecole nationale du génie rural, des eaux et des forêts <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">L'Institut des sciences et industries du vivant et de l'environnement (AgroParisTech)<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">L'Ecole nationale supérieure agronomique de Montpellier<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Le Centre international d'études supérieures en sciences agronomiques (Montpellier SupAgro)<br/>
+<p align="left">L'Institut des sciences et industries du vivant et de l'environnement (AgroParisTech) <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">L'Etablissement national d'enseignement supérieur agronomique de Dijon<br/>L'Ecole nationale d'ingénieurs des travaux agricoles de Dijon<br/>L'Institut national de promotion supérieure agricole de Dijon <br/>
+<p align="left">L'Ecole nationale supérieure agronomique de Montpellier <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">L'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Agrosup Dijon)<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">L'Ecole nationale supérieure agronomique de Rennes<br/>L'Institut national supérieur des formations agroalimentaires de Rennes<br/>L'Ecole nationale supérieure d'horticulture et d'aménagement du paysage de l'Institut national d'horticulture d'Angers<br/>L'Ecole nationale d'ingénieurs des travaux de l'horticulture et du paysage d'Angers<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">L'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agrocampus Ouest)<br/>
+<p align="left">Le Centre international d'études supérieures en sciences agronomiques (Montpellier SupAgro) <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">L'Ecole supérieure d'agriculture de Purpan<br/>
+<p align="left">L'Etablissement national d'enseignement supérieur agronomique de Dijon <br/>L'Ecole nationale d'ingénieurs des travaux agricoles de Dijon <br/>L'Institut national de promotion supérieure agricole de Dijon <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">L'Ecole d'ingénieurs de Purpan<br/>
+<p align="left">L'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Agrosup Dijon) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">L'Ecole nationale supérieure agronomique de Rennes <br/>L'Institut national supérieur des formations agroalimentaires de Rennes <br/>L'Ecole nationale supérieure d'horticulture et d'aménagement du paysage de l'Institut national d'horticulture d'Angers <br/>L'Ecole nationale d'ingénieurs des travaux de l'horticulture et du paysage d'Angers <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">L'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agrocampus Ouest) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">L'Ecole supérieure d'agriculture de Purpan <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">L'Ecole d'ingénieurs de Purpan <br/>
 </p>
 </td>
 </tr>
@@ -162,7 +162,7 @@ Les diplômes d'ingénieurs délivrés par des écoles sous leur ancienne ou nou
 </p>
 </td>
 <td align="center">
-<p align="left">L'Institut polytechnique LaSalle Beauvais<br/>
+<p align="left">L'Institut polytechnique LaSalle Beauvais <br/>
 </p>
 </td>
 </tr>
@@ -201,77 +201,79 @@ Diplômes d'ingénieur délivrés par :
 
 des certifications professionnelles (RNCP)
 
+Conseiller en droit rural et économie agricole (niveau II), délivré par l'Institut des hautes études de droit rural et d'économie agricole (IHEDREA).
+
 Les titres ou certificats enregistrés au RNCP énumérés ci-dessous :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> ANCIENNE DÉNOMINATION<br/>
+<p align="center">ANCIENNE DÉNOMINATION <br/>
 </p>
 </td>
 <td>
-<p align="center"> NOUVELLE DÉNOMINATION<br/>
+<p align="center">NOUVELLE DÉNOMINATION <br/>
 </p>
 </td>
 <td colspan="5">
-<p align="center"> AUTORITÉ RESPONSABLE<br/>de la certification<br/>
+<p align="center">AUTORITÉ RESPONSABLE <br/>de la certification <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Certificat de capacité technique agricole et rurale (CCTAR)<br/>Technicien productions agricoles et services associés (CCTAR)<br/>
+<p align="left">Certificat de capacité technique agricole et rurale (CCTAR) <br/>Technicien productions agricoles et services associés (CCTAR) <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Technicien agricole<br/>
+<p align="left">Technicien agricole <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Union nationale des maisons familiales rurales d'éducation et d'orientation (UNMFREO)<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Technicien forestier (CCTAR)<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Technicien des espaces forestiers et naturels<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Union nationale des maisons familiales rurales d'éducation et d'orientation (UNMFREO)<br/>
+<p align="left">Union nationale des maisons familiales rurales d'éducation et d'orientation (UNMFREO) <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Certificat de conduite de cultures sous serre<br/>
+<p align="left">Technicien forestier (CCTAR) <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Responsable conduite de cultures protégées<br/>
+<p align="left">Technicien des espaces forestiers et naturels <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Centre national de formation THEZA<br/>Centre méditerranéen de formation aux métiers du maraîchage (CMFMM)<br/>
+<p align="left">Union nationale des maisons familiales rurales d'éducation et d'orientation (UNMFREO) <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maîtrise en élevage<br/>
+<p align="left">Certificat de conduite de cultures sous serre <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Eleveur<br/>
+<p align="left">Responsable conduite de cultures protégées <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Union nationale rurale d'éducation et de promotion (UNREP)<br/>
+<p align="left">Centre national de formation THEZA <br/>Centre méditerranéen de formation aux métiers du maraîchage (CMFMM) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Maîtrise en élevage <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Eleveur <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Union nationale rurale d'éducation et de promotion (UNREP) <br/>
 </p>
 </td>
 </tr>
@@ -281,25 +283,25 @@ Les titres ou certificats enregistrés au RNCP énumérés ci-dessous :
 </p>
 </td>
 <td align="center">
-<p align="left">Gestionnaire de domaines agricoles, spécialisation domaines viticoles (CES)<br/>
+<p align="left">Gestionnaire de domaines agricoles, spécialisation domaines viticoles (CES) <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux<br/>
+<p align="left">Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Certificat de conduite sous serre<br/>
+<p align="left">Certificat de conduite sous serre <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Chef de cultures sous serre<br/>
+<p align="left">Chef de cultures sous serre <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">Saint-Ilan/Florilan<br/>
+<p align="left">Saint-Ilan/ Florilan<br/>
 </p>
 </td>
 </tr>
