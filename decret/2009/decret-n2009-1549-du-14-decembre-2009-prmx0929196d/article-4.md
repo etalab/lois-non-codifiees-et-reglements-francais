@@ -1,3 +1,0 @@
-# Article 4
-
-La délégation prépare l'ordre du jour et, en liaison avec les ministères concernés, les délibérations du comité interministériel d'aménagement et de développement du territoire. Outre la mise en œuvre des décisions du comité, elle assure le suivi des décisions gouvernementales relatives à la politique nationale d'aménagement, de développement et de compétitivité du territoire. Elle propose au Premier ministre et au ministre chargé de l'aménagement du territoire les orientations générales relatives à l'affectation des crédits du Fonds national d'aménagement et de développement du territoire.

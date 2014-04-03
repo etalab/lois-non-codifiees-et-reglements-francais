@@ -4,4 +4,4 @@ Les dossiers établis en application de l'article 5 sont adressés au secrétari
 
 ― en un exemplaire papier ;
 
-― en un exemplaire électronique, selon les modalités précisées sur le site internet de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale ( www.datar.gouv.fr).
+― en un exemplaire électronique, selon les modalités précisées sur le site internet du Commissariat général à l'égalité des territoires ( www. datar. gouv. fr).

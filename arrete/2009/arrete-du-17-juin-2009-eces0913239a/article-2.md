@@ -10,7 +10,7 @@ Outre le président, elle comprend les membres suivants :
 
 4. Le délégué à l'aménagement et à la compétitivité des territoires ;
 
-5. Le secrétaire général du comité interministériel des villes ;
+5. Le      commissaire général délégué à l'égalité des territoires ;
 
 6. Le délégué général à l'outre-mer ;
 

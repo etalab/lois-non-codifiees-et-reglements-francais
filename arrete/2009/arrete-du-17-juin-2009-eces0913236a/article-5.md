@@ -14,4 +14,4 @@ Sont également membres de la commission :
 
 6. Un représentant du délégué à l'aménagement et à la compétitivité des territoires ;
 
-7. Un représentant du secrétariat général du comité interministériel des villes.
+7. Un représentant du      Commissariat général à l'égalité des territoires.

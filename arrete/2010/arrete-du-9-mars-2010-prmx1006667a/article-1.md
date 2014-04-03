@@ -6,7 +6,7 @@ Dans les services du Premier ministre, le comité d'attribution mentionné à l'
 
 ― le secrétaire général de la défense et de la sécurité nationale ;
 
-― le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
+― le commissaire général à l'égalité des territoires ;
 
 ― le commissaire général à la stratégie et à la prospective ;
 

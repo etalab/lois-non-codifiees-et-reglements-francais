@@ -1,6 +1,6 @@
 # Article 2
 
-La présidence du comité de pilotage est assurée par le directeur général de la santé. Il est assisté par les présidents du programme national relatif à la nutrition et à la santé et du plan "Obésité" désignés par le ministre chargé de la santé.
+La présidence du comité de pilotage est assurée par le directeur général de la santé. Il est assisté par les présidents du programme national relatif à la nutrition et à la santé et du plan " Obésité " désignés par le ministre chargé de la santé.
 
 Le comité de pilotage comprend :
 
@@ -32,7 +32,7 @@ Le comité de pilotage comprend :
 
 ― le délégué général à l'outre-mer ou son représentant ;
 
-― le secrétaire général du comité interministériel des villes ou son représentant ;
+― le commissaire général délégué à l'égalité des territoires ou son représentant ;
 
 ― le directeur général de l'Agence nationale pour la cohésion sociale et l'égalité des chances ou son représentant ;
 
