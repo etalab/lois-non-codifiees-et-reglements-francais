@@ -269,7 +269,6 @@
 - [Décret n°2009-658 du 9 juin 2009 (DEFH0907137D)](decret-n2009-658-du-9-juin-2009-defh0907137d)
 - [Décret n°2009-659 du 9 juin 2009 (DEFH0907140D)](decret-n2009-659-du-9-juin-2009-defh0907140d)
 - [Décret n°2009-661 du 9 juin 2009 (BCFF0904804D)](decret-n2009-661-du-9-juin-2009-bcff0904804d)
-- [Décret n°98-601 du 9 juillet 1998 (ATET9860038D)](decret-n98-601-du-9-juillet-1998-atet9860038d)
 - [Décret n°2008-1053 du 10 octobre 2008 (AGRF0810800D)](decret-n2008-1053-du-10-octobre-2008-agrf0810800d)
 - [Décret n°2008-1297 du 10 décembre 2008 (DEVK0822980D)](decret-n2008-1297-du-10-decembre-2008-devk0822980d)
 - [Décret n°2009-1106 du 10 septembre 2009 (DEVL0909993D)](decret-n2009-1106-du-10-septembre-2009-devl0909993d)
