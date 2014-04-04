@@ -2,10 +2,8 @@
 
 Pour les concours de qualification hospitalière :
 
-― le sous-directeur « ressources humaines » de la DCSSA, président ;
+- l'adjoint au directeur central " personnel et écoles ", président ;
 
-― le sous-directeur « hôpitaux » de la DCSSA ou le sous-directeur « action scientifique et technique » selon l'établissement concerné ;
+- l'adjoint au directeur central du service de santé des armées concerné selon l'établissement d'affectation du candidat ;
 
-― l'inspecteur technique des services médicaux des armées.
-
-Pour les concours ouverts dans le corps des pharmaciens des armées, l'inspecteur technique des services pharmaceutiques est associé aux travaux du jury.
+- l'inspecteur technique des services médicaux et chirurgicaux des armées ou l'inspecteur technique des services pharmaceutiques des armées selon le corps d'appartenance du candidat.

@@ -2,14 +2,10 @@
 
 Pour les concours de qualification en recherche :
 
-― l'inspecteur général du service de santé des armées, président ;
+- l'inspecteur général du service de santé des armées, président ;
 
-― le directeur de l'école du Val-de-Grâce ;
+- le directeur de l'école du Val-de-Grâce ;
 
-― le sous-directeur « ressources humaines » de la DCSSA ;
+- les adjoints au directeur central du service de santé des armées ;
 
-― le sous-directeur « action scientifique et technique » de la DCSSA ;
-
-― le directeur de l'institut de recherche biomédicale des armées ou son représentant.
-
-Pour les concours ouverts dans les corps des pharmaciens et des vétérinaires, l'inspecteur technique des services considérés est associé aux travaux du jury.
+- le directeur de l'institut de recherche biomédicale des armées.
