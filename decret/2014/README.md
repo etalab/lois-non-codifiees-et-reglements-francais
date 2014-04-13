@@ -14,6 +14,7 @@
 - [Décret n°2013-1141 du 10 décembre 2013 (EFIC1323491D)](decret-n2013-1141-du-10-decembre-2013-efic1323491d)
 - [Décret n°2007-762 du 10 mai 2007 (SOCU0611342D)](decret-n2007-762-du-10-mai-2007-socu0611342d)
 - [Décret n°2014-324 du 11 mars 2014 (ETST1401574D)](decret-n2014-324-du-11-mars-2014-etst1401574d)
+- [Décret n°2014-396 du 11 avril 2014 (INTA1408616D)](decret-n2014-396-du-11-avril-2014-inta1408616d)
 - [Décret n°97-143 du 14 février 1997 (LOGC9700015D)](decret-n97-143-du-14-fevrier-1997-logc9700015d)
 - [Décret n°2001-42 du 15 janvier 2001 (EQUU0100001D)](decret-n2001-42-du-15-janvier-2001-equu0100001d)
 - [Décret n°2014-133 du 17 février 2014 (MENA1330827D)](decret-n2014-133-du-17-fevrier-2014-mena1330827d)
