@@ -238,6 +238,10 @@ RÉPUBLIQUE ARABE D'ÉGYPTE
 
 Institut français d'Egypte (dont antennes à Alexandrie, Héliopolis et au Caire le département d'enseignement de l'arabe contemporain [DEAC]).
 
+ÉMIRATS ARABES UNIS
+
+EAF : Institut français des Emirats arabes unis.
+
 ESPAGNE
 
 Institut français d'Espagne (dont antennes à Barcelone, Bilbao, Saragosse, Valence).
@@ -261,6 +265,10 @@ Institut français du Gabon.
 GÉORGIE
 
 Institut français de Géorgie.
+
+GHANA
+
+EAF : Institut français du Ghana.
 
 GRÈCE
 
@@ -317,6 +325,10 @@ Institut français de Jérusalem (dont antennes à Jérusalem Ouest, Gaza, Naplo
 JORDANIE
 
 Institut français de Jordanie.
+
+KOWEÏT
+
+EAF : Institut français du Koweït.
 
 LAOS
 
@@ -431,6 +443,10 @@ Institut français du Sénégal (dont antenne à Saint-Louis).
 SERBIE
 
 Institut français de Serbie (dont antennes à Nis et Novi Sad).
+
+SINGAPOUR
+
+EAF : Institut français de Singapour.
 
 SLOVAQUIE
 
