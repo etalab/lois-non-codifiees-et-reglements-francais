@@ -6,6 +6,7 @@
 - [Instruction de service n° 4](instruction-de-service-4)
 - [Instruction de service n° 5](instruction-de-service-5)
 - [Instruction de service n° 6](instruction-de-service-6)
+- [Instruction de service n° 6 bis](instruction-de-service-6-bis)
 - [Instruction de service n° 7](instruction-de-service-7)
 - [Instruction de service n° 8](instruction-de-service-8)
 - [Instruction de service n° 9](instruction-de-service-9)
