@@ -1,13 +1,9 @@
 # Article 92
 
-La sous-direction des sites et de l'environnement comprend quatre bureaux :
+La sous-direction des sites et de l'environnement comprend trois bureaux :
 
-1. Le bureau des affaires immobilières et domaniales ;
+1. Le bureau du pilotage des soutiens de la direction générale de l'armement ;
 
-2. Le bureau de la protection de l'environnement ;
+2. Le bureau du soutien réglementaire et de l'organisation ;
 
-3. Le bureau du soutien juridique et de l'organisation ;
-
-4. Le bureau du soutien général.
-
-Le sous-directeur est assisté d'une cellule chargée de la coordination de la gestion des sites.
+3. Le bureau de la gestion des emprises et de l'environnement.

@@ -6,6 +6,4 @@ Sous l'autorité du délégué général pour l'armement, l'inspection de l'arme
 
 2. De veiller à la bonne exécution des directives du délégué général pour l'armement ;
 
-3. De coordonner l'activité d'audit et d'enquêtes internes de régularité et de gestion des directions, services et établissements de la direction générale de l'armement et de procéder aux audits et aux enquêtes qui lui sont demandés ou confirmés par le délégué général pour l'armement ;
-
-4. D'apporter son concours à la réalisation de toute enquête ou mesure particulière faisant suite à des manquements, des dysfonctionnements ou des événements graves relevés au sein de la direction générale de l'armement.
+3. De procéder aux enquêtes demandées par le délégué général pour l'armement faisant suite à des manquements, des dysfonctionnements ou des événements graves relevés au sein de la direction générale de l'armement.

@@ -8,6 +8,6 @@ Le service des affaires industrielles et de l'intelligence économique est const
 
 3. La sous-direction aéronautique-missiles-espace ;
 
-4. La sous-direction électronique-mécanique-naval .
+4. La sous-direction électronique-mécanique-naval.
 
-En outre, le service des affaires industrielles et de l'intelligence économique a autorité sur le centre d'information et de documentation de l'armement, organisme extérieur, dont les missions et l'organisation sont fixées par instruction.
+En outre, le service des affaires industrielles et de l'intelligence économique a autorité sur DGA Intelligence technique et économique, organisme extérieur, dont les missions et l'organisation sont fixées par instruction.

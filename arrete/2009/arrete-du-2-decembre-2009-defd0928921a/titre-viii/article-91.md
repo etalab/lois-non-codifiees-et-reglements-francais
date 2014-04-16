@@ -14,4 +14,6 @@ La sous-direction des sites et de l'environnement :
 
 4. Conseille et assiste en matière juridique les directeurs de site de la direction générale de l'armement ; elle exerce à ce titre une mission de conseil et d'assistance auprès du délégué général pour l'armement sur les questions juridiques et contentieuses ; elle participe, en liaison avec la direction des affaires juridiques, à l'élaboration des textes d'organisation et de fonctionnement de la direction générale de l'armement ainsi qu'au traitement des questions juridiques et contentieuses ;
 
-5. Propose et élabore la politique de soutien de la direction générale de l'armement et assure le suivi de sa mise en œuvre.
+5. Propose et élabore la politique de soutien de la direction générale de l'armement et assure le suivi de sa mise en œuvre ;
+
+6. S'assure de la qualité et de l'adéquation du soutien apporté à la direction générale de l'armement par les organismes de soutien, à l'exception des domaines des ressources humaines et de l'informatique.

@@ -53,7 +53,7 @@ DÉLÉGATION GÉNÉRALE POUR L'ARMEMENT
 </tr>
 <tr>
 <td align="center">
-<p align="left">Centre d'information et de documentation de l'armement</p>
+<p align="left">DGA Intelligence technique et économique </p>
 </td>
 <td align="center">
 <p align="center">MAPA x 10</p>
