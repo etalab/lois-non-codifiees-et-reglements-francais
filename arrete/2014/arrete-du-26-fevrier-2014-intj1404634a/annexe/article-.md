@@ -40,7 +40,7 @@ Brigade territoriale de Saint-Sauveur-en-Puisaye (89), dissoute à compter du 1e
 
 Bretagne :
 
-Brigade rapide d'intervention de Caudan (22), dissoute à compter du 1er novembre 2013.
+Brigade rapide d'intervention de Caudan (56), dissoute à compter du 1er novembre 2013.
 
 Brigade territoriale de Plérin (22), dissoute à compter du 2 septembre 2013.
 
@@ -48,7 +48,7 @@ Peloton de sûreté des zones protégées de Brest (29), dissous à compter du 1
 
 Brigade territoriale de Cesson-Sévigné (35), dissoute à compter du 2 septembre 2013.
 
-Brigade territoriale de Ploemeur (56), dissoute à compter du 1er août 2013.
+Brigade territoriale de Lorient (56), dissoute à compter du 1er août 2013.
 
 Peloton de surveillance et d'intervention de la gendarmerie de Ploemeur (56), dissous à compter du 1er août 2013.
 
