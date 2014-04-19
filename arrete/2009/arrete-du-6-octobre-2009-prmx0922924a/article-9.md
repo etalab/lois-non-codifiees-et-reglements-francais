@@ -1,3 +1,3 @@
 # Article 9
 
-Sauf le cas de renouvellement anticipé de la commission, les élections ont lieu quatre mois au plus et deux mois au moins avant la date d'expiration du mandat de leurs membres en exercice. La date de ces élections est fixée par le premier président de la Cour des comptes.
+La date des élections pour le renouvellement de la commission consultative est celle des élections pour le renouvellement général des instances représentatives du personnel de la fonction publique.

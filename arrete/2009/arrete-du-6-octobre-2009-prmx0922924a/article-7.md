@@ -6,4 +6,4 @@ Le remplacement des représentants du personnel se trouvant dans l'impossibilit�
 
 ― s'il s'agit du représentant suppléant, il est remplacé par le premier candidat non élu de la même liste ;
 
-― lorsqu'une liste se trouve dans l'impossibilité de pourvoir, dans les conditions prévues aux deux alinéas précédents, aux sièges de représentant titulaire et de représentant suppléant auxquels elle a droit, il est procédé à un tirage au sort parmi les agents relevant de la commission et remplissant les conditions d'éligibilité prévues à l'article 12.
+― lorsqu'une liste se trouve dans l'impossibilité de pourvoir, dans les conditions prévues aux deux alinéas précédents, aux sièges de représentant titulaire et de représentant suppléant auxquels elle a droit, l'organisation syndicale ayant présenté la liste désigne son représentant parmi les contractuels relevant de la commission, éligibles au moment où se fait la désignation, pour la durée du mandat à courir.
