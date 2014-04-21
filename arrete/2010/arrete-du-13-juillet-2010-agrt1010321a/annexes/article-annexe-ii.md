@@ -50,7 +50,7 @@ B. - Les terres gelées
 
 a) Les sols nus sont interdits. Des dérogations peuvent être prévues par arrêté préfectoral pour des raisons et des périmètres précis.
 
-b) Un couvert doit être implanté au plus tard le 1er mai pour éviter l'infestation par les graines d'adventices et protéger les sols pendant les périodes de pluies. En raison de circonstances climatiques exceptionnelles, une date d'implantation comprise entre le 1er et le 15 mai peut être fixée par arrêté préfectoral.
+b) Un couvert doit être implanté au plus tard le 31 mai pour éviter l'infestation par les graines d'adventices et protéger les sols pendant les périodes de pluies.
 
 c) L'arrêté préfectoral fixe les repousses de cultures acceptées comme couvert (à l'exception des repousses de plantes peu couvrantes comme le maïs, le tournesol, la betterave, la pomme de terres...).
 

@@ -1,6 +1,6 @@
 # Article 2
 
-BCAE « Bande tampon » / le couvert.
+BCAE "Bande tampon" / le couvert.
 
 1° En application du premier alinéa du II de l'article D. 615-46 du code rural et de la pêche maritime, les couverts des bandes tampons autorisés sont des couverts herbacés, arbustif ou arborés. Le couvert doit être permanent et couvrant. Ce couvert peut être implanté ou spontané.
 
@@ -12,11 +12,11 @@ Ne sont pas des couverts autorisés :
 
 ― le miscanthus.
 
-Les légumineuses « pures » ne peuvent être implantées sur les bandes tampons. Par contre, les implantations déjà réalisées doivent être conservées et gérées pour permettre une évolution vers un couvert autochtone diversifié.
+Les légumineuses "pures" ne peuvent être implantées sur les bandes tampons. Par contre, les implantations déjà réalisées doivent être conservées et gérées pour permettre une évolution vers un couvert autochtone diversifié.
 
 Les cultures pérennes déjà implantées doivent faire l'objet d'un enherbement complet sur 5 mètres de large au minimum.
 
-Les surfaces occupées par des éléments fixes du paysage peuvent être prises en compte pour le respect de l'exigence du maintien d'une bande tampon s'ils répondent aux normes usuelles fixées par arrêté préfectoral. Ne sont pas considérés comme des éléments fixes du paysage notamment les tournières, les bandes de passage d'enrouleur, les rampes d'irrigation.
+Les tournières, les bandes de passage d'enrouleur, les rampes d'irrigation ne sont pas pris en compte pour le respect de l'exigence du maintien de la bande tampon.
 
 Les couverts autorisés et les différentes modalités de localisation ou d'implantation sont définis en annexe I du présent arrêté.
 
