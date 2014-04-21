@@ -1850,7 +1850,6 @@
 - [Arrêté du 23 décembre 2008 (IOCA0831205A)](arrete-du-23-decembre-2008-ioca0831205a)
 - [Arrêté du 23 décembre 2008 (IOCA0900115A)](arrete-du-23-decembre-2008-ioca0900115a)
 - [Arrêté du 23 décembre 2008 (JUSA0831574A)](arrete-du-23-decembre-2008-jusa0831574a)
-- [Arrêté du 23 décembre 2008 (MAEA0822246A)](arrete-du-23-decembre-2008-maea0822246a)
 - [Arrêté du 23 décembre 2008 (MCCH0831414A)](arrete-du-23-decembre-2008-mcch0831414a)
 - [Arrêté du 23 décembre 2008 (MCCH0831419A)](arrete-du-23-decembre-2008-mcch0831419a)
 - [Arrêté du 23 décembre 2008 (MCCH0900584A)](arrete-du-23-decembre-2008-mcch0900584a)

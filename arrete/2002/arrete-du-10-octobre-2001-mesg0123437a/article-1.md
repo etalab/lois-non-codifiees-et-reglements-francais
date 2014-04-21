@@ -10,7 +10,13 @@ I. - Epreuves écrites d'admissibilité
 
 II. - Epreuves d'admission
 
-1. Entretien avec le jury permettant d'apprécier les qualités de réflexion, la formation et, le cas échéant, l'expérience professionnelle du candidat ainsi que ses motivations (durée : trente minutes ; coefficient 4).
+1. Epreuve consistant en un entretien avec le jury visant à apprécier les qualités de réflexion, la formation et, le cas échéant, les acquis de l'expérience du candidat ainsi que ses motivations. Pour conduire cet entretien, qui a pour point de départ un exposé du candidat sur sa formation et, le cas échéant, sur son expérience professionnelle d'une durée de 10 minutes au plus, le jury dispose de l'exposé écrit et détaillé des activités professionnelles et des titres et travaux scientifiques du candidat constitué par le candidat selon le modèle de dossier établi par l'administration. Seul l'entretien avec le jury donne lieu à notation. Le dossier n'est pas noté (durée : 30 minutes ; coefficient 4).
+
+En vue de cette épreuve, le candidat établit un dossier de présentation de son parcours professionnel qu'il remet au service organisateur à une date fixée dans l'arrêté d'ouverture du concours. Les informations utiles pour répondre aux exigences de cette épreuve figurent en annexe du présent arrêté.
+
+Le dossier est transmis au jury par le service gestionnaire du concours après l'établissement de la liste d'admissibilité.
+
+Le modèle du dossier est disponible sur le site internet du ministère des affaires sociales et de la santé :  http :// www. sante. gouv. fr, rubrique "Métiers et concours".
 
 2. Exposé sur une question de législation pharmaceutique tirée au sort par le candidat, suivi d'une interrogation (préparation : quinze minutes ; durée : quinze minutes ; coefficient 4).
 
