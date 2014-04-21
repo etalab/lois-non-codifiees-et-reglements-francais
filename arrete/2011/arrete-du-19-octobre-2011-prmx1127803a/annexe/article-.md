@@ -66,4 +66,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'antenne de Châteaurenard de l'implantation territoriale d'Arles de la direction départementale des territoires et de la mer des Bouches-du-Rhône ;
 
-- fermeture de l'implantation territoriale de Château-Thierry de la direction départementale des territoires de l'Aisne.
+- fermeture de l'implantation territoriale de Château-Thierry de la direction départementale des territoires de l'Aisne ;
+
+- fermeture de l'implantation territoriale de Montélimar de la direction départementale des territoires de la Drôme ;
+
+- restructuration de l'unité territoriale de Thann de la direction départementale des territoires du Haut-Rhin.
