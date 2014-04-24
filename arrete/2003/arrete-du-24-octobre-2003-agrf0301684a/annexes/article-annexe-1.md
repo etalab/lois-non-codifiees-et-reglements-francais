@@ -58,6 +58,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL241-Nord-Est.</p>
@@ -72,6 +73,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL202-Massif vosgien.</p>
@@ -86,6 +88,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL361-Aude.</p>
@@ -100,6 +103,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL401-Massif central ouest.</p>
@@ -114,6 +118,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL402-Massif central est.</p>
@@ -128,6 +133,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL501-Jura.</p>
@@ -142,6 +148,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL502-Préalpes du Nord.</p>
@@ -156,6 +163,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL503-Alpes internes du Nord.</p>
@@ -170,6 +178,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL504Alpes intermédiaires.</p>
@@ -184,6 +193,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL505-Préalpes de Haute-Provence.</p>
@@ -198,6 +208,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL506-Mercantour.</p>
@@ -212,6 +223,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL601-Pyrénées.</p>
@@ -226,6 +238,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AAL800-Corse.</p>
@@ -237,7 +250,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td/>
 <td>
-<em>Abies cephalonica Loud</em>
+<i>Abies cephalonica Loud</i>
 </td>
 <td>ACE700-Région méditerranéenne</td>
 <td>
@@ -247,7 +260,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Sapin d'Espagne</td>
 <td>
-<em>Abies pinsapo</em>
+<i>Abies pinsapo</i>
 </td>
 <td>API901-région Méditerrannée</td>
 <td>
@@ -296,6 +309,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>APL902-Montagnes.</p>
@@ -327,6 +341,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>APS200-Nord-Est.</p>
@@ -341,6 +356,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>APS400-Massif central.</p>
@@ -355,6 +371,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>APS500-Alpes et Jura</p>
@@ -369,6 +386,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>APS600-Pyrénées.</p>
@@ -383,6 +401,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>APS800-Corse.</p>
@@ -414,6 +433,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AGL700-Région méditerranéenne.</p>
@@ -428,6 +448,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AGL800-Corse.</p>
@@ -442,6 +463,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>AGL901-Nord-Est et montagnes.</p>
@@ -498,6 +520,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>BPE901-Nord-Est et montagnes.</p>
@@ -528,6 +551,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>BPU901-Nord-Est et montagnes.</p>
@@ -559,6 +583,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>CBE901-Nord-Est et montagnes.</p>
@@ -591,6 +616,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>CSA102-Bassin parisien.</p>
@@ -605,6 +631,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>CSA201-Alsace.</p>
@@ -619,6 +646,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>CSA901-Montagnes et Sud-Ouest.</p>
@@ -633,6 +661,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>CSA741-Région méditerranéenne.</p>
@@ -647,6 +676,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>CSA800-Corse.</p>
@@ -672,6 +702,37 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 </tr>
 <tr>
+<td align="left">Gommier bleu  </td>
+<td align="left">
+<i>Eucalyptus globulus Labill </i>
+</td>
+<td align="left">EGL700 - région méditerranéenne  </td>
+<td align="center">EGL700 <br/>
+</td>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left">EGL800 - Corse  </td>
+<td align="center">EGL800</td>
+</tr>
+<tr>
+<td align="left">Gommier à cidre  </td>
+<td align="left">
+<i>Eucalyptus gunnii Hook.f </i>
+</td>
+<td align="left">EGU311 - Grand Ouest  </td>
+<td align="center">EGU311 <br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td>EGU700 - Région méditerranéenne  </td>
+<td align="center">EGU700 <br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="149">
 <p>Hétre.</p>
 </td>
@@ -693,6 +754,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY102-Nord. </p>
@@ -707,6 +769,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY201-Nord-Est </p>
@@ -721,6 +784,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY202-Vallée de la Saône.</p>
@@ -735,6 +799,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY301-Charentes. </p>
@@ -749,6 +814,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY401-Massif central nord basse altitude. </p>
@@ -763,6 +829,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY402-Massif central nord haute altitude. </p>
@@ -777,6 +844,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY403-Massif central sud. </p>
@@ -791,6 +859,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY501-Jura. </p>
@@ -805,6 +874,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY502-Préalpes du Nord. </p>
@@ -819,6 +889,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY503-Alpes internes du Nord. </p>
@@ -833,6 +904,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY601-Pyrénées occidentales. </p>
@@ -847,6 +919,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY602-Pyrénées centrales. </p>
@@ -861,6 +934,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY633-Pyrénées orientales. </p>
@@ -875,6 +949,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY751-Région méditerranéenne. </p>
@@ -889,6 +964,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FSY800-Corse.</p>
@@ -919,6 +995,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FAN800-Corse.</p>
@@ -949,6 +1026,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX102-Bretagne et Val de Loire. </p>
@@ -963,6 +1041,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX201-Nord-Est. </p>
@@ -977,6 +1056,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX202-Vallée du Rhin. </p>
@@ -991,6 +1071,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX203-Vallée de la Saône.</p>
@@ -1005,6 +1086,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX300-Sud-Ouest. </p>
@@ -1019,6 +1101,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX400-Massif central.</p>
@@ -1033,6 +1116,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX501-Alpes du Nord-Jura. </p>
@@ -1047,6 +1131,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>FEX600-Pyrénées.</p>
@@ -1058,7 +1143,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Noyer hybride</td>
 <td>
-<em>Juglans major x.</em>
+<i>Juglans major x.</i>
 </td>
 <td>JMR900-France</td>
 <td>
@@ -1068,7 +1153,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td/>
 <td>
-<em>Juglans nigra x regia</em>
+<i>Juglans nigra x regia</i>
 </td>
 <td>JNR900-France</td>
 <td>
@@ -1078,7 +1163,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Noyer noir</td>
 <td>
-<em>Juglans nigra L.</em>
+<i>Juglans nigra L.</i>
 </td>
 <td>JNI900-France</td>
 <td>
@@ -1088,7 +1173,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Noyer royal</td>
 <td>
-<em>Juglans regia L.</em>
+<i>Juglans regia L.</i>
 </td>
 <td>JRE900-France</td>
 <td>
@@ -1117,6 +1202,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>LDE501-Alpes internes du Nord moyenne altitude.</p>
@@ -1131,6 +1217,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>LDE502-Alpes internes du Nord haute altitude.</p>
@@ -1145,6 +1232,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>LDE503-Préalpes du Sud.</p>
@@ -1159,6 +1247,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>LDE504-Alpes internes du Sud.</p>
@@ -1189,6 +1278,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB202-Massif vosgien gréseux. </p>
@@ -1203,6 +1293,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB203-Massif vosgien cristallin. </p>
@@ -1217,6 +1308,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB400-Massif central, </p>
@@ -1231,6 +1323,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB501-Premier plateau du Jura. </p>
@@ -1245,6 +1338,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB502-Haut Jura basse altitude. </p>
@@ -1259,6 +1353,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB503-Haut Jura haute altitude. </p>
@@ -1273,6 +1368,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB504-Entre Jura et Savoie. </p>
@@ -1287,6 +1383,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB505-Préalpes du Nord moyenne altitude. </p>
@@ -1301,6 +1398,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAS506-Préalpes du Nord haute altitude. </p>
@@ -1315,6 +1413,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB507-Hautes Alpes moyenne altitude. </p>
@@ -1329,6 +1428,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB508-Hautes Alpes haute altitude. </p>
@@ -1343,6 +1443,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB509-Alpes méridionales. </p>
@@ -1357,6 +1458,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PAB600-Pyrénées.</p>
@@ -1423,7 +1525,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 <td>
 <p align="left">
-<em>Pinus nigra Arn. ssp clusiana Clem</em>.</p>
+<i>Pinus nigra Arn. ssp clusiana Clem</i>.</p>
 </td>
 <td>PCL901-Cévennes-Grands Causses.</td>
 <td>
@@ -1463,6 +1565,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PLO901-Nord-Ouest.</p>
@@ -1477,6 +1580,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PL0902-Sud-Ouest.</p>
@@ -1508,6 +1612,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PNI902-Sud-Est.</p>
@@ -1539,6 +1644,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PPA301-Massif landais.</p>
@@ -1561,6 +1667,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PPA302-Sud-Ouest hors Landes.</p>
@@ -1575,6 +1682,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PPA700-Région méditerranéenne.</p>
@@ -1589,6 +1697,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PPA800-Corse.</p>
@@ -1619,6 +1728,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PPE800-Corse.</p>
@@ -1630,7 +1740,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td/>
 <td>
-<em>Pinus radiata D. Don</em>
+<i>Pinus radiata D. Don</i>
 </td>
 <td>PRA101-Bretagne et Val de Loire</td>
 <td>
@@ -1659,6 +1769,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY201-Nord-Est. </p>
@@ -1673,6 +1784,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY202-Massif vosgien. </p>
@@ -1687,6 +1799,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY203-Hanau . </p>
@@ -1701,6 +1814,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY204-Saint-Dié. </p>
@@ -1715,6 +1829,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY205-Plaine de Haguenau. </p>
@@ -1729,6 +1844,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY401-Massif central. </p>
@@ -1743,6 +1859,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY402-Livradois-Veiay. </p>
@@ -1757,6 +1874,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY403-Plateaux foréziens. </p>
@@ -1771,6 +1889,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY404-Margeride. </p>
@@ -1785,6 +1904,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY501-Préalpes du Sud. </p>
@@ -1799,6 +1919,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY502-Alpes internes du Sud. </p>
@@ -1813,6 +1934,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY601-Chaine pyrénéenne.</p>
@@ -1827,6 +1949,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PSY602-Pyrénées orientales.</p>
@@ -1838,7 +1961,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Pin à encens</td>
 <td>
-<em>pinus taeda L.</em>
+<i>pinus taeda L.</i>
 </td>
 <td>PTA311-Façade atlantique</td>
 <td>
@@ -1902,6 +2025,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>PME902-France altitude.</p>
@@ -1933,6 +2057,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QCE901-France hors Alpes niçoises.</p>
@@ -1953,7 +2078,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 </p>
 </td>
 <td valign="top" width="252"/>
-<td valign="top" width="140">
+<td align="center" valign="top" width="140">
 <p>QIL311</p>
 </td>
 </tr>
@@ -1963,6 +2088,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QIL362-Sud-Ouest.</p>
@@ -1977,6 +2103,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>GIL701-Languedoc.</p>
@@ -1991,6 +2118,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QIL782-Provence-Corse.</p>
@@ -2023,6 +2151,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE102-Picardie.</p>
@@ -2037,6 +2166,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE103-Massif armoricain.</p>
@@ -2051,6 +2181,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE104-Perche.</p>
@@ -2065,6 +2196,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE105-Sud Bassin parisien. </p>
@@ -2079,6 +2211,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE106-Secteur ligérien.</p>
@@ -2093,6 +2226,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPE 1 07-Berry-Sologne.</p>
@@ -2107,6 +2241,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPE201-Ardennes </p>
@@ -2121,6 +2256,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE212-Est Bassin parisien.</p>
@@ -2135,6 +2271,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE203-Nord-Est limons et argiles.</p>
@@ -2149,6 +2286,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPE204-Nord-Est gréseux.</p>
@@ -2163,6 +2301,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE205-Vallée de la Saône.</p>
@@ -2177,6 +2316,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>GPE311-Charentes-Poitou.</p>
@@ -2191,6 +2331,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPE362-Gascogne.</p>
@@ -2205,6 +2346,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE411-Allier.</p>
@@ -2219,6 +2361,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE422-Morvan-Nivernais.</p>
@@ -2233,6 +2376,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPE403-Rouergue-Massif central.</p>
@@ -2247,6 +2391,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPE500-Alpes et Jura.</p>
@@ -2261,6 +2406,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPE601-Pyrénées.</p>
@@ -2291,6 +2437,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QPU741-Languedoc.</p>
@@ -2305,6 +2452,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPU751-Provence.</p>
@@ -2319,6 +2467,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OPU800-Corse.</p>
@@ -2369,6 +2518,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>GR0201-Plateaux du Nord-Est.</p>
@@ -2383,6 +2533,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OR0202-Vallée du Rhin.</p>
@@ -2397,6 +2548,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QR0203-Vallée de la Saône.</p>
@@ -2411,6 +2563,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>R0301-Nord de la Garonne.</p>
@@ -2425,6 +2578,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>GR0361-Sud-Ouest.</p>
@@ -2439,6 +2593,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>GR0421-Massif central.</p>
@@ -2470,6 +2625,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QRU902-Est.</p>
@@ -2484,6 +2640,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>ORU903-Sud-Ouest.</p>
@@ -2515,6 +2672,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>OSU761-Pyrénées orientales.</p>
@@ -2529,6 +2687,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>QSU702-Maures et Esterel.</p>
@@ -2543,6 +2702,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>GSU800-Corse.</p>
@@ -2571,7 +2731,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Cormier</td>
 <td>
-<em>sorbus domestica L.</em>
+<i>sorbus domestica L.</i>
 </td>
 <td>SDO900-France</td>
 <td>
@@ -2581,7 +2741,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td>Alisier torminal</td>
 <td>
-<em>Sorbus torminalis L.</em>
+<i>Sorbus torminalis L.</i>
 </td>
 <td>STO901-Nord-France</td>
 <td>
@@ -2619,6 +2779,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>TC0200-Nord-Est.</p>
@@ -2633,6 +2794,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <p>
 <i/>
 </p>
+<br/>
 </td>
 <td valign="top" width="252">
 <p>TC0901-Montagnes.</p>
