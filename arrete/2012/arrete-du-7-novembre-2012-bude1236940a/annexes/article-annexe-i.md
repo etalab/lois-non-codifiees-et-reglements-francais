@@ -46,6 +46,42 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td align="center">1er juillet 2013</td>
 </tr>
 <tr>
+<td>25 - Doubs</td>
+<td>SIP de Montbéliard</td>
+<td>
+<p align="left">CDI de Montbéliard Nord-Ouest</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">CDI de Montbéliard Sud-Est</p>
+</td>
+<td>
+<p align="left">1er mai 2014</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">Trésorerie de Montbéliard et des Deux Vallées </p>
+</td>
+<td/>
+</tr>
+<tr>
 <td align="left">33 - Gironde </td>
 <td align="left">SIP du Bouscat </td>
 <td align="left">
@@ -62,7 +98,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 <td align="left" valign="top">
 <p align="left">SIP de Grenoble Grésivaudan </p>
-<p align="left">(dont recouvrement des rôles d'impôts mentionnés à l'article 3)</p>
+<p>(dont recouvrement des rôles d'impôts mentionnés à l'article 3)</p>
 </td>
 <td align="left" valign="top">
 <p align="left">CDI de Grenoble Grésivaudan </p>
@@ -73,26 +109,23 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">62 - Pas-de Calais</p>
+<td align="left">62 - Pas-de Calais</td>
+<td align="left">SIP de Lens Sud</td>
+<td align="left">
+<div>CDI de Lens Sud.</div>
+<p>Trésoreries de Liévin et Avion.</p>
+<br/>
 </td>
-<td align="left" valign="top">
-<p align="left">SIP de Lens Sud</p>
-</td>
-<td align="left" valign="top">
-<div align="left">CDI de Lens Sud.</div>
-<p align="left">Trésoreries de Liévin et Avion.</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1er janvier 2013</p>
-</td>
+<td align="center">1er janvier 2013</td>
 </tr>
 <tr>
 <td align="left">69 - Rhône<br/>
 </td>
 <td align="left">SIP de Villeurbanne<br/>
 </td>
-<td align="left">CDI de Lyon Villeurbanne.<br/>Trésorerie de Villeurbanne.<br/>
+<td align="left">
+<p align="left">CDI de Lyon Villeurbanne.<br/>Trésorerie de Villeurbanne.<br/>
+</p>
 </td>
 <td align="center">1er décembre 2012<br/>
 </td>
@@ -134,9 +167,9 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 <td align="left" valign="top">
 <p align="left">CDI de Saint-Germain-en-Laye Est </p>
-<p>Trésorerie de Fourqueux </p>
-<p>Trésorerie de Chatou </p>
-<p>Trésorerie du Vésinet(***)</p>
+<p align="left">Trésorerie de Fourqueux </p>
+<p align="left">Trésorerie de Chatou </p>
+<p align="left">Trésorerie du Vésinet(***)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">1er janvier 2014 </p>
@@ -149,8 +182,8 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td align="left" valign="top">
 <p align="left">CDI de Saint-Germain-en-Laye Sud </p>
 <p align="left">Trésorerie de Fourqueux </p>
-<p>Trésorerie de La Celle-Saint-Cloud </p>
-<p>Trésorerie de Marly-le-Roi(****)</p>
+<p align="left">Trésorerie de La Celle-Saint-Cloud </p>
+<p align="left">Trésorerie de Marly-le-Roi(****)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">1er janvier 2014 </p>
@@ -166,26 +199,20 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 <td align="left" valign="top">
 <p align="left">CDI de Juvisy Sud-Ouest </p>
-<p>Trésorerie de Savigny-sur-Orge(*****)</p>
+<p align="left">Trésorerie de Savigny-sur-Orge(*****)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">1er janvier 2014 </p>
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">972 - Martinique</td>
+<td align="left" valign="top">SIP de Fort-de-France Extérieur</td>
 <td align="left" valign="top">
-<p align="left">972 - Martinique</p>
+<div>CDI de Fort-de-France Extérieur.</div>
+<p>Trésorerie de Fort-de-France et banlieue (*).</p>
 </td>
-<td align="left" valign="top">
-<p align="left">SIP de Fort-de-France Extérieur</p>
-</td>
-<td align="left" valign="top">
-<div align="left">CDI de Fort-de-France Extérieur.</div>
-<p align="left">Trésorerie de Fort-de-France et banlieue (*).</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1er janvier 2013 </p>
-</td>
+<td align="left" valign="top">1er janvier 2013 </td>
 </tr>
 <tr>
 <td colspan="4">

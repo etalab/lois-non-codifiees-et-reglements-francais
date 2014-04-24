@@ -2,339 +2,278 @@
 
 La définition et le tarif de cession des produits sanguins labiles sont les suivants :
 
-En euros HT <table>
+(En euros HT)
+
+<table>
 <tbody>
 <tr>
-<td>
-<p>
-<br/>Sang humain total (unité adulte, unité enfant et unité pédiatrique) </p>
+<td align="center">
+<br/>Sang humain total (unité adulte, unité enfant et unité pédiatrique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>111,16 </p>
+<td align="center">
+<br/>113,27 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Concentré de globules rouges humains homologues (unité adulte, unité enfant et unité pédiatrique) </p>
+<td align="center">
+<br/>Concentré de globules rouges humains homologues (unité adulte, unité enfant et unité pédiatrique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>183,84 </p>
+<td align="center">
+<br/>187,33 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Concentré de globules rouges humains homologues déleucocyté (unité adulte, unité enfant et unité pédiatrique) </p>
+<td align="center">
+<br/>Concentré de globules rouges humains homologues déleucocyté (unité adulte, unité enfant et unité pédiatrique) <br/>
 </td>
-<td>
-<p align="center">
-<br/>183,84 </p>
+<td align="center">
+<br/>187,33 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Concentré unitaire de granulocytes d'aphérèse </p>
+<td align="center">
+<br/>Concentré unitaire de granulocytes d'aphérèse <br/>
 </td>
-<td>
-<p align="center">
-<br/>538,83 </p>
+<td align="center">
+<br/>549,07 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Mélange de concentrés de plaquettes standard : </p>
-<p>- concentration minimale de 1 × 1011 plaquettes par poche </p>
+<td align="center">
+<br/>Mélange de concentrés de plaquettes standard : <br/>
 </td>
-<td>
-<p align="center">
-<br/>75,02 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>- concentration minimale de 1 × 10 ¹¹ plaquettes par poche <br/>
+</td>
+<td align="center">
+<br/>76,45 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 1011 </p>
+<td align="center">
+<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 10 ¹¹ <br/>
 </td>
-<td>
-<p align="center">
-<br/>37,51 </p>
+<td align="center">
+<br/>38,22 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Concentré de plaquettes d'aphérèse : </p>
+<td align="center">
+<br/>Concentré de plaquettes d'aphérèse : <br/>
 </td>
-<td>
-<br/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>- concentration minimale de 2 × 10 ¹¹ plaquettes par poche <br/>
+</td>
+<td align="center">
+<br/>221,69 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>- concentration minimale de 2 × 1011 plaquettes par poche </p>
+<td align="center">
+<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 10 ¹¹ <br/>
 </td>
-<td>
-<p align="center">
-<br/>217,56 </p>
+<td align="center">
+<br/>55,42 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 1011 </p>
+<td align="center">
+<br/>Mélange de concentrés de plaquettes standard viro atténué par amotosalen : <br/>
 </td>
-<td>
-<p align="center">
-<br/>54,39 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>- concentration minimale de 1 × 10 ¹¹ plaquettes par poche <br/>
+</td>
+<td align="center">
+<br/>76,45 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Mélange de concentrés de plaquettes standard viro atténué par amotosalen : </p>
+<td align="center">
+<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 10 ¹¹ <br/>
 </td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>- concentration minimale de 1 × 1011 plaquettes par poche </p>
-</td>
-<td>
-<p align="center">
-<br/>75,02 </p>
+<td align="center">
+<br/>38,22 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 1011 </p>
+<td align="center">
+<br/>Concentré de plaquettes d'aphérèse viro atténué par amotosalen : <br/>
 </td>
-<td>
-<p align="center">
-<br/>37,51 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>- concentration minimale de 2 × 10 ¹¹ plaquettes par poche <br/>
+</td>
+<td align="center">
+<br/>221,69 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Concentré de plaquettes d'aphérèse viro atténué par amotosalen : </p>
+<td align="center">
+<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 10 ¹¹ <br/>
 </td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>- concentration minimale de 2 × 1011 plaquettes par poche </p>
-</td>
-<td>
-<p align="center">
-<br/>217,56 </p>
+<td align="center">
+<br/>55,42 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>- puis par tranche supplémentaire d'unité thérapeutique de 0,5 × 1011 </p>
+<td align="center">
+<br/>Plasma frais congelé humain homologue solidarisé pour sang reconstitué <br/>
 </td>
-<td>
-<p align="center">
-<br/>54,39 </p>
+<td align="center">
+<br/>35,16 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Plasma frais congelé humain homologue solidarisé pour sang reconstitué </p>
+<td align="center">
+<br/>Plasma frais congelé humain homologue sécurisé par quarantaine : <br/>
 </td>
-<td>
-<p align="center">
-<br/>34,50 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>- unité adulte (200 ml au minimum), unité enfant et unité pédiatrique <br/>
+</td>
+<td align="center">
+<br/>99,06 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Plasma frais congelé humain homologue sécurisé par quarantaine :<br/>
-<br/>
-</p>
+<td align="center">
+<br/>- puis par tranche supplémentaire de 50 ml <br/>
 </td>
-<td>
-<br/>
+<td align="center">
+<br/>24,76 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>- unité adulte (200 ml au minimum), unité enfant et unité pédiatrique</p>
+<td align="center">
+<br/>Plasma frais congelé viro atténué par solvant détergent (200 ml au minimum) <br/>
 </td>
-<td>
-<p align="center">97,21</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>- puis par tranche supplémentaire de 50 ml</p>
-</td>
-<td>
-<p align="center">24,30</p>
+<td align="center">
+<br/>99,06 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Plasma frais congelé viro atténué par solvant détergent (200 ml au minimum) </p>
+<td align="center">
+<br/>Plasma frais congelé viro atténué par amotosalen (200 ml au minimum) <br/>
 </td>
-<td>
-<p align="center">
-<br/>97,21 </p>
+<td align="center">
+<br/>99,06 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Plasma frais congelé viro atténué par amotosalen (200 ml au minimum) </p>
+<td align="center">
+<br/>Plasma lyophilisé (200 ml au minimum après reconstitution) <br/>
 </td>
-<td>
-<p align="center">
-<br/>97,21 </p>
+<td align="center">
+<br/>370,00 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Plasma lyophilisé (200 ml au minimum après reconstitution) </p>
+<td align="center">
+<br/>Forfait pour concentrés globules rouges autologues (unités adultes SAGM-M par érythraphérèse) <br/>
 </td>
-<td>
-<p>370,00</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Forfait pour concentrés globules rouges autologues (unités adultes SAGM-M par érythraphérèse) </p>
-</td>
-<td>
-<p align="center">
-<br/>430,80 </p>
+<td align="center">
+<br/>438,99 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé autologues), par prélèvement </p>
+<td align="center">
+<br/>Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé autologues), par prélèvement <br/>
 </td>
-<td>
-<p align="center">
-<br/>222,82 </p>
+<td align="center">
+<br/>227,05 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " déleucocyté " (applicable sur concentré de globules rouges autologue) </p>
+<td align="center">
+<br/>Majoration pour transformation " déleucocyté " (applicable sur concentré de globules rouges autologue) <br/>
 </td>
-<td>
-<p align="center">
-<br/>24,92 </p>
+<td align="center">
+<br/>25,39 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " cryoconservé " </p>
+<td align="center">
+<br/>Majoration pour transformation " cryoconservé " <br/>
 </td>
-<td>
-<p align="center">
-<br/>118,28 </p>
+<td align="center">
+<br/>120,53 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour qualification " phénotypé Rh Kell " </p>
+<td align="center">
+<br/>Majoration pour qualification " phénotypé Rh Kell " <br/>
 </td>
-<td>
-<p align="center">
-<br/>3,23 </p>
+<td align="center">
+<br/>3,29 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour qualification " phénotype étendu " </p>
+<td align="center">
+<br/>Majoration pour qualification " phénotype étendu " <br/>
 </td>
-<td>
-<p align="center">
-<br/>15,00 </p>
+<td align="center">
+<br/>15,29 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour qualification " CMV négatif " </p>
+<td align="center">
+<br/>Majoration pour qualification " CMV négatif " <br/>
 </td>
-<td>
-<p align="center">
-<br/>10,61 </p>
+<td align="center">
+<br/>10,81 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " déplasmatisé " </p>
+<td align="center">
+<br/>Majoration pour transformation " déplasmatisé " <br/>
 </td>
-<td>
-<p align="center">
-<br/>71,81 </p>
+<td align="center">
+<br/>73,17 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " irradié " (applicable sur chaque produit) </p>
+<td align="center">
+<br/>Majoration pour transformation " irradié " (applicable sur chaque produit) <br/>
 </td>
-<td>
-<p align="center">
-<br/>14,52 </p>
+<td align="center">
+<br/>14,80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " réduction de volume " </p>
+<td align="center">
+<br/>Majoration pour transformation " réduction de volume " <br/>
 </td>
-<td>
-<p align="center">
-<br/>22,82 </p>
+<td align="center">
+<br/>23,25 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " reconstitution du sang à usage pédiatrique " </p>
+<td align="center">
+<br/>Majoration pour transformation " reconstitution du sang à usage pédiatrique " <br/>
 </td>
-<td>
-<p align="center">
-<br/>24,04 </p>
+<td align="center">
+<br/>24,50 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Majoration pour transformation " CGR cryoconservé suspendu en solution SAG-M après décongélation " </p>
+<td align="center">
+<br/>Majoration pour transformation " CGR cryoconservé suspendu en solution SAG-M après décongélation " <br/>
 </td>
-<td>
-<p align="center">
-<br/>166,63 </p>
+<td align="center">
+<br/>169,80 <br/>
 </td>
 </tr>
 </tbody>
