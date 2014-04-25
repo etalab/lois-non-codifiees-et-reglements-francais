@@ -8,8 +8,6 @@ Les caractéristiques autorisées du petit gangui sont les suivantes :
 
 - poids total de l'engin, chaîne et fers compris sans filet, égal au maximum à 30 kilogrammes ;
 
-- maillage minimum de la poche : 20 millimètres ;
-
 - largeur maximum de l'armature : 1,50 mètre.
 
 2. Pour les petits ganguis à oursins :
