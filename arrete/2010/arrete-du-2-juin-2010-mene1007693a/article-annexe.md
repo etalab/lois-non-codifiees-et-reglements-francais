@@ -80,7 +80,7 @@ La modalidad (série) du diplôme du bachiller décerné aux élèves français 
 <tr>
 <td width="340">
 <p>Baccalauréat série littéraire. </p>
-<p>Spécialités (via) : mathématiques, langues et cultures anciennes : latin, langues et cultures anciennes : grec, histoire des arts, langue vivante 1 ou 2 approfondie, langue vivante 3, droit et grands enjeux du monde contemporain. </p>
+<p>Spécialités (via) : mathématiques, langues et cultures de l'Antiquité : latin, langues et cultures de l'Antiquité : grec, histoire des arts, langue vivante 1 ou 2 approfondie, langue vivante 3, droit et grands enjeux du monde contemporain. </p>
 </td>
 </tr>
 <tr>
