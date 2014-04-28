@@ -2,17 +2,11 @@
 
 INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN QUOTA GRATUIT
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>IDENTIFIANT<br/>
-<br/>
-</th>
-<th>NOM DE L'EXPLOITANT<br/>
-<br/>
-</th>
+<th>IDENTIFIANT</th>
+<th>NOM DE L'EXPLOITANT</th>
 <th>NOM DE L'INSTALLATION<br/>
 </th>
 </tr>
@@ -57,35 +51,11 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000000488<br/>
-</td>
-<td align="center">UEM <br/>
-</td>
-<td align="center">UEM<br/>
-</td>
-</tr>
-<tr>
-<td align="center">FR000000000000489<br/>
-</td>
-<td align="center">Electricité de France <br/>
-</td>
-<td align="center">EDF Centrale de Richemont<br/>
-</td>
-</tr>
-<tr>
 <td align="center">FR000000000000522<br/>
 </td>
 <td align="center">EDF <br/>
 </td>
 <td align="center">Centrale EDF de la Maxe<br/>
-</td>
-</tr>
-<tr>
-<td align="center">FR000000000000526<br/>
-</td>
-<td align="center">REGIE MUNICIPALE D'ELECTRICITE DE CREUTZWALD<br/>
-</td>
-<td align="center">Régie municipale d'électricité Energie et Services<br/>
 </td>
 </tr>
 <tr>
@@ -142,6 +112,15 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <td align="center">Electricité de France <br/>
 </td>
 <td align="center">EDF ― CETAC Site Gennevilliers<br/>
+</td>
+</tr>
+<tr>
+<td>FR000000000000791</td>
+<td>
+<p align="center"> Electricité de France </p>
+</td>
+<td>
+<p align="center"> EDF Centrale d'ARAMON</p>
 </td>
 </tr>
 <tr>
@@ -283,10 +262,8 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR000000000001116<br/>
 </td>
-<td align="center">EDF PEI<br/>
-</td>
-<td align="center">EDF BELLEFONTAINE<br/>
-</td>
+<td align="center">EDF Production électrique insulaire SAS</td>
+<td align="center">EDF Production électrique insulaire SAS - Etablissement de Bellefontaine</td>
 </tr>
 <tr>
 <td align="center">FR000000000001133<br/>
@@ -408,7 +385,23 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <td align="center">GLOBAL SWITCH<br/>
 </td>
 </tr>
+<tr>
+<td> FR-new-40000003</td>
+<td>
+<p align="center"> Electricité de Mayotte </p>
+</td>
+<td>
+<p align="center"> EDM Centrale de Badamiers</p>
+</td>
+</tr>
+<tr>
+<td> FR-new-40000024</td>
+<td>
+<p align="center"> Electricité de Mayotte </p>
+</td>
+<td>
+<p align="center"> EDM Centrale de Longoni</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
