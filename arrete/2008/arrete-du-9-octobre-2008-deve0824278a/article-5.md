@@ -8,8 +8,10 @@ L'inventaire que les responsables d'activités nucléaires et d'entreprises vis�
 
 ― la nature des déchets et les radionucléides détenus ;
 
-― le volume brut des déchets présents sur le site à la date de la déclaration ;
+- les quantités présentes exprimées selon le critère le plus adapté au cas décrit (nombre d'objets, volume, masse) ;
 
-― l'indication de la filière de gestion utilisée pour les déchets ;
+- les principaux radionucléides contributeurs à l'activité et l'activité des déchets au 31 décembre de l'année précédant la transmission des informations ;
+
+- l'indication de la filière de gestion utilisée ou envisagée pour les déchets ;
 
 ― le domaine d'activité du détenteur (médical, recherche, activité industrielle ou autre).

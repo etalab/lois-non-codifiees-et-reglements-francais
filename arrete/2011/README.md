@@ -97,7 +97,6 @@
 - [Arrêté du 3 février 2011 (DEVL1102803A)](arrete-du-3-fevrier-2011-devl1102803a)
 - [Arrêté du 3 février 2011 (EFIT1101714A)](arrete-du-3-fevrier-2011-efit1101714a)
 - [Arrêté du 3 février 2011 (ESRR1032164A)](arrete-du-3-fevrier-2011-esrr1032164a)
-- [Arrêté du 3 février 2011 (INDR1109406A)](arrete-du-3-fevrier-2011-indr1109406a)
 - [Arrêté du 3 janvier 2011 (AGRT1031994A)](arrete-du-3-janvier-2011-agrt1031994a)
 - [Arrêté du 3 janvier 2011 (BCRD1100027A)](arrete-du-3-janvier-2011-bcrd1100027a)
 - [Arrêté du 3 janvier 2011 (BCRD1100031A)](arrete-du-3-janvier-2011-bcrd1100031a)

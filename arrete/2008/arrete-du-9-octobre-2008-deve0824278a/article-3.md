@@ -2,13 +2,29 @@
 
 L'inventaire que les exploitants d'un ou de plusieurs sites visés à l'article R. 542-67 du code de l'environnement ont obligation de transmettre tous les trois ans à l'Agence nationale pour la gestion des déchets radioactifs, en application de l'article R. 542-69 du même code, comporte les informations suivantes, évaluées selon les meilleures hypothèses disponibles à la date de transmission :
 
-― les volumes prévisionnels de déchets par famille présents sur le territoire national aux dates de référence fixées par arrêté du ministre chargé de l'énergie ;
+1° Les déchets prévisionnels, par installation d'origine, présents sur le territoire national aux échéances définies à l'article 7 :
 
-― les conditionnements des déchets, réalisés (en pourcentage) aux dates de référence ;
+-les quantités prévisionnelles, exprimées en volume équivalent de déchets conditionnés, selon la ou les hypothèses de conditionnement associées, par famille de déchets pour les échéances définies au 1° de l'article 7 ;
 
-― les quantités prévisionnelles de matières radioactives présentes sur le territoire national aux dates de référence, selon les modalités définies à l'article 4 du présent arrêté ;
+-les quantités prévisionnelles, exprimées en volume équivalent de déchets conditionnés, selon la ou les hypothèses de conditionnement associées, par catégorie de déchets définies en annexe I pour les échéances définies au 2° de l'article 7 ;
 
-― des informations spécifiques aux installations d'entreposage (au sens de l'article 5 de la loi susvisée du 28 juin 2006) destinées à accueillir des déchets pour lesquels les solutions de gestion définitives sont encore à l'état de projet. Il s'agit des colis de déchets de haute activité et de moyenne activité à vie longue destinés au stockage profond, produits ou à produire, des déchets radifères et des déchets tritiés :
+-conditionnements des déchets, réalisés (en pourcentage) aux échéances définies à l'article 7 ;
+
+-pourcentage d'appartenance des déchets à l'un des types suivants :
+
+i) Déchets issus des opérations de cessation définitive d'exploitation, de mise à l'arrêt définitif, de démantèlement et d'assainissement ;
+
+ii) Déchets issus des opérations de reprise et de conditionnement des déchets anciens ;
+
+iii) Déchets de fonctionnement, y compris les déchets issus du traitement des combustibles usés ;
+
+L'exploitant complète ces données par une annexe indiquant la répartition par producteur, par secteur économique et par famille de ces déchets prévisionnels ;
+
+2° Les estimations de quantités de déchets, exprimées en volume équivalent de déchets conditionnés, selon la ou les hypothèses de conditionnement associées, par catégorie définie en annexe I, présents sur le territoire national, selon des scénarios prospectifs ;
+
+3° Les stocks prévisionnels de matières radioactives présentes sur le territoire national aux échéances définies à l'article 7, selon les modalités définies à l'article 4 du présent arrêté ;
+
+4° Des informations spécifiques aux installations d'entreposage, au sens de l'article L. 542-1-1 du code de l'environnement, destinées à accueillir des déchets radioactifs pour lesquels les solutions de gestion définitives n'existent pas ou sont encore à l'état de projet :
 
 ― lieu d'entreposage ;
 
