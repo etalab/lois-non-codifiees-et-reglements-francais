@@ -1,6 +1,6 @@
 # Article 5
 
-A compter du 1er janvier 2003, toutes les cages visées au présent chapitre répondent au moins aux exigences suivantes :
+Par dérogation aux dispositions du chapitre IV du présent arrêté et jusqu'au 31 décembre 2017, les cages, à Mayotte, répondent au moins aux exigences suivantes :
 
 1° Les poules pondeuses doivent disposer d'au moins 550 centimètres carrés de surface par animal. Cette surface est mesurée sur le plan horizontal et utilisable sans restriction. L'installation de rebords déflecteurs antigaspillage ne doit pas restreindre la surface disponible par animal ;
 

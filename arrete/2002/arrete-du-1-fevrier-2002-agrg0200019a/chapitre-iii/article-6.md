@@ -1,3 +1,3 @@
 # Article 6
 
-Jusqu'au 1er janvier 2003, une surface de 450 centimètres carrés par animal, calculée conformément au point 1 de l'article 5, est autorisée pour les cages visées au présent chapitre.
+Les œufs de poules provenant d'établissements d'élevage de poules pondeuses répondant aux conditions de l'article 5 ne peuvent être mis que sur le marché local de Mayotte, sous réserve d'être identifiés, ainsi que leur emballage, par la marque spéciale "YT". Cette marque est ajoutée sur les œufs et leur emballage par tout moyen en garantissant l'intégrité.
