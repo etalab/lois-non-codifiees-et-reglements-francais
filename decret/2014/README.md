@@ -67,6 +67,7 @@
 - [Décret n°2014-424 du 24 avril 2014 (AGRT1324164D)](decret-n2014-424-du-24-avril-2014-agrt1324164d)
 - [Décret n°2014-369 du 25 mars 2014 (AGRT1330070D)](decret-n2014-369-du-25-mars-2014-agrt1330070d)
 - [Décret n°2014-370 du 25 mars 2014 (RDFZ1400987D)](decret-n2014-370-du-25-mars-2014-rdfz1400987d)
+- [Décret n°2014-425 du 25 avril 2014 (PRMX1409669D)](decret-n2014-425-du-25-avril-2014-prmx1409669d)
 - [Décret n°2014-371 du 26 mars 2014 (ACTI1402773D)](decret-n2014-371-du-26-mars-2014-acti1402773d)
 - [Décret n°2006-481 du 27 avril 2006 (SOCU0511416D)](decret-n2006-481-du-27-avril-2006-socu0511416d)
 - [Décret n°2014-373 du 27 mars 2014 (EFIT1405000D)](decret-n2014-373-du-27-mars-2014-efit1405000d)

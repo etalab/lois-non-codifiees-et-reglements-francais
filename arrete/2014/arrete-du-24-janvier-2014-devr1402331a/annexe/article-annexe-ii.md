@@ -692,12 +692,11 @@
 <br/>FR000000000000021</p>
 </td>
 <td>
-<p align="center">
-<br/>ATEMAX NORD EST</p>
+<p align="center">ATEMAX France </p>
 </td>
 <td>
 <p align="center">
-<br/>ATEMAX NORD EST</p>
+<br/>ATEMAX France </p>
 </td>
 <td>
 <p align="center">
@@ -1192,12 +1191,11 @@
 <br/>FR000000000000034</p>
 </td>
 <td>
-<p align="center">
-<br/>ArcelorMittal Atlantique &amp; Lorraine</p>
+<p align="center">ArcelorMittal Atlantique et Lorraine - Site de Montataire</p>
 </td>
 <td>
 <p align="center">
-<br/>ArcelorMittal Atlantique &amp; Lorraine MONTATAIRE 60761</p>
+<br/>ArcelorMittal Atlantique et Lorraine - Site de Montataire</p>
 </td>
 <td>
 <p align="center">
@@ -1593,11 +1591,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Dalkia France</p>
+<br/>VILLE D'AMIENS</p>
 </td>
 <td>
 <p align="center">
-<br/>Chaufferie Opac Nord Le Pigeonnier </p>
+<br/>Chaufferie Opac Nord "Le Pigeonnier" </p>
 </td>
 <td>
 <p align="center">
@@ -2209,31 +2207,30 @@
 </td>
 <td>
 <p align="center">
-<br/>3 214 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 813 </p>
+<br/>0 </p>
+</td>
+<td>
+<p align="center">0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 425 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 050 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 686 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 335 </p>
-</td>
-<td>
-<p align="center">
-<br/>21 206</p>
+<br/>7 683</p>
 </td>
 </tr>
 <tr>
@@ -5143,11 +5140,10 @@
 </td>
 <td>
 <p align="center">
-<br/>INDUSTEEL France SITE DU CREUSOT</p>
+<br/>Industeel France - Site du Creusot</p>
 </td>
 <td>
-<p align="center">
-<br/>INDUSTEEL France - site du CREUSOT (71201)</p>
+<p align="center">Industeel France - Site du Creusot</p>
 </td>
 <td>
 <p align="center">
@@ -5593,11 +5589,11 @@
 </td>
 <td>
 <p align="center">
-<br/>SOCCRAM</p>
+<br/>SODIEN </p>
 </td>
 <td>
 <p align="center">
-<br/>SOCCRAM Chaufferie urbaine de CHENOVE</p>
+<br/>SODIEN chaufferie urbaine de Chenove </p>
 </td>
 <td>
 <p align="center">
@@ -5709,31 +5705,30 @@
 </td>
 <td>
 <p align="center">
-<br/>180 915 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>177 587 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>174 222 </p>
+<br/>0 </p>
 </td>
 <td>
 <p align="center">
-<br/>170 825 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>167 385 </p>
+<br/>0</p>
+</td>
+<td>
+<p align="center">0 </p>
 </td>
 <td>
 <p align="center">
-<br/>163 933 </p>
-</td>
-<td>
-<p align="center">
-<br/>1 406 543</p>
+<br/>371 676</p>
 </td>
 </tr>
 <tr>
@@ -6555,35 +6550,33 @@
 </td>
 <td>
 <p align="center">
-<br/>33 035 </p>
+<br/>18 773</p>
 </td>
 <td>
 <p align="center">
-<br/>29 261 </p>
+<br/>16 628</p>
+</td>
+<td>
+<p align="center">14 548</p>
 </td>
 <td>
 <p align="center">
-<br/>25 600 </p>
+<br/>12 533</p>
 </td>
 <td>
 <p align="center">
-<br/>22 054 </p>
+<br/>10 582</p>
 </td>
 <td>
 <p align="center">
-<br/>18 621 </p>
+<br/>8 695</p>
 </td>
 <td>
 <p align="center">
-<br/>15 301 </p>
+<br/>6 879</p>
 </td>
 <td>
-<p align="center">
-<br/>12 105 </p>
-</td>
-<td>
-<p align="center">
-<br/>192 890</p>
+<p align="center">125 551</p>
 </td>
 </tr>
 <tr>
@@ -7509,31 +7502,30 @@
 </td>
 <td>
 <p align="center">
-<br/>6 156 </p>
+<br/>0</p>
+</td>
+<td>
+<p align="center">0</p>
 </td>
 <td>
 <p align="center">
-<br/>6 034 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>5 910 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>5 786 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>5 659 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>5 534 </p>
-</td>
-<td>
-<p align="center">
-<br/>47 755</p>
+<br/>12 676</p>
 </td>
 </tr>
 <tr>
@@ -12243,11 +12235,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Gemdoubs</p>
+<br/>GEMDOUBS</p>
 </td>
 <td>
 <p align="center">
-<br/>Gemdoubs</p>
+<br/>GEMDOUBS à Novillars </p>
 </td>
 <td>
 <p align="center">
@@ -12643,11 +12635,11 @@
 </td>
 <td>
 <p align="center">
-<br/>PARISOT MEUBLES</p>
+<br/>PARISOT SAS</p>
 </td>
 <td>
 <p align="center">
-<br/>PARISOT MEUBLES</p>
+<br/>PARISOT SAS</p>
 </td>
 <td>
 <p align="center">
