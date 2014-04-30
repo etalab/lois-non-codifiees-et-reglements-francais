@@ -301,7 +301,6 @@
 - [Arrêté du 5 octobre 2011 (JUSF1127671A)](arrete-du-5-octobre-2011-jusf1127671a)
 - [Arrêté du 5 octobre 2011 (MENE1127135A)](arrete-du-5-octobre-2011-mene1127135a)
 - [Arrêté du 5 septembre 1991 (SANH9101415A)](arrete-du-5-septembre-1991-sanh9101415a)
-- [Arrêté du 5 septembre 1994 (MEND9401355A)](arrete-du-5-septembre-1994-mend9401355a)
 - [Arrêté du 5 septembre 2011 (AGRS1123789A)](arrete-du-5-septembre-2011-agrs1123789a)
 - [Arrêté du 5 septembre 2011 (DEFH1121021A)](arrete-du-5-septembre-2011-defh1121021a)
 - [Arrêté du 5 septembre 2011 (DEFH1124539A)](arrete-du-5-septembre-2011-defh1124539a)
