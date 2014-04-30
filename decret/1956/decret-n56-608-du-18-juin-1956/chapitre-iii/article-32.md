@@ -1,5 +1,0 @@
-# Article 32
-
-A titre transitoire, sont dispensées du stage et de l'examen professionnel les personnes habituellement désignées par les tribunaux de commerce, avant l'entrée en vigueur du présent décret, pour exercer les fonctions de syndics de faillite, liquidateurs judiciaires, administrateurs au règlement judiciaire ou d'administrateurs judiciaires-liquidateurs de sociétés, sous réserve de remplir les autres conditions fixées à l'article 1er ci-dessus et d'avoir, dans un délai de deux mois à compter de la publication du présent décret, formulé une demande d'inscription sur la liste visée à l'article 1er du décret du 20 mai 1955.
-
-Toutefois, pour les syndics de faillite, liquidateurs judiciaires et administrateurs au règlement judiciaire inscrits comme membres de l'association nationale des syndics de faillites et liquidateurs judiciaires de France au tableau de l'année 1955-1956, la justification de cette inscription tiendra lieu du certificat de présentation visé à l'article 1er ci-dessus.

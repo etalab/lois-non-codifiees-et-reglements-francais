@@ -1,3 +1,0 @@
-# Article 34
-
-En cas de demande de conversion du porteur au nominatif, les personnes morales émettrices ou les établissements chargés par elles du service des transferts doivent procéder à l'opération sur la production des titres et la seule réquisition du déposant, dans un délai de dix jours à compter de la date du dépôt de la réquisition. Aucune justification ne peut être demandée à l'appui des opérations de cette nature. La production des titres est remplacée soit par un virement, lorsque les titres sont déposés à la "Société interprofessionnelle pour la compensation des valeurs mobilières", soit par un ordre de débit, quand il s'agit de rentes sur l'Etat inscrites en comptes courants collectifs.

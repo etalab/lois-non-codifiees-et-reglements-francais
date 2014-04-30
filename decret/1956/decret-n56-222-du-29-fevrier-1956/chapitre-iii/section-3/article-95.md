@@ -1,3 +1,0 @@
-# Article 95
-
-Les articles 94 à 99 inclus du décret du 30 mars 1808 contenant règlement pour la police et la discipline des cours et tribunaux, les articles 116 à 120 inclus du décret du 6 juillet 1810 contenant règlement sur l'organisation et le service des cours impériales et des cours d'assises, le décret du 14 juin 1813 portant règlement sur l'organisation et le service des huissiers, le décret du 19 décembre 1945 pris pour l'application du statut des huissiers, modifié et complété par les décrets du 5 février 1947, 29 novembre 1951, 16 juin 1952 et 30 avril 1954, ainsi que toutes dispositions contraires à celles du présent décret sont abrogés.

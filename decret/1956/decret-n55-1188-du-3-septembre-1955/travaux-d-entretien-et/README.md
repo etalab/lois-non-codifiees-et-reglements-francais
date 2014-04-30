@@ -1,3 +1,0 @@
-# TRAVAUX D'ENTRETIEN ET DE REPARATION
-
-- [Article 19](article-19.md)

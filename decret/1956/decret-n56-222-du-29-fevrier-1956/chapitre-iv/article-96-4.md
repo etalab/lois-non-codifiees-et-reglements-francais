@@ -1,3 +1,0 @@
-# Article 96-4
-
-Dans le cas prévu à l'article 10 du décret n° 73-1202 du 28 décembre 1973 relatif à la discipline et au statut des officiers publics et ministériels, lorsque la chambre de discipline décide de charger son président de citer directement l'huissier de justice poursuivi devant le tribunal de grande instance statuant disciplinairement, la chambre de discipline peut, conformément à l'article 7 bis de l'ordonnance du 2 novembre 1945 précitée, proposer à la juridiction compétente de prononcer à l'encontre de l'huissier de justice poursuivi l'une des peines disciplinaires énumérées aux 4°, 5° et 6° de l'article 3 de l'ordonnance du 28 juin 1945 précitée.

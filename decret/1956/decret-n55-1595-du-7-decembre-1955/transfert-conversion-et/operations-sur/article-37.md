@@ -1,7 +1,0 @@
-# Article 37
-
-Lorsque les opérations visées à l'alinéa 1er de l'article précédent sont demandées au guichet de la personne morale émettrice par le titulaire ou son représentant qualifié justifiant de son identité, la certification de la signature du requérant ne peut être exigée si cette signature est apposée par lui en présence du représentant de la personne morale. L'identité est suffisamment établie par la présentation de la carte nationale d'identité du requérant ou de tout autre pièce régulièrement délivrée par l'autorité administrative et portant l'indication des nom et prénoms de l'intéressé, de ses qualités, nationalité, date de naissance, domicile et revêtue du spécimen de sa signature et de sa photographie régulièrement oblitérée.
-
-En l'absence de mutation, le remboursement total ou partiel d'un titre nominatif peut être effectué par chèque barré ou virement bancaire à la demande du titulaire ou de son représentant qualifié, à condition que le chèque soit établi ou que le compte à créditer soit ouvert au nom du titulaire du certificat, sans que la signature du requérant ait à être certifiée. Pour les certificats collectifs, la demande n'a pas à être renouvelée. L'avis d'inscription au compte intéressée, constitue la décharge de la personne morale émettrice. Les frais de virement sont à la charge de cette dernière.
-
-En ce qui concerne les titres émis par l'Etat, les départements et les communes, les conditions et modalités d'application du précédent alinéa sont fixées par décision du ministre des finances et des affaires économiques.

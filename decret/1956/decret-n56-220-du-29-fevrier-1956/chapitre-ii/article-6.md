@@ -1,3 +1,0 @@
-# Article 6
-
-Le conseil d'administration de la caisse régionale arr^te ses dépenses de gestion, contrôle les états de produits fournis par les chambres de discipline comprises dans la circonscription, gère les ressources prévues à l'article 11 ci-après, assure la correspondance avec les ressortissants et les créanciers de la caisse, ainsi qu'avec la caisse centrale, dresse, le 1er février de chaque année au plus tard, le bilan des opérations de la caisse pour l'année précédente, surveille l'envoi d'un exemplaire de ce bilan avant le 15 février de la même année au parquet général de la cour d'appel. Il fait effectuer sous le contrôle du conseil d'administration de la caisse centrale, le paiement des sommes dont la caisse régionale doit la garantie.
