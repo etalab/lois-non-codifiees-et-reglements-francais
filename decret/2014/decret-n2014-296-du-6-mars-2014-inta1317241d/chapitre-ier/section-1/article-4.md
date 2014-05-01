@@ -1,0 +1,3 @@
+# Article 4
+
+Dans les matières énumérées à l'article 2, et sous réserve des dispositions de l'article 5, le préfet de zone de défense et de sécurité, les préfets de région, les préfets de département et, dans le département des Bouches-du-Rhône, le préfet de police des Bouches-du-Rhône peuvent donner délégation de signature au secrétaire général pour l'administration du ministère de l'intérieur, au secrétaire général adjoint pour l'administration du ministère de l'intérieur, aux chargés de mission mentionnés à l'article 3 et aux agents en fonction, dans les secrétariats généraux pour l'administration du ministère de l'intérieur.

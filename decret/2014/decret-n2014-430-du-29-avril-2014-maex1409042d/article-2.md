@@ -1,0 +1,3 @@
+# Article 2
+
+Par délégation du ministre des affaires étrangères et du développement international, la secrétaire d'Etat chargée du développement et de la francophonie préside tous les organismes relevant de ses attributions, et notamment le Conseil national du développement et de la solidarité internationale, la conférence d'orientation stratégique et de programmation créée dans le cadre du comité interministériel de la coopération internationale et du développement par le décret du 11 septembre 2000 susvisé et le conseil d'orientation stratégique de l'Agence française de développement mentionné à l'article R. 516-3-1 du code monétaire et financier.
