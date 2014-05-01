@@ -162,7 +162,7 @@ b) Provenant d'un Etat de l'Union européenne autre que la France, dans les cas 
 
 1. E. 4. Visite ou contrôle technique
 
-La preuve d'un contrôle technique.
+La preuve d'un contrôle technique français ou émanant d'un autre Etat membre de l'Union européenne.
 
 1. F.-L'immatriculation des cyclomoteurs
 
