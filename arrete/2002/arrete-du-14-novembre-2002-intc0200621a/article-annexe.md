@@ -1,6 +1,8 @@
 # Article Annexe
 
-T A B L E A U  A N N E X E
+T A B L E A U
+
+A N N E X E
 
 SECRÉTARIATS GÉNÉRAUX POUR L'ADMINISTRATION DE LA POLICE
 
@@ -57,18 +59,6 @@ SECRÉTARIATS GÉNÉRAUX POUR L'ADMINISTRATION DE LA POLICE
 </tr>
 <tr>
 <td>
-<p align="center">Zone de défense de Paris</p>
-<p align="center">Sièges : Paris (départements de Paris et de la petite couronne de la région d'Ile-de-France) et Versailles (départements de la grande couronne de la région d'Ile-de-France</p>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<p align="center">Pour Versailles, siège : Melun</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Zone de défense sud</p>
 <p align="center">Siège : Marseille (départements des régions Corse, Languedoc-Roussillon et Provence-Alpes-Côte d'Azur</p>
 </td>
@@ -101,6 +91,49 @@ SECRÉTARIATS GÉNÉRAUX POUR L'ADMINISTRATION DE LA POLICE
 </td>
 <td>
 <p align="center">Sièges : Bayonne, la Rochelle, Limoges, Tarbes</p>
+</td>
+</tr>
+</tbody>
+</table>. <table>
+<tbody>
+<tr>
+<td>
+<p align="center">SECRETARIATS GENERAUX</p>
+<p align="center">Pour l'administration de la police</p>
+</td>
+<td>
+<p align="center">SERVICES </p>
+<p align="center">administratifs</p>
+</td>
+<td>
+<p align="center">SERVICES</p>
+<p align="center">Techniques </p>
+</td>
+<td>
+<p align="center">ANTENNES LOGISTIQUES</p>
+</td>
+<td>
+<p align="center">ANTENNES</p>
+<p align="center">techniques</p>
+<p align="center">SIC </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Zone de défense et de sécurité de Paris</p>
+<p align="center">Siège : Paris (départements de la région Ile-de-France)</p>
+</td>
+<td>
+<p align="center">Siège : Versailles</p>
+</td>
+<td>
+<p align="center">Siège : Le Chesnay</p>
+</td>
+<td>
+<p align="center">Sièges : Boissy-l'Aillerie, Chevilly-Larue et Créteil</p>
+</td>
+<td>
+<p align="center">Siège : Melun</p>
 </td>
 </tr>
 </tbody>
