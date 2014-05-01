@@ -6,10 +6,10 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <tbody>
 <tr>
 <td width="337">
-<p align="center">TYPE D'ÉTABLISSEMENT</p>
+<p align="center">TYPE D'ÉTABLISSEMENT </p>
 </td>
 <td width="337">
-<p align="center">ÉTABLISSEMENT</p>
+<p align="center">ÉTABLISSEMENT </p>
 </td>
 </tr>
 <tr>
@@ -17,8 +17,13 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 <p align="center">Maison d'arrêt </p>
 </td>
 <td valign="top" width="337">
-<p align="center">Chartres</p>
+<p align="center">Chartres </p>
 </td>
+</tr>
+<tr>
+<td align="center">Maison d'arrêt <br/>
+</td>
+<td align="center">Paris-La Santé</td>
 </tr>
 </tbody>
 </table>
