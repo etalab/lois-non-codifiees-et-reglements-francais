@@ -257,5 +257,4 @@
 - [Arrêté du 30 octobre 2012 (DEVK1237686A)](arrete-du-30-octobre-2012-devk1237686a)
 - [Arrêté du 30 mai 2013 (DEVK1311740A)](arrete-du-30-mai-2013-devk1311740a)
 - [Arrêté du 30 mai 2013 (PRMG1311160A)](arrete-du-30-mai-2013-prmg1311160a)
-- [Arrêté du 31 décembre 2012 (AFSR1243082A)](arrete-du-31-decembre-2012-afsr1243082a)
 - [Arrêté du 31 décembre 2012 (EFIE1238702A)](arrete-du-31-decembre-2012-efie1238702a)
