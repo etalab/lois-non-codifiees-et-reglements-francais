@@ -4,6 +4,8 @@
 
 Un pari "Quinté plus" consiste à désigner cinq chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 
+Le pari "Quinté Plus" peut également être proposé sous une dénomination commerciale spécifique portée à la connaissance des parieurs. Les dispositions du présent arrêté applicables au pari "Quinté Plus" sont applicables au pari proposé sous la dénomination commerciale correspondante.
+
 Un pari "Quinté plus" est payable si au moins trois des cinq chevaux choisis occupent les trois premières places de l'épreuve, sauf cas prévu au paragraphe c) 2 ci-dessous.
 
 a) Il donne lieu à un rapport dit "Quinté plus dans l'ordre exact si les cinq chevaux choisis occupent les cinq premières places et si l'ordre stipulé par le parieur pour les cinq chevaux désignés est conforme à l'ordre de classement des chevaux à l'arrivée de l'épreuve ;

@@ -2,7 +2,9 @@
 
 Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "Couplé gagnant ou "Couplé placé peuvent être organisés.
 
-Un pari "Couplé gagnant" ou "placé" consiste à désigner deux chevaux d'une même course et à spécifier le type de pari "Couplé gagnant" ou "Couplé placé".
+Un pari "Couplé Gagnant" ou "Couplé Placé" consiste à désigner deux chevaux d'une même course et à spécifier le type de pari "Couplé Gagnant" ou "Couplé Placé".
+
+Le pari "Couplé Gagnant" peut également être proposé sous une dénomination commerciale spécifique portée à la connaissance des parieurs. Les dispositions du présent arrêté applicables au pari "Couplé Gagnant" sont applicables au pari proposé sous la dénomination commerciale correspondante.
 
 Un pari "Couplé gagnant" est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve quel que soit l'ordre d'arrivée.
 

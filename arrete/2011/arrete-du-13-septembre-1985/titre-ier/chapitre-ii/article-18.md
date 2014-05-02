@@ -6,7 +6,7 @@ Les rapports bruts sont déterminés par la répartition des enjeux centralisés
 
 La déduction proportionnelle sur enjeux est composée, d'une part, d'une déduction sur les sommes encaissées et, d'autre part, d'une déduction pour retour commercial affectée à l'attribution des lots en numéraire ou en nature visés à l'article 2.
 
-Les taux des déductions mentionnées à l'alinéa précédent, appliqués pour chaque type de paris et dont le total doit être compris entre 10 % et 40 %, sont portés à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement du PMU.
+Les taux des déductions mentionnées à l'alinéa précédent, dont le total doit être compris entre 10 % et 40 %, peuvent être distincts selon que les enjeux sont enregistrés en France ou depuis l'étranger. Ils sont appliqués pour chaque type de pari et portés à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari considéré par tous moyens ou supports précisés par voie d'affichage sur les hippodromes et dans les postes d'enregistrement du PMU.
 
 Le calcul des rapports est arrondi au décime inférieur. Les centimes résultant de l'application de cette disposition, dénommés arrondis sur rapports, sont affectés au produit brut des paris, entendu comme la différence entre le total des enjeux diminué de l'ensemble des déductions fixées par le présent arrêté et de la part de ces sommes reversées aux parieurs gagnants.
 

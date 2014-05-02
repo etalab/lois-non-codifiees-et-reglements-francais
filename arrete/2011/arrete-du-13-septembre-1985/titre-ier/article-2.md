@@ -4,4 +4,4 @@ Les enjeux engagés par les parieurs sur un type de pari donné sont redistribu�
 
 Les enjeux engagés sont ceux qui ont fait l'objet d'une centralisation.
 
-Des dotations spécifiques du Pari mutuel urbain ou d'annonceurs pourront ponctuellement, pour un type de pari donné, être affectées à l'attribution aléatoire ou non de lots en numéraire ou en nature.
+Des dotations spécifiques du Pari mutuel urbain ou d'annonceurs pourront         être affectées à l'attribution aléatoire ou non de lots en numéraire ou en nature.

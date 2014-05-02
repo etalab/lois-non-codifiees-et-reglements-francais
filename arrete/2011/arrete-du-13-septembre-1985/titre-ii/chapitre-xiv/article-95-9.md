@@ -55,3 +55,5 @@ La "Tirelire" peut également être abondée ponctuellement au-delà du montant 
 Dans le cas où aucune des combinaisons donnant lieu au rapport exact d'arrivée ne comporterait le "N° Plus Gagnant", ou dans le cas où il n'est pas organisé de "Quinté Plus" lors de la journée sur laquelle la "Tirelire" aurait été normalement redistribuée, le montant de la "Tirelire" constituée sur l'épreuve considérée est, sauf cas prévu au quatrième alinéa du a ci-dessus, ajouté au montant de la "Tirelire" constituée en application des dispositions de l'article 95.5 du premier "Quinté Plus" suivant celui sur lequel la "Tirelire" aurait été normalement redistribuée.
 
 Le montant de la "Tirelire" ainsi que la journée sur laquelle il sera redistribué est porté à la connaissance des parieurs au plus tard lors du début des opérations d'enregistrement du pari "Quinté Plus" de la journée considérée.
+
+S'il est fait application des dispositions prévues à l'article 16 ou à l'article 20, le montant de la "Tirelire" éventuellement déjà communiqué est rectifié et porté à la connaissance des parieurs dans les meilleurs délais.

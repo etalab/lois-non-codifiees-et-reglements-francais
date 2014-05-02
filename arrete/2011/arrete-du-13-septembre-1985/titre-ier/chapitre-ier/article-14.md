@@ -4,7 +4,7 @@ Minimum d'enjeu.
 
 Un minimum d'enjeu est fixé pour chaque type de pari.
 
-Les dispositions de l'alinéa précédent ne font pas obstacle au fait que le Pari mutuel urbain ou un annonceur prenne ponctuellement en charge le règlement de tout ou partie du montant de l'enjeu de tout ou partie des parieurs.
+Les dispositions de l'alinéa précédent ne font pas obstacle au fait que le Pari mutuel urbain ou un annonceur prenne en charge le règlement de tout ou partie du montant de l'enjeu de tout ou partie des parieurs.
 
 Ces minima d'enjeu sont arrêtés par le ministre chargé de l'agriculture et le ministre chargé du budget.
 
