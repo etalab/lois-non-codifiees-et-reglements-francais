@@ -10,4 +10,4 @@ Il fait rapport de ses constatations, conclusions et suggestions.
 
 L'expert-comptable peut aussi accompagner la création d'entreprise sous tous ses aspects comptables ou à finalité économique et financière.
 
-Les membres de l'ordre et les associations de gestion et de comptabilité peuvent assister, dans leurs démarches déclaratives à finalité fiscale, sociale et administrative, les personnes physiques qui leur ont confié les éléments justificatifs et comptables nécessaires auxdites démarches.
+Les membres de l'ordre, les succursales et les associations de gestion et de comptabilité peuvent assister, dans leurs démarches déclaratives à finalité fiscale, sociale et administrative, les personnes physiques qui leur ont confié les éléments justificatifs et comptables nécessaires auxdites démarches.

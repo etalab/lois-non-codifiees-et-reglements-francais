@@ -6,7 +6,9 @@ Sont fixés par décret :
 
 2° La proportion entre le nombre de comptables salariés dont les services peuvent être utilisés par une société membre de l'ordre et le nombre de membres de l'ordre, associés ou salariés, exerçant de manière effective et régulière au sein de ladite société ;
 
-3° La proportion entre le nombre de comptables salariés dont les services peuvent être utilisés par une association de gestion et de comptabilité et le nombre de membres de l'ordre ou de salariés autorisés à exercer la profession en vertu des articles 83 ter ou 83 quater, exerçant de manière effective et régulière au sein de ladite association.
+3° La proportion entre le nombre de comptables salariés dont les services peuvent être utilisés par une association de gestion et de comptabilité et le nombre de membres de l'ordre ou de salariés autorisés à exercer la profession en vertu des articles 83 ter ou 83 quater, exerçant de manière effective et régulière au sein de ladite association ;
+
+4° La proportion entre le nombre de comptables salariés dont les services peuvent être utilisés par une succursale et le nombre de membres de l'ordre exerçant de manière effective et régulière au sein de ladite succursale.
 
 Les experts-comptables stagiaires n'entrent pas dans le calcul de ces ratios.
 

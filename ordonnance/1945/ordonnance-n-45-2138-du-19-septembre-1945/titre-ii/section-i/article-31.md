@@ -14,7 +14,7 @@ Sous réserve des dispositions prévues à l'article 42 bis le conseil régional
 
 6° Surveiller et contrôler les stages ;
 
-7° Fixer et recouvrer le montant des cotisations qui doivent être versées par les membres de l'ordre et les personnes physiques soumises à sa surveillance et à son contrôle disciplinaire pour couvrir les frais de fonctionnement administratif de l'ordre, ainsi que les contributions dues par les associations de gestion et de comptabilité en application de l'article 7 ter ;
+7° Fixer et recouvrer le montant des cotisations qui doivent être versées par les membres de l'ordre, les succursales et les personnes physiques soumises à sa surveillance et à son contrôle disciplinaire pour couvrir les frais de fonctionnement de l'ordre, ainsi que les contributions dues par les associations de gestion et de comptabilité en application de l'article 7 ter ;
 
 8° Saisir le conseil supérieur de toutes requêtes ou suggestions concernant la profession d'expert comptable.
 
@@ -22,6 +22,6 @@ Le conseil régional en tant que représentant de l'ordre de la circonscription 
 
 Délibérer sur toute question intéressant les professions relevant de sa compétence ;
 
-Saisir la chambre régionale de discipline de la région, ou de toute autre région, des fautes professionnelles relevées à l'encontre des membres de l'ordre et des personnes physiques soumises à sa surveillance et à son contrôle disciplinaire.
+Saisir la chambre régionale de discipline de la région, ou de toute autre région, des fautes professionnelles relevées à l'encontre des membres de l'ordre, des succursales représentées par le représentant ordinal et des personnes physiques soumises à sa surveillance et à son contrôle disciplinaire.
 
 Créer dans sa circonscription, après avis du conseil supérieur, des organismes de coopération, de mutualité, d'assistance ou de retraite au bénéfice de ses membres et de leurs familles.
