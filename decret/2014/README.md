@@ -106,4 +106,7 @@
 - [Décret n°2014-438 du 29 avril 2014 (DEFX1409096D)](decret-n2014-438-du-29-avril-2014-defx1409096d)
 - [Décret n°2014-439 du 29 avril 2014 (FVJX1409017D)](decret-n2014-439-du-29-avril-2014-fvjx1409017d)
 - [Décret n°2014-440 du 29 avril 2014 (RDFX1408919D)](decret-n2014-440-du-29-avril-2014-rdfx1408919d)
+- [Décret n°2014-442 du 29 avril 2014 (JUSK1400864D)](decret-n2014-442-du-29-avril-2014-jusk1400864d)
+- [Décret n°2014-444 du 29 avril 2014 (FCPT1405685D)](decret-n2014-444-du-29-avril-2014-fcpt1405685d)
+- [Décret n°2014-446 du 30 avril 2014 (RDFX1408827D)](decret-n2014-446-du-30-avril-2014-rdfx1408827d)
 - [Décret n°2014-394 du 31 mars 2014 (PRMX1405415D)](decret-n2014-394-du-31-mars-2014-prmx1405415d)

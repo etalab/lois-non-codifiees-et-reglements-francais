@@ -1,0 +1,3 @@
+# Article 6
+
+A compter de la date de notification de la décision administrative d'octroi de l'aide (convention) par le préfet de région, le demandeur perd le bénéfice de sa licence CMEA et s'engage à sortir de flotte son (ses) navire(s) dans un délai de deux mois. Ce délai peut être prorogé d'un mois maximum sur décision du préfet de région. En tout état de cause, la destruction ne pourra intervenir après le 28 novembre 2014. A l'expiration de ce délai, la convention est réputée caduque. Seule la destruction est retenue comme mode de sortie de flotte. Celle-ci doit s'effectuer dans le respect de la réglementation en vigueur.
