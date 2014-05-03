@@ -8,4 +8,4 @@ En cas d'extrême urgence dûment motivée, ce délai peut être fixé à une du
 
 II. - Un délai supérieur à celui mentionné au premier alinéa du I du présent article peut, par exception et sans pouvoir excéder dix semaines, être prévu par décret en Conseil d'Etat et conseil des ministres.
 
-III. - Les dispositions qui précèdent ne s'appliquent pas aux commissions prévues aux articles L. 1211-1, L. 1211-4-1 et L. 1211-4-2 du code général des collectivités territoriales.
+III. - Les dispositions qui précèdent ne s'appliquent pas aux commissions prévues aux articles L. 1211-1, L. 1211-4-1 et L. 1212-1 du code général des collectivités territoriales.
