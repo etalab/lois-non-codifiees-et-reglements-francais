@@ -1,15 +1,17 @@
 # Article 26
 
-Les charges de l'établissement comprennent :
+Les charges de l'établissement sont présentées sous la forme de trois enveloppes regroupant :
 
-1° Les frais de personnel ;
+1° Les frais de personnel, qui comprennent :
 
-2° Les frais de fonctionnement, d'exploitation et de production ;
+a) Les rémunérations d'activité ;
 
-3° Les dépenses d'équipement ;
+b) Les cotisations et contributions sociales ;
 
-4° L'achat d'oeuvres et objets d'art pour le compte de l'Etat ;
+c) Les prestations sociales et allocations diverses ;
 
-5° Les impôts et contributions de toute nature ;
+2° Les dépenses de fonctionnement et d'intervention ;
 
-6° De façon générale, toutes dépenses nécessaires à l'accomplissement par l'établissement de ses missions.
+3° Les dépenses d'investissement.
+
+Le cas échéant, sur décision de l'organe délibérant, les dépenses d'intervention peuvent faire l'objet d'une enveloppe distincte.

@@ -4,7 +4,7 @@ Le conseil d'administration délibère sur :
 
 1° Les orientations ainsi que les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ;
 
-2°          Le budget  et ses modifications ;
+2° Le budget et ses modifications ;
 
 3° Le rapport annuel d'activités ;
 
@@ -16,7 +16,13 @@ Le conseil d'administration délibère sur :
 
 7° Les orientations générales de la politique d'acquisition des oeuvres et objets destinés à prendre place dans les collections nationales ;
 
-8° Les conventions mentionnées aux articles 3 et 15 du présent décret ;
+7° bis Le projet de contrat pluriannuel mentionné à l'article 3-1 et le rapport de performance qui rend compte chaque année de son exécution ;
+
+8° Les conventions mentionnées au 2 de l'article 3 ;
+
+8° bis Les concessions, les autorisations d'occupation et d'exploitation du domaine public et les délégations de service public ;
+
+8° ter Les projets de conventions d'utilisation des immeubles conclues en application de l'article 3-2 ;
 
 9° Le règlement intérieur de la Cité ;
 
@@ -40,4 +46,4 @@ Le conseil d'administration délibère sur :
 
 Le conseil d'administration donne son avis sur toute question sur laquelle le ministre chargé de la culture le consulte.
 
-Le conseil d'administration peut déléguer au directeur général les attributions prévues aux 8° pour ce qui concerne les conventions mentionnées à l'article 3 et 18° dans les limites qu'il détermine.
+Le conseil d'administration peut déléguer au directeur général les attributions prévues aux 8° et 18° dans les limites qu'il détermine.

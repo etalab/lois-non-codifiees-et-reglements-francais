@@ -4,13 +4,15 @@ Le directeur général :
 
 1° Prépare le programme d'activités et en assure le bon déroulement ;
 
-2° Prépare         le budget  de l'établissement public et les décisions modificatives, veille à ce qu'ils soient exécutés en équilibre ;
+2° Prépare le budget de l'établissement public et les décisions modificatives, veille à ce qu'ils soient exécutés en équilibre ;
 
 3° A autorité sur les services de l'établissement et arrête les règlements intérieurs du musée et de la salle de concert après avis des directeurs concernés ;
 
 4° Prépare les délibérations du conseil d'administration et en assure l'exécution ;
 
 5° Est ordonnateur des recettes et des dépenses ;
+
+5° bis Signe les contrats engageant l'établissement ;
 
 6° Prépare et signe les accords d'entreprise, et veille à leur bonne application ;
 

@@ -6,4 +6,6 @@ La Cité de la musique comprend un musée de la musique qui a pour mission de co
 
 La Cité de la musique comprend également une médiathèque qui propose à la consultation du public et des chercheurs des fonds documentaires et des bases de données sur les différents domaines et genres musicaux.
 
-La Cité de la musique a également pour mission de gérer des salles de concert, directement ou par l'intermédiaire de filiales, afin d'y rendre accessibles au public le plus large les oeuvres musicales, notamment contemporaines, d'y offrir un lieu de répétition à des formations instrumentales et d'y accueillir des opérateurs concourant à ces missions. A cette fin, la Cité de la musique gère les salles de concert dont elle est dotée dans le parc de La Villette et exploite la salle Pleyel. Elle y organise des concerts et des manifestations culturelles et utilise les techniques audiovisuelles.
+La Cité de la musique a également pour mission de gérer les salles de concert mises à sa disposition dans le parc de La Villette, afin d'y rendre accessibles au public le plus large les œuvres musicales, notamment contemporaines, d'y offrir un lieu de répétition à des formations instrumentales et d'y accueillir des opérateurs concourant à ses missions. Elle y organise des concerts et des manifestations culturelles et utilise les techniques audiovisuelles.
+
+La Cité de la musique gère la salle Pleyel, le cas échéant, dans les conditions prévues au 5 de l'article 3.

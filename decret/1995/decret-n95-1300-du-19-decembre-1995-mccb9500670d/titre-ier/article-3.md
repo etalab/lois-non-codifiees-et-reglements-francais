@@ -8,4 +8,6 @@ Pour l'accomplissement de ses missions, la Cité de la musique peut notamment :
 
 3. Réaliser et commercialiser directement ou indirectement tout produit ou service lié à ses missions de diffusion, d'éducation et de recherche ;
 
-4. Coopérer avec les collectivités territoriales, ainsi que les organismes, fondations et associations, français ou étrangers, poursuivant des objectifs répondant à sa vocation ; elle peut également créer des filiales ou prendre des participations dans le capital de sociétés poursuivant les mêmes objectifs.
+4. Coopérer avec les collectivités territoriales, ainsi que les organismes, fondations et associations, français ou étrangers, poursuivant des objectifs répondant à sa vocation ; elle peut également créer des filiales ou prendre des participations dans le capital de sociétés poursuivant les mêmes objectifs ;
+
+5. Concéder des activités, délivrer des autorisations d'occupation du domaine public à des personnes publiques et privées et accomplir tout acte juridique nécessaire à la valorisation du domaine de l'établissement.
