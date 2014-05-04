@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 rivières du Loing et du Lunain » (zone spéciale de conservation FR 1102005) l'espace délimité sur la carte d'assemblage au 1/100 000 et les six cartes au 1/25 000 ci-jointes, s'étendant dans le département de Seine-et-Marne, sur une partie du territoire des communes suivantes : Bagneaux-sur-Loing, Bourron-Marlotte, Château-Landon, Darvault, La Genevraye, Grez-sur-Loing, Lorrez-le-Bocage-Préaux, La Madeleine-sur-Loing, Montcourt-Fromonville, Montigny-sur-Loing, Moret-sur-Loing, Nanteau-sur-Lunain, Nemours, Nonville, Paley, Saint-Mammès, Saint-Pierre-lès-Nemours, Souppes-sur-Loing, Treuzy-Levelay, Veneux-les-Sablons, Villemer, Ecuelles, Episy.

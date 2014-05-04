@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 vallée de l'Allier nord » (zone spéciale de conservation FR 8301015) l'espace délimité sur la carte d'assemblage au 1/100 000 et les quinze cartes au 1/25 000 ci-jointes, s'étendant dans le département de l'Allier, sur une partie du territoire des communes suivantes : Aubigny, Avermes, Bagneux, Bessay-sur-Allier, Bressolles, Chemilly, Château-sur-Allier, Châtel-de-Neuvre, Contigny, Ferté-Hauterive, Montilly, Monétay-sur-Allier, Moulins, Neuvy, Paray-sous-Briailles, Saint-Loup, Saint-Léopardin-d'Augy, Saint-Pourçain-sur-Sioule, Toulon-sur-Allier, Trévol, Varennes-sur-Allier, le Veurdre, Villeneuve-sur-Allier.
