@@ -44,6 +44,12 @@ Paris ― Johannesbourg ;
 
 Paris ― Le Cap ;
 
+Paris-Durban ;
+
+Paris-East London ;
+
+Paris-George ;
+
 Algérie :
 
 Marseille ― Alger ;
@@ -136,6 +142,10 @@ Birmanie :
 
 Paris ― Rangoun ;
 
+Bolivie :
+
+Paris-Santa Cruz ;
+
 Botswana :
 
 Paris - Gaborone ;
@@ -166,6 +176,8 @@ Paris ― Fos de Iguazu ;
 
 Paris ― Goiania ;
 
+Paris-Imperatriz ;
+
 Paris ― Joao Pessoa ;
 
 Paris ― Londrina ;
@@ -190,9 +202,13 @@ Paris ― Rio de Janeiro
 
 Paris ― Salvador de Bahia ;
 
+Paris-Santarem ;
+
 Paris - São Luis ;
 
 Paris ― São Paulo ;
+
+Paris-Teresina ;
 
 Paris ― Vitoria ;
 
@@ -248,6 +264,8 @@ Paris ― Santiago ;
 
 Chine :
 
+Paris-Beihai ;
+
 Paris ― Canton ;
 
 Paris ― Changchun ;
@@ -259,6 +277,8 @@ Paris ― Chengdu ;
 Paris ― Chongqing ;
 
 Paris ― Dalian ;
+
+Paris-Daqing ;
 
 Paris ― Dayong ;
 
@@ -326,9 +346,9 @@ Paris ― Wuhan ;
 
 Paris - Wuxi ;
 
-Paris ― Xi'an ;
+Paris - Xi'an ;
 
-Paris ― Xiamen ;
+Paris - Xiamen ;
 
 Paris - Xining ;
 
@@ -336,9 +356,13 @@ Paris ― Yanji ;
 
 Paris ― Yantai ;
 
+Paris-Yichang ;
+
 Paris ― Yinchuan ;
 
 Paris ― Yiwu ;
+
+Paris-Zhanjiang ;
 
 Paris ― Zhengzhou ;
 
@@ -518,11 +542,17 @@ Honduras :
 
 Paris ― San Pedro Sula ;
 
+Paris-Tegucigalpa ;
+
 Hong Kong :
 
 Paris ― Hong Kong ;
 
 Inde :
+
+Paris-Ahmedabad ;
+
+Paris-Amritsar ;
 
 Paris ― Bangalore ;
 
@@ -532,7 +562,11 @@ Paris ― Calcutta ;
 
 Paris ― Delhi ;
 
+Paris-Goa ;
+
 Paris ― Hyderabad ;
+
+Paris-Kochi ;
 
 Paris ― Madras ;
 
@@ -567,6 +601,8 @@ Paris ― Montego Bay ;
 Japon :
 
 Paris ― Fukuoka ;
+
+Paris-Itami ;
 
 Paris ― Hiroshima ;
 
@@ -604,13 +640,17 @@ Paris ― Atyrau ;
 
 Kenya :
 
+Paris - Eldoret ;
+
 Paris ― Kisumu ;
 
 Paris ― Mombasa ;
 
 Paris ― Nairobi ;
 
-Paris - Eldoret ;
+Kirghizistan :
+
+Paris-Bichkek ;
 
 Koweït :
 
@@ -688,9 +728,13 @@ Paris ― Guadalajara ;
 
 Paris ― Hermosillo ;
 
+Paris-La Paz ;
+
 Paris ― Leon/ Guanajuato ;
 
 Paris ― Los Cabos ;
+
+Paris-Manzanillo ;
 
 Paris ― Mazatlán ;
 
@@ -804,6 +848,8 @@ Pays-Bas :
 
 Paris ― Bonaire ;
 
+Paris-Saint-Eustache ;
+
 Pérou :
 
 Paris ― Lima ;
@@ -874,6 +920,14 @@ Paris ― Tyumen ;
 
 Paris ― Volgograd ;
 
+Paris-Krasnodar ;
+
+Saint-Christophe-et-Niévès :
+
+Paris-Saint-Christophe ;
+
+Paris-Niévès ;
+
 Rwanda :
 
 Paris ― Kigali ;
@@ -881,6 +935,10 @@ Paris ― Kigali ;
 Saint-Martin :
 
 Paris ― Phillipsburg ;
+
+Salvador :
+
+Paris-San Salvador ;
 
 Sénégal :
 
@@ -924,6 +982,8 @@ Paris ― Dar es Salam ;
 
 Paris ― Kilimandjaro ;
 
+Paris-Zanzibar ;
+
 Tchad :
 
 Paris ― Ndjamena ;
@@ -945,6 +1005,10 @@ Paris ― Trat ;
 Togo :
 
 Paris ― Lomé ;
+
+Trinité-et-Tobago :
+
+Paris-Port d'Espagne.
 
 Tunisie :
 
@@ -968,6 +1032,8 @@ Paris - Antalya ;
 
 Paris - Ankara ;
 
+Paris - Bodrum ;
+
 Paris ― Istanbul ;
 
 Marseille ― Istanbul ;
@@ -975,8 +1041,6 @@ Marseille ― Istanbul ;
 Toulouse ― Istanbul ;
 
 Nice ― Istanbul ;
-
-Paris - Bodrum ;
 
 Paris - Izmir ;
 
