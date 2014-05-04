@@ -200,4 +200,8 @@ Jusqu'au 28 février 2019 :
 
 Paris-Oran (Algérie).
 
+Jusqu'au 31 mars 2019 :
+
+Marseille - Casablanca (Maroc).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
