@@ -70,4 +70,6 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'implantation territoriale de Montélimar de la direction départementale des territoires de la Drôme ;
 
-- restructuration de l'unité territoriale de Thann de la direction départementale des territoires du Haut-Rhin.
+- restructuration de l'unité territoriale de Thann de la direction départementale des territoires du Haut-Rhin ;
+
+- fermeture de l'implantation territoriale de Tarare de la direction départementale des territoires du Rhône.
