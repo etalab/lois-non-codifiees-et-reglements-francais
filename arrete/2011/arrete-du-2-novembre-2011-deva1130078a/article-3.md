@@ -6,4 +6,4 @@ I. ― Dans le monde entier, des services aériens non réguliers de passagers, 
 
 II. ― Dans le monde entier, des services aériens non réguliers de courrier et de fret.
 
-III. ― Des services aériens réguliers de courrier et de fret sur les liaisons énumérées à l'annexe du présent arrêté.
+III. - Des services aériens réguliers sur les liaisons énumérées à l'annexe du présent arrêté.
