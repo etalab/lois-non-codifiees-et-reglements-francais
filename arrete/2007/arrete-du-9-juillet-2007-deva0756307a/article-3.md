@@ -117,3 +117,7 @@ Lyon-Alger (Algérie).
 Jusqu'au 28 février 2019 :
 
 Paris-Tel-Aviv (Israël).
+
+Jusqu'au 1er avril 2019 :
+
+Strasbourg - Marrakech (Maroc).
