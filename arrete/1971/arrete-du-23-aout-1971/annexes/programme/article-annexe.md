@@ -1,211 +1,181 @@
 # Article ANNEXE
 
-1re PARTIE. - Droit civil.
+A.-Droit
 
-2er PARTIE. - Droit administratif.
+A. 1. Droit civil.
 
-3er PARTIE. - Droit pénal.
+1. Les personnes morales :
 
-4er PARTIE. - Législation du travail.
+Classification ;
 
-5er PARTIE. - Technique automobile.
+Constitution ;
 
-6er PARTIE. - Psychologie des conducteurs, pédagogie de la conduite et sécurité routière.
+Fonctionnement ;
 
-A. DROIT CIVIL
-
-(Arrêté du 3 décembre 1981, art. 1er)
-
-I. - Les personnes physiques :
-
-1. Le nom ;
-
-2. Le domicile ;
-
-3. Les actes de l'état civil.
-
-II. - Les personnes morales :
-
-1. Classification ;
-
-2. Constitution ;
-
-3. Fonctionnement ;
-
-4. Dissolution.
+Dissolution.
 
 Seules des notions sommaires sur les questions énumérées ci-dessus sont exigées des candidats.
 
-III. - Les obligations :
+2. Les obligations :
 
-- responsabilité du fait personnel ;
+Responsabilité du fait de la personne ;
 
-- responsabilité du fait d'autrui ;
+Responsabilité du fait d'autrui ;
 
-- responsabilité du fait des choses.
+Responsabilité du fait des choses.
 
-IV. - L'assurance automobile :
+3. L'assurance automobile :
 
-1. La loi du 27 février 1958 et ses textes d'application ;
+La loi du 27 février 1958 et ses textes d'application ;
 
-2. Différents contrats d'assurance automobile ;
+Différents contrats d'assurance automobile ;
 
-3. L'assurance du véhicule école.
+L'assurance du véhicule école.
 
-B. - DROIT ADMINISTRATIF
+A. 2. Droit administratif.
 
-I. - L'organisation administrative :
+1. Les pouvoirs du représentant de l'Etat et des autorités locales en matière de sécurité routière :
 
-1. Les collectivités territoriales : la commune et le département ;
+Le préfet ;
 
-2. Le préfet ;
+Le président du conseil général ;
 
-3. Le maire.
+Le maire.
 
-II. - L'organisation juridictionnelle :
+2. L'organisation juridictionnelle :
 
-- les juridictions administratives.
+Les juridictions administratives.
 
-C. - DROIT PÉNAL
+A. 3. Droit pénal.
 
-I. - Classification des infractions. - Classification des peines.
+1. Les classifications et les peines.
 
-II. - Répression des homicides et blessures involontaires.
+2. La répression des homicides et blessures involontaires.
 
-III. - Organisation judiciaire : les tribunaux et la Cour de cassation.
+3. L'organisation judiciaire :
 
-IV. - Fraudes : faux et usage de faux, usurpation de titres et tentatives de corruption.
+Les tribunaux ;
 
-D. - LÉGISLATION DU TRAVAIL
+La Cour de cassation.
+
+4. Les fraudes :
+
+Les faux et usages de faux ;
+
+L'usurpation de titres ;
+
+Les tentatives de corruption.
+
+A. 4. Législation du travail.
 
 Seules des notions sommaires sont exigées des candidats.
 
-I. - Le contrat de travail.
+1. Le contrat de travail.
 
-II. - Les conditions de travail :
+2. Les conditions de travail.
 
-1. Durée du travail ;
+Durée du travail ;
 
-2. Sécurité des travailleurs ;
+Sécurité des travailleurs ;
 
-3. Travailleurs protégés (femmes, mineurs) ;
+Travailleurs protégés (femmes, mineurs) ;
 
-4. Contrôle de ces conditions.
+Contrôle de ces conditions.
 
-III. - Le salaire :
+3. Les conventions collectives :
 
-1. Les différentes formes de rémunération ;
+La convention collective en vigueur dans les établissements d'enseignement de la conduite et de la sécurité routière.
 
-2. Les modalités de paiement et leurs garanties ;
+4. Le règlement des conflits.
 
-3. Les congés payés.
-
-IV. - Les conventions collectives.
-
-V. - Le règlement des conflits.
-
-E. - PROGRAMME DE TECHNIQUE AUTOMOBILE
+B.-Technique automobile
 
 Pour l'ensemble de ce programme, les candidats doivent connaître le rôle et le fonctionnement des différents organes et équipements, être susceptibles de déceler les causes de mauvais fonctionnement, indiquer sommairement les procédés d'entretien ou de remise en état. Ils doivent aussi pouvoir, à l'aide de schémas, transmettre leurs connaissances.
 
-I. - Evolution du véhicule automobile.
+B. 1. Les évolutions du véhicule automobile.
 
-II. - Les carburants, les lubrifiants et liquides des circuits divers.
+B. 2. Echappement des gaz brûlés et dépollution des automobiles.
 
-III. - Les moteurs :
+B. 3. Modes ou systèmes d'alimentation en carburant pour le moteur à essence et Diesel.
 
-- différents types de moteurs ;
+B. 4. Le moteur à essence.
 
-- puissance et rendement ;
+B. 5. Le moteur Diesel.
 
-- différents organes ;
+B. 6. Les boîtes à vitesses.
 
-- différentes fonctions.
+B. 7. La lubrification du moteur.
 
-IV. - Embrayages et transmission :
+B. 8. Le refroidissement du moteur.
 
-- différents types d'embrayages ;
+B. 9. L'allumage du moteur à essence.
 
-- différents types de boîtes de vitesses ;
+B. 10. Le circuit électrique.
 
-- la transmission finale et les essieux.
+B. 11. Le différentiel.
 
-V. - Freinage. - Roues et pneumatiques :
+B. 12. Les transmissions et les ponts : traction et propulsion.
 
-- constitution et fonctionnement des systèmes de freinage ;
+B. 13. Les suspensions.
 
-- différents types de pneumatiques.
+B. 14. Le freinage.
 
-VI. - Suspension et direction :
+B. 15. Le train avant et la direction.
 
-- différents types de ressorts et d'amortisseurs ;
+B. 16. La visibilité.
 
-- différents types de direction ;
+B. 17. Le véhicule électrique et hybride.
 
-- les angles de la direction.
+B. 18. Les aides et assistances à la conduite.
 
-VII. - Equipement électrique.
+B. 19. L'embrayage.
 
-VIII. - Comportement dynamique des véhicules :
+B. 20. Les pneumatiques.
 
-- tenue de route et stabilité ;
+C.-Psychologie des conducteurs et pédagogie de la conduite et sécurité routière
 
-- notions de charges ;
+C. 1. Les accidents de la circulation routière :
 
-- forces qui s'exercent sur les véhicules en déplacement ;
+1. Leur importance dans le monde et leurs conséquences.
 
-- adhérence des pneumatiques.
+2. Les notions sur la répartition statistique par âge, sexe, catégorie d'usagers, zones, saisons, heure et jour ; évolution de ces statistiques.
 
-F. - PSYCHOLOGIE DES CONDUCTEURS
+3. Les notions de causalité des accidents et facteurs de causalité : routes, véhicules, conducteurs et autres usagers.
 
-PÉDAGOGIE DE LA CONDUITE ET SÉCURITÉ ROUTIERE
+C. 2. Le comportement des conducteurs et la sécurité :
 
-I.  - Les accidents de la circulation routière :
-
-- leur importance dans le monde et leurs conséquences ;
-
-- notions sur la répartition statistique par âge, sexe, catégorie d'usagers, zones, saisons, heure et jour ; évolution de ces statistiques ;
-
-- notion de causalité des accidents et facteurs de causalité :
-
-routes, véhicules, conducteurs et autres usagers.
-
-II. - Le comportement des conducteurs et la sécurité :
-
-1. Analyse du comportement : les méthodes d'observation.
+1. L'analyse du comportement : les méthodes d'observation.
 
 2. Les critères de comportement : accidents, presque accidents, fautes, infractions, adaptation, fluidité de la circulation.
 
-3. Facteurs  ayant  une  influence  sur  le  comportement  et  la sécurité :
+3. Les facteurs ayant une influence sur le comportement et la sécurité : âge, alcool.
 
-- âge ;
+4. Les facteurs de personnalité : intelligence, caractère, attitudes, psychomotricité, affectivité.
 
-- alcool ;
+5. Les états physiques : santé, maladies, vision, perception, audition, vigilance, attention, fatigue, usage de certains médicaments.
 
-- facteurs de personnalité : intelligence, caractère, attitudes, psychomotricité, affectivité ;
+6. Le rôle de l'apprentissage, l'apprentissage et l'âge.
 
-- état physique : santé, maladies, vision, perception, audition, vigilance, attention, fatigue, usage de certains médicaments ;
+C. 3. Les théories du comportement et de la circulation :
 
-- rôle de l'apprentissage, l'apprentissage et l'âge.
+1. La notion de champ, espace d'un véhicule, collision et précollision.
 
-III. - Les théories du comportement et de la circulation : notion de champ, espace d'un véhicule, collision et précollision.
+C. 4. L'amélioration du comportement et sécurité de la conduite :
 
-IV. - Amélioration du comportement et sécurité de la conduite :
+1. La position du conducteur au volant : accessibilité des commandes, réglage des sièges, lisibilité des cadrans.
 
-- position du conducteur au volant : accessibilité des commandes, réglage des sièges, lisibilité des cadrans ;
+2. La vitesse : distance d'arrêt, adhérence, différenciation entre la conduite sur routes et sur autoroutes (conduite avec anticipation), notions de conduite sur route mouillée, verglacée, notions de conduite rapide.
 
-- vitesse : distance d'arrêt, adhérence, différenciation entre la conduite sur routes et sur autoroutes (conduite avec anticipation), notions de conduite sur route mouillée, verglacée, notions de conduite rapide ;
+3. La tenue de route.
 
-- tenue de route ;
+4. La visibilité.
 
-- visibilité ;
+5. La ceinture de sécurité.
 
-- ceintures de sécurité.
+C. 5. La prévention des accidents :
 
-V. - Prévention des accidents :
+1. Les pratiques actuelles.
 
-- pratiques actuelles ;
+2. Les différentes actions possibles.
 
-- différentes actions possibles.
-
-VI. - Pédagogie de la conduite.
+C. 6. La pédagogie de la conduite.
