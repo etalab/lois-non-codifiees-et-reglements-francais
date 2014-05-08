@@ -18,4 +18,6 @@ La sous-direction du soutien à la production :
 
 8. Anime la démarche de qualité interne, conduit ou fait conduire les actions de contrôle interne de la direction ;
 
-9. Prépare, pour le délégué général pour l'armement, les autorisations ou les déclarations en matière de protection et contrôle des matières nucléaires, autres que celles affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion.
+9. Prépare, pour le délégué général pour l'armement, les autorisations ou les déclarations en matière de protection et contrôle des matières nucléaires, autres que celles affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion ;
+
+10. Traite les autorisations de construire prévues à l'article L. 5111-6 du code de la défense relatives aux polygones d'isolement établis autour des magasins et établissements servant à la conservation, à la manipulation ou à la fabrication de poudres, munitions, artifices et explosifs relevant du délégué général pour l'armement ou dont la direction générale de l'armement exerce la tutelle.
