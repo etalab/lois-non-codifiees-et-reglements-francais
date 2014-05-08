@@ -14,10 +14,12 @@ Les informations traitées sont issues :
 
 6. De l'application TOPAD, traitement non nominatif, pour les données permettant la localisation des biens et des services ;
 
-7. De l'application REC/MEN pour les données relatives aux impositions de taxe professionnelle recouvrées, dans la phase amiable, par la direction générale des finances publiques ;
+7. De l'application REC/ MEN pour les données relatives aux impositions de taxe professionnelle recouvrées, dans la phase amiable, par la direction générale des finances publiques ;
 
 8. De l'application RAR pour les données relatives aux impositions de taxe professionnelle recouvrées au cours de la phase contentieuse ;
 
-9. Des applications "Annuaire DGI et "Annuaire DGCP pour les informations d'authentification et la définition des habilitations ;
+9. Des applications " Annuaire DGI et " Annuaire DGCP pour les informations d'authentification et la définition des habilitations ;
 
 10. De l'annuaire des adhérents professionnels pour les données d'adressage propres à chaque personne authentifiée, habilitée par l'entreprise pour laquelle elle travaille.
+
+En outre, les organismes chargés du recouvrement des cotisations de sécurité sociale transmettent au traitement ADÉLIE les données relatives aux rémunérations donnant lieu au crédit d'impôt compétitivité emploi en application des dispositions de l'article 244 quater C du code général des impôts.

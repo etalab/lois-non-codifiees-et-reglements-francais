@@ -4,4 +4,6 @@ I. - Les déclarations restituées par la base ADÉLIE sont accessibles en consu
 
 Les créances et l'ensemble des paiements qui s'y rapportent sont accessibles en consultation directe jusqu'au 31 décembre de la troisième année suivant celle au cours de laquelle elles sont intégralement soldées ou de la quatrième année suivant la période d'imposition, le délai le plus long s'appliquant.
 
-II. - Les données visées au II de l'article 3 sont conservées sur rapport informatique pendant un an à compter de la date de la consultation.
+II. - Les données visées au II de l'article 3 sont consultables sur les écrans d'ADÉLIE pendant un an à compter de la date de leur écriture dans la base de l'application.
+
+A l'issue de cette période, ces données sont conservées sur support informatique jusqu'au 31/12/N + 3, l'année N étant l'année d'écriture de la trace dans la base de l'application.
