@@ -300,7 +300,6 @@
 - [Arrêté du 5 janvier 2012 (PRMD1135168A)](arrete-du-5-janvier-2012-prmd1135168a)
 - [Arrêté du 5 janvier 2012 (SPOV1201237A)](arrete-du-5-janvier-2012-spov1201237a)
 - [Arrêté du 5 juillet 2011 (AGRE1117349A)](arrete-du-5-juillet-2011-agre1117349a)
-- [Arrêté du 5 juillet 2012 (AFSG1226893A)](arrete-du-5-juillet-2012-afsg1226893a)
 - [Arrêté du 5 juillet 2012 (AFSH1226435A)](arrete-du-5-juillet-2012-afsh1226435a)
 - [Arrêté du 5 juillet 2012 (AFSP1227092A)](arrete-du-5-juillet-2012-afsp1227092a)
 - [Arrêté du 5 juillet 2012 (AGRG1225886A)](arrete-du-5-juillet-2012-agrg1225886a)
