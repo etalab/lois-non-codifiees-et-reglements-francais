@@ -21,6 +21,7 @@
 - [Décret n°2002-48 du 10 janvier 2002 (EQUU0200017D)](decret-n2002-48-du-10-janvier-2002-equu0200017d)
 - [Décret n°2013-1141 du 10 décembre 2013 (EFIC1323491D)](decret-n2013-1141-du-10-decembre-2013-efic1323491d)
 - [Décret n°2007-762 du 10 mai 2007 (SOCU0611342D)](decret-n2007-762-du-10-mai-2007-socu0611342d)
+- [Décret n°2005-122 du 11 février 2005 (ECOP0401126D)](decret-n2005-122-du-11-fevrier-2005-ecop0401126d)
 - [Décret n°2014-324 du 11 mars 2014 (ETST1401574D)](decret-n2014-324-du-11-mars-2014-etst1401574d)
 - [Décret n°2014-396 du 11 avril 2014 (INTA1408616D)](decret-n2014-396-du-11-avril-2014-inta1408616d)
 - [Décret n°2014-397 du 14 avril 2014 (DEFD1329619D)](decret-n2014-397-du-14-avril-2014-defd1329619d)
