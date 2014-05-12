@@ -78,7 +78,7 @@ Le chef des unités opérationnelles à la sûreté départementale à Marseille
 
 L'adjoint au chef de la sûreté départementale à Bordeaux ;
 
-L'adjoint au chef de la sûreté départementale - Lille DDSP à Lille ;
+L'adjoint au chef de la sûreté départementale-Lille DDSP à Lille ;
 
 L'adjoint au chef de la sûreté départementale à Lyon ;
 
@@ -110,7 +110,7 @@ Le chef de la sûreté urbaine à Valenciennes ;
 
 Le chef de la sûreté urbaine à Versailles ;
 
-L'adjoint au chef de la sûreté urbaine - Lille agglomération à Lille.
+L'adjoint au chef de la sûreté urbaine-Lille agglomération à Lille.
 
 Groupe 2 :
 
@@ -136,7 +136,7 @@ Le chef du service de l'ordre public à Toulouse ;
 
 Le chef du service de l'ordre public à Versailles ;
 
-L'adjoint au chef du service de l'ordre public - Lille DDSP à Lille ;
+L'adjoint au chef du service de l'ordre public-Lille DDSP à Lille ;
 
 L'adjoint au chef du service de l'ordre public à Lyon ;
 
@@ -148,7 +148,7 @@ Groupe 3 :
 
 Le coordinateur du traitement du contentieux contraventionnel à Bordeaux ;
 
-Le coordinateur du traitement du contentieux contraventionnel - Lille DDSP à Lille ;
+Le coordinateur du traitement du contentieux contraventionnel-Lille DDSP à Lille ;
 
 Le coordinateur du traitement du contentieux contraventionnel à Lyon ;
 
@@ -174,7 +174,7 @@ Le chef du service départemental de l'information générale à Toulon ;
 
 Le chef du service départemental adjoint de l'information générale à Bordeaux ;
 
-Le chef du service départemental adjoint de l'information générale - Lille DDSP à Lille ;
+Le chef du service départemental adjoint de l'information générale-Lille DDSP à Lille ;
 
 Le chef du service départemental adjoint de l'information générale à Lyon ;
 
@@ -194,9 +194,9 @@ Au service de nuit à Marseille (1er poste) ;
 
 Au service de nuit à Marseille (2e poste) ;
 
-Au service de nuit - Lille DDSP à Lille (1er poste) ;
+Au service de nuit-Lille DDSP à Lille (1er poste) ;
 
-Au service de nuit - Lille DDSP à Lille (2e poste) ;
+Au service de nuit-Lille DDSP à Lille (2e poste) ;
 
 Au service de nuit à Lyon.
 
@@ -204,7 +204,7 @@ Groupe 6 :
 
 Le chef d'état-major adjoint, chargé de la coordination opérationnelle à Marseille ;
 
-Le chef d'état-major adjoint, chargé de la coordination opérationnelle - Lille DDSP à Lille ;
+Le chef d'état-major adjoint, chargé de la coordination opérationnelle-Lille DDSP à Lille ;
 
 Le chef d'état-major adjoint à Lyon.
 
@@ -236,7 +236,7 @@ Le chef d'état-major, chargé de la division de police technique de la DRPJ à 
 
 Le chef d'état-major, chargé de la division de police technique de la DIPJ à Bordeaux.
 
-A la direction centrale du renseignement intérieur
+A la    direction générale de la sécurité intérieure
 
 Groupe 9 :
 
@@ -288,7 +288,7 @@ Le chef du SARIJ du 20e arrondissement à Paris (DSPAP).
 
 Groupe 15 :
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à Paris (DOPC) ;
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à Paris (DOPC) ;
 
 Le chef du service de surveillance et de protection à Paris (DOPC).
 

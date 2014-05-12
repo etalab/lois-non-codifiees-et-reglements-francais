@@ -1932,57 +1932,57 @@ Direction centrale des compagnies républicaines de sécurité : chef bureau mé
 
 RENSEIGNEMENT INTÉRIEUR
 
-DGPN/Direction centrale du renseignement intérieur : chef de bureau.
+DGPN/Direction générale de la sécurité intérieure : chef de bureau.
 
-DGPN/Direction centrale du renseignement intérieur : chef de bureau.
+DGPN/Direction générale de la sécurité intérieure : chef de bureau.
 
-DGPN/Direction centrale du renseignement intérieur : adjoint chef de division.
+DGPN/Direction générale de la sécurité intérieure : adjoint chef de division.
 
-DGPN/Direction centrale du renseignement intérieur : chef groupe.
+DGPN/Direction générale de la sécurité intérieure : chef groupe.
 
-DGPN/Direction centrale du renseignement intérieur : chef groupe.
+DGPN/Direction générale de la sécurité intérieure : chef groupe.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef antenne aéroportuaire.
+DGPN/Direction générale de la sécurité intérieure : chef antenne aéroportuaire.
 
-DGPN/Direction centrale du renseignement intérieur : chef antenne aéroportuaire.
+DGPN/Direction générale de la sécurité intérieure : chef antenne aéroportuaire.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef de groupe.
+DGPN/Direction générale de la sécurité intérieure : chef de groupe.
 
-DGPN/Direction centrale du renseignement intérieur : chef de groupe.
+DGPN/Direction générale de la sécurité intérieure : chef de groupe.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef de section.
+DGPN/Direction générale de la sécurité intérieure : chef de section.
 
-DGPN/Direction centrale du renseignement intérieur : chef de section.
+DGPN/Direction générale de la sécurité intérieure : chef de section.
 
-DGPN/Direction centrale du renseignement intérieur : adjoint chef division.
+DGPN/Direction générale de la sécurité intérieure : adjoint chef division.
 
-DGPN/Direction centrale du renseignement intérieur : chef Groupe.
+DGPN/Direction générale de la sécurité intérieure : chef Groupe.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : chef section.
+DGPN/Direction générale de la sécurité intérieure : chef section.
 
-DGPN/Direction centrale du renseignement intérieur : adjoint chef section.
+DGPN/Direction générale de la sécurité intérieure : adjoint chef section.
 
 DDRI Versailles : chef de groupe.
 

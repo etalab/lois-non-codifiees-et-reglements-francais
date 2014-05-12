@@ -8,21 +8,21 @@ Le cabinet et les services qui lui sont rattachés ;
 
 Les directions et services actifs de la police nationale :
 
-- l'inspection générale de la police nationale ;
+-l'inspection générale de la police nationale ;
 
-- la direction centrale de la sécurité publique ;
+-la direction centrale de la sécurité publique ;
 
-- la direction centrale de la police judiciaire ;
+-la direction centrale de la police judiciaire ;
 
-- la direction centrale du renseignement intérieur ;
+-la    direction générale de la sécurité intérieure ;
 
-- la direction centrale de la police aux frontières ;
+-la direction centrale de la police aux frontières ;
 
-- la direction centrale des compagnies républicaines de sécurité ;
+-la direction centrale des compagnies républicaines de sécurité ;
 
-- la direction de la coopération internationale ;
+-la direction de la coopération internationale ;
 
-- le service de la protection ;
+-le service de la protection ;
 
 La direction des ressources et des compétences de la police nationale.
 

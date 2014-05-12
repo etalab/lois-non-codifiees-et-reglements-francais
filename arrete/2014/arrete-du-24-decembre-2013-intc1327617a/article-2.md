@@ -4,7 +4,7 @@ Les agents qui exercent leurs missions en tenue d'uniforme doivent être porteur
 
 Toutefois, en raison de la nature de leurs missions, sont exemptés de cette obligation de port :
 
-― les personnels chargés de la sécurité des sites de la direction centrale du renseignement intérieur ;
+― les personnels chargés de la sécurité des sites de la    direction générale de la sécurité intérieure ;
 
 ― les personnels chargés de la sécurité des bâtiments des représentations diplomatiques françaises à l'étranger ;
 

@@ -14,7 +14,7 @@ Sont autorisés à procéder aux actes définis par l'article 706-25-2 du code d
 
 ― les directions régionales et interrégionales de police judiciaire ;
 
-2. La direction centrale du renseignement intérieur ;
+2. La    direction générale de la sécurité intérieure ;
 
 3. Services et unités relevant de la préfecture de police :
 

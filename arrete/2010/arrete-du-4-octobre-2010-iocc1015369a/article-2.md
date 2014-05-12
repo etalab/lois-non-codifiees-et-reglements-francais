@@ -8,7 +8,7 @@ Le comité d'orientation et d'évaluation de la performance mentionné à l'arti
 
 ― le directeur central de la police judiciaire ou son représentant ;
 
-― le directeur central du renseignement intérieur ou son représentant ;
+― le    directeur général de la sécurité intérieure ou son représentant ;
 
 ― le directeur central de la sécurité publique ou son représentant ;
 

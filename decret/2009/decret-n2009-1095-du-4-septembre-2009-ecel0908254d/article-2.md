@@ -1,6 +1,6 @@
 # Article 2
 
-I. ― Le directeur central du renseignement intérieur, le directeur général de la sécurité extérieure, le directeur du renseignement militaire et le directeur de la protection et de la sécurité de la défense délivrent les habilitations à formuler les demandes mentionnées à l'article 22 de la loi susvisée du 25 décembre 2007 à des agents relevant de leur service.
+I. ― Le    directeur général de la sécurité intérieure, le directeur général de la sécurité extérieure, le directeur du renseignement militaire et le directeur de la protection et de la sécurité de la défense délivrent les habilitations à formuler les demandes mentionnées à l'article 22 de la loi susvisée du 25 décembre 2007 à des agents relevant de leur service.
 
 Ces habilitations sont personnelles.
 
@@ -22,7 +22,7 @@ III. ― Les documents communicables, quel que soit le support utilisé pour leu
 
 3° Ou ceux établis ou recueillis dans le cadre de procédures de recouvrement telles que mentionnées aux articles 345 à 349 bis du code des douanes.
 
-IV. - Les documents transmis ne font apparaître que les informations relatives :
+IV.-Les documents transmis ne font apparaître que les informations relatives :
 
 1° A l'identité, la raison sociale, l'adresse des personnes physiques ou morales faisant l'objet de la demande ;
 

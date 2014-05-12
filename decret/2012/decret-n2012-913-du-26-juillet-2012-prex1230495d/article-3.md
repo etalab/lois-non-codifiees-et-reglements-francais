@@ -46,7 +46,7 @@ Le directeur général de la gendarmerie nationale ;
 
 Le directeur général de la sécurité civile et de la gestion des crises ;
 
-Le directeur central du renseignement intérieur.
+Le    directeur général de la sécurité intérieure.
 
 Ministère du redressement productif :
 

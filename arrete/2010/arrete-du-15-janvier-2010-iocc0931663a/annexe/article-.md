@@ -352,7 +352,7 @@ L'organisation des services de renseignement du ministère de l'intérieur
 
 La direction centrale de la sécurité publique (SDIG).
 
-La direction centrale du renseignement intérieur.
+La    direction générale de la sécurité intérieure.
 
 La direction du renseignement de la préfecture de police.
 

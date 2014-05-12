@@ -938,7 +938,6 @@
 - [Décret n°2008-287 du 27 mars 2008 (IOCB0769617D)](decret-n2008-287-du-27-mars-2008-iocb0769617d)
 - [Décret n°2008-288 du 27 mars 2008 (IOCB0804671D)](decret-n2008-288-du-27-mars-2008-iocb0804671d)
 - [Décret n°2008-289 du 27 mars 2008 (AGRP0773583D)](decret-n2008-289-du-27-mars-2008-agrp0773583d)
-- [Décret n°2008-609 du 27 juin 2008 (IOCX0811987D)](decret-n2008-609-du-27-juin-2008-iocx0811987d)
 - [Décret n°2008-610 du 27 juin 2008 (IOCC0814895D)](decret-n2008-610-du-27-juin-2008-iocc0814895d)
 - [Décret n°2008-611 du 27 juin 2008 (IOCD0805358D)](decret-n2008-611-du-27-juin-2008-iocd0805358d)
 - [Décret n°2008-612 du 27 juin 2008 (IOCC0811714D)](decret-n2008-612-du-27-juin-2008-iocc0811714d)

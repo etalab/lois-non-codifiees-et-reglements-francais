@@ -2,7 +2,7 @@
 
 I. ― Peuvent seuls avoir accès aux données à caractère personnel et informations enregistrées dans le fichier des personnes recherchées, dans le cadre de leurs attributions légales et pour les besoins exclusifs des missions qui leur sont confiées :
 
-1° Les agents des services de la police nationale individuellement désignés et spécialement habilités soit par les chefs des services territoriaux de la police nationale, soit par les chefs des services actifs à la préfecture de police ou, le cas échéant, par le préfet de police, soit par les chefs des services centraux de la police nationale ou, le cas échéant, par le directeur général de la police nationale ;
+1° Les agents des services de la police nationale individuellement désignés et spécialement habilités soit par les chefs des services territoriaux de la police nationale, soit par les chefs des services actifs à la préfecture de police ou, le cas échéant, par le préfet de police, soit par les chefs des services centraux de la police nationale ou, le cas échéant, par le directeur général dont ils relèvent ;
 
 2° Les militaires des unités de la gendarmerie nationale individuellement désignés et spécialement habilités soit par les commandants de groupement, soit par les commandants de la gendarmerie dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, soit par les commandants de région, soit par les commandants des gendarmeries spécialisées, soit par le sous-directeur de la police judiciaire ou, le cas échéant, par le directeur général de la gendarmerie nationale ;
 

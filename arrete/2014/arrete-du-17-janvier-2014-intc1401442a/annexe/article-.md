@@ -298,7 +298,7 @@ SATPN de Martinique (SATPN)
 
 Chef de l'antenne PJ de Fort-de-France.
 
-Direction centrale du renseignement intérieur (44)
+Direction générale de la sécurité intérieure (44)
 
 SGAP de Bordeaux
 

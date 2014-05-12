@@ -10,7 +10,7 @@ L'aptitude professionnelle des élèves en fin de scolarité est appréciée par
 
 -un représentant de la direction centrale de la sécurité publique ;
 
--un représentant de la direction centrale du renseignement intérieur ;
+-un représentant de la    direction générale de la sécurité intérieure ;
 
 -un représentant de la préfecture de police ;
 
