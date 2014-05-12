@@ -26,8 +26,6 @@ II.-La même sous-direction, chargée de la coordination nationale des offices c
 
 - l'Office central pour la répression de la grande délinquance financière ;
 
-- l'Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication ;
-
 - l'Office central de lutte contre le crime organisé ;
 
 - l'Office central pour la répression des violences aux personnes ;
@@ -43,14 +41,6 @@ L'Office central pour la répression de la grande délinquance financière compr
 - la brigade de recherches et d'investigations financières nationale, qui participe à la lutte contre le blanchiment d'argent et les autres manifestations de la criminalité organisée dans le domaine économique et financier en apportant son soutien opérationnel aux services d'enquête spécialisés ;
 
 - la plate-forme d'identification des avoirs criminels, désignée comme bureau national de recouvrement des avoirs au sein de l'Union européenne.
-
-L'Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication comprend notamment :
-
-- la brigade centrale pour la répression des contrefaçons des cartes de paiement, chargée du trafic des cartes de paiement contrefaites ou violées ;
-
-- la plate-forme d'harmonisation, d'analyse, de recoupement et d'orientation des signalements (PHAROS) ;
-
-- la plate-forme téléphonique nationale d'information et de prévention sur les escroqueries.
 
 L'Office central de lutte contre le crime organisé comprend notamment la brigade de recherche et d'intervention criminelle nationale, chargée des recherches visant à détecter, surveiller et interpeller les auteurs et complices d'actes relevant de la délinquance spécialisée et de la criminalité organisée et de veiller à la coordination des opérations d'une particulière importance menées par les brigades de recherche et d'intervention.
 
