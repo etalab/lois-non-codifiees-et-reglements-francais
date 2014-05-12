@@ -4,7 +4,7 @@ I. - Le directeur départemental de la sécurité publique est nommé par arrêt
 
 Il exerce son autorité, dans les conditions définies par arrêté du ministre de l'intérieur, sur l'ensemble des services de sécurité publique et sur les personnels qui y sont affectés.
 
-Il est le conseiller du préfet en matière de sécurité publique et d'information générale ; il l'assiste pour la préparation et l'exécution du budget des services de police.
+Il est le conseiller du préfet en matière de sécurité publique et de renseignement territorial ; il l'assiste pour la préparation et l'exécution du budget des services de police.
 
 Il pourvoit, sous la seule direction de l'autorité judiciaire, à l'exécution des opérations de police judiciaire conduites par les services relevant de son autorité.
 
