@@ -10,8 +10,6 @@ Le directeur général de la police nationale dirige les activités des directio
 
 ― la direction centrale de la police judiciaire ;
 
-― la direction centrale du renseignement intérieur ;
-
 ― la direction centrale de la sécurité publique ;
 
 ― la direction centrale de la police aux frontières ;
