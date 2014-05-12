@@ -1,20 +1,20 @@
 # Article Annexe I
 
-**COMPOSITION ESSENTIELLE DES PRÉPARATIONS POUR NOURRISSONS LORSQU'ELLES SONT RECONSTITUÉES SELON LES INSTRUCTIONS DU FABRICANT**
+COMPOSITION ESSENTIELLE DES PRÉPARATIONS POUR NOURRISSONS LORSQU'ELLES SONT RECONSTITUÉES SELON LES INSTRUCTIONS DU FABRICANT
 
 Les valeurs indiquées dans la présente annexe se rapportent aux produits finaux prêts à l'emploi, commercialisés tels quels ou reconstitués selon les instructions du fabricant.
 
 1. Energie
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">250 kJ/100 ml<br/>(60 kcal/100 ml)<br/>
@@ -25,25 +25,26 @@ Les valeurs indiquées dans la présente annexe se rapportent aux produits finau
 </tbody>
 </table>
 
-</div>
-
 2. Protéines
 
 Teneur en protéines = teneur en azote × 6,25.
 
 Des acides aminés ne peuvent être ajoutés aux préparations pour nourrissons que dans le but d'améliorer la valeur nutritionnelle des protéines et uniquement dans les proportions nécessaires à cet effet.
 
-2.1. Préparations pour nourrissons à base de protéines de lait de vache :
+2.1. Préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM (1)<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM (1)<br/>
+</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">0,45 g/100 kJ<br/>(1,8 g/100 kcal)<br/>
@@ -52,7 +53,7 @@ Des acides aminés ne peuvent être ajoutés aux préparations pour nourrissons 
 </td>
 </tr>
 <tr>
-<td colspan="2">(1) Les préparations pour nourrissons à base de protéines de lait de vache ayant une teneur en protéines comprise entre le minimum et 0,5 g/100 kJ (2 g/100 kcal) sont conformes aux dispositions du paragraphe 2 de l'article 5.<br/>
+<td colspan="2">(1) Les préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre ayant une teneur en protéines comprise entre le minimum et 0,5 g/100 kJ (2 g/100 kcal) sont conformes aux dispositions du paragraphe 2 de l'article 5.<br/>
 </td>
 </tr>
 </tbody>
@@ -66,15 +67,20 @@ Toutefois, pour les calculs, les concentrations de méthionine et de cystine peu
 
 Le rapport méthionine/cystine peut être supérieur à 2 sans toutefois dépasser 3 pour autant que l'adéquation de la préparation à l'alimentation particulière des nourrissons soit démontrée par des études appropriées réalisées conformément aux orientations des experts généralement admises concernant la conception et la réalisation de ces études.
 
-2.2. Préparations pour nourrissons à base d'hydrolysats de protéines : <div align="center">
+2.2. Préparations pour nourrissons à base d'hydrolysats de protéines :
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM (1)<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM (1)<br/>
+</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">0,45 g/100 kJ<br/>(1,8 g /100 kcal)<br/>
@@ -99,15 +105,17 @@ Le rapport méthionine/cystine peut être supérieur à 2 sans toutefois dépass
 
 La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
-2.3. Préparations pour nourrissons à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache : <div align="center">
+2.3. Préparations pour nourrissons à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache ou de lait de chèvre :
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">0,56 g/100 kJ<br/>
@@ -124,33 +132,29 @@ La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100
 </tbody>
 </table>
 
+<div align="left"/>
+
+<div align="left"/>
+<div align="left">
+<br/>Seuls les isolats de protéines de soja sont employés pour la fabrication de ces préparations pour nourrissons. </div>
+<div align="left">A valeur énergétique égale, la préparation pour nourrissons doit contenir une quantité disponible de chacun des acides aminés indispensables ou indispensables sous certaines conditions au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).</div>
+<div align="left">Toutefois, pour les calculs, les concentrations de méthionine et de cystine peuvent être comptées ensemble si le rapport méthionine/cystine n'est pas supérieur à 2 et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n'est pas supérieur à 2.</div>
+<div align="left">Le rapport méthionine/cystine peut être supérieur à 2 sans toutefois dépasser 3 pour autant que l'adéquation de la préparation à l'alimentation particulière des nourrissons soit démontrée par des études appropriées réalisées conformément aux orientations des experts généralement admises concernant la conception et la réalisation de ces études.</div>
+<div align="left">La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).<br/>
 </div>
-
-Seuls les isolats de protéines de soja sont employés pour la fabrication de ces préparations pour nourrissons.
-
-A valeur énergétique égale, la préparation pour nourrissons doit contenir une quantité disponible de chacun des acides aminés indispensables ou indispensables sous certaines conditions au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
-
-Toutefois, pour les calculs, les concentrations de méthionine et de cystine peuvent être comptées ensemble si le rapport méthionine/cystine n'est pas supérieur à 2 et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n'est pas supérieur à 2.
-
-Le rapport méthionine/cystine peut être supérieur à 2 sans toutefois dépasser 3 pour autant que l'adéquation de la préparation à l'alimentation particulière des nourrissons soit démontrée par des études appropriées réalisées conformément aux orientations des experts généralement admises concernant la conception et la réalisation de ces études.
-
-La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).
-
-3. Taurine
-
-En cas d'ajout à des préparations pour nourrissons, la quantité de taurine ne doit pas être supérieure à 2,9 mg/100 kJ (12 mg/100 kcal).
-
-4. Choline
-
-<div align="center">
+<div align="left">3. Taurine</div>
+<div align="left">En cas d'ajout à des préparations pour nourrissons, la quantité de taurine ne doit pas être supérieure à 2,9 mg/100 kJ (12 mg/100 kcal).</div>
+<div align="center">4. Choline</div>
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">1,7 mg/100 kJ<br/>(7 mg/100 kcal)<br/>
@@ -161,19 +165,17 @@ En cas d'ajout à des préparations pour nourrissons, la quantité de taurine ne
 </tbody>
 </table>
 
-</div>
-
 5. Lipides
-
-<div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">1,05 g/100 kJ<br/>(4,4 g/100 kcal)<br/>
@@ -184,23 +186,20 @@ En cas d'ajout à des préparations pour nourrissons, la quantité de taurine ne
 </tbody>
 </table>
 
-</div>
-
-5.1. L'utilisation des substances suivantes est interdite :
-
-― huile de sésame ;
-
-― huile de coton.
-
-5.2. Acide laurique et acide myristique : <div align="center">
+<div align="left">
+<br/>5.1. L'utilisation des substances suivantes est interdite :<br/>― huile de sésame ;<br/>― huile de coton. </div>
+<div align="left">5.2. Acide laurique et acide myristique : </div>
+<div align="center"/>
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">―<br/>
@@ -211,21 +210,20 @@ En cas d'ajout à des préparations pour nourrissons, la quantité de taurine ne
 </tbody>
 </table>
 
-</div>
-
-5.3. La teneur en isomères trans d'acides gras ne doit pas être supérieure à 3 % de la teneur totale en matières grasses.
-
-5.4. La teneur en acide érucique ne doit pas être supérieure à 1 % de la teneur totale en matières grasses.
-
-5.5. Acide linoléique (sous forme de glycérides = linoléates) : <div align="center">
+<div align="left">
+<br/>5.3. La teneur en isomères trans d'acides gras ne doit pas être supérieure à 3 % de la teneur totale en matières grasses. </div>
+<div align="left">5.4. La teneur en acide érucique ne doit pas être supérieure à 1 % de la teneur totale en matières grasses.</div>
+<div align="left">5.5. Acide linoléique (sous forme de glycérides = linoléates) :</div>
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">70 mg/100 kJ<br/>(300 mg/100 kcal)<br/>
@@ -236,35 +234,23 @@ En cas d'ajout à des préparations pour nourrissons, la quantité de taurine ne
 </tbody>
 </table>
 
+<div align="left">
+<br/>5.6. La teneur en acide alpha-linolénique ne doit pas être inférieure à 12 mg/100 kJ (50 mg/100 kcal).<br/>Le rapport acide linoléique/alpha-linolénique ne doit pas être inférieur à 5, ni supérieur à 15. </div>
+<div align="left">5.7. Des acides gras polyinsaturés (LCP) à chaînes longues (20 et 22 atomes de carbone) peuvent être ajoutés. Dans ce cas, leur teneur ne doit pas être supérieure à :<br/>1 % de la teneur totale en matières grasses pour les LCP n - 3 et 2 % de la teneur totale en matières grasses pour les LCP n - 6 (1 % de la teneur totale en matières grasses pour l'acide arachidonique [20:4 n - 6]).<br/>La teneur en acide eicosapentaénoïque (20:5 n - 3) ne doit pas être supérieure à la teneur en acide docosahexaénoïque (22:6 n - 3).<br/>La teneur en acide docosahexaénoïque (22:6 n - 3) ne doit pas être supérieure à la teneur en LCP n - 6.<br/>
 </div>
-
-5.6. La teneur en acide alpha-linolénique ne doit pas être inférieure à 12 mg/100 kJ (50 mg/100 kcal).
-
-Le rapport acide linoléique/alpha-linolénique ne doit pas être inférieur à 5, ni supérieur à 15.
-
-5.7. Des acides gras polyinsaturés (LCP) à chaînes longues (20 et 22 atomes de carbone) peuvent être ajoutés. Dans ce cas, leur teneur ne doit pas être supérieure à :
-
-1 % de la teneur totale en matières grasses pour les LCP n - 3 et 2 % de la teneur totale en matières grasses pour les LCP n - 6 (1 % de la teneur totale en matières grasses pour l'acide arachidonique [20:4 n - 6]).
-
-La teneur en acide eicosapentaénoïque (20:5 n - 3) ne doit pas être supérieure à la teneur en acide docosahexaénoïque (22:6 n - 3).
-
-La teneur en acide docosahexaénoïque (22:6 n - 3) ne doit pas être supérieure à la teneur en LCP n - 6.
-
-6. Phospholipides
-
-La quantité de phospholipides dans les préparations pour nourrissonsne doit pas excéder 2 g/l.
-
-7. Inositol
-
-<div align="center">
+<div align="left">6. Phospholipides</div>
+<div align="left">La quantité de phospholipides dans les préparations pour nourrissonsne doit pas excéder 2 g/l.</div>
+<div align="center">7. Inositol</div>
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">1 mg/100 kJ<br/>(4 mg/100 kcal)<br/>
@@ -275,19 +261,20 @@ La quantité de phospholipides dans les préparations pour nourrissonsne doit pa
 </tbody>
 </table>
 
+<div align="left">
+<br/>
 </div>
-
 8. Glucides
-
-<div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">2,2 g/100 kJ<br/>(9 g/100 kcal)<br/>
@@ -298,35 +285,19 @@ La quantité de phospholipides dans les préparations pour nourrissonsne doit pa
 </tbody>
 </table>
 
-</div>
-
-8.1. Seuls les glucides ci-après peuvent être utilisés :
-
-― lactose ;
-
-― maltose ;
-
-― saccharose ;
-
-― glucose ;
-
-― malto-dextrines ;
-
-― sirop de glucose ou sirop de glucose déshydraté ;
-
-― amidon précuit, naturellement exempt de gluten ;
-
-― amidon gélatinisé, naturellement exempt de gluten.
-
-8.2. Lactose : <div align="center">
+<div align="left">
+<br/>8.1. Seuls les glucides ci-après peuvent être utilisés :<br/>― lactose ;<br/>― maltose ;<br/>― saccharose ;<br/>― glucose ;<br/>― malto-dextrines ;<br/>― sirop de glucose ou sirop de glucose déshydraté ;<br/>― amidon précuit, naturellement exempt de gluten ;<br/>― amidon gélatinisé, naturellement exempt de gluten. </div>
+<div align="left">8.2. Lactose : </div>
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM </p>
+</td>
 </tr>
 <tr>
 <td align="center">1,1 g/100 kJ<br/>(4,5 g/100 kcal)<br/>
@@ -337,72 +308,62 @@ La quantité de phospholipides dans les préparations pour nourrissonsne doit pa
 </tbody>
 </table>
 
-</div>
-
-La présente disposition n'est pas applicable aux préparations pour nourrissons dans lesquelles les isolats de protéines de soja représentent plus de 50 % de la teneur totale en protéines.
-
-8.3. Saccharose :
-
-Le saccharose ne peut être ajouté qu'aux préparations pour nourrissons à base d'hydrolysats de protéines. En cas d'ajout, la teneur en saccharose ne doit pas être supérieure à 20 % de la teneur totale en glucides.
-
-8.4. Glucose :
-
-Le glucose ne peut être ajouté qu'aux préparations pour nourrissons à base d'hydrolysats de protéines. En cas d'ajout, la teneur en glucose ne doit pas être supérieure à 0,5 g/100 kJ (2 g/100 kcal).
-
-8.5. Amidon précuit et/ou amidon gélatinisé : <div align="center">
+<div align="left">
+<br/>La présente disposition n'est pas applicable aux préparations pour nourrissons dans lesquelles les isolats de protéines de soja représentent plus de 50 % de la teneur totale en protéines. </div>
+<div align="left">8.3. Saccharose :<br/>Le saccharose ne peut être ajouté qu'aux préparations pour nourrissons à base d'hydrolysats de protéines. En cas d'ajout, la teneur en saccharose ne doit pas être supérieure à 20 % de la teneur totale en glucides.</div>
+<div align="left">8.4. Glucose :<br/>Le glucose ne peut être ajouté qu'aux préparations pour nourrissons à base d'hydrolysats de protéines. En cas d'ajout, la teneur en glucose ne doit pas être supérieure à 0,5 g/100 kJ (2 g/100 kcal).</div>
+<div align="left">8.5. Amidon précuit et/ou amidon gélatinisé :</div>
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM<br/>
+</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">―<br/>
 </td>
-<td align="center">2 g/100 ml et 30 % de la teneur totale en glucides<br/>
+<td align="center">
+<p align="left">2 g/100 ml et 30 % <br/>de la teneur totale en glucides<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
+<div align="left">
+<br/>
 </div>
-
-9. Fructo-oligosaccharides et galacto-oligosaccharides
-
-Des fructo-oligosaccharides et des galacto-oligosaccharides peuvent être ajoutés dans les préparations pour nourrissons. Dans ce cas, leur teneur ne doit pas être supérieure à : 0,8 g/100 ml dans une combinaison de 90 % d'oligogalactosyl-lactose et de 10 % d'oligofructosyl-saccharose de poids moléculaire élevé.
-
-D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de galacto-oligosaccharides peuvent être employées conformément à l'article 4.
-
-10. Eléments minéraux
-
-10.1. Préparations pour nourrissons à base de protéines de lait de vache ou d'hydrolysats de protéines :
-
-<div align="center">
+<div align="left">9. Fructo-oligosaccharides et galacto-oligosaccharides</div>
+<div align="left">Des fructo-oligosaccharides et des galacto-oligosaccharides peuvent être ajoutés dans les préparations pour nourrissons. Dans ce cas, leur teneur ne doit pas être supérieure à : 0,8 g/100 ml dans une combinaison de 90 % d'oligogalactosyl-lactose et de 10 % d'oligofructosyl-saccharose de poids moléculaire élevé.</div>
+<div align="left">D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de galacto-oligosaccharides peuvent être employées conformément à l'article 4.</div>
+<div align="center">10. Eléments minéraux</div>
+<div align="left">10.1. Préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre ou d'hydrolysats de protéines :</div>
 
 <table>
 <tbody>
 <tr>
-<th>
+<td rowspan="2">
 <br/>
-</th>
-<th colspan="2">POUR 100 kJ<br/>
-</th>
-<th colspan="2">POUR 100 kcal<br/>
-</th>
+</td>
+<td colspan="2">
+<p align="center">POUR 100 kJ<br/>
+</p>
+</td>
+<td colspan="2">
+<p align="center">POUR 100 kcal</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
+<td>Minimum</td>
+<td>Maximum</td>
+<td>Minimum</td>
+<td>Maximum</td>
 </tr>
 <tr>
 <td align="center">Sodium (mg)<br/>
@@ -563,35 +524,27 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </tbody>
 </table>
 
-</div>
-
-Le rapport calcium/phosphore ne doit pas être inférieur à 1,0 ni supérieur à 2,0.
-
-10.2. Préparations pour nourrissons à base d'isolats de protéines de soja, seules ou mélangées avec des protéines de lait de vache.
-
-Toutes les prescriptions du point 10.1 s'appliquent sauf celles relatives au fer et au phosphore qui sont remplacées par les prescriptions suivantes : <div align="center">
+<div align="left">
+<br/>Le rapport calcium/phosphore ne doit pas être inférieur à 1,0 ni supérieur à 2,0. </div>
+<div align="left">10.2. Préparations pour nourrissons à base d'isolats de protéines de soja, seules ou mélangées avec des protéines de lait de vache ou de lait de chèvre.</div>
+<div align="left">Toutes les prescriptions du point 10.1 s'appliquent sauf celles relatives au fer et au phosphore qui sont remplacées par les prescriptions suivantes : </div>
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">POUR 100 kJ<br/>
-</th>
-<th colspan="2">POUR 100 kcal<br/>
-</th>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center"> POUR 100 kJ</p>
+</td>
+<td colspan="2">
+<p align="center"> POUR 100 kcal</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
+<td>Minimum</td>
+<td>Maximum</td>
+<td>Minimum</td>
+<td>Maximum</td>
 </tr>
 <tr>
 <td align="center">Fer (mg)<br/>
@@ -620,33 +573,43 @@ Toutes les prescriptions du point 10.1 s'appliquent sauf celles relatives au fer
 </tbody>
 </table>
 
-</div>
-
-11. Vitamines
-
-<div align="center">
+<div align="center">11. Vitamines</div>
 
 <table>
 <tbody>
 <tr>
-<th>
+<td/>
+<td>
+<p align="center">POUR 100 kJ<br/>
+</p>
+</td>
+<td>
 <br/>
-</th>
-<th colspan="2">POUR 100 kJ<br/>
-</th>
-<th colspan="2">POUR 100 kcal<br/>
-</th>
+</td>
+<td>
+<p align="center">POUR 100 kcal<br/>
+</p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<th/>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">Minimum</p>
+</td>
+<td>
+<p align="center">Maximum</p>
+</td>
+<td>
+<p align="center">Minimum</p>
+</td>
+<td>
+<p align="center">Maximum</p>
+</td>
 </tr>
 <tr>
 <td align="center">Vitamine A (µg-ER) (1)<br/>
@@ -795,50 +758,51 @@ Toutes les prescriptions du point 10.1 s'appliquent sauf celles relatives au fer
 <tr>
 <td align="center">Vitamine E (mg α-ET) (4)<br/>
 </td>
-<td align="center">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5) mais en aucun cas inférieur à 0,1 mg pour 100 kJ disponibles.<br/>
+<td align="center">
+<p align="left">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5) mais en aucun cas inférieur à 0,1 mg pour 100 kJ disponibles.<br/>
+</p>
 </td>
 <td align="center">1,2<br/>
 </td>
-<td align="center">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5), mais en aucun cas inférieur à 0,5 mg pour 100 kcal disponibles.<br/>
+<td align="center">
+<p align="left">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5), mais en aucun cas inférieur à 0,5 mg pour 100 kcal disponibles.<br/>
+</p>
 </td>
 <td align="center">5<br/>
 </td>
 </tr>
 <tr>
-<td colspan="5">(1) ER = tous les équivalents trans rétinol.<br/>(2) Sous forme de cholécalciférol, dont 10 µg = 400 UI de vitamines D.<br/>(3) Niacine préformée.<br/>(4) α-ET = d-α-équivalent tocophérol.<br/>(5) 0,5 mg α-ET/1 g acide linoléique (18:2 n - 6) ; 0,75 mg α-ET/1 g acide alpha-linolénique (18:3 n - 3) ; 1,0 mg α-ET/1 g acide arachidonique (20:4 n - 6) ; 1,25 mg α-ET/1 g acide eicosapentaénoïque (20:5 n - 3) ; 1,5 mg α-ET/1 g acide docosahexaénoïque (22:6 n - 3).<br/>
+<td colspan="5">(1) ER = tous les équivalents trans rétinol.<br/>(2) Sous forme de cholécalciférol, dont 10 µg = 400 UI de vitamines D.<br/>(3) Niacine préformée.<br/>(4) α-ET = d-α-équivalent tocophérol.<br/>(5) 0,5 mg α-ET/1 g acide linoléique (18:2 n - 6) ; 0,75 mg α-ET/1 g acide alpha-linolénique (18:3 n - 3) ; <br/>1,0 mg α-ET/1 g acide arachidonique (20:4 n - 6) ; 1,25 mg α-ET/1 g acide eicosapentaénoïque (20:5 n - 3) ; <br/>1,5 mg α-ET/1 g acide docosahexaénoïque (22:6 n - 3).<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-12. Nucléotides
-
-Les nucléotides suivants peuvent être ajoutés :
-
-<div align="center">
+<div align="center">12. Nucléotides</div>
+<div align="left">Les nucléotides suivants peuvent être ajoutés :</div>
+<div align="left"/>
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">MAXIMUM (1)<br/>
-</th>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center">MAXIMUM (1)<br/>
+</p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th>(mg/100 kJ)<br/>
-</th>
-<th>(mg/100 kcal)<br/>
-</th>
+<td>
+<p align="center">(mg/100 kJ)</p>
+</td>
+<td>
+<p align="center">(mg/100 kcal)</p>
+</td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' de cytidine.<br/>
+<td align="center">
+<p align="left">Monophosphate 5' de cytidine.<br/>
+</p>
 </td>
 <td align="center">0,60<br/>
 </td>
@@ -846,7 +810,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' d'uridine.<br/>
+<td align="center">
+<p align="left">Monophosphate 5' d'uridine.<br/>
+</p>
 </td>
 <td align="center">0,42<br/>
 </td>
@@ -854,7 +820,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' d'adénosine.<br/>
+<td align="center">
+<p align="left">Monophosphate 5' d'adénosine.<br/>
+</p>
 </td>
 <td align="center">0,36<br/>
 </td>
@@ -862,7 +830,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' de guanosine.<br/>
+<td align="center">
+<p align="left">Monophosphate 5' de guanosine.<br/>
+</p>
 </td>
 <td align="center">0,12<br/>
 </td>
@@ -870,7 +840,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' d'inosine.<br/>
+<td align="center">
+<p align="left">Monophosphate 5' d'inosine.<br/>
+</p>
 </td>
 <td align="center">0,24<br/>
 </td>
@@ -878,10 +850,10 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td colspan="3">(1) La concentration totale en nucléotides ne doit pas dépasser 1,2 mg/100 kJ (5 mg/100 kcal).<br/>
+<td colspan="3">
+<p align="left">(1) La concentration totale en nucléotides ne doit pas dépasser 1,2 mg/100 kJ (5 mg/100 kcal).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>

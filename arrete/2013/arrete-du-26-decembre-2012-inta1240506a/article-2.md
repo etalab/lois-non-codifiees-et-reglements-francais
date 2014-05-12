@@ -52,6 +52,10 @@ Direction des ressources et des compétences de la police nationale :
 
 - sous-directeur de l'administration des ressources humaines.
 
+Direction générale de la sécurité intérieure :
+
+- sous-directeur à la direction technique.
+
 Préfecture de police :
 
 - sous-directeur des personnels à la direction des ressources humaines ;

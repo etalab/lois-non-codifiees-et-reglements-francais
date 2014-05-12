@@ -95,7 +95,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 <p align="left">Directeur d'administration centrale du ministère de l'intérieur </p>
 </td>
 <td>
-<p align="center">7 </p>
+<p align="center">8</p>
 </td>
 <td>
 <p align="center">140 </p>
@@ -644,6 +644,32 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </td>
 <td>
 <p align="center">80 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de la sécurité intérieure :</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Sous-directeur à la direction technique <br/>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>Chef du service de l'administration générale </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
 </td>
 </tr>
 <tr>

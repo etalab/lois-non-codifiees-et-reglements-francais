@@ -28,6 +28,10 @@ Direction générale de la police nationale, direction générale de la gendarme
 
 - chef du service de l'achat, de l'équipement et de la logistique de la sécurité intérieure.
 
+Direction générale de la sécurité intérieure :
+
+- chef du service de l'administration générale.
+
 Direction générale des étrangers en France :
 
 - chef de service, adjoint au directeur de l'immigration ;

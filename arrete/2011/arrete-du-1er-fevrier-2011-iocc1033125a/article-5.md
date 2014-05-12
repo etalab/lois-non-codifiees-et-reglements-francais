@@ -1,23 +1,25 @@
 # Article 5
 
-La sous-direction des missions de sécurité comprend :
+Le service central du renseignement territorial comprend :
 
-― le pôle judiciaire comprenant :
+1° Le secrétariat général ;
 
-― la division des activités judiciaires ;
+2° La division des faits religieux et mouvances contestataires ;
 
-― la division de la police technique et scientifique de proximité ;
+3° La division de l'information économique et sociale ;
 
-― la division des unités territoriales et de l'ordre public ;
+4° La division des dérives urbaines et du repli identitaire ;
 
-― la division de la prévention et des partenariats ;
+5° La division de la documentation et de la veille technique ;
 
-― la division des systèmes d'information opérationnelle.
+6° La division de l'outre-mer ;
 
-Elle élabore et met en œuvre la doctrine d'emploi des services de sécurité publique en matière de police judiciaire, de sécurité et tranquillité publiques, de maintien de l'ordre, de police technique et scientifique, d'action préventive, d'aide aux victimes et de protection des populations vulnérables.
+7° La division des communautés et faits de société ;
 
-Elle définit l'organisation et des missions des services déconcentrés ; elle contrôle et évalue leur activité et anime l'action des personnels qui y sont affectés.
+8° La division nationale de la recherche et de l'appui.
 
-Elle établit et analyse les statistiques relatives à la situation de la délinquance et à l'activité des services déconcentrés et conduit les études méthodologiques et prospectives nécessaires à la définition des orientations de la direction centrale de la sécurité publique et à la modernisation des services.
+Il est chargé, à l'échelon central, des missions de renseignement territorial définies à l'article 21 du décret du 12 août 2013 portant organisation de l'administration centrale du ministère de l'intérieur et du ministère des outre-mer et établit dans ce cadre toutes prévisions utiles au Gouvernement.
 
-Elle est chargée des relations techniques entre la direction centrale de la sécurité publique et les acteurs nationaux, publics ou privés, de la sécurité intérieure.
+Conformément aux dispositions de l'article 4 du décret du 27 juin 2008 susvisé, il anime et coordonne l'activité des services déconcentrés du renseignement territorial.
+
+Il procède, pour la part incombant à la mission de renseignement territorial de la direction centrale de la sécurité publique, aux enquêtes administratives.

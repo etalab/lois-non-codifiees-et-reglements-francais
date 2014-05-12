@@ -1,16 +1,20 @@
 # Article Annexe II
 
-**COMPOSITION ESSENTIELLE DES PRÉPARATIONS DE SUITE LORSQU'ELLES SONT RECONSTITUÉES SELON LES INSTRUCTIONS DU FABRICANT**Les valeurs indiquées dans la présente annexe se rapportent aux produits finaux prêts à l'emploi, commercialisés tels quels ou reconstitués selon les instructions du fabricant.
+COMPOSITION ESSENTIELLE DES PRÉPARATIONS DE SUITE LORSQU'ELLES SONT RECONSTITUÉES SELON LES INSTRUCTIONS DU FABRICANT
+
+Les valeurs indiquées dans la présente annexe se rapportent aux produits finaux prêts à l'emploi, commercialisés tels quels ou reconstitués selon les instructions du fabricant.
 
 1. Energie
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">250 kJ/100 ml<br/>(60 kcal/100 ml)<br/>
@@ -27,15 +31,17 @@ Teneur en protéines = teneur en azote × 6,25.
 
 Dans tous les cas, des acides aminés ne peuvent être ajoutés aux préparations de suite que dans le but d'améliorer la valeur nutritionnelle des protéines et uniquement dans les proportions nécessaires à cet effet.
 
-2.1. Préparations de suite à base de protéines de lait de vache :
+2.1. Préparations de suite à base de protéines de lait de vache ou de lait de chèvre :
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">0,45 g/100 kJ<br/>(1,8 g/100 kcal)<br/>
@@ -55,15 +61,27 @@ Toutefois, pour les calculs, les concentrations de méthionine et de cystine peu
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM (1)<br/>
+</p>
+</td>
+<td colspan="3">
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
-<td align="center">0,56 g/100 kJ<br/>(2,25 g/100 kcal)<br/>
+<td align="center">
+<br/>0,45 g/100 kJ <p>(1,8 g /100 kcal)<br/>
+</p>
 </td>
-<td align="center">0,8 g/100 kJ<br/>(3,5 g/100 kcal)<br/>
+<td align="center">
+<br/>0,8 g/100 kJ <p>(3,5 g/100 kcal) <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(1) Les préparations de suite à base d'hydrolysats de protéines ayant une teneur en protéines comprise entre le minimum <br/>et 0,56 g/100 kJ (2,25 g/100 kcal) sont conformes aux dispositions du 2 de l'article 6.<br/>
 </td>
 </tr>
 </tbody>
@@ -73,15 +91,17 @@ A valeur énergétique égale, la préparation de suite doit contenir une quanti
 
 Toutefois, pour les calculs, les concentrations de méthionine et de cystine peuvent être comptées ensemble si le rapport méthionine/cystine n'est pas supérieur à 3, et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n'est pas supérieur à 2.
 
-2.3. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache :
+2.3. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache ou de lait de chèvre :
 
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">0,56 g/100 kJ<br/>(2,25 g/100 kcal)<br/>
@@ -107,10 +127,12 @@ En cas d'ajout à des préparations de suite, la quantité de taurine ne doit pa
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">0,96 g/100 kJ<br/>(4,0 g/100 kcal)<br/>
@@ -132,10 +154,12 @@ En cas d'ajout à des préparations de suite, la quantité de taurine ne doit pa
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM </p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">-<br/>
@@ -155,10 +179,12 @@ En cas d'ajout à des préparations de suite, la quantité de taurine ne doit pa
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">70 mg/100 kJ<br/>(300 mg/100 kcal)<br/>
@@ -192,10 +218,12 @@ La quantité de phospholipides dans les préparations de suite ne doit pas être
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">2,2 g/100 kJ<br/>(9 g/100 kcal)<br/>
@@ -213,10 +241,12 @@ La quantité de phospholipides dans les préparations de suite ne doit pas être
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center">MINIMUM</p>
+</td>
+<td>
+<p align="center">MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">1,1 g/100 kJ<br/>(4,5 g/100 kcal)<br/>
@@ -234,10 +264,12 @@ La présente disposition n'est pas applicable aux préparations de suite dans le
 <table>
 <tbody>
 <tr>
-<th>MINIMUM<br/>
-</th>
-<th>MAXIMUM<br/>
-</th>
+<td>
+<p align="center"> MINIMUM</p>
+</td>
+<td>
+<p align="center"> MAXIMUM</p>
+</td>
 </tr>
 <tr>
 <td align="center">-<br/>
@@ -262,32 +294,37 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 
 8. Eléments minéraux
 
-8.1. Préparations de suite à base de protéines de lait de vache ou d'hydrolysats de protéines :
+8.1. Préparations de suite à base de protéines de lait de vache ou de lait de chèvre ou d'hydrolysats de protéines :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">POUR 100 kJ<br/>
-</th>
-<th colspan="2">POUR 100 kcal<br/>
-</th>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center"> POUR 100 kJ</p>
+</td>
+<td colspan="2">
+<p align="center">POUR 100 kcal</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
+<td>
+<p align="center"> Minimum</p>
+</td>
+<td>
+<p align="center"> Maximum</p>
+</td>
+<td>
+<p align="center"> Minimum</p>
+</td>
+<td>
+<p align="center"> Maximum</p>
+</td>
 </tr>
 <tr>
-<td align="center">Sodium (mg)<br/>
+<td align="center">
+<p align="left">Sodium (mg)<br/>
+</p>
 </td>
 <td align="center">5<br/>
 </td>
@@ -299,7 +336,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Potassium (mg)<br/>
+<td align="center">
+<p align="left">Potassium (mg)<br/>
+</p>
 </td>
 <td align="center">15<br/>
 </td>
@@ -311,7 +350,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Chlorure (mg)<br/>
+<td align="center">
+<p align="left">Chlorure (mg)<br/>
+</p>
 </td>
 <td align="center">12<br/>
 </td>
@@ -323,7 +364,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Calcium (mg)<br/>
+<td align="center">
+<p align="left">Calcium (mg)<br/>
+</p>
 </td>
 <td align="center">12<br/>
 </td>
@@ -335,7 +378,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Phosphore (mg)<br/>
+<td align="center">
+<p align="left">Phosphore (mg)<br/>
+</p>
 </td>
 <td align="center">6<br/>
 </td>
@@ -347,7 +392,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Magnésium (mg)<br/>
+<td align="center">
+<p align="left">Magnésium (mg)<br/>
+</p>
 </td>
 <td align="center">1,2<br/>
 </td>
@@ -359,7 +406,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Fer (mg)<br/>
+<td align="center">
+<p align="left">Fer (mg)<br/>
+</p>
 </td>
 <td align="center">0,14<br/>
 </td>
@@ -371,7 +420,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Zinc (mg)<br/>
+<td align="center">
+<p align="left">Zinc (mg)<br/>
+</p>
 </td>
 <td align="center">0,12<br/>
 </td>
@@ -383,7 +434,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Cuivre (µg)<br/>
+<td align="center">
+<p align="left">Cuivre (µg)<br/>
+</p>
 </td>
 <td align="center">8,4<br/>
 </td>
@@ -395,7 +448,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Iode (µg)<br/>
+<td align="center">
+<p align="left">Iode (µg)<br/>
+</p>
 </td>
 <td align="center">2,5<br/>
 </td>
@@ -407,7 +462,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Sélénium (µg)<br/>
+<td align="center">
+<p align="left">Sélénium (µg)<br/>
+</p>
 </td>
 <td align="center">0,25<br/>
 </td>
@@ -419,7 +476,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Manganèse (µg)<br/>
+<td align="center">
+<p align="left">Manganèse (µg)<br/>
+</p>
 </td>
 <td align="center">0,25<br/>
 </td>
@@ -431,7 +490,9 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 </td>
 </tr>
 <tr>
-<td align="center">Fluorure (µg)<br/>
+<td align="center">
+<p align="left">Fluorure (µg)<br/>
+</p>
 </td>
 <td align="center">-<br/>
 </td>
@@ -447,34 +508,31 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 
 Le rapport calcium/phosphore dans les préparations de suite ne doit pas être inférieur à 1,0 ni supérieur à 2,0.
 
-8.2. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache.
+8.2. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache ou de lait de chèvre .
 
 Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au fer et au phosphore qui sont remplacées par les prescriptions suivantes :
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">POUR 100 kJ<br/>
-</th>
-<th colspan="2">POUR 100 kcal<br/>
-</th>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center"> POUR 100 kJ</p>
+</td>
+<td colspan="2">
+<p align="center"> POUR 100 kcal</p>
+</td>
 </tr>
 <tr>
-<th/>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
+<td> Minimum</td>
+<td> Maximum</td>
+<td> Minimum</td>
+<td> Maximum</td>
 </tr>
 <tr>
-<td align="center">Fer (mg)<br/>
+<td align="center">
+<p align="left">Fer (mg)<br/>
+</p>
 </td>
 <td align="center">0,22<br/>
 </td>
@@ -486,7 +544,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Phosphore (mg)<br/>
+<td align="center">
+<p align="left">Phosphore (mg)<br/>
+</p>
 </td>
 <td align="center">7,5<br/>
 </td>
@@ -505,27 +565,38 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 <table>
 <tbody>
 <tr>
-<th>
+<td/>
+<td>
+<p align="center"> POUR 100 kJ</p>
+</td>
+<td>
 <br/>
-</th>
-<th colspan="2">POUR 100 kJ<br/>
-</th>
-<th colspan="2">POUR 100 kcal<br/>
-</th>
+</td>
+<td>
+<p align="center"> POUR 100 kcal</p>
+</td>
+<td/>
 </tr>
 <tr>
-<th/>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
-<th>Minimum<br/>
-</th>
-<th>Maximum<br/>
-</th>
+<td/>
+<td>
+<p align="center"> Minimum<br/>
+</p>
+</td>
+<td>
+<p align="center"> Maximum</p>
+</td>
+<td>
+<p align="center"> Minimum</p>
+</td>
+<td>
+<p align="center"> Maximum</p>
+</td>
 </tr>
 <tr>
-<td align="center">Vitamine A (µg-ER) (1)<br/>
+<td align="center">
+<p align="left">Vitamine A (µg-ER) (1)<br/>
+</p>
 </td>
 <td align="center">14<br/>
 </td>
@@ -537,7 +608,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Vitamine D (µg) (2)<br/>
+<td align="center">
+<p align="left">Vitamine D (µg) (2)<br/>
+</p>
 </td>
 <td align="center">0,25<br/>
 </td>
@@ -549,7 +622,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Thiamine (µg)<br/>
+<td align="center">
+<p align="left">Thiamine (µg)<br/>
+</p>
 </td>
 <td align="center">14<br/>
 </td>
@@ -561,7 +636,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Riboflavine (µg)<br/>
+<td align="center">
+<p align="left">Riboflavine (µg)<br/>
+</p>
 </td>
 <td align="center">19<br/>
 </td>
@@ -573,7 +650,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Niacine (µg) (3)<br/>
+<td align="center">
+<p align="left">Niacine (µg) (3)<br/>
+</p>
 </td>
 <td align="center">72<br/>
 </td>
@@ -585,7 +664,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Acide pantothénique (µg)<br/>
+<td align="center">
+<p align="left">Acide pantothénique (µg)<br/>
+</p>
 </td>
 <td align="center">95<br/>
 </td>
@@ -597,7 +678,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Vitamine B6 (µg)<br/>
+<td align="center">
+<p align="left">Vitamine B6 (µg)<br/>
+</p>
 </td>
 <td align="center">9<br/>
 </td>
@@ -609,7 +692,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Biotine (µg)<br/>
+<td align="center">
+<p align="left">Biotine (µg)<br/>
+</p>
 </td>
 <td align="center">0,4<br/>
 </td>
@@ -621,7 +706,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Acide folique (µg)<br/>
+<td align="center">
+<p align="left">Acide folique (µg)<br/>
+</p>
 </td>
 <td align="center">2,5<br/>
 </td>
@@ -633,7 +720,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Vitamine B12 (µg)<br/>
+<td align="center">
+<p align="left">Vitamine B12 (µg)<br/>
+</p>
 </td>
 <td align="center">0,025<br/>
 </td>
@@ -645,7 +734,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Vitamine C (mg)<br/>
+<td align="center">
+<p align="left">Vitamine C (mg)<br/>
+</p>
 </td>
 <td align="center">2,5<br/>
 </td>
@@ -657,7 +748,9 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Vitamine K (µg)<br/>
+<td align="center">
+<p align="left">Vitamine K (µg)<br/>
+</p>
 </td>
 <td align="center">1<br/>
 </td>
@@ -669,13 +762,19 @@ Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au 
 </td>
 </tr>
 <tr>
-<td align="center">Vitamine E (mg α-ET) (4)<br/>
+<td align="center">
+<p align="left">Vitamine E (mg α-ET) (4)<br/>
+</p>
 </td>
-<td align="center">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5) mais en aucun cas inférieur à 0,1 mg pour 100 kJ disponibles.<br/>
+<td align="center">
+<p align="left">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5) mais en aucun cas inférieur à 0,1 mg pour 100 kJ disponibles.<br/>
+</p>
 </td>
 <td align="center">1,2<br/>
 </td>
-<td align="center">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5), mais en aucun cas inférieur à 0,5 mg pour 100 kcal disponibles.<br/>
+<td align="center">
+<p align="left">0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5), mais en aucun cas inférieur à 0,5 mg pour 100 kcal disponibles.<br/>
+</p>
 </td>
 <td align="center">5<br/>
 </td>
@@ -694,23 +793,23 @@ Les nucléotides suivants peuvent être ajoutés :
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="2">MAXIMUM (1)<br/>
-</th>
+<td rowspan="2"/>
+<td colspan="2">
+<p align="center"> MAXIMUM (1)</p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th>(mg/100 kJ)<br/>
-</th>
-<th>(mg/100 kcal)<br/>
-</th>
+<td>
+<p align="center"> (mg/100 kJ)</p>
+</td>
+<td>
+<p align="center"> (mg/100 kcal)</p>
+</td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' de cytidine<br/>
+<td align="center">
+<p align="left">Monophosphate 5' de cytidine<br/>
+</p>
 </td>
 <td align="center">0,60<br/>
 </td>
@@ -718,7 +817,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' d'uridine<br/>
+<td align="center">
+<p align="left">Monophosphate 5' d'uridine<br/>
+</p>
 </td>
 <td align="center">0,42<br/>
 </td>
@@ -726,7 +827,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' d'adénosine<br/>
+<td align="center">
+<p align="left">Monophosphate 5' d'adénosine<br/>
+</p>
 </td>
 <td align="center">0,36<br/>
 </td>
@@ -734,7 +837,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' de guanosine<br/>
+<td align="center">
+<p align="left">Monophosphate 5' de guanosine<br/>
+</p>
 </td>
 <td align="center">0,12<br/>
 </td>
@@ -742,7 +847,9 @@ Les nucléotides suivants peuvent être ajoutés :
 </td>
 </tr>
 <tr>
-<td align="center">Monophosphate 5' d'inosine<br/>
+<td align="center">
+<p align="left">Monophosphate 5' d'inosine<br/>
+</p>
 </td>
 <td align="center">0,24<br/>
 </td>

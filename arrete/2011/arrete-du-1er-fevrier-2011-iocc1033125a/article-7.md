@@ -8,8 +8,6 @@ a) Un pôle des ressources humaines composé de :
 
 ― la division de la gestion administrative des personnels ;
 
-― la division du management des chefs de service ;
-
 ― la division de la formation ;
 
 b) Un pôle des moyens et de la logistique composé de :
@@ -18,10 +16,12 @@ b) Un pôle des moyens et de la logistique composé de :
 
 ― l'unité d'appui technique.
 
-Elle assure la gestion opérationnelle et prévisionnelle des ressources humaines, participe à l'élaboration des règlements d'emploi ainsi qu'au suivi personnalisé et à l'accompagnement des parcours de carrière des chefs de service. Elle s'assure du respect des règles de discipline et de déontologie.
+Elle assure la gestion opérationnelle des moyens et participe à l'élaboration des règlements d'emploi.
 
-Elle veille au maintien ou au développement des compétences professionnelles des personnels et assure, à cet effet, la programmation des actions de formation.
+Elle assure le soutien logistique, technique et budgétaire des services de sécurité publique et recense leurs besoins ; elle assure également le soutien informatique des services de la direction centrale.
 
-Elle assure la gestion opérationnelle des moyens et participe à l'élaboration des règlements d'emploi. Elle assure le soutien logistique, technique et budgétaire des services de sécurité publique et recense leurs besoins ; elle assure également le soutien informatique des services de la direction centrale.
+Elle coordonne et anime les actions menées dans le domaine de la santé et de la sécurité au travail. Elle est le référent du médiateur de la police nationale. Elle s'assure également du respect des règles de discipline et de déontologie.
+
+Elle veille au maintien ou au développement des compétences professionnelles des personnels et programme, à cet effet, les actions de formation continue en lien avec ses domaines de compétence.
 
 Elle assure l'ensemble de ses missions en liaison avec les services compétents de la direction générale de la police nationale, notamment la direction des ressources et des compétences de la police nationale et le service de l'achat, des équipements et de la logistique de la sécurité intérieure.
