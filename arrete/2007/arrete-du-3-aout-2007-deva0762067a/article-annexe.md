@@ -101,3 +101,7 @@ Marseille-Punta Cana (République dominicaine) ;
 Nantes-Punta Cana (République dominicaine) ;
 
 Toulouse-Punta Cana (République dominicaine).
+
+Jusqu'au 30 avril 2019 :
+
+Paris-New York (Etats-Unis).

@@ -4,7 +4,7 @@ PRESCRIPTIONS TECHNIQUES RELATIVES AUX MATÉRIELS
 
 UTILISÉS POUR LA LUTTE ANIMALIÈRE
 
-Les matériels utilisés pour l'effarouchement et le prélèvement des animaux, doivent respecter les prescriptions suivantes.
+Les matériels utilisés pour l'effarouchement et le prélèvement des animaux, respectent les prescriptions suivantes.
 
 1. Véhicules
 
@@ -48,13 +48,13 @@ Mêmes caractéristiques qu'au § 2.3 avec un boîtier de télécommande permett
 
 3.2. Bruiteur synthétique
 
-Synthétiseur de signaux artificiels de type "alarme" (non harmoniques, gênants pour les oiseaux) alimentant des amplificateurs de puissance et des haut-parleurs fixés le long de la piste. Le niveau de bruit doit atteindre 80 dB(a)sur l'axe de piste, de manière la plus homogène possible.
+Synthétiseur de signaux artificiels de type "alarme" (non harmoniques, gênants pour les oiseaux) alimentant des amplificateurs de puissance et des haut-parleurs fixés le long de la piste. Le niveau de bruit atteint 80 dB (a) sur l'axe de piste, de manière la plus homogène possible.
 
 Ces bruiteurs permettent également de diffuser des cris de détresse spécifiques au moyen d'une télécommande particulière.
 
 3.3. Effaroucheur optique
 
-Système fixe automatique d'effarouchement des oiseaux associant une source laser, une lentille optique pour l'agrandissement du faisceau, et un logiciel permettant de piloter le faisceau en site, en azimut, en vitesse et en puissance. Les normes de sécurité oculaire doivent être respectées en sortie de faisceau.
+Système fixe automatique d'effarouchement des oiseaux associant une source laser, une lentille optique pour l'agrandissement du faisceau, et un logiciel permettant de piloter le faisceau en site, en azimut, en vitesse et en puissance. Les normes de sécurité oculaire sont respectées en sortie de faisceau.
 
 Pistolet laser portable dans les normes de sécurité oculaire.
 
