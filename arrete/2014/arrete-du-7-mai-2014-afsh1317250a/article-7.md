@@ -1,0 +1,3 @@
+# Article 7
+
+La liste des établissements de santé pour lesquels l'assurance maladie prend en charge le forfait est fixée en annexe II du présent arrêté. En cas de disqualification d'un centre de la liste principale selon les modalités précisées en annexe I, ce centre peut être remplacé par un établissement de la liste complémentaire et ainsi devenir éligible à la prise en charge du forfait dans les conditions définies par le présent arrêté. Le promoteur informe le ministère chargé de la santé et de la sécurité sociale de la disqualification d'un établissement de santé ainsi que la date de cette disqualification.

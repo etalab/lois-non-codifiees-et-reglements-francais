@@ -1,0 +1,5 @@
+# TITRE II : DÉLIVRANCE DES ATTESTATIONS DE FORMATION EN MATIÈRE DE DIRECTION, DE TRAVAIL EN ÉQUIPE ET DE GESTION DES RESSOURCES
+
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
