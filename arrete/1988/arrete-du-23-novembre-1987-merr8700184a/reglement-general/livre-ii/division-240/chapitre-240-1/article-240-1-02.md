@@ -8,15 +8,11 @@ Les définitions suivantes sont utilisées pour l'application de la présente di
 
 2. Puissance de propulsion : puissance des machines assurant la propulsion, mesurée selon la norme EN/ ISO 8665.
 
-3. Engins de plage : sont considérées comme engins de plage :
+3. Engins de plage : Sont considérés ainsi :
 
-- à condition que la puissance maximale de l'appareil propulsif ne dépasse pas 3 kW, les embarcations dont la longueur de coque est inférieure à 2,50 m, sauf lorsqu'il s'agit de planches à voiles ou aérotractées, ou que la propulsion d'une telle embarcation est assurée par un moteur à combustion interne qui entraîne une turbine. Dans ce dernier cas, elle est considérée comme véhicule nautique à moteur.
+- les embarcations propulsées par une machine d'une puissance inférieure à 4,5 KW et dont la longueur de coque ne dépasse pas 2,50 mètres ;
 
-- les embarcations mues exclusivement par l'énergie humaine dont la longueur est inférieure à 4 m ou la largeur est inférieure à 0,45 m. Toutefois, dans le cas d'une embarcation multicoque, la largeur additionnée des coques doit être inférieure à 0,40 m. Ne sont pas considérés comme coques, les flotteurs latéraux de longueur inférieure à 1,5 m.
-
-- les embarcations propulsées au moyen d'avirons, dont la largeur de coque est inférieure à 1 m, et dont le rapport longueur/largeur est supérieur à 10.
-
-- les embarcations mues exclusivement par l'énergie humaine qui ne satisfont pas aux dispositions de stabilité et de flottabilité de l'article 240-2.09, quelles que soient leurs dimensions.
+- les embarcations propulsées par l'énergie humaine dont la longueur de coque est inférieure à trois mètres cinquante ou qui ne satisfont pas aux conditions d'étanchéité, de stabilité et de flottabilité du point 7 de l'article 240-2.09.
 
 4. Annexe : embarcation utilisée à des fins de servitude à partir d'un navire porteur.
 
@@ -28,13 +24,11 @@ Les définitions suivantes sont utilisées pour l'application de la présente di
 
 - soit en tant que prototype de sport, c'est à dire un navire exclusivement conçu pour la compétition n'entrant pas dans le cas précédent, et qui est exploité selon les conditions particulières prévues par la présente division.
 
-7. Avirons, canoës et kayaks de mer : embarcations autres que les engins de plage, et dont la propulsion est assurée :
-
-- par des pagaies pour les canoës et les kayaks ;
-
-- par des avirons, pour les autres embarcations.
+7. Embarcations propulsées par l'énergie humaine autres que les engins de plage : elles comprennent notamment les avirons de mer, canoës, pirogues et les kayaks de mer. Le kayak de mer est doté d'un dispositif intégré ou solidaire de la coque permettant le calage du bassin et des membres inférieurs.
 
 8. Planche à voile : quelle que soit sa longueur, flotteur sur lequel le pratiquant se tient en équilibre dynamique, et dont la propulsion est assurée par une voile solidaire.
+
+- Planche à pagaie (Stand Up Paddle Board) : planche, sur laquelle le pratiquant se tient debout, propulsée et dirigée au moyen d'une pagaie.
 
 9. Planche aérotractée ou "kite surf" : quelle que soit sa longueur, flotteur sur lequel le pratiquant se tient en équilibre dynamique, et dont la propulsion est assurée par une aile aérotractrice.
 

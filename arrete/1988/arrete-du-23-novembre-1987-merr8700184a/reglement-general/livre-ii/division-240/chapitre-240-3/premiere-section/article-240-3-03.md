@@ -2,17 +2,33 @@
 
 Limitations des conditions d'utilisation
 
-I. Les engins de plage effectuent des navigations diurnes qui n'excèdent pas 300 m de la côte. Pour ces derniers, aucun matériel de sécurité et d'armement n'est requis. Les annexes peuvent effectuer des navigations à une distance d'un abri n'excédant pas 300 m, leur navire porteur étant considéré comme un abri.
+I. - Effectuent des navigations à une distance d'un abri n'excédant pas 300 mètres :
 
-II. Effectuent des navigations diurnes et à une distance d'un abri n'excédant pas 2 milles :
+- les engins de plage, cette navigation est obligatoirement diurne ;
 
-- les planches à voile et aérotractées,
+- les annexes (leur navire porteur est considéré comme un abri).
 
-- les véhicules nautiques à moteur,
+II.-Des navigations diurnes et à une distance d'un abri n'excédant pas 2 milles :
 
-- les embarcations mues par l'énergie humaine non auto-videuses et qui ne sont pas des engins de plage ;
+- les véhicules nautiques à moteurs ;
 
-III. Les autres embarcations mues par l'énergie humaine qui ne sont pas considérées comme des engins de plage effectuent des navigations diurnes, et à une distance d'un abri n'excédant pas 6 milles.
+- les planches à voile et planches aérotractées ;
+
+- les embarcations propulsées principalement par l'énergie humaine qui ne sont pas des engins de plage, si consécutivement à un chavirement, un dispositif permette au pratiquant :
+
+- de rester au contact du flotteur ;
+
+- de remonter sur l'embarcation et repartir, seul ou le cas échéant avec l'assistance d'un accompagnant.
+
+III.-Effectuent des navigations diurnes à une distance d'un abri n'excédant pas 6 milles :
+
+- les embarcations propulsées principalement par l'énergie humaine visées au II du présent article, à l'exception des planches à pagaie, aux conditions suivantes :
+
+- effectuer cette navigation à deux embarcations de conserve minimum ;
+
+- disposer pour chaque groupe de deux d'un émetteur/ récepteur VHF d'une puissance minimale de 5W, étanche, qui ne coule pas lors d'une immersion, et accessible en permanence par le pratiquant.
+
+Toutefois, une telle navigation peut être réalisée à une seule embarcation si le pratiquant est à une association déclarée pour cette pratique et emporte un émetteur/ récepteur VHF conforme à l'alinéa précédent.
 
 IV. - Les engins à sustentation hydropropulsés effectuent une navigation diurne à une distance d'un abri n'excédant pas 2 milles.
 
@@ -26,7 +42,7 @@ Leur évolution peut par ailleurs être réglementée par l'autorité de police 
 
 2. L'engin, son éventuel élément support et son utilisateur satisfont, à tout moment, aux exigences du règlement international pour prévenir les abordages en mer, notamment le respect de la veille visuelle et auditive permanente ainsi que l'obligation de rester maître de sa manœuvre. Le pavillon "Alpha", d'au moins 0,50 m de guindant, visible sur tout l'horizon et répondant aux exigences du code international des signaux, est arboré sur l'élément support lors de l'utilisation de l'engin. La navigation de tout autre navire ou engin est interdite dans un rayon de 100 mètres autour du pavillon.
 
-3. L'utilisateur porte une combinaison intégrale et une aide à la flottabilité d'au moins 50 N adaptée à sa morphologie.
+3. L'utilisateur porte une combinaison et une aide à la flottabilité d'au moins 50 N adaptée à sa morphologie.
 
 4. L'engin, lorsqu'il est capelé, permet à l'utilisateur de flotter inconscient, tête hors de l'eau, en cas de chute accidentelle à la mer.
 

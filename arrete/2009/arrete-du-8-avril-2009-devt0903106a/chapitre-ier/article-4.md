@@ -4,7 +4,7 @@ Marques d'identification internes.
 
 4.1. Tout voilier ou navire à moteur porte son numéro d'immatriculation visible à l'intérieur, dans le cockpit ou depuis le poste de pilotage principal.
 
-Toute embarcation mue exclusivement ou principalement par l'énergie humaine porte son numéro d'immatriculation visible à l'intérieur depuis l'emplacement normal en navigation du chef de bord ou à proximité de la plaque constructeur.
+Toute embarcation propulsée par l'énergie humaine, lorsqu'elle est immatriculée, porte son numéro d'immatriculation visible à l'intérieur depuis l'emplacement normal en navigation du rameur ou du pagayeur.
 
 Les caractères composant le numéro d'immatriculation visible à l'intérieur respectent les dimensions minimales suivantes :
 
