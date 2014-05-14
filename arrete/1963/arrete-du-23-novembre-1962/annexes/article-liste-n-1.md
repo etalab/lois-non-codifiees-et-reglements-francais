@@ -1561,7 +1561,7 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </tr>
 <tr>
 <td align="center">
-<br/>Le Touquet - Paris-Plage</td>
+<br/>Le Touquet - Côte d'Opale</td>
 <td align="center">
 <br/>Pas-de-Calais</td>
 <td align="center">
@@ -2064,10 +2064,10 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </tr>
 <tr>
 <td>
-<p align="center"> Nuits-Saint-Georges</p>
+<p align="center">Nuits-Saint-Georges</p>
 </td>
 <td>
-<p align="center"> Côte-d'Or</p>
+<p align="center">Côte-d'Or</p>
 </td>
 <td/>
 </tr>
