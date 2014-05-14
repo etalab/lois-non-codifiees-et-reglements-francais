@@ -12,6 +12,8 @@ Il comprend en outre :
 
 -le directeur général de l'Agence pour le patrimoine immatériel de l'Etat ou son représentant ;
 
+- le directeur des affaires civiles et du sceau ou son représentant ;
+
 -le directeur général de la compétitivité, de l'industrie et des services au ministère de l'industrie ou son représentant ;
 
 -le directeur des affaires juridiques au ministère chargé des affaires étrangères ou son représentant.
