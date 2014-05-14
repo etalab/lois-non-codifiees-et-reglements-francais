@@ -59,3 +59,11 @@ Saint-Denis de La Réunion - Perth (Australie).
 Jusqu'au 19 octobre 2017 :
 
 Saint-Denis de La Réunion - Chennai (Inde).
+
+Jusqu'au 30 avril 2019 :
+
+Saint-Denis de La Réunion - Anjouan (Comores) ;
+
+Saint-Denis de La Réunion - Pemba (Mozambique) ;
+
+Saint-Denis de La Réunion - Dar es Salaam (Tanzanie).
