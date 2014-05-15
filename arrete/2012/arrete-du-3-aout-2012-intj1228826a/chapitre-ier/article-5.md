@@ -1,6 +1,6 @@
 # Article 5
 
-A l'issue des tests de sélection, les candidatures des militaires ayant obtenu une note moyenne supérieure ou égale à 10 sur 20 aux épreuves théoriques et validé les épreuves physiques sont examinées par une commission d'agrément composée, pour chaque région de gendarmerie située au siège d'une zone de défense et de sécurité :
+La commission d'agrément prévue à l'article 4 est composée, pour chaque région de gendarmerie située au siège d'une zone de défense et de sécurité :
 
 ― du commandant en second de la région de gendarmerie zone de défense et de sécurité, ou de son représentant, président ;
 

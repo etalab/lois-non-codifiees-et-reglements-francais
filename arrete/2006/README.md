@@ -198,7 +198,6 @@
 - [Arrêté du 20 mars 2006 (MAEA0520490A)](arrete-du-20-mars-2006-maea0520490a)
 - [Arrêté du 20 novembre 2006 (AGRP0602357A)](arrete-du-20-novembre-2006-agrp0602357a)
 - [Arrêté du 20 novembre 2006 (ECOP0600500A)](arrete-du-20-novembre-2006-ecop0600500a)
-- [Arrêté du 20 novembre 2006 (INTD0600908A)](arrete-du-20-novembre-2006-intd0600908a)
 - [Arrêté du 20 novembre 2006 (MJSK0670239A)](arrete-du-20-novembre-2006-mjsk0670239a)
 - [Arrêté du 20 novembre 2006 (MJSK0670241A)](arrete-du-20-novembre-2006-mjsk0670241a)
 - [Arrêté du 20 septembre 2006 (AGRP0602038A)](arrete-du-20-septembre-2006-agrp0602038a)
