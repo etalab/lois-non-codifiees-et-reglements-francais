@@ -22,6 +22,10 @@ g) Une estimation des modèles d'aménagement du territoire, y compris l'identif
 
 h) Un inventaire, y compris des cartes, le cas échéant, des émissions, des rejets et des pertes des polluants pris en compte pour évaluer l'état chimique des masses d'eau de surface conformément à l'article 11 de l'arrêté du 25 janvier 2010 modifié relatif aux méthodes et critères d'évaluation de l'état écologique, de l'état chimique et du potentiel écologique des eaux de surface pris en application des articles R. 212-10, R. 212-11 et R. 212-18 du code de l'environnement. Cet inventaire est établi sur la base des données disponibles, notamment en application des dispositions de l'arrêté du 31 janvier 2008 modifié relatif au registre et à la déclaration annuelle des émissions polluantes et des déchets et des éléments issus du programme de surveillance de l'état des eaux en application de l'article R. 212-22 du code de l'environnement ;
 
+La période de référence pour le premier inventaire est l'année 2010. Pour les substances prioritaires ou les substances couvertes par la directive 91/414/CEE, les données peuvent être calculées en tant que moyenne des années 2008, 2009 et 2010.
+
+Pour les inventaires actualisés, la valeur de référence est celle de l'année précédant celle de l'achèvement de l'analyse. Pour les substances prioritaires ou les polluants couverts par la directive 91/414/CEE, les données peuvent être calculées en tant que moyenne des trois années précédant l'achèvement de l'analyse.
+
 2° Une évaluation de la manière dont l'état des masses d'eau de surface réagit aux pressions indiquées au 1° ci-dessus ;
 
 3° Une identification des masses d'eau de surface qui risquent, par l'effet de l'activité humaine, de ne pas satisfaire aux objectifs de qualité environnementale mentionnés au IV de l'article L. 212-1 du code de l'environnement.
