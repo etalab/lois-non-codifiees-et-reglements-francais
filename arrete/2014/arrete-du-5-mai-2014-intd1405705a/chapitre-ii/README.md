@@ -1,0 +1,15 @@
+# Chapitre II : Caractéristiques, catégories et normes techniques  des tenues des agents de police municipale
+
+- [Section 1 : Fiche technique](section-1)
+- [Section 2 : Références techniques des couleurs](section-2)
+- [Section 3 : Tenue de service général d'hiver](section-3)
+- [Section 4 : Tenue de service général d'été](section-4)
+- [Section 5 : Tenue d'honneur ou de cérémonie d'hiver](section-5)
+- [Section 6 : Tenue d'honneur ou de cérémonie d'été](section-6)
+- [Section 7 : Tenue pour les motocyclistes et cyclomotoristes](section-7)
+- [Section 8 : Tenue pour les cyclistes et patineurs](section-8)
+- [Section 9 : Tenue pour les brigades cynophiles](section-9)
+- [Section 10 : Tenue pour les brigades équestres](section-10)
+- [Section 11 : Tenue pour les brigades fluviales ou nautiques](section-11)
+- [Section 12 : Tenue des agents affectés à la surveillance des plages](section-12)
+- [Section 13 : Insignes de grades](section-13)
