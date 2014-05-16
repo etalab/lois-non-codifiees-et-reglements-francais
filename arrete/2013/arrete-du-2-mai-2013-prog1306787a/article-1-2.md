@@ -1,3 +1,3 @@
 # Article 1-2
 
-Des exonérations partielles ou totales des droits visés aux articles 1er et 1er-1 peuvent être accordées par le directeur de l'école, selon les critères généraux fixés par le conseil d'administration de l'école.
+Les bénéficiaires d'une bourse d'enseignement supérieur accordée par l'Etat et les pupilles de la Nation sont, de plein droit, exonérés du paiement des droits de scolarité visés aux articles 1er et 1er-1.
