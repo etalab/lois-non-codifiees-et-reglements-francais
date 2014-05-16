@@ -27,3 +27,5 @@ Un représentant du service producteur intéressé, désigné par le ministre do
 8° L'un des membres mentionnés au 6° du même article, choisi par et parmi eux ;
 
 Les membres du comité du secret statistique mentionnés aux 5°, 6° et 8° peuvent se faire représenter par leur suppléant à l'assemblée plénière du Conseil national de l'information statistique.
+
+Lorsqu'il délibère, dans les conditions prévues au III de l'article L. 135 D du livre des procédures fiscales, sur une demande d'accès aux informations mentionnées à cet article, le comité du secret statistique comprend un représentant de l'administration ayant collecté les données faisant l'objet de la demande d'accès.
