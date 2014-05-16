@@ -1,0 +1,3 @@
+# Article 4
+
+L'épreuve d'admissibilité commune aux concours externe, interne et troisième concours consiste en la résolution d'un cas pratique à partir d'un dossier à caractère technique relatif au contrôle des produits de santé en laboratoire ou à la prévention santé-environnement en fonction du domaine d'activité choisi par le candidat au moment de l'inscription. Le dossier peut être assorti de plusieurs questions destinées à mettre le candidat en situation de travail. Le dossier peut comporter des graphiques ainsi que des données chiffrées. Il ne peut excéder vingt pages (durée : trois heures ; coefficient 2).
