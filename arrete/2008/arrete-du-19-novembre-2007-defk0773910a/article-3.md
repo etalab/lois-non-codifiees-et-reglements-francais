@@ -28,7 +28,7 @@ Le jury des concours pour l'attribution du niveau de praticien confirmé en méd
 
 - un président, médecin-chef des services, pharmacien-chef des services, vétérinaire-chef des services ou chirurgien-dentiste-chef des services, choisi en raison de ses titres ou travaux ;
 
-- deux médecins, pharmaciens, vétérinaires ou chirurgiens-dentistes des armées d'un niveau de qualification au moins équivalent à celui de spécialiste ;
+- un médecin, pharmacien, vétérinaire ou chirurgien-dentiste des armées d'un niveau de qualification au moins équivalent à celui de spécialiste ;
 
 - une personnalité civile, professeur de l'enseignement supérieur, maître de recherche ou directeur de recherche d'un établissement public à caractère scientifique et technique (EPST) ou de l'Institut Pasteur de Paris, ou professeur d'une école nationale vétérinaire (ENV), ou professeur dans une faculté d'odontologie ;
 
@@ -44,18 +44,18 @@ Concours pour l'attribution du niveau de qualification de praticien certifié :
 
 Le jury :
 
-― choisit le sujet de l'épreuve de spécialité ;
+- choisit le sujet de l'épreuve de spécialité ;
 
-― corrige l'épreuve ;
+- corrige l'épreuve ;
 
-― établit la liste de classement définitive des candidats par ordre de mérite.
+- établit la liste de classement définitive des candidats par ordre de mérite.
 
 Chaque membre du jury dispose d'une voix. Le jury se prononce à la majorité des voix. En cas de partage des voix, le président a voix prépondérante.
 
 Le jury des concours pour l'attribution du titre de praticien certifié est constitué comme suit :
 
-― un président, médecin chef des services, pharmacien chef des services, vétérinaire chef des services ou chirurgien-dentiste chef des services, choisi en raison de ses titres ou travaux ;
+- un président, médecin chef des services, pharmacien chef des services, vétérinaire chef des services ou chirurgien-dentiste chef des services, choisi en raison de ses titres ou travaux ;
 
-― trois médecins, pharmaciens, vétérinaires ou chirurgiens-dentistes des armées d'un niveau de qualification au moins équivalent à celui de praticien certifié ;
+- trois médecins, pharmaciens, vétérinaires ou chirurgiens-dentistes des armées d'un niveau de qualification au moins équivalent à celui de praticien certifié ;
 
-― un médecin, pharmacien, vétérinaire ou chirurgien-dentiste d'un niveau de qualification au moins équivalent à celui de praticien certifié désigné en qualité de suppléant.
+- un médecin, pharmacien, vétérinaire ou chirurgien-dentiste d'un niveau de qualification au moins équivalent à celui de praticien certifié désigné en qualité de suppléant.
