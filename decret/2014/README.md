@@ -44,6 +44,7 @@
 - [Décret n°2014-397 du 14 avril 2014 (DEFD1329619D)](decret-n2014-397-du-14-avril-2014-defd1329619d)
 - [Décret n°97-143 du 14 février 1997 (LOGC9700015D)](decret-n97-143-du-14-fevrier-1997-logc9700015d)
 - [Décret n°2014-479 du 14 mai 2014 (ERNX1411012D)](decret-n2014-479-du-14-mai-2014-ernx1411012d)
+- [Décret n°2014-485 du 14 mai 2014 (FCPT1409570D)](decret-n2014-485-du-14-mai-2014-fcpt1409570d)
 - [Décret n°2001-42 du 15 janvier 2001 (EQUU0100001D)](decret-n2001-42-du-15-janvier-2001-equu0100001d)
 - [Décret n°2014-398 du 16 avril 2014 (PRMX1408846D)](decret-n2014-398-du-16-avril-2014-prmx1408846d)
 - [Décret n°2014-400 du 16 avril 2014 (MAEX1408738D)](decret-n2014-400-du-16-avril-2014-maex1408738d)
