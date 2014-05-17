@@ -83,7 +83,7 @@ Surveillance visant à évaluer l'évolution en tendance des concentrations de s
 
 potentiellement bioaccumulables dans les milieux aquatiques de surface
 
-Les substances à analyser en priorité pour la surveillance en tendance à long terme sont celles qui ont tendance à s'accumuler dans le biote et/ou les sédiments. Il s'agit des métaux et polluants organiques dont le log Kow est supérieur à trois et tout particulièrement des substances 2, 5, 6, 7, 12, 16, 17, 18, 20, 21, 26, 28 et 30 de l'annexe X de la directive 2000/60/CE.
+Les substances à analyser en priorité pour la surveillance en tendance à long terme sont celles qui ont tendance à s'accumuler dans le biote et/ou les sédiments. Il s'agit des métaux et polluants organiques dont le log Kow est supérieur à trois et tout particulièrement des substances 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28 et 30 de l'annexe X de la directive 2000/60/CE.
 
 Ce contrôle de surveillance est effectué dans le biote ou les sédiments ou encore les deux sur l'ensemble des sites de contrôle de surveillance à raison d'une fois par an tous les trois.
 
