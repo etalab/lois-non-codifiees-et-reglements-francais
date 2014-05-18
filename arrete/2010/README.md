@@ -350,7 +350,6 @@
 - [Arrêté du 5 mai 2010 (MTSS1012257A)](arrete-du-5-mai-2010-mtss1012257a)
 - [Arrêté du 5 mai 2010 (SASH1012392A)](arrete-du-5-mai-2010-sash1012392a)
 - [Arrêté du 6 août 2010 (BCRE1021333A)](arrete-du-6-aout-2010-bcre1021333a)
-- [Arrêté du 6 août 2010 (BCRE1021859A)](arrete-du-6-aout-2010-bcre1021859a)
 - [Arrêté du 6 août 2010 (DEVT1017732A)](arrete-du-6-aout-2010-devt1017732a)
 - [Arrêté du 6 août 2010 (ECEZ1021297A)](arrete-du-6-aout-2010-ecez1021297a)
 - [Arrêté du 6 avril 2010 (AGRG1004014A)](arrete-du-6-avril-2010-agrg1004014a)
