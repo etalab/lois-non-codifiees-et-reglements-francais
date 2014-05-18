@@ -1,19 +1,25 @@
 # Article 6
 
-La sous-direction des finances et de la performance comprend :
+La sous-direction des finances et du pilotage comprend :
 
-― le bureau des affaires financières et de la politique immobilière de la police nationale ;
+- le bureau du pilotage du fonctionnement et des investissements ;
 
-― le bureau des rémunérations et des régimes indemnitaires ;
+- le bureau du pilotage de la masse salariale ;
 
-― la direction d'application Dialogue ;
+- le bureau du pilotage des structures de soutien ;
 
-― la mission du pilotage de la performance ;
+- la mission de la synthèse budgétaire et du contrôle de gestion ;
 
-― la mission d'appui, de synthèse et de coordination.
+- la mission de pilotage des effectifs.
 
-Elle participe à l'élaboration et à l'exécution du budget de la police nationale, à la définition et au suivi des indicateurs de performance et au contrôle de gestion. A ce titre, elle exploite les systèmes d'information relatifs au suivi de la dépense publique et participe à leur élaboration technique.
+Elle assure la responsabilité de la fonction financière pour le périmètre police nationale, anticipe et analyse toute évolution relevant du domaine financier. A ce titre, elle est chargée des missions suivantes :
 
-Elle élabore la programmation en matière immobilière et de systèmes d'information et de communication en liaison avec les directions et services concernés.
+1° Elle pilote la préparation, la programmation, l'exécution et le suivi du budget et des effectifs du programme police nationale ;
 
-Elle anime la politique de contrôle de gestion ainsi que le réseau des services déconcentrés pour ce qui relève des crédits alloués à la police nationale.
+2° Elle conduit la démarche de performance et de contrôle de gestion et anime le réseau des services centraux et déconcentrés pour ce qui relève des crédits alloués à la police nationale ;
+
+3° Elle supervise le contrôle interne financier et contribue à la cohérence des systèmes d'informations financières relevant du programme police nationale ;
+
+4° Elle détermine les orientations et la programmation en matière d'investissements (immobilier, systèmes d'information et de communication et équipements) en concertation avec les services du ministère en charge de ces domaines ;
+
+5° Elle assure la coordination générale des acteurs de la police nationale et pilote les structures de soutien de la police nationale. Elle exerce, notamment, la tutelle financière des établissements publics ou opérateurs relevant du programme police nationale.
