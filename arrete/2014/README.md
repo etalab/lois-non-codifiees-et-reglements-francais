@@ -161,6 +161,7 @@
 - [Arrêté du 7 mars 2014 (ETSD1403859A)](arrete-du-7-mars-2014-etsd1403859a)
 - [Arrêté du 7 mars 2014 (ETSD1403862A)](arrete-du-7-mars-2014-etsd1403862a)
 - [Arrêté du 7 mars 2014 (INTC1405955A)](arrete-du-7-mars-2014-intc1405955a)
+- [Arrêté du 7 novembre 2012 (BUDD1238935A)](arrete-du-7-novembre-2012-budd1238935a)
 - [Arrêté du 7 novembre 2013 (ACTI1318982A)](arrete-du-7-novembre-2013-acti1318982a)
 - [Arrêté du 7 octobre 2013 (DEVL1324528A)](arrete-du-7-octobre-2013-devl1324528a)
 - [Arrêté du 7 octobre 2013 (DEVL1324530A)](arrete-du-7-octobre-2013-devl1324530a)
