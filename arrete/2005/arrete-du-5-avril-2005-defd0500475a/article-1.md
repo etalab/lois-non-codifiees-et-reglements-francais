@@ -10,7 +10,9 @@ Pour l'exercice de ses attributions, la sous-direction gestion du personnel de l
 
 - le bureau de gestion du personnel civil d'administration centrale ;
 
-- le bureau de la réglementation générale et des affaires juridiques.
+- le bureau de la réglementation générale et des affaires juridiques ;
+
+- le bureau des systèmes d'information et des référentiels " ressources humaines  ".
 
 Elle dispose en outre :
 

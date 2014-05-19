@@ -19,3 +19,5 @@ Elle participe aux études et à l'élaboration par la direction des affaires ju
 Elle élabore la réglementation d'application technique concernant les transports sensibles, dont elle organise et contrôle l'exécution.
 
 Elle assure, en matière de maîtrise des armements nucléaires, le rôle d'expert dans les domaines techniques et opérationnels.
+
+En liaison avec les divisions emploi et maîtrise des armements, elle veille, pour les organismes concernés placés sous l'autorité du chef d'état-major des armées, à la protection et au contrôle des matières nucléaires, autres que celles affectées aux moyens nécessaires à la mise en œuvre de la politique de dissuasion, au sens des articles R. 1333-1 et suivants du code de la défense. A ce titre, elle prépare les autorisations ou les déclarations afférentes.

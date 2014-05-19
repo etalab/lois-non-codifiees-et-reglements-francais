@@ -14,7 +14,7 @@ Outre le chef d'état-major des armées qui le préside, ou son représentant, l
 
 6° Un membre du cabinet militaire du ministre de la défense ;
 
-7° Le sous-chef d'état-major "ressources humaines" de l'état-major des armées ;
+7° Abrogé ;
 
 8° Le directeur de l'enseignement militaire supérieur ;
 

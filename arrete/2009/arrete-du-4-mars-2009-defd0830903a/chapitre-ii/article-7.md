@@ -14,15 +14,15 @@ Outre le président, le conseil de perfectionnement de l'enseignement militaire 
 
 5° Le chef de la division études synthèse management général de l'état-major des armées ;
 
-6° Le chef de la division organisation ressources humaines de l'état-major des armées ;
+6° Abrogé ;
 
-7° Le directeur    de l'Ecole de guerre ;
+7° Le directeur de l'Ecole de guerre ;
 
 8° Le directeur du centre des hautes études militaires ;
 
 9° Le directeur de l'institut de recherche stratégique de l'Ecole militaire ;
 
-10° Les présidents de la promotion    de l'Ecole de guerre et de la session du centre des hautes études militaires en cours et ceux de l'année précédente ;
+10° Les présidents de la promotion de l'Ecole de guerre et de la session du centre des hautes études militaires en cours et ceux de l'année précédente ;
 
 11° Le directeur du centre de documentation de l'Ecole militaire.
 

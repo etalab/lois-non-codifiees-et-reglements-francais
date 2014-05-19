@@ -1,12 +1,12 @@
 # Article 2
 
-I. - Le directeur des ressources humaines de l'armée de l'air dispose du conseiller pour le personnel civil.
+I. - Le directeur des ressources humaines de l'armée de l'air dispose :
 
-Pour l'exercice de ses attributions, il est conseillé par :
+1° D'un conseiller pour le personnel civil ;
 
-1. Le délégué à la condition du personnel, placé auprès du chef d'état-major de l'armée de l'air ;
+2° D'un délégué aux réserves, dont les attributions sont fixées par une instruction particulière.
 
-2. Le délégué aux réserves, placé auprès du major général de l'armée de l'air.
+Pour l'exercice de ses attributions, il est conseillé par le délégué à la condition du personnel, placé auprès du chef d'état-major de l'armée de l'air.
 
 II. - La direction des ressources humaines de l'armée de l'air se compose :
 

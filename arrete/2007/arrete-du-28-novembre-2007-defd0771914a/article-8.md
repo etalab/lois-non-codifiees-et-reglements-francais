@@ -8,7 +8,7 @@ Elle est chargée de :
 
 - coordonner les actions de formation menées au profit du personnel de l'armée de l'air ;
 
-― gérer les ressources financières mises à sa disposition ;
+- assurer les travaux de programmation budgétaire et rendre compte de la consommation des crédits mis à la disposition de la direction ;
 
 ― proposer un avis sur les recours formés contre les décisions relevant des domaines de compétence de la direction des ressources humaines de l'armée de l'air ;
 
