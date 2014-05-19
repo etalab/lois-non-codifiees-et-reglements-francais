@@ -4,11 +4,11 @@ I. ― Les aides à l'électrification rurale bénéficient, sous réserve des d
 
 ― dont la population totale est inférieure à deux mille habitants ; et
 
-― qui ne sont pas comprises dans une « unité urbaine », au sens de l'Institut national de la statistique et des études économiques, dont la population totale est supérieure à cinq mille habitants.
+― qui ne sont pas comprises dans une "unité urbaine", au sens de l'Institut national de la statistique et des études économiques, dont la population totale est supérieure à cinq mille habitants.
 
-La population totale d'une commune ou d'une unité urbaine est appréciée au regard du dernier recensement en vigueur à la date de l'arrêté mentionné au V.
+La population totale d'une commune ou d'une unité urbaine est appréciée au regard du dernier recensement en vigueur à la date de l'arrêté mentionné au IV.
 
-Toutefois, le préfet peut, à la demande d'une autorité organisatrice du réseau public de distribution d'électricité et après avis du ou des gestionnaires de réseau concernés, étendre par arrêté motivé le bénéfice des aides à des travaux effectués sur le territoire de communes dont la population totale est comprise entre deux mille et cinq mille habitants, compte tenu notamment de leur isolement ou du caractère dispersé de leur habitat.
+Toutefois, le préfet peut, à la demande d'une autorité organisatrice du réseau public de distribution d'électricité et après avis du ou des gestionnaires de réseau concernés, étendre par arrêté motivé le bénéfice des aides à des travaux effectués sur le territoire de communes dont la population totale est inférieure à cinq mille habitants, compte tenu notamment de leur isolement ou du caractère dispersé de leur habitat.
 
 Le préfet peut également soustraire une autorité organisatrice du réseau public de distribution d'électricité, à sa demande, du bénéfice du régime de l'aide à l'électrification rurale.
 
