@@ -1,0 +1,3 @@
+# Article 4
+
+Par dérogation au précédent article, les établissements et services d'aide par le travail dont le tarif à la place constaté au 31 décembre 2013 est inférieur au tarif à la place constaté au 31 décembre 2011 en raison de l'application du mécanisme des tarifs plafonds prévu à l'article L. 314-4 susvisé bénéficient d'une reconstitution de leur tarif à la place constaté au titre de 2011 et de l'application sur cette nouvelle base du taux d'évolution moyen régional attribué en 2012 et 2013 au titre de ces exercices, dans la limite des tarifs plafonds fixés à l'article 2 du présent arrêté.
