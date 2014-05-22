@@ -3139,7 +3139,6 @@
 - [Arrêté du 31 juillet 2012 (AGRG1231268A)](arrete-du-31-juillet-2012-agrg1231268a)
 - [Arrêté du 31 juillet 2012 (AGRT1200668A)](arrete-du-31-juillet-2012-agrt1200668a)
 - [Arrêté du 31 juillet 2012 (AGRT1229257A)](arrete-du-31-juillet-2012-agrt1229257a)
-- [Arrêté du 31 juillet 2012 (AGRT1229269A)](arrete-du-31-juillet-2012-agrt1229269a)
 - [Arrêté du 31 juillet 2012 (DEVA1209108A)](arrete-du-31-juillet-2012-deva1209108a)
 - [Arrêté du 31 juillet 2012 (DEVP1227565A)](arrete-du-31-juillet-2012-devp1227565a)
 - [Arrêté du 31 juillet 2012 (ESRS1222725A)](arrete-du-31-juillet-2012-esrs1222725a)
