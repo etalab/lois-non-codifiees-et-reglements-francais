@@ -1677,7 +1677,6 @@
 - [Arrêté du 20 juin 2011 (AGRS1116871A)](arrete-du-20-juin-2011-agrs1116871a)
 - [Arrêté du 20 juin 2011 (AGRT1113821A)](arrete-du-20-juin-2011-agrt1113821a)
 - [Arrêté du 20 juin 2011 (AGRT1113823A)](arrete-du-20-juin-2011-agrt1113823a)
-- [Arrêté du 20 juin 2011 (BCRB1112533A)](arrete-du-20-juin-2011-bcrb1112533a)
 - [Arrêté du 20 juin 2011 (BCRE1113471A)](arrete-du-20-juin-2011-bcre1113471a)
 - [Arrêté du 20 juin 2011 (BCRE1117624A)](arrete-du-20-juin-2011-bcre1117624a)
 - [Arrêté du 20 juin 2011 (EFII1116791A)](arrete-du-20-juin-2011-efii1116791a)
