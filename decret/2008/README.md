@@ -500,7 +500,6 @@
 - [Décret n°2008-265 du 17 mars 2008 (ESRS0801075D)](decret-n2008-265-du-17-mars-2008-esrs0801075d)
 - [Décret n°2008-266 du 17 mars 2008 (DEFH0801073D)](decret-n2008-266-du-17-mars-2008-defh0801073d)
 - [Décret n°2008-366 du 17 avril 2008 (BCFF0807919D)](decret-n2008-366-du-17-avril-2008-bcff0807919d)
-- [Décret n°2008-367 du 17 avril 2008 (BCFF0807898D)](decret-n2008-367-du-17-avril-2008-bcff0807898d)
 - [Décret n°2008-368 du 17 avril 2008 (BCFF0807903D)](decret-n2008-368-du-17-avril-2008-bcff0807903d)
 - [Décret n°2008-369 du 17 avril 2008 (BCFF0807913D)](decret-n2008-369-du-17-avril-2008-bcff0807913d)
 - [Décret n°2008-372 du 17 avril 2008 (IOCC0770757D)](decret-n2008-372-du-17-avril-2008-iocc0770757d)
