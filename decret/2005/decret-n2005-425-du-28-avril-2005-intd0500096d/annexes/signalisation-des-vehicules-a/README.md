@@ -1,3 +1,0 @@
-# SIGNALISATION DES VÉHICULES À MOTEUR UTILITAIRES.
-
-- [Article ANNEXE 4](article-annexe-4.md)
