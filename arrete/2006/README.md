@@ -329,7 +329,6 @@
 - [Arrêté du 30 octobre 2006 (SOCU0611887A)](arrete-du-30-octobre-2006-socu0611887a)
 - [Arrêté du 30 mai 2006 (SANS0621944A)](arrete-du-30-mai-2006-sans0621944a)
 - [Arrêté du 31 décembre 1990 (AGRG9002163A)](arrete-du-31-decembre-1990-agrg9002163a)
-- [Arrêté du 31 décembre 1998 (ECOT9820095A)](arrete-du-31-decembre-1998-ecot9820095a)
 - [Arrêté du 31 juillet 2006 (SANA0623089A)](arrete-du-31-juillet-2006-sana0623089a)
 - [Arrêté du 31 juillet 2006 (SANH0623118A)](arrete-du-31-juillet-2006-sanh0623118a)
 - [Arrêté du 31 octobre 2006 (DEVP0630181A)](arrete-du-31-octobre-2006-devp0630181a)

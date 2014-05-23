@@ -255,7 +255,6 @@
 - [Arrêté du 16 août 2005 (ECOZ0500065A)](arrete-du-16-aout-2005-ecoz0500065a)
 - [Arrêté du 16 décembre 2004 (ECOP0401033A)](arrete-du-16-decembre-2004-ecop0401033a)
 - [Arrêté du 16 décembre 2005 (INTC0500881A)](arrete-du-16-decembre-2005-intc0500881a)
-- [Arrêté du 16 février 2005 (ECOT0520003A)](arrete-du-16-fevrier-2005-ecot0520003a)
 - [Arrêté du 16 juin 2005 (AGRA0501371A)](arrete-du-16-juin-2005-agra0501371a)
 - [Arrêté du 16 juin 2005 (AGRA0501372A)](arrete-du-16-juin-2005-agra0501372a)
 - [Arrêté du 16 juin 2005 (AGRF0501360A)](arrete-du-16-juin-2005-agrf0501360a)
