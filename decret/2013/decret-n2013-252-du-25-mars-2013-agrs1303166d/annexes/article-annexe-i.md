@@ -35,6 +35,24 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Allier (03)</td>
+<td>Maison forestière du Bouchant <br/>
+</td>
+<td>Vitray </td>
+<td>D282, D229 en partie, D231 en partie, D232 en partie dans la limite d'un usage normal du bien <br/>
+</td>
+</tr>
+<tr>
+<td>Allier (03) <br/>
+</td>
+<td>Maison forestière le Rond de Morat <br/>
+</td>
+<td>Isle-et-Bardais <br/>
+</td>
+<td>E50, E49 en partie dans la limite d'un usage normal du bien <br/>
+</td>
+</tr>
+<tr>
 <td align="left">Alpes-de-Haute-Provence (4) </td>
 <td align="left">Gîte des Plantiers </td>
 <td align="left">Entrepierres </td>
@@ -76,6 +94,14 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Ardennes (08)</td>
+<td>Maison forestière du Roban <br/>
+</td>
+<td>Signy-l'Abbaye </td>
+<td>F24, F25, F26 en partie, F27 en partie dans la limite d'un usage normal du bien <br/>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Aube (10)</p>
 </td>
@@ -90,11 +116,32 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Aube (10)</td>
+<td>Maison forestière des Cinq Chênes <br/>
+</td>
+<td>Rumilly-les-Vaudes </td>
+<td>D38, D39 en partie dans la limite d'un usage normal du bien </td>
+</tr>
+<tr>
+<td>Aube (10)</td>
+<td>Maison forestière de la Madeleine </td>
+<td>Arrelles <br/>
+</td>
+<td>A106 en partie, A107 en partie dans limite de la route forestière </td>
+</tr>
+<tr>
 <td align="left">Calvados (14) </td>
 <td align="left">Maison forestière de la Belle Loge <br/>
 </td>
 <td align="left">Montfiquet </td>
 <td align="left">A20 en partie dans la limite du jardin attenant, A21 et A22 <br/>
+</td>
+</tr>
+<tr>
+<td>Cher (18)</td>
+<td>Maison forestière Le Pavillon </td>
+<td>Chezal-Benoît </td>
+<td>A72, A73 en partie et A74 en partie dans la limite du parking attenant au local ONF <br/>
 </td>
 </tr>
 <tr>
@@ -112,6 +159,14 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Hérault (34)</td>
+<td>Maison forestière Grange de Cabrierette <br/>
+</td>
+<td>Joncels </td>
+<td>F165, F166, F167 <br/>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Ille-et-Vilaine (35)</p>
 </td>
@@ -122,7 +177,7 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <p>Saint-Pierre-de-Plesguen</p>
 </td>
 <td align="left" valign="top" width="189">
-<p>E326 - E327</p>
+<p>E326-E327-E1747 </p>
 </td>
 </tr>
 <tr>
@@ -150,26 +205,35 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <p>Isère (38)</p>
 </td>
 <td align="left" valign="top" width="189">
-<p>Maison forestière de l'étoile </p>
+<p>Maison forestière de l'Etoile </p>
 </td>
 <td align="left" valign="top" width="189">
 <p>Roybon </p>
 </td>
 <td align="left" valign="top" width="189">
-<p>B 204</p>
+<p>B204 et B221 en partie pour permettre un usage normal du bien </p>
 </td>
 </tr>
 <tr>
 <td align="left">Isère (38) </td>
 <td align="left">Maison forestière de la Marquise </td>
 <td align="left">Roybon </td>
-<td align="left">F254 et F255 en partie dans la limite d'un usage normal du bien </td>
+<td align="left">F254 et F255 en partie, F253 en partie dans la limite d'un usage normal du bien <br/>
+</td>
 </tr>
 <tr>
 <td align="left">Jura (39) </td>
 <td align="left">Ancienne sècherie de La Joux </td>
 <td align="left">Supt </td>
 <td align="left">C102 </td>
+</tr>
+<tr>
+<td>Jura (39) </td>
+<td>Maison forestière des Epines fleuries <br/>
+</td>
+<td>Montigny-les-Arsures </td>
+<td>AB57, AB56 en partie dans la limite d'un usage normal du bien <br/>
+</td>
 </tr>
 <tr>
 <td align="left">Loir-et-Cher (41) </td>
@@ -180,8 +244,8 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <tr>
 <td align="left">Loir-et-Cher (41) </td>
 <td align="left">Maison forestière de la Vallée des Grès </td>
-<td align="left">Saint-Sulpice </td>
-<td align="left">C237 en partie dans la limite du jardin attenant </td>
+<td align="left">La Colombe </td>
+<td align="left">C237 en partie, C183 dans la continuité de l'enclos de la maison </td>
 </tr>
 <tr>
 <td align="left" valign="top" width="113">
@@ -229,7 +293,7 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Loiret (45) </td>
 <td align="left">Maison forestière de Chappes </td>
 <td align="left">Les Bordes </td>
-<td align="left">A415 en partie, A416, A417 et A919 dans la limite du jardin attenant et pour intégrer les dépendances </td>
+<td align="left">A415 en partie, A416, A417, et A919 </td>
 </tr>
 <tr>
 <td align="left">Loiret (45) </td>
@@ -242,6 +306,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Maison forestière Boudeaux </td>
 <td align="left">Nesploy </td>
 <td align="left">A19, A20 en partie dans la limite du jardin attenant </td>
+</tr>
+<tr>
+<td>Loiret (45) </td>
+<td>Maison forestière Le Poreux </td>
+<td>Les Bordes </td>
+<td>ZD6, A183, A184, A178 en partie dans la limite d'un usage normal du bien </td>
 </tr>
 <tr>
 <td align="left" valign="top" width="113">
@@ -276,7 +346,7 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <p>Haute-Marne (52)</p>
 </td>
 <td align="left" valign="top" width="189">
-<p>Maison forestière des Chardonnières</p>
+<p>Maison forestière des Charbonnières </p>
 </td>
 <td align="left" valign="top" width="189">
 <p>Auberive</p>
@@ -450,7 +520,7 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <p>Raveau</p>
 </td>
 <td align="left" valign="top" width="189">
-<p>C591</p>
+<p>C591 ; C53 </p>
 </td>
 </tr>
 <tr>
@@ -504,6 +574,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Maison forestière d'Ollencourt </td>
 <td align="left">Ollencourt </td>
 <td align="left">A8 </td>
+</tr>
+<tr>
+<td>Oise (60) </td>
+<td>Maison forestière du Magasin </td>
+<td>La Neuville en Hez </td>
+<td>B445, B444 en partie dans la limite d'un usage normal du bien </td>
 </tr>
 <tr>
 <td align="left" valign="top" width="113">
@@ -572,12 +648,6 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Maison forestière de Wirvignes </td>
 <td align="left">Baincthun </td>
 <td align="left">B326 et B328 en partie dans la limite d'un usage normal du bien </td>
-</tr>
-<tr>
-<td align="left">Hautes-Pyrénées (65) </td>
-<td align="left">Chalet Barèges (Artigalas) </td>
-<td align="left">Sers </td>
-<td align="left">B224 et B223 en partie pour permettre un accès indépendant </td>
 </tr>
 <tr>
 <td align="left">Pyrénées-Orientales (66) </td>
@@ -729,7 +799,16 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Seine-Maritime (76) </td>
 <td align="left">Maison forestière du Parquet </td>
 <td align="left">Vatteville-la-Rue </td>
-<td align="left">F252 en partie dans la limite du jardin attenant </td>
+<td align="left">F252 </td>
+</tr>
+<tr>
+<td>Seine-Maritime (76) </td>
+<td>Maison forestière du Grand Canton <br/>
+</td>
+<td>Houppeville <br/>
+</td>
+<td>C13, C12 en partie, C11 en partie pour intégrer les dépendances et permettre un accès sécurisé à la voie publique <br/>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top" width="113">
@@ -859,6 +938,15 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 <td align="left" valign="top" width="189">
 <p>A144 et A27</p>
+</td>
+</tr>
+<tr>
+<td>Val d'Oise (95) </td>
+<td>Maison forestière de la Pelouse de Nointel <br/>
+</td>
+<td>Nointel <br/>
+</td>
+<td>B13, B14, B15, B16, B17 en partie dans le prolongement de l'alignement sud de la parcelle 16 <br/>
 </td>
 </tr>
 </tbody>
