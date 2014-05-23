@@ -1,9 +1,9 @@
 # Article 8
 
-Ce concours comprend une phase de sélection qui consiste en l'évaluation des éléments suivants :
+Cette sélection comprend une phase d'évaluation fondée sur les éléments suivants :
 
-― l'avis de l'orienteur du CIRFA recueilli lors de l'entretien avec le candidat ;
+- l'avis de l'orienteur du centre d'information et de recrutement des forces armées recueilli lors de l'entretien avec le candidat ;
 
-― la fiche de sélection et d'orientation SLPA ;
+- le cas échéant, la fiche de sélection et d'orientation du service local de psychologie appliquée ;
 
-― le dossier scolaire du candidat.
+- le dossier scolaire du candidat.
