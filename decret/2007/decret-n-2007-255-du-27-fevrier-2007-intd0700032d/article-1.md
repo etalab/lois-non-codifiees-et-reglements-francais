@@ -24,4 +24,8 @@ Les titres sécurisés pour lesquels l'Agence nationale des titres sécurisés e
 
 11° Le permis de conduire ;
 
-12° La carte nationale d'identité.
+12° La carte nationale d'identité ;
+
+13° Le titre d'identité et de voyage ;
+
+14° La carte de frontalier.
