@@ -1,0 +1,5 @@
+# Article 1
+
+Le présent arrêté est applicable aux agents visés à l'article L. 243-7 du code de la sécurité sociale, chargés du contrôle de l'application par les employeurs et travailleurs indépendants des législations de sécurité sociale et de certaines dispositions du code du travail, notamment celles relatives à la recherche et la constatation des infractions de travail dissimulé mentionnées aux articles L. 8221-1 et L. 8221-2. Il s'applique également à ces mêmes agents lorsqu'ils sont chargés du contrôle de l'application de la législation relative aux cotisations et contributions recouvrées directement par l'Agence centrale des organismes de sécurité sociale (ACOSS), en application des dispositions du 3° de l'article L. 225-1-1 du code de la sécurité sociale.
+
+Il s'applique également aux contrôleurs du recouvrement pour l'ensemble des missions sus-énoncées, dans le cadre du contrôle sur pièces, à l'exclusion des missions relatives à la recherche et à la constatation des infractions de travail dissimulé.
