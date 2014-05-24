@@ -236,7 +236,6 @@
 - [Arrêté du 14 septembre 2005 (MCCT0500474A)](arrete-du-14-septembre-2005-mcct0500474a)
 - [Arrêté du 14 septembre 2005 (MCTB0500005A)](arrete-du-14-septembre-2005-mctb0500005a)
 - [Arrêté du 15 avril 2005 (DOMA0500003A)](arrete-du-15-avril-2005-doma0500003a)
-- [Arrêté du 15 avril 2005 (SANS0521462A)](arrete-du-15-avril-2005-sans0521462a)
 - [Arrêté du 15 décembre 2004 (SANS0424218A)](arrete-du-15-decembre-2004-sans0424218a)
 - [Arrêté du 15 décembre 2005 (BUDD0550006A)](arrete-du-15-decembre-2005-budd0550006a)
 - [Arrêté du 15 décembre 2005 (INTA0500894A)](arrete-du-15-decembre-2005-inta0500894a)
