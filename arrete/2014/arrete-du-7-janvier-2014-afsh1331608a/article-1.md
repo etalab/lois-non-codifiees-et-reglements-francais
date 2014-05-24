@@ -76,7 +76,7 @@ Assistance publique-hôpitaux de Paris : 10 emplois :
 
 ― groupe hospitalier hôpitaux universitaires Saint-Louis - Lariboisière - Fernand Widal ;
 
-― groupe hospitalier hôpitaux universitaires Henri Mondor (Henri Mondor - Albert Chenevier - Emile Roux - Joffre-Dupuytren -  Georges Clemenceau) ;
+― groupe hospitalier hôpitaux universitaires Henri Mondor (Henri Mondor - Albert Chenevier - Emile Roux - Joffre-Dupuytren - Georges Clemenceau) ;
 
 ― groupe hospitalier hôpitaux universitaires Paris-Centre (Cochin - Hôtel-Dieu - Saint-Vincent-de-Paul - Broca - La Collégiale - La Rochefoucauld) ;
 
@@ -185,3 +185,25 @@ III. ― Emplois de coordonnateur général des activités de soins, de rééduc
 ― centres hospitaliers intercommunaux Les hôpitaux du pays du Mont-Blanc et Les hôpitaux du Léman (direction commune) (74) ;
 
 ― centre hospitalier d'Arras (62).
+
+IV. - Emplois de coordonnateur général des activités de formation dans un ou plusieurs des instituts de formation ou groupe d'instituts de formation dans certains centres hospitaliers régionaux (10 emplois) :
+
+- Assistance publique-hôpitaux de Paris (75) ;
+
+- centre hospitalier régional d'Amiens (80) ;
+
+- centre hospitalier régional de Nantes (44) ;
+
+- centre hospitalier régional de Toulouse (31) ;
+
+- centre hospitalier régional de Tours (37) ;
+
+- centre hospitalier régional de Besançon (25) ;
+
+- centre hospitalier régional d'Orléans (45) ;
+
+- centre hospitalier régional de Lille (59) ;
+
+- centre hospitalier régional de La Réunion (974) ;
+
+- centre hospitalier régional d'Angers (49).
