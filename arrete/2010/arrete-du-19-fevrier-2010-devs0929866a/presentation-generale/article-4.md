@@ -4,7 +4,7 @@ Le temps consacré au candidat, qui est de 35 minutes, comprend :
 
 La vérification de la recevabilité des documents d'examen ;
 
-L'accueil du candidat, la vérification de son identité et, s'il a suivi une formation selon la formule de l'apprentissage anticipé de la conduite, de son livret d'apprentissage ;
+L'accueil du candidat, la vérification de son identité et, s'il a suivi une formation selon la formule de l'apprentissage anticipé de la conduite, de son attestation de fin de formation initiale en s'assurant du respect de la durée minimale réglementaire d'un an de conduite accompagnée entre la date du rendez-vous préalable et celle de l'examen ;
 
 Son installation au poste de conduite ;
 
