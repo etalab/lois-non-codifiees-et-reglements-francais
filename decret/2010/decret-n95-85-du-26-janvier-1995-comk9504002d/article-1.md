@@ -7,5 +7,3 @@ Il n'y a pas ouverture d'établissement en cas de changement d'exploitant pour q
 Les prestations de services, notamment la restauration, ne sont pas considérées comme des ventes au détail. Lorsqu'un établissement réalise à la fois des ventes au détail de marchandises en l'état et une autre activité, le chiffre d'affaires à prendre en considération au titre de la taxe sur les surfaces commerciales est celui des ventes au détail en l'état, dès lors que les deux activités font l'objet de comptes distincts.
 
 Pour les établissements visés au sixième alinéa de l'article 3 de la loi du 13 juillet 1972 susvisée, la surface de vente à prendre en compte pour le calcul de la taxe est majorée de 70 mètres carrés par position de ravitaillement.
-
-Lorsque la surface de vente est créée ou modifiée en cours d'exercice, le chiffre d'affaires annuel au mètre carré à prendre en compte est calculé au prorata du temps d'ouverture de ces surfaces.
