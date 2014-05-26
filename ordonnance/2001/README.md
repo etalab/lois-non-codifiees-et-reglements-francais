@@ -25,7 +25,6 @@
 - [Ordonnance n° 2001-670 du 25 juillet 2001 (ECOX0100054R)](ordonnance-n-2001-670-du-25-juillet-2001-ecox0100054r)
 - [Ordonnance n° 91-245 du 25 février 1991 (DOMX9000088R)](ordonnance-n-91-245-du-25-fevrier-1991-domx9000088r)
 - [Ordonnance n° 2000-371 du 26 avril 2000 (INTX0000046R)](ordonnance-n-2000-371-du-26-avril-2000-intx0000046r)
-- [Ordonnance n° 2000-373 du 26 avril 2000 (INTX0000048R)](ordonnance-n-2000-373-du-26-avril-2000-intx0000048r)
 - [Ordonnance n° 2001-270 du 28 mars 2001 (MESX0100025R)](ordonnance-n-2001-270-du-28-mars-2001-mesx0100025r)
 - [Ordonnance n° 2001-273 du 28 mars 2001 (EQUX0100028R)](ordonnance-n-2001-273-du-28-mars-2001-equx0100028r)
 - [Ordonnance n° 96-267 du 28 mars 1996 (JUSX9500191R)](ordonnance-n-96-267-du-28-mars-1996-jusx9500191r)
