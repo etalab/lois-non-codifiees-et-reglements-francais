@@ -2,10 +2,10 @@
 
 Les systèmes de retenue utilisés pour le transport des enfants dans les véhicules à moteur doivent être conformes :
 
-- soit aux dispositions du cahier des charges annexé à l'arrêté du 11 juin 1985 relatif au transport des enfants dans les voitures particulières ;
+- soit aux dispositions du règlement n° 44-03 annexé à l'accord de Genève du 20 mars 1958 ;
 
-- soit aux dispositions du règlement n° 44 annexé à l'accord de Genève du 20 mars 1958 ;
+- soit aux dispositions du règlement n° 129 annexé à l'accord de Genève du 20 mars 1958,
 
-- soit aux dispositions du règlement n° 129 annexé à l'accord de Genève du 20 mars 1958.
+ou de toute adaptation ultérieure desdits règlements.
 
-Toutefois, les systèmes de retenue homologués par les autorités compétentes d'autres Etats membres de l'Union européenne, conformément à des dispositions au moins équivalentes à celles existant dans les règlements n° 44 et n° 129 précités, sont admis dans les véhicules en circulation.
+Le dispositif de retenue pour enfants est installé conformément aux instructions qui sont fournies par le fabricant (par exemple, dans un manuel d'utilisation, un dépliant ou une publication électronique) et qui indiquent de quelle manière et dans quels types de véhicules le dispositif de retenue pour enfants peut être utilisé de façon sûre.
