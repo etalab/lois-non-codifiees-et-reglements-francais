@@ -2,4 +2,5 @@
 
 - [C. ― Dispositions relatives à l'examen professionnalisé d'adjoint sanitaire de 1re classe](c)
 - [Annexe](annexe)
+- [A. ― Dispositions générales](a)
 - [B. ― Dispositions relatives au recrutement sans concours d'adjoints sanitaires de 2e classe](b)
