@@ -1,3 +1,0 @@
-# Article 83
-
-Le délégué du haut-commissariat des Nations Unies pour les réfugiés ou ses représentants ont accès à la zone d'attente dans des conditions permettant de garantir leur accès effectif aux demandeurs d'asile.

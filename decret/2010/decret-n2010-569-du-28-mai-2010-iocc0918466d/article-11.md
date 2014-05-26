@@ -2,7 +2,7 @@
 
 Le présent décret est applicable sur l'ensemble du territoire de la République dans sa rédaction résultant du décret n° 2013-745 du 14 août 2013, sous réserve des dispositions suivantes :
 
-1° Pour son application à Mayotte, les références aux dispositions du code de l'entrée et du séjour des étrangers et du droit d'asile sont remplacées par les références aux dispositions de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte ;
+1° Abrogé ;
 
 2° Pour son application à Saint-Barthélemy et à Saint-Martin, les références aux dispositions du code de la route sont remplacées par les références aux dispositions applicables localement ;
 
