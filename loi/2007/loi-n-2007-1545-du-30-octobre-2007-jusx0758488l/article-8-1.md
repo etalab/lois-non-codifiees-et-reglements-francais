@@ -1,0 +1,13 @@
+# Article 8-1
+
+Les autorités responsables du lieu de privation de liberté ne peuvent s'opposer aux vérifications sur place prévues à l'article 6-1 ou aux visites prévues à l'article 8 que pour des motifs graves et impérieux liés à la défense nationale, à la sécurité publique, à des catastrophes naturelles ou à des troubles sérieux dans le lieu visité, sous réserve de fournir au Contrôleur général des lieux de privation de liberté les justifications de leur opposition. Elles proposent alors le report de ces vérifications sur place ou de ces visites. Dès que les circonstances exceptionnelles ayant motivé le report ont cessé, elles en informent le Contrôleur général des lieux de privation de liberté.
+
+Le Contrôleur général des lieux de privation de liberté obtient des autorités responsables du lieu de privation de liberté ou de toute personne susceptible de l'éclairer toute information ou pièce utile à l'exercice de sa mission, dans les délais qu'il fixe. Lors des vérifications sur place et des visites, il peut s'entretenir, dans des conditions assurant la confidentialité de leurs échanges, avec toute personne dont le concours lui paraît nécessaire et recueillir toute information qui lui paraît utile.
+
+Le caractère secret des informations et pièces dont le Contrôleur général des lieux de privation de liberté demande communication ne peut lui être opposé, sauf si leur divulgation est susceptible de porter atteinte au secret de la défense nationale, à la sûreté de l'Etat, au secret de l'enquête et de l'instruction ou au secret professionnel applicable aux relations entre un avocat et son client.
+
+Les procès-verbaux relatifs aux conditions dans lesquelles une personne est ou a été retenue, quel qu'en soit le motif, dans des locaux de police, de gendarmerie ou de douane sont communicables au Contrôleur général des lieux de privation de liberté, sauf lorsqu'ils sont relatifs aux auditions des personnes.
+
+Le Contrôleur général des lieux de privation de liberté peut déléguer aux contrôleurs les pouvoirs mentionnés aux quatre premiers alinéas du présent article.
+
+Les informations couvertes par le secret médical peuvent être communiquées, avec l'accord de la personne concernée, aux contrôleurs ayant la qualité de médecin. Toutefois, les informations couvertes par le secret médical peuvent leur être communiquées sans le consentement de la personne concernée lorsqu'elles sont relatives à des privations, sévices et violences physiques, sexuelles ou psychiques commis sur un mineur ou sur une personne qui n'est pas en mesure de se protéger en raison de son âge ou de son incapacité physique ou psychique.
