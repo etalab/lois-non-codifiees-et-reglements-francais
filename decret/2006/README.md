@@ -1,5 +1,6 @@
 # 2006
 
+- [Décret n°2006-980 du 1 août 2006 (EQUT0501536D)](decret-n2006-980-du-1-aout-2006-equt0501536d)
 - [Décret n°2005-939 du 2 août 2005 (INTC0500202D)](decret-n2005-939-du-2-aout-2005-intc0500202d)
 - [Décret n°2006-648 du 2 juin 2006 (ECOX0500233D)](decret-n2006-648-du-2-juin-2006-ecox0500233d)
 - [Décret n°2006-649 du 2 juin 2006 (INDI0607508D)](decret-n2006-649-du-2-juin-2006-indi0607508d)

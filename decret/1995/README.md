@@ -403,7 +403,6 @@
 - [Décret n°95-1015 du 13 septembre 1995 (EQUX9500130D)](decret-n95-1015-du-13-septembre-1995-equx9500130d)
 - [Décret n°95-1016 du 13 septembre 1995 (EQUX9500131D)](decret-n95-1016-du-13-septembre-1995-equx9500131d)
 - [Décret n°95-1026 du 13 septembre 1995 (DOMP9500041D)](decret-n95-1026-du-13-septembre-1995-domp9500041d)
-- [Décret n°95-1029 du 13 septembre 1995 (EQUT9501307D)](decret-n95-1029-du-13-septembre-1995-equt9501307d)
 - [Décret n°95-1030 du 13 septembre 1995 (AGRA9500089D)](decret-n95-1030-du-13-septembre-1995-agra9500089d)
 - [Décret n°95-1102 du 13 octobre 1995 (EQUU9500104D)](decret-n95-1102-du-13-octobre-1995-equu9500104d)
 - [Décret n°95-1103 du 13 octobre 1995 (EQUU9500105D)](decret-n95-1103-du-13-octobre-1995-equu9500105d)

@@ -93,7 +93,6 @@
 - [Décret n°84-59 du 17 janvier 1984](decret-n84-59-du-17-janvier-1984)
 - [Décret n°84-60 du 17 janvier 1984](decret-n84-60-du-17-janvier-1984)
 - [Décret n°84-616 du 17 juillet 1984](decret-n84-616-du-17-juillet-1984)
-- [Décret n°84-617 du 17 juillet 1984](decret-n84-617-du-17-juillet-1984)
 - [Décret n°84-630 du 17 juillet 1984](decret-n84-630-du-17-juillet-1984)
 - [Décret n°84-648 du 17 juillet 1984](decret-n84-648-du-17-juillet-1984)
 - [Décret n°84-667 du 17 juillet 1984](decret-n84-667-du-17-juillet-1984)

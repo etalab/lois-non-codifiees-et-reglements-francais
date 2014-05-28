@@ -1,3 +1,0 @@
-# TITRE V : LIMITES APPORTEES AU CUMUL DES AIDES
-
-- [Article 11](article-11.md)

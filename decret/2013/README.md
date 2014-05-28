@@ -116,7 +116,6 @@
 - [Décret n°2013-195 du 5 mars 2013 (AGRT1240394D)](decret-n2013-195-du-5-mars-2013-agrt1240394d)
 - [Décret n°2013-291 du 5 avril 2013 (MCCB1238758D)](decret-n2013-291-du-5-avril-2013-mccb1238758d)
 - [Décret n°2013-292 du 5 avril 2013 (RDFF1239082D)](decret-n2013-292-du-5-avril-2013-rdff1239082d)
-- [Décret n°2013-293 du 5 avril 2013 (TRAT1243068D)](decret-n2013-293-du-5-avril-2013-trat1243068d)
 - [Décret n°2013-465 du 5 juin 2013 (EFIT1313205D)](decret-n2013-465-du-5-juin-2013-efit1313205d)
 - [Décret n°2013-469 du 5 juin 2013 (MENE1313628D)](decret-n2013-469-du-5-juin-2013-mene1313628d)
 - [Décret n°2013-470 du 5 juin 2013 (JUSC1308369D)](decret-n2013-470-du-5-juin-2013-jusc1308369d)
