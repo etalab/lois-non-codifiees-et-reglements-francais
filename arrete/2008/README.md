@@ -548,7 +548,6 @@
 - [Arrêté du 17 novembre 1987 (MAEG8710017A)](arrete-du-17-novembre-1987-maeg8710017a)
 - [Arrêté du 17 novembre 2006 (EQUP0601904A)](arrete-du-17-novembre-2006-equp0601904a)
 - [Arrêté du 17 novembre 2008 (AGRG0827191A)](arrete-du-17-novembre-2008-agrg0827191a)
-- [Arrêté du 17 novembre 2008 (DEVE0826217A)](arrete-du-17-novembre-2008-deve0826217a)
 - [Arrêté du 17 novembre 2008 (DEVN0824692A)](arrete-du-17-novembre-2008-devn0824692a)
 - [Arrêté du 17 novembre 2008 (ESRH0824710A)](arrete-du-17-novembre-2008-esrh0824710a)
 - [Arrêté du 17 novembre 2008 (ESRH0824970A)](arrete-du-17-novembre-2008-esrh0824970a)
