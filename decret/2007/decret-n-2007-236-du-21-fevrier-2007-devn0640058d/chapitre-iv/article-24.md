@@ -30,7 +30,7 @@ Point BGS : longitude est 55° 16' 18,30'' - latitude sud 21° 09' 16,28'' ;
 
 Point BS5 : longitude est 55° 16' 39,73'' - latitude sud 21° 09' 27,15'' ;
 
-Point PS6 : longitude est 55° 16' 53,50'' - latitude sud 21° 10' 16,50'' ;
+Point PS6 : longitude est : 55° 16 28,65''-latitude sud : 21° 09 02,42'' ;
 
 Point PS7 : longitude est 55° 16' 50,57'' - latitude sud 21° 09' 14,54'' ;
 
