@@ -8,7 +8,9 @@ I. - Les données faisant l'objet du traitement susvisé sont :
 
 - l'immeuble auquel appartient le logement concerné et l'étage de ce logement ;
 
-- le code à barres, destiné à assurer l'unicité de la numérotation de chaque questionnaire. Le code à barres permet de lier entre eux les questionnaires d'un même ménage. Il occupe dix positions : la première donne le millésime de l'enquête de recensement ; la deuxième donne le type de questionnaire ; les huit suivantes composent un numéro d'ordre non significatif du questionnaire.
+- le code à barres, destiné à assurer l'unicité de la numérotation de chaque questionnaire. Le code à barres permet de lier entre eux les questionnaires d'un même ménage. Il occupe dix positions : la première donne le millésime de l'enquête de recensement ; la deuxième donne le type de questionnaire ; les huit suivantes composent un numéro d'ordre non significatif du questionnaire ;
+
+- l'adresse électronique dans le cadre du remplissage mentionné au dernier alinéa de l'article 1er.
 
 II. - Le traitement comprend les opérations suivantes :
 
