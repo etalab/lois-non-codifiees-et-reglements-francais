@@ -10,7 +10,7 @@ L'inclusion dans le domaine de l'Etat d'immeubles utilisés par la Société nat
 
 L'incorporation au domaine privé de l'Etat d'immeubles utilisés par la Société nationale des chemins de fer français pour la poursuite de ses missions et dépendant du domaine public ferroviaire peut être réalisée, pour les mêmes motifs et dans les mêmes conditions, après déclassement des immeubles considérés par le ministre chargé des transports, ou, dans le cas mentionné à l'article R. 86 du code du domaine de l'Etat, par le Premier ministre.
 
-L'indemnité due à la Société nationale des chemins de fer français est fixée par le directeur des services fiscaux sur demande de l'établissement public. Elle est dans tous ces cas égale à la valeur de reconstitution du bien repris, laquelle tient compte notamment :
+L'indemnité due à la Société nationale des chemins de fer français est fixée par le directeur départemental ou, le cas échéant, régional des finances publiques sur demande de l'établissement public. Elle est dans tous ces cas égale à la valeur de reconstitution du bien repris, laquelle tient compte notamment :
 
 1° Soit du prix d'acquisition du terrain de remplacement dans la limite de la valeur vénale du terrain repris considéré comme non bâti, soit de la valeur vénale du terrain repris lorsqu'il n'y a pas lieu de procéder à l'acquisition d'un terrain de remplacement ;
 
@@ -18,4 +18,4 @@ L'indemnité due à la Société nationale des chemins de fer français est fix�
 
 3° Du coût de déplacement et de réinstallation des équipements transportables.
 
-La remise effective des immeubles au service bénéficiaire est constatée par un procès-verbal établi entre les représentants de l'établissement, du service des domaines et, le cas échéant, du service qui reçoit les immeubles. Ce procès-verbal mentionne le montant de l'indemnité de reconstitution fixé par le directeur des services fiscaux.
+La remise effective des immeubles au service bénéficiaire est constatée par un procès-verbal établi entre les représentants de l'établissement, de l'administration chargée des domaines et, le cas échéant, du service qui reçoit les immeubles. Ce procès-verbal mentionne le montant de l'indemnité de reconstitution fixé par le directeur départemental ou, le cas échéant, régional des finances publiques.

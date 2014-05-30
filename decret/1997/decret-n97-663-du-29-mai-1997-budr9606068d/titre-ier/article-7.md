@@ -1,6 +1,6 @@
 # Article 7
 
-Les casinos qui ont bénéficié d'un abattement supplémentaire à titre provisoire sont tenus d'adresser, au plus tard trois mois après la clôture de la saison, au comptable supérieur du Trésor de l'arrondissement l'état détaillé des manifestations artistiques de qualité qu'ils ont organisées au cours de la saison ainsi qu'un relevé des dépenses et des recettes prévues à l'article 3 ci-dessus.
+Les casinos qui ont bénéficié d'un abattement supplémentaire à titre provisoire sont tenus d'adresser, au plus tard trois mois après la clôture de la saison, au       directeur départemental ou, le cas échéant, régional des finances publiques l'état détaillé des manifestations artistiques de qualité qu'ils ont organisées au cours de la saison ainsi qu'un relevé des dépenses et des recettes prévues à l'article 3 ci-dessus.
 
 Il est statué définitivement sur l'abattement à accorder aux casinos selon la procédure fixée à l'article 5 ci-dessus.
 

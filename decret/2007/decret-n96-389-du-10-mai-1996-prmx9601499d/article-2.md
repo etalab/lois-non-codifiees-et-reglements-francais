@@ -16,17 +16,17 @@ Cette commission est placée sous l'autorité des ministres chargés respectivem
 
 -le        directeur général du Trésor ou son représentant ;
 
--le directeur général des politiques économique, européenne et internationale du ministère chargé de l'agriculture ou son représentant ;
+-le directeur général des politiques agricole, agroalimentaire et des territoires  du ministère chargé de l'agriculture ou son représentant ;
 
 -le directeur général de l'alimentation du ministère chargé de l'agriculture ou son représentant ;
 
 -le secrétaire général du ministère de l'agriculture ou son représentant ;
 
--le directeur des affaires financières et de la logistique du ministère chargé de l'agriculture ou son représentant ;
+-le chef du service des affaires financières et de la logistique  du ministère chargé de l'agriculture ou son représentant ;
 
 -le chef de la mission de contrôle général économique et financier auprès des organismes d'intervention de l'agriculture et de la pêche ou son représentant.
 
-Le directeur de la comptabilité publique, le directeur des pêches maritimes et de l'aquaculture, le directeur des affaires économiques, sociales et culturelles au ministère chargé de l'outre-mer ou leurs représentants participent aux travaux de la commission lorsque celle-ci traite des affaires relevant de leurs compétences respectives.
+Le directeur général des finances publiques, le directeur des pêches maritimes et de l'aquaculture, le directeur des affaires économiques, sociales et culturelles au ministère chargé de l'outre-mer ou leurs représentants participent aux travaux de la commission lorsque celle-ci traite des affaires relevant de leurs compétences respectives.
 
 Peuvent participer à ses travaux un magistrat de la Cour des comptes ainsi que le directeur des affaires criminelles et des grâces au ministère de la justice ou son représentant. Ce dernier assiste notamment la commission pour l'appréciation des éléments d'intentionnalité des manquements.
 

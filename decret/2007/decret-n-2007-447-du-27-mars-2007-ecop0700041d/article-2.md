@@ -18,7 +18,7 @@ I.-La direction du budget exerce les missions suivantes :
 
 8° Tutelle financière des organismes entrant dans son champ de compétence.
 
-II.-Avec la direction générale de la comptabilité publique, la direction interministérielle pour la modernisation de l'action publique et la direction générale de l'administration et de la fonction publique, chacune pour ce qui la concerne, la direction du budget :
+II.-Avec la     direction générale des finances publiques, la direction interministérielle pour la modernisation de l'action publique et la direction générale de l'administration et de la fonction publique, chacune pour ce qui la concerne, la direction du budget :
 
 1° Participe aux travaux de modernisation des modes de gestion de l'Etat et des organismes bénéficiaires d'une subvention pour charges de service public ;
 

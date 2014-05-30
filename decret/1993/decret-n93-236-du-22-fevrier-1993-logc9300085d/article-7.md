@@ -12,7 +12,7 @@ Le vice-président du Conseil général des ponts et chaussées.
 
 Le directeur du Trésor ;
 
-Le directeur général de la comptabilité publique.
+Le     directeur général des finances publiques.
 
 3° Un membre de la Cour des comptes, désigné par le premier président.
 

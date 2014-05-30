@@ -16,4 +16,4 @@ Un représentant de chaque syndicat des casinos.
 
 Avant de se prononcer, la commission peut décider d'entendre un représentant des activités hôtelières ou thermales.
 
-Les décisions du ministre chargé du budget sont notifiées aux casinos par le trésorier-payeur général.
+Les décisions du ministre chargé du budget sont notifiées aux casinos par le   directeur départemental ou, le cas échéant, régional des finances publiques.
