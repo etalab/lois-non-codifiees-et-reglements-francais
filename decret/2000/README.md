@@ -105,7 +105,6 @@
 - [Décret n°2000-615 du 28 juin 2000 (ECOC0000057D)](decret-n2000-615-du-28-juin-2000-ecoc0000057d)
 - [Décret n°2000-723 du 28 juillet 2000 (MENG0000839D)](decret-n2000-723-du-28-juillet-2000-meng0000839d)
 - [Décret n°2000-73 du 28 janvier 2000 (MESC0010117D)](decret-n2000-73-du-28-janvier-2000-mesc0010117d)
-- [Décret n°2000-818 du 28 août 2000 (ECOP0000639D)](decret-n2000-818-du-28-aout-2000-ecop0000639d)
 - [Décret n°2000-819 du 28 août 2000 (MESF0010794D)](decret-n2000-819-du-28-aout-2000-mesf0010794d)
 - [Décret n°2000-825 du 28 août 2000 (INTE0000233D)](decret-n2000-825-du-28-aout-2000-inte0000233d)
 - [Décret n°2000-609 du 29 juin 2000 (MCCB0000009D)](decret-n2000-609-du-29-juin-2000-mccb0000009d)

@@ -201,7 +201,6 @@
 - [Décret n°98-819 du 8 septembre 1998 (ECOP9700056D)](decret-n98-819-du-8-septembre-1998-ecop9700056d)
 - [Décret n°98-897 du 8 octobre 1998 (MCCB9800430D)](decret-n98-897-du-8-octobre-1998-mccb9800430d)
 - [Décret n°98-898 du 8 octobre 1998 (MCCB9800428D)](decret-n98-898-du-8-octobre-1998-mccb9800428d)
-- [Décret n°98-902 du 8 octobre 1998 (ECOP9800418D)](decret-n98-902-du-8-octobre-1998-ecop9800418d)
 - [Décret n°98-905 du 8 octobre 1998 (MESH9822627D)](decret-n98-905-du-8-octobre-1998-mesh9822627d)
 - [Décret n°99-617 du 8 juillet 1999 (EQUA9900471D)](decret-n99-617-du-8-juillet-1999-equa9900471d)
 - [Décret n°99-619 du 8 juillet 1999 (EQUA9900468D)](decret-n99-619-du-8-juillet-1999-equa9900468d)

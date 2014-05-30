@@ -215,7 +215,6 @@
 - [Décret n°2008-449 du 7 mai 2008 (ECET0801598D)](decret-n2008-449-du-7-mai-2008-ecet0801598d)
 - [Décret n°2008-450 du 7 mai 2008 (MTSA0807009D)](decret-n2008-450-du-7-mai-2008-mtsa0807009d)
 - [Décret n°2008-451 du 7 mai 2008 (MTSA0807435D)](decret-n2008-451-du-7-mai-2008-mtsa0807435d)
-- [Décret n° 98-903 du 8 octobre 1998 (ECOP9800419D)](decret-n-98-903-du-8-octobre-1998-ecop9800419d)
 - [Décret n°2008-1039 du 8 octobre 2008 (IOCA0823926D)](decret-n2008-1039-du-8-octobre-2008-ioca0823926d)
 - [Décret n°2008-1281 du 8 décembre 2008 (PRMX0829186D)](decret-n2008-1281-du-8-decembre-2008-prmx0829186d)
 - [Décret n°2008-1282 du 8 décembre 2008 (AGRG0826049D)](decret-n2008-1282-du-8-decembre-2008-agrg0826049d)

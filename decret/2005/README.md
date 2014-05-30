@@ -117,7 +117,6 @@
 - [Décret n°2005-78 du 26 janvier 2005 (INDI0404303D)](decret-n2005-78-du-26-janvier-2005-indi0404303d)
 - [Décret n°2005-544 du 26 mai 2005 (INTX0500125D)](decret-n2005-544-du-26-mai-2005-intx0500125d)
 - [Décret n°2005-555 du 26 mai 2005 (INTE0500097D)](decret-n2005-555-du-26-mai-2005-inte0500097d)
-- [Décret n°2005-1669 du 27 décembre 2005 (BUDR0504242D)](decret-n2005-1669-du-27-decembre-2005-budr0504242d)
 - [Décret n°2005-850 du 27 juillet 2005 (PRMX0500111D)](decret-n2005-850-du-27-juillet-2005-prmx0500111d)
 - [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
 - [Décret n° 2005-556 du 27 mai 2005 (INTD0500133D)](decret-n-2005-556-du-27-mai-2005-intd0500133d)
