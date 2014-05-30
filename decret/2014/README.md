@@ -17,6 +17,7 @@
 - [Décret n°2014-461 du 7 mai 2014 (JUSB1402766D)](decret-n2014-461-du-7-mai-2014-jusb1402766d)
 - [Décret n°2014-462 du 7 mai 2014 (FCPP1403683D)](decret-n2014-462-du-7-mai-2014-fcpp1403683d)
 - [Décret n°2014-469 du 7 mai 2014 (MCCK1404802D)](decret-n2014-469-du-7-mai-2014-mcck1404802d)
+- [Décret n°98-902 du 8 octobre 1998 (ECOP9800418D)](decret-n98-902-du-8-octobre-1998-ecop9800418d)
 - [Décret n°2014-395 du 9 avril 2014 (JUSB1405862D)](decret-n2014-395-du-9-avril-2014-jusb1405862d)
 - [Décret n°98-20 du 9 janvier 1998 (EQUC9800009D)](decret-n98-20-du-9-janvier-1998-equc9800009d)
 - [Décret n°98-601 du 9 juillet 1998 (ATET9860038D)](decret-n98-601-du-9-juillet-1998-atet9860038d)
