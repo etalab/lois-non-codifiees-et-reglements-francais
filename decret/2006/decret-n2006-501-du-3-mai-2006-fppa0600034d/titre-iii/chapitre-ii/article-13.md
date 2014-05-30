@@ -20,4 +20,4 @@ Pour chacun des membres de ce comité, à l'exception des 1° et 2°, il est nom
 
 Assistent sans voix délibérative aux séances du comité trois personnes désignées par arrêté du préfet de région en raison de leurs compétences dans le domaine du handicap.
 
-Le trésorier-payeur général de région ou son représentant et un représentant du gestionnaire administratif dans la région assistent, sans voix délibérative, aux séances du comité.
+Le     directeur régional des finances publiques ou son représentant et un représentant du gestionnaire administratif dans la région assistent, sans voix délibérative, aux séances du comité.

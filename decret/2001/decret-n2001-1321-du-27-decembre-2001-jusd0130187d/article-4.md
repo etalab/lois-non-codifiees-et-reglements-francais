@@ -8,7 +8,7 @@ a) La disposition de l'article 1er modifiant l'article R. 92 s'applique à l'art
 
 b) Les articles R. 249-2, R. 249-7 et R. 249-8 créés par l'article 3 deviennent les articles RNC 249-2, RNC 249-7 et RNC 249-8 qui sont ainsi rédigés :
 
-" Art. RNC 249-2. -     L'indemnité prévue par l'article 800-2 comporte l'indemnisation des frais d'avocat exposés par la personne poursuivie, dont le montant ne peut excéder la contribution de l'Etat à la rétribution de l'avocat qui aurait prêté son concours à l'intéressé au titre de l'aide juridictionnelle pour l'ensemble de la procédure ayant abouti à la décision de non-lieu, de relaxe ou d'acquittement.
+" Art. RNC 249-2. - L'indemnité prévue par l'article 800-2 comporte l'indemnisation des frais d'avocat exposés par la personne poursuivie, dont le montant ne peut excéder la contribution de l'Etat à la rétribution de l'avocat qui aurait prêté son concours à l'intéressé au titre de l'aide juridictionnelle pour l'ensemble de la procédure ayant abouti à la décision de non-lieu, de relaxe ou d'acquittement.
 
 " Cette indemnité comporte également, sauf si la personne poursuivie était en détention provisoire lors de ses comparutions devant les juridictions d'instruction ou de jugement :
 
@@ -20,13 +20,13 @@ b) Les articles R. 249-2, R. 249-7 et R. 249-8 créés par l'article 3 deviennen
 
 " 4° Si l'intéressé a été retenu hors de sa résidence du fait de ses comparutions devant les juridictions d'instruction ou de jugement, des indemnités de séjour ne pouvant excéder celles calculées dans les conditions fixées à l'article R. 111. "
 
-" Art. RNC 249-7. -     Le paiement de l'indemnité est effectué par le Trésor public au vu de la décision de la juridiction.
+" Art. RNC 249-7. - Le paiement de l'indemnité est effectué par la direction locale des finances publiques au vu de la décision de la juridiction.
 
-" Lorsque la décision met l'indemnité à la charge de la partie civile, le recouvrement du montant de l'indemnité auprès de la partie civile est poursuivi à la diligence du Trésor public par toutes voies de droit.
+" Lorsque la décision met l'indemnité à la charge de la partie civile, le recouvrement du montant de l'indemnité auprès de la partie civile est poursuivi à la diligence de la direction locale des finances publiques par toutes voies de droit.
 
-" Art. RNC 249-8. -     Un recours contre la décision peut être formé devant la juridiction mentionnée au a ou au b de l'article R. 249-6 par le ministère public à la demande du Trésor public dans un délai d'un mois à compter du paiement de l'indemnité.
+" Art. RNC 249-8. - Un recours contre la décision peut être formé devant la juridiction mentionnée au a ou au b de l'article R. 249-6 par le ministère public à la demande de la direction locale des finances publiques dans un délai d'un mois à compter du paiement de l'indemnité.
 
-" Le refus motivé du ministère public d'exercer le recours est porté à la connaissance du Trésor public. "
+" Le refus motivé du ministère public d'exercer le recours est porté à la connaissance de la direction locale des finances publiques. "
 
 II. - Pour son application en Polynésie française :
 
@@ -34,7 +34,7 @@ a) La disposition de l'article 1er modifiant l'article R. 92 s'applique à l'art
 
 b) Les articles R. 249-2, R. 249-7 et R. 249-8 créés par l'article 3 deviennent les articles RP 249-2, RP 249-7 et RP 249-8 qui sont ainsi rédigés :
 
-" Art. RP 249-2. -     L'indemnité prévue par l'article 800-2 comporte l'indemnisation des frais d'avocat exposés par la personne poursuivie, dont le montant ne peut excéder la contribution de l'Etat à la rétribution de l'avocat qui aurait prêté son concours à l'intéressé au titre de l'aide juridictionnelle pour l'ensemble de la procédure ayant abouti à la décision de non-lieu, de relaxe ou d'acquittement.
+" Art. RP 249-2. - L'indemnité prévue par l'article 800-2 comporte l'indemnisation des frais d'avocat exposés par la personne poursuivie, dont le montant ne peut excéder la contribution de l'Etat à la rétribution de l'avocat qui aurait prêté son concours à l'intéressé au titre de l'aide juridictionnelle pour l'ensemble de la procédure ayant abouti à la décision de non-lieu, de relaxe ou d'acquittement.
 
 " Cette indemnité comporte également, sauf si la personne poursuivie était en détention provisoire lors de ses comparutions devant les juridictions d'instruction ou de jugement :
 
@@ -46,10 +46,10 @@ b) Les articles R. 249-2, R. 249-7 et R. 249-8 créés par l'article 3 deviennen
 
 " 4° Si l'intéressé a été retenu hors de sa résidence du fait de ses comparutions devant les juridictions d'instruction ou de jugement, des indemnités de séjour ne pouvant excéder celles calculées dans les conditions fixées à l'article R. 111. "
 
-" Art. RP 249-7. -     Le paiement de l'indemnité est effectué par le Trésor public au vu de la décision de la juridiction d'instruction ou de jugement.
+" Art. RP 249-7. - Le paiement de l'indemnité est effectué par la direction locale des finances publiques au vu de la décision de la juridiction d'instruction ou de jugement.
 
-" Lorsque la décision met l'indemnité à la charge de la partie civile, le recouvrement du montant de l'indemnité auprès de la partie civile est poursuivi à la diligence du Trésor public par toutes voies de droit.
+" Lorsque la décision met l'indemnité à la charge de la partie civile, le recouvrement du montant de l'indemnité auprès de la partie civile est poursuivi à la diligence de la direction locale des finances publiques par toutes voies de droit.
 
-" Art. RP 249-8. -     Un recours contre la décision peut être formé devant la juridiction mentionnée au a ou au b de l'article R. 249-6 par le ministère public à la demande du Trésor public dans un délai d'un mois à compter du paiement de l'indemnité.
+" Art. RP 249-8. - Un recours contre la décision peut être formé devant la juridiction mentionnée au a ou au b de l'article R. 249-6 par le ministère public à la demande de la direction locale des finances publiques dans un délai d'un mois à compter du paiement de l'indemnité.
 
-" Le refus motivé du ministère public d'exercer le recours est porté à la connaissance du Trésor public. "
+" Le refus motivé du ministère public d'exercer le recours est porté à la connaissance de la direction locale des finances publiques. "

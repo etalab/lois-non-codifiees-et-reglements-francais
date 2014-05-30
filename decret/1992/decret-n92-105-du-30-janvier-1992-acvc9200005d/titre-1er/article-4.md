@@ -1,6 +1,6 @@
 # Article 4
 
-Les pensions militaires d'invalidité des pensionnaires sont obligatoirement assignées sur la caisse du receveur général des finances à Paris. Les arrérages doivent en être virés à l'échéance, au crédit d'un compte de dépôt de fonds au Trésor ouvert au nom de l'agent comptable de l'établissement.
+Les pensions militaires d'invalidité des pensionnaires sont obligatoirement assignées sur la caisse du     directeur régional des finances publiques d'Ile-de-France et du département de Paris. Les arrérages doivent en être virés à l'échéance, au crédit d'un compte de dépôt de fonds au Trésor ouvert au nom de l'agent comptable de l'établissement.
 
 L'agent comptable assure le règlement aux pensionnaires des arrérages leur restant dus après déduction des redevances prévues à l'article précédent et de toutes sommes dues à l'institution, dont le montant est arrêté par le directeur.
 

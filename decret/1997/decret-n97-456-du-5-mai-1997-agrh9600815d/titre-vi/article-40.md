@@ -1,6 +1,6 @@
 # Article 40
 
-Le contrôle et la surveillance des courses de chevaux et du pari mutuel sont assurés conjointement par les agents de la direction générale de la forêt et des affaires rurales du ministère de l'agriculture, par les fonctionnaires du service de police chargé des courses de chevaux au ministère de l'intérieur et par les comptables supérieurs du Trésor ou leurs représentants.
+Le contrôle et la surveillance des courses de chevaux et du pari mutuel sont assurés conjointement par les agents de la sous-direction du développement rural et du cheval du ministère de l'agriculture, par les fonctionnaires du service de police chargé des courses de chevaux au ministère de l'intérieur et par les directeurs départementaux ou, le cas échéant, régionaux des finances publiques ou leurs représentants.
 
 Les sociétés de courses doivent notamment transmettre au ministère de l'agriculture le compte rendu de chaque réunion de courses, selon le modèle établi par ce ministère, dans les deux semaines qui suivent cette réunion.
 

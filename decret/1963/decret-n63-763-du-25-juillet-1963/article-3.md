@@ -1,6 +1,6 @@
 # Article 3
 
-Les comptables directs du Trésor sont tenus de procéder, en application des dispositions de l'article 122 du décret du 29 décembre 1962 susvisé, aux opérations d'achat, de vente et d'arbitrage concernant les valeurs ci-après :
+Les comptables de la direction générale des finances publiques sont tenus de procéder, en application des dispositions de l'article 122 du décret du 29 décembre 1962 susvisé, aux opérations d'achat, de vente et d'arbitrage concernant les valeurs ci-après :
 
 Rentes sur l'Etat et valeurs du Trésor inscrites ou non au grand-livre de la dette publique ;
 

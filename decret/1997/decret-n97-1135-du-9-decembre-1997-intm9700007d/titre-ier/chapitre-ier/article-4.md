@@ -12,7 +12,7 @@ La commission consultative des jeux comprend, outre son président, onze membres
 
 - le ministre du gouvernement de la Polynésie française, chargé des finances, ou son représentant ;
 
-- le trésorier-payeur général ou son représentant ;
+- le directeur chargé de la direction des finances publiques de la Polynésie française ou son représentant ;
 
 - le directeur de la sécurité publique ou son représentant ;
 

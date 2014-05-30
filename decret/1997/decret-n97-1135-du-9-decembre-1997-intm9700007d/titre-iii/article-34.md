@@ -16,6 +16,6 @@ Sont seuls admis de droit dans les salles de jeux les magistrats et les fonction
 
 7° Les fonctionnaires du service des renseignements généraux de Polynésie française chargés spécialement de la surveillance des casinos et cercles ;
 
-8° Le trésorier-payeur général du territoire, le payeur du territoire, le trésorier municipal de la commune où est situé le casino et les fondés de pouvoir de ces différents comptables ;
+8° Le directeur chargé de la direction des finances publiques de la Polynésie française, le payeur du territoire, le trésorier municipal de la commune où est situé le casino et les fondés de pouvoir de ces différents comptables ;
 
 9° Tous les autres fonctionnaires spécialement désignés par le ministre de l'intérieur ou le ministre de l'économie et des finances.

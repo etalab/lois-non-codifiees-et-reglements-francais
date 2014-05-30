@@ -22,6 +22,7 @@
 - [Décret n°55-1002 du 26 juillet 1955](decret-n55-1002-du-26-juillet-1955)
 - [Décret n°55-1305 du 29 septembre 1955](decret-n55-1305-du-29-septembre-1955)
 - [Décret n°55-1307 du 29 septembre 1955](decret-n55-1307-du-29-septembre-1955)
+- [Décret n°55-471 du 30 avril 1955](decret-n55-471-du-30-avril-1955)
 - [Décret n°55-885 du 30 juin 1955](decret-n55-885-du-30-juin-1955)
 - [Décret n°55-1175 du 31 août 1955](decret-n55-1175-du-31-aout-1955)
 - [Décret n°55-753 du 31 mai 1955](decret-n55-753-du-31-mai-1955)

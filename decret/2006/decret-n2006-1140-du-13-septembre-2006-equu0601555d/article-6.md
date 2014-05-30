@@ -12,7 +12,7 @@ L'établissement public est administré par un conseil composé de trente membre
 
 Les représentants des conseils généraux des départements qui ne sont pas compris majoritairement dans le périmètre défini à l'article 2 assistent au conseil d'administration avec voix consultative ;
 
-2° Un représentant du    conseil économique, social et environnemental régional ;
+2° Un représentant du conseil économique, social et environnemental régional ;
 
 3° Trois représentants des chambres consulaires :
 
@@ -26,7 +26,7 @@ Les représentants des conseils généraux des départements qui ne sont pas com
 
 -le préfet de la région Ile-de-France, préfet de Paris, ou son représentant ;
 
--le trésorier-payeur général de la région Ile-de-France ou son représentant ;
+-le           directeur régional des finances publiques d'Ile-de-France et du département de Paris ou son représentant ;
 
 -le directeur régional de l'équipement de la région Ile-de-France ou son représentant.
 

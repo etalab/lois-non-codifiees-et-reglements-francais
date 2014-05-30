@@ -18,7 +18,7 @@ f) Un membre désigné par le ministre chargé de la politique de la ville ;
 
 g) Un membre désigné par le ministre chargé des collectivités locales ;
 
-h) Le trésorier-payeur général du département des Yvelines ou son représentant.
+h) Le   directeur départemental des finances publiques du département des Yvelines ou son représentant.
 
 2° Dix-huit membres représentant les collectivités territoriales ou leurs établissements :
 

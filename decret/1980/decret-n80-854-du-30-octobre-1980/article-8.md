@@ -2,7 +2,7 @@
 
 En cas de retard dans le paiement de la taxe et faute de règlement dans les quinze jours de la réception d'une mise en demeure par lettre recommandée avec demande d'avis de réception, la taxe est majorée de 10 p. 100 au profit de l'organisme bénéficiaire de la taxe sans préjudice des indemnités de retard prévues par le décret institutif de la taxe.
 
-La taxe ainsi majorée est recouvrée par les comptables du Trésor en vertu d'un titre de perception qui est établi par le représentant qualifié de l'organisme bénéficiaire, visé par le membre du corps du contrôle général économique et financier et rendu exécutoire par le préfet du département où le débiteur est domicilié.
+La taxe ainsi majorée est recouvrée par les comptables de la direction générale des finances publiques en vertu d'un titre de perception qui est établi par le représentant qualifié de l'organisme bénéficiaire, visé par le membre du corps du contrôle général économique et financier et rendu exécutoire par le préfet du département où le débiteur est domicilié.
 
 Le titre de perception prend alors le nom d'"état exécutoire" ; il demeure exécutoire jusqu'à contestation de la partie intéressée en application du dernier alinéa du présent article ou du troisième alinéa de l'article 9 du présent décret.
 

@@ -1,6 +1,6 @@
 # Article 6
 
-Le représentant de l'Etat, qui a rendu exécutoire l'état, émet un titre de réduction, après s'être assuré s'il y a lieu auprès du trésorier-payeur général que les conditions sont réunies, s'il y a renonciation du créancier à la procédure de recouvrement public, décès du débiteur, impossibilité de recouvrer la créance constatée par le comptable du Trésor ou acquittement par le débiteur des arriérés de la créance prise en charge par le comptable du Trésor ainsi que des termes courants durant douze mois consécutifs.
+Le représentant de l'Etat, qui a rendu exécutoire l'état, émet un titre de réduction, après s'être assuré s'il y a lieu auprès du directeur départemental ou, le cas échéant, régional des finances publiques que les conditions sont réunies, s'il y a renonciation du créancier à la procédure de recouvrement public, décès du débiteur, impossibilité de recouvrer la créance constatée par le comptable de la direction générale des finances publiques ou acquittement par le débiteur des arriérés de la créance prise en charge par le comptable de la direction générale des finances publiques ainsi que des termes courants durant douze mois consécutifs.
 
 Le représentant de l'Etat en avise le directeur de l'organisme débiteur des prestations familiales.
 
