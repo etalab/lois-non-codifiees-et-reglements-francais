@@ -110,6 +110,7 @@
 - [Décret n°2014-518 du 21 mai 2014 (DEFH1407425D)](decret-n2014-518-du-21-mai-2014-defh1407425d)
 - [Décret n°2014-519 du 21 mai 2014 (AGRS1404402D)](decret-n2014-519-du-21-mai-2014-agrs1404402d)
 - [Décret n°2014-520 du 21 mai 2014 (OMES1404620D)](decret-n2014-520-du-21-mai-2014-omes1404620d)
+- [Décret n°64-1333 du 22 décembre 1964](decret-n64-1333-du-22-decembre-1964)
 - [Décret n°99-125 du 22 février 1999 (EQUU9900170D)](decret-n99-125-du-22-fevrier-1999-equu9900170d)
 - [Décret n°99-126 du 22 février 1999 (EQUU9900171D)](decret-n99-126-du-22-fevrier-1999-equu9900171d)
 - [Décret n°2014-516 du 22 mai 2014 (AFSS1404806D)](decret-n2014-516-du-22-mai-2014-afss1404806d)
