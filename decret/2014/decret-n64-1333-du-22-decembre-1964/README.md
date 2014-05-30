@@ -3,3 +3,5 @@
 - [Article 1](article-1.md)
 - [Section 1 : Recouvrements sur décisions exécutoires.](section-1)
 - [Section 2 : Recouvrements exclusifs de mesures d'exécution.](section-2)
+- [Article 20](article-20.md)
+- [Dispositions communes.](dispositions-communes)
