@@ -1,0 +1,3 @@
+# Article 2
+
+Sans préjudice des dispositions de l'article 1er, paragraphe 2, point b, du règlement (CE) n° 216/2008 susvisé, le présent arrêté s'applique aux aérodromes ouverts au public, sur lesquels sont offerts des services commerciaux de transport aérien et pour lesquels il existe des procédures d'approche ou de départ aux instruments, et qui comprennent des pistes revêtues de 800 mètres au moins ou qui sont exclusivement utilisés par des hélicoptères, et qui ne reçoivent pas plus de 10 000 passagers par an et ne reçoivent pas plus de 850 mouvements d'aéronefs liés à des opérations de fret chaque année, durant trois années consécutives.
