@@ -12,7 +12,7 @@ Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre Ier, de la di
 
 Chapitre 2
 
-Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre II, de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2009/7/CE de la Commission du 10 février 2009.
+Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre II, de la directive 2000/29/ CE du 8 mai 2000 dans sa rédaction issue de la directive 2014/19/ UE de la Commission du 6 février 2014.
 
 Partie B
 
