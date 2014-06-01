@@ -101,6 +101,7 @@
 - [Décret n°2011-1671 du 29 novembre 2011 (EFII1117279D)](decret-n2011-1671-du-29-novembre-2011-efii1117279d)
 - [Décret n°2011-1673 du 29 novembre 2011 (EFII1117281D)](decret-n2011-1673-du-29-novembre-2011-efii1117281d)
 - [Décret n°2011-1675 du 29 novembre 2011 (EFII1117283D)](decret-n2011-1675-du-29-novembre-2011-efii1117283d)
+- [Décret n°2010-1693 du 30 décembre 2010 (DEFH1025585D)](decret-n2010-1693-du-30-decembre-2010-defh1025585d)
 - [Décret n°2010-1749 du 30 décembre 2010 (BCRF1033417D)](decret-n2010-1749-du-30-decembre-2010-bcrf1033417d)
 - [Décret n°2011-1034 du 30 août 2011 (ETSS1123735D)](decret-n2011-1034-du-30-aout-2011-etss1123735d)
 - [Décret n°2011-1702 du 30 novembre 2011 (AGRT1114929D)](decret-n2011-1702-du-30-novembre-2011-agrt1114929d)
