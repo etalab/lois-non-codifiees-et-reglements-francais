@@ -4,6 +4,6 @@ Le montant de l'indemnisation des interventions effectuées par les services d'i
 
 - le montant de l'indemnisation englobant l'ensemble de ces interventions est fixé forfaitairement en début d'année, notamment sur la base du nombre d'interventions constatées précédemment. Ce forfait annuel ne peut toutefois excéder le montant obtenu par le produit du tarif fixé à l'alinéa ci-dessous et la moyenne nationale de ces interventions pour 10 000 habitants, rapportée au nombre d'habitants du département, majorée de 20 % ;
 
-- le montant de l'indemnisation correspond à l'application du tarif national d'indemnisation fixé à l'article 5 du présent arrêté et appliqué à chaque intervention concernée. Ce tarif est revalorisé annuellement, par arrêté conjoint des ministres chargés de la sécurité civile et de la santé, en fonction de l'évolution de l'indice des prix à la consommation.
+- le montant de l'indemnisation correspond à l'application du tarif national d'indemnisation fixé à l'article 6 du présent arrêté et appliqué à chaque intervention concernée.
 
 Les modalités de détermination du tarif de l'indemnisation sont fixées pour une durée de trois ans dans le cadre de la convention. Au terme de cette durée, les parties peuvent convenir d'une autre modalité de détermination prévue au présent article.
