@@ -26,7 +26,6 @@
 - [Décret n°2011-1810 du 6 décembre 2011 (AGRT1127652D)](decret-n2011-1810-du-6-decembre-2011-agrt1127652d)
 - [Décret n°2011-1811 du 6 décembre 2011 (AGRT1127654D)](decret-n2011-1811-du-6-decembre-2011-agrt1127654d)
 - [Décret n°2011-1813 du 6 décembre 2011 (AGRT1130625D)](decret-n2011-1813-du-6-decembre-2011-agrt1130625d)
-- [Décret n°2011-817 du 6 juillet 2011 (JUST1105431D)](decret-n2011-817-du-6-juillet-2011-just1105431d)
 - [Décret n°2011-1260 du 7 octobre 2011 (AGRT1111376D)](decret-n2011-1260-du-7-octobre-2011-agrt1111376d)
 - [Décret n°2011-1463 du 7 novembre 2011 (AGRT1118900D)](decret-n2011-1463-du-7-novembre-2011-agrt1118900d)
 - [Décret n°2011-1819 du 7 décembre 2011 (AGRT1119940D)](decret-n2011-1819-du-7-decembre-2011-agrt1119940d)
