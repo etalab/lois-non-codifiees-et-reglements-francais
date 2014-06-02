@@ -262,7 +262,6 @@
 - [Arrêté du 10 janvier 2014 (BUDE1400835A)](arrete-du-10-janvier-2014-bude1400835a)
 - [Arrêté du 10 janvier 2014 (BUDE1400868A)](arrete-du-10-janvier-2014-bude1400868a)
 - [Arrêté du 10 janvier 2014 (DEFH1331992A)](arrete-du-10-janvier-2014-defh1331992a)
-- [Arrêté du 10 janvier 2014 (DEVR1401666A)](arrete-du-10-janvier-2014-devr1401666a)
 - [Arrêté du 10 janvier 2014 (ESRS1331505A)](arrete-du-10-janvier-2014-esrs1331505a)
 - [Arrêté du 10 janvier 2014 (JUSK1401075A)](arrete-du-10-janvier-2014-jusk1401075a)
 - [Arrêté du 10 janvier 2014 (MAEF1400320A)](arrete-du-10-janvier-2014-maef1400320a)
