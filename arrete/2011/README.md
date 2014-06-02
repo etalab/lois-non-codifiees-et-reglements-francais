@@ -163,7 +163,6 @@
 - [Arrêté du 3 mai 2011 (ESRS1110659A)](arrete-du-3-mai-2011-esrs1110659a)
 - [Arrêté du 3 mai 2011 (ESRS1110664A)](arrete-du-3-mai-2011-esrs1110664a)
 - [Arrêté du 3 mai 2011 (IOCC1112176A)](arrete-du-3-mai-2011-iocc1112176a)
-- [Arrêté du 3 mai 2011 (IOCJ1111049A)](arrete-du-3-mai-2011-iocj1111049a)
 - [Arrêté du 3 mai 2011 (MCCB1111675A)](arrete-du-3-mai-2011-mccb1111675a)
 - [Arrêté du 3 mai 2011 (MENH1111846A)](arrete-du-3-mai-2011-menh1111846a)
 - [Arrêté du 3 mai 2011 (PRMD1110178A)](arrete-du-3-mai-2011-prmd1110178a)
