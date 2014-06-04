@@ -1,93 +1,109 @@
 # Article 
 
-A N N E X E
+NOMBRE MAXIMUM DE VÉHICULES ADMIS SIMULTANÉMENT
 
-NOMBRE MAXIMUM DE VÉHICULES ADMIS
-
-SIMULTANÉMENT SUR LE CIRCUIT DE VITESSE DE MAISON BLANCHE
-
-<div>
-<br/>
-<br/>
-<div align="center">
+SUR LE CIRCUIT DE VITESSE DE MAISON BLANCHE
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>CATÉGORIE DE VÉHICULES</th>
+<br/>CATÉGORIE DE VÉHICULES<br/>
+</th>
 <th colspan="4">
-<br/>CONFIGURATIONS</th>
+<br/>CONFIGURATIONS<br/>
+</th>
 </tr>
 <tr>
 <th/>
 <th>
-<br/>Piste 1<br/>2 817,58 m</th>
+<br/>Piste 1<br/>
+<br/>2 817,58 m<br/>
+</th>
 <th>
-<br/>Piste 2<br/>1 746,05 m</th>
+<br/>Piste 2<br/>
+<br/>1 746,05 m<br/>
+</th>
 <th>
-<br/>Piste 3<br/>784,60 m</th>
+<br/>Piste 3<br/>
+<br/>784,60 m<br/>
+</th>
 <th>
-<br/>Piste 4<br/>929,30 m</th>
+<br/>Piste 4<br/>
+<br/>929,30 m<br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Voitures</td>
+<br/>Tourisme et Grand Tourisme<br/>
+</td>
+<td align="center">
+<br/>24<br/>
+</td>
+<td align="center">
+<br/>18<br/>
+</td>
+<td align="center">
+<br/>9<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Tourisme et Grand Tourisme</td>
+<br/>Monoplaces et Sport biplaces<br/>
+</td>
 <td align="center">
-<br/>24</td>
+<br/>16<br/>
+</td>
 <td align="center">
-<br/>18</td>
+<br/>12<br/>
+</td>
 <td align="center">
-<br/>9</td>
+<br/>6<br/>
+</td>
 <td align="center">
-<br/>10</td>
+<br/>7<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Monoplaces et Sport biplaces</td>
+<br/>Motos solo<br/>
+</td>
 <td align="center">
-<br/>16</td>
+<br/>35<br/>
+</td>
 <td align="center">
-<br/>12</td>
+<br/>25<br/>
+</td>
 <td align="center">
-<br/>6</td>
+<br/>10<br/>
+</td>
 <td align="center">
-<br/>7</td>
+<br/>12<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Motocyclettes</td>
+<br/>Side-cars<br/>
+</td>
+<td align="center">
+<br/>20<br/>
+</td>
+<td align="center">
+<br/>14<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>7<br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>Motos solo</td>
-<td align="center">
-<br/>néant</td>
-<td align="center">
-<br/>25</td>
-<td align="center">
-<br/>10</td>
-<td align="center">
-<br/>12</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Side-cars</td>
-<td align="center">
-<br/>néant</td>
-<td align="center">
-<br/>14</td>
-<td align="center">
-<br/>5</td>
-<td> </td>
-<td align="center">
-<br/>7</td>
-</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
+<div align="center">
+
 </div>
