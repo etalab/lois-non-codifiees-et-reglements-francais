@@ -20,7 +20,7 @@ II. ― Assure la gestion administrative des procédures de contrôle des transf
 
 1° Participe aux travaux ministériels et interministériels en matière de contrôle :
 
-- des transferts intracommunautaires des produits liés à la défense ;
+- des transferts intracommunautaires des produits liés à la défense et de matériels spatiaux mentionnés à l'article L. 2335-18 ;
 
 - des exportations hors de l'Union européenne des matériels de guerre et des matériels assimilés ;
 
@@ -28,7 +28,7 @@ II. ― Assure la gestion administrative des procédures de contrôle des transf
 
 1°-1 Instruit les demandes de certification des entreprises en application de la réglementation relative aux transferts intracommunautaires de produits liés à la défense. A cet effet, le service central de la modernisation et de la qualité réalise les audits correspondants ;
 
-2° Notifie, pour le ministre de la défense, les décisions prises dans le cadre des procédures de contrôle des transferts intracommunautaires de produits liés à la défense et des exportations hors de l'Union européenne des armes et matériels de guerre et des matériels assimilés et contribue au contrôle a posteriori, sur pièces et sur place, des entreprises effectuant ces opérations ;
+2° Notifie, pour le ministre de la défense, les conditions associés aux décisions prises dans le cadre des procédures de contrôle des transferts intracommunautaires de produits liés à la défense et de matériels spatiaux et des exportations hors de l'Union européenne des armes et matériels de guerre et des matériels assimilés et contribue au contrôle a posteriori, sur pièces et sur place, des entreprises effectuant ces opérations ;
 
 3° Participe à l'élaboration de la réglementation nationale relative au contrôle de la fabrication et du commerce des matériels de guerre ainsi que des procédures correspondantes ;
 
