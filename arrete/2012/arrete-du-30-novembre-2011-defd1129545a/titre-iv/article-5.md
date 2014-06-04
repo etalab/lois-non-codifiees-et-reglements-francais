@@ -1,6 +1,6 @@
 # Article 5
 
-Le comité ministériel du contrôle a posteriori mentionné à l'article 42 du décret du 9 novembre 2011 susvisé est composé de sept membres :
+Le comité ministériel du contrôle a posteriori mentionné à l'article R. 2335-37 du code de la défense est composé de sept membres :
 
 ― un membre du corps militaire du contrôle général des armées, qui a la qualité de président du comité ;
 

@@ -10,7 +10,7 @@ Doivent être portés sans délai à la connaissance de la direction générale 
 
 ― de l'identité du représentant légal de l'entreprise ;
 
-― de l'identité de l'administrateur personnellement responsable mentionné à l'article 37 du décret du 9 novembre 2011 susvisé, qui signe l'engagement figurant à l'annexe D du présent arrêté ;
+― de l'identité de l'administrateur personnellement responsable mentionné à l'article R. 2335-32 du code de la défense, qui signe l'engagement figurant à l'annexe D du présent arrêté ;
 
 ― de l'adresse de l'entreprise et de ses unités de production et établissements concernés ;
 
