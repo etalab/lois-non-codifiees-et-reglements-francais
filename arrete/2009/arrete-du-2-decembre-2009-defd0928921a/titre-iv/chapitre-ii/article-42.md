@@ -2,14 +2,12 @@
 
 La sous-direction de la gestion des procédures de contrôle comprend :
 
-1. Le bureau des agréments préalables ;
+1. Le bureau des licences.
 
-2. Le bureau de l'analyse technique ;
+2. Le bureau de l'analyse technique.
 
-3. Le bureau de la vérification et du suivi ;
+3. Le bureau du contrôle a posteriori sur pièces.
 
-4. Le bureau de la réglementation, du classement et du double usage ;
+4. Le bureau de la réglementation, du classement, du double usage et de la sécurité industrielle.
 
-5. Le bureau de la sécurité industrielle ;
-
-6. Le bureau des procédures globales des matériels de guerre.
+5. Le bureau des licences globales et générales et du contrôle sur place.

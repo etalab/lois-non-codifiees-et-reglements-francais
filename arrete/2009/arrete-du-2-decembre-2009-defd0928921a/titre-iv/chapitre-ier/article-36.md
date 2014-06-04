@@ -8,6 +8,6 @@ Chaque sous-direction géographique :
 
 3. Conduit ou fait conduire, dans les domaines de compétence du ministre de la défense, les négociations en matière d'exportation ;
 
-4. Contrôle l'action des responsables désignés pour suivre l'exécution des programmes menés pour l'exportation ;
+4. Prend en compte l'action des responsables désignés pour suivre l'exécution des programmes menés pour l'exportation ;
 
 5. Elabore, en liaison avec les organismes concernés, les directives adressées, en matière d'exportation d'armement, aux missions de défense françaises à l'étranger.
