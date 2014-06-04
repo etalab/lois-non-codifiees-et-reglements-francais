@@ -3078,7 +3078,6 @@
 - [Arrêté du 30 novembre 2011 (AGRS1132616A)](arrete-du-30-novembre-2011-agrs1132616a)
 - [Arrêté du 30 novembre 2011 (DEFD1129544A)](arrete-du-30-novembre-2011-defd1129544a)
 - [Arrêté du 30 novembre 2011 (DEFD1129545A)](arrete-du-30-novembre-2011-defd1129545a)
-- [Arrêté du 30 novembre 2011 (DEFD1130689A)](arrete-du-30-novembre-2011-defd1130689a)
 - [Arrêté du 30 novembre 2012 (DEVK1239554A)](arrete-du-30-novembre-2012-devk1239554a)
 - [Arrêté du 30 novembre 2012 (INTB1239735A)](arrete-du-30-novembre-2012-intb1239735a)
 - [Arrêté du 30 novembre 2012 (MENE1239050A)](arrete-du-30-novembre-2012-mene1239050a)
