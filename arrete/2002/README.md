@@ -565,7 +565,6 @@
 - [Arrêté du 25 novembre 2002 (SANH0223841A)](arrete-du-25-novembre-2002-sanh0223841a)
 - [Arrêté du 25 novembre 2002 (SANH0223842A)](arrete-du-25-novembre-2002-sanh0223842a)
 - [Arrêté du 25 octobre 2002 (ECOP0200654A)](arrete-du-25-octobre-2002-ecop0200654a)
-- [Arrêté du 25 octobre 2002 (MENE0202490A)](arrete-du-25-octobre-2002-mene0202490a)
 - [Arrêté du 26 avril 2002 (MCCB0200351A)](arrete-du-26-avril-2002-mccb0200351a)
 - [Arrêté du 26 avril 2002 (MCCB0200352A)](arrete-du-26-avril-2002-mccb0200352a)
 - [Arrêté du 26 avril 2002 (MENF0200966A)](arrete-du-26-avril-2002-menf0200966a)

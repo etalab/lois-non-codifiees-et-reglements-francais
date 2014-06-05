@@ -274,7 +274,6 @@
 - [Arrêté du 10 juillet 2007 (MTSS0758045A)](arrete-du-10-juillet-2007-mtss0758045a)
 - [Arrêté du 10 mars 2003 (ECOP0200178A)](arrete-du-10-mars-2003-ecop0200178a)
 - [Arrêté du 10 novembre 2006 (JUSK0640208A)](arrete-du-10-novembre-2006-jusk0640208a)
-- [Arrêté du 10 octobre 2007 (AGRM0758345A)](arrete-du-10-octobre-2007-agrm0758345a)
 - [Arrêté du 10 octobre 2007 (ECED0768201A)](arrete-du-10-octobre-2007-eced0768201a)
 - [Arrêté du 10 septembre 2007 (AGRF0766060A)](arrete-du-10-septembre-2007-agrf0766060a)
 - [Arrêté du 10 septembre 2007 (BCFF0756671A)](arrete-du-10-septembre-2007-bcff0756671a)
