@@ -27,7 +27,6 @@
 - [Décret n°2000-880 du 11 septembre 2000 (MAEX0000123D)](decret-n2000-880-du-11-septembre-2000-maex0000123d)
 - [Décret n°2000-1204 du 12 décembre 2000 (JUSD0030194D)](decret-n2000-1204-du-12-decembre-2000-jusd0030194d)
 - [Décret n°2000-326 du 12 avril 2000 (DEFD0001317D)](decret-n2000-326-du-12-avril-2000-defd0001317d)
-- [Décret n°2000-1228 du 13 décembre 2000 (MENF0002899D)](decret-n2000-1228-du-13-decembre-2000-menf0002899d)
 - [Décret n°2000-240 du 13 mars 2000 (AGRA0000386D)](decret-n2000-240-du-13-mars-2000-agra0000386d)
 - [Décret n°2000-541 du 13 juin 2000 (AGRG0000851D)](decret-n2000-541-du-13-juin-2000-agrg0000851d)
 - [Décret n°2000-657 du 13 juillet 2000 (PRMX0004254D)](decret-n2000-657-du-13-juillet-2000-prmx0004254d)
