@@ -1,0 +1,5 @@
+# Article 12
+
+I. - Pendant toute la période de lutte chimique, c'est-à-dire pendant la réalisation et durant les deux semaines suivant le dernier traitement, un suivi constant est mis en place par les applicateurs sur toute la zone où les traitements ont été effectués afin de vérifier l'enfouissement correct de tous les appâts, de constater l'absence d'effets non intentionnels sur la faune non cible et de suivre l'évolution des densités d'indices récents de présence des populations des espèces visées à l'article 1er. Les cadavres d'animaux empoisonnés sont collectés quotidiennement.
+
+II. - Toute personne découvrant des animaux suspectés d'avoir été empoisonnés, autres que ceux des espèces visées à l'article 1er, informe immédiatement la direction régionale de l'alimentation, de l'agriculture et de la forêt et la direction régionale de l'environnement, de l'aménagement et du logement, en utilisant le modèle figurant en annexe VI. Ces cadavres sont signalés au réseau de surveillance épidémiologique des oiseaux et mammifères sauvages terrestres (SAGIR).
