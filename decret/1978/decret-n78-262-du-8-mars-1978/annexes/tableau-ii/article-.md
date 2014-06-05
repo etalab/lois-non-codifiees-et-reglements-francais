@@ -654,5 +654,15 @@
 <p align="center">3 UV</p>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center"> 34</p>
+</td>
+<td> Mutation d'immeuble à titre onéreux - transmission au Conseil supérieur du notariat des informations nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945 relative au statut du notariat <br/>
+</td>
+<td>
+<p align="center"> 4</p>
+</td>
+</tr>
 </tbody>
 </table>
