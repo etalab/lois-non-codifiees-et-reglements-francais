@@ -2,17 +2,17 @@
 
 La sous-direction des missions de sécurité comprend :
 
-Le pôle judiciaire comprenant :
+1° Le pôle judiciaire comprenant :
 
-1° La division des activités judiciaires ;
+- la division des activités judiciaires ;
 
-2° La division de la police technique et scientifique de proximité ;
+- la division de la police technique et scientifique de proximité.
 
-3° La division des unités territoriales et de l'ordre public ;
+2° La division des unités territoriales et de l'ordre public ;
 
-4° La division de la prévention et des partenariats ;
+3° La division de la prévention et des partenariats ;
 
-5° La division des systèmes d'information opérationnelle.
+4° La division des systèmes d'information opérationnelle.
 
 Elle élabore et met en œuvre la doctrine d'emploi des services de sécurité publique en matière de police judiciaire et administrative, de police technique et scientifique, d'action préventive et d'aide aux victimes, de protection des jeunes et des personnes vulnérables.
 
