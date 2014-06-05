@@ -72,4 +72,6 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - restructuration de l'unité territoriale de Thann de la direction départementale des territoires du Haut-Rhin ;
 
-- fermeture de l'implantation territoriale de Tarare de la direction départementale des territoires du Rhône.
+- fermeture de l'implantation territoriale de Tarare de la direction départementale des territoires du Rhône ;
+
+- restructuration du service d'aménagement territorial de Cergy-Saint-Christophe de la direction départementale des territoires du Val-d'Oise.
