@@ -4,7 +4,9 @@ Un quota ainsi réparti ou un sous-quota issu de la répartition est réputé é
 
 Lorsque les organisations de producteurs (OP) adressent avant le 10 de chaque mois et de manière exhaustive les niveaux de consommation susmentionnées, les sous-quotas qui leur sont alloués sont réputés épuisés lorsque la totalité du poids des débarquements, en France ou à l'étranger, effectués par les navires de l'OP, pour l'espèce en cause dans les zones concernées, aura atteint ou dépassé 90 % du sous-quota de l'OP.
 
-Le ministre chargé des pêches maritimes peut décider de fixer ce seuil au-delà de 90 % pour certains sous-quotas présentant un caractère sensible, lorsque la fréquence et l'exhaustivité des données de consommation du (ou des) sous-quota(s) concerné(s) transmises à la direction des pêches maritimes et de l'aquaculture et les mesures de contrôle de la consommation de ce(s) sous-quota(s) mises en place par les organisations de producteur offrent suffisamment de garantie de maîtrise de sa consommation.
+Lorsque des mesures de gestion particulières sont mises en œuvre localement pour les navires non adhérents à une OP, les sous-quotas qui leur sont alloués sont réputés épuisés lorsque la totalité du poids des débarquements, en France ou à l'étranger, effectués par ces navires, pour l'espèce en cause dans les zones concernées, aura atteint ou dépassé 90 % du sous-quota des navires non adhérents à une OP.
+
+Le ministre chargé des pêches maritimes peut décider de fixer ce seuil au-delà de 90 % pour certains sous-quotas présentant un caractère sensible, lorsque la fréquence et l'exhaustivité des données de consommation du ou des sous-quotas concernés transmises à la direction des pêches maritimes et de l'aquaculture et les mesures de contrôle de la consommation de ce(s) sous-quota(s) mises en place par les organisations de producteur offrent suffisamment de garantie de maîtrise de sa consommation.
 
 L'épuisement d'un quota ou d'un sous-quota est constaté par le ministre chargé des pêches maritimes.
 
