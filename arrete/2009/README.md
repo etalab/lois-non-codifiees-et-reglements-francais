@@ -34,7 +34,6 @@
 - [Arrêté du 2 juillet 2009 (AGRG0915226A)](arrete-du-2-juillet-2009-agrg0915226a)
 - [Arrêté du 2 juillet 2009 (AGRG0915231A)](arrete-du-2-juillet-2009-agrg0915231a)
 - [Arrêté du 2 juillet 2009 (DEVN0913796A)](arrete-du-2-juillet-2009-devn0913796a)
-- [Arrêté du 2 juillet 2009 (ECED0913213A)](arrete-du-2-juillet-2009-eced0913213a)
 - [Arrêté du 2 juillet 2009 (IOCE0915303A)](arrete-du-2-juillet-2009-ioce0915303a)
 - [Arrêté du 2 juillet 2009 (MAEA0908881A)](arrete-du-2-juillet-2009-maea0908881a)
 - [Arrêté du 2 juillet 2009 (MCCK0915116A)](arrete-du-2-juillet-2009-mcck0915116a)
