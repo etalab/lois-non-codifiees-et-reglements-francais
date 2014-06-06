@@ -446,7 +446,6 @@
 - [Décret n°95-438 du 14 avril 1995 (MAEJ9530029D)](decret-n95-438-du-14-avril-1995-maej9530029d)
 - [Décret n°95-785 du 14 juin 1995 (JUSF9550030D)](decret-n95-785-du-14-juin-1995-jusf9550030d)
 - [Décret n°95-788 du 14 juin 1995 (MENX9500044D)](decret-n95-788-du-14-juin-1995-menx9500044d)
-- [Décret n°95-789 du 14 juin 1995 (AGRX9500042D)](decret-n95-789-du-14-juin-1995-agrx9500042d)
 - [Décret n°95-795 du 14 juin 1995 (MAEJ9530045D)](decret-n95-795-du-14-juin-1995-maej9530045d)
 - [Décret n°95-796 du 14 juin 1995 (MAEJ9530046D)](decret-n95-796-du-14-juin-1995-maej9530046d)
 - [Décret n°95-797 du 14 juin 1995 (MAEJ9530048D)](decret-n95-797-du-14-juin-1995-maej9530048d)
