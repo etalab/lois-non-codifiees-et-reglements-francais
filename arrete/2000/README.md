@@ -151,6 +151,7 @@
 - [Arrêté du 28 juillet 2000 (EQUP0000696A)](arrete-du-28-juillet-2000-equp0000696a)
 - [Arrêté du 28 juin 2000 (DEFD0001720A)](arrete-du-28-juin-2000-defd0001720a)
 - [Arrêté du 28 juin 2000 (DEFD0001723A)](arrete-du-28-juin-2000-defd0001723a)
+- [Arrêté du 28 juin 2000 (ECOC0000054A)](arrete-du-28-juin-2000-ecoc0000054a)
 - [Arrêté du 28 novembre 2000 (EQUS0001855A)](arrete-du-28-novembre-2000-equs0001855a)
 - [Arrêté du 29 décembre 2000 (ECOF0000035A)](arrete-du-29-decembre-2000-ecof0000035a)
 - [Arrêté du 29 novembre 2000 (EQUS0001901A)](arrete-du-29-novembre-2000-equs0001901a)
