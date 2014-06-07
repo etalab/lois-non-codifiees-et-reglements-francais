@@ -1506,7 +1506,6 @@
 - [Arrêté du 18 novembre 2011 (IOCA1130032A)](arrete-du-18-novembre-2011-ioca1130032a)
 - [Arrêté du 18 novembre 2011 (IOCB1025746A)](arrete-du-18-novembre-2011-iocb1025746a)
 - [Arrêté du 18 novembre 2011 (IOCB1025784A)](arrete-du-18-novembre-2011-iocb1025784a)
-- [Arrêté du 18 novembre 2011 (IOCB1125418A)](arrete-du-18-novembre-2011-iocb1125418a)
 - [Arrêté du 18 novembre 2011 (IOCB1125715A)](arrete-du-18-novembre-2011-iocb1125715a)
 - [Arrêté du 18 novembre 2011 (IOCB1125716A)](arrete-du-18-novembre-2011-iocb1125716a)
 - [Arrêté du 18 novembre 2011 (IOCB1125870A)](arrete-du-18-novembre-2011-iocb1125870a)
