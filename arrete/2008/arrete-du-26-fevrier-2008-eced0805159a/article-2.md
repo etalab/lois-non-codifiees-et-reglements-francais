@@ -1,3 +1,3 @@
 # Article 2
 
-Le référentiel emploi, activités, compétences et le référentiel de certification sont disponibles sur le site  www.emploi.gouv.fr.
+Le référentiel de certification modifié relatif au titre professionnel de conducteur (trice) du transport routier de marchandises sur tous véhicules est disponible sur le site  www.emploi.gouv.fr.
