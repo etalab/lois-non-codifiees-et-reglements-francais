@@ -34,9 +34,9 @@ Le périmètre d'intervention de la plate-forme à l'égard des services pénite
 
 Le périmètre d'intervention de la plate-forme à l'égard des services de la protection judiciaire de la jeunesse est celui de la direction interrégionale de la protection judiciaire de la jeunesse Grand-Est implantée à Nancy.
 
-3. Périmètre d'intervention de la plate-forme de Paris
+3. Périmètre d'intervention de la plate-forme de Paris-Ile-de-France
 
-Siège de la plate-forme : Paris.
+Siège de la plate-forme : Savigny-sur-Orge (département de l'Essonne).
 
 Le périmètre d'intervention de la plate-forme à l'égard des services judiciaires est celui des ressorts des cours d'appel de :
 
