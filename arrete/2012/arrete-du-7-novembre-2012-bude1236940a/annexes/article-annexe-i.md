@@ -19,35 +19,57 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 </tr>
 <tr>
-<td align="left">06 - Alpes-Maritimes </td>
-<td align="left">SIP de Valbonne </td>
-<td align="left">
+<td align="left" valign="top">
+<p align="left">06 - Alpes-Maritimes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Valbonne </p>
+</td>
+<td align="left" valign="top">
 <p>CDI de Valbonne </p>
 <p>Trésorerie de Bar-sur-Loup </p>
 </td>
-<td align="center">1er juillet 2013 </td>
+<td align="left" valign="top">
+<p align="left">1er juillet 2013 </p>
+</td>
 </tr>
 <tr>
-<td align="left">13 - Bouches-du-Rhône </td>
-<td align="left">SIP de Marseille 7/ 10e arrondissements </td>
-<td align="left">
+<td align="left" valign="top">
+<p align="left">13 - Bouches-du-Rhône </p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Marseille 7/ 10e arrondissements </p>
+</td>
+<td align="left" valign="top">
 <p>CDI de Marseille 7/ 10e arrondissements</p>
 <p>Trésorerie de Marseille 7e et 10e arrondissements </p>
 </td>
-<td align="center">1er juillet 2013 </td>
-</tr>
-<tr>
-<td align="left">13 - Bouches-du-Rhône </td>
-<td align="left">SIP de Marseille 9e arrondissement </td>
-<td align="left">
-<p>CDI de Marseille 9e arrondissement </p>
-<p>Trésorerie de Marseille 9e arrondissement </p>
+<td align="left" valign="top">
+<p align="left">1er juillet 2013 </p>
 </td>
-<td align="center">1er juillet 2013</td>
 </tr>
 <tr>
-<td>25 - Doubs</td>
-<td>SIP de Montbéliard</td>
+<td align="left" valign="top">
+<p align="left">13 - Bouches-du-Rhône </p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Marseille 9e arrondissement </p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Marseille 9e arrondissement </p>
+<p align="left">Trésorerie de Marseille 9e arrondissement </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er juillet 2013</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">25 - Doubs</p>
+</td>
+<td>
+<p align="left">SIP de Montbéliard</p>
+</td>
 <td>
 <p align="left">CDI de Montbéliard Nord-Ouest</p>
 </td>
@@ -82,67 +104,82 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td/>
 </tr>
 <tr>
-<td align="left">33 - Gironde </td>
-<td align="left">SIP du Bouscat </td>
-<td align="left">
-<div>CDI de Bordeaux-Bouscat <br/>
-</div>
-<br/>
-<div>Trésorerie du Bouscat</div>
+<td align="left" valign="top">
+<p align="left">33 ― Gironde </p>
 </td>
-<td align="center">1er janvier 2014 </td>
+<td align="left" valign="top">
+<p align="left">SIP du Bouscat </p>
+</td>
+<td align="left" valign="top">
+<div align="left">CDI de Bordeaux-Bouscat<br/>Trésorerie du Bouscat</div>
+</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2014 </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">38 - Isère </p>
+<p align="left">38 ― Isère </p>
 </td>
 <td align="left" valign="top">
 <p align="left">SIP de Grenoble Grésivaudan </p>
-<p>(dont recouvrement des rôles d'impôts mentionnés à l'article 3)</p>
+<p align="left">(dont recouvrement des rôles d'impôts mentionnés à l'article 3)</p>
 </td>
 <td align="left" valign="top">
 <p align="left">CDI de Grenoble Grésivaudan </p>
 <p align="left">Trésorerie de Meylan (**)</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1er janvier 2014 </p>
+<p align="left">1er janvier 2014 </p>
 </td>
 </tr>
 <tr>
-<td align="left">62 - Pas-de Calais</td>
-<td align="left">SIP de Lens Sud</td>
-<td align="left">
-<div>CDI de Lens Sud.</div>
-<p>Trésoreries de Liévin et Avion.</p>
+<td align="left" valign="top">
+<p align="left">62 - Pas-de Calais</p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Lens Sud</p>
+</td>
+<td align="left" valign="top">
+<div align="left">CDI de Lens Sud.</div>
+<p align="left">Trésoreries de Liévin et Avion.</p>
 <br/>
 </td>
-<td align="center">1er janvier 2013</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2013</p>
+</td>
 </tr>
 <tr>
-<td align="left">69 - Rhône<br/>
+<td align="left">
+<p align="left">69 - Rhône<br/>
+</p>
 </td>
-<td align="left">SIP de Villeurbanne<br/>
+<td align="left">
+<p align="left">SIP de Villeurbanne<br/>
+</p>
 </td>
 <td align="left">
 <p align="left">CDI de Lyon Villeurbanne.<br/>Trésorerie de Villeurbanne.<br/>
 </p>
 </td>
-<td align="center">1er décembre 2012<br/>
+<td align="center">
+<p align="left">1er décembre 2012<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">
-<p>69 - Rhône </p>
+<td align="left" valign="top">
+<p align="left">69 - Rhône </p>
 </td>
-<td align="left">
-<p>SIP de Lyon Est </p>
+<td align="left" valign="top">
+<p align="left">SIP de Lyon Est </p>
 </td>
-<td align="left">
-<p>CDI de Lyon Est. </p>
-<p>Trésorerie de Meyzieu. </p>
+<td align="left" valign="top">
+<p align="left">CDI de Lyon Est. </p>
+<p align="left">Trésorerie de Meyzieu. </p>
 </td>
-<td align="center">
-<p>1er décembre 2013 </p>
+<td align="left" valign="top">
+<p align="left">1er décembre 2013 </p>
 </td>
 </tr>
 <tr>
@@ -157,7 +194,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <p align="left">Trésorerie de Maurepas.</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1er janvier 2013</p>
+<p align="left">1er janvier 2013</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +209,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <p align="left">Trésorerie du Vésinet(***)</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1er janvier 2014 </p>
+<p align="left">1er janvier 2014 </p>
 </td>
 </tr>
 <tr>
@@ -186,7 +223,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <p align="left">Trésorerie de Marly-le-Roi(****)</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1er janvier 2014 </p>
+<p align="left">1er janvier 2014 </p>
 </td>
 </tr>
 <tr>
@@ -202,17 +239,38 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <p align="left">Trésorerie de Savigny-sur-Orge(*****)</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1er janvier 2014 </p>
+<p align="left">1er janvier 2014 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">972 - Martinique</td>
-<td align="left" valign="top">SIP de Fort-de-France Extérieur</td>
 <td align="left" valign="top">
-<div>CDI de Fort-de-France Extérieur.</div>
-<p>Trésorerie de Fort-de-France et banlieue (*).</p>
+<p align="left">95 - Val d'Oise </p>
 </td>
-<td align="left" valign="top">1er janvier 2013 </td>
+<td align="left" valign="top">
+<p align="left">SIP de Saint-Leu-la-Forêt </p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Saint-Leu-la-Forêt </p>
+<p>Trésorerie de Saint-Leu-Franconville </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er juillet 2014</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">972 - Martinique</p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Fort-de-France Extérieur</p>
+</td>
+<td align="left" valign="top">
+<div align="left">CDI de Fort-de-France Extérieur.</div>
+<p align="left">Trésorerie de Fort-de-France et banlieue (*).</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2013 </p>
+</td>
 </tr>
 <tr>
 <td colspan="4">
