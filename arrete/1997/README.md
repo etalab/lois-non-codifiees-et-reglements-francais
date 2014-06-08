@@ -149,7 +149,6 @@
 - [Arrêté du 5 mars 1997 (TASS9720732A)](arrete-du-5-mars-1997-tass9720732a)
 - [Arrêté du 5 novembre 1997 (AGRH9701928A)](arrete-du-5-novembre-1997-agrh9701928a)
 - [Arrêté du 5 novembre 1997 (AGRP9702269A)](arrete-du-5-novembre-1997-agrp9702269a)
-- [Arrêté du 5 novembre 1997 (EQUT9701697A)](arrete-du-5-novembre-1997-equt9701697a)
 - [Arrêté du 5 novembre 1997 (EQUT9701698A)](arrete-du-5-novembre-1997-equt9701698a)
 - [Arrêté du 5 novembre 1997 (MCCE9700802A)](arrete-du-5-novembre-1997-mcce9700802a)
 - [Arrêté du 5 septembre 1997 (ECOT9710313A)](arrete-du-5-septembre-1997-ecot9710313a)
