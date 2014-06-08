@@ -449,7 +449,6 @@
 - [Décret n°2003-1018 du 24 octobre 2003 (MCCK0300612D)](decret-n2003-1018-du-24-octobre-2003-mcck0300612d)
 - [Décret n°2003-1019 du 24 octobre 2003 (MCCK0300614D)](decret-n2003-1019-du-24-octobre-2003-mcck0300614d)
 - [Décret n°2003-1113 du 24 novembre 2003 (MENF0302000D)](decret-n2003-1113-du-24-novembre-2003-menf0302000d)
-- [Décret n°2003-1120 du 24 novembre 2003 (SOCA0323140D)](decret-n2003-1120-du-24-novembre-2003-soca0323140d)
 - [Décret n°2003-1127 du 24 novembre 2003 (AGRF0301802D)](decret-n2003-1127-du-24-novembre-2003-agrf0301802d)
 - [Décret n°2003-393 du 24 avril 2003 (ECOA0320013D)](decret-n2003-393-du-24-avril-2003-ecoa0320013d)
 - [Décret n°2003-395 du 24 avril 2003 (SANH0320885D)](decret-n2003-395-du-24-avril-2003-sanh0320885d)
