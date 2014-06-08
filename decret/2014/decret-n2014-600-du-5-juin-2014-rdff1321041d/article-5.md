@@ -1,0 +1,3 @@
+# Article 5
+
+La ministre de l'écologie, du développement durable et de l'énergie, le ministre des finances et des comptes publics, la ministre des affaires sociales et de la santé, le ministre du travail, de l'emploi et du dialogue social, le ministre de la défense, la ministre des droits des femmes, de la ville, de la jeunesse et des sports, la ministre de la décentralisation et de la fonction publique, la ministre de la culture et de la communication, le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, le secrétaire d'Etat chargé du budget et le secrétaire d'Etat chargé des sports sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
