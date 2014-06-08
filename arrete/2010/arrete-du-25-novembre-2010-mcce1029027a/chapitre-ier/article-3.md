@@ -2,11 +2,11 @@
 
 I. ― La sélection des candidats aux formations d'enseignement supérieur dispensées par l'Institut national de l'audiovisuel se déroule en plusieurs étapes, seuls les candidats retenus à l'issue de chaque étape pouvant se présenter à la suivante.
 
-1° Pour être admis au cycle d'études en vue de l'obtention du diplôme Gestion de patrimoines audiovisuels ou du diplôme Production audiovisuelle, les candidats doivent avoir été retenus au terme des trois étapes suivantes :
+1° Pour être admis au cycle d'études en vue de l'obtention du diplôme Gestion de patrimoines audiovisuels, du diplôme Production audiovisuelle ou du diplôme Ingénierie sonore, les candidats doivent avoir été retenus au terme des trois étapes suivantes :
 
 ― un examen des dossiers de candidature sanctionné par un jury composé de membres de l'encadrement pédagogique nommés chaque année par le président de l'Institut national de l'audiovisuel ;
 
-― une épreuve écrite, qui peut être différente selon la spécialité choisie par le candidat, sanctionnée par un jury composé de membres de l'encadrement pédagogique nommés chaque année par le président de l'Institut national de l'audiovisuel ;
+― une épreuve écrite ou une épreuve pratique dans le cas du diplôme Ingénierie sonore, qui peut être différente selon la spécialité choisie par le candidat, sanctionnée par un jury composé de membres de l'encadrement pédagogique nommés chaque année par le président de l'Institut national de l'audiovisuel ;
 
 ― une épreuve orale sous forme d'entretien avec des membres de l'encadrement pédagogique et des personnalités extérieures à l'encadrement pédagogique nommées par le président de l'Institut national de l'audiovisuel ;
 
