@@ -1246,7 +1246,6 @@
 - [Arrêté du 15 juin 2011 (IOCJ1109913A)](arrete-du-15-juin-2011-iocj1109913a)
 - [Arrêté du 15 juin 2011 (JUSF1118214A)](arrete-du-15-juin-2011-jusf1118214a)
 - [Arrêté du 15 juin 2011 (JUSF1118228A)](arrete-du-15-juin-2011-jusf1118228a)
-- [Arrêté du 15 juin 2011 (JUSK1117326A)](arrete-du-15-juin-2011-jusk1117326a)
 - [Arrêté du 15 juin 2011 (JUSK1117327A)](arrete-du-15-juin-2011-jusk1117327a)
 - [Arrêté du 15 juin 2011 (MCCC1112513A)](arrete-du-15-juin-2011-mccc1112513a)
 - [Arrêté du 15 mars 2011 (DEVA1104667A)](arrete-du-15-mars-2011-deva1104667a)
