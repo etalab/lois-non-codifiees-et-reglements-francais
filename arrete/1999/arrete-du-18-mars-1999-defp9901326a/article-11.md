@@ -1,3 +1,7 @@
 # Article 11
 
-Les élèves rayés des listes d'admission ou ajournés par application de l'article 10 ci-dessus après la date limite fixée à l'article 9 pour les désistements ne sont pas remplacés.
+Ne sont pas remplacés :
+
+- les élèves se désistant en application de l'article 9 ci-dessus, après la date limite fixée au même article ;
+
+- les élèves ajournés pour raisons de santé en application de l'article 10 ci-dessus.
