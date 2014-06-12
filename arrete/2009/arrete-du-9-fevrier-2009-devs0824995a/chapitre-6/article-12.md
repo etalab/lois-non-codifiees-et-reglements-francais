@@ -68,7 +68,7 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 6. S'il y a eu vente, le certificat de cession ou la facture ;
 
-7. La preuve d'un contrôle technique.
+7. La preuve d'un contrôle technique français ou émanant d'un autre Etat membre de l'Union européenne .
 
 b) Le véhicule était précédemment immatriculé en France :
 
@@ -84,7 +84,7 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 5. S'il y a eu vente, le certificat de cession ou la facture ;
 
-6. La preuve d'un contrôle technique.
+6. La preuve d'un contrôle technique français ou émanant d'un autre Etat membre de l'Union européenne.
 
 12.D. - Véhicule précédemment immatriculé avec un usage "transit temporaire" (TT), "importation en transit" (IT), "zone franche du pays de Gex" ou "zone franche de Haute-Savoie"
 
