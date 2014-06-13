@@ -138,7 +138,7 @@ Une qualification IR en état de validité délivrée par un Etat tiers à l'Uni
 
 Les privilèges de cette qualification sont restreints au pilotage des aéronefs inscrits au registre d'immatriculation de l'Etat ayant délivré cette qualification.
 
-Jusqu'au 8 avril 2014 cette restriction peut être levée, dès lors qu'après avoir été évalué dans un organisme de formation au vol FTO et avoir satisfait aux exigences complémentaires de formation éventuellement proposées par cet organisme le titulaire de la qualification :
+Jusqu'au 8 avril 2019 cette restriction peut être levée, dès lors qu'après avoir été évalué dans un organisme de formation au vol FTO et avoir satisfait aux exigences complémentaires de formation éventuellement proposées par cet organisme le titulaire de la qualification :
 
 a) Justifie d'une expérience de cent heures en qualité de pilote commandant de bord, en régime de vol aux instruments ;
 
