@@ -67,7 +67,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
-<p align="left">Chargé de mission auprès du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Ajouté à compter du 28 octobre 2013)</p>
+<p align="left">Chargé de mission auprès du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Ajouté à compter du 28 octobre 2013, supprimé à compter du 1er mai 2014)</p>
 </td>
 </tr>
 <tr>
@@ -366,38 +366,32 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale de la Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France. (à compter du 27 novembre 2012).<br/>
-</p>
+<p align="left">Chef de l'unité territoriale de la Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France. (A compter du 27 novembre 2012).</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.<br/>
-</p>
+<p align="left">Secrétaire général de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable de l'unité territoriale des Yvelines à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.<br/>
-</p>
+<p align="left">Responsable de l'unité territoriale des Yvelines à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable de l'unité territoriale de l'Essonne à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.<br/>
-</p>
+<p align="left">Responsable de l'unité territoriale de l'Essonne à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du pôle sous-sol de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.<br/>
-</p>
+<p align="left">Chef du pôle sous-sol de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale 93 à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.<br/>
-</p>
+<p align="left">Chef de l'unité territoriale 93 à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
@@ -411,33 +405,33 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Chef du service prévention des pollutions, des risques et du contrôle des transports (SPPRCT) de la direction régionale de l'environnement, de l'aménagement et du logement du Limousin.<br/>
-</p>
+<td>
+<p align="left">Chef de l'unité territoriale de l'Hérault à la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon. (Ajouté à compter du 1er mars 2014)</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division risques technologiques et industriels au service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.<br/>
-</p>
+<p align="left">Chef du service prévention des pollutions, des risques et du contrôle des transports (SPPRCT) de la direction régionale de l'environnement, de l'aménagement et du logement du Limousin.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale de Meurthe-et-Moselle - Meuse à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.<br/>
-</p>
+<p align="left">Chef de la division risques technologiques et industriels au service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division risques miniers et sous-sol à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.<br/>
-</p>
+<p align="left">Chef de l'unité territoriale de Meurthe-et-Moselle - Meuse à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de la division impact à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.<br/>
-</p>
+<p align="left">Chef de la division risques miniers et sous-sol à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef de la division impact à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.</p>
 </td>
 </tr>
 <tr>
@@ -514,8 +508,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du SPR en charge des risques technologiques à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur.<br/>
-</p>
+<p align="left">Adjoint au chef du SPR en charge des risques technologiques à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chef du service développement économique et innovation au sein de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Provence-Alpes-Côte d'Azur. (Ajouté à compter du 23 mai 2014)</p>
 </td>
 </tr>
 <tr>
@@ -526,43 +524,37 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service animation, stratégie et programmation à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
-</p>
+<p align="left">Chef du service animation, stratégie et programmation à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale des deux Savoie à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
-</p>
+<p align="left">Chef de l'unité territoriale des deux Savoie à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale Drôme-Ardèche à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
-</p>
+<p align="left">Chef de l'unité territoriale Drôme-Ardèche à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité prévention des pollutions et police de l'eau au sein du service ressources, énergie, milieux et prévention des pollutions à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
-</p>
+<p align="left">Chef de l'unité prévention des pollutions et police de l'eau au sein du service ressources, énergie, milieux et prévention des pollutions à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.<br/>
-</p>
+<p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013)<br/>
-</p>
+<p align="left">Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er septembre 2013) <br/>
+<p align="left">Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er septembre 2013)<br/>
 </p>
 </td>
 </tr>

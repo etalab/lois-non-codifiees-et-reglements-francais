@@ -140,7 +140,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
-<p align="left">Chef du service développement économique et innovation au sein de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Provence-Alpes-Côte d'Azur. (Ajouté le 14 juin 2013) </p>
+<p align="left">Chef du service développement économique et innovation au sein de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Provence-Alpes-Côte d'Azur. (Ajouté le 14 juin 2013, supprimé à compter du 23 avril 2014) </p>
 </td>
 </tr>
 <tr>

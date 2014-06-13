@@ -464,11 +464,9 @@ Une procédure particulière s'applique à l'identification des donneurs et des 
 
 II-4. Tests de sécurité sanitaire
 
-II-4.1. AMP intra-conjugale et autoconservation de gamètes
+II-4.1. AMP intra-conjugale et autoconservation de gamètes ou de tissus germinaux
 
-ou de tissus germinaux
-
-La recherche des marqueurs biologiques d'infection par les virus de l'immunodéficience humaine (VIH1/VIH2), de l'hépatite B (VHB) (antigène HBs, anticorps anti-HBc et anti-HBs), de l'hépatite C (VHC) et de l'agent de la syphilis est effectuée chez les deux membres du couple dans les six mois précédant la tentative d'AMP s'il s'agit d'une première détermination et ultérieurement chaque fois que le délai entre la tentative et la dernière détermination est supérieur à douze mois. En cas de positivité de l'un des marqueurs virologiques, l'avis d'un expert du domaine concerné est requis.
+La recherche des marqueurs biologiques d'infection par les virus de l'immunodéficience humaine (VIH1/VIH2), de l'hépatite B (VHB) (antigène HBs, anticorps anti-HBc et anti-HBs), de l'hépatite C (VHC) et de l'agent de la syphilis est effectuée chez les deux membres du couple dans les trois mois précédant la tentative d'AMP s'il s'agit d'une première détermination et ultérieurement chaque fois que le délai entre la tentative et la dernière détermination est supérieur à douze mois. En cas de positivité de l'un des marqueurs virologiques, l'avis d'un expert du domaine concerné est requis.
 
 Pour la syphilis, en cas de séropositivité avec risque de transmission, l'AMP est précédée d'un traitement spécifique.
 
@@ -484,7 +482,7 @@ En cas de sérologie VHC positive, les prélèvements de gamètes peuvent ne pas
 
 Des examens supplémentaires sont éventuellement réalisés :
 
-- recherche d'anticorps anti-HTLV1 pour les personnes vivant dans des régions à forte incidence ou originaires de ces régions ou dont les partenaires sexuels ou les parents sont originaires de ces régions ;
+- recherche d'anticorps anti-HTLV1 pour les personnes vivant dans des régions à forte prévalence ou originaires de ces régions ou dont les partenaires sexuels ou les parents sont originaires de ces régions ;
 
 - recherches spécifiques en fonction d'une exposition particulière des personnes.
 
