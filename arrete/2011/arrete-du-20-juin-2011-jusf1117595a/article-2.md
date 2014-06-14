@@ -1,6 +1,6 @@
 # Article 2
 
-L'établissement de placement éducatif du Havre exerce les missions suivantes :
+L'établissement de placement éducatif de Rouen exerce les missions suivantes :
 
 ― l'accueil en hébergement des mineurs et exceptionnellement des jeunes majeurs dans le cadre du pénal, confiés par les juridictions ;
 
