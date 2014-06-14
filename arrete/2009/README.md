@@ -824,7 +824,6 @@
 - [Arrêté du 11 mars 2009 (SASS0906246A)](arrete-du-11-mars-2009-sass0906246a)
 - [Arrêté du 11 mars 2009 (SASS0906257A)](arrete-du-11-mars-2009-sass0906257a)
 - [Arrêté du 11 mars 2009 (SJSP0818333A)](arrete-du-11-mars-2009-sjsp0818333a)
-- [Arrêté du 11 novembre 2009 (DEFH0915941A)](arrete-du-11-novembre-2009-defh0915941a)
 - [Arrêté du 11 octobre 2001 (MENF0102033A)](arrete-du-11-octobre-2001-menf0102033a)
 - [Arrêté du 11 septembre 2002 (EQUP0201433A)](arrete-du-11-septembre-2002-equp0201433a)
 - [Arrêté du 11 septembre 2009 (ECEP0917309A)](arrete-du-11-septembre-2009-ecep0917309a)
