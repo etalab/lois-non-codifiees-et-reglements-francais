@@ -50,6 +50,7 @@
 - [Décret n° 98-903 du 8 octobre 1998 (ECOP9800419D)](decret-n-98-903-du-8-octobre-1998-ecop9800419d)
 - [Décret n°2009-851 du 8 juillet 2009 (ESRH0912878D)](decret-n2009-851-du-8-juillet-2009-esrh0912878d)
 - [Décret n°98-902 du 8 octobre 1998 (ECOP9800418D)](decret-n98-902-du-8-octobre-1998-ecop9800418d)
+- [Décret n°2002-1437 du 9 décembre 2002 (DEFP0202246D)](decret-n2002-1437-du-9-decembre-2002-defp0202246d)
 - [Décret n°2014-395 du 9 avril 2014 (JUSB1405862D)](decret-n2014-395-du-9-avril-2014-jusb1405862d)
 - [Décret n°98-20 du 9 janvier 1998 (EQUC9800009D)](decret-n98-20-du-9-janvier-1998-equc9800009d)
 - [Décret n°98-601 du 9 juillet 1998 (ATET9860038D)](decret-n98-601-du-9-juillet-1998-atet9860038d)
