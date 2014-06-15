@@ -1,6 +1,6 @@
 # Article 612-3
 
-Lorsque l'AMF est saisie par une organisation représentative des sociétés dont les titres financiers sont admis aux négociations sur un marché réglementé, des prestataires de services d'investissement, des investisseurs ou des opérateurs de marché, d'une demande d'acceptation d'une pratique de marché, elle consulte les autres organisations concernées avant d'accepter ou non cette pratique de marché.
+Lorsque l'AMF est saisie par une organisation représentative des sociétés dont les titres financiers sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation défini à l'article L. 424-1 du code monétaire et financier, des prestataires de services d'investissement, des investisseurs ou des opérateurs de marché, d'une demande d'acceptation d'une pratique de marché, elle consulte les autres organisations concernées avant d'accepter ou non cette pratique de marché.
 
 L'AMF consulte également les autres autorités compétentes sur les pratiques existantes notamment sur des marchés comparables du fait de leurs structures, des volumes traités ou des types d'opérations effectuées.
 

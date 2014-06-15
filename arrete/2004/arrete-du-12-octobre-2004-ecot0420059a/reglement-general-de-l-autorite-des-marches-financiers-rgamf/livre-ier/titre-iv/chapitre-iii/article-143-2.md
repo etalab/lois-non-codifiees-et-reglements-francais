@@ -1,5 +1,3 @@
 # Article 143-2
 
-L'AMF peut se faire communiquer aux fins de contrôle par les personnes mentionnées au II de l'article L. 621-9 du code monétaire et financier tous renseignements, documents, justifications, quel qu'en soit le support.
-
-Afin de permettre le bon déroulement des contrôles, l'AMF peut ordonner aux personnes visées au II de l'article L. 621-9 du code monétaire et financier la conservation de toute information, quel qu'en soit le support. Une telle mesure fait l'objet d'une confirmation écrite, qui en précise la durée et les conditions de renouvellement.
+Afin de permettre le bon déroulement des contrôles, les contrôleurs peuvent ordonner aux personnes visées au II de l'article L. 621-9 du code monétaire et financier la conservation de toute information, quel qu'en soit le support. Une telle mesure fait l'objet d'une confirmation écrite, qui en précise la durée et les conditions de renouvellement.
