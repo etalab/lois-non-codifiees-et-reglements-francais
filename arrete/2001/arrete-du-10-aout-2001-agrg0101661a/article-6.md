@@ -1,3 +1,0 @@
-# Article 6
-
-Pour les produits visés en annexe II, importés sur le territoire français en provenance d'un pays tiers, à l'exclusion de la Suisse et du Liechtenstein, et lorsqu'ils ont été obtenus à partir de matériels de bovins, d'ovins et de caprins, nés, élevés et abattus dans les pays visés au point A (pays ou régions à risque d'ESB négligeable) de l'annexe de la décision n° 2007 / 453 / CE de la Commission du 29 juin 2007 susvisée, outre les conditions sanitaires fixées par l'arrêté du 25 novembre 2003 susvisé, le certificat sanitaire ou de salubrité est complété par l'attestation prévue à l'annexe IX, chapitre C, section B, du règlement (CE) n° 999 / 2001 modifié susvisé signée par un vétérinaire officiel du pays de provenance.

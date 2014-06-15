@@ -151,7 +151,6 @@
 - [Arrêté du 9 octobre 2001 (ATEG0100277A)](arrete-du-9-octobre-2001-ateg0100277a)
 - [Arrêté du 9 octobre 2001 (ECOF0100027A)](arrete-du-9-octobre-2001-ecof0100027a)
 - [Arrêté du 9 octobre 2001 (RECA0100242A)](arrete-du-9-octobre-2001-reca0100242a)
-- [Arrêté du 10 août 2001 (AGRG0101661A)](arrete-du-10-aout-2001-agrg0101661a)
 - [Arrêté du 10 août 2001 (ECOF0100022A)](arrete-du-10-aout-2001-ecof0100022a)
 - [Arrêté du 10 août 2001 (PRMX0105047A)](arrete-du-10-aout-2001-prmx0105047a)
 - [Arrêté du 10 avril 2001 (ECOI0100176A)](arrete-du-10-avril-2001-ecoi0100176a)
