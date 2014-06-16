@@ -79,6 +79,7 @@
 - [Décret n°2014-616 du 12 juin 2014 (OMES1405579D)](decret-n2014-616-du-12-juin-2014-omes1405579d)
 - [Décret n°2014-474 du 12 mai 2014 (PRMD1408256D)](decret-n2014-474-du-12-mai-2014-prmd1408256d)
 - [Décret n°2014-475 du 12 mai 2014 (RDFF1400455D)](decret-n2014-475-du-12-mai-2014-rdff1400455d)
+- [DÉCRET n°2014-618 du 13 juin 2014 (PRMX1413482D)](decret-n2014-618-du-13-juin-2014-prmx1413482d)
 - [Décret n°2014-477 du 13 mai 2014 (JUSK1242395D)](decret-n2014-477-du-13-mai-2014-jusk1242395d)
 - [Décret n°2014-478 du 13 mai 2014 (FCPS1326115D)](decret-n2014-478-du-13-mai-2014-fcps1326115d)
 - [Décret n°2014-481 du 13 mai 2014 (INTA1407688D)](decret-n2014-481-du-13-mai-2014-inta1407688d)

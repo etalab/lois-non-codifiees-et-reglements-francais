@@ -5,6 +5,7 @@
 - [Ordonnance n° 2014-464 du 7 mai 2014 (INTX1409906R)](ordonnance-n-2014-464-du-7-mai-2014-intx1409906r)
 - [Ordonnance n° 2014-471 du 7 mai 2014 (OMES1408399R)](ordonnance-n-2014-471-du-7-mai-2014-omes1408399r)
 - [Ordonnance n°2014-329 du 12 mars 2014 (PMEX1402812R)](ordonnance-n2014-329-du-12-mars-2014-pmex1402812r)
+- [ORDONNANCE n°2014-619 du 12 juin 2014 (DEVL1407054R)](ordonnance-n2014-619-du-12-juin-2014-devl1407054r)
 - [Ordonnance n° 2012-1398 du 13 décembre 2012 (OMEO1234928R)](ordonnance-n-2012-1398-du-13-decembre-2012-omeo1234928r)
 - [Ordonnance n°2014-487 du 15 mai 2014 (ERNC1403620R)](ordonnance-n2014-487-du-15-mai-2014-ernc1403620r)
 - [Ordonnance n°2014-355 du 20 mars 2014 (DEVP1401286R)](ordonnance-n2014-355-du-20-mars-2014-devp1401286r)
