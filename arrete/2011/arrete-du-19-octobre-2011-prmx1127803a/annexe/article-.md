@@ -74,4 +74,6 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture de l'implantation territoriale de Tarare de la direction départementale des territoires du Rhône ;
 
-- restructuration du service d'aménagement territorial de Cergy-Saint-Christophe de la direction départementale des territoires du Val-d'Oise.
+- restructuration du service d'aménagement territorial de Cergy-Saint-Christophe de la direction départementale des territoires du Val-d'Oise ;
+
+- fermeture de la délégation territoriale nord de Valençay de la direction départementale des territoires de l'Indre.
