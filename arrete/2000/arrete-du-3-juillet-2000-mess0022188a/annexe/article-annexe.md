@@ -148,7 +148,7 @@ Ateliers Henri Lardet, puis lardet Babcock, puis Babcock entreprise, puis CNIM :
 
 Buflon, ZI Sud, rue des Aviots, BP 61, 88152 Thaon-les-Vosges Cedex : de 1960 à 1986 ;
 
-Compagnie des Cristalleries de Baccarat, Rue des Cristalleries, 54120 Baccarat De 1949 à 1995, puis Manufactures de Baccarat De 1995 à 1996
+Compagnie des Cristalleries de Baccarat, Rue des Cristalleries, 54120 Baccarat : de 1949 à 1995, puis Manufactures de Baccarat : de 1995 à 1996
 
 EDC/Société Ed. Durand et Cie, 7, route de Pont-à-Mousson, 54518 Thiaucourt-Regniéville : de 1935 à 1995 ;
 
@@ -210,9 +210,11 @@ Ferodo/Valeo, établissement de la Martinique, 61790 Saint-Pierre-du-Regard : de
 
 Ferodo/Valeo, la Petite Suisse, 61790 Saint-Pierre-du-Regard : de 1949 à 1994 ;
 
-Ferodo/Valeo/Allied-Signal/Allied-Signal matériaux de friction/ Bendix, établissement de Condé, 14110 Condé-sur-Noireau : de 1960 à 1996 ;
-
 Ferodo/Valeo/Ferlam/Evers-Filature de la Vère, usine Le Platfond, BP 1, 61430 Sainte-Honorine-la-Chardonne : de 1945 à 1996 ;
+
+Ferodo/ Valeo/ Allied-Signal/ Allied-Signal matériaux de friction/ Bendix, établissement de Condé, 14110 Condé-sur-Noireau, de 1960 à 1999
+
+HONEYWELL matériaux de frictions, zone industrielle Est, 14110 Condé-sur-Noireau, de 1999 au 30 juin 2000
 
 M. Regne Félix, 61100 Ségrie-Fontaine : de 1960 à 1977 ;
 
