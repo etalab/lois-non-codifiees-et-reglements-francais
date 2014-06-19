@@ -1,0 +1,5 @@
+# Article 7
+
+I. - Les dirigeants peuvent également justifier auprès de la commission régionale ou interrégionale d'agrément et de contrôle territorialement compétente, de leur aptitude professionnelle par la preuve de l'exercice continu, pendant deux ans dans la période comprise entre le 10 septembre 2003 et le 9 septembre 2008 inclus, d'une activité de surveillance et de gardiennage, de transport de fonds ou de protection physique des personnes, à titre individuel, ou en tant que dirigeant ou gérant d'une personne morale.
+
+II. - Toutefois, les dirigeants et les gérants des sociétés exerçant une activité de maintenance et d'alimentation de distributeurs automatiques de billets ou de guichets automatiques de banques peuvent également justifier de leur aptitude professionnelle auprès de la commission régionale ou interrégionale d'agrément et de contrôle territorialement compétente, jusqu'au 30 juin 2013, par la preuve de l'exercice continu de cette activité pendant deux ans dans la période comprise entre le 1er septembre 2007 et le 31 décembre 2011 inclus.
