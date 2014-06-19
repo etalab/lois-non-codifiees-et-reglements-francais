@@ -670,7 +670,6 @@
 - [Arrêté du 23 décembre 1993 (EQUT9301885A)](arrete-du-23-decembre-1993-equt9301885a)
 - [Arrêté du 23 décembre 1993 (SPSS9303608A)](arrete-du-23-decembre-1993-spss9303608a)
 - [Arrêté du 23 décembre 1993 (TEFT9301295A)](arrete-du-23-decembre-1993-teft9301295a)
-- [Arrêté du 23 février 1993 (AGRA9202220A)](arrete-du-23-fevrier-1993-agra9202220a)
 - [Arrêté du 23 février 1993 (ENVQ9320097A)](arrete-du-23-fevrier-1993-envq9320097a)
 - [Arrêté du 23 février 1993 (SPSS9300550A)](arrete-du-23-fevrier-1993-spss9300550a)
 - [Arrêté du 23 février 1993 (SPSS9300551A)](arrete-du-23-fevrier-1993-spss9300551a)

@@ -484,7 +484,6 @@
 - [Arrêté du 22 avril 2002 (AGRP0200958A)](arrete-du-22-avril-2002-agrp0200958a)
 - [Arrêté du 22 avril 2002 (EQUS0200559A)](arrete-du-22-avril-2002-equs0200559a)
 - [Arrêté du 22 avril 2002 (MCCB0200311A)](arrete-du-22-avril-2002-mccb0200311a)
-- [Arrêté du 22 février 2002 (AGRA0200230A)](arrete-du-22-fevrier-2002-agra0200230a)
 - [Arrêté du 22 février 2002 (ECOA0210003A)](arrete-du-22-fevrier-2002-ecoa0210003a)
 - [Arrêté du 22 février 2002 (INTA0200103A)](arrete-du-22-fevrier-2002-inta0200103a)
 - [Arrêté du 22 février 2002 (MESG0220696A)](arrete-du-22-fevrier-2002-mesg0220696a)

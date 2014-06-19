@@ -2549,7 +2549,6 @@
 - [Arrêté du 27 septembre 2010 (MTSA1012223A)](arrete-du-27-septembre-2010-mtsa1012223a)
 - [Arrêté du 27 septembre 2010 (MTSA1012230A)](arrete-du-27-septembre-2010-mtsa1012230a)
 - [Arrêté du 27 septembre 2010 (SASP1023841A)](arrete-du-27-septembre-2010-sasp1023841a)
-- [Arrêté du 27 mai 1998 (AGRA9800655A)](arrete-du-27-mai-1998-agra9800655a)
 - [Arrêté du 27 mai 2010 (ECED1014714A)](arrete-du-27-mai-2010-eced1014714a)
 - [Arrêté du 27 mai 2010 (ECET1013346A)](arrete-du-27-mai-2010-ecet1013346a)
 - [Arrêté du 27 mai 2010 (ECEU1012211A)](arrete-du-27-mai-2010-eceu1012211a)
