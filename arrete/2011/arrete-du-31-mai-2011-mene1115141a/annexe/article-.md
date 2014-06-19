@@ -2,1074 +2,720 @@
 
 LISTE DES ÉTABLISSEMENTS PROPOSANT UNE SECTION ABIBAC EN FRANCE
 
-ET DANS LES ÉTABLISSEMENTS D'ENSEIGNEMENT FRANÇAIS À L'ÉTRANGER
+ET DANS LES ÉTABLISSEMENTS D'ENSEIGNEMENT FRANÇAIS À L'ÉTRANGER (RENTRÉE 2014)
 
-Liste des établissements proposant une section AbiBac en France
+Etablissements proposant une section Abibac en France
 
 <table>
 <tbody>
 <tr>
-<td width="112">
-<p align="center">ACADÉMIE</p>
+<td align="left" valign="top">
+<p align="center">ACADÉMIE <br/>
+</p>
 </td>
-<td width="297">
-<p align="center">NOM DU LYCÉE</p>
+<td align="left" valign="top">
+<p align="center">NOM DU LYCÉE <br/>
+</p>
 </td>
-<td width="149">
-<p align="center">ANNÉE D'OUVERTURE <br/>classe de seconde</p>
+<td align="left" valign="top">
+<p align="center">OUVERTURE<br/>rentrée 2014 </p>
 </td>
-<td width="112">
-<p align="center">OUVERTURE <br/>rentrée 2013</p>
+<td align="left" valign="top">
+<p align="center">PREMIÈRE SESSION<br/>Abibac <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="112">
-<p>Aix-Marseille </p>
+<td align="left" rowspan="4" valign="middle">
+<p align="left">AIX-MARSEILLE</p>
 </td>
-<td valign="top" width="297">
-<p>Lycée international Georges Duby, Luynes </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top">
+<br/>Lycée international Georges Duby, Luynes </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Saint-Charles, Marseille </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2007</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top">
+<br/>Lycée Saint-Charles, Marseille </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Philippe de Girard, Avignon </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2012</p>
+<td align="left" valign="top">
+<br/>Lycée Philippe de Girard, Avignon </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2015</p>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Ecole internationale Provence-Alpes-Côte d'Azur, Manosque </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2013</p>
-</td>
-<td valign="top" width="112">
-<p align="center">
-<br/>X</p>
+<td align="left" valign="top">
+<br/>Ecole internationale Provence-Alpes-Côte d'Azur, Manosque </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2014 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Amiens </p>
+<td align="left" rowspan="2" valign="middle">
+<p align="left">AMIENS</p>
 </td>
-<td valign="top" width="297">
-<p>Lycée Robert de Luzarches, Amiens </p>
+<td align="left" valign="top">
+<p align="left">Lycée Robert de Luzarches, Amiens </p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
+<td align="left" valign="top">
+<br/>
 </td>
-<td valign="top" width="112">
+<td align="left" valign="top">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Félix Faure, Beauvais </p>
+<td align="left" valign="top">
+<p align="left">Lycée Félix Faure, Beauvais </p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2007</p>
+<td align="left" valign="top">
+<br/>
 </td>
-<td valign="top" width="112">
+<td align="left" valign="top">
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Besançon </p>
+<td align="left" rowspan="2" valign="middle">
+<p align="left">BESANÇON</p>
 </td>
-<td valign="top" width="297">
-<p>Lycée Condorcet, Belfort </p>
+<td align="left" valign="top">
+<p align="left">Lycée Condorcet, Belfort </p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
+<td align="left" valign="top">
+<br/>
 </td>
-<td valign="top" width="112">
+<td align="left" valign="top">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Claude Nicolas Ledoux, Besançon </p>
+<td align="left" valign="top">
+<p align="left">Lycée Claude Nicolas Ledoux, Besançon </p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
+<td align="left" valign="top">
+<br/>
 </td>
-<td valign="top" width="112">
+<td align="left" valign="top">
 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Bordeaux </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Louis Barthou, Pau </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
+<td align="left" rowspan="2" valign="middle">
+<p align="left">BORDEAUX</p>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<p align="left">Lycée Louis Barthou, Pau</p>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Pape Clément, Pessac </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<p align="left">Lycée Pape Clément, Pessac </p>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Caen </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Salvador Allende, Hérouville-Saint-Clair </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>CAEN</td>
+<td align="left" valign="top">
+<p align="left">Lycée Salvador Allende, Hérouville-Saint-Clair </p>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Clermont-Ferrand </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Jeanne d'Arc, Clermont-Ferrand </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
+<td align="left" valign="top">
+<br/>CLERMONT-FERRAND <br/>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jeanne d'Arc, Clermont-Ferrand <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Créteil </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Galilée, Combs-la-Ville </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
+<td align="left" rowspan="2" valign="middle">
+<p align="left">CRÉTEIL</p>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Galilée, Combs-la-Ville <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Albert Schweitzer, Le Raincy </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Albert Schweitzer, Le Raincy <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Dijon </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée européen Charles de Gaulle, Dijon </p>
+<td align="left" valign="top">
+<br/>DIJON <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée européen Charles de Gaulle, Dijon <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Grenoble </p>
+<td align="left" rowspan="2" valign="middle">
+<p align="left">GRENOBLE</p>
 </td>
-<td valign="top" width="297">
-<p>Cité scolaire internationale Europole, Grenoble </p>
+<td align="left" valign="top">
+<br/>Cité scolaire internationale Europole, Grenoble <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>La Réunion </p>
+<td align="left" valign="top">
+<p align="left">Lycée André Argouges, Grenoble</p>
 </td>
-<td valign="top" width="297">
-<p>Lycée Leconte de Lisle, Sainte-Clotilde </p>
+<td align="left" valign="top">
+<p align="center">X</p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
+<td align="left" valign="top">
+<p align="center">2017</p>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Roland Garros, Le Tampon </p>
+<td align="left" rowspan="2" valign="middle">
+<p align="left">LA RÉUNION</p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Leconte de Lisle, Sainte-Clotilde <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="112">
-<p>Lille </p>
+<td align="left" valign="top">
+<br/>Lycée Roland Garros, Le Tampon <br/>
 </td>
-<td valign="top" width="297">
-<p>Lycée Auguste Angellier, Dunkerque </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Marguerite de Flandre, Gondecourt </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
+<td align="left" rowspan="6" valign="middle">
+<p align="left">LILLE</p>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Auguste Angellier, Dunkerque <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Faidherbe, Lille </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2004</p>
+<td align="left" valign="top">
+<br/>Lycée Marguerite de Flandre, Gondecourt <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Fernand Darchicourt, Hénin-Beaumont </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
+<td align="left" valign="top">
+<br/>Lycée Faidherbe, Lille <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Antoine Watteau, Valenciennes </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
+<td align="left" valign="top">
+<br/>Lycée Fernand Darchicourt, Hénin-Beaumont <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean-Baptiste Corot, Douai </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2010</p>
+<td align="left" valign="top">
+<br/>Lycée Antoine Watteau, Valenciennes <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Lyon </p>
-</td>
-<td valign="top" width="297">
-<p>Cité scolaire internationale, Lyon </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
+<td align="left" valign="top">
+<br/>Lycée Jean-Baptiste Corot, Douai <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Honoré d'Urfé, Saint-Etienne </p>
+<td align="left" valign="top">
+<br/>LIMOGES <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2011</p>
+<td align="left" valign="top">
+<br/>Lycée Edmond Perrier, Tulle</td>
+<td align="left" valign="top">
+<p align="center">X</p>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<p align="center">2017</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Montpellier </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Georges Clemenceau, Montpellier </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" rowspan="2" valign="middle">LYON</td>
+<td align="left" valign="top">
+<br/>Cité scolaire internationale, Lyon <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Alphonse Daudet, Nîmes </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2010</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Honoré d'Urfé, Saint-Etienne </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2014</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="112">
-<p>Nancy-Metz </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Fabert, Metz </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" rowspan="2" valign="middle">MONTPELLIER</td>
+<td align="left" valign="top">
+<br/>Lycée Georges Clemenceau, Montpellier <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jeanne d'Arc, Nancy </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Alphonse Daudet, Nîmes <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Notre-Dame/ Saint-Sigisbert, Nancy </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" rowspan="6" valign="middle">NANCY-METZ</td>
+<td align="left" valign="top">
+<br/>Lycée Fabert, Metz <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean-Victor Poncelet, Saint-Avold </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jeanne d'Arc, Nancy <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean de Pange, Sarreguemines </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Notre-Dame-Saint-Sigisbert, Nancy <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Charlemagne, Thionville </p>
+<td align="left" valign="top">
+<br/>Lycée Jean-Victor Poncelet, Saint-Avold <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2007</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="112">
-<p>Nantes </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Gabriel Guist'hau, Nantes </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jean de Pange, Sarreguemines <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Bellevue, Le Mans </p>
+<td align="left" valign="top">
+<br/>Lycée Charlemagne, Thionville <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2011</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Joachim du Bellay, Angers </p>
+<td align="left" rowspan="5" valign="middle">NANTES</td>
+<td align="left" valign="top">
+<br/>Lycée Gabriel Guist'hau, Nantes <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2011</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean de Lattre de Tassigny, La Roche-sur-Yon </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2012</p>
+<td align="left" valign="top">
+<p align="left">Lycée Bellevue, Le Mans</p>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2014</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Nice </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Dumont d'Urville, Toulon </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2007</p>
+<td align="left" valign="top">
+<br/>Lycée Joachim du Bellay, Angers <br/>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2014 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Albert Calmette, Nice </p>
+<td align="left" valign="top">
+<p align="left">Lycée Jean de Lattre de Tassigny, La Roche-sur-Yon </p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2010</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2015 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Orléans-Tours </p>
+<td align="left" valign="top">
+<p align="left">Lycée de l'Ile de Nantes, Nantes </p>
 </td>
-<td valign="top" width="297">
-<p>Lycée Charles Péguy, Orléans </p>
+<td align="left" valign="top">
+<p align="center">X </p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
+<td align="left" valign="top">
+<p align="center">2017</p>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Paul-Louis Courier, Tours </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2010</p>
+<td align="left" rowspan="2" valign="middle">NICE</td>
+<td align="left" valign="top">
+<br/>Lycée Dumont d'Urville, Toulon <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Paris </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Janson de Sailly, Paris </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
+<td align="left" valign="top">
+<br/>Lycée Albert Calmette, Nice <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Maurice Ravel, Paris </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2010</p>
+<td align="left" rowspan="2" valign="middle">ORLÉANS-TOURS</td>
+<td align="left" valign="top">
+<br/>Lycée Charles Péguy, Orléans <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Poitiers </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Jean Dautet, La Rochelle </p>
+<td align="left" valign="top">
+<br/>Lycée Paul-Louis Courier, Tours <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée du Bois d'Amour, Poitiers </p>
+<td align="left" rowspan="2" valign="middle">PARIS</td>
+<td align="left" valign="top">
+<br/>Lycée Janson de Sailly, Paris <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2007</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="112">
-<p>Reims </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Pierre Bayen, Châlons-en-Champagne </p>
+<td align="left" valign="top">
+<br/>Lycée Maurice Ravel, Paris <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Gaspard Monge, Charleville-Mézières </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" rowspan="2" valign="middle">POITIERS</td>
+<td align="left" valign="top">
+<br/>Lycée Jean Dautet, La Rochelle <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean Jaurès, Reims </p>
+<td align="left" valign="top">
+<br/>Lycée du Bois d ' Amour, Poitiers <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Rennes </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Chateaubriand, Rennes </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" rowspan="3" valign="middle">REIMS</td>
+<td align="left" valign="top">
+<br/>Lycée Pierre Bayen, Châlons-en-Champagne <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Rouen </p>
+<td align="left" valign="top">
+<br/>Lycée Gaspard Monge, Charleville-Mézières <br/>
 </td>
-<td valign="top" width="297">
-<p>Lycée Gustave Flaubert, Rouen </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="17" valign="top" width="112">
-<p>Strasbourg </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Bartholdi, Colmar </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jean Jaurès, Reims <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Alfred Kastler, Guebwiller </p>
+<td align="left" valign="top">
+<br/>RENNES <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Chateaubriand, Rennes <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Robert Schuman, Haguenau </p>
+<td align="left" valign="top">
+<br/>ROUEN <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
+<td align="left" valign="top">
+<br/>Lycée Gustave Flaubert, Rouen <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Henri Meck, Molsheim </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2007</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" rowspan="18" valign="middle">STRASBOURG</td>
+<td align="left" valign="top">
+<br/>Lycée Bartholdi, Colmar <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean-Henri Lambert, Mulhouse </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Alfred Kastler, Guebwiller <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean Mermoz, Saint-Louis </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Robert Schuman, Haguenau <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Général Leclerc, Saverne </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Henri Meck, Molsheim <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Koeberlé, Sélestat </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2008</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jean-Henri Lambert, Mulhouse <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée international des Pontonniers, Strasbourg </p>
+<td align="left" valign="top">
+<br/>Lycée Jean Mermoz, Saint-Louis <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean Monnet, Strasbourg </p>
+<td align="left" valign="top">
+<br/>Lycée Général Leclerc, Saverne <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Collège épiscopal Saint-Etienne, Strasbourg </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
+<td align="left" valign="top">
+<br/>Lycée Koeberlé, Sélestat <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jean-Jacques Henner, Altkirch </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
+<td align="left" valign="top">
+<br/>Lycée international des Pontonniers, Strasbourg <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Marc Bloch, Bischheim </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jean Monnet, Strasbourg <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Stanislas, Wissembourg </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Collège épiscopal Saint-Etienne, Strasbourg <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Camille Sée, Colmar </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2012</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Jean-Jacques Henner, Altkirch <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Marcel Rudloff, Strasbourg </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2012</p>
-</td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<br/>Lycée Marc Bloch, Bischheim <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Jeanne d'Arc, Mulhouse </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2013</p>
+<td align="left" valign="top">
+<br/>Lycée Stanislas, Wissembourg <br/>
 </td>
-<td valign="top" width="112">
-<p align="center">
-<br/>X</p>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="112">
-<p>Toulouse </p>
+<td align="left" valign="top">
+<br/>Lycée Camille Sée, Colmar <br/>
 </td>
-<td valign="top" width="297">
-<p>Lycée international Victor Hugo, Colomiers </p>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2015 <br/>
+</p>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Lycée Marcel Rudloff, Strasbourg <br/>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2015 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Saint-Sernin, Toulouse </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2009</p>
+<td align="left" valign="top">
+<br/>Lycée Jeanne d ' Arc, Mulhouse <br/>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">2015 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="112">
-<p>Versailles </p>
-</td>
-<td valign="top" width="297">
-<p>Lycée Francisque Sarcey, Dourdan </p>
+<td align="left" valign="top">
+<br/>Lycée Saint-André, Colmar <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2006</p>
+<td align="left" valign="top">
+<p align="center">X <br/>
+</p>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top">
+<p align="center">2017 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Gustave Monod, Enghien-les-Bains </p>
-</td>
-<td valign="top" width="149">
-<p align="center">
-<br/>(*)</p>
+<td align="left" rowspan="2" valign="middle">TOULOUSE</td>
+<td align="left" valign="top">
+<br/>Lycée international Victor Hugo, Colomiers <br/>
 </td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="297">
-<p>Lycée Richelieu, Rueil-Malmaison </p>
+<td align="left" valign="top">
+<br/>Lycée Saint-Sernin, Toulouse <br/>
 </td>
-<td valign="top" width="149">
-<p align="center">
-<br/>2005</p>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="middle">VERSAILLES</td>
+<td align="left" valign="top">
+<br/>Lycée Francisque Sarcey, Dourdan <br/>
 </td>
-<td valign="top" width="112">
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Lycée Gustave Monod, Enghien-les-Bains <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="676">
-<p>(*) L'astérisque indique une ouverture antérieure à la rentrée 2004.</p>
+<td align="left" valign="top">
+<br/>Lycée Richelieu, Rueil-Malmaison <br/>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 </tbody>
 </table>
 
-Liste des établissements d'enseignement français à l'étranger
-
-proposant une section AbiBac
+Etablissements d'enseignement français à l'étranger proposant une section Abibac
 
 <table>
 <tbody>
 <tr>
-<td width="118">
-<p align="center">ACADÉMIE</p>
+<td>
+<p align="center">PAYS <br/>
+</p>
 </td>
-<td width="293">
-<p align="center">NOM DU LYCÉE</p>
+<td>
+<p align="center">NOM DU LYCÉE </p>
 </td>
-<td width="148">
-<p align="center">ANNÉE D'OUVERTURE <br/>classe de seconde</p>
-</td>
-<td width="112">
-<p align="center">OUVERTURE <br/>rentrée 2013</p>
+<td>
+<p align="center">OUVERTURE<br/>rentrée 2014 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="118">
-<p>Allemagne </p>
+<td align="left" rowspan="5" valign="middle">ALLEMAGNE</td>
+<td align="left" valign="middle">
+<br/>Lycée français de Berlin, Berlin <br/>
 </td>
-<td valign="top" width="293">
-<p>Lycée français de Berlin, Berlin </p>
-</td>
-<td valign="top" width="148">
-<p align="center">
-<br/>2005</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Lycée français de Düsseldorf, Düsseldorf </p>
+<td align="left" valign="middle">
+<br/>Lycée français de Düsseldorf, Düsseldorf <br/>
 </td>
-<td valign="top" width="148">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Lycée français Antoine de Saint-Exupéry, Hambourg </p>
+<td align="left" valign="middle">
+<br/>Lycée français Antoine de Saint-Exupéry, Hambourg <br/>
 </td>
-<td valign="top" width="148">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Lycée Jean Renoir, Munich </p>
+<td align="left" valign="middle">
+<br/>Lycée Jean Renoir, Munich <br/>
 </td>
-<td valign="top" width="148">
-<p align="center">
-<br/>(*)</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
+<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Lycée français Victor Hugo, Francfort-sur-le-Main </p>
+<td align="left" valign="middle">
+<br/>Lycée français Victor Hugo, Francfort-sur-le-Main<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">
-<br/>2005</p>
-</td>
-<td valign="top" width="112">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<p>(*) L'astérisque indique une ouverture antérieure à la rentrée 2004.</p>
-</td>
+<td align="center" valign="middle"/>
 </tr>
 </tbody>
 </table>
