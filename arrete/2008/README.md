@@ -1345,4 +1345,3 @@
 - [Arrêté du 1er octobre 2008 (SJSP0823457A)](arrete-du-1er-octobre-2008-sjsp0823457a)
 - [Arrêté du 1er septembre 2008 (IOCC0822371A)](arrete-du-1er-septembre-2008-iocc0822371a)
 - [Arrêté du 1er septembre 2008 (PRMX0826979A)](arrete-du-1er-septembre-2008-prmx0826979a)
-- [Arrêté du novembre 2008 (DEVK0826619A)](arrete-du-novembre-2008-devk0826619a)
