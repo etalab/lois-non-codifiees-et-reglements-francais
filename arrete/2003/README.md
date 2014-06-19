@@ -824,7 +824,6 @@
 - [Arrêté du 28 juillet 1998 (ECOI9800624A)](arrete-du-28-juillet-1998-ecoi9800624a)
 - [Arrêté du 28 juillet 2003 (SOCT0311077A)](arrete-du-28-juillet-2003-soct0311077a)
 - [Arrêté du 28 juin 2003 (SPRK0370104A)](arrete-du-28-juin-2003-sprk0370104a)
-- [Arrêté du 28 mars 2003 (MCCB0200798A)](arrete-du-28-mars-2003-mccb0200798a)
 - [Arrêté du 28 mars 2003 (SPRK0370051A)](arrete-du-28-mars-2003-sprk0370051a)
 - [Arrêté du 28 novembre 2003 (ECOS0350052A)](arrete-du-28-novembre-2003-ecos0350052a)
 - [Arrêté du 28 novembre 2003 (ECOS0350053A)](arrete-du-28-novembre-2003-ecos0350053a)
