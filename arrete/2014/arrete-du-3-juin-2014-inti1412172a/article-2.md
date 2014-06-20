@@ -1,0 +1,3 @@
+# Article 2
+
+Le chef du service de l'inspection générale de l'administration, le secrétaire général du ministère de l'intérieur, le directeur général des collectivités locales, le directeur général de la police nationale, le directeur général de la sécurité intérieure, le directeur général de la gendarmerie nationale, le directeur général des étrangers en France, le directeur général de la sécurité civile et de la gestion des crises, le directeur général des outre-mer et le délégué à la sécurité et la circulation routière sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

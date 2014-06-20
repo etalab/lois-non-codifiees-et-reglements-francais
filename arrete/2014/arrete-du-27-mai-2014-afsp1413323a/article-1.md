@@ -1,0 +1,3 @@
+# Article 1
+
+Dans l'intérêt de la santé des personnes concernées, la caisse primaire d'assurance maladie de la Seine-Saint-Denis est autorisée à utiliser le répertoire national interrégimes des bénéficiaires de l'assurance maladie afin d'obtenir, par l'intermédiaire des organismes servant les prestations d'assurance maladie, l'adresse postale des personnes ayant fréquenté les écoles des groupes scolaires Ormeteau, du Bourg 1 et du Bourg 2 de la commune d'Aulnay-sous-Bois entre 1938 et 1975, afin que l'agence régionale de santé d'Ile-de-France puisse leur proposer un suivi médical, suite à leur exposition à l'amiante liée à la pollution générée par l'activité du comptoir des minéraux et matières premières (CMMP).
