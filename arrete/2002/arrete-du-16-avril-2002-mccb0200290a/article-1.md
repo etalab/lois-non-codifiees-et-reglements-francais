@@ -7,7 +7,7 @@ Les fonctionnaires relevant du ministère de la culture et de la communication r
 <tr>
 <td colspan="2" valign="top" width="614">
 <p align="center">Fonctionnaires de catégorie C et de catégorie B </p>
-<p align="center">(indice brut = 380) </p>
+<br/>
 </td>
 </tr>
 <tr>
