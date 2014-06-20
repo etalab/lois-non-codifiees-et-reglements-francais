@@ -6,7 +6,7 @@ I.-Est puni d'une amende de 7500 euros :
 
 2° Le fait d'exercer, hors le cas prévu au V de l'article 19, une activité visée à cet article sans être immatriculé au répertoire des métiers ou au registre des entreprises tenu par les chambres de métiers d'Alsace et de la Moselle ;
 
-3° Le fait de faire usage du mot : " artisan " ou de l'un de ses dérivés pour l'appellation, l'enseigne, la promotion ou la publicité de l'entreprise, du produit ou de la prestation de service sans détenir la qualité d'artisan, d'artisan qualifié, de maître ou de maître artisan dans les conditions prévues par le I et le II de l'article 21.
+3° Le fait de faire usage du mot : " artisan " ou de l'un de ses dérivés pour l'appellation, l'enseigne, la promotion ou la publicité de l'entreprise, du produit ou de la prestation de service sans détenir la qualité d'artisan, de maître ou de maître artisan dans les conditions prévues par le I et le II de l'article 21.
 
 II.-Les personnes physiques coupables de l'un des délits prévus au présent article encourent également les peines complémentaires suivantes :
 
@@ -23,5 +23,3 @@ Les peines encourues par les personnes morales sont :
 2° La peine prévue au 4° de l'article 131-39 du code pénal pour une durée de cinq ans au plus et la peine prévue au 9° dudit article.
 
 IV.-Outre les officiers et les agents de police judiciaire agissant dans les conditions prévues au code de procédure pénale, les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et constater, dans des conditions prévues par les articles L. 215-3 et L. 217-10 du code de la consommation, les infractions prévues par le présent article.
-
-V. Les dispositions du présent article sont applicables à Mayotte, à l'exception du 1° du I et du IV.

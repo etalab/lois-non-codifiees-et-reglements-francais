@@ -1,0 +1,3 @@
+# Article 22-2
+
+Les personnes immatriculées au répertoire des métiers ou au registre des entreprises mentionné au IV de l'article 19 de la présente loi relevant du secteur de l'artisanat ainsi que les entrepreneurs relevant du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale indiquent, sur chacun de leurs devis et sur chacune de leurs factures, l'assurance professionnelle, dans le cas où elle est obligatoire pour l'exercice de leur métier, qu'ils ont souscrite au titre de leur activité, les coordonnées de l'assureur ou du garant, ainsi que la couverture géographique de leur contrat ou de leur garantie.

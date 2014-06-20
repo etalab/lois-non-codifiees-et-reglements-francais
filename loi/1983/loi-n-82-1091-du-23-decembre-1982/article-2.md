@@ -10,8 +10,6 @@ Toutefois, le futur chef d'entreprise peut être dispensé de suivre le stage pr
 
 -s'il a exercé, pendant au moins trois ans, une activité professionnelle requérant un niveau de connaissance au moins équivalent à celui fourni par le stage.
 
-Est dispensé du stage prévu au premier alinéa le chef d'entreprise qui bénéficie du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale ou dont l'immatriculation est consécutive au dépassement de seuil mentionné au V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat.
-
 Pour s'établir en France, un professionnel qualifié ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen est dispensé de suivre le stage prévu au premier alinéa. Un décret en Conseil d'Etat définit les conditions dans lesquelles, si l'examen des qualifications professionnelles attestées par le professionnel fait apparaître des différences substantielles au regard des qualifications requises pour la direction d'une entreprise artisanale, l'autorité compétente peut exiger que le demandeur se soumette à une épreuve d'aptitude ou un stage d'adaptation, à son choix.
 
 Lorsque le futur chef d'entreprise est dispensé de participer au stage, celui-ci reste ouvert à son conjoint et à ses auxiliaires familiaux.
