@@ -1,16 +1,12 @@
 # Article 1
 
-Le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique prépare et met en œuvre la politique du Gouvernement en matière de décentralisation, de réforme de l'Etat et de fonction publique.
+Le ministre de la décentralisation et de la fonction publique prépare et met en œuvre la politique du Gouvernement en matière de décentralisation et de fonction publique.
 
-I.-En matière de décentralisation, le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique prépare et met en œuvre, en liaison avec le ministre de l'intérieur et avec le ministre du logement et de l'égalité des territoires, la politique de renforcement des responsabilités locales. Il propose toutes mesures propres à faciliter l'exercice de leurs compétences par les collectivités territoriales et veille à leur mise en œuvre. Il prépare les orientations stratégiques du Gouvernement pour le développement des métropoles, y compris de la région capitale.
+I. - En matière de décentralisation, le ministre de la décentralisation et de la fonction publique prépare et met en œuvre, en liaison avec le ministre de l'intérieur et avec le ministre du logement et de l'égalité des territoires, la politique de renforcement des responsabilités locales. Il propose toutes mesures propres à faciliter l'exercice de leurs compétences par les collectivités territoriales et veille à leur mise en œuvre. Il prépare les orientations stratégiques du Gouvernement pour le développement des métropoles, y compris de la région capitale.
 
-II.-En matière de réforme de l'Etat, le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique prépare et met en œuvre les mesures tendant à répondre aux besoins des usagers des services publics, à améliorer l'efficacité de ces derniers, à déconcentrer les responsabilités, à moderniser la gestion publique et à développer le dialogue social au sein des administrations.
+II. - Supprimé
 
-Il anime et coordonne le travail du Gouvernement en matière d'évaluation des politiques publiques.
-
-Il contresigne les décrets relatifs à l'organisation des administrations centrales, des services à compétence nationale, des services déconcentrés et des établissements publics placés sous la tutelle de l'Etat.
-
-III.-En matière de fonction publique, le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique exerce, par délégation du Premier ministre et sous réserve de la compétence du Premier ministre en matière d'encadrement supérieur de l'Etat, les attributions résultant des lois du 13 juillet 1983 et du 11 janvier 1984 susvisées. Il veille au respect tant des droits et obligations de l'ensemble des fonctionnaires que des principes régissant leur carrière.
+III. - En matière de fonction publique, le ministre de la décentralisation et de la fonction publique exerce, par délégation du Premier ministre et sous réserve de la compétence du Premier ministre en matière d'encadrement supérieur de l'Etat, les attributions résultant des lois du 13 juillet 1983 et du 11 janvier 1984 susvisées. Il veille au respect tant des droits et obligations de l'ensemble des fonctionnaires que des principes régissant leur carrière.
 
 Il conduit la politique de rénovation de la gestion des ressources humaines dans les administrations publiques.
 
