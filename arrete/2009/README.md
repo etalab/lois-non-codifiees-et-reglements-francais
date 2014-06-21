@@ -2112,7 +2112,6 @@
 - [Arrêté du 25 novembre 2009 (BCFL0928184A)](arrete-du-25-novembre-2009-bcfl0928184a)
 - [Arrêté du 25 novembre 2009 (DEVA0928164A)](arrete-du-25-novembre-2009-deva0928164a)
 - [Arrêté du 25 novembre 2009 (ECES0927938A)](arrete-du-25-novembre-2009-eces0927938a)
-- [Arrêté du 25 septembre 2008 (BCFL0819444A)](arrete-du-25-septembre-2008-bcfl0819444a)
 - [Arrêté du 25 septembre 2009 (AGRT0921872A)](arrete-du-25-septembre-2009-agrt0921872a)
 - [Arrêté du 25 septembre 2009 (BCFF0922280A)](arrete-du-25-septembre-2009-bcff0922280a)
 - [Arrêté du 25 septembre 2009 (JUSC0921505A)](arrete-du-25-septembre-2009-jusc0921505a)

@@ -695,7 +695,6 @@
 - [Arrêté du 25 août 2003 (SANH0323333A)](arrete-du-25-aout-2003-sanh0323333a)
 - [Arrêté du 25 avril 2003 (AGRE0300857A)](arrete-du-25-avril-2003-agre0300857a)
 - [Arrêté du 25 avril 2003 (AGRE0300858A)](arrete-du-25-avril-2003-agre0300858a)
-- [Arrêté du 25 avril 2003 (BUDL0300059A)](arrete-du-25-avril-2003-budl0300059a)
 - [Arrêté du 25 avril 2003 (BUDR0307059A)](arrete-du-25-avril-2003-budr0307059a)
 - [Arrêté du 25 avril 2003 (DEFD0301324A)](arrete-du-25-avril-2003-defd0301324a)
 - [Arrêté du 25 avril 2003 (DEVP0320066A)](arrete-du-25-avril-2003-devp0320066a)
