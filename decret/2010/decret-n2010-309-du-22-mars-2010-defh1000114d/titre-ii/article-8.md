@@ -1,24 +1,31 @@
 # Article 8
 
-L'échelonnement indiciaire applicable au délégué général pour l'armement, dont les attributions sont fixées au chapitre Ier du décret du 15 juillet 2009 susvisé, est fixé ainsi qu'il suit :
-
-<div align="center">
+<div align="left">L'échelonnement indiciaire applicable au délégué général pour l'armement, dont les attributions sont fixées au chapitre Ier du décret du 15 juillet 2009 susvisé, est fixé ainsi qu'il suit : <br/>
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> ÉCHELON</p>
+<th>
+<br/>ÉCHELONS <br/>
+</th>
+<th>
+<br/>INDICES BRUTS <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
 </td>
-<td>
-<p align="center"> INDICE BRUT</p>
+<td align="center">
+<br/>HEG <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Echelon unique </p>
+<br/>1er échelon <br/>
 </td>
-<td align="center">HEF<br/>
+<td align="center">
+<br/>HEF<br/>
 </td>
 </tr>
 </tbody>
