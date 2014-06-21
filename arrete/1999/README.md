@@ -517,7 +517,6 @@
 - [Arrêté du 26 mars 1999 (MESH9921070A)](arrete-du-26-mars-1999-mesh9921070a)
 - [Arrêté du 26 mars 1999 (MESH9921071A)](arrete-du-26-mars-1999-mesh9921071a)
 - [Arrêté du 26 novembre 1999 (MESP9923609A)](arrete-du-26-novembre-1999-mesp9923609a)
-- [Arrêté du 26 mai 1999 (AGRA9900987A)](arrete-du-26-mai-1999-agra9900987a)
 - [Arrêté du 26 mai 1999 (AGRG9802295A)](arrete-du-26-mai-1999-agrg9802295a)
 - [Arrêté du 26 mai 1999 (ECOI9900283A)](arrete-du-26-mai-1999-ecoi9900283a)
 - [Arrêté du 26 mai 1999 (ECOU9900034A)](arrete-du-26-mai-1999-ecou9900034a)
