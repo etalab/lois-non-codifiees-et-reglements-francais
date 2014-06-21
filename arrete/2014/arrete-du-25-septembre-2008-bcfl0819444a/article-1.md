@@ -1,0 +1,3 @@
+# Article 1
+
+La direction générale des finances publiques (DGFIP), la Caisse nationale des allocations familiales (CNAF) et la Caisse centrale de mutualité sociale agricole (CCMSA) sont autorisées à mettre en œuvre la procédure automatisée de transfert de données fiscales prévue par le décret n° 2002-771 du 3 mai 2002 portant création d'une procédure de transfert des données fiscales et nécessaire à l'exécution des finalités décrites aux articles L. 152 et L. 152 A du livre des procédures fiscales pour la partie concernant la gestion des prestations et allocations dans les caisses d'allocations familiales (CAF) et les CMSA.
