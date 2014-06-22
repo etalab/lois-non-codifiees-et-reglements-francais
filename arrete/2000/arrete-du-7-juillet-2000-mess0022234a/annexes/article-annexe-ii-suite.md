@@ -716,6 +716,8 @@ Mécanique générale Industrie (MGI) :
 
 Mécanix, 108, chemin du Littoral, 13015 Marseille, et 29, traverse Santi, 13015 Marseille : de 1969 à 2002.
 
+MEDEL (Société méditerranéenne d'électronique) 146, chemin de la Madrague-Ville, 13015 Marseille, puis parc des Aygalades, 31, boulevard Frédéric-Sauvage, 13014 Marseille, puis 25, boulevard Massenet, 13014 Marseille De 1981 à 1986
+
 Mediterranean Repairs Shipping (MRS), 42, rue Montgrand, 13006 Marseille : de 1999 à 2003.
 
 MGP Pelletier-Dugoul-Meca International, pont de l'Etoile, 13360 Roquevaire, depuis 1973.
