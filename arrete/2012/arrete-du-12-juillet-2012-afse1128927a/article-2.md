@@ -1,70 +1,62 @@
 # Article 2
 
-1. Le fichier départemental est constitué au niveau du département sous la responsabilité, d'une part, du directeur départemental chargé de la cohésion sociale s'agissant des données relatives aux assistants de service social et, d'autre part, du directeur général de l'agence régionale de santé s'agissant des données relatives aux autres professionnels et usagers de titres. Le fichier ne peut comporter que les informations suivantes :
+1. Le fichier ADELI est constitué sous la responsabilité du directeur général de l'agence régionale de santé. Le fichier comporte les informations suivantes :
 
-― identifiant ADELI ;
+- identifiant ADELI ;
 
-― identifiant du répertoire partagé des professionnels de santé (RPPS), pour les professions réglementées par le code de la santé publique ;
+- identifiant du répertoire partagé des professionnels de santé (RPPS), pour les professions réglementées par le code de la santé publique ;
 
-― date d'inscription à l'agence régionale de santé, à la direction départementale chargée de la cohésion sociale ou à la direction départementale des affaires sanitaires et sociales ;
+- date d'inscription à l'agence régionale de santé, à la direction départementale chargée de la cohésion sociale ou à la direction départementale des affaires sanitaires et sociales ;
 
-― identité : civilité, nom, prénom, date et lieu de naissance ;
+- identité : civilité, nom, prénom, date et lieu de naissance ;
 
-― langues parlées ;
+- langues parlées ;
 
-― adresse personnelle ;
+- adresse personnelle ;
 
-― nationalité (française, ou Union européenne, ou autre) ;
+- nationalité (française ou Union européenne ou autre) ;
 
-― situation professionnelle (salarié, libéral, inactif, retraité...) ;
+- profession ou titre professionnel ;
 
-― date de prise d'effet de la situation professionnelle ;
+- diplôme, titre, certificat, autorisation ou attestation permettant l'exercice de la profession ou l'usage du titre professionnel (nature et numéro, date et lieu d'obtention) ;
 
-― date de premier exercice ;
+- date de premier exercice ;
 
-― interdiction d'exercice (nature, date de début, durée), pour les professions réglementées par le code de la santé publique qui peuvent y être soumises ;
+- interdiction d'exercice (nature, date de début, durée), pour les professions réglementées par le code de la santé publique qui peuvent y être soumises ;
 
-― remplacement (date de début, durée) pour la profession d'infirmier ;
+- situation professionnelle (salarié, libéral, inactif, retraité...) ;
 
-― pour chacune des activités professionnelles justifiant l'inscription dans ADELI :
+- date de prise d'effet de la situation professionnelle ;
 
-― date de début d'exercice ;
+- remplacement (date de début, durée) ;
 
-― fonction ;
+- pour chacune des activités professionnelles justifiant l'inscription dans ADELI :
 
-― mode d'exercice ;
+- date de début d'exercice ;
 
-― adresse d'exercice ;
+- fonction ;
 
-― autres coordonnées : numéros de téléphone et de télécopie, numéros FINESS et SIRET des établissements d'exercice, adresse électronique ;
+- mode d'exercice ;
 
-― statut juridique de l'établissement ou secteur d'activité du lieu d'exercice ;
+- adresse d'exercice ;
 
-― département d'immatriculation précédent ;
+- autres coordonnées : numéros de téléphone et de télécopie, numéros FINESS et SIRET des établissements d'exercice, adresse électronique ;
 
-― diplôme, titre, certificat, autorisation ou attestation permettant l'exercice de la profession ou l'usage du titre professionnel (nature et numéro, date et lieu d'obtention) ;
+- statut juridique de l'établissement ou secteur d'activité du lieu d'exercice ;
 
-― état de la demande de la carte CPS (attente, demandée, refusée, émise) et date, pour les professions réglementées par le code de la santé publique qui y ont accès ;
+- département d'immatriculation précédent ;
 
-― le cas échéant :
+- état de la demande de la carte de professionnel de santé (attente, demandée, refusée, émise) ;
 
-― attributions spécifiques en lien avec les professions justifiant l'inscription dans ADELI ;
+- date d'émission de la carte de professionnel de santé ;
 
-― modes d'exercice particuliers ;
+- attributions spécifiques en lien avec les professions justifiant l'inscription dans ADELI ;
 
-― spécialisations des professions paramédicales ;
+- modes d'exercice particuliers ;
 
-― données internes de gestion :
+- spécialisations des professions paramédicales ;
 
-― état du dossier ;
-
-― date de la dernière modification ;
-
-― entité à l'origine de la modification ;
-
-― informations relatives au suivi et à la qualité du dossier ;
-
-― annuaire des personnes habilitées (nom de l'agent, service gestionnaire du répertoire, nom de connexion au traitement).
+- données internes de gestion : état du dossier, dates et entités à l'origine des modifications du dossier, informations relatives au suivi et à la qualité du dossier, annuaire des personnes habilitées (nom de l'agent, service gestionnaire du répertoire, nom de connexion au traitement).
 
 Pour les personnes autorisées à faire usage du titre de psychologue, ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou hors Espace économique européen, le fichier doit comporter la date de l'autorisation d'exercice délivrée par le ministère de l'éducation nationale.
 
@@ -72,12 +64,10 @@ L'adresse personnelle et l'adresse électronique sont facultatives. Les autres i
 
 Les informations sont collectées auprès des intéressés eux-mêmes à l'occasion de la procédure d'enregistrement de leurs diplômes, titres, certificats, autorisations ou attestations, sauf les informations relatives aux interdictions, transmises par l'autorité à l'origine de la décision.
 
-2. Le fichier régional est constitué des fichiers départementaux de la région et comporte les mêmes informations que ceux-ci.
-
-3. Le fichier national est constitué des fichiers régionaux et comporte les mêmes informations que ceux-ci.
+2. Le fichier national est constitué des fichiers régionaux et comporte les mêmes informations que ceux-ci.
 
 Il comporte également des tables nationales alimentées par le niveau local mais consultables par tous : listes d'interdiction d'exercice, de signalement des faux diplômes, annuaire des services et gestionnaires.
 
-Au 1er janvier de chaque année, une base de référence rendue anonyme est par ailleurs constituée aux fins d'exploitation statistique.
+Au 1er janvier de chaque année, une base de référence est par ailleurs constituée aux fins d'exploitation statistique.
 
 Les informations sont conservées trois ans dans les fichiers après cessation totale d'activité du praticien dans le département.

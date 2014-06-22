@@ -1,3 +1,3 @@
 # Article 5
 
-Les droits prévus par la loi du 6 janvier 1978 susvisée s'exercent auprès de l'agence régionale de santé ou de la direction départementale chargée de la cohésion sociale territorialement compétente.
+Les droits prévus par la loi du 6 janvier 1978 susvisée s'exercent auprès de l'agence régionale de santé territorialement compétente.

@@ -1,6 +1,6 @@
 # Article 1
 
-Les ministres chargés de la santé et de l'action sociale mettent en place un traitement dénommé ADELI de gestion de l'enregistrement et des listes départementales des personnes dont les professions sont réglementées par le code de la santé publique, sous réserve qu'elles ne soient pas prises en charge par le traitement prévu par l'arrêté du 6 février 2009 susvisé. Le traitement ADELI assure également la gestion de l'enregistrement et des listes départementales des personnes exerçant la profession d'assistant de service social et de celles usant des titres de psychologue, d'ostéopathe, de chiropracteur. Il est également le support du registre national des psychothérapeutes.
+Les ministres chargés de la santé et des affaires sociales mettent en place un traitement dénommé ADELI de gestion de l'enregistrement et des listes départementales des personnes dont les professions sont réglementées par le code de la santé publique, sous réserve qu'elles ne soient pas prises en charge par le traitement prévu par l'arrêté du 6 février 2009 susvisé. Le traitement ADELI assure également la gestion de l'enregistrement et des listes départementales des personnes exerçant la profession d'assistant de service social et de celles usant des titres de psychologue, d'ostéopathe, de chiropracteur. Il est également le support du registre national des psychothérapeutes.
 
 Ce traitement a pour finalité :
 
