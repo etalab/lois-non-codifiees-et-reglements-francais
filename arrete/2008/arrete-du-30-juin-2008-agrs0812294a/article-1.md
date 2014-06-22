@@ -29,3 +29,5 @@ La direction générale des politiques agricole, agroalimentaire et des territoi
 5. La sous-direction de la gouvernance.
 
 6. La mission des affaires générales.
+
+7. La délégation ministérielle aux outre-mer.

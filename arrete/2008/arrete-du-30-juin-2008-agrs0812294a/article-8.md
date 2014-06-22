@@ -1,3 +1,7 @@
 # Article 8
 
-Le directeur général des politiques agricole, agroalimentaire et des territoires est assisté dans l'exercice de ses fonctions par les fonctionnaires de l'inspection générale de la coopération internationale, qui sont associés aux choix d'affectation et à la gestion des personnels du ministère en poste dans les pays de l'Union européenne et dans les pays tiers, qui contribuent à la définition, à la mise en œuvre et à l'évaluation de la politique française d'influence à l'international et qui sont chargés de réaliser toutes expertises demandées dans le cadre de ces attributions.
+La délégation ministérielle aux outre-mer est chargée d'assurer la cohérence et l'efficacité des diverses composantes des politiques ultra-marines pour l'agriculture, l'alimentation et la forêt dans leur triple dimension européenne, nationale et territoriale.
+
+Elle apporte son appui au ministre pour les questions intéressant les outre-mer. Elle exerce, pour son compte, la tutelle de l'office de développement de l'économie agricole d'outre-mer et coordonne l'ensemble de l'intervention dans les outre-mer des différents services du ministère et des établissements sous sa tutelle.
+
+La délégation ministérielle aux outre-mer est le service référent pour le ministère en charge des outre-mer. Elle assure la liaison avec les autres administrations intervenant dans les domaines de sa compétence, ainsi qu'avec les collectivités territoriales des outre-mer.
