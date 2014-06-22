@@ -1,0 +1,3 @@
+# Article 1
+
+En application du 5° de l'article D. 613-26 du code de l'éducation, les candidats à l'examen du brevet de technicien supérieur présentant une déficience auditive, une déficience du langage oral, une déficience de la parole peuvent bénéficier, par décision du recteur d'académie, à leur demande et après l'avis du médecin désigné par la commission des droits et de l'autonomie des personnes handicapées, de l'adaptation de l'épreuve orale ou partie d'épreuve orale de langue vivante étrangère définie aux annexes III, V ou II d des arrêtés susvisés, selon les modalités définies en annexe du présent arrêté.
