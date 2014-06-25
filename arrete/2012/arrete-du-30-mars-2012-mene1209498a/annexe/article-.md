@@ -3257,6 +3257,25 @@ Etablissements en France
 <td valign="top" width="79"/>
 </tr>
 <tr>
+<td>
+<p align="left">NANTES</p>
+</td>
+<td>
+<p align="left">AMÉRICAINE</p>
+</td>
+<td>
+<p align="left">Lycée de l'Ile de Nantes</p>
+</td>
+<td>
+<p align="left">L</p>
+</td>
+<td>
+<p align="left">NANTES</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="95">
 <p>NANTES </p>
 </td>
@@ -4908,13 +4927,13 @@ Etablissements en France
 <p>BRITANNIQUE </p>
 </td>
 <td valign="top" width="144">
-<p>Collège Montbarrot-Malifeu de Villejean</p>
+<p>Collège Montbarrot-Malifeu de Villejean </p>
 </td>
 <td valign="top" width="57">
 <p>C</p>
 </td>
 <td valign="top" width="142">
-<p>RENNES </p>
+<p align="left">RENNES</p>
 </td>
 <td valign="top" width="119">
 <br/>
@@ -6432,6 +6451,44 @@ Etablissements en France
 <br/>
 </td>
 <td valign="top" width="79"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">VERSAILLES</p>
+</td>
+<td align="left" valign="top">
+<p align="left">BRITANNIQUE</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Collège Jean-Claude Chabanne </p>
+</td>
+<td align="left" valign="top">
+<p align="left">C</p>
+</td>
+<td align="left" valign="top">
+<p align="left">PONTOISE</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">VERSAILLES</p>
+</td>
+<td>
+<p align="left">BRITANNIQUE</p>
+</td>
+<td>
+<p align="left">Lycée Camille Pissarro</p>
+</td>
+<td>
+<p align="left">L</p>
+</td>
+<td>
+<p align="left">PONTOISE</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="95">
