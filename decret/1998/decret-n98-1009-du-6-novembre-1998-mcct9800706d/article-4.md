@@ -1,6 +1,6 @@
 # Article 4
 
-Les demandes d'aides sont transmises à la direction générale des médias et des industries culturelles au plus tard le 30 juin de l'année de l'attribution de l'aide. Toutefois, pour 1998, les demandes doivent parvenir au plus tard le 1er décembre 1998.
+Les demandes d'aides sont transmises à la direction générale des médias et des industries culturelles au plus tard le 30 juin de l'année de l'attribution de l'aide.
 
 Ces demandes doivent être accompagnées des documents suivants :
 

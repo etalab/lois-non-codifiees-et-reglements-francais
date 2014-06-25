@@ -20,6 +20,4 @@ Sont reconnus par la commission paritaire des publications et agences de presse,
 
 9° L'éditeur a la maîtrise éditoriale du contenu publié à son initiative ;
 
-10° Sur les espaces de contribution personnelle des internautes, l'éditeur met en œuvre les dispositifs appropriés de lutte contre les contenus illicites. Ces dispositifs doivent permettre à toute personne de signaler la présence de tels contenus et à l'éditeur de les retirer promptement ou d'en rendre l'accès impossible ;
-
-11° Pour les services de presse en ligne présentant un caractère d'information politique et générale, l'éditeur emploie, à titre régulier, au moins un journaliste professionnel au sens de l'article L. 7111-3 du code du travail.
+10° Sur les espaces de contribution personnelle des internautes, l'éditeur met en œuvre les dispositifs appropriés de lutte contre les contenus illicites. Ces dispositifs doivent permettre à toute personne de signaler la présence de tels contenus et à l'éditeur de les retirer promptement ou d'en rendre l'accès impossible.

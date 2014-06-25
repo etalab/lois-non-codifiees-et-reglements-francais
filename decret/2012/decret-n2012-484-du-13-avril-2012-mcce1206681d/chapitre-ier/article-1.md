@@ -1,12 +1,14 @@
 # Article 1
 
-L'attribution d'aides au titre du fonds stratégique pour le développement de la presse prévu au chapitre III du présent décret est subordonnée à la conclusion avec l'Etat d'une convention-cadre d'une durée de trois ans pour les entreprises éditrices d'un titre de presse ou d'un service de presse en ligne remplissant l'une des conditions suivantes :
+Dès l'établissement chaque année des états annuels des aides à la presse directes ou indirectes par la direction générale des médias et des industries culturelles, l'Etat conclut une convention-cadre d'une durée de trois ans avec les personnes morales remplissant l'une des conditions suivantes et pour lesquelles une telle convention-cadre n'est pas déjà en vigueur :
 
-1° Avoir bénéficié d'un montant d'aides supérieur à 1,5 million d'euros en moyenne annuelle sur les trois années précédant la demande au titre du fonds stratégique pour le développement de la presse prévu au chapitre III du présent décret ;
+1° Avoir bénéficié d'un montant d'aides supérieur à un million d'euros en moyenne annuelle sur les trois années civiles précédentes ;
 
-2° Avoir bénéficié d'un montant d'aides représentant au moins 20 % du chiffre d'affaires du titre et supérieur à 500 000 euros en moyenne annuelle sur les trois années précédant la demande ;
+2° Avoir bénéficié d'un montant d'aides représentant au moins 20 % du chiffre d'affaires du titre et supérieur à 500 000 euros en moyenne annuelle sur les trois années civiles précédentes ;
 
-3° Bénéficier au cours de l'année civile d'une aide supérieure à 1,5 million d'euros au titre du fonds stratégique pour le développement de la presse prévu au chapitre III du présent décret.
+3° Bénéficier directement au cours de l'année civile d'une aide supérieure à un million d'euros au titre du fonds stratégique pour le développement de la presse prévu au chapitre III du présent décret.
+
+Pour les groupes comportant des filiales ou des sociétés contrôlées, au sens des articles L. 233-1 et L. 233-3 du code de commerce, bénéficiant d'aides à la presse, les seuils mentionnés aux trois alinéas précédents s'apprécient au niveau du groupe. Une information complète sur le périmètre du groupe est fournie à cet effet à la direction générale des médias et des industries culturelles. La direction générale des médias et des industries culturelles, le groupe et les sociétés éditant les titres concernés déterminent conjointement si une ou plusieurs conventions-cadres doivent être conclues.
 
 Les aides prises en compte pour l'appréciation des conditions prévues aux 1° et 2° sont celles attribuées en application :
 
@@ -24,8 +26,12 @@ Les aides prises en compte pour l'appréciation des conditions prévues aux 1° 
 
 ― des décisions d'attribution prises en application du décret n° 2004-1311 du 26 novembre 2004 modifié relatif au fonds d'aide à la distribution et à la promotion de la presse française à l'étranger ;
 
+-du décret n° 2005-1096 du 2 septembre 2005 relatif à la cessation d'activité de certains salariés relevant de la convention collective de travail des ouvriers des entreprises de presse de la région parisienne et de la convention collective de travail des cadres techniques de la presse quotidienne parisienne ;
+
+-du décret n° 2006-657 du 2 juin 2006 relatif à la cessation d'activité de certains salariés relevant des conventions collectives de la presse quotidienne régionale et de la presse quotidienne départementale ;
+
 ― des conventions conclues en application du décret n° 2009-1379 du 11 novembre 2009 relatif au fonds d'aide au développement des services de presse en ligne ;
 
 ― du chapitre III du présent décret relatif au fonds stratégique pour le développement de la presse.
 
-Il est également tenu compte de l'aide que représente le bénéfice des tarifs prévus par l'article L. 4 du code des postes et des communications électroniques et par le décret n° 83-817 du 13 septembre 1983 portant approbation du cahier des charges de la Société nationale des chemins de fer (SNCF).
+Il est également tenu compte, pour les titres ayant le caractère d'information politique et générale, de l'aide que représente le bénéfice des tarifs prévus par l'article L. 4 du code des postes et des communications électroniques et par le décret n° 83-817 du 13 septembre 1983 portant approbation du cahier des charges de la Société nationale des chemins de fer (SNCF).

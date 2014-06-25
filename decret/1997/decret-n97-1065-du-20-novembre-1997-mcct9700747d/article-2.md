@@ -6,9 +6,9 @@ Outre son président, la commission comprend :
 
 - quatre représentants du ministre chargé de la communication ;
 
-- un représentant du ministre chargé du budget ;
+- deux représentants du ministre chargé du budget ;
 
-- quatre représentants du ministre chargé de l'économie ;
+- trois représentants du ministre chargé de l'économie ;
 
 - un représentant du ministre de la justice ;
 
@@ -22,10 +22,10 @@ Outre son président, la commission comprend :
 
 - quatre représentants du ministre chargé de la communication ;
 
-- un représentant du ministre chargé du budget ;
+- deux représentants du ministre chargé du budget ;
 
-- trois représentants du ministre chargé de l'économie ;
+- deux représentants du ministre chargé de l'économie ;
 
 - huit représentants des agences de presse.
 
-Pour chaque membre titulaire représentant les entreprises éditrices de services de presse en ligne, les entreprises de presse et les agences de presse, il est nommé un suppléant.
+Pour chaque membre titulaire représentant les entreprises éditrices de services de presse en ligne, les entreprises de presse et les agences de presse, il est nommé un suppléant. Il est également nommé un président suppléant.

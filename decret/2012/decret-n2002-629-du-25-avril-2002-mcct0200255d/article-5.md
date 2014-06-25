@@ -9,3 +9,5 @@ Ces demandes doivent être accompagnées des documents suivants :
 - la déclaration, établie et certifiée conformément aux dispositions de l'article 4, du nombre d'exemplaires ayant fait l'objet d'une vente effective au numéro au titre de la période de référence pour une demande au titre de la première section ;
 
 - les chiffres de diffusion à l'étranger de la ou des publications concernées par la seconde section, pour les deux années précédant celle de la demande d'aide, leur répartition par zone géographique prioritaire et la diffusion prévisionnelle à l'étranger de ces publications pour l'année en cours.
+
+Les actions des sociétés de messageries qui donnent lieu à une aide au titre de la seconde section sont déterminées dans une convention conclue avec le ministre chargé de la communication.

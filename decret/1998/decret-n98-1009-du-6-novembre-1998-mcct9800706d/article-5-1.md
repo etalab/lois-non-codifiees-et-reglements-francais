@@ -1,6 +1,6 @@
 # Article 5-1
 
-Le présent décret est applicable en Nouvelle-Calédonie et en Polynésie française dans les conditions suivantes :
+Le présent décret est applicable en Nouvelle-Calédonie et en Polynésie française, dans sa rédaction résultant du décret n° 2014-659 du 23 juin 2014 portant réforme des aides à la presse, sous réserve des adaptations suivantes :
 
 1° A l'article 1er, les mots : "service obligatoire du transport de presse exécuté par La Poste” sont remplacés par les mots : "service obligatoire du transport de presse exécuté, le cas échéant, en application de la réglementation locale” ;
 
@@ -12,7 +12,7 @@ Le présent décret est applicable en Nouvelle-Calédonie et en Polynésie fran�
 
 3° L'article 3 bis est ainsi remplacé par les dispositions suivantes :
 
-"Les quotidiens éligibles à l'aide prévue par le décret n° 89-528 du 28 juillet 1989 instituant une aide aux quotidiens régionaux, départementaux et locaux d'information politique et générale à faibles ressources de petites annonces bénéficient, au titre de la deuxième part, d'un taux spécifique constant fixé par arrêté du ministre chargé de la communication et du ministre chargé du budget” ;
+"Les quotidiens éligibles à l'aide prévue par le décret n° 89-528 du 28 juillet 1989 instituant une aide aux quotidiens régionaux, départementaux et locaux d'information politique et générale à faibles ressources de petites annonces bénéficient, au titre de la deuxième part, d'un taux spécifique fixé par arrêté du ministre chargé de la communication et du ministre chargé du budget” ;
 
 4° Au 1° de l'article 4, les mots : "par un membre de l'ordre des experts comptables et des comptables agréés” sont remplacés par les mots : "par un expert comptable ou un comptable agréé en application de la réglementation locale” ;
 

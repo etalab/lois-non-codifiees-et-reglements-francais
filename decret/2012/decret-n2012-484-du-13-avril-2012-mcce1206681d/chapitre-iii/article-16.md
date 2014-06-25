@@ -1,15 +1,3 @@
 # Article 16
 
-Lorsque le comité d'orientation examine les demandes de subvention et d'avance présentées au titre de la deuxième section du fonds, il comprend :
-
-1° Le président du comité d'orientation ;
-
-2° Cinq représentants du ministre chargé de la communication ;
-
-3° Un représentant du ministre chargé du budget ;
-
-4° Un représentant du ministre chargé de l'industrie ;
-
-5° Un représentant du ministre chargé de l'économie numérique ;
-
-6° Huit représentants des éditeurs de services de presse en ligne, dont au moins six représentant les services de presse en ligne qui constituent une déclinaison de titres de presse imprimée, gratuits ou payants.
+Les membres du comité d'orientation mentionnées aux 1°, 4°, 5° et 9° de l'article précédent, deux des membres mentionnés au 2° ainsi que trois représentants des organisations professionnelles des éditeurs de presse se réunissent en formation de club des innovateurs. Dans cette formation, les membres mentionnés au 9° de l'article précédent ont voix délibérative.

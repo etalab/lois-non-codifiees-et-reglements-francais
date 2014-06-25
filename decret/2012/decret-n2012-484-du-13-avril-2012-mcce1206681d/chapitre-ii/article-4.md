@@ -10,10 +10,14 @@ Des opérations de contrôle ponctuel sur pièces et sur place sont organisées 
 
 ― du décret n° 2005-1096 du 2 septembre 2005 modifié relatif à la cessation d'activité de certains salariés de la convention collective de travail des ouvriers des entreprises de presse de la région parisienne et de la convention collective de travail des cadres techniques de la presse quotidienne parisienne ;
 
+-du décret n° 2006-657 du 2 juin 2006 relatif à la cessation d'activité de certains salariés relevant des conventions collectives de la presse quotidienne régionale et de la presse quotidienne départementale ; ;
+
 ― du décret n° 2009-1379 du 11 novembre 2009 relatif au fonds d'aide au développement des services de presse en ligne ;
 
 ― du chapitre III du présent décret.
 
-Ces opérations peuvent être confiées à des corps de contrôle de l'Etat, notamment l'inspection générale des affaires culturelles et le contrôle général économique et financier. Outre la vérification du respect des engagements pris, elles visent à examiner si le projet réalisé satisfait aux objectifs fixés par les textes précités, notamment au regard des conséquences économiques, industrielles et sociales des dépenses aidées.
+Ces opérations peuvent être confiées à des corps de contrôle de l'Etat, notamment l'inspection générale des affaires culturelles et le contrôle général économique et financier ou à des experts extérieurs. Outre la vérification du respect des engagements pris, elles visent à examiner si le projet réalisé satisfait aux objectifs fixés par les textes précités, notamment au regard des conséquences économiques, industrielles et sociales des dépenses aidées.
 
-Ces contrôles font l'objet d'un rapport annuel remis au ministre chargé de la communication. Les résultats en sont communiqués aux représentants du secteur de la presse, dans le respect du secret des affaires.
+Ces contrôles font l'objet de rapports remis au ministre chargé de la communication. Les résultats en sont communiqués aux représentants du secteur de la presse, dans le respect du secret des affaires.
+
+Les frais afférents au contrôle des dépenses découlant du chapitre III du présent décret sont financés par les crédits du fonds prévu au chapitre III du présent décret.

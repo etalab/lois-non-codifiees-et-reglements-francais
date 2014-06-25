@@ -1,6 +1,6 @@
 # Article 3
 
-Le président et les membres titulaires et suppléants représentant les entreprises de presse, les entreprises éditrices de services de presse en ligne et les agences de presse sont nommés par arrêté du ministre chargé de la communication pour un mandat de trois ans renouvelable.
+Le président, son suppléant, et les membres titulaires et suppléants représentant les entreprises de presse, les entreprises éditrices de services de presse en ligne et les agences de presse sont nommés par arrêté du ministre chargé de la communication pour un mandat de trois ans renouvelable.
 
 Les représentants des entreprises de presse et des agences de presse ainsi que ceux des services de presse en ligne sont désignés sur proposition des organisations professionnelles les plus représentatives.
 
