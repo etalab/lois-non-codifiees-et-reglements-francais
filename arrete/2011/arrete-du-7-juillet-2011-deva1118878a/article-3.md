@@ -10,8 +10,6 @@ a) Représentants de l'administration :
 
 b) Représentants du personnel :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -33,49 +31,49 @@ b) Représentants du personnel :
 </th>
 </tr>
 <tr>
-<td align="center">Direction des services de la navigation aérienne (DSNA) <br/>
+<td align="left" valign="middle">Direction des services de la navigation aérienne (DSNA) <br/>
 </td>
-<td align="center">10 <br/>
+<td align="center" valign="middle">10 <br/>
 </td>
-<td align="center">10 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction de la sécurité de l'aviation civile (DSAC) <br/>
-</td>
-<td align="center">10 <br/>
-</td>
-<td align="center">10 <br/>
+<td align="center" valign="middle">10 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Service technique de l'aviation civile (STAC) <br/>
+<td align="left" valign="middle">Direction de la sécurité de l'aviation civile (DSAC) <br/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">10 <br/>
 </td>
-<td align="center">7 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Service national d'ingénierie aéroportuaire (SNIA) <br/>
-</td>
-<td align="center">9 <br/>
-</td>
-<td align="center">9 <br/>
+<td align="center" valign="middle">10 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Centre d'exploitation de développement et d'études du réseau d'information de gestion (CEDRE) <br/>
+<td align="left" valign="middle">Service technique de l'aviation civile (STAC) <br/>
 </td>
-<td align="center">5 <br/>
+<td align="center" valign="middle">7 <br/>
 </td>
-<td align="center">5 <br/>
+<td align="center" valign="middle">7 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">Service national d'ingénierie aéroportuaire (SNIA) <br/>
+</td>
+<td align="center" valign="middle">10 <br/>
+</td>
+<td align="center" valign="middle">10 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">Service des systèmes d'information et de la modernisation (DSI) <br/>
+</td>
+<td align="center" valign="middle">6 <br/>
+</td>
+<td align="center" valign="middle">6 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
+<div align="left"/>
 
 Les représentants du personnel sont élus au scrutin de liste.
 

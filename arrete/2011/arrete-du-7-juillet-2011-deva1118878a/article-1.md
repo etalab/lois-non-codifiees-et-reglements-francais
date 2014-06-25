@@ -17,29 +17,35 @@ b) Représentants du personnel :
 <table>
 <tbody>
 <tr>
-<th>DIRECTION<br/>
-</th>
-<th colspan="2">NOMBRE DE REPRÉSENTANTS<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th colspan="2">Membres représentant les personnels<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th>Titulaires<br/>
-</th>
-<th>Suppléants<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Direction générale de l'aviation civile<br/>
+<td rowspan="3">
+<p align="center">DIRECTION</p>
 </td>
-<td align="center">10<br/>
+<td colspan="2">
+<p align="center">NOMBRE DE REPRÉSENTANTS</p>
 </td>
-<td align="center">10<br/>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Membres représentant les personnels</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Titulaires</p>
+</td>
+<td>
+<p align="center">Suppléants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Direction générale de l'aviation civile</p>
+</td>
+<td>
+<p align="center">10</p>
+</td>
+<td>
+<p align="center">10</p>
 </td>
 </tr>
 </tbody>
@@ -51,7 +57,7 @@ Les représentants du personnel sont désignés suite à l'agrégation des résu
 
 - le comité technique de service central de réseau ;
 
-- le comité technique de service à compétence nationale de la DSNA, le comité technique de service à compétence nationale de la DSAC, le comité technique de service à compétence nationale du STAC, le comité technique de service à compétence nationale du SNIA et le comité technique de service à compétence nationale du CEDRE ;
+- le comité technique de service à compétence nationale de la DSNA, le comité technique de service à compétence nationale de la DSAC, le comité technique de service à compétence nationale du STAC, le comité technique de service à compétence nationale du SNIA et le comité technique de service à compétence nationale de la DSI ;
 
 - le comité technique de la DAC/NC, le comité technique du SEAC/PF, le comité technique du SEAC/WF ;
 
