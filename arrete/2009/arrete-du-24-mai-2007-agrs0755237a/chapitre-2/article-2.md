@@ -1,6 +1,8 @@
 # Article 2
 
-L'agent se trouvant en dehors de ses résidences familiale et administrative pendant toute la période comprise entre zéro heure et cinq heures peut prétendre au remboursement des frais d'hébergement effectivement engagés, sur présentation d'un justificatif de paiement original, sur la base du forfait fixé par l'arrêté du 3 juillet 2006 fixant les taux des indemnités de mission prévues à l'article 3 du décret du 3 juillet 2006 susvisés. En l'absence de justificatif de nuitée, il est considéré que le missionnaire a été logé gratuitement et il ne percevra pas de remboursement au titre des frais d'hébergement.
+L'agent se trouvant en dehors de ses résidences familiale et administrative pendant toute la période comprise entre zéro heure et cinq heures peut prétendre au remboursement des frais d'hébergement dans les conditions fixées à l'article 3.
+
+En l'absence de justificatif de nuitée, il est considéré que le missionnaire a été logé gratuitement et il ne percevra pas de remboursement au titre des frais d'hébergement.
 
 Pour la détermination de la durée du déplacement, la mission est réputée commencer à l'heure de départ de la résidence administrative et finir à l'heure de retour dans cette même résidence.
 
