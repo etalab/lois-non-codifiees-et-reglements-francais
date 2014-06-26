@@ -2,7 +2,7 @@
 
 I.-La durée des services et des bonifications prévus aux articles 6, 11, 12, 13 et 13 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
-Sous réserve des dispositions du V du présent article, le nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension est fixé à cent soixante et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi du 21 août 2003 portant réforme des retraites.
+Sous réserve des dispositions du V du présent article, le nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension est fixé à cent soixante-douze
 
 Le pourcentage maximum de la pension est fixé à 75 %.
 
@@ -42,9 +42,37 @@ Pour le calcul de la durée d'assurance :
 
 2° Une année civile ne peut compter plus de quatre trimestres, sous réserve des majorations de durée de services et des bonifications prévues par le présent texte.
 
-V.-Dispositions transitoires.
+V.-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au I ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies audit article postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2018.
 
-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au I ci-dessus est fixée à cent cinquante et un trimestres pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies audit article postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi du 21 août 2003 portant réforme des retraites.A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
+A compter du 1er juillet 2019, elle est fixée à :
+
+A. - Pour les assurés mentionnés au 4° et au 5° du I de l'article 6 :
+
+167 trimestres, pour les assurés nés entre le 1er juillet 1959 et le 31 décembre 1960 ;
+
+168 trimestres, pour les assurés nés entre le 1er janvier 1961 et le 31 décembre 1963 ;
+
+169 trimestres, pour les assurés nés entre le 1er janvier 1964 et le 31 décembre 1966 ;
+
+170 trimestres, pour les assurés nés entre le 1er janvier 1967 et le 31 décembre 1969 ;
+
+171 trimestres, pour les assurés nés entre le 1er janvier 1970 et le 31 décembre 1972 ;
+
+172 trimestres, pour les assurés nés à partir du 1er janvier 1973.
+
+B. - Pour les assurés relevant des dispositions prévues au 4° du I de l'article 52 :
+
+167 trimestres, pour les assurés nés entre le 1er juillet 1960 et le 30 juin 1961 ;
+
+168 trimestres, pour les assurés nés entre le 1er juillet 1961 et le 31 décembre 1963 ;
+
+169 trimestres, pour les assurés nés entre le 1er janvier 1964 et le 31 décembre 1966 ;
+
+170 trimestres, pour les assurés nés entre le 1er janvier 1967 et le 31 décembre 1969 ;
+
+171 trimestres, pour les assurés nés entre le 1er janvier 1970 et le 31 décembre 1972 ;
+
+172 trimestres, pour les assurés nés à partir du 1er janvier 1973.
 
 Le coefficient de minoration prévu au II ci-dessus n'est applicable qu'aux personnes remplissant les conditions définies à l'article 6 à compter du 1er juillet 2010. Pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet 2010 et le 30 juin 2011 inclus, il est fixé par trimestre manquant à un dixième du taux prévu au premier alinéa du II ci-dessus. Pour les personnes remplissant les conditions définies audit article postérieurement au 30 juin 2011, ce taux augmente du même montant au 1er juillet de chaque année jusqu'à égaler le taux prévu au premier alinéa du II ci-dessus.
 

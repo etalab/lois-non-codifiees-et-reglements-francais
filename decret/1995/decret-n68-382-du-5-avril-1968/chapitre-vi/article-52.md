@@ -109,8 +109,8 @@ IV.-A titre transitoire, l'âge mentionné au premier alinéa de l'article 16, a
 <table>
 <tbody>
 <tr>
-<td align="center"> ANNÉE AU COURS DE LAQUELLE <p>est atteint l'âge d'ouverture </p>du droit à une pension de retraite</td>
-<td align="center" colspan="2"> NOMBRE DE TRIMESTRES <p>minorant l'âge mentionné </p>au premier alinéa de l'article 16</td>
+<td align="center">ANNÉE AU COURS DE LAQUELLE <p>est atteint l'âge d'ouverture </p>du droit à une pension de retraite </td>
+<td align="center" colspan="2">NOMBRE DE TRIMESTRES <p>minorant l'âge mentionné </p>au premier alinéa de l'article 16 </td>
 </tr>
 <tr>
 <td align="center">
@@ -163,6 +163,6 @@ Sont assimilées à l'interruption ou à la réduction d'activité mentionnée a
 
 Sont assimilés aux enfants mentionnés au premier alinéa du présent 1° les enfants énumérés à l'article 18 que l'intéressé a élevés dans les conditions prévues au huitième alinéa du même article.
 
-B.-A compter du 1er janvier 2017, pour l'application du VI de l'article 5 de la loi du 21 août 2003 susvisée et du V de l'article 14 du présent décret aux assurés mentionnés au 1° du présent V, l'année prise en compte est celle au cours de laquelle ils atteignent l'âge prévu au dernier alinéa du I de l'article 5 de la loi du 21 août 2003 susvisée ou, pour les catégories de personnel concernées par ces alinéas, l'âge prévu aux 1°, 2° et 3° du I de l'article 6 du présent décret. Si cet âge est atteint après le 30 juin 2019, le coefficient de minoration applicable est celui prévu au premier alinéa du II de l'article 14. Lorsque la durée de services et bonifications correspondant à cette année n'est pas fixée, la durée exigée est celle correspondant à la dernière génération pour laquelle elle a été fixée.
+B.-A compter du 1er janvier 2017, pour l'application du V et VI de l'article 14 du présent décret aux assurés mentionnés au 1° du présent V, l'année prise en compte est celle au cours de laquelle ils atteignent l'âge de soixante ans ou, pour les catégories de personnel concernées par ces alinéas, l'âge prévu aux 1°, 2° et 3° du I de l'article 6 du présent décret. Si cet âge est atteint après le 30 juin 2019, le coefficient de minoration applicable est celui prévu au premier alinéa du II de l'article 14.
 
 C.-La caisse de retraites des personnels de l'Opéra national de Paris informe, avant le 1er janvier 2016, les assurés ayant accompli quinze années de services effectifs et parents de trois enfants vivants ou décédés pour faits de guerre du changement des règles de départ anticipé à la retraite.
