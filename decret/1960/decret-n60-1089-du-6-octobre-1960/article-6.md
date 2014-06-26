@@ -1,6 +1,6 @@
 # Article 6
 
-Après la radiation des cadres et sous réserve des dispositions de l'article 7 ci-après, l'allocation continue à être servie sur la base du dernier taux d'invalidité constaté durant l'activité. Le montant de l'allocation est alors revalorisé dans les conditions prévues par l'article L. 16 du code des pensions civiles et militaires de retraite.
+Après la radiation des cadres et sous réserve des dispositions de l'article 7 ci-après, l'allocation continue à être servie sur la base du dernier taux d'invalidité constaté durant l'activité. Le montant de l'allocation est alors revalorisé dans les conditions prévues par l'article L. 341-6 du code de la sécurité sociale.
 
 Cependant, si l'allocation n'a pas encore donné lieu à la date de radiation des cadres à la révision après cinq ans prévue à l'article 5, un nouvel examen des droits du bénéficiaire est effectué à ladite date.
 
