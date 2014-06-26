@@ -124,7 +124,7 @@ Article 13
 
 I. - L'interruption d'activité prévue à l'article 12 doit dans tous les cas avoir eu une durée continue au moins égale à deux mois.
 
-La réduction d'activité prévue au même article est constituée d'une période de service à temps partiel d'une durée continue :
+La réduction d'activité prévue au même article est constituée d'une période de service à temps partiel, survenue dans les trois ans suivant la naissance de l'enfant ou son arrivée au foyer en cas d'adoption, d'une durée continue :
 
 - d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer ;
 
@@ -192,11 +192,11 @@ Les périodes d'études accomplies dans les établissements, écoles et classes 
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des cotisations nécessaires selon le barème et les modalités de paiement définis par décret en Conseil d'Etat pour les fonctionnaires de l'Etat. Le barème s'applique à la rémunération cotisable de l'agent au moment de sa demande.
 
+Par dérogation aux conditions prévues à l'alinéa précédent, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant spécifique.
+
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne peuvent également être prises en compte.
 
 L'admission dans les grandes écoles et classes du second degré préparatoires à ces écoles est assimilée à l'obtention d'un diplôme.
-
-Ces trimestres ne doivent pas avoir donné lieu à une affiliation à un régime de retraite de base obligatoire.
 
 Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des articles 28 et 29 du présent règlement.
 
@@ -334,7 +334,7 @@ Une commission pluridisciplinaire dont l'avis s'impose à la caisse de réserve 
 
 III. - Les agents dont la pension est liquidée en application du quatrième alinéa de l'article 26 ne peuvent pas bénéficier des dispositions du présent article.
 
-IV. - Les décrets mentionnés au présent article sont ceux pris pour l'application de l'article L. 351-1-4 du code de la sécurité sociale.
+IV. ― Les décrets mentionnés au présent article sont ceux pris pour l'application de l'article L. 351-1-4 du code de la sécurité sociale.
 
 Article 30
 
@@ -348,7 +348,7 @@ Des décisions du gouverneur approuvées par le conseil général fixeront, le c
 
 Article 31
 
-I. - La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Sous réserve des dispositions de l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+I. - La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Sous réserve des dispositions de l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. Sous réserve des dispositions transitoires prévues à l'article 69, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à 172.
 
 Ce pourcentage maximum est fixé à 75 % du traitement mentionné à l'article 30.
 
@@ -360,7 +360,9 @@ II. - La fraction de trimestre égale ou supérieure à quarante-cinq jours est 
 
 Article 31-1
 
-Le VI de l'article 5 de la loi du 21 août 2003 modifiée susvisée est applicable aux assurés affiliés au régime spécial de retraite régi par le présent règlement.
+La durée des services et des bonifications nécessaire à l'obtention du pourcentage maximum de la pension est celle qui est en vigueur lorsque les assurés atteignent l'âge de soixante ans.
+
+Par dérogation à l'alinéa précédent, la durée des services et des bonifications exigée des assurés qui remplissent les conditions de liquidation d'une pension avant l'âge de soixante ans est celle exigée des assurés atteignant l'âge de soixante ans l'année à compter de laquelle la liquidation peut intervenir. (1)
 
 Article 32
 
@@ -388,7 +390,7 @@ Pour l'application du troisième alinéa du présent article aux agents apparten
 
 Article 33
 
-Lorsque la durée d'assurance définie à l'article 15 est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31 et que l'agent a atteint l'âge mentionné au troisième alinéa de l'article 26, un coefficient de majoration calculé sur la base de 1,25 % par trimestre supplémentaire s'applique au montant de la pension liquidée en application des articles 30 et 31.
+Lorsque la durée d'assurance définie à l'article 15 est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31 et que l'agent a atteint l'âge mentionné au troisième alinéa de l'article 26, un coefficient de majoration calculé sur la base de 1, 25 % par trimestre supplémentaire s'applique au montant de la pension liquidée en application des articles 30 et 31.
 
 Le nombre de trimestres supplémentaires pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance effectués après le 1er avril 2007, au-delà de l'âge mentionné au troisième alinéa de l'article 26 et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31.
 
@@ -404,7 +406,7 @@ Si le nombre de trimestres de durée d'assurance, telle que définie à l'articl
 
 a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la rémunération cotisable associée à la valeur au 1er avril 2007 de l'indice 182 ;
 
-b) Lorsque la pension rémunère quinze années de services effectifs, à 57,5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2,5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par année de services effectifs de trente à quarante ans ;
+b) Lorsque la pension rémunère quinze années de services effectifs, à 57, 5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2, 5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0, 5 point par année de services effectifs de trente à quarante ans ;
 
 c) Lorsque la pension liquidée au motif d'invalidité rémunère moins de quinze années de services effectifs, à un quinzième du montant défini à l'alinéa précédent pour cette durée de quinze ans, par année de services effectifs ;
 
@@ -476,17 +478,19 @@ INVALIDITÉ
 
 Article 40
 
-L'admission à la retraite pour invalidité prévue au paragraphe 2 de l'article 7 est prononcée, soit à la demande de l'intéressé, soit d'office, au profit de l'agent titulaire qui se trouve dans l'incapacité permanente de continuer ses fonctions.
+L'admission à la retraite pour invalidité est prononcée, soit à la demande de l'intéressé, soit d'office, au profit de l'agent titulaire qui se trouve dans l'incapacité permanente de continuer ses fonctions. (2)
 
 L'admission à la retraite d'office est prononcée sans délai si l'incapacité résulte d'une maladie ou d'une infirmité que son caractère définitif et stabilisé ne rend pas susceptible de traitement ; elle intervient, dans le cas contraire, à l'expiration du congé de maladie prévu par le statut du personnel.
 
+Par dérogation à l'article 61, la pension rémunérant les services versée en application du premier alinéa est revalorisée dans les conditions fixées à l'article L. 341-6 du code de la sécurité sociale. (2)
+
 Article 41
 
-L'agent admis à la retraite pour invalidité en raison d'infirmités résultant de blessures ou de maladie contractées ou aggravées soit en service, soit en accomplissant un acte de dévouement dans un intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes a droit à une rente viagère d'invalidité cumulable avec la pension rémunérant les services.
+L'agent admis à la retraite pour invalidité en raison d'infirmités résultant de blessures ou de maladie contractées ou aggravées soit en service, soit en accomplissant un acte de dévouement dans un intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes a droit à une rente viagère d'invalidité cumulable, selon les modalités définies à l'article 45, avec la pension rémunérant les services. Cette rente est liquidée, concédée, payée et revalorisée dans les mêmes conditions que la pension prévue à l'article 40.
 
 Le droit à cette rente est également ouvert à l'agent retraité qui est atteint d'une maladie professionnelle dont l'imputabilité au service est reconnue par la commission de réforme postérieurement à la date de la radiation des cadres, dans les conditions définies à l'article 42. Dans ce cas, la jouissance de la rente prend effet à la date du dépôt de la demande de l'intéressé. Il en est également ainsi lorsque l'entrée en jouissance de la pension est différée en application de l'article 26 d du présent règlement.
 
-Le montant de la rente d'invalidité est fixé à la fraction de la rémunération cotisable égale au pourcentage d'invalidité. Si le montant de cette rémunération cotisable dépasse un montant correspondant à la valeur de l'indice 836 au 1er avril 2007, la fraction dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois ce montant brut.
+Le montant de la rente d'invalidité est fixé à la fraction de la rémunération cotisable égale au pourcentage d'invalidité. Si le montant de cette rémunération cotisable dépasse un montant correspondant à la valeur de l'indice 836 au 1er avril 2007, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale, la fraction dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois ce montant brut.
 
 Article 42
 
@@ -506,7 +510,7 @@ Le pouvoir de décision appartient, dans tous les cas, au gouverneur.
 
 Article 43
 
-L'agent dont la mise à la retraite a été prononcée en vertu de l'article 42 et qui est reconnu, après avis de la commission de réforme, apte à reprendre l'exercice de ses fonctions peut être réintégré dans un emploi de son grade s'il existe une vacance. La pension d'invalidité prévue à l'article 7 est annulée à compter de la date d'effet de la réintégration.
+L'agent dont la mise à la retraite a été prononcée en vertu de l'article 42 et qui est reconnu, après avis de la commission de réforme, apte à reprendre l'exercice de ses fonctions peut être réintégré dans un emploi de son grade s'il existe une vacance. La pension d'invalidité prévue à l'article 40 est annulée à compter de la date d'effet de la réintégration.
 
 Article 44
 
@@ -514,17 +518,17 @@ La pension d'invalidité liquidée en exécution des dispositions des articles 4
 
 Article 45
 
-Lorsque, à la date de mise à la retraite, le taux d'invalidité est au moins égal à 60 %, le montant de la pension ne peut être inférieur à 50 % de la rémunération définie à l'article 30 compte non tenu de la majoration éventuelle accordée en application du troisième alinéa du présent article.
+Lorsque, à la date de mise à la retraite, le taux d'invalidité est au moins égal à 60 %, le montant de la pension ne peut être inférieur à 50 % de la rémunération définie à l'article 30 et revalorisée dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale, compte non tenu de la majoration éventuelle accordée en application du troisième alinéa du présent article.
 
-Ce montant est porté à 80 % des émoluments si l'invalidité résulte d'un attentat ou d'une lutte dans l'exercice des fonctions ou d'un acte de dévouement dans un intérêt public ou du fait que l'intéressé a exposé ses jours pour sauver la vie d'une ou plusieurs personnes.
+Ce montant est porté à 80 % de la rémunération, revalorisée dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale, si l'invalidité résulte d'un attentat ou d'une lutte dans l'exercice des fonctions ou d'un acte de dévouement dans un intérêt public ou du fait que l'intéressé a exposé ses jours pour sauver la vie d'une ou plusieurs personnes.
 
-En outre, si l'agent est dans l'obligation d'avoir recours d'une manière constante à l'assistance d'une tierce personne pour accomplir les actes ordinaires de la vie, il a droit à une majoration spéciale dont le montant est calculé dans les conditions prévues à l'article R. 341-6 du code de la sécurité sociale.
+En outre, si l'agent est dans l'obligation d'avoir recours d'une manière constante à l'assistance d'une tierce personne pour accomplir les actes ordinaires de la vie, il a droit à une majoration spéciale dont le montant est calculé et revalorisé dans les conditions prévues à l'article R. 341-6 du code de la sécurité sociale.
 
 Cette majoration est accordée à titre définitif ou pour une durée fixée par la commission de réforme. A l'expiration de cette période, les droits des intéressés font l'objet d'un nouvel examen et la majoration est soit accordée à titre définitif s'il est reconnu que le titulaire continue de recueillir les conditions pour en bénéficier, soit, dans le cas contraire, supprimée. Postérieurement, elle peut être à tout moment rétablie suivant la même procédure à compter de la date de la demande du pensionné si celui-ci justifie être à nouveau en droit d'y prétendre.
 
 Cette majoration n'est pas cumulable à concurrence de son montant avec toute autre prestation ayant le même objet.
 
-En aucun cas, le montant total des prestations accordées à l'agent invalide ne peut excéder le montant de la rémunération cotisable visée à l'article 3. Exception est faite pour la majoration visée au troisième alinéa du présent article qui est perçue en toutes circonstances indépendamment de ce plafond.
+Sans préjudice du plafond fixé au IV de l'article 35, le montant total des prestations accordées à l'agent invalide, à l'exclusion des majorations prévues à l'article 35 et au troisième alinéa du présent article, ne peut excéder le montant de la rémunération cotisable mentionnée à l'article 3 et revalorisée dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. En cas de dépassement, le montant de chaque prestation est réduit à due proportion.
 
 Article 46
 
@@ -546,7 +550,7 @@ A la pension de réversion s'ajoutent éventuellement :
 
 2° La moitié de la majoration prévue à l'article 35 dont bénéficiait l'agent ou dont il aurait pu bénéficier. Cet avantage n'est servi qu'au conjoint qui a élevé, dans les conditions fixées audit article 35, les enfants ouvrant droit à cette majoration.
 
-Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à l'allocation de solidarité aux personnes âgées instituée par l'article L. 815-1 du code de la sécurité sociale, quelle que soit la date de sa liquidation.
+Le total de la pension de réversion, quelle que soit la date de sa mise en paiement, et des autres ressources de son bénéficiaire ne peut être inférieur à celui de l'allocation de solidarité aux personne âgées instituée par l'article L. 815-1 du code de la sécurité sociale.
 
 Article 48
 
@@ -556,7 +560,7 @@ Toutefois, si l'agent est décédé en activité, ou s'il bénéficiait d'une pe
 
 Article 49
 
-Le conjoint séparé de corps et le conjoint divorcé ont droit à la pension prévue soit au premier alinéa de l'article 47, soit à l'article 51. Le conjoint divorcé qui s'est remarié avant le décès de l'agent et qui, à la cessation de cette union, ne bénéficie d'aucun droit à pension de réversion peut faire valoir ce droit s'il n'est pas ouvert au profit d'un autre ayant cause.
+Le conjoint divorcé a droit à la pension prévue soit au premier alinéa de l'article 47, soit à l'article 51. Le conjoint divorcé qui s'est remarié avant le décès de l'agent et qui, à la cessation de cette union, ne bénéficie d'aucun droit à pension de réversion peut faire valoir ce droit s'il n'est pas ouvert au profit d'un autre ayant cause.
 
 Article 50
 
@@ -566,9 +570,7 @@ Au décès de l'un des bénéficiaires, sa part passe le cas échéant aux orphe
 
 Article 51
 
-Lorsqu'un agent décède à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion concédée au conjoint, augmentée le cas échéant de la rente due au titre de la législation sur les accidents du travail, ne peut être inférieure à un montant correspondant à la rémunération soumise à retenue afférente à l'indice 182.
-
-Dans tous les cas, ce minimum garanti est revalorisé dans les mêmes conditions que les pensions.
+Lorsqu'un agent décède à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion concédée au conjoint, augmentée le cas échéant de la rente due au titre de la législation sur les accidents du travail, ne peut être inférieure à un montant correspondant à la rémunération soumise à retenue afférente à l'indice 182, revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. (2)
 
 Article 52
 
@@ -632,9 +634,7 @@ Article 59
 
 Le cumul par un conjoint survivant de plusieurs pensions détenues, au titre du présent règlement, du chef d'agents différents, est prohibé, seule la plus élevée est servie.
 
-Un orphelin peut cumuler les deux pensions de réversion obtenues, du chef de son père et de sa mère, au titre du présent règlement.
-
-Il ne peut cumuler les pensions de réversion obtenues du chef de son père et celles obtenues d'un père adoptif ; il ne peut cumuler les pensions de réversion obtenues du chef de sa mère et celles obtenues du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réversion la plus favorable.
+Un orphelin peut cumuler au maximum deux pensions de réversion obtenues du chef de ses parents au titre du présent règlement.
 
 TITRE VIII
 
@@ -800,7 +800,7 @@ I. - Jusqu'au 1er juillet 2011, par dérogation au premier alinéa de l'article 
 <td valign="top" width="349">
 <p align="left">Jusqu'au 31 mars 2007 </p>
 <p align="left">2e trimestre 2007 </p>
-<p align="left">2e semestre 2007 </p>
+<p>2e semestre 2007 </p>
 <p align="left">1er semestre 2008 </p>
 <p>2e semestre 2008 </p>
 <p align="left">1er semestre 2009 </p>
@@ -825,7 +825,21 @@ I. - Jusqu'au 1er juillet 2011, par dérogation au premier alinéa de l'article 
 </tbody>
 </table>
 
-II. - A compter du 1er janvier 2012, la durée d'assurance nécessaire pour bénéficier d'une pension de retraite à taux plein et la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum visé à l'article 31 sont majorées d'un trimestre par semestre dans la limite du nombre de trimestres exigés des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+II. - A compter du 1er janvier 2012, la durée des services et bonifications nécessaire pour obtenir le pourcentage maximum, fixé en fonction de la date à laquelle l'agent est susceptible de liquider sa pension en application de l'article 26, est majorée d'un trimestre par semestre jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2014.
+
+III. - A compter du 1er janvier 2018, la durée de services et bonifications est fixée à :
+
+167 trimestres, pour les agents nés entre le 1er janvier 1958 et le 31 décembre 1960 ;
+
+168 trimestres, pour les agents nés entre le 1er janvier 1961 et le 31 décembre 1963 ;
+
+169 trimestres, pour les agents nés entre le 1er janvier 1964 et le 31 décembre 1966 ;
+
+170 trimestres, pour les agents nés entre le 1er janvier 1967 et le 31 décembre 1969 ;
+
+171 trimestres, pour les agents nés entre le 1er janvier 1970 et le 31 décembre 1972 ;
+
+172 trimestres, pour les agents nés à compter du 1er janvier 1973.
 
 Article 70
 
@@ -845,12 +859,13 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 <p align="center">TAUX DU COEFFICIENT<br/>de minoration<br/>par trimestre </p>
 </td>
 <td colspan="5">
-<p align="center">ÂGE AUQUEL<br/>le coefficient<br/>s'annule</p>
+<p align="center">ÂGE AUQUEL<br/>le coefficient<br/>s'annule </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Jusqu'au 2e semestre 1948 <br/>
+<p>Jusqu'au 2e semestre 1948 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Sans objet <br/>
@@ -861,7 +876,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1949 <br/>
+<p>1er semestre 1949 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,125 % <br/>
@@ -872,7 +888,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1949 <br/>
+<p>2e semestre 1949 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,125 % <br/>
@@ -883,7 +900,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1950 <br/>
+<p>1er semestre 1950 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,250 % <br/>
@@ -894,7 +912,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1950 <br/>
+<p>2e semestre 1950 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,250 % <br/>
@@ -905,7 +924,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1951 <br/>
+<p>1er semestre 1951 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,375 % <br/>
@@ -916,7 +936,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1951 <br/>
+<p>2e semestre 1951 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,375 % <br/>
@@ -927,7 +948,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1952 <br/>
+<p>1er semestre 1952 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,500 % <br/>
@@ -938,7 +960,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1952 <br/>
+<p>2e semestre 1952 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,500 % <br/>
@@ -949,7 +972,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1953 <br/>
+<p>1er semestre 1953 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,625 % <br/>
@@ -960,7 +984,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1953 <br/>
+<p>2e semestre 1953 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,625 % <br/>
@@ -971,7 +996,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1954 <br/>
+<p>1er semestre 1954 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,750 % <br/>
@@ -982,7 +1008,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1954 <br/>
+<p>2e semestre 1954 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,750 % <br/>
@@ -993,7 +1020,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1955 <br/>
+<p>1er semestre 1955 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,875 % <br/>
@@ -1004,7 +1032,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1955 <br/>
+<p>2e semestre 1955 <br/>
+</p>
 </td>
 <td align="center">
 <br/>0,875 % <br/>
@@ -1015,7 +1044,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1956 <br/>
+<p>1er semestre 1956 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,000 % <br/>
@@ -1026,7 +1056,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1956 <br/>
+<p>2e semestre 1956 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,000 % <br/>
@@ -1037,7 +1068,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1957 <br/>
+<p>1er semestre 1957 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,125 % <br/>
@@ -1048,7 +1080,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1957 <br/>
+<p>2e semestre 1957 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,125 % <br/>
@@ -1059,7 +1092,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1958 <br/>
+<p>1er semestre 1958 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1070,7 +1104,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1958 <br/>
+<p>2e semestre 1958 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1081,7 +1116,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1959 <br/>
+<p>1er semestre 1959 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1092,7 +1128,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1959 <br/>
+<p>2e semestre 1959 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1103,7 +1140,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1960 <br/>
+<p>1er semestre 1960 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1114,7 +1152,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1960 <br/>
+<p>2e semestre 1960 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1125,7 +1164,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1961 <br/>
+<p>1er semestre 1961 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1136,7 +1176,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1961 <br/>
+<p>2e semestre 1961 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1147,7 +1188,8 @@ Pour les agents nés avant le 1er janvier 1963, sont fixés comme indiqué dans 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1962 <br/>
+<p>1er semestre 1962 <br/>
+</p>
 </td>
 <td align="center">
 <br/>1,250 % <br/>
@@ -1168,18 +1210,20 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 <p align="center">PÉRIODE DE NAISSANCE </p>
 </td>
 <td>
-<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents des 4e et 5e degrés) </p>
+<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents des 4e et 5e degrés)</p>
 </td>
 <td>
-<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents du 6e degré)</p>
+<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule <br/>(agents du 6e degré)</p>
 </td>
 <td colspan="4">
-<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents du 7e degré) </p>
+<p align="center">ÂGE AUQUEL LE COEFFICIENT s'annule<br/>(agents du 7e degré) <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Jusqu'au 2e semestre 1948 <br/>
+<p>Jusqu'au 2e semestre 1948 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Sans objet <br/>
@@ -1193,7 +1237,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1949 <br/>
+<p>1er semestre 1949 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1207,7 +1252,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1949 <br/>
+<p>2e semestre 1949 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1221,7 +1267,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1950 <br/>
+<p>1er semestre 1950 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1235,7 +1282,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1950 <br/>
+<p>2e semestre 1950 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1249,7 +1297,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1951 <br/>
+<p>1er semestre 1951 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1263,7 +1312,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1951 <br/>
+<p>2e semestre 1951 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1277,7 +1327,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1952 <br/>
+<p>1er semestre 1952 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 8 trimestres <br/>
@@ -1291,7 +1342,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1952 <br/>
+<p>2e semestre 1952 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 8 trimestres <br/>
@@ -1305,7 +1357,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1953 <br/>
+<p>1er semestre 1953 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 9 trimestres <br/>
@@ -1319,7 +1372,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1953 <br/>
+<p>2e semestre 1953 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 9 trimestres <br/>
@@ -1333,7 +1387,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1954 <br/>
+<p>1er semestre 1954 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 9 trimestres <br/>
@@ -1347,7 +1402,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1954 <br/>
+<p>2e semestre 1954 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 8 trimestres <br/>
@@ -1361,7 +1417,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>1er semestre 1955 <br/>
+<p>1er semestre 1955 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 8 trimestres <br/>
@@ -1375,7 +1432,8 @@ Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de 
 </tr>
 <tr>
 <td align="center">
-<br/>2e semestre 1955 <br/>
+<p>2e semestre 1955 <br/>
+</p>
 </td>
 <td align="center">
 <br/>Lim. âge - 7 trimestres <br/>
@@ -1611,23 +1669,23 @@ g) A soixante et un ans et six mois pour les agents nés au deuxième semestre 1
 
 h) A soixante et un ans et neuf mois pour les agents nés au premier semestre 1959 ;
 
-2° L'âge d'ouverture du droit à pension de cinquante-sept ans mentionné au quatrième et au dixième alinéas de l'article 26 s'applique aux agents nés à compter du 1er juillet 1959. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
+2° L'âge d'ouverture du droit à pension de cinquante-sept ans mentionné au quatrième alinéa de l'article 26 s'applique aux agents nés à compter du 1er juillet 1964. Pour les agents nés antérieurement à cette date, cet âge est abaissé :
 
-a) A cinquante-cinq ans pour les agents nés avant le 1er janvier 1956 ;
+a) A cinquante-cinq ans pour les agents nés avant le 1er janvier 1961 ;
 
-b) A cinquante-cinq ans et trois mois pour les agents nés au premier semestre 1956 ;
+b) A cinquante-cinq ans et trois mois pour les agents nés au premier semestre 1961 ;
 
-c) A cinquante-cinq ans et six mois pour les agents nés au deuxième semestre 1956 ;
+c) A cinquante-cinq ans et six mois pour les agents nés au second semestre 1961 ;
 
-d) A cinquante-cinq ans et neuf mois pour les agents nés au premier semestre 1957 ;
+d) A cinquante-cinq ans et neuf mois pour les agents nés au premier semestre 1962 ;
 
-e) A cinquante-six ans pour les agents nés au deuxième semestre 1957 ;
+e) A cinquante-six ans pour les agents nés au second semestre 1962 ;
 
-f) A cinquante-six ans et trois mois pour les agents nés au premier semestre 1958 ;
+f) A cinquante-six ans et trois mois pour les agents nés au premier semestre 1963 ;
 
-g) A cinquante-six ans et six mois pour les agents nés au deuxième semestre 1958 ;
+g) A cinquante-six ans et six mois pour les agents nés au second semestre 1963 ;
 
-h) A cinquante six ans et neuf mois pour les agents nés au premier semestre 1959 ;
+h) A cinquante-six ans et neuf mois pour les agents nés au premier semestre 1964 ;
 
 3° a) Par dérogation à l'article 26, les agents ayant accompli quinze années de services effectifs avant le 1er janvier 2019 et parents avant le 1er janvier 2016 de trois enfants vivants, ou décédés par faits de guerre, conservent la possibilité de liquider leur pension par anticipation au plus tard le 1er janvier 2019 à condition d'avoir, pour chaque enfant, interrompu ou réduit leur activité dans les conditions fixées par l'article 27.
 
@@ -1649,10 +1707,11 @@ III. - A titre transitoire, l'âge mentionné au premier alinéa de l'article 34
 <tbody>
 <tr>
 <td>
-<p align="center">ANNÉE AU COURS<br/>de laquelle est atteint<br/>l'âge d'ouverture du droit<br/>à une pension de retraite </p>
+<p align="center">ANNÉE AU COURS<br/>de laquelle est atteint<br/>l'âge d'ouverture du droit<br/>à une pension de retraite <br/>
+</p>
 </td>
 <td colspan="6">
-<p align="center">NOMBRE DE TRIMESTRES<br/>minorant l'âge mentionné<br/>au premier alinéa<br/>de l'article 34</p>
+<p align="center">NOMBRE DE TRIMESTRES<br/>minorant l'âge mentionné<br/>au premier alinéa<br/>de l'article 34 </p>
 </td>
 </tr>
 <tr>
@@ -1697,3 +1756,7 @@ III. - A titre transitoire, l'âge mentionné au premier alinéa de l'article 34
 </tr>
 </tbody>
 </table>
+
+(1) Applicable aux pensions prenant effet au 1er janvier 2016.
+
+(2) Les dispositions sont applicables aux pensions, rentes et majorations dues à compter du mois d'avril 2014 ainsi qu'aux rémunérations et indices servant à leur calcul.
