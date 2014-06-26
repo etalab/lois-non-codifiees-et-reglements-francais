@@ -4,9 +4,9 @@ I.-1° Par dérogation à l'article 6, les agents ayant accompli quinze années 
 
 Sont assimilées à l'interruption ou à la réduction d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné lieu à cotisation obligatoire dans un régime de retraite de base, dans les conditions fixées au b du 1° de l'article 6.
 
-Sont assimilés aux enfants mentionnés au premier alinéa du présent 1° les enfants énumérés au b du 1° de l'article 6 que l'intéressé a élevés dans les conditions prévues au même b.
+Sont assimilés aux enfants mentionnés au premier alinéa du présent 1°, les enfants énumérés au II de l'article 25 que les intéressés ont élevés dans les conditions prévues au III du même article.
 
-2° A compter du 1er janvier 2017, pour l'application du VI de l'article 5 de la loi du 21 août 2003 susvisée et des I et II de l'article 51 du présent décret aux agents mentionnés au 1° du présent II, l'année prise en compte est celle au cours de laquelle ils atteignent l'âge prévu au dernier alinéa du I de l'article 5 de la loi du 21 août 2003 susvisée ou, le cas échéant, l'âge prévu aux 2° et 3° de l'article 6 du présent décret. Si cet âge est atteint après le 30 juin 2019, le coefficient de minoration applicable est celui prévu au premier alinéa du I de l'article 24. Lorsque la durée de services et bonifications correspondant à cette année n'est pas fixée, la durée exigée est celle correspondant à la dernière génération pour laquelle elle a été fixée.
+2° A compter du 1er janvier 2017, pour l'application de l'article 23-1 et des I et II de l'article 51 aux agents mentionnés au 1° du présent I, l'année prise en compte est celle au cours de laquelle ils atteignent l'âge de soixante ans, ou le cas échéant, l'âge prévu aux 2° et 3° de l'article 6 du présent décret. Si cet âge est atteint après le 30 juin 2019, le coefficient de minoration applicable est celui prévu au premier alinéa du I de l'article 24.
 
 3° La caisse de retraites du personnel de la Régie autonome des transports parisiens informe, avant le 1er janvier 2016, les agents ayant accompli quinze années de services effectifs et parents de trois enfants vivants ou décédés pour faits de guerre du changement des règles de départ anticipé à la retraite.
 
