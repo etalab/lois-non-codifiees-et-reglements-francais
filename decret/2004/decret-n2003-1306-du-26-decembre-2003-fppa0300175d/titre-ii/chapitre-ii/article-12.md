@@ -10,11 +10,11 @@ Les périodes d'études accomplies dans les établissements, écoles et classes 
 
 Cette prise en compte porte sur douze trimestres au plus, sous réserve du versement des cotisations nécessaires dans des conditions de neutralité actuarielle pour le régime selon un barème et des modalités de paiement définis par décret.
 
+Par dérogation aux conditions prévues au cinquième alinéa, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant spécifique.
+
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne peuvent également être prises en compte.
 
 L'admission dans les grandes écoles et classes du second degré préparatoires à ces écoles est assimilée à l'obtention d'un diplôme.
-
-Ces trimestres d'études ne doivent pas avoir donné lieu à une affiliation à un régime de retraite de base obligatoire.
 
 Sur demande du fonctionnaire et sur présentation de la copie du diplôme, la Caisse nationale de retraites des agents des collectivités locales établit une proposition de rachat.
 

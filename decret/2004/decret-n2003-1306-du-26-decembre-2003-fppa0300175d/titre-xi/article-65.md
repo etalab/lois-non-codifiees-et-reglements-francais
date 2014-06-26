@@ -11,14 +11,14 @@ II. - Jusqu'au 31 décembre 2008, est fixé comme indiqué dans le tableau suiva
 <tr>
 <td align="left" valign="middle">
 <p align="center">
-<strong>ANNEE <br/>
-</strong>
+<b>ANNEE <br/>
+</b>
 <br/>au cours de laquelle sont réunies les conditions mentionnées à l'article 25</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>NOMBRE DE TRIMESTRES <br/>
-</strong>
+<b>NOMBRE DE TRIMESTRES <br/>
+</b>
 <br/>nécessaire pour obtenir le pourcentage maximum de la pension civile ou militaire </p>
 <p>(art. 16)</p>
 </td>
@@ -85,21 +85,21 @@ III. - Jusqu'au 31 décembre 2019, sont fixés comme indiqué dans le tableau su
 <tr>
 <td align="left" valign="middle">
 <p align="center">
-<strong>ANNEE</strong>
+<b>ANNEE</b>
 </p>
 <p>au cours de laquelle sont réunies les conditions mentionnées à l'article 25</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>TAUX <br/>
-</strong>
+<b>TAUX <br/>
+</b>
 <br/>du coefficient de minoration par trimestre </p>
 <p>(2e alinéa du I de l'article 20)</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>AGE <br/>
-</strong>
+<b>AGE <br/>
+</b>
 <br/>auquel le coefficient de minoration s'annule, exprimé par rapport à la limite d'âge du grade. </p>
 <p>(quatrième alinéa du I de l'article 20)</p>
 </td>
@@ -280,44 +280,44 @@ La révision des pensions des ayants cause intervient dans les mêmes conditions
 
 En aucun cas, la révision de la pension ne peut conduire à une diminution de la pension liquidée antérieurement à son intervention.
 
-V. - Les pensions portées au minimum garanti avant l'entrée en vigueur de la présente loi sont revalorisées dans les conditions de l'article 19 à compter du 1er janvier 2004.
+V. - Les pensions portées au minimum garanti avant l'entrée en vigueur  du présent décret  sont revalorisées dans les conditions de l'article 19 à compter du 1er janvier 2004.
 
-Jusqu'au 31 décembre 2013, les dispositions présentées dans le tableau suivant sont applicables, par dérogation aux 1 et 2 de l'article 22, et le montant qui en résulte sert, le cas échéant, de référence pour l'application du c du même article :
+Jusqu'au 31 décembre 2013, les dispositions présentées dans le tableau suivant sont applicables, par dérogation aux 1° et 2° de l'article 22, et le montant qui en résulte sert, le cas échéant, de référence pour l'application du 3° du même article  :
 
 <table>
 <tbody>
 <tr>
 <td align="left" valign="middle">
 <p align="center">
-<strong>POUR </strong>
+<b>POUR </b>
 </p>
 <p>les pensions liquidés en :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>LORSQUE LA PENSION</strong> rémunère 15 années de service effectifs, son montant ne peut être inférieur à :</p>
+<b>LORSQUE LA PENSION</b> rémunère 15 années de service effectifs, son montant ne peut être inférieur à :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>DU MONTANT</strong>
+<b>DU MONTANT</b>
 </p>
 <p>correspondant à la valeur, au 1<sup>er</sup> janvier 2004 de l'indice majoré</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>CETTE FRACTION</strong>
+<b>CETTE FRACTION</b>
 </p>
 <p>étant augmentée de :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>PAR ANNEE</strong>
+<b>PAR ANNEE</b>
 </p>
 <p>supplémentaire de services de quinze à :</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">
-<strong>ET, PAR ANNEE</strong>
+<b>ET, PAR ANNEE</b>
 </p>
 <p align="justify">supplémentaire au-delà de cette dernière durée jusqu'à quarante ans, de :</p>
 </td>

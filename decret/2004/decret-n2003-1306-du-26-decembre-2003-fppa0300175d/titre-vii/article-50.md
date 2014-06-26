@@ -2,7 +2,7 @@
 
 I. - La validation des services visés à l'article 8 doit être demandée dans les deux années qui suivent la date de la notification de la titularisation. Chaque nouvelle titularisation dans un grade ouvre un délai de deux années pour demander la validation de l'ensemble des services.
 
-Pour les fonctionnaires titulaires occupant un emploi à temps non complet, le délai de deux ans court à compter de l'affiliation au régime de la Caisse nationale de retraites des agents des collectivités locales.
+Pour les fonctionnaires titulaires occupant un emploi à temps non complet, le délai de deux ans court à compter de l'affiliation au régime de la Caisse nationale de retraites des agents des collectivités locales. Cette affiliation doit être intervenue au plus tard le 1er janvier 2015.
 
 Le délai dont dispose le fonctionnaire pour accepter ou refuser la notification de la validation est d'un an. Le silence gardé par le fonctionnaire pendant ce délai vaut refus. L'acceptation ou le refus sont irrévocables.
 
