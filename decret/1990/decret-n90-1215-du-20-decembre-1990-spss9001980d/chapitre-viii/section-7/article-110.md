@@ -1,8 +1,8 @@
 # Article 110
 
-I. - Lors de la cessation définitive des fonctions, le service de la pension suspendue est repris pour son même montant, sous réserve des revalorisations applicables à toutes les pensions ; lorsque la cessation définitive intervient après  soixante-sept ans, il n'y a pas lieu d'appliquer d'autres majorations au titre du troisième alinéa du I de l'article 85, que celles éventuellement acquises lors de la liquidation de la pension suspendue.
+I. - Lors de la cessation définitive des fonctions, le service de la pension suspendue est repris pour son même montant, sous réserve des revalorisations applicables à toutes les pensions ; lorsque la cessation définitive intervient après soixante-sept ans, il n'y a pas lieu d'appliquer d'autres majorations au titre du troisième alinéa du I de l'article 85, que celles éventuellement acquises lors de la liquidation de la pension suspendue.
 
-Toutefois, il y a révision de la pension lorsque la pension initiale a été liquidée sans condition d'âge au profit d'une mère ou d'un père de famille remplissant les conditions fixées au 2° de l'article 84 et sous réserve :
+Toutefois, il y a révision de la pension lorsque la pension initiale a été liquidée sans condition d'âge au profit d'un parent remplissant les conditions fixées au 2° de l'article 84 et sous réserve :
 
 1° Que la reprise soit supérieure à un trimestre ;
 

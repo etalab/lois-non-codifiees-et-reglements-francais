@@ -12,6 +12,6 @@ b) Soit la date de l'accident ayant entraîné l'invalidité ;
 
 c) Soit la date de la constatation médicale de l'invalidité résultant de l'usure prématurée de l'organisme.
 
-3° Le salaire servant de base au calcul de la pension d'invalidité est pris en compte dans les mêmes conditions que celles fixées à l'article 89, y compris lorsque l'assuré ne compte pas dix années d'assurance ; le plafonnement prévu à l'article R. 341-5, deuxième alinéa, du code de la sécurité sociale n'est pas applicable ;
+3° Le salaire servant de base au calcul de la pension d'invalidité est pris en compte dans les mêmes conditions que celles fixées aux deux premiers alinéas de l'article 89, y compris lorsque l'assuré ne compte pas dix années d'assurance ; le plafonnement prévu à l'article R. 341-5, deuxième alinéa, du code de la sécurité sociale n'est pas applicable ; ce salaire est revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
 
 4° En aucun cas, pour la détermination du salaire annuel moyen, les salaires afférents à une période postérieure à la date prévue au 2° ne peuvent être retenus.
