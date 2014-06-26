@@ -8,7 +8,7 @@ Pour l'application des dispositions qui précèdent, sont assimilés aux enfants
 
 Les dispositions prévues à l'alinéa précédent sont également applicables aux enfants atteints, après le décès du tributaire mais avant leur vingt et unième année révolue, d'une infirmité permanente les mettant dans l'impossibilité de gagner leur vie.
 
-Les enfants adoptifs sont assimilés aux orphelins de père et de mère.
+Les enfants adoptifs sont assimilés aux orphelins de deux parents.
 
 Aucune condition d'antériorité de la naissance par rapport à la cessation de fonctions du tributaire n'est exigée des orphelins de père et de mère.
 
