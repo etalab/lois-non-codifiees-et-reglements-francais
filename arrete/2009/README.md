@@ -1279,7 +1279,6 @@
 - [Arrêté du 17 juillet 2009 (IOCC0911362A)](arrete-du-17-juillet-2009-iocc0911362a)
 - [Arrêté du 17 juillet 2009 (JUSF0918551A)](arrete-du-17-juillet-2009-jusf0918551a)
 - [Arrêté du 17 juillet 2009 (JUSF0918554A)](arrete-du-17-juillet-2009-jusf0918554a)
-- [Arrêté du 17 juillet 2009 (JUSK0917183A)](arrete-du-17-juillet-2009-jusk0917183a)
 - [Arrêté du 17 juillet 2009 (MEND0910795A)](arrete-du-17-juillet-2009-mend0910795a)
 - [Arrêté du 17 juillet 2009 (SASR0916781A)](arrete-du-17-juillet-2009-sasr0916781a)
 - [Arrêté du 17 juin 2009 (AGRG0913902A)](arrete-du-17-juin-2009-agrg0913902a)

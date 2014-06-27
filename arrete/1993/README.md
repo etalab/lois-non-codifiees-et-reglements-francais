@@ -502,8 +502,6 @@
 - [Arrêté du 18 novembre 1993 (COMA9300024A)](arrete-du-18-novembre-1993-coma9300024a)
 - [Arrêté du 18 novembre 1993 (EQUS9301724A)](arrete-du-18-novembre-1993-equs9301724a)
 - [Arrêté du 18 novembre 1993 (INDP9320542A)](arrete-du-18-novembre-1993-indp9320542a)
-- [Arrêté du 18 novembre 1993 (JUSE9340131A)](arrete-du-18-novembre-1993-juse9340131a)
-- [Arrêté du 18 novembre 1993 (JUSE9340132A)](arrete-du-18-novembre-1993-juse9340132a)
 - [Arrêté du 18 octobre 1994 (SPSH9402163A)](arrete-du-18-octobre-1994-spsh9402163a)
 - [Arrêté du 18 mai 1993 (INDB9300466A)](arrete-du-18-mai-1993-indb9300466a)
 - [Arrêté du 18 mai 1993 (INDB9300467A)](arrete-du-18-mai-1993-indb9300467a)

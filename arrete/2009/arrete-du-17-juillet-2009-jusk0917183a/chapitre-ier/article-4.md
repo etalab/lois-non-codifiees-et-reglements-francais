@@ -1,3 +1,0 @@
-# Article 4
-
-Les formateurs des personnels et les responsables de formation de l'administration pénitentiaire ont pour mission de procéder aux actions de formation professionnelle tout au long de la vie sur leur initiative ou lorsqu'elles sont demandées par une autorité qualifiée. Par la mise en œuvre de l'ensemble des moyens dont ils disposent, ils prennent part au processus de professionnalisation des agents et participent aux opérations de recrutement et de promotion des métiers pénitentiaires. Ils peuvent être appelés à se déplacer en France et à l'étranger dans l'exercice de leurs fonctions.
