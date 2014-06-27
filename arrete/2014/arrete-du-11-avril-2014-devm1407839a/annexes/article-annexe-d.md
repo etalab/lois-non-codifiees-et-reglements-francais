@@ -1,175 +1,125 @@
 # Article Annexe D
 
+Hareng, maquereau, chinchard
+
 <table>
 <tbody>
 <tr>
-<td valign="top" width="132">
-<p align="center">Nom du port</p>
+<td>
+<p align="center"> NOM DU PORT</p>
 </td>
-<td valign="top" width="132">
-<p align="center">Code postal</p>
+<td>
+<p align="center">CODE POSTAL </p>
 </td>
-<td valign="top" width="132">
-<p align="center">Jours et heures obligatoires pour le débarquement (heure locale)</p>
+<td>
+<p align="center"> JOURS ET HEURES <br/>obligatoires <br/>pour le débarquement <br/>(heure locale)</p>
 </td>
-<td valign="top" width="132">
-<p align="center">Délai de notification préalable de débarquement (si différent de 4 heures)</p>
+<td>
+<p align="center"> DÉLAI DE NOTIFICATION <br/>préalable de débarquement <br/>(si différent de 4 heures)</p>
 </td>
-<td valign="top" width="132">
-<p align="center">Restrictions supplémentaires au débarquement</p>
-</td>
-</tr>
-<tr>
-<td width="132">
-<p>BOULOGNE-SUR-MER</p>
-</td>
-<td width="132">
-<p align="center">62200</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<p align="center">2 heures</p>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>DIEPPE</p>
-</td>
-<td width="132">
-<p align="center">76200</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<p align="center">2 heures</p>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>FECAMP</p>
-</td>
-<td width="132">
-<p align="center">76400</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<p align="center">2 heures</p>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>CHERBOURG</p>
-</td>
-<td width="132">
-<p align="center">50100</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<p align="center">2 heures</p>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>DOUARNENEZ</p>
-</td>
-<td width="132">
-<p align="center">29100</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<br/>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>LOCTUDY</p>
-</td>
-<td width="132">
-<p align="center">29750</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<br/>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>SAINT-GUENOLE</p>
-</td>
-<td width="132">
-<p align="center">29760</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<br/>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>CONCARNEAU</p>
-</td>
-<td width="132">
-<p align="center">29900</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<br/>
-</td>
-<td valign="bottom" width="132"/>
-</tr>
-<tr>
-<td width="132">
-<p>LORIENT</p>
-</td>
-<td width="132">
-<p align="center">56100</p>
-</td>
-<td width="132">
-<p align="center">Tous les jours de 0h à 5h et de 8h à minuit</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td valign="bottom" width="132">
-<p>L’heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l’heure d’arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l’heure qui suit l’arrivée au port, soit l’heure est fixée par le service de contrôle.</p>
+<td>
+<p align="center"> RESTRICTIONS SUPPLÉMENTAIRES <br/>au débarquement</p>
 </td>
 </tr>
 <tr>
-<td width="132">
-<p>SAINT-JEAN-DE-LUZ</p>
-</td>
-<td width="132">
-<p align="center">64500</p>
-</td>
-<td width="132">
-<br/>
-</td>
-<td width="132">
-<br/>
-</td>
-<td valign="bottom" width="132"/>
+<td align="left">
+<br/>BOULOGNE-SUR-MER</td>
+<td align="center">
+<br/>62200</td>
+<td align="center"/>
+<td align="left">
+<br/>2 heures</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>DIEPPE</td>
+<td align="center">
+<br/>76200</td>
+<td align="center"/>
+<td align="left">
+<br/>2 heures</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>FECAMP</td>
+<td align="center">
+<br/>76400</td>
+<td align="center"/>
+<td align="left">
+<br/>2 heures</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>CHERBOURG</td>
+<td align="center">
+<br/>50100</td>
+<td align="center"/>
+<td align="left">
+<br/>2 heures</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>DOUARNENEZ</td>
+<td align="center">
+<br/>29100</td>
+<td align="center"/>
+<td>
+<br/>2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>LOCTUDY</td>
+<td align="center">
+<br/>29750</td>
+<td align="center"/>
+<td>
+<br/>2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>SAINT-GUENOLE</td>
+<td align="center">
+<br/>29760</td>
+<td align="center"/>
+<td>
+<br/>2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>CONCARNEAU</td>
+<td align="center">
+<br/>29900</td>
+<td align="center"/>
+<td>
+<br/>2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="left">
+<br/>LORIENT</td>
+<td align="center">
+<br/>56100</td>
+<td>
+<br/>Tous les jours de 0 heure à 5 heures et de 8 heures à minuit</td>
+<td align="center"/>
+<td>
+<br/>L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle.</td>
+</tr>
+<tr>
+<td align="left">
+<br/>SAINT-JEAN-DE-LUZ</td>
+<td align="center">
+<br/>64500</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
