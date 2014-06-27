@@ -10,7 +10,9 @@ Ce droit, calculé sur les sommes encaissées ou recouvrées au titre du princip
 
 3,5 p. 100 au-delà de 610 et jusqu'à 1525 euros ;
 
-0,3 p. 100 au-delà de 1525 euros.
+0,3 p. 100 au-delà de 1525 euros ;
+
+Ces pourcentages sont doublés lorsque le recouvrement ou l'encaissement est effectué sur le fondement d'un titre exécutoire constatant une créance alimentaire.
 
 II. - Ce droit ne peut être inférieur à 2 taux de base ni supérieur à 250 taux de base.
 

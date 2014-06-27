@@ -29,14 +29,31 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p align="center">1</p>
 </td>
 <td valign="top" width="215">
-<p>Requête aux fins de recherche des informations auprès du procureur de la République.</p>
+<p>Requête aux fins de recherche des informations </p>
 </td>
 <td valign="top" width="211">
-<p>Art. 39 de la loi n° 91-650 du 9 juillet 1991.</p>
-<p>Art. 54 du décret n° 92-755 du 31 juillet 1992.</p>
+<p>Articles L. 152-1 et L. 152-2 du code des procédures civiles d'exécution</p>
 </td>
 <td valign="top" width="98">
-<p align="center">14</p>
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td>Assignation <br/>
+</td>
+<td>
+<p align="center">1 bis</p>
+</td>
+<td>
+<p>Copies des pièces accompagnant</p>
+<p>le bordereau annexé</p>
+<p>à l'assignation-</p>
+<p>Par tranche de 100 feuilles </p>
+</td>
+<td>Article 837, dernier alinéa, du CPC <br/>
+</td>
+<td>
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
@@ -55,6 +72,36 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <td valign="top" width="98">
 <p align="center">14</p>
 </td>
+</tr>
+<tr>
+<td>
+<p>Saisie des </p>
+<p>rémunérations.</p>
+</td>
+<td>
+<p align="center">2 bis</p>
+</td>
+<td>
+<p>Notification à l'employeur</p>
+<p>d'un acte de saisie</p>
+<p>des rémunérations</p>
+<p>lorsque le </p>
+<p>courrier revient </p>
+<p>non réclamé au tribunal </p>
+</td>
+<td>Article 670-1 du CPC </td>
+<td>
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">3 ter</p>
+</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="97">
@@ -86,6 +133,32 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </td>
 <td align="left" valign="top">
 <p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Saisie attribution </p>
+</td>
+<td>
+<p align="center">3 ter</p>
+</td>
+<td>
+<br/>
+<p align="left">Dénonciation de la saisine </p>
+<p align="left">du juge de l'exécution à</p>
+<p align="left">l'huissier de justice en</p>
+<p align="left">matière de contestation</p>
+<p align="left">de saisie-attribution</p>
+</td>
+<td>
+<br/>
+<p align="left">Article R. 211-11</p>
+<p align="left">du code des</p>
+<p align="left">procédures</p>
+<p align="left">civiles d'exécution</p>
+</td>
+<td>
+<p align="center">7</p>
 </td>
 </tr>
 <tr>
@@ -410,10 +483,10 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 <p align="center">24</p>
 </td>
 <td valign="top" width="215">
-<p align="left">Information au représentant de l'Etat de l'assignation aux fins de constat de résiliation du bail.</p>
+<p align="left">Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation </p>
 </td>
 <td valign="top" width="211">
-<p align="left">Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par la loi n° 98-657 du 29 juillet 1998.</p>
+<p align="left">Article 24 de la loi n° 89-462 du 6 juillet 1989 modifiée </p>
 </td>
 <td valign="top" width="98">
 <p align="center">14</p>
@@ -603,7 +676,7 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </tr>
 <tr>
 <td rowspan="7" valign="top" width="97">
-<p align="center">FormaIités diverses.</p>
+<p align="center">Formalités diverses.</p>
 </td>
 <td valign="top" width="57">
 <p align="center">36</p>
@@ -701,19 +774,41 @@ FORMALITÉS, REQUÊTES ET DILIGENCES
 </tr>
 <tr>
 <td valign="top" width="97">
-<p>Paiement direct des pensions alimentaires.</p>
+<p>Constats </p>
 </td>
 <td valign="top" width="57">
-<p align="center">43</p>
+<p align="center">42 bis</p>
 </td>
 <td valign="top" width="215">
-<p>Demande de paiement direct.</p>
+<p>Lettres de convocation des parties à un état des lieux "locatif" (loi de 1989) </p>
 </td>
 <td valign="top" width="211">
-<p>Art. 6 de la loi n° 73-5 du 2 janvier 1973.</p>
-<p>Art. 5-1 du décret n° 73-216 du 1er mars 1973.</p>
+<p>Article 3-2 de la loi n° 89-462 </p>
+<p>du 6 juillet 1989 modifiée </p>
 </td>
 <td valign="top" width="98">
+<p align="center">7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Paiement direct des</p>
+<p>pensions</p>
+<p>alimentaires.</p>
+</td>
+<td>
+<p align="center">43</p>
+</td>
+<td>
+<p>Demande de paiement direct.</p>
+</td>
+<td>
+<p>Art. 6 de la loi n° 73-5 du 2 janvier </p>
+<p>1973.</p>
+<p>Art. 5-1 du décret n° 73-216 du 1er mars </p>
+<p>1973.</p>
+</td>
+<td>
 <p align="center">16</p>
 </td>
 </tr>

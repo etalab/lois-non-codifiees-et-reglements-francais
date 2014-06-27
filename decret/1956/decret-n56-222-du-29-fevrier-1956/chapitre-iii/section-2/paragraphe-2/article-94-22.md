@@ -1,0 +1,3 @@
+# Article 94-22
+
+Outre les inspections annuelles, les études d'huissier de justice font l'objet d'inspections occasionnelles portant soit sur une question particulière, soit sur l'ensemble de l'activité professionnelle de l'huissier et sur les activités accessoires autorisées par le procureur général près la cour d'appel dans le ressort de laquelle est établie l'étude. L'inspection occasionnelle est prescrite soit par le président de la chambre régionale ou de la Chambre nationale des huissiers de justice, soit par le procureur de la République, le procureur général ou le garde des sceaux, ministre de la justice.

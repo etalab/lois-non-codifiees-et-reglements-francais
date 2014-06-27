@@ -1,0 +1,3 @@
+# Article 94-19
+
+Lorsque l'inégale répartition des huissiers de justice entre les différents départements relevant d'une même chambre régionale imposerait des charges excessives aux huissiers de justice inspecteurs d'un ou plusieurs de ces départements, le président de la chambre régionale peut faire appel, avec l'accord des présidents de chambre régionale voisins, à des huissiers inspecteurs figurant sur les listes établies par ces derniers. Le président de chambre régionale peut aussi, avec l'accord de ses homologues intéressés, désigner des personnes qualifiées en comptabilité agréées par le procureur général d'une autre cour d'appel. Les procureurs généraux sont avisés.

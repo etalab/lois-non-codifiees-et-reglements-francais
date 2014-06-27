@@ -22,4 +22,4 @@ Le nom et le grade du fonctionnaire de la police nationale ayant participé à l
 
 6. Toute somme due à des tiers à l'occasion de leur activité professionnelle et payée directement par eux ;
 
-7° Frais engagés pour la recherche des informations auprès du service du fichier des comptes bancaires.
+7° Frais engagés pour la recherche des informations auprès du service du fichier des comptes bancaires et auprès des organismes énumérés aux articles L. 152-1 et L. 152-2 du code des procédures civiles d'exécution.

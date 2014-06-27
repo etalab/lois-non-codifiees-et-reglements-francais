@@ -1249,6 +1249,36 @@ IV. - Actes ayant pour but l'indisponibilité de biens ou de créances; actes ay
 </td>
 </tr>
 <tr>
+<td>
+<p>Saisie attribution.</p>
+</td>
+<td>
+<p align="center">50 bis</p>
+</td>
+<td>
+<p>Acte de saisie</p>
+<p>attribution en cas </p>
+<p>de compte </p>
+<p>clôturé ou </p>
+<p>de solde négatif</p>
+</td>
+<td>
+<p>Article R. 211-1 </p>
+<p>du code des </p>
+<p>procédures civiles </p>
+<p>d'exécution </p>
+</td>
+<td>
+<p align="center">10</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" valign="top" width="154">
 <p>Saisie-vente.</p>
 </td>
@@ -2674,17 +2704,17 @@ VIII. - Actes divers
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">
+<td rowspan="3" valign="top" width="154">
 <p>Constats.</p>
 </td>
 <td valign="top" width="63">
 <p align="center">104</p>
 </td>
 <td valign="top" width="119">
-<p>Constats "locatifs" (loi de 1989).</p>
+<p>Constats "locatifs" (loi de 1989) biens d'une superficie inférieure à 50 m2 </p>
 </td>
-<td valign="top" width="104">
-<p>Art. 3 de la loi n° 89-462 du 6 juillet 1989 modifiée.</p>
+<td rowspan="3" valign="top" width="104">
+<p>Art. 3-2 de la loi n° 89-462 du 6 juillet 1989 modifiée.</p>
 </td>
 <td valign="top" width="70">
 <p align="center">51,5</p>
@@ -2693,6 +2723,46 @@ VIII. - Actes divers
 <p align="center">Non</p>
 </td>
 <td valign="top" width="88">
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">104 bis</p>
+</td>
+<td>
+<p>Constats "locatifs" </p>
+<p>(loi de 1989) biens </p>
+<p>d'une superficie </p>
+<p>de 50 à 150 m2</p>
+</td>
+<td>
+<p align="center">60</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">104 ter</p>
+</td>
+<td>
+<p>Constats "locatifs"</p>
+<p>(loi de 1989) biens </p>
+<p>d'une superficie de</p>
+<p>plus de 150 m2 </p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+<td>
+<p align="center">Non</p>
+</td>
+<td>
 <p align="center">Non</p>
 </td>
 </tr>
@@ -2743,29 +2813,6 @@ VIII. - Actes divers
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">
-<p>Actes en provenance de l'étranger.</p>
-</td>
-<td valign="top" width="63">
-<p align="center">107</p>
-</td>
-<td valign="top" width="119">
-<p>Saisine de la chambre nationale des huissiers de justice aux fins de signification d'un acte transmis par une autorité étrangère.</p>
-</td>
-<td valign="top" width="104">
-<p>Art. 688-2 du nouveau code de procédure civile.</p>
-</td>
-<td valign="top" width="70">
-<p align="center">13</p>
-</td>
-<td valign="top" width="82">
-<p align="center">Non</p>
-</td>
-<td valign="top" width="88">
-<p align="center">Non</p>
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
 <p align="left">Actes en provenance d'un autre<br/>Etat.</p>
 </td>
@@ -2776,10 +2823,17 @@ VIII. - Actes divers
 <p align="left">Signification en<br/>provenance d'un<br/>autre<br/>Etat.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du<br/>29 mai 2000.<br/>- article 688-2 du<br/>NCPC. </p>
+<p>Règlement (CE) </p>
+<p align="left">n° 1393/2007</p>
+<p align="left">du Parlement </p>
+<p align="left">européen et du </p>
+<p align="left">Conseil du 13 novembre </p>
+<p align="left">2007</p>
+<p align="left">article 688-2 du CPC <br/>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="center">50 € *</p>
+<p align="center">50 € (*)</p>
 </td>
 <td align="left" valign="top">
 <p align="center">Non</p>
@@ -2799,7 +2853,11 @@ VIII. - Actes divers
 <p align="left">Transmission de la<br/>demande de<br/>signification ou de<br/>notification dans un<br/>autre Etat étranger. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">- règlement (CE)<br/>n° 1348/2000 du<br/>Conseil du<br/>29 mai 2000.<br/>- article 684 du<br/>NCPC. </p>
+<p>Règlement (CE) n° 1393/2007</p>
+<p align="left">du Parlement européen</p>
+<p align="left">et du Conseil du 13 novembre</p>
+<p align="left">2007 article 684 CPC <br/>
+</p>
 </td>
 <td align="left" valign="top">
 <p align="center">16,5</p>
