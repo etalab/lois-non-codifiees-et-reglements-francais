@@ -15,6 +15,7 @@
 - [Décret n°2011-1444 du 3 novembre 2011 (AGRT1122188D)](decret-n2011-1444-du-3-novembre-2011-agrt1122188d)
 - [Décret n°2011-627 du 3 juin 2011 (IOCC1109096D)](decret-n2011-627-du-3-juin-2011-iocc1109096d)
 - [Décret n°83-1033 du 3 décembre 1983](decret-n83-1033-du-3-decembre-1983)
+- [Décret n°2011-1778 du 5 décembre 2011 (AGRT1119925D)](decret-n2011-1778-du-5-decembre-2011-agrt1119925d)
 - [Décret n°2011-1780 du 5 décembre 2011 (AGRT1127650D)](decret-n2011-1780-du-5-decembre-2011-agrt1127650d)
 - [Décret n°2011-1781 du 5 décembre 2011 (AGRT1125325D)](decret-n2011-1781-du-5-decembre-2011-agrt1125325d)
 - [Décret n°2011-21 du 5 janvier 2011 (ESRS1016850D)](decret-n2011-21-du-5-janvier-2011-esrs1016850d)
