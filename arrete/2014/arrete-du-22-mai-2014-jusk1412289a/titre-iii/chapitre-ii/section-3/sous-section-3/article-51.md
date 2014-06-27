@@ -1,0 +1,5 @@
+# Article 51
+
+L'habilitation provisoire ou définitive peut être suspendue par le directeur de l'administration pénitentiaire, sur saisine du directeur interrégional, en cas de manquement grave du fonctionnaire à ses obligations professionnelles ou dans l'intérêt du service. Nonobstant toute procédure disciplinaire, le fonctionnaire est affecté sur un poste vacant, ou à défaut en surnombre, au sein de la direction interrégionale des services pénitentiaires d'affectation, dans l'établissement le plus proche du siège de la direction interrégionale ou de la base ERIS, sur un emploi correspondant à ses corps et grade d'appartenance.
+
+Le directeur de l'administration pénitentiaire rend, dans le mois suivant la suspension, une décision motivée de maintien ou de retrait de l'habilitation, après avoir recueilli, par écrit, les observations de l'agent habilité, l'avis du chef de l'équipe régionale d'intervention et de sécurité, du directeur interrégional des services pénitentiaires compétents et de la section centrale des équipes régionales d'intervention et de sécurité.

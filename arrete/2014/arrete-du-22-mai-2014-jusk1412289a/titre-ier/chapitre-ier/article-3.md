@@ -1,0 +1,3 @@
+# Article 3
+
+La formation dans les services déconcentrés de l'administration pénitentiaire s'organise dans chaque direction interrégionale des services pénitentiaires, en lien avec l'Ecole nationaled'administration pénitentiaire (ENAP) au sein d'unités du recrutement, de la formation et des qualifications chargées de l'animation des pôles de formation sous le pilotage du bureau chargé de la formation à la direction de l'administration pénitentiaire. A partir de la délivrance de cette habilitation, les formateurs et responsables de formation peuvent prétendre à une mutation dans leur fonction spécialisée.
