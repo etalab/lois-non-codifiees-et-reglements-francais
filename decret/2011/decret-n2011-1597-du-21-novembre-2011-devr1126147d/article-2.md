@@ -6,12 +6,4 @@ II.-Peut aussi bénéficier du contrat d'achat mentionné à l'article 4 une ins
 
 Dans ce cas, la durée du contrat mentionné à l'alinéa précédent est réduite du nombre d'années, entières ou partielles, comprises entre la date de mise en service de l'installation et la date de signature du contrat d'achat.
 
-III.-Une installation mise en service, au sens du III de l'article 4, pour la première fois après la date de publication du présent décret, dont un des éléments principaux, tels que définis au premier alinéa du présent article, a déjà servi à une production de biogaz ou permis une valorisation de biogaz, et qui n'a jamais bénéficié d'un contrat d'achat mentionné à l'article 4, peut bénéficier d'un contrat d'achat mentionné à l'article 4 aux tarifs définis à l'article 5 et multipliés par le coefficient S défini ci-après :
-
-S = (15-N)/15 si N est inférieur à quinze ans ;
-
-S = 1/15 si N est supérieur ou égal à quinze ans,
-
-où N est le nombre d'années entières comprises entre la date de mise en service de l'installation ou de l'élément principal ayant déjà servi à produire ou permis une valorisation de biogaz le plus ancien et la date de signature du contrat d'achat mentionné à l'article 4.
-
-Le producteur fournit à l'acheteur une attestation sur l'honneur précisant la date de mise en service du raccordement de l'installation. Le producteur tient les justificatifs correspondants (factures d'achat des composants, contrats d'achat, factures correspondant à l'électricité produite depuis la mise en service) à la disposition de l'acheteur.
+III.-Une installation mise en service, au sens du III de l'article 4, pour la première fois après la date de publication du présent décret, dont un des éléments principaux, tels que définis au premier alinéa du présent article, a déjà servi à une production de biogaz ou permis une valorisation de biogaz, et qui n'a jamais bénéficié d'un contrat d'achat mentionné à l'article 4, peut bénéficier d'un tel contrat aux tarifs définis à l'article 5.
