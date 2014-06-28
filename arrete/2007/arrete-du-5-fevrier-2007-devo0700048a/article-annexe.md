@@ -222,13 +222,27 @@ Son montant de base est arrêté chaque année par l'assemblée générale de la
 
 - carte annuelle "personne majeure" pour la pêche aux lignes et la pêche aux engins et aux filets, valable du 1er janvier au 31 décembre de l'année civile ;
 
-- carte de pêche temporaire vacances ;
+- carte de pêche hebdomadaire ;
 
 - carte de pêche temporaire journalière ;
 
 - carte de pêche annuelle "personne mineure", valable du 1er janvier au 31 décembre de l'année civile ;
 
-Chaque fédération départementale ou interdépartementale certifie, au plus tard avant la fin du premier mois de l'exercice suivant, ses effectifs dans les différentes catégories de cartes de pêche susvisées.
+- la carte "découverte femme", valable du 1er janvier au 31 décembre de l'année civile ;
+
+- la carte "découverte moins de 12 ans", valable du 1er janvier au 31 décembre de l'année civile ;
+
+L'assemblée générale de la FNPF, sur proposition de son conseil d'administration, fixe chaque année le montant harmonisé des cartes de pêche promotionnelles suivantes :
+
+- la carte de pêche hebdomadaire ;
+
+- la carte "découverte femme", permettant la pêche à l'aide de tous modes autorisés, dont une ligne au plus ;
+
+- la carte "découverte moins de 12 ans", permettant la pêche à l'aide de tous modes autorisés, dont une ligne au plus.
+
+Ces conditions sont portées à la connaissance des associations agréées de pêche et de protection du milieu par les fédérations départementales.
+
+Chaque fédération départementale ou interdépartementale certifie, au plus tard avant la fin du premier mois de l'exercice suivant, ses effectifs dans les différentes catégories de cartes de pêche mentionnées dans le présent article.
 
 Les fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique communiquent chaque année à la fédération nationale le nombre de leurs adhérents dans les différentes catégories pour l'exercice en cours.
 
