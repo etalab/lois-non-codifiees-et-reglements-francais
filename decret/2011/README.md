@@ -83,7 +83,6 @@
 - [Décret n°2011-1181 du 23 septembre 2011 (AGRT1111379D)](decret-n2011-1181-du-23-septembre-2011-agrt1111379d)
 - [Décret n°2011-1182 du 23 septembre 2011 (AGRT1111381D)](decret-n2011-1182-du-23-septembre-2011-agrt1111381d)
 - [Décret n°2011-1183 du 23 septembre 2011 (AGRT1111390D)](decret-n2011-1183-du-23-septembre-2011-agrt1111390d)
-- [Décret n°2011-1184 du 23 septembre 2011 (AGRT1111392D)](decret-n2011-1184-du-23-septembre-2011-agrt1111392d)
 - [Décret n°2011-1185 du 23 septembre 2011 (AGRT1111949D)](decret-n2011-1185-du-23-septembre-2011-agrt1111949d)
 - [Décret n°2011-1617 du 23 novembre 2011 (AGRT1127602D)](decret-n2011-1617-du-23-novembre-2011-agrt1127602d)
 - [Décret n°2011-1618 du 23 novembre 2011 (AGRT1122636D)](decret-n2011-1618-du-23-novembre-2011-agrt1122636d)
