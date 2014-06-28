@@ -138,11 +138,11 @@ c) Soit pour obtenir un supplément de liquidation au titre de l'article 9 ci-ap
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des cotisations nécessaires selon un barème et des modalités de paiement définis dans des conditions de neutralité actuarielle par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
+Par dérogation aux conditions prévues à l'alinéa précédent, le montant du versement de cotisations prévu au même alinéa peut être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant spécifique.
+
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne peuvent également être prises en compte.
 
 L'admission dans les grandes écoles et classes du second degré préparatoires à ces écoles est assimilée à l'obtention d'un diplôme.
-
-Ces trimestres ne doivent pas avoir donné lieu à une validation dans un régime de retraite de base obligatoire.
 
 Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des articles 17 et 17-1 de la présente annexe.
 
@@ -154,7 +154,7 @@ Les services et bonifications pris en compte aux articles 2, 3, 4, 5, 8 et 12 se
 
 La durée des services et des bonifications prévus aux articles 2, 3, 4, 5, 8 et 12 et prises en compte en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
-Sous réserve des dispositions transitoires du I de l'article 45 ci-après, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à cent soixante trimestres et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+Sous réserve des dispositions transitoires du I de l'article 45 ci-après, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension est fixé à cent soixante-douze.
 
 Le pourcentage maximum de la pension est fixé à 75 %.
 
@@ -232,13 +232,13 @@ La réduction d'activité prévue aux mêmes articles doit avoir une durée cont
 
 Pour les enfants recueillis, l'absence, l'interruption totale ou la réduction d'activité doit intervenir durant la période de charge effective et permanente de l'enfant et au plus tard soit avant son seizième anniversaire, soit avant l'âge auquel l'enfant cesse d'être à charge au sens des prestations familiales.
 
-II.-Sont prises en compte pour le calcul de la durée d'interruption ou de réduction d'activité les périodes correspondant à une interruption ou à une réduction des services effectués dans les industries électriques et gazières, intervenues dans le cadre :
+II.-Sont prises en compte pour le calcul de la durée d'interruption ou de réduction d'activité les périodes correspondant à une interruption ou à une réduction d'activité, intervenues dans le cadre :
 
 a) Du congé de maternité ;
 
 b) Du congé d'adoption ;
 
-c) Du congé de paternité ;
+c) Du congé de paternité et d'accueil de l'enfant ;
 
 d) Du congé parental d'éducation ;
 
@@ -441,7 +441,7 @@ La pension ainsi majorée ne peut excéder celle qui aurait été obtenue par ap
 
 Article 17-1
 
-I.-L'âge de soixante ans mentionné au 1° du I de l'article 16 est abaissé pour les assurés relevant du régime spécial de retraite et d'invalidité du personnel des industries électriques et gazières qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée des services et des bonifications nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 9 de la présente annexe et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
+I.-L'âge mentionné au 1° du I de l'article 16 est abaissé pour les assurés relevant du régime spécial de retraite et d'invalidité du personnel des industries électriques et gazières qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée des services et des bonifications nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 9 de la présente annexe et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
 
 1° A cinquante-six ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, et ayant commencé leur activité avant l'âge de seize ans ;
 
@@ -464,6 +464,8 @@ Pour l'application de la condition de durée d'activité ayant donné lieu à co
 Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile.
 
 Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés, il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a été affilié successivement ou simultanément à plusieurs des régimes considérés.
+
+Pour l'application de la condition de durée d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont prises en compte la bonification pour enfant mentionnée à l'article 12, les majorations de durée d'assurance mentionnées aux articles 14 et 15 et les périodes d'interruption d'activité mentionnées au 1° de l'article 4, à l'article 5 et à l'article 7.
 
 II.-L'année au cours de laquelle sont réunies les conditions définies au I du présent article est l'année retenue pour l'application des dispositions du I et du II de l'article 45, à condition que l'assuré demande à bénéficier des dispositions du présent article avant son soixantième anniversaire.
 
@@ -768,7 +770,7 @@ I.-La pension d'invalidité étant concédée à titre temporaire, les agents pl
 
 Le refus de se soumettre au contrôle médical entraîne la suspension de la pension d'invalidité à l'échéance de versement qui suit la date de non-présentation au contrôle.
 
-II.-Dès lors que la capacité de gain de l'invalide excède le taux prévu à l'article R. 341-14 du code de la sécurité sociale, la pension d'invalidité est suspendue ou supprimée par notification du directeur de la Caisse nationale des industries électriques et gazières à compter de la date d'aptitude à l'exercice d'une activité appréciée par le médecin-conseil du régime spécial et notifiée à la Caisse nationale des industries électriques et gazières.
+II.-Dès lors que la capacité de gain de l'invalide excède le taux prévu à l'article R. 341-16 du code de la sécurité sociale, la pension d'invalidité est suspendue ou supprimée par notification du directeur de la Caisse nationale des industries électriques et gazières à compter de la date d'aptitude à l'exercice d'une activité appréciée par le médecin-conseil du régime spécial et notifiée à la Caisse nationale des industries électriques et gazières.
 
 En cas de nouvel arrêt de travail en relation avec la même cause invalidante, la pension d'invalidité suspendue est rétablie par notification du directeur de la Caisse nationale des industries électriques et gazières prise sur avis conforme du médecin-conseil du régime spécial.
 
@@ -796,7 +798,7 @@ Article 38
 
 Revalorisation des pensions d'invalidité
 
-Les pensions servies en vertu du présent titre sont revalorisées dans les conditions prévues à l'article 20 de la présente annexe.
+Les pensions servies en vertu du présent titre sont revalorisées dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
 
 TITRE IV BIS : PRESTATIONS DÉCÈS
 
@@ -866,13 +868,27 @@ Article 45
 
 Dispositions transitoires
 
-I.-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 16 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies à l'article 16 ci-dessus postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
+I.- La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 de la présente annexe est fixée à 151 trimestres pour les agents remplissant les conditions définies à l'article 16 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les agents remplissant les conditions définies à l'article 16 de la présente annexe postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2018.
+
+A compter du 1er juillet 2019, elle est fixée à :
+
+167 trimestres, pour les agents nés entre le 1er juillet 1959 et le 31 décembre 1960 ;
+
+168 trimestres, pour les agents nés entre le 1er janvier 1961 et le 31 décembre 1963 ;
+
+169 trimestres, pour les agents nés entre le 1er janvier 1964 et le 31 décembre 1966 ;
+
+170 trimestres, pour les agents nés entre le 1er janvier 1967 et le 31 décembre 1969 ;
+
+171 trimestres, pour les agents nés entre le 1er janvier 1970 et le 31 décembre 1972 ;
+
+172 trimestres, pour les agents nés à partir du 1er janvier 1973.
 
 II.-Le coefficient de minoration prévu au I de l'article 10 n'est applicable qu'aux personnes remplissant les conditions définies à l'article 16 à compter du 1er juillet 2010. Pour les personnes remplissant les conditions définies à l'article 16 entre le 1er juillet 2010 et le 30 juin 2011 inclus, son taux est fixé par trimestre manquant à un dixième du taux prévu au premier alinéa du I de l'article 10. Pour les personnes remplissant les conditions définies à l'article 16 postérieurement au 30 juin 2011, ce taux augmente du même montant au 1er juillet de chaque année jusqu'à égaler le taux prévu au premier alinéa du I de l'article 10.
 
 L'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du I de l'article 10 ci-dessus diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
 
-III.-Le coefficient de revalorisation des pensions applicable au 1er avril 2009 est fixé par arrêté du ministre chargé de la sécurité sociale conformément aux dispositions du premier alinéa de l'article L. 161-23-1 du code de la sécurité sociale.
+III (Abrogé)
 
 IV.-Par dérogation à l'article 16 et sous réserve de justifier d'une durée minimale de services de quinze ans l'agent dont le conjoint est :
 
