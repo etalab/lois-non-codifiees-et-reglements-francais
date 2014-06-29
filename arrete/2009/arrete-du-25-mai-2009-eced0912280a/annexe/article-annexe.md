@@ -1,6 +1,6 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+Informations requises pour l'inscription du titre professionnel au répertoire national des certifications professionnelles
 
 Intitulé :
 
@@ -12,103 +12,187 @@ Code NSF : 251 p.
 
 Résumé du référentiel d'emploi
 
-Le technicien méthodes étudie la faisabilité de la fabrication du produit et optimise l'ensemble des procédés, des processus, des organisations et des moyens nécessaires à la fabrication d'un produit industriel, compte tenu des données commerciales et des objectifs de la politique industrielle de l'entreprise.
+La finalité de cet emploi est de rendre un projet, conçu par l'ingénierie, industrialisable conformément au cahier des charges.
 
-Il a la responsabilité de mener des études complètes et approfondies concernant :
+A partir d'un cahier des charges détaillé, d'un dossier de définition d'un produit industriel, et pour garantir l'industrialisation et la commercialisation du projet, le technicien :
 
-― la recherche et le développement de nouveaux moyens de production ;
+-étudie la faisabilité de la fabrication, ainsi que le montage et l'assemblage du produit ;
 
-― la fiabilisation des processus, la validation et la livraison du produit au service production en tenant compte des aspects technico-économiques ;
+-dégage des solutions de mise en œuvre ;
 
-― la garantie des performances réalisées par les nouveaux moyens et / ou les nouveaux processus introduits en production.
+-propose pour validation à l'entreprise la solution la plus appropriée en termes de coût et d'obtention de la qualité ;
 
-Son activité consiste à rechercher des éléments permettant un accroissement de la productivité, à utiliser de façon optimale l'outil de production pour avoir un système compétitif et performant, à piloter les actions qui s'y rapportent, à faire évoluer les conditions de travail.
+-définit les moyens nécessaires à la fabrication d'un produit en collaboration avec l'ingénierie optimise et fiabilise l'exploitation de l'outil de production en tenant compte des aspects technico-économiques ;
 
-La démarche du technicien méthodes a pour objectif l'amélioration continue de l'appareil productif en termes de coûts et de délais tout en respectant les critères de qualité du produit.
+-propose des améliorations techniques des moyens de fabrication ;
 
-Il permet d'introduire l'écoproduction, le développement durable, des méthodologies, des concepts ou des évolutions technologiques nouvelles.
+-accompagne le personnel dans l'appropriation du processus de fabrication ;
 
-Capacités attestées et descriptif
+-assure la qualité du produit à fabriquer via des procédures de contrôle et de validation ;
 
-des composantes de la certification
+-garantit la performance des moyens et des processus de fabrication.
 
-1. Améliorer les procédés et les processus
+Le technicien travaille dans le secteur de la production industrielle et essentiellement dans les domaines suivants :
 
-de fabrication de produits industriels
+-automobile ;
 
-Définir les flux de production de produits industriels.
+-équipements mécaniques ;
 
-Analyser et capitaliser les dérives de fabrication de produits industriels.
+-industrie électrique et électronique ;
 
-Définir des axes d'amélioration de l'organisation visant à accroître la productivité et la réactivité pour la fabrication de produits industriels.
+-construction aéronautique, ferroviaire et navale ;
 
-Améliorer et optimiser la productivité des processus pour des productions industrielles.
+-métallurgie ;
 
-2. Définir les coûts de fabrication
+-chimie, pharmaceutique, plastique ;
 
-Evaluer et chiffrer le coût de fabrication de produits industriels.
+-énergie ;
 
-Participer à la constitution de dossiers d'investissement pour la fabrication de produits industriels.
+-équipement des foyers ;
 
-3. Mettre en œuvre la démarche
+-textile-habillement, cuir.
 
-de progrès permanent en production
+Il est responsable des solutions qu'il propose et qu'il met en œuvre, tant sur le champ de la qualité, des coûts et des délais, que celui de la sécurité des biens et des personnes.
 
-Qualifier le procédé ou processus de production industrielle.
+Dans le cadre de sa mission, il met en œuvre une démarche d'éco-production pour, d'une part, consommer moins et produire mieux et, d'autre part, réduire l'empreinte des activités de l'entreprise sur l'environnement.
 
-Animer des projets d'amélioration pour la fabrication de produits industriels.
+Il travaille, dans un bureau des méthodes, en étroite collaboration avec des équipes projets différentes mais aussi avec différents fournisseurs et sous traitants. Il bénéficie d'un accès total aux informations techniques telles que les normes, et la capitalisation du savoir faire de l'entreprise. Il utilise du matériel informatique pour exploiter les bases de données ; il concrétise ses solutions grâce à des logiciels CAO (conception assistée par ordinateur), et il valide ses choix avec l'appui de logiciels appropriés.
 
-Transférer les compétences techniques et organisationnelles pour accompagner la production dans la réalisation de ses objectifs.
+Le travail s'exerce le plus fréquemment à horaires réguliers et comporte parfois des déplacements chez les clients et les fournisseurs. Selon l'organisation de l'entreprise ou du secteur d'activités, le technicien peut se trouver dans l'obligation de vivre sur le lieu de travail pendant la durée du projet. Dans ce cas, la fonction s'exerce avec une autonomie renforcée.
 
-4. Créer des processus pour des produits nouveaux
+La charge et le rythme de travail évoluent en fonction de la complexité du projet, du degré d'implication et du respect des délais de réalisation. Il informe régulièrement sa hiérarchie de l'avancement des travaux.
 
-Rechercher des processus et des moyens nouveaux pour la production de produits industriels.
+Capacités attestées et descriptif des composantes de la certification
 
-Constituer des dossiers d'industrialisation conformes aux exigences qualité applicables pour des produits industriels.
+1. Modifier des processus de fabrication de produits industriels
 
-Organiser et animer les réunions de projets de produits industriels.
+Définir le processus de production.
 
-Intégrer l'écoproduction dans l'élaboration des cahiers des charges de projets de fabrication en prenant en compte les normes d'environnement et de qualité pour des produits industriels.
+Evaluer et chiffrer le coût de fabrication.
 
-Secteurs d'activités et types d'emploi
+Instruire un dossier d'investissement.
 
-accessibles par le détenteur du titre
+Mesurer et analyser les écarts en fabrication.
 
-Le technicien méthodes est appelé à travailler dans le milieu de la production industrielle et essentiellement dans les domaines :
+Améliorer et optimiser la productivité des processus de fabrication.
 
-Automobile.
+Qualifier le procédé ou le processus de production industrielle.
 
-Equipements mécaniques.
+2. Mettre en œuvre la démarche de progrès continue en production
 
-Industrie électrique et électronique.
+Mesurer et analyser les écarts en fabrication.
 
-Construction aéronautique, ferroviaire et navale.
+Améliorer et optimiser la productivité des processus de fabrication.
 
-Métallurgie.
+Animer des projets d'amélioration.
 
-Chimie, pharmaceutique, plastique.
+Transférer les compétences nécessaires pour assurer la production.
 
-Energie.
+3. Concevoir des processus pour des produits nouveaux
 
-Equipement des foyers.
+Rechercher des processus et des moyens nouveaux pour la production.
 
-Textile habillement, cuir.
+Constituer des dossiers d'industrialisation.
 
-Les types d'emploi occupés dans ces différents secteurs sont :
+Organiser et animer les réunions de projets.
 
-Technicien de méthodes industrialisation.
+Qualifier le procédé ou le processus de production industrielle.
 
-Technicien supérieur méthodes.
+Secteurs d'activité et types d'emploi accessibles par le détenteur du titre
 
-Codes ROME :
+Les différents secteurs d'activités concernés sont principalement :
 
-52111-Technicien (ne) de méthodes, ordonnancement, planification de l'industrie.
+-aéronautique, spatial ;
 
-53111-Cadre-technique de méthodes, ordonnancement, plan.
+-agroalimentaire ;
+
+-armement ;
+
+-automobile ;
+
+-bâtiment et travaux publics ;
+
+-bois, ameublement ;
+
+-chimie ;
+
+-chimie fine ;
+
+-construction navale ;
+
+-éco-industrie ;
+
+-électricité ;
+
+-électroménager ;
+
+-électronique ;
+
+-énergie, nucléaire, fluide ;
+
+-ferroviaire ;
+
+-habillement, cuir, textile ;
+
+-industrie cosmétique ;
+
+-industrie du papier, carton ;
+
+-information et communication ;
+
+-machinisme ;
+
+-mécanique, travail des métaux ;
+
+-métallurgie, sidérurgie ;
+
+-nautisme ;
+
+-parachimie ;
+
+-pétrochimie ;
+
+-plasturgie, caoutchouc, composites ;
+
+-sport et loisirs ;
+
+-verre, matériaux de construction ;
+
+-technicien (ne) d'atelier de fabrication et de méthodes ;
+
+-technicien (ne) d'atelier et de méthodes en industrie ;
+
+-technicien (ne) de développement industrie méthode ;
+
+-technicien (ne) de fabrication et de méthodes ;
+
+-technicien (ne) de méthodes fabrication ;
+
+-technicien (ne) des temps en méthodes-industrialisation ;
+
+-technicien (ne) industrialisation ;
+
+-technicien (ne) méthodes ;
+
+-technicien (ne) méthodes de fabrication ;
+
+-technicien (ne) méthodes devis en industrie ;
+
+-technicien (ne) méthodes gammiste en industrie ;
+
+-technicien (ne) méthodes outillage industriel ;
+
+-technicien (ne) méthodes process ;
+
+-technicien méthodes-industrialisation.
+
+Code ROME :
+
+H1404-Intervention technique en méthodes et industrialisation.
 
 Réglementation de l'activité :
 
-Néant.
+Sans objet.
 
 Autorité responsable de la certification :
 
