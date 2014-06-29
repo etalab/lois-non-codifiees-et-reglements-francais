@@ -1,3 +1,3 @@
 # Article 15
 
-Les dispositions des articles 1er à 8 du présent décret entreront en vigueur à compter du 1er septembre 1990.
+L'article 11-1 peut être modifié par décret.
