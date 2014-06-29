@@ -258,6 +258,7 @@
 - [Décret n°2014-550 du 26 mai 2014 (FCPE1407472D)](decret-n2014-550-du-26-mai-2014-fcpe1407472d)
 - [Décret n°2005-1669 du 27 décembre 2005 (BUDR0504242D)](decret-n2005-1669-du-27-decembre-2005-budr0504242d)
 - [Décret n°2006-481 du 27 avril 2006 (SOCU0511416D)](decret-n2006-481-du-27-avril-2006-socu0511416d)
+- [Décret n°2013-1308 du 27 décembre 2013 (DEFH1328923D)](decret-n2013-1308-du-27-decembre-2013-defh1328923d)
 - [Décret n°2014-373 du 27 mars 2014 (EFIT1405000D)](decret-n2014-373-du-27-mars-2014-efit1405000d)
 - [Décret n°2014-374 du 27 mars 2014 (AFSS1324588D)](decret-n2014-374-du-27-mars-2014-afss1324588d)
 - [Décret n°2014-551 du 27 mai 2014 (FCPE1228065D)](decret-n2014-551-du-27-mai-2014-fcpe1228065d)
