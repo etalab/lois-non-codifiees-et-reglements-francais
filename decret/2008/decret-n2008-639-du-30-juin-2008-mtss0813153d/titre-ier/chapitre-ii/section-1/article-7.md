@@ -4,7 +4,7 @@ I. ― La durée de service à prendre en compte pour la détermination du droit
 
 II. ― Cette durée est augmentée :
 
-1° Du temps de service militaire ou de service national actif effectivement accompli par les intéressés dans la limite du temps de service légal dû par la classe à laquelle ils appartiennent par leur âge ;
+1° Du temps de service national légal, sauf si l'intéressé justifie d'un droit à pension au titre du code des pensions civiles et militaires de retraite ou du décret n° 2003-1306 du 26 décembre 2003 modifié relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraite des agents des collectivités locales ;
 
 2° Du temps de service effectivement accompli au titre du volontariat civil, d'une durée au moins égale à six mois, et dans la limite de vingt-quatre mois.
 
@@ -16,7 +16,7 @@ IV. ― Les périodes pendant lesquelles les agents ont été autorisés à acco
 
 2° Pour la durée d'affiliation prévue au 1° du I de l'article 1er, à raison de la fraction de leur durée égale au rapport entre la durée des services effectués et les obligations de service à temps plein ;
 
-3° Pour le calcul de la quotité de la pension, à raison de la fraction de leur durée égale au rapport entre la durée des services effectués et les obligations de service à temps plein.
+3° Pour le calcul de la quotité de la pension, à raison de la fraction de leur durée égale au rapport entre la durée des services effectués et les obligations de service à temps plein. Toutefois, la durée des services retenue pour calculer la pension est déterminée sur la base de la quotité de travail correspondant à l'assiette des cotisations effectivement versées, lorsque l'agent à temps partiel bénéficie des dispositions d'un accord d'entreprise conclu antérieurement au 1er juillet 2008 et prévoyant le versement d'une rémunération complémentaire soumise à cotisations ou le calcul des cotisations sur une base supérieure à celle correspondant à la quotité de travail effective.
 
 V. ― Sont également prises en compte, pour la détermination du droit à pension et pour le calcul de la quotité de la pension, les périodes d'interruption ou de réduction d'activité durant lesquelles les agents ont bénéficié d'un congé de présence parentale, d'un congé parental d'éducation, d'un congé de disponibilité pour éducation d'enfants de moins de huit ans ou d'un temps partiel pour élever un enfant de moins de seize ans. La durée ainsi prise en compte est limitée à un an par enfant pour les enfants nés ou adoptés avant le 1er juillet 2008 et à trois ans par enfant pour les enfants nés ou adoptés à compter de cette date. En cas de réduction d'activité, la durée prise en compte est la durée non travaillée.
 

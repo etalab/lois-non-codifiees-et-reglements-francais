@@ -10,7 +10,7 @@ Ouvrent droit à majoration, sous réserve qu'ils aient été à la charge de l'
 
 3° Les enfants ayant fait l'objet d'une délégation judiciaire des droits de l'autorité parentale en faveur du pensionné ou de son conjoint ;
 
-4° Les enfants orphelins de père et de mère, les enfants orphelins reconnus par un seul de leurs parents et les pupilles de la Nation, placés sous tutelle du pensionné ou de son conjoint, lorsque la tutelle s'accompagne de la garde effective et permanente de l'enfant ;
+4° Les enfants orphelins de deux parents, les enfants orphelins reconnus par un seul de leurs parents et les pupilles de la Nation, placés sous tutelle du pensionné ou de son conjoint, lorsque la tutelle s'accompagne de la garde effective et permanente de l'enfant ;
 
 5° Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint qui justifie en avoir assumé la charge effective et permanente par la production de tout document administratif établissant qu'ils ont été retenus pour l'octroi des prestations familiales ou pour le calcul de l'impôt sur le revenu.
 

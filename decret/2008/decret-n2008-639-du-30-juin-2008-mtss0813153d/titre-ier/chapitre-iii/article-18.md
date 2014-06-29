@@ -1,6 +1,6 @@
 # Article 18
 
-La pension de retraite est reversée pour moitié au conjoint survivant et, s'il y a lieu, au conjoint divorcé, ainsi qu'aux orphelins sous réserve que ces ayants droit ne recueillent pas un avantage de même nature d'un autre chef, quel que soit le régime dont procède cet avantage. Cependant, un orphelin de père et de mère peut cumuler les deux pensions de réversion obtenues du chef de son père et de sa mère.
+La pension de retraite est reversée pour moitié au conjoint survivant et, s'il y a lieu, au conjoint divorcé, ainsi qu'aux orphelins sous réserve que ces ayants droit ne recueillent pas un avantage de même nature d'un autre chef, quel que soit le régime dont procède cet avantage. Cependant, un orphelin peut cumuler au maximum deux pensions de réversion obtenues du chef de ses parents.
 
 Lorsque la pension de l'agent a été portée au montant du minimum de pension prévu à l'article 15, la pension de réversion est portée à 51,3 % de ce montant au 1er juillet 2008, à 52,7 % de ce montant au 1er juillet 2009 et à 54 % de ce montant au 1er juillet 2010.
 
