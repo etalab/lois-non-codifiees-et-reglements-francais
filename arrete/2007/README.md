@@ -673,7 +673,6 @@
 - [Arrêté du 22 novembre 2007 (ECED0771340A)](arrete-du-22-novembre-2007-eced0771340a)
 - [Arrêté du 22 novembre 2007 (IOCC0769885A)](arrete-du-22-novembre-2007-iocc0769885a)
 - [Arrêté du 22 octobre 2005 (SANP0523995A)](arrete-du-22-octobre-2005-sanp0523995a)
-- [Arrêté du 22 octobre 2007 (AGRP0765295A)](arrete-du-22-octobre-2007-agrp0765295a)
 - [Arrêté du 22 octobre 2007 (DEVA0756598A)](arrete-du-22-octobre-2007-deva0756598a)
 - [Arrêté du 22 octobre 2007 (DEVA0756611A)](arrete-du-22-octobre-2007-deva0756611a)
 - [Arrêté du 22 octobre 2007 (DEVA0758989A)](arrete-du-22-octobre-2007-deva0758989a)
