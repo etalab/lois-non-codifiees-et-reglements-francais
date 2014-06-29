@@ -287,7 +287,6 @@
 - [Arrêté du 28 août 2006 (ECOM0620005A)](arrete-du-28-aout-2006-ecom0620005a)
 - [Arrêté du 28 août 2006 (ECOM0620010A)](arrete-du-28-aout-2006-ecom0620010a)
 - [Arrêté du 28 avril 2006 (INDI0607373A)](arrete-du-28-avril-2006-indi0607373a)
-- [Arrêté du 28 décembre 2005 (SANG0620091A)](arrete-du-28-decembre-2005-sang0620091a)
 - [Arrêté du 28 décembre 2006 (AGRP0602555A)](arrete-du-28-decembre-2006-agrp0602555a)
 - [Arrêté du 28 décembre 2006 (JUSJ0690019A)](arrete-du-28-decembre-2006-jusj0690019a)
 - [Arrêté du 28 décembre 2006 (MCCB0601025A)](arrete-du-28-decembre-2006-mccb0601025a)
