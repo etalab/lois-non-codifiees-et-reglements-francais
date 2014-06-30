@@ -391,7 +391,6 @@
 - [Décret n°2001-895 du 26 septembre 2001 (FPPX0100131D)](decret-n2001-895-du-26-septembre-2001-fppx0100131d)
 - [Décret n°2001-974 du 26 octobre 2001 (ECOT0126293D)](decret-n2001-974-du-26-octobre-2001-ecot0126293d)
 - [Décret n°2001-977 du 26 octobre 2001 (ECOC0100097D)](decret-n2001-977-du-26-octobre-2001-ecoc0100097d)
-- [Décret n°96-1027 du 26 novembre 1996 (DOMP9600026D)](decret-n96-1027-du-26-novembre-1996-domp9600026d)
 - [Décret n°2001-1116 du 27 novembre 2001 (EQUT0101650D)](decret-n2001-1116-du-27-novembre-2001-equt0101650d)
 - [Décret n°2001-1121 du 27 novembre 2001 (MESP0123910D)](decret-n2001-1121-du-27-novembre-2001-mesp0123910d)
 - [Décret n°2001-1271 du 27 décembre 2001 (DEFP010233OD)](decret-n2001-1271-du-27-decembre-2001-defp010233od)
