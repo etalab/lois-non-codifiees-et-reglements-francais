@@ -6,7 +6,9 @@ Pour apprécier la conformité du projet d'offre aux dispositions législatives 
 
 2° Le cas échéant, la nature, les caractéristiques, les cotations, ou le marché des titres proposés en échange ;
 
-3° Les conditions posées par l'initiateur en application des articles 231-9 et 231-10 ;
+3° Les conditions éventuelles de l'offre en application des articles 231-9 et 231-10 ;
+
+3° bis Si le seuil de caducité prévu au 1° de l'article 231-9 I est applicable à l'offre, le nombre d'actions et de droits de vote que ce seuil représente à la date de dépôt de l'offre et éventuellement les raisons pour lesquelles l'initiateur demande à l'AMF qu'il soit fait application du 2° de l'article 231-9 I ;
 
 4° L'information figurant dans le projet de note d'information ;
 

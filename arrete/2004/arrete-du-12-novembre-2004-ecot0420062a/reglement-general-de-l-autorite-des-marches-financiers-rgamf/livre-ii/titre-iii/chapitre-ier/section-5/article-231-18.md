@@ -12,7 +12,7 @@ b) Le nombre et la nature des titres qu'il s'engage à acquérir ;
 
 c) Le nombre et la nature des titres de la société visée qu'il détient déjà, directement, indirectement ou de concert, ou qu'il peut détenir à sa seule initiative. Sont également précisées la date et les conditions auxquelles leur acquisition a été réalisée au cours des douze derniers mois ou peut être réalisée à l'avenir ;
 
-d) Le cas échéant, les conditions auxquelles l'offre est subordonnée en application des articles 231-9 à 231-12 ;
+d) Le cas échéant, les conditions auxquelles l'offre est subordonnée en application des articles 231-9-II à 231-12 ;
 
 e) Le calendrier prévisionnel de l'offre ;
 
@@ -20,7 +20,9 @@ f) Le cas échéant, le nombre et la nature des titres remis en échange par l'i
 
 g) Les conditions de financement de l'opération et leurs incidences sur les actifs, l'activité et les résultats des sociétés concernées ;
 
-3° Ses intentions pour une durée couvrant au moins les douze mois à venir relatives à la politique industrielle et financière des sociétés concernées ainsi qu'au maintien de l'admission des titres de capital ou donnant accès au capital de la société visée aux négociations sur un marché réglementé ;
+h) Si le seuil de caducité prévu au 1° de l'article 231-9-I est applicable à l'offre, le nombre d'actions et de droits de vote que ce seuil représente à la date de dépôt de l'offre et éventuellement les raisons pour lesquelles l'initiateur demande à l'AMF qu'il soit fait application du 2° de l'article 231-9 I.
+
+3° Ses intentions pour une durée couvrant au moins les douze mois à venir relatives à la politique industrielle et financière des sociétés concernées, le cas échéant, ses engagements et intentions spécifiques formalisés dans le cadre de la procédure d'information consultation du comité d'entreprise de la société visée prévue à l'article L. 2323-23 du code du travail ainsi qu'au maintien de l'admission des titres de capital ou donnant accès au capital de la société visée aux négociations sur un marché réglementé ;
 
 4° Ses orientations en matière d'emploi. L'initiateur indique notamment, eu égard aux données dont il a connaissance, et en cohérence avec ses intentions sur la politique industrielle et financière mentionnées au 3°, les changements prévisibles en matière de volume et de structure des effectifs ;
 

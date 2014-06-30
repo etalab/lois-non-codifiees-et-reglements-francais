@@ -12,9 +12,13 @@ II. - Cette lettre précise :
 
 3° Le prix ou la parité d'échange auxquels l'initiateur offre d'acquérir les titres, les éléments qu'il a retenus pour les fixer et les conditions de paiement ou d'échange prévues ;
 
-4° Eventuellement, les conditions prévues en application des articles 231-9 à 231-12 ;
+4° Eventuellement, les conditions prévues en application des articles 231-9-II à 231-12 ;
 
-5° Les modalités précises selon lesquelles seront acquis les instruments financiers de la société visée et, le cas échéant, l'identité du prestataire de services d'investissement désigné pour les acquérir pour le compte de l'initiateur.
+4° bis Si le seuil de caducité prévu au 1° de l'article 231-9-I est applicable à l'offre, le nombre d'actions et de droits de vote que ce seuil représente à la date de dépôt de l'offre et éventuellement les raisons pour lesquelles l'initiateur demande à l'AMF qu'il soit fait application du 2° de l'article 231-9-I ;
+
+5° Les modalités précises selon lesquelles seront acquis les instruments financiers de la société visée et, le cas échéant, l'identité du prestataire de services d'investissement désigné pour les acquérir pour le compte de l'initiateur ;
+
+6° Dans les cas prévus à l'article L. 2323-23-1 du code du travail, si la procédure d'information consultation du comité d'entreprise de la société visée prévue à l'article L. 2323-23 du code du travail a débuté à l'annonce de l'offre.
 
 III. - La lettre est accompagnée :
 

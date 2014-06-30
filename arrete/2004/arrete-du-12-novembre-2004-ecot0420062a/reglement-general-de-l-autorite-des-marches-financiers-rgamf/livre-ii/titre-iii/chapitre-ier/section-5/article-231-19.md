@@ -8,7 +8,9 @@ La note en réponse de la société visée, dont le contenu est précisé par un
 
 3° Le rapport de l'expert indépendant dans les cas prévus à l'article 261-1. La société visée peut, sous sa responsabilité, décider de ne pas mentionner certaines informations figurant dans le rapport de l'expert indépendant afin de ne pas porter atteinte à ses intérêts légitimes, sous réserve que cette omission ne risque pas d'induire le public en erreur ;
 
-4° L'avis motivé du conseil d'administration ou du conseil de surveillance ou, dans le cas d'une société étrangère, de l'organe compétent, sur l'intérêt de l'offre ou sur les conséquences de celle-ci pour la société visée, ses actionnaires et ses salariés. Les conditions de vote dans lesquelles cet avis a été obtenu sont précisées, les membres minoritaires pouvant demander qu'il soit fait état de leur identité et de leur position ;
+3° bis Dans les cas prévus aux articles L. 2323-21 à L. 2323-26-1 A du code du travail, l'avis du comité d'entreprise de la société visée et, le cas échéant, le rapport de l'expert-comptable réalisé pour le compte du comité d'entreprise en application des dispositions de l'article L. 2323-22-1 du code du travail ;
+
+4° L'avis motivé du conseil d'administration ou du conseil de surveillance ou, dans le cas d'une société étrangère, de l'organe compétent, sur l'intérêt de l'offre ou sur les conséquences de celle-ci pour la société visée, ses actionnaires et ses salariés, et, le cas échéant, les mesures susceptibles de faire échouer l'offre qu'elle a mises en œuvre, ou décide de mettre en œuvre. En cas de mesure nouvelle susceptible de faire échouer l'offre, la société publie un communiqué pour en informer le marché. Les conditions de vote dans lesquelles cet avis a été obtenu sont précisées, les membres minoritaires pouvant demander qu'il soit fait état de leur identité et de leur position ;
 
 5° Lorsqu'elles sont disponibles et diffèrent de l'avis mentionné au 4°, les observations du comité d'entreprise ou, à défaut, des délégués du personnel ou, à défaut, des membres du personnel ;
 

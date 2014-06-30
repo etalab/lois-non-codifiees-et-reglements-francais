@@ -8,9 +8,13 @@ I. - Groupe II :
 
 2° Sous-directeur exportation des matériels de guerre au secrétariat général de la défense et de la sécurité nationale ;
 
-3° Sous-directeur prospective et planification de sécurité, adjoint au directeur de la protection et de la sécurité de l'Etat au secrétariat général de la défense et de la sécurité nationale ;
+3° Sous-directeur des affaires internationales au secrétariat général de la défense et de la sécurité nationale ;
 
-4° Sous-directeur du centre opérationnel de la sécurité des systèmes d'information au secrétariat général de la défense et de la sécurité nationale.
+4° Sous-directeur de la non-prolifération, des sciences et des technologies au secrétariat général de la défense et de la sécurité nationale ;
+
+5° Sous-directeur prospective et planification de sécurité, adjoint au directeur de la protection et de la sécurité de l'Etat au secrétariat général de la défense et de la sécurité nationale ;
+
+6° Sous-directeur du centre opérationnel de la sécurité des systèmes d'information au secrétariat général de la défense et de la sécurité nationale.
 
 II. - Groupe III :
 
@@ -22,20 +26,24 @@ II. - Groupe III :
 
 4° Sous-directeur, secrétaire général à la direction de l'information légale et administrative ;
 
-5° Sous-directeur, secrétaire général à la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale ;
+5° Sous-directeur, secrétaire général du Commissariat général à l'égalité des territoires ;
 
-6° Sous-directeur des finances au secrétariat général de la défense et de la sécurité nationale ;
+6° Sous-directeur de la cohésion et du développement social à la direction de la ville et de la cohésion urbaine au Commissariat général à l'égalité des territoires ;
 
-7° Sous-directeur en charge de la protection et de la sécurité de la défense au secrétariat général de la défense et de la sécurité nationale ;
+7° Sous-directeur du renouvellement urbain, du développement économique et de l'emploi à la direction de la ville et de la cohésion urbaine au Commissariat général à l'égalité des territoires ;
 
-8° Sous-directeur de l'administration générale et ressources humaines du secrétariat général de la défense et de la sécurité nationale ;
+8° Sous-directeur de l'observation et des analyses statistiques à la direction des stratégies territoriales au Commissariat général à l'égalité des territoires ;
 
-9° Sous-directeur expertise au secrétariat général de la défense et de la sécurité nationale ;
+9° Sous-directeur des mutations économiques, de l'emploi et de l'innovation à la direction du développement des capacités des territoires au Commissariat général à l'égalité des territoires ;
 
-10° Sous-directeur systèmes d'information sécurisé au secrétariat général de la défense et de la sécurité nationale ;
+10° Sous-directeur des finances au secrétariat général de la défense et de la sécurité nationale ;
 
-11° Sous-directeur relations extérieures et coordination au secrétariat général de la défense et de la sécurité nationale ;
+11° Sous-directeur en charge de la protection et de la sécurité de la défense au secrétariat général de la défense et de la sécurité nationale ;
 
-12° Sous-directeur affaires internationales au secrétariat général de la défense et de la sécurité nationale ;
+12° Sous-directeur de l'administration générale et ressources humaines du secrétariat général de la défense et de la sécurité nationale ;
 
-13° Sous-directeur de la non-prolifération, des sciences et des technologies au secrétariat général de la défense et de la sécurité nationale.
+13° Sous-directeur expertise au secrétariat général de la défense et de la sécurité nationale ;
+
+14° Sous-directeur systèmes d'information sécurisé au secrétariat général de la défense et de la sécurité nationale ;
+
+15° Sous-directeur relations extérieures et coordination au secrétariat général de la défense et de la sécurité nationale.

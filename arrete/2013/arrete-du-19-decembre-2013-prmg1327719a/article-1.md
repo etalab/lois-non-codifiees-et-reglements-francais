@@ -6,9 +6,11 @@ I. - Groupe I :
 
 1° Chef de service, directeur adjoint à la direction de l'information légale et administrative ;
 
-2° Chef de service chargé de la prospective, des études, de l'évaluation et de l'action internationale à la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale ;
+2° Chef de service, chargé de la ville et de la cohésion urbaine, adjoint au directeur de la ville et de la cohésion urbaine au Commissariat général à l'égalité des territoires ;
 
-3° Chef du service de l'administration générale au secrétariat général de la défense et de la sécurité nationale.
+3° Chef de service, chargé des systèmes territoriaux et de l'accès aux services, adjoint au directeur du développement des capacités des territoires au Commissariat général à l'égalité des territoires ;
+
+4° Chef du service de l'administration générale au secrétariat général de la défense et de la sécurité nationale.
 
 II. - Groupe II :
 
