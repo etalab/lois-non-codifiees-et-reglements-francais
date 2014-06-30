@@ -10,6 +10,6 @@ II. - A titre transitoire et par dérogation au 3° de l'article 3 du décret du
 
 3° Fraction versée au titre de l'année 2016 : 6 mois de traitement indiciaire brut ;
 
-4° Fraction versée au titre des années 2017, 2018 et 2019 : 5 mois de traitement indiciaire brut.
+4° Fraction versée au titre des années 2017,2018 et 2019 : 5 mois de traitement indiciaire brut.
 
-III. - Les agents mentionnés au I qui sont affectés à Mayotte avant le 1er janvier 2014 conservent le bénéfice de l'indemnité d'éloignement dans les conditions prévues au 3° de l'article 3 du décret du 27 novembre 1996 susvisé, dans sa version applicable avant l'entrée en vigueur du présent décret, pour les fractions restant dues et non encore échues. Ils ne bénéficient pas de la majoration de traitement prévue par le décret du 28 octobre 2013 susvisé au titre des années civiles au cours desquelles ces fractions sont versées.
+III. - Les agents mentionnés au I qui sont affectés à Mayotte avant le 1er janvier 2014 conservent, pour les fractions restant dues et non encore échues, le bénéfice de l'indemnité d'éloignement telle que prévue par le décret du 27 novembre 1996 susvisé, dans sa version applicable avant l'entrée en vigueur du présent décret. L'indemnité est versée, chaque année, selon des fractions d'un montant identique, à la date anniversaire de l'affectation de l'agent. Ils ne bénéficient pas de la majoration de traitement prévue par le décret du 28 octobre 2013 susvisé au titre des années civiles au cours desquelles ces fractions sont versées.
