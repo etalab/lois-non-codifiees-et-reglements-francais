@@ -367,7 +367,6 @@
 - [Arrêté du 17 décembre 2002 (AGRA0202761A)](arrete-du-17-decembre-2002-agra0202761a)
 - [Arrêté du 17 décembre 2002 (EQUP0201927A)](arrete-du-17-decembre-2002-equp0201927a)
 - [Arrêté du 17 décembre 2002 (SOCC0211885A)](arrete-du-17-decembre-2002-socc0211885a)
-- [Arrêté du 17 janvier 2002 (MESP0220316A)](arrete-du-17-janvier-2002-mesp0220316a)
 - [Arrêté du 17 mai 2001 (ECOI0100130A)](arrete-du-17-mai-2001-ecoi0100130a)
 - [Arrêté du 18 avril 2002 (AGRR0200901A)](arrete-du-18-avril-2002-agrr0200901a)
 - [Arrêté du 18 avril 2002 (AGRR0200902A)](arrete-du-18-avril-2002-agrr0200902a)
