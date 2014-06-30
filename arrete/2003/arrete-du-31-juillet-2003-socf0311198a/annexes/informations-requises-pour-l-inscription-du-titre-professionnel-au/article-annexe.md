@@ -1,106 +1,106 @@
 # Article ANNEXE
 
+Informations requises pour l'inscription du titre professionnel au répertoire national des certifications professionnelles
+
 Intitulé :
 
-Titre professionnel : technicien de maintenance en appareils électroménagers.
+Titre professionnel : technicien (ne) de maintenance en multimédia et électrodomestique (ancien intitulé : technicien [ne] de maintenance en appareils électroménagers).
 
 Niveau : IV.
 
-Code NSF : 250 r.
+Codes NSF : 250 r, 255 r.
 
 Résumé du référentiel d'emploi
 
-Le technicien de maintenance en appareils électroménagers intervient sur différents appareils : les lave-linge, les lave-vaisselle, les sèche-linge, les appareils de cuisson, les appareils de conservation par le froid, les appareils annexes (groupes d'aspiration, climatiseurs mobiles, etc.).
+L'emploi de technicien (ne) est centré sur le service aux clients pour leur permettre l'usage en toute autonomie et sans dysfonctionnement d'équipements électroménagers, image, son et multimédia.
 
-9es activités assurées par le technicien de maintenance en appareils électroménagers en clientèle sont la mise en service (il installe tous types d'appareils, il fait la démonstration d'utilisation auprès du client, il respecte les normes de sécurité et vérifie si l'installation est dans les normes) et la maintenance (il organise sa tournée, s'informe auprès de l'usager des symptômes perçus, émet, à partir de ces informations, des hypothèses de dysfonctionnement et vérifie ces hypothèses, assure le dépannage, vérifie son travail et fait constater au client le bon fonctionnement de l'appareil, établit une facture et procède à son encaissement, gère son stock de pièces détachées). Il travaille aussi en atelier où il réceptionne les produits, constate l'anomalie et établit la fiche de réparation, planifie le déroulement de l'intervention, réalise, en respectant les règles de sécurité, le travail dans les délais prévus, assure la commande de pièces détachées, réalise des devis, tient à jour la documentation technique, assure la veille technique et utilise tous les médias actuels dans le cadre professionnel.
+Le (la) technicien (ne) est un professionnel qui réalise son activité à partir de la demande d'un client ou sur prescription dans un cadre technique, relationnel et commercial. Ses missions :
 
-Dans les entreprises de petite taille, il peut être amené à réaliser en plus des activités, en clientèle et à l'atelier, décrites ci-dessus, la livraison des appareils et la réalisation de petites installations de plomberie ou d'électricité en vue du raccordement des appareils.
+-conseiller un client à l'utilisation de ses équipements ;
 
-Il travaille sur une grande variété de produits dans des marques différentes, il doit donc s'adapter très rapidement à toutes les technologies utilisées ainsi qu'à leur évolution constante.
+-maintenir le fonctionnement des équipements.
 
-Le technicien de maintenance travaille seul, généralement chez le client et en sa présence.
+Le (la) technicien (ne) intervient en autonomie sur tous les appareils électroménagers et sur les équipements image, son et multimédia du diagnostic à la facturation.
 
-Pour accomplir sa tournée, il utilise une voiture de service contenant son outillage et son stock de pièces détachées qu'il doit gérer. A l'atelier, il effectue son travail sous le contrôle d'un chef d'atelier. Il est amené à prendre des décisions tant techniques que commerciales qui concilient les intérêts du client, de la société qui l'emploie, du magasin de vente et du fabricant.
+Le (la) technicien (ne) travaille sur une grande variété d'appareils de différentes marques et doit s'adapter très rapidement à toutes les technologies utilisées. Il (elle) est responsable de ses actes pouvant mettre en jeu la sécurité des personnes. Il (elle) respecte les règles de sécurité, de protection de l'environnement et les termes des contrats relatifs aux appareils.
 
-Capacités attestées et descriptif
+Le (la) technicien (ne) argumente sa facturation et réalise l'encaissement immédiat.
 
-des composantes de la certification
+Le (la) technicien (ne) travaille en présence du client et sous l'autorité de son responsable hiérarchique. Pour assurer ses missions, il est en relation avec les différents services de l'entreprise et les interlocuteurs des fabricants.
 
-1. Installer et mettre en service
+Représentant l'image de marque de son entreprise, le (la) technicien (ne) adopte une tenue vestimentaire correcte et un comportement professionnel orienté service. Il ou elle est constamment en relation direct avec le client, règle des problèmes, voire des litiges et à ce titre doit connaître le fonctionnement et les règles commerciales de l'entreprise.
 
-des appareils électroménagers
+Pour assurer son activité, le (la) technicien (ne) utilise une voiture de service contenant son outillage et son stock de pièces détachées qu'il ou elle se doit de gérer. Le permis de conduire B est impératif, il ou elle effectue quotidiennement environ 8 dépannages à domicile et réalise une tournée qui varie de 50 km à 250 km.
 
-Réaliser la livraison des appareils électroménagers en clientèle.
+Le (la) technicien (ne) exerce son activité parfois dans des conditions inconfortables, une bonne condition physique est indispensable. Il ou elle peut être amené à déplacer des charges lourdes et encombrantes tout en respectant son lieu d'intervention, les connaissances en manutention, gestes et postures sont nécessaires.
 
-Contrôler la conformité des raccordements eau et électrique en vue de l'installation d'appareil électroménager et conseiller le client.
+Le (la) technicien (ne) utilise des notices techniques rédigées en français ou en anglais.
 
-Configurer, paramétrer les appareils électroménagers et contrôler le bon fonctionnement des appareils électroménagers.
+Le (la) technicien (ne) doit s'adapter aux différents milieux socioculturels et respecter sans discrimination les clients et leur environnement.
 
-Réaliser la démonstration clientèle du fonctionnement des appareils électroménagers en vue d'une utilisation optimale.
+Afin de conseiller efficacement les clients, le (la) technicien (ne) doit exercer une veille permanente sur les évolutions techniques, technologiques et les différentes gammes des appareils.
 
-Maintenir des relations commerciales avec sa clientèle dans le cadre de la prestation d'une installation et/ou de la mise en service d'un appareil électroménager.
+Le (la) technicien (ne) peut être amené à travailler du lundi au samedi avec des jours de repos variables et les horaires peuvent être adaptés à la disponibilité du client.
 
-Finaliser ses interventions lors de la prestation d'une installation et/ou de la mise en service des appareils électroménagers et dans un cadre administratif, organisationnel et comptable.
+Capacités attestées et descriptif des composantes de la certification
 
-2. Réaliser la maintenance sur pannes répertoriées
+1. Installer des appareils électrodomestiques et multimédia :
 
-des appareils électroménagers
+-installer des appareils électroménagers ;
 
-Planifier sa charge quotidienne de travail en atelier de maintenance en électroménager.
+-installer des appareils image, son et multimédia.
 
-Réaliser le provisionnel de pièces à la lecture du bon de travail en vue du dépannage d'appareils électroménagers.
+2. Effectuer le diagnostic et la maintenance des appareils électrodomestiques :
 
-Poser un diagnostic sur un appareil électroménager en défaut.
+-diagnostiquer un dysfonctionnement sur des appareils électroménagers ;
 
-Identifier les causes de panne et remettre en état les appareils électroménagers.
+-remettre en état les appareils électroménagers.
 
-Maintenir des relations commerciales avec la clientèle en situation de dépannage d'appareil électroménager à domicile.
+3. Effectuer le diagnostic et la maintenance des appareils image, son et multimédia :
 
-Finaliser ses interventions lors de la prestation d'une activité de maintenance sur les appareils électroménagers et dans un cadre administratif, organisationnel et comptable.
+-diagnostiquer un dysfonctionnement sur des appareils image, son et multimédia ;
 
-3. Effectuer le diagnostic et réaliser la maintenance sur pannes
+-remettre en état les écrans plats.
 
-non répertoriées des appareils électroménagers
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Organiser sa charge de travail pour la journée d'intervention à domicile dans le cadre d'une activité de maintenance sur appareil électroménager.
+Les différents secteurs d'activités concernés sont principalement :
 
-Elaborer une méthode de dépannage visant les pannes non répertoriées sur les appareils électroménagers.
+Les entreprises de la maintenance des biens d'équipements multimédia et électrodomestiques se classent suivant leurs structures en GSA, GSS, STA ou PME (artisan).
 
-Résoudre ou faire résoudre une situation critique à distance dans le cadre de la maintenance sur les appareils électroménagers.
+GSA : grande surface alimentaire (ex : Carrefour, Auchan, Casino …).
 
-Assurer la veille technique dans le secteur électroménager.
+GSS : grande surface spécialisée (ex : Darty, Boulanger …).
 
-Maintenir des relations commerciales ou de communication avec son entourage professionnel dans le champ de la maintenance en appareils électroménagers.
+STA : station technique de service après-vente agréée par les marques.
 
-Participer à la gestion du SAV en lien avec un hiérarchique de l'entreprise.
+PME : petite moyenne entreprise (indépendant ou groupement d'artisans).
 
-Secteurs d'activités ou types d'emploi
+Technicien/ technicienne de maintenance en appareils électroménagers.
 
-accessibles par le détenteur du titre
+Dépanneur/ dépanneuse en matériels domestiques électroniques.
 
-Service après-vente SAV produits blancs de la grande distribution alimentaire (GSA).
+Dépanneur/ dépanneuse de maintenance en électronique grand public.
 
-Service après-vente SAV produits blancs de la grande distribution spécialisée (GSS).
+Dépanneur/ dépanneuse en télévision, hi-fi.
 
-Station technique agréée par constructeurs ou par les groupes de vente par correspondance service après-vente des constructeurs d'appareils électroménagers.
+Technicien/ technicienne en électroménager.
 
-Petite et moyenne entreprise de SAV produits blancs (technicien artisan).
+Technicien/ technicienne produits blanc.
 
-Technicien de maintenance chez les gros fabricants ou poseurs de cuisines aménagées.
+Dépanneur/ dépanneuse produits brun.
 
-Technicien de maintenance chez les entreprises de matériels professionnels de grande cuisine ou de collectivité.
+Technicien dépanneur/ technicienne dépanneuse gros électroménagers.
 
-Chef d'équipe dans les entreprises de reconditionnement ou recyclage d'appareils électroménagers en fin de vie (type entreprise d'insertion).
+Technicien dépanneur/ technicienne dépanneuse petits électroménagers.
 
-Codes ROME :
+Code ROME :
 
-52331 - Maintenicien en biens électrodomestiques ;
-
-52333 - Maintenicien en électronique.
+I1402-Réparation de biens électrodomestiques.
 
 Réglementation de l'activité :
 
-Néant.
+Articles R. 4544-9 et R. 4544-10 du code du travail : habilitation électrique délivrée par l'employeur au niveau BR pour la maintenance des appareils multimédia et électrodomestiques (norme NF C18-510).
 
 Autorité responsable de la certification :
 
@@ -108,8 +108,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
