@@ -199,7 +199,6 @@
 - [Décret n°81-1175 du 30 décembre 1981](decret-n81-1175-du-30-decembre-1981)
 - [Décret n°81-1178 du 30 décembre 1981](decret-n81-1178-du-30-decembre-1981)
 - [Décret n°81-1219 du 30 décembre 1981](decret-n81-1219-du-30-decembre-1981)
-- [Décret n°82-1012 du 30 novembre 1982](decret-n82-1012-du-30-novembre-1982)
 - [Décret n°82-1014 du 30 novembre 1982](decret-n82-1014-du-30-novembre-1982)
 - [Décret n°82-1164 du 30 décembre 1982](decret-n82-1164-du-30-decembre-1982)
 - [Décret n°82-1165 du 30 décembre 1982](decret-n82-1165-du-30-decembre-1982)
