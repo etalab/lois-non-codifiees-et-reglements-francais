@@ -1,5 +1,6 @@
 # TITRE IER : DISPOSITIONS RELATIVES AUX EMPLOIS FONCTIONNELS DE CHEFS DE SERVICE,  SOUS DIRECTEURS, EXPERTS DE HAUT NIVEAU ET DIRECTEURS DE PROJET
 
 - [Article 2](article-2.md)
+- [Article 2-1](article-2-1.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

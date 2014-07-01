@@ -1,7 +1,5 @@
 # Article 2
 
-Sous réserve de remplir les conditions fixées par l' article 3 du décret n° 2012-32 du 9 janvier 2012, peuvent être nommés aux emplois de chefs de service et de sous-directeurs de la direction générale de la sécurité extérieure :
+Les chefs de service assurent l'encadrement d'une division au sein de la direction générale de la sécurité extérieure. Ils peuvent également, simultanément ou non, occuper des fonctions d'adjoint d'une importance particulière auprès du directeur général et des directeurs de la direction générale de la sécurité extérieure.
 
-1° Les administrateurs de la direction générale de la sécurité extérieure, sous réserve des dispositions de l'article 24 du présent décret ;
-
-2° Les fonctionnaires et officiers de carrière.
+Les sous-directeurs sont chargés de l'encadrement d'un service de la direction générale de la sécurité extérieure ; ils peuvent également assister un directeur.
