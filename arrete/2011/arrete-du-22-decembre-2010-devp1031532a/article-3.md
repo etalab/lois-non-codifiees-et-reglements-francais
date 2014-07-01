@@ -4,7 +4,7 @@ Services proposés par le téléservice.
 
 I. ― Le téléservice met gratuitement à disposition des déclarants un ensemble de services accessibles par internet leur permettant :
 
-a) De visualiser la liste et les coordonnées des exploitants d'ouvrages connus du téléservice et situés dans ou à proximité de l'emprise des travaux qu'ils prévoient ;
+a) De visualiser la liste et les coordonnées des exploitants d'ouvrages connus du téléservice et situés dans ou à proximité de l'emprise des travaux qu'ils prévoient ; les exploitants de réseaux enregistrés sur le téléservice en tant que réseaux enterrés ou subaquatiques ne figurent pas dans cette liste si la nature des travaux prévus est strictement limitée à des travaux aériens ; les exploitants de réseaux enregistrés sur le téléservice en tant que ligne électrique aérienne à basse tension et à conducteurs isolés ne figurent dans cette liste que si la nature de travaux "ERE - élagage d'arbre enchevêtré dans réseau isolé" est mentionnée dans le formulaire de déclaration ;
 
 b) De disposer d'un numéro de consultation du téléservice ;
 
@@ -32,7 +32,9 @@ c) Le cas échéant, d'enregistrer et de mettre à jour les dénominations ou l'
 
 d) Le cas échéant, d'enregistrer et de mettre à jour les tracés en position géoréferencée des ouvrages souterrains non démantelés et arrêtés définitivement qui lui ont été communiqués par leurs exploitants ;
 
-e) De poser des questions relatives à l'utilisation des services offerts posées via des formulaires électroniques.
+e) D'exporter, préalablement à la remise d'un ouvrage à son propriétaire ou au transfert de son exploitation à un autre exploitant, l'ensemble des données relatives à cet ouvrage mentionnées au I de l'article R. 554-7 du code de l'environnement ;
+
+f) De poser des questions relatives à l'utilisation des services offerts posées via des formulaires électroniques.
 
 En application du I de l'article R. 554-7 du code de l'environnement, le téléservice classe un ouvrage non sensible comme sensible lorsque l'exploitant le déclare comme tel.
 
@@ -40,7 +42,7 @@ III. ― Le téléservice met à disposition des prestataires d'aide un ensemble
 
 a) D'accéder aux éléments relatifs aux exploitants que ces derniers transmettent au téléservice ;
 
-b) D'accéder au résultat d'une consultation réalisée directement auprès du téléservice à partir d'un numéro de consultation et de la clé secrète du déclarant associé à cette déclaration ;
+b) D'accéder au résultat d'une consultation réalisée directement auprès du téléservice à partir d'un numéro de consultation associé à cette déclaration ;
 
 IV. ― A raison de leurs attributions et pour les besoins exclusifs des missions qui leur sont confiées, le téléservice met gratuitement à disposition des agents chargés de l'urbanisme ou de la distribution de gaz ou de l'électricité des communes ou des établissements publics de coopération intercommunale et des syndicats mixtes, lorsque la compétence afférente à la distribution publique de gaz ou de l'électricité leur a été transférée un ensemble de services accessibles par internet leur permettant :
 
@@ -77,3 +79,11 @@ VII. ― Le téléservice transmet gratuitement, au minimum tous les trois mois,
 Une liste est remplacée au plus tôt par une nouvelle liste en cas de changement de toute information contenue par cette liste.
 
 VIII. ― L'obligation du téléservice mentionnée à l'article R. 554-4 du code de l'environnement relative à l'invitation des exploitants n'ayant pas rempli les obligations qui leur incombent à son égard est limitée aux informations portées à sa connaissance.
+
+Constituent le non-respect des obligations qui incombent aux exploitants notamment :
+
+- l'omission d'enregistrement de l'exploitant ou d'un de ses ouvrages dans le guichet unique ;
+
+- l'enregistrement d'informations erronées, par exemple sur la catégorie de l'ouvrage, sur les coordonnées pour l'envoi des déclarations, sur les communes d'implantation ou sur les zones d'implantation ;
+
+- l'enregistrement de doublons injustifiés.

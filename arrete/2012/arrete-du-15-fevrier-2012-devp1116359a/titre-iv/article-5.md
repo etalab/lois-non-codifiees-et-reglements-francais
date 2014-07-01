@@ -4,4 +4,4 @@ Les exploitants qui établissent les récépissés visés aux articles R. 554-22
 
 Lorsque le projet ou les travaux modifient ou sont susceptibles de modifier, en fin de réalisation, la profondeur d'enfouissement d'un ouvrage, l'exploitant concerné signale au responsable de projet l'éventuelle incompatibilité de ce projet ou de ces travaux avec les dispositions réglementaires applicables à la profondeur de l'ouvrage. Si le projet ou les travaux sont compatibles, l'exploitant modifie en conséquence les données de localisation géographique de son ouvrage.
 
-Pour tout ouvrage ou tronçon d'ouvrage mis en service postérieurement à la date de publication du présent arrêté, l'exploitant est tenu d'indiquer et garantir la classe de précision A.
+Pour tout ouvrage, tronçon d'ouvrage ou branchement mis en service postérieurement au 1er juillet 2012, l'exploitant est tenu d'indiquer et garantir la classe de précision A.
