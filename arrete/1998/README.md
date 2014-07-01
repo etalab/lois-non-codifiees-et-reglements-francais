@@ -454,7 +454,6 @@
 - [Arrêté du 16 septembre 1998 (EQUP9800864A)](arrete-du-16-septembre-1998-equp9800864a)
 - [Arrêté du 16 septembre 1998 (EQUP9800865A)](arrete-du-16-septembre-1998-equp9800865a)
 - [Arrêté du 16 septembre 1998 (MESS9823020A)](arrete-du-16-septembre-1998-mess9823020a)
-- [Arrêté du 17 août 1998 (ATEP9870291A)](arrete-du-17-aout-1998-atep9870291a)
 - [Arrêté du 17 août 1998 (ATEP9870296A)](arrete-du-17-aout-1998-atep9870296a)
 - [Arrêté du 17 août 1998 (ECOU9800018A)](arrete-du-17-aout-1998-ecou9800018a)
 - [Arrêté du 17 août 1998 (MESG9810924A)](arrete-du-17-aout-1998-mesg9810924a)

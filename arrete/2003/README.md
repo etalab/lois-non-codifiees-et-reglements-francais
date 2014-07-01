@@ -299,7 +299,6 @@
 - [Arrêté du 11 février 2003 (SANH0320538A)](arrete-du-11-fevrier-2003-sanh0320538a)
 - [Arrêté du 11 juillet 2003 (INDI0301747A)](arrete-du-11-juillet-2003-indi0301747a)
 - [Arrêté du 11 juillet 2003 (SANG0322655A)](arrete-du-11-juillet-2003-sang0322655a)
-- [Arrêté du 11 juin 2003 (DEVP0320114A)](arrete-du-11-juin-2003-devp0320114a)
 - [Arrêté du 11 juin 2003 (ECOP0300456A)](arrete-du-11-juin-2003-ecop0300456a)
 - [Arrêté du 11 juin 2003 (INTC0300331A)](arrete-du-11-juin-2003-intc0300331a)
 - [Arrêté du 11 mars 2003 (AGRA0300397A)](arrete-du-11-mars-2003-agra0300397a)
