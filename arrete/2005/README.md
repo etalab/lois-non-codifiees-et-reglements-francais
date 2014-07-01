@@ -564,7 +564,6 @@
 - [Arrêté du 30 mai 2005 (INTE0500370A)](arrete-du-30-mai-2005-inte0500370a)
 - [Arrêté du 30 mai 2005 (MENE0500956A)](arrete-du-30-mai-2005-mene0500956a)
 - [Arrêté du 30 mai 2005 (MENE0500957A)](arrete-du-30-mai-2005-mene0500957a)
-- [Arrêté du 31 août 2005 (SOCF0510744A)](arrete-du-31-aout-2005-socf0510744a)
 - [Arrêté du 31 décembre 2004 (EQUR0401133A)](arrete-du-31-decembre-2004-equr0401133a)
 - [Arrêté du 31 décembre 2004 (SANH0520003A)](arrete-du-31-decembre-2004-sanh0520003a)
 - [Arrêté du 31 janvier 2005 (MJSK0570011A)](arrete-du-31-janvier-2005-mjsk0570011a)
