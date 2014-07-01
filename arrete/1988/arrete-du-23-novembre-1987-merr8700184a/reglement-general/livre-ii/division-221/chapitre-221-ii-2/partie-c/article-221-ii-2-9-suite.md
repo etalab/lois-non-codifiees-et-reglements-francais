@@ -10,6 +10,7 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td width="38">
 <br/>
+<br/>
 </td>
 <td width="38">
 <p align="center">(1)</p>
@@ -89,6 +90,7 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
 <p align="center">C</p>
@@ -128,8 +130,10 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -167,11 +171,14 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
@@ -207,14 +214,18 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -245,17 +256,22 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -283,20 +299,26 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -321,23 +343,30 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -359,26 +388,34 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
@@ -397,29 +434,38 @@ Tableau 9.7 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
@@ -440,6 +486,7 @@ Tableau 9.8 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">au-dessous ↓</p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td width="38">
@@ -1016,13 +1063,9 @@ Les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarque
 
 6.1 A bord des navires à passagers transportant plus de 36 passagers, les cloisons et les ponts qui constituent les limites des locaux de catégorie spéciale et des espaces rouliers doivent être isolés selon la norme "A-60". Toutefois, lorsqu'un local de la catégorie (5), (9) ou (10) défini au paragraphe 2.2.3 se trouve de l'un des côtés du cloisonnement, on peut appliquer la norme inférieure "A-0". Lorsque des citernes de combustible liquide sont situées au-dessous d'un local de catégorie spéciale, le pont entre ces espaces peut être isolé selon la norme inférieure "A-0".
 
-6.2 A bord des navires à passagers ne transportant pas plus de 36 passagers, les cloisons qui constituent les limites verticales des locaux de catégorie spéciale doivent être isolées de la manière prescrite pour les locaux de la catégorie (11) dans le tableau 9.3 et les cloisonnements qui constituent les limites horizontales de la manière prescrite pour les locaux de la catégorie (11) dans le tableau 9.4.
+6.2 A bord des navires à passagers, on doit prévoir sur la passerelle de navigation des indicateurs signalant la fermeture des portes d'incendie servant d'accès ou d'issue aux locaux de catégorie spéciale.
 
-6.3 A bord des navires à passagers ne transportant pas plus de 36 passagers, les cloisons et les ponts délimitant les espaces rouliers fermés et ouverts doivent être isolés de la manière prescrite pour les locaux de la catégorie (8) dans le tableau 9.3 et les cloisonnements constituant les limites horizontales de la manière prescrite pour les locaux de la catégorie (8) dans le tableau 9.4.
-
-6.4 A bord des navires à passagers, on doit prévoir sur la passerelle de navigation des indicateurs signalant la fermeture des portes d'incendie servant d'accès ou d'issue aux locaux de catégorie spéciale.
-
-6.5 A bord des navires-citernes, afin d'assurer la protection des citernes à cargaison dans lesquelles sont transportés du pétrole brut et des produits pétroliers ayant un point d'éclair ne dépassant pas 60°C, on ne doit pas utiliser, pour les soupapes, accessoires, couvercles des ouvertures de citernes, tuyaux de dégagement des gaz de la cargaison et tuyautages à cargaison, des matériaux dont les caractéristiques sont facilement altérées par la chaleur, cela pour qu'un incendie ne puisse se propager à la cargaison.
+6.3 A bord des navires-citernes, afin d'assurer la protection des citernes à cargaison dans lesquelles sont transportés du pétrole brut et des produits pétroliers ayant un point d'éclair ne dépassant pas 60°C, on ne doit pas utiliser, pour les soupapes, accessoires, couvercles des ouvertures de citernes, tuyaux de dégagement des gaz de la cargaison et tuyautages à cargaison, des matériaux dont les caractéristiques sont facilement altérées par la chaleur, cela pour qu'un incendie ne puisse se propager à la cargaison.
 
 7 Dispositifs de ventilation
 

@@ -2,10 +2,14 @@
 
 Equivalences.
 
-1. L'autorité peut autoriser la mise en place à bord d'un navire d'installations, de matériaux, de dispositifs ou d'appareils ou d'autres procédures, fuel-oils de substitution ou méthodes visant au respect des dispositions, en remplacement de ceux qui sont prescrits par le présent chapitre, à condition que ces installations, matériaux, dispositifs ou appareils ou autres procédures, fuel-oils de substitution ou méthodes visant au respect des dispositions soient au moins aussi efficaces, du point de vue de la réduction des émissions, que ceux qui sont prescrits par le présent chapitre, y compris les normes énoncées dans les règles 213-6.13 et 213-6.14.
+1. L'Autorité compétente au titre de l'article 3-1 du décret n° 84-810 du 30 août 1984 relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution peut autoriser à bord d'un navire battant pavillon français la mise en place d'installations, de matériaux, de dispositifs ou d'appareils ou d'autres procédures, fuel-oils de substitution ou méthodes visant au respect des dispositions, en remplacement de ceux qui sont prescrits par le présent chapitre, à condition qu'ils soient au moins aussi efficaces, du point de vue de la réduction des émissions, que ceux qui sont prescrits par le présent chapitre, y compris les normes énoncées dans les règles 213-6.13 et 213-6.14.
 
-2. L'autorité qui autorise l'utilisation d'une installation, d'un matériau, d'un dispositif ou d'un appareil ou d'autres procédures, combustibles de substitution ou méthodes visant au respect des dispositions, en remplacement de ceux qui sont prescrits par le présent chapitre doit en communiquer les détails à l'OMI, qui les diffuse aux Parties à la Convention MARPOL 73/78 pour information et pour qu'il y soit donné suite, le cas échéant.
+2. Les navires qui recourent à des méthodes de réduction des émissions au lieu d'utiliser des combustibles marins répondant aux exigences énoncées à l'article 213-6.14 bis doivent prouver qu'ils :
 
-3. L'autorité devrait tenir compte de toutes les directives pertinentes que l'OMI aura pu élaborer à propos des équivalences prévues aux termes de la présente règle.
+-réalisent en permanence des réductions des émissions de dioxyde de soufre au moins équivalentes à celles qu'ils auraient obtenues, selon les valeurs déterminées à l'annexe 213-6. A8 ;
 
-4. L'autorité qui autorise l'utilisation des alternatives équivalentes indiquées au paragraphe 1 du présent article doit veiller à ne pas nuire ni porter atteinte à son environnement, à la santé de l'homme, aux biens ou à ses ressources ou celles d'autres Etats.
+-répondent aux critères spécifiés dans les instruments visés à l'annexe 213-6. A9 ;
+
+-ne nuisent ni ne portent atteinte à l'environnement, à la santé de l'homme, aux biens ou à ses ressources.
+
+3. Les systèmes de production électrique à quai constituent une mesure alternative visant à réduire les émissions.

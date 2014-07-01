@@ -68,7 +68,11 @@ b) Annexe IX de l'arrêté du 19 juillet 1954 : attestation conforme à l'annexe
 
 c) Annexe X de l'arrêté du 19 juillet 1954 : attestation conforme à l'annexe X de l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules ;
 
-d) Certificat de conformité initial : certificat de conformité initial conforme à l'annexe III de l'arrêté du 18 novembre 2005 relatif au contrôle de conformité initial prévu à l'article R. 323-25 du code de la route.
+d) Procès-verbal de contrôle de conformité initial :
+
+1. Véhicules utilitaires lourds d'un PTAC supérieur à 3 500 kg : annexe 3 de l'arrêté du 18 novembre 2005 modifié relatif au contrôle de conformité initial prévu à l'article R. 321-15 du code de la route.
+
+2. Véhicules utilitaires légers d'un PTAC inférieur ou égal à 3 500 kg : annexe 2 de l'arrêté du 14 mai 2014 relatif au contrôle de conformité initial des véhicules de PTAC inférieur ou égal à 3 500 kg.
 
 3.5. Autres justificatifs techniques
 

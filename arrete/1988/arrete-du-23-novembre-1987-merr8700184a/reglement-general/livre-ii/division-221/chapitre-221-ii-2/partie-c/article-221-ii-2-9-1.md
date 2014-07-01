@@ -252,6 +252,7 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td width="38">
 <br/>
+<br/>
 </td>
 <td width="38">
 <p align="center">(1)</p>
@@ -355,6 +356,7 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
 <p align="center">A-0a</p>
@@ -405,8 +407,10 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
@@ -455,14 +459,18 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
 <br/>
 </td>
 <td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -505,17 +513,22 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -555,17 +568,22 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -605,20 +623,26 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -655,23 +679,30 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -705,26 +736,34 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
@@ -755,29 +794,38 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -805,32 +853,42 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -855,35 +913,46 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -905,38 +974,50 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -955,41 +1036,54 @@ Tableau 9.1 - Cloisons qui ne constituent ni des limites de tranches verticales 
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -1012,6 +1106,7 @@ Tableau 9.2 - Ponts qui ne constituent ni des baïonnettes de tranches verticale
 <p align="center">au-dessous ↓</p>
 </td>
 <td width="38">
+<br/>
 <br/>
 </td>
 <td width="38">
@@ -1875,6 +1970,7 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td width="38">
 <br/>
+<br/>
 </td>
 <td width="38">
 <p align="center">(1)</p>
@@ -1960,6 +2056,7 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <p align="center">Ce</p>
@@ -1989,9 +2086,10 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
-<p align="center">A-15</p>
+<p align="center">A-30</p>
 </td>
 </tr>
 <tr>
@@ -2003,8 +2101,10 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2031,6 +2131,7 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 <p align="center">A-0d</p>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2047,11 +2148,14 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="37">
@@ -2077,9 +2181,10 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
-<p align="center">A-15</p>
+<p align="center">A-30</p>
 </td>
 </tr>
 <tr>
@@ -2091,14 +2196,18 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2132,17 +2241,22 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2173,20 +2287,26 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2214,23 +2334,30 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
+</td>
+<td valign="top" width="37">
+<br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2255,26 +2382,34 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
-<td valign="top" width="38">
+<td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2296,32 +2431,42 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
-<td valign="top" width="38">
+<td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -2337,36 +2482,46 @@ Tableau 9.3 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="37">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
-<td valign="top" width="38">
+<td valign="top" width="37">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
-<p align="center">A-0</p>
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<p align="center">A-30</p>
 </td>
 </tr>
 </tbody>
@@ -2385,6 +2540,7 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">au-dessous ↓</p>
 </td>
 <td width="43">
+<br/>
 <br/>
 </td>
 <td width="43">
@@ -2459,7 +2615,7 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">*</p>
 </td>
 <td valign="top" width="47">
-<p align="center">A-30</p>
+<p align="center">A-60</p>
 </td>
 </tr>
 <tr>
@@ -2500,7 +2656,7 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">*</p>
 </td>
 <td valign="top" width="47">
-<p align="center">A-0</p>
+<p align="center">A-30</p>
 </td>
 </tr>
 <tr>
@@ -2583,7 +2739,7 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">*</p>
 </td>
 <td valign="top" width="47">
-<p align="center">A-0</p>
+<p align="center">A-30</p>
 </td>
 </tr>
 <tr>
@@ -2789,6 +2945,7 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 </td>
 <td valign="top" width="43">
 <br/>
+<br/>
 </td>
 <td valign="top" width="47">
 <p align="center">A-30</p>
@@ -2846,20 +3003,20 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">A-60</p>
 </td>
 <td valign="top" width="43">
-<p align="center">A-15</p>
+<p align="center">A-30</p>
 </td>
 <td valign="top" width="40">
 <p align="center">A-30</p>
 <p align="center">A-0d</p>
 </td>
 <td valign="top" width="43">
-<p align="center">A-15</p>
+<p align="center">A-30</p>
 </td>
 <td valign="top" width="43">
 <p align="center">A-0</p>
 </td>
 <td valign="top" width="43">
-<p align="center">A-30</p>
+<p align="center">A-60</p>
 </td>
 <td valign="top" width="43">
 <p align="center">A-0</p>
@@ -2874,7 +3031,7 @@ Tableau 9.4 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">A-0</p>
 </td>
 <td valign="top" width="47">
-<p align="center">A-0</p>
+<p align="center">A-30</p>
 </td>
 </tr>
 </tbody>
@@ -2892,6 +3049,8 @@ c Les cloisons qui séparent la timonerie et la chambre des cartes l'une de l'au
 e Aux fins de l'application du paragraphe 2.2.1.1.2, "B-0" et "C" ont le sens de "A-0" lorsqu'ils apparaissent dans le tableau 9.3.
 
 f Il n'est pas nécessaire de mettre en place une isolation contre 1'incendie lorsque, de l'avis de l'Administration, les risques d'incendie dans un local de machines de la catégorie (7) sont faibles ou nuls.
+
+g Les navires construits avant le 1er juillet 2014 doivent satisfaire au moins aux prescriptions qui s'appliquaient au moment où le navire a été construit, ainsi qu'il est prévu à l'article 221-II. 2/1.2.
 
 * Lorsqu'un astérisque apparaît dans les tableaux, le cloisonnement doit être en acier ou autre matériau équivalent sans être nécessairement du type "A". Toutefois, lorsqu'un pont, autre qu'un pont de la catégorie (10), est percé pour permettre le passage de câbles électriques, de tuyautages et de conduits de ventilation, la traversée devrait être rendue étanche afin d'empêcher le passage de la fumée et des flammes. Les cloisonnements séparant les postes de sécurité (génératrices de secours) des ponts découverts peuvent comporter des ouvertures d'admission d'air dépourvues de moyens de fermeture, sauf s'il est installé un dispositif fixe d'extinction de l'incendie par le gaz.
 
@@ -3031,6 +3190,7 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td width="38">
 <br/>
+<br/>
 </td>
 <td width="38">
 <p align="center">(1)</p>
@@ -3116,6 +3276,7 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
 <p align="center">C</p>
@@ -3158,8 +3319,10 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -3200,11 +3363,14 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
@@ -3243,14 +3409,18 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -3284,17 +3454,22 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
@@ -3325,20 +3500,26 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
 <br/>
+<br/>
 </td>
 <td valign="top" width="39">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -3366,23 +3547,30 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -3407,26 +3595,34 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
@@ -3448,29 +3644,38 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
+<br/>
 <br/>
 </td>
 <td valign="top" width="38">
@@ -3489,36 +3694,46 @@ Tableau 9.5 - Intégrité au feu des cloisons qui séparent des locaux adjacents
 </td>
 <td valign="top" width="38">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
+<br/>
 </td>
 <td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<br/>
 <br/>
 </td>
 <td valign="top" width="39">
 <br/>
-</td>
-<td valign="top" width="38">
 <br/>
 </td>
 <td valign="top" width="38">
-<p align="center">*h</p>
+<br/>
+<br/>
+</td>
+<td valign="top" width="38">
+<p align="center">A-30</p>
 </td>
 </tr>
 </tbody>
@@ -3535,6 +3750,7 @@ Tableau 9.6 - Intégrité au feu des ponts qui séparent des locaux adjacents
 <p align="center">au-dessous ↓</p>
 </td>
 <td width="38">
+<br/>
 <br/>
 </td>
 <td width="38">
@@ -4041,9 +4257,7 @@ f Des cloisons du type "A-0" peuvent être utilisées lorsqu'on n'a pas l'intent
 
 g Il convient d'appliquer les dispositions de l'article 221-II-2/19.3.8 à l'égard des espaces à cargaison destinés au transport de marchandises dangereuses.
 
-h Les cloisons et ponts qui séparent les espaces rouliers doivent être rendus suffisamment étanches aux gaz et doivent avoir une intégrité au feu du type "A" dans la mesure où cela est possible et raisonnable, si de l'avis de l'Administration le risque d'incendie est faible ou nul.
-
-i Il n'est pas nécessaire de mettre en place une isolation contre l'incendie lorsque, de l'avis de l'Administration, le risque d'incendie dans un local de machines de la catégorie (7) est faible ou nul.
+h Il n'est pas nécessaire de mettre en place une isolation contre l'incendie lorsque, de l'avis de l'Administration, le risque d'incendie dans un local de machines de la catégorie (7) est faible ou nul.
 
 * Lorsqu'un astérisque apparaît dans les tableaux, le cloisonnement doit être en acier ou autre matériau équivalent, sans être nécessairement du type "A". Toutefois, lorsqu'un pont est percé pour permettre le passage de câbles électriques, de tuyautages et de conduits de ventilation, la traversée devrait, sauf si le pont est découvert, être rendue étanche afin d'empêcher le passage de la fumée et des flammes. Les cloisonnements séparant les postes de sécurité (génératrices de secours) des ponts découverts peuvent comporter des ouvertures d'admission d'air dépourvues de moyens de fermeture, sauf s'il est installé un dispositif fixe d'extinction de l'incendie par le gaz.
 

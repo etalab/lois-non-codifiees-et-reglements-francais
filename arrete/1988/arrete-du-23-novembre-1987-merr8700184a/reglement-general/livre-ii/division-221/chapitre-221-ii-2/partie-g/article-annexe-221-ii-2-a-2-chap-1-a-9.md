@@ -171,9 +171,11 @@ L'équipement individuel doit comprendre :
 
 .1 un revêtement de protection en tissu mettant la peau à l'abri de la chaleur de rayonnement du foyer et de l'atteinte accidentelle des flammes ou de la vapeur. Son enveloppe extérieure doit être résistante à l'eau ;
 
-.2 des bottes en caoutchouc ou autre matériau non conducteur d'électricité ; .3 un casque rigide assurant une protection efficace contre les chocs ;
+.2 des bottes en caoutchouc ou autre matériau non conducteur d'électricité ;
 
-.4 un fanal de sécurité électrique (lanterne portative) d'un type approuvé pouvant fonctionner pendant une période de trois heures au moins. Les fanaux de sécurité électriques utilisés à bord des navires-citernes et ceux qui sont destinés à être utilisés dans des zones dangereuses doivent être du type antidéflagrant ; et
+.3 un casque rigide assurant une protection efficace contre les chocs ;
+
+.4 un fanal de sécurité électrique (lanterne portative) d'un type approuvé pouvant fonctionner pendant une période de trois heures au moins. Les fanaux de sécurité électriques utilisés à bord des navires-citernes et ceux qui sont destinés à être utilisés dans des zones dangereuses doivent être du type antidéflagrant (1) ; et
 
 .5 une hache ayant un manche doté d'une isolation électrique haute tension.
 
@@ -181,9 +183,11 @@ L'équipement individuel doit être d'un type approuvé
 
 2.1.2 Appareil respiratoire
 
-Un appareil respiratoire doit être un appareil respiratoire autonome à air comprimé dont les bouteilles contiennent un volume d'air égal à 1 200 l au moins ou un autre appareil respiratoire autonome qui puisse fonctionner pendant 30 min au moins. Toutes les bouteilles à air comprimé pour appareil respiratoire doivent être interchangeables.
-
 L'appareil respiratoire doit être d'un type approuvé
+
+2.1.2.1. Un appareil respiratoire doit être un appareil respiratoire autonome à air comprimé dont les bouteilles contiennent un volume d'air égal à au moins 1 200 litres ou un autre appareil respiratoire autonome qui puisse fonctionner pendant 30 minutes au moins. Toutes les bouteilles à air comprimé pour appareil respiratoire doivent être interchangeables.
+
+2.1.2.2. L'appareil respiratoire à air comprimé doit être muni d'une alarme sonore et d'un voyant ou autre dispositif qui avertissent l'utilisateur avant que la bouteille ne contienne plus qu'un volume d'air de 200 litres.
 
 2.1.3 Câble de sécurité
 
@@ -231,7 +235,7 @@ Le présent chapitre contient les spécifications applicables aux extincteurs d'
 
 2 Approbation par type
 
-Tous les extincteurs d'incendie doivent être d'un modèle et d'une conception approuvés, compte tenu des directives élaborées par l'Organisation (1).
+Tous les extincteurs d'incendie doivent être d'un modèle et d'une conception approuvés, compte tenu des directives élaborées par l'Organisation (2).
 
 3 Spécifications techniques
 
@@ -255,7 +259,7 @@ Un extincteur d'incendie ne doit être rechargé qu'avec des recharges approuvé
 
 3.2.2.1 L'ajutage/le raccordement de tuyau et l'éjecteur doivent être en mesure de produire une mousse efficace pouvant éteindre un feu d'hydrocarbures, avec un taux d'application de la solution moussante d'au moins 200 l/min à la pression nominale du collecteur principal d'incendie.
 
-3.2.2.2 Le liquide émulseur doit être approuvé par l'Administration compte tenu des directives élaborées par l'Organisation(*).
+3.2.2.2 Le liquide émulseur doit être approuvé par l'Administration compte tenu des directives élaborées par l'Organisation (*).
 
 3.2.2.3 Le taux de foisonnement et le temps de vidange de la mousse produite par le diffuseur à mousse portatif ne doivent pas s'écarter de ± 10 % des valeurs calculées conformément au paragraphe 3.2.2.2.
 
@@ -275,11 +279,11 @@ Le présent chapitre contient les spécifications applicables aux dispositifs fi
 
 2.1.1 Agent d'extinction de l'incendie
 
-2.1.1.1 Si la quantité d'agent d'extinction de l'incendie doit assurer la protection de plus d'un local, il suffit de prévoir une quantité égale à la quantité la plus grande qui est nécessaire pour un local quelconque ainsi protégé.
+2.1.1.1 Si la quantité d'agent d'extinction de l'incendie doit assurer la protection de plus d'un local, il suffit de prévoir une quantité égale à la quantité la plus grande qui est nécessaire pour un local quelconque ainsi protégé. Les locaux adjacents qui sont équipés de dispositifs de ventilation indépendants et ne sont pas séparés par au moins des cloisonnements du type A-0 devraient être considérés comme un même local.
 
 2.1.1.2 Pour calculer la quantité d'agent d'extinction de l'incendie nécessaire, il faut ajouter le volume des réservoirs d'air de lancement, converti en volume d'air libre, au volume brut du local de machines. On peut, en variante, installer un tuyau de refoulement à partir des soupapes de sûreté, qui débouche directement à l'air libre.
 
-2.1.1.3 Des moyens doivent être prévus pour que le personnel puisse vérifier en toute sécurité la quantité d'agent d'extinction de l'incendie dans les réservoirs.
+2.1.1.3 Des moyens doivent être prévus pour que le personnel puisse vérifier en toute sécurité la quantité d'agent d'extinction de l'incendie dans les réservoirs. Il ne doit pas être nécessaire à cette fin de retirer complètement les réservoirs de l'endroit où ils sont fixés. Dans le cas des dispositifs à gaz carbonique, doivent être prévus des barres auxquelles suspendre un appareil de pesage au-dessus de chaque rangée de bouteilles ou d'autres moyens. Dans le cas des autres types d'agents d'extinction, on peut utiliser des indicateurs de surface appropriés.
 
 2.1.1.4 Les réservoirs de stockage de l'agent d'extinction de l'incendie et le matériel associé sous pression doivent être conçus conformément aux recueils de règles pratiques relatives aux récipients sous pression jugés satisfaisants par l'Administration, compte tenu de leur emplacement et des températures ambiantes maximales de service prévues.
 
@@ -297,7 +301,7 @@ Les températures extrêmes à considérer sont, en règle générale, 0°C et 5
 
 2.1.3.1 Les tuyaux nécessaires pour amener l'agent d'extinction dans les locaux protégés doivent être munis de sectionnements de commande portant une marque indiquant clairement les locaux où aboutissent les tuyaux. Des moyens appropriés doivent être mis en place pour empêcher que l'agent d'extinction ne puisse être déchargé par inadvertance dans le local. Lorsqu'un espace à cargaison équipé d'un dispositif d'extinction de l'incendie par le gaz est utilisé comme local à passagers, son raccordement avec la distribution de gaz doit être supprimé pendant la durée de cette affectation. Les tuyaux peuvent traverser les locaux d'habitation à condition d'être suffisamment épais et d'avoir été soumis, après installation, à un essai de pression à une pression minimale de 5 N/mm2, pour en vérifier l'étanchéité. En outre, les tuyaux qui traversent les locaux d'habitation ne doivent comporter que des joints soudés et ne doivent pas être munis d'orifices d'assèchement ou autres ouvertures à l'intérieur de ces locaux. Les tuyaux ne doivent pas traverser des locaux réfrigérés.
 
-2.1.3.2 Un signal sonore automatique doit annoncer l'envoi de l'agent d'extinction de l'incendie dans tout espace roulier et autre local où normalement le personnel travaille ou a accès. L'alarme précédant l'envoi doit se déclencher automatiquement (par exemple, lorsque la porte du dispositif de libération s'ouvre). L'alarme doit retentir pendant toute la durée du temps nécessaire pour évacuer le local et en tout cas, 20 s. au moins avant que l'agent d'extinction soit envoyé. Toutefois, les espaces à cargaison classiques et les petits espaces (tels que les locaux dans lesquels sont entreposés les compresseurs, les magasins à peinture, etc.) qui sont uniquement munis d'un dispositif d'envoi local n'ont pas besoin d'être pourvus d'une telle alarme.
+2.1.3.2 Un signal sonore automatique doit annoncer l'envoi de l'agent d'extinction de l'incendie dans tout espace roulier et autre local où normalement le personnel travaille ou a accès. L'alarme précédant l'envoi doit se déclencher automatiquement (par exemple, lorsque la porte du dispositif de libération s'ouvre).
 
 Le signal doit être sonore et lumineux. Il doit être alimenté par la source d'énergie de secours et la source transitoire d'énergie de secours si elle existe. Il doit être distinct de toute autre alarme. Son bon fonctionnement doit être vérifié périodiquement.
 
@@ -313,21 +317,25 @@ Des moyens doivent être prévus pour permettre de souffler les tuyautages en av
 
 2.2.1.1 Pour les espaces à cargaison, la quantité de gaz carbonique disponible doit, sauf disposition contraire, correspondre à un volume de gaz libre au moins égal à 30 % du volume brut du plus grand espace à cargaison à protéger à bord du navire.
 
-2.2.1.2 Pour les locaux de machines, la quantité de gaz carbonique amenée par le tuyautage doit être suffisante pour fournir un volume de gaz libre égal au moins au plus grand des deux volumes suivants :
+2.2.1.2 Dans le cas des locaux à véhicules et des espaces rouliers qui ne sont pas des locaux de catégorie spéciale, la quantité de gaz carbonique disponible doit permettre au moins de fournir un volume minimal de gaz libre égal à 45 % du volume brut du plus grand espace à cargaison de ce type pouvant être rendu étanche aux gaz et l'installation doit être conçue de manière à assurer l'arrivée des deux tiers au moins du gaz requis dans le local ou l'espace en question dans un délai maximal de dix minutes. Les dispositifs à gaz carbonique ne doivent pas être utilisés pour la protection des locaux de catégorie spéciale.
+
+2.2.1.3 Pour les locaux de machines, la quantité de gaz carbonique amenée par le tuyautage doit être suffisante pour fournir un volume de gaz libre égal au moins au plus grand des deux volumes suivants :
 
 .1 40 % du volume brut du plus grand local de machines ainsi protégé, volume duquel est exclue la partie du tambour située au-dessus du niveau où la surface horizontale du tambour est égale à 40 % ou moins de la surface horizontale du local considéré, mesurée à mi-distance entre le plafond de ballast et la partie inférieure du tambour ; ou
 
 .2 35 % du volume brut du plus grand local de machines protégé, y compris le tambour.
 
-2.2.1.3 Les pourcentages spécifiés au paragraphe 2.2.1.2 ci-dessus peuvent être ramenés respectivement à 35 % et à 30 % dans le cas des navires de charge d'une jauge brute inférieure à 2 000 lorsque deux locaux de machines ou plus qui ne sont pas complètement séparés sont considérés comme formant un seul local.
+2.2.1.4 Les pourcentages spécifiés au paragraphe 2.2.1.2 ci-dessus peuvent être ramenés respectivement à 35 % et à 30 % dans le cas des navires de charge d'une jauge brute inférieure à 2 000 lorsque deux locaux de machines ou plus qui ne sont pas complètement séparés sont considérés comme formant un seul local.
 
-2.2.1.4 Aux fins de l'application du présent paragraphe, le volume occupé par le gaz carbonique libre est calculé sur la base de 0,56 m3/kg.
+2.2.1.5 Aux fins de l'application du présent paragraphe, le volume occupé par le gaz carbonique libre est calculé sur la base de 0,56 m3/kg.
 
-2.2.1.5 Pour les locaux de machines, le tuyautage fixe doit être tel qu'il puisse amener 85 % du volume de gaz prescrit en moins de 2 min.
+2.2.1.6 Pour les locaux de machines, le tuyautage fixe doit être tel qu'il puisse amener 85 % du volume de gaz prescrit en moins de 2 min.
+
+2.2.1.7 Dans le cas des espaces à conteneurs et à marchandises diverses (censés transporter essentiellement une variété de cargaisons assujetties ou chargées séparément), le circuit de tuyautages fixe doit être tel qu'il puisse acheminer au moins les deux tiers du gaz dans l'espace dans un délai de dix minutes. Dans le cas des espaces contenant une cargaison solide en vrac, le circuit de tuyautages fixe doit être tel qu'au moins les deux tiers du volume de gaz puissent être libérés dans l'espace dans un délai de vingt minutes. Les commandes du dispositif doivent être configurées de manière à permettre de libérer le tiers, les deux tiers ou la totalité de la quantité de gaz, suivant l'état de chargement de la cale.
 
 2.2.2 Commandes
 
-Les dispositifs à gaz carbonique doivent satisfaire aux dispositions suivantes :
+Les dispositifs à gaz carbonique destinés à protéger les espaces rouliers, les cales à conteneurs équipées de conteneurs frigorifiques intégraux, les espaces accessibles par des portes ou des écoutilles et d'autres locaux où du personnel normalement travaille ou auxquels il a accès doivent satisfaire aux prescriptions suivantes :
 
 .1 on doit prévoir deux commandes indépendantes pour libérer le gaz carbonique dans un espace protégé et pour garantir le déclenchement de l'alarme. L'une des commandes est utilisée pour l'ouverture de la soupape de tuyautage acheminant le gaz dans le local protégé et l'autre pour la décharge des réservoirs de stockage ; et
 
@@ -337,95 +345,195 @@ Les dispositifs à gaz carbonique doivent satisfaire aux dispositions suivantes 
 
 La ou les chaudières disponibles pour fournir la vapeur doivent avoir une production de vapeur d'au moins 1 kg pour 0,75 m3 du volume brut du plus grand local ainsi protégé. Les dispositifs doivent satisfaire aux dispositions qui précèdent et ils doivent en outre, à tous égards, être conformes aux prescriptions de l'Administration et être jugés satisfaisants par celle-ci.
 
-2.4 Dispositifs utilisant un produit de combustion gazeux
+2.4 Dispositifs fixes d'extinction de l'incendie par le gaz équivalents, destinés aux locaux de machines et aux chambres des pompes à cargaison
 
-2.4.1 Généralités
+Les dispositifs fixes d'extinction de l'incendie par le gaz équivalents à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4 doivent être approuvés par l'Administration, compte tenu des directives élaborées par l'Organisation (3).
 
-Lorsqu'un gaz autre que le gaz carbonique, ou la vapeur dans les cas prévus au paragraphe 2.3, est produit à bord du navire et est utilisé comme agent d'extinction, le dispositif doit satisfaire aux prescriptions du paragraphe 2.4.2.
+2.5 Dispositifs à gaz autorisé
 
-2.4.2 Prescriptions applicables aux dispositifs
+2.5.1 Les gaz extincteurs autorisés pouvant être utilisés comme agents d'extinction dans les locaux de machines de catégorie A et dans les chambres des pompes à cargaison sont conformes aux prescriptions du chapitre 322-6 de la division 322.
 
-2.4.2.1 Produits gazeux
+2.5.2 Nonobstant les dispositions du paragraphe 2.1 du présent chapitre 5, les dispositifs fixes d'extinction de l'incendie par le gaz utilisant les gaz extincteurs autorisés sont conformes aux prescriptions du chapitre 322-6 de la division 322.
 
-Le gaz doit être un produit de combustion gazeux dont la teneur en oxygène, en oxyde de carbone, en éléments corrosifs et en éléments combustibles solides ne dépasse pas la limite autorisée.
+2.5.3 Les récipients ne peuvent être installés à l'intérieur des locaux protégés que dans la mesure où la température susceptible de régner dans ces locaux est compatible avec la température maximale que peuvent supporter les récipients.
 
-2.4.2.2 Capacité des dispositifs d'extinction de l'incendie
-
-2.4.2.2.1 Lorsqu'un tel gaz est l'agent d'extinction utilisé dans un dispositif fixe d'extinction de l'incendie destiné à protéger les locaux de machines, il doit assurer une protection équivalente à celle qui est fournie par un dispositif fixe utilisant du gaz carbonique.
-
-2.4.2.2.2 Lorsqu'un tel gaz est l'agent d'extinction utilisé dans un dispositif fixe d'extinction de l'incendie destiné à protéger des espaces à cargaison, il doit être en quantité suffisante pour fournir, par heure et pendant une période de 72 h, un volume de gaz libre au moins égal à 25 % du volume brut du plus grand local protégé de cette façon.
-
-2.5 Dispositifs fixes d'extinction de l'incendie par le gaz équivalents, destinés aux locaux de machines et aux chambres des pompes à cargaison
-
-Les dispositifs fixes d'extinction de l'incendie par le gaz équivalents à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4 doivent être approuvés par l'Administration, compte tenu des directives élaborées par l'Organisation (2).
-
-2.6 Dispositifs à gaz autorisé
-
-2.6.1 Les gaz extincteurs autorisés pouvant être utilisés comme agents d'extinction dans les locaux de machines de catégorie A et dans les chambres des pompes à cargaison sont conformes aux prescriptions du chapitre 322-6 de la division 322.
-
-2.6.2 Nonobstant les dispositions du paragraphe 2.1 du présent chapitre 5, les dispositifs fixes d'extinction de l'incendie par le gaz utilisant les gaz extincteurs autorisés sont conformes aux prescriptions du chapitre 322-6 de la division 322.
-
-2.6.3 Les récipients ne peuvent être installés à l'intérieur des locaux protégés que dans la mesure où la température susceptible de régner dans ces locaux est compatible avec la température maximale que peuvent supporter les récipients.
-
-2.6.4 Lorsque, soit en application de dispositions réglementaires, soit à titre facultatif, il est prévu deux charges de gaz autorisé pouvant être émises successivement et séparément dans un local, les récipients contenant la deuxième charge sont installés à l'extérieur du local protégé.
+2.5.4 Lorsque, soit en application de dispositions réglementaires, soit à titre facultatif, il est prévu deux charges de gaz autorisé pouvant être émises successivement et séparément dans un local, les récipients contenant la deuxième charge sont installés à l'extérieur du local protégé.
 
 CHAPITRE 6
 
 DISPOSITIFS FIXES D'EXTINCTION DE L'INCENDIE A MOUSSE
 
-1 Application
+1. Application.
 
-Le présent chapitre contient les spécifications applicables aux dispositifs fixes d'extinction de l'incendie à mousse qui sont prescrits aux termes du chapitre II-2 de la division 221.
+Le présent chapitre contient les spécifications applicables aux dispositifs fixes d'extinction de l'incendie à mousse qui sont destinés à protéger les locaux de machines conformément à l'article 221-II-2/10.4.1.1.2 de la Convention, les espaces à cargaison conformément à l'article 221-II-2/10.7.1.1, les chambres des pompes à cargaison conformément à l'article 221-II-2/10.9.1.2 et les locaux à véhicules, les locaux de catégorie spéciale et les espaces rouliers conformément à l'article 221-II-2/20.6.1.3. Le présent chapitre ne s'applique pas aux chambres des pompes à cargaison des navires-citernes pour produits chimiques qui transportent des cargaisons liquides visées à l'article 221-II-2/1.6.2 de la Convention, sauf si l'autorité compétente accepte expressément l'utilisation de ces dispositifs sur la base d'essais supplémentaires avec du combustible à base d'alcool et de la mousse résistant aux alcools. Sauf disposition expresse contraire, les prescriptions du présent chapitre s'appliquent aux navires construits le 1er janvier 2014 ou après cette date.
 
-2 Spécifications techniques
+2. Définitions.
 
-2.1 Généralités
+2.1. Le taux de remplissage de référence est le taux de remplissage nominal minimal utilisé lors des essais d'approbation.
 
-Les dispositifs fixes d'extinction de l'incendie à mousse doivent pouvoir fournir de la mousse capable d'éteindre les feux d'hydrocarbures.
+2.2. La mousse est l'agent d'extinction qui se forme lorsque la solution moussante produite par un générateur de mousse se mélange à l'air.
 
-2.2 Dispositifs fixes d'extinction de l'incendie à mousse à haut foisonnement
+2.3. Une solution moussante est une solution de liquide émulseur et d'eau.
 
-2.2.1 Quantité de liquide émulseur et efficacité des liquides émulseurs
+2.4. Un liquide émulseur est le liquide qui, lorsqu'il est mélangé à de l'eau sous une concentration appropriée, produit une solution moussante.
 
-2.2.1.1 Les liquides émulseurs des dispositifs d'extinction de l'incendie à mousse à haut foisonnement doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (3).
+2.5. Les conduits de décharge de mousse sont les conduits qui acheminent la mousse dans le local ou l'espace protégé depuis les générateurs de mousse situés à l'extérieur du local ou de l'espace protégé.
 
-2.2.1.2 Tout dispositif fixe à mousse à haut foisonnement prescrit dans les locaux de machines doit pouvoir projeter rapidement, à travers des orifices de décharge fixes, une quantité de mousse suffisante pour remplir le plus grand des locaux à protéger à raison d'au moins un mètre d'épaisseur par minute. La quantité de liquide émulseur disponible doit permettre de produire un volume de mousse égal à cinq fois le volume du plus grand des locaux à protéger. Le taux de foisonnement de la mousse ne doit pas dépasser 1000.
+2.6. Le taux de mélange de la mousse est le pourcentage de liquide émulseur mélangé à de l'eau qui produit la solution moussante.
 
-La capacité du dispositif doit être suffisante pour remplir le plus grand des locaux protégés à raison d'au moins 1 mètre d'épaisseur par minute si les volumes occupés par les appareils ou installations ne sont pas déduits, ou 1,5 m d'épaisseur si ces volumes sont déduits.
+2.7. Les générateurs de mousse sont les dispositifs ou montages au moyen desquels la solution moussante à haut foisonnement est aérée pour former la mousse qui est déchargée directement dans le local ou l'espace protégé. Les générateurs de mousse à air intérieur comportent le plus souvent un ajutage ou une série d'ajutages et une enveloppe. L'enveloppe est constituée normalement de plaques d'acier ou d'acier inoxydable perforées qui forment une boîte renfermant le ou les ajutages. Les générateurs de mousse à air extérieur comportent normalement des ajutages entourés d'une enveloppe qui projettent sur un écran. Un ventilateur à commande électrique, hydraulique ou pneumatique permet d'aérer la solution.
 
-2.2.1.3 L'Administration peut autoriser d'autres dispositifs et d'autres débits lorsqu'il est établi qu'une protection équivalente est ainsi assurée.
+2.8. Les dispositifs fixes d'extinction de l'incendie à mousse à haut foisonnement sont des dispositifs fixes d'extinction par noyage total qui utilisent de l'air intérieur ou extérieur pour aérer la solution moussante. Un dispositif d'extinction à mousse à haut foisonnement comprend à la fois les générateurs de mousse et leur liquide émulseur spécifique approuvé au cours de la mise à l'essai au feu prescrite en 3.1.3.
 
-2.2.2 Prescriptions concernant l'installation
+2.9. Le dispositif d'extinction à mousse à air intérieur est un dispositif fixe d'extinction de l'incendie à mousse à haut foisonnement dont les générateurs de mousse sont situés à l'intérieur du local ou de l'espace protégé et aspirent l'air de ce local ou de cet espace.
 
-2.2.2.1 Les conduits qui amènent la mousse, les prises d'air du générateur de mousse et le nombre des appareils de production de mousse doivent, de l'avis de l'Administration, permettre une production et une répartition efficaces de la mousse.
+2.10. Le débit nominal est le débit de la solution moussante, exprimé en l/ min.
 
-Les appareils de production de mousse doivent être d'un type autorisé.
+2.11. Le taux nominal d'application est le débit nominal par unité de surface exprimé en l/ min/ m ².
 
-2.2.2.2 La disposition du tuyautage de décharge du générateur de mousse doit être telle que les appareils de production de mousse ne puissent pas être endommagés par un incendie qui se déclarerait dans le local protégé. Si les générateurs de mousse se trouvent à côté du local protégé, des conduits de décharge doivent être installés de manière à ce que les générateurs se trouvent à une distance d'au moins 450 mm du local protégé. Les conduits de décharge de mousse doivent être fabriqués dans un acier d'une épaisseur d'au moins 5 mm. De plus, des volets en acier inoxydable (à une ou plusieurs lames) d'une épaisseur d'au moins 3 mm doivent être installés aux ouvertures situées dans les cloisons ou ponts qui séparent les générateurs de mousse et le local protégé. Les volets doivent être actionnés automatiquement (par un système électrique, pneumatique ou hydraulique) au moyen de la commande à distance du générateur de mousse correspondant.
+2.12. Le taux nominal de foisonnement est le rapport entre le volume de mousse et le volume de la solution moussante à partir de laquelle la mousse a été produite sans scénario d'incendie et à une température ambiante d'environ 20° C par exemple.
 
-Les volets d'obturation des conduits de décharge de la mousse doivent pouvoir être ouverts manuellement, même s'il est prévu une ouverture automatique. Il doit être possible d'obturer, si nécessaire, les conduits de décharge de la mousse après emploi de l'installation.
+2.13. Le taux nominal de production de mousse est le volume de mousse produit par unité de temps, soit le débit nominal multiplié par le taux nominal de foisonnement, exprimé en m ³/ min.
 
-2.2.2.3 Le générateur de mousse, ses sources d'énergie, le liquide émulseur et les organes de commande du dispositif doivent être aisément accessibles et simples à utiliser et doivent être groupés en des endroits aussi peu nombreux que possible ne risquant pas d'être isolés par un incendie qui se déclarerait dans le local protégé.
+2.14. Le taux nominal de remplissage est le rapport entre la production nominale de mousse et la surface, exprimé en m ²/ min.
 
-Il doit être possible d'effectuer périodiquement l'essai des appareils de production de mousse avec production réelle de mousse.
+2.15. La durée nominale de remplissage est le rapport entre la hauteur du local ou de l'espace protégé et le taux nominal de remplissage, exprimé en minutes.
 
-Il doit être prévu un moyen permettant l'évacuation de l'air du local protégé pendant l'admission de mousse.
+2.16. Un dispositif d'extinction à mousse à air extérieur est un dispositif fixe d'extinction de l'incendie à mousse à haut foisonnement dont les générateurs de mousse sont situés à l'extérieur du local ou de l'espace protégé et sont alimentés directement en air frais.
 
-Les dispositions nécessaires doivent être prises pour que le fonctionnement de l'installation ne puisse être compromis par le gel.
+3. Dispositifs fixes d'extinction de l'incendie à mousse à haut foisonnement.
 
-2.3 Dispositifs fixes d'extinction à mousse à bas foisonnement
+3.1. Caractéristiques principales.
 
-2.3.1 Quantité de liquide émulseur et efficacité des liquides émulseurs
+3.1.1. Le dispositif doit pouvoir être actionné manuellement et doit être conçu de manière à produire de la mousse au taux d'application prescrit dans un délai d'une minute après avoir été actionné. Le dispositif ne peut être à déclenchement automatique que s'il est prévu des mesures d'exploitation ou des verrouillages appropriés pour éviter que les dispositifs à usage local prescrits par l'article 221-II-2/10.5.6 de la Convention ne nuisent à l'efficacité du dispositif.
 
-2.3.1.1 Les liquides émulseurs des dispositifs d'extinction à mousse à bas foisonnement doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (4).
+3.1.2. Les liquides émulseurs doivent être approuvés par l'Administration compte tenu des directives élaborées par l'OMI (2). Aucun mélange de liquides émulseurs de types différents ne doit être utilisé dans un dispositif à mousse à haut foisonnement.
 
-2.3.1.2 Le dispositif doit pouvoir projeter, à travers des orifices de décharge fixes, en moins de 5 minutes, une quantité de mousse suffisante pour recouvrir efficacement la plus grande surface individuelle sur laquelle le combustible est susceptible de se répandre.
+3.1.3. Le dispositif doit pouvoir éteindre l'incendie et doit être fabriqué et mis à l'essai à la satisfaction de l'autorité compétente compte tenu des directives élaborées par l'OMI (3).
 
-2.3.2 Prescriptions concernant l'installation
+3.1.4. Le dispositif et ses composants doivent être conçus de manière à pouvoir résister aux variations de la température ambiante, aux vibrations, à l'humidité, aux chocs, à l'encrassement et à la corrosion que l'on rencontre normalement à bord des navires. Les tuyautages, les raccords et les composants connexes qui se trouvent dans les locaux protégés (à l'exception des joints) doivent être conçus de manière à résister à une température de 925° C.
 
-2.3.2.1 Il faut prévoir une installation fixe de tuyautages, de robinets et de soupapes de commande qui permette d'acheminer la mousse de manière efficace jusqu'aux orifices de décharge appropriés et qui comporte des diffuseurs fixes permettant de diriger de manière efficace la mousse sur les principaux autres endroits des locaux protégés où un incendie risque de se déclarer. Il faut démontrer à l'Administration, au moyen de calculs ou d'essais, que l'installation prévue pour répartir la mousse de manière efficace est acceptable.
+3.1.5. Les tuyautages du dispositif, les réservoirs de stockage du liquide émulseur, les composants et les accessoires des tuyautages du dispositif qui sont en contact avec le liquide émulseur doivent être compatibles avec le liquide émulseur et être fabriqués dans des matériaux résistant à la corrosion, tels que l'acier inoxydable ou un matériau équivalent. Les autres circuits de tuyautages et générateurs de mousse du dispositif doivent être entièrement en acier galvanisé ou être fabriqués dans un matériau équivalent. Les tuyautages de distribution doivent être à purge automatique.
 
-2.3.2.2 Les organes de commande de ces dispositifs doivent être aisément accessibles et être simples à utiliser et doivent être groupés en des endroits aussi peu nombreux que possible ne risquant pas d'être isolés par un incendie qui se déclarerait dans le local protégé.
+3.1.6. Il faut prévoir, en vue de vérifier que le dispositif fonctionne avec la pression et le débit requis, d'installer des manomètres aux deux entrées (alimentation en eau et en liquide émulseur) et à la sortie de l'injecteur de mousse. Il faut installer une soupape de contrôle sur les tuyautages de distribution, en aval de l'injecteur de mousse, avec des diaphragmes correspondant à la chute de pression calculée du dispositif. Toutes les sections du circuit de tuyautages doivent être équipées de raccords pour le nettoyage, la vidange et la purge à l'air. Il faut pouvoir retirer tous les ajutages pour les inspecter afin de vérifier qu'ils ne sont pas obstrués par des débris.
+
+3.1.7. Des moyens doivent être prévus pour permettre à l'équipage de vérifier en toute sécurité le volume de liquide émulseur et de prélever régulièrement des échantillons témoins afin de vérifier la qualité de la mousse.
+
+3.1.8. Des consignes relatives à l'exploitation du dispositif doivent être affichées à chaque poste de commande.
+
+3.1.9. Il faut prévoir les pièces de rechange spécifiées par le fabricant.
+
+3.1.10. Si la pompe à eau de mer du dispositif utilise un moteur à combustion interne en tant que moteur primaire, la caisse de combustible liquide du moteur primaire doit contenir suffisamment de combustible pour permettre à la pompe de fonctionner à plein régime pendant trois heures au moins et il doit y avoir des réserves de combustible suffisantes à l'extérieur du local de machines de la catégorie A pour que la pompe puisse marcher à plein régime pendant une durée supplémentaire de quinze heures. Si la caisse de combustible sert à alimenter aussi simultanément d'autres moteurs à combustion interne, sa capacité totale doit être suffisante pour tous les moteurs qu'elle dessert.
+
+3.1.11. Les générateurs de mousse et les tuyautages doivent être disposés dans le local protégé de manière que l'on puisse accéder aux machines installées aux fins de procéder à leur entretien régulier.
+
+3.1.12. La source d'alimentation en énergie du dispositif, l'alimentation du liquide émulseur et les organes de commande du dispositif doivent être aisément accessibles et être simples à utiliser et doivent être disposés à l'extérieur du local ou de l'espace protégé, dans un endroit où ils ne risquent pas d'être rendus inutilisables si un incendie survenait dans le local ou l'espace protégé. Tous les éléments électriques directement reliés aux générateurs de mousse doivent avoir au moins un indice IP 54.
+
+3.1.13. Il faut déterminer les dimensions du circuit de tuyautages conformément à une technique de calcul hydraulique (4), de manière à obtenir les débits et pressions nécessaires pour que le dispositif fonctionne correctement.
+
+3.1.14. Les locaux et espaces protégés doivent être disposés de telle sorte qu'ils puissent être ventilés pendant qu'ils se remplissent de mousse. Il faut prévoir des procédures qui garantissent que les volets, portes et autres ouvertures appropriées du niveau supérieur restent ouverts en cas d'incendie. Dans le cas des dispositifs d'extinction à mousse à air intérieur, il n'est pas nécessaire que les locaux et espaces d'un volume inférieur à 500 m ³ satisfassent à cette prescription.
+
+3.1.15. Il faut mettre en place des procédures de bord qui exigent que le personnel qui entre dans le local ou l'espace protégé après la décharge de mousse par le dispositif porte un appareil respiratoire pour se protéger contre l'appauvrissement en oxygène et les produits de la combustion entraînés dans la couverture de mousse.
+
+3.1.16. Les plans d'installation et les manuels d'utilisation doivent être fournis au navire et être rapidement accessibles à bord. Il faut afficher une liste ou un plan des locaux et espaces protégés par chaque section qui indique leur emplacement. Les instructions concernant la mise à l'essai et l'entretien du dispositif doivent être disponibles à bord.
+
+3.1.17. Les instructions et les plans relatifs à l'installation, à l'exploitation et à l'entretien doivent tous être rédigés dans la langue de travail utilisée à bord du navire. Si cette langue n'est ni l'anglais, ni l'espagnol, ni le français, il faut inclure une traduction dans l'une de ces langues.
+
+3.1.18. Le local du générateur de mousse doit être ventilé pour éviter toute surpression et il doit être chauffé pour ne pas risquer de geler.
+
+3.1.19. La quantité de liquide émulseur disponible doit être suffisante pour produire un volume de mousse égal à au moins cinq fois le volume du plus grand local ou espace protégé délimité par des cloisons en acier au taux nominal de foisonnement ou être suffisante pour assurer trente minutes de fonctionnement à plein régime pour le plus grand local ou espace protégé, la valeur la plus élevée étant retenue.
+
+3.1.20. Les locaux de machines, chambres des pompes à cargaison, locaux à véhicules, espaces rouliers et locaux de catégorie spéciale doivent être pourvus d'alarmes sonores et visuelles dans le local ou espace protégé qui avertissent de l'entrée en action du dispositif. Ces alarmes doivent retentir pendant la période de temps nécessaire pour évacuer le local ou l'espace et, en tout cas, pendant au moins vingt secondes.
+
+3.2. Dispositifs d'extinction à mousse à air intérieur.
+
+3.2.1. Dispositifs destinés à protéger les locaux de machines et les chambres des pompes à cargaison.
+
+3.2.1.1. Le dispositif doit être alimenté tant par la source d'énergie principale que par la source d'énergie de secours. La source d'énergie de secours doit être alimentée depuis l'extérieur du local protégé.
+
+3.2.1.2. La capacité de production de mousse doit être suffisante pour assurer le taux de remplissage minimal prévu pour le dispositif et doit aussi être suffisante pour que le plus grand local protégé puisse être entièrement rempli dans un délai de dix minutes.
+
+3.2.1.3. L'installation des générateurs de mousse doit en général être conçue compte tenu des résultats des essais d'approbation. Au moins deux générateurs doivent être installés dans chaque local contenant des moteurs à combustion, des chaudières, des épurateurs et du matériel similaire. Les petits ateliers et locaux analogues peuvent être protégés par un seul générateur de mousse.
+
+3.2.1.4. Les générateurs de mousse doivent être uniformément répartis en dessous du plafond le plus élevé du local protégé, y compris le tambour machine. Le nombre et l'emplacement des générateurs de mousse doivent être tels que toutes les zones présentant un risque élevé soient protégées dans toutes les parties et à tous les niveaux des locaux. Des générateurs de mousse supplémentaires peuvent être nécessaires dans les endroits inaccessibles. Les générateurs de mousse doivent être placés de manière à laisser un espace libre d'au moins un mètre devant les orifices de décharge de la mousse, sauf s'ils ont été mis à l'essai placés à une distance moindre. Ils doivent être placés derrière les structures principales et au-dessus et à distance des machines et des chaudières, à des endroits où ils ne risquent pas d'être endommagés par une explosion.
+
+3.2.2. Dispositifs destinés à protéger les locaux à véhicules, les espaces rouliers, les locaux de catégorie spéciale et les espaces à cargaison.
+
+3.2.2.1. Le dispositif doit être alimenté par la source d'énergie principale du navire. Il n'est pas nécessaire de prévoir une source d'énergie de secours.
+
+3.2.2.2. La capacité de production de mousse doit être suffisante pour assurer le taux de remplissage minimal prévu pour le dispositif et doit aussi être suffisante pour permettre de remplir entièrement le plus grand local ou espace protégé dans un délai de dix minutes. Toutefois, le taux de remplissage applicable aux dispositifs destinés à protéger les locaux à véhicules et espaces rouliers et les locaux de catégorie spéciale dont les ponts sont raisonnablement étanches au gaz et qui ont une hauteur de pont ne dépassant pas trois mètres ne doit pas être inférieur aux deux tiers du taux de remplissage de référence et doit être suffisant pour permettre de remplir entièrement le plus grand local ou espace protégé dans un délai de dix minutes.
+
+3.2.2.3. Le dispositif peut être divisé en sections mais sa capacité et sa conception doivent être déterminées sur la base du local ou espace protégé nécessitant le volume le plus important de mousse. Il n'est pas nécessaire que des locaux ou espaces protégés adjacents soient desservis simultanément si les cloisonnements qui les séparent sont des cloisonnements du type A.
+
+3.2.2.4. L'installation des générateurs de mousse doit en général être conçue compte tenu des résultats des essais d'approbation. Le nombre de générateurs peut varier mais le taux de remplissage de référence minimal déterminé lors de ces essais doit être assuré par le dispositif. Au moins deux générateurs doivent être installés dans chaque local ou espace. Les générateurs de mousse doivent être disposés de manière à assurer une répartition uniforme de la mousse dans les locaux ou espaces protégés et leur disposition doit tenir compte des obstructions attendues lors du chargement d'une cargaison à bord. Un pont sur deux au moins, ponts mobiles compris, doit être doté de générateurs. Les générateurs doivent être espacés dans le plan horizontal de manière telle que la mousse remplisse rapidement toutes les parties du local ou de l'espace protégé, ce qui doit être démontré à l'aide d'essais en vraie grandeur.
+
+3.2.2.5. Les générateurs de mousse doivent être placés de manière à laisser un espace libre d'au moins un mètre devant les orifices de projection de mousse, sauf s'ils ont été mis à l'essai placés à une distance moindre.
+
+3.3. Dispositifs à mousse à air extérieur.
+
+3.3.1. Dispositifs destinés à protéger les locaux de machines et les chambres des pompes à cargaison.
+
+3.3.1.1. Le dispositif doit être alimenté tant par la source d'énergie principale que par la source d'énergie de secours. La source d'énergie de secours devrait être alimentée depuis l'extérieur du local de machines protégé.
+
+3.3.1.2. La capacité de production de mousse doit être suffisante pour assurer le taux de remplissage minimal prévu pour le dispositif et doit aussi être suffisante pour permettre de remplir entièrement le plus grand local protégé dans un délai de dix minutes.
+
+3.3.1.3. L'installation des conduits de décharge de mousse doit en général être conçue compte tenu des résultats des essais d'approbation. Le nombre de conduits peut varier mais le taux de remplissage de référence minimal déterminé lors de ces essais doit être assuré par le dispositif. Au moins deux conduits doivent être installés dans chaque local contenant des moteurs à combustion, des chaudières, des épurateurs et du matériel similaire. Les petits ateliers et les locaux analogues peuvent être protégés par un seul conduit.
+
+3.3.1.4. Les conduits de décharge de mousse doivent être uniformément répartis en dessous du plafond le plus élevé du local protégé, y compris le tambour machine. Le nombre et l'emplacement des conduits doivent être tels que toutes les zones présentant un risque élevé soient protégées dans toutes les parties et à tous les niveaux des locaux. Des conduits supplémentaires peuvent être nécessaires dans les endroits inaccessibles. Les conduits doivent être placés de manière à laisser un espace libre d'au moins un mètre devant les conduits de décharge de mousse, sauf s'ils ont été mis à l'essai placés à une distance moindre. Ils doivent être placés derrière des structures principales et au-dessus et à distance des machines et des chaudières, à des endroits où ils ne risquent pas d'être endommagés par une explosion.
+
+3.3.1.5. La disposition des conduits de décharge de mousse doit être telle que les générateurs de mousse ne puissent pas être endommagés par un incendie qui se déclarerait dans le local protégé. Si les générateurs de mousse se trouvent à côté du local protégé, il faut placer les conduits de décharge de mousse de manière à laisser une distance d'au moins 450 millimètres entre les générateurs et le local protégé, et les cloisonnements doivent être de type A-60. Les conduits de décharge de mousse doivent être fabriqués dans un acier d'une épaisseur d'au moins 5 millimètres. De plus, des volets en acier inoxydable (à une ou plusieurs lames) d'une épaisseur d'au moins 3 millimètres doivent être installés aux ouvertures situées dans les cloisons ou ponts qui séparent les générateurs de mousse et le local protégé. Les volets doivent être actionnés automatiquement (par un système électrique, pneumatique ou hydraulique) au moyen de la commande à distance du générateur de mousse qui leur correspond et être disposés de manière à rester fermés jusqu'à ce que les générateurs de mousse se mettent en marche.
+
+3.3.1.6. Les générateurs de mousse doivent être placés là où une arrivée d'air frais suffisante peut être assurée.
+
+3.3.2. Dispositifs destinés à protéger les locaux à véhicules, les espaces rouliers, les locaux de catégorie spéciale et les espaces à cargaison.
+
+3.3.2.1. Le dispositif doit être alimenté par la source d'énergie principale du navire. Il n'est pas nécessaire de prévoir une source d'énergie de secours.
+
+3.3.2.2. La capacité de production de mousse doit être suffisante pour assurer le taux de remplissage minimal prévu pour le dispositif et doit aussi être suffisante pour permettre de remplir entièrement le plus grand local ou espace protégé dans un délai de dix minutes. Toutefois, le taux de remplissage applicable aux dispositifs destinés à protéger les locaux à véhicules et espaces rouliers et les locaux de catégorie spéciale dont les ponts sont raisonnablement étanches au gaz et qui ont une hauteur de pont ne dépassant pas 3 mètres ne doit pas être inférieur aux deux tiers du taux de remplissage de référence et doit aussi être suffisant pour permettre de remplir entièrement le plus grand local ou espace protégé dans un délai de dix minutes.
+
+3.3.2.3. Le dispositif peut être divisé en sections mais sa capacité et sa conception doivent être déterminées sur la base du local ou de l'espace protégé qui nécessite le volume le plus important de mousse. Il n'est pas nécessaire que des locaux ou espaces protégés adjacents soient desservis simultanément si les cloisonnements qui les séparent sont des cloisonnements du type A.
+
+3.3.2.4. L'installation des conduits de décharge de mousse doit en général être conçue compte tenu des résultats des essais d'approbation. Le nombre de conduits peut varier mais le taux de remplissage de référence minimal déterminé lors de ces essais doit être assuré par le dispositif. Au moins deux conduits doivent être installés dans chaque local ou espace. Les générateurs de mousse doivent être disposés de manière à assurer une répartition uniforme de la mousse dans les locaux ou espaces protégés et leur disposition doit tenir compte des obstructions attendues lors du chargement d'une cargaison à bord. Les conduits doivent déboucher sur au moins un pont sur deux, ponts mobiles compris. Les conduits doivent être espacés dans le plan horizontal de manière telle que la mousse remplisse rapidement toutes les parties du local ou de l'espace protégé, ce qui doit être démontré à l'aide d'essais en vraie grandeur.
+
+3.3.2.5. Le dispositif doit être placé de manière à laisser un espace libre d'au moins un mètre devant les orifices de projection de mousse, sauf s'il a été mis à l'essai placé à une distance moindre.
+
+3.3.2.6. La disposition des conduits de décharge de mousse doit être telle que les générateurs de mousse ne puissent pas être endommagés par un incendie qui se déclarerait dans le local ou l'espace protégé. Si les générateurs de mousse se trouvent à côté du local ou de l'espace protégé, il faut placer les conduits de décharge de mousse de manière à laisser une distance d'au moins 450 millimètres entre les générateurs et le local ou l'espace protégé, et les cloisonnements doivent être du type A-60. Les conduits de décharge de mousse doivent être fabriqués dans un acier d'une épaisseur d'au moins 5 millimètres. De plus, des volets en acier inoxydable (à une ou plusieurs lames) d'une épaisseur d'au moins 3 millimètres doivent être installés aux ouvertures situées dans les cloisons ou ponts qui séparent les générateurs de mousse et le local ou espace protégé. Les volets doivent être actionnés automatiquement (par un système électrique, pneumatique ou hydraulique) au moyen de la commande à distance du générateur de mousse qui leur correspond et être disposés de manière à rester fermés jusqu'à ce que les générateurs de mousse se mettent en marche.
+
+3.3.2.7. Les générateurs de mousse doivent être placés là où une arrivée d'air frais suffisante peut être assurée.
+
+3.4. Essais requis après installation.
+
+3.4.1. Après leur installation, les tuyaux, soupapes, accessoires et assemblages doivent faire l'objet d'essais jugés concluants par l'Administration et le système d'alimentation électrique et le système de commande, les pompes à eau, pompes à mousse, robinets, postes de décharge à distance et sur place, et alarmes doivent être mis à l'essai en cours de fonctionnement. Il faut vérifier que le débit est à la pression requise à l'intérieur de l'installation, aux orifices placés sur la conduite d'essai. De plus, il faut vidanger à l'eau douce et purger à l'air tous les tuyautages du circuit de distribution pour s'assurer qu'ils ne sont pas obstrués.
+
+3.4.2. Il faut mettre à l'essai en cours de fonctionnement tous les injecteurs de mousse ou autres appareils servant à mélanger la mousse pour vérifier que la marge de tolérance du taux de mélange se situe entre + 30 % et 0 % du taux de mélange nominal pour lequel le dispositif a été approuvé. Pour les injecteurs de mousse utilisant des liquides émulseurs newtoniens dont la viscosité cinématique est inférieure ou égale à 100 cSt à 0° C et dont la densité est inférieure ou égale à 1 100 kg/ m ³, l'essai peut être effectué avec de l'eau au lieu de liquide émulseur. Dans les autres cas, il faut procéder à l'essai avec le liquide émulseur.
+
+3.5. Dispositifs à air extérieur dont les générateurs sont installés à l'intérieur du local ou de l'espace protégé.
+
+L'autorité compétente peut accepter des dispositifs à air extérieur dont les générateurs sont situés à l'intérieur du local ou de l'espace protégé et sont alimentés en air par des conduits d'arrivée d'air frais s'il a été démontré que ces dispositifs ont une efficacité et une fiabilité équivalentes à celles des dispositifs décrits en 3.3.
+
+Aux fins d'accepter ces dispositifs, l'Administration doit tenir compte au minimum des caractéristiques de conception suivantes :
+
+. 1 Les valeurs minimales et maximales qui sont acceptables pour la pression d'air et le débit dans les conduits d'arrivée ;
+
+. 2 La fonction et la fiabilité des systèmes de volets ;
+
+. 3 L'agencement et la répartition des conduits d'arrivée d'air, ainsi que des orifices de projection de la mousse ; et
+
+. 4 La distance séparant les conduits d'arrivée d'air et le local ou l'espace protégé.
+
+4. Dispositifs fixes d'extinction à mousse à bas foisonnement.
+
+4.1. Quantité de liquide émulseur.
+
+4.1.1. Les liquides émulseurs des dispositifs d'extinction à mousse à bas foisonnement doivent être approuvés par l'autorité compétente compte tenu des directives adoptées par l'OMI (5). Aucun mélange de liquides émulseurs de types différents ne doit être utilisé dans un dispositif à mousse à bas foisonnement. Des liquides émulseurs du même type mais de fabricants différents ne peuvent être mélangés que s'ils sont certifiés être compatibles.
+
+4.1.2. Le dispositif doit pouvoir projeter, par des orifices de décharge fixes, dans un délai ne dépassant pas cinq minutes, une quantité de mousse suffisante pour recouvrir d'une couche de mousse efficace la plus grande surface individuelle sur laquelle le combustible est susceptible de se répandre.
+
+4.2. Prescriptions concernant l'installation.
+
+4.2.1. Il faut prévoir une installation fixe de tuyautages et de robinets ou soupapes de commande qui permette d'acheminer la mousse de manière efficace jusqu'aux orifices de décharge appropriés et qui comporte des diffuseurs fixes permettant de diriger de manière efficace la mousse sur les principaux autres endroits du local ou de l'espace protégé où un incendie risque de se déclarer. Il faut démontrer à l'autorité compétente, au moyen de calculs ou d'essais, que l'installation prévue pour répartir la mousse de manière efficace est acceptable.
+
+4.2.2. Les organes de commande de telles installations doivent être aisément accessibles et être simples à utiliser et doivent être groupés en des endroits, aussi peu nombreux que possible, ne risquant pas d'être isolés par un incendie qui se déclarerait dans le local protégé.
 
 CHAPITRE 7
 
@@ -441,15 +549,19 @@ Le présent chapitre contient les spécifications applicables aux dispositifs fi
 
 2.1 Dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression
 
-Les dispositifs d'extinction de l'incendie par projection d'eau diffusée sous pression destinés aux locaux de machines et aux chambres des pompes à cargaison doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (5).
+Les dispositifs d'extinction de l'incendie par projection d'eau diffusée sous pression destinés aux locaux de machines et aux chambres des pompes à cargaison doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (6).
 
 2.2 Dispositifs équivalents d'extinction de l'incendie par diffusion d'eau en brouillard
 
-Les dispositifs d'extinction de l'incendie par diffusion d'eau en brouillard destinés aux locaux de machines et aux chambres des pompes à cargaison doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (5).
+Les dispositifs d'extinction de l'incendie par diffusion d'eau en brouillard destinés aux locaux de machines et aux chambres des pompes à cargaison doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (6).
 
 2.3 Dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression destinés aux balcons de cabine
 
-Les dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression destinés aux balcons de cabine doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (6).
+Les dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression destinés aux balcons de cabine doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (7).
+
+2.4. Dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers, aux locaux à véhicules et aux locaux de catégorie spéciale.
+
+Les dispositifs fixes de lutte contre l'incendie à base d'eau destinés aux espaces rouliers, aux locaux à véhicules et aux locaux de catégorie spéciale doivent être approuvés par l'Administration compte tenu des directives élaborées par l'OMI (6).
 
 CHAPITRE 8
 
@@ -467,11 +579,11 @@ Le présent chapitre contient les spécifications applicables aux dispositifs au
 
 2.1.1 Type des dispositifs d'extinction par eau diffusée
 
-Les dispositifs automatiques d'extinction par eau diffusée doivent être du type à tuyaux pleins, quoique des sections exposées de dimensions restreintes puissent être du type à tuyaux vides si l'Administration juge cette précaution nécessaire. Les saunas doivent être équipés d'un dispositif à tuyaux vides pourvu de têtes de diffuseurs qui entrent en action à une température pouvant aller jusqu'à 140°C.
+Les dispositifs automatiques d'extinction par eau diffusée doivent être du type à tuyaux pleins, quoique des sections exposées de dimensions restreintes puissent être du type à tuyaux vides si l'autorité compétente  juge cette précaution nécessaire. Les postes de sécurité, où l'eau pourrait endommager le matériel essentiel, peuvent être équipés d'un dispositif du type à tuyaux vides ou d'un dispositif à préaction, comme le permet l'article 221-II-2/10.6.1.1 de la présente division. Les saunas doivent être équipés d'un dispositif à tuyaux vides pourvu de têtes de diffuseurs qui entrent en action à une température pouvant aller jusqu'à 140°C.
 
 2.1.2 Dispositifs d'extinction par eau diffusée équivalant à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4
 
-Les dispositifs automatiques d'extinction par eau diffusée équivalant à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4 doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (7)
+Les dispositifs automatiques d'extinction par eau diffusée équivalant à ceux qui sont spécifiés aux paragraphes 2.2 à 2.4 doivent être approuvés par l'Administration compte tenu des directives élaborées par l'Organisation (8)
 
 2.2 Sources d'alimentation en énergie
 
@@ -582,7 +694,7 @@ Il convient de placer la pompe et le réservoir suffisamment loin de tout local 
 
 2.5.2.2 L'un des emplacements visés au paragraphe 2.5.2.1 doit être muni d'interrupteurs permettant de tester l'alarme et les indicateurs de chaque section de diffuseurs.
 
-2.5.2.3 Les diffuseurs doivent être placés en hauteur et être espacés de façon à assurer un débit moyen d'au moins 5 1/min par mètre carré de la surface protégée par le dispositif. L'Administration peut toutefois autoriser l'utilisation de diffuseurs débitant toute autre quantité d'eau répartie de façon appropriée s'il lui est prouvé que ce dispositif est aussi efficace que le précédent.
+2.5.2.3 Les diffuseurs doivent être placés en hauteur et être espacés de façon à assurer un débit moyen d'au moins 5 1/min par mètre carré de la surface protégée par le dispositif. A cette fin, la surface nominale doit être considérée comme étant la projection horizontale brute de la surface à protéger. L'autorité compétente  peut toutefois autoriser l'utilisation de diffuseurs débitant toute autre quantité d'eau répartie de façon appropriée s'il lui est prouvé que ce dispositif est aussi efficace que le précédent.
 
 2.5.2.4 On doit afficher près de chaque tableau des indicateurs une liste ou un plan des locaux desservis par chaque section avec indication de leur position. Des instructions appropriées doivent également être données pour les essais et l'entretien du dispositif.
 
@@ -654,7 +766,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.1.4. Les détecteurs et avertisseurs à commande manuelle doivent être reliés à des sections spécifiques du dispositif de détection de l'incendie. D'autres fonctions de protection contre l'incendie, telles que signaux d'alarme des vannes des diffuseurs, peuvent être assurées si elles concernent d'autres sections.
 
-2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (1).
+2.1.5. Le dispositif et son équipement doivent être d'une conception qui leur permette de résister aux variations de tension en régime permanent et en régime transitoire, aux modifications de la température ambiante, aux vibrations, à l'humidité, aux chocs, aux impacts et à la corrosion qui se produisent normalement à bord d'un navire. La compatibilité électromagnétique de tous les équipements électriques et électroniques se trouvant sur la passerelle ou à proximité doit être vérifiée compte tenu des recommandations élaborées par l'organisation (2).
 
 2.1.6. Les dispositifs fixes de détection de l'incendie et d'alarme d'incendie à détecteurs d'incendie individuellement identifiables doivent être disposés de telle sorte que :
 
@@ -670,11 +782,15 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.2. Sources d'alimentation en énergie
 
-2.2.1. Le nombre de sources d'énergie qui alimentent les appareils électriques utilisés pour le fonctionnement du dispositif de détection de l'incendie et d'alarme d'incendie ne doit pas être inférieur à deux et l'une d'elles doit être une source d'énergie de secours. Le courant doit être amené par des câbles électriques distincts, exclusivement réservés à cet usage. Ces câbles doivent être raccordés à un commutateur automatique situé sur le tableau de commande du dispositif de détection de l'incendie ou à proximité de ce tableau. Le câble électrique principal (ou le câble électrique de secours) doit être amené du tableau principal (ou du tableau de secours) au commutateur sans passer par aucun autre panneau de distribution.
+2.2.1. Le nombre de sources d'énergie qui alimentent les appareils électriques utilisés pour le fonctionnement du dispositif de détection de l'incendie et d'alarme d'incendie ne doit pas être inférieur à deux et l'une d'elles doit être une source d'énergie de secours. Le courant doit être amené par des câbles électriques distincts, exclusivement réservés à cet usage. Ces câbles doivent être raccordés à un commutateur automatique situé sur le tableau de commande du dispositif de détection de l'incendie ou à proximité de ce tableau. A bord des navires construits le 1er juillet 2014 ou après cette date, le commutateur doit être disposé de manière telle qu'une défaillance n'entraîne pas la perte des deux sources d'alimentation en énergie. Le câble électrique principal (ou le câble électrique de secours) doit être amené du tableau principal (ou du tableau de secours) au commutateur sans passer par aucun autre panneau de distribution.
 
-2.2.2. L'énergie fournie doit être suffisante pour permettre au dispositif de continuer à fonctionner avec tous les détecteurs activés, mais au maximum 100, si le nombre total de détecteurs est supérieur.
+2.2.2. A bord des navires construits le 1er juillet 2014 ou après cette date, l'utilisation du commutateur automatique ou la défaillance de l'une des sources d'alimentation en énergie ne doit pas entraîner la perte de la capacité de détection de l'incendie. Au cas où le dispositif serait détérioré par suite d'une panne de courant momentanée, une batterie d'une capacité suffisante doit être prévue pour assurer la continuité du fonctionnement pendant le passage d'une source d'alimentation à l'autre.
 
-2.2.3. La source d'énergie de secours mentionnée au paragraphe 2.2.1 ci-dessus doit être suffisante pour permettre au dispositif de détection de l'incendie et d'alarme d'incendie de continuer à fonctionner pendant les périodes prescrites aux règles 221-II-1/42 et 221-II-1/43 de la présente division, à l'issue desquelles la batterie doit pouvoir alimenter tous les signaux d'alarme d'incendie visuels et sonores connectés pendant au moins trente minutes.
+2.2.3. L'énergie fournie doit être suffisante pour permettre au dispositif de continuer à fonctionner avec tous les détecteurs activés, mais au maximum 100, si le nombre total de détecteurs est supérieur.
+
+2.2.4. La source d'énergie de secours mentionnée au paragraphe 2.2.1 ci-dessus peut être fournie par des batteries d'accumulateurs ou par le tableau de secours. La source d'alimentation en énergie doit être suffisante pour que le dispositif de détection et d'alarme d'incendie reste opérationnel pendant les périodes prescrites aux articles 221-II-1/42 et 221-II-1/43 de la présente division et, à l'issue de ces périodes, doit être capable d'assurer le fonctionnement de toutes les alarmes d'incendie visuelles et sonores connectées pendant au moins trente minutes.
+
+2.2.5. A bord des navires construits le 1er juillet 2014 ou après cette date, lorsque le dispositif est alimenté par des batteries d'accumulateurs, celles-ci doivent être situées dans le tableau de commande du dispositif de détection de l'incendie ou à proximité de celui-ci, ou à un endroit où elles puissent être utilisées en cas d'urgence. La puissance du chargeur doit être suffisante pour assurer l'alimentation normale en énergie du dispositif de détection d'incendie tout en rechargeant les batteries quand elles sont complètement déchargées.
 
 2.3. Spécifications des éléments
 
@@ -682,13 +798,13 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 2.3.1.1. Les détecteurs doivent entrer en action sous l'effet de la chaleur, de la fumée ou d'autres produits de combustion, des flammes ou de toute combinaison de ces facteurs. Les détecteurs qui réagissent à d'autres facteurs indiquant un début d'incendie peuvent être pris en considération par l'administration à condition que leur sensibilité ne soit pas inférieure à celle des détecteurs de chaleur, de fumée ou de flamme.
 
-2.3.1.2. Il doit être certifié que les détecteurs de fumée prescrits dans tous les escaliers, toutes les coursives et échappées des locaux d'habitation entrent en action avant que la densité de la fumée dépasse 12,5 % d'obscurcissement par mètre mais après qu'elle a dépassé 2 % lorsqu'ils sont mis à l'essai conformément à la norme EN 54 (2001) et à la norme CEI 60092-505 (2001).
+2.3.1.2. Il doit être certifié que les détecteurs de fumée prescrits dans tous les escaliers, toutes les coursives et échappées des locaux d'habitation entrent en action avant que la densité de la fumée dépasse 12,5 % d'obscurcissement par mètre mais après qu'elle a dépassé 2 % lorsqu'ils sont mis à l'essai conformément à la norme EN 54 (2001) et à la CEI 60092-504 .
 
-2.3.1.3. Il doit être certifié que les détecteurs de chaleur entrent en action avant que la température dépasse 78 °C mais après qu'elle a dépassé 54 °C quand la température s'élève à raison de 1 °C par minute lorsqu'ils sont mis à l'essai conformément à la norme EN 54 (2001) et à la norme CEI 60092-505 (2001).
+2.3.1.3. Il doit être certifié que les détecteurs de chaleur entrent en action avant que la température dépasse 78 °C mais après qu'elle a dépassé 54 °C quand la température s'élève à raison de 1 °C par minute lorsqu'ils sont mis à l'essai conformément à la norme EN 54 (2001) et à la CEI 60092-504 .
 
 2.3.1.4. La température à laquelle des détecteurs de chaleur entrent en action dans les séchoirs et les locaux de même nature, où la température ambiante est normalement élevée, peut être aussi élevée que 130 °C et aller jusqu'à 140 °C dans le cas des saunas.
 
-2.3.1.5. Les détecteurs de flamme doivent être mis à l'essai conformément à la norme EN 54-10 (2001) et à la norme CEI 60092-505 (2001). D'autres normes de mise à l'essai, déterminées par l'administration, peuvent être utilisées.
+2.3.1.5. Les détecteurs de flamme doivent être mis à l'essai conformément à la norme EN 54-10 (2001) et à la CEI 60092-504 . D'autres normes de mise à l'essai, déterminées par l'administration, peuvent être utilisées.
 
 2.3.1.6. Tous les détecteurs doivent être d'un type tel que l'on puisse vérifier leur bon fonctionnement et les remettre en position normale de surveillance sans devoir en remplacer un élément.
 
@@ -787,13 +903,13 @@ L'administration peut exiger ou accepter des espacements différents de ceux qui
 
 2.5. Prescriptions concernant le contrôle des dispositifs
 
-2.5.1. Signaux d'incendie visuels et sonores (3)
+2.5.1. Signaux d'incendie visuels et sonores (4)
 
 2.5.1.1. L'entrée en action d'un détecteur ou d'un avertisseur d'incendie à commande manuelle doit déclencher un signal d'alarme de détection de l'incendie visuel et sonore au tableau de commande et aux tableaux des indicateurs. Si, au bout de deux minutes, ce signal n'a pas été acquitté, une alarme d'incendie sonore doit se déclencher automatiquement dans tous les locaux d'habitation de l'équipage, les locaux de service, les postes de sécurité et les locaux de machines de la catégorie A. Cette alarme sonore n'a pas à faire partie intégrante du système de détection.
 
 2.5.1.2. A bord des navires à passagers, le tableau de commande doit être situé dans le centre de sécurité à bord. A bord des navires de charge, le tableau de commande doit être situé sur la passerelle de navigation ou dans le poste de commande du matériel d'incendie.
 
-2.5.1.3. A bord des navires à passagers, un tableau des indicateurs permettant d'identifier individuellement chaque détecteur qui s'est déclenché ou avertisseur à commande manuelle qui a été actionné doit être situé sur la passerelle de navigation. A bord des navires de charge, un tableau des indicateurs doit être situé sur la passerelle de navigation si le tableau de contrôle se trouve dans le poste de commande du matériel d'incendie. A bord des navires de charge et sur les balcons de cabine des passagers, les indicateurs doivent au minimum identifier la section dans laquelle un détecteur s'est déclenché ou un avertisseur à commande manuelle a été actionné.
+2.5.1.3. A bord des navires à passagers, un tableau des indicateurs permettant d'identifier individuellement chaque détecteur qui s'est déclenché ou avertisseur à commande manuelle qui a été actionné doit être situé sur la passerelle de navigation. A bord des navires de charge, un tableau des indicateurs doit être situé sur la passerelle de navigation si le tableau de contrôle se trouve dans le poste de commande du matériel d'incendie. A bord des navires construits le 1er juillet 2014 ou après cette date qui sont pourvus d'une salle de contrôle de la cargaison, il faut installer un tableau des indicateurs supplémentaire dans cette salle. A bord des navires de charge et sur les balcons de cabine des passagers, les indicateurs doivent au minimum identifier la section dans laquelle un détecteur s'est déclenché ou un avertisseur à commande manuelle a été actionné.
 
 2.5.1.4. Des renseignements clairs indiquant les locaux desservis et l'emplacement des sections doivent être affichés sur chaque indicateur ou à proximité de chaque indicateur.
 
@@ -817,7 +933,7 @@ Un signal visuel et sonore, distinct du signal d'incendie, doit se déclencher a
 
 2.5.2. Mise à l'essai
 
-Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien. Les détecteurs doivent être mis à l'essai périodiquement au moyen d'un matériel adapté aux types d'incendie auxquels ils sont censés réagir.
+Des instructions et des pièces de rechange appropriées doivent être prévues pour les essais et l'entretien. A bord des navires construits le 1er juillet 2014 ou après cette date, les détecteurs installés à l'intérieur d'espaces froids, tels que des chambres frigorifiques, doivent être mis à l'essai à l'aide de méthodes qui tiennent dûment compte de ces emplacements (7).  Les détecteurs doivent être mis à l'essai périodiquement au moyen d'un matériel adapté aux types d'incendie auxquels ils sont censés réagir.
 
 (1) Se reporter aux prescriptions générales relatives à la compatibilité électromagnétique de tous les équipements électriques et électroniques des navires que l'organisation a adoptées par la résolution A. 813 (19).
 

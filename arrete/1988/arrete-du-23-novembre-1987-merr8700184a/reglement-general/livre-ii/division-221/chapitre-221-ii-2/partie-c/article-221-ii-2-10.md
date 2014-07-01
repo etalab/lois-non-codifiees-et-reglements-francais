@@ -350,7 +350,7 @@ A bord des navires transportant plus de 36 passagers, chacun des locaux de machi
 
 5.6.3 Les dispositifs fixes d'extinction de l'incendie à usage local doivent protéger des zones telles que celles qui sont mentionnées ci-après sans qu'il soit nécessaire d'arrêter les machines, d'évacuer le personnel et de condamner les locaux :
 
-.1 les parties des machines à combustion interne servant à la propulsion principale du navire et à la production d'énergie qui présentent un risque d'incendie ;
+.1 les parties des machines à combustion interne qui présentent un risque d'incendie ou, dans le cas des navires construits avant le 1er juillet 2014, les parties des machines à combustion interne servant à la propulsion principale du navire et à la production d'énergie qui présentent un risque d'incendie  ;
 
 .2 les façades des chaudières ;
 
@@ -491,3 +491,7 @@ A bord des navires de charge autres que des navires-citernes qui s'éloignent de
 10.3.1 Les équipements de pompier ou les jeux d'équipements individuels doivent être conservés, prêts à l'emploi, en un endroit facilement accessible et clairement signalé de façon permanente et, lorsque le navire transporte plus d'un équipement de pompier ou plus d'un jeu d'équipements individuels, ceux-ci doivent être entreposés en des endroits bien éloignés les uns des autres.
 
 10.3.2 A bord des navires à passagers, au moins deux équipements de pompier et en plus, un jeu d'équipements individuels doivent être disponibles à chacun de ces endroits. Au moins deux équipements de pompier doivent être entreposés dans chaque tranche verticale principale.
+
+10.4. Communication entre les pompiers.
+
+Dans le cas des navires construits le 1er juillet 2014 ou après cette date, au moins deux émetteurs-récepteurs radiotéléphoniques portatifs doivent se trouver à bord à l'intention de chaque équipe d'incendie pour permettre aux pompiers de communiquer. Ces émetteurs-récepteurs radiotéléphoniques portatifs doivent être d'un type antidéflagrant ou à sécurité intrinsèque. Les navires construits avant le 1er juillet 2014 doivent satisfaire aux prescriptions du présent paragraphe au plus tard à la date de la première visite prévue après le 1er juillet 2018.

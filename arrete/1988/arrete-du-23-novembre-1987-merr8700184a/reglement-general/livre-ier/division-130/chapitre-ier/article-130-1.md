@@ -6,12 +6,14 @@ La présente division précise les conditions et modalités de délivrance, visa
 
 Elle s'applique à :
 
-- tout navire à passagers ;
+―  tout navire à passagers ;
 
-- tout navire de charge ;
+―  tout navire de charge ;
 
-- tout navire spécial ;
+―  tout navire spécial ;
 
-- tout navire de pêche ;
+―  tout navire de pêche ;
 
-- tout navire de plaisance à utilisation commerciale.
+―  tout navire de plaisance à utilisation commerciale ;
+
+―  tout navire de plaisance à usage personnel ou de formation d'une longueur de référence supérieure à 24 mètres.

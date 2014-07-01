@@ -8,11 +8,9 @@ L'IMMATRICULATION DU VÉHICULE SANS RÉCEPTION À TITRE ISOLÉ.
 
 (A FOURNIR EN DEUX EXEMPLAIRES POUR IMMATRICULATION)
 
-Situation du véhicule (1) :
+Situation du véhicule  :
 
-- carrossage d'un véhicule usagé lourd ou léger (article 13 de l'arrêté du 19 juillet 1954) ;
-
-- carrossage d'un véhicule neuf léger (article 12.1.2 de l'arrêté du 19 juillet 1954).
+- carrossage d'un véhicule usagé lourd ou léger (article 13 de l'arrêté du 19 juillet 1954).
 
 Le constructeur soussigné :
 
@@ -34,7 +32,7 @@ la carrosserie suivante : .....
 
 et certifie que le véhicule peut être immatriculé sans réception complémentaire compte tenu de ce que :
 
-- le châssis est resté conforme au type décrit dans la notice du constructeur et n'a subi aucune transformation ;
+- le châssis est resté conforme au type décrit dans la notice du constructeur ou dans le certificat de conformité et n'a subi aucune transformation ;
 
 - le véhicule satisfait, dans les conditions prévues par les arrêtés d'application, aux dispositions des articles R. 311-1 à R. 318-8, R. 321-10 et R. 413-13 du code de la route, pour la catégorie du véhicule concerné ;
 
@@ -42,7 +40,7 @@ et certifie que le véhicule peut être immatriculé sans réception complément
 
 et maximale ( ....... m), fixées par le constructeur :
 
-- dans sa notice descriptive (1),
+- dans sa notice descriptive ou dans le certificat de conformité (1),
 
 - dans l'accord joint de son service technique (1),
 
@@ -58,17 +56,19 @@ et la longueur des ferrures est inférieure à 120 mm.
 
 CARACTÉRISTIQUES DU VÉHICULE (2)
 
-Genre (3) : ......
+(J1) Genre (3) : ......
 
-Carrosserie (4) : ....
+(J3) Carrosserie (4) : ....
 
-Marque : ......
+(D1) Marque : ......
 
-Type : ........
+(D2) Type : ........
 
-Numéro d'identification : ......
+(E) Numéro d'identification : ......
 
-Nombre de place assises (conducteur compris) : ........
+(S1) Nombre de place assises (conducteur compris) : ........
+
+(G1) Poids à vide national :
 
 Empattement : F = .......m
 
@@ -198,11 +198,11 @@ Caisses mobiles multiples : G à indiquer sur le véhicule porteur en fonction d
 
 (1) Barrer la mention inutile.
 
-(2) Voir notice descriptive.
+(2) Voir la notice descriptive ou le certificat de conformité.
 
-(3) Le genre indiqué ne peut être différent de celui (ou ceux) prévus sur la notice descriptive.
+(3) Le genre indiqué ne peut être différent de celui indiqué sur le certificat d'immatriculation du véhicule usagé (à l'exception des véhicules carrossés en VASP/ BOM).
 
-(4) La carrosserie indiquée doit répondre à la nomenclature des carrosseries prévues par le Code de la route.
+(4) La carrosserie indiquée doit répondre à la nomenclature des carrosseries prévues à l'annexe V de l'arrêté du 9 février 2009 modifié relatif aux modalités d'immatriculation des véhicules.
 
 (5) F' = distance de l'axe de la force (ou de la résultante des forces) appliquée(s) au sol par l' (les) essieu(x) avant, ou de l'axe du pivot d'attelage, à l'axe de la force (ou de la résultante des forces appliquée(s) au sol par l' (ou les) essieu(x) arrière.
 

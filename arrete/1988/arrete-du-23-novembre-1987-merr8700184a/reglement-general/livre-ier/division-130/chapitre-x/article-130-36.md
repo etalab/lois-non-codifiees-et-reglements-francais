@@ -8,7 +8,7 @@ Un navire identique à un navire tête de série est un navire construit par le 
 
 B. - Navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 
-1. Pour les navires dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, après avis de la commission de sécurité compétente, les documents communs des navires de série peuvent n'être soumis à étude qu'une seule fois. Cependant tous les documents visés par l'annexe 130-A.3 doivent être individualisés, pour chacun des navires.
+1. Pour les navires dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, après avis de la commission de sécurité compétente, les documents communs des navires de série peuvent n'être soumis à étude qu'une seule fois. Cependant tous les documents visés par l'annexe 130-A.3 ainsi que par les annexes 240-A.3, 242-1.A1 et 243-1A.1 doivent être individualisés, pour chacun des navires.
 
 2. Pour pouvoir bénéficier des dispositions ci-dessus, l'exploitant du navire fournit à la commission d'étude compétente une attestation d'identité au navire tête de série dont les plans ont été examinés par la commission. Cette attestation est émise par le chantier constructeur et sous sa responsabilité. Il appartient également à l'exploitant du navire d'indiquer lors de l'étude du premier navire qu'il s'agit d'un navire tête de série.
 

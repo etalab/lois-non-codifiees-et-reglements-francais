@@ -2,7 +2,7 @@
 
 Navires soumis à une obligation de classification au titre de l'article 42-5 du décret n° 84-810 du 30 août 1984 modifié.
 
-En application des dispositions de l'article 42-5 du décret n° 84-810 modifié  du 30 août 1984, à l'exception des navires de plaisance à usage  personnel, des navires traditionnels et des navires de compétition, tout  navire neuf ou acquis à l'étranger d'une longueur supérieure ou égale à  vingt-quatre mètres possède la première cote d'une société de  classification habilitée, correspondant à son exploitation.
+En application des dispositions de l'article 42-5 du décret n° 84-810 modifié  du 30 août 1984, à l'exception des navires de plaisance à usage  personnel, des navires traditionnels et des navires exclusivement conçus pour la compétition, tout  navire neuf ou acquis à l'étranger d'une longueur supérieure ou égale à  vingt-quatre mètres possède la première cote d'une société de  classification habilitée, correspondant à son exploitation.
 
 La longueur a prendre en compte pour l'application du présent article est la longueur de référence telle que définie par l'article 1er du décret n° 84-810 modifié du 30 août 1984.
 

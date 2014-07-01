@@ -2,7 +2,7 @@
 
 Centre de sécurité des navires compétent.
 
-A. - Tout navire de compétence de la commission régionale de sécurité ou de l'examen local :
+A. ―  Tout navire de compétence de la commission régionale de sécurité ou de l'examen local :
 
 1. Pour les navires relevant de la compétence des commissions régionales de sécurité ou de l'examen local, le centre de sécurité des navires compétent, pour recevoir et tenir à jour les dossiers ainsi que pour effectuer les visites d'un navire, pendant la construction et lors de la mise en service, est :
 
@@ -22,10 +22,14 @@ A. - Tout navire de compétence de la commission régionale de sécurité ou de 
 
 4. Le centre de sécurité des navires compétent pour délivrer le permis de navigation est identifié, suivant les modalités définies ci dessus, après demande de l'exploitant, du propriétaire du navire, ou du chantier (cf. modèle annexe 130-A.4).
 
-B. - Tout navire de compétence de la commission centrale de sécurité :
+B. ―  Tout navire de compétence de la commission centrale de sécurité :
 
 Pour les navires entrant dans le champ de compétence de la commission centrale de sécurité, le centre de sécurité des navires compétent pour délivrer le permis de navigation est désigné, après demande de l'exploitant du navire (cf. modèle annexe 130-A.4), par décision du sous-directeur de la sécurité maritime de la direction des affaires maritimes.
 
-C. - Tout navire dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I (1°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
+C. ―  Tout navire de compétence de la Commission nationale de sécurité de la navigation de plaisance :
+
+Pour les navires de plaisance à utilisation commerciale entrant dans le champ de compétence de la Commission nationale de sécurité de la navigation de plaisance, le centre de sécurité des navires compétent pour délivrer le permis de navigation est désigné, après demande de l'exploitant du navire (cf. annexe 130-A.4), par décision du chef de la mission de la navigation de plaisance et des loisirs nautiques.
+
+D. ―  Tout navire dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I (1°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 
 Pour les navires dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I-1° de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, après réception de la déclaration de l'exploitant du navire (cf. modèle annexe 130-A.4) le centre de sécurité des navires compétent pour délivrer le permis de navigation est désigné, par décision du sous-directeur de la sécurité maritime de la direction des affaires maritimes. La société de classification habilitée est en copie de cette décision.

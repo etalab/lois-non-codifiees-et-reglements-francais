@@ -18,13 +18,13 @@ A. - Navire dont les titres et certificats sont délivrés par l'administration 
 
 7. Les plans et documents sont transmis à la commission d'étude compétente et au centre de sécurité des navires compétent par la personne désignée sur la déclaration de mise en chantier, d'acquisition à l'étranger, de mise en refonte, de grande réparation ou de modifications importantes (cf. modèle annexe 130-A.4). L'administration ne contrôle ni l'authenticité ni l'exactitude des plans, documents et renseignements qui lui sont fournis.
 
-8. Une liste non limitative de ces plans et documents fait l'objet de l'annexe 130-A.1 pour les navires dont l'étude est de la compétence de la commission régionale de sécurité, ou examen local, et de l'annexe 130-A.2 pour les navires dont l'étude est de la compétence de la commission centrale de sécurité. Tous ces plans et documents sont exigibles dans la mesure où le navire est concerné.
+8. Une liste non limitative de ces plans et documents fait l'objet de l'annexe 130-A.1 pour les navires dont l'étude est de la compétence de la commission régionale de sécurité, ou examen local, et de l'annexe 130-A.2 pour les navires dont l'étude est de la compétence de la commission centrale de sécurité. Pour les navires dont l'étude est de la compétence de la Commission nationale de sécurité de la navigation de plaisance, les listes non limitatives des plans et documents requis sont fixées aux annexes 240-A.3, 242-1.A1 et 243-1A.1 du présent règlement.  Tous ces plans et documents sont exigibles dans la mesure où le navire est concerné.
 
-9. Les renseignements et documents énumérés dans les annexes 130-A.1 et 130-A.2 sont libellés en français ou en anglais.
+9. Les renseignements et documents énumérés dans les annexe 130-A.1 130-A.2, ainsi que les annexes 240-A.3, 242-1.A1 et 243-1A.1  sont libellés en français ou en anglais.
 
 10. Les plans et documents transmis doivent être clairs, lisibles et permettre l'étude de conformité.
 
-11. Les plans et documents transmis par l'exploitant du navire doivent être référencés par rapport aux articles des annexes 130-A.1 et annexe 130-A.2.
+11. Les plans et documents transmis par l'exploitant du navire doivent être référencés par rapport aux articles des annexes 130-A.1 et 130-A.2, ainsi que les annexes 240-A.3, 242-1.A1 et 243-1A.1.
 
 12. Les plans et documents sont transmis à la commission de sécurité compétente, dans des délais suffisants permettant leur examen avant la réalisation des travaux sur lesquels portent les documents. Sans préjudice des dispositions du paragraphe 14 dudit article, les plans et documents peuvent être transmis sous format informatique.
 

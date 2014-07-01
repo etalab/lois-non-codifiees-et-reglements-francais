@@ -134,7 +134,7 @@ Les apparaux de pêche doivent être considérés à leur emplacement réel en e
 
 8. Critères de stabilité.
 
-8.1. Les critères ci-après doivent être respectés. Toutefois, si leur application n'est pas justifiée, notamment dans le cas des constructions de type multicoque, l'autorité compétente décide des prescriptions équivalentes à suivre.
+8.1. Les critères ci-après doivent être respectés.
 
 Lorsque des cas de chargement avec givre et glace ne satisfont pas aux présents critères et que l'autorité compétente accepte de donner la dérogation correspondante, celle-ci doit être mentionnée sur les titres de sécurité du navire.
 
@@ -156,6 +156,14 @@ Lorsque des cas de chargement avec givre et glace ne satisfont pas aux présents
 
 8.3.7. Le critère de redressement par vent fort et mer forte à respecter est déterminé dans l'annexe 211-1.A.3. et doit être satisfait pour le cas de chargement le plus défavorable.
 
-9. Il est remis au capitaine un dossier de stabilité spécifique établi selon un modèle
+9. Cas particulier des navires ayant un rapport largeur/creux (B/D) > à 2,5 :
 
-approuvé(2).
+Pour les navires ayant un rapport B/D ≥ 2,5, et ne pouvant respecter les critères définis au paragraphe 8 ci-dessus, les critères suivants sont appliqués :
+
+.1 Le bras de levier de redressement (GZ) maximal devrait être atteint à un angle d'inclinaison au moins égal à 15° ; et
+
+.2 L'aire sous-tendue par la courbe des bras de levier de redressement (courbe de GZ) ne devrait pas être inférieure à 0,070 mètre-radian jusqu'à un angle de 15° lorsque le bras de levier de redressement (GZ) maximal est atteint à un angle de 15°, et à 0,055 mètre-radian jusqu'à un angle de 30° lorsque le bras de levier de redressement (GZ) maximal est atteint à un angle égal ou supérieur à 30°. Lorsque le bras de levier de redressement (GZ) maximal est atteint à un angle compris entre 15° et 30°, l'aire sous-tendue par la courbe des bras de levier de redressement correspondante devrait être :
+
+0,055 + 0,001 (30°-max) mètre-radian (2).
+
+10. Il est remis au capitaine un dossier de stabilité spécifique établi selon un modèle approuvé (3).

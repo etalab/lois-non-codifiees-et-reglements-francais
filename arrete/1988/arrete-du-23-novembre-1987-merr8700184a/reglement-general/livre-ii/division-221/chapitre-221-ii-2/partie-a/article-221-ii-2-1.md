@@ -2,7 +2,7 @@
 
 Application
 
-1 Application
+1 Application (1)
 
 1.1. Sauf disposition expresse contraire, le présent chapitre s'applique aux navires construits le 1er juillet 2012 ou après cette date.
 
@@ -46,7 +46,7 @@ Application
 
 4 Exemptions
 
-4.1 L'Administration peut, si elle considère que le parcours abrité et les conditions de voyage sont tels que l'application d'une prescription quelconque du présent chapitre n'est ni raisonnable ni nécessaire, exempter (1) de cette prescription des navires déterminés ou des catégories de navires autorisés à battre le pavillon de son État qui, au cours de leur voyage, ne s'éloignent pas de plus de 20 milles de la terre la plus proche.
+4.1 L'Administration peut, si elle considère que le parcours abrité et les conditions de voyage sont tels que l'application d'une prescription quelconque du présent chapitre n'est ni raisonnable ni nécessaire, exempter (2) de cette prescription des navires déterminés ou des catégories de navires autorisés à battre le pavillon de son État qui, au cours de leur voyage, ne s'éloignent pas de plus de 20 milles de la terre la plus proche.
 
 4.2 Dans le cas de navires à passagers qui sont utilisés pour des transports spéciaux d'un grand nombre de passagers, comme le transport de pèlerins, l'Administration peut, si elle juge qu'il est impossible en pratique d'appliquer les prescriptions du présent chapitre, exempter ces navires de l'application des prescriptions en question, à condition qu'ils satisfassent intégralement aux dispositions :
 
@@ -74,9 +74,9 @@ Sauf disposition expresse contraire :
 
 .1 la mousse doit être d'un type résistant aux alcools ;
 
-.2 le type de liquide émulseur à utiliser à bord des navires-citernes pour produits chimiques doit être jugé satisfaisant par l'Administration compte tenu des directives élaborées par l'Organisation (2) ; et
+.2 le type de liquide émulseur à utiliser à bord des navires-citernes pour produits chimiques doit être jugé satisfaisant par l'Administration compte tenu des directives élaborées par l'Organisation (3) ; et
 
-.3 le débit et les taux d'application du dispositif d'extinction à mousse doivent être conformes aux dispositions du chapitre 11 du Recueil international de règles sur les transporteurs de produits chimiques ; toutefois, des taux d'application inférieurs peuvent être acceptés sur la base de tests de performance. Pour les navires-citernes équipés d'un dispositif à gaz inerte, on peut accepter une quantité de liquide émulseur suffisante pour produire de la mousse pendant 20 min (3) ;
+.3 le débit et les taux d'application du dispositif d'extinction à mousse doivent être conformes aux dispositions du chapitre 11 du Recueil international de règles sur les transporteurs de produits chimiques ; toutefois, des taux d'application inférieurs peuvent être acceptés sur la base de tests de performance. Pour les navires-citernes équipés d'un dispositif à gaz inerte, on peut accepter une quantité de liquide émulseur suffisante pour produire de la mousse pendant 20 min (4) ;
 
 6.2.2 Aux fins du présent article, une cargaison liquide dont la pression de vapeur est supérieure à 1,013 bar absolu à 37,8°C est considérée comme une cargaison présentant des risques d'incendie supplémentaires. Les navires transportant de telles substances doivent satisfaire aux prescriptions du paragraphe 15.14 du Recueil international de règles sur les transporteurs de produits chimiques. Lorsqu'un navire est exploité dans des zones restreintes et pendant des périodes limitées, l'Administration compétente peut décider d'exempter ce navire de l'obligation d'avoir à bord un système de réfrigération conformément aux dispositions du paragraphe 15.14.3 du Recueil international de règles sur les transporteurs de produits chimiques.
 
@@ -84,7 +84,7 @@ Sauf disposition expresse contraire :
 
 6.4 Les navires-citernes qui transportent des produits pétroliers ayant un point d'éclair, déterminé à l'aide d'un appareil approuvé, excédant 60°C (essai en creuset fermé) doivent satisfaire aux prescriptions prévues aux articles 221-II-2/10.2.1.4.4 et 221-II-2/10.10.2.3 et aux prescriptions applicables aux navires de charge autres que les navires-citernes. Toutefois, ils doivent être munis d'un dispositif fixe à mousse sur pont qui satisfasse aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie au lieu du dispositif fixe d'extinction de l'incendie prescrit à l'article 221-II-2/10.7.
 
-6.5 Les transporteurs mixtes construits avant le 1er juillet 2002, le 1er juillet 2002 ou après cette date ne doivent transporter des cargaisons autres que des hydrocarbures que si tous leurs espaces à cargaison ont été vidés de leurs hydrocarbures et dégazés ou que les dispositions prises dans chaque cas ont été approuvées par l'Administration compte tenu des directives élaborées par l'Organisation (4).
+6.5 Les transporteurs mixtes construits avant le 1er juillet 2002, le 1er juillet 2002 ou après cette date ne doivent transporter des cargaisons autres que des hydrocarbures que si tous leurs espaces à cargaison ont été vidés de leurs hydrocarbures et dégazés ou que les dispositions prises dans chaque cas ont été approuvées par l'Administration compte tenu des directives élaborées par l'Organisation (5).
 
 6.6 Les navires-citernes pour produits chimiques et les transporteurs de gaz doivent satisfaire aux prescriptions applicables aux navires-citernes, à moins qu'il ne soit prévu des dispositions de remplacement et complémentaires jugées satisfaisantes par l'Administration, compte dûment tenu des dispositions du Recueil international de règles sur les transporteurs de produits chimiques et du Recueil international de règles sur les transporteurs de gaz, selon le cas.
 

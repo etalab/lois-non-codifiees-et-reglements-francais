@@ -28,6 +28,8 @@ Le présent article a pour objet de limiter les conséquences d'un incendie en a
 
 2.2.5 Les exercices d'incendie doivent être effectués et consignés conformément aux dispositions des articles 221-III/19.3 et 221-III/19.5.
 
+2.2.6 Il faut prévoir à bord un moyen permettant de recharger les bouteilles des appareils respiratoires utilisées au cours des exercices ou bien avoir à bord un nombre de bouteilles de rechange suffisant pour remplacer celles qui sont utilisées.
+
 2.3 Manuels de formation
 
 2.3.1 Un manuel de formation doit se trouver dans chaque salle à manger et salle de loisir de l'équipage ou dans chacune des cabines de l'équipage.

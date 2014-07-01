@@ -116,47 +116,45 @@ Nonobstant les dispositions de l'article 221-II-2/9.2.2, à bord des navires à 
 
 6.1 Dispositifs fixes d'extinction de l'incendie (2)
 
-6.1.1 Les locaux à véhicules et les espaces rouliers qui ne sont pas des locaux de catégorie spéciale et qui peuvent être rendus étanches aux gaz depuis un emplacement situé à l'extérieur des espaces à cargaison doivent être équipés d'un dispositif fixe d'extinction par le gaz conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie, sous réserve de ce qui suit :
+Les prescriptions des paragraphes 6.1.1 et 6.1.2 s'appliquent aux navires construits le 1er juillet 2014 ou après cette date. Les navires construits avant le 1er juillet 2014 doivent satisfaire aux prescriptions des paragraphes 6.1.1 et 6.1.2 qui s'appliquaient antérieurement.
 
-.1 s'il s'agit d'un dispositif à gaz carbonique, la quantité de gaz disponible doit permettre de libérer un volume de gaz égal à 45 % au moins du volume brut du plus grand des espaces à cargaison pouvant être rendus étanches aux gaz. Les dispositifs doivent être tels qu'ils assurent l'arrivée des deux tiers au moins du gaz requis dans le local en question en 10 minutes ou moins ;
+6.1.1. Les locaux à véhicules et les espaces rouliers qui ne sont pas des locaux de catégorie spéciale et qui peuvent être rendus étanches aux gaz depuis un emplacement situé à l'extérieur des espaces à cargaison doivent être équipés de l'un des dispositifs fixes d'extinction de l'incendie ci-après :
 
-.2 on peut installer tout autre dispositif fixe d'extinction à gaz inerte ou à mousse à haut foisonnement, à condition que
+. 1 Un dispositif fixe d'extinction de l'incendie par le gaz conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie ;
 
-l'Administration soit convaincue qu'une protection équivalente est ainsi assurée ; et
+. 2 Un dispositif fixe d'extinction de l'incendie à mousse à haut foisonnement conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie ; ou
 
-.3 on peut aussi installer, à titre de variante, un dispositif satisfaisant aux prescriptions du paragraphe 6.1.2.
+. 3 Un dispositif fixe de lutte contre l'incendie à base d'eau destiné aux espaces rouliers et aux locaux de catégorie spéciale conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie et des paragraphes 6.1.2.1 à 6.1.2.4.
 
-6.1.2 Les espaces rouliers et les locaux à véhicules qui ne peuvent pas être rendus étanches aux gaz et les locaux de catégorie spéciale doivent être équipés d'un dispositif fixe de projection d'eau diffusée sous pression d'un modèle approuvé (3) à commande manuelle qui protége toutes les parties des ponts et des plates-formes pour véhicules dans ces locaux et espaces. Ces dispositifs de projection d'eau diffusée doivent avoir :
+6.1.2. Les locaux à véhicules et les espaces rouliers qui ne peuvent pas être rendus étanches aux gaz et les locaux de catégorie spéciale doivent être équipés d'un dispositif fixe de lutte contre l'incendie à base d'eau destiné aux espaces rouliers et aux locaux de catégorie spéciale conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie qui protège toutes les parties des ponts et des plates-formes pour véhicules dans ces locaux et espaces. Ce dispositif de lutte contre l'incendie à base d'eau doit avoir :
 
-.1 un manomètre sur le collecteur des soupapes ;
+. 1 Un manomètre sur le collecteur des soupapes ;
 
-.2 sur chaque soupape du collecteur, une marque visible indiquant les locaux desservis ;
+. 2 Sur chaque soupape du collecteur, une marque visible indiquant les locaux desservis ;
 
-.3 des consignes sur l'entretien et l'exploitation du dispositif, affichées dans le local où se trouvent les soupapes ; et
+. 3 Des consignes sur l'entretien et l'exploitation du dispositif, affichées dans le local où se trouvent les soupapes ; et
 
-.4 un nombre suffisant de soupapes de vidange.
+. 4 Un nombre suffisant de soupapes.
 
-Il est fait application des dispositions de la résolution A.123(V).
-
-6.1.3 L'Administration peut autoriser l'utilisation de tout autre dispositif fixe d'extinction (4) s'il a été prouvé, lors d'un essai en vraie grandeur simulant un incendie dans un local à véhicules ou un espace roulier où se répand de l'essence, que ce dispositif est aussi efficace pour éteindre des incendies pouvant se déclarer dans ce type de local ou espace.
+6.1.3 L'Administration peut autoriser l'utilisation de tout autre dispositif fixe d'extinction (3) s'il a été prouvé, lors d'un essai en vraie grandeur simulant un incendie dans un local à véhicules ou un espace roulier où se répand de l'essence, que ce dispositif est aussi efficace pour éteindre des incendies pouvant se déclarer dans ce type de local ou espace.
 
 6.1.4 Les prescriptions du présent paragraphe s'appliquent aux navires construits le 1er janvier 2010 ou après cette date. Les navires construits le 1er juillet 2002 ou après cette date mais avant le 1er janvier 2010 doivent satisfaire aux prescriptions du paragraphe 6.1.4 qui s'appliquaient précédemment, telles que modifiées par la résolution MSC.99(73). Lorsque des dispositifs fixes d'extinction par projection d'eau diffusée sous pression sont installés, il faut prendre, en raison de la perte grave de stabilité qui pourrait résulter de l'accumulation de grandes quantités d'eau sur le ou les ponts pendant l'utilisation du dispositif fixe de projection d'eau diffusée sous pression, les dispositions suivantes :
 
 .1 à bord des navires à passagers :
 
-.1.1 dans les espaces situés au-dessus du pont de cloisonnement, des dalots qui permettent d'évacuer rapidement et directement à la mer l'eau ainsi accumulée doivent être installés, compte tenu des directives élaborées par l'Organisation(5) ;
+.1.1 dans les espaces situés au-dessus du pont de cloisonnement, des dalots qui permettent d'évacuer rapidement et directement à la mer l'eau ainsi accumulée doivent être installés, compte tenu des directives élaborées par l'Organisation (4) ;
 
 .1.2.1 à bord des navires rouliers à passagers, les volets des dalots, munis d'un moyen de fermeture directe manœuvrable depuis un emplacement situé au-dessus du pont de cloisonnement conformément aux prescriptions de la Convention internationale sur les lignes de charge en vigueur, doivent être maintenus en position ouverte lorsque le navire est en mer ;
 
 .1.2.2 toute manœuvre des volets visés au paragraphe 6.1.4.1.2.1 doit être consignée dans le journal de bord ;
 
-.1.3 dans les espaces situés au-dessous du pont de cloisonnement, l'Administration peut exiger l'installation de dispositifs d'assèchement et de vidange complétant ceux qui sont prescrits à l'article 221-II-1/35-1. Dans ce cas, le dispositif d'assèchement doit être capable d'évacuer au moins 125 % du débit combiné des pompes du dispositif à eau diffusée et du nombre prescrit d'ajutages de marches d'incendie, compte tenu des directives élaborées par l'Organisation(5). Les vannes du dispositif d'assèchement doivent pouvoir être actionnées depuis un emplacement situé à l'extérieur de l'espace protégé et à proximité des commandes du dispositif d'extinction. Les puisards doivent être d'une capacité suffisante et être disposés au niveau de la muraille du navire à des intervalles de 40 m au plus, dans chaque compartiment étanche à l'eau ;
+.1.3 dans les espaces situés au-dessous du pont de cloisonnement, l'Administration peut exiger l'installation de dispositifs d'assèchement et de vidange complétant ceux qui sont prescrits à l'article 221-II-1/35-1. Dans ce cas, le dispositif d'assèchement doit être capable d'évacuer au moins 125 % du débit combiné des pompes du dispositif à eau diffusée et du nombre prescrit d'ajutages de marches d'incendie, compte tenu des directives élaborées par l'Organisation (4). Les vannes du dispositif d'assèchement doivent pouvoir être actionnées depuis un emplacement situé à l'extérieur de l'espace protégé et à proximité des commandes du dispositif d'extinction. Les puisards doivent être d'une capacité suffisante et être disposés au niveau de la muraille du navire à des intervalles de 40 m au plus, dans chaque compartiment étanche à l'eau ;
 
-.2 à bord des navires de charge, les dispositifs d'assèchement et de pompage doivent être conçus de manière à empêcher un effet de carène liquide. Dans ce cas, le dispositif d'assèchement doit être capable d'évacuer au moins 125 % du débit combiné des pompes du dispositif à eau diffusée et du nombre prescrit d'ajutages de manches d'incendie, compte tenu des directives élaborées par l'Organisation(5). Les vannes du dispositif d'assèchement doivent pouvoir être actionnées depuis un emplacement situé à l'extérieur de l'espace protégé, et à proximité des commandes du dispositif d'extinction. Les puisards doivent être d'une capacité suffisante et être disposés au niveau de la muraille du navire à des intervalles de 40 m au plus dans chaque compartiment étanche à l'eau. Si cela n'est pas possible, l'Administration doit tenir compte dans la mesure jugée nécessaire, lors de l'approbation des renseignements relatifs à la stabilité, des effets néfastes de carène liquide et du poids supplémentaire d'eau sur la stabilité(6). Ces renseignements doivent être inclus dans les renseignements sur la stabilité qui doivent être fournis au capitaine en vertu de l'article 221-II-1/05-1.
+.2 à bord des navires de charge, les dispositifs d'assèchement et de pompage doivent être conçus de manière à empêcher un effet de carène liquide. Dans ce cas, le dispositif d'assèchement doit être capable d'évacuer au moins 125 % du débit combiné des pompes du dispositif à eau diffusée et du nombre prescrit d'ajutages de manches d'incendie, compte tenu des directives élaborées par l'Organisation (4). Les vannes du dispositif d'assèchement doivent pouvoir être actionnées depuis un emplacement situé à l'extérieur de l'espace protégé, et à proximité des commandes du dispositif d'extinction. Les puisards doivent être d'une capacité suffisante et être disposés au niveau de la muraille du navire à des intervalles de 40 m au plus dans chaque compartiment étanche à l'eau. Si cela n'est pas possible, l'Administration doit tenir compte dans la mesure jugée nécessaire, lors de l'approbation des renseignements relatifs à la stabilité, des effets néfastes de carène liquide et du poids supplémentaire d'eau sur la stabilité (5). Ces renseignements doivent être inclus dans les renseignements sur la stabilité qui doivent être fournis au capitaine en vertu de l'article 221-II-1/05-1.
 
 Il est fait application des dispositions de la résolution A.123(V).
 
-6.1.5 A bord de tous les navires, dans les espaces à véhicules, espaces rouliers et locaux de catégorie spéciale fermés lorsque des dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression sont installés, des moyens doivent être prévus pour empêcher l'engorgement des dispositifs d'assèchement, compte tenu des directives élaborées par l'Organisation(5). Les navires construits avant le 1er janvier 2010 doivent satisfaire aux prescriptions du présent paragraphe avant la première visite qui a lieu après le 1er janvier 2010.
+6.1.5 A bord de tous les navires, dans les espaces à véhicules, espaces rouliers et locaux de catégorie spéciale fermés lorsque des dispositifs fixes d'extinction de l'incendie par projection d'eau diffusée sous pression sont installés, des moyens doivent être prévus pour empêcher l'engorgement des dispositifs d'assèchement, compte tenu des directives élaborées par l'Organisation (4). Les navires construits avant le 1er janvier 2010 doivent satisfaire aux prescriptions du présent paragraphe avant la première visite qui a lieu après le 1er janvier 2010.
 
 6.2 Extincteurs d'incendie portatifs
 

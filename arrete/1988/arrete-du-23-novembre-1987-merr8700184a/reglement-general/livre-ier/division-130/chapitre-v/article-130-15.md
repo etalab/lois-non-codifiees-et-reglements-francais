@@ -2,7 +2,7 @@
 
 Délivrance d'un certificat de jaugeage pour un navire d'une longueur inférieure à 15 mètres.
 
-En application de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, le certificat de jaugeage d'un navire d'une longueur hors tout inférieure à 15 mètres est délivré par le chef de centre de sécurité des navires ou son délégué.
+En application de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, le certificat de jaugeage d'un navire d'une longueur hors tout inférieure à 15 mètres, à l'exception des navires de plaisance à usage personnel ou de formation,  est délivré par le chef de centre de sécurité des navires ou son délégué.
 
 Les demandes de jaugeage s'effectuent conformément aux dispositions de l'article 130.7 de la présente division. Chaque demande doit comprendre, a minima, les éléments suivants :
 

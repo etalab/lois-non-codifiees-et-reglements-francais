@@ -11,3 +11,4 @@
 - [Article 221-II-1/03-9](article-221-ii-1-03-9.md)
 - [Article 221-II-1/03-10](article-221-ii-1-03-10.md)
 - [Article 221-II-1/03-11](article-221-ii-1-03-11.md)
+- [Article 221-II-1/03-12](article-221-ii-1-03-12.md)

@@ -12,11 +12,15 @@ Avant la pose de la quille du navire, ou lors de l'acquisition d'un navire à l'
 
 Avant la pose de la quille du navire, ou lors de l'acquisition d'un navire à l'étranger, relevant de la compétence de la commission centrale de sécurité ou avant que sa construction ne se trouve à un stade équivalent, l'exploitant du navire adresse une déclaration de mise en chantier ou d'acquisition à l'étranger au bureau de la réglementation et du contrôle des navires de la direction des affaires maritimes, ainsi qu'à la société de classification habilitée (cf. modèle annexe 130-A.4). Après désignation, le bureau de la réglementation et du contrôle des navires transmet cette demande au centre de sécurité des navires compétent.
 
-3. Tout navire dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I-1° de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
+3. Tout navire de compétence de la Commission nationale de sécurité de la navigation de plaisance :
+
+Avant la pose de la quille du navire, ou lors de l'acquisition d'un navire à l'étranger, relevant de la compétence de la Commission nationale de sécurité de la navigation de plaisance ou avant que sa construction ne se trouve à un stade équivalent, l'exploitant du navire adresse une déclaration de mise en chantier ou d'acquisition à l'étranger à la mission de la navigation de plaisance et des loisirs nautiques de la direction des affaires maritimes ainsi que, si nécessaire, à la société de classification habilitée (cf. modèle annexe 130-A.4). Après désignation, la mission de la navigation de plaisance et des loisirs nautiques transmet une copie de cette demande au centre de sécurité des navires compétent.
+
+4. Tout navire dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I-1° de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 
 Avant la pose de la quille du navire ou lors de l'acquisition d'un navire à l'étranger, dont les titres sont délivrés par une société de classification habilitée au sens du paragraphe I-1° de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié, ou avant que sa construction ne se trouve à un stade équivalent, l'exploitant du navire adresse une déclaration de mise en chantier ou d'acquisition à l'étranger au bureau de la réglementation et du contrôle des navires de la direction des affaires maritimes, ainsi qu'à la société de classification habilitée (cf. modèle annexe 130-A.4). Après désignation, le bureau de la réglementation et du contrôle des navires transmet cette demande au centre de sécurité des navires compétent.
 
-4. Obligations générales :
+5. Obligations générales :
 
 Dans le cas où, en cours de construction, les caractéristiques principales du navire ou le service auquel il est destiné sont modifiés, l'exploitant fait une nouvelle déclaration.
 

@@ -8,7 +8,7 @@ A. - Cas général :
 
 1. Le certificat national de franc-bord peut être renouvelé par une société de classification habilitée, au sens de la division 140 du présent règlement, pour une durée maximum de cinq ans.
 
-2. Le certificat national de franc-bord doit être adressé par l'exploitant du navire au chef du centre de sécurité des navires compétent, ou son délégué, lors de la demande de délivrance ou de renouvellement du permis de navigation.
+2. Le certificat national de franc-bord doit être adressé par l'exploitant du navire au chef du centre de sécurité des navires compétent, ou son délégué, lors de la demande de délivrance ou de renouvellement du permis de navigation. Pour les navires de plaisance non munis d'un permis de navigation, le certificat national de franc-bord doit être adressé à la mission de la navigation de plaisance et des loisirs nautiques.
 
 B. - Navires dont la pose de quille est antérieure au 1er septembre 1984 :
 

@@ -16,6 +16,6 @@ ii) Les fiouls lourds ne soient pas utilisés si leur teneur en soufre dépasse 
 
 e) Aux combustibles utilisés par les navires de guerre et autres navires affectés à des fins militaires ;
 
-f) Aux combustibles utilisés à bord de navires qui emploient des technologies de réduction des émissions conformément à l'article 213-6.14 bis.
+f) Sans préjudice de l'article 213-6.04, aux combustibles utilisés à bord de navires qui emploient des méthodes de réduction des émissions conformément à l'article 213-6.14 bis.
 
 Les prescriptions relatives à la teneur maximale en soufre des combustibles marins ne sont pas applicables aux Territoires français d'outre-mer, sous réserve du respect des alinéas d, i, et d ii ci-dessus.

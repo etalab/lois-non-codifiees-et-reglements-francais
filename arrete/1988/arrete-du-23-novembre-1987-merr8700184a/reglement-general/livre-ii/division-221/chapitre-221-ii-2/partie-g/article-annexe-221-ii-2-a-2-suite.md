@@ -154,7 +154,7 @@ La hauteur d'aspiration totale et la hauteur nette d'aspiration de la pompe doiv
 
 2.2.2.1 Mise en marche du moteur diesel
 
-Toute source d'énergie entraînée par un moteur diesel et alimentant la pompe doit pouvoir être facilement mise en marche à froid jusqu'à une température de 0°C à l'aide d'une manivelle. Si cela n'est pas possible dans la pratique, ou si des températures plus basses sont prévues, il convient de veiller à ce que des installations de chauffage, jugées acceptables par l'Administration, soient prévues et entretenues de façon à garantir une mise en marche rapide. Si un dispositif manuel de démarrage n'est pas possible en pratique, l'Administration peut autoriser d'autres moyens de mise en marche. Ces moyens doivent permettre de mettre en marche la source d'énergie entraînée par un moteur diesel au moins six fois en 30 min et au moins deux fois pendant les 10 premières minutes.
+Toute source d'énergie entraînée par un moteur Diesel et alimentant la pompe doit pouvoir être facilement mise en marche à froid jusqu'à une température de 0° C à l'aide d'une manivelle. Lorsqu'une mise en marche rapide de cette source d'énergie ne peut être garantie ou est impossible dans la pratique ou si des températures plus basses sont prévues et que le local dans lequel se trouve cette source d'énergie n'est pas chauffé, un chauffage électrique de l'eau de refroidissement ou du circuit d'huile de graissage du moteur Diesel doit être installé, à la satisfaction de l'Administration. Si un démarrage manuel est impossible dans la pratique, l'Administration peut accepter que de l'air comprimé, de l'électricité ou d'autres sources d'énergie accumulée, y compris de l'énergie hydraulique ou des cartouches explosives, soient utilisés comme moyens de mise en marche. Ces moyens doivent permettre de mettre en marche la source d'énergie entraînée par un moteur Diesel au moins six fois au cours d'une période de trente minutes et au moins deux fois pendant les dix premières minutes.
 
 2.2.2.2 Capacité de la caisse à combustible
 
@@ -266,7 +266,7 @@ Les escaliers ne doivent pas s'élever à plus de 3,5 m sans comporter un palier
 
 2.2.4 Paliers
 
-Les paliers prévus au niveau de chaque pont doivent avoir une superficie d'au moins 2 m2, augmentée de 1 m2 pour chaque supplément de dix personnes au-delà de 20 personnes, mais n'ont pas à avoir une superficie de plus de 16 m2, sauf s'ils desservent des locaux de réunion débouchant directement sur l'entourage d'escalier.
+A l'exception des paliers intermédiaires, les paliers prévus au niveau de chaque pont doivent avoir une superficie d'au moins 2 m ², augmentée de 1 m ² pour chaque supplément de dix personnes au-delà de 20 personnes, mais n'ont pas à avoir une superficie de plus de 16 m ², sauf s'ils desservent des locaux de réunion débouchant directement sur l'entourage d'escalier. Les paliers intermédiaires doivent avoir les dimensions déterminées conformément au paragraphe 2.3.1.
 
 FIGURE 3
 
@@ -314,67 +314,77 @@ CHAPITRE 14
 
 DISPOSITIFS FIXES A MOUSSE SUR PONT
 
-1 Application
+1. Application.
 
-Le présent chapitre contient les spécifications applicables aux dispositifs fixes à mousse sur pont qui sont prescrits aux termes du chapitre II-2 de la division 221.
+1.1. Le présent chapitre décrit en détail les spécifications applicables aux dispositifs fixes à mousse sur pont qui sont prescrites aux termes du chapitre II-2 de la Convention.
 
-2 Spécifications techniques
+2. Spécifications techniques.
 
-2.1 Généralités
+2.1. Généralités.
 
-2.1.1 Le dispositif générateur de mousse doit permettre de projeter de la mousse sur toute la zone du pont des citernes à cargaison ainsi que dans chacune des citernes à cargaison correspondant à une partie de pont endommagée.
+2.1.1. Le dispositif générateur de mousse doit être capable de projeter de la mousse sur toute la surface du pont située au-dessus des citernes à cargaison ainsi que dans chacune des citernes à cargaison située au-dessous d'une partie de pont endommagée.
 
-2.1.2 Le dispositif à mousse sur pont doit pouvoir être utilisé facilement et rapidement.
+2.1.2. Le dispositif à mousse sur pont doit pouvoir être utilisé facilement et rapidement.
 
-2.1.3 Le fonctionnement du dispositif à mousse sur pont au débit requis ne doit pas entraver l'utilisation simultanée du nombre minimal requis de jets d'eau fournis par le collecteur principal d'incendie à la pression requise.
+2.1.3. Alors que le dispositif à mousse sur pont fonctionne au débit requis, le nombre minimal requis de jets d'eau fournis par le collecteur principal d'incendie doit pouvoir être utilisé simultanément à la pression requise. Lorsque le dispositif à mousse sur pont est alimenté par une conduite commune à partir du collecteur principal d'incendie, une quantité supplémentaire d'émulseur doit être prévue pour permettre le fonctionnement de deux ajutages pendant une durée égale à celle qui est requise pour le fonctionnement du dispositif à mousse. Il doit être possible d'utiliser simultanément le nombre minimal requis de jets d'eau sur le pont sur toute la longueur du navire et dans les locaux d'habitation, locaux de service, postes de sécurité et locaux de machines.
 
-2.2 Spécifications des éléments
+2.2. Spécifications des éléments.
 
-2.2.1 Solution moussante et émulseur
+2.2.1. Solution moussante et émulseur.
 
-2.2.1.1 Le taux d'application de la solution moussante ne doit pas être inférieur à la plus élevée des valeurs ci-après :
+2.2.1.1. Dans le cas des navires-citernes qui transportent :
 
-.1 0,6 l/min par mètre carré de la surface du pont des citernes à cargaison, cette surface étant constituée par la largeur hors tout du navire multipliée par la longueur totale des espaces occupés par les citernes à cargaison ;
+. 1 Du pétrole brut ou des produits pétroliers ayant un point d'éclair inférieur ou égal à 60° C (creuset fermé), tel que déterminé à l'aide d'un instrument approuvé, et une pression de vapeur Reid inférieure à la pression atmosphérique ou d'autres produits liquides présentant un risque d'incendie analogue, y compris les produits énumérés dans le chapitre 18 du Recueil IBC qui ont un point d'éclair inférieur ou égal à 60° C (creuset fermé) et pour lesquels un dispositif ordinaire d'extinction de l'incendie à mousse est efficace (se reporter aux articles 221-II-2/1.6.1 et 10.8 de la présente division) ; ou
 
-.2 6 l/min par mètre carré de la section horizontale de la citerne ayant la plus grande section horizontale ; ou
+. 2 Des produits pétroliers ayant un point d'éclair supérieur à 60° C (creuset fermé), tel que déterminé à l'aide d'un instrument approuvé (se reporter à l'article 221-II-2/1.6.4 de la présente division) ; ou
 
-.3 3 l/min par mètre carré de la surface couverte par le plus grand canon à mousse, cette surface se trouvant entièrement à l'avant du canon ; le taux d'application ne doit toutefois pas être inférieur à 1 250 l/min.
+. 3 Des produits répertoriés dans le chapitre 17 du Recueil IBC qui ont un point d'éclair supérieur à 60° C (creuset fermé), tel que déterminé à l'aide d'un instrument approuvé (se reporter au paragraphe 11.1.3 du Recueil IBC et à l'article 221-II-2/1.6.4 de présente division).
 
-2.2.1.2 Il doit y avoir une quantité suffisante d'émulseur pour produire de la mousse pendant 20 min au moins à bord des navires-citernes munis d'un dispositif à gaz inerte, ou 30 min à bord les navires-citernes qui ne sont pas munis d'un dispositif à gaz inerte, lorsque le débit est conforme à la plus élevée des valeurs stipulées au paragraphe 2.2.1.1. D'une manière générale, le taux de foisonnement (à savoir le rapport entre le volume de mousse produite et le volume du mélange d'eau et d'émulseur fourni) ne doit pas être supérieur à 12. Si les dispositifs produisent essentiellement de la mousse à bas foisonnement mais à un taux légèrement supérieur à 12, la quantité de solution eau/émulseur dont on peut disposer doit être calculée comme dans le cas des dispositifs produisant un taux de foisonnement de 12 (4). En cas d'utilisation d'une mousse à foisonnement moyen (5) (taux compris entre 50 et 150), le taux d'application de la mousse ainsi que la capacité de l'installation de diffusion par canon à mousse doivent être jugés satisfaisants par l'Administration.
+Le taux d'application de la solution moussante ne doit pas être inférieur à la plus élevée des valeurs ci-après :
 
-L'utilisation d'une mousse à foisonnement moyen n'est pas autorisée.
+. 1 0,6 l/ min/ m ² de la surface du pont située au-dessus des citernes à cargaison, cette surface étant constituée par la largeur maximale du navire multipliée par la longueur totale des espaces occupés par les citernes à cargaison ;
 
-2.2.2 Canons et cannes à mousse
+. 2 6 l/ min/ m ² de la section horizontale de la citerne ayant la plus grande section horizontale ; ou
 
-2.2.2.1 La mousse provenant du dispositif fixe à mousse doit être projetée par des canons et des cannes à mousse. Au moins 50 % au moins du taux d'application requis pour la solution moussante aux paragraphes 2.2.1.1.1 et 2.2.1.1.2 doit pouvoir être diffusé par chaque canon. A bord des navires-citernes d'un port en lourd inférieur à 4 000 tonnes, l'Administration peut ne pas exiger l'installation de canons mais se contenter de cannes. Toutefois, dans ce cas, le débit de chaque canne doit correspondre à 25 % au moins du taux d'application de solution moussante requis aux paragraphes 2.2.1.1.1 ou 2.2.1.1.2.
+. 3 3 l/ min/ m ² de la surface protégée par le canon à mousse le plus grand, cette surface se trouvant entièrement en avant du canon ; toutefois, le débit du canon utilisé ne devrait en aucun cas être inférieur à 1 250 l/ min.
 
-2.2.2.2 Le débit d'un canon à mousse doit être d'au moins 3 l/min de solution moussante par mètre carré de surface de pont couverte par ce canon, cette surface se trouvant entièrement à l'avant de ce canon. Ce débit ne doit en aucun cas être inférieur à 1 250 l/min.
+2.2.1.2. Dans le cas des navires-citernes qui transportent en vrac des produits chimiques répertoriés dans le chapitre 17 du Recueil IBC qui ont un point d'éclair inférieur ou égal à 60° C (creuset fermé), le taux d'application de la solution moussante doit être celui que prescrit le Recueil IBC.
 
-2.2.2.3 Le débit d'une canne doit être d'au moins 400 l/min et sa portée en air calme doit être d'au moins 15 m.
+2.2.1.3. Il doit y avoir une quantité suffisante d'émulseur pour produire de la mousse pendant vingt minutes au moins à bord des navires-citernes équipés d'une installation de gaz inerte ou pendant trente minutes à bord des navires-citernes qui ne sont pas équipés d'une installation de gaz inerte ou qui ne sont pas tenus d'utiliser un dispositif à gaz inerte.
 
-2.3 Prescriptions concernant l'installation
+2.2.1.4. L'émulseur fourni à bord doit être approuvé par l'autorité compétente (8) pour les cargaisons que le navire est censé transporter. Les émulseurs du type B doivent être utilisés pour protéger les cargaisons de pétrole brut, de produits pétroliers et de solvants non polaires. Les émulseurs du type A doivent être utilisés pour les cargaisons de solvants polaires répertoriées dans le tableau du chapitre 17 du Recueil IBC. Un seul type d'émulseur doit être fourni et il doit avoir une action efficace sur le plus grand nombre possible de cargaisons que le navire est censé transporter. En ce qui concerne les autres cargaisons pour lesquelles la mousse est inefficace ou incompatible, des moyens supplémentaires jugés satisfaisants par l'autorité compétente doivent être prévus.
 
-2.3.1 Poste principal de commande
+2.2.1.5. Les cargaisons liquides ayant un point d'éclair inférieur ou égal à 60° C pour lesquelles un dispositif ordinaire d'extinction de l'incendie à mousse ne serait pas efficace doivent satisfaire aux dispositions de la règle II-2/1.6.2.1 de la Convention.
 
-Le poste principal de commande du dispositif doit être installé à un endroit approprié à l'extérieur de la tranche de la cargaison, être contigu aux locaux d'habitation, être d'un accès facile et pouvoir fonctionner en cas d'incendie dans les zones à protéger.
+2.2.2. Canons et cannes à mousse.
 
-2.3.2 Canons à mousse
+2.2.2.1. La mousse provenant du dispositif fixe à mousse doit être projetée par des canons et des cannes à mousse. Les canons et cannes à mousse doivent faire l'objet d'essais sur prototype afin de garantir que le temps de foisonnement et de décantation de la mousse produite ne diffère pas de plus de ± 10 % de celui qui est déterminé au paragraphe 2.2.1.4. En cas d'utilisation d'une mousse à foisonnement moyen (taux compris entre 21 et 200), le taux d'application de la mousse et le débit de l'installation de canons doivent être jugés satisfaisants par l'Administration. Au moins 50 % du taux d'application requis pour la solution moussante doit pouvoir être diffusé par chaque canon. A bord des navires-citernes d'un port en lourd inférieur à 4 000 tonnes, l'Administration peut ne pas exiger d'installer des canons et se contenter d'exiger des cannes à mousse. Toutefois, dans ce cas, le débit de chaque canne doit être égal à 25 % au moins du taux d'application de solution moussante requis.
 
-2.3.2.1 Le nombre et l'emplacement des canons à mousse doivent permettre de satisfaire aux dispositions du paragraphe 2.1.1.
+2.2.2.2. Le débit d'une canne doit être d'au moins 400 l/ min et sa portée en air calme doit être d'au moins 15 mètres.
 
-2.3.2.2 La distance entre le canon et l'extrémité la plus éloignée de la zone à protéger située devant ce canon ne doit pas dépasser 75 % de la portée de ce canon en air calme.
+2.3. Prescriptions concernant l'installation.
 
-2.3.2.3 Un canon à mousse et un raccordement pour canne à mousse doivent être installés à bâbord et à tribord au droit de la façade de la dunette ou des locaux d'habitation faisant face au pont des citernes à cargaison. A bord des navires-citernes d'un port en lourd inférieur à 4 000 tonnes, un raccordement pour canne à mousse doit être installé à bâbord et à tribord devant la façade de la dunette ou des locaux d'habitation faisant face au pont des citernes à cargaison.
+2.3.1. Poste principal de commande.
 
-2.3.3 Cannes à mousse
+2.3.1.1. Le poste principal de commande du dispositif doit être installé à un endroit approprié à l'extérieur de la tranche de la cargaison, être contigu aux locaux d'habitation, être d'un accès facile et pouvoir fonctionner en cas d'incendie dans les zones protégées.
 
-2.3.3.1 Le nombre des cannes à mousse prévues ne doit pas être inférieur à quatre. Le nombre et l'emplacement des distributeurs sur collecteur de mousse doivent être tels que la mousse d'au moins deux cannes puisse être projetée sur une partie quelconque de la zone du pont des citernes à cargaison.
+2.3.2. Canons à mousse.
 
-2.3.3.2 Des cannes doivent être prévues pour assurer la souplesse des opérations de lutte contre l'incendie et pour atteindre les zones qui ne peuvent l'être par les canons à mousse.
+2.3.2.1. Le nombre et l'emplacement des canons à mousse doivent permettre de satisfaire aux dispositions du paragraphe 2.1.1.
 
-2.3.4 Soupapes d'isolement
+2.3.2.2. La distance entre le canon et l'extrémité la plus éloignée de la zone protégée située en avant de ce canon ne doit pas dépasser 75 % de la portée de ce canon en air calme.
 
-Des sectionnements doivent être prévus sur le collecteur de mousse, ainsi que sur le collecteur d'incendie lorsque celui-ci fait partie intégrante du dispositif à mousse sur pont, immédiatement à l'avant de chaque canon à mousse, pour permettre d'isoler les parties endommagées de ces collecteurs.
+2.3.2.3. Un canon à mousse et un raccordement pour canne à mousse doivent être installés à bâbord et à tribord au niveau de la façade de la dunette ou des locaux d'habitation donnant sur le pont des citernes à cargaison. Les canons et raccordements pour cannes à mousse doivent être en arrière de toutes citernes à cargaison, mais ils peuvent être situés dans la tranche de la cargaison au-dessus des chambres des pompes, cofferdams, citernes à ballast et espaces vides adjacents aux citernes à cargaison s'ils sont en mesure de protéger le pont qui se trouve au-dessous et à l'arrière de chacun d'eux. A bord des navires-citernes d'un port en lourd inférieur à 4 000 tonnes, un raccordement pour canne à mousse doit être installé à bâbord et à tribord au niveau de la façade de la dunette ou des locaux d'habitation donnant sur le pont des citernes à cargaison.
+
+2.3.3. Cannes à mousse.
+
+2.3.3.1. Au moins quatre cannes à mousse doivent être prévues à bord de tous les navires-citernes. Le nombre et l'emplacement des distributeurs sur le collecteur de mousse doivent être tels que le jet de mousse d'au moins deux cannes puisse être dirigé sur une partie quelconque de la zone du pont des citernes à cargaison.
+
+2.3.3.2. Des cannes doivent être prévues pour assurer la souplesse des opérations de lutte contre l'incendie et pour atteindre les zones qui ne peuvent l'être par les canons à mousse.
+
+2.3.4. Soupapes d'isolement.
+
+2.3.4.1. Des sectionnements doivent être prévus sur le collecteur de mousse, ainsi que sur le collecteur d'incendie si celui-ci fait partie intégrante du dispositif à mousse sur pont, immédiatement en avant de chaque canon à mousse pour permettre d'isoler les parties endommagées de ces collecteurs.
 
 CHAPITRE 15
 
