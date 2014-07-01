@@ -1,3 +1,0 @@
-# REGLEMENT DU REGIME D'ASSURANCE INVALIDITE-DECES DES PROFESSIONS ARTISANALES
-
-- [Dispositions générales.](dispositions-generales)

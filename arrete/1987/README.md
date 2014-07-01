@@ -541,7 +541,6 @@
 - [Arrêté du 30 décembre 1986 (ECOT8720002A)](arrete-du-30-decembre-1986-ecot8720002a)
 - [Arrêté du 30 janvier 1987 (ECOM8710014A)](arrete-du-30-janvier-1987-ecom8710014a)
 - [Arrêté du 30 janvier 1987 (PTTT8700077A)](arrete-du-30-janvier-1987-pttt8700077a)
-- [Arrêté du 30 juillet 1987 (ASES8701140A)](arrete-du-30-juillet-1987-ases8701140a)
 - [Arrêté du 30 juillet 1987 (ASEX8798339A)](arrete-du-30-juillet-1987-asex8798339a)
 - [Arrêté du 30 juillet 1987 (ECOC8700050A)](arrete-du-30-juillet-1987-ecoc8700050a)
 - [Arrêté du 30 juillet 1987 (MEND8700367A)](arrete-du-30-juillet-1987-mend8700367a)
