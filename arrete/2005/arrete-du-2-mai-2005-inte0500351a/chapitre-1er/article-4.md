@@ -30,7 +30,9 @@ Agent de service de sécurité incendie.
 
 - être titulaire du certificat d'aptitude professionnel " agent de prévention et de sécurité " ;
 
-- être titulaire d'une mention complémentaire " sécurité civile et d'entreprise ".
+- être titulaire d'une mention complémentaire " sécurité civile et d'entreprise " ;
+
+- être titulaire du brevet national de jeunes sapeurs-pompiers depuis moins de trois ans et avoir suivi, sans évaluation, le module complémentaire prévu à l'annexe VI, chapitre 1er. Cette disposition doit entraîner la remise du diplôme de SSIAP 1 par équivalence.
 
 3.L'enseignement reçu pour prétendre à l'emploi d'agent de sécurité incendie doit être dispensé conformément à l'annexe II du présent arrêté et représenter un volume horaire minimum de 67 heures (hors temps d'examen et temps de déplacements). Il doit être validé par un examen organisé dans les conditions prévues par l'article 8 du présent arrêté, pour l'obtention du diplôme de SSIAP 1.
 
