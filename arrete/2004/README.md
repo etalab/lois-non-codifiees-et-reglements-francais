@@ -295,7 +295,6 @@
 - [Arrêté du 12 mai 2004 (ECOT0414408A)](arrete-du-12-mai-2004-ecot0414408a)
 - [Arrêté du 12 mai 2004 (ECOT0414410A)](arrete-du-12-mai-2004-ecot0414410a)
 - [Arrêté du 12 mai 2004 (SANG0421678A)](arrete-du-12-mai-2004-sang0421678a)
-- [Arrêté du 13 décembre 2004 (DEVP0430481A)](arrete-du-13-decembre-2004-devp0430481a)
 - [Arrêté du 13 février 1992 (ECOT9210139A)](arrete-du-13-fevrier-1992-ecot9210139a)
 - [Arrêté du 13 février 2004 (INTA0400108A)](arrete-du-13-fevrier-2004-inta0400108a)
 - [Arrêté du 13 février 2004 (MAEA0420070A)](arrete-du-13-fevrier-2004-maea0420070a)
