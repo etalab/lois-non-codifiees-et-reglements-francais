@@ -1,6 +1,6 @@
 # Article TABLEAU  X
 
-Attribution de la nouvelle bonification indiciaire à l'établissement public La Monnaie de Paris
+Attribution de la nouvelle bonification indiciaire à l'Imprimerie nationale
 
 <table>
 <tbody>
@@ -18,30 +18,48 @@ Attribution de la nouvelle bonification indiciaire à l'établissement public La
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de postes éligibles </p>
+<p align="center">de postes éligibles</p>
 </td>
 <td>
 <p align="center">MONTANT </p>
 <br/>
 <p align="center">(en points majorés)</p>
 </td>
+</tr>
+<tr>
 <td>
-<p align="center">DATE D'EFFET</p>
+<p>1° Chef des expéditions.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie B.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">16</p>
 </td>
 </tr>
 <tr>
 <td>
-<pre> </pre>
+<p>2° Responsable d'un département de production important.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3° Responsable d'un grand compte de clientèle :</p>
 </td>
 <td>
 <pre> </pre>
-</td>
-<td>
-<p align="center">Créations </p>
-<br/>
-<p align="center">ou </p>
-<br/>
-<p align="center">suppressions</p>
 </td>
 <td>
 <pre> </pre>
@@ -52,7 +70,175 @@ Attribution de la nouvelle bonification indiciaire à l'établissement public La
 </tr>
 <tr>
 <td>
-<p>1° Conseiller artistique auprès du directeur des Monnaies et médailles.</p>
+<p>3-1 Agent chargé du dossier Direction générale des impôts</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie B.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3-2 Agent chargé des dossiers comptabilité publique/douaniers/redevance TV.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4° Responsable du département Comptes de clientèle.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5° Responsable de la section Formation.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie B.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6° Chef du département Clients institutionnels.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7° Responsable de la gestion des correcteurs.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie B.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8° Chef de la section des achats divers de l'établissement de Paris.</p>
+</td>
+<td>
+<p>Emploi technique du niveau de la catégorie C.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9° Adjoint au directeur de l'usine d'Evry</p>
+</td>
+<td>
+<p>Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10° Adjoint au chef du département Gestion des magasins et achats. </p>
+</td>
+<td>
+<p>Emploi technique du niveau de la catégorie C.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11° Responsable de la section sécurité et moyens de l'établissement de Douai.</p>
+</td>
+<td>
+<p>Emploi technique du niveau de la catégorie C.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12° Secrétaire général de l'établissement de Douai, chargé des ressources humaines.</p>
+</td>
+<td>
+<p>Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13° Coordinatrice industrielle pour les produits fiduciaires.</p>
+</td>
+<td>
+<p>Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14° Responsable qualité entreprise.</p>
 </td>
 <td>
 <p>Emploi technique du niveau de la catégorie B.</p>
@@ -61,163 +247,63 @@ Attribution de la nouvelle bonification indiciaire à l'établissement public La
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">25</p>
-</td>
-<td>
-<p align="center">1er août 1990</p>
+<p align="center">24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>2° Exercice de fonctions impliquant des responsabilités d'encadrement ou une qualification technique particulièrement importante dans les secteurs administratifs, culturels, industriels , commerciaux ou comptables.</p>
-</td>
-<td>
-<p>Emploi technique du niveau de la catégorie A ou B.</p>
-</td>
-<td>
-<p align="center">+ 1</p>
-</td>
-<td>
-<p align="center">30</p>
-</td>
-<td>
-<p align="center">1er août 1992</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">d°</p>
-</td>
-<td>
-<p align="center">d°</p>
-</td>
-<td>
-<p align="center">+ 1</p>
-</td>
-<td>
-<p align="center">30</p>
-</td>
-<td>
-<p align="center">1er août 1994</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">d°</p>
-</td>
-<td>
-<p align="center">d°</p>
-</td>
-<td>
-<p align="center">+ 1</p>
-</td>
-<td>
-<p align="center">30</p>
-</td>
-<td>
-<p align="center">1er août 1995</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3° Responsable de la section Budget.</p>
-</td>
-<td>
-<p>Emploi technique du niveau de la catégorie B.</p>
-</td>
-<td>
-<p align="center">+ 1</p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-<td>
-<p align="center">1er août 1992</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4° Fonctions comportant des responsabilités particulières en termes d'encadrement dans les secteurs études, production ou maintenance et/ou requérant une technicité très développée dans les domaines de la métallurgie, la mécanique ou l'électromécanique.</p>
-</td>
-<td>
-<p>Emploi technique du niveau de la catégorie B.</p>
-</td>
-<td>
-<p align="center">+ 2</p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-<td>
-<p align="center">1er août 1993</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>5° Agent assurant la production de prestations spécifiques ou de services techniques hautement spécialisés comportant des responsabilités particulières.</p>
-</td>
-<td>
-<p>Emploi technique du niveau de la catégorie B.</p>
-</td>
-<td>
-<p align="center">+ 1</p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-<td>
-<p align="center">1er août 1993</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">d°</p>
-</td>
-<td>
-<p align="center">d°</p>
-</td>
-<td>
-<p align="center">+ 1</p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-<td>
-<p align="center">1er août 1995</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>6° Exercice de fonctions impliquant des responsabilités d'encadrement et une qualification technique particulièrement importante dans le domaine des négociations de marchés internationaux de fabrication monétaire.</p>
+<p>15° Responsable des devis pour les produits en continu.</p>
 </td>
 <td>
 <p>Emploi technique du niveau de la catégorie A.</p>
 </td>
 <td>
-<p align="center">+ 1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">50</p>
-</td>
-<td>
-<p align="center">1er août 1996</p>
+<p align="center">24</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>7° Exercice de fonctions impliquant des responsabilités d'encadrement ou une qualification technique importante dans le domaine de la fabrication des monnaies et médailles.</p>
+<p>16° Responsable qualité site.</p>
 </td>
 <td>
-<p>Emploi technique du niveau de la catégorie A ou B.</p>
+<p>Emploi technique du niveau de la catégorie C.</p>
 </td>
 <td>
-<p align="center">+ 1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">25</p>
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17° Responsable du service diffusion logistique de l'établissement de Douai.</p>
 </td>
 <td>
-<p align="center">1er août 1996</p>
+<p>Emploi technique du niveau de la catégorie A.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">24</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18° Coordinatrice de la gestion du personnel, établissement de Paris.</p>
+</td>
+<td>
+<p align="center">Emploi technique du niveau de la catégorie C.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">16</p>
 </td>
 </tr>
 </tbody>

@@ -28,11 +28,7 @@ Les missions de l'inspection de la SGFGAS dans les établissements de crédit ob
 
 A. - Le contrôle est inopiné
 
-Afin de mettre en œuvre ce principe, les inspecteurs de la SGFGAS présentent aux responsables de l'organisme vérifié (siège, succursale, agence...) un mandat précisant leur identité et le champ de leurs compétences.
-
-Ce mandat est signé par le directeur général du Trésor et le directeur de l'habitat, de l'urbanisme et des paysages.
-
-La liste nominative des titulaires d'un mandat est transmise à chaque établissement de crédit après la confirmation de son affiliation. Elle est mise à jour à chaque arrivée d'un nouvel inspecteur ou au départ d'un inspecteur.
+Afin de mettre en œuvre ce principe, les inspecteurs de la SGFGAS justifient de leur identité et de l'étendue de la mission qu'ils vont conduire aux responsables de l'organisme vérifié (siège, succursale, agence...). La liste des inspecteurs participants à la mission et l'étendue de celle-ci sont définies par une notification de la SGFGAS.
 
 B. - Le contrôle est contradictoire
 

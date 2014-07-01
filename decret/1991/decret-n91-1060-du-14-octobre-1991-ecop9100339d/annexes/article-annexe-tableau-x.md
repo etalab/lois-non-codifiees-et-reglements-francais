@@ -1,6 +1,6 @@
 # Article ANNEXE TABLEAU X
 
-Attribution de la nouvelle bonification indiciaire à la direction des Monnaies et médailles
+Attribution de la nouvelle bonification indiciaire à l'Imprimerie nationale
 
 <table>
 <tbody>
@@ -12,37 +12,102 @@ Attribution de la nouvelle bonification indiciaire à la direction des Monnaies 
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>1. Conseiller artistique auprès du directeur des Monnaies et médailles. </p>
+<p>1. Chef des expéditions. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>2.  Exercice de fonctions impliquant des responsabilités d'encadrement ou  une qualification technique particulièrement importante dans les  secteurs administratifs, culturels, industriels, commerciaux ou  comptables. </p>
+<p>2. Responsable d'un département de production important. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>3. Responsable de la section Budget. </p>
+<p>3. Responsable d'un grand compte de clientèle. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>4.  Fonctions comportant des responsabilités particulières en termes  d'encadrement dans les secteurs études, production ou maintenance et /  ou requérant une technicité très développée dans les domaines de la  métallurgie, la mécanique ou l'électromécanique. </p>
+<p>3.1. Agent chargé du dossier direction générale des impôts. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>5.  Agent assurant la production de prestations spécifiques ou de services  techniques hautement spécialisés comportant des responsabilités  particulières. </p>
+<p>3.2. Agent chargé des dossiers comptabilité publique/douaniers/redevance TV. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>6.  Exercice de fonctions impliquant des responsabilités d'encadrement et  une qualification technique particulièrement importante dans le domaine  des négociations de marchés internationaux de fabrication monétaire. </p>
+<p>4. Responsable du département Comptes de clientèle. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>7.  Exercice de fonctions impliquant des responsabilités d'encadrement ou  une qualification technique importante dans le domaine de la fabrication  des monnaies et médailles. </p>
+<p>5. Responsable de la section Formation. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>6. Chef du département Clients institutionnels. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>7. Responsable de la gestion des correcteurs. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>8. Chef de la section des achats divers de l'établissement de Paris. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>9. Adjoint au directeur de l'usine d'Evry. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>10. Adjoint au chef du département Gestion des magasins et achats. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>11. Responsable de la section sécurité et moyens de l'établissement de Douai. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>12. Secrétaire général de l'établissement de Douai, chargé des ressources humaines. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>13. Coordinatrice industrielle pour les produits fiduciaires. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>14. Responsable qualité entreprise. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>15. Responsable des devis pour les produits en continu. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>16. Responsable qualité site. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>17. Responsable du service diffusion logistique de l'établissement de Douai. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="614">
+<p>18. Coordinatrice de la gestion du personnel , établissement de Paris. </p>
 </td>
 </tr>
 </tbody>

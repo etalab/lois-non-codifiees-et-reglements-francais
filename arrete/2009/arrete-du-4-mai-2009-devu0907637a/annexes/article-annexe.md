@@ -146,7 +146,7 @@ Le comité est tenu informé :
 
 - des moyens mis en œuvre par la SGFGAS pour assurer son obligation de contrôle ;
 
-- des diligences effectuées par la SGFGAS pour assurer le suivi des crédits d'impôt en cas de non-respect des dispositions légales ou réglementaires par les établissements de crédit et, le cas échéant, par les bénéficiaires de l'avance, en application de l'article R. 319-13 du code de la construction et de l'habitation.
+- des diligences effectuées par la SGFGAS pour assurer le suivi des crédits d'impôt en cas de non-respect des dispositions légales ou réglementaires par les établissements de crédit et, le cas échéant, par les personnes visées au II de l'article 199 ter S du code général des impôts.
 
 Article 7
 
@@ -178,7 +178,7 @@ Article 10
 
 Durée. - Résiliation.-Modifications
 
-La présente convention est valable jusqu'au 30 juin 2014.
+La présente convention est valable jusqu'à la date d'expiration des dispositions de l'article 244 quater U du code général des impôts.
 
 Elle peut être modifiée sur simple demande de l'Etat à condition que cette modification n'emporte pas de rupture de l'équilibre financier de la convention. La modification demandée est exécutoire de plein droit passé un délai de quatre mois ; la SGFGAS a la possibilité de dénoncer la convention dans le même délai.
 

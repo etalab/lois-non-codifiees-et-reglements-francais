@@ -80,7 +80,7 @@ Article 3
 
 Diligences
 
-L'établissement de crédit contrôle sous sa responsabilité l'éligibilité des emprunteurs / bénéficiaires et des travaux au prêt, sur la base des déclarations de l'emprunteur et des professionnels. Il se conforme pour ce faire à la réglementation en vigueur et vérifie en particulier que les déclarations ne comportent pas d'incohérence.
+L'établissement de crédit contrôle sous sa responsabilité l'éligibilité des dossiers de prêt, sur la base des déclarations des personnes visées au II de l'article 199 ter S.  Il se conforme pour ce faire à la réglementation en vigueur.
 
 Article 4
 
@@ -116,7 +116,7 @@ Pour chaque prêt, l'établissement de crédit constitue un dossier de prêt. Il
 
 L'établissement de crédit s'engage, pendant la durée susvisée, à répondre à toute demande de renseignements concernant les prêts et à accepter de recevoir des missions de contrôle de la SGFGAS effectuées par des agents mandatés à cet effet par le directeur général du Trésor et le directeur de l'habitat, de l'urbanisme et des paysages.
 
-Les vérifications portent exclusivement sur les informations relatives aux emprunteurs, aux opérations, aux plans de financement, aux prêts, et aux modalités de calcul du crédit d'impôt afférent, ainsi que sur le respect des conditions d'éligibilité de ces prêts et sur les procédures appliquées pour leur gestion par les établissements de crédit.
+Les vérifications portent exclusivement sur les informations relatives aux personnes visées au II de l'article 199 ter S du code général des impôts, aux opérations, aux plans de financement, aux prêts, et aux modalités de calcul du crédit d'impôt afférent, ainsi que sur le respect des conditions d'éligibilité de ces prêts et sur les procédures appliquées pour leur gestion par les établissements de crédit.
 
 Ces vérifications peuvent être effectuées par sondage, sur pièces, dans les conditions fixées par les articles 5 et 6 de la convention signée entre l'Etat et les établissements de crédit, et peuvent entraîner la communication par ces derniers des copies des pièces justificatives prévues par la réglementation.
 
@@ -128,7 +128,7 @@ Remises en cause du crédit d'impôt
 
 Si la déclaration dite de clôture visée au c de l'article 5 de la présente convention n'a pas été faite à la SGFGAS au plus tard à la date visée au c du II de l'article R. 319-14 du code de la construction et de l'habitation malgré relance de l'établissement de crédit, la SGFGAS notifie à l'établissement de crédit le reversement des crédits d'impôt relatifs aux prêts concernés par le non-respect de cette obligation déclarative.
 
-Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est pas intégralement remboursée, il apparaît que les conditions mentionnées au I ou au VI ter de l'article 244 quater U du code général des impôts fixées pour l'octroi de l'avance remboursable n'ont pas été respectées, le crédit d'impôt est reversé par l'établissement de crédit. Par exception, lorsque la justification de la réalisation ou de l'éligibilité n'est pas apportée par le bénéficiaire dans le délai prévu au 5 du même I, l'Etat exige de ce dernier le remboursement de l'avantage indûment perçu tel que défini par l'article R. 319-14 du code de la construction et de l'habitation.
+Si, pendant la durée de remboursement de l'avance, et tant que celle-ci n'est pas intégralement remboursée, il apparaît que les conditions mentionnées au I ou au VI ter de l'article 244 quater U du code général des impôts fixées pour l'octroi de l'avance remboursable n'ont pas été respectées, le crédit d'impôt est reversé par l'établissement de crédit sauf dans les cas d'exception prévus au II de l'article 199 ter S du code général des impôts. Lorsque la justification de la réalisation ou de l'éligibilité n'est pas apportée par le bénéficiaire dans le délai prévu au 5 du I de l'article 244 quater U du code général des impôts, l'Etat exige de ce dernier le remboursement de l'avantage indûment perçu tel que défini par l'article R. 319-14 du code de la construction et de l'habitation.
 
 Les modalités de restitution de l'avantage indu par le bénéficiaire de l'avance remboursable sans intérêt sont définies par ce même article R. 319-14.
 
@@ -166,7 +166,7 @@ Article 10
 
 Durée. - Résiliation
 
-La présente convention est valable jusqu'au 30 juin 2014.
+La présente convention est valable jusqu'à la date d'expiration des dispositions de l'article 244 quater U du code général des impôts.
 
 La présente convention peut être résiliée par chaque partie sous réserve qu'elle en informe l'autre partie par courrier recommandé avec accusé de réception, avec un préavis de trois (3) mois.
 

@@ -1,6 +1,6 @@
 # Article ANNEXE TABLEAU VII
 
-Attribution de la nouvelle bonification indiciaire à l'Institut national de la statistique et des études économiques
+Attribution de la nouvelle bonification indiciaire au service de la promotion des échanges extérieurs et dans les directions régionales du commerce extérieur
 
 <table>
 <tbody>
@@ -12,25 +12,12 @@ Attribution de la nouvelle bonification indiciaire à l'Institut national de la 
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>1. Fonctions de conception d'opérations de modernisation de processus de travail. </p>
+<p>1.  Exercice au sein des    directions régionales des entreprises, de la  concurrence, de la consommation, du travail et de l'emploi de fonctions  polyvalentes d'administration générale ou d'assistance technique,  pouvant notamment comporter la tenue de la comptabilité de la direction,  le suivi du courrier et de la gestion des fournitures, ou l'utilisation  et la maintenance d'applications micro-informatiques. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="614">
-<p>2. Fonctions d'expérimentation d'opérations de modernisation de processus de travail. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="614">
-<p>3. Fonctions de mise en oeuvre initiale d'opérations de modernisation de processus de travail. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="614">
-<p>4.  Fonctions comportant un niveau de responsabilité technique ou  d'encadrement supérieur à celui normalement dévolu au grade de l'agent  qui en a la charge, exercées sous l'autorité directe d'un cadre de  catégorie A, et dont la liste est fixée de la façon suivante : </p>
-<p>- à la direction générale : poste de responsable d'une section ou équivalent ; </p>
-<p>- dans les centres nationaux informatiques : poste de chef de groupe ou équivalent ; </p>
-<p>-  dans les directions régionales et les centres nationaux d'exploitation  comptant plus de 100 agents : poste de chef de division ou équivalent. </p>
+<p>2.  Responsable au sein des    directions régionales des entreprises, de la  concurrence, de la consommation, du travail et de l'emploi d'un  secrétariat de direction impliquant la mise en oeuvre d'actions de  prospection en faveur des entreprises françaises exportatrices.</p>
 </td>
 </tr>
 </tbody>

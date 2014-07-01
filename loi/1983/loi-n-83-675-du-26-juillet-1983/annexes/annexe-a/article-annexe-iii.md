@@ -14,7 +14,7 @@ Entreprise de recherche et d'activité pétrolières ;
 
 Etablissements publics d'aménagement définis à l'article L. 321-14 du code de l'urbanisme ;
 
-Etablissement public de Paris-Saclay ;
+Etablissement public d'aménagement de Paris-Saclay ;
 
 Institut d'émission d'outre-mer ;
 
