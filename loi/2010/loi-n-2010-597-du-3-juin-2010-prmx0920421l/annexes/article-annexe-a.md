@@ -1,42 +1,38 @@
 # Article Annexe A
 
-LISTE DES COMMUNES INCLUSES DANS LE PÉRIMÈTRE D'INTERVENTION DE L'ÉTABLISSEMENT PUBLIC DE PARIS-SACLAY
-
-Communes du département de l'Essonne
-
-Ballainvilliers.
+LISTE DES COMMUNES CONSTITUANT LE PÉRIMÈTRE D'INTERVENTION DE L'ÉTABLISSEMENT PUBLIC D'AMÉNAGEMENT DE PARIS-SACLAY
 
 Bièvres.
+
+Buc.
 
 Bures-sur-Yvette.
 
 Champlan.
 
+Châteaufort.
+
 Chilly-Mazarin.
 
-Epinay-sur-Orge.
+Elancourt.
 
 Gif-sur-Yvette.
 
-Gometz-le-Châtel.
+Guyancourt.
 
-Igny.
+Jouy-en-Josas.
 
-Linas.
+La Verrière.
 
-Longjumeau.
+Les Loges-en-Josas.
 
-Longpont-sur-Orge.
+Les Ulis.
 
-Marcoussis.
+Magny-les-Hameaux.
 
 Massy.
 
-Morangis.
-
-Montlhéry.
-
-Nozay.
+Montigny-le-Bretonneux.
 
 Orsay.
 
@@ -46,60 +42,16 @@ Saclay.
 
 Saint-Aubin.
 
-Saulx-les-Chartreux.
-
-Les Ulis.
-
-Vauhallan.
-
-Villebon-sur-Yvette.
-
-La-Ville-du-Bois.
-
-Villejust.
-
-Villiers-le-Bâcle.
-
-Wissous.
-
-Communes du département des Yvelines
-
-Bois-d'Arcy.
-
-Buc.
-
-Châteaufort.
-
-Le Chesnay.
-
-Elancourt.
-
-Fontenay-le-Fleury.
-
-Guyancourt.
-
-Jouy-en-Josas.
-
-Les-Loges-en-Josas.
-
-Magny-les-Hameaux.
-
-Montigny-le-Bretonneux.
-
-Rocquencourt.
-
-Saint-Cyr-l'Ecole.
-
 Toussus-le-Noble.
 
 Trappes.
 
-Vélizy-Villacoublay.
+Vauhallan.
 
 Versailles.
 
-La Verrière.
+Villebon-sur-Yvette.
 
-Viroflay.
+Villejust.
 
-Voisins-le-Bretonneux.
+Villiers-le-Bâcle.
