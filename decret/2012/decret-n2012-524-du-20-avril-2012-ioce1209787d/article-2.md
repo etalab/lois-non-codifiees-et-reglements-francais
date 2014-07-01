@@ -2,91 +2,200 @@
 
 L'échelonnement indiciaire applicable aux adjudants de sapeurs-pompiers professionnels régis par le décret n° 2012-521 du 20 avril 2012 susvisé est fixé ainsi qu'il suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">ÉCHELON</p>
+<th colspan="2">
+<br/>ADJUDANTS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Echelon <br/>
+</th>
+<th>
+<br/>Indices bruts <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>10 <br/>
 </td>
-<td>
-<p align="center">INDICE BRUT</p>
+<td align="center">
+<br/>567 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">9e échelon</p>
+<td align="center">
+<br/>9 <br/>
 </td>
-<td>
-<p align="center">529</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">8e échelon</p>
-</td>
-<td>
-<p align="center">499</p>
+<td align="center">
+<br/>543 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">7e échelon</p>
+<td align="center">
+<br/>8 <br/>
 </td>
-<td>
-<p align="center">481</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">464</p>
+<td align="center">
+<br/>500 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">5e échelon</p>
+<td align="center">
+<br/>7 <br/>
 </td>
-<td>
-<p align="center">450</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">422</p>
+<td align="center">
+<br/>487 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">3e échelon</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td>
-<p align="center">394</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">370</p>
+<td align="center">
+<br/>470 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">1er échelon</p>
+<td align="center">
+<br/>5 <br/>
 </td>
-<td>
-<p align="center">351</p>
+<td align="center">
+<br/>451 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>428 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>396 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>370 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>359 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
+.
+
+<table>
+<tbody>
+<tr>
+<th colspan="2">
+<br/>ADJUDANTS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Echelon <br/>
+</th>
+<th>
+<br/>Indices bruts au 1er janvier 2015 <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>574 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>550 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>506 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7 <br/>
+</td>
+<td align="center">
+<br/>494 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>479 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>458 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>435 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>404 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>377 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>366<br/>
+</td>
+</tr>
+</tbody>
+</table>
