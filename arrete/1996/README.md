@@ -666,7 +666,6 @@
 - [Arrêté du 21 février 1996 (EQUA9600334A)](arrete-du-21-fevrier-1996-equa9600334a)
 - [Arrêté du 21 février 1996 (FCEC9600030A)](arrete-du-21-fevrier-1996-fcec9600030a)
 - [Arrêté du 21 février 1996 (FCEC9600036A)](arrete-du-21-fevrier-1996-fcec9600036a)
-- [Arrêté du 21 février 1996 (TASS9620627A)](arrete-du-21-fevrier-1996-tass9620627a)
 - [Arrêté du 21 juillet 1999 (MESG9921545A)](arrete-du-21-juillet-1999-mesg9921545a)
 - [Arrêté du 21 juin 1988 (ECOC8800066A)](arrete-du-21-juin-1988-ecoc8800066a)
 - [Arrêté du 21 juin 1996 (AGRA9600943A)](arrete-du-21-juin-1996-agra9600943a)
