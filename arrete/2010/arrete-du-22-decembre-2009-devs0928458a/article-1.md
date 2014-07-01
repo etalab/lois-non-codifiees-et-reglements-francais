@@ -1,3 +1,0 @@
-# Article 1
-
-Toute personne apprenant à conduire un véhicule à moteur, en vue de l'obtention du permis de conduire de l'une des catégories mentionnées à l'article R. 221-4 du code de la route, doit être détentrice d'un livret d'apprentissage accompagné du formulaire de la demande de permis de conduire validée par le préfet du département dans lequel cette demande a été déposée. Lors de l'apprentissage pratique de la conduite, le formulaire de la demande de permis de conduire, ou sa photocopie, permet de justifier de son état d'élève conducteur en cas de contrôle par les officiers et agents habilités à effectuer des contrôles routiers.
