@@ -1,7 +1,5 @@
 # Article 9
 
-a) Enseignement de la conduite des motocyclettes.
-
 L'enseignement de la conduite des motocyclettes et des motocyclettes légères sur les voies ouvertes à la circulation publique, à l'exclusion des autoroutes et des voies rapides désignées par le préfet, est autorisé sous la responsabilité de l'exploitant ou du représentant légal de l'établissement d'enseignement.
 
 L'enseignant doit se tenir à une distance suffisamment rapprochée de l'élève pour l'avoir constamment en vue, conseiller les manoeuvres et veiller à ce qu'elles ne présentent pas de danger pour la circulation.
@@ -26,10 +24,6 @@ La formation collective peut concerner aussi bien les motocyclettes que les moto
 
 Les autorités chargées de la police de la circulation ont le droit de prescrire, dans la limite de leurs pouvoirs et lorsque l'intérêt de la sécurité ou de l'ordre public l'exige, des mesures plus rigoureuses, et notamment d'interdire certains itinéraires aux élèves conducteurs.
 
-b) Enseignement de la conduite des véhicules dont le poids total autorisé en charge n'excède pas 3,5 tonnes.
-
 Pour l'enseignement de la conduite des véhicules dont le poids total autorisé en charge (P.T.A.C.) n'excède pas 3 500 kilogrammes, le contenu, la durée et la progressivité de la formation sont identiques à ceux prévus dans le cadre de la formation initiale de l'apprentissage anticipé de la conduite mentionné à l'article R. 123-3 du code de la route et conformes à l'article 7 (1°, 2° et 3°) de l'arrêté du 14 décembre 1990 relatif à l'apprentissage anticipé de la conduite.
 
-L'apprentissage anticipé de la conduite (A.A.C.) tel que défini par l'article R. 123-3 du code de la route ne peut être enseigné dans l'établissement que dans les conditions fixées par arrêté du ministre chargé des transports.
-
-En préalable à la formation, l'enseignant procède à une évaluation du niveau de l'élève pour les enseignements visés aux parties a et b du présent article.
+Pour l'enseignement de la conduite des véhicules dont le poids total autorisé en charge (PTAC) n'excède pas 3,5 tonnes, des motocyclettes et des motocyclettes légères, l'enseignant procède à une évaluation du niveau de l'élève en préalable à la formation.

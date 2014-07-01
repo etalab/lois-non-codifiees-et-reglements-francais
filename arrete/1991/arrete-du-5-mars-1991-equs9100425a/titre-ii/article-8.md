@@ -2,7 +2,7 @@
 
 Pour toute prestation d'enseignement, l'établissement doit :
 
-1° Attribuer à chaque élève un livret d'apprentissage tel que mentionné à l'article R. 123-2 du code de la route et conforme au modèle défini par arrêté du ministre chargé des transports, qui précise pour chaque catégorie de permis de conduire le contenu et la progressivité de la formation dispensée.
+1° Attribuer à chaque élève un livret d'apprentissage tel que mentionné à l'article R. 211-3 du code de la route et conforme au modèle défini par arrêté du ministre chargé de la sécurité routière, qui précise pour chaque catégorie de permis de conduire le contenu et la progressivité de la formation dispensée.
 
 Les renseignements concernant la progression de l'élève au cours des différentes étapes de sa formation théorique et pratique figurent dans le livret.
 

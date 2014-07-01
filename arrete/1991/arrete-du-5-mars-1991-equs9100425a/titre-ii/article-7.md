@@ -1,3 +1,3 @@
 # Article 7
 
-L'enseignement dispensé doit être conforme aux objectifs pédagogiques retenus par le programme national de formation à la conduite (P.N.F.) défini par arrêté du ministre chargé des transports.
+L'enseignement dispensé doit être conforme au référentiel pour l'éducation à une mobilité citoyenne (REMC) et, le cas échéant, aux programmes de formation fixés par arrêté du ministre chargé de la sécurité routière.
