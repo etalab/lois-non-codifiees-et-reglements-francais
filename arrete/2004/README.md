@@ -147,7 +147,6 @@
 - [Arrêté du 8 avril 2004 (PRMD0450008A)](arrete-du-8-avril-2004-prmd0450008a)
 - [Arrêté du 8 décembre 2003 (EQUT0301651A)](arrete-du-8-decembre-2003-equt0301651a)
 - [Arrêté du 8 décembre 2003 (SOCT0312036A)](arrete-du-8-decembre-2003-soct0312036a)
-- [Arrêté du 8 décembre 2003 (SOCT0410094A)](arrete-du-8-decembre-2003-soct0410094a)
 - [Arrêté du 8 janvier 2004 (AGRP0400182A)](arrete-du-8-janvier-2004-agrp0400182a)
 - [Arrêté du 8 juillet 2004 (ECOD0470017A)](arrete-du-8-juillet-2004-ecod0470017a)
 - [Arrêté du 8 juillet 2004 (MCCB0400587A)](arrete-du-8-juillet-2004-mccb0400587a)
