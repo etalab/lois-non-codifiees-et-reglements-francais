@@ -88,9 +88,9 @@ Les épreuves hors et en circulation pourront, éventuellement, se dérouler sur
 
 IV. - Durée
 
-A. - Epreuve hors circulation : 15 minutes.
+A. - Epreuve hors circulation : 17 minutes et 30 secondes.
 
-B. - Epreuve en circulation : 30 minutes.
+B. - Epreuve en circulation : 35 minutes.
 
 V. - Equipement obligatoire
 
