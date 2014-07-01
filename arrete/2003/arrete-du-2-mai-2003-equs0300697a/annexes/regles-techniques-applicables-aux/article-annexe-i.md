@@ -116,7 +116,7 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 <td valign="top" width="99"/>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="147">
+<td rowspan="8" valign="top" width="147">
 <p>7. Mesures contre la pollution atmosphérique. </p>
 </td>
 <td width="134">
@@ -195,6 +195,16 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 <td width="99"/>
 </tr>
 <tr>
+<td align="center" valign="middle">
+<p>modifiée par 2013/60/UE </p>
+</td>
+<td align="center">
+<p>1er juillet 2014 </p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="147">
 <p>8. Pneumatiques. </p>
 </td>
@@ -230,7 +240,7 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 </td>
 </tr>
 <tr>
-<td valign="top" width="147">
+<td rowspan="2" valign="top" width="147">
 <p>10. Installation des dispositifs d'éclairage et de signalisation lumineuse. </p>
 </td>
 <td width="134">
@@ -243,6 +253,16 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 <td valign="top" width="99">
 <p align="center">53/ECE/ONU </p>
 </td>
+</tr>
+<tr>
+<td align="center">
+<p>modifiée par 2013/60/UE </p>
+</td>
+<td align="center">
+<p>1er juillet 2014</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="147">
