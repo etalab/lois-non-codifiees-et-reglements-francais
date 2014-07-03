@@ -2,3177 +2,3059 @@
 
 Pour l'application de l'article R. 2124-68 du code susvisé, les fonctions pouvant ouvrir droit à l'attribution d'une convention d'occupation précaire avec astreinte (COP/ A) sont les suivantes :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td width="223">
-<p align="center">FONCTION</p>
+<td colspan="2" width="282">
+<p align="center">FONCTIONS</p>
 </td>
-<td width="150">
+<td width="154">
 <p align="center">DÉPARTEMENT</p>
 </td>
-<td width="149">
+<td width="193">
 <p align="center">VILLE</p>
 </td>
-<td width="149">
-<p align="center">NOMBRE DE POSTES</p>
+<td width="79">
+<p align="center">NOMBRE<br/>de postes</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="223">
+<td colspan="2" rowspan="3" valign="top" width="282">
 <p>Commandant de base aéronautique </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Finistère (29) </p>
 </td>
-<td valign="top" width="149">
-<p>Lanvéoc </p>
+<td valign="top" width="193">
+<p>LANVEOC </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Morbihan (56) </p>
 </td>
-<td valign="top" width="149">
-<p>Quéven </p>
+<td valign="top" width="193">
+<p>QUEVEN </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Var (83) </p>
 </td>
-<td valign="top" width="149">
-<p>Hyères </p>
+<td valign="top" width="193">
+<p>HYERES </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total commandants de base aéronautique</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Commandants de base aéronautique </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="223">
+<td colspan="2" rowspan="2" valign="top" width="282">
 <p>Surveillants dépannage DGA </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Essonne (91) </p>
 </td>
-<td valign="top" width="149">
-<p>Vert-le-Petit </p>
+<td valign="top" width="193">
+<p>VERT-LE-PETIT </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Essonne (91) </p>
 </td>
-<td valign="top" width="149">
-<p>Saclay </p>
+<td valign="top" width="193">
+<p>SACLAY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total surveillants dépannage DGA</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Surveillants dépannage DGA </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">7</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Responsable de la sécurité d'unité opérationnelle au centre DGA maîtrise MNRBC </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Essonne (91) </p>
 </td>
-<td valign="top" width="149">
-<p>Vert-le-Petit </p>
+<td valign="top" width="193">
+<p>VERT-LE-PETIT </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total responsable de la sécurité d'unité opérationnelle au centre DGA maîtrise MNRBC</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Responsable de la sécurité d'unité opérationnelle au centre DGA maîtrise MNRBC </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="223">
+<td colspan="2" rowspan="2" valign="top" width="282">
 <p>Adjoint chef établissement dangereux (munitions) </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Finistère (29) </p>
 </td>
-<td valign="top" width="149">
-<p>Guipavas </p>
+<td valign="top" width="193">
+<p>GUIPAVAS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Var (83) </p>
 </td>
-<td valign="top" width="149">
-<p>La Valette-du-Var </p>
+<td valign="top" width="193">
+<p>LA VALETTE-DU-VAR </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total adjoints chefs établissement dangereux (munitions)</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Adjoints chef établissement dangereux (munitions) </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td rowspan="20" valign="top" width="223">
-<p>Officiers mariniers "chef énergie propulsion" </p>
+<td colspan="2" rowspan="20" valign="top" width="282">
+<p>Personnels énergie propulsion de la marine nationale affectés dans une brigade nautique de gendarmerie maritime </p>
 </td>
-<td valign="top" width="150">
-<p>Corse-du-Sud (2A) </p>
+<td valign="top" width="154">
+<p>Corse du sud (2A) </p>
 </td>
-<td valign="top" width="149">
-<p>Ajaccio </p>
+<td valign="top" width="193">
+<p>AJACCIO </p>
 </td>
-<td valign="top" width="149">
-<p align="center">3</p>
+<td valign="top" width="79">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Alpes-Maritimes (06) </p>
 </td>
-<td valign="top" width="149">
-<p>Nice </p>
+<td valign="top" width="193">
+<p>NICE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Aude (11) </p>
 </td>
-<td valign="top" width="149">
-<p>Gruissan </p>
+<td valign="top" width="193">
+<p>GRUISSAN </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Bouches-du-Rhône (13) </p>
 </td>
-<td valign="top" width="149">
-<p>Marseille </p>
+<td valign="top" width="193">
+<p>MARSEILLE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Charente-Maritime (17) </p>
 </td>
-<td valign="top" width="149">
-<p>Rochefort </p>
+<td valign="top" width="193">
+<p>LA ROCHELLE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Finistère (29) </p>
 </td>
-<td valign="top" width="149">
-<p>Concarneau </p>
+<td valign="top" width="193">
+<p>CONCARNEAU </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Finistère (29) </p>
 </td>
-<td valign="top" width="149">
-<p>Brest </p>
+<td valign="top" width="193">
+<p>BREST </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Hérault (34) </p>
 </td>
-<td valign="top" width="149">
-<p>Sète </p>
+<td valign="top" width="193">
+<p>SETE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Ille-et-Vilaine (35) </p>
 </td>
-<td valign="top" width="149">
-<p>Saint-Malo </p>
+<td valign="top" width="193">
+<p>SAINT-MALO </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Loire-Atlantique (44) </p>
 </td>
-<td valign="top" width="149">
-<p>Pornichet </p>
+<td valign="top" width="193">
+<p>PORNICHET </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Manche (50) </p>
 </td>
-<td valign="top" width="149">
-<p>Cherbourg </p>
+<td valign="top" width="193">
+<p>CHERBOURG </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Nord (59) </p>
 </td>
-<td valign="top" width="149">
-<p>Dunkerque </p>
+<td valign="top" width="193">
+<p>DUNKERQUE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Pas-de-Calais (62) </p>
 </td>
-<td valign="top" width="149">
-<p>Boulogne-sur-Mer </p>
+<td valign="top" width="193">
+<p>BOULOGNE-SUR-MER </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
-<p>Pyrénées-Atlantiques (64) </p>
+<td valign="top" width="154">
+<p>Pyrénées Atlantiques (64) </p>
 </td>
-<td valign="top" width="149">
-<p>Anglet </p>
+<td valign="top" width="193">
+<p>ANGLET </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
-<p>Pyrénées-Orientales (66) </p>
+<td valign="top" width="154">
+<p>Pyrénées Orientales (66) </p>
 </td>
-<td valign="top" width="149">
-<p>Port-Vendres </p>
+<td valign="top" width="193">
+<p>PORT-VENDRES </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Seine-Maritime (76) </p>
 </td>
-<td valign="top" width="149">
-<p>Dieppe </p>
+<td valign="top" width="193">
+<p>DIEPPE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Seine-Maritime (76) </p>
 </td>
-<td valign="top" width="149">
-<p>Le Havre </p>
+<td valign="top" width="193">
+<p>LE HAVRE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Var (83) </p>
 </td>
-<td valign="top" width="149">
-<p>Toulon </p>
+<td valign="top" width="193">
+<p>TOULON </p>
 </td>
-<td valign="top" width="149">
-<p align="center">1</p>
+<td valign="top" width="79">
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Var (83) </p>
 </td>
-<td valign="top" width="149">
-<p>Saint-Raphaël </p>
+<td valign="top" width="193">
+<p>SAINT-RAPHAËL </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Vendée (85) </p>
 </td>
-<td valign="top" width="149">
-<p>Les Sables-d'Olonne </p>
+<td valign="top" width="193">
+<p>LES SABLES-D'OLONNE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total officiers mariniers "chef énergie propulsion"</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Officiers mariniers " chef énergie propulsion " </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">28</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 278 Ambérieu </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Ain (01) </p>
 </td>
-<td valign="top" width="149">
-<p>Ambérieu-en-Bugey </p>
+<td valign="top" width="193">
+<p>AMBERIEU-EN-BUGEY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 709 Cognac </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Charente (16) </p>
 </td>
-<td valign="top" width="149">
-<p>Cognac </p>
+<td valign="top" width="193">
+<p>COGNAC </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 721 Rochefort </p>
 </td>
-<td valign="top" width="150">
-<p>Charente-Maritime (17) </p>
+<td valign="top" width="154">
+<p>Charente Maritime (17) </p>
 </td>
-<td valign="top" width="149">
-<p>Echillais </p>
+<td valign="top" width="193">
+<p>ECHILLAIS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 126 Solenzara </p>
 </td>
-<td valign="top" width="150">
-<p>Corse-du-Sud (2A) </p>
+<td valign="top" width="154">
+<p>Corse-du-sud (2A) </p>
 </td>
-<td valign="top" width="149">
-<p>Solenzara </p>
+<td valign="top" width="193">
+<p>SOLENZARA </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 102 Dijon </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Côte-d'Or (21) </p>
 </td>
-<td valign="top" width="149">
-<p>Dijon </p>
+<td valign="top" width="193">
+<p>DIJON </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 279 Châteaudun </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Eure-et-Loir (28) </p>
 </td>
-<td valign="top" width="149">
-<p>La Chapelle-du-Noyer </p>
+<td valign="top" width="193">
+<p>La CHAPELLE-DU-NOYER </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 120 Cazaux </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Gironde (33) </p>
 </td>
-<td valign="top" width="149">
-<p>Cazaux </p>
+<td valign="top" width="193">
+<p>CAZAUX </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 106 Mérignac </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Gironde (33) </p>
 </td>
-<td valign="top" width="149">
-<p>Mérignac </p>
+<td valign="top" width="193">
+<p>MERIGNAC </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 705 Tours </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Indre-et-Loire (37) </p>
 </td>
-<td valign="top" width="149">
-<p>Tours </p>
+<td valign="top" width="193">
+<p>TOURS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 273 Romorantin </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Loir-et-Cher (41) </p>
 </td>
-<td valign="top" width="149">
-<p>Pruniers </p>
+<td valign="top" width="193">
+<p>PRUNIERS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 123 Orléans </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Loiret (45) </p>
 </td>
-<td valign="top" width="149">
-<p>Bricy </p>
+<td valign="top" width="193">
+<p>BRICY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 133 Nancy </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Meurthe-et-Moselle (54) </p>
 </td>
-<td valign="top" width="149">
-<p>Nancy </p>
+<td valign="top" width="193">
+<p>NANCY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 110 Creil </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Oise (60) </p>
 </td>
-<td valign="top" width="149">
-<p>Versigny </p>
+<td valign="top" width="193">
+<p>VERSIGNY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 901 Drachenbronn </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Bas-Rhin (67) </p>
 </td>
-<td valign="top" width="149">
-<p>Drachenbronn </p>
+<td valign="top" width="193">
+<p>DRACHENBRONN </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 117 Paris </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Paris (75) </p>
 </td>
-<td valign="top" width="149">
-<p>Paris </p>
+<td valign="top" width="193">
+<p>PARIS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
+<td colspan="2" valign="top" width="282">
 <p>Commandant de base aérienne 115 Orange </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Vaucluse (84) </p>
 </td>
-<td valign="top" width="149">
-<p>Orange </p>
+<td valign="top" width="193">
+<p>ORANGE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total commandants de base aérienne</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Commandants de base aérienne </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">16</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Général adjoint opérations du commandement de la défense aérienne et des opérations aériennes (GAO/CDAOA) Lyon-Mont Verdun. </p>
+<td colspan="2" valign="top" width="282">
+<p>Général adjoint opérations du commandement de la défense aérienne et des opérations aériennes (GAO/ CDAOA)-Lyon Mont-Verdun. </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Rhône (69) </p>
 </td>
-<td valign="top" width="149">
-<p>Rochetaillée-sur-Saône </p>
+<td valign="top" width="193">
+<p>ROCHETAILLEE-SUR-SAONE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total général adjoint opérations du commandement de la défense aérienne et des opérations aériennes (GAO-CDAOA) Lyon Mont-Verdun</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Général adjoint opérations du commandement de la défense aérienne et des opérations aériennes (GAO-CDAOA)-Lyon Mont-Verdun </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Général commandant les centres de préparation des forces </p>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant les centres de Préparation des Forces </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Aube (10) </p>
 </td>
-<td valign="top" width="149">
-<p>Mailly </p>
+<td valign="top" width="193">
+<p>MAILLY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total général commandant les centres de préparation des forces</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Général commandant les centres de Préparation des Forces </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 12e base de soutien du matériel </p>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant l'état-major des forces de Marseille </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
+<p>Bouches-du-Rhône (13) </p>
+</td>
+<td valign="top" width="193">
+<p>MARSEILLE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Général commandant l'état-major des forces de Marseille </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-12e base de soutien du matériel </p>
+</td>
+<td valign="top" width="154">
 <p>Indre (36) </p>
 </td>
-<td valign="top" width="149">
-<p>Neuvy-Pailoux </p>
+<td valign="top" width="193">
+<p>NEUVY-PAILLOUX </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 17e Groupe d'artillerie </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-17e Groupe d'artillerie </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Landes (40) </p>
 </td>
-<td valign="top" width="149">
-<p>Biscarosse </p>
+<td valign="top" width="193">
+<p>BISCAROSSE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 132e bataillon cynophile de l'armée de terre </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-132e bataillon cynophile de l'armée de terre </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Marne (51) </p>
 </td>
-<td valign="top" width="149">
-<p>Suippes </p>
+<td valign="top" width="193">
+<p>SUIPPES </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 15e base de soutien du matériel </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-15e base de soutien du matériel </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Moselle (57) </p>
 </td>
-<td valign="top" width="149">
-<p>Phalsbourg </p>
+<td valign="top" width="193">
+<p>PHALSBOURG </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 16e bataillon de chasseurs </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-16e bataillon de chasseurs </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Moselle (57) </p>
 </td>
-<td valign="top" width="149">
-<p>Bitche </p>
+<td valign="top" width="193">
+<p>BITCHE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 13e base de soutien du matériel </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement Ou de bataillon formant corps-13e base de soutien du matériel </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Puy-de-Dôme (63) </p>
 </td>
-<td valign="top" width="149">
-<p>Clermont-Ferrand </p>
+<td valign="top" width="193">
+<p>CLERMONT-FERRAND </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 28e groupe géographique </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-28e Groupe géographique </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Bas-Rhin (67) </p>
 </td>
-<td valign="top" width="149">
-<p>Haguenau </p>
+<td valign="top" width="193">
+<p>HAGUENAU </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 13e bataillon de chasseurs alpins </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-13e bataillon de chasseurs alpins </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Savoie (73) </p>
 </td>
-<td valign="top" width="149">
-<p>Barby </p>
+<td valign="top" width="193">
+<p>BARBY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 7e bataillon de chasseurs alpins </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-7e bataillon de chasseurs alpins </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Savoie (73) </p>
 </td>
-<td valign="top" width="149">
-<p>Varces </p>
+<td valign="top" width="193">
+<p>VARCES </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 27e bataillon des chasseurs alpins </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-27 e bataillon des chasseurs alpins </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Haute-Savoie (74) </p>
 </td>
-<td valign="top" width="149">
-<p>Cran-Gevrier </p>
+<td valign="top" width="193">
+<p>CRAN-GEVRIER </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 9e bataillon de soutien aéromobile </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-9e bataillon de soutien aéromobile </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Tarn-et-Garonne (82) </p>
 </td>
-<td valign="top" width="149">
-<p>Montauban </p>
+<td valign="top" width="193">
+<p>MONTAUBAN </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps 5e base de soutien du matériel </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-5e base de soutien du matériel </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Var (83) </p>
 </td>
-<td valign="top" width="149">
-<p>Draguignan </p>
+<td valign="top" width="193">
+<p>DRAGUIGNAN </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total chefs de corps commandants de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps</p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps-519e GTM </p>
 </td>
-<td width="149">
-<p align="center">12</p>
+<td valign="top" width="154">
+<p>Var (83) </p>
+</td>
+<td valign="top" width="193">
+<p>TOULON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CENZUB </p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Chefs de corps-commandants de bataillon, de groupe, de base de soutien, de groupement ou de bataillon formant corps </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="79">
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CENZUB </p>
+</td>
+<td valign="top" width="154">
 <p>Aisne (02) </p>
 </td>
-<td valign="top" width="149">
-<p>Sissonne </p>
+<td valign="top" width="193">
+<p>SISSONNE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CENTAC </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CENTAC </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Aube (10) </p>
 </td>
-<td valign="top" width="149">
-<p>Mailly </p>
+<td valign="top" width="193">
+<p>MAILLY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CEPC </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CEPC </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Aube (10) 10 </p>
 </td>
-<td valign="top" width="149">
-<p>Mailly </p>
+<td valign="top" width="193">
+<p>MAILLY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CEITO </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CEITO </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Aveyron (12) </p>
 </td>
-<td valign="top" width="149">
-<p>La Cavalerie </p>
+<td valign="top" width="193">
+<p>LA CAVALERIE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CEB </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CEB </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Marne (51) </p>
 </td>
-<td valign="top" width="149">
-<p>Mourmelon </p>
+<td valign="top" width="193">
+<p>MOURMELON </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CNEC </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CNEC </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Pyrénées-Orientales (66) </p>
 </td>
-<td valign="top" width="149">
-<p>Mont-Louis </p>
+<td valign="top" width="193">
+<p>MONT-LOUIS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CNSD </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CNSD </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Seine-et-Marne (77) </p>
 </td>
-<td valign="top" width="149">
-<p>Avon </p>
+<td valign="top" width="193">
+<p>AVON </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant de centre d'instruction national CSEM </p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps-commandant de centre d'instruction national CSEM </p>
 </td>
-<td valign="top" width="150">
+<td valign="top" width="154">
 <p>Seine-et-Marne (77) </p>
 </td>
-<td valign="top" width="149">
-<p>Fontainebleau </p>
+<td valign="top" width="193">
+<p>FONTAINEBLEAU </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total chefs de corps commandants de centre d'instruction national</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Chefs de corps-commandants de centre d'instruction national </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">8</p>
 </td>
 </tr>
-</tbody>
-</table>
-
-<br/>
-<p align="left">.</p>
-<br/>
-<p align="left">.</p>
-<table>
-<tbody>
 <tr>
-<td rowspan="78" valign="top" width="129">
-<p>Chef de corps-commandant de régiment</p>
+<td rowspan="76" valign="top" width="79">
+<p>Chef de corps-<br/>Commandant <br/>de régiment </p>
 </td>
-<td valign="top" width="165">
-<p>Régiment médical</p>
+<td valign="top" width="201">
+<p>Régiment Médical </p>
 </td>
-<td valign="top" width="165">
-<p>Ain (01)</p>
+<td valign="top" width="154">
+<p>Ain (01) </p>
 </td>
-<td valign="top" width="147">
-<p>Béligneux</p>
+<td valign="top" width="193">
+<p>BELIGNEUX </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>68e régiment d'artillerie d'Afrique</p>
+<td valign="top" width="201">
+<p>68e Régiment d'Artillerie d'Afrique </p>
 </td>
-<td valign="top" width="165">
-<p>Ain (01)</p>
+<td valign="top" width="154">
+<p>Ain (01) </p>
 </td>
-<td valign="top" width="147">
-<p>Béligneux</p>
+<td valign="top" width="193">
+<p>BELIGNEUX </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>4e régiment de chasseurs</p>
+<td valign="top" width="201">
+<p>4e Régiment de Chasseurs </p>
 </td>
-<td valign="top" width="165">
-<p>Hautes-Alpes (05)</p>
+<td valign="top" width="154">
+<p>Hautes-Alpes (05) </p>
 </td>
-<td valign="top" width="147">
-<p>Gap</p>
+<td valign="top" width="193">
+<p>GAP </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment du génie</p>
+<td valign="top" width="201">
+<p>3e Régiment du Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Ardennes (08)</p>
+<td valign="top" width="154">
+<p>Ardennes (08) </p>
 </td>
-<td valign="top" width="147">
-<p>Charleville-Mézières</p>
+<td valign="top" width="193">
+<p>CHARLEVILLE-MEZIERES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de chasseurs parachutistes</p>
+<td valign="top" width="201">
+<p>1er Régiment de Chasseurs Parachutistes </p>
 </td>
-<td valign="top" width="165">
-<p>Ariège (09)</p>
+<td valign="top" width="154">
+<p>Ariège (09) </p>
 </td>
-<td valign="top" width="147">
-<p>Pamiers</p>
+<td valign="top" width="193">
+<p>PAMIERS </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>4e régiment étranger</p>
+<td valign="top" width="201">
+<p>4e Régiment Étranger </p>
 </td>
-<td valign="top" width="165">
-<p>Aude (11)</p>
+<td valign="top" width="154">
+<p>Aude (11) </p>
 </td>
-<td valign="top" width="147">
-<p>Castelnaudary</p>
+<td valign="top" width="193">
+<p>CASTELNAUDARY </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment de parachutistes d'infanterie de marine</p>
+<td valign="top" width="201">
+<p>3e Régiment de Parachutistes d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Aude (11)</p>
+<td valign="top" width="154">
+<p>Aude (11) </p>
 </td>
-<td valign="top" width="147">
-<p>Carcassonne</p>
+<td valign="top" width="193">
+<p>CARCASSONNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment étranger</p>
+<td valign="top" width="201">
+<p>1er Régiment Étranger </p>
 </td>
-<td valign="top" width="165">
-<p>Bouches-du-Rhône (13)</p>
+<td valign="top" width="154">
+<p>Bouches-du-Rhône (13) </p>
 </td>
-<td valign="top" width="147">
-<p>Aubagne</p>
+<td valign="top" width="193">
+<p>AUBAGNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>4e régiment de dragons </p>
+<td valign="top" width="201">
+<p>1er Régiment Étranger de Cavalerie </p>
 </td>
-<td valign="top" width="165">
-<p>Bouches-du-Rhône (13)</p>
+<td valign="top" width="154">
+<p>Bouches-du-Rhône (13) </p>
 </td>
-<td valign="top" width="147">
-<p>Carnoux-en-Provence</p>
+<td valign="top" width="193">
+<p>CARPIAGNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>25e régiment du génie de l'air </p>
+<td valign="top" width="201">
+<p>25e Régiment du Génie de l'Air </p>
 </td>
-<td valign="top" width="165">
-<p>Bouches-du-Rhône (13)</p>
+<td valign="top" width="154">
+<p>Bouches du Rhône (13) </p>
 </td>
-<td valign="top" width="147">
-<p>Istres</p>
+<td valign="top" width="193">
+<p>ISTRES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment d'infanterie de marine </p>
+<td valign="top" width="201">
+<p>1er Régiment d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Charente (16)</p>
+<td valign="top" width="154">
+<p>Charente (16) </p>
 </td>
-<td valign="top" width="147">
-<p>Angoulême</p>
+<td valign="top" width="193">
+<p>ANGOULEME </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>515e régiment du train </p>
+<td valign="top" width="201">
+<p>515e Régiment du Train </p>
 </td>
-<td valign="top" width="165">
-<p>Charente (16)</p>
+<td valign="top" width="154">
+<p>Charente (16) </p>
 </td>
-<td valign="top" width="147">
-<p>La Braconne</p>
+<td valign="top" width="193">
+<p>LA BRACONNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>126e régiment d'infanterie </p>
+<td valign="top" width="201">
+<p>126e Régiment d'Infanterie </p>
 </td>
-<td valign="top" width="165">
-<p>Corrèze (19)</p>
+<td valign="top" width="154">
+<p>Corrèze (19) </p>
 </td>
-<td valign="top" width="147">
-<p>Brive-la-Gaillarde</p>
+<td valign="top" width="193">
+<p>BRIVE-LA-GAILLARDE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment étranger de parachutistes </p>
+<td valign="top" width="201">
+<p>2e Régiment Étranger de Parachutistes </p>
 </td>
-<td valign="top" width="165">
-<p>Haute-Corse (2B)</p>
+<td valign="top" width="154">
+<p>Haute-Corse (2B) </p>
 </td>
-<td valign="top" width="147">
-<p>Calvi</p>
+<td valign="top" width="193">
+<p>CALVI </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>511e régiment du train </p>
+<td valign="top" width="201">
+<p>511e Régiment du Train </p>
 </td>
-<td valign="top" width="165">
-<p>Côte-d'Or (21)</p>
+<td valign="top" width="154">
+<p>Côte-d'Or (21) </p>
 </td>
-<td valign="top" width="147">
-<p>Auxonne</p>
+<td valign="top" width="193">
+<p>AUXONNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>6e régiment du matériel </p>
+<td valign="top" width="201">
+<p>6e Régiment du Matériel </p>
 </td>
-<td valign="top" width="165">
-<p>Doubs (25)</p>
+<td valign="top" width="154">
+<p>Doubs (25) </p>
 </td>
-<td valign="top" width="147">
-<p>Besançon</p>
+<td valign="top" width="193">
+<p>BESANCON </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>19e régiment du génie </p>
+<td valign="top" width="201">
+<p>19e Régiment du Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Doubs (25)</p>
+<td valign="top" width="154">
+<p>Doubs (25) </p>
 </td>
-<td valign="top" width="147">
-<p>Besançon</p>
+<td valign="top" width="193">
+<p>BESANCON </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>13e régiment du génie </p>
+<td valign="top" width="201">
+<p>13e Régiment du Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Doubs (25)</p>
+<td valign="top" width="154">
+<p>Doubs (25) </p>
 </td>
-<td valign="top" width="147">
-<p>Valdahon</p>
+<td valign="top" width="193">
+<p>VALDAHON </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de spahis </p>
+<td valign="top" width="201">
+<p>1er Régiment de Spahis </p>
 </td>
-<td valign="top" width="165">
-<p>Drôme (26)</p>
+<td valign="top" width="154">
+<p>Drôme (26) </p>
 </td>
-<td valign="top" width="147">
-<p>Valence</p>
+<td valign="top" width="193">
+<p>VALENCE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment étranger de génie </p>
+<td valign="top" width="201">
+<p>1er Régiment Étranger de Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Gard (30)</p>
+<td valign="top" width="154">
+<p>Gard (30) </p>
 </td>
-<td valign="top" width="147">
-<p>Laudun</p>
+<td valign="top" width="193">
+<p>LAUDUN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>4e régiment du matériel </p>
+<td valign="top" width="201">
+<p>4e Régiment du Matériel </p>
 </td>
-<td valign="top" width="165">
-<p>Gard (30)</p>
+<td valign="top" width="154">
+<p>Gard (30) </p>
 </td>
-<td valign="top" width="147">
-<p>Nîmes</p>
+<td valign="top" width="193">
+<p>NÎMES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment étranger d'infanterie </p>
+<td valign="top" width="201">
+<p>2e Régiment Étranger d'Infanterie </p>
 </td>
-<td valign="top" width="165">
-<p>Gard (30)</p>
+<td valign="top" width="154">
+<p>Gard (30) </p>
 </td>
-<td valign="top" width="147">
-<p>Nîmes</p>
+<td valign="top" width="193">
+<p>NÎMES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>503e régiment du train </p>
+<td valign="top" width="201">
+<p>503e Régiment du Train </p>
 </td>
-<td valign="top" width="165">
-<p>Gard (30)</p>
+<td valign="top" width="154">
+<p>Gard (30) </p>
 </td>
-<td valign="top" width="147">
-<p>Nîmes</p>
+<td valign="top" width="193">
+<p>NÎMES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment du train parachutiste </p>
+<td valign="top" width="201">
+<p>1er Régiment du Train Parachutiste </p>
 </td>
-<td valign="top" width="165">
-<p>Haute-Garonne (31)</p>
+<td valign="top" width="154">
+<p>Haute-Garonne (31) </p>
 </td>
-<td valign="top" width="147">
-<p>Toulouse</p>
+<td valign="top" width="193">
+<p>TOULOUSE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>Régiment de soutien du combattant </p>
+<td valign="top" width="201">
+<p>Régiment de Soutien du Combattant </p>
 </td>
-<td valign="top" width="165">
-<p>Haute-Garonne (31)</p>
+<td valign="top" width="154">
+<p>Haute-Garonne (31) </p>
 </td>
-<td valign="top" width="147">
-<p>Toulouse</p>
+<td valign="top" width="193">
+<p>TOULOUSE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment du matériel </p>
+<td valign="top" width="201">
+<p>3e Régiment du Matériel </p>
 </td>
-<td valign="top" width="165">
-<p>Haute-Garonne (31)</p>
+<td valign="top" width="154">
+<p>Haute-Garonne (31) </p>
 </td>
-<td valign="top" width="147">
-<p>Le Fauga</p>
+<td valign="top" width="193">
+<p>LE FAUGA </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>13e régiment de dragons parachutistes </p>
+<td valign="top" width="201">
+<p>13e Régiment de Dragons Parachutistes </p>
 </td>
-<td valign="top" width="165">
-<p>Gironde (33)</p>
+<td valign="top" width="154">
+<p>Gironde (33) </p>
 </td>
-<td valign="top" width="147">
-<p>Martignas-sur-Jalles</p>
+<td valign="top" width="193">
+<p>MARTIGNAS-SUR-JALLES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>11e régiment d'artillerie de marine </p>
+<td valign="top" width="201">
+<p>11e Régiment d'Artillerie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Ille-et-Vilaine (35)</p>
+<td valign="top" width="154">
+<p>Ille-et-Vilaine (35) </p>
 </td>
-<td valign="top" width="147">
-<p>Saint-Aubin-du-Cormier</p>
+<td valign="top" width="193">
+<p>SAINT-AUBIN-DU CORMIER </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment du matériel </p>
+<td valign="top" width="201">
+<p>2e Régiment du Matériel </p>
 </td>
-<td valign="top" width="165">
-<p>Ille-et-Vilaine (35)</p>
+<td valign="top" width="154">
+<p>Ille-et-Vilaine (35) </p>
 </td>
-<td valign="top" width="147">
-<p>Bruz</p>
+<td valign="top" width="193">
+<p>BRUZ </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>93e régiment d'artillerie de montagne </p>
+<td valign="top" width="201">
+<p>93e Régiment d'Artillerie de Montagne </p>
 </td>
-<td valign="top" width="165">
-<p>Isère (38)</p>
+<td valign="top" width="154">
+<p>Isère (38) </p>
 </td>
-<td valign="top" width="147">
-<p>Varces</p>
+<td valign="top" width="193">
+<p>VARCES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>12e régiment de cuirassiers </p>
+<td valign="top" width="201">
+<p>12e Régiment de Cuirassiers </p>
 </td>
-<td valign="top" width="165">
-<p>Loiret (45)</p>
+<td valign="top" width="154">
+<p>Loiret (45) </p>
 </td>
-<td valign="top" width="147">
-<p>Orléans</p>
+<td valign="top" width="193">
+<p>ORLEANS </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>48e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>48e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Lot-et-Garonne (47)</p>
+<td valign="top" width="154">
+<p>Lot-et-Garonne (47) </p>
 </td>
-<td valign="top" width="147">
-<p>Agen</p>
+<td valign="top" width="193">
+<p>AGEN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment de dragons </p>
+<td valign="top" width="201">
+<p>2e Régiment de Dragons </p>
 </td>
-<td valign="top" width="165">
-<p>Maine-et-Loire (49)</p>
+<td valign="top" width="154">
+<p>Maine-et-Loire (49) </p>
 </td>
-<td valign="top" width="147">
-<p>Fontevraud</p>
+<td valign="top" width="193">
+<p>FONTEVRAUD </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>6e régiment du génie </p>
+<td valign="top" width="201">
+<p>6e Régiment du Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Maine-et-Loire (49)</p>
+<td valign="top" width="154">
+<p>Maine-et-Loire (49) </p>
 </td>
-<td valign="top" width="147">
-<p>Angers</p>
+<td valign="top" width="193">
+<p>ANGERS </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>40e régiment d'artillerie </p>
+<td valign="top" width="201">
+<p>40e Régiment d'Artillerie </p>
 </td>
-<td valign="top" width="165">
-<p>Marne (51)</p>
+<td valign="top" width="154">
+<p>Marne (51) </p>
 </td>
-<td valign="top" width="147">
-<p>Suippes</p>
+<td valign="top" width="193">
+<p>SUIPPES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>8e régiment du matériel </p>
+<td valign="top" width="201">
+<p>8e Régiment du Matériel </p>
 </td>
-<td valign="top" width="165">
-<p>Marne (51)</p>
+<td valign="top" width="154">
+<p>Marne (51) </p>
 </td>
-<td valign="top" width="147">
-<p>Mourmelon</p>
+<td valign="top" width="193">
+<p>MOURMELON </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment d'artillerie de marine </p>
+<td valign="top" width="201">
+<p>1er Régiment d'Artillerie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Marne (51)</p>
+<td valign="top" width="154">
+<p>Marne (51) </p>
 </td>
-<td valign="top" width="147">
-<p>Châlons-en-Champagne</p>
+<td valign="top" width="193">
+<p>CHALONS-EN-CHAMPAGNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>501e régiment de chars de combat </p>
+<td valign="top" width="201">
+<p>501e Régiment de Chars de Combat </p>
 </td>
-<td valign="top" width="165">
-<p>Marne (51)</p>
+<td valign="top" width="154">
+<p>Marne (51) </p>
 </td>
-<td valign="top" width="147">
-<p>Mourmelon-le-Grand</p>
+<td valign="top" width="193">
+<p>MOURMELON-LE-GRAND </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>61e régiment d'artillerie Haute-</p>
+<td valign="top" width="201">
+<p>61e Régiment d'Artillerie </p>
 </td>
-<td valign="top" width="165">
-<p>Marne (52)</p>
+<td valign="top" width="154">
+<p>Haute-Marne (52) </p>
 </td>
-<td valign="top" width="147">
-<p>Chaumont</p>
+<td valign="top" width="193">
+<p>CHAUMONT </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>53e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>53e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Meurthe-et-Moselle (54)</p>
+<td valign="top" width="154">
+<p>Meurthe-et-Moselle (54) </p>
 </td>
-<td valign="top" width="147">
-<p>Luneville</p>
+<td valign="top" width="193">
+<p>LUNEVILLE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>516e régiment du train </p>
+<td valign="top" width="201">
+<p>516e Régiment du Train </p>
 </td>
-<td valign="top" width="165">
-<p>Meurthe-et-Moselle (54)</p>
+<td valign="top" width="154">
+<p>Meurthe-et-Moselle (54) </p>
 </td>
-<td valign="top" width="147">
-<p>Toul</p>
+<td valign="top" width="193">
+<p>TOUL </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment d'hélicoptères de combat </p>
+<td valign="top" width="201">
+<p>3e Régiment d'Hélicoptères de Combat </p>
 </td>
-<td valign="top" width="165">
-<p>Meuse (55)</p>
+<td valign="top" width="154">
+<p>Meuse (55) </p>
 </td>
-<td valign="top" width="147">
-<p>Etain</p>
+<td valign="top" width="193">
+<p>ETAIN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>8e régiment d'artillerie </p>
+<td valign="top" width="201">
+<p>1er Régiment de Chasseurs </p>
 </td>
-<td valign="top" width="165">
-<p>Meuse (55)</p>
+<td valign="top" width="154">
+<p>Meuse (55) </p>
 </td>
-<td valign="top" width="147">
-<p>Commercy</p>
+<td valign="top" width="193">
+<p>VERDUN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de chasseurs </p>
+<td valign="top" width="201">
+<p>3e Régiment d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Meuse (55)</p>
+<td valign="top" width="154">
+<p>Morbihan (56) </p>
 </td>
-<td valign="top" width="147">
-<p>Verdun</p>
+<td valign="top" width="193">
+<p>VANNES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment d'infanterie de marine </p>
+<td valign="top" width="201">
+<p>1er Régiment d'Hélicoptères de Combat </p>
 </td>
-<td valign="top" width="165">
-<p>Morbihan (56)</p>
+<td valign="top" width="154">
+<p>Moselle (57) </p>
 </td>
-<td valign="top" width="147">
-<p>Vannes</p>
+<td valign="top" width="193">
+<p>PHALSBOURG </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment d'hélicoptères de combat </p>
+<td valign="top" width="201">
+<p>3e Régiment de Hussards </p>
 </td>
-<td valign="top" width="165">
-<p>Moselle (57)</p>
+<td valign="top" width="154">
+<p>Moselle (57) </p>
 </td>
-<td valign="top" width="147">
-<p>Phalsbourg</p>
+<td valign="top" width="193">
+<p>METZ </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment de hussards </p>
+<td valign="top" width="201">
+<p>40e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Moselle (57)</p>
+<td valign="top" width="154">
+<p>Moselle (57) </p>
 </td>
-<td valign="top" width="147">
-<p>Metz</p>
+<td valign="top" width="193">
+<p>THIONVILLE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>40e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>1er Régiment d'Infanterie </p>
 </td>
-<td valign="top" width="165">
-<p>Moselle (57)</p>
+<td valign="top" width="154">
+<p>Moselle (57) </p>
 </td>
-<td valign="top" width="147">
-<p>Thionville</p>
+<td valign="top" width="193">
+<p>SARREBOURG </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment d'infanterie </p>
+<td valign="top" width="201">
+<p>41e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Moselle (57)</p>
+<td valign="top" width="154">
+<p>Pas-de-Calais (62) </p>
 </td>
-<td valign="top" width="147">
-<p>Sarrebourg</p>
+<td valign="top" width="193">
+<p>DOUAI </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>41e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>28e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Pas-de-Calais (62)</p>
+<td valign="top" width="154">
+<p>Puy-de-Dôme (63) </p>
 </td>
-<td valign="top" width="147">
-<p>Douai</p>
+<td valign="top" width="193">
+<p>ISSOIRE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>28e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>92e Régiment d'Infanterie. </p>
 </td>
-<td valign="top" width="165">
-<p>Puy-de-Dôme (63)</p>
+<td valign="top" width="154">
+<p>Puy-de-Dôme (63) </p>
 </td>
-<td valign="top" width="147">
-<p>Issoire</p>
+<td valign="top" width="193">
+<p>CLERMONT-FERRAND </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>92e régiment d'infanterie </p>
+<td valign="top" width="201">
+<p>5e Régiment d'Hélicoptères de Combat </p>
 </td>
-<td valign="top" width="165">
-<p>Puy-de-Dôme (63)</p>
+<td valign="top" width="154">
+<p>Pyrénées-Atlantiques (64) </p>
 </td>
-<td valign="top" width="147">
-<p>Clermont-Ferrand</p>
+<td valign="top" width="193">
+<p>PAU-UZEIN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>5e régiment d'hélicoptères de combat </p>
+<td valign="top" width="201">
+<p>4e Régiment d'Hélicoptères des Forces Spéciales </p>
 </td>
-<td valign="top" width="165">
-<p>Pyrénées-Atlantiques (64)</p>
+<td valign="top" width="154">
+<p>Pyrénées-Atlantiques (64) </p>
 </td>
-<td valign="top" width="147">
-<p>Pau-Uzein</p>
+<td valign="top" width="193">
+<p>PAU </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>4e régiment d'hélicoptères des forces spéciales </p>
+<td valign="top" width="201">
+<p>1er Régiment de Parachutistes d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Pyrénées-Atlantiques (64)</p>
+<td valign="top" width="154">
+<p>Pyrénées-Atlantiques (64) </p>
 </td>
-<td valign="top" width="147">
-<p>Pau</p>
+<td valign="top" width="193">
+<p>BAYONNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de parachutistes d'infanterie de marine </p>
+<td valign="top" width="201">
+<p>1er Régiment de Hussards Parachutistes </p>
 </td>
-<td valign="top" width="165">
-<p>Pyrénées-Atlantiques (64)</p>
+<td valign="top" width="154">
+<p>Hautes-Pyrénées (65) </p>
 </td>
-<td valign="top" width="147">
-<p>Bayonne</p>
+<td valign="top" width="193">
+<p>TARBES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de hussards parachutistes </p>
+<td valign="top" width="201">
+<p>35e Régiment d'Artillerie Parachutiste </p>
 </td>
-<td valign="top" width="165">
-<p>Hautes-Pyrénées (65)</p>
+<td valign="top" width="154">
+<p>Hautes-Pyrénées (65) </p>
 </td>
-<td valign="top" width="147">
-<p>Tarbes</p>
+<td valign="top" width="193">
+<p>TARBES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>35e régiment d'artillerie parachutiste </p>
+<td valign="top" width="201">
+<p>44e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Hautes-Pyrénées (65)</p>
+<td valign="top" width="154">
+<p>Bas-Rhin (67) </p>
 </td>
-<td valign="top" width="147">
-<p>Tarbes</p>
+<td valign="top" width="193">
+<p>MUTZIG </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>44e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>2e Régiment de Hussards </p>
 </td>
-<td valign="top" width="165">
-<p>Bas-Rhin (67)</p>
+<td valign="top" width="154">
+<p>Bas-Rhin (67) </p>
 </td>
-<td valign="top" width="147">
-<p>Mutzig</p>
+<td valign="top" width="193">
+<p>HAGUENAU </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment de hussards </p>
+<td valign="top" width="201">
+<p>54e Régiment de Transmissions </p>
 </td>
-<td valign="top" width="165">
-<p>Bas-Rhin (67)</p>
+<td valign="top" width="154">
+<p>Bas-Rhin (67) </p>
 </td>
-<td valign="top" width="147">
-<p>Haguenau</p>
+<td valign="top" width="193">
+<p>HAGUENAU </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>54e régiment de transmissions </p>
+<td valign="top" width="201">
+<p>Régiment de Marche du Tchad </p>
 </td>
-<td valign="top" width="165">
-<p>Bas-Rhin (67)</p>
+<td valign="top" width="154">
+<p>Haut-Rhin (68) </p>
 </td>
-<td valign="top" width="147">
-<p>Haguenau</p>
+<td valign="top" width="193">
+<p>COLMAR-MEYENHEIM </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>Régiment de marche du Tchad </p>
+<td valign="top" width="201">
+<p>152e Régiment d'Infanterie </p>
 </td>
-<td valign="top" width="165">
-<p>Haut-Rhin (68)</p>
+<td valign="top" width="154">
+<p>Haut-Rhin (68) </p>
 </td>
-<td valign="top" width="147">
-<p>Colmar-Meyeheim</p>
+<td valign="top" width="193">
+<p>COLMAR </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>152e régiment d'infanterie </p>
+<td valign="top" width="201">
+<p>7e Régiment du Matériel </p>
 </td>
-<td valign="top" width="165">
-<p>Haut-Rhin (68)</p>
+<td valign="top" width="154">
+<p>Rhône (69) </p>
 </td>
-<td valign="top" width="147">
-<p>Colmar</p>
+<td valign="top" width="193">
+<p>LYON </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>7e régiment du matériel </p>
+<td valign="top" width="201">
+<p>2e Régiment d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Rhône (69)</p>
+<td valign="top" width="154">
+<p>Sarthe (72) </p>
 </td>
-<td valign="top" width="147">
-<p>Lyon</p>
+<td valign="top" width="193">
+<p>CHAMPAGNE </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment d'infanterie de marine </p>
+<td valign="top" width="201">
+<p>8e Régiment de Parachutistes d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Sarthe (72)</p>
+<td valign="top" width="154">
+<p>Tarn (81) </p>
 </td>
-<td valign="top" width="147">
-<p>Champagne</p>
+<td valign="top" width="193">
+<p>CASTRES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>8e régiment de parachutistes d'infanterie de marine </p>
+<td valign="top" width="201">
+<p>31e Régiment du Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Tarn (81)</p>
+<td valign="top" width="154">
+<p>Tarn-et-Garonne (82) </p>
 </td>
-<td valign="top" width="147">
-<p>Castres</p>
+<td valign="top" width="193">
+<p>CASTELSARASIN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>31e régiment du génie </p>
+<td valign="top" width="201">
+<p>17e Régiment du Génie Parachutiste </p>
 </td>
-<td valign="top" width="165">
-<p>Tarn-et-Garonne (82)</p>
+<td valign="top" width="154">
+<p>Tarn-et-Garonne (82) </p>
 </td>
-<td valign="top" width="147">
-<p>Castelsarasin</p>
+<td valign="top" width="193">
+<p>MONTAUBAN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>17e régiment du génie parachutiste </p>
+<td valign="top" width="201">
+<p>1e Régiment de Chasseurs d'Afrique </p>
 </td>
-<td valign="top" width="165">
-<p>Tarn-et-Garonne (82)</p>
+<td valign="top" width="154">
+<p>Var (83) </p>
 </td>
-<td valign="top" width="147">
-<p>Montauban</p>
+<td valign="top" width="193">
+<p>MONTFERRAT </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de chasseurs d'Afrique </p>
+<td valign="top" width="201">
+<p>54e Régiment d'Artillerie </p>
 </td>
-<td valign="top" width="165">
-<p>Var (83)</p>
+<td valign="top" width="154">
+<p>Var (83) </p>
 </td>
-<td valign="top" width="147">
-<p>Montferrat</p>
+<td valign="top" width="193">
+<p>HYERES </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>54e régiment d'artillerie </p>
+<td valign="top" width="201">
+<p>3e Régiment d'Artillerie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Var (83)</p>
+<td valign="top" width="154">
+<p>Var (83) </p>
 </td>
-<td valign="top" width="147">
-<p>Hyères</p>
+<td valign="top" width="193">
+<p>DRAGUIGNAN </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>3e régiment d'artillerie de marine </p>
+<td valign="top" width="201">
+<p>21e Régiment d'Infanterie de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Var (83)</p>
+<td valign="top" width="154">
+<p>Var (83) </p>
 </td>
-<td valign="top" width="147">
-<p>Draguignan</p>
+<td valign="top" width="193">
+<p>FREJUS </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>21e régiment d'infanterie de marine </p>
+<td valign="top" width="201">
+<p>2e Régiment Étranger du Génie </p>
 </td>
-<td valign="top" width="165">
-<p>Var (83)</p>
+<td valign="top" width="154">
+<p>Vaucluse (84) </p>
 </td>
-<td valign="top" width="147">
-<p>Fréjus</p>
+<td valign="top" width="193">
+<p>SAINT-CHRISTOL </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>2e régiment étranger du génie </p>
+<td valign="top" width="201">
+<p>Régiment d'Infanterie des Chars de Marine </p>
 </td>
-<td valign="top" width="165">
-<p>Vaucluse (84)</p>
+<td valign="top" width="154">
+<p>Vienne (86) </p>
 </td>
-<td valign="top" width="147">
-<p>Saint-Christol</p>
+<td valign="top" width="193">
+<p>POITIERS </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment étranger de cavalerie </p>
+<td valign="top" width="201">
+<p>1er Régiment de Tirailleurs </p>
 </td>
-<td valign="top" width="165">
-<p>Vaucluse (84)</p>
+<td valign="top" width="154">
+<p>Vosges (88) </p>
 </td>
-<td valign="top" width="147">
-<p>Camaret-sur-Aigues</p>
+<td valign="top" width="193">
+<p>EPINAL </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>Régiment d'Infanterie des chars de marine </p>
+<td valign="top" width="201">
+<p>35e Régiment d'Infanterie </p>
 </td>
-<td valign="top" width="165">
-<p>Vienne (86)</p>
+<td valign="top" width="154">
+<p>Territoire de Belfort (90) </p>
 </td>
-<td valign="top" width="147">
-<p>Poitiers</p>
+<td valign="top" width="193">
+<p>BELFORT </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment de tirailleurs </p>
+<td valign="top" width="201">
+<p>1er Régiment d'Artillerie </p>
 </td>
-<td valign="top" width="165">
-<p>Vosges (88)</p>
+<td valign="top" width="154">
+<p>Territoire de Belfort (90) </p>
 </td>
-<td valign="top" width="147">
-<p>Epinal</p>
+<td valign="top" width="193">
+<p>BELFORT </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>35e régiment d'infanterie </p>
+<td valign="top" width="201">
+<p>121e Régiment du Train </p>
 </td>
-<td valign="top" width="165">
-<p>Territoire de Belfort (90)</p>
+<td valign="top" width="154">
+<p>Essonne (91) </p>
 </td>
-<td valign="top" width="147">
-<p>Belfort</p>
+<td valign="top" width="193">
+<p>MONTLHERY </p>
 </td>
-<td valign="top" width="73">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="165">
-<p>1er régiment d'artillerie </p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Chefs de corps-Commandants de régiment </p>
 </td>
-<td valign="top" width="165">
-<p>Territoire de Belfort (90)</p>
+<td valign="top" width="79">
+<p align="center">76</p>
 </td>
-<td valign="top" width="147">
-<p>Belfort</p>
-</td>
-<td valign="top" width="73">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="165">
-<p>121e régiment du train </p>
-</td>
-<td valign="top" width="165">
-<p>Essonne (91)</p>
-</td>
-<td valign="top" width="147">
-<p>Montlhéry</p>
-</td>
-<td valign="top" width="73">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="608">
-<p>Sous-total chefs de corps commandants de régiment</p>
-</td>
-<td width="73">
-<p align="center">78</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p align="left">.</p>
-<table>
-<tbody>
-<tr>
-<td width="223">
-<p align="center">FONCTION</p>
-</td>
-<td width="150">
-<p align="center">DÉPARTEMENT</p>
-</td>
-<td width="149">
-<p align="center">VILLE</p>
-</td>
-<td width="149">
-<p align="center">NOMBRE DE POSTES</p>
-</td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="223">
-<p>Chef de corps commandant un groupement de recrutement et de sélection</p>
+<td colspan="2" rowspan="5" valign="top" width="282">
+<p>Chef de corps-commandant un groupement de recrutement et de sélection </p>
 </td>
-<td valign="top" width="150">
-<p>Gironde (33)</p>
+<td valign="top" width="154">
+<p>Gironde (33) </p>
 </td>
-<td valign="top" width="149">
-<p>Bordeaux</p>
+<td valign="top" width="193">
+<p>BORDEAUX </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
-<p>Ille-et-Vilaine (35)</p>
+<td valign="top" width="154">
+<p>Ille-et-Vilaine (35) </p>
 </td>
-<td valign="top" width="149">
-<p>Rennes</p>
+<td valign="top" width="193">
+<p>RENNES </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
-<p>Moselle (57)</p>
+<td valign="top" width="154">
+<p>Meurthe-et-Moselle (54) </p>
 </td>
-<td valign="top" width="149">
-<p>Metz</p>
+<td valign="top" width="193">
+<p>NANCY </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
-<p>Rhône (69)</p>
+<td valign="top" width="154">
+<p>Rhône (69) </p>
 </td>
-<td valign="top" width="149">
-<p>Lyon</p>
+<td valign="top" width="193">
+<p>LYON </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="150">
-<p>Paris (75)</p>
+<td valign="top" width="154">
+<p>Paris (75) </p>
 </td>
-<td valign="top" width="149">
-<p>Paris</p>
+<td valign="top" width="193">
+<p>PARIS </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total chefs de corps commandant un groupement de recrutement et de sélection</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Chefs de corps-commandant un groupement de recrutement et de sélection </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">5</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EMB)</p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps commandant en second des écoles commandées par un amiral (école navale) </p>
 </td>
-<td valign="top" width="150">
-<p>Cher (18)</p>
+<td valign="top" width="154">
+<p>Finistère (29) </p>
 </td>
-<td valign="top" width="149">
-<p>Bourges</p>
+<td valign="top" width="193">
+<p>CROZON </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un amiral (école navale)</p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps commandant en second des écoles commandées par un général (EALAT) </p>
 </td>
-<td valign="top" width="150">
-<p>Finistère (29)</p>
+<td valign="top" width="154">
+<p>Landes (40) </p>
 </td>
-<td valign="top" width="149">
-<p>Crozon</p>
+<td valign="top" width="193">
+<p>DAX </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (ETRS)</p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps commandant en second des écoles commandées par un général (EALAT) </p>
 </td>
-<td valign="top" width="150">
-<p>Ille-et-Vilaine (35)</p>
+<td valign="top" width="154">
+<p>Var (83) </p>
 </td>
-<td valign="top" width="149">
-<p>Rennes-Cesson-Sévigné</p>
+<td valign="top" width="193">
+<p>LE LUC </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EAlaT)</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Chefs de corps commandants en second des écoles commandées par un général </p>
 </td>
-<td valign="top" width="150">
-<p>Landes (40)</p>
-</td>
-<td valign="top" width="149">
-<p>Dax</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EG)</p>
-</td>
-<td valign="top" width="150">
-<p>Maine-et-Loire (49)</p>
-</td>
-<td valign="top" width="149">
-<p>Angers</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EMS)</p>
-</td>
-<td valign="top" width="150">
-<p>Maine-et-Loire (49)</p>
-</td>
-<td valign="top" width="149">
-<p>Saumur</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EEM)</p>
-</td>
-<td valign="top" width="150">
-<p>Maine-et-Loire (49)</p>
-</td>
-<td valign="top" width="149">
-<p>Saumur</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EAM)</p>
-</td>
-<td valign="top" width="150">
-<p>Morbihan (56)</p>
-</td>
-<td valign="top" width="149">
-<p>Guer</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (ETAP)</p>
-</td>
-<td valign="top" width="150">
-<p>Pyrénées-Atlantiques (64)</p>
-</td>
-<td valign="top" width="149">
-<p>Pau</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EMD)</p>
-</td>
-<td valign="top" width="150">
-<p>Var (83)</p>
-</td>
-<td valign="top" width="149">
-<p>Draguignan</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Chef de corps commandant en second des écoles commandées par un général (EAlaT)</p>
-</td>
-<td valign="top" width="150">
-<p>Var (83)</p>
-</td>
-<td valign="top" width="149">
-<p>Le Luc</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total chefs de corps commandants en second des écoles commandées par un général</p>
-</td>
-<td width="149">
-<p align="center">11</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant la Légion étrangère</p>
-</td>
-<td valign="top" width="150">
-<p>Bouches-du-Rhône (13)</p>
-</td>
-<td valign="top" width="149">
-<p>Aubagne</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total général commandant la Légion étrangère</p>
-</td>
-<td width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une brigade -  7e brigade blindée</p>
-</td>
-<td valign="top" width="150">
-<p>Doubs (25)</p>
-</td>
-<td valign="top" width="149">
-<p>Besançon</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une brigade - Brigade de transmission et d'appui au commandement</p>
-</td>
-<td valign="top" width="150">
-<p>Nord (59)</p>
-</td>
-<td valign="top" width="149">
-<p>Douai</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une brigade - Brigade des forces spéciales terre</p>
-</td>
-<td valign="top" width="150">
-<p>Pyrénées-Atlantiques (64)</p>
-</td>
-<td valign="top" width="149">
-<p>Pau</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une brigade - Brigade de renseignement</p>
-</td>
-<td valign="top" width="150">
-<p>Bas-Rhin (67)</p>
-</td>
-<td valign="top" width="149">
-<p>Haguenau</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une brigade - 1re brigade logistique</p>
-</td>
-<td valign="top" width="150">
-<p>Essonne (91)</p>
-</td>
-<td valign="top" width="149">
-<p>Montlhéry</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total généraux commandant une brigade</p>
-</td>
-<td width="149">
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EMB</p>
-</td>
-<td valign="top" width="150">
-<p>Cher (18)</p>
-</td>
-<td valign="top" width="149">
-<p>Bourges</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école ETRS</p>
-</td>
-<td valign="top" width="150">
-<p>Ille-et-Vilaine (35)</p>
-</td>
-<td valign="top" width="149">
-<p>Cesson-Sévigné</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EAlaT</p>
-</td>
-<td valign="top" width="150">
-<p>Landes (40)</p>
-</td>
-<td valign="top" width="149">
-<p>Dax</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EG</p>
-</td>
-<td valign="top" width="150">
-<p>Maine-et-Loire (49)</p>
-</td>
-<td valign="top" width="149">
-<p>Angers</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EMS</p>
-</td>
-<td valign="top" width="150">
-<p>Maine-et-Loire (49)</p>
-</td>
-<td valign="top" width="149">
-<p>Saumur</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EEM</p>
-</td>
-<td valign="top" width="150">
-<p>Maine-et-Loire (49)</p>
-</td>
-<td valign="top" width="149">
-<p>Saumur</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EAM</p>
-</td>
-<td valign="top" width="150">
-<p>Morbihan (56)</p>
-</td>
-<td valign="top" width="149">
-<p>Guer</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école ETAP</p>
-</td>
-<td valign="top" width="150">
-<p>Pyrénées-Atlantiques (64)</p>
-</td>
-<td valign="top" width="149">
-<p>Pau-Uzein</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école CESAT</p>
-</td>
-<td valign="top" width="150">
-<p>Paris (75)</p>
-</td>
-<td valign="top" width="149">
-<p>Paris</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Général commandant une école EMD</p>
-</td>
-<td valign="top" width="150">
-<p>Var (83)</p>
-</td>
-<td valign="top" width="149">
-<p>Draguignan</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total généraux commandant une école</p>
-</td>
-<td width="149">
-<p align="center">10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="32" valign="top" width="223">
-<p>Délégué militaire départemental </p>
-</td>
-<td valign="top" width="150">
-<p>Alpes-de-Haute-Provence (04)</p>
-</td>
-<td valign="top" width="149">
-<p>Digne</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Alpes-Maritimes (06)</p>
-</td>
-<td valign="top" width="149">
-<p>Nice</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Ardèche (07)</p>
-</td>
-<td valign="top" width="149">
-<p>Privas</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Ariège (09)</p>
-</td>
-<td valign="top" width="149">
-<p>Auch</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Aube (10)</p>
-</td>
-<td valign="top" width="149">
-<p>Troyes</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Aveyron (12)</p>
-</td>
-<td valign="top" width="149">
-<p>Rodez</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Calvados (14)</p>
-</td>
-<td valign="top" width="149">
-<p>Caen</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Cantal (15)</p>
-</td>
-<td valign="top" width="149">
-<p>Aurillac</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Corrèze (19)</p>
-</td>
-<td valign="top" width="149">
-<p>Tulle</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Corse-du-Sud (2A)</p>
-</td>
-<td valign="top" width="149">
-<p>Ajaccio</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Haute-Corse (2B)</p>
-</td>
-<td valign="top" width="149">
-<p>Bastia</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Dordogne (24)</p>
-</td>
-<td valign="top" width="149">
-<p>Périgueux</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Hérault (34)</p>
-</td>
-<td valign="top" width="149">
-<p>Montpellier</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Jura (39)</p>
-</td>
-<td valign="top" width="149">
-<p>Lons-le-Saunier</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Loire (42)</p>
-</td>
-<td valign="top" width="149">
-<p>Saint-Etienne</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Haute-Loire (43)</p>
-</td>
-<td valign="top" width="149">
-<p>Le Puy-en-Velay</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Loire-Atlantique (44)</p>
-</td>
-<td valign="top" width="149">
-<p>Nantes</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Lot-et-Garonne (47)</p>
-</td>
-<td valign="top" width="149">
-<p>Cahors</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Lozère (48)</p>
-</td>
-<td valign="top" width="149">
-<p>Mende</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Meuse (55)</p>
-</td>
-<td valign="top" width="149">
-<p>Verdun</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Nièvre (58)</p>
-</td>
-<td valign="top" width="149">
-<p>Nevers</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Orne (61)</p>
-</td>
-<td valign="top" width="149">
-<p>Alençon</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Pas-de-Calais (62)</p>
-</td>
-<td valign="top" width="149">
-<p>Arras</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Hautes-Pyrénées (65)</p>
-</td>
-<td valign="top" width="149">
-<p>Tarbes</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Pyrénées-Orientales (66)</p>
-</td>
-<td valign="top" width="149">
-<p>Perpignan</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Saône-et-Loire (71)</p>
-</td>
-<td valign="top" width="149">
-<p>Mâcon</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Seine-Maritime (76)</p>
-</td>
-<td valign="top" width="149">
-<p>Rouen</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Seine-et-Marne (77)</p>
-</td>
-<td valign="top" width="149">
-<p>Avon</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Somme (80)</p>
-</td>
-<td valign="top" width="149">
-<p>Amiens</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Yonne (89)</p>
-</td>
-<td valign="top" width="149">
-<p>Auxerre</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Seine-Saint-Denis (93)</p>
-</td>
-<td valign="top" width="149">
-<p>Saint-Denis</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Val-de-Marne (94)</p>
-</td>
-<td valign="top" width="149">
-<p>Vincennes</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total délégués militaires départementaux</p>
-</td>
-<td width="149">
-<p align="center">32</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" valign="top" width="223">
-<p>Adjoint chef de station de transmissions</p>
-</td>
-<td valign="top" width="150">
-<p>Aude (11)</p>
-</td>
-<td valign="top" width="149">
-<p>Bram</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Indre (36)</p>
-</td>
-<td valign="top" width="149">
-<p>Rosnay</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Landes (40)</p>
-</td>
-<td valign="top" width="149">
-<p>Souston</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Manche (50)</p>
-</td>
-<td valign="top" width="149">
-<p>Muneville-le-Bingard</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Seine-et-Marne (77)</p>
-</td>
-<td valign="top" width="149">
-<p>Seine-Port</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Var (83)</p>
-</td>
-<td valign="top" width="149">
-<p>La Crau</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total adjoints chef de station de transmissions</p>
-</td>
-<td width="149">
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223">
-<p>Commandant en second de l'école du service de santé des armées</p>
-</td>
-<td valign="top" width="150">
-<p>Rhône (69)</p>
-</td>
-<td valign="top" width="149">
-<p>Bron</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total commandant en second de l'école du service de santé des armées</p>
-</td>
-<td width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="223"/>
-<td valign="top" width="150"/>
-<td valign="top" width="149"/>
-<td valign="top" width="149">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="223">
-<p>Directeur des études (écoles militaires)</p>
-</td>
-<td valign="top" width="150">
-<p>Morbihan (56)</p>
-</td>
-<td valign="top" width="149">
-<p>Guer</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Rhône (69)</p>
-</td>
-<td valign="top" width="149">
-<p>Bron</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="150">
-<p>Deux-Sèvres (79)</p>
-</td>
-<td valign="top" width="149">
-<p>Saint-Maixent</p>
-</td>
-<td valign="top" width="149">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="526">
-<p>Sous-total directeurs des études (écoles militaires)</p>
-</td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Commandant du Centre national des opérations aériennes (CCNAO)</p>
+<td colspan="2" valign="top" width="282">
+<p>Chef de corps commandant l'école des troupes aéroportées (ETAP) </p>
 </td>
-<td valign="top" width="150">
-<p>Rhône (69)</p>
+<td valign="top" width="154">
+<p>Pyrénées-Atlantiques (64) </p>
 </td>
-<td valign="top" width="149">
-<p>Lyon</p>
+<td valign="top" width="193">
+<p>PAU </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total commandant du Centre national des opérations aériennes (CCNAO)</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Chefs de corps commandants l'école des troupes aéroportées (ETAP) </p>
 </td>
-<td width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Directeur AIA Bordeaux</p>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant la légion étrangère </p>
 </td>
-<td valign="top" width="150">
-<p>Gironde (33)</p>
+<td valign="top" width="154">
+<p>Bouches-du-Rhône (13) </p>
 </td>
-<td valign="top" width="149">
-<p>Floirac</p>
+<td valign="top" width="193">
+<p>AUBAGNE </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Directeur AIA Bretagne</p>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Général commandant la légion étrangère </p>
 </td>
-<td valign="top" width="150">
-<p>Morbihan (56)</p>
-</td>
-<td valign="top" width="149">
-<p>Lorient</p>
-</td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Directeur AIA Clermont-Ferrand</p>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une brigade-7e Brigade Blindée </p>
 </td>
-<td valign="top" width="150">
-<p>Puy-de-Dôme (63)</p>
+<td valign="top" width="154">
+<p>Doubs (25) </p>
 </td>
-<td valign="top" width="149">
-<p>Clermont-Ferrand</p>
+<td valign="top" width="193">
+<p>BESANCON </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="223">
-<p>Directeur AIA Cuers</p>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une brigade-Brigade de Transmission et d'Appui au commandement </p>
 </td>
-<td valign="top" width="150">
-<p>Var (83)</p>
+<td valign="top" width="154">
+<p>Nord (59) </p>
 </td>
-<td valign="top" width="149">
-<p>Cuers</p>
+<td valign="top" width="193">
+<p>DOUAI </p>
 </td>
-<td valign="top" width="149">
+<td valign="top" width="79">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Sous-total directeurs AIA</p>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une brigade-Brigade des Forces Spéciales Terre </p>
 </td>
-<td width="149">
+<td valign="top" width="154">
+<p>Pyrénées-Atlantiques (64) </p>
+</td>
+<td valign="top" width="193">
+<p>PAU </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une brigade-Brigade de Renseignement </p>
+</td>
+<td valign="top" width="154">
+<p>Bas-Rhin (67) </p>
+</td>
+<td valign="top" width="193">
+<p>HAGUENAU </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une brigade-1ère Brigade Logistique </p>
+</td>
+<td valign="top" width="154">
+<p>Essonne (91) </p>
+</td>
+<td valign="top" width="193">
+<p>MONTLHERY </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Généraux commandant une brigade </p>
+</td>
+<td valign="top" width="79">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EMB </p>
+</td>
+<td valign="top" width="154">
+<p>Cher (18) </p>
+</td>
+<td valign="top" width="193">
+<p>BOURGES </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-ET </p>
+</td>
+<td valign="top" width="154">
+<p>Cher (18) </p>
+</td>
+<td valign="top" width="193">
+<p>BOURGES </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-ETRS </p>
+</td>
+<td valign="top" width="154">
+<p>Ille-et-Vilaine (35) </p>
+</td>
+<td valign="top" width="193">
+<p>CESSON-SEVIGNE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EG </p>
+</td>
+<td valign="top" width="154">
+<p>Maine-et-Loire (49) </p>
+</td>
+<td valign="top" width="193">
+<p>ANGERS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EMS </p>
+</td>
+<td valign="top" width="154">
+<p>Maine-et-Loire (49) </p>
+</td>
+<td valign="top" width="193">
+<p>SAUMUR </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EEM </p>
+</td>
+<td valign="top" width="154">
+<p>Maine-et-Loire (49) </p>
+</td>
+<td valign="top" width="193">
+<p>SAUMUR </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-CESAT </p>
+</td>
+<td valign="top" width="154">
+<p>Paris (75) </p>
+</td>
+<td valign="top" width="193">
+<p>PARIS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EA </p>
+</td>
+<td valign="top" width="154">
+<p>Var (83) </p>
+</td>
+<td valign="top" width="193">
+<p>DRAGUIGNAN </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EMD </p>
+</td>
+<td valign="top" width="154">
+<p>Var (83) </p>
+</td>
+<td valign="top" width="193">
+<p>DRAGUIGNAN </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Général commandant une école-EALAT </p>
+</td>
+<td valign="top" width="154">
+<p>Var (83) </p>
+</td>
+<td valign="top" width="193">
+<p>LE LUC </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Généraux commandant une école </p>
+</td>
+<td valign="top" width="79">
+<p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="32" valign="top" width="282">
+<p>Délégué militaire départemental </p>
+</td>
+<td valign="top" width="154">
+<p>Alpes-de-Haute-Provence (04) </p>
+</td>
+<td valign="top" width="193">
+<p>DIGNE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Alpes-maritimes (06) </p>
+</td>
+<td valign="top" width="193">
+<p>NICE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Ardèche (07) </p>
+</td>
+<td valign="top" width="193">
+<p>PRIVAS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Ariège (09) </p>
+</td>
+<td valign="top" width="193">
+<p>AUCH </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Aube (10) </p>
+</td>
+<td valign="top" width="193">
+<p>TROYES </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Aveyron (12) </p>
+</td>
+<td valign="top" width="193">
+<p>RODEZ </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Calvados (14) </p>
+</td>
+<td valign="top" width="193">
+<p>CAEN </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Cantal (15) </p>
+</td>
+<td valign="top" width="193">
+<p>AURILLAC </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Corrèze (19) </p>
+</td>
+<td valign="top" width="193">
+<p>TULLE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Corse du sud (2A) </p>
+</td>
+<td valign="top" width="193">
+<p>AJACCIO </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Haute-Corse (2B) </p>
+</td>
+<td valign="top" width="193">
+<p>BASTIA </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Dordogne (24) </p>
+</td>
+<td valign="top" width="193">
+<p>PERIGUEUX </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Hérault (34) </p>
+</td>
+<td valign="top" width="193">
+<p>MONTPELLIER </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Jura (39) </p>
+</td>
+<td valign="top" width="193">
+<p>LONS-LE-SAUNIER </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Loire (42) </p>
+</td>
+<td valign="top" width="193">
+<p>SAINT-ETIENNE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Haute-Loire (43) </p>
+</td>
+<td valign="top" width="193">
+<p>LE PUY-EN-VELAY </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Loire-Atlantique (44) </p>
+</td>
+<td valign="top" width="193">
+<p>NANTES </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Lot-et-Garonne (47) </p>
+</td>
+<td valign="top" width="193">
+<p>CAHORS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Lozère (48) </p>
+</td>
+<td valign="top" width="193">
+<p>MENDE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Meuse (55) </p>
+</td>
+<td valign="top" width="193">
+<p>VERDUN </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Nièvre (58) </p>
+</td>
+<td valign="top" width="193">
+<p>NEVERS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Orne (61) </p>
+</td>
+<td valign="top" width="193">
+<p>ALENCON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Pas-de-Calais (62) </p>
+</td>
+<td valign="top" width="193">
+<p>ARRAS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Hautes-Pyrénées (65) </p>
+</td>
+<td valign="top" width="193">
+<p>TARBES </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Pyrénées-Orientales (66) </p>
+</td>
+<td valign="top" width="193">
+<p>PERPIGNAN </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Saône-et-Loire (71) </p>
+</td>
+<td valign="top" width="193">
+<p>MACON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Seine-Maritime (76) </p>
+</td>
+<td valign="top" width="193">
+<p>ROUEN </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Seine-et-Marne (77) </p>
+</td>
+<td valign="top" width="193">
+<p>AVON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Somme (80) </p>
+</td>
+<td valign="top" width="193">
+<p>AMIENS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Yonne (89) </p>
+</td>
+<td valign="top" width="193">
+<p>AUXERRE </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Seine-Saint-Denis (93) </p>
+</td>
+<td valign="top" width="193">
+<p>SAINT-DENIS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Val-de-Marne (94) </p>
+</td>
+<td valign="top" width="193">
+<p>VINCENNES </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Délégués militaires départementaux </p>
+</td>
+<td valign="top" width="79">
+<p align="center">32</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="6" valign="top" width="282">
+<p>Adjoint chef de station de transmissions </p>
+</td>
+<td valign="top" width="154">
+<p>Aude (11) </p>
+</td>
+<td valign="top" width="193">
+<p>BRAM </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Indre (36) </p>
+</td>
+<td valign="top" width="193">
+<p>ROSNAY </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Landes (40) </p>
+</td>
+<td valign="top" width="193">
+<p>SOUSTON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Manche (50) </p>
+</td>
+<td valign="top" width="193">
+<p>MUNEVILLE-LE-BINGARD </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Seine-et-Marne (77) </p>
+</td>
+<td valign="top" width="193">
+<p>SEINE-PORT </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Var (83) </p>
+</td>
+<td valign="top" width="193">
+<p>LA CRAU </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Adjoints chef de station de transmissions </p>
+</td>
+<td valign="top" width="79">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Commandant en second de l'école du service de santé des armées </p>
+</td>
+<td valign="top" width="154">
+<p>Rhône (69) </p>
+</td>
+<td valign="top" width="193">
+<p>BRON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Commandant en second de l'école du service de santé des armées </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="3" valign="top" width="282">
+<p>Directeur des études (écoles militaires) </p>
+</td>
+<td valign="top" width="154">
+<p>Morbihan (56) </p>
+</td>
+<td valign="top" width="193">
+<p>GUER </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Rhône (69) </p>
+</td>
+<td valign="top" width="193">
+<p>BRON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="154">
+<p>Deux-Sèvres (79) </p>
+</td>
+<td valign="top" width="193">
+<p>SAINT-MAIXENT </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Directeurs des études (écoles militaires) </p>
+</td>
+<td valign="top" width="79">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Commandant du centre national des opérations aériennes (CCNAO) </p>
+</td>
+<td valign="top" width="154">
+<p>Rhône (69) </p>
+</td>
+<td valign="top" width="193">
+<p>LYON </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Commandant du centre national des opérations aériennes (CCNAO) </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Directeur AIA Bordeaux </p>
+</td>
+<td valign="top" width="154">
+<p>Gironde (33) </p>
+</td>
+<td valign="top" width="193">
+<p>FLOIRAC </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Directeur AIA Bretagne </p>
+</td>
+<td valign="top" width="154">
+<p>Morbihan (56) </p>
+</td>
+<td valign="top" width="193">
+<p>LORIENT </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Directeur AIA Clermont-Ferrand </p>
+</td>
+<td valign="top" width="154">
+<p>Puy-de-Dôme (63) </p>
+</td>
+<td valign="top" width="193">
+<p>CLERMONT-FERRAND </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="282">
+<p>Directeur AIA Cuers </p>
+</td>
+<td valign="top" width="154">
+<p>Var (83) </p>
+</td>
+<td valign="top" width="193">
+<p>CUERS </p>
+</td>
+<td valign="top" width="79">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="633">
+<p>Sous-total Directeurs AIA </p>
+</td>
+<td valign="top" width="79">
 <p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="526">
-<p>Total COP/ A services de l'Etat</p>
+<td colspan="4" valign="top" width="633">
+<p>Total COP/ A services de l'Etat </p>
 </td>
-<td width="149">
-<p align="center">236</p>
+<td valign="top" width="79">
+<p align="center">229</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p align="left">.</p>
 
-</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
