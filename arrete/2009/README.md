@@ -185,7 +185,6 @@
 - [Arrêté du 4 juin 2009 (AGRE0912654A)](arrete-du-4-juin-2009-agre0912654a)
 - [Arrêté du 4 juin 2009 (DEVA0911585A)](arrete-du-4-juin-2009-deva0911585a)
 - [Arrêté du 4 juin 2009 (DEVA0912732A)](arrete-du-4-juin-2009-deva0912732a)
-- [Arrêté du 4 juin 2009 (DEVK0905350A)](arrete-du-4-juin-2009-devk0905350a)
 - [Arrêté du 4 juin 2009 (ECED0912700A)](arrete-du-4-juin-2009-eced0912700a)
 - [Arrêté du 4 juin 2009 (ECED0912702A)](arrete-du-4-juin-2009-eced0912702a)
 - [Arrêté du 4 juin 2009 (ECEI0912713A)](arrete-du-4-juin-2009-ecei0912713a)
