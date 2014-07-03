@@ -1,0 +1,3 @@
+# Article 8
+
+Sont électeurs, au titre de la commission consultative paritaire instituée par le présent arrêté, les agents contractuels de droit public du ministère des affaires étrangères en position d'activité ou de congé rémunéré ou de congé parental, à l'exception des agents relevant du décret n° 69-546 du 2 juin 1969 fixant le statut des agents contractuels de l'administration centrale du ministère des affaires étrangères. Ils doivent justifier d'un contrat à durée indéterminée ou d'un contrat d'une durée minimale de six mois ou d'un contrat reconduit successivement depuis au moins six mois, en cours à la date du scrutin, et exercer leurs fonctions sans interruption depuis au moins deux mois à la date du scrutin.

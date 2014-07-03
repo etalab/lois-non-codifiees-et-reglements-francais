@@ -1,0 +1,3 @@
+# Article 2
+
+Tout projet de marché ou d'accord-cadre passé par les rectorats et les directions des services départementaux de l'éducation nationale, de l'enseignement supérieur et de la recherche et dont le montant estimé sur la durée prévisionnelle maximum est supérieur à 2 000 000 euros hors taxes pour les marchés de travaux et à 500 000 euros hors taxes pour les marchés de fournitures et services, est adressé, pour avis, au responsable ministériel des achats avant publication de l'avis d'appel public à la concurrence ou le lancement de la consultation pour les marchés ou accords-cadres ne donnant pas lieu à publicité.
