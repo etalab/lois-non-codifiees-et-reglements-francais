@@ -8,6 +8,6 @@ II. ― Il est également procédé à une nouvelle désignation :
 
 a) Des conseillers généraux en cas de renouvellement général des conseils généraux ;
 
-b) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale et des représentants des contribuables en cas de renouvellement général des conseils municipaux.
+b) Des conseillers de Paris, des maires, des représentants des établissements publics de coopération intercommunale à fiscalité propre et des représentants des contribuables en cas de renouvellement général des conseils municipaux.
 
 La commission suspend ses travaux le vendredi précédant le renouvellement général des conseils généraux ou des conseils municipaux. Les travaux de la commission reprennent au plus tard une semaine après la désignation des nouveaux membres de la commission.

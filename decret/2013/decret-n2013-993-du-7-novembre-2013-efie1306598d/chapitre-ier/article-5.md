@@ -1,6 +1,6 @@
 # Article 5
 
-I. ― Les membres de la commission sont réunis, à l'initiative du directeur départemental des finances publiques, dans les huit jours suivant la publication de l'arrêté prévu à l'article 3, afin d'élire le président de la commission parmi les représentants des collectivités territoriales et des établissements publics de coopération intercommunale.
+I. ― Les membres de la commission sont réunis, à l'initiative du directeur départemental des finances publiques, dans les huit jours suivant la publication de l'arrêté prévu à l'article 3,                     afin d'élire, parmi les représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre, le président de la commission et un vice-président chargé de remplacer le président en cas d'absence ou d'empêchement de celui-ci.
 
 La séance est présidée par le doyen d'âge. Le scrutin est secret. Nul ne peut être élu s'il n'a recueilli, lors des deux premiers tours de scrutin, la majorité des suffrages exprimés. A défaut, il est procédé à un troisième tour de scrutin. Le candidat qui a recueilli le plus grand nombre de suffrages est déclaré élu. En cas d'égalité de suffrages, le candidat le plus âgé est déclaré élu.
 

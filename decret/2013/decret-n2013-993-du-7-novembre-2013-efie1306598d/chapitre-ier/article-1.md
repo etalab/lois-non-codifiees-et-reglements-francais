@@ -2,19 +2,19 @@
 
 I. ― Les membres de la commission départementale des valeurs locatives des locaux professionnels mentionnée au VIII de l'article 34 de la loi du 29 décembre 2010 susvisée sont désignés dans les conditions définies aux II à V ci-après.
 
-II. ― Les membres du conseil de Paris sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
+II. ― Les membres du conseil de Paris sont désignés par celui-ci, siégeant en formation de conseil général, dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
 
 Les membres du conseil général sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers généraux.
 
 Les maires sont désignés par l'association départementale des maires dans les deux mois qui suivent le renouvellement général des conseils municipaux. La durée de leur mandat est la même que celle du mandat des conseillers municipaux.
 
-Les représentants des établissements publics de coopération intercommunale sont désignés par l'association départementale des maires dans les trois mois qui suivent le renouvellement général des conseils municipaux. La durée de leur mandat est la même que celle du mandat des membres de l'organe délibérant des établissements publics de coopération intercommunale.
+Les représentants des établissements publics de coopération intercommunale à fiscalité propre sont désignés par l'association départementale des maires dans les trois mois qui suivent le renouvellement général des conseils municipaux. La durée de leur mandat est la même que celle du mandat des membres de l'organe délibérant des établissements publics de coopération intercommunale à fiscalité propre.
 
-III. ― S'il existe plusieurs associations de maires dans le département, les maires et les représentants des établissements publics de coopération intercommunale sont désignés par le représentant de l'Etat dans le département après consultation desdites associations.
+III. ― S'il existe plusieurs associations de maires dans le département, les maires et les représentants des établissements publics de coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département après consultation desdites associations.
 
-S'il n'existe aucune association de maires dans le département, les maires et les représentants des établissements publics de coopération intercommunale sont désignés par le représentant de l'Etat dans le département.
+S'il n'existe aucune association de maires dans le département, les maires et les représentants des établissements publics de coopération intercommunale à fiscalité propre sont désignés par le représentant de l'Etat dans le département.
 
-Les maires et les représentants des établissements publics de coopération intercommunale sont également désignés par le représentant de l'Etat dans le département à défaut de désignation dans les délais prévus au II.
+Les membres du conseil de Paris, les membres du conseil général, les maires et les représentants des établissements publics de coopération intercommunale à fiscalité propre sont également désignés par le représentant de l'Etat dans le département à défaut de désignation dans les délais prévus au II.
 
 IV. ― Les représentants des contribuables sont désignés par le représentant de l'Etat dans le département, pour six ans, dans les trois mois qui suivent le renouvellement général des conseils municipaux. Ils comprennent :
 
