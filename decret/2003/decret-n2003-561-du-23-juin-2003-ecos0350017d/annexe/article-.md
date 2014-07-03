@@ -1,3 +1,3 @@
 # Article 
 
-(1) Ce texte fait l'objet d'une publication au Journal officiel de ce jour, édition des Documents administratifs n° 17.
+(1) Le tableau n'est pas reproduit, vous pouvez le consulter sur le site internet  www.insee.fr.
