@@ -14,7 +14,6 @@
 - [Arrêté du 1 juillet 2002 (EQUA0201166A)](arrete-du-1-juillet-2002-equa0201166a)
 - [Arrêté du 1 juillet 2002 (JUSE0240086A)](arrete-du-1-juillet-2002-juse0240086a)
 - [Arrêté du 1 mars 2002 (INTE0200123A)](arrete-du-1-mars-2002-inte0200123a)
-- [Arrêté du 1 mars 2002 (MAEA0120600A)](arrete-du-1-mars-2002-maea0120600a)
 - [Arrêté du 1 septembre 2002 (ECOC0200108A)](arrete-du-1-septembre-2002-ecoc0200108a)
 - [Arrêté du 2 août 2001 (INTE0100483A)](arrete-du-2-aout-2001-inte0100483a)
 - [Arrêté du 2 août 2002 (AGRG0201910A)](arrete-du-2-aout-2002-agrg0201910a)

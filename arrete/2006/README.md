@@ -194,7 +194,6 @@
 - [Arrêté du 20 décembre 2006 (MCCB0600857A)](arrete-du-20-decembre-2006-mccb0600857a)
 - [Arrêté du 20 décembre 2006 (MENE0602954A)](arrete-du-20-decembre-2006-mene0602954a)
 - [Arrêté du 20 juin 2006 (DEFB0600768A)](arrete-du-20-juin-2006-defb0600768a)
-- [Arrêté du 20 mars 2006 (MAEA0520490A)](arrete-du-20-mars-2006-maea0520490a)
 - [Arrêté du 20 novembre 2006 (AGRP0602357A)](arrete-du-20-novembre-2006-agrp0602357a)
 - [Arrêté du 20 novembre 2006 (ECOP0600500A)](arrete-du-20-novembre-2006-ecop0600500a)
 - [Arrêté du 20 novembre 2006 (MJSK0670239A)](arrete-du-20-novembre-2006-mjsk0670239a)
