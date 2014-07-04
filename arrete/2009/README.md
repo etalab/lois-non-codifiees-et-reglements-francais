@@ -654,7 +654,6 @@
 - [Arrêté du 9 octobre 2009 (DEVK0923626A)](arrete-du-9-octobre-2009-devk0923626a)
 - [Arrêté du 9 octobre 2009 (ECEC0921726A)](arrete-du-9-octobre-2009-ecec0921726a)
 - [Arrêté du 9 octobre 2009 (ECED0923120A)](arrete-du-9-octobre-2009-eced0923120a)
-- [Arrêté du 9 septembre 2004 (SOCF0411849A)](arrete-du-9-septembre-2004-socf0411849a)
 - [Arrêté du 9 septembre 2004 (SOCF0411851A)](arrete-du-9-septembre-2004-socf0411851a)
 - [Arrêté du 9 septembre 2004 (SOCF0411852A)](arrete-du-9-septembre-2004-socf0411852a)
 - [Arrêté du 9 septembre 2008 (DEFD0822457A)](arrete-du-9-septembre-2008-defd0822457a)
