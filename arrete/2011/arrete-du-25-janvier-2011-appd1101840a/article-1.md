@@ -188,7 +188,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Association FODIPEG - CFA Ducretet</p>
+<p align="left">Réseau Ducretet</p>
 </td>
 </tr>
 <tr>

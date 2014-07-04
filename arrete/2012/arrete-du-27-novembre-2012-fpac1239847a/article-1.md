@@ -689,7 +689,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">I</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Responsable de domaines viticoles</p>
+<p align="left">Manager de domaines viticoles</p>
 </td>
 <td align="left" valign="top">
 <p align="left">211p</p>

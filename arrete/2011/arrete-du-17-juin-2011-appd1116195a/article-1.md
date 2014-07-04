@@ -273,7 +273,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Association FODIPEG - CFA Ducretet<br/>
+<p align="left">Réseau Ducretet<br/>
 </p>
 </td>
 </tr>
