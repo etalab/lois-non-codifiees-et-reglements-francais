@@ -32,11 +32,9 @@ BEPECASER MENTION DEUX-ROUES
 <p align="center">2 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Le candidat tire au sort une fiche établie par le   ministère chargé de la sécurité routière et exécute les exercices figurant sur la fiche. </p>
+<p align="left">Le candidat tire au sort une fiche établie par le ministère chargé de la sécurité routière et exécute les exercices figurant sur la fiche. </p>
 </td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -52,7 +50,7 @@ BEPECASER MENTION DEUX-ROUES
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Le candidat tire au sort une fiche établie par le   ministère chargé de la sécurité routière et développe les sujets mentionnés sur la fiche. <br/>
+<p align="left">Le candidat tire au sort une fiche établie par le ministère chargé de la sécurité routière et développe les sujets mentionnés sur la fiche. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -74,7 +72,7 @@ BEPECASER MENTION DEUX-ROUES
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie A limitée ou non limitée ou titulaire depuis moins d'un an du permis de conduire de la catégorie A non limitée. <br/>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs. <br/>
+<p align="left">Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie A ou titulaire depuis moins d'un an du permis de conduire de la catégorie A. <br/>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs. <br/>
 </p>
 </td>
 <td align="left" valign="top">

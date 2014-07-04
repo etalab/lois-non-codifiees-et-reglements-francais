@@ -18,7 +18,7 @@ Les candidats au BEPECASER adressent au service de l'Etat compétent du départe
 
 Les candidats à l'une des mentions spécifiques ou les deux doivent adresser, en plus des cinq premières pièces, une demande de candidature sur papier libre ou sur un formulaire administratif ad hoc ainsi qu'une copie du BEPECASER ou d'un titre reconnu équivalent. Cette copie doit être remise au plus tard le premier jour des épreuves.
 
-Les candidats aux épreuves de la mention  groupe lourd  souhaitant bénéficier de la dispense de l'épreuve pratique prévue à l'article 1er du présent arrêté joignent également à leur dossier les photocopies de bulletins de salaire, certificats ou attestations de travail permettant de justifier d'une activité professionnelle de conducteur routier ou de formateur à la conduite dans les transports de marchandises ou de voyageurs.
+Les candidats aux épreuves de la mention groupe lourd souhaitant bénéficier de la dispense de l'épreuve pratique prévue à l'article 1er du présent arrêté joignent également à leur dossier les photocopies de bulletins de salaire, certificats ou attestations de travail permettant de justifier d'une activité professionnelle de conducteur routier ou de formateur à la conduite dans les transports de marchandises ou de voyageurs.
 
 La date limite de dépôt des dossiers est fixée à :
 
@@ -28,4 +28,4 @@ La date limite de dépôt des dossiers est fixée à :
 
 ― six semaines au plus tard avant la date fixée au niveau national pour le début des épreuves de la ou des mentions spécifiques.
 
-Des aménagements d'épreuves aux conditions de passation des épreuves écrites et orales rendues nécessaires en raison d'un handicap temporaire ou permanent peuvent être accordés par le président du jury d'examen. La demande est adressée par le candidat au président du jury huit jours au moins avant le début des épreuves, sauf cas exceptionnel. Elle est accompagnée d'un certificat médical datant de moins d'un mois délivré par un médecin agréé par l'administration mentionnant le ou les aménagements particuliers nécessaires au candidat. Le président du jury prend une décision motivée pour chaque candidat et pour chacune des épreuves.
+Des aménagements d'épreuves aux conditions de passation des épreuves écrites et orales rendues nécessaires en raison d'un handicap temporaire ou permanent peuvent être accordés par le président du jury d'examen. La demande est adressée par le candidat au président du jury huit jours au moins avant le début des épreuves, sauf cas exceptionnel. Elle est accompagnée d'un certificat médical datant de moins d'un mois délivré par un médecin mentionnant le ou les aménagements particuliers nécessaires au candidat. Le président du jury prend une décision motivée pour chaque candidat et pour chacune des épreuves.

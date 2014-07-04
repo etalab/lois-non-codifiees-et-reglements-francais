@@ -84,7 +84,7 @@ VI. - L'instruction professionnelle et civique
 
 1. Connaître le comité interministériel de la sécurité routière.
 
-2. Connaître la direction de la sécurité et de la circulation routières.
+2. Connaître la délégation à la sécurité et à la circulation routières.
 
 3. Connaître le Conseil supérieur de l'éducation routière.
 

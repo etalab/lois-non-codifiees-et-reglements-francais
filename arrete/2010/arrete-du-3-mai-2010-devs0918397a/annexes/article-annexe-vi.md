@@ -33,7 +33,7 @@ BEPECASER MENTION GROUPE LOURD
 <p align="center">1 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Le candidat tire au sort une fiche établie par le   ministère chargé de la sécurité routière et effectue la manœuvre décrite sur la fiche. <br/>
+<p align="left">Le candidat tire au sort une fiche établie par le ministère chargé de la sécurité routière et effectue la manœuvre décrite sur la fiche. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -73,7 +73,7 @@ BEPECASER MENTION GROUPE LOURD
 <p align="center">2 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans la banque de fiches élaborées par le   ministère chargé de la sécurité routière. <br/>
+<p align="left">Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans la banque de fiches élaborées par le ministère chargé de la sécurité routière. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -92,7 +92,7 @@ BEPECASER MENTION GROUPE LOURD
 <p align="center">5 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie E (C) ou D ou titulaire de l'un de ces permis depuis moins d'un an. <br/>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs. <br/>
+<p align="left">Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie CE ou D ou titulaire de l'un de ces permis depuis moins d'un an. <br/>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -102,7 +102,7 @@ BEPECASER MENTION GROUPE LOURD
 </tr>
 <tr>
 <td align="left" colspan="5" valign="top">
-<p align="left">Préalablement à l'examen, le candidat tire au sort :<br/>-d'une part, le type de véhicule (E [C] ou D) sur lequel il passera les épreuves de maîtrise du véhicule et de conduite personnelle, l'épreuve de pédagogie ayant lieu sur l'autre véhicule ;<br/>-d'autre part, le lieu de l'épreuve de pédagogie (aire de manœuvre fermée à la circulation ou circulation). <br/>Les véhicules utilisés doivent être conformes aux normes exigées pour les épreuves du permis de conduire, à l'exception des caractéristiques techniques suivantes :<br/>-véhicule E (C) : longueur minimum de 14 m, boîte de vitesses à relais ou à étage, cabine comportant 5 places assises ;<br/>-véhicule D : longueur minimum de 10,5 mètres, ralentisseur réglementaire. <br/>(*) Les examinateurs peuvent être en activité ou à la retraite. <br/>(**) Les examinateurs enseignants de la conduite sont choisis de préférence parmi les titulaires du BAFM ou du BEPECASER et sont désignés dans les conditions prévues à l'article 6.<br/>
+<p align="left">Préalablement à l'examen, le candidat tire au sort :<br/>-d'une part, le type de véhicule (CE ou D) sur lequel il passera les épreuves de maîtrise du véhicule et de conduite personnelle, l'épreuve de pédagogie ayant lieu sur l'autre véhicule ;<br/>-d'autre part, le lieu de l'épreuve de pédagogie (aire de manœuvre fermée à la circulation ou circulation). <br/>Les véhicules utilisés doivent être conformes aux normes exigées pour les épreuves du permis de conduire, à l'exception des caractéristiques techniques suivantes :<br/>-véhicule CE : cabine comportant 5 places assises ; <br/>-véhicule D : longueur minimum de 10,5 mètres, ralentisseur réglementaire. <br/>(*) Les examinateurs peuvent être en activité ou à la retraite. <br/>(**) Les examinateurs enseignants de la conduite sont choisis de préférence parmi les titulaires du BAFM ou du BEPECASER et sont désignés dans les conditions prévues à l'article 6.<br/>
 </p>
 </td>
 </tr>
