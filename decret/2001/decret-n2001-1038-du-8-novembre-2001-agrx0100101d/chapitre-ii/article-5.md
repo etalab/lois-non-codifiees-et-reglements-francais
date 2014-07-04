@@ -20,7 +20,7 @@ e) Directeur général ou directeur d'établissement public ou d'organisme d'int
 
 f) Professeurs de l'enseignement supérieur agricole de 1re classe et de classe exceptionnelle ;
 
-g) Administrateurs civils hors classe ayant atteint le dernier échelon de leur grade.
+g) Administrateurs civils ayant atteint le 7e échelon de la hors-classe.
 
 2° Les fonctionnaires occupant ou ayant occupé un ou plusieurs autres emplois fonctionnels dotés d'un indice terminal au moins équivalent à l'échelle lettre B, et justifiant de quatre ans de services effectifs dans ce ou ces emplois au cours des cinq années précédant leur nomination.
 
