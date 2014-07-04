@@ -1,0 +1,3 @@
+# Article 5
+
+Les techniciens stagiaires recrutés dans le grade de technicien principal mentionnés aux alinéas 1 et 2 de l'article 1er suivent un cycle d'enseignement professionnel qui comporte une période d'enseignement dans un centre de formation de l' d'une durée au moins égale à la moitié de la formation. A l'issue de cette période les techniciens stagiaires effectuent un stage pratique dans le service où ils sont susceptibles d'être nommés après titularisation. Le responsable hiérarchique du service évalue le travail, l'insertion et le comportement du technicien stagiaire et délivre ou non la certification du stage.

@@ -1,0 +1,3 @@
+# Article 2
+
+Conformément au paragraphe 12 de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 et à la décision de la Commission C (2014) 2609 approuvant la carte française des aides à finalité régionale pour la période 2014-2020, peuvent être considérées comme compatibles avec le marché intérieur et exemptées de l'obligation de notification à la Commission européenne prévue à l'article 108 du traité sur le fonctionnement de l'Union européenne les aides à finalité régionale dont l'intensité totale n'excède pas les taux fixés dans le tableau des taux plafonds de cumul d'aides figurant à l'annexe 3 au présent décret, à l'exception des aides individuelles dépassant les seuils fixés à l'annexe 4.
