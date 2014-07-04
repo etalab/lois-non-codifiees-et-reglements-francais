@@ -1,0 +1,7 @@
+# Article 2-1
+
+Lorsque le nombre de directions du personnel d'administration centrale ou d'administration assimilée comportant au moins cinq emplois d'administrateur civil est inférieur à douze, un représentant supplémentaire est attribué successivement aux administrations représentées par ordre décroissant d'effectifs d'administrateurs civils jusqu'à ce que soient pourvus les treize sièges des représentants de l'administration. Les représentants désignés dans ces conditions doivent avoir la qualité de directeur du personnel, de chef de service ou de sous-directeur d'une direction du personnel.
+
+Lorsque le nombre des directions du personnel mentionnées au premier alinéa est supérieur ou égal à douze, sont désignés en tant que représentant de l'administration les directeurs du personnel des administrations comportant les effectifs d'administrateurs civils les plus élevés.
+
+Le président de la commission peut en outre convoquer en qualité d'expert des représentants des directions du personnel d'administration centrale ou d'administration assimilée employant des administrateurs civils non représentées à la commission administrative paritaire interministérielle. Ils sont convoqués quarante-huit heures au moins avant l'ouverture de la réunion et peuvent assister à l'intégralité de la réunion ou à la seule partie des débats relative aux questions pour lesquelles leur présence a été requise.
