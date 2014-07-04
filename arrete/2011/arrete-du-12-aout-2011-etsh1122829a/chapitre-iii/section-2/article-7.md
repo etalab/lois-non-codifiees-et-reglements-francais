@@ -4,13 +4,15 @@ Pour réaliser un stage hors de son interrégion d'origine, l'interne adresse un
 
 Le dossier de demande de stage hors interrégion comporte :
 
-― une lettre de demande ;
+- une lettre de demande ;
 
-― un projet de stage ;
+- un projet de stage ;
 
-― l'avis du coordonnateur interrégional du diplôme d'études spécialisées d'origine ;
+- l'avis du coordonnateur interrégional du diplôme d'études spécialisées d'origine ;
 
-― l'avis du responsable, médecin ou chirurgien-dentiste, du lieu de stage agréé ou du praticien agréé-maître de stage d'accueil, ainsi que celui du directeur de l'établissement hospitalier ou de l'organisme d'accueil.
+- l'avis du responsable, médecin ou chirurgien-dentiste, du lieu de stage agréé ou du praticien agréé-maître de stage d'accueil, ainsi que celui du directeur de l'établissement hospitalier ou de l'organisme d'accueil ;
+
+- l'avis du coordonnateur interrégional du diplôme d'études spécialisées d'accueil.
 
 Le directeur de l'unité de formation et de recherche donne son accord pour la réalisation de ce stage après consultation des représentants de l'agence régionale de santé pilote, du centre hospitalier universitaire de rattachement et des internes.
 
