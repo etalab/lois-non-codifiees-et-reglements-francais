@@ -4,7 +4,6 @@ ANNÉE SCOLAIRE 2014-2015
 
 <div align="center">
 
-</div>
 <table>
 <tbody>
 <tr>
@@ -27,22 +26,20 @@ ANNÉE SCOLAIRE 2014-2015
 <p align="left">Rentrée des enseignants (*) <br/>
 </p>
 </td>
-<td align="center" colspan="3">Vendredi 29 août 2014</td>
+<td align="center" colspan="3">lundi 1er septembre 2014 </td>
 </tr>
 <tr>
 <td align="left">
 <p align="left">Rentrée scolaire des élèves </p>
 </td>
-<td align="center" colspan="3">Lundi 1er septembre 2014</td>
+<td align="center" colspan="3">mardi 2 septembre 2014 </td>
 </tr>
 <tr>
 <td align="center">
 <p align="left">Toussaint <br/>
 </p>
 </td>
-<td align="center" colspan="3">
-<p align="center">Samedi 18 octobre 2014<br/>Lundi 3 novembre 2014</p>
-</td>
+<td align="center" colspan="3">Samedi 18 octobre 2014<br/>Lundi 3 novembre 2014</td>
 </tr>
 <tr>
 <td align="center">
@@ -103,7 +100,10 @@ ANNÉE SCOLAIRE 2014-2015
 </tr>
 </tbody>
 </table>
+<br/>
+<br/>
+<p align="left">Le départ en vacances a lieu après la classe, la reprise des cours le matin des jours indiqués.<br/>Les vacances débutant le samedi, pour les élèves qui n'ont pas cours ce jour-là, le départ a lieu le vendredi après les cours.</p>
+<br/>
+<br/>
 
-Le départ en vacances a lieu après la classe, la reprise des cours le matin des jours indiqués.
-
-Les vacances débutant le samedi, pour les élèves qui n'ont pas cours ce jour-là, le départ a lieu le vendredi après les cours.
+</div>
