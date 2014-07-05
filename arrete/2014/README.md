@@ -290,6 +290,7 @@
 - [Arrêté du 9 juillet 1998 (ATET9870125A)](arrete-du-9-juillet-1998-atet9870125a)
 - [Arrêté du 9 octobre 2013 (EFIS1325335A)](arrete-du-9-octobre-2013-efis1325335a)
 - [Arrêté du 9 septembre 2004 (SOCF0411849A)](arrete-du-9-septembre-2004-socf0411849a)
+- [Arrêté du 9 mai 2006 (MENE0601244A)](arrete-du-9-mai-2006-mene0601244a)
 - [Arrêté du 9 mai 2014 (DEFD1410770A)](arrete-du-9-mai-2014-defd1410770a)
 - [Arrêté du 9 mai 2014 (DEVR1411000A)](arrete-du-9-mai-2014-devr1411000a)
 - [Arrêté du 9 mai 2014 (ERNC1405808A)](arrete-du-9-mai-2014-ernc1405808a)
