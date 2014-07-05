@@ -87,7 +87,6 @@
 - [Arrêté du 9 novembre 2006 (INTC0600901A)](arrete-du-9-novembre-2006-intc0600901a)
 - [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)
 - [Arrêté du 9 mai 2006 (ECOC0600052A)](arrete-du-9-mai-2006-ecoc0600052a)
-- [Arrêté du 9 mai 2006 (MENE0601244A)](arrete-du-9-mai-2006-mene0601244a)
 - [Arrêté du 9 mai 2006 (MENE0601246A)](arrete-du-9-mai-2006-mene0601246a)
 - [Arrêté du 9 mai 2006 (MENE0601247A)](arrete-du-9-mai-2006-mene0601247a)
 - [Arrêté du 10 août 2006 (BUDF0620458A)](arrete-du-10-aout-2006-budf0620458a)
