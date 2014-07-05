@@ -1,3 +1,3 @@
 # Article 5
 
-Le secrétariat du conseil national et du comité opérationnel est assuré par l'Etablissement public du palais de la Découverte et de la Cité des sciences et de l'industrie.
+Le secrétariat du Conseil national de la culture scientifique, technique et industrielle, chargé d'en préparer les séances, de veiller au suivi et à la mise en œuvre des recommandations, est assuré par les services du ministère chargé de la recherche.

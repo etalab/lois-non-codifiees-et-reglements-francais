@@ -1,3 +1,0 @@
-# Article 4
-
-Le conseil national est assisté d'un comité opérationnel qui instruit les propositions des pôles territoriaux de référence, prépare les avis du conseil national, effectue toute étude à sa demande et fait rapport chaque année de l'utilisation des crédits alloués par l'Etat au réseau. Les membres du comité opérationnel, composé au moins pour moitié de représentants des pôles territoriaux, sont désignés par le président de l'Etablissement public du palais de la Découverte et de la Cité des sciences et de l'industrie, qui en assure la présidence personnellement, ou par son représentant.
