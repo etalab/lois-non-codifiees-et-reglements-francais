@@ -1,342 +1,155 @@
 # Article Annexe II
 
-CONTRAINTES D'USAGE, DE DISTANCE ET DE TERRAIN
+NIVEAUX DE QUALITÉ SANITAIRES DES EAUX USÉES TRAITÉES
 
-1. Contraintes d'usage
-
-<table>
-<tbody>
-<tr>
-<td rowspan="2">
-<p align="center">TYPE D'USAGE</p>
-</td>
-<td colspan="4">
-<p align="center">NIVEAU DE QUALITÉ SANITAIRE DES EAUX USÉES TRAITÉES</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">C</p>
-</td>
-<td>
-<p align="center">D</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cultures maraîchères, fruitières et légumières non transformées par un traitement thermique industriel adapté</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cultures maraîchères, fruitières, légumières transformées par un traitement thermique industriel adapté</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Pâturage</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (1)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Espaces verts et forêts ouverts au public (notamment golfs)</p>
-</td>
-<td align="center">
-<br/>+ (2)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fleurs vendues coupées</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Autres cultures florales</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (3)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Pépinières et arbustes</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (3)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fourrage frais</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (1)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Autres cultures céréalières et fourragères</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (3)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Arboriculture fruitière</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (3)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Forêt d'exploitation avec accès contrôlé du public</p>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+<br/>
-</td>
-<td align="center">
-<br/>+ (3)<br/>
-</td>
-<td align="center">
-<br/>+ (3) <br/>
-</td>
-</tr>
-<tr>
-<td colspan="5">
-<p align="left">
-<br/>+ : autorisée, - : interdite.<br/>
-<br/>(1) Sous réserve du respect d'un délai après irrigation de dix jours en l'absence d'abattoir relié à la station d'épuration et de vingt et un jours dans le cas contraire.<br/>
-<br/>(2) Irrigation en dehors des heures d'ouverture au public.<br/>
-<br/>(3) Uniquement par irrigation localisée, telle que définie à l'article 2.</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Dans le cas d'une culture sous serre, seule l'irrigation localisée, telle que définie à l'article 2, est autorisée.
-
-2. Contraintes de distance
-
-Les distances minimales à respecter (en mètres) entre l'irrigation par des eaux usées traitées et les activités à protéger figurent dans le tableau suivant :
+Quatre niveaux de qualité sanitaire des eaux usées traitées (A, B, C et D) sont définis comme suit :
 
 <table>
 <tbody>
 <tr>
 <td rowspan="2">
-<p align="center">NATURE DES ACTIVITÉS À PROTÉGER</p>
+<p align="center">
+<br/>PARAMÈTRES</p>
 </td>
-<td colspan="3">
-<p align="center">NIVEAU DE QUALITÉ SANITAIRE DES EAUX USÉES TRAITÉES</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">C ET D</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Plan d'eau (1)</p>
-</td>
-<td align="center">
-<p align="center">20 m</p>
-</td>
-<td align="center">
-<p align="center">50 m</p>
-</td>
-<td align="center">
-<p align="center">100 m</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Bassin aquacole (à l'exception des coquillages filtreurs)<br/>Pisciculture y compris pêche de loisir</p>
-</td>
-<td align="center">
-<p align="center">20 m</p>
-</td>
-<td align="center">
-<p align="center">50 m</p>
-</td>
-<td align="center">
-<p align="center">100 m</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Conchyliculture<br/>Pêche à pied des coquillages filtreurs</p>
-</td>
-<td align="center">
-<p align="center">50 m</p>
-</td>
-<td align="center">
-<p align="center">200 m</p>
-</td>
-<td align="center">
-<p align="center">300 m</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Baignades et activités nautiques</p>
-</td>
-<td align="center">
-<p align="center">50 m</p>
-</td>
-<td align="center">
-<p align="center">100 m</p>
-</td>
-<td align="center">
-<p align="center">200 m</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Abreuvement du bétail</p>
-</td>
-<td align="center">
-<p align="center">50 m</p>
-</td>
-<td align="center">
-<p align="center">100 m</p>
-</td>
-<td align="center">
-<p align="center">200 m </p>
-</td>
-</tr>
-<tr>
 <td colspan="4">
-<p align="left">
-<br/>(1) A l'exception du plan d'eau servant d'exutoire au rejet de la station d'épuration et des plans d'eau privés où l'accès est réglementé et où aucune activité telle que baignade, sport nautique et aquatique, pêche ou abreuvement du bétail n'est pratiquée.</p>
+<p align="center">
+<br/>NIVEAU DE QUALITÉ SANITAIRE DES EAUX USÉES TRAITÉES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>A</p>
+</td>
+<td>
+<p align="center">
+<br/>B</p>
+</td>
+<td>
+<p align="center">
+<br/>C</p>
+</td>
+<td>
+<p align="center">
+<br/>D</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Matières en suspension (mg/L)</p>
+</td>
+<td>
+<p align="center">
+<br/>&lt; 15</p>
+</td>
+<td colspan="3" rowspan="2">
+<p align="center">
+<br/>Conforme à la réglementation des rejets d'eaux usées traitées pour l'exutoire de la station hors période d'irrigation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Demande chimique en oxygène (mg/L)</p>
+</td>
+<td>
+<p align="center">
+<br/>&lt; 60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Escherichia coli </p>
+<p>(UFC/100mL)</p>
+</td>
+<td>
+<p align="center">
+<br/>≤ 250</p>
+</td>
+<td>
+<p align="center">
+<br/>≤ 10 000</p>
+</td>
+<td>
+<p align="center">
+<br/>≤ 100 000</p>
+</td>
+<td>
+<p align="center">
+<br/>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Entérocoques fécaux (abattement en log)</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 4</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 3</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 2</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Phages ARN F-spécifiques (abattement en log)</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 4</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 3</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 2</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Spores de bactéries anaérobies sulfito-réductrices (abattement en log)</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 4</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 3</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 2</p>
+</td>
+<td>
+<p align="center">
+<br/>≥ 2</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-3. Contraintes de terrain
+Les eaux usées traitées sont classées dans le niveau de qualité qui correspond au classement du paramètre le plus défavorable.
 
-Dans le cas d'un terrain dont la pente est supérieure à 7 %, seule l'irrigation localisée, telle que définie à l'article 2, est autorisée.
-
-L'irrigation par des eaux usées traitées de terrains saturés en eau est interdite de manière à éviter tout ruissellement d'eaux usées traitées hors du site.
-
-En milieu karstique, l'irrigation n'est possible qu'avec des eaux de qualité A et B et seulement sur des terrains comportant un sol épais avec un couvert végétal. En outre, si la pente de ces terrains excède 3 %, l'irrigation doit être localisée.
+Les abattements sont mesurés entre les eaux brutes, en entrée de la station de traitement des eaux usées, et les eaux usées traitées, en sortie de la station de traitement des eaux usées ou de la filière de traitement complémentaire, le cas échéant.

@@ -1,125 +1,61 @@
 # Article Annexe I
 
-NIVEAUX DE QUALITÉ SANITAIRES DES EAUX USÉES TRAITÉES
-
-Quatre niveaux de qualité sanitaire des eaux usées traitées (A, B, C et D) sont définis comme suit :
+CONTRAINTES DE DISTANCE POUR L'IRRIGATION PAR ASPERSION
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
-<p align="center">PARAMÈTRES</p>
-</td>
-<td colspan="4">
-<p align="center">NIVEAU DE QUALITÉ SANITAIRE DES EAUX USÉES TRAITÉES</p>
-</td>
-</tr>
-<tr>
 <td>
-<p align="center">A</p>
+<p align="center"> CARACTÉRISTIQUES DE L'ASPERSEUR</p>
 </td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">C</p>
-</td>
-<td>
-<p align="center">D</p>
+<td colspan="2">
+<p align="center"> DISTANCE ASPERSEUR À ZONE SENSIBLE (1)</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Matières en suspension (mg/l)</p>
+<br/>Portée<br/>
 </td>
 <td align="center">
-<p align="center">&lt; 15</p>
+<br/>Avec écran 2 et basse pression (2)<br/>
 </td>
-<td align="center" colspan="3" rowspan="2">
-<p align="left">Conforme à la réglementation des rejets d'eaux usées traitées pour l'exutoire de la station hors période d'irrigation</p>
+<td align="center">
+<br/>Dans les autres cas<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Demande chimique en oxygène (mg/l)</p>
+<td valign="middle">
+<br/>Faible portée : &lt; 10 m<br/>
 </td>
 <td align="center">
-<p align="center">&lt; 60</p>
+<br/>5 m (3)<br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Entérocoques fécaux (abattement en log)</p>
-</td>
-<td align="center">
-<p align="center">≥ 4</p>
-</td>
-<td align="center">
-<p align="center">≥ 3</p>
-</td>
-<td align="center">
-<p align="center">≥ 2</p>
-</td>
-<td align="center">
-<p align="center">≥ 2</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>Deux fois la portée<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Phages ARN F-spécifiques (abattement en log)</p>
+<td valign="middle">
+<br/>Moyenne portée : 10 à 20 m<br/>
 </td>
 <td align="center">
-<p align="center">≥ 4</p>
-</td>
-<td align="center">
-<p align="center">3</p>
-</td>
-<td align="center">
-<p align="center">≥ 2</p>
-</td>
-<td align="center">
-<p align="center">≥ 2</p>
+<br/>10 m (3)<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Spores de bactéries anaérobies sulfitoréductrices (abattement en log)</p>
+<td valign="middle">
+<br/>Grande portée : &gt; 20 m<br/>
 </td>
 <td align="center">
-<p align="center">≥ 4</p>
-</td>
-<td align="center">
-<p align="center">≥ 3</p>
-</td>
-<td align="center">
-<p align="center">≥ 2</p>
-</td>
-<td align="center">
-<p align="center">≥ 2</p>
+<br/>10 m (3)<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Escherichia coli<br/>(UFC/100 ml)</p>
-</td>
-<td align="center">
-<p align="center">≤ 250</p>
-</td>
-<td align="center">
-<p align="center">≤ 10 000</p>
-</td>
-<td align="center">
-<p align="center">≤ 100 000</p>
-</td>
-<td align="center">
-<p align="center">―</p>
+<td align="left" colspan="3" valign="middle">
+<br/>(1) Habitations, cours et jardins attenants aux habitations, voies de circulation, lieux publics de passage et de loisir, bâtiments publics et bâtiments d'entreprise, quels que soient le sens et la vitesse du vent dominant. <p>(2) Dispositif végétalisé arbustif ou écrans fixes ou mobiles tels que murs, brise-vents, canisses, panneaux d'occultation, etc., dont la hauteur doit être au moins égale à celle de l'apogée de l'asperseur.</p>
+<p>(3) Cette valeur est augmentée de la portée pour le secteur couvert par l'arrosage.<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-Les eaux usées traitées sont classées dans le niveau de qualité qui correspond au classement du paramètre le plus défavorable.
-
-Pour les stations d'épuration dont la qualité des eaux usées traitées varie dans l'année, il convient de prendre en compte les résultats d'analyses relatives au dénombrement d'Escherichia coli précédant la campagne d'irrigation.
-
-Les abattements sont mesurés entre l'eau entrant dans la station d'épuration et l'eau usée traitée sortant de la station d'épuration ou de la filière de traitement complémentaire, le cas échéant.
