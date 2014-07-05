@@ -1,4 +1,4 @@
-# Arrêté du 9 mai 2006 portant création du baccalauréat professionnel spécialité " menuiserie aluminium-verre " et fixant ses modalités de préparation et de délivrance
+# Arrêté du 16 juin 2014 fixant la nature des épreuves et les règles d'organisation générale du concours réservé pour l'accès au corps des ingénieurs d'études et de fabrications du ministère de la défense
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,5 +11,4 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Annexes](annexes)
+- [Annexe](annexe)
