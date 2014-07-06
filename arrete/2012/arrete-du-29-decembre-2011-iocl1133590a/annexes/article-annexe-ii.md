@@ -5,564 +5,757 @@
 <table>
 <tbody>
 <tr>
-<th>PAYS OU RÉGION<br/>administrative<br/>
-</th>
-<th>CATÉGORIES CONCERNÉES<br/>par la dispense de visa<br/>
-</th>
-</tr>
-<tr>
-<td align="center">Afrique du Sud<br/>
+<td>
+<p align="center"> PAYS OU RÉGION </p>
+<p align="center">administrative <br/>
+</p>
 </td>
-<td align="center">Dispense s'appliquant seulement :<br/>aux titulaires d'un passeport diplomatique ou de service ;<br/>aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td>
+<p align="center"> CATÉGORIES CONCERNÉES PAR LA DISPENSE DE VISA </p>
 </td>
 </tr>
 <tr>
-<td align="center">Albanie<br/>
+<td align="left" valign="middle">
+<br/>Afrique du Sud <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ou de service ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Algérie<br/>
+<td align="left" valign="middle">
+<br/>Albanie <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Andorre<br/>
+<td align="left" valign="middle">
+<br/>Algérie <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Antigua-et-Barbuda<br/>
+<td align="left" valign="middle">
+<br/>Andorre <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Arabie saoudite<br/>
+<td align="left" valign="middle">
+<br/>Antigua-et-Barbuda <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Argentine<br/>
+<td align="left" valign="middle">
+<br/>Arabie saoudite <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Arménie<br/>
+<td align="left" valign="middle">
+<br/>Argentine <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Australie<br/>
+<td align="left" valign="middle">
+<br/>Arménie <br/>
 </td>
-<td align="center">Dispense de visa :<br/>Sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>Outre les ressortissants australiens, cette dispense de visa s'applique également aux ressortissants de Norfolk (territoire associé à l'Australie), titulaires d'un passeport australien.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Azerbaïdjan<br/>
+<td align="left" valign="middle">
+<br/>Australie <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa : <p>Sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :</p>
+<p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;</p>
+<p>-et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants australiens, cette dispense de visa s'applique également aux ressortissants de Norfolk (territoire associé à l'Australie), titulaires d'un passeport australien. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Bahamas<br/>
+<td align="left" valign="middle">
+<br/>Azerbaïdjan <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Bahreïn<br/>
+<td align="left" valign="middle">
+<br/>Bahamas <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d''un passeport diplomatique ou spécial ;<br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Barbade<br/>
+<td align="left" valign="middle">
+<br/>Bahreïn <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ou spécial ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Bénin<br/>
+<td align="left" valign="middle">
+<br/>Barbade <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique sécurisé.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Biélorussie<br/>
+<td align="left" valign="middle">
+<br/>Bénin <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique sécurisé. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Bolivie<br/>
+<td align="left" valign="middle">
+<br/>Biélorussie <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Bosnie<br/>
+<td align="left" valign="middle">
+<br/>Bolivie <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Brésil<br/>
+<td align="left" valign="middle">
+<br/>Bosnie <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas  British Citizen <br/>
+<td align="left" valign="middle">
+<br/>Brésil <br/>
 </td>
-<td align="center">Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique  nationalité  :<br/>-  British Nationals (Overseas)  ; ou<br/>-  British Subject  et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume Uni ( right of abode ).<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Brunei<br/>
+<td align="left" valign="middle">
+<br/>Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique nationalité : <p>-British Nationals (Overseas) ; ou</p>
+<p>-British Subject et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume Uni (right of abode). <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Canada<br/>
+<td align="left" valign="middle">
+<br/>Brunei <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Chili<br/>
+<td align="left" valign="middle">
+<br/>Canada <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Chine<br/>
+<td align="left" valign="middle">
+<br/>Chili <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Chine (Hong Kong)<br/>
+<td align="left" valign="middle">
+<br/>Chine <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine.<br/>
+<td valign="middle">
+<br/>Pour les séjours dont la durée n'excède pas trois mois : dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <p>Pour les séjours d'une durée inférieure à quinze jours : dispense de visa pour les ressortissants dont le voyage et le séjour sont organisés par l'intermédiaire d'une agence agréée. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Chine (Macao)<br/>
+<td align="left" valign="middle">
+<br/>Chine (Hong Kong) <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Chine (Taïwan)<br/>
+<td align="left" valign="middle">
+<br/>Chine (Macao) <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Colombie<br/>
+<td align="left" valign="middle">
+<br/>Chine (Taïwan) <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Congo (Brazzaville)<br/>
+<td align="left" valign="middle">
+<br/>Colombie <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant jusqu'au 31 juillet 2013 aux seuls titulaires d'un passeport diplomatique sécurisé.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Corée du Sud<br/>
+<td align="left" valign="middle">
+<br/>Congo (Brazzaville) <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant jusqu'au 31 juillet 2015 aux seuls titulaires d'un passeport diplomatique sécurisé. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Costa Rica<br/>
+<td align="left" valign="middle">
+<br/>Corée du Sud <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Croatie<br/>
+<td align="left" valign="middle">
+<br/>Costa Rica <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">République dominicaine<br/>
+<td align="left" valign="middle">
+<br/>Croatie <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">El Salvador<br/>
+<td align="left" valign="middle">
+<br/>République dominicaine <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Emirats arabes unis<br/>
+<td align="left" valign="middle">
+<br/>El Salvador <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d'un passeport diplomatique ou spécial ; <br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Equateur<br/>
+<td align="left" valign="middle">
+<br/>Emirats arabes unis <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ou spécial ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Etats-Unis<br/>
+<td align="left" valign="middle">
+<br/>Equateur <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de  non incorporé  des USA) et titulaires d'un passeport américain.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Gabon<br/>
+<td align="left" valign="middle">
+<br/>Etats-Unis <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non incorporé des USA) et titulaires d'un passeport américain. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Guatemala<br/>
+<td align="left" valign="middle">
+<br/>Gabon <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Honduras<br/>
+<td align="left" valign="middle">
+<br/>Géorgie <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Inde<br/>
+<td align="left" valign="middle">
+<br/>Guatemala <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Israël<br/>
+<td align="left" valign="middle">
+<br/>Honduras <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Japon<br/>
+<td align="left" valign="middle">
+<br/>Inde <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant : <p>-aux titulaires d'un passeport diplomatique.</p>
+<p>-aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Kazakhstan<br/>
+<td align="left" valign="middle">
+<br/>Israël <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Koweït<br/>
+<td align="left" valign="middle">
+<br/>Japon <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d'un passeport diplomatique ou spécial ;<br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Kiribati<br/>
+<td align="left" valign="middle">
+<br/>Jordanie <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>Kazakhstan <br/>
 </td>
-</tr>
-<tr>
-<td align="center">Macédoine (ancienne République yougoslave de)<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.<br/>
-</td>
 </tr>
 <tr>
-<td align="center">Malaisie<br/>
+<td align="left" valign="middle">
+<br/>Koweït <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ou spécial ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Mariannes du Nord<br/>
+<td align="left" valign="middle">
+<br/>Kiribati <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Maroc<br/>
+<td align="left" valign="middle">
+<br/>Macédoine (ancienne République yougoslave de) <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Iles Marshall<br/>
+<td align="left" valign="middle">
+<br/>Malaisie <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Maurice<br/>
+<td align="left" valign="middle">
+<br/>Mariannes du Nord <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Mexique<br/>
+<td align="left" valign="middle">
+<br/>Maroc <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Etats fédérés de Micronésie<br/>
+<td align="left" valign="middle">
+<br/>Iles Marshall <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Moldavie<br/>
+<td align="left" valign="middle">
+<br/>Maurice <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Monaco<br/>
+<td align="left" valign="middle">
+<br/>Mexique <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois.<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Monténégro<br/>
+<td align="left" valign="middle">
+<br/>Etats fédérés de Micronésie <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Namibie<br/>
+<td align="left" valign="middle">
+<br/>Moldavie <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Nauru<br/>
+<td align="left" valign="middle">
+<br/>Monaco <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Nicaragua<br/>
-</td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td align="left" valign="middle">
+<br/>Mongolie <br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Nouvelle-Zélande<br/>
+<td align="left" valign="middle">
+<br/>Monténégro <br/>
 </td>
-<td align="center">Outre les ressortissants néo-zélandais, la dispense de visa s'étend également aux ressortissants :<br/>- des îles Tokelau (territoire sous souveraineté néo-zélandaise) et Niue (statut de libre association avec la Nouvelle-Zélande), titulaires d'un passeport néo-zélandais ;<br/>- des îles Cook, titulaires d'un passeport néo-zélandais.<br/>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Oman<br/>
+<td align="left" valign="middle">
+<br/>Namibie <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d'un passeport diplomatique, spécial ou de service ;<br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Palaos<br/>
+<td align="left" valign="middle">
+<br/>Nauru <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Panama<br/>
+<td align="left" valign="middle">
+<br/>Nicaragua <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Paraguay<br/>
+<td align="left" valign="middle">
+<br/>Nouvelle-Zélande <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Outre les ressortissants néo-zélandais, la dispense de visa s'étend également aux ressortissants : <p>-des îles Tokelau (territoire sous souveraineté néo-zélandaise) et Niue (statut de libre association avec la Nouvelle-Zélande), titulaires d'un passeport néo-zélandais ;</p>
+<p>-des îles Cook, titulaires d'un passeport néo-zélandais. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Pérou<br/>
+<td align="left" valign="middle">
+<br/>Oman <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique, spécial ou de service ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Qatar<br/>
+<td align="left" valign="middle">
+<br/>Palaos <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d'un passeport diplomatique ou spécial ;<br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Russie<br/>
+<td align="left" valign="middle">
+<br/>Panama <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d'un passeport diplomatique ;<br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Christophe-et-Niévès<br/>
-</td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td align="left" valign="middle">
+<br/>Paraguay <br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Marin<br/>
+<td align="left" valign="middle">
+<br/>Pérou <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Saint-Siège<br/>
+<td align="left" valign="middle">
+<br/>Qatar <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ou spécial ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>Russie <br/>
+</td>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Iles Salomon<br/>
+<td align="left" valign="middle">
+<br/>Saint-Christophe-et-Niévès <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Samoa occidentales<br/>
+<td align="left" valign="middle">
+<br/>Saint-Marin <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>Saint-Siège <br/>
 </td>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
+</td>
 </tr>
 <tr>
-<td align="center">Sénégal<br/>
+<td align="left" valign="middle">
+<br/>Iles Salomon <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Serbie<br/>
+<td align="left" valign="middle">
+<br/>Samoa occidentales <br/>
 </td>
-<td align="center">Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe :  Koordinaciona uprava ).<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Seychelles<br/>
+<td align="left" valign="middle">
+<br/>Sénégal <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>Serbie <br/>
 </td>
+<td valign="middle">
+<br/>Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava). <br/>
+</td>
 </tr>
 <tr>
-<td align="center">Singapour<br/>
+<td align="left" valign="middle">
+<br/>Seychelles <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Thaïlande<br/>
+<td align="left" valign="middle">
+<br/>Singapour <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Tonga<br/>
+<td align="left" valign="middle">
+<br/>Thaïlande <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Tunisie<br/>
+<td align="left" valign="middle">
+<br/>Tonga <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Turquie<br/>
+<td align="left" valign="middle">
+<br/>Tunisie <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Tuvalu<br/>
+<td align="left" valign="middle">
+<br/>Turquie <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>Tuvalu <br/>
+</td>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Ukraine<br/>
+<td align="left" valign="middle">
+<br/>Ukraine <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant seulement :<br/>- aux titulaires d'un passeport diplomatique ; <br/>- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant seulement : <p>-aux titulaires d'un passeport diplomatique ou de service biométrique ;</p>
+<p>-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Uruguay<br/>
+<td align="left" valign="middle">
+<br/>Uruguay <br/>
 </td>
-<td align="center">Dispense de visa de court séjour s'étendant à tout type de passeport.<br/>
+<td valign="middle">
+<br/>Dispense de visa de court séjour s'étendant à tout type de passeport. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Venezuela<br/>
+<td align="left" valign="middle">
+<br/>Venezuela <br/>
 </td>
-<td align="center">Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :<br/>- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;<br/>- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.<br/>
+<td valign="middle">
+<br/>Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies : <p>-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et</p>
+<p>-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Vietnam<br/>
+<td align="left" valign="middle">
+<br/>Vietnam <br/>
 </td>
-<td align="center">Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.<br/>
+<td valign="middle">
+<br/>Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.<br/>
 </td>
 </tr>
 </tbody>
