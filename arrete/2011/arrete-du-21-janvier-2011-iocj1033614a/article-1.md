@@ -114,6 +114,8 @@ Pour la gendarmerie nationale, la liste des emplois de militaires commissionnés
 
 - copiste-arrangeur ;
 
+- assistant de production et de communication ;
+
 ― maréchal ferrant ;
 
 ― sellier-bourrelier ;
