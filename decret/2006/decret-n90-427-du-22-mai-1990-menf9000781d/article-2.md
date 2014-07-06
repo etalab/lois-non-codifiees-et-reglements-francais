@@ -1,9 +1,0 @@
-# Article 2
-
-Le montant de l'indemnité allouée à chacun des bénéficiaires mentionnés à l'article 1er ci-dessus est fixé en fonction des objectifs définis dans la lettre de mission individuelle et de la manière de servir, en tenant compte des résultats de la procédure d'évaluation individuelle prévue par les dispositions statutaires. Ce montant est modulable dans les conditions suivantes :
-
-I. - Les vice-recteurs, directeurs académiques des services de l'éducation nationale, le directeur de l'académie de Paris, les directeurs de centre régional de documentation pédagogique, les inspecteurs d'académie adjoints, les inspecteurs d'académie-inspecteurs pédagogiques régionaux chargés des fonctions de conseiller technique auprès des recteurs d'académie dans les domaines des enseignements techniques, professionnels et de l'apprentissage, les inspecteurs d'académie-inspecteurs pédagogiques régionaux chargés des fonctions de délégué académique à la formation continue et les inspecteurs d'académie-inspecteurs pédagogiques régionaux chargés des fonctions de chef des services académiques d'information et d'orientation peuvent bénéficier d'une majoration de l'indemnité de charges administratives dans la limite de 25 % du taux de référence mentionné à l'article 1er-1 ci-dessus.
-
-II. - Les inspecteurs d'académie-inspecteurs pédagogiques régionaux et les inspecteurs de l'éducation nationale exerçant des fonctions dans les domaines de l'enseignement général, de l'enseignement technique, de l'information et de l'orientation peuvent bénéficier d'une majoration de l'indemnité de charges administratives dans la limite de 37, 5 % du taux de référence mentionné à l'article 1er-1 ci-dessus.
-
-L'indemnité allouée aux directeurs de centre régional de documentation pédagogique est exclusive de toute autre indemnité allouée au titre des mêmes fonctions.

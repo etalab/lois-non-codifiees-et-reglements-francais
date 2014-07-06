@@ -2072,7 +2072,6 @@
 - [Arrêté du 23 décembre 1991 (INDA9101049A)](arrete-du-23-decembre-1991-inda9101049a)
 - [Arrêté du 23 décembre 1991 (INDA9101050A)](arrete-du-23-decembre-1991-inda9101050a)
 - [Arrêté du 23 décembre 2002 (INTB0200686A)](arrete-du-23-decembre-2002-intb0200686a)
-- [Arrêté du 23 décembre 2006 (MEND0603020A)](arrete-du-23-decembre-2006-mend0603020a)
 - [Arrêté du 23 décembre 2011 (AGRS1133191A)](arrete-du-23-decembre-2011-agrs1133191a)
 - [Arrêté du 23 décembre 2011 (DEFD1200415A)](arrete-du-23-decembre-2011-defd1200415a)
 - [Arrêté du 23 décembre 2011 (DEFH1131738A)](arrete-du-23-decembre-2011-defh1131738a)

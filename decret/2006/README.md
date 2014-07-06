@@ -47,7 +47,6 @@
 - [Décret n°2006-1034 du 21 août 2006 (INDI0608021D)](decret-n2006-1034-du-21-aout-2006-indi0608021d)
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
 - [Décret n°2006-726 du 22 juin 2006 (MENX0600078D)](decret-n2006-726-du-22-juin-2006-menx0600078d)
-- [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
 - [Décret n°2006-1762 du 23 décembre 2006 (FPPA0600165D)](decret-n2006-1762-du-23-decembre-2006-fppa0600165d)
 - [Décret n°2006-1795 du 23 décembre 2006 (ECOP0600785D)](decret-n2006-1795-du-23-decembre-2006-ecop0600785d)
 - [Décret n°2006-1827 du 23 décembre 2006 (FPPA0600168D)](decret-n2006-1827-du-23-decembre-2006-fppa0600168d)
