@@ -67,3 +67,9 @@ Saint-Denis de La Réunion - Anjouan (Comores) ;
 Saint-Denis de La Réunion - Pemba (Mozambique) ;
 
 Saint-Denis de La Réunion - Dar es Salaam (Tanzanie).
+
+Jusqu'au 30 juin 2019 :
+
+Saint-Denis de La Réunion-Diégo-Suarez (Madagascar) ;
+
+Saint-Denis de La Réunion-Praslin (Seychelles)
