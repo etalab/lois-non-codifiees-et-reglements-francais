@@ -2017,7 +2017,6 @@
 - [Arrêté du 24 juillet 2009 (MTSS0910323A)](arrete-du-24-juillet-2009-mtss0910323a)
 - [Arrêté du 24 juin 2009 (AGRG0914716A)](arrete-du-24-juin-2009-agrg0914716a)
 - [Arrêté du 24 juin 2009 (AGRT0912538A)](arrete-du-24-juin-2009-agrt0912538a)
-- [Arrêté du 24 juin 2009 (AGRT0913769A)](arrete-du-24-juin-2009-agrt0913769a)
 - [Arrêté du 24 juin 2009 (BCFD0914749A)](arrete-du-24-juin-2009-bcfd0914749a)
 - [Arrêté du 24 juin 2009 (DEVE0915568A)](arrete-du-24-juin-2009-deve0915568a)
 - [Arrêté du 24 juin 2009 (DEVE0915590A)](arrete-du-24-juin-2009-deve0915590a)

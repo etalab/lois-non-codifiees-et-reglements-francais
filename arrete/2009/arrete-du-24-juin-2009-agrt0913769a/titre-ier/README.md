@@ -1,4 +1,0 @@
-# TITRE IER : OBLIGATIONS LIEES A L'AGREMENT  EN TANT QU'OPERATEUR DE SERVICE UNIVERSEL
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
