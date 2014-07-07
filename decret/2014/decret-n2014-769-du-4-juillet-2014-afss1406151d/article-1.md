@@ -1,0 +1,3 @@
+# Article 1
+
+La participation prévue à l'article 4 de la loi du 23 décembre 2013 susvisée est liquidée par les organismes mentionnés au I de l'article L. 862-4 du code de la sécurité sociale puis déclarée par ces derniers à l'organisme désigné pour le recouvrement de la taxe mentionnée à l'article L. 862-4 du même code, au plus tard le 31 janvier de l'année suivant celle au titre de laquelle elle est due et au moyen de la déclaration prévue au I de l'article R. 862-11 du même code au titre du quatrième trimestre de l'année civile de cette même année. Elle est versée concomitamment à la taxe mentionnée à l'article L. 862-4 du code de la sécurité sociale due au titre de ce même trimestre.
