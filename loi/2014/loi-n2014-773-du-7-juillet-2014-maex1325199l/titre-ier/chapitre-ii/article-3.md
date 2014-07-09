@@ -1,0 +1,3 @@
+# Article 3
+
+Une cohérence est recherchée entre les objectifs de la politique de développement et de solidarité internationale et ceux des autres politiques publiques susceptibles d'avoir un impact dans le domaine du développement, en particulier les politiques commerciale, agricole, fiscale, migratoire, sociale ou les politiques relatives aux droits des femmes, à la recherche et à l'enseignement supérieur, à l'éducation, à la culture, à la santé, à l'environnement, à l'énergie et à la lutte contre le changement climatique, à la paix et à la sécurité, à l'économie sociale et solidaire ou aux outre-mer.

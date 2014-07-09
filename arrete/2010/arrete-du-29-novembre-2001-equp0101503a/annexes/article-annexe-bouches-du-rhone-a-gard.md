@@ -370,7 +370,7 @@ Direction départementale de la cohésion sociale du Calvados
 <p align="center">FONCTIONS EXERCEES</p>
 </td>
 <td>
-<p align="center">  NIVEAU<br/>de qualification de l'emploi</p>
+<p align="center">NIVEAU<br/>de qualification de l'emploi</p>
 </td>
 <td>
 <p align="center">NOMBRE d'emplois</p>
@@ -884,7 +884,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Doubs
 </tr>
 <tr>
 <td>
-<p align="left">Chef du service habitat, aménagement et développement durable</p>
+<p align="left">Chef du service habitat,  construction ville</p>
 </td>
 <td>
 <p align="center">A</p>
@@ -897,9 +897,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Doubs
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chef de la cellule ville et renouvellement urbain</p>
-</td>
+<td>Responsable de l'unité ville et renouvellement urbain</td>
 <td>
 <p align="center">A</p>
 </td>
@@ -912,7 +910,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Doubs
 </tr>
 <tr>
 <td>
-<p align="left">Adjoint au chef de la cellule ville et renouvellement urbain</p>
+<p align="left">Adjoint au responsable de l'unité ville et renouvellement urbain</p>
 </td>
 <td>
 <p align="center">B</p>
@@ -954,7 +952,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Doubs
 </tr>
 <tr>
 <td>
-<p align="left">Chargé de mission politique de la ville</p>
+<p align="left">Chargé de la commission de conciliation et des gens du voyage</p>
 </td>
 <td>
 <p align="center">B</p>
@@ -967,9 +965,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Doubs
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p align="left">Chargé de gestion socialedu logement et du droit au logement opposable </p>
-</td>
+<td rowspan="2">Adjoint au responsable de l'unité lutte contre les exclusions et observation de l'habitat</td>
 <td rowspan="2">
 <p align="center">B</p>
 </td>

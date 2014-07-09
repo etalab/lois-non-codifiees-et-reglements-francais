@@ -27,6 +27,7 @@
 - [Décret n°2014-585 du 4 juin 2014 (FCPT1331842D)](decret-n2014-585-du-4-juin-2014-fcpt1331842d)
 - [DÉCRET n°2014-768 du 4 juillet 2014 (AFSS1331392D)](decret-n2014-768-du-4-juillet-2014-afss1331392d)
 - [DÉCRET n°2014-769 du 4 juillet 2014 (AFSS1406151D)](decret-n2014-769-du-4-juillet-2014-afss1406151d)
+- [DÉCRET n°2014-775 du 4 juillet 2014 (AFSS1415029D)](decret-n2014-775-du-4-juillet-2014-afss1415029d)
 - [Décret n°76-225 du 4 mars 1976](decret-n76-225-du-4-mars-1976)
 - [Décret n°2014-588 du 5 juin 2014 (DEVL1326986D)](decret-n2014-588-du-5-juin-2014-devl1326986d)
 - [Décret n°2014-599 du 5 juin 2014 (RDFF1411902D)](decret-n2014-599-du-5-juin-2014-rdff1411902d)
