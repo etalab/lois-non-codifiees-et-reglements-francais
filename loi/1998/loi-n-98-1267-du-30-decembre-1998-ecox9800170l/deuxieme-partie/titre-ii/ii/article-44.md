@@ -5,17 +5,3 @@ I. - Le Gouvernement est autorisé à participer à la révision générale des 
 Le montant de la quote-part de la France dans le Fonds monétaire international est porté de 7 414,6 millions de droits de tirage spéciaux à 10 738,5 millions de droits de tirage spéciaux.
 
 II. - Est autorisée l'approbation du quatrième amendement aux statuts du Fonds monétaire international qui a été adopté le 23 septembre 1997 par le conseil des gouverneurs de cette institution, et dont la traduction est annexée à la présente loi.
-
-III. - Chaque année avant le 15 septembre, le Gouvernement remet aux commissions du Parlement chargées des finances et des affaires étrangères un rapport présentant :
-
-a) L'activité du Fonds monétaire international au cours de son dernier exercice budgétaire, notamment les actions entreprises par le Fonds monétaire international pour assurer un suivi de la situation économique des Etats membres qui font appel à son concours ;
-
-b) L'activité des banques multilatérales de développement  au cours de leur dernier exercice budgétaire, notamment les actions entreprises pour assurer un suivi de la situation économique des Etats qui font appel à leur concours et un suivi des projets qui ont bénéficié de leurs financements ;
-
-c) Les décisions adoptées par les instances dirigeantes de ces institutions  financières internationales ;
-
-d) Les positions défendues par la France au sein de ces instances dirigeantes ;
-
-e) L'ensemble des opérations financières réalisées entre la France et ces  institutions financières internationales ;
-
-f) L'analyse de la situation financière, à la clôture du dernier exercice, de  ces institutions financières internationales et le montant de la participation  française au sein de ces institutions financières internationales.
