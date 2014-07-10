@@ -6,7 +6,7 @@ Ce prix est porté à la connaissance du public. Un décret précisera, notammen
 
 Tout détaillant doit offrir le service gratuit de commande à l'unité. Toutefois, et dans ce seul cas, le détaillant peut ajouter au prix effectif de vente au public qu'il pratique les frais ou rémunérations correspondant à des prestations supplémentaires exceptionnelles expressément réclamées par l'acheteur et dont le coût a fait l'objet d'un accord préalable.
 
-Les détaillants doivent pratiquer un prix effectif de vente au public compris entre 95 % et 100 % du prix fixé par l'éditeur ou l'importateur.
+Les détaillants doivent pratiquer un prix effectif de vente au public compris entre 95 % et 100 % du prix fixé par l'éditeur ou l'importateur. Lorsque le livre est expédié à l'acheteur et n'est pas retiré dans un commerce de vente au détail de livres, le prix de vente est celui fixé par l'éditeur ou l'importateur. Le détaillant peut pratiquer une décote à hauteur de 5 % de ce prix sur le tarif du service de livraison qu'il établit, sans pouvoir offrir ce service à titre gratuit.
 
 Dans le cas où l'importation concerne des livres édités en France, le prix de vente au public fixé par l'importateur est au moins égal à celui qui a été fixé par l'éditeur.
 
