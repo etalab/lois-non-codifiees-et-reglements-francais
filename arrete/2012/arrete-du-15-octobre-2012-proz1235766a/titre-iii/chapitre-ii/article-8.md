@@ -1,12 +1,12 @@
 # Article 8
 
-I. ― Les effluents gazeux radioactifs sont rejetés exclusivement par les cheminées ou exutoires des bâtiments de l'INBS-PN. A cet effet, l'exploitant doit notamment s'assurer du lignage correct des circuits de ventilation. Les exutoires mentionnés à l'article 12-1 sont équipés de dispositifs de filtration de très haute efficacité ou de tout autre dispositif équivalent de traitement avant rejet. Ces effluents gazeux ont pour origine :
+I. - Les effluents gazeux radioactifs sont rejetés exclusivement par les cheminées ou exutoires des bâtiments de l'INBS-PN. A cet effet, l'exploitant doit notamment s'assurer du lignage correct des circuits de ventilation. Les exutoires mentionnés à l'article 12-1 sont équipés de dispositifs de filtration de très haute efficacité ou de tout autre dispositif équivalent de traitement avant rejet. Ces effluents gazeux ont pour origine :
 
-― les effluents procédés ;
+- les effluents procédés ;
 
-― les effluents des réseaux de ventilation des bâtiments.
+- les effluents des réseaux de ventilation des bâtiments.
 
-II. ― Les cheminées ou exutoires principaux pris en compte dans la surveillance des rejets radioactifs ont les caractéristiques techniques suivantes :
+II. - Les cheminées ou exutoires principaux pris en compte dans la surveillance des rejets radioactifs ont les caractéristiques techniques suivantes :
 
 <table>
 <tbody>
@@ -127,9 +127,7 @@ II. ― Les cheminées ou exutoires principaux pris en compte dans la surveillan
 </tbody>
 </table>
 
-.
-
-III. ― Les cheminées ou exutoires principaux susceptibles de rejeter des effluents gazeux, poussières ou aérosols chimiques sont les suivantes :
+III. - Les cheminées ou exutoires principaux susceptibles de rejeter des effluents gazeux, poussières ou aérosols chimiques sont les suivantes :
 
 <table>
 <tbody>
@@ -146,42 +144,41 @@ III. ― Les cheminées ou exutoires principaux susceptibles de rejeter des effl
 </tr>
 <tr>
 <td width="203">
-<p align="left">FSMC (bâtiment 444)</p>
+<p align="left">FSMC (bâtiment 444) </p>
 </td>
 <td width="293">
-<p>1 cheminée (VEA8)</p>
-<p>(H : 6 m, Débit indicatif : 5 500 m<sup>3</sup>/h)</p>
+<p>1 cheminée (VEA8) (H : 6 m, débit indicatif : 5 500 m³/h)</p>
 </td>
 <td width="151">
-<p align="center">HF</p>
-<p align="center">NOx</p>
+<p align="center">HF NOx </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">ME (bâtiment 401) </p>
+</td>
+<td width="293">
+<p>1 cheminée (chaudière boucle EDITH) (H : 17 m, débit indicatif : 20 000 m<sup>3</sup>/h) <br/>
+<br/>1 cheminée (chaudière MARIE) <br/>
+<br/>(H : 29 m, débit indicatif : 8 500 m<sup>3</sup>/h) </p>
+</td>
+<td width="151">
+<p align="center">NOx SO2 <br/>
+<br/>NOx <br/>
+<br/>SO2 </p>
 </td>
 </tr>
 <tr>
 <td width="203">
-<p align="left">ME (bâtiment 401)</p>
-</td>
-<td width="293">
-<p>1 cheminée (chaudière boucle EDITH) </p>
-<p>(H : 17 m, Débit indicatif : 20 000 m<sup>3</sup>/h)</p>
-</td>
-<td width="151">
-<p align="center">NOx</p>
-<p align="center">SO<sub>2</sub>
-</p>
-</td>
-</tr>
-<tr>
-<td width="203">
-<p align="left">RNG (bâtiment 400)</p>
+<p align="left">RNG (bâtiment 400) </p>
 </td>
 <td valign="top" width="293">
-<p>1 cheminée (chaudière MARINE)</p>
-<p>(H : 45 m, Débit indicatif : 20 000 m<sup>3</sup>/h)</p>
+<p>1 cheminée (chaudière MARINE) (H : 45 m, débit indicatif : 20 000 m³/h) </p>
 </td>
 <td width="151">
-<p align="center">NOx</p>
-<p align="center">SO<sub>2</sub>
+<p align="center">NOx SO2<sub>
+<br/>
+</sub>
 </p>
 </td>
 </tr>
@@ -189,4 +186,4 @@ III. ― Les cheminées ou exutoires principaux susceptibles de rejeter des effl
 </table>
 
 <div align="left">
-<br/>IV. ― Les dispositions retenues pour les rejets des effluents gazeux des groupes électrogènes de secours et de sauvegarde doivent permettre une bonne dilution dans le milieu ambiant.</div>
+<br/>IV. - Les dispositions retenues pour les rejets des effluents gazeux des groupes électrogènes de secours et de sauvegarde doivent permettre une bonne dilution dans le milieu ambiant.</div>
