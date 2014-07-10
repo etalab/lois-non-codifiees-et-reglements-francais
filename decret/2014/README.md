@@ -56,6 +56,8 @@
 - [Décret n°2014-454 du 6 mai 2014 (INTC1408898D)](decret-n2014-454-du-6-mai-2014-intc1408898d)
 - [Décret n°2014-455 du 6 mai 2014 (DEVK1329900D)](decret-n2014-455-du-6-mai-2014-devk1329900d)
 - [Décret n°2014-456 du 6 mai 2014 (DEVK1329895D)](decret-n2014-456-du-6-mai-2014-devk1329895d)
+- [DÉCRET n°2014-782 du 7 juillet 2014 (AFSS1414311D)](decret-n2014-782-du-7-juillet-2014-afss1414311d)
+- [DÉCRET n°2014-783 du 7 juillet 2014 (FVJV1413798D)](decret-n2014-783-du-7-juillet-2014-fvjv1413798d)
 - [Décret n°99-12 du 7 janvier 1999 (EQUU9801795D)](decret-n99-12-du-7-janvier-1999-equu9801795d)
 - [Décret n°2014-458 du 7 mai 2014 (INTA1409717D)](decret-n2014-458-du-7-mai-2014-inta1409717d)
 - [Décret n°2014-461 du 7 mai 2014 (JUSB1402766D)](decret-n2014-461-du-7-mai-2014-jusb1402766d)
