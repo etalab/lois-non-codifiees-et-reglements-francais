@@ -8,7 +8,7 @@ En application du deuxième alinéa du 2° du II de l'article 4 du décret du 25
 
 ― chef de programme ;
 
-― chef de supervision ;
+― chef de supervision technique ;
 
 ― chef de maintenance régionale ;
 
@@ -16,6 +16,6 @@ En application du deuxième alinéa du 2° du II de l'article 4 du décret du 25
 
 ― chef de section ;
 
-― chef de superviseur technique multiqualifié ;
+― responsable de supervision opérationnelle ;
 
-― détaché pendant une période de 12 à 36 mois sur des fonctions d'instruction.
+― détaché pendant une période de 12 à 36 mois.
