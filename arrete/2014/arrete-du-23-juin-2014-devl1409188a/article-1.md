@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 îles et berges de la Seine dans l'Eure » (zone spéciale de conservation FR 2302007) l'espace délimité sur la carte d'assemblage au 1/100 000 et les neuf cartes au 1/25 000 ci-jointes, s'étendant dans le département de l'Eure sur une partie du territoire des communes suivantes : Amfreville-sous-les-Monts, Les Andelys, Andé, Aubevoye, Bouafles, Courcelles-sur-Seine, Criquebeuf-sur-Seine Les Damps, Herqueville, Igoville, Martot, Muids, Notre-Dame-de-l'Isle, Pont-de-l'Arche, Port-Mort, Porte-Joie, Poses, Pîtres, Saint-Pierre-du-Vauvray, Saint-Pierre-la-Garenne, Tosny, Tournedos-sur-Seine, Val-de-Reuil, Vatteville, Venables, Villers-sur-le-Roule, Vézillon.
