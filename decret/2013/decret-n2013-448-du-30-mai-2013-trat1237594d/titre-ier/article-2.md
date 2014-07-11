@@ -14,7 +14,7 @@ I. ― La Commission nationale des sanctions administratives est composée :
 
 6° De quatre à six représentants des salariés des entreprises de transport routier de marchandises et de personnes, désignés sur proposition des organisations syndicales représentatives.
 
-II. - Les membres de la commission sont nommés par arrêté du ministre chargé des transports, qui les affecte, le cas échéant, pour la durée de leur mandat, dans l'une ou l'autre des sections prévues à l'article 3, en fonction de l'activité au titre de laquelle ils siègent.
+II. - Les membres de la commission sont nommés par arrêté du ministre chargé des transports, qui les affecte, le cas échéant, pour la durée de leur mandat, dans l'une ou l'autre des sections prévues à l'article 4, en fonction de l'activité au titre de laquelle ils siègent.
 
 III. - Ne peuvent être nommées en tant que représentants des entreprises de transport routier de marchandises et de personnes ou de commission de transport les personnes dont le bulletin n° 2 du casier judiciaire mentionne plus d'une condamnation pour l'une des infractions mentionnées à l'article 6 du décret du 16 août 1985 susvisé, à l'article 6 du décret du 5 mars 1990 susvisé ou à l'article 7 du décret du 30 août 1999 susvisé ou ayant perdu l'honorabilité professionnelle.
 

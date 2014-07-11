@@ -30,6 +30,6 @@ Le nombre total de représentants des entreprises de transport routier ou de com
 
 II. - Les membres de la commission régionale sont nommés par arrêté du préfet de région, qui les affecte, le cas échéant, pour la durée de leur mandat, dans l'une ou l'autre des sections prévues à l'article 13, en fonction de l'activité au titre de laquelle ils siègent.
 
-III. - Ne peuvent être nommées en tant que représentants des entreprises de transport routier de marchandises et de personnes ou de commission de transport, les personnes dont le bulletin n° 2 du casier judiciaire mentionne plus d'une condamnation pour l'une des infractions mentionnées à l'article 6 du décret du 16 août 1985, à l'article 6 du décret du 5 mars 1990 ou à l'article 7 du décret du 30 août 1999.
+III. - Ne peuvent être nommées en tant que représentants des entreprises de transport routier de marchandises et de personnes ou de commission de transport, les personnes dont le bulletin n° 2 du casier judiciaire mentionne plus d'une condamnation pour l'une des infractions mentionnées à l'article 6 du décret du 16 août 1985, à l'article 6 du décret du 5 mars 1990 ou à l'article 7 du décret du 30 août 1999 ou ayant perdu l'honorabilité professionnelle.
 
 IV. - Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions et remplacent ces derniers en cas d'empêchement.

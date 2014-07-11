@@ -6,7 +6,7 @@ a) Le fait d'exécuter un service régulier ou à la demande de transport public
 
 b) Le fait d'exécuter un service de transport public routier de personnes sans avoir à bord du véhicule les titres administratifs de transport prévus au A du I de l'article 45 ;
 
-c) Le fait d'exécuter un service de transport public routier de personnes sans avoir à bord du véhicule les documents de contrôle prévus au B du I de l'article 45 ou avec des documents non renseignés ou renseignés de façon incomplète, illisible, erronée ou effaçable ;
+c) Le fait d'exécuter un service de transport public routier de personnes sans avoir à bord du véhicule les documents de contrôle prévus au a du B du I de l'article 45 ou avec des documents non renseignés ou renseignés de façon incomplète, illisible, erronée ou effaçable ;
 
 d) Le fait de ne pas notifier dans les délais le changement de situation de l'entreprise au regard de son inscription au registre conformément aux dispositions de l'article 10 ;
 
@@ -22,4 +22,6 @@ b) De ne pas apposer de façon apparente sur le véhicule la signalétique prév
 
 c) D'omettre de retirer cette signalétique ou de l'occulter si le véhicule est utilisé pour une activité autre que celle de transport public routier collectif de personnes ;
 
-d) De ne pas mentionner le nom ou le sigle de l'entreprise de transport dans un endroit apparent sur les véhicules affectés à des services de transport public routier collectif de personnes.
+d) De ne pas mentionner le nom ou le sigle de l'entreprise de transport dans un endroit apparent sur les véhicules affectés à des services de transport public routier collectif de personnes ;
+
+e) Le fait d'exécuter un service de transport public routier de personnes sans avoir à bord du véhicule les documents de contrôle prévus au b du B du I de l'article 45.

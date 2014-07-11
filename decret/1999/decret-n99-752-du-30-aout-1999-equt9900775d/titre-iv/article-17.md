@@ -40,6 +40,6 @@ c) Le transport n'est que l'accessoire et le complément de l'activité du group
 
 7° Transports sur route de wagons de chemin de fer exécutés par des véhicules aménagés spécialement à cet effet ;
 
-8° Transports exécutés par La Poste au moyen de ses véhicules pour ses missions de service universel postal ;
+8° Transports effectués par le prestataire du service universel postal désigné à l'article L. 2 du code des postes et des communications électroniques, pour l'accomplissement de ses missions relevant du service universel postal ;
 
-9°  Transports de médicaments, d'appareils et d'équipements médicaux ainsi  que d'autres articles nécessaires en cas de secours d'urgence, notamment  en cas de catastrophes naturelles.
+9° Transports de médicaments, d'appareils et d'équipements médicaux ainsi que d'autres articles nécessaires en cas de secours d'urgence, notamment en cas de catastrophes naturelles.

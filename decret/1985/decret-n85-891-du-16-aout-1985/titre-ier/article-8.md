@@ -2,7 +2,7 @@
 
 I. - L'entreprise qui exerce ou veut exercer la profession de transporteur public routier de personnes désigne une personne physique, le gestionnaire de transport, résidant dans l'Union européenne, qui satisfait aux exigences d'honorabilité et de capacité professionnelles mentionnées aux articles 6 et 7 et qui dirige effectivement et en permanence ses activités de transport.
 
-Les missions confiées au gestionnaire de transport incluent notamment la gestion et l'entretien des véhicules affectés à l'activité de transport de l'entreprise, la vérification des contrats et des documents de transport, la comptabilité de base, l'affectation des chargements ou des services aux conducteurs et aux véhicules et la vérification des procédures en matière de sécurité.
+Les missions confiées au gestionnaire de transport incluent notamment la gestion de l'entretien des véhicules affectés à l'activité de transport de l'entreprise, la vérification des contrats et des documents de transport, la comptabilité de base, l'affectation des chargements ou des services aux conducteurs et aux véhicules et la vérification des procédures en matière de sécurité.
 
 II. - Le gestionnaire de transport justifie d'un lien réel avec l'entreprise en étant notamment employé, directeur ou propriétaire de cette entreprise, ou en la dirigeant, ou, si l'entreprise est une personne physique, en étant cette personne.
 

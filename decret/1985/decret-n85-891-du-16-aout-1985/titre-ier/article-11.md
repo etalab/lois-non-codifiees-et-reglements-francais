@@ -4,7 +4,7 @@ I. - Lorsqu'une entreprise ne satisfait plus à l'une des exigences d'accès à 
 
 1° Un délai maximum de neuf mois en cas d'incapacité physique ou de décès du gestionnaire de transport ;
 
-2° Un délai maximum de six mois en cas de perte d'honorabilité du gestionnaire de transport ou du responsable de l'entreprise ou lorsque le gestionnaire de transport ne peut plus se prévaloir de sa capacité professionnelle en raison d'une déclaration d'inaptitude ;
+2° Un délai maximum de six mois en cas de cessation d'activité ou de perte d'honorabilité du gestionnaire de transport ou du responsable de l'entreprise ou lorsque le gestionnaire de transport a fait l'objet d'une condamnation prononçant une interdiction d'exercer une profession commerciale ou industrielle ou qu'il ne peut plus se prévaloir de sa capacité professionnelle en raison d'une déclaration d'inaptitude ;
 
 3° Un délai maximum de six mois pour régulariser sa situation au regard de l'exigence d'établissement ;
 
@@ -20,7 +20,7 @@ III. - Lorsque le responsable de l'entreprise ne s'est pas conformé à la mise 
 
 2° Lorsque le responsable de l'entreprise fournit des éléments relatifs à l'évolution de la situation financière de l'entreprise au regard de l'exigence de capacité financière, ajuster le nombre de copies certifiées conformes de la licence détenues par l'entreprise ou lui retirer l'autorisation d'exercer la profession de transporteur public routier de personnes si les éléments fournis ne sont pas susceptibles de permettre à l'entreprise de satisfaire à l'exigence de capacité financière.
 
-IV. - La décision de suspension de l'autorisation d'exercer la profession de transporteur public routier de personnes entraîne le retrait temporaire de la licence communautaire ou de la licence de transport intérieur mentionnées à l'article 9 et celui des copies certifiées conformes correspondantes.
+IV. - La décision de suspension de l'autorisation d'exercer la profession de transporteur public routier de personnes entraîne le retrait temporaire de la licence communautaire et de la licence de transport intérieur mentionnées à l'article 9 et celui des copies certifiées conformes correspondantes.
 
 A défaut de restitution par l'entreprise de ses titres de transport dans le délai de quinze jours à compter de la réception de la décision de suspension, le préfet de région lui retire l'autorisation d'exercer la profession de transporteur public routier de personnes et la radie du registre électronique national des entreprises de transport par route.
 

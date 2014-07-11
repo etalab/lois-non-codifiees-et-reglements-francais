@@ -6,7 +6,7 @@ A. - Titres administratifs de transport :
 
 a) La copie certifiée conforme de la licence communautaire ou de la licence de transport intérieur mentionnées à l'article 9 ;
 
-b) Le cas échéant, si le véhicule n'excède pas neuf places, conducteur compris, l'autorisation permettant l'exécution d'un service occasionnel de transport public routier de personnes prévue à l'article 33 ;
+b) Le cas échéant, la copie de l'arrêté préfectoral relatif à la circulation d'un petit train routier touristique ;
 
 c) Le cas échéant, la copie de l'autorisation de transport délivrée en application de l'article 31-6 ;
 
@@ -18,12 +18,12 @@ b) La copie de la convention avec l'autorité organisatrice de transport réguli
 
 II. - Les documents de contrôle cités au B et les conventions avec l'autorité organisatrice de transport régulier, scolaire ou à la demande doivent être conservés par l'entreprise pendant une durée de deux ans afin d'être présentés à toute réquisition des agents chargés du contrôle.
 
-III. - Les véhicules affectés à des services de transport public routier collectif de personnes sont munis d'une signalétique distinctive définie par arrêté du ministre chargé des transports.
+III. - Les véhicules n'excédant pas neuf places y compris le conducteur affectés à des services de transport public routier collectif de personnes sont munis d'une signalétique distinctive définie par arrêté du ministre chargé des transports.
 
 Cette signalétique est apposée sur le véhicule de façon à être visible et en permettre le contrôle par les agents de l'autorité compétente.
 
 Elle est retirée ou occultée si le véhicule est utilisé pour une activité autre que celle de transport public routier collectif de personnes.
 
-L'obligation prévue à l'alinéa précédent s'applique aux véhicules de neuf places et moins.
+IV. - Les véhicules affectés à des services de transport public routier de personnes doivent mentionner le nom ou le sigle de l'entreprise dans un endroit apparent.
 
-IV. - Un arrêté du ministre chargé des transports précise les conditions d'application du présent article. Il fixe notamment le contenu et le modèle des documents exigibles à bord des véhicules mentionnés au B.
+V. - Un arrêté du ministre chargé des transports précise les conditions d'application du présent article. Il fixe notamment le contenu et le modèle des documents exigibles à bord des véhicules mentionnés au B.

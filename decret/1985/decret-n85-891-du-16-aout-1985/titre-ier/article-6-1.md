@@ -10,8 +10,8 @@ La garantie est mise en œuvre par le liquidateur désigné en cas de liquidatio
 
 IV. - Pour la détermination du montant de la capacité financière exigible sont pris en compte tous les véhicules utilisés par l'entreprise pour le transport public routier de personnes.
 
-V. - Pour attester de sa capacité financière, l'entreprise transmet, lors de sa demande initiale d'autorisation d'exercer la profession de transporteur public routier de personnes, tous documents certifiés par un expert-comptable, un commissaire aux comptes ou un centre de gestion agréé justifiant qu'elle dispose de capitaux et de réserves à hauteur de la capacité financière exigible.
+V. - Pour attester de sa capacité financière, l'entreprise transmet, lors de sa demande initiale d'autorisation d'exercer la profession de transporteur public routier de personnes, tous documents certifiés, visés ou attestés par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité, justifiant qu'elle dispose de capitaux et de réserves à hauteur de la capacité financière exigible.
 
-Elle adresse ensuite, chaque année, au service territorial de l'Etat dont elle relève, dans les six mois qui suivent la clôture de l'exercice comptable, la liasse fiscale correspondante certifiée par un expert-comptable, un commissaire aux comptes ou un centre de gestion agréé.
+Elle adresse ensuite, chaque année, au service territorial de l'Etat dont elle relève, dans les six mois qui suivent la clôture de l'exercice comptable, la liasse fiscale correspondante certifiée, visée ou attestée par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité.
 
 A défaut de transmission de la liasse fiscale dans les délais prévus à l'alinéa précédent et après une mise en demeure restée sans effet pendant trois mois, le préfet de région peut prononcer une décision de suspension de l'autorisation d'exercer la profession de transporteur routier.
