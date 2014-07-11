@@ -1,562 +1,735 @@
 # Article Annexe
 
-I. ― Ressort du SGAP de Paris /  préfecture de la région d'Ile-de-France, préfecture de Paris
+I. - Ressort du secrétariat général pour l'administration de la préfecture de police/
 
-1. Préfecture de police / direction de la sécurité de proximité de l'agglomération parisienne
+préfecture de la région d'Ile-de-France, préfecture de Paris
 
-A. ― Secteurs d'encadrement prioritaire
+1. Préfecture de police/
+
+direction de la sécurité de proximité de l'agglomération parisienne
+
+A. - Secteurs d'encadrement prioritaire
 
 (pour les directions territoriales de la sécurité de proximité)
 
 <div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>DÉPARTEMENTS <br/>
-</th>
-<th colspan="2">CIRCONSCRIPTIONS DE SÉCURITÉ <br/>de proximité de la préfecture de police <br/>
-</th>
-</tr>
-<tr>
-<td align="center">92 <br/>
+<td width="302">
+<p align="center">DÉPARTEMENTS</p>
 </td>
-<td align="center">D1 / ASNIERES <br/>
+<td width="435">
+<p align="center">CIRCONSCRIPTIONS DE SÉCURITÉ DE PROXIMITÉ<br/>de la préfecture de police</p>
 </td>
 </tr>
 <tr>
-<td align="center">92 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D3 / BOULOGNE-BILLANCOURT <br/>
-</td>
-</tr>
-<tr>
-<td align="center">92 <br/>
-</td>
-<td align="center">D4 / CHATENAY-MALABRY <br/>
+<td valign="top" width="435">
+<p align="center">D1/ASNIERES</p>
 </td>
 </tr>
 <tr>
-<td align="center">92 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D1 / CLICHY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">92 <br/>
-</td>
-<td align="center">D1 / COLOMBES <br/>
+<td valign="top" width="435">
+<p align="center">D3/BOULOGNE-BILLANCOURT</p>
 </td>
 </tr>
 <tr>
-<td align="center">92 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D1 / GENNEVILLIERS <br/>
-</td>
-</tr>
-<tr>
-<td align="center">92 <br/>
-</td>
-<td align="center">D3 / ISSY-LES-MOULINEAUX <br/>
+<td valign="top" width="435">
+<p align="center">D4/CHATENAY-MALABRY</p>
 </td>
 </tr>
 <tr>
-<td align="center">92 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D4 / MONTROUGE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">92 <br/>
-</td>
-<td align="center">D2 / NANTERRE <br/>
+<td valign="top" width="435">
+<p align="center">D1/CLICHY</p>
 </td>
 </tr>
 <tr>
-<td align="center">92 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D2 / RUEIL-MALMAISON <br/>
-</td>
-</tr>
-<tr>
-<td align="center">92 <br/>
-</td>
-<td align="center">D2 / SURESNES <br/>
+<td valign="top" width="435">
+<p align="center">D1/COLOMBES</p>
 </td>
 </tr>
 <tr>
-<td align="center">92 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D1 / VILLENEUVE-LA-GARENNE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D2 / AUBERVILLIERS <br/>
+<td valign="top" width="435">
+<p align="center">D1/GENNEVILLIERS</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D3 / AULNAY-SOUS-BOIS <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D1 / BOBIGNY <br/>
+<td valign="top" width="435">
+<p align="center">D3/ISSY-LES-MOULINEAUX</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D1 / BONDY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D1 / DRANCY <br/>
+<td valign="top" width="435">
+<p align="center">D4/MONTROUGE</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D2 / EPINAY-SUR-SEINE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D4 / GAGNY <br/>
+<td valign="top" width="435">
+<p align="center">D2/NANTERRE</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D2 / LA COURNEUVE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D3 / LE BLANC-MESNIL <br/>
+<td valign="top" width="435">
+<p align="center">D2/RUEIL-MALMAISON</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D3 / LE RAINCY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D1 / LES LILAS <br/>
+<td valign="top" width="435">
+<p align="center">D2/SURESNES</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">92</p>
 </td>
-<td align="center">D3 / LIVRY-GARGAN <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D4 / MONTREUIL <br/>
+<td valign="top" width="435">
+<p align="center">D1/VILLENEUVE-LA-GARENNE</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D4 / NEUILLY-SUR-MARNE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D4 / NOISY-LE-GRAND <br/>
+<td valign="top" width="435">
+<p align="center">D2/AUBERVILLIERS</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D1 / PANTIN <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D4 / ROSNY-SOUS-BOIS <br/>
+<td valign="top" width="435">
+<p align="center">D3/AULNAY-SOUS-BOIS</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D2 / SAINT-DENIS <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D2 / SAINT-OUEN <br/>
+<td valign="top" width="435">
+<p align="center">D1/BOBIGNY</p>
 </td>
 </tr>
 <tr>
-<td align="center">93 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D2 / STAINS <br/>
-</td>
-</tr>
-<tr>
-<td align="center">93 <br/>
-</td>
-<td align="center">D3 / VILLEPINTE <br/>
+<td valign="top" width="435">
+<p align="center">D1/BONDY</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D4 / CHAMPIGNY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">94 <br/>
-</td>
-<td align="center">D4 / CHENNEVIERES-SUR-MARNE <br/>
+<td valign="top" width="435">
+<p align="center">D4/CLICHY-MONTFERMEIL</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D2 / CHOISY-LE-ROI <br/>
-</td>
-</tr>
-<tr>
-<td align="center">94 <br/>
-</td>
-<td align="center">D1 / CRETEIL <br/>
+<td valign="top" width="435">
+<p align="center">D1/DRANCY</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D2 / IVRY-SUR-SEINE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">94 <br/>
-</td>
-<td align="center">D3 / LE KREMLIN-BICETRE <br/>
+<td valign="top" width="435">
+<p align="center">D2/EPINAY-SUR-SEINE</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D3 / L'HAY-LES-ROSES <br/>
-</td>
-</tr>
-<tr>
-<td align="center">94 <br/>
-</td>
-<td align="center">D4 / NOGENT-SUR-MARNE <br/>
+<td valign="top" width="435">
+<p align="center">D4/GAGNY</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D2 / VILLENEUVE-SAINT-GEORGES <br/>
-</td>
-</tr>
-<tr>
-<td align="center">94 <br/>
-</td>
-<td align="center">D4 / VINCENNES <br/>
+<td valign="top" width="435">
+<p align="center">D2/LA COURNEUVE</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D1 / ALFORTVILLE <br/>
+<td valign="top" width="435">
+<p align="center">D3/LE BLANC-MESNIL</p>
 </td>
 </tr>
 <tr>
-<td align="center">94 <br/>
+<td valign="top" width="302">
+<p align="center">93</p>
 </td>
-<td align="center">D2 / VITRY-SUR-SEINE <br/>
+<td valign="top" width="435">
+<p align="center">D3/LE RAINCY</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D1/LES LILAS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D3/LIVRY-GARGAN</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/MONTREUIL</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/NEUILLY-SUR-MARNE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/NOISY-LE-GRAND</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D1/PANTIN</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/ROSNY-SOUS-BOIS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/SAINT-DENIS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/SAINT-OUEN</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/STAINS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">93</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D3/VILLEPINTE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/CHAMPIGNY</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/CHENNEVIERES-SUR-MARNE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/CHOISY-LE-ROI</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D1/CRETEIL</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/IVRY-SUR-SEINE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D3/LE KREMLIN-BICETRE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D3/L'HAY-LES-ROSES</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/NOGENT-SUR-MARNE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/VILLENEUVE-SAINT-GEORGES</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D4/VINCENNES</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D1/ALFORTVILLE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">94</p>
+</td>
+<td valign="top" width="435">
+<p align="center">D2/VITRY-SUR-SEINE</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
-
-B. ― Unités d'encadrement prioritaire
-
-<div align="center">
-
+<br/>
+<p align="center">B. - Unités d'encadrement prioritaire</p>
+<br/>
 <table>
 <tbody>
 <tr>
-<th>DÉPARTEMENTS <br/>
-</th>
-<th colspan="2">UNITÉS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">75 <br/>
+<td width="302">
+<p align="center">DÉPARTEMENTS</p>
 </td>
-<td align="center">Unité territoriale 75 de la compagnie de sécurisation de l'agglomération <br/>
+<td width="435">
+<p align="center">UNITÉS</p>
 </td>
 </tr>
 <tr>
-<td align="center">75 / 92 / 93 / 94 <br/>
+<td width="302">
+<p align="center">75</p>
 </td>
-<td align="center">Sous-direction régionale de police des transports <br/>
+<td width="435">
+<p align="center">Compagnie de sécurisation et d'intervention de Paris</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">93</p>
+</td>
+<td width="435">
+<p align="center">Compagnie de sécurisation et d'intervention de Seine-Saint-Denis</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">75/92/93/94</p>
+</td>
+<td width="435">
+<p align="center">Sous-direction régionale de police des transports</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
-
-2. Préfecture de police / direction de l'ordre public et de la circulation
-
-<div align="center">
-
+<br/>
+<p align="center">2. Préfecture de police/direction de l'ordre public et de la circulation</p>
+<br/>
 <table>
 <tbody>
 <tr>
-<th>DÉPARTEMENTS <br/>
-</th>
-<th colspan="2">UNITÉS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">75 <br/>
+<td width="302">
+<p align="center">DÉPARTEMENTS</p>
 </td>
-<td align="center">Compagnies d'intervention des 1er, 2e et 3e districts <br/>
+<td width="435">
+<p align="center">UNITÉS</p>
 </td>
 </tr>
 <tr>
-<td align="center">75 <br/>
+<td valign="top" width="302">
+<p align="center">75</p>
 </td>
-<td align="center">Compagnies de circulation du service des compagnies centrales de circulation <br/>
+<td valign="top" width="435">
+<p align="center">Service du groupement des compagnies d'intervention</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p align="center">75</p>
+</td>
+<td valign="top" width="435">
+<p align="center">Compagnies de circulation du service des compagnies centrales de circulation</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
-
-II. ― Ressort du SGAP de Versailles / direction centrale de la sécurité publique
-
-<div align="center">
-
+<br/>
+<p align="center">II. - Ressort du secrétariat général pour l'administration de la préfecture de police/ direction centrale de la sécurité publique</p>
+<br/>
 <table>
 <tbody>
 <tr>
-<th>DÉPARTEMENTS <br/>
-</th>
-<th colspan="2">CIRCONSCRIPTIONS <br/>
-</th>
-</tr>
-<tr>
-<td align="center">77 <br/>
+<td width="302">
+<p align="center">DÉPARTEMENTS</p>
 </td>
-<td align="center">
-CSP LAGNY-SUR-MARNE <br/>
+<td width="435">
+<p align="center">CIRCONSCRIPTIONS DE SÉCURITÉ PUBLIQUE</p>
 </td>
 </tr>
 <tr>
-<td align="center">77 <br/>
+<td width="302">
+<p align="center">77</p>
 </td>
-<td align="center">CSP MITRY-MORY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">77 <br/>
-</td>
-<td align="center">CSP NOISIEL <br/>
+<td width="435">
+<p align="center">CSP LAGNY-SUR-MARNE</p>
 </td>
 </tr>
 <tr>
-<td align="center">77 <br/>
+<td width="302">
+<p align="center">77</p>
 </td>
-<td align="center">CSP VILLEPARISIS <br/>
-</td>
-</tr>
-<tr>
-<td align="center">78 <br/>
-</td>
-<td align="center">CSP CONFLANS-SAINTE-HONORINE <br/>
+<td width="435">
+<p align="center">CSP NOISIEL</p>
 </td>
 </tr>
 <tr>
-<td align="center">78 <br/>
+<td width="302">
+<p align="center">77</p>
 </td>
-<td align="center">CSP ELANCOURT <br/>
-</td>
-</tr>
-<tr>
-<td align="center">78 <br/>
-</td>
-<td align="center">CSP FONTENAY-LE-FLEURY <br/>
+<td width="435">
+<p align="center">CSP VILLEPARISIS</p>
 </td>
 </tr>
 <tr>
-<td align="center">78 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP HOUILLES <br/>
-</td>
-</tr>
-<tr>
-<td align="center">78 <br/>
-</td>
-<td align="center">CSP LES MUREAUX <br/>
+<td width="435">
+<p align="center">CSP CONFLANS-SAINTE-HONORINE</p>
 </td>
 </tr>
 <tr>
-<td align="center">78 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP PLAISIR <br/>
-</td>
-</tr>
-<tr>
-<td align="center">78 <br/>
-</td>
-<td align="center">CSP POISSY <br/>
+<td width="435">
+<p align="center">CSP ELANCOURT</p>
 </td>
 </tr>
 <tr>
-<td align="center">78 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP SARTROUVILLE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">78 <br/>
-</td>
-<td align="center">CSP TRAPPES <br/>
+<td width="435">
+<p align="center">CSP FONTENAY-LE-FLEURY</p>
 </td>
 </tr>
 <tr>
-<td align="center">91 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP ATHIS-MONS <br/>
-</td>
-</tr>
-<tr>
-<td align="center">91 <br/>
-</td>
-<td align="center">CSP BRUNOY <br/>
+<td width="435">
+<p align="center">CSP HOUILLES</p>
 </td>
 </tr>
 <tr>
-<td align="center">91 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP CORBEIL-ESSONNES <br/>
-</td>
-</tr>
-<tr>
-<td align="center">91 <br/>
-</td>
-<td align="center">CSP DRAVEIL <br/>
+<td width="435">
+<p align="center">CSP LES MUREAUX</p>
 </td>
 </tr>
 <tr>
-<td align="center">91 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP EVRY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">91 <br/>
-</td>
-<td align="center">CSP JUVISY-SUR-ORGE <br/>
+<td width="435">
+<p align="center">CSP PLAISIR</p>
 </td>
 </tr>
 <tr>
-<td align="center">91 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP MASSY <br/>
-</td>
-</tr>
-<tr>
-<td align="center">91 <br/>
-</td>
-<td align="center">CSP MONTGERON <br/>
+<td width="435">
+<p align="center">CSP POISSY</p>
 </td>
 </tr>
 <tr>
-<td align="center">91 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP SAVIGNY-SUR-ORGE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">91 <br/>
-</td>
-<td align="center">CSP SAINTE-GENEVIEVE-DES-BOIS <br/>
+<td width="435">
+<p align="center">CSP SARTROUVILLE</p>
 </td>
 </tr>
 <tr>
-<td align="center">95 <br/>
+<td width="302">
+<p align="center">78</p>
 </td>
-<td align="center">CSP ARGENTEUIL <br/>
-</td>
-</tr>
-<tr>
-<td align="center">95 <br/>
-</td>
-<td align="center">CSP BEZONS <br/>
+<td width="435">
+<p align="center">CSP TRAPPES</p>
 </td>
 </tr>
 <tr>
-<td align="center">95 <br/>
+<td width="302">
+<p align="center">91</p>
 </td>
-<td align="center">CSP DEUIL-LA-BARRE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">95 <br/>
-</td>
-<td align="center">CSP ENGHIEN-MONTMORENCY <br/>
+<td width="435">
+<p align="center">CSP ATHIS-MONS</p>
 </td>
 </tr>
 <tr>
-<td align="center">95 <br/>
+<td width="302">
+<p align="center">91</p>
 </td>
-<td align="center">CSP ERMONT <br/>
-</td>
-</tr>
-<tr>
-<td align="center">95 <br/>
-</td>
-<td align="center">CSP GARGES-LES-GONESSE <br/>
+<td width="435">
+<p align="center">CSP BRUNOY</p>
 </td>
 </tr>
 <tr>
-<td align="center">95 <br/>
+<td width="302">
+<p align="center">91</p>
 </td>
-<td align="center">CSP GONESSE <br/>
-</td>
-</tr>
-<tr>
-<td align="center">95 <br/>
-</td>
-<td align="center">CSP HERBLAY <br/>
+<td width="435">
+<p align="center">CSP CORBEIL-ESSONNES</p>
 </td>
 </tr>
 <tr>
-<td align="center">95 <br/>
+<td width="302">
+<p align="center">91</p>
 </td>
-<td align="center">CSP SARCELLES<br/>
+<td width="435">
+<p align="center">CSP DRAVEIL</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">91</p>
+</td>
+<td width="435">
+<p align="center">CSP EVRY</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">91</p>
+</td>
+<td width="435">
+<p align="center">CSP JUVISY-SUR-ORGE</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">91</p>
+</td>
+<td width="435">
+<p align="center">CSP MASSY</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">91</p>
+</td>
+<td width="435">
+<p align="center">CSP MONTGERON</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">91</p>
+</td>
+<td width="435">
+<p align="center">CSP SAVIGNY-SUR-ORGE</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">91</p>
+</td>
+<td width="435">
+<p align="center">CSP SAINTE-GENEVIEVE-DES-BOIS</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP ARGENTEUIL</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP BEZONS</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP DEUIL-LA-BARRE</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP ENGHIEN-MONTMORENCY</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP ERMONT</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP GARGES-LES-GONESSE</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP GONESSE</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP HERBLAY</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p align="center">95</p>
+</td>
+<td width="435">
+<p align="center">CSP SARCELLES</p>
 </td>
 </tr>
 </tbody>
 </table>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
