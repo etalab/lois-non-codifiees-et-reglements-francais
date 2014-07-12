@@ -318,152 +318,78 @@ ET DU MINISTÈRE DES OUTRE-MER
 </tbody>
 </table>
 
-2. Opérations de la gendarmerie nationale
-
-et des secrétariats généraux pour l'administration de la police (SGAP)
+2. Opérations des secrétariats généraux pour l'administration du ministère de l'intérieur, de la gendarmerie nationale et du secrétariat général pour l'administration de la police de Paris
 
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉPARTEMENT DE RÉSIDENCE<br/>du centre de services partagés</td>
-<td align="center"> COMPTABLE PRINCIPAL ASSIGNATAIRE</td>
-</tr>
-<tr>
-<td align="left">
-<p>BOUCHES-DU-RHÔNE (zone de défense) gendarmerie nationale <br/>
-</p>
+<td>
+<p align="center">DÉPARTEMENT DE RÉSIDENCE <br/>du centre de services partagés</p>
 </td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône<br/>
-</p>
-<br/>
-<br/>
+<td>
+<p align="center">COMPTABLE PRINCIPAL ASSIGNATAIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>BOUCHES-DU-RHÔNE (zone de défense) secrétariat général pour l'administration de la police <br/>
-</p>
+<br/>Bouches-du-Rhône, secrétariat général pour l'administration du ministère de l'intérieur<br/>
 </td>
-</tr>
-<tr>
-<td align="left">
-<p>GIRONDE (zone de défense) gendarmerie nationale <br/>
-</p>
-</td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques d'Aquitaine et du département de la Gironde<br/>
-</p>
-<br/>
-<br/>
+<td>
+<br/>Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>GIRONDE (zone de défense) secrétariat général pour l'administration de la police <br/>
-</p>
+<br/>Gironde, secrétariat général pour l'administration du ministère de l'intérieur<br/>
 </td>
-</tr>
-<tr>
-<td align="left">
-<p>ILLE-ET-VILAINE (zone de défense) gendarmerie nationale <br/>
-</p>
-</td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine<br/>
-</p>
-<br/>
-<br/>
+<td>
+<br/>Direction régionale des finances publiques d'Aquitaine et du département de la Gironde<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>ILLE-ET-VILAINE (zone de défense) secrétariat général pour l'administration de la police <br/>
-</p>
+<br/>Ille-et-Vilaine, secrétariat général pour l'administration du ministère de l'intérieur<br/>
 </td>
-</tr>
-<tr>
-<td align="left">
-<p>MOSELLE (zone de défense) gendarmerie nationale <br/>
-</p>
-</td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques de Lorraine et du département de la Moselle<br/>
-</p>
-<br/>
-<br/>
+<td>
+<br/>Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>MOSELLE (zone de défense) secrétariat général pour l'administration de la police <br/>
-</p>
+<br/>Moselle, secrétariat général pour l'administration du ministère de l'intérieur<br/>
 </td>
-</tr>
-<tr>
-<td align="left">
-<p>NORD (zone de défense) gendarmerie nationale <br/>
-</p>
-</td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques de Nord - Pas-de-Calais et du département du Nord<br/>
-</p>
-<br/>
-<br/>
+<td>
+<br/>Direction régionale des finances publiques de Lorraine et du département de la Moselle<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>NORD (zone de défense) secrétariat général pour l'administration de la police <br/>
-</p>
+<br/>Nord, secrétariat général pour l'administration du ministère de l'intérieur<br/>
 </td>
-</tr>
-<tr>
-<td align="left">
-<p>RHÔNE (zone de défense) gendarmerie nationale <br/>
-</p>
-</td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques de Rhône-Alpes et du département du Rhône<br/>
-</p>
-<br/>
-<br/>
+<td>
+<br/>Direction régionale des finances publiques de Nord - Pas-de-Calais et du département du Nord<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>RHÔNE (zone de défense) secrétariat général pour l'administration de la police <br/>
-</p>
+<br/>Rhône, secrétariat général pour l'administration du ministère de l'intérieur<br/>
 </td>
-</tr>
-<tr>
-<td align="left">
-<p>VAL-DE-MARNE (zone de défense) gendarmerie nationale <br/>
-</p>
-</td>
-<td align="left" rowspan="2">
-<p>Direction régionale des finances publiques d'Ile-de-France et du département de Paris<br/>
-</p>
-<br/>
-<br/>
+<td>
+<br/>Direction régionale des finances publiques de Rhône-Alpes et du département du Rhône<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>PARIS/YVELINES (zone de défense) secrétariat général pour l'administration de la police de Paris <br/>
-</p>
+<br/>Val-de-Marne, gendarmerie nationale<br/>
+</td>
+<td rowspan="2">
+<br/>Direction régionale des finances publiques d'Ile-de-France et du département de Paris<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Paris/Yvelines, secrétariat général pour l'administration de la police de Paris<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="center">
-
-<br/>
-<div align="center">
-
-<br/>
-
-</div>
-
-</div>
