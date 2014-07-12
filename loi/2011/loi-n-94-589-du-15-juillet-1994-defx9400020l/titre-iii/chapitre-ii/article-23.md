@@ -1,6 +1,6 @@
 # Article 23
 
-Outre les officiers de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les agents des douanes ainsi que, lorsqu'ils sont spécialement habilités dans des conditions fixées par décret en Conseil d'Etat, les commandants des bâtiments de l'Etat, les officiers de la marine nationale embarqués sur ces bâtiments et les commandants de bord des aéronefs de l'Etat, chargés de la surveillance en mer, peuvent constater les infractions visées à l'article 18 et en rechercher les auteurs selon les modalités suivantes :
+Outre les officiers de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les agents des douanes ainsi que, lorsqu'ils sont spécialement habilités dans des conditions fixées par décret en Conseil d'Etat, les commandants des bâtiments de l'Etat, les officiers de la marine nationale et les commissaires des armées embarqués sur ces bâtiments et les commandants de bord des aéronefs de l'Etat, chargés de la surveillance en mer, peuvent constater les infractions visées à l'article 18 et en rechercher les auteurs selon les modalités suivantes :
 
 1° Le procureur de la République compétent est informé préalablement et par tout moyen des opérations envisagées en vue de la recherche et de la constatation des infractions.
 
