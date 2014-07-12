@@ -1,3 +1,0 @@
-# Article 25
-
-Le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de la culture, de la communication, des grands travaux et du Bicentenaire, le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement, le ministre de la solidarité, de la santé et de la protection sociale et le secrétaire d'Etat auprès du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, chargé de la jeunesse et des sports, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

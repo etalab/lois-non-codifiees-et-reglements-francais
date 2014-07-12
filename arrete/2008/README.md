@@ -121,7 +121,6 @@
 - [Arrêté du 5 décembre 2008 (DEVU0809421A)](arrete-du-5-decembre-2008-devu0809421a)
 - [Arrêté du 5 décembre 2008 (IMIN0826822A)](arrete-du-5-decembre-2008-imin0826822a)
 - [Arrêté du 5 décembre 2008 (JUSB0829482A)](arrete-du-5-decembre-2008-jusb0829482a)
-- [Arrêté du 5 décembre 2008 (MCCK0828488A)](arrete-du-5-decembre-2008-mcck0828488a)
 - [Arrêté du 5 décembre 2008 (PRMX0823639A)](arrete-du-5-decembre-2008-prmx0823639a)
 - [Arrêté du 5 décembre 2008 (PRMX0823643A)](arrete-du-5-decembre-2008-prmx0823643a)
 - [Arrêté du 5 décembre 2008 (SJSH0829192A)](arrete-du-5-decembre-2008-sjsh0829192a)

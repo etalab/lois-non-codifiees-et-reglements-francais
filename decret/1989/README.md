@@ -1,7 +1,5 @@
 # 1989
 
-- [Décret n°89-136 du 1 mars 1989 (MCCK8900092D)](decret-n89-136-du-1-mars-1989-mcck8900092d)
-- [Décret n°89-137 du 1 mars 1989 (MCCK8900093D)](decret-n89-137-du-1-mars-1989-mcck8900093d)
 - [Décret n°89-359 du 1 juin 1989 (SPSA8800095D)](decret-n89-359-du-1-juin-1989-spsa8800095d)
 - [Décret n°89-611 du 1 septembre 1989 (SPSH8901731D)](decret-n89-611-du-1-septembre-1989-spsh8901731d)
 - [Décret n°89-617 du 1 septembre 1989 (BUDR8904040D)](decret-n89-617-du-1-septembre-1989-budr8904040d)
@@ -160,7 +158,6 @@
 - [Décret n°89-170 du 14 mars 1989 (BUDF8910016D)](decret-n89-170-du-14-mars-1989-budf8910016d)
 - [Décret n°89-172 du 14 mars 1989 (MAEJ8930018D)](decret-n89-172-du-14-mars-1989-maej8930018d)
 - [Décret n°89-175 du 14 mars 1989 (SPSA8900068D)](decret-n89-175-du-14-mars-1989-spsa8900068d)
-- [Décret n°89-224 du 14 avril 1989 (MCCK8900090D)](decret-n89-224-du-14-avril-1989-mcck8900090d)
 - [Décret n°89-247 du 14 avril 1989 (MERP8900020D)](decret-n89-247-du-14-avril-1989-merp8900020d)
 - [Décret n°89-392 du 14 juin 1989 (TEFE8903496D)](decret-n89-392-du-14-juin-1989-tefe8903496d)
 - [Décret n°89-397 du 14 juin 1989 (MAEJ8930053D)](decret-n89-397-du-14-juin-1989-maej8930053d)
@@ -303,7 +300,6 @@
 - [Décret n°89-334 du 25 mai 1989 (PTTA8800761D)](decret-n89-334-du-25-mai-1989-ptta8800761d)
 - [Décret n°89-336 du 25 mai 1989 (MENL8900267D)](decret-n89-336-du-25-mai-1989-menl8900267d)
 - [Décret n°85-1396 du 26 décembre 1985](decret-n85-1396-du-26-decembre-1985)
-- [Décret n°89-262 du 26 avril 1989 (MCCK8900091D)](decret-n89-262-du-26-avril-1989-mcck8900091d)
 - [Décret n°89-264 du 26 avril 1989 (PTTA8801158D)](decret-n89-264-du-26-avril-1989-ptta8801158d)
 - [Décret n°89-272 du 26 avril 1989 (MCCB8900049D)](decret-n89-272-du-26-avril-1989-mccb8900049d)
 - [Décret n°89-323 du 26 avril 1989 (MERR8900022D)](decret-n89-323-du-26-avril-1989-merr8900022d)

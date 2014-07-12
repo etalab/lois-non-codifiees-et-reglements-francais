@@ -441,7 +441,6 @@
 - [Arrêté du 27 octobre 1989 (SPSP8902321A)](arrete-du-27-octobre-1989-spsp8902321a)
 - [Arrêté du 28 août 1989 (BUDR8906006A)](arrete-du-28-aout-1989-budr8906006a)
 - [Arrêté du 28 août 1989 (TEFE8903678A)](arrete-du-28-aout-1989-tefe8903678a)
-- [Arrêté du 28 avril 1989 (MCCK8900235A)](arrete-du-28-avril-1989-mcck8900235a)
 - [Arrêté du 28 avril 1989 (RESY8900157A)](arrete-du-28-avril-1989-resy8900157a)
 - [Arrêté du 28 avril 1989 (SPSM8900965A)](arrete-du-28-avril-1989-spsm8900965a)
 - [Arrêté du 28 décembre 1988 (TEFT8804201A)](arrete-du-28-decembre-1988-teft8804201a)

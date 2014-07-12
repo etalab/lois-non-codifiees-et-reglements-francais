@@ -426,7 +426,6 @@
 - [Décret n°92-997 du 15 septembre 1992 (ENVE9200057D)](decret-n92-997-du-15-septembre-1992-enve9200057d)
 - [Décret n°93-55 du 15 janvier 1993 (MENE9204227D)](decret-n93-55-du-15-janvier-1993-mene9204227d)
 - [Décret n°92-444 du 15 mai 1992 (SANH9200998D)](decret-n92-444-du-15-mai-1992-sanh9200998d)
-- [Décret n°92-445 du 15 mai 1992 (MENK9200021D)](decret-n92-445-du-15-mai-1992-menk9200021d)
 - [Décret n°92-446 du 15 mai 1992 (MENK9200020D)](decret-n92-446-du-15-mai-1992-menk9200020d)
 - [Décret n°90-257 du 16 mars 1990 (INDA8901037D)](decret-n90-257-du-16-mars-1990-inda8901037d)
 - [Décret n°91-794 du 16 août 1991 (INTB9100161D)](decret-n91-794-du-16-aout-1991-intb9100161d)

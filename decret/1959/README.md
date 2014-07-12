@@ -36,7 +36,6 @@
 - [Décret n°59-487 du 27 mars 1959](decret-n59-487-du-27-mars-1959)
 - [Décret n°59-587 du 29 avril 1959](decret-n59-587-du-29-avril-1959)
 - [Décret n°59-708 du 29 mai 1959](decret-n59-708-du-29-mai-1959)
-- [Décret n°59-1512 du 30 décembre 1959](decret-n59-1512-du-30-decembre-1959)
 - [Décret n°59-1028 du 31 août 1959](decret-n59-1028-du-31-aout-1959)
 - [Décret n°59-1080 du 31 août 1959](decret-n59-1080-du-31-aout-1959)
 - [Décret n°59-1081 du 31 août 1959](decret-n59-1081-du-31-aout-1959)

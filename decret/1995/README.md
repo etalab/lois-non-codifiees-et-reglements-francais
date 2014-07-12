@@ -53,7 +53,6 @@
 - [Décret n°95-528 du 2 mai 1995 (MAEJ9530033D)](decret-n95-528-du-2-mai-1995-maej9530033d)
 - [Décret n°95-537 du 2 mai 1995 (ECOC9500019D)](decret-n95-537-du-2-mai-1995-ecoc9500019d)
 - [Décret n°95-541 du 2 mai 1995 (EQUT9500803D)](decret-n95-541-du-2-mai-1995-equt9500803d)
-- [Décret n°95-544 du 2 mai 1995 (MCCK9500197D)](decret-n95-544-du-2-mai-1995-mcck9500197d)
 - [Décret n°95-545 du 2 mai 1995 (MCCB9500129D)](decret-n95-545-du-2-mai-1995-mccb9500129d)
 - [Décret n°95-549 du 2 mai 1995 (RESK9500436D)](decret-n95-549-du-2-mai-1995-resk9500436d)
 - [Décret n°95-551 du 2 mai 1995 (LOGC9500002D)](decret-n95-551-du-2-mai-1995-logc9500002d)

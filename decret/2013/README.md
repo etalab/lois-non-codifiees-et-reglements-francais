@@ -71,7 +71,6 @@
 - [Décret n°2013-886 du 3 octobre 2013 (MAEA1314382D)](decret-n2013-886-du-3-octobre-2013-maea1314382d)
 - [Décret n°2013-891 du 3 octobre 2013 (ETLX1323805D)](decret-n2013-891-du-3-octobre-2013-etlx1323805d)
 - [Décret n°2013-9 du 3 janvier 2013 (OMEO1129065D)](decret-n2013-9-du-3-janvier-2013-omeo1129065d)
-- [Décret n°2013-380 du 3 mai 2013 (MCCK1302687D)](decret-n2013-380-du-3-mai-2013-mcck1302687d)
 - [Décret n°2013-381 du 3 mai 2013 (ACTI1240785D)](decret-n2013-381-du-3-mai-2013-acti1240785d)
 - [Décret n°2004-1066 du 4 octobre 2004 (ECOU0400001D)](decret-n2004-1066-du-4-octobre-2004-ecou0400001d)
 - [Décret n°2012-1351 du 4 décembre 2012 (MENE1238923D)](decret-n2012-1351-du-4-decembre-2012-mene1238923d)

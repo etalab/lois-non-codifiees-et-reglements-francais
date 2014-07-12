@@ -1,3 +1,0 @@
-# Article 3
-
-La convention détermine notamment la durée pendant laquelle le maintien en activité de l'établissement de spectacles cinématographiques est assuré par la personne bénéficiaire de la prime ainsi que, le cas échéant, la nature des biens qu'elle acquiert à cette fin et les conditions dans lesquelles la collectivité locale ou la personne morale de droit public entend assurer l'équilibre financier dudit établissement. Les engagements portent également sur la participation des personnels à des stages de formation à la gestion et à l'animation de salles de spectacles cinématographiques et sur la politique commerciale et d'animation à promouvoir.

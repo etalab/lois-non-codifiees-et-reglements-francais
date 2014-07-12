@@ -1034,7 +1034,6 @@
 - [Décret n°68-619 du 29 juin 1968](decret-n68-619-du-29-juin-1968)
 - [Décret n°2008-505 du 29 mai 2008 (IOCB0802961D)](decret-n2008-505-du-29-mai-2008-iocb0802961d)
 - [Décret n°2008-506 du 29 mai 2008 (IOCB0773412D)](decret-n2008-506-du-29-mai-2008-iocb0773412d)
-- [Décret n°2008-508 du 29 mai 2008 (ECEZ0812790D)](decret-n2008-508-du-29-mai-2008-ecez0812790d)
 - [Décret n°2008-509 du 29 mai 2008 (ECEL0808600D)](decret-n2008-509-du-29-mai-2008-ecel0808600d)
 - [Décret n°2008-512 du 29 mai 2008 (IOCB0800611D)](decret-n2008-512-du-29-mai-2008-iocb0800611d)
 - [Décret n°2008-513 du 29 mai 2008 (IOCB0800626D)](decret-n2008-513-du-29-mai-2008-iocb0800626d)

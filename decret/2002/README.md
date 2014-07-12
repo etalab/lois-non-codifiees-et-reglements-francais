@@ -111,7 +111,6 @@
 - [Décret n°2002-260 du 22 février 2002 (EQUP0200002D)](decret-n2002-260-du-22-fevrier-2002-equp0200002d)
 - [Décret n°2002-261 du 22 février 2002 (AGRA0200226D)](decret-n2002-261-du-22-fevrier-2002-agra0200226d)
 - [Décret n°2002-262 du 22 février 2002 (AGRA0200227D)](decret-n2002-262-du-22-fevrier-2002-agra0200227d)
-- [Décret n°2002-568 du 22 avril 2002 (MCCK0200185D)](decret-n2002-568-du-22-avril-2002-mcck0200185d)
 - [Décret n°2002-571 du 22 avril 2002 (MJSK0270066D)](decret-n2002-571-du-22-avril-2002-mjsk0270066d)
 - [Décret n°2002-1197 du 23 septembre 2002 (SANH0222823D)](decret-n2002-1197-du-23-septembre-2002-sanh0222823d)
 - [Décret n°2002-1279 du 23 octobre 2002 (INTC0200242D)](decret-n2002-1279-du-23-octobre-2002-intc0200242d)

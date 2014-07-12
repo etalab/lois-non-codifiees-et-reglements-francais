@@ -10,4 +10,3 @@
 - [Décret n°54-1055 du 14 octobre 1954](decret-n54-1055-du-14-octobre-1954)
 - [Décret n°54-546 du 26 avril 1954](decret-n54-546-du-26-avril-1954)
 - [Décret n°54-539 du 26 mai 1954](decret-n54-539-du-26-mai-1954)
-- [Décret n°53-1294 du 31 décembre 1953](decret-n53-1294-du-31-decembre-1953)

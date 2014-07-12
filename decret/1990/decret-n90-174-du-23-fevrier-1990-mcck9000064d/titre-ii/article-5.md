@@ -1,9 +1,0 @@
-# Article 5
-
-Lorsque le visa d'exploitation comporte une interdiction de représentation aux mineurs de douze, de seize ans ou de dix-huit ans, ou lorsqu'une inscription sur la liste prévue à l'article 12 de la loi du 30 décembre 1975 précitée a été décidée, mention de l'interdiction ou de l'inscription doit être faite, de façon claire, intelligible et apparente sur toutes affiches, annonces publicitaires ou bandes-annonces concernant l'oeuvre, quel que soit leur mode de diffusion. Toutefois, les bandes-annonces dont la diffusion a débuté avant la délivrance à l'œuvre du visa d'exploitation doivent être accompagnées d'un avertissement invitant les spectateurs à vérifier à quelle catégorie de public cette œuvre est destinée.
-
-En cas de diffusion d'une œuvre cinématographique par un service de communication audiovisuelle, le public doit être préalablement averti de cette interdiction ou de cette inscription, tant lors du passage à l'antenne que dans les annonces des programmes diffusées par la presse, la radiodiffusion et la télévision.
-
-Lorsqu'une oeuvre cinématographique fait l'objet d'une édition sous forme de vidéogramme destiné à l'usage privé du public, mention doit être faite de façon apparente sur chacun des exemplaires édités et proposés à la location ou à la vente, ainsi que sur leur emballage, des interdictions mentionnées aux article 3 et 3-1 du présent décret qui auront pu accompagner la délivrance du visa d'exploitation.
-
-En cas de mise à disposition du public d'une œuvre cinématographique sur demande individuelle formulée par un procédé de communication électronique, le destinataire est averti, préalablement à cette mise à disposition, des interdictions mentionnées aux articles 3 et 3-1 qui auront pu accompagner la délivrance du visa d'exploitation.

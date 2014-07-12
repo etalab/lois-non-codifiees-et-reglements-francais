@@ -37,7 +37,6 @@
 - [Décret n°64-636 du 27 juin 1964](decret-n64-636-du-27-juin-1964)
 - [Décret n°64-775 du 28 juillet 1964](decret-n64-775-du-28-juillet-1964)
 - [Décret n°64-906 du 28 août 1964](decret-n64-906-du-28-aout-1964)
-- [Décret n°64-459 du 28 mai 1964](decret-n64-459-du-28-mai-1964)
 - [Décret n°64-805 du 29 juillet 1964](decret-n64-805-du-29-juillet-1964)
 - [Décret n°64-1347 du 30 décembre 1964](decret-n64-1347-du-30-decembre-1964)
 - [Décret n°64-1355 du 30 décembre 1964](decret-n64-1355-du-30-decembre-1964)

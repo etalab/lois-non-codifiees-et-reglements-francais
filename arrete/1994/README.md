@@ -444,7 +444,6 @@
 - [Arrêté du 15 juillet 1994 (MENF9401115A)](arrete-du-15-juillet-1994-menf9401115a)
 - [Arrêté du 15 juin 1994 (ECOT9491012A)](arrete-du-15-juin-1994-ecot9491012a)
 - [Arrêté du 15 juin 1994 (ENVE9430165A)](arrete-du-15-juin-1994-enve9430165a)
-- [Arrêté du 15 juin 1994 (MCCK9400336A)](arrete-du-15-juin-1994-mcck9400336a)
 - [Arrêté du 15 mars 1994 (ECOT9451339A)](arrete-du-15-mars-1994-ecot9451339a)
 - [Arrêté du 15 mars 1994 (EQUP9400518A)](arrete-du-15-mars-1994-equp9400518a)
 - [Arrêté du 15 mars 1994 (SPSH9400965A)](arrete-du-15-mars-1994-spsh9400965a)
