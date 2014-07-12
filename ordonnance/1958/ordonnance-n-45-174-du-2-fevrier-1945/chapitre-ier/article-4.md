@@ -30,4 +30,4 @@ A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de 
 
 Un décret précise en tant que de besoin les modalités d'application du présent VI.
 
-VII.-L'article 706-88 du code de procédure pénale, à l'exception de ses sixième à avant-dernier alinéas, est applicable au mineur de plus de seize ans lorsqu'il existe une ou plusieurs raisons plausibles de soupçonner qu'une ou plusieurs personnes majeures ont participé, comme auteurs ou complices, à la commission de l'infraction.
+VII.-L'article 706-88 du code de procédure pénale, à l'exception de ses sixième à  huitième alinéas, est applicable au mineur de plus de seize ans lorsqu'il existe une ou plusieurs raisons plausibles de soupçonner qu'une ou plusieurs personnes majeures ont participé, comme auteurs ou complices, à la commission de l'infraction.
