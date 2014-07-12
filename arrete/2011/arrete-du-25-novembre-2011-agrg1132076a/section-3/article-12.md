@@ -8,7 +8,7 @@ I. - L'échantillonnage des sites se fait selon les règles suivantes.
 
 2° Le nombre de sites est strictement supérieur à 12 : la racine carrée du nombre de sites est auditée en audit initial, 0,6 de la racine carrée du nombre de sites est audité en audit de suivi et 0,8 de la racine carrée du nombre de sites est audité en audit de renouvellement. Le nombre de sites à auditer est arrondi au nombre entier supérieur.
 
-Au moins un quart de l'échantillon est sélectionné de manière aléatoire. Le reste de l'échantillon est sélectionné de sorte qu'il soit représentatif de la structure de l'entreprise.
+Au moins un quart de l'échantillon est sélectionné de manière aléatoire. Le reste de l'échantillon est sélectionné de sorte qu'il soit représentatif de la structure et des activités de l'entreprise.
 
 II. - La procédure d'échantillonnage distingue plusieurs catégories de sites permettant un calcul de l'assiette de contrôle différencié :
 

@@ -2,7 +2,7 @@
 
 Le cycle de certification est composé :
 
-I. ― D'une phase initiale d'une durée de trois ans maximum à compter de la délivrance de la certification, comprenant un audit de suivi intermédiaire. L'audit de suivi doit être réalisé dans les dix-huit mois, plus ou moins trois mois, suivant la délivrance de la certification.
+I. ― D'une phase initiale d'une durée de quatre ans maximum à compter de la délivrance de la certification, comprenant un audit de suivi intermédiaire. L'audit de suivi doit être réalisé dans les dix-huit mois, plus ou moins trois mois, suivant la délivrance de la certification.
 
 II. ― De phases de renouvellement d'une durée de six ans maximum à compter de la date du renouvellement de la certification, comprenant deux audits de suivi bisannuels. Les audits de suivi doivent être réalisés dans les vingt-quatre mois, plus ou moins trois mois, suivant la date de renouvellement de la certification.
 
