@@ -29,4 +29,6 @@
 - [LOI n°2014-742 du 1er juillet 2014 (DEVX1328530L)](loi-n2014-742-du-1er-juillet-2014-devx1328530l)
 - [LOI n°2014-773 du 7 juillet 2014 (MAEX1325199L)](loi-n2014-773-du-7-juillet-2014-maex1325199l)
 - [LOI n°2014-779 du 8 juillet 2014 (MCCX1325023L)](loi-n2014-779-du-8-juillet-2014-mccx1325023l)
+- [LOI n°2014-788 du 10 juillet 2014 (MENX1402669L)](loi-n2014-788-du-10-juillet-2014-menx1402669l)
+- [LOI n°2014-789 du 10 juillet 2014 (AFSX1405233L)](loi-n2014-789-du-10-juillet-2014-afsx1405233l)
 - [Loi n°96-1237 du 30 décembre 1996 (LOGX9600119L)](loi-n96-1237-du-30-decembre-1996-logx9600119l)
