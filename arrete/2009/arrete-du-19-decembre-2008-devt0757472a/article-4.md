@@ -1,6 +1,6 @@
 # Article 4
 
-Le secrétariat de la commission est assuré, dans sa formation au commerce et à la plaisance professionnelle, par la    direction interrégionale de la mer de Provence-Alpes-Côte d'Azur (Marseille) et, dans sa formation à la pêche, par la    direction interrégionale de la mer de Bretagne (Rennes).
+Le secrétariat de la commission est assuré, dans sa formation au commerce et à la plaisance professionnelle, par la direction interrégionale de la mer Méditerranée et, dans sa formation à la pêche, par la direction interrégionale de la mer Nord Atlantique-Manche Ouest.
 
 L'intéressé présente une demande de vérification de son niveau de connaissances juridiques et de la langue française au secrétariat de la formation compétente de la commission.
 
