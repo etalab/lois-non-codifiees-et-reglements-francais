@@ -2,7 +2,7 @@
 
 Conformément à l'article D. 212-43 du code rural, le collecteur de cadavres doit notifier à la base de données nationale d'identification des porcins par l'intermédiaire du système d'information de l'alimentation les informations suivantes :
 
-- le numéro de l'exploitation d'élevage ou l'indicatif de marquage du site d'élevage d'origine des animaux ;
+- l'indicatif de marquage du site d'élevage d'origine des animaux ;
 
 - le numéro de l'exploitation dans le cas d'un centre de rassemblement ou d'un abattoir ;
 

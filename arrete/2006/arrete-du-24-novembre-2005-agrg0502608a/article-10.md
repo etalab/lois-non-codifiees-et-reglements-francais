@@ -2,7 +2,7 @@
 
 Pour l'application de l'article D. 212-43, sans préjudice des obligations prévues par le règlement (CE) 1774 / 2002 susvisé, tout détenteur doit communiquer lors de la demande d'enlèvement au collecteur de cadavre les informations suivantes :
 
-- le numéro de l'exploitation d'élevage ou l'indicatif de marquage du site d'élevage d'origine des animaux ;
+- l'indicatif de marquage du site d'élevage d'origine des animaux ;
 
 - le numéro de l'exploitation dans le cas d'un centre de rassemblement ou d'un abattoir ;
 
