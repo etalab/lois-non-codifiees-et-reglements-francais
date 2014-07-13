@@ -2,7 +2,7 @@
 
 La délégation à l'information et à la communication est placée sous l'autorité d'un délégué.
 
-Le délégué est assisté, pour l'ensemble de ses attributions, d'un adjoint portant le titre de délégué adjoint.
+Le délégué est assisté, pour l'ensemble de ses attributions,   de deux adjoints portant le titre de délégué adjoint.
 
 La délégation à l'information et à la communication comprend :
 
