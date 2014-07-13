@@ -1274,6 +1274,7 @@
 - [Arrêté du 26 février 2014 (JUSF1405558A)](arrete-du-26-fevrier-2014-jusf1405558a)
 - [Arrêté du 26 février 2014 (MCCB1404157A)](arrete-du-26-fevrier-2014-mccb1404157a)
 - [Arrêté du 26 février 2014 (MENF1403881A)](arrete-du-26-fevrier-2014-menf1403881a)
+- [Arrêté du 26 juillet 2004 (SOCF0411541A)](arrete-du-26-juillet-2004-socf0411541a)
 - [Arrêté du 26 juin 2002 (MENA0201474A)](arrete-du-26-juin-2002-mena0201474a)
 - [ARRÊTÉ du 26 juin 2014 (DEVL1400593A)](arrete-du-26-juin-2014-devl1400593a)
 - [ARRÊTÉ du 26 juin 2014 (DEVL1409581A)](arrete-du-26-juin-2014-devl1409581a)
