@@ -6,7 +6,7 @@ I. - Le service des ressources humaines conçoit et met en œuvre, en liaison av
 
 Il assure une fonction de conseil et d'expertise auprès des directions générales, des services et des opérateurs du ministère.
 
-Il élabore les orientations de la politique d'encadrement supérieur du ministère et assure le suivi personnalisé des cadres dirigeants en fonction dans les services centraux du ministère.
+Il élabore les orientations de la politique d'encadrement supérieur du ministère en liaison avec le haut fonctionnaire chargé de l'encadrement supérieur.
 
 Il conduit le programme en vue du raccordement du ministère à l'opérateur national de paye et, à compter de ce raccordement, est le garant du bon fonctionnement des activités de gestion administrative et de paye en relation avec l'opérateur.
 

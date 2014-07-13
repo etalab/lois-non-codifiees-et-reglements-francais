@@ -2,7 +2,7 @@
 
 Structures composant le secrétariat général.
 
-Le secrétariat général comprend, outre le haut fonctionnaire chargé du développement durable :
+Le secrétariat général comprend, outre le haut fonctionnaire chargé du développement durable et le haut fonctionnaire chargé de l'encadrement supérieur :
 
 ― le service des ressources humaines ;
 
@@ -18,6 +18,6 @@ Le secrétariat général comprend, outre le haut fonctionnaire chargé du déve
 
 ― la sous-direction des systèmes d'information ;
 
-- la délégation à l'information et à la communication
+-la délégation à l'information et à la communication
 
 ― le département de la programmation et des moyens dont il a la responsabilité.
