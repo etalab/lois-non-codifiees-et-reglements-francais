@@ -2235,7 +2235,6 @@
 - [Arrêté du 26 janvier 2009 (PRMG0824076A)](arrete-du-26-janvier-2009-prmg0824076a)
 - [Arrêté du 26 janvier 2009 (PRMG0826750A)](arrete-du-26-janvier-2009-prmg0826750a)
 - [Arrêté du 26 janvier 2009 (PRMG0826751A)](arrete-du-26-janvier-2009-prmg0826751a)
-- [Arrêté du 26 juillet 2004 (SOCF0411541A)](arrete-du-26-juillet-2004-socf0411541a)
 - [Arrêté du 26 juin 2008 (IOCA0809691A)](arrete-du-26-juin-2008-ioca0809691a)
 - [Arrêté du 26 juin 2009 (AGRT0913986A)](arrete-du-26-juin-2009-agrt0913986a)
 - [Arrêté du 26 juin 2009 (BCFL0914798A)](arrete-du-26-juin-2009-bcfl0914798a)
