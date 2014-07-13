@@ -1580,7 +1580,6 @@
 - [Arrêté du 19 avril 2012 (EFIZ1220091A)](arrete-du-19-avril-2012-efiz1220091a)
 - [Arrêté du 19 avril 2012 (ETSP1221191A)](arrete-du-19-avril-2012-etsp1221191a)
 - [Arrêté du 19 avril 2012 (ETST1134966A)](arrete-du-19-avril-2012-etst1134966a)
-- [Arrêté du 19 avril 2012 (MCCE1221265A)](arrete-du-19-avril-2012-mcce1221265a)
 - [Arrêté du 19 avril 2012 (MENV1207002A)](arrete-du-19-avril-2012-menv1207002a)
 - [Arrêté du 19 décembre 2011 (AGRE1132019A)](arrete-du-19-decembre-2011-agre1132019a)
 - [Arrêté du 19 décembre 2011 (AGRT1133515A)](arrete-du-19-decembre-2011-agrt1133515a)
