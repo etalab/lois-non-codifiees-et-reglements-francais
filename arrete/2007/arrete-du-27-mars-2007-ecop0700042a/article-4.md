@@ -1,6 +1,6 @@
 # Article 4
 
-I. - La troisième sous-direction est chargée de la mission "enseignement scolaire", à l'exception du programme "enseignement technique agricole", et de la mission "recherche et enseignement supérieur ", à l'exception des programmes "enseignement supérieur et recherche agricoles", "recherche duale (civile et militaire)" et "recherche culturelle et culture scientifique". Elle est également chargée des missions "prêts et avances à des particuliers ou à des organismes privés", "participations financières de l'Etat", ainsi que des programmes "développement des entreprises et de l'emploi" et "tourisme".
+I. - La troisième sous-direction est en charge des budgets de l'enseignement scolaire, de la recherche, de l'enseignement supérieur et de l'industrie.
 
 Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge de l'industrie, des petites et moyennes entreprises, du commerce, de l'artisanat, de l'éducation nationale et de la recherche.
 

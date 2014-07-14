@@ -1,12 +1,14 @@
 # Article 8
 
-I.-La septième sous-direction est chargée des missions "action extérieure de l'Etat", "aide publique au développement", "prêts à des Etats étrangers", "agriculture, pêche, alimentation, forêt et affaires rurales", "immigration, asile et intégration", "développement agricole et rural" et "engagements en faveur de la forêt dans le cadre de la lutte contre le changement climatique". Elle est également chargée des programmes "appel en garantie de l'Etat", "enseignement technique agricole", "enseignement supérieur et recherche agricoles" et "avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune".
+I. - La septième sous-direction est en charge des budgets de l'agriculture, de l'alimentation, de la forêt, des affaires rurales, de l'aide publique au développement, de l'action extérieure de l'Etat et de ceux concernant les financements structurés et les garanties de l'Etat, ainsi que du suivi des finances et des politiques de l'Union européenne.
 
 Elle traite des dispositifs d'aide au commerce extérieur.
 
 Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge de l'agriculture, des affaires européennes, des affaires étrangères, de la coopération, de l'aide publique au développement, du commerce extérieur et de l'immigration, de l'asile et de l'intégration.
 
 Elle assure le suivi des aspects budgétaires des travaux relatifs aux politiques européennes.
+
+Elle prescrit la mise à disposition de ressources par la France à l'Union européenne ainsi que des fonds européens au titre de la politique agricole commune aux organismes payeurs.
 
 II.-La septième sous-direction comprend :
 
@@ -26,12 +28,12 @@ Le bureau "finances et politiques de l'Union européenne" :
 
 Il est chargé des missions et programmes précisés dans l'annexe au présent arrêté.
 
-Il assure la coordination, pour leurs aspects financiers, des travaux relatifs aux politiques européennes, à leur évolution pluriannuelle, aux modes de financement de l'Union européenne ainsi qu'à l'élaboration et à l'exécution du budget communautaire annuel.
+Il assure la coordination, pour leurs aspects financiers, des travaux relatifs aux politiques européennes, à leur évolution pluriannuelle, aux modes de financement de l'Union européenne ainsi qu'à l'élaboration et à l'exécution de son budget. A ce titre, il prépare notamment les décisions de mise à disposition de ressources par la France à l'Union européenne ainsi que des fonds européens au titre de la politique agricole commune aux organismes payeurs.
 
-Une mission "commerce extérieur et garanties de l'Etat" :
+Le bureau "financements structurés, garantie de l'Etat et commerce extérieur" :
 
-Elle traite les dispositifs d'aide au commerce extérieur et de garantie.
+Il assure la synthèse, en matière budgétaire, des dispositifs de garantie de l'Etat et de financements structurés. Il traite des dispositifs d'aide au commerce extérieur.
 
-Elle est chargée des missions et des programmes précisés dans l'annexe au présent arrêté.
+Il est chargé des missions et des programmes précisés dans l'annexe au présent arrêté.
 
-Dans leur domaine de compétence, les bureaux "agriculture" et "affaires étrangères et aide au développement" et la mission "commerce extérieur et garanties de l'Etat" assurent la synthèse des travaux budgétaires relatifs aux ministères, organisations internationales ou organismes en charge des politiques correspondantes.
+Dans leur domaine de compétence, les bureaux "agriculture" et "affaires étrangères et aide au développement" et financements structurés, garanties de l'Etat et commerce extérieur assurent la synthèse des travaux budgétaires relatifs aux ministères, organisations internationales ou organismes en charge des politiques correspondantes.

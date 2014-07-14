@@ -1,16 +1,14 @@
 # Article 11
 
-I. - abrogé
-
-II. - Le directeur du budget est assisté d'un chef de service.
+Le directeur du budget est assisté d'un chef de service.
 
 Sont directement rattachés au chef de service :
 
 Le bureau " ressources humaines " :
 
-Il assure la gestion des personnels de la direction et des contrôles financiers, notamment pour les questions de recrutement, de parcours professionnels, de carrière, d'évaluation, de rémunération, de gestion administrative, de formation et d'action sociale.
+Il assure la gestion des personnels de la direction et desdépartements de contrôle budgétaire, notamment pour les questions de recrutement, de parcours professionnels, de carrière, d'évaluation, de rémunération, de gestion administrative, de formation et d'action sociale.
 
-Il assure la gestion des questions budgétaires de la direction.
+Il assure la gestion des questions relatives au budget de la direction.
 
 Le bureau " documentation, archives et courrier " :
 

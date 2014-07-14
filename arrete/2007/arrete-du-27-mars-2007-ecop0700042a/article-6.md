@@ -1,8 +1,10 @@
 # Article 6
 
-I. - La cinquième sous-direction est chargée des missions "défense", "anciens combattants, mémoire et liens avec la Nation", "sécurité", "sécurité civile", "pouvoirs publics", "administration générale et territoriale de l'Etat", "publications officielles et information administrative", "relations avec les collectivités territoriales", "direction de l'action du Gouvernement" et "contrôle de la circulation et du stationnement routiers" à l'exception du programme "radars". Elle est également chargée des programmes "pensions militaires d'invalidité et des victimes de guerre et autres pensions", "recherche duale (civile et militaire)", "optimisation de l'usage du spectre hertzien" et "sécurité et circulation routières".
+I. - La cinquième sous-direction est en charge des budgets de la défense, de la sécurité et de l'administration gouvernementale, générale et territoriale de l'Etat ainsi que des relations avec les collectivités territoriales.
 
 Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge de la défense, des anciens combattants, de l'intérieur, des services du Premier ministre et des collectivités locales. Elle suit les questions relatives aux administrations publiques locales et aux relations entre l'Etat et les collectivités locales.
+
+Elle est responsable du programme "désendettement de l'Etat" du compte d'affectation spéciale "contrôle de la circulation et du stationnement routiers" et ordonnance, à ce titre, les dépenses de ce programme.
 
 II. - La cinquième sous-direction comprend :
 

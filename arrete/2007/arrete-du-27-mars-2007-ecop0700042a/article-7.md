@@ -1,6 +1,6 @@
 # Article 7
 
-I. - La sixième sous-direction est chargée de la synthèse des comptes sociaux ainsi que des missions "régimes sociaux et de retraite", "santé", "solidarité, insertion et égalité des chances", "travail et emploi" et "financement national du développement et de la modernisation de l'apprentissage". Elle est également chargée des programmes "majoration de rentes", "prévention de l'exclusion et insertion des personnes vulnérables", "ouvriers des établissements industriels de l'Etat" et du programme "pensions civiles et militaires de retraite et allocations temporaires d'invalidité" en liaison avec la deuxième sous-direction.
+I.-La sixième sous-direction est en charge des budgets des secteurs de la santé, de l'emploi et de la formation professionnelle, de la solidarité et de l'insertion ainsi que du suivi du financement de la sécurité sociale et des retraites.
 
 Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge de la santé, des accidents du travail, du handicap, de la dépendance, de la famille, de la protection sociale, de l'emploi, de la formation professionnelle, de l'insertion et des retraites.
 
@@ -18,7 +18,7 @@ Il participe à l'élaboration et au suivi des lois de financement de la sécuri
 
 Il assure la synthèse du suivi des administrations sociales ainsi que des relations entre l'Etat et les organismes de protection sociale.
 
-Il est compétent pour la politique de la santé, de l'assurance maladie des accidents du travail et la participation aux travaux du Haut Conseil pour l'avenir de l'assurance maladie.
+Il est compétent pour la politique de la santé, de l'assurance maladie des accidents du travail et la participation aux travaux du Haut Conseil pour l'avenir de l'assurance maladie, du Haut Conseil du financement de la protection sociale, du comité interministériel de la performance et de la modernisation de l'offre de soins hospitaliers, de la commission des comptes de la sécurité sociale et du Conseil national de pilotage des agences régionales de santé.
 
 Le bureau "emploi et formation professionnelle" :
 
@@ -38,6 +38,8 @@ Le bureau "retraites et régimes spéciaux" :
 
 Il est chargé des missions et des programmes précisés dans l'annexe au présent arrêté.
 
-Il est compétent pour la politique des retraites et des régimes spéciaux, la participation aux travaux du conseil d'orientation des retraites et du comité de pilotage des régimes de retraite, les transferts financiers entre régimes et les comptes de l'ensemble des régimes de retraite obligatoires publics et privés et des organismes concourant à leur financement.
+Il assure notamment l'élaboration, le pilotage et la mise en œuvre des programmes " régimes de retraite des mines, de la SEITA et divers " et " ouvriers des établissements industriels de l'Etat ". A ce titre, il prépare les décisions d'engagement et d'ordonnancement des crédits relatifs à ces deux programmes.
+
+Il est compétent pour la politique des retraites et des régimes spéciaux, la participation aux travaux du conseil d'orientation des retraites et du comité de suivi des retraites, les transferts financiers entre régimes et les comptes de l'ensemble des régimes de retraite obligatoires publics et privés et des organismes concourant à leur financement. Il produit l'annexe au compte général de l'Etat relative à l'évaluation des engagements de l'Etat en matière de retraite.
 
 Dans son domaine de compétence, chacun des bureaux assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge des politiques correspondantes.

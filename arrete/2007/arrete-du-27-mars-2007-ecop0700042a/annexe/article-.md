@@ -1,26 +1,26 @@
 # Article 
 
-COMPÉTENCE DES SOUS-DIRECTIONS ET BUREAUX DE LA DIRECTION DU BUDGET
-
-SUR LES MISSIONS ET PROGRAMMES DU BUDGET GÉNÉRAL ET HORS BUDGET GÉNÉRAL
+COMPÉTENCE DES SOUS-DIRECTIONS ET BUREAUX DE LA DIRECTION DU BUDGET SUR LES MISSIONS ET PROGRAMMES DE L'ÉTAT
 
 Première sous-direction
 
 Bureau "lois de finances"
 
-Mission "engagements financiers de l'Etat" :
+Mission  engagements financiers de l'Etat  :
 
-Programme charge de la dette et trésorerie de l'Etat".
+Programme "charge de la dette et trésorerie de l'Etat (crédits évaluatifs)".
+
+Mission "provisions" :
+
+Dotation "provision relative aux rémunérations publiques" ;
+
+Dotation "programme "dépenses accidentelles et imprévisibles"".
+
+Bureau "suivi de l'exécution budgétaire"
 
 Mission "gestion des finances publiques et des ressources humaines" :
 
 Programme "entretien des bâtiments de l'Etat".
-
-Mission "provisions" :
-
-Programme "provision relative aux rémunérations publiques" ;
-
-Programme "dépenses accidentelles et imprévisibles".
 
 Mission "gestion du patrimoine immobilier de l'Etat" :
 
@@ -32,9 +32,9 @@ Bureau "recettes"
 
 Mission "remboursements et dégrèvements" :
 
-Programme "remboursements et dégrèvements d'impôts d'Etat" ;
+Programme "remboursements et dégrèvements d'impôts d'Etat (crédits évaluatifs)" ;
 
-Programme "remboursements et dégrèvements d'impôts locaux".
+Programme "remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)".
 
 Mission "accords monétaires internationaux" :
 
@@ -46,15 +46,11 @@ Programme "relations avec l'Union des Comores".
 
 Mission "avances à divers services de l'Etat ou organismes gérant des services publics" :
 
-Programme "avances à des organismes distincts de l'Etat et gérant des services publics" ;
+Programme "avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune" ;
+
+Programme "avances à des organismes distincts de l'Etat et gérant des services publics";
 
 Programme "avances à des services de l'Etat".
-
-Mission "avances aux collectivités territoriales" :
-
-Programme "avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie" ;
-
-Programme "avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes".
 
 Troisième sous-direction
 
@@ -68,7 +64,7 @@ Programme "enseignement scolaire public du second degré" ;
 
 Programme "vie de l'élève" ;
 
-Programme "enseignement privé du premier et du second degrés" ;
+Programme "enseignement privé du premier et du second degré" ;
 
 Programme "soutien de la politique de l'éducation nationale".
 
@@ -90,15 +86,19 @@ Bureau "énergie, participations, industrie et innovation"
 
 Mission "économie" :
 
-Programme "développement des entreprises et de l'emploi" ;
-
-Programme "tourisme".
+Programme "développement des entreprises et du tourisme".
 
 Mission "recherche et enseignement supérieur" :
 
-Programme "recherche dans les domaines de l'énergie, du développement et de l'aménagement durables" ;
+Programme "recherche dans les domaines de l'énergie, du développement et de la mobilité durables" ;
 
 Programme "recherche et enseignement supérieur en matière économique et industrielle".
+
+Mission "financement des aides aux collectivités pour l'électrification rurale" :
+
+Programme "électrification rurale" ;
+
+Programme "opérations de maîtrise de la demande d'électricité, de production d'électricité par des énergies renouvelables ou de production de proximité dans des zones non interconnectées, déclarations d'utilité publique et intempéries".
 
 Mission "participations financières de l'Etat" :
 
@@ -112,19 +112,21 @@ Programme "prêts et avances pour le logement des agents de l'Etat" ;
 
 Programme "prêts pour le développement économique et social" ;
 
-Programme "prêts à la filière automobile" ;
-
-Programme "prêts et avances au Fonds de prévention des risques naturels majeurs".
+Programme "prêts à la filière automobile".
 
 Quatrième sous-direction
 
 Bureau "transports"
 
-Mission "écologie, développement et aménagement durables" :
+Mission "écologie, développement et mobilité durables" :
 
 Programme "infrastructures et services de transports" ;
 
-Programme "sécurité et affaires maritimes".
+Programme "sécurité et affaires maritimes, pêche et aquaculture".
+
+Mission "sécurités" :
+
+Programme "sécurité et éducation routières".
 
 Mission "contrôle et exploitation aériens" :
 
@@ -132,51 +134,57 @@ Programme "soutien aux prestations de l'aviation civile" ;
 
 Programme "navigation aérienne" ;
 
-Programme "transports aériens, surveillance et certification" ;
-
-Programme "formation aéronautique".
+Programme "transports aériens, surveillance et certification".
 
 Mission "contrôle de la circulation et du stationnement routiers" :
 
 Programme "radars".
 
+Programme "Fichier national du permis de conduire".
+
+Mission "services nationaux de transport conventionnés de voyageurs" :
+
+Programme "exploitations des services nationaux de transport conventionnés" ;
+
+Programme "matériel roulant des services nationaux de transport conventionnés".
+
 Bureau "développement durable"
 
-Mission "écologie, développement et aménagement durables" :
+Mission "écologie, développement et mobilité durables" :
 
 Programme "météorologie" ;
 
-Programme "urbanisme, paysages, eau et biodiversité" :
-
-- action "gestion des milieux et biodiversité" ;
+Programme "paysages, eau et biodiversité" ;
 
 Programme "prévention des risques" ;
 
 Programme "énergie, climat et après-mines" ;
 
-Programme "conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer".
+Programme "conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables".
 
-Mission "services nationaux de transport conventionnés de voyageurs" :
+Mission "égalité des territoires, logement et ville" :
 
-Programme "exploitation des services nationaux de transport conventionnés" ;
+Programme "conduite et pilotage des politiques de l'égalité des territoires, du logement et de la ville".
 
-Programme "matériel roulant des services nationaux de transport conventionnés".
+Mission "aides à l'acquisition de véhicules propres" :
 
-Mission "avances au fonds d'aide à l'acquisition de véhicules propres" :
+Programme "contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres" ;
 
-Programme "avances au titre du paiement de l'aide à l'acquisition de véhicules propres" ;
-
-Programme "avances au titre du paiement de la majoration de l'aide à l'acquisition de véhicules propres en cas de destruction simultanée d'un véhicule de plus de quinze ans".
+Programme "contribution au financement de l'attribution d'aides au retrait de véhicules polluants".
 
 Bureau "logement, ville et territoires"
 
-Mission "écologie, développement et aménagement durables" :
+Mission "écologie, développement et mobilité durables" :
 
-Programme "information géographique et cartographique" ;
+Programme "information géographique et cartographique".
 
-Programme "urbanisme, paysages, eau et biodiversité" :
+Mission "égalité des territoires, logement et ville" :
 
-- action "urbanisme, aménagement et sites - planification".
+Programme "aide à l'accès au logement" ;
+
+Programme "urbanisme, territoires et amélioration de l'habitat" ;
+
+Programme "politique de la ville".
 
 Mission "engagements financiers de l'Etat" :
 
@@ -187,14 +195,6 @@ Mission "politique des territoires" :
 Programme "impulsion et coordination de la politique d'aménagement du territoire" ;
 
 Programme "interventions territoriales de l'Etat".
-
-Mission "ville et logement" :
-
-Programme "développement et amélioration de l'offre de logement" ;
-
-Programme "aide à l'accès au logement" ;
-
-Programme "politique de la ville et Grand Paris".
 
 Cinquième sous-direction
 
@@ -222,13 +222,9 @@ Mission "recherche et enseignement supérieur" :
 
 Programme "recherche duale (civile et militaire)".
 
-Mission "pensions" :
+Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien, des systèmes et des infrastructures de télécommunications de l'Etat" :
 
-Programme "pensions militaires d'invalidité et des victimes de guerre et autres pensions".
-
-Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien" :
-
-Programme "optimisation de l'usage du spectre hertzien".
+Programme "optimisation de l'usage du spectre hertzien et interception et traitement des émissions électromagnétiques (ministère de la défense)".
 
 Bureau "intérieur et action gouvernementale"
 
@@ -248,39 +244,31 @@ Programme "protection des droits et libertés" ;
 
 Programme "moyens mutualisés des administrations déconcentrées".
 
-Mission "écologie, développement et aménagement durables" :
-
-Programme "sécurité et circulation routières".
-
 Mission "pouvoirs publics" :
 
-Dotation "présidence de la République" ;
+dotation "présidence de la République" ;
 
-Dotation "Assemblée nationale" ;
+dotation "Assemblée nationale" ;
 
-Dotation "Sénat" ;
+dotation "Sénat" ;
 
-Dotation "La Chaîne parlementaire" ;
+dotation "La Chaîne parlementaire" ;
 
-Dotation "indemnités des représentants français au Parlement européen" ;
+dotation "indemnités des représentants français au Parlement européen" ;
 
-Dotation "Conseil constitutionnel" ;
+dotation "Conseil constitutionnel" ;
 
-Dotation "Haute Cour" ;
+dotation "Haute Cour" ;
 
-Dotation "Cour de justice de la République".
+dotation "Cour de justice de la République".
 
-Mission "sécurité" :
+Mission "sécurités" :
 
 Programme "police nationale" ;
 
-Programme "gendarmerie nationale".
+Programme "gendarmerie nationale" ;
 
-Mission "sécurité civile" :
-
-Programme "intervention des services opérationnels" ;
-
-Programme "coordination des moyens de secours".
+Programme "sécurité civile".
 
 Mission "publications officielles et information administrative" :
 
@@ -290,11 +278,19 @@ Programme "pilotage et activités de développement des publications".
 
 Mission "contrôle de la circulation et du stationnement routiers" :
 
-Programme "fichier national du permis de conduire" ;
+Programme "Fichier national du permis de conduire" ;
 
 Programme "contrôle et modernisation de la politique de la circulation et du stationnement routiers".
 
+Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien, des systèmes et des infrastructures de télécommunications de l'Etat" :
+
+Programme "optimisation de l'usage du spectre hertzien et des infrastructures du réseau physique de télécommunications du ministère de l'intérieur".
+
 Bureau "collectivités locales"
+
+Mission "remboursements et dégrèvements" :
+
+Programme "remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)".
 
 Mission "relations avec les collectivités territoriales" :
 
@@ -312,15 +308,33 @@ Programme "contribution à l'équipement des collectivités territoriales pour l
 
 Programme "désendettement de l'Etat".
 
+Mission "avances aux collectivités territoriales" :
+
+Programme "avances aux collectivités et établissements publics et à la Nouvelle-Calédonie" ;
+
+Programme "avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes".
+
 Sixième sous-direction
 
 Bureau "comptes sociaux et santé"
 
 Mission "santé" :
 
-Programme "prévention, sécurité sanitaire et offre de soins".
+Programme "prévention, sécurité sanitaire et offre de soins" ;
 
 Programme "protection maladie".
+
+Mission "avances à divers services de l'Etat ou organismes gérant des services publics" :
+
+Programme "avances à l'Office national d'indemnisation des accidents médicaux, des affectations iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du benfluorex".
+
+Mission "avances aux organismes de sécurité sociale" :
+
+Programme "avance à l'Agence centrale des organismes de sécurité sociale (ACOSS) de la fraction de TVA prévue au 3° de l'article L. 241-2 du code de la sécurité sociale" ;
+
+Programme "avance à l'Agence centrale de organismes de sécurité sociale (ACOSS) de la fraction de TVA affectée aux organismes de sécurité sociale en compensation des exonérations de cotisations sur les heures supplémentaires" ;
+
+Programme "avance à l'Agence centrale de organismes de sécurité sociale (ACOSS) de la fraction de TVA affectée aux organismes de sécurité sociale en compensation de l'exonération de cotisations sociales sur les services à la personne".
 
 Bureau "emploi et formation professionnelle"
 
@@ -336,13 +350,17 @@ Programme "conception, gestion et évaluation des politiques de l'emploi et du t
 
 Mission "financement national du développement et de la modernisation de l'apprentissage" :
 
-Programme "péréquation entre régions des ressources de la taxe d'apprentissage" ;
+Programme "péréquation entre régions et compensation au titre du transfert du versement de l'indemnité compensatrice forfaitaire" ;
 
 Programme "contractualisation pour le développement et la modernisation de l'apprentissage" ;
 
 Programme "incitations financières en direction des entreprises respectant les quotas en alternance".
 
 Bureau "solidarité et insertion"
+
+Mission "égalité des territoires, logement et ville" :
+
+Programme "prévention de l'exclusion et insertion des personnes vulnérables".
 
 Mission "solidarité, insertion et égalité des chances" :
 
@@ -352,19 +370,15 @@ Programme "actions en faveur des familles vulnérables" ;
 
 Programme "handicap et dépendance" ;
 
-Programme "égalité entre les hommes et les femmes" ;
+Programme "égalité entre les femmes et les hommes" ;
 
 Programme "conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative".
-
-Mission "ville et logement" :
-
-Programme "prévention de l'exclusion et insertion des personnes vulnérables".
 
 Bureau "retraites et régimes spéciaux"
 
 Mission "engagements financiers de l'Etat" :
 
-Programme "majoration de rentes".
+Programme "majoration de rentes" .
 
 Mission "régimes sociaux et de retraite" :
 
@@ -376,17 +390,19 @@ Programme "régimes de retraite des mines, de la SEITA et divers".
 
 Mission "pensions" :
 
+Programme "pensions civiles et militaires de retraite et allocations temporaires d'invalidité" ;
+
 Programme "ouvriers des établissements industriels de l'Etat" ;
 
-Programme "pensions civiles et militaires de retraite et allocations temporaires d'invalidité".
+Programme "pensions militaires d'invalidité et des victimes de guerre et autres pensions".
 
 Septième sous-direction
 
 Bureau "agriculture"
 
-Mission "agriculture, pêche, alimentation, forêt et affaires rurales" :
+Mission "agriculture, alimentation, forêt et affaires rurales" :
 
-Programme "économie et développement durable de l'agriculture, de la pêche et des territoires" ;
+Programme "économie et développement durable de l'agriculture, et des territoires" ;
 
 Programme "forêt" ;
 
@@ -410,35 +426,25 @@ Programme "recherche appliquée et innovation en agriculture".
 
 Bureau "affaires étrangères et aide au développement"
 
-Mission "action extérieure de l'Etat" :
+Mission"action extérieure de l'Etat" :
 
 Programme "action de la France en Europe et dans le monde" ;
 
 Programme "diplomatie culturelle et d'influence" ;
 
-Programme "Français à l'étranger et affaires consulaires" ;
-
-Programme "Présidence française du G20 et du G8".
+Programme "Français à l'étranger et affaires consulaires".
 
 Mission "aide publique au développement" :
 
 Programme "aide économique et financière au développement" ;
 
-Programme "solidarité à l'égard des pays en développement" ;
-
-Programme "développement solidaire et migrations".
+Programme "solidarité à l'égard des pays en développement".
 
 Mission "immigration, asile et intégration" :
 
 Programme "immigration et asile" ;
 
 Programme "intégration et accès à la nationalité française".
-
-Mission "engagements en faveur de la forêt dans le cadre de la lutte contre le changement climatique" :
-
-Programme "projets de lutte contre la déforestation dans le cadre du financement précoce" ;
-
-Programme "actions des fonds environnementaux contre la déforestation dans le cadre du financement précoce".
 
 Mission "prêts à des Etats étrangers" :
 
@@ -452,19 +458,27 @@ Mission "avances à divers services de l'Etat ou organismes gérant des services
 
 Programme "avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune".
 
-Mission "prêts à des Etats étrangers" :
-
-Programme "Prêts aux Etats membres de l'Union européenne dont la monnaie est l'euro".
-
-Mission "commerce extérieur et garanties de l'Etat"
+Bureau "financements structurés, garanties de l'Etat et commerce extérieur"
 
 Mission "engagements financiers de l'Etat" :
 
-Programme "appels en garantie de l'Etat".
+Programme "appels en garantie de l'Etat" (crédits évaluatifs) ;
+
+Programme "dotation en capital du Mécanisme européen de stabilité" ;
+
+Programme "augmentation de capital de la Banque européenne d'investissement".
+
+Mission "participation de la France au désendettement de la Grèce" :
+
+Programme "versement de la France au titre de la restitution à cet Etat des revenus perçus sur les titres grecs" ;
+
+Programme "rétrocessions de trop-perçus à la Banque de France".
 
 Mission "prêts à des Etats étrangers" :
 
-Programme "prêts à des Etats étrangers, de la Réserve pays émergents, en vue de faciliter la réalisation de projets d'infrastructure".
+Programme "prêts à des Etats étrangers, de la réserve pays émergents, en vue de faciliter la réalisation de projets d'infrastructure" ;
+
+Programme "prêts aux Etats membres de l'Union européenne dont la monnaie est l'euro".
 
 Huitième sous-direction
 
@@ -478,19 +492,21 @@ Programme "création" ;
 
 Programme "transmission des savoirs et démocratisation de la culture".
 
+Mission "recherche et enseignement supérieur" :
+
+Programme "recherche culturelle et culture scientifique".
+
 Mission "sport, jeunesse et vie associative" :
 
 Programme "sport" ;
 
 Programme "jeunesse et vie associative".
 
-Mission "recherche et enseignement supérieur" :
-
-Programme "recherche culturelle et culture scientifique".
-
 Bureau "économie, finances et outre-mer"
 
 Mission "économie" :
+
+Programme "développement des entreprises et du tourisme" ;
 
 Programme "statistiques et études économiques" ;
 
@@ -522,7 +538,9 @@ Programme "Conseil d'Etat et autres juridictions administratives" ;
 
 Programme "Conseil économique, social et environnemental" ;
 
-Programme "Cour des comptes et autres juridictions financières".
+Programme "Cour des comptes et autres juridictions financières" ;
+
+Programme "Haut Conseil des finances publiques".
 
 Mission "justice" :
 
@@ -534,7 +552,7 @@ Programme "protection judiciaire de la jeunesse" ;
 
 Programme "accès au droit et à la justice" ;
 
-Programme "conduite et pilotage de la politique de la justice".
+Programme "conduite et pilotage de la politique de la justice" ;
 
 Programme "Conseil supérieur de la magistrature".
 
@@ -548,7 +566,7 @@ Programme "contribution à l'audiovisuel et à la diversité radiophonique" ;
 
 Programme "action audiovisuelle extérieure".
 
-Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien" :
+Mission "gestion et valorisation des ressources tirées de l'utilisation du spectre hertzien, des systèmes et des infrastructures de télécommunications de l'Etat" :
 
 Programme "désendettement de l'Etat".
 
@@ -556,7 +574,7 @@ Mission "avances à l'audiovisuel public" :
 
 Programme "France Télévisions" ;
 
-Programme "ARTE France" ;
+Programme "Arte France" ;
 
 Programme "Radio France" ;
 
