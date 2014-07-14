@@ -514,7 +514,6 @@
 - [Arrêté du 8 août 2011 (DEVP1102168A)](arrete-du-8-aout-2011-devp1102168a)
 - [Arrêté du 8 août 2011 (DEVP1102170A)](arrete-du-8-aout-2011-devp1102170a)
 - [Arrêté du 8 août 2011 (DEVS1122184A)](arrete-du-8-aout-2011-devs1122184a)
-- [Arrêté du 8 août 2011 (JUST1122376A)](arrete-du-8-aout-2011-just1122376a)
 - [Arrêté du 8 août 2011 (SCSA1119193A)](arrete-du-8-aout-2011-scsa1119193a)
 - [Arrêté du 8 août 2011 (SCSA1119198A)](arrete-du-8-aout-2011-scsa1119198a)
 - [Arrêté du 8 août 2011 (SPOF1122355A)](arrete-du-8-aout-2011-spof1122355a)
