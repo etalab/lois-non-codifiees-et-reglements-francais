@@ -919,7 +919,6 @@
 - [Arrêté du 28 novembre 1994 (EQUS9402034A)](arrete-du-28-novembre-1994-equs9402034a)
 - [Arrêté du 28 novembre 1994 (INTA9400499A)](arrete-du-28-novembre-1994-inta9400499a)
 - [Arrêté du 28 novembre 1994 (INTB9400603A)](arrete-du-28-novembre-1994-intb9400603a)
-- [Arrêté du 28 novembre 1994 (MENL9402069A)](arrete-du-28-novembre-1994-menl9402069a)
 - [Arrêté du 28 novembre 1994 (SANH9403691A)](arrete-du-28-novembre-1994-sanh9403691a)
 - [Arrêté du 28 novembre 1994 (SANH9403692A)](arrete-du-28-novembre-1994-sanh9403692a)
 - [Arrêté du 28 octobre 1963](arrete-du-28-octobre-1963)
