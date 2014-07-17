@@ -1,4 +1,4 @@
-# Arrêté du 28 novembre 1994 relatif aux modèles des diplômes des baccalauréats général et technologique
+# Arrêté du 23 juin 2014 portant création de la mention « vol à moteur » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif »
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,4 +7,3 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Article 10](article-10.md)

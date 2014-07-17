@@ -1,0 +1,3 @@
+# Article 6
+
+Le candidat titulaire du brevet et de la licence de pilote d'ultraléger motorisé ainsi que de la qualification d'instructeur de pilote d'ultraléger motorisé en cours de validité obtient de droit l'unité capitalisable 1 (UC1) : « être capable de concevoir un projet d'action », l'unité capitalisable 2 (UC2) : « être capable de coordonner la mise en œuvre d'un projet d'action », l'unité capitalisable 3 (UC3) : « conduire une démarche de perfectionnement sportif » et l'unité capitalisable 4 (UC4) « être capable d'encadrer le vol ultraléger motorisé en sécurité » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « vol ultraléger motorisé ».
