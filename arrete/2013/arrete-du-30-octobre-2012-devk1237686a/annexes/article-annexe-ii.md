@@ -33,15 +33,14 @@ COMPÉTENCE TERRITORIALE DES SERVICES INSTRUCTEURS POUR LES DÉPARTEMENTS NON LI
 </td>
 <td align="center">DDTM du Nord<br/>
 </td>
-<td align="center">Aisne (02), Ardennes (08), Oise (60)<br/>
-</td>
+<td align="center">Aisne (02), Ardennes (08), Marne (51), Oise (60), </td>
 </tr>
 <tr>
 <td align="center">Paris <br/>
 </td>
 <td align="center">DRIEA Ile-de-France<br/>
 </td>
-<td align="center">Aube (10), Cher (18), Eure-et-Loir (28), Loiret (45), Marne (51), Nièvre (58), Orne (61), Paris (75), Seine-et-Marne (77), Yvelines (78), Yonne (89), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>
+<td align="center">Aube (10), Cher (18), Loiret (45), Nièvre (58),  Paris (75), Seine-et-Marne (77), Yvelines (78), Yonne (89), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>
 </td>
 </tr>
 <tr>
@@ -58,6 +57,17 @@ COMPÉTENCE TERRITORIALE DES SERVICES INSTRUCTEURS POUR LES DÉPARTEMENTS NON LI
 <td align="center">DDT de Haute-Garonne<br/>
 </td>
 <td align="center">Ariège (09), Aveyron (12), Cantal (15), Corrèze (19), Dordogne (24), Haute-Garonne (31), Gers (32), Lot (46), Lot-et-Garonne (47), Lozère (48), Hautes-Pyrénées (65), Tarn (81), Tarn-et-Garonne (82)<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">  Seine-Maritime </p>
+</td>
+<td>
+<p align="center"> DDTM de Seine-Maritime </p>
+</td>
+<td>
+<p align="center"> Eure-et-Loir (28) et Orne (61)</p>
 </td>
 </tr>
 </tbody>
