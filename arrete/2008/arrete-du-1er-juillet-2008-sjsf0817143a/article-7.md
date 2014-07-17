@@ -1,3 +1,3 @@
 # Article 7
 
-Les titulaires du brevet d'Etat d'éducateur sportif du premier degré, option « volley-ball », obtiennent de droit l'unité capitalisable quatre (UC 4) « être capable d'encadrer le volley-ball en sécurité » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « volley-ball ».
+Les titulaires du brevet d'Etat d'éducateur sportif du premier degré, option "volley-ball" du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "volley-ball et volley-ball de plage (beach volley)", ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités sports collectifs" mention "volley-ball", obtiennent de droit l'unité capitalisable quatre (UC 4) "être capable d'encadrer le volley-ball en sécurité" du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "perfectionnement sportif", mention "volley-ball".

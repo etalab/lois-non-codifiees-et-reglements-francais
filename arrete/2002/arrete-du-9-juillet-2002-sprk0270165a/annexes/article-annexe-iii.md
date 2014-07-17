@@ -2,13 +2,13 @@
 
 EXIGENCES PREALABLES A L'ENTREE EN FORMATION
 
-L'entrée en formation d'un candidat pour chaque mention de la spécialité " activités nautiques " du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, est précédée d'exigences préalables. Le candidat doit justifier de l'attestation de réussite au (x) test (s) d'exigences préalables à l'entrée en formation pour :
+L'entrée en formation d'un candidat pour chaque mention de la spécialité "activités nautiques" du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, est précédée d'exigences préalables. Le candidat doit justifier de l'attestation de réussite au (x) test (s) d'exigences préalables à l'entrée en formation pour :
 
 - Les supports d'une discipline lorsqu'il s'agit d'une mention monovalente.
 
 - Les supports constitutifs de la mention lorsqu'il s'agit d'une mention plurivalente.
 
-Mention " aviron et disciplines associées " et supports " aviron de mer ", " aviron d'initiation et de découverte "
+Mention "aviron et disciplines associées" et supports "aviron de mer", "aviron d'initiation et de découverte"
 
 1. Exigences préalables à l'entrée en formation, communes à la mention "aviron et disciplines associées" et aux supports "aviron de mer", "aviron d'initiation et de découverte" :
 
@@ -36,37 +36,37 @@ Etre capable de :
 
 2. Dispenses et équivalences :
 
-- Le niveau " aviron et disciplines associées d'argent " délivré par la fédération française des sociétés d'aviron et disciplines associées, tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française des Sociétés d'aviron et disciplines associées, dispense du test technique préalable à l'entrée en formation de la spécialité " activités nautiques " du B. P. J. E. P. S., pour la mention " aviron " et les supports " aviron et disciplines associées de mer " et " aviron et disciplines associées d'initiation et de découverte ".
+- Le niveau "aviron et disciplines associées d'argent" délivré par la fédération française des sociétés d'aviron et disciplines associées, tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française des Sociétés d'aviron et disciplines associées, dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B. P. J. E. P. S., pour la mention "aviron" et les supports "aviron et disciplines associées de mer" et "aviron et disciplines associées d'initiation et de découverte".
 
-- est dispensé du test technique, défini à l'annexe III, pour la mention "aviron " le titulaire :
+- est dispensé du test technique, défini à l'annexe III, pour la mention "aviron" le titulaire :
 
 - du diplôme d'éducateur fédéral d'aviron délivré par la Fédération française des sociétés d'aviron ; ou
 
 - du certificat de qualification professionnelle "moniteur d'aviron".
 
-Mention monovalente " canoë-kayak et disciplines associées " :
+Mention monovalente "canoë-kayak et disciplines associées" :
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention " canoë-kayak et disciplines associées ", le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention " canoë-kayak et disciplines associées ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
-Support " canoë-kayak, eau calme, mer et vagues " :
+Support "canoë-kayak, eau calme, mer et vagues" :
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme, mer et vagues ", le titulaire d'une pagaie rouge du support, délivrée par la Fédération française de canoë-kayak ;
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support "canoë-kayak, eau calme, mer et vagues", le titulaire d'une pagaie rouge du support, délivrée par la Fédération française de canoë-kayak ;
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme, mer et vagues ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support "canoë-kayak, eau calme, mer et vagues", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
-Support " canoë-kayak, eau calme et rivière d'eau vive " :
+Support "canoë-kayak, eau calme et rivière d'eau vive" :
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme et rivière d'eau vive ", le titulaire d'une pagaie rouge du support, délivrée par la Fédération française de canoë-kayak ;
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support "canoë-kayak, eau calme et rivière d'eau vive", le titulaire d'une pagaie rouge du support, délivrée par la Fédération française de canoë-kayak ;
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support " canoë-kayak, eau calme et rivière d'eau vive ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour le support "canoë-kayak, eau calme et rivière d'eau vive", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
-L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention " canoë-kayak " et les supports " canoë-kayak, eau calme, mer et vagues ", " canoë-kayak, eau calme et rivière d'eau vive ", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
+L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention "canoë-kayak" et les supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
 
 1. Exigences préalables à l'entrée en formation :
 
-a) Les exigences préalables à l'entrée en formation pour la mention monovalente " canoë-kayak et disciplines associées " sont constituées d'un test technique en eau vive ou en mer.
+a) Les exigences préalables à l'entrée en formation pour la mention monovalente "canoë-kayak et disciplines associées" sont constituées d'un test technique en eau vive ou en mer.
 
 Il est procédé à la vérification de ces exigences préalables au moyen d'un test technique en mer ou en eau vive, au choix du candidat :
 
@@ -92,7 +92,7 @@ Il est procédé à la vérification de ces exigences préalables au moyen d'un 
 
 - un retour à la berge avec son matériel, après un dessalage.
 
-b) Exigences préalables à l'entrée en formation pour le support : " Canoë-kayak eau calme, mer et vagues " :
+b) Exigences préalables à l'entrée en formation pour le support : "Canoë-kayak eau calme, mer et vagues" :
 
 Etre capable de :
 
@@ -120,7 +120,7 @@ Le parcours est un triangle avec un bord au compas, un bord travers en alignemen
 
 - Maîtriser l'esquimautage renforcé par rapport à la pagaie rouge : esquimautage dans tous les sens et dans toutes les conditions liées aux prérogatives d'encadrement.
 
-c) Exigences préalables à l'entrée en formation pour le support : " Canoë-kayak, eau calme et rivière d'eau vive " : Etre capable de :
+c) Exigences préalables à l'entrée en formation pour le support : "Canoë-kayak, eau calme et rivière d'eau vive" : Etre capable de :
 
 - Préparer et utiliser du matériel spécialisé.
 
@@ -156,15 +156,15 @@ c) Exigences préalables à l'entrée en formation pour le support : " Canoë-ka
 
 2. Dispenses et équivalences :
 
-- est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III, pour la mention " canoë-kayak et disciplines associées " le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
+- est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées" le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention " canoë-kayak et disciplines associées ", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
 
-Mention " char à voile " et support " char à voile d'initiation et de découverte "
+Mention "char à voile" et support "char à voile d'initiation et de découverte"
 
-L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention " char à voile " et le support " char à voile d'initiation et de découverte ", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve de maîtrise technique définie par l'instruction susnommée.
+L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention "char à voile" et le support "char à voile d'initiation et de découverte", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve de maîtrise technique définie par l'instruction susnommée.
 
-Mention " char à voile " :
+Mention "char à voile" :
 
 Test technique sur un engin pour chacun des groupes suivants :
 
@@ -172,7 +172,7 @@ Test technique sur un engin pour chacun des groupes suivants :
 
 - Char à voile debout ou tracté
 
-Support " char à voile d'initiation et de découverte " :
+Support "char à voile d'initiation et de découverte" :
 
 Test technique sur un engin d'un des groupes suivants :
 
@@ -180,7 +180,7 @@ Test technique sur un engin d'un des groupes suivants :
 
 - Char à voile debout ou tracté
 
-1. Exigences préalables à l'entrée en formation, communes à la mentio n " char à voile " et au support " char à voile d'initiation et de découverte " :
+1. Exigences préalables à l'entrée en formation, communes à la mention "char à voile" et au support "char à voile d'initiation et de découverte" :
 
 Etre capable de :
 
@@ -202,13 +202,13 @@ Etre capable de :
 
 2. Dispenses et équivalences :
 
-Le diplôme de " moniteur fédéral " de la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test technique préalable à l'entrée en formation de la spécialité " activités nautiques " du B. P. J. E. P. S. pour la mention " char à voile " pour le groupe d'engins concernés par la qualification du monitorat fédéral de la totalité pour le support " char à voile d'initiation et de découverte ". Le certificat de qualification professionnelle " assistant moniteur char à voile " dispense du test technique préalable à l'entrée en formation de la spécialité " activités nautiques " du BPJEPS pour la mention " char à voile " et pour le support " char à voile d'initiation et de découverte. "
+Le diplôme de "moniteur fédéral" de la fédération française de char à voile, tel que défini dans le dispositif des formations de la fédération française de char à voile, dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du B. P. J. E. P. S. pour la mention "char à voile" pour le groupe d'engins concernés par la qualification du monitorat fédéral de la totalité pour le support "char à voile d'initiation et de découverte". Le certificat de qualification professionnelle "assistant moniteur char à voile" dispense du test technique préalable à l'entrée en formation de la spécialité "activités nautiques" du BPJEPS pour la mention "char à voile" et pour le support "char à voile d'initiation et de découverte".
 
 Sur classement :
 
-- Mention " char à voile " : Une note moyenne pratique obtenue par classement en compétition, supérieure ou égale à 8/20 sur un des supports du " char à voile ", " char assis ou allongé " et " char debout ou tracté ".
+- Mention "char à voile" : Une note moyenne pratique obtenue par classement en compétition, supérieure ou égale à 8/20 sur un des supports du "char à voile", "char assis ou allongé" et "char debout ou tracté".
 
-- Support " char à voile d'initiation et de découverte " : Une note pratique obtenue par classement en compétition, supérieure ou égale à 10/20 sur un de supports précités.
+- Support "char à voile d'initiation et de découverte" : Une note pratique obtenue par classement en compétition, supérieure ou égale à 10/20 sur un de supports précités.
 
 Toutes les classes de char à voile possédant l'une des formes de compétition mentionnée ouvrent droit à délivrance d'une note technique sur la base de la formule suivante :
 
@@ -230,7 +230,7 @@ La note est attribuée sur 20 selon les formules suivantes :
 
 La note perd deux points pour chaque période de cinq ans écoulés, depuis la date de réalisation de la performance et sa date d'utilisation. Les notes attribuées sur la base d'un classement national des pilotes sont attribuées sur la place obtenue au terme de la saison sportive.
 
-Mention " glisses aérotractées "
+Mention "glisses aérotractées"
 
 1. Exigences préalables à l'entrée en formation mention "glisses aérotractées" :
 
@@ -268,15 +268,15 @@ Les diplômes de moniteur fédéral de vol libre, option "glisses aérotractées
 
 Une attestation de niveau en compétition correspondant aux rangs des huit premiers du championnat de France ou vingt premiers du classement mondial de référence pour les hommes et des quatre premiers du championnat de France ou des dix premiers du classement mondial pour les femmes, délivrée par le directeur technique du vol libre, dispense du test technique mentionné à l'alinéa précédent.
 
-Mention " motonautisme " et supports " jet ", " bateau à moteur d'initiation et de découverte ", " engins tractés "
+Mention "motonautisme" et supports "jet", "bateau à moteur d'initiation et de découverte", "engins tractés"
 
-L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté est établie pour la mention " motonautisme " et les supports " jet ", " bateau à moteur d'initiation et de découverte " et " engins tractés ", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
+L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté est établie pour la mention "motonautisme" et les supports "jet", "bateau à moteur d'initiation et de découverte" et "engins tractés", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
 
 1. Exigences préalables à l'entrée en formation :
 
-a) Exigences préalables à l'entrée en formation de la mention " motonautisme " : (L'évaluation est effectuée uniquement sur le support jet).
+a) Exigences préalables à l'entrée en formation de la mention "motonautisme" : (L'évaluation est effectuée uniquement sur le support jet).
 
-- Etre titulaire du permis mer " côtier " et eaux intérieures.
+- Etre titulaire du permis mer "côtier" et eaux intérieures.
 
 Etre capable de :
 
@@ -310,9 +310,9 @@ Etre capable de :
 
 - Rappeler la réglementation en vigueur et les règles de sécurité.
 
-b) Exigences préalables à l'entrée en formation du support " jet " :
+b) Exigences préalables à l'entrée en formation du support "jet" :
 
-- Etre titulaire du permis mer " côtier " et eaux intérieures.
+- Etre titulaire du permis mer "côtier" et eaux intérieures.
 
 Etre capable de :
 
@@ -346,9 +346,9 @@ Etre capable de :
 
 - Rappeler la réglementation en vigueur et les règles de sécurité.
 
-c) Exigences préalables à l'entrée en formation du support " bateau à moteur d'initiation et de découverte " :
+c) Exigences préalables à l'entrée en formation du support "bateau à moteur d'initiation et de découverte" :
 
-- Etre titulaire du permis mer " côtier " et eaux intérieures.
+- Etre titulaire du permis mer "côtier" et eaux intérieures.
 
 Etre capable de :
 
@@ -370,11 +370,11 @@ Etre capable de :
 
 - Rappeler la réglementation fluviale et maritime.
 
-d) Exigences préalables à l'entrée en formation du support " engins tractés " :
+d) Exigences préalables à l'entrée en formation du support "engins tractés" :
 
-- Etre titulaire du permis mer " côtier " ou eaux intérieures.
+- Etre titulaire du permis mer "côtier" ou eaux intérieures.
 
-- Etre capable d'effectuer un parcours balisé et des évolutions imposées, sans limite de temps, en tractant une bouée avec un bateau tracteur de " type ski nautique ".
+- Etre capable d'effectuer un parcours balisé et des évolutions imposées, sans limite de temps, en tractant une bouée avec un bateau tracteur de "type ski nautique".
 
 • Parcours balisé :
 
@@ -396,17 +396,17 @@ Au départ et à la fin des évolutions imposées, la bouée doit être placée 
 
 2. Dispenses et équivalences :
 
-Le diplôme de " moniteur fédéral jet 1er degré " tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de motonautisme, dispense du test technique préalable à l'entrée en formation pour la mention " motonautisme " et le support " jet " de la spécialité " activités nautiques " du B. P. J. E. P. S.
+Le diplôme de "moniteur fédéral jet 1er degré" tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de motonautisme, dispense du test technique préalable à l'entrée en formation pour la mention "motonautisme" et le support "jet" de la spécialité "activités nautiques" du B. P. J. E. P. S.
 
-Support " parachutisme ascensionnel nautique "
+Support "parachutisme ascensionnel nautique"
 
-L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour le support " parachutisme ascensionnel nautique ", défini à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
+L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour le support "parachutisme ascensionnel nautique", défini à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
 
-1. Exigences préalables à l'entrée en formation du support " parachutisme ascensionnel nautique " :
+1. Exigences préalables à l'entrée en formation du support "parachutisme ascensionnel nautique" :
 
 NB : Le candidat réalise l'épreuve technique dans le mode de pratique de son choix (plage ou bateau plate-forme).
 
-- Etre titulaire du permis mer " côtier " ou eaux intérieures.
+- Etre titulaire du permis mer "côtier" ou eaux intérieures.
 
 - Etre capable de gérer la mise en vol du pratiquant, sur un minimum de cinq vols :
 
@@ -444,7 +444,7 @@ Etre capable de :
 
 2. Dispenses et équivalences :
 
-L'attestation de " qualification d'aide à la voilure ", délivrée par la fédération française de parachutisme, dispense des exigences préalables à l'entrée en formation pour le support " parachutisme ascensionnel nautique " de la spécialité " activités nautiques " du B. P. J. E. P. S.
+L'attestation de "qualification d'aide à la voilure", délivrée par la fédération française de parachutisme, dispense des exigences préalables à l'entrée en formation pour le support "parachutisme ascensionnel nautique" de la spécialité "activités nautiques" du B. P. J. E. P. S.
 
 Mention "ski nautique et disciplines associées" et support "ski nautique d'initiation et de découverte".
 
@@ -508,17 +508,26 @@ Mention "ski nautique et disciplines associées" et support "ski nautique d'init
 <table>
 <tbody>
 <tr>
-<td>CATÉGORIES<br/>disciplines</td>
-<td align="center">HOMMES</td>
-<td align="center">FEMMES</td>
+<td>
+<p align="center">CATÉGORIES<br/>disciplines</p>
+</td>
+<td align="center">
+<p align="center">HOMMES</p>
+</td>
+<td align="center">
+<p align="center">FEMMES</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Wakeboard </td>
-<td align="center">
-<br/>Réaliser :<br/>En double vague , en blocage ou sur kicker les éléments suivants :<br/>- un saut avec passage de main<br/>- un saut en switch <br/>- un saut grabé <br/>- deux figures différentes parmi les familles suivantes : backroll, frontroll, frontflip, tantrum, raley, rotations off axis</td>
-<td align="center">
-<br/>Réaliser :<br/>En double vague , en blocage ou sur kicker les éléments suivants :<br/>- un saut avec passage de main ou en switch <br/>- un saut grabé <br/>- une figure parmi les familles suivantes : backroll, frontroll, frontflip, tantrum, raley, rotations off axis</td>
+<td align="left" valign="top">
+<p>Wakeboard </p>
+</td>
+<td align="left" valign="top">
+<p>Réaliser :<br/>En double vague , en blocage ou sur kicker les éléments suivants :<br/>- un saut avec passage de main<br/>- un saut en switch <br/>- un saut grabé <br/>- deux figures différentes parmi les familles suivantes : backroll, frontroll, frontflip, tantrum, raley, rotations off axis</p>
+</td>
+<td align="left" valign="top">
+<p>Réaliser :<br/>En double vague , en blocage ou sur kicker les éléments suivants :<br/>- un saut avec passage de main ou en switch <br/>- un saut grabé <br/>- une figure parmi les familles suivantes : backroll, frontroll, frontflip, tantrum, raley, rotations off axis</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -565,45 +574,205 @@ Est dispensé du test de traction d'un skieur mentionné dans les exigences pré
 
 Est dispensé de la démonstration technique mentionnée dans les exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "ski nautique d'initiation et de découverte", le titulaire des tests fédéraux "palo orange" en ski nautique et "palo orange" en wakeboard bateau ou câble délivrés par la Fédération française de ski nautique et de wakeboard.
 
-Mention " voile " et supports " planche à voile ", " multicoque et dériveurs ", " croisière côtière "
+Mention "voile" et supports "planche à voile", "multicoque et dériveurs", "croisière côtière"
 
-L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention " voile " et les supports " planche à voile ", " multicoque et dériveurs ", " croisière côtière ", définis à l'article 2 dudit arrêté. Elle est délivrée au cours d'une épreuve dont les modalités sont définies par instruction du délégué à l'emploi et aux formations.
+L'attestation de réussite aux exigences préalables, prévue à l'article 5 du présent arrêté, est établie pour la mention "voile" et les supports "planche à voile", "multicoque et dériveurs", "croisière côtière", définis à l'article 2 dudit arrêté.
 
-1. Exigences préalables à l'entrée en formation
+1. Exigences préalables à l'entrée en formation.
 
-A. - Exigences préalables à l'entrée en formation pour la mention " voile " :
+A. - Exigences préalables à l'entrée en formation pour la mention "voile" :
 
-1- Exigences préalables communes à l'entrée en formation pour la mention " voile " :
+1. Etre titulaire du permis de conduire des bateaux de plaisance mer "côtier" ou "eaux intérieures".
+
+2. Exigences préalables à l'entrée en formation pour la mention "voile" sur le support choisi :
 
 Etre capable de :
 
-- Vérifier la conformité d'usage de bon état de fonctionnement du bateau, voilier ou engin et l'équipement individuel du pratiquant et/ ou de l'équipage,
+a) Domaine technique.
 
-- Vérifier, avant démarrage, les éléments de sécurité.
+Compétences visées :
 
-- Réaliser avec précision un embarquement, un départ d'une plage et/ ou d'un ponton.
+- maîtriser les réglages et la conduite pour faciliter le pilotage dans les différentes conditions de vent et de mer ;
 
-- Réaliser et décrire de mémoire un parcours précis imposé incluant les accélérations et des ralentissements, des changements de direction et des maintiens de trajectoires ou de caps, les différentes allures et manoeuvres de base de navigation.
+- exploiter les variables du milieu et les caractéristiques du support pour optimiser son rendement, en sous-puissance et en surpuissance (vent de force 4 Beaufort minimum).
 
-- Identifier des points de passage obligés.
+Observables :
 
-- Récupérer en simulation " un homme à la mer " ou une " prise de coffre " avec arrêt en fin de manœuvre d'approche.
+Trajectoires directes :
 
--Se positionner et se repérer dans une zone de navigation.
+- adapter les réglages en fonction de l'allure et des conditions de vent et de mer pour faciliter le pilotage ;
 
-- Enumérer et respecter des règles de barre et de route du RIPAM, de la signalisation maritime, de barre et de route de navigation en eaux intérieures, de la signalisation fluviale.
+- coordonner les actions de barre-écoute-déplacement (gréement/déplacement en PAV) pour optimiser la vitesse ;
 
-- Lire une carte marine.
+- adapter constamment les réglages et la conduite en fonction de l'allure et des variations de vent et de mer pour optimiser la vitesse.
 
-- Assurer la maintenance et l'entretien courant, des technologies et des matériaux utilisés.
+Trajectoires indirectes :
 
-- Rappeler les connaissances de base du milieu nautique, météorologiques, aérologiques et courants.
+- rejoindre un point du plan d'eau sans augmenter inutilement la route (notion de cadre) ;
 
-- Rappeler les connaissances de base du fonctionnement d'un engin à voile, règles, principes d'aérodynamisme et d'hydrodynamisme, équilibre dynamique du voilier.
+- coordonner les actions de barre-écoute-déplacement (gréement/déplacement en planche à voile "PAV") pour optimiser le gain au vent ou le gain sous le vent ;
 
-- Rappeler les connaissances de base du fonctionnement d'un moteur à explosion.
+- augmenter le gain au vent ou sous le vent pendant les virements ou les empannages en adaptant les manœuvres aux conditions de vent et de mer ;
 
-2- Exigences préalables sur deux des trois supports de la mention " voile "
+- choisir la trajectoire rapprochant de l'objectif (adonnantes/refusantes) ;
+
+- repérer les zones de vent et courant potentiellement plus ou moins fort.
+
+Coordination :
+
+- occuper chaque poste lors des manœuvres, en coordination avec le reste de l'équipage (sauf en PAV) ;
+
+- gérer et coordonner l'équipage lors des différentes manœuvres (en croisière côtière).
+
+Navigation :
+
+- savoir se situer en permanence sur la carte et sur l'eau ;
+
+- maîtriser l'utilisation des différentes techniques de navigation adaptées à la famille de support (GPS, estime, relèvements, pilotage...) de jour (en voile légère) comme de nuit (en croisière côtière).
+
+Représentation :
+
+- expliquer les bases du fonctionnement d'un engin à voile, les principes d'aérodynamisme et d'hydrodynamisme, de réglage statique et dynamique du voilier ou de la planche à voile.
+
+b) Domaine sécurité.
+
+Compétences visées :
+
+- maîtriser les procédures permettant de limiter les risques en cas de situations inhabituelles (avaries, vent fort, calme...) ;
+
+- évoluer en sécurité sur une durée et dans des périmètres élargis.
+
+Observables :
+
+- connaître les procédures d'alerte et de signalement ;
+
+- choisir et préparer, dans le matériel disponible, celui adapté à son niveau et aux conditions ;
+
+- maîtriser le ressalage par vent fort, en dériveur et en catamaran ;
+
+- maîtriser le water start en PAV ;
+
+- dégréer sur l'eau, rentrer sous voilure réduite ou à la rame/bras ;
+
+- remorquer une embarcation (à la voile ou au moteur) ;
+
+- mettre en relation le paysage rencontré avec la carte marine ;
+
+- définir et critiquer sa route, entretenir une estime ;
+
+- maintenir l'état du bateau ou de la planche.
+
+c) Domaine sens marin/environnement.
+
+Compétences visées :
+
+- concevoir un programme de navigation en fonction du site et des évolutions du contexte.
+
+Observables :
+
+Sens marin :
+
+- choisir une zone de navigation en fonction des dangers et des informations météo disponibles permettant un retour facile, y compris en cas de détérioration des conditions ;
+
+- participer aux tâches collectives ;
+
+- présenter les informations météo utiles à la définition du programme de navigation ;
+
+- reconnaître les principaux phénomènes susceptibles de faire varier les conditions de vent dans un délai de trois heures ;
+
+- organiser les tâches collectives/gérer un équipage, en croisière côtière ;
+
+- prendre en compte et se responsabiliser à l'égard des autres pratiquants et usagers du plan d'eau ;
+
+- connaître les fondamentaux du matelotage en vue d'assurer des réparations de fortune.
+
+Environnement :
+
+- veiller au respect des règles de préservation des sites et des espèces naturelles ;
+
+- connaître les principaux éléments du patrimoine maritime, lacustre ou fluvial du site ;
+
+- connaître les métiers liés au milieu.
+
+3. Exigences préalables sur deux des trois supports de la mention "voile" :
+
+Etre capable de :
+
+a) Domaine technique.
+
+Compétences visées :
+
+- maîtriser les réglages et la conduite pour faciliter le pilotage dans les différentes conditions de vent et de mer.
+
+Observables :
+
+Trajectoires directes (sous-puissance ou surpuissance) :
+
+- se déplacer pour conserver l'assiette du support en longitudinal et en latéral ;
+
+- adapter les réglages en fonction de l'allure et des conditions de vent et de mer pour faciliter le pilotage.
+
+Trajectoires indirectes (sous-puissance ou surpuissance) :
+
+- virer de bord et empanner en maîtrisant l'angle de sortie (près, largue, vent arrière) ;
+
+- rejoindre un point du plan d'eau sans augmenter inutilement la route (notion de cadre).
+
+Coordination :
+
+- occuper chaque poste lors des manœuvres, en coordination avec le reste de l'équipage (sauf en PAV).
+
+Conduite en surpuissance :
+
+- coordonner les actions barre et écoute pour équilibrer le bateau sans changer d'allure (sauf en PAV) ;
+
+- coordonner les actions du gréement et des appuis pour équilibrer le flotteur sans changer d'allure (en PAV) ;
+
+- utiliser les foot straps (en PAV) ;
+
+- maîtriser le water start (en PAV).
+
+Navigation :
+
+- savoir se situer en permanence sur la carte et sur l'eau.
+
+b) Domaine sécurité.
+
+Compétences visées :
+
+- maîtriser les procédures permettant de limiter les risques en cas de situations inhabituelles (avaries, vent fort, calme...).
+
+Observables :
+
+- connaître les procédures d'alerte et de signalement ;
+
+- choisir, dans le matériel disponible, celui adapté à son niveau et aux conditions ;
+
+- maîtriser le ressalage par vent fort, en dériveur et en catamaran ;
+
+- dégréer sur l'eau, rentrer sous voilure réduite ou à la rame/bras.
+
+c) Domaine sens marin/environnement.
+
+Compétences visées :
+
+- concevoir un programme de navigation en fonction du site et des évolutions du contexte.
+
+Observables :
+
+Sens marin :
+
+- choisir une zone de navigation en fonction des dangers et des informations météo disponibles permettant un retour facile, y compris en cas de détérioration des conditions ;
+
+- savoir se situer sur le plan d'eau ;
+
+- participer aux tâches collectives.
+
+Environnement :
+
+- connaître les règles d'accès et de préservation des sites naturels.
+
+2- Exigences préalables sur deux des trois supports de la mention "voile"
 
 - Planche à voile/ multicoque ou dériveur :
 
@@ -623,13 +792,13 @@ Etre capable de :
 
 - Maîtriser les conditions de mise de départ et de retour d'un quai ou d'un mouillage.
 
-- Coordonner l'équipage lors des manoeuvres.
+- Coordonner l'équipage lors des manœuvres.
 
 - Se maîtriser émotionnellement dans les situations de navigation et de prise de décision.
 
-3- Etre titulaire du permis de conduire des bateaux de plaisance mer " côtier " ou eaux intérieures.
+3- Etre titulaire du permis de conduire des bateaux de plaisance mer "côtier" ou eaux intérieures.
 
-B. - Exigences préalables à l'entrée en formation pour les supports " planche à voile ", " multicoque et dériveurs ", " croisière côtière " :
+B. - Exigences préalables à l'entrée en formation pour les supports "planche à voile", "multicoque et dériveurs", "croisière côtière" :
 
 1. Exigences préalables communes à chaque support
 
@@ -639,13 +808,13 @@ Etre capable de :
 
 - Vérifier avant démarrage, les éléments de sécurité.
 
-- Réaliser avec précision un embarquement, un départ d'une plage et/ ou d'un ponton.
+- Réaliser avec précision un embarquement, un départ d'une plage et/ou d'un ponton.
 
 - Réaliser et décrire de mémoire un parcours précis imposé incluant les accélérations et des ralentissements, des changements de direction et des maintiens de trajectoires ou de caps, les différentes allures et manoeuvres de base de navigation.
 
 - Identifier des points de passage obligés.
 
-- Récupérer en simulation " un homme à la mer " ou une " prise de coffre " avec arrêt en fin de manœuvre d'approche.
+- Récupérer en simulation "un homme à la mer" ou une "prise de coffre" avec arrêt en fin de manœuvre d'approche.
 
 - Se positionner et se repérer dans une zone de navigation.
 
@@ -681,7 +850,7 @@ Etre capable de :
 
 - Maîtriser les conditions de mise de départ et de retour d'un quai ou d'un mouillage.
 
-- Coordonner l'équipage lors des manoeuvres.
+- Coordonner l'équipage lors des manœuvres.
 
 - Se maîtriser émotionnellement dans les situations de navigation et de prise de décision.
 
@@ -689,19 +858,29 @@ Etre capable de :
 
 2. Dispenses et équivalences :
 
-- Le diplôme de " moniteur fédéral " de la fédération française de voile tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de voile, dispense du test technique préalable à l'entrée en formation au B. P. J. E. P. S. spécialité " activités nautiques " pour un des supports de la mention " voile ".
+- Le niveau appelé "A2C1" de la fédération française de voile, tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de voile, dispense du test technique préalable à l'entrée en formation au B. P. J. E. P. S. spécialité "activités nautiques" pour un des supports de la mention "voile".
 
-- Le niveau appelé " A2C1 " de la fédération française de voile, tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de voile, dispense du test technique
+- Une note supérieure ou égale à huit sur vingt, délivrée par le directeur technique national de la fédération française de voile à l'issue d'une compétition ou d'une saison de course ou d'une épreuve de notation réalisée par le candidat, dispense du test technique préalable à l'entrée en formation au B. P. J. E. P. S. spécialité "activités nautiques" pour un des supports de la mention "voile".
 
-préalable à l'entrée en formation au B. P. J. E. P. S. spécialité " activités nautiques " pour un des supports de la mention " voile ".
+Est dispensé du test technique préalable à l'entrée en formation au BPJEPS spécialité "activités nautiques" pour un des supports de la mention "voile" le titulaire :
 
-- Une note supérieure ou égale à huit sur vingt, délivrée par le directeur technique national de la fédération française de voile à l'issue d'une compétition ou d'une saison de course ou d'une épreuve de notation réalisée par le candidat, dispense du test technique préalable à l'entrée en formation au B. P. J. E. P. S. spécialité " activités nautiques " pour un des supports de la mention " voile ".
+- du certificat de qualification professionnelle assistant moniteur de voile (CQPAMV) ; ou
 
-- Le brevet de patron plaisance à la voile (BPPV), dispense du test de maîtrise technique préalable à l'entrée en formation au B. P. J. E. P. S. mention " croisière côtière ".
+- du brevet fédéral "diplôme de moniteur fédéral" délivré par la Fédération française de voile ; ou
+
+- du brevet fédéral "diplôme d'entraîneur FF voile" délivré par la Fédération française de voile tel que défini dans le règlement des formations, diplômes et qualifications de la Fédération française de voile.
+
+Le niveau technique 5 attesté par un cadre habilité de la Fédération française de voile, tel que défini dans le règlement des formations, diplômes et qualifications de la Fédération française de voile, dispense du test technique préalable à l'entrée en formation au BPJEPS spécialité "activités nautiques" pour le support correspondant de la mention "voile".
+
+Le niveau technique 4 attesté par un cadre habilité de la Fédération française de voile, tel que défini dans le règlement des formations, diplômes et qualifications de la Fédération française de voile, dispense du test technique préalable à l'entrée en formation au BPJEPS spécialité "activités nautiques" pour les deux autres des supports correspondants de la mention "voile".
+
+Les sportifs de haut niveau dans l'un des supports de la mention "voile" inscrits ou ayant été inscrits sur la liste ministérielle sont dispensés du test technique préalable à l'entrée en formation au BPJEPS spécialité "activités nautiques" correspondant à ce support.
+
+Le brevet de patron plaisance à la voile (BPPV) et le "Capitaine 200 voile" dispensent du test de maîtrise technique préalable à l'entrée en formation au BPJEPS pour le support "croisière côtière".
 
 Mention surf.
 
-L'attestation de réussite aux exigences préalables prévue à l'article 5 est établie pour la mention " surf.
+L'attestation de réussite aux exigences préalables prévue à l'article 5 est établie pour la mention "surf".
 
 1. Exigences préalables à l'entrée en formation :
 

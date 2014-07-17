@@ -264,11 +264,7 @@ Etre capable de :
 
 2/ Dispenses et équivalences :
 
--Le diplôme de " moniteur fédéral " délivré par la fédération française de voile est reconnu en équivalence du test de capacités et connaissances, préalable à la mise en situation pédagogique pour la mention et les supports précités.
-
-Support " parachutisme ascensionnel nautique "
-
-Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour le support " parachutisme ascensionnel nautique ".
+Le certificat de qualification professionnelle assistant moniteur de voile (CQPAMV), le brevet fédéral " diplôme de moniteur fédéral " délivré par la Fédération française de voile ou le brevet fédéral " diplôme d'entraîneur FF voile " délivré par la Fédération française de voile sont reconnus en équivalence du test de capacités et connaissances, préalable à la mise en situation pédagogique pour la mention et les supports précités.
 
 1/ Exigences préalables à la mise en situation pédagogique pour le support précité :
 
