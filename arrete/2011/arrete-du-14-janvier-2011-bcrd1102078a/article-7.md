@@ -27,3 +27,9 @@ L'ensemble des agents relevant de la direction générale des douanes et droits 
 2. Tout déclarant, ainsi que les personnes qu'il désigne, peut consulter ses déclarations en mode DTI sur le portail Prodouane.
 
 3. Les autorités compétentes des Etats membres de la Communauté européenne sont destinataires des données relatives aux mouvements de produits soumis à accise qui les concernent.
+
+4 Les agents habilités de l'administration générale de la supervision de la qualité, de l'inspection et de la quarantaine (AQSIQ) de la République populaire de Chine peuvent être rendus destinataires d'un extrait des données relatives aux vins et spiritueux d'origine française, exportés au départ de la France et à destination de leur territoire. Cet extrait comporte les informations à caractère personnel suivantes :
+
+- identification de l'expéditeur des produits, à travers ses noms, coordonnées et numéro d'accise ;
+
+- identification du destinataire en Chine, à travers ses noms et coordonnées.
