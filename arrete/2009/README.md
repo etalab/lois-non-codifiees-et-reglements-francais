@@ -1668,7 +1668,6 @@
 - [Arrêté du 21 janvier 2009 (ESRS0831183A)](arrete-du-21-janvier-2009-esrs0831183a)
 - [Arrêté du 21 janvier 2009 (MENF0829815A)](arrete-du-21-janvier-2009-menf0829815a)
 - [Arrêté du 21 janvier 2009 (SASH0901726A)](arrete-du-21-janvier-2009-sash0901726a)
-- [Arrêté du 21 juillet 2004 (SOCF0411523A)](arrete-du-21-juillet-2004-socf0411523a)
 - [Arrêté du 21 juillet 2009 (AGRE0916666A)](arrete-du-21-juillet-2009-agre0916666a)
 - [Arrêté du 21 juillet 2009 (AGRE0916668A)](arrete-du-21-juillet-2009-agre0916668a)
 - [Arrêté du 21 juillet 2009 (AGRE0916670A)](arrete-du-21-juillet-2009-agre0916670a)
