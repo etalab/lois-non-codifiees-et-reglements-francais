@@ -309,6 +309,22 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.</td>
 </tr>
 <tr>
+<td>
+<p align="center">Ghisonaccia-Alzitone</p>
+</td>
+<td>
+<p align="center">Haute-Corse</p>
+</td>
+<td>
+<p align="center">Cet aérodrome est réservé :</p>
+<br/>
+<p align="center">- aux aéronefs basés en Corse ;</p>
+<p align="center">- aux aéronefs d'Etat ;</p>
+<p align="center">- aux aéronefs dont les pilotes ont effectué au moins un vol à l'arrivée et au départ de l'aérodrome dans les douze mois précédents.</p>
+<br/>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>Grand-Santi</td>
 <td align="center">
