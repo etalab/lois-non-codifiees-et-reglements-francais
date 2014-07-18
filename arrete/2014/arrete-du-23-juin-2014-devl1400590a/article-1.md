@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 boucles de la Seine amont d'Amfreville à Gaillon » (zone spéciale de conservation FR 2300126) l'espace délimité sur la carte d'assemblage au 1/75 000 et les dix cartes au 1/25 000 ci-jointes, s'étendant dans le département de l'Eure, sur une partie du territoire des communes suivantes : Amfreville-sous-les-Monts, Les Andelys, Aubevoye, Bernières-sur-Seine, Bouafles, Connelles, Courcelles-sur-Seine, Flipou, Gaillon, Harquency, Hennezis, Heudebouville, Muids, Pont-Saint-Pierre, Port-Mort, Romilly-sur-Andelle, La Roquette, Saint-Pierre-du-Vauvray, Saint-Pierre-la-Garenne, Le Thuit, Tosny, Tournedos-sur-Seine, Val-de-Reuil, Vatteville, Le Vaudreuil, Venables, Villers-sur-le-Roule, Vironvay, Vézillon.
