@@ -2,18 +2,8 @@
 
 Le détenteur identifie les risques associés à l'utilisation et à la manipulation d'un appareil et les porte à la connaissance des personnes intervenant sur les appareils.
 
-Les locaux où sont situés les appareils sont équipés de dispositifs de détection incendie rapides et de moyens de lutte contre l'incendie appropriés aux risques, notamment :
+Les appareils situés dans des locaux sont équipés de fusible HTA permettant d'éviter l'incendie en cas de court-circuit. Conformément à la norme NFC 11 201, ils sont équipés d'une fosse de rétention comprenant un lit de cailloux permettant l'extinction des flammes.
 
-― d'extincteurs répartis à l'intérieur des locaux, sur les aires extérieures et les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les produits d'extinction doivent être appropriés aux risques à combattre et compatibles avec les produits stockés ;
+La surveillance des postes pour la détection des incidents est permanente et automatisée par des téléalarmes connectées à des agences de conduite opérationnelles 24 heures/24.
 
-― de dispositifs avec émulseur ;
-
-― d'un moyen permettant d'alerter les services d'incendie et de secours ;
-
-― de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour la zone où est situé l'appareil.
-
-L'exploitant s'assure que l'intérieur du local où est situé l'appareil ne comporte pas de matières inflammables susceptibles de provoquer ou d'alimenter un incendie. Ces prescriptions peuvent être complétées en fonction du niveau de risque avec par exemple un système de détection et/ou d'extinction automatique d'incendie.
-
-Les matériels utilisés sont maintenus en bon état et vérifiés au moins une fois par an.
-
-Les services d'incendie et de secours sont informés de la présence d'un appareil pour qu'en cas de sinistre leur plan d'intervention en tienne compte.
+Des équipes d'intervention sont disponibles en permanence (astreinte d'exploitation) pour intervenir immédiatement, en relation avec les services de sécurité civile. Des extincteurs sont mis à disposition des équipes d'intervention.
