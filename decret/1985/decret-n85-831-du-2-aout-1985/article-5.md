@@ -2,7 +2,9 @@
 
 Le conseil d'administration délibère sur :
 
-1° Les mesures générales relatives à l'organisation de l'institut et son règlement intérieur ;
+1° Les grandes orientations stratégiques de l'institut et sa politique scientifique, technologique et de transfert ;
+
+1° bis Les mesures générales relatives à l'organisation de l'institut et son règlement intérieur ;
 
 2° Le budget et, sous réserve des dispositions du quatrième alinéa de l'article 7, ses modifications ; le compte financier ;
 
@@ -26,4 +28,4 @@ Le conseil d'administration délibère sur :
 
 Le conseil d'administration se prononce en outre sur les questions qui lui sont soumises par son président, le ministre chargé de la recherche et le ministre chargé de l'industrie.
 
-En ce qui concerne les matières mentionnées aux 5°, 7°, 9°, 10° et 11°, le conseil peut déléguer une partie de ses pouvoirs au président. Celui-ci lui rend compte lors de sa prochaine séance des décisions qu'il a prises en vertu de cette délégation.
+En ce qui concerne les matières mentionnées aux 5°, 6°, 7°, 9°, 10° et 11°, le conseil peut déléguer une partie de ses pouvoirs au président. Celui-ci lui rend compte lors de sa prochaine séance des décisions qu'il a prises en vertu de cette délégation.

@@ -8,6 +8,6 @@ Il prépare les délibérations du conseil d'administration et assure leur exéc
 
 Il est ordonnateur principal des dépenses et des recettes. Il peut désigner des ordonnateurs secondaires qui peuvent déléguer leur signature.
 
-Il a autorité sur l'ensemble des services de l'institut dont il fixe l'organisation et gère le personnel. Il est assisté d'un directeur général adjoint qu'il nomme.
+Il a autorité sur l'ensemble des services de l'institut dont il fixe l'organisation et gère le personnel. Il est assisté d'un ou de plusieurs directeurs généraux délégués qu'il nomme.
 
-Il peut déléguer sa signature. Il peut déléguer une partie de ses pouvoirs au directeur général adjoint et à des agents désignés pour exercer des fonctions de responsabilité administrative ou scientifique dans l'établissement ou dans une unité commune avec d'autres organismes. Ces agents peuvent déléguer leur signature.
+Il peut déléguer sa signature. Il peut déléguer une partie de ses pouvoirs au directeur général délégué ou aux directeurs généraux délégués et à des agents désignés pour exercer des fonctions de responsabilité administrative ou scientifique dans l'établissement ou dans une unité commune avec d'autres organismes. Ces agents peuvent déléguer leur signature.
