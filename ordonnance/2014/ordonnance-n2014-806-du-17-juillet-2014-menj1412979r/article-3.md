@@ -1,0 +1,15 @@
+# Article 3
+
+I. - Le conseil d'administration de l'université en exercice à la date de publication de la présente ordonnance adopte dans un délai d'un an, par délibération statutaire, des statuts en conformité avec les dispositions de cette même ordonnance et, notamment, la composition du conseil académique.
+
+En l'absence de délibération statutaire adoptée dans ce délai, les statuts sont arrêtés par le ministre chargé de l'enseignement supérieur.
+
+II. - Le conseil académique est désigné conformément à la présente ordonnance à l'échéance des mandats de quatre ans du président et des représentants élus des personnels du conseil d'administration en exercice à la date de publication de cette même ordonnance. Le président de l'université en exercice à la date de publication de la présente ordonnance n'est pas rééligible à cette fonction.
+
+III. - Le mandat des représentants des étudiants élus au conseil d'administration et au conseil académique lors du premier renouvellement suivant la publication de la présente ordonnance expire à l'échéance du mandat des représentants élus des personnels du conseil d'administration en exercice à la date de publication de cette même ordonnance.
+
+IV. - A compter de la publication de la présente ordonnance, pour chaque pôle universitaire régional, la commission de la recherche du conseil académique est constituée des membres du conseil scientifique et la commission de la formation et de la vie universitaire de ce même conseil est constituée des membres du conseil des études et de la vie universitaire, élus et nommés au titre de chaque pôle. Le conseil scientifique, composé des membres élus et désignés au titre de chaque pôle universitaire, exerce dans chacun des pôles les compétences de la commission de la recherche et le conseil des études et de la vie universitaire celles de la commission de la formation et de la vie universitaire. Les membres des deux conseils siègent ensemble pour exercer les compétences du conseil académique en formation plénière. La section compétente du conseil académique prévue au IV de l'article L. 712-6-1 du code de l'éducation est constituée des enseignants-chercheurs et personnels assimilés membres élus du conseil scientifique et du conseil des études et de la vie universitaire.
+
+Jusqu'à la mise en place du conseil académique dans les conditions fixées par la présente ordonnance, le président de l'université préside le conseil académique en formation plénière. La commission de la recherche et la commission de la formation et de la vie universitaire de chacune des régions dans laquelle est implantée l'université sont présidées par le vice-président du pôle.
+
+V. - Les sections disciplinaires du conseil d'administration restent en fonctions jusqu'à l'échéance du mandat des membres du conseil d'administration en exercice à la date de publication de la présente ordonnance. Le conseil d'administration est compétent pour procéder à leur renouvellement jusqu'à la désignation des membres du conseil académique conformément au II.

@@ -1,0 +1,3 @@
+# Article 2
+
+Le cahier des charges de la formation continue mentionnée à l'article 2 du décret n° 2014-812 du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts est défini par un arrêté conjoint du ministre chargé de la construction et du ministre chargé de l'énergie après avis d'une commission d'experts constituée à cet effet. Ce cahier des charges porte sur le contenu des formations, les dispositions de leur mise en œuvre et les modalités de contrôle de connaissances.
