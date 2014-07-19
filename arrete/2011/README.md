@@ -2933,7 +2933,6 @@
 - [Arrêté du 1er août 2011 (ETSH1113429A)](arrete-du-1er-aout-2011-etsh1113429a)
 - [Arrêté du 1er août 2011 (ETSO1118715A)](arrete-du-1er-aout-2011-etso1118715a)
 - [Arrêté du 1er août 2011 (ETSO1118769A)](arrete-du-1er-aout-2011-etso1118769a)
-- [Arrêté du 1er août 2011 (ETSR1121259A)](arrete-du-1er-aout-2011-etsr1121259a)
 - [Arrêté du 1er août 2011 (ETSR1121272A)](arrete-du-1er-aout-2011-etsr1121272a)
 - [Arrêté du 1er août 2011 (IOCE1121856A)](arrete-du-1er-aout-2011-ioce1121856a)
 - [Arrêté du 1er août 2011 (JUST1120775A)](arrete-du-1er-aout-2011-just1120775a)
