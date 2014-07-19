@@ -1327,6 +1327,7 @@
 - [Décret n°2009-965 du 31 juillet 2009 (DEFH0904305D)](decret-n2009-965-du-31-juillet-2009-defh0904305d)
 - [Décret n°2006-635 du 31 mai 2006 (AGRS0600980D)](decret-n2006-635-du-31-mai-2006-agrs0600980d)
 - [Décret n°2007-1000 du 31 mai 2007 (MTSX0755109D)](decret-n2007-1000-du-31-mai-2007-mtsx0755109d)
+- [Décret n°2008-1248 du 1er décembre 2008 (BCFR0825145D)](decret-n2008-1248-du-1er-decembre-2008-bcfr0825145d)
 - [Décret n°2008-1254 du 1er décembre 2008 (AGRF0821158D)](decret-n2008-1254-du-1er-decembre-2008-agrf0821158d)
 - [Décret n°2008-1255 du 1er décembre 2008 (AGRF0821156D)](decret-n2008-1255-du-1er-decembre-2008-agrf0821156d)
 - [Décret n°2008-883 du 1er septembre 2008 (ECEC0813416D)](decret-n2008-883-du-1er-septembre-2008-ecec0813416d)
