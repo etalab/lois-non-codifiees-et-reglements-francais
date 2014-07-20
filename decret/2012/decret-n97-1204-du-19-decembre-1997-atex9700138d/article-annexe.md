@@ -91,7 +91,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Approbation des modalités de contrôle du système destiné à mesurer la proportion d'emballages éliminés mis en place par chaque producteur. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et de l'agriculture. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 543-64 </p>
+<p>Article R. 543-64
+</p>
 </td>
 </tr>
 <tr>
@@ -216,22 +217,22 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 </tr>
 <tr>
 <td/>
-<td>Approbation et retrait d'approbation des systèmes individuels chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <br/>
-<br/>Arrêté conjoint des ministres chargés de l'environnement et de l'industrie. </td>
+<td>Approbation et retrait d'approbation des systèmes individuels chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <p>Arrêté conjoint des ministres chargés de l'environnement et de l'industrie. </p>
+</td>
 <td>Article R. 543-266 </td>
 </tr>
 <tr>
 <td/>
-<td>Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <br/>
-<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </td>
+<td>Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
+</td>
 <td>Article R. 543-267 <br/>
 </td>
 </tr>
 <tr>
 <td/>
 <td>
-<br/>Agrément et retrait d'agrément des organismes coordonnateurs chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <br/>
-<br/>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. <br/>
+<br/>Agrément et retrait d'agrément des organismes coordonnateurs chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. <br/>
+</p>
 </td>
 <td>Article R. 543-268<br/>
 </td>
@@ -479,6 +480,11 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <td valign="top" width="227">
 <p>Article R. 341-12 </p>
 </td>
+</tr>
+<tr>
+<td/>
+<td>Commissionnement des agents non publics des réserves naturelles</td>
+<td>Article R. 332-68</td>
 </tr>
 <tr>
 <td valign="top" width="76">
