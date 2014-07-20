@@ -1,6 +1,12 @@
 # Article 9
 
-I. - Lorsque les billets transportés pour le compte d'une agence ou d'un établissement d'une des personnes mentionnées à l'article 1er le sont dans des véhicules banalisés transportant des conteneurs équipés de dispositifs garantissant qu'ils pourront être rendus impropres à leur destination, en nombre au moins égal au nombre de points de desserte ou si ces dispositifs sont équipés, en outre, d'un système de collecteur programmable qui ne peuvent être ouverts que dans une zone ou un lieu sécurisés, les locaux sont soit équipés des dispositifs prévus à l'article 3, soit équipés d'un aménagement prévu au 1° du I de l'article 4 et des deux dispositifs prévus au II du même article.
+I.-Les locaux desservis par des véhicules équipés de dispositifs de neutralisation des valeurs dans lesquels sont placés les billets sont équipés :
+
+1° Soit d'un des dispositifs prévus à l'article 3 ;
+
+2° Soit d'un aménagement prévu au 1° du I de l'article 4 et des deux dispositifs prévus au II du même article.
+
+Les dispositifs de neutralisation visés au premier alinéa sont en nombre au moins égal au nombre de points desservis ou comprennent un système de collecteur qui ne peut être ouvert que dans une zone ou un lieu sécurisés.
 
 II. - Dans l'hypothèse prévue au I ci-dessus, en cas de difficulté caractérisée tenant à la nature ou à l'aménagement des lieux rendant impossible l'aménagement prévu au 1° du I de l'article 4, les locaux sont équipés des dispositifs prévus au II de l'article 4. Les opérations de dépôt et de collecte des fonds sont effectuées en dehors de la vue du public.
 
