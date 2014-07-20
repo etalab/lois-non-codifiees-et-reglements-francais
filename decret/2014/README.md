@@ -166,6 +166,8 @@
 - [DÉCRET n°2014-623 du 17 juin 2014 (INTD1406018D)](decret-n2014-623-du-17-juin-2014-intd1406018d)
 - [DÉCRET n°2014-627 du 17 juin 2014 (DEVP1330567D)](decret-n2014-627-du-17-juin-2014-devp1330567d)
 - [DÉCRET n°2014-631 du 17 juin 2014 (DEFH1401637D)](decret-n2014-631-du-17-juin-2014-defh1401637d)
+- [DÉCRET n°2014-813 du 17 juillet 2014 (DEVK1320278D)](decret-n2014-813-du-17-juillet-2014-devk1320278d)
+- [DÉCRET n°2014-816 du 17 juillet 2014 (INTD1328640D)](decret-n2014-816-du-17-juillet-2014-intd1328640d)
 - [Décret n°86-83 du 17 janvier 1986](decret-n86-83-du-17-janvier-1986)
 - [Décret n°2013-938 du 18 octobre 2013 (INTA1315613D)](decret-n2013-938-du-18-octobre-2013-inta1315613d)
 - [Décret n°2014-144 du 18 février 2014 (MAEF1328756D)](decret-n2014-144-du-18-fevrier-2014-maef1328756d)
