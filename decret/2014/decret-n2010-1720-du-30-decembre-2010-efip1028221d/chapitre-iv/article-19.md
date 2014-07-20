@@ -1,0 +1,3 @@
+# Article 19
+
+Les agents contractuels recrutés en vertu de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de contrôleur de 2e classe de la concurrence, de la consommation et de la répression des fraudes régi par le décret n° 95-375 du 10 avril 1995 relatif au statut particulier du corps des contrôleurs de la concurrence, de la consommation et de la répression des fraudes sont maintenus en fonctions et ont vocation à être titularisés dans le grade de contrôleur de 2e classe de la concurrence, de la consommation et de la répression des fraudes régi par le présent décret.

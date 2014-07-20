@@ -1,5 +1,5 @@
 # Article 8
 
-Le programme et les conditions générales d'organisation des concours sont fixés par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la fonction publique, publié au Journal officiel.
+Les règles d'organisation générale, la nature et le programme des épreuves des concours et de l'examen professionnel mentionnés à l'article 7 sont fixés par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la fonction publique.
 
-Le ministre chargé de l'économie organise par arrêté le déroulement de chaque concours et le fonctionnement du jury.
+Le ministre chargé de l'économie arrête les modalités d'organisation de chaque concours, de l'examen professionnel et nomme les membres du jury.
