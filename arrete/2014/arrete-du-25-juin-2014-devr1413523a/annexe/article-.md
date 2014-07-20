@@ -62,7 +62,7 @@ Distribution publique
 </td>
 <td valign="bottom" width="284">
 <br/>
-<p align="center">15,29</p>
+<p align="center">15,23</p>
 <p align="center">44,47</p>
 </td>
 </tr>
