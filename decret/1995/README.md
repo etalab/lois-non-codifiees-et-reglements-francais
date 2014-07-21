@@ -359,7 +359,6 @@
 - [Décret n°95-84 du 10 janvier 1995 (MJSK9470163D)](decret-n95-84-du-10-janvier-1995-mjsk9470163d)
 - [Décret n°97-848 du 10 septembre 1997 (DEFP9701719D)](decret-n97-848-du-10-septembre-1997-defp9701719d)
 - [Décret n°98-176 du 10 mars 1998 (DEFP9801083D)](decret-n98-176-du-10-mars-1998-defp9801083d)
-- [Décret n°95-729 du 10 mai 1995 (DEFP9501562D)](decret-n95-729-du-10-mai-1995-defp9501562d)
 - [Décret n°95-730 du 10 mai 1995 (DEFP9501495D)](decret-n95-730-du-10-mai-1995-defp9501495d)
 - [Décret n°95-732 du 10 mai 1995 (MAEJ9530041D)](decret-n95-732-du-10-mai-1995-maej9530041d)
 - [Décret n°95-736 du 10 mai 1995 (DEFP9501496D)](decret-n95-736-du-10-mai-1995-defp9501496d)
