@@ -2,6 +2,10 @@
 
 Les listes de candidats sont déposées par les organisations syndicales remplissant, dans la fonction publique hospitalière, les conditions fixées à l'article 9 bis de la loi du 13 juillet 1983 susvisée. Les listes peuvent être communes à plusieurs organisations syndicales.
 
+Lorsque l'administration constate qu'une liste ne satisfait pas aux conditions fixées par l'article 9 bis de la loi du 13 juillet 1983 susvisée, elle remet au délégué de liste une décision motivée déclarant l'irrecevabilité de la liste. Cette décision est remise au plus tard le premier jour ouvrable suivant la date limite de dépôt des listes de candidatures.
+
+L'administration affiche dès que possible après la date limite de dépôt des candidatures la liste des organisations syndicales ayant légalement déposé une liste de candidats. Ces listes de candidats sont tenues à disposition des organisations syndicales et des électeurs dans un lieu déterminé par le directeur général de l'Assistance publique-hôpitaux de Paris.
+
 Chaque organisation syndicale ne peut présenter qu'une liste par commission administrative paritaire.
 
 Lorsque plusieurs organisations syndicales affiliées à une même union de syndicats de fonctionnaires ont déposé des listes concurrentes pour une même commission administrative paritaire, l'administration en informe, dans un délai de trois jours à compter de la date limite de dépôt des listes de candidats, les délégués de chacune des listes concernées. Ces derniers disposent alors d'un délai de trois jours pour procéder aux modifications ou aux retraits de liste nécessaires.

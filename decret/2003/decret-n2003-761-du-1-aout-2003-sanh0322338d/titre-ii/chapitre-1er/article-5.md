@@ -15,3 +15,5 @@ Pour une commission compétente pour un effectif de 10 001 à 20 000 agents : di
 Pour une commission compétente pour un effectif de plus de 20 000 agents : douze titulaires, douze suppléants.
 
 L'effectif des personnels est apprécié le dernier jour du mois précédant de six mois la date du scrutin.
+
+Le nombre de sièges à pourvoir par commission est affiché dans chaque bureau et, s'il y a lieu, dans chaque section de vote au plus tard trente jours après la détermination de l'effectif à prendre en compte pour déterminer le nombre de représentants à élire.

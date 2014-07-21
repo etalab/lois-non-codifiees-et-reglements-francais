@@ -1,12 +1,12 @@
 # Article 2
 
-Les corps des fonctionnaires des corps de catégorie A, de catégorie B et de catégorie C relèvent de treize commissions administratives paritaires distinctes :
+Les corps de fonctionnaires de catégories A, B et C relèvent de quatorze commissions administratives paritaires distinctes :
 
--trois pour les corps de catégorie A ;
+a) Quatre commissions pour les corps de catégorie A ;
 
--six pour les corps de catégorie B ;
+b) Six commissions pour les corps de catégorie B ;
 
--quatre pour les corps de catégorie C.
+c) Quatre commissions pour les corps de catégorie C.
 
 Chacune de ces commissions est constituée d'un groupe unique, ce dernier étant lui-même constitué de sous-groupes rassemblant les corps, grades et emplois hiérarchiquement équivalents, conformément au tableau annexé ci-après.
 
