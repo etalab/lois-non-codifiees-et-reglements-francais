@@ -2,7 +2,7 @@
 
 Les représentants du personnel sont élus au scrutin de liste. Les sièges obtenus sont répartis à la représentation proportionnelle à la plus forte moyenne.
 
-Le vote pour les élections aux commissions administratives paritaires nationales a lieu par correspondance. Les bulletins de vote et les enveloppes sont établis aux frais du Centre national de gestion, d'après un modèle fourni par celui-ci. Les professions de foi, répondant aux conditions fixées par le directeur général du Centre national de gestion, sont réalisées par les organisations syndicales et à leurs frais. Ces frais font l'objet d'un remboursement par le centre national de gestion.
+Le vote pour les élections aux commissions administratives paritaires nationales a lieu par correspondance. Les enveloppes expédiées par les électeurs aux frais du Centre national de gestion doivent parvenir au bureau de vote avant la clôture du scrutin. Les bulletins de vote et les enveloppes sont établis aux frais du Centre national de gestion, d'après un modèle fourni par celui-ci. Les professions de foi, répondant aux conditions fixées par le directeur général du Centre national de gestion, sont réalisées par les organisations syndicales et à leurs frais. Ces frais font l'objet d'un remboursement par le Centre national de gestion.
 
 Il est fait mention, le cas échéant, sur le bulletin de vote, de l'appartenance de l'organisation syndicale à une union de syndicats à caractère national.
 
