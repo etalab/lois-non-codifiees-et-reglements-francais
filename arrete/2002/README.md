@@ -311,8 +311,6 @@
 - [Arrêté du 14 février 2002 (ECOX0200015A)](arrete-du-14-fevrier-2002-ecox0200015a)
 - [Arrêté du 14 janvier 2002 (ECOD0270001A)](arrete-du-14-janvier-2002-ecod0270001a)
 - [Arrêté du 14 janvier 2002 (FPPA0100149A)](arrete-du-14-janvier-2002-fppa0100149a)
-- [Arrêté du 14 janvier 2002 (INTA0200027A)](arrete-du-14-janvier-2002-inta0200027a)
-- [Arrêté du 14 janvier 2002 (INTA0200028A)](arrete-du-14-janvier-2002-inta0200028a)
 - [Arrêté du 14 janvier 2002 (MENB0200110A)](arrete-du-14-janvier-2002-menb0200110a)
 - [Arrêté du 14 janvier 2002 (MJSK0170200A)](arrete-du-14-janvier-2002-mjsk0170200a)
 - [Arrêté du 14 juin 2002 (ECOD0270006A)](arrete-du-14-juin-2002-ecod0270006a)

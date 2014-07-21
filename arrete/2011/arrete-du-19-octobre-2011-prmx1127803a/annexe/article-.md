@@ -76,4 +76,10 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - restructuration du service d'aménagement territorial de Cergy-Saint-Christophe de la direction départementale des territoires du Val-d'Oise ;
 
-- fermeture de la délégation territoriale nord de Valençay de la direction départementale des territoires de l'Indre.
+- fermeture de la délégation territoriale nord de Valençay de la direction départementale des territoires de l'Indre ;
+
+- fermeture des sites de Carpentras et de L'Isle-sur-la-Sorgue de la direction départementale des territoires de Vaucluse ;
+
+- restructuration des pôles territoriaux Nord, Centre et Sud de la direction départementale des territoires de la Mayenne ;
+
+- fermeture des points d'appui de Rocroi, Fumay, Rethel et Vouziers de la direction départementale des territoires des Ardennes.

@@ -555,7 +555,6 @@
 - [Arrêté du 22 octobre 1990 (PTTT9000844A)](arrete-du-22-octobre-1990-pttt9000844a)
 - [Arrêté du 22 mai 1990 (AGRG9001098A)](arrete-du-22-mai-1990-agrg9001098a)
 - [Arrêté du 22 mai 1990 (ECOC9000053A)](arrete-du-22-mai-1990-ecoc9000053a)
-- [Arrêté du 23 août 1990 (EQUS9001036A)](arrete-du-23-aout-1990-equs9001036a)
 - [Arrêté du 23 août 1990 (MAEA9020330A)](arrete-du-23-aout-1990-maea9020330a)
 - [Arrêté du 23 août 1990 (MAEA9020332A)](arrete-du-23-aout-1990-maea9020332a)
 - [Arrêté du 23 août 1990 (MAEA9020335A)](arrete-du-23-aout-1990-maea9020335a)

@@ -1,6 +1,6 @@
 # Article 16
 
-La liste des électeurs appelés à voter est arrêtée par l'autorité auprès de laquelle la commission est placée. La liste électorale est affichée dans les locaux où sont employés les ouvriers d'Etat quinze jours au moins avant la date fixée pour le scrutin.
+La liste des électeurs appelés à voter est arrêtée par l'autorité auprès de laquelle la commission est placée. La liste électorale est affichée dans les locaux où sont employés les ouvriers d'Etat   un mois avant la date fixée pour le scrutin.
 
 Dans les huit jours qui suivent la publication, les électeurs peuvent vérifier les inscriptions et, le cas échéant, présenter des demandes d'inscription.
 
