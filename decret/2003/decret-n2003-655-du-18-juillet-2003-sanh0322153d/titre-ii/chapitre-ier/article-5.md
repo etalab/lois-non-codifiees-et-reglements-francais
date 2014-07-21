@@ -17,3 +17,5 @@ Pour une commission administrative paritaire compétente pour un effectif de 2 0
 Si le nombre des agents relevant d'une commission administrative paritaire est inférieur à quatre agents, il n'est pas élu de représentant pour cette commission.
 
 L'effectif des personnels pris en considération pour déterminer le nombre de représentants est apprécié le dernier jour du mois précédant de six mois la date du scrutin.
+
+Le nombre de sièges à pourvoir par commission est affiché dans l'établissement et, s'il y a lieu, dans les établissements annexes au plus tard trente jours après la détermination de l'effectif à prendre en compte pour déterminer le nombre de représentants à élire.
