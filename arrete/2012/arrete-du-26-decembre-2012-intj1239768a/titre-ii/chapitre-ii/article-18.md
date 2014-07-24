@@ -5,5 +5,3 @@ Un candidat qui ne se présente pas à une épreuve d'admission, pour cas de for
 Lorsque l'empêchement est d'ordre médical, cette décision est prise par le président du jury après avis d'un médecin militaire.
 
 Toute épreuve non effectuée avant la fin des épreuves d'admission est sanctionnée par la note zéro.
-
-La note zéro est également attribuée aux candidats qui ont débuté une épreuve sportive sans pouvoir la terminer, notamment pour cause de blessure.

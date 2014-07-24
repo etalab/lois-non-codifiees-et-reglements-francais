@@ -6,4 +6,4 @@ L'annexe I du présent arrêté fixe les modalités des épreuves des concours p
 
 L'annexe II du présent arrêté fixe les modalités des épreuves des concours sur titres prévus au 3° de l'article 5 et à l'article 7 du décret susvisé.
 
-L'annexe III du présent arrêté fixe la nature, le déroulement et le barème des épreuves sportives d'admission.
+Les annexes III, IV et V du présent arrêté fixent la nature, le déroulement et le barème des épreuves sportives d'admission.

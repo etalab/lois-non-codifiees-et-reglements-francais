@@ -1,149 +1,797 @@
 # Article Annexe IV
 
-Les épreuves du concours ouvert au titre de l'année 2013 aux candidats titulaires de l'un des diplômes exigés des candidats au concours externe de l'Ecole nationale d'administration (1° de l'article 5 du décret susvisé).
-
-I. ― Epreuves d'admissibilité
-
-1. Epreuve de culture générale (durée : quatre heures ; coefficient 20).
-
-L'épreuve de culture générale consiste en une dissertation ayant pour but d'apprécier la culture et les connaissances générales des candidats ainsi que leur aptitude à exprimer clairement leur pensée.
-
-Le sujet porte sur des idées ou des faits dont la connaissance est indispensable à la compréhension du monde contemporain.
-
-2. Epreuve de langue vivante (durée : trois heures ; coefficient 10).
-
-L'épreuve écrite de langue vivante comprend :
-
-― une version suivie de questions d'intelligence sur le texte, à traiter dans la langue étrangère choisie ;
-
-― un thème.
-
-Les langues étrangères proposées au choix des candidats sont : l'anglais, l'allemand, l'italien, l'espagnol, le russe et l'arabe moderne.
-
-3. Epreuve à option au choix des candidats (durée : quatre heures ; coefficient 30).
-
-3.1. Droit.
-
-L'épreuve de droit consiste en une composition portant sur le programme suivant :
-
-a) Droit constitutionnel et institutions politiques :
-
-― notions générales sur les institutions politiques et les libertés publiques ;
-
-― les institutions politiques françaises actuelles.
-
-b) Droit administratif et institutions administratives :
-
-― l'organisation administrative ;
-
-― la justice administrative ;
-
-― actes et contrats administratifs ;
-
-― la fonction publique.
-
-c) Finances publiques :
-
-― l'administration des finances ;
-
-― le budget de l'Etat (les principes économiques du budget de l'Etat, l'exécution du budget, le contrôle de l'exécution du budget, le Trésor public).
-
-d) Droit européen et de l'Union européenne :
-
-― institutions de l'Union européenne et des communautés ;
-
-― actes communautaires : primauté et applicabilité directe ;
-
-― convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales.
-
-e) Droit privé :
-
-― les personnes physiques (le nom, le domicile, les actes d'état civil) ;
-
-― l'ordre judiciaire ;
-
-― les personnes morales ;
-
-― la propriété, la possession ;
-
-― les obligations (théorie générale, les contrats et les sources extracontractuelles d'obligation).
-
-3.2. Mathématiques.
-
-L'épreuve de mathématiques consiste en une résolution d'un ou plusieurs problèmes comportant un calcul numérique et portant sur le programme suivant :
-
-― vocabulaire des ensembles : relations, groupe monogène, anneau Z/nZ n entiers naturels ;
-
-― nombres réels, nombres complexes : intervalles, parties bornées de R, argument, transformation z a z + b, suites et séries, critères de convergence ;
-
-― algèbre linéaire : espaces vectoriels, matrices, déterminants, réductions des endomorphismes, produit scalaire, résolution de systèmes linéaires, étude de la dimension 3 ;
-
-― polynômes et fractions rationnelles sur R ou C : décomposition, division euclidienne (algorithmes), résolution d'équations ;
-
-― fonction de la variable réelle : fonctions usuelles, dérivation, étude locale, calcul de primitives, intégrales généralisées, formule de Taylor ;
-
-― calcul différentiel : différentielles, dérivées partielles, recherche d'extréma, résolution d'équations différentielles ;
-
-― séries statistiques : méthode des moindres carrés, corrélation, séries chronologiques.
-
-Pour cette épreuve, l'usage de calculatrices programmables, alphanumériques ou à écran graphique est autorisé à condition que leur fonctionnement soit autonome et qu'il ne soit pas fait usage d'imprimante. La consultation des notices de fonctionnement est interdite.
-
-3.3. Sciences économiques.
-
-L'épreuve consiste en une composition théorique ou d'analyse économique portant sur le programme suivant :
-
-a) Principes généraux d'analyse macroéconomique :
-
-― les grands courants de la pensée économique ;
-
-― les composantes de l'équilibre macroéconomique ;
-
-― l'analyse monétaire ;
-
-― l'équilibre macroéconomique général ;
-
-― la répartition du revenu national : approches personnelle et fonctionnelle.
-
-b) Principes généraux d'analyse microéconomique :
-
-― le producteur ;
-
-― le consommateur ;
-
-― les marchés : de la concurrence au monopole ;
-
-― l'équilibre général et l'optimum.
-
-c) Finances publiques :
-
-― les finances publiques : aspects politiques, économiques et sociaux ;
-
-― le budget de l'Etat (les aspects économiques, l'exécution du budget, le contrôle de l'exécution du budget, le Trésor public).
-
-d) Comptabilité privée :
-
-― les comptes, définition, fonctionnement ;
-
-― relation des comptes entre eux et classification dans le plan comptable général ;
-
-― le bilan ;
-
-― provisions, amortissements, stocks ;
-
-― les instruments comptables et l'inflation.
-
-II. ― Epreuves d'admission
-
-1. Epreuve d'aptitude générale (coefficient 30)
-
-Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier du corps technique et administratif de la gendarmerie nationale au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
-
-Elle comporte :
-
-― un entretien individuel réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
-
-― un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat. Le candidat tire au sort deux sujets sur des thèmes généraux se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde contemporain, dont l'un se rapporte à la sécurité intérieure ou à la défense. Il traite au choix l'un d'entre eux : il bénéficie d'un temps de préparation de vingt minutes. L'entretien débute par un exposé de dix minutes sur le sujet choisi. L'épreuve se poursuit sous la forme d'un dialogue de vingt minutes avec le jury.
-
-2. Epreuves sportives (la moyenne des notes est affectée du coefficient 10)
-
-Ces épreuves sont définies à l'annexe III du présent arrêté.
+ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 2O ET 4O DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
+
+Les candidats effectuent les trois épreuves sportives obligatoirement dans l'ordre suivant :
+
+1° Epreuve de natation ;
+
+2° Epreuve de course de demi-fond ;
+
+3° Epreuve d'abdominaux et de tractions ou d'appuis faciaux.
+
+I. - Epreuve de natation
+
+Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné.
+
+Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille. Les concurrents sont répartis par groupes d'importance numérique aussi semblables que possible.
+
+II. - Epreuve de course de demi-fond
+
+Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 25.
+
+III. - Epreuve d'abdominaux et de tractions ou d'appuis faciaux
+
+La note sur 20 à l'épreuve est attribuée par l'addition des deux notes sur 10 obtenues au test d'abdominaux et au test de tractions ou d'appuis faciaux.
+
+1° Abdominaux
+
+Le candidat est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds, en appui contre un mur ou sur une chaise, sont tenus par un moniteur d'entraînement physique et sportif ou bloqués contre un espalier.
+
+Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum.
+
+Au signal, le candidat réalise une flexion du tronc jusqu'au contact des coudes avec les cuisses puis retour à la position de départ, les épaules et la tête ne devant à aucun moment toucher le sol.
+
+La position des mains, des coudes et des bras doit rester inchangée tout au long du test (contact permanent des bras avec la poitrine et de la région lombaire avec le sol).
+
+Ce test doit être exécuté sans interruption équivalant à un temps de repos.
+
+2° Tractions ou appuis faciaux
+
+a) Tractions.
+
+Il s'agit d'exercer des flexions simultanées des bras en pronation jusqu'à ce que le menton soit au-dessus de la barre, puis de descendre jusqu'à la position bras tendus (coudes déverrouillés). La position des pouces sur la barre est laissée à l'appréciation du candidat. La distance entre les mains correspond à la largeur des épaules du candidat. Un maximum de tractions doit être exécuté sans limite de temps.
+
+b) Appuis faciaux.
+
+En appui facial, corps tendu, il s'agit de fléchir les bras de telle sorte que la poitrine touche une cale (de 10 centimètres de haut pour les hommes et de 20 centimètres de haut pour les femmes) et de revenir à la position en appui, membres complètement tendus, cela sans interruption.
+
+Seuls les mouvements exécutés correctement (corps rectiligne) sont comptés.
+
+IV. - Barème des épreuves sportives
+
+<table>
+<tbody>
+<tr>
+<td align="center"> NOTES</td>
+<td align="center" colspan="5"> HOMMES</td>
+<td align="center" colspan="5"> FEMMES</td>
+</tr>
+<tr>
+<td align="center" valign="middle"/>
+<td align="center" valign="middle">
+<br/>Tractions<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Abdominaux<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Appuis faciaux<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Course<br/>
+<p>3 000 m<br/>
+</p>
+</td>
+<td align="center" valign="middle">
+<br/>Natation<br/>
+<p>50 m<br/>
+</p>
+</td>
+<td align="center" valign="middle">
+<br/>Tractions<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Abdominaux<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Appuis faciaux<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Course<br/>
+<p>3 000 m<br/>
+</p>
+</td>
+<td align="center" valign="middle">
+<br/>Natation<br/>
+<p>50 m<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>20<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10' 29"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>29" 6<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12' 58"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>36" 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>19<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10' 41"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>30" 2<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>13' 16"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>37" 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>18<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10' 53"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>30" 8<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>13' 37"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>38" 4<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>17<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>11' 06"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>31" 6<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>13' 59"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>39" 7<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>16<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>11' 21"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>32" 3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>14' 23"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>41" 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>15<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>11' 36"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>33" 1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>14' 49"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>42" 7<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>14<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>11' 53"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>35" 1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>15' 17"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>44" 5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>13<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12' 10"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>36" 5<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>15' 48"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>46" 5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>12<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12' 29"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>38" 0<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>16' 21"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>48" 8<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>11<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12' 50"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>39" 7<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>/<br/>
+</td>
+<td align="center" valign="middle">
+<br/>16' 58"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>51" 3<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>10<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12<br/>
+</td>
+<td align="center" valign="middle">
+<br/>55<br/>
+</td>
+<td align="center" valign="middle">
+<br/>60<br/>
+</td>
+<td align="center" valign="middle">
+<br/>13' 12"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>41" 7<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5<br/>
+</td>
+<td align="center" valign="middle">
+<br/>45<br/>
+</td>
+<td align="center" valign="middle">
+<br/>50<br/>
+</td>
+<td align="center" valign="middle">
+<br/>17' 37"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>54" 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>9<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10<br/>
+</td>
+<td align="center" valign="middle">
+<br/>50<br/>
+</td>
+<td align="center" valign="middle">
+<br/>56<br/>
+</td>
+<td align="center" valign="middle">
+<br/>13' 36"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>43" 9<br/>
+</td>
+<td align="center" valign="middle"/>
+<td align="center" valign="middle">
+<br/>40<br/>
+</td>
+<td align="center" valign="middle">
+<br/>46<br/>
+</td>
+<td align="center" valign="middle">
+<br/>18' 19"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>57" 2<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>8<br/>
+</td>
+<td align="center" valign="middle">
+<br/>9<br/>
+</td>
+<td align="center" valign="middle">
+<br/>45<br/>
+</td>
+<td align="center" valign="middle">
+<br/>52<br/>
+</td>
+<td align="center" valign="middle">
+<br/>14' 02"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>46" 4<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4<br/>
+</td>
+<td align="center" valign="middle">
+<br/>35<br/>
+</td>
+<td align="center" valign="middle">
+<br/>42<br/>
+</td>
+<td align="center" valign="middle">
+<br/>19' 06"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 00" 8<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>7<br/>
+</td>
+<td align="center" valign="middle">
+<br/>8<br/>
+</td>
+<td align="center" valign="middle">
+<br/>40<br/>
+</td>
+<td align="center" valign="middle">
+<br/>48<br/>
+</td>
+<td align="center" valign="middle">
+<br/>14' 29"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>49" 1<br/>
+</td>
+<td align="center" valign="middle"/>
+<td align="center" valign="middle">
+<br/>30<br/>
+</td>
+<td align="center" valign="middle">
+<br/>38<br/>
+</td>
+<td align="center" valign="middle">
+<br/>19' 56"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 04" 7<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>6<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7<br/>
+</td>
+<td align="center" valign="middle">
+<br/>35<br/>
+</td>
+<td align="center" valign="middle">
+<br/>44<br/>
+</td>
+<td align="center" valign="middle">
+<br/>14' 59"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>52" 3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>25<br/>
+</td>
+<td align="center" valign="middle">
+<br/>34<br/>
+</td>
+<td align="center" valign="middle">
+<br/>20' 51"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 09" 1<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>5<br/>
+</td>
+<td align="center" valign="middle">
+<br/>6<br/>
+</td>
+<td align="center" valign="middle">
+<br/>30<br/>
+</td>
+<td align="center" valign="middle">
+<br/>40<br/>
+</td>
+<td align="center" valign="middle">
+<br/>15' 30"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>56" 0<br/>
+</td>
+<td align="center" valign="middle"/>
+<td align="center" valign="middle">
+<br/>20<br/>
+</td>
+<td align="center" valign="middle">
+<br/>30<br/>
+</td>
+<td align="center" valign="middle">
+<br/>21' 40"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 14" 0<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>4<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5<br/>
+</td>
+<td align="center" valign="middle">
+<br/>27<br/>
+</td>
+<td align="center" valign="middle">
+<br/>32<br/>
+</td>
+<td align="center" valign="middle">
+<br/>16' 05"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>59" 8<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2<br/>
+</td>
+<td align="center" valign="middle">
+<br/>17<br/>
+</td>
+<td align="center" valign="middle">
+<br/>24<br/>
+</td>
+<td align="center" valign="middle">
+<br/>22' 54"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 19" 6<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4<br/>
+</td>
+<td align="center" valign="middle">
+<br/>24<br/>
+</td>
+<td align="center" valign="middle">
+<br/>24<br/>
+</td>
+<td align="center" valign="middle">
+<br/>16' 42"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 04" 2<br/>
+</td>
+<td align="center" valign="middle"/>
+<td align="center" valign="middle">
+<br/>15<br/>
+</td>
+<td align="center" valign="middle">
+<br/>18<br/>
+</td>
+<td align="center" valign="middle">
+<br/>24' 04"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 25" 8<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>2<br/>
+</td>
+<td align="center" valign="middle">
+<br/>3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>21<br/>
+</td>
+<td align="center" valign="middle">
+<br/>16<br/>
+</td>
+<td align="center" valign="middle">
+<br/>17' 22"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 09" 3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12<br/>
+</td>
+<td align="center" valign="middle">
+<br/>12<br/>
+</td>
+<td align="center" valign="middle">
+<br/>25' 19"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 32" 7<br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2<br/>
+</td>
+<td align="center" valign="middle">
+<br/>18<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10<br/>
+</td>
+<td align="center" valign="middle">
+<br/>18' 05"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 14" 9<br/>
+</td>
+<td align="center" valign="middle"/>
+<td align="center" valign="middle">
+<br/>9<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7<br/>
+</td>
+<td align="center" valign="middle">
+<br/>26' 42"<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1' 40" 5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="11" valign="middle">
+<br/>Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.<br/>
+</td>
+</tr>
+</tbody>
+</table>

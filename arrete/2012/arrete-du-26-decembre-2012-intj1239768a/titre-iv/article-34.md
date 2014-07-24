@@ -1,11 +1,9 @@
 # Article 34
 
-Pour chaque concours, à partir de la liste de classement des candidats et au vu de la proposition du jury, le directeur des personnels militaires de la gendarmerie nationale, par délégation du ministre de l'intérieur, fixe par décision, par ordre de mérite :
+Les épreuves sportives se déroulent sous le contrôle d'un ou de plusieurs officiers, assistés de moniteurs d'entraînement physique et sportif.
 
-― une liste des candidats déclarés admis ;
+Les candidats effectuent obligatoirement dans le même ordre les différentes épreuves sportives relatives à leur concours, qui sont réalisées sur une durée maximale d'une journée.
 
-― une liste complémentaire, s'il y a lieu ;
+Tout candidat qui ne se présente pas à une épreuve sportive, pour cas de force majeure dûment constaté, peut être autorisé sur décision du président de jury du concours considéré à subir l'épreuve avec une autre série. Si celle-ci est programmée à une date ultérieure, le candidat repasse la totalité des épreuves sportives.
 
-― la date à partir de laquelle il ne pourra plus être fait appel aux candidats de la liste complémentaire.
-
-Ces listes sont publiées au Journal officiel de la République française.
+Si les circonstances atmosphériques l'imposent, le président du jury peut, sur proposition du ou des officiers chargés du contrôle des épreuves sportives, décider de différer une ou plusieurs des épreuves.

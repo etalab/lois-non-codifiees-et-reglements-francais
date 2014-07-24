@@ -321,7 +321,6 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <p align="center">- aux aéronefs basés en Corse ;</p>
 <p align="center">- aux aéronefs d'Etat ;</p>
 <p align="center">- aux aéronefs dont les pilotes ont effectué au moins un vol à l'arrivée et au départ de l'aérodrome dans les douze mois précédents.</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -671,7 +670,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 </tr>
 <tr>
 <td align="center">
-<br/>Méribel</td>
+<br/>Méribel- Robert Merloz</td>
 <td align="center">
 <br/>Savoie</td>
 <td align="center">
