@@ -10,25 +10,25 @@ B. - Le secrétaire général, délégué aux ressources humaines, a rang de che
 
 II. - La sous-direction de gestion et de pilotage des moyens comprend :
 
-Le bureau des ressources humaines de l'administration centrale et des prestations de services
+Le bureau des ressources humaines de l'administration centrale
 
-En liaison avec la direction des ressources humaines du secrétariat général des ministères économiques et financiers, il assure la gestion des ressources humaines des personnels de l'administration centrale de la direction générale, notamment en ce qui concerne le recrutement, la formation professionnelle, la gestion prévisionnelle des emplois, des effectifs et des compétences ainsi que la mobilité professionnelle.
+En liaison avec la direction des ressources humaines du secrétariat général des ministères économiques et financiers, il assure la gestion des ressources humaines des personnels en fonctions à l'administration centrale de la direction générale, notamment en ce qui concerne la gestion prévisionnelle des emplois, des effectifs et des compétences, le recrutement, la formation professionnelle, l'évaluation ainsi que la mobilité professionnelle.
 
-Il assure les tâches d'administration de la direction générale et gère le budget de fonctionnement de ses services d'administration centrale.
+Il propose et met en œuvre la politique des ressources humaines de l'administration centrale de la direction générale.
 
 Le bureau des ressources humaines des services à l'étranger et déconcentrés
 
-Il gère les personnels, titulaires et contractuels, exerçant leurs fonctions dans les services à l'étranger et déconcentrés, en liaison, le cas échéant, avec le bureau des ressources humaines de l'administration centrale et des prestations de service.
+Il assure la gestion des ressources humaines des personnels, titulaires et contractuels, exerçant leurs fonctions dans les services à l'étranger et déconcentrés de la direction générale, notamment en ce qui concerne la gestion prévisionnelle des emplois, des effectifs et des compétences, le recrutement, la formation professionnelle, l'évaluation ainsi que la mobilité professionnelle.
 
-Il est responsable de la formation spécifique destinée à ces agents.
+Il propose et met en œuvre la politique des ressources humaines des services à l'étranger et déconcentrés de la direction générale.
 
 En outre, il recrute et gère les volontaires civils dépendant de ces services à l'étranger ou des chambres de commerce françaises à l'étranger et peut gérer ceux affectés auprès des réseaux à l'étranger d'Ubifrance et de l'Agence française pour les investissements internationaux dans le cadre de conventions passées entre la direction générale du Trésor et chacun des deux établissements.
 
 Le bureau des affaires budgétaires et comptables
 
-Il anime la préparation des projets de loi de finances pour les programmes suivis par la direction générale et assure le suivi de leur exécution budgétaire. Il coordonne les travaux sur la certification des comptes de l'Etat et est chargé de la mise en place du contrôle interne comptable au sein de la direction générale.
+Il anime la préparation des projets de loi de finances pour les programmes et les comptes suivis par la direction générale et assure le suivi de leur exécution budgétaire. Il coordonne les travaux sur la certification des comptes de l'Etat et est chargé de la mise en place du contrôle interne comptable et du contrôle interne budgétaire au sein de la direction générale.
 
-Il est chargé du contrôle de gestion et du pilotage de la performance dans le cadre de la loi organique relative aux lois de finances de la direction générale.
+Il est chargé du contrôle de gestion et du pilotage de la performance de la direction générale dans le cadre de la loi organique relative aux lois de finances.
 
 En étroite liaison avec l'ensemble des services de la direction générale, il participe à la mise en œuvre des actes accordant la garantie de l'Etat.
 
@@ -53,6 +53,12 @@ En liaison avec le secrétariat général des ministères économiques et financ
 Le bureau des systèmes d'information
 
 En liaison avec le secrétariat général des ministères économiques et financiers, il met en œuvre la politique informatique des services centraux et des services à l'étranger et déconcentrés.
+
+Le bureau des prestations de services
+
+Il est chargé de la logistique de l'administration centrale et, pour certaines prestations, du réseau international ainsi que des moyens de fonctionnement courant.
+
+Il est le représentant de la direction générale en matière d'action sociale ainsi que de santé et sécurité au travail.
 
 III. - L'inspection générale, dont les rapports et recommandations sont adressés au directeur général, procède au contrôle et à l'évaluation des activités des services relevant de la direction générale à l'étranger ou en région, dans le cadre des orientations définies par la direction générale. Elle anime la réflexion sur leurs missions, leur organisation et leurs méthodes de travail. Elle assure toute mission d'audit, d'étude ou de conseil que le directeur général ou le secrétaire général lui confie portant sur l'administration centrale, les services à l'étranger ou en région, ou sur toute question relevant de la compétence ou d'un financement de la direction générale.
 
