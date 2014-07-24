@@ -39,9 +39,21 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="left" valign="top">
 <p align="left">Direction régionale de Basse-Normandie - service de statistiques nationales d'entreprises<br/>(ajouté à compter du 1er janvier 2011)</p>
+<p align="left">(supprimé à compter du 1er septembre 2014)</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Chef de la division méthodes et coordination de la production <br/>(ajouté à compter du 1er janvier 2011)</p>
+<p align="left">(supprimé à compter du 1er septembre 2014)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction régionale de Basse-Normandie</p>
+<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
+</td>
+<td>
+<p align="left">Chef du service statistique</p>
+<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
 </td>
 </tr>
 <tr>
@@ -147,6 +159,16 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Direction régionale de Languedoc-Roussillon <br/>(Ajouté à compter du 1er septembre 2014) <br/>
+</p>
+</td>
+<td>
+<p align="left">Chef du service statistique </p>
+<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Direction régionale du Limousin<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
@@ -211,6 +233,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="left" valign="top">
 <p align="left">Responsable du pôle national de compétence Prix à la production industrielle</p>
 </td>
+</tr>
+<tr>
+<td> Direction régionale de Provence-Alpes-Côte d'Azur</td>
+<td> Chef du service administration des ressources</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -392,6 +418,16 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td align="left" valign="top">
 <p align="left">Responsable budgétaire, chargé des dépenses de fonctionnement<br/>(ajouté à compter du 1er septembre 2013) </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Département des affaires financières et programmation des travaux et des moyens </p>
+<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
+</td>
+<td>
+<p align="left">Chef de la section performance </p>
+<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
 </td>
 </tr>
 <tr>
