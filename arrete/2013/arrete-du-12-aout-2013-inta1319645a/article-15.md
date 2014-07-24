@@ -16,8 +16,10 @@ I. ― La sous-direction de la défense, de l'ordre public et de la protection :
 
 ― anime ou participe, avec les autres sous-directions de la direction des opérations et de l'emploi, aux gestions interministérielles de crise.
 
-II. ― La sous-direction de la défense, de l'ordre public et de la protection est constituée des bureaux suivants :
+II. ― La sous-direction de la défense, de l'ordre public et de la protection est constituée :
 
-― le bureau de la défense et de la sécurité nationale ;
+― du bureau de la défense et de la sécurité nationale ;
 
-― le bureau de l'ordre public.
+― du bureau de l'ordre public ;
+
+― du centre de planification et de gestion de crise.

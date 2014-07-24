@@ -12,7 +12,9 @@ Les organismes extérieurs directement subordonnés au directeur général de la
 
 L'animation et la coordination de l'activité de ces organismes sont assurées par :
 
-― la direction des opérations et de l'emploi concernant le pôle judiciaire de la gendarmerie nationale et le commandement de la gendarmerie prévôtale ;
+― la direction des opérations et de l'emploi concernant le commandement de la gendarmerie prévôtale ;
+
+― la sous-direction de la police judiciaire concernant le pôle judiciaire de la gendarmerie nationale ;
 
 ― la direction des soutiens et des finances, la direction des personnels militaires de la gendarmerie nationale et le service de l'achat, des équipements et de la logistique de la sécurité intérieure, dans leurs domaines de compétence respectifs, concernant l'établissement central de l'administration et du soutien de la gendarmerie nationale ;
 
