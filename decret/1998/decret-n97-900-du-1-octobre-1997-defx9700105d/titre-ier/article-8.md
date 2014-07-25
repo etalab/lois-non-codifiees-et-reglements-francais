@@ -1,8 +1,8 @@
 # Article 8
 
-Tout militaire qui a au moins un enfant à charge peut prétendre aux majorations familiales, quel que soit le lieu de résidence de cet enfant.
+Le militaire qui a au moins un enfant à charge peut prétendre aux majorations familiales qui tiennent compte en outre des frais de scolarité des établissements français d'enseignement primaire et secondaire de référence au sein du pays ou de la zone d'affectation des agents.
 
-Le montant de ces majorations est obtenu par l'application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Ce montant est majoré de 25 % pour les enfants âgés de dix à quinze ans et de 50 % pour les enfants âgés de plus de quinze ans.
+Le montant des majorations familiales est obtenu par l'application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Les majorations familiales sont fixées selon trois tranches d'âge par pays ou par localité.
 
 Les coefficients applicables pour chaque enfant à charge sont prévus, pour chaque pays, par l'arrêté conjoint du ministre chargé du budget et du ministre des affaires étrangères pris pour l'application du troisième alinéa de l'article 8 du décret du 28 mars 1967 susvisé.
 

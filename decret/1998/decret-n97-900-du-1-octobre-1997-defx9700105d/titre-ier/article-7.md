@@ -6,7 +6,7 @@ Le supplément familial peut néanmoins être attribué lorsque le conjoint ou l
 
 Le supplément familial ne peut être cumulé ni avec le supplément familial de solde auquel le militaire pourrait prétendre s'il était affecté en France, ni avec le supplément familial de traitement ou de solde auquel peut prétendre son conjoint ou son partenaire resté en France, agent de l'Etat lui-même.
 
-Le supplément familial est égal à 10 % de l'indemnité de résidence perçue par le militaire.
+Le supplément familial est égal à 10 % de l'indemnité de résidence à l'étranger perçue par le militaire.
 
 Le supplément familial continue à être alloué jusqu'à la fin du deuxième mois qui suit celui du décès du conjoint ou du partenaire. Il est supprimé à la fin du mois au cours duquel la séparation de corps ou le divorce ou la dissolution du pacte civil de solidarité est devenu définitif sous réserve des dispositions prévues au premier alinéa du présent article.
 

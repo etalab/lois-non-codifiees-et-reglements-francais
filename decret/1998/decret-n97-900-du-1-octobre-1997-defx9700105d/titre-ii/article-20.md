@@ -4,7 +4,7 @@ Les émoluments du militaire autorisé à bénéficier à l'étranger du congé 
 
 -la solde de base ;
 
--50 % de l'indemnité de résidence ;
+- l'indemnité de résidence à l'étranger ;
 
 -le cas échéant, le supplément familial prévu à l'article 7 ci-dessus ;
 

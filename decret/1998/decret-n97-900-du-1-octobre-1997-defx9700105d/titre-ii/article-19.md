@@ -8,4 +8,4 @@ Le congé administratif peut être accordé soit en cours de séjour, soit à l'
 
 Le congé pris en cours de séjour ouvre droit, pour tous les militaires, à la totalité des émoluments qu'ils perçoivent en situation de présence au poste.
 
-Le congé pris à l'issue du séjour ouvre droit à la totalité des émoluments que les militaires perçoivent en situation de présence au poste, à l'exception toutefois de l'indemnité de résidence qui est réduite de 50 % pour les officiers et de l'indemnité pour frais de représentation qui est supprimée.
+Le congé pris à l'issue du séjour ouvre droit à la totalité des émoluments que les militaires perçoivent en situation de présence au poste, à l'exception toutefois de l'indemnité de résidence à l'étranger qui est réduite de 50 % pour les officiers et de l'indemnité pour frais de représentation qui est supprimée.

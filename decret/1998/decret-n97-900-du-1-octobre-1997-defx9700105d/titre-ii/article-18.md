@@ -4,13 +4,13 @@ L'appel spécial est la situation du militaire qui, en raison de la situation po
 
 En ce cas, les émoluments varient en fonction de la durée d'absence du poste dans cette situation, selon les modalités suivantes :
 
-- jusqu'à trente jours inclus, le militaire perçoit la totalité de ses émoluments à l'étranger, à l'exception de l'indemnité pour frais de représentation qui est réduite de moitié ;
+-jusqu'à trente jours inclus, le militaire perçoit la totalité de ses émoluments à l'étranger, à l'exception de l'indemnité pour frais de représentation qui est réduite de moitié ;
 
-- au-delà du trentième jour et jusqu'au soixantième jour inclus, le militaire perçoit, d'une part, la solde et, d'autre part, le total formé par les autres éléments de la rémunération, hors indemnité pour charges militaires et indemnité pour frais de représentation, réduit de 40 % ; l'indemnité pour frais de représentation est réduite des deux tiers ;
+-au-delà du trentième jour et jusqu'au soixantième jour inclus, le militaire perçoit, d'une part, la solde et, d'autre part, le total formé par les autres éléments de la rémunération, hors indemnité pour charges militaires et indemnité pour frais de représentation, réduit de 40 % ; l'indemnité pour frais de représentation est réduite des deux tiers ;
 
-- au-delà du soixantième jour et jusqu'au quatre-vingt-dixième jour inclus, le militaire perçoit, d'une part, la solde et, d'autre part, le total formé par les autres éléments de la rémunération, hors indemnité pour charges militaires et indemnité pour frais de représentation, réduit de 65 % ; l'indemnité pour frais de représentation continue à être réduite des deux tiers ;
+-au-delà du soixantième jour et jusqu'au quatre-vingt-dixième jour inclus, le militaire perçoit, d'une part, la solde et, d'autre part, le total formé par les autres éléments de la rémunération, hors indemnité pour charges militaires et indemnité pour frais de représentation, réduit de 65 % ; l'indemnité pour frais de représentation continue à être réduite des deux tiers ;
 
-- au-delà du quatre-vingt-dixième jour, le militaire perçoit la solde et l'indemnité de résidence d'un militaire de même indice hiérarchique affecté en France (Paris). Il perçoit également des majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté prévu à l'article 8 ci-dessus. L'indemnité pour charges militaires continue à être versée aux taux prévus en situation de présence au poste ; l'indemnité pour frais de représentation est supprimée.
+-au-delà du quatre-vingt-dixième jour, le militaire perçoit la solde et l'indemnité de résidence à l'étranger d'un militaire de même indice hiérarchique affecté en France (Paris). Il perçoit également des majorations familiales au coefficient le moins élevé figurant au tableau annexé à l'arrêté prévu à l'article 8 ci-dessus. L'indemnité pour charges militaires continue à être versée aux taux prévus en situation de présence au poste ; l'indemnité pour frais de représentation est supprimée.
 
 Dans cette situation, est supprimée, dès le premier jour d'absence du poste, la retenue pour logement prévue à l'article 13 du présent décret.
 
