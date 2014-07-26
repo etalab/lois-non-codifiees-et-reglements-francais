@@ -1,3 +1,0 @@
-# CHAPITRE III : RENFORCEMENT DE LA SURVEILLANCE
-
-- [Article 4](article-4.md)

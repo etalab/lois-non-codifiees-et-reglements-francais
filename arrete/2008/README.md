@@ -1059,7 +1059,6 @@
 - [Arrêté du 28 février 2008 (ECED0802473A)](arrete-du-28-fevrier-2008-eced0802473a)
 - [Arrêté du 28 janvier 1991 (SANH9100175A)](arrete-du-28-janvier-1991-sanh9100175a)
 - [Arrêté du 28 janvier 2008 (MTSW0807330A)](arrete-du-28-janvier-2008-mtsw0807330a)
-- [Arrêté du 28 juillet 2008 (AGRG0818672A)](arrete-du-28-juillet-2008-agrg0818672a)
 - [Arrêté du 28 juillet 2008 (AGRG0818829A)](arrete-du-28-juillet-2008-agrg0818829a)
 - [Arrêté du 28 juillet 2008 (BCFZ0818913A)](arrete-du-28-juillet-2008-bcfz0818913a)
 - [Arrêté du 28 juillet 2008 (DEFD0818728A)](arrete-du-28-juillet-2008-defd0818728a)
