@@ -38,7 +38,7 @@ Sous-directeur de l'archéologie à la direction générale des patrimoines.
 
 Sous-directeur de l'emploi et de la formation à la direction générale de la création artistique.
 
-Sous-directeur, adjoint au directeur chargé des arts plastiques à la direction générale de la création artistique.
+Sous-directeur des arts plastiques.
 
 Sous-directeur de la presse écrite et des métiers de l'information à la direction générale des médias et des industries culturelles.
 

@@ -23,3 +23,5 @@ Chef du service de la coordination des politiques culturelles et de l'innovation
 Chef de service, directeur du service à compétence nationale Archives nationales.
 
 Chef de service, directeur du service à compétence nationale du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie.
+
+Chef de service, directeur adjoint chargé des arts plastiques à la direction générale de la création artistique.
