@@ -297,10 +297,10 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <td>ALIQUA<br/>3, chemin du Paradis<br/>27220 La Boissière</td>
 <td>RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement.<br/>RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement.</td>
 <td>
-<p align="center"> 27 janvier 2014</p>
+<p align="center">27 janvier 2014</p>
 </td>
 <td>
-<p align="center"> 26 janvier 2019</p>
+<p align="center">26 janvier 2019</p>
 </td>
 </tr>
 <tr>
@@ -310,6 +310,18 @@ DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 
 <td>Opérateur, volailles-manipulations et soins</td>
 <td>19 mai 2014 </td>
 <td>18 mai 2019<br/>
+</td>
+</tr>
+<tr>
+<td>Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon <br/>
+</td>
+<td> Opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement <br/>
+</td>
+<td>
+<p align="center"> 1er août 2014 </p>
+</td>
+<td>
+<p align="center"> 31 juillet 2019</p>
 </td>
 </tr>
 </tbody>
