@@ -1,3 +1,0 @@
-# Article 9
-
-Huit jours au moins avant la séance de l'assemblée qui précède la clôture des cours, chaque professeur ou chargé de cours est tenu d'adresser à l'administrateur le programme de son enseignement pour l'année suivante et d'indiquer le nombre de leçons ou de conférences qu'il compte y consacrer. Ces programmes sont communiqués à l'assemblée qui en délibère à la séance de clôture et vote au scrutin secret. Ils sont ensuite soumis à l'approbation du ministre. Cette approbation donnée, l'administrateur prend les mesures nécessaires pour assurer immédiatement la publicité des programmes en France et à l'étranger. L'affichage officiel doit avoir lieu un mois au moins avant le 1er décembre.

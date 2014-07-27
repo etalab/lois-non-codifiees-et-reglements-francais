@@ -566,7 +566,6 @@
 - [Décret n°92-697 du 20 juillet 1992 (BUDF9200016D)](decret-n92-697-du-20-juillet-1992-budf9200016d)
 - [Décret n°92-701 du 20 juillet 1992 (ACVC9200044D)](decret-n92-701-du-20-juillet-1992-acvc9200044d)
 - [Décret n°92-702 du 20 juillet 1992 (PRMX9210230D)](decret-n92-702-du-20-juillet-1992-prmx9210230d)
-- [Décret n°92-812 du 20 août 1992 (MENX9200116D)](decret-n92-812-du-20-aout-1992-menx9200116d)
 - [Décret n°92-813 du 20 août 1992 (DEFD9201767D)](decret-n92-813-du-20-aout-1992-defd9201767d)
 - [Décret n°92-826 du 20 août 1992 (SANH9201374D)](decret-n92-826-du-20-aout-1992-sanh9201374d)
 - [Décret n°93-99 du 20 janvier 1993 (EQUP9200626D)](decret-n93-99-du-20-janvier-1993-equp9200626d)
