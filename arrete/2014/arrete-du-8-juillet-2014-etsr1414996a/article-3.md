@@ -1,0 +1,3 @@
+# Article 3
+
+Les représentants du personnel sont élus au scrutin de liste pour les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et les directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dont les effectifs sont supérieurs à 100 agents et sont désignés suite à un scrutin sur sigle dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et les directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dont les effectifs sont inférieurs ou égaux à 100 agents.
