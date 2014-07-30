@@ -715,7 +715,6 @@
 - [Arrêté du 29 novembre 1990 (BUDB9030023A)](arrete-du-29-novembre-1990-budb9030023a)
 - [Arrêté du 29 octobre 1990 (PTTC9000810A)](arrete-du-29-octobre-1990-pttc9000810a)
 - [Arrêté du 29 octobre 1990 (PTTR9000860A)](arrete-du-29-octobre-1990-pttr9000860a)
-- [Arrêté du 29 mai 1990 (MERG9000101A)](arrete-du-29-mai-1990-merg9000101a)
 - [Arrêté du 30 août 1990 (ECOP9000535A)](arrete-du-30-aout-1990-ecop9000535a)
 - [Arrêté du 30 août 1990 (TEFT9003792A)](arrete-du-30-aout-1990-teft9003792a)
 - [Arrêté du 30 avril 1990 (BUDR9005024A)](arrete-du-30-avril-1990-budr9005024a)
