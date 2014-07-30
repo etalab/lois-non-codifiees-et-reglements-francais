@@ -2,7 +2,7 @@
 
 Chefs des services des systèmes d'information et de communication accédant à l'échelon spécial
 
-Services de zone des systèmes d'information et de communication (SZSIC)
+Secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 <table>
 <tbody>
@@ -18,24 +18,18 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 </td>
 </tr>
 <tr>
-<td width="37">
+<td align="center" valign="top">
 <p align="center">59 </p>
 </td>
-<td width="372">
-<p>SZSIC de la zone de défense Nord. </p>
+<td align="left" valign="top">
+<p>SGAMI de la zone de défense et de sécurité Nord. </p>
 </td>
-<td width="186">
-<p>Chef du SZSIC. </p>
+<td align="left" valign="top">
+<p>Directeur des systèmes d'information et de communication. </p>
 </td>
-<td width="75">
+<td align="center" valign="top">
 <p align="center">60 </p>
 </td>
-</tr>
-<tr>
-<td width="40"/>
-<td width="374"/>
-<td width="188"/>
-<td width="78"/>
 </tr>
 </tbody>
 </table>

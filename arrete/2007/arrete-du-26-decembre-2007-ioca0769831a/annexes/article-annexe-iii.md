@@ -4,11 +4,12 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 
 ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
-<div align="left">
 <table>
 <tbody>
 <tr>
-<td colspan="3">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DANS LES SERVICES DE LA PRÉFECTURE <br/>de police et du secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris les fonctions suivantes </td>
+<td colspan="3">
+<p align="center">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DANS LES SERVICES DE LA PRÉFECTURE <br/>de police et du secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris les fonctions suivantes </p>
+</td>
 </tr>
 <tr>
 <td align="center">Directions et services </td>
@@ -262,210 +263,7 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 </tbody>
 </table>
-</div>
-
-<table>
-<tbody>
-<tr>
-<td colspan="4">
-<p align="center">
-<font size="1">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE DIRECTEUR, <br/>délégué régional ou de chargé de mission dans les secrétariats généraux d'administration de la police (SGAP) suivants</font>
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p align="center">
-<font size="1">Localisation de l'emploi</font>
-</p>
-</td>
-<td>
-<p align="left">
-<font size="1">Nombre d'emplois</font>
-</p>
-</td>
-<td>
-<font size="1">Nombre de points NBI</font>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">13</p>
-</td>
-<td align="center">
-<p align="left">SGAP de la zone de défense Sud</p>
-</td>
-<td align="center">
-<p align="center">2</p>
-</td>
-<td align="center">
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">21</p>
-</td>
-<td>
-<p align="left">Délégation régionale de Dijon.</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">33</p>
-</td>
-<td align="center">
-<p align="left">SGAP de la zone de défense Sud-Ouest</p>
-</td>
-<td align="center">
-<p align="center">2</p>
-</td>
-<td align="center">
-<p align="center">50</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">31<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Délégation régionale de Toulouse.</p>
-</td>
-<td align="center">
-<p align="center">1</p>
-</td>
-<td align="center">
-<p align="center">50</p>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="3" valign="top">
-<p align="center">35</p>
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<p align="left">SGAP de la zone de défense Ouest.</p>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Directeur des ressources humaines.</p>
-</td>
-<td align="center">
-<p align="center">1</p>
-</td>
-<td align="center">
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Directeur des affaires financières.</p>
-</td>
-<td align="center">
-<p align="center">1</p>
-</td>
-<td align="center">
-<p align="center">50</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">57</p>
-</td>
-<td align="center">
-<p align="left">SGAP de la zone de défense Est.</p>
-</td>
-<td align="center">
-<p align="center">2</p>
-</td>
-<td align="center">
-<p align="center">50</p>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="4" valign="top">
-<p align="center">59</p>
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<p align="left">SGAP de la zone de défense Nord.</p>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Directeur des ressources humaines.</p>
-</td>
-<td align="center">
-<p align="center">1</p>
-</td>
-<td align="center">
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chargé de mission auprès du préfet délégué<br/>pour la sécurité et la défense.</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Directeur de l'administration générale<br/>et des finances.</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1</p>
-</td>
-<td align="left" valign="top">
-<p align="center">60 </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="center">69</p>
-</td>
-<td align="center">
-<p align="left">SGAP de la zone de défense Sud-Est</p>
-</td>
-<td align="center">
-<p align="center">2</p>
-</td>
-<td align="center">
-<p align="center">60</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div align="left">.</div>
 
 <table>
 <tbody>
@@ -614,30 +412,25 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tbody>
 </table>
 
+<div align="left">.</div>
+<div align="left">
+
 <table>
 <tbody>
 <tr>
 <td colspan="4">
-<p align="center">
-<font size="1">CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL<br/>dans la structure de formation de police suivante</font>
-</p>
+<p align="center">CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL<br/>dans la structure de formation de police suivante</p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">
-<font size="1">Localisation de l'emploi</font>
-</p>
+<p align="center">Localisation de l'emploi</p>
 </td>
 <td>
-<p align="center">
-<font size="1">Nombre d'emplois</font>
-</p>
+<p align="center">Nombre d'emplois</p>
 </td>
 <td>
-<p align="center">
-<font size="1">Nombre de points NBI</font>
-</p>
+<p align="center">Nombre de points NBI</p>
 </td>
 </tr>
 <tr>
@@ -658,9 +451,7 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <td>
 <p align="center">69 </p>
 </td>
-<td>
-<p align="left">Ecole nationale supérieure de la police. </p>
-</td>
+<td>Ecole nationale supérieure de la police. </td>
 <td>
 <p align="center">1</p>
 </td>
@@ -670,3 +461,5 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 </tbody>
 </table>
+
+</div>

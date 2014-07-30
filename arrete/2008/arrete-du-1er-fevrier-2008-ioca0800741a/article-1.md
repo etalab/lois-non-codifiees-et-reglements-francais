@@ -20,10 +20,10 @@ La liste des emplois de chef des services techniques accédant à l'échelon fon
 </tr>
 <tr>
 <td align="center">
-<p align="left">SGAP de Marseille. </p>
+<p align="left">SGAMI de la zone de défense et de sécurité Sud.</p>
 </td>
 <td align="center">
-<p align="left">Directeur de la logistique. </p>
+<p align="left">Directeur de l'immobilier. </p>
 </td>
 <td align="center">
 <p align="center">1 </p>
@@ -34,10 +34,10 @@ La liste des emplois de chef des services techniques accédant à l'échelon fon
 </tr>
 <tr>
 <td align="center">
-<p align="left">SGAP de Rennes. </p>
+<p align="left">SGAMI de la zone de défense et de sécurité Ouest.</p>
 </td>
 <td align="center">
-<p align="left">Directeur de la logistique. </p>
+<p align="left">Directeur de l'immobilier. </p>
 </td>
 <td align="center">
 <p align="center">1 </p>
@@ -62,10 +62,10 @@ La liste des emplois de chef des services techniques accédant à l'échelon fon
 </tr>
 <tr>
 <td align="center">
-<p align="left">SGAP de Bordeaux. </p>
+<p align="left">SGAMI de la zone de défense et de sécurité Sud-Ouest. </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la logistique. </p>
+<p align="left">Directeur de l'immobilier. </p>
 </td>
 <td align="center">
 <p align="center">1 </p>
@@ -79,7 +79,7 @@ La liste des emplois de chef des services techniques accédant à l'échelon fon
 <p align="left">Service de l'achat, des équipements et de la logistique de la sécurité intérieure. </p>
 </td>
 <td align="center">
-<p align="left">Chef de l'établissement central logistique de la police nationale. </p>
+<p align="left">Directeur de l'établissement central logistique de la police nationale. </p>
 </td>
 <td align="center">
 <p align="center">1 </p>

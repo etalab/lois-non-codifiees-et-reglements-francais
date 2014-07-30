@@ -1,7 +1,0 @@
-# Article 2
-
-Les techniciens supérieurs de l'industrie et des mines stagiaires nouvellement recrutés reçoivent une formation initiale de 12 semaines environ étalée sur 6 mois, sous la forme de modules de 2 ou 3 semaines alternant avec des périodes dans le service d'affectation. Cette formation se décompose en deux périodes :
-
-1° Une première période de 4 mois de tronc commun, comportant environ 8 semaines de formation à l'Ecole nationale supérieure des techniques industrielles et des mines de Douai (ENSTIMD). Cette période vise à dispenser aux agents les enseignements généraux et les éléments de base relatifs aux activités des              directions régionales de l'environnement, de l'aménagement et du logement . Ces enseignements visent notamment : les attributions, l'organisation et le fonctionnement des institutions, les droits et obligations des fonctionnaires, les responsabilités des agents et du service, le droit administratif et pénal, les activités et le fonctionnement des DRIRE, le développement des capacités rédactionnelles, orales et relationnelles, la maîtrise de l'informatique et des notions de qualité ;
-
-2° Une deuxième période consécutive de 2 mois, consacrée aux options, comporte environ 4 semaines à l'ENSTIMD. Cette période permet à l'agent, d'une part, de recevoir une formation initiale dans le domaine d'activité correspondant aux exigences du poste qui lui est confié et, d'autre part, de le préparer à un premier niveau d'habilitation.

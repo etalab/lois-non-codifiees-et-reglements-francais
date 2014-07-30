@@ -2639,7 +2639,6 @@
 - [Arrêté du 27 janvier 2012 (INDR1202854A)](arrete-du-27-janvier-2012-indr1202854a)
 - [Arrêté du 27 janvier 2012 (IOCE1202670A)](arrete-du-27-janvier-2012-ioce1202670a)
 - [Arrêté du 27 janvier 2012 (JUSD1202857A)](arrete-du-27-janvier-2012-jusd1202857a)
-- [Arrêté du 27 juillet 2007 (ECEQ0759415A)](arrete-du-27-juillet-2007-eceq0759415a)
 - [Arrêté du 27 juillet 2012 (AFSP1230815A)](arrete-du-27-juillet-2012-afsp1230815a)
 - [Arrêté du 27 juillet 2012 (AFSS1231019A)](arrete-du-27-juillet-2012-afss1231019a)
 - [Arrêté du 27 juillet 2012 (AGRG1230891A)](arrete-du-27-juillet-2012-agrg1230891a)

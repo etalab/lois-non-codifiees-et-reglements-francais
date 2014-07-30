@@ -22,27 +22,25 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Préfecture de la région d'Ile-de-France, préfecture de Paris.</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du service de l'accès au logement et de la prévention des expulsions.</p>
 </td>
-<td align="center">
-<p align="center">
-<br/>60 </p>
+<td align="left" valign="top">
+<p align="center">60 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Préfecture des Alpes-Maritimes.</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chargé de mission opération d'intérêt national d'aménagement de la plaine du Var. </p>
 </td>
-<td align="center">
-<p align="center">
-<br/>50</p>
+<td align="left" valign="top">
+<p align="center">50</p>
 </td>
 </tr>
 <tr>
@@ -53,19 +51,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <p align="left">Chargé de mission "développement territorial et ingénierie de projet".</p>
 </td>
 <td align="center">
-<p align="center">
-<br/>20</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Préfecture des Bouches-du-Rhône </p>
-</td>
-<td>
-<p align="left">Chargé de mission "grands projets". </p>
-</td>
-<td>
-<p align="center">30</p>
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
@@ -91,10 +77,15 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 </tr>
 <tr>
-<td>Préfecture d'Ille-et-Vilaine </td>
-<td>Chargé(e) de mission pour la performance régionale sur le périmètre des préfectures de la région Bretagne. <br/>
+<td align="left" valign="top">
+<p align="left">Préfecture d'Ille-et-Vilaine </p>
 </td>
-<td align="center"> 30</td>
+<td align="left" valign="top">
+<p align="left">Chargé(e) de mission pour la performance régionale sur le périmètre des préfectures de la région Bretagne.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">30</p>
+</td>
 </tr>
 </tbody>
 </table>

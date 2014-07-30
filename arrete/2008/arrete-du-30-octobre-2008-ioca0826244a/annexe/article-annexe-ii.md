@@ -48,7 +48,7 @@ Préfectures
 </tbody>
 </table>
 
-Services de zone des systèmes d'information et de communication (SZSIC)
+Secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 <table>
 <tbody>
@@ -68,10 +68,10 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 <p align="center">13</p>
 </td>
 <td width="378">
-<p>SZSIC de la zone de défense Sud</p>
+<p>SGAMI de la zone de défense et de sécurité Sud</p>
 </td>
 <td width="189">
-<p align="left">Adjoint au chef du SZSIC</p>
+<p align="left">Adjoint au directeur des systèmes d'information et de communication.</p>
 </td>
 <td width="76">
 <p align="center">40</p>
@@ -82,10 +82,10 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 <p align="center">33</p>
 </td>
 <td width="378">
-<p>SZSIC de la zone de défense Sud-Ouest</p>
+<p>SGAMI de la zone de défense et de sécurité Sud-Ouest </p>
 </td>
 <td width="189">
-<p align="left">Adjoint au chef du SZSIC</p>
+<p align="left">Adjoint au directeur des systèmes d'information et de communication. </p>
 </td>
 <td width="76">
 <p align="center">40</p>
@@ -96,10 +96,10 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 <p align="center">35</p>
 </td>
 <td width="378">
-<p>SZSIC de la zone de défense Ouest</p>
+<p>SGAMI de la zone de défense et de sécurité Ouest </p>
 </td>
 <td width="189">
-<p align="left">Adjoint au chef du SZSIC</p>
+<p align="left">Adjoint au directeur des systèmes d'information et de communication. </p>
 </td>
 <td width="76">
 <p align="center">40</p>
@@ -110,10 +110,10 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 <p align="center">57</p>
 </td>
 <td width="378">
-<p>SZSIC de la zone de défense Est</p>
+<p>SGAMI de la zone de défense et de sécurité Est </p>
 </td>
 <td width="189">
-<p align="left">Adjoint au chef du SZSIC</p>
+<p align="left">Adjoint au directeur des systèmes d'information et de communication. </p>
 </td>
 <td width="76">
 <p align="center">40</p>
@@ -124,10 +124,10 @@ Services de zone des systèmes d'information et de communication (SZSIC)
 <p align="center">69</p>
 </td>
 <td width="378">
-<p>SZSIC de la zone de défense Sud</p>
+<p>SGAMI de la zone de défense et de sécurité Sud </p>
 </td>
 <td width="189">
-<p align="left">Adjoint au chef du SZSIC</p>
+<p align="left">Adjoint au directeur des systèmes d'information et de communication. </p>
 </td>
 <td width="76">
 <p align="center">40</p>
@@ -193,3 +193,7 @@ Services de l'administration centrale et dans la zone de défense et de sécurit
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>

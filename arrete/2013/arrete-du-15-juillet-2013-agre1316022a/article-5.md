@@ -1,0 +1,3 @@
+# Article 5
+
+Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi ainsi que les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre des sports peuvent, s'ils remplissent les conditions fixées au premier alinéa de l'article D. 336-13 modifié du code de l'éducation susvisé, bénéficier des dispositions fixées au premier alinéa de l'article 3 du présent arrêté dans la limite de cinq sessions après leur première présentation à l'examen du baccalauréat technologique. Le tableau d'équivalence applicable figure en annexe 2 du présent arrêté.

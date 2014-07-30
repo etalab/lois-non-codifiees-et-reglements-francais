@@ -8,10 +8,10 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <tbody>
 <tr>
 <td>
-<p align="center"> SERVICES OU DIRECTIONS </p>
+<p align="center">SERVICES OU DIRECTIONS </p>
 </td>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 </tr>
 <tr>
@@ -176,10 +176,26 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfecture de police : </p>
+<p align="left">Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : </p>
 </td>
 <td align="center">
 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction des finances, de la commande publique et de la performance</p>
+</td>
+<td>
+<p align="left">Chargé de mission pour la mise en place du centre de services partagés Chorus. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Direction des ressources humaines</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chargé de mission pour la mise en place du pôle d'expertise et de services (PESE). </p>
 </td>
 </tr>
 <tr>
@@ -242,20 +258,6 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </td>
 <td align="center">
 <p align="left">Directeurs des ressources humaines. </p>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="2" valign="top">
-<p align="left">Versailles </p>
-<br/>
-</td>
-<td align="left" valign="top">
-<p align="left">Directeur de l'administration générale et des finances. </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Directeur des ressources humaines.</p>
 </td>
 </tr>
 </tbody>

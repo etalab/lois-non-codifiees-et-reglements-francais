@@ -4,19 +4,20 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 
 ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
-<div align="left">
 <table>
 <tbody>
 <tr>
-<td colspan="3"> LOCALISATION DE L'EMPLOI </td>
+<td colspan="3">LOCALISATION DE L'EMPLOI </td>
 </tr>
 <tr>
-<td colspan="3"> Conseillers d'administration de l'intérieur et de l'outre-mer exerçant  dans les directions et services d'administration centrale du ministère  de l'intérieur et du ministère des outre-mer et dans  les établissements publics relevant de la tutelle administrative des  mêmes ministres les fonctions suivantes </td>
+<td colspan="3">Conseillers d'administration de l'intérieur et de l'outre-mer exerçant dans les directions et services d'administration centrale du ministère de l'intérieur et du ministère des outre-mer et dans les établissements publics relevant de la tutelle administrative des mêmes ministres les fonctions suivantes </td>
 </tr>
 <tr>
-<td align="center"> Directions et services</td>
-<td align="center"> Fonctions </td>
-<td align="center"> Points NBI </td>
+<td align="center">
+<p align="center">Directions et services</p>
+</td>
+<td align="center">Fonctions </td>
+<td align="center">Points NBI </td>
 </tr>
 <tr>
 <td align="left">
@@ -32,8 +33,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="5">
 <br/>Direction des libertés publiques et des affaires juridiques. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau de la nationalité, des titres d'identité et de voyage. <br/>
@@ -77,8 +76,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="5">
 <br/>Direction générale de la sécurité civile et de la gestion des crises. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau des affaires financières et juridiques. <br/>
@@ -122,8 +119,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="4">
 <br/>Direction des systèmes d'information et de communication. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau des affaires juridiques. <br/>
@@ -159,8 +154,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="5">
 <br/>Direction de l'évaluation de la performance et des affaires financières et immobilières. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau de la gestion des sites de l'administration centrale. <br/>
@@ -202,10 +195,8 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="7">
+<td align="left" rowspan="8">
 <br/>Direction des ressources humaines. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau des ressources, de l'information et de l'accueil. <br/>
@@ -239,6 +230,14 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">Adjoint au chef du bureau des affaires générales, des études et des statuts. </p>
+</td>
+<td align="center" valign="top">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
 <td align="left">
 <br/>Chef de la mission projets professionnels. <br/>
 </td>
@@ -265,8 +264,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="3">
 <br/>Direction générale des collectivités locales. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat. <br/>
@@ -294,8 +291,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="12">
 <br/>Direction générale de la police nationale. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau des affaires disciplinaires. <br/>
@@ -394,10 +389,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" rowspan="3">
-<br/>Délégation générale à l'outre-mer. <br/>
-<br/>
-<br/>
-</td>
+<br/>Direction générale des outre-mer.</td>
 <td align="left">
 <br/>Chef du bureau des ressources et de la coordination. <br/>
 </td>
@@ -415,7 +407,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left">
-<br/>Chef du département de la dépense de l'Etat. <br/>
+<br/>Chef du bureau de la dépense de l'Etat.<br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -424,8 +416,6 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <tr>
 <td align="left" rowspan="2">
 <br/>Direction générale des étrangers en France. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau de la circulation transfrontalière. <br/>
@@ -465,16 +455,22 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="2">
+<td align="left" rowspan="3">
 <br/>Délégation à la sécurité et à la circulation routières. <br/>
-<br/>
-<br/>
 </td>
 <td align="left">
 <br/>Chef du bureau du permis de conduire. <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef du bureau des usagers de la route et de la réglementation des véhicules. </p>
+</td>
+<td align="center" valign="top">
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -498,4 +494,3 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 </tbody>
 </table>
-</div>

@@ -195,8 +195,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </p>
 </td>
 <td align="left" valign="top">
-<p align="center">9<br/>
-</p>
+<p align="center">10</p>
 </td>
 <td align="left" valign="top">
 <p align="center">60<br/>
@@ -1219,7 +1218,6 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <td align="left" valign="top">
 <br/>
-<br/>
 </td>
 <td align="left" valign="top">
 <p align="center">2</p>
@@ -1285,12 +1283,22 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </p>
 </td>
 <td align="left" valign="top">
-<p align="center">6<br/>
-</p>
+<p align="center">5</p>
 </td>
 <td align="left" valign="top">
 <p align="center">60<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">78 Yvelines</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -1415,7 +1423,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td/>
-<td align="center"> 1</td>
+<td align="center">1</td>
 <td align="center">20 <br/>
 </td>
 </tr>
@@ -1715,7 +1723,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td>987 Polynésie française </td>
-<td align="center"> 1</td>
+<td align="center">1</td>
 <td align="center">30 <br/>
 </td>
 </tr>
