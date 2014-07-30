@@ -188,7 +188,6 @@
 - [Arrêté du 9 juin 2004 (DOMA0400005A)](arrete-du-9-juin-2004-doma0400005a)
 - [Arrêté du 9 juin 2004 (ECOP0400290A)](arrete-du-9-juin-2004-ecop0400290a)
 - [Arrêté du 9 juin 2004 (SANP0422019A)](arrete-du-9-juin-2004-sanp0422019a)
-- [Arrêté du 9 mars 2004 (PRMG0470128A)](arrete-du-9-mars-2004-prmg0470128a)
 - [Arrêté du 9 mars 2004 (SOCF0410437A)](arrete-du-9-mars-2004-socf0410437a)
 - [Arrêté du 9 mars 2004 (SOCF0410439A)](arrete-du-9-mars-2004-socf0410439a)
 - [Arrêté du 9 mars 2004 (SOCF0410441A)](arrete-du-9-mars-2004-socf0410441a)
