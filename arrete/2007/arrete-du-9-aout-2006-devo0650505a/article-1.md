@@ -146,10 +146,10 @@ Niveaux relatifs aux éléments traces
 <p align="center">ÉLÉMENTS TRACES</p>
 </td>
 <td valign="top" width="256">
-<p align="center">NIVEAU N 1</p>
+<p align="center">NIVEAU N1</p>
 </td>
 <td valign="top" width="256">
-<p align="center">NIVEAU N 2</p>
+<p align="center">NIVEAU N2</p>
 </td>
 </tr>
 <tr>
@@ -245,119 +245,75 @@ Niveaux relatifs aux éléments traces
 
 Tableau III
 
-Niveaux relatifs aux composés traces
+Niveaux relatifs aux polychlorobiphényles (PCB)
 
-(en mg/kg de sédiment sec analysé sur la fraction inférieure à 2 mm)
+(en µg/kg de sédiment sec analysé sur la fraction inférieure à 2 mm)
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="256">
-<p align="center">PCB</p>
-</td>
-<td valign="top" width="256">
-<p align="center">NIVEAU N1</p>
-</td>
-<td valign="top" width="256">
-<p align="center">NIVEAU N2</p>
-</td>
+<th>
+<br/>PCB</th>
+<th>
+<br/>NIVEAU N 1</th>
+<th>
+<br/>NIVEAU N 2</th>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB totaux</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,5</p>
-</td>
-<td valign="top" width="256">
-<p align="center">1</p>
-</td>
+<td align="center">
+<br/>PCB congénère 28</td>
+<td align="center">
+<br/>5</td>
+<td align="center">
+<br/>10</td>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB congénère 28</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,025</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,05</p>
-</td>
+<td align="center">
+<br/>PCB congénère 52</td>
+<td align="center">
+<br/>5</td>
+<td align="center">
+<br/>10</td>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB congénère 52</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,025</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,05</p>
-</td>
+<td align="center">
+<br/>PCB congénère 101</td>
+<td align="center">
+<br/>10</td>
+<td align="center">
+<br/>20</td>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB congénère 101</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,05</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,1</p>
-</td>
+<td align="center">
+<br/>PCB congénère 118</td>
+<td align="center">
+<br/>10</td>
+<td align="center">
+<br/>20</td>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB congénère 118</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,025</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,05</p>
-</td>
+<td align="center">
+<br/>PCB congénère 138</td>
+<td align="center">
+<br/>20</td>
+<td align="center">
+<br/>40</td>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB congénère 138</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,050</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,10</p>
-</td>
+<td align="center">
+<br/>PCB congénère 153</td>
+<td align="center">
+<br/>20</td>
+<td align="center">
+<br/>40</td>
 </tr>
 <tr>
-<td valign="top" width="256">
-<p>PCB congénère 153</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,050</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,10</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="256">
-<p>PCB congénère 180</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,025</p>
-</td>
-<td valign="top" width="256">
-<p align="center">0,05</p>
-</td>
-</tr>
-<tr>
-<td>TBT</td>
-<td>
-<p align="center">0,1</p>
-</td>
-<td>
-<p align="center">0,4</p>
-</td>
+<td align="center">
+<br/>PCB congénère 180</td>
+<td align="center">
+<br/>10</td>
+<td align="center">
+<br/>20</td>
 </tr>
 </tbody>
 </table>
@@ -383,7 +339,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Naphtalène</p>
+<p align="left">Naphtalène</p>
 </td>
 <td align="center">
 <br/>160<br/>
@@ -394,7 +350,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Acénaphtène</p>
+<p align="left">Acénaphtène</p>
 </td>
 <td align="center">
 <br/>15<br/>
@@ -405,7 +361,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Acénaphtylène</p>
+<p align="left">Acénaphtylène</p>
 </td>
 <td align="center">
 <br/>40<br/>
@@ -416,7 +372,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Fluorène</p>
+<p align="left">Fluorène</p>
 </td>
 <td align="center">
 <br/>20<br/>
@@ -427,7 +383,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Anthracène</p>
+<p align="left">Anthracène</p>
 </td>
 <td align="center">
 <br/>85<br/>
@@ -438,7 +394,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Phénanthrène</p>
+<p align="left">Phénanthrène</p>
 </td>
 <td align="center">
 <br/>240<br/>
@@ -449,7 +405,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Fluoranthène</p>
+<p align="left">Fluoranthène</p>
 </td>
 <td align="center">
 <br/>600<br/>
@@ -460,7 +416,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Pyrène</p>
+<p align="left">Pyrène</p>
 </td>
 <td align="center">
 <br/>500<br/>
@@ -471,7 +427,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Benzo [a] anthracène</p>
+<p align="left">Benzo [a] anthracène</p>
 </td>
 <td align="center">
 <br/>260<br/>
@@ -482,7 +438,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Chrysène</p>
+<p align="left">Chrysène</p>
 </td>
 <td align="center">
 <br/>380<br/>
@@ -493,7 +449,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Benzo [b] fluoranthène </p>
+<p align="left">Benzo [b] fluoranthène </p>
 </td>
 <td align="center">
 <br/>400<br/>
@@ -504,7 +460,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Benzo [k] fluoranthène</p>
+<p align="left">Benzo [k] fluoranthène</p>
 </td>
 <td align="center">
 <br/>200<br/>
@@ -515,7 +471,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Benzo [a] pyrène</p>
+<p align="left">Benzo [a] pyrène</p>
 </td>
 <td align="center">
 <br/>430<br/>
@@ -526,7 +482,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Di benzo [a,h] anthracène </p>
+<p align="left">Di benzo [a,h] anthracène </p>
 </td>
 <td align="center">
 <br/>60<br/>
@@ -537,7 +493,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Benzo [g,h,i] pérylène</p>
+<p align="left">Benzo [g,h,i] pérylène</p>
 </td>
 <td align="center">
 <br/>1 700<br/>
@@ -548,7 +504,7 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 </tr>
 <tr>
 <td align="center">
-<p>Indéno [1,2,3-cd] pyrène</p>
+<p align="left">Indéno [1,2,3-cd] pyrène</p>
 </td>
 <td align="center">
 <br/>1 700<br/>
@@ -556,6 +512,33 @@ Niveaux relatifs aux hydrocarbures aromatiques polycycliques (HAP)
 <td align="center">
 <br/>5 650<br/>
 </td>
+</tr>
+</tbody>
+</table>
+
+Tableau III ter
+
+Niveaux relatifs au tributylétain (TBT)
+
+(en µg/kg de sédiment sec analysé sur la fraction inférieure à 2 mm)
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>PARAMÈTRE</th>
+<th>
+<br/>NIVEAU N 1</th>
+<th>
+<br/>NIVEAU N 2</th>
+</tr>
+<tr>
+<td align="center">
+<br/>TBT</td>
+<td align="center">
+<br/>100</td>
+<td align="center">
+<br/>400</td>
 </tr>
 </tbody>
 </table>
