@@ -2,6 +2,7 @@
 
 - [LOI n° 2014-110 du 6 février 2014 (DEVX1330135L)](loi-n-2014-110-du-6-fevrier-2014-devx1330135l)
 - [LOI n° 2014-459 du 9 mai 2014 (ETSX1202559L)](loi-n-2014-459-du-9-mai-2014-etsx1202559l)
+- [LOI n° 2014-844 du 29 juillet 2014 (FCPX1407802L)](loi-n-2014-844-du-29-juillet-2014-fcpx1407802l)
 - [LOI n°2013-1278 du 29 décembre 2013 (EFIX1323580L)](loi-n2013-1278-du-29-decembre-2013-efix1323580l)
 - [LOI n°2013-673 du 26 juillet 2013 (AFSX1313833L)](loi-n2013-673-du-26-juillet-2013-afsx1313833l)
 - [LOI n°2013-713 du 5 août 2013 (INTX1318406L)](loi-n2013-713-du-5-aout-2013-intx1318406l)
