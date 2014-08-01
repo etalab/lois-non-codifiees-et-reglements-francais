@@ -1629,7 +1629,6 @@
 - [Arrêté du 19 février 2010 (BCFL1006124A)](arrete-du-19-fevrier-2010-bcfl1006124a)
 - [Arrêté du 19 février 2010 (BCFR1003194A)](arrete-du-19-fevrier-2010-bcfr1003194a)
 - [Arrêté du 19 février 2010 (DEVO1004323A)](arrete-du-19-fevrier-2010-devo1004323a)
-- [Arrêté du 19 février 2010 (DEVS0929866A)](arrete-du-19-fevrier-2010-devs0929866a)
 - [Arrêté du 19 février 2010 (DEVT1002440A)](arrete-du-19-fevrier-2010-devt1002440a)
 - [Arrêté du 19 février 2010 (ECEI1004628A)](arrete-du-19-fevrier-2010-ecei1004628a)
 - [Arrêté du 19 février 2010 (ECES1004571A)](arrete-du-19-fevrier-2010-eces1004571a)
