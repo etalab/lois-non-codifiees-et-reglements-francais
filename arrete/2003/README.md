@@ -637,7 +637,6 @@
 - [Arrêté du 23 juin 2003 (SANH0322272A)](arrete-du-23-juin-2003-sanh0322272a)
 - [Arrêté du 23 juin 2003 (SANH0322273A)](arrete-du-23-juin-2003-sanh0322273a)
 - [Arrêté du 23 octobre 2003 (INDI0301991A)](arrete-du-23-octobre-2003-indi0301991a)
-- [Arrêté du 23 septembre 2003 (EQUA0301359A)](arrete-du-23-septembre-2003-equa0301359a)
 - [Arrêté du 23 septembre 2003 (EQUP0301527A)](arrete-du-23-septembre-2003-equp0301527a)
 - [Arrêté du 23 mai 2003 (INDI0301471A)](arrete-du-23-mai-2003-indi0301471a)
 - [Arrêté du 23 mai 2003 (INDI0301472A)](arrete-du-23-mai-2003-indi0301472a)
