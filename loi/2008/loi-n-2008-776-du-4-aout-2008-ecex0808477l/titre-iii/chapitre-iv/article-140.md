@@ -14,7 +14,7 @@ Toute personne a droit de prendre connaissance, sans déplacement, des statuts d
 
 III.-Le fonds de dotation est constitué par les dotations en capital qui lui sont apportées auxquelles s'ajoutent les dons et legs qui lui sont consentis.L'article 910 du code civil n'est pas applicable à ces libéralités.
 
-Le ou les fondateurs peuvent apporter une dotation initiale au fonds.
+Les fondateurs apportent une dotation initiale au moins égale à un montant fixé par voie réglementaire, qui ne peut excéder 30 000 €.
 
 Aucun fonds public, de quelque nature qu'il soit, ne peut être versé à un fonds de dotation. Il peut être dérogé à cette interdiction, à titre exceptionnel, pour une œuvre ou un programme d'actions déterminé, au regard de son importance ou de sa particularité. Les dérogations sont accordées par arrêté conjoint des ministres chargés de l'économie et du budget.
 
@@ -86,3 +86,8 @@ A modifié les dispositions suivantes :
 
 > -CODE GENERAL DES IMPOTS, CGI.
 > > Art. 206
+XI.-Le fonds de dotation peut être transformé en une fondation reconnue d'utilité publique par décret en Conseil d'Etat, sans donner lieu à dissolution ni à création d'une personne morale nouvelle.
+
+La transformation du fonds de dotation est décidée par une délibération adoptée dans les conditions requises par ses statuts pour sa dissolution.
+
+La transformation prend effet à la date d'entrée en vigueur du décret en Conseil d'Etat accordant la reconnaissance d'utilité publique.

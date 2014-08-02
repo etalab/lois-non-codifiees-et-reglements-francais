@@ -12,7 +12,9 @@ Il n'ouvre aucun droit aux associés et n'est susceptible ni d'être partagé en
 
 Si les comptes font apparaître un dépassement de la limite prévue au troisième alinéa du présent article, la société dispose d'un délai d'un an pour régulariser la situation.
 
-2° Après dotation au compte spécial indisponible et à la réserve prévue à l'article 18 de la loi n° 47-1775 du 10 septembre 1947 précitée, les reliquats peuvent être affectés :
+1° bis L'excédent issu de la cession d'éléments de l'actif immobilisé est affecté à une réserve indisponible ;
+
+2° Après dotation au compte spécial indisponible, à la réserve indisponible des cessions  et à la réserve prévue à l'article 18 de la loi n° 47-1775 du 10 septembre 1947 précitée, les reliquats peuvent être affectés :
 
 a) Au service de l'intérêt aux parts sociales qui y donnent droit ;
 

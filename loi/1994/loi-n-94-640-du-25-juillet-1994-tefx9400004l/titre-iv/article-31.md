@@ -8,4 +8,4 @@ Jusqu'au 31 décembre 1994, les droits constitués au profit des salariés au ti
 
 Les droits sont liquidés pour un montant au plus égal à la dépense effective.
 
-Toutefois, pour les sociétés coopératives ouvrières de production, les droits constitués sous forme de créance sur l'entreprise selon les dispositions du cinquième alinéa de l'article 11 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée ne sont exigibles, à compter de la publication de la présente loi, que sous réserve de la conclusion d'un accord dans les conditions prévues par l'article 16 de ladite ordonnance.
+Toutefois, pour les sociétés coopératives de production, les droits constitués sous forme de créance sur l'entreprise selon les dispositions du cinquième alinéa de l'article 11 de l'ordonnance n° 86-1134 du 21 octobre 1986 précitée ne sont exigibles, à compter de la publication de la présente loi, que sous réserve de la conclusion d'un accord dans les conditions prévues par l'article 16 de ladite ordonnance.

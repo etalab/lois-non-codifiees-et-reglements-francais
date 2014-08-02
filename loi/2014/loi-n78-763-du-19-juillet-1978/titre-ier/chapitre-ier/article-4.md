@@ -1,0 +1,3 @@
+# Article 4
+
+Le ministère public ou toute personne intéressée peut demander au président du tribunal compétent statuant en référé d'enjoindre, le cas échéant sous astreinte, au représentant légal d'une société coopérative de production de porter sur tous les actes et documents émanant de cette société la dénomination ou raison sociale de celle-ci, précédée ou suivie des mots : " société coopérative ouvrière de production ”, " société coopérative de travailleurs ”, " société coopérative ouvrière de production ” ou " société coopérative et participative ”, accompagnée de la mention de la forme sous laquelle la société est constituée et de l'indication du capital variable.

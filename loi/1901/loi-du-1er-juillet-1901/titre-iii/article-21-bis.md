@@ -6,9 +6,9 @@ I. - Pour l'application de la présente loi à Mayotte :
 
 1° A l'article 5, les références à la préfecture du département et à la sous-préfecture de l'arrondissement sont remplacées par la référence à la préfecture ;
 
-2° A l'article 6, les mots : " des régions, des départements " sont remplacés par les mots : " de la collectivité " ;
+2° A l'article 6, les mots : " des régions, des départements " sont remplacés par les mots : " du Département " ;
 
-3° A l'article 7, la référence au tribunal de grande instance est remplacée par la référence au tribunal de première instance.
+3° (Abrogé)
 
 II. - Pour l'application de la présente loi à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon :
 

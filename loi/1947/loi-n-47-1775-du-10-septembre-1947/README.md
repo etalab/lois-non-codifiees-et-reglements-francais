@@ -7,4 +7,5 @@
 - [Titre II quinquies : Certificats coopératifs d'associés](titre-ii-quinquies)
 - [Titre III : Contrôle et sanctions.](titre-iii)
 - [Titre III bis : La société coopérative européenne.](titre-iii-bis)
+- [Titre III ter : La coopérative d'activité et d'emploi](titre-iii-ter)
 - [Titre IV : Dispositions diverses.](titre-iv)

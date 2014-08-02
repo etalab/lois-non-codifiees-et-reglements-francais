@@ -8,7 +8,7 @@ I. - la société anonyme BPI-Groupe a notamment pour objet d'exercer, directeme
 
 3° Contribuer aux besoins spécifiques de financement des investissements et des créances d'exploitation des petites et moyennes entreprises.
 
-La société anonyme BPI-Groupe est habilitée à exercer en France et à l'étranger, elle-même ou par l'intermédiaire de ses filiales ou des sociétés dans lesquelles elle détient une participation, toutes activités qui se rattachent directement ou indirectement à son objet tel que défini par la loi, ainsi que toute autre activité prévue par ses statuts.
+La société anonyme BPI-Groupe est habilitée à exercer en France et à l'étranger, elle-même ou par l'intermédiaire de ses filiales ou des sociétés dans lesquelles elle détient une participation, toutes activités qui se rattachent directement ou indirectement à son objet tel que défini par la loi, ainsi que toute autre activité prévue par ses statuts. Elle participe notamment au suivi statistique de l'activité économique et des modalités de financement des entreprises de l'économie sociale et solidaire.
 
 L'Etat, par acte unilatéral ou par convention, et les collectivités territoriales ainsi que leurs établissements publics, par convention, peuvent confier à la société anonyme BPI-Groupe d'autres missions d'intérêt général compatibles avec son objet.
 

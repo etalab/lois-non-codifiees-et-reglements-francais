@@ -10,6 +10,6 @@ La valeur ajoutée définie à l'article 14 est également réduite de moitié, 
 
 - les sociétés coopératives maritimes ;
 
-- les sociétés coopératives ouvrières de production.
+- les sociétés coopératives de production.
 
 Ces abattements ne se cumulent pas avec ceux prévus à l'article 15.
