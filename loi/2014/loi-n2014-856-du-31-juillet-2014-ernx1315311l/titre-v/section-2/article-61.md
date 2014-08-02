@@ -1,0 +1,3 @@
+# Article 61
+
+En complément de l'action des réseaux et regroupements, les dispositifs locaux d'accompagnement ont pour mission d'accompagner les structures de l'économie sociale et solidaire relevant du 1° du II de l'article 1er de la présente loi ou de l'article L. 3332-17-1 du code du travail qui sont créatrices d'emploi et engagées dans une démarche de consolidation ou de développement de leur activité. Cette mission d'intérêt économique général est mise en œuvre par des organismes à but non lucratif faisant l'objet d'un conventionnement avec l'Etat ou avec tout autre organisme public ou collectivité territoriale intéressé. Les modalités d'application du présent article sont précisées par décret.

@@ -1,0 +1,7 @@
+# Article 8
+
+I. - Le représentant de l'Etat dans la région et le président du conseil régional organisent, au moins tous les deux ans, une conférence régionale de l'économie sociale et solidaire à laquelle participent notamment les membres de la chambre régionale de l'économie sociale et solidaire, les réseaux locaux d'acteurs de l'économie sociale et solidaire, les représentants des collectivités territoriales concernées ainsi que les partenaires sociaux concernés.
+
+II. - Au cours de la conférence régionale de l'économie sociale et solidaire, sont débattus les orientations, les moyens et les résultats des politiques locales de développement de l'économie sociale et solidaire. Ces débats donnent lieu à la formulation de propositions pour le développement de politiques publiques territoriales de l'économie sociale et solidaire. Est également présentée l'évaluation de la délivrance de l'agrément « entreprise solidaire d'utilité sociale » mentionné à l'article L. 3332-17-1 du code du travail.
+
+Les politiques publiques des collectivités territoriales et de leurs groupements en faveur de l'économie sociale et solidaire peuvent s'inscrire dans des démarches de coconstruction avec l'ensemble des acteurs concernés. Les modalités de cette coconstruction s'appuient notamment sur la mise en place d'instances associant les acteurs concernés ou de démarches associant les citoyens au processus de décision publique.

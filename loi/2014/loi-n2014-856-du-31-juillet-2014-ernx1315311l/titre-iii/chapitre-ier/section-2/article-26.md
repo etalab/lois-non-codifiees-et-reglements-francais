@@ -1,0 +1,3 @@
+# Article 26
+
+Le Gouvernement remet au Parlement, avant le 31 décembre 2014, un rapport pour déterminer si la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération pourrait être modifiée pour créer des unions d'entreprises de l'économie sociale et solidaire qui constitueraient un nouvel instrument de coopération entre les différentes familles de l'économie sociale et solidaire. Ce rapport s'assure de la conformité des unions d'entreprises de l'économie sociale et solidaire avec les principes coopératifs et, dans ce cas, précise les conditions et modalités de constitution et de fonctionnement de ces unions, ainsi que les règles de transparence et de contrôle légal des comptes qui leur sont applicables.
