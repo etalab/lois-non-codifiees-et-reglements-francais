@@ -1,3 +1,0 @@
-# Article 17
-
-Le Gouvernement remet aux commissions permanentes compétentes de l'Assemblée nationale et du Sénat, dans un délai de trois mois à compter de la promulgation de la présente loi, un rapport relatif à la situation des personnes nées en 1952 et 1953, inscrites à Pôle emploi au 31 décembre 2010 et pourtant exclues du bénéfice de l'allocation transitoire de solidarité établie par le décret n° 2013-187 du 4 mars 2013 instituant à titre exceptionnel une allocation transitoire de solidarité pour certains demandeurs d'emploi, qui prévoit l'obligation pour elles de justifier de tous leurs trimestres à la date de la fin des droits de l'allocation chômage.

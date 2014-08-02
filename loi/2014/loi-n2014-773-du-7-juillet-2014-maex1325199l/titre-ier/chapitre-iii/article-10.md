@@ -1,3 +1,0 @@
-# Article 10
-
-L'Agence française de développement est autorisée à gérer, notamment sous la forme de fonds de dotation mentionnés à l'article 140 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, de conventions particulières ou sous toute autre forme juridique ou contractuelle appropriée, des fonds publics et privés dans le cadre d'opérations financées par l'Union européenne, des institutions ou organismes internationaux, des collectivités publiques, des Etats étrangers, des établissements de crédit et banques de développement et des institutions publiques ou privées. Elle peut également confier la gestion de fonds aux mêmes entités que celles mentionnées à la première phrase dans le cadre de conventions particulières passées avec elles.

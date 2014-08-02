@@ -1,4 +1,0 @@
-# TITRE Ier : POLITIQUE DE LA VILLE
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

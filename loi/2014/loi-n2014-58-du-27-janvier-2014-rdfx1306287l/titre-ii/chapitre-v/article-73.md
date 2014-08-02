@@ -1,3 +1,0 @@
-# Article 73
-
-En vue de la création des métropoles, y compris celle d'Aix-Marseille-Provence, le Gouvernement est autorisé, dans les conditions prévues à l'article 38 de la Constitution et dans les douze mois suivant la publication de la présente loi, à prendre les mesures de nature législative propres à compléter et préciser les règles budgétaires, financières, fiscales et comptables applicables à ces établissements publics. Le projet de loi portant ratification de cette ordonnance est déposé devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication de cette ordonnance.

@@ -1,3 +1,0 @@
-# Article 3
-
-Avant le 31 décembre 2014, le Gouvernement dépose sur le bureau du Parlement un rapport sur le développement de l'utilisation des produits de bio-contrôle et à faible risque mentionnés aux articles 1er et 2, sur les leviers qui y concourent ainsi que sur les recherches menées dans ce domaine. Ce rapport indique les freins juridiques et économiques au développement de ces produits et plus largement à celui de la lutte intégrée telle que définie à l'article 3 de la directive 2009/128/CE du Parlement européen et du Conseil du 21 octobre 2009 instaurant un cadre d'action communautaire pour parvenir à une utilisation des pesticides compatible avec le développement durable.
