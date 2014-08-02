@@ -542,27 +542,47 @@
 </td>
 </tr>
 <tr>
-<td>Alpha-amylase issue d'une souche génétiquement modifiée de Trichoderma reesei (LOH4 AkAApaA) porteuse du gène codant une alpha-amylase d'Aspergillus kawachii.<br/>
+<td align="left" valign="top">
+<p align="left">Alpha-amylase issue d'une souche génétiquement modifiée de Trichoderma reesei (LOH4 AkAApaA) porteuse du gène codant une alpha-amylase d'Aspergillus kawachii.<br/>
+</p>
 </td>
-<td>Enzymes<br/>
+<td align="left" valign="top">
+<p align="left">Enzymes<br/>
+</p>
 </td>
-<td>Brasserie. <p>Industrie de l'alcool.</p>
-<p>Amidonnerie, production de sirop de glucose.</p>
+<td align="left" valign="top">
+<p align="left">Brasserie. </p>
+<p align="left">Industrie de l'alcool.</p>
+<p align="left">Amidonnerie, production de sirop de glucose.</p>
 </td>
-<td>Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides.<br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides.<br/>
+</p>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>Alpha-amylase issue d'une souche non génétiquement modifiée de Microbacterium imperiale (FERM P-11315).<br/>
+<td align="left" valign="top">
+<p align="left">Alpha-amylase issue d'une souche non génétiquement modifiée de Microbacterium imperiale (FERM P-11315).<br/>
+</p>
 </td>
-<td>Enzymes </td>
-<td>Production de sirop enrichi en maltotriose. <p>Panification.</p>
+<td align="left" valign="top">
+<p align="left">Enzymes </p>
 </td>
-<td>Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides.<br/>
+<td align="left" valign="top">
+<p align="left">Production de sirop enrichi en maltotriose. </p>
+<p align="left">Panification.</p>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides.<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -787,27 +807,43 @@
 </td>
 </tr>
 <tr>
-<td>Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (70H2-TrGA # 32-9) contenant le gène codant l'amyloglucosidase de Trichoderma longibrachiatum. <br/>
+<td align="left" valign="top">
+<p align="left">Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (70H2-TrGA # 32-9) contenant le gène codant l'amyloglucosidase de Trichoderma longibrachiatum. <br/>
+</p>
 </td>
-<td>Enzymes. </td>
-<td>Amidonnerie, production de sirops de glucose. <p>Brasserie. </p>
-<p>Industrie de l'alcool. </p>
-<p>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, biscotterie, pâtisserie et viennoiserie. </p>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
 </td>
-<td>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</td>
-<td>Teneur techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Amidonnerie, production de sirops de glucose. </p>
+<p align="left">Brasserie. </p>
+<p align="left">Industrie de l'alcool. </p>
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, biscotterie, pâtisserie et viennoiserie. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Arabinofuranosidase d'une souche non génétiquement modifiée d'Aspergillus niger (ARF-1) </p>
+<p align="left">Arabinofuranosidase d'une souche non génétiquement modifiée d'Aspergillus niger (ARF-1) </p>
 </td>
 <td align="left" valign="top">
-<p>Enzymes.</p>
+<p align="left">Enzymes.</p>
 </td>
-<td align="left" valign="top">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie et pâtisserie.</td>
-<td align="left" valign="top">Hydrolyse des arabinoxylanes, L-arabinanes et arabinogalactanes dans les céréales. <br/>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie et pâtisserie.</p>
 </td>
-<td align="left" valign="top">Teneur techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des arabinoxylanes, L-arabinanes et arabinogalactanes dans les céréales. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -1300,23 +1336,24 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex reesei) A83.<br/>
+<p>Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex reesei) A83. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Enzymes.</p>
+<p align="left">Enzymes. </p>
 </td>
-<td align="left" valign="top">Brasserie. <p>Industrie de l'alcool.</p>
-<p>Amidonnerie, production de sirop de glucose.</p>
-<p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
+<td align="left" valign="top">
+<p align="left">Brasserie. Industrie de l'alcool. <br/>
+<br/>Amidonnerie, production de sirop de glucose. <br/>
+<br/>Panification (à l'exception du pain de tradition française) et panification spéciale. <br/>
+<br/>Biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
 <br/>
 </td>
 <td align="left" valign="top">
-<p>Hydrolyse de la cellulose</p>
+<p align="left">Hydrolyse de la cellulose. </p>
 </td>
 <td align="left" valign="top">
-<p>Teneur techniquement inévitable.<br/>
-</p>
+<p align="left">Teneur résiduelle techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
@@ -1537,12 +1574,22 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">4--D glucane maltotétraohydrolase (ou G4-amylase) issue de la souche de Bacillus licheniformis MDT06-228 modifiée génétiquement contenant le gène codant une protéine recombinante de la 4--D glucane maltotétraohydrolase PS4wt de Pseudomonas-stutzeri. </td>
-<td align="left" valign="top">Enzymes.<br/>
+<td align="left" valign="top">
+<p align="left">4--D glucane maltotétraohydrolase (ou G4-amylase) issue de la souche de Bacillus licheniformis MDT06-228 modifiée génétiquement contenant le gène codant une protéine recombinante de la 4--D glucane maltotétraohydrolase PS4wt de Pseudomonas-stutzeri. </p>
 </td>
-<td align="left" valign="top">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </td>
-<td align="left" valign="top">Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. </td>
-<td align="left" valign="top">Teneur techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Enzymes.<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -1562,16 +1609,26 @@
 </td>
 </tr>
 <tr>
-<td>Endo-bêta-glucanase issue d'une souche non génétiquement modifiée de Geosmithia emersonii (BWW1016.2).<br/>
+<td align="left" valign="top">
+<p align="left">Endo-bêta-glucanase issue d'une souche non génétiquement modifiée de Geosmithia emersonii (BWW1016.2).<br/>
+</p>
 </td>
-<td>Enzymes </td>
-<td>Brasserie. <p>Industrie de l'alcool.</p>
-<p>Amidonnerie, production de sirop de glucose.</p>
+<td align="left" valign="top">
+<p align="left">Enzymes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Brasserie. </p>
+<p align="left">Industrie de l'alcool.</p>
+<p align="left">Amidonnerie, production de sirop de glucose.</p>
 <br/>
 </td>
-<td>Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.<br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.<br/>
+</p>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1695,27 +1752,37 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Enzymes débranchant l'amidon de Bacillus acido-pullulyticus (par exemple pullulanase). </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Amidonnerie, production de glucose. Bières. </td>
-<td align="left" valign="top">Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. </td>
-<td align="left" valign="top">Dose techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Enzymes débranchant l'amidon de Bacillus acido-pullulyticus (par exemple pullulanase). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Amidonnerie, production de glucose. Bières. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Enzymes débranchant l'amidon de Bacillus acido-pullulyticus.</p>
+<p align="left">Enzymes débranchant l'amidon de Bacillus acido-pullulyticus.</p>
 </td>
 <td align="left" valign="top">
-<p>Enzymes.</p>
+<p align="left">Enzymes.</p>
 </td>
 <td align="left" valign="top">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td align="left" valign="top">
-<p>Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
+<p align="left">Hydrolyse des liaisons alpha 1-6 glycosidiques des polysaccharides.</p>
 </td>
 <td align="left" valign="top">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 </tbody>
@@ -1753,7 +1820,9 @@
 <p>Enzymes. <br/>
 </p>
 </td>
-<td align="left" valign="top">Sirop de maltose. <p>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </p>
+<td align="left" valign="top">
+<p align="left">Sirop de maltose. </p>
+<p>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </p>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -1799,14 +1868,24 @@
 <br/>Teneur résiduelle techniquement inévitable. </td>
 </tr>
 <tr>
-<td>Exo--amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (DS 67348) contenant un gène de Geobacillus stearothermophilus. </td>
-<td>Enzymes. <br/>
+<td align="left" valign="top">
+<p align="left">Exo--amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (DS 67348) contenant un gène de Geobacillus stearothermophilus. </p>
 </td>
-<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. <br/>
+<td align="left" valign="top">
+<p align="left">Enzymes. <br/>
+</p>
 </td>
-<td>Hydrolyse des liaisons alpha-1-4 des chaînes d'amidon et d'oligosaccharides. <br/>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. <br/>
+</p>
 </td>
-<td>Teneur techniquement inévitable. <br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons alpha-1-4 des chaînes d'amidon et d'oligosaccharides. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1929,11 +2008,21 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Glucose-isomérase, issue de la souche de Streptomyces rubiginosus SYC5406 génétiquement modifiée immobilisée sur un support gltaraldéhyde/polyéthylène-imine. </td>
-<td align="left" valign="top">Enzymes. </td>
-<td align="left" valign="top">Sirops à teneur élevée en fructose.</td>
-<td align="left" valign="top">Isomérisation du D-glucose en D-fructose.</td>
-<td align="left" valign="top">Dose techniquement inévitable. </td>
+<td align="left" valign="top">
+<p align="left">Glucose-isomérase, issue de la souche de Streptomyces rubiginosus SYC5406 génétiquement modifiée immobilisée sur un support gltaraldéhyde/polyéthylène-imine. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sirops à teneur élevée en fructose.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Isomérisation du D-glucose en D-fructose.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dose techniquement inévitable. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -2052,13 +2141,23 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Glucosyltransférase de branchement (amylo-(1,4 → 1,6)-transglycosylase) issue souche de Bacillus subtilis génétiquement modifiée (RO) contenant le gène codant l'enzyme de branchement de Rhodothermus obamensis.</td>
-<td align="left" valign="top">Enzymes</td>
-<td align="left" valign="top">Amidonnerie</td>
-<td align="left" valign="top">Création de liaison interchaînes α 1, 6 glucosidiques par transfert d'une chaîne de résidus α 1, 4 glucosidiques sur un groupe hydroxy d'une autre chaîne glucosidique similaire. <p>Conversion de l'amylose en amylopectine. <br/>
+<td align="left" valign="top">
+<p align="left">Glucosyltransférase de branchement (amylo-(1,4 → 1,6)-transglycosylase) issue souche de Bacillus subtilis génétiquement modifiée (RO) contenant le gène codant l'enzyme de branchement de Rhodothermus obamensis.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Amidonnerie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Création de liaison interchaînes α 1, 6 glucosidiques par transfert d'une chaîne de résidus α 1, 4 glucosidiques sur un groupe hydroxy d'une autre chaîne glucosidique similaire. </p>
+<p align="left">Conversion de l'amylose en amylopectine. <br/>
 </p>
 </td>
-<td align="left" valign="top">Teneur résiduelle techniquement inévitable.</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable.</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">Glutaminase issue d'une souche de Bacillus amyloliquefaciens non génétiquement modifiée (GT2). <br/>
@@ -2601,6 +2700,23 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Lysophospholipase issue d'une souche génétiquement modifiée de Trichoderma reesei (RF 7206) porteuse du gène codant une lysophospholipase d'Aspergillus nishimurae. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des lysophospholipides.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Papaïne de Carica papaya.</p>
 </td>
 <td align="left" valign="top">
@@ -2984,6 +3100,23 @@
 <td align="left" valign="top">
 <p align="left">Teneur techniquement inévitable.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Phospholipase A2 d'une souche génétiquement modifiée d'Aspergillus niger PLA 54. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Huiles végétales. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des phospholipides en vue de la démucilagination des huiles végétales. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
 </td>
 </tr>
 <tr>
@@ -3522,11 +3655,21 @@
 </td>
 </tr>
 <tr>
-<td>Protéase issue d'une souche génétiquement modifiée de Bacillus subtilisi (LMGS-23982) porteuse du gène codant une protéase de Thermus aquaticus. </td>
-<td>Enzymes </td>
-<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </td>
-<td>Hydrolyse des liaisons peptidiques des protéines. </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Protéase issue d'une souche génétiquement modifiée de Bacillus subtilisi (LMGS-23982) porteuse du gène codant une protéase de Thermus aquaticus. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons peptidiques des protéines. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -4047,14 +4190,43 @@
 </td>
 </tr>
 <tr>
-<td>Xylanase issue d'une souche génétiquement modifiée de Trichoderma logibrachiatum (CBS-114044) porteuse du gène muté codant une xylanase de Thermopolyspora flexuosa (synonyme antérieur de Nonomuraea flexuosa).<br/>
+<td align="left" valign="top">
+<p align="left">Xylanase issue d'une souche génétiquement modifiée de Trichoderma logibrachiatum (CBS-114044) porteuse du gène muté codant une xylanase de Thermopolyspora flexuosa (synonyme antérieur de Nonomuraea flexuosa).<br/>
+</p>
 </td>
-<td>Enzymes </td>
-<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie.<br/>
+<td align="left" valign="top">
+<p align="left">Enzymes </p>
 </td>
-<td>Hydrolyse des liaisons osidiques des hémicelluloses.<br/>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie.<br/>
+</p>
 </td>
-<td>Teneur techniquement inévitable.<br/>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des hémicelluloses.<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable.<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Xylanase issue d'une souche génétiquement modifiée de Trichoderma reesei (Brew2 # 21) porteuse d'un gène codant une xylanase d'Aspergillus niger. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Brasserie. </p>
+<p>Industrie de l'alcool. </p>
+<p>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des hémicelluloses. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
 </td>
 </tr>
 </tbody>

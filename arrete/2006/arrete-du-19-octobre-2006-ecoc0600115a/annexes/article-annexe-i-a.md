@@ -7,7 +7,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <tr>
 <td align="left" valign="top">
 <p align="center">
-<font size="1">AUXILIAIRES<br/>technologiques </font>
+<font size="1">AUXILIAIRES<br/>technologiques</font>
 </p>
 </td>
 <td align="left" valign="top">
@@ -878,7 +878,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">Production de levures. </p>
 </td>
 <td>
-<p align="left">A la dose maximale de 500 mg/kg. </p>
+<p align="left">A la dose maximale de 500 mg/ kg </p>
 </td>
 <td>
 <p align="left">Teneur résiduelle inférieure à 50 mg/ kg de levure. <br/>
@@ -1004,7 +1004,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70° C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1070,7 +1070,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1382,7 +1382,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg. <br/>
+<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg. <br/>
 </p>
 </td>
 </tr>
@@ -1400,7 +1400,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1825,6 +1825,40 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de décontamination des produits d'origine végétale.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Epinards blanchis destinés à la congélation</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 75 mg/l d'acide peracétique d'une solution en équilibre dans les eaux de refroidissement après blanchiment. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Divers.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Blé avant mouture pour la fabrication de farine destinée à des préparations crues réfrigérées ou congelées n'impliquant pas de cuisson ou une cuisson différée, à l'exclusion du pain de tradition française et du pain de consommation courante.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et de 23 % de peroxyde d'hydrogène par tonne de blé.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Sulfites. </p>
 <p align="left">Anhydride sulfureux. <br/>
 </p>
@@ -1871,41 +1905,24 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
-<p>Tanins. <br/>
+<p align="left">Tanins. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Agent de clarification. <br/>
+<p align="left">Agent de clarification. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.<br/>
+<p align="left">Jus de fruits, jus de fruits concentrés, jus de fruits déshydratés, nectars.<br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché. <br/>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché. <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p>Dose techniquement inévitable.<br/>
+<p align="left">Dose techniquement inévitable.<br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Divers.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Blé avant mouture pour la fabrication de farine destinée à des préparations crues réfrigérées ou congelées n'impliquant pas de cuisson ou une cuisson différée, à l'exclusion du pain de tradition française et du pain de consommation courante.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et de 23 % de peroxyde d'hydrogène par tonne de blé.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Teneur techniquement inévitable. </p>
 </td>
 </tr>
 </tbody>
