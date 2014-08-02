@@ -13,106 +13,95 @@ Compte tenu de ce qui précède, la composition de la commission consultative pa
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="324">
-<p align="center">GROUPES REPRÉSENTÉS</p>
+<th rowspan="3">
+<br/>GROUPES REPRÉSENTÉS <br/>
+</th>
+<th colspan="4">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<th colspan="2">
+<br/>Du personnel <br/>
+</th>
+<th colspan="2">
+<br/>De l'administration <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Chargés de mission hors catégorie </p>
 </td>
-<td colspan="4" width="337">
-<p align="center">NOMBRE DE REPRÉSENTANTS</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="165">
-<p align="center">Du personnel</p>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Chargés de mission de 1re catégorie </p>
 </td>
-<td colspan="2" width="166">
-<p align="center">De l'administration</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-</tr>
-<tr>
-<td width="72">
-<p align="center">Titulaires</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td width="86">
-<p align="center">Suppléants</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td width="72">
-<p align="center">Titulaires</p>
-</td>
-<td width="87">
-<p align="center">Suppléants</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td width="324">
-<p>Chargés de mission hors catégorie</p>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Chargés de mission de 2e catégorie et secrétaires de mission </p>
 </td>
-<td width="72">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td width="86">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td width="72">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="324">
-<p>Chargés de mission de 1re catégorie</p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="86">
-<p align="center">1</p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="324">
-<p>Chargés de mission de 2e catégorie</p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="86">
-<p align="center">1</p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="87">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="324">
-<p>Secrétaires de mission, adjoints de mission</p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="86">
-<p align="center">1</p>
-</td>
-<td width="72">
-<p align="center">1</p>
-</td>
-<td width="87">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 </div>
