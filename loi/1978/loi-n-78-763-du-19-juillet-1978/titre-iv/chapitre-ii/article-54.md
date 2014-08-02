@@ -1,9 +1,0 @@
-# Article 54
-
-Les sociétés coopératives ouvrières de production sont tenues, indépendamment des obligations imposées à toutes les entreprises, et sous peine des sanctions prévues à l'article 23 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, de fournir aux services de l'inspection du travail, toutes justifications utiles permettant de vérifier qu'elles fonctionnent conformément à la présente loi.
-
-Aucune société ne peut prendre ou conserver l'appellation de société coopérative ouvrière de production ou de société coopérative de travailleurs ou société coopérative de production ou utiliser cette appellation ou les initiales "SCOP", et prétendre au bénéfice des dispositions prévues par les textes législatifs ou réglementaires relatifs aux sociétés coopératives ouvrières de production si elle n'est pas inscrite, après production des pièces justificatives nécessaires, sur une liste dressée par le ministère du travail dans les conditions fixées par décret.
-
-Toute personne intéressée peut demander au président du tribunal compétent statuant en référé d'enjoindre, le cas échéant sous astreinte, à toute personne concernée de supprimer les mots : " société coopérative ouvrière de production ”, " société coopérative de travailleurs ” ou " société coopérative de production ” ou les initiales : " SCOP ”, lorsque cette appellation est employée de manière illicite malgré l'interdiction édictée au deuxième alinéa.
-
-Le président du tribunal peut, en outre, ordonner la publication de la décision, son affichage dans les lieux qu'il désigne, son insertion intégrale ou par extraits dans les journaux et sa diffusion par un ou plusieurs services de communication au public en ligne qu'il indique, le tout aux frais des dirigeants de l'organisme ayant utilisé la dénomination en cause.
