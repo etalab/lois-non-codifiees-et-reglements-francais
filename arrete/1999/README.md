@@ -542,7 +542,6 @@
 - [Arrêté du 28 janvier 1999 (ATEP9870469A)](arrete-du-28-janvier-1999-atep9870469a)
 - [Arrêté du 28 juillet 1999 (ECOC9900077A)](arrete-du-28-juillet-1999-ecoc9900077a)
 - [Arrêté du 28 juillet 1999 (EQUI9900997A)](arrete-du-28-juillet-1999-equi9900997a)
-- [Arrêté du 28 juillet 1999 (INTA9900389A)](arrete-du-28-juillet-1999-inta9900389a)
 - [Arrêté du 28 juillet 1999 (MENP9901641A)](arrete-du-28-juillet-1999-menp9901641a)
 - [Arrêté du 28 juillet 1999 (MESS9922284A)](arrete-du-28-juillet-1999-mess9922284a)
 - [Arrêté du 28 juillet 1999 (PRMX9903687A)](arrete-du-28-juillet-1999-prmx9903687a)
