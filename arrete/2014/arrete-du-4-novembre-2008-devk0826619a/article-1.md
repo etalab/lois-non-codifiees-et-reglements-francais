@@ -90,4 +90,8 @@ Les opérations de restructuration de service listées ci-après ouvrent droit a
 
 43° La réorganisation des services énergie et logement, prévention des risques et connaissance, aménagement durable et évaluation au sein de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-44° La fermeture de l'antenne de Grenoble du centre de prestations comptables mutualisés de la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes.
+44° La fermeture de l'antenne de Grenoble du centre de prestations comptables mutualisés de la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes ;
+
+45° La restructuration de la mission interministérielle d'inspection du logement social dans le cadre de la création de l'Agence nationale du contrôle du logement social ;
+
+46° Le transfert à La Défense des services du commissariat général au développement durable implantés à Paris.
