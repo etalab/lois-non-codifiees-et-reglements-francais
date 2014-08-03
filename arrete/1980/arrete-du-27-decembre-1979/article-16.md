@@ -1,6 +1,6 @@
 # Article 16
 
-Les opérations de pilotage hauturier effectuées par un pilote hauturier certifié doivent faire l'objet tous les six mois d'un relevé adressé au quartier des affaires maritimes dont il dépend.
+Les opérations de pilotage hauturier effectuées par un pilote hauturier certifié doivent faire l'objet tous les six mois d'un relevé adressé au direction départementale des territoires et de la mer dont il dépend.
 
 Ce relevé doit comprendre les informations suivantes :
 

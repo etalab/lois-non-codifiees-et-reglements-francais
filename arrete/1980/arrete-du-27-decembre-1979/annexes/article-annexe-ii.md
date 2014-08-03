@@ -4,31 +4,37 @@ PROGRAMME DE L'EXAMEN
 
 (Art. 8, § a.)
 
-I. - Programme commun aux zones Manche - mer du Nord et Baltique.
+I. - Programme commun aux zones Manche et bouches de Bonifacio
 
-A. - Radiotéléphonie :
+A.-SMDSM
 
-Radiotéléphonie M. F. et V. H. F. Alphabet international, procédure d'appel. Messages d'urgence, V. H. F. : utilisation des différents canaux, en particulier des canaux 16, 6 et 8. Principales stations V. H. F. françaises, britanniques, belges, hollandaises, allemandes, danoises, norvégiennes, M. F. fréquence de sécurité. Procédure d'appel. Périodes de silence. Principales stations en France et en Europe du Nord.
+SMDSM, généralités. Principales stations des zones concernées.
 
 B. - Radar :
 
 Règles générales de mise en œuvre. Mouvement relatif et mouvement vrai. Comparaison entre les deux mouvements. Leurs utilisations, notamment en tant que système anticollision.
 
-C. - Les autres systèmes de radionavigation couvrant les deux zones :
+C.-Utilisation des aides électroniques à la navigation
 
-Connaissance et exploitation des aides radio-électriques.
+Les systèmes de positionnement par satellites. Le système de visualisation des cartes électroniques et d'informations (ECDIS) et le système d'identification automatique (AIS).
 
 D. - Météo :
 
 Les différents types de temps que l'on peut rencontrer. Diffusion des bulletins de prévision. Ecoute et utilisation de ces bulletins.
 
-E. - Règlement international pour prévenir les abordages en mer.
+E.-Réglementation
 
-F. - Système du balisage maritime :
+La réglementation OMI.
 
-Balisage LALA système A.
+Le règlement international pour prévenir les abordages en mer.
 
-G. - Législation relative à la navigation en Manche, pas de Calais, mer du Nord et Baltique :
+Les mesures d'organisation du trafic et le système de compte rendu obligatoire des navires dans la zone concernée.
+
+F.-Système du balisage maritime
+
+Le balisage respectant les règles définies par l'Association internationale de la signalisation maritime (AISM-IALA) pour le système A.
+
+G. - Législation relative à la navigation dans la zone concernée :
 
 Arrêtés des préfets maritimes, notamment en ce qui concerne la prévention des pollutions marines accidentelles ;
 
@@ -36,7 +42,7 @@ Les centres régionaux opérationnels de surveillance et de sauvetage, fonctionn
 
 H. - Rôle du pilote et ses relations avec le capitaine et les officiers.
 
-II. - Zone Manche - mer du Nord.
+II. - Zone Manche - mer du Nord
 
 A. - Zone de pilotage :
 
@@ -67,3 +73,19 @@ Orientation des courants et leur force dans les zones suivantes : Ouessant, les 
 D. - Approches des grands ports :
 
 Routes d'approche. Zone de pilotage obligatoire. Mouillage d'attente. Zone d'attente des bateaux pilotes. Préavis d'arrivée. Transmissions. Canaux V. H. F. Guidage radar. Procédure pour embarquer le pilote par temps maniable et par mauvais temps. Embarquement du pilote par hélicoptère.
+
+III. - Zone bouches de Bonifacio
+
+A.-Zone de pilotage :
+
+Description de la zone : bouches de Bonifacio, approches est et ouest, côtes sud de la Corse et nord de la Sardaigne, chenaux de la Maddalena et de Piantarella.
+
+B.-Les routes :
+
+Les principales routes, sondes et distances pour franchir les bouches de Bonifacio.
+
+C.-Les courants et conditions météorologiques des bouches de Bonifacio
+
+D.-Les zones de relâches ou d'abris
+
+Les accès aux différents ports, principaux coffres et mouillages de la zone. Les zones d'échouement.

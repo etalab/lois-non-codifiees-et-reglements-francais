@@ -28,4 +28,4 @@ c) Les informations complémentaires devront comprendre au moins les données su
 
 - un fascicule du vocabulaire utilisé dans la navigation maritime ;
 
-- les informations relatives aux services de trafic maritime côtier existants, tels les centres régionaux opérationnels de surveillance et de sauvetage (C.R.O.S.S.) de la Manche.
+- les informations relatives aux services de trafic maritime côtier existants.

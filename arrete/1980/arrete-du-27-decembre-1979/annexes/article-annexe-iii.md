@@ -1,76 +1,67 @@
 # Article Annexe III
 
-CARTE DE PILOTE HAUTURIER CERTIFIE
+Carte de pilote hauturier certifié
 
-(Format 9,7 cm x 6,9 cm.)
+(Format 9,7 cm × 6,9 cm)
 
-RECTO
+(Recto)
 
 <table>
 <tbody>
 <tr>
-<td width="252">
+<td width="454">
 <p align="center">RÉPUBLIQUE FRANÇAISE</p>
-<p align="center">Secrétariat d'Etat auprès du ministre<br/>des transports, chargé de la mer</p>
-<p align="center">3, place de Fontenoy, 75007 Paris.</p>
-<p align="center">Certificat de pilote hauturier.</p>
-<p>Deep Sea Pilot Certificate N° ..........</p>
+<p align="center">Ministère chargé de la mer</p>
+<p align="center">Certificat de pilote hauturier</p>
+<p align="center">Deep sea pilot certificate</p>
+<p>N° </p>
 </td>
-<td width="126">
+<td valign="bottom" width="151">
 <p align="center">Photographie</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="378">
-<p align="left">Nom ...........................................................................</p>
+<td width="454">
+<p align="left">Nom :</p>
 <p align="left">Name</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="378">
-<p align="left">Nationalité .....................................................................</p>
+<p align="left">Nationalité :</p>
 <p align="left">Nationality</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="378">
-<p align="left">Date et lieu de naissance .........................................................................</p>
+<p align="left">Date et lieu de naissance :</p>
 <p align="left">Date and place of birth</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="378">
-<p align="left">Zone de compétence ............................................................................</p>
+<p align="left">Zone de compétence :</p>
 <p align="left">Qualification zone</p>
+</td>
+<td valign="bottom" width="151">
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-VERSO
+(Verso)
 
 <table>
 <tbody>
 <tr>
-<td valign="top" width="378">
-<p align="left">Ce certificat de pilote hauturier est délivré par le ministre français chargé de la marine marchande en application du décret n° 79-354 du 2 mai 1979 et de l'arrêté du 27 décembre 1979.</p>
-<p align="left">This deep sea pilot certificate is issued by the french Ministry in charge of merchant shipping in pursuance of the decree 79-354 of May 2d 1979 and the order of the December 27th 1979.</p>
+<td colspan="3" width="676">
+<p align="left">Ce certificat de pilote hauturier est délivré par le ministre français chargé de la mer en application du décret n° 79-354 du 2 mai 1979 et de l'arrêté du 27 décembre 1979.</p>
+<p align="left">This deep sea pilot certificate is issued by the french Ministry in charge of the Sea in pursuance of the decree 79-354 of May 2nd 1979 and the order of December 27th 1979.</p>
+<p align="center">Fait le</p>
+<p align="center">Issued on</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="378">
-<p align="right">Fait le .................</p>
-<p align="right">Issued on.</p>
+<td width="224">
+<p align="center">Signature du titulaire</p>
+<p align="center">Holder's signature</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Signature du titulaire</p>
-<p>Holder's signature.</p>
-<p>Signature de l'autorité.</p>
-<p>Signature of the Autority.</p>
-<p>Cachet.</p>
-<p>Seal.</p>
+<td width="224">
+<p align="center">Signature de l'autorité</p>
+<p align="center">Signature of the Authority</p>
+</td>
+<td width="224">
+<p align="center">Cachet</p>
+<p align="center">Seal</p>
 </td>
 </tr>
 </tbody>

@@ -1535,6 +1535,7 @@
 - [Arrêté du 27 janvier 2014 (SPOF1403471A)](arrete-du-27-janvier-2014-spof1403471a)
 - [Arrêté du 27 janvier 2014 (TRAM1331211A)](arrete-du-27-janvier-2014-tram1331211a)
 - [Arrêté du 27 juillet 2012 (ESRS1202466A)](arrete-du-27-juillet-2012-esrs1202466a)
+- [Arrêté du 27 juin 2011 (AGRS1117335A)](arrete-du-27-juin-2011-agrs1117335a)
 - [ARRÊTÉ du 27 juin 2014 (AFSS1407575A)](arrete-du-27-juin-2014-afss1407575a)
 - [ARRÊTÉ du 27 juin 2014 (DEFH1415644A)](arrete-du-27-juin-2014-defh1415644a)
 - [ARRÊTÉ du 27 juin 2014 (DEFH1417155A)](arrete-du-27-juin-2014-defh1417155a)
