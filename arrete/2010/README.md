@@ -2021,7 +2021,6 @@
 - [Arrêté du 22 octobre 2010 (IMIK1025661A)](arrete-du-22-octobre-2010-imik1025661a)
 - [Arrêté du 22 octobre 2010 (IOCE1027515A)](arrete-du-22-octobre-2010-ioce1027515a)
 - [Arrêté du 22 octobre 2010 (JUSF1028040A)](arrete-du-22-octobre-2010-jusf1028040a)
-- [Arrêté du 22 octobre 2010 (JUSF1028041A)](arrete-du-22-octobre-2010-jusf1028041a)
 - [Arrêté du 22 octobre 2010 (MAEF1027205A)](arrete-du-22-octobre-2010-maef1027205a)
 - [Arrêté du 22 octobre 2010 (MTSO1011900A)](arrete-du-22-octobre-2010-mtso1011900a)
 - [Arrêté du 22 octobre 2010 (SASF1027294A)](arrete-du-22-octobre-2010-sasf1027294a)
