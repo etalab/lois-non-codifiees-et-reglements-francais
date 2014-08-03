@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'activité mentionnée à l'article 1er, la certification peut être délivrée sur la base de ce référentiel seul ou sur la base des référentiels " organisation générale " et " application en prestation de service de produits phytopharmaceutiques " annexés aux arrêtés du 25 novembre 2011 relatif au référentiel de certification prévu à l'article R. 254-3 du code rural et de la pêche maritime, " organisation générale " et relatif au référentiel de certification prévu à l'article R. 254-3 du code rural et de la pêche maritime, pour l'activité " application en prestation de service de produits phytopharmaceutiques ".

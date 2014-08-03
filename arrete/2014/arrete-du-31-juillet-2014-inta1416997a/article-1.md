@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé auprès du secrétaire général du ministère de l'intérieur un comité d'hygiène, de sécurité et des conditions de travail d'administration centrale ayant compétence, dans le cadre du titre V du décret du 28 mai 1982 susvisé, pour connaître de toutes les questions concernant l'ensemble des services d'administration centrale relevant du ministère de l'intérieur et du ministère des outre-mer tel que prévu par le décret du 12 août 2013 précité, à l'exception des organismes et formations de la gendarmerie nationale et des services relevant de la direction générale de la police nationale et de la direction générale de la sécurité intérieure, dans le respect de l'article 16 de la loi du 11 janvier 1984 susvisée.

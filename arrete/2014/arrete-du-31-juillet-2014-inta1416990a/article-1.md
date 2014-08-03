@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé auprès du secrétaire général du ministère de l'intérieur un comité technique d'administration centrale ayant compétence, dans le cadre du titre III du décret du 15 février 2011 susvisé, pour connaître de toutes les questions concernant l'ensemble des services d'administration centrale relevant du ministère de l'intérieur et du ministère des outre-mer tel que prévu par le décret du 12 août 2013 précité, à l'exception des organismes et formations de la gendarmerie nationale et des services relevant de la direction générale de la police nationale et de la direction générale de la sécurité intérieure.

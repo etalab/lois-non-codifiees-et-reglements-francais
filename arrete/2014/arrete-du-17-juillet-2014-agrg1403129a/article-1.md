@@ -1,0 +1,3 @@
+# Article 1
+
+Le référentiel de certification applicable aux semences : " Processus de maîtrise des risques d'émission des poussières issues de semences traitées avec des produits phytopharmaceutiques : opérations industrielles ", annexé au présent arrêté, fait partie des référentiels mentionnés à l'article R. 254-3 du code rural et de la pêche maritime. Il est à destination des entreprises de production de semences demandant une certification définie au 2° du I de l'article L. 254-2 du code rural et de la pêche maritime permettant la délivrance d'un agrément pour l'exercice d'application en prestation de service de produits phytopharmaceutiques sur des semences en unité industrielle.
