@@ -341,7 +341,6 @@
 - [Arrêté du 22 février 2001 (MENS0100428A)](arrete-du-22-fevrier-2001-mens0100428a)
 - [Arrêté du 22 janvier 2001 (ECOP0100044A)](arrete-du-22-janvier-2001-ecop0100044a)
 - [Arrêté du 22 juin 2001 (AGRA0101101A)](arrete-du-22-juin-2001-agra0101101a)
-- [Arrêté du 22 juin 2001 (MAEA0120300A)](arrete-du-22-juin-2001-maea0120300a)
 - [Arrêté du 22 mars 2001 (ECOI0100144A)](arrete-du-22-mars-2001-ecoi0100144a)
 - [Arrêté du 22 mars 2001 (EQUA0100494A)](arrete-du-22-mars-2001-equa0100494a)
 - [Arrêté du 22 novembre 2001 (JUSB0110505A)](arrete-du-22-novembre-2001-jusb0110505a)
