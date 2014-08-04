@@ -1531,7 +1531,6 @@
 - [Arrêté du 19 août 2011 (ETSD1123254A)](arrete-du-19-aout-2011-etsd1123254a)
 - [Arrêté du 19 août 2011 (ETSD1123263A)](arrete-du-19-aout-2011-etsd1123263a)
 - [Arrêté du 19 août 2011 (ETSP1123255A)](arrete-du-19-aout-2011-etsp1123255a)
-- [Arrêté du 19 août 2011 (ETSS1121191A)](arrete-du-19-aout-2011-etss1121191a)
 - [Arrêté du 19 août 2011 (JUSF1124527A)](arrete-du-19-aout-2011-jusf1124527a)
 - [Arrêté du 19 août 2011 (JUST1118036A)](arrete-du-19-aout-2011-just1118036a)
 - [Arrêté du 19 avril 2011 (APPD1110946A)](arrete-du-19-avril-2011-appd1110946a)
