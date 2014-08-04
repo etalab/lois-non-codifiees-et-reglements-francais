@@ -1,168 +1,196 @@
 # Article Annexe I
 
-Ministère de l'économie, des finances, et de l'industrie et ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'état
+MINISTÈRE DES FINANCES ET DES COMPTES PUBLICS, MINISTÈRE DE  L'ÉCONOMIE, DU REDRESSEMENT PRODUCTIF ET DU NUMÉRIQUE ET MINISTÈRE DE LA  DÉCENTRALISATION ET DE LA FONCTION PUBLIQUE
 
 <table>
 <tbody>
 <tr>
-<td colspan="6" width="680">
-<p align="center">Départements ministériels</p>
+<th rowspan="2">
+<br/>INSTANCE <br/>
+</th>
+<th rowspan="2">
+<br/>AUTORITÉ <br/>
+<br/>de rattachement <br/>
+</th>
+<th rowspan="2">
+<br/>PÉRIMÈTRE <br/>
+</th>
+<th colspan="2">
+<br/>NOMBRE DE SIÈGES <br/>
+</th>
+<th rowspan="2">
+<br/>MODE <br/>
+<br/>de désignation <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td align="center" colspan="6" valign="middle">
+<br/>Départements ministériels <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="134">
-<p align="center">Instance</p>
+<td align="justify">
+<br/>Comité technique ministériel unique <br/>
 </td>
-<td rowspan="2" width="133">
-<p align="center">Autorité<br/>de rattachement</p>
+<td align="justify">
+<br/>Ministre  des finances et des comptes publics, ministre de l'économie, du  redressement productif et du numérique, ministre de la décentralisation  et de la fonction publique <br/>
 </td>
-<td rowspan="2" width="109">
-<p align="center">Périmètre</p>
+<td align="justify">
+<br/>Ensemble  des services des trois départements ministériels, à l'exception de la  direction générale des collectivités locales ; établissements publics  rattachés : Caisse d'amortissement de la dette sociale, Caisse de la  dette publique, Etablissement public de financement et de  restructuration, fonds d'insertion des personnes handicapées dans la  fonction publique, Fonds national de promotion et de communication de  l'artisanat <br/>
 </td>
-<td colspan="2" width="151">
-<p align="center">Nombre de sièges</p>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td rowspan="2" width="152">
-<p align="center">Mode<br/>de désignation</p>
+<td align="center">
+<br/>15 <br/>
 </td>
-</tr>
-<tr>
-<td width="76">
-<p align="center">titulaires</p>
-</td>
-<td width="76">
-<p align="center">suppléants</p>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste <br/>
 </td>
 </tr>
 <tr>
-<td width="134">
-<p align="center">Comité technique ministériel unique</p>
-</td>
-<td width="133">
-<p align="center">Ministre de l'économie, des finances et de l'industrie et Ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat</p>
-</td>
-<td width="109">
-<p align="center">Ensemble des directions<br/>et services des deux<br/>départements ministériels</p>
-</td>
-<td width="76">
-<p align="center">15</p>
-</td>
-<td width="76">
-<p align="center">15</p>
-</td>
-<td width="152">
-<p align="center">Election directe<br/>Scrutin de liste</p>
+<td align="center" colspan="6" valign="middle">
+<br/>Administration centrale <br/>
 </td>
 </tr>
 <tr>
-<td colspan="6" width="680">
-<p align="center">Administration Centrale</p>
+<td align="justify">
+<br/>Comité technique unique d'administration centrale <br/>
+</td>
+<td align="justify">
+<br/>Secrétaire général des ministères économiques et financiers <br/>
+</td>
+<td align="justify">
+<br/>Directions  et services de l'administration centrale des trois départements  ministériels, à l'exception de la direction générale des collectivités  locales <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste <br/>
 </td>
 </tr>
 <tr>
-<td width="134">
-<p align="center">Comité technique unique d'administration centrale</p>
-</td>
-<td width="133">
-<p align="center">Secrétraire général du Ministère de l'économie, des finances et de l'industrie et du Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat</p>
-</td>
-<td width="109">
-<p align="center">Directions et Services de l'administration centrale des deux départements ministériels</p>
-</td>
-<td width="76">
-<p align="center">10</p>
-</td>
-<td width="76">
-<p align="center">10</p>
-</td>
-<td width="152">
-<p align="center">Election directe <br/>Scrutin de liste</p>
+<td align="center" colspan="6">
+<br/>Autres <br/>
 </td>
 </tr>
 <tr>
-<td colspan="6" width="680">
-<p align="center">Autres</p>
+<td align="justify">
+<br/>Comité technique spécial de service de la direction générale du Trésor <br/>
+</td>
+<td align="justify">
+<br/>Directeur général du Trésor <br/>
+</td>
+<td align="justify">
+<br/>Services à l'étranger <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste <br/>
 </td>
 </tr>
 <tr>
-<td width="134">
-<p align="center">Comité technique spécial de service de la Direction générale du Trésor</p>
+<td align="justify">
+<br/>Comité  technique spécial de sous-direction-service de l'environnement  professionnel du secrétariat général des ministères économiques et  financiers <br/>
 </td>
-<td width="133">
-<p align="center">Directeur Général <br/>du Trésor</p>
+<td align="justify">
+<br/>Chef du service de l'environnement professionnel <br/>
 </td>
-<td width="109">
-<p align="center">Services à l'étranger</p>
+<td align="justify">
+<br/>Sous-direction du cadre de vie <br/>
 </td>
-<td width="76">
-<p align="center">5</p>
+<td align="center">
+<br/>8 <br/>
 </td>
-<td width="76">
-<p align="center">5</p>
+<td align="center">
+<br/>8 <br/>
 </td>
-<td width="152">
-<p align="center">Election directe<br/>Scrutin de liste</p>
-</td>
-</tr>
-<tr>
-<td width="134">
-<p align="center">Comité technique spécial de sous-direction - Service de l'environnement professionnel du Secrétariat général</p>
-</td>
-<td width="133">
-<p align="center">Chef du Service de l'environnement professionnel</p>
-</td>
-<td width="109">
-<p align="center">Sous-direction du cadre de vie</p>
-</td>
-<td width="76">
-<p align="center">8</p>
-</td>
-<td width="76">
-<p align="center">8</p>
-</td>
-<td width="152">
-<p align="center">Eloction directe<br/>Scrutin de liste</p>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste <br/>
 </td>
 </tr>
 <tr>
-<td width="134">
-<p align="center">Comité technique spécial de service du Service commun des laboratoires</p>
+<td align="justify">
+<br/>Comité technique spécial de service du service commun des laboratoires <br/>
 </td>
-<td width="133">
-<p align="center">Chef du Service commun des laboratoires</p>
+<td align="justify">
+<br/>Chef du service commun des laboratoires <br/>
 </td>
-<td width="109">
-<p align="center">Service commun des laboratoires</p>
+<td align="justify">
+<br/>Service commun des laboratoires <br/>
 </td>
-<td width="76">
-<p align="center">6</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td width="76">
-<p align="center">6</p>
+<td align="center">
+<br/>6 <br/>
 </td>
-<td width="152">
-<p align="center">Election directe<br/>Scrutin de liste</p>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste <br/>
 </td>
 </tr>
 <tr>
-<td width="134">
-<p align="center">Comité technique spécial de service de TRACFIN</p>
+<td align="justify">
+<br/>Comité technique spécial de TRACFIN <br/>
 </td>
-<td width="133">
-<p align="center">Directeur de TRACFIN</p>
+<td align="justify">
+<br/>Directeur de TRACFIN <br/>
 </td>
-<td width="109">
-<p align="center">Service TRACFIN</p>
+<td align="justify">
+<br/>Service TRACFIN <br/>
 </td>
-<td width="76">
-<p align="center">3</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="76">
-<p align="center">3</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td width="152">
-<p align="center">Election directe<br/>Scrutin de sigle</p>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste <br/>
 </td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Comité technique spécial de la direction générale de l'administration et de la fonction publique <br/>
+</td>
+<td align="justify">
+<br/>Directeur général de l'administration et de la fonction publique <br/>
+</td>
+<td align="justify">
+<br/>Direction générale de l'administration et de la fonction publique <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>Election directe <br/>
+<br/>Scrutin de liste</td>
 </tr>
 </tbody>
 </table>

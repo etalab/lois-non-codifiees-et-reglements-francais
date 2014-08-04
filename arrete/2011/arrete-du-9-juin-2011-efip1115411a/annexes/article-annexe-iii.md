@@ -175,10 +175,10 @@ Direction générale des douanes et droits indirects
 <p align="center">Direction interrégionale</p>
 </td>
 <td width="95">
-<p align="center">8</p>
+<p align="center">10</p>
 </td>
 <td width="95">
-<p align="center">8</p>
+<p align="center">10</p>
 </td>
 <td width="118">
 <p align="center">Election directe<br/>Scrutin de liste</p>
@@ -195,10 +195,10 @@ Direction générale des douanes et droits indirects
 <p align="center">Direction interrégionale</p>
 </td>
 <td width="95">
-<p align="center">10</p>
+<p align="center">8</p>
 </td>
 <td width="95">
-<p align="center">10</p>
+<p align="center">8</p>
 </td>
 <td width="118">
 <p align="center">Election directe<br/>Scrutin de liste</p>
