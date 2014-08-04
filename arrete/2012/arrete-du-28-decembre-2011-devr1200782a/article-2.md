@@ -48,14 +48,18 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <tr>
 <td valign="top" width="57">
 <br/>
-</td>
-<td valign="top" width="75">
 <br/>
 </td>
 <td valign="top" width="75">
 <br/>
+<br/>
 </td>
 <td valign="top" width="75">
+<br/>
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
 <br/>
 </td>
 <td valign="top" width="75">
@@ -77,6 +81,7 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">Lorsque E<br/>vaut 0,95</p>
 </td>
 <td valign="top" width="75">
+<br/>
 <br/>
 </td>
 </tr>
@@ -366,11 +371,14 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 </td>
 <td valign="top" width="75">
 <br/>
-</td>
-<td valign="top" width="75">
 <br/>
 </td>
 <td valign="top" width="75">
+<br/>
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
 <br/>
 </td>
 <td valign="top" width="75">
@@ -384,11 +392,14 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 </td>
 <td valign="top" width="75">
 <br/>
-</td>
-<td valign="top" width="75">
 <br/>
 </td>
 <td valign="top" width="75">
+<br/>
+<br/>
+</td>
+<td valign="top" width="75">
+<br/>
 <br/>
 </td>
 </tr>
@@ -493,6 +504,21 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <td align="center" valign="top">14,54 </td>
 <td align="center" valign="top">13,81 </td>
 <td align="center" valign="top">7,36</td>
+</tr>
+<tr>
+<td align="center"> 13</td>
+<td align="center">1er avril 2014 -<p>30 juin 2014</p>
+</td>
+<td align="center"> 0,020</td>
+<td align="center"> 0,026</td>
+<td align="center"> 27,94</td>
+<td align="center"> supprimé</td>
+<td align="center"> supprimé</td>
+<td align="center">supprimé <br/>
+</td>
+<td align="center">14,16 </td>
+<td align="center">13,45 </td>
+<td align="center"> 7,17</td>
 </tr>
 </tbody>
 </table>
