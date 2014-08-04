@@ -2,13 +2,9 @@
 
 Le conseil d'administration est composé de :
 
-1° Huit membres représentant les affiliés de la caisse nationale, élus dans les conditions fixées par un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget ;
+1° Huit membres titulaires et huit membres suppléants représentant les collectivités territoriales et leurs établissements publics ainsi que les établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée immatriculés à ladite caisse ;
 
-Sont éligibles les fonctionnaires en activité et les fonctionnaires retraités affiliés à ladite caisse ;
-
-2° Huit membres représentant les collectivités immatriculées à la caisse nationale, élus dans les conditions fixées par un arrêtédu ministre chargé de la sécurité sociale et du ministre chargé du budget  ;
-
-Pour chacun des membres du conseil d'administration prévus aux paragraphes 1° et 2°, un suppléant est élu dans les mêmes conditions.
+2° Huit membres titulaires et huit membres suppléants représentant les affiliés à la caisse nationale.
 
 Le président du Conseil supérieur de la fonction publique territoriale et le président du Conseil supérieur de la fonction publique hospitalière ou leurs représentants assistent au conseil d'administration sans voix délibérative.
 
