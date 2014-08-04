@@ -1,1321 +1,1887 @@
 # Article Annexe I
 
-LISTE DES AGGLOMÉRATIONS ET ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE À FISCALITÉ PROPRE VISÉS AU DEUXIÈME ALINÉA DE L'ARTICLE L. 302-5 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION NE JUSTIFIANT PAS UN EFFORT DE PRODUCTION SUPPLÉMENTAIRE POUR RÉPONDRE À LA DEMANDE ET AUX CAPACITÉS À SE LOGER DES PERSONNES À REVENUS MODESTES ET DES PERSONNES DÉFAVORISÉES
+Liste des agglomérations et établissements publics de coopération intercommunale à fiscalité propre visés au deuxième alinéa de l'article L. 302-5 du code de la construction et de l'habitation ne justifiant pas un effort de production supplémentaire pour répondre à la demande et aux capacités à se loger des personnes à revenus modestes et des personnes défavorisées
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> CODE AGGLOMÉRATION</p>
+<th>
+<br/>CODE AGGLOMÉRATION <br/>
+</th>
+<th>
+<br/>NOM DE L'AGGLOMÉRATION <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>00551 <br/>
 </td>
 <td>
-<p align="center"> NOM DE L'AGGLOMÉRATION</p>
+<br/>Montélimar <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00551<br/>
+<td align="left">
+<br/>00553 <br/>
 </td>
-<td align="center">Montélimar<br/>
+<td>
+<br/>Bergerac <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00553<br/>
+<td align="left">
+<br/>00554 <br/>
 </td>
-<td align="center">Bergerac<br/>
+<td>
+<br/>Brive-la-Gaillarde <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00554<br/>
+<td align="left">
+<br/>00555 <br/>
 </td>
-<td align="center">Brive-la-Gaillarde<br/>
+<td>
+<br/>Belfort <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00555<br/>
+<td align="left">
+<br/>00556 <br/>
 </td>
-<td align="center">Belfort<br/>
+<td>
+<br/>Vienne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00556<br/>
+<td align="left">
+<br/>00651 <br/>
 </td>
-<td align="center">Vienne<br/>
+<td>
+<br/>Valence <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00651<br/>
+<td align="left">
+<br/>00752 <br/>
 </td>
-<td align="center">Valence<br/>
+<td>
+<br/>Béthune <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00752<br/>
+<td align="left">
+<br/>00753 <br/>
 </td>
-<td align="center">Béthune<br/>
+<td>
+<br/>Saint-Etienne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00753<br/>
+<td align="left">
+<br/>00755 <br/>
 </td>
-<td align="center">Saint-Etienne<br/>
+<td>
+<br/>Rouen <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00755<br/>
+<td align="left">
+<br/>00756 <br/>
 </td>
-<td align="center">Rouen<br/>
+<td>
+<br/>Douai-Lens <br/>
 </td>
 </tr>
 <tr>
-<td align="center">00756<br/>
+<td align="left">
+<br/>01501 <br/>
 </td>
-<td align="center">Douai - Lens<br/>
+<td>
+<br/>Bourg-en-Bresse <br/>
 </td>
 </tr>
 <tr>
-<td align="center">01501<br/>
+<td align="left">
+<br/>02501 <br/>
 </td>
-<td align="center">Bourg-en-Bresse<br/>
+<td>
+<br/>Saint-Quentin <br/>
 </td>
 </tr>
 <tr>
-<td align="center">02501<br/>
+<td align="left">
+<br/>03501 <br/>
 </td>
-<td align="center">Saint-Quentin<br/>
+<td>
+<br/>Montluçon <br/>
 </td>
 </tr>
 <tr>
-<td align="center">03501<br/>
+<td align="left">
+<br/>03502 <br/>
 </td>
-<td align="center">Montluçon<br/>
+<td>
+<br/>Vichy <br/>
 </td>
 </tr>
 <tr>
-<td align="center">03502<br/>
+<td align="left">
+<br/>08501 <br/>
 </td>
-<td align="center">Vichy<br/>
+<td>
+<br/>Charleville-Mézières <br/>
 </td>
 </tr>
 <tr>
-<td align="center">08501<br/>
+<td align="left">
+<br/>10601 <br/>
 </td>
-<td align="center">Charleville-Mézières<br/>
+<td>
+<br/>Troyes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">10601<br/>
+<td align="left">
+<br/>11502 <br/>
 </td>
-<td align="center">Troyes<br/>
+<td>
+<br/>Narbonne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">11502<br/>
+<td align="left">
+<br/>16601 <br/>
 </td>
-<td align="center">Narbonne<br/>
+<td>
+<br/>Angoulême <br/>
 </td>
 </tr>
 <tr>
-<td align="center">16601<br/>
+<td align="left">
+<br/>18501 <br/>
 </td>
-<td align="center">Angoulême<br/>
+<td>
+<br/>Bourges <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18501<br/>
+<td align="left">
+<br/>22501 <br/>
 </td>
-<td align="center">Bourges<br/>
+<td>
+<br/>Saint-Brieuc <br/>
 </td>
 </tr>
 <tr>
-<td align="center">22403<br/>
+<td align="left">
+<br/>24501 <br/>
 </td>
-<td align="center">Lannion<br/>
+<td>
+<br/>Périgueux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">22501<br/>
+<td align="left">
+<br/>25601 <br/>
 </td>
-<td align="center">Saint-Brieuc<br/>
+<td>
+<br/>Montbéliard <br/>
 </td>
 </tr>
 <tr>
-<td align="center">24501<br/>
+<td align="left">
+<br/>25602 <br/>
 </td>
-<td align="center">Périgueux<br/>
+<td>
+<br/>Besançon <br/>
 </td>
 </tr>
 <tr>
-<td align="center">25601<br/>
+<td align="left">
+<br/>26501 <br/>
 </td>
-<td align="center">Montbéliard<br/>
+<td>
+<br/>Romans-sur-Isère <br/>
 </td>
 </tr>
 <tr>
-<td align="center">25602<br/>
+<td align="left">
+<br/>27501 <br/>
 </td>
-<td align="center">Besançon<br/>
+<td>
+<br/>Evreux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">26501<br/>
+<td align="left">
+<br/>28501 <br/>
 </td>
-<td align="center">Romans-sur-Isère<br/>
+<td>
+<br/>Chartres <br/>
 </td>
 </tr>
 <tr>
-<td align="center">27501<br/>
+<td align="left">
+<br/>29501 <br/>
 </td>
-<td align="center">Evreux<br/>
+<td>
+<br/>Quimper <br/>
 </td>
 </tr>
 <tr>
-<td align="center">28501<br/>
+<td align="left">
+<br/>29701 <br/>
 </td>
-<td align="center">Chartres<br/>
+<td>
+<br/>Brest <br/>
 </td>
 </tr>
 <tr>
-<td align="center">29501<br/>
+<td align="left">
+<br/>30501 <br/>
 </td>
-<td align="center">Quimper<br/>
+<td>
+<br/>Alès <br/>
 </td>
 </tr>
 <tr>
-<td align="center">29701<br/>
+<td align="left">
+<br/>30601 <br/>
 </td>
-<td align="center">Brest<br/>
+<td>
+<br/>Nîmes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">30501<br/>
+<td align="left">
+<br/>34501 <br/>
 </td>
-<td align="center">Alès<br/>
+<td>
+<br/>Béziers <br/>
 </td>
 </tr>
 <tr>
-<td align="center">30601<br/>
+<td align="left">
+<br/>36501 <br/>
 </td>
-<td align="center">Nîmes<br/>
+<td>
+<br/>Châteauroux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">34501<br/>
+<td align="left">
+<br/>37701 <br/>
 </td>
-<td align="center">Béziers<br/>
+<td>
+<br/>Tours <br/>
 </td>
 </tr>
 <tr>
-<td align="center">35701<br/>
+<td align="left">
+<br/>38501 <br/>
 </td>
-<td align="center">Rennes<br/>
+<td>
+<br/>Bourgoin-Jallieu <br/>
 </td>
 </tr>
 <tr>
-<td align="center">36501<br/>
+<td align="left">
+<br/>41501 <br/>
 </td>
-<td align="center">Châteauroux<br/>
+<td>
+<br/>Blois <br/>
 </td>
 </tr>
 <tr>
-<td align="center">37701<br/>
+<td align="left">
+<br/>42502 <br/>
 </td>
-<td align="center">Tours<br/>
+<td>
+<br/>Roanne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">38501<br/>
+<td align="left">
+<br/>44601 <br/>
 </td>
-<td align="center">Bourgoin-Jallieu<br/>
+<td>
+<br/>Saint-Nazaire <br/>
 </td>
 </tr>
 <tr>
-<td align="center">41501<br/>
+<td align="left">
+<br/>45701 <br/>
 </td>
-<td align="center">Blois<br/>
+<td>
+<br/>Orléans <br/>
 </td>
 </tr>
 <tr>
-<td align="center">42502<br/>
+<td align="left">
+<br/>47501 <br/>
 </td>
-<td align="center">Roanne<br/>
+<td>
+<br/>Agen <br/>
 </td>
 </tr>
 <tr>
-<td align="center">44601<br/>
+<td align="left">
+<br/>49501 <br/>
 </td>
-<td align="center">Saint-Nazaire<br/>
+<td>
+<br/>Cholet <br/>
 </td>
 </tr>
 <tr>
-<td align="center">45701<br/>
+<td align="left">
+<br/>49701 <br/>
 </td>
-<td align="center">Orléans<br/>
+<td>
+<br/>Angers <br/>
 </td>
 </tr>
 <tr>
-<td align="center">47501<br/>
+<td align="left">
+<br/>50501 <br/>
 </td>
-<td align="center">Agen<br/>
+<td>
+<br/>Cherbourg-Octeville <br/>
 </td>
 </tr>
 <tr>
-<td align="center">49501<br/>
+<td align="left">
+<br/>51501 <br/>
 </td>
-<td align="center">Cholet<br/>
+<td>
+<br/>Châlons-en-Champagne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">49701<br/>
+<td align="left">
+<br/>51701 <br/>
 </td>
-<td align="center">Angers<br/>
+<td>
+<br/>Reims <br/>
 </td>
 </tr>
 <tr>
-<td align="center">50501<br/>
+<td align="left">
+<br/>53501 <br/>
 </td>
-<td align="center">Cherbourg-Octeville<br/>
+<td>
+<br/>Laval <br/>
 </td>
 </tr>
 <tr>
-<td align="center">51501<br/>
+<td align="left">
+<br/>54701 <br/>
 </td>
-<td align="center">Châlons-en-Champagne<br/>
+<td>
+<br/>Nancy <br/>
 </td>
 </tr>
 <tr>
-<td align="center">51701<br/>
+<td align="left">
+<br/>56501 <br/>
 </td>
-<td align="center">Reims<br/>
+<td>
+<br/>Vannes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">53501<br/>
+<td align="left">
+<br/>56601 <br/>
 </td>
-<td align="center">Laval<br/>
+<td>
+<br/>Lorient <br/>
 </td>
 </tr>
 <tr>
-<td align="center">54701<br/>
+<td align="left">
+<br/>57501 <br/>
 </td>
-<td align="center">Nancy<br/>
+<td>
+<br/>Sarrebruck (ALL)-Forbach (partie française) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">56501<br/>
+<td align="left">
+<br/>57601 <br/>
 </td>
-<td align="center">Vannes<br/>
+<td>
+<br/>Thionville <br/>
 </td>
 </tr>
 <tr>
-<td align="center">56601<br/>
+<td align="left">
+<br/>57701 <br/>
 </td>
-<td align="center">Lorient<br/>
+<td>
+<br/>Metz <br/>
 </td>
 </tr>
 <tr>
-<td align="center">57501<br/>
+<td align="left">
+<br/>58501 <br/>
 </td>
-<td align="center">Sarrebruck (ALL) - Forbach <br/>
+<td>
+<br/>Nevers <br/>
 </td>
 </tr>
 <tr>
-<td align="center">57701<br/>
+<td align="left">
+<br/>59601 <br/>
 </td>
-<td align="center">Metz<br/>
+<td>
+<br/>Maubeuge (partie française) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">58501<br/>
+<td align="left">
+<br/>59602 <br/>
 </td>
-<td align="center">Nevers<br/>
+<td>
+<br/>Dunkerque <br/>
 </td>
 </tr>
 <tr>
-<td align="center">59601<br/>
+<td align="left">
+<br/>59701 <br/>
 </td>
-<td align="center">Maubeuge <br/>
+<td>
+<br/>Valenciennes (partie française) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">59602<br/>
+<td align="left">
+<br/>60501 <br/>
 </td>
-<td align="center">Dunkerque<br/>
+<td>
+<br/>Beauvais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">59701<br/>
+<td align="left">
+<br/>60502 <br/>
 </td>
-<td align="center">Valenciennes <br/>
+<td>
+<br/>Compiègne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">60501<br/>
+<td align="left">
+<br/>60601 <br/>
 </td>
-<td align="center">Beauvais<br/>
+<td>
+<br/>Creil <br/>
 </td>
 </tr>
 <tr>
-<td align="center">60502<br/>
+<td align="left">
+<br/>62502 <br/>
 </td>
-<td align="center">Compiègne<br/>
+<td>
+<br/>Arras <br/>
 </td>
 </tr>
 <tr>
-<td align="center">62503<br/>
+<td align="left">
+<br/>62503 <br/>
 </td>
-<td align="center">Boulogne-sur-Mer<br/>
+<td>
+<br/>Boulogne-sur-Mer <br/>
 </td>
 </tr>
 <tr>
-<td align="center">62504<br/>
+<td align="left">
+<br/>62504 <br/>
 </td>
-<td align="center">Calais<br/>
+<td>
+<br/>Calais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">64601<br/>
+<td align="left">
+<br/>63701 <br/>
 </td>
-<td align="center">Pau<br/>
+<td>
+<br/>Clermont-Ferrand <br/>
 </td>
 </tr>
 <tr>
-<td align="center">65501<br/>
+<td align="left">
+<br/>64601 <br/>
 </td>
-<td align="center">Tarbes<br/>
+<td>
+<br/>Pau <br/>
 </td>
 </tr>
 <tr>
-<td align="center">66601<br/>
+<td align="left">
+<br/>65501 <br/>
 </td>
-<td align="center">Perpignan<br/>
+<td>
+<br/>Tarbes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">67501<br/>
+<td align="left">
+<br/>66601 <br/>
 </td>
-<td align="center">Haguenau<br/>
+<td>
+<br/>Perpignan <br/>
 </td>
 </tr>
 <tr>
-<td align="center">68501<br/>
+<td align="left">
+<br/>67501 <br/>
 </td>
-<td align="center">Colmar<br/>
+<td>
+<br/>Haguenau <br/>
 </td>
 </tr>
 <tr>
-<td align="center">68701<br/>
+<td align="left">
+<br/>68501 <br/>
 </td>
-<td align="center">Mulhouse<br/>
+<td>
+<br/>Colmar <br/>
 </td>
 </tr>
 <tr>
-<td align="center">71501<br/>
+<td align="left">
+<br/>68701 <br/>
 </td>
-<td align="center">Chalon-sur-Saône<br/>
+<td>
+<br/>Mulhouse <br/>
 </td>
 </tr>
 <tr>
-<td align="center">72701<br/>
+<td align="left">
+<br/>71501 <br/>
 </td>
-<td align="center">Le Mans<br/>
+<td>
+<br/>Chalon-sur-Saône <br/>
 </td>
 </tr>
 <tr>
-<td align="center">73601<br/>
+<td align="left">
+<br/>72701 <br/>
 </td>
-<td align="center">Chambéry<br/>
+<td>
+<br/>Le Mans <br/>
 </td>
 </tr>
 <tr>
-<td align="center">76701<br/>
+<td align="left">
+<br/>73601 <br/>
 </td>
-<td align="center">Le Havre<br/>
+<td>
+<br/>Chambéry <br/>
 </td>
 </tr>
 <tr>
-<td align="center">79501<br/>
+<td align="left">
+<br/>76701 <br/>
 </td>
-<td align="center">Niort<br/>
+<td>
+<br/>Le Havre <br/>
 </td>
 </tr>
 <tr>
-<td align="center">80601<br/>
+<td align="left">
+<br/>77501 <br/>
 </td>
-<td align="center">Amiens<br/>
+<td>
+<br/>Meaux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">81501<br/>
+<td align="left">
+<br/>79501 <br/>
 </td>
-<td align="center">Castres<br/>
+<td>
+<br/>Niort <br/>
 </td>
 </tr>
 <tr>
-<td align="center">81502<br/>
+<td align="left">
+<br/>80601 <br/>
 </td>
-<td align="center">Albi<br/>
+<td>
+<br/>Amiens <br/>
 </td>
 </tr>
 <tr>
-<td align="center">82501<br/>
+<td align="left">
+<br/>81501 <br/>
 </td>
-<td align="center">Montauban<br/>
+<td>
+<br/>Castres <br/>
 </td>
 </tr>
 <tr>
-<td align="center">85501<br/>
+<td align="left">
+<br/>81502 <br/>
 </td>
-<td align="center">La Roche-sur-Yon<br/>
+<td>
+<br/>Albi <br/>
 </td>
 </tr>
 <tr>
-<td align="center">86601<br/>
+<td align="left">
+<br/>82501 <br/>
 </td>
-<td align="center">Poitiers<br/>
+<td>
+<br/>Montauban <br/>
 </td>
 </tr>
 <tr>
-<td align="center">87601<br/>
+<td align="left">
+<br/>85501 <br/>
 </td>
-<td align="center">Limoges<br/>
+<td>
+<br/>La Roche-sur-Yon <br/>
 </td>
 </tr>
 <tr>
-<td align="center">88501<br/>
+<td align="left">
+<br/>86601 <br/>
 </td>
-<td align="center">Epinal<br/>
+<td>
+<br/>Poitiers <br/>
 </td>
 </tr>
 <tr>
-<td align="center">9A701<br/>
+<td align="left">
+<br/>87601 <br/>
 </td>
-<td align="center">Pointe-à-Pitre - Les Abymes<br/>
+<td>
+<br/>Limoges <br/>
 </td>
 </tr>
 <tr>
-<td align="center">9C601<br/>
+<td align="left">
+<br/>88501 <br/>
 </td>
-<td align="center">Cayenne<br/>
+<td>
+<br/>Epinal <br/>
 </td>
 </tr>
 <tr>
-<td align="center">9D502<br/>
+<td align="left">
+<br/>9A701 <br/>
 </td>
-<td align="center">Saint-André<br/>
+<td>
+<br/>Pointe-à-Pitre-Les Abymes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">9F501<br/>
+<td align="left">
+<br/>9C601 <br/>
 </td>
-<td align="center">Mamoudzou<br/>
+<td>
+<br/>Cayenne <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>9D502 <br/>
+</td>
+<td>
+<br/>Saint-André <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>9D601 <br/>
+</td>
+<td>
+<br/>Saint-Pierre <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>9D603 <br/>
+</td>
+<td>
+<br/>Saint-Denis <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>9F501 <br/>
+</td>
+<td>
+<br/>Mamoudzou <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-<div align="left">.</div>
-
+</div>
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> SIREN EPCI</p>
+<th>
+<br/>SIREN EPCI <br/>
+</th>
+<th>
+<br/>NOM DE L'EPCI <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>200006682 <br/>
 </td>
 <td>
-<p align="center"> NOM DE L'EPCI</p>
+<br/>CA Beaune, Côte et Sud-Communauté Beaune-Chagny-Nolay <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200006682<br/>
+<td align="left">
+<br/>200010650 <br/>
 </td>
-<td align="center">CA Beaune, Côte et Sud - <br/>Communauté Beaune-Chagny-Nolay<br/>
+<td>
+<br/>CA du Grand Dole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200010650<br/>
+<td align="left">
+<br/>200017846 <br/>
 </td>
-<td align="center">CA du Grand Dole<br/>
+<td>
+<br/>CC Etampois Sud Essonne (CCESE) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200017846<br/>
+<td align="left">
+<br/>200018653 <br/>
 </td>
-<td align="center">CC de l'Etampois Sud Essonne<br/>
+<td>
+<br/>CA CAP Excellence <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200018653<br/>
+<td align="left">
+<br/>200023281 <br/>
 </td>
-<td align="center">CA CAP Excellence<br/>
+<td>
+<br/>CA Mulhouse Alsace Agglomération (m2A) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200022762<br/>
+<td align="left">
+<br/>200023414 <br/>
 </td>
-<td align="center">CA Valence Agglo-Sud Rhône-Alpes<br/>
+<td>
+<br/>CA Rouen-Elbeuf-Austreberthe (CREA) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200023281<br/>
+<td align="left">
+<br/>200027068 <br/>
 </td>
-<td align="center">CA Mulhouse Alsace Agglomération<br/>
+<td>
+<br/>CA du Libournais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200023414<br/>
+<td align="left">
+<br/>200027183 <br/>
 </td>
-<td align="center">CA Rouen-Elbeuf-Austreberthe<br/>
+<td>
+<br/>Perpignan Méditerranée Communauté d'Agglomération (PMCA) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200027183<br/>
+<td align="left">
+<br/>200030385 <br/>
 </td>
-<td align="center">CA Perpignan Méditerranée<br/>
+<td>
+<br/>CA de Blois Agglopolys <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200030385<br/>
+<td align="left">
+<br/>200030674 <br/>
 </td>
-<td align="center">CA Blois-Agglopolys<br/>
+<td>
+<br/>CA Val de Garonne Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200030674<br/>
+<td align="left">
+<br/>200033181 <br/>
 </td>
-<td align="center">CA Val de Garonne Agglomération<br/>
+<td>
+<br/>CA Chartres Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200033181<br/>
+<td align="left">
+<br/>200033413 <br/>
 </td>
-<td align="center">CA de Chartres Métropole<br/>
+<td>
+<br/>CA Seine Amont <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200033413<br/>
+<td align="left">
+<br/>200033579 <br/>
 </td>
-<td align="center">CA Seine Amont<br/>
+<td>
+<br/>CU d'Arras <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200033686<br/>
+<td align="left">
+<br/>200033686 <br/>
 </td>
-<td align="center">CA Reims Métropole<br/>
+<td>
+<br/>CA Reims Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200034361<br/>
+<td align="left">
+<br/>200034361 <br/>
 </td>
-<td align="center">CA d'Epinal<br/>
+<td>
+<br/>CA d'Epinal <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200034692<br/>
+<td align="left">
+<br/>200034692 <br/>
 </td>
-<td align="center">CA du Gard Rhodanien<br/>
+<td>
+<br/>CA du Gard Rhodanien <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200034817<br/>
+<td align="left">
+<br/>200034817 <br/>
 </td>
-<td align="center">CA Bergeracoise<br/>
+<td>
+<br/>CA Bergeracoise <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200035152<br/>
+<td align="left">
+<br/>200035087 <br/>
 </td>
-<td align="center">CA Alès Agglomération<br/>
+<td>
+<br/>CA Rhône Alpilles Durance <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200035459<br/>
+<td align="left">
+<br/>200035152 <br/>
 </td>
-<td align="center">CA d'Agen<br/>
+<td>
+<br/>CA Alès Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200035665<br/>
+<td align="left">
+<br/>200035459 <br/>
 </td>
-<td align="center">CA Seine-Eure<br/>
+<td>
+<br/>CA d'Agen <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200035715<br/>
+<td align="left">
+<br/>200035665 <br/>
 </td>
-<td align="center">CA Carcassonne Agglo<br/>
+<td>
+<br/>CA Seine Eure <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200035731<br/>
+<td align="left">
+<br/>200035715 <br/>
 </td>
-<td align="center">CA du Roannais<br/>
+<td>
+<br/>CA Carcassonne Agglo <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200035921<br/>
+<td align="left">
+<br/>200035731 <br/>
 </td>
-<td align="center">CA Cambrai<br/>
+<td>
+<br/>Roannais Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">200036473<br/>
+<td align="left">
+<br/>200036473 <br/>
 </td>
-<td align="center">CA de Saintes<br/>
+<td>
+<br/>CA DE SAINTES <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240100628<br/>
+<td align="left">
+<br/>200039022 <br/>
 </td>
-<td align="center">CA de Bourg-en-Bresse<br/>
+<td>
+<br/>Communauté d'agglomération Vitré Communauté <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240200261<br/>
+<td align="left">
+<br/>200039865 <br/>
 </td>
-<td align="center">CA de Saint-Quentin<br/>
+<td>
+<br/>Metz Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240200477<br/>
+<td align="left">
+<br/>200040244 <br/>
 </td>
-<td align="center">CA du Soissonnais<br/>
+<td>
+<br/>Communauté d'Agglomération du Bocage Bressuirais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240300426<br/>
+<td align="left">
+<br/>200040277 <br/>
 </td>
-<td align="center">CA de Vichy Val d'Allier<br/>
+<td>
+<br/>CA du pays de Dreux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240300608<br/>
+<td align="left">
+<br/>200040392 <br/>
 </td>
-<td align="center">CA Montluçonnaise<br/>
+<td>
+<br/>CA Le Grand Périgueux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240300616<br/>
+<td align="left">
+<br/>200040459 <br/>
 </td>
-<td align="center">CA de Moulins<br/>
+<td>
+<br/>CA Montelimar-Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">240801001<br/>
+<td align="left">
+<br/>200040483 <br/>
 </td>
-<td align="center">CA de Charleville-Mézières <br/>Cœur d'Ardenne<br/>
+<td>
+<br/>CA Valence-Romans Sud Rhône-Alpes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241000397<br/>
+<td align="left">
+<br/>200040590 <br/>
 </td>
-<td align="center">CA Grand Troyes<br/>
+<td>
+<br/>Communauté d'agglomération Villefranche Beaujolais Saône <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241100593<br/>
+<td align="left">
+<br/>200040665 <br/>
 </td>
-<td align="center">CA le Grand Narbonne<br/>
+<td>
+<br/>CA Lannion-Trégor-Communauté <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241200187<br/>
+<td align="left">
+<br/>200041317 <br/>
 </td>
-<td align="center">CA du Grand Rodez<br/>
+<td>
+<br/>CA du Niortais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241300417<br/>
+<td align="left">
+<br/>200041630 <br/>
 </td>
-<td align="center">CA Arles-Crau-Camargue-Montagnette<br/>
+<td>
+<br/>CA Charleville-Mézières-Sedan <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241500230<br/>
+<td align="left">
+<br/>200041762 <br/>
 </td>
-<td align="center">CA du Bassin d'Aurillac<br/>
+<td>
+<br/>CA Rochefort Océan <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241600253<br/>
+<td align="left">
+<br/>200041788 <br/>
 </td>
-<td align="center">CA du Grand Angoulême<br/>
+<td>
+<br/>CA du Pays Nord Martinique <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241700566<br/>
+<td align="left">
+<br/>200042174 <br/>
 </td>
-<td align="center">CA du Pays Rochefortais<br/>
+<td>
+<br/>Lorient Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241700640<br/>
+<td align="left">
+<br/>200042190 <br/>
 </td>
-<td align="center">CA Royan Atlantique<br/>
+<td>
+<br/>Communauté d'Agglomération de la Porte du Hainaut <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241800507<br/>
+<td align="left">
+<br/>200042935 <br/>
 </td>
-<td align="center">CA Bourges Plus<br/>
+<td>
+<br/>CC Haut-Bugey <br/>
 </td>
 </tr>
 <tr>
-<td align="center">241927300<br/>
+<td align="left">
+<br/>200043008 <br/>
 </td>
-<td align="center">CA de Brive<br/>
+<td>
+<br/>CA de Châlons-en-Champagne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242200517<br/>
+<td align="left">
+<br/>200043172 <br/>
 </td>
-<td align="center">CA Saint-Brieuc Agglomération <br/>Baie d'Armor<br/>
+<td>
+<br/>CA du Bassin de Brive <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242200798<br/>
+<td align="left">
+<br/>200043370 <br/>
 </td>
-<td align="center">CA Lannion-Trégor-Agglomération<br/>
+<td>
+<br/>Communauté d'agglomération SAINT-LO AGGLO <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242400620<br/>
+<td align="left">
+<br/>200043396 <br/>
 </td>
-<td align="center">CA Périgourdine<br/>
+<td>
+<br/>CA Maubeuge Val de Sambre <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242500361<br/>
+<td align="left">
+<br/>200044022 <br/>
 </td>
-<td align="center">CA du Grand Besançon<br/>
+<td>
+<br/>Communauté d'agglomération de Cambrai <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242503886<br/>
+<td align="left">
+<br/>200044055 <br/>
 </td>
-<td align="center">CA du Pays de Montbéliard<br/>
+<td>
+<br/>CA de Béthune Bruay Nœux et environs <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242600450<br/>
+<td align="left">
+<br/>200044618 <br/>
 </td>
-<td align="center">CA Montélimar-Sésame<br/>
+<td>
+<br/>CA du Douaisis (CAD) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242600609<br/>
+<td align="left">
+<br/>200044691 <br/>
 </td>
-<td align="center">CA du Pays de Romans<br/>
+<td>
+<br/>Communauté d'agglomération du nord Grande Terre <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242700573<br/>
+<td align="left">
+<br/>200044733 <br/>
 </td>
-<td align="center">CA Grand Evreux Agglomération<br/>
+<td>
+<br/>Seine &amp; Vexin com Agglo <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242700649<br/>
+<td align="left">
+<br/>240100628 <br/>
 </td>
-<td align="center">CA des Portes de l'Eure<br/>
+<td>
+<br/>CA Bourg-en-Bresse Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242852440<br/>
+<td align="left">
+<br/>240200261 <br/>
 </td>
-<td align="center">CA Dreux Agglomération<br/>
+<td>
+<br/>CA de Saint-Quentin <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242900314<br/>
+<td align="left">
+<br/>240200477 <br/>
 </td>
-<td align="center">CU de Brest Métropole Océane<br/>
+<td>
+<br/>CA du Soissonnais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242900728<br/>
+<td align="left">
+<br/>240300426 <br/>
 </td>
-<td align="center">CA de Quimper Communauté<br/>
+<td>
+<br/>CA Vichy Val d'Allier <br/>
 </td>
 </tr>
 <tr>
-<td align="center">242900835<br/>
+<td align="left">
+<br/>240300608 <br/>
 </td>
-<td align="center">CA Morlaix Communauté<br/>
+<td>
+<br/>CA Montluçonnaise <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243000643<br/>
+<td align="left">
+<br/>240300616 <br/>
 </td>
-<td align="center">CA de Nîmes Métropole<br/>
+<td>
+<br/>CA de Moulins <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243400769<br/>
+<td align="left">
+<br/>241000397 <br/>
 </td>
-<td align="center">CA de Béziers Méditerranée<br/>
+<td>
+<br/>CA Grand Troyes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243500139<br/>
+<td align="left">
+<br/>241100593 <br/>
 </td>
-<td align="center">CA Rennes Métropole<br/>
+<td>
+<br/>CA Le Grand Narbonne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243500782<br/>
+<td align="left">
+<br/>241200187 <br/>
 </td>
-<td align="center">CA de Saint-Malo Agglomération<br/>
+<td>
+<br/>CA du Grand Rodez <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243500808<br/>
+<td align="left">
+<br/>241300177 <br/>
 </td>
-<td align="center">CA Vitré communauté<br/>
+<td>
+<br/>SAN Ouest Provence <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243600327<br/>
+<td align="left">
+<br/>241500230 <br/>
 </td>
-<td align="center">CA Castelroussine<br/>
+<td>
+<br/>CA du Bassin d'Aurillac <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243700754<br/>
+<td align="left">
+<br/>241600253 <br/>
 </td>
-<td align="center">CA Tour(s) Plus<br/>
+<td>
+<br/>CA du Grand Angoulême (GrandAngoulême) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243800455<br/>
+<td align="left">
+<br/>241800507 <br/>
 </td>
-<td align="center">CA Vienne Agglomération<br/>
+<td>
+<br/>CA Bourges Plus <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243800604<br/>
+<td align="left">
+<br/>242200517 <br/>
 </td>
-<td align="center">CA Porte de l'Isère<br/>
+<td>
+<br/>CA Saint-Brieuc Agglomération Baie d'Armor (SBABA) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">243800984<br/>
+<td align="left">
+<br/>242500361 <br/>
 </td>
-<td align="center">CA du Pays Voironnais<br/>
+<td>
+<br/>CA du Grand Besançon <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244000675<br/>
+<td align="left">
+<br/>242503886 <br/>
 </td>
-<td align="center">CA du Grand Dax<br/>
+<td>
+<br/>CA du Pays de Montbéliard <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244000808<br/>
+<td align="left">
+<br/>242700573 <br/>
 </td>
-<td align="center">CA le Marsan Agglomération<br/>
+<td>
+<br/>CA Grand Evreux Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244200770<br/>
+<td align="left">
+<br/>242900314 <br/>
 </td>
-<td align="center">CA de Saint-Etienne Métropole<br/>
+<td>
+<br/>CU Brest Métropole Océane <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244200796<br/>
+<td align="left">
+<br/>242900728 <br/>
 </td>
-<td align="center">CA Loire Forez<br/>
+<td>
+<br/>CA Quimper Communauté <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244300018<br/>
+<td align="left">
+<br/>242900835 <br/>
 </td>
-<td align="center">CA du Puy-en-Velay<br/>
+<td>
+<br/>CA Morlaix Communauté <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244400644<br/>
+<td align="left">
+<br/>243000643 <br/>
 </td>
-<td align="center">CA de la Région Nazairienne <br/>et de l'Estuaire<br/>
+<td>
+<br/>CA de Nîmes Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244500468<br/>
+<td align="left">
+<br/>243100690 <br/>
 </td>
-<td align="center">CA Orléans Val de Loire<br/>
+<td>
+<br/>CA du Muretain <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244900015<br/>
+<td align="left">
+<br/>243400769 <br/>
 </td>
-<td align="center">CA Angers Loire Métropole<br/>
+<td>
+<br/>CA de Béziers-Méditerranée <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244900361<br/>
+<td align="left">
+<br/>243500139 <br/>
 </td>
-<td align="center">CA Saumur Loire Développement<br/>
+<td>
+<br/>CA Rennes Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">244900700<br/>
+<td align="left">
+<br/>243500782 <br/>
 </td>
-<td align="center">CA du Choletais<br/>
+<td>
+<br/>CA du Pays de Saint Malo-Saint Malo Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245000237<br/>
+<td align="left">
+<br/>243600327 <br/>
 </td>
-<td align="center">CU de Cherbourg<br/>
+<td>
+<br/>CA Castelroussine <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245100029<br/>
+<td align="left">
+<br/>243700754 <br/>
 </td>
-<td align="center">CA de Châlons-en-Champagne<br/>
+<td>
+<br/>CA Tours (Plus) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245300330<br/>
+<td align="left">
+<br/>243800455 <br/>
 </td>
-<td align="center">CA de Laval<br/>
+<td>
+<br/>ViennAgglo <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245400676<br/>
+<td align="left">
+<br/>243800604 <br/>
 </td>
-<td align="center">CU du Grand Nancy<br/>
+<td>
+<br/>CA Porte de l'Isère (CAPI) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245600341<br/>
+<td align="left">
+<br/>243800984 <br/>
 </td>
-<td align="center">CA du Pays de Lorient<br/>
+<td>
+<br/>CA du Pays Voironnais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245600366<br/>
+<td align="left">
+<br/>244000675 <br/>
 </td>
-<td align="center">CA Vannes Agglo<br/>
+<td>
+<br/>CA du Grand Dax <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245700216<br/>
+<td align="left">
+<br/>244000808 <br/>
 </td>
-<td align="center">CA de Sarreguemines Confluences<br/>
+<td>
+<br/>CA Le Marsan Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245700240<br/>
+<td align="left">
+<br/>244200770 <br/>
 </td>
-<td align="center">CA de Metz Métropole<br/>
+<td>
+<br/>CA Saint Etienne Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245700372<br/>
+<td align="left">
+<br/>244200796 <br/>
 </td>
-<td align="center">CA de Forbach Porte de France<br/>
+<td>
+<br/>CA Loire Forez <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245701222<br/>
+<td align="left">
+<br/>244300018 <br/>
 </td>
-<td align="center">CA du Val de Fensch<br/>
+<td>
+<br/>CA du Puy en Velay <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245804406<br/>
+<td align="left">
+<br/>244400644 <br/>
 </td>
-<td align="center">CA de Nevers<br/>
+<td>
+<br/>CA de la Région nazairienne et de l'estuaire (CARENE) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245900428<br/>
+<td align="left">
+<br/>244500468 <br/>
 </td>
-<td align="center">CU de Dunkerque Grand Littoral<br/>
+<td>
+<br/>CA Orléans Val de Loire (AgglO) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245901087<br/>
+<td align="left">
+<br/>244900015 <br/>
 </td>
-<td align="center">CA Maubeuge Val de la Sambre<br/>
+<td>
+<br/>CA Angers Loire Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245901145<br/>
+<td align="left">
+<br/>244900361 <br/>
 </td>
-<td align="center">CA de la Porte du Hainaut<br/>
+<td>
+<br/>CA Saumur Loire Développement <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245901160<br/>
+<td align="left">
+<br/>244900700 <br/>
 </td>
-<td align="center">CA de Valenciennes Métropole<br/>
+<td>
+<br/>CA du Choletais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">245901228<br/>
+<td align="left">
+<br/>245000237 <br/>
 </td>
-<td align="center">CA du Douaisis<br/>
+<td>
+<br/>CU de Cherbourg <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246000830<br/>
+<td align="left">
+<br/>245300330 <br/>
 </td>
-<td align="center">CA du Beauvaisis<br/>
+<td>
+<br/>CA de Laval <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246001010<br/>
+<td align="left">
+<br/>245400676 <br/>
 </td>
-<td align="center">CA de la Région de Compiègne<br/>
+<td>
+<br/>CU du Grand Nancy <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246100663<br/>
+<td align="left">
+<br/>245600366 <br/>
 </td>
-<td align="center">CU d'Alençon<br/>
+<td>
+<br/>Vannes agglo <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246200141<br/>
+<td align="left">
+<br/>245700216 <br/>
 </td>
-<td align="center">CA de l'Artois<br/>
+<td>
+<br/>CA Sarreguemines Confluences <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246200299<br/>
+<td align="left">
+<br/>245700372 <br/>
 </td>
-<td align="center">CA d'Hénin-Carvin<br/>
+<td>
+<br/>CA de Forbach-Porte de France <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246200364<br/>
+<td align="left">
+<br/>245701222 <br/>
 </td>
-<td align="center">CA de Lens - Liévin<br/>
+<td>
+<br/>CA du Val de Fensch <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246200729<br/>
+<td align="left">
+<br/>245804406 <br/>
 </td>
-<td align="center">CA du Boulonnais<br/>
+<td>
+<br/>CA de Nevers <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246201149<br/>
+<td align="left">
+<br/>245900428 <br/>
 </td>
-<td align="center">CA du Calaisis<br/>
+<td>
+<br/>CU de Dunkerque <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246401723<br/>
+<td align="left">
+<br/>245901160 <br/>
 </td>
-<td align="center">CA Pau-Pyrénées<br/>
+<td>
+<br/>CA Valenciennes Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246500565<br/>
+<td align="left">
+<br/>246000111 <br/>
 </td>
-<td align="center">CA du Grand Tarbes<br/>
+<td>
+<br/>CA Creilloise <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246800247<br/>
+<td align="left">
+<br/>246000830 <br/>
 </td>
-<td align="center">CC des Trois Frontières<br/>
+<td>
+<br/>CA du Beauvaisis <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246800726<br/>
+<td align="left">
+<br/>246001010 <br/>
 </td>
-<td align="center">CA de Colmar<br/>
+<td>
+<br/>CA de la Région de Compiègne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">246900229<br/>
+<td align="left">
+<br/>246100663 <br/>
 </td>
-<td align="center">CA de Villefranche-sur-Saône<br/>
+<td>
+<br/>CU d'Alençon <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247100290<br/>
+<td align="left">
+<br/>246200299 <br/>
 </td>
-<td align="center">CU Le Creusot - Montceau-les-Mines<br/>
+<td>
+<br/>CA d'Hénin-Carvin <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247100589<br/>
+<td align="left">
+<br/>246200364 <br/>
 </td>
-<td align="center">CA Chalon ― Val de Bourgogne<br/>
+<td>
+<br/>CA de Lens-Liévin <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247104193<br/>
+<td align="left">
+<br/>246200729 <br/>
 </td>
-<td align="center">CA du Mâconnais - Val de Saône<br/>
+<td>
+<br/>CA du Boulonnais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247200132<br/>
+<td align="left">
+<br/>246201149 <br/>
 </td>
-<td align="center">CU Le Mans Métropole<br/>
+<td>
+<br/>CA du Calaisis <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247300049<br/>
+<td align="left">
+<br/>246300701 <br/>
 </td>
-<td align="center">CA du Lac du Bourget<br/>
+<td>
+<br/>CA Clermont Communauté <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247300098<br/>
+<td align="left">
+<br/>246401723 <br/>
 </td>
-<td align="center">CA Chambéry Métropole<br/>
+<td>
+<br/>CA Pau-Pyrénées <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247600596<br/>
+<td align="left">
+<br/>246500565 <br/>
 </td>
-<td align="center">CA Havraise<br/>
+<td>
+<br/>CA du Grand Tarbes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247600786<br/>
+<td align="left">
+<br/>246800247 <br/>
 </td>
-<td align="center">CA de la Région Dieppoise<br/>
+<td>
+<br/>CC des Trois Frontières <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247700057<br/>
+<td align="left">
+<br/>246800726 <br/>
 </td>
-<td align="center">CA Melun Val de Seine<br/>
+<td>
+<br/>CA de Colmar <br/>
 </td>
 </tr>
 <tr>
-<td align="center">247900806<br/>
+<td align="left">
+<br/>247100290 <br/>
 </td>
-<td align="center">CA de Niort<br/>
+<td>
+<br/>CU Le Creusot Montceau-lès-Mines <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248000531<br/>
+<td align="left">
+<br/>247100589 <br/>
 </td>
-<td align="center">CA Amiens Métropole<br/>
+<td>
+<br/>CA Chalon-Val de Bourgogne <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248100430<br/>
+<td align="left">
+<br/>247104193 <br/>
 </td>
-<td align="center">CA de Castres Mazamet<br/>
+<td>
+<br/>CA du Mâconnais-Val de Saône <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248100737<br/>
+<td align="left">
+<br/>247200132 <br/>
 </td>
-<td align="center">CA de l'Albigeois<br/>
+<td>
+<br/>CU Le Mans Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248200099<br/>
+<td align="left">
+<br/>247300098 <br/>
 </td>
-<td align="center">CA du Pays de Montauban<br/>
+<td>
+<br/>CA Chambéry Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248400053<br/>
+<td align="left">
+<br/>247600596 <br/>
 </td>
-<td align="center">CA Ventoux Comtat Venaissin<br/>
+<td>
+<br/>CA Havraise (CODAH) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248500589<br/>
+<td align="left">
+<br/>247700057 <br/>
 </td>
-<td align="center">CA La Roche-sur-Yon Agglomération<br/>
+<td>
+<br/>CA Melun Val de Seine <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248600157<br/>
+<td align="left">
+<br/>247700628 <br/>
 </td>
-<td align="center">CA Grand Poitiers<br/>
+<td>
+<br/>CA Pays de Meaux <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248600413<br/>
+<td align="left">
+<br/>248000531 <br/>
 </td>
-<td align="center">CA du Pays Châtelleraudais<br/>
+<td>
+<br/>CA Amiens Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248719312<br/>
+<td align="left">
+<br/>248100430 <br/>
 </td>
-<td align="center">CA Limoges Métropole<br/>
+<td>
+<br/>CA de Castres Mazamet <br/>
 </td>
 </tr>
 <tr>
-<td align="center">248900532<br/>
+<td align="left">
+<br/>248100737 <br/>
 </td>
-<td align="center">CA de l'Auxerrois<br/>
+<td>
+<br/>CA de l'Albigeois (C2A) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249000019<br/>
+<td align="left">
+<br/>248200099 <br/>
 </td>
-<td align="center">CA Belfortaine<br/>
+<td>
+<br/>CA Grand Montauban <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249100470<br/>
+<td align="left">
+<br/>248400053 <br/>
 </td>
-<td align="center">CA de Seine-Essonne<br/>
+<td>
+<br/>CA Ventoux-Comtat-Venaissin (COVE) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249100520<br/>
+<td align="left">
+<br/>248500589 <br/>
 </td>
-<td align="center">CA Sénart Val de Seine<br/>
+<td>
+<br/>CA La Roche-sur-Yon-Agglomération <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249100579<br/>
+<td align="left">
+<br/>248600157 <br/>
 </td>
-<td align="center">CA les Lacs de l'Essonne<br/>
+<td>
+<br/>CA Grand Poitiers <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249300070<br/>
+<td align="left">
+<br/>248600413 <br/>
 </td>
-<td align="center">CA de Clichy-sous-Bois - Montfermeil<br/>
+<td>
+<br/>CA du Pays Châtelleraudais <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249720046<br/>
+<td align="left">
+<br/>248719312 <br/>
 </td>
-<td align="center">CC du Nord Martinique<br/>
+<td>
+<br/>CA Limoges Métropole <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249730037<br/>
+<td align="left">
+<br/>248900532 <br/>
 </td>
-<td align="center">CC de l'Ouest Guyanais<br/>
+<td>
+<br/>CA de l'Auxerrois <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249730045<br/>
+<td align="left">
+<br/>249000019 <br/>
 </td>
-<td align="center">CA du Centre Littoral<br/>
+<td>
+<br/>CA de l'Agglomération Belfortaine <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249740085<br/>
+<td align="left">
+<br/>249100405 <br/>
 </td>
-<td align="center">CA du Sud<br/>
+<td>
+<br/>CA du Plateau de Saclay (CAPS) <br/>
 </td>
 </tr>
 <tr>
-<td align="center">249740093<br/>
+<td align="left">
+<br/>249100470 <br/>
 </td>
-<td align="center">CA Intercommunale de La Réunion Est<br/>
+<td>
+<br/>CA de Seine-Essonne (CASE) <br/>
 </td>
+</tr>
+<tr>
+<td align="left">
+<br/>249100504 <br/>
+</td>
+<td>
+<br/>CA du Val d'Orge (CAVO) <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249100512 <br/>
+</td>
+<td>
+<br/>CA du Val d'Yerres (CAVY) <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249100520 <br/>
+</td>
+<td>
+<br/>CA Sénart Val de Seine (CASVS) <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249100579 <br/>
+</td>
+<td>
+<br/>CA les Lacs de l'Essonne (CALE) <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249710062 <br/>
+</td>
+<td>
+<br/>CA du Nord Basse-Terre <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249710070 <br/>
+</td>
+<td>
+<br/>CA du Sud Basse-Terre <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249730037 <br/>
+</td>
+<td>
+<br/>CC de l'Ouest Guyanais <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249730045 <br/>
+</td>
+<td>
+<br/>CA du Centre Littoral <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249740077 <br/>
+</td>
+<td>
+<br/>CA CIVIS (Communauté intercommunale des villes solidaires) <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249740093 <br/>
+</td>
+<td>
+<br/>CA Intercommunale de La Réunion Est (CIREST) <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>249740119 <br/>
+</td>
+<td>
+<br/>CA Intercommunale du Nord de La Réunion (CINOR)</td>
 </tr>
 </tbody>
 </table>
