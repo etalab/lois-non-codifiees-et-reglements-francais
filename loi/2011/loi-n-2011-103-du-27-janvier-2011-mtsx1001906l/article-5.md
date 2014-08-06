@@ -2,7 +2,7 @@
 
 I. ― Les II à V et le VIII de l'article 1er, les III à VII de l'article 2 et le II de l'article 4 entrent en vigueur à compter du 1er janvier de la sixième année suivant l'année de publication de la présente loi. La conformité de la composition des conseils d'administration et des conseils de surveillance des sociétés concernées est appréciée à l'issue de la première assemblée générale ordinaire qui suit cette date.
 
-Le troisième exercice consécutif prévu au premier alinéa des articles L. 225-18-1, L. 225-69-1 et L. 226-4-1 du code de commerce s'entend à compter du 1er janvier de la sixième année suivant l'année de publication de la présente loi.
+Le premier des trois exercices consécutifs prévus au premier alinéa des articles L. 225-18-1, L. 225-69-1 et L. 226-4-1 du code de commerce s'entend à compter du 1er janvier de la troisième année suivant l'année de publication de la présente loi.
 
 II. ― Dans les sociétés mentionnées aux chapitres V et VI du titre II du livre II du code de commerce dont les actions sont admises aux négociations sur un marché réglementé, la proportion des administrateurs ou des membres du conseil de surveillance de chaque sexe ne peut être inférieure à 20 % à l'issue de la première assemblée générale ordinaire qui suit le 1er janvier de la troisième année suivant l'année de publication de la présente loi.
 

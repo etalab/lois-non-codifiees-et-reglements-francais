@@ -1,0 +1,4 @@
+# Article 20-1 A
+
+<div align="left">Les sociétés nationales de programme mentionnées à l'article 44, ainsi que les services de télévision à caractère national et les services de radio appartenant à un réseau de diffusion à caractère national, diffusés par voie hertzienne terrestre, contribuent à la lutte contre les préjugés sexistes et les violences faites aux femmes en diffusant des programmes relatifs à ces sujets. Ces services fournissent au Conseil supérieur de l'audiovisuel des indicateurs qualitatifs et quantitatifs sur la représentation des femmes et des hommes dans leurs programmes et permettant au conseil d'apprécier le respect des objectifs fixés au quatrième alinéa de l'article 3-1. Ces informations donnent lieu à une publication annuelle. <br/>
+<br/>Le conseil fixe les conditions d'application du présent article, en concertation avec les services mentionnés au premier alinéa du présent article.</div>

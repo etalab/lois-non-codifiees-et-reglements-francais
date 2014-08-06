@@ -4,7 +4,7 @@ La Banque publique d'investissement est un groupe public au service du financeme
 
 En vue de soutenir la croissance durable, l'emploi et la compétitivité de l'économie, elle favorise l'innovation, l'amorçage, le développement, l'internationalisation, la mutation et la transmission des entreprises, en contribuant à leur financement en prêts et en fonds propres.
 
-Elle oriente en priorité son action vers les très petites entreprises, les petites et moyennes entreprises et les entreprises de taille intermédiaire, en particulier celles du secteur industriel.
+Elle oriente en priorité son action vers l'entreprenariat féminin, les très petites entreprises, les petites et moyennes entreprises et les entreprises de taille intermédiaire, en particulier celles du secteur industriel.
 
 Elle investit de manière avisée pour financer des projets de long terme.
 

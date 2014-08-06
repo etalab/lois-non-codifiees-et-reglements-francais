@@ -20,15 +20,15 @@ c) Au 1° de l'article L. 512-4, les mots : "par le service d'aide sociale à l'
 
 5° Articles L. 522-1 et L. 522-2 ;
 
-6° Articles L. 531-1, à l'exception du 4°, L. 531-2 à L. 531-4 et L. 531-10 sous réserve des adaptations suivantes :
+6° Articles L. 531-1, à l'exception du 4°, L. 531-2 à L. 531-4-1 et L. 531-10 sous réserve des adaptations suivantes :
 
-a) Au septième alinéa de l'article L. 531-1, les mots : "percevoir les compléments prévus aux 3° et 4°" sont remplacés par les mots :
-
-"percevoir le complément prévu au 3°" ;
+a) Au septième alinéa de l'article L. 531-1, les mots : "percevoir la prestation et le complément prévus aux 3° et 4°" sont remplacés par les mots : "percevoir la prestation prévue au 3°" ;
 
 b) Le huitième alinéa du même article est supprimé ;
 
 c) A l'article L. 531-4, la référence à l'article L. 615-1 est remplacée par la référence à l'article L. 613-1 ;
+
+d) Au début du second alinéa de l'article L. 531-4-1, les mots : "La région" sont remplacés par le mot : "Saint-Pierre-et-Miquelon" ;
 
 7° Articles L. 532-1 et L. 532-2 sous réserve de l'adaptation suivante : à l'article L. 532-2, la référence aux articles L. 615-19 à L. 615-19-2 est remplacée par la référence aux articles L. 613-19 à L. 613-19-2 ;
 
@@ -44,7 +44,7 @@ c) A l'article L. 531-4, la référence à l'article L. 615-1 est remplacée par
 
 a) Le premier alinéa de l'article L. 552-1 est ainsi rédigé :
 
-Les prestations servies mensuellement par les organismes débiteurs de prestations familiales sont dues, à l'exception de l'allocation de base, du complément de libre choix d'activité de la prestation d'accueil du jeune enfant lorsque le bénéficiaire a un seul enfant à charge ou lorsqu'il est fait usage de l'option prévue au deuxième alinéa du VI de l'article L. 531-4, à partir du premier jour du mois civil suivant celui au cours duquel les conditions d'ouverture du droit sont réunies. Elles cessent d'être dues à partir du premier jour du mois civil au cours duquel les conditions d'ouverture du droit cessent d'être réunies, sauf en cas de perception du complément de libre choix d'activité de la prestation d'accueil du jeune enfant lorsque le bénéficiaire a un seul enfant à charge, de décès de l'allocataire, de son conjoint ou d'un enfant à charge, auxquels cas elles cessent d'être dues au premier jour du mois civil qui suit le changement de situation de famille ou le décès.
+Les prestations servies mensuellement par les organismes débiteurs de prestations familiales sont dues, à l'exception de la prestation mentionnée à l'article L. 531-1 pour l'allocation de base et la prestation partagée d'éducation de l'enfant lorsque le bénéficiaire a un seul enfant à charge ou lorsqu'il est fait usage de l'option prévue au deuxième alinéa du VI de l'article L. 531-4, à partir du premier jour du mois civil suivant celui au cours duquel les conditions d'ouverture du droit sont réunies. Elles cessent d'être dues à partir du premier jour du mois civil au cours duquel les conditions d'ouverture du droit cessent d'être réunies, sauf en cas de perception de la prestation partagée d'éducation de l'enfant lorsque le bénéficiaire a un seul enfant à charge, de décès de l'allocataire, de son conjoint ou d'un enfant à charge, auxquels cas elles cessent d'être dues au premier jour du mois civil qui suit le changement de situation de famille ou le décès.
 
 b) Le dernier alinéa du même article est supprimé ;
 

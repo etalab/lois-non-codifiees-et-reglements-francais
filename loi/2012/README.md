@@ -9,5 +9,6 @@
 - [LOI n°2012-1442 du 24 décembre 2012 (AFSX1240700L)](loi-n2012-1442-du-24-decembre-2012-afsx1240700l)
 - [LOI n°2012-1460 du 27 décembre 2012 (DEVX1234090L)](loi-n2012-1460-du-27-decembre-2012-devx1234090l)
 - [LOI n°2012-304 du 6 mars 2012 (IOCX1104583L)](loi-n2012-304-du-6-mars-2012-iocx1104583l)
+- [LOI n°2012-347 du 12 mars 2012 (MFPF1116839L)](loi-n2012-347-du-12-mars-2012-mfpf1116839l)
 - [LOI n°2012-77 du 24 janvier 2012 (DEVX1119035L)](loi-n2012-77-du-24-janvier-2012-devx1119035l)
 - [LOI n°2012-958 du 16 août 2012 (EFIX1227267L)](loi-n2012-958-du-16-aout-2012-efix1227267l)

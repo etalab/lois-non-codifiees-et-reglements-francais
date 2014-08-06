@@ -39,3 +39,5 @@ Toutefois les dispositions du présent paragraphe ne sont pas applicables aux si
 Ces dispositions ne s'appliquent pas non plus aux titulaires d'une location amiable résultant de la transformation de leur titre antérieur de réquisition.
 
 11° Qui, après s'être vu offrir un logement définitif correspondant à leurs besoins et n'excédant pas les normes H.L.M., continuent d'occuper des locaux appartenant aux organismes d'H.L.M. et destinés à assurer le relogement provisoire des occupants des locaux ou installations visés au premier alinéa de l'article 13 de la loi n° 70-612 du 10 juillet 1970.
+
+12° Qui ont fait l'objet d'une condamnation devenue définitive, assortie d'une obligation de résider hors du domicile ou de la résidence du couple, pour des faits de violences commis sur leur conjoint, leur concubin, leur partenaire lié par un pacte civil de solidarité ou sur leurs enfants.

@@ -26,7 +26,9 @@ Toutefois :
 
 III.-Dans les îles Wallis et Futuna :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables, dans leur rédaction en vigueur le lendemain de la publication de la loi n° 2014-344 du 17 mars 2014 relative à la consommation, sous les réserves ci-après :
+Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables, dans leur rédaction en vigueur le lendemain de la publication de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes, sous les réserves ci-après :
+
+Pour l'application de l'article 7, le 5° du III de l'article 18 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises est complété par les mots : "en vigueur localement".
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 
@@ -40,7 +42,9 @@ Les attributions dévolues en matière de procédure civile aux avocats et aux c
 
 IV.-En Polynésie française :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables, dans leur rédaction en vigueur le lendemain de la publication de la loi n° 2014-344 du 17 mars 2014 relative à la consommation, sous les réserves ci-après.
+Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-5, 67, 68, 72, 73 et 74 sont applicables, dans leur rédaction en vigueur le lendemain de la publication de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes, sous les réserves ci-après.
+
+Pour l'application de l'article 7, le 5° du III de l'article 18 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises est complété par les mots : "en vigueur localement".
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 
@@ -52,7 +56,9 @@ Pour l'application de la présente loi, les mots : " tribunal de grande instance
 
 V.-En Nouvelle-Calédonie :
 
-Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables, dans leur rédaction en vigueur le lendemain de la publication de la loi n° 2014-344 du 17 mars 2014 relative à la consommation, sous les réserves ci-après :
+Les articles 1er (I), 3 à 27, à l'exception de la dernière phrase du deuxième alinéa de l'article 13-1, 50 (II, V, VI), 53 (1° à 12° et 14°), 66-3-1, 66-3-2, 66-3-3, 66-5, 67, 68, 72, 73 et 74 sont applicables, dans leur rédaction en vigueur le lendemain de la publication de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes, sous les réserves ci-après :
+
+Pour l'application de l'article 7, le 5° du III de l'article 18 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises est complété par les mots : "en vigueur localement".
 
 Pour l'application de l'article 11, seul peut être pris en compte un diplôme français au moins équivalent à la maîtrise en droit ou un titre ou diplôme français reconnu comme équivalent pour l'exercice de la profession dans les conditions fixées par l'arrêté prévu à cet article. La dernière phrase du dernier alinéa de l'article 11 n'est applicable qu'en tant qu'elle concerne des ressortissants français.
 

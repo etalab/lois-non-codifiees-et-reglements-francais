@@ -8,4 +8,4 @@ Le conseil d'administration ou de surveillance des sociétés visées à l'alin�
 
 En outre, les établissements et entreprises publics énumérés à l'annexe III de la présente loi sont exclus du champ d'application de l'ensemble des dispositions du titre II.
 
-Les dispositions des articles 7, 8 et 9 sont applicables aux établissements publics et aux sociétés mentionnées au présent article
+Les dispositions des articles 6-2, 7, 8 et 9 sont applicables aux établissements publics et aux sociétés mentionnées au présent article.

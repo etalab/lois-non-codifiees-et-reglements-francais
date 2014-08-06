@@ -2,7 +2,7 @@
 
 La présente ordonnance est applicable à Mayotte sous réserve des adaptations suivantes :
 
-1° Dans le b de l'article 4, les références : "L. 324-9, L. 324-10, L. 341-6, L. 125-1 et L. 125-3 du code du travail sont remplacées par les références : "L. 124-1, L. 124-3 L. 312-1, L. 312-2 et L. 330-5 du code du travail applicable à Mayotte ;
+1° Au b de l'article 4, les références : "L. 1146-1, L. 8221-1, L. 8221-3, L. 8221-5, L. 8231-1, L. 8241-1, L. 8251-1 et L. 8251-2 du code du travail" sont remplacées par les références : "L. 046-1, L. 124-1, L. 124-3, L. 312-1, L. 312-2 et L. 330-5 du code du travail applicable à Mayotte" ;
 
 2° L'article L. 2131-2 du code général des collectivités territoriales est complété par un alinéa ainsi rédigé :
 

@@ -4,4 +4,4 @@ L'Institut de France ainsi que l'Académie française, l'Académie des inscripti
 
 Ils ont pour mission de contribuer à titre non lucratif au perfectionnement et au rayonnement des lettres, des sciences et des arts.
 
-Leurs membres sont élus par leurs pairs. Toutes les fonctions y sont électives.
+Leurs membres sont élus par leurs pairs. Toutes les fonctions y sont électives. Les membres veillent, lors des élections des nouveaux membres et lors des élections aux fonctions statutaires, à assurer une représentation équilibrée entre les femmes et les hommes au sein de l'Institut et de chacune des académies.
