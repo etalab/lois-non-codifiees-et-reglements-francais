@@ -18,6 +18,7 @@
 - [Arrêté du 3 décembre 2013 (VILV1327718A)](arrete-du-3-decembre-2013-vilv1327718a)
 - [Arrêté du 3 juin 2013 (DEFD1310301A)](arrete-du-3-juin-2013-defd1310301a)
 - [Arrêté du 3 septembre 2013 (TRAT1321539A)](arrete-du-3-septembre-2013-trat1321539a)
+- [Arrêté du 4 décembre 2012 (TRAT1239514A)](arrete-du-4-decembre-2012-trat1239514a)
 - [Arrêté du 4 décembre 2013 (DEVA1329833A)](arrete-du-4-decembre-2013-deva1329833a)
 - [Arrêté du 4 décembre 2013 (EFIP1322118A)](arrete-du-4-decembre-2013-efip1322118a)
 - [Arrêté du 4 janvier 2013 (PROI1241507A)](arrete-du-4-janvier-2013-proi1241507a)
