@@ -2023,7 +2023,6 @@
 - [Arrêté du 22 novembre 2012 (AFSP1240194A)](arrete-du-22-novembre-2012-afsp1240194a)
 - [Arrêté du 22 novembre 2012 (AGRS1239467A)](arrete-du-22-novembre-2012-agrs1239467a)
 - [Arrêté du 22 novembre 2012 (AGRT1237709A)](arrete-du-22-novembre-2012-agrt1237709a)
-- [Arrêté du 22 novembre 2012 (DEFH1236650A)](arrete-du-22-novembre-2012-defh1236650a)
 - [Arrêté du 22 novembre 2012 (FPAC1239105A)](arrete-du-22-novembre-2012-fpac1239105a)
 - [Arrêté du 22 novembre 2012 (FPAC1239108A)](arrete-du-22-novembre-2012-fpac1239108a)
 - [Arrêté du 22 novembre 2012 (FPAC1239110A)](arrete-du-22-novembre-2012-fpac1239110a)
