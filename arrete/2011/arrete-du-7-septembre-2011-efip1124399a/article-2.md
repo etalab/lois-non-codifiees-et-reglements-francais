@@ -40,161 +40,149 @@ La composition des commissions administratives paritaires nationales visées à 
 </td>
 </tr>
 <tr>
-<td align="center">1<br/>
+<td rowspan="4">
+<p align="center">1</p>
 </td>
-<td align="center">Chefs de service régional<br/>
+<td>
+<p align="center">Chefs de service régional</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">1</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">1</p>
 </td>
-<td align="center">
-<br/>
+<td rowspan="4">
+<p align="center">7</p>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Directeurs départementaux de 1re classe<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td rowspan="4">
+<p align="center">7</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td>
+<p align="center">Directeurs départementaux de 1re classe</p>
 </td>
-<td align="center">Directeurs départementaux de 2e classe<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">8<br/>
-</td>
-<td align="center">8<br/>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td>
+<p align="center">Directeurs départementaux de 2e classe</p>
 </td>
-<td align="center">Inspecteurs principaux <br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td align="center">2<br/>
+<td>
+<p align="center">Inspecteurs principaux </p>
 </td>
-<td align="center">Inspecteurs<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td align="center">3<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">Contrôleurs principaux<br/>
+<td>
+<p align="center">Inspecteurs</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">
-<br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Contrôleurs de 1re classe<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
+<td>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td rowspan="3">
+<p align="center">3</p>
 </td>
-<td align="center">Contrôleurs de 2e classe<br/>
+<td>
+<p align="center">Contrôleurs principaux</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">
-<br/>
+<td rowspan="3">
+<p align="center">6</p>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">4<br/>
-</td>
-<td align="center">Adjoints de contrôle principaux de 1re classe et de 2e classe<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td rowspan="3">
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
+<td>
+<p align="center">Contrôleurs de 1re classe</p>
 </td>
-<td align="center">Adjoints de contrôle de 1re classe et de 2e classe<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">2<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">2<br/>
+</tr>
+<tr>
+<td>
+<p align="center">Contrôleurs de 2e classe</p>
 </td>
-<td align="center">4<br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">4<br/>
+<td>
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p align="center">4</p>
+</td>
+<td>
+<p align="center">Adjoints de contrôle principaux de 1re classe et de 2e classe</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td rowspan="2">
+<p align="center">4</p>
+</td>
+<td rowspan="2">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Adjoints de contrôle de 1re classe et de 2e classe</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 </tbody>
