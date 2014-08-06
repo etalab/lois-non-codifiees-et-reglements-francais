@@ -482,6 +482,7 @@
 - [Arrêté du 11 mars 2014 (BUDB1323500A)](arrete-du-11-mars-2014-budb1323500a)
 - [Arrêté du 11 mars 2014 (DEVR1405019A)](arrete-du-11-mars-2014-devr1405019a)
 - [Arrêté du 11 novembre 2009 (DEFH0915941A)](arrete-du-11-novembre-2009-defh0915941a)
+- [Arrêté du 12 décembre 2000 (EQUT0001848A)](arrete-du-12-decembre-2000-equt0001848a)
 - [Arrêté du 12 décembre 2013 (DEFG1328458A)](arrete-du-12-decembre-2013-defg1328458a)
 - [Arrêté du 12 décembre 2013 (ESSC1326444A)](arrete-du-12-decembre-2013-essc1326444a)
 - [Arrêté du 12 décembre 2013 (ETSD1329655A)](arrete-du-12-decembre-2013-etsd1329655a)
