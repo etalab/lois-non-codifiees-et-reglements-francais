@@ -20,4 +20,6 @@ Centre national des arts plastiques ;
 
 Ecole nationale supérieure des beaux-arts ;
 
-Ecole nationale supérieure des arts décoratifs.
+Ecole nationale supérieure des arts décoratifs ;
+
+Etablissement public Cité de la céramique-Sèvres et Limoges.

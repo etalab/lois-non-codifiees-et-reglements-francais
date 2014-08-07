@@ -2,8 +2,10 @@
 
 Sont électeurs les agents en position d'activité, de congé parental ou de présence parentale à la date de clôture des listes d'électeurs et qui justifient, à cette même date :
 
-― soit d'un contrat d'une durée supérieure à dix mois ;
+- soit d'un contrat à durée indéterminée ;
 
-― soit d'une ancienneté de services accomplis en tant qu'agent non titulaire d'une durée supérieure à dix mois dans la période de dix-huit mois précédant la date de clôture de la liste électorale.
+- soit, depuis au moins deux mois, d'un contrat d'une durée minimale de six mois ;
 
-Les agents non titulaires exerçant des fonctions à temps incomplet doivent en outre justifier d'une quotité de travail au moins équivalente à 30 % de celle d'un agent exerçant les mêmes fonctions à temps complet.
+- soit d'un contrat reconduit successivement depuis au moins six mois.
+
+La qualité d'électeur s'apprécie au jour du scrutin.

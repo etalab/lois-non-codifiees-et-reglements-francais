@@ -2,7 +2,7 @@
 
 I. ― La commission consultative paritaire est obligatoirement consultée sur les décisions individuelles relatives aux licenciements intervenant postérieurement à la période d'essai et sur les sanctions disciplinaires autres que l'avertissement et le blâme.
 
-II. ― Elle peut en outre être consultée sur toute question d'ordre individuel relative à la situation professionnelle des agents non titulaires relevant de leur champ de compétences. Elle peut être saisie par les intéressés ou à la demande de la moitié des représentants du personnel, par demande écrite adressée à leur président, des questions d'ordre individuel relatives :
+II. ― Elle peut être consultée sur toute question d'ordre individuel relative à la situation professionnelle des agents non titulaires relevant de leur champ de compétences. Elle peut être saisie par les intéressés ou à la demande de la moitié des représentants du personnel, par demande écrite adressée à leur président, des questions d'ordre individuel relatives :
 
 ― à l'application des dispositions figurant dans les contrats ;
 

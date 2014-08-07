@@ -48,7 +48,7 @@ Il détermine le quotient électoral en divisant le nombre total de suffrages va
 
 Il est ensuite attribué à chaque organisation syndicale un nombre de sièges de représentant suppléant égal à celui des sièges de représentant titulaire obtenu par cette organisation syndicale en application de l'alinéa précédent. Les représentants suppléants sont désignés selon l'ordre de présentation de la liste.
 
-d) Dispositions spéciales :
+d) Dispositions relatives à la répartition des sièges par collège :
 
 La liste ayant droit au plus grand nombre de sièges choisit les sièges de titulaires qu'elle souhaite se voir attribuer sous réserve de ne pas empêcher par son choix une autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les collèges pour lesquels elle avait présenté des candidats. Elle ne peut toutefois choisir d'emblée plus d'un siège dans chacun des collèges pour lesquels elle a présenté des candidats que dans le cas où aucune liste n'a présenté de candidats pour le ou les collèges considérés.
 
@@ -57,3 +57,9 @@ Les autres listes exercent ensuite leur choix successivement dans l'ordre décro
 Lorsque la procédure prévue ci-dessus n'a pas permis à une ou plusieurs listes de pourvoir tous les sièges auxquels elle aurait pu prétendre, ces sièges sont attribués à la liste qui, pour les collèges dont les représentants restent à désigner, a obtenu le plus grand nombre de suffrages.
 
 Dans l'hypothèse où aucune liste n'a présenté de candidats pour un collège considéré, les représentants de ce niveau d'emploi sont désignés par voie de tirage au sort parmi les agents non titulaires de ce niveau en résidence dans le ressort de la commission consultative paritaire dont les représentants doivent être membres. Si les agents non titulaires ainsi désignés n'acceptent pas leur nomination, les sièges vacants des représentants du personnel sont attribués à des représentants de l'administration.
+
+e) Dispositions spéciales :
+
+Dans le cas où, pour l'attribution d'un siège, des listes ont la même moyenne, le siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si les listes en cause ont recueilli le même nombre de voix, le siège est attribué à celle qui a présenté, en application du premier alinéa de l'article 12 du présent arrêté, le plus grand nombre de candidats à élire au titre de la commission consultative paritaire. Si plusieurs listes ont obtenu le même nombre de voix et ont présenté le même nombre de candidats, le siège est attribué à l'une d'entre elles par voie de tirage au sort.
+
+Lorsqu'une liste commune a été établie par des organisations syndicales, la répartition entre elles des suffrages exprimés se fait sur la base indiquée et rendue publique par les organisations syndicales concernées lors du dépôt de leur liste. A défaut d'indication, la répartition des suffrages se fait à parts égales entre les organisations concernées. Cette répartition est mentionnée sur les listes de candidats affichées dans les établissements concernés.

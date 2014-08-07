@@ -46,8 +46,6 @@ Ecole nationale supérieure d'architecture de Versailles ;
 
 Ecole du Louvre ;
 
-Etablissement public Sèvres-Cité de la céramique ;
-
 Institut national du patrimoine ;
 
 Musée Gustave Moreau ;
@@ -58,4 +56,10 @@ Musée Guimet ;
 
 Musée d'Orsay ;
 
-Musée Rodin.
+Musée Rodin ;
+
+Etablissement public du château de Fontainebleau ;
+
+Etablissement public du musée des Civilisations de l'Europe et de la Méditerranée (MuCEM) ;
+
+Etablissement public du Musée national Picasso-Paris.
