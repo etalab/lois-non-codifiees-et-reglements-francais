@@ -4,7 +4,7 @@ I. - Tout agent du service interne de sécurité détenteur d'une autorisation n
 
 II. - Lors de l'exercice de missions justifiant le port d'arme, l'agent du service interne de sécurité porte celle-ci de façon continue et apparente.
 
-Les armes mentionnées au 1° de l'article 2 sont portées dans leur étui. Si elles sont approvisionnées, elles sont, suivant le type d'arme, en position de sécurité ou non armées.
+Les armes mentionnées au 1° de l'article 2, à l'exception du c, sont portées dans leur étui. Si elles sont approvisionnées, elles sont, suivant le type d'arme, en position de sécurité ou non armées.
 
 III. - A la fin du service, les armes remises à l'agent du service interne de sécurité et, le cas échéant, les munitions correspondantes sont réintégrées dans les coffres-forts ou armoires fortes de l'entreprise, conformément à l'article 9.
 
