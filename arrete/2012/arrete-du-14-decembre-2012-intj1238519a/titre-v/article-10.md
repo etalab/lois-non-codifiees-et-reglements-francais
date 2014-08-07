@@ -18,4 +18,6 @@ En application de l'article 29 du décret n° 2008-952 du 12 septembre 2008 susv
 
 ― le commandant de l'établissement central de l'administration et du soutien de la gendarmerie nationale ;
 
-― le commandant de la garde républicaine.
+― le commandant de la garde républicaine ;
+
+-le pôle judiciaire de la gendarmerie nationale.
