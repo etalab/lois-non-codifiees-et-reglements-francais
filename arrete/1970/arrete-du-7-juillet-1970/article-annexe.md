@@ -2,26 +2,21 @@
 
 COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES CORPS DE FONCTIONNAIRES DES SERVICES JUDICIAIRES APPARTENANT AUX CORPS DE L'ÉTAT POUR L'ADMINISTRATION DE LA POLYNÉSIE FRANÇAISE
 
+<div align="left">
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">COMMISSIONS </p>
-<br/>
-<p align="center">administratives paritaires</p>
+<p align="center">COMMISSIONS<br/>administratives paritaires</p>
 </td>
 <td colspan="2">
-<p align="center">REPRÉSENTANTS </p>
-<br/>
-<p align="center">de l'administration</p>
+<p align="center">REPRÉSENTANTS<br/>de l'administration</p>
 </td>
 <td>
 <p align="center">GRADES REPRÉSENTÉS</p>
 </td>
 <td colspan="2">
-<p align="center">REPRÉSENTANTS </p>
-<br/>
-<p align="center">du personnel</p>
+<p align="center">REPRÉSENTANTS<br/>du personnel</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +41,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 </tr>
 <tr>
 <td>
-<p align="center">Commission n° 1</p>
+<p align="center">Commission n° 8</p>
 </td>
 <td>
 <pre> </pre>
@@ -75,7 +70,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 <p align="center">3</p>
 </td>
 <td>
-<p>Greffier du premier grade</p>
+<p align="left">Greffier du premier grade</p>
 </td>
 <td>
 <p align="center">1</p>
@@ -95,7 +90,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 <pre> </pre>
 </td>
 <td>
-<p>Greffier du deuxième grade</p>
+<p align="left">Greffier du deuxième grade</p>
 </td>
 <td>
 <p align="center">2</p>
@@ -106,7 +101,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 </tr>
 <tr>
 <td>
-<p align="center">Commission n° 2</p>
+<p align="center">Commission n° 9</p>
 </td>
 <td>
 <pre> </pre>
@@ -135,7 +130,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 <p align="center">4</p>
 </td>
 <td>
-<p>Adjoint administratif principal de 1ere classe </p>
+<p align="left">Adjoint administratif principal de 1ere classe </p>
 </td>
 <td>
 <p align="center">1</p>
@@ -175,7 +170,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 <pre> </pre>
 </td>
 <td>
-<p>Adjoint administratif de 1ere classe</p>
+<p align="left">Adjoint administratif de 1ere classe</p>
 </td>
 <td>
 <p align="center">1</p>
@@ -195,7 +190,7 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 <pre> </pre>
 </td>
 <td>
-<p>Adjoint administratif de 2e classe</p>
+<p align="left">Adjoint administratif de 2e classe</p>
 </td>
 <td>
 <p align="center">1</p>
@@ -206,3 +201,4 @@ COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES COMPÉTENTES POUR LES COR
 </tr>
 </tbody>
 </table>
+</div>
