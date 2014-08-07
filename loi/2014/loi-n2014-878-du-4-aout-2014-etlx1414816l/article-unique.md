@@ -1,0 +1,3 @@
+# Article unique
+
+Sous réserve des décisions de justice passées en force de chose jugée, sont validés les contrats de cession, de location, de bail ou de concession d'usage autorisés et passés par la ville de Lyon et relatifs à des terrains compris dans le périmètre de la zone d'aménagement concerté du quartier central de Gerland, créée par arrêté du préfet du Rhône du 16 février 1983, en tant que leur légalité serait contestée par le moyen tiré de ce qu'ils n'ont pas été précédés d'un acte administratif constatant expressément que, après leur désaffectation, ces terrains avaient été déclassés du domaine public de la ville.
