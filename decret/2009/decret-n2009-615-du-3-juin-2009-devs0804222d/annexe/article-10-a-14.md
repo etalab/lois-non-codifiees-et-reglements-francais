@@ -462,7 +462,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   6113</p>
+<p align="center">D 6113</p>
 </td>
 <td>
 <br/>
@@ -484,7 +484,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   118</p>
+<p align="center">D 118</p>
 </td>
 <td>
 <br/>
@@ -618,7 +618,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   6313</p>
+<p align="center">D 6313</p>
 </td>
 <td>
 <br/>
@@ -826,7 +826,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   611</p>
+<p align="center">D 611</p>
 </td>
 <td>
 <br/>
@@ -1056,32 +1056,6 @@
 </td>
 <td>
 <br/>
-<p align="center">D 703</p>
-</td>
-<td>
-<br/>
-<p align="center">D 6139</p>
-</td>
-<td>
-<br/>
-<p align="center">PORT-LA-NOUVELLE</p>
-</td>
-<td>
-<br/>
-<p align="center">Extrémité</p>
-</td>
-<td>
-<br/>
-<p align="center">PORT-LA-NOUVELLE</p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-<p align="center">11</p>
-</td>
-<td>
-<br/>
 <p align="center">D 6113</p>
 </td>
 <td>
@@ -1250,7 +1224,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   6113</p>
+<p align="center">D 6113</p>
 </td>
 <td>
 <br/>
@@ -1264,7 +1238,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   533</p>
+<p align="center">D 533</p>
 </td>
 <td>
 <br/>
@@ -1294,7 +1268,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   533</p>
+<p align="center">D 533</p>
 </td>
 <td>
 <br/>
@@ -1394,11 +1368,11 @@
 </td>
 <td>
 <br/>
-<p align="center">D   809A</p>
+<p align="center">D 809A</p>
 </td>
 <td>
 <br/>
-<p align="center">D   809</p>
+<p align="center">D 809</p>
 </td>
 <td>
 <br/>
@@ -1424,7 +1398,7 @@
 </td>
 <td>
 <br/>
-<p align="center">Accès camp militaire  Les   Liquisses </p>
+<p align="center">Accès camp militaire Les Liquisses </p>
 </td>
 <td>
 <br/>
@@ -1640,7 +1614,7 @@
 </td>
 <td>
 <br/>
-<p align="center">Gare   SNCF</p>
+<p align="center">Gare SNCF</p>
 </td>
 <td>
 <br/>
@@ -2148,7 +2122,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   571</p>
+<p align="center">D 571</p>
 </td>
 <td>
 <br/>
@@ -2602,7 +2576,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   49A</p>
+<p align="center">D 49A</p>
 </td>
 <td>
 <br/>
@@ -3920,7 +3894,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   562A</p>
+<p align="center">D 562A</p>
 </td>
 <td>
 <br/>
@@ -4124,7 +4098,7 @@
 </td>
 <td>
 <br/>
-<p align="center">Rue de Caen et route de   Falaise</p>
+<p align="center">Rue de Caen et route de Falaise</p>
 </td>
 <td>
 <br/>
@@ -4258,7 +4232,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   572</p>
+<p align="center">D 572</p>
 </td>
 <td>
 <br/>
@@ -4358,7 +4332,7 @@
 </td>
 <td>
 <br/>
-<p align="center">D   579</p>
+<p align="center">D 579</p>
 </td>
 <td>
 <br/>
@@ -4596,7 +4570,7 @@
 </td>
 <td>
 <br/>
-<p align="center">Carrefour Boulevard Lyautey   et viaduc de la Cavée</p>
+<p align="center">Carrefour Boulevard Lyautey et viaduc de la Cavée</p>
 </td>
 <td>
 <br/>
