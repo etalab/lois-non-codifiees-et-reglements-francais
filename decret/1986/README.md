@@ -241,7 +241,6 @@
 - [Décret n°86-90 du 21 janvier 1986](decret-n86-90-du-21-janvier-1986)
 - [Décret n°86-985 du 21 août 1986](decret-n86-985-du-21-aout-1986)
 - [Décret n°85-1133 du 22 octobre 1985](decret-n85-1133-du-22-octobre-1985)
-- [Décret n°86-1301 du 22 décembre 1986](decret-n86-1301-du-22-decembre-1986)
 - [Décret n°86-1055 du 23 septembre 1986](decret-n86-1055-du-23-septembre-1986)
 - [Décret n°86-109 du 23 janvier 1986](decret-n86-109-du-23-janvier-1986)
 - [Décret n°86-1146 du 23 octobre 1986](decret-n86-1146-du-23-octobre-1986)
