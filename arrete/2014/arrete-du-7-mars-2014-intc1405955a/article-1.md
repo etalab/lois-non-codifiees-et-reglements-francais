@@ -2,7 +2,9 @@
 
 La liste des directions et services mentionnée à l'article 2 du décret du 21 juillet 2004 susvisé et permettant l'attribution d'une prime de résultats exceptionnels est fixée comme suit :
 
-Au titre de la direction générale de la police nationale
+Au titre de l'administration centrale du ministère de l'intérieur
+
+1. La direction générale de la police nationale :
 
 Le cabinet et les services qui lui sont rattachés ;
 
@@ -14,8 +16,6 @@ Les directions et services actifs de la police nationale :
 
 -la direction centrale de la police judiciaire ;
 
--la    direction générale de la sécurité intérieure ;
-
 -la direction centrale de la police aux frontières ;
 
 -la direction centrale des compagnies républicaines de sécurité ;
@@ -26,9 +26,11 @@ Les directions et services actifs de la police nationale :
 
 La direction des ressources et des compétences de la police nationale.
 
+2. La direction générale de la sécurité intérieure
+
 Au titre des services assurant une mission de soutien de la police nationale
 
-Les secrétariats généraux pour l'administration de la police nationale de Bordeaux, Lille, Lyon, Marseille, Metz, Rennes ;
+Les secrétariats généraux pour l'administration du ministère de l'intérieur de Bordeaux, Lille, Lyon, Marseille, Metz, Rennes ;
 
 Les secrétariats généraux des zones de défense et de sécurité de Paris, du Sud-Ouest, du Nord, du Sud-Est, du Sud, de l'Est et de l'Ouest ;
 
