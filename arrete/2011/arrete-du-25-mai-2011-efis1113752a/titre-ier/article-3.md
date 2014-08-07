@@ -12,7 +12,7 @@ Le collège B désigne trois représentants au conseil d'administration et leurs
 
 - un sous-collège B1 des personnels exerçant à titre principal des activités administratives et techniques au sein de l'ENSAI, incluant le directeur et le secrétaire général, qui désignent un représentant au sein du conseil d'administration ;
 
-- un sous-collège B2 des personnels exerçant à titre principal des activités administratives et techniques au sein de l'ENSAE, du CREST-Paris ou du CEPE, incluant les directeurs des établissements et le secrétaire général de l'ENSAE, qui désignent un représentant au sein du conseil d'administration ;
+- un sous-collège B2 des personnels exerçant à titre principal des activités administratives et techniques au sein de l'ENSAE, du CREST-Paris, du CASD et du CEPE, incluant les directeurs et les secrétaires généraux des établissements, qui désignent un représentant au sein du conseil d'administration ;
 
 - un sous-collège B3 des personnels exerçant à titre principal des activités administratives et techniques au sein de la direction et du secrétariat général du groupe, incluant le directeur général et le secrétaire général du groupe, qui désignent un représentant au sein du conseil d'administration.
 
