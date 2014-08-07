@@ -301,7 +301,6 @@
 - [Arrêté du 18 février 2005 (ECOP0500066A)](arrete-du-18-fevrier-2005-ecop0500066a)
 - [Arrêté du 18 février 2005 (EQUT0500271A)](arrete-du-18-fevrier-2005-equt0500271a)
 - [Arrêté du 18 février 2005 (MAEF0510007A)](arrete-du-18-fevrier-2005-maef0510007a)
-- [Arrêté du 18 février 2005 (MJSK0570032A)](arrete-du-18-fevrier-2005-mjsk0570032a)
 - [Arrêté du 18 février 2005 (SANH0520682A)](arrete-du-18-fevrier-2005-sanh0520682a)
 - [Arrêté du 18 février 2005 (SOCF0510318A)](arrete-du-18-fevrier-2005-socf0510318a)
 - [Arrêté du 18 janvier 2005 (SANS0520304A)](arrete-du-18-janvier-2005-sans0520304a)
