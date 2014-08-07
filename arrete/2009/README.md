@@ -2564,7 +2564,6 @@
 - [Arrêté du 29 avril 2009 (ECED0908221A)](arrete-du-29-avril-2009-eced0908221a)
 - [Arrêté du 29 avril 2009 (ESRH0907695A)](arrete-du-29-avril-2009-esrh0907695a)
 - [Arrêté du 29 avril 2009 (IMIK0909983A)](arrete-du-29-avril-2009-imik0909983a)
-- [Arrêté du 29 avril 2009 (LOGU0907606A)](arrete-du-29-avril-2009-logu0907606a)
 - [Arrêté du 29 avril 2009 (SASH0910587A)](arrete-du-29-avril-2009-sash0910587a)
 - [Arrêté du 29 avril 2009 (SASS0909227A)](arrete-du-29-avril-2009-sass0909227a)
 - [Arrêté du 29 décembre 1998 (AGRM9802457A)](arrete-du-29-decembre-1998-agrm9802457a)

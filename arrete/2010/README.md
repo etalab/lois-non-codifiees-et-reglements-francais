@@ -1929,7 +1929,6 @@
 - [Arrêté du 22 décembre 2010 (BCRS1033409A)](arrete-du-22-decembre-2010-bcrs1033409a)
 - [Arrêté du 22 décembre 2010 (DEFD1033280A)](arrete-du-22-decembre-2010-defd1033280a)
 - [Arrêté du 22 décembre 2010 (DEVK1024938A)](arrete-du-22-decembre-2010-devk1024938a)
-- [Arrêté du 22 décembre 2010 (DEVL1026928A)](arrete-du-22-decembre-2010-devl1026928a)
 - [Arrêté du 22 décembre 2010 (ETSD1030676A)](arrete-du-22-decembre-2010-etsd1030676a)
 - [Arrêté du 22 décembre 2010 (ETSD1033246A)](arrete-du-22-decembre-2010-etsd1033246a)
 - [Arrêté du 22 décembre 2010 (ETSS1033022A)](arrete-du-22-decembre-2010-etss1033022a)
