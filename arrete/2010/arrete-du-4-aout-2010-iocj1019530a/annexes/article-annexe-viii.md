@@ -7,39 +7,37 @@ La commission d'avancement mentionnée à l'article 9 se compose des officiers d
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">
-<br/>PRÉSIDENCE DE LA COMMISSION </p>
-<p align="center">titulaire</p>
-</td>
-<td>
-<p align="center">
-<br/>PRÉSIDENCE DE LA COMMISSION </p>
-<p align="center">suppléant</p>
-</td>
-<td>
-<p align="center">
-<br/>MEMBRES</p>
-</td>
+<th>
+<br/>PRÉSIDENCE <br/>
+<br/>de la commission titulaire <br/>
+</th>
+<th>
+<br/>PRÉSIDENCE <br/>
+<br/>de la commission suppléant <br/>
+</th>
+<th>
+<br/>MEMBRES <br/>
+</th>
 </tr>
 <tr>
 <td rowspan="2">
-<p align="left">
-<br/>Le chef d'état-major de la formation administrative.</p>
+<br/>Le commandant en second de région de gendarmerie, commandant en second de groupement chef-lieu d'implantation de la région de gendarmerie.<br/>
 </td>
-<td rowspan="2">
-<p align="left">
-<br/>L'officier le plus ancien dans le grade le plus élevé de l'état-major de la formation administrative.</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>/ <br/>
 </td>
 <td>
-<p align="left">
-<br/>Un officier du bureau des ressources humaines de la formation administrative désigné par le commandant de la formation administrative.</p>
+<br/>Un officier du bureau de la gestion du personnel militaire (1) de la formation administrative désigné par le commandant de la formation administrative. <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">
-<br/>Deux sous-officiers désignés par le commandant de la formation administrative.</p>
+<br/>Deux sous-officiers désignés par le commandant de la formation administrative. <br/>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="middle">
+<br/>(1) Pour les régions de gendarmerie non implantées au siège d'une zone de défense et de sécurité, lire :  bureau de la gestion du personnel .<br/>
 </td>
 </tr>
 </tbody>
