@@ -2,7 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Admissibilité aux concours externe et interne](chapitre-ier)
-- [Chapitre II : Admission aux concours externe et interne](chapitre-ii)
+- [Chapitre II : Pré-admission et admission aux concours externe et interne](chapitre-ii)
 - [Chapitre III : Dispositions communes](chapitre-iii)
 - [Chapitre IV : Dispositions diverses](chapitre-iv)
 - [Annexes](annexes)
