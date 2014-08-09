@@ -1,107 +1,127 @@
 # Article 2
 
-La commission des comptes de la santé comprend :
+La Commission des comptes de la santé comprend :
 
-a) Un président nommé par arrêté conjoint du ministre de l'économie et des finances, du ministre de la santé publique et de la sécurité sociale et du ministre de l'agriculture ;
+a) Un président nommé pour trois ans renouvelables par arrêté conjoint du ministre chargé de la santé, du ministre chargé de l'économie et des finances, du ministre chargé du budget et du ministre chargé de l'agriculture ;
 
-b) Un vice-président nommé par arrêté conjoint du ministre de la santé et de la sécurité sociale, du ministre de l'économie, du ministre du budget et du ministre de l'agriculture.
+b) Un vice-président en la qualité du directeur de la recherche, des études, de l'évaluation et des statistiques ;
 
-c) Douze membres représentant l'administration, désignés ci-après :
+c) Seize membres représentant l'administration, désignés ci-après :
 
-1. Au titre du ministère du travail et des affaires sociales :
+1. Au titre du ministère chargé de la santé :
 
-Le chef du service de l'inspection générale des affaires sociales ;
+-le secrétaire général ;
 
-Le directeur général de la santé ;
+-le chef du service de l'inspection générale des affaires sociales ;
 
-Le directeur de la sécurité sociale ;
+-le directeur général de la santé ;
 
-Le directeur des hôpitaux ;
+-le directeur de la sécurité sociale ;
 
-Le directeur de l'Institut national de la santé et de la recherche médicale ;
+-le directeur général de l'hospitalisation et de l'offre de soins,
 
-Le directeur de l'Agence du médicament.
+- ou leurs représentants respectifs.
 
-2. Au titre du ministère de l'économie :
+2. Au titre des organismes ou institutions rattachés au ministère chargé de la santé :
 
-Le directeur de la prévision ;
+-le directeur de l'Institut national de la santé et de la recherche médicale ;
 
-Le directeur général de l'I. N. S. E. E.,
+-le directeur de l'Agence nationale de sécurité du médicament et des produits de santé ;
 
-ou leurs représentants respectifs.
+-le président du Comité économique des produits de santé ;
 
-3. Au titre du ministère du budget :
+-le directeur général de l'Institut national de prévention et d'éducation sanitaire ;
 
-Le directeur du budget ;
-
-Le directeur de la comptabilité publique,
+-le directeur de l'Agence technique de l'information sur l'hospitalisation.
 
 ou leurs représentants respectifs.
 
-4. Au titre du ministère de l'agriculture :
+3. Au titre du ministère chargé de l'économie et des finances :
 
-Le directeur des affaires sociales ou son représentant.
+-le directeur général du Trésor ;
 
-5. Le Commissaire général à la stratégie et à la prospective ou son représentant.
+-le directeur général de l'Institut national de la statistique et des études économiques (INSEE),
 
-d) Vingt-quatre membres représentant les organismes nationaux publics ou privés désignés ci-après, à raison d'un représentant par organisme :
+-ou leurs représentants respectifs.
+
+4. Au titre du ministère chargé du budget :
+
+-le directeur du budget ;
+
+-le directeur général des finances publiques ;
+
+ou leurs représentants respectifs.
+
+5. Au titre du ministère chargé de l'agriculture :
+
+-le secrétaire général ou son représentant.
+
+6. Le commissaire général à la stratégie et à la prospective ou son représentant.
+
+d) Vingt-six membres représentant les organismes ou professions de santé, désignés ci-après, à raison d'un représentant par organisme :
 
 1. Caisses d'assurance maladie :
 
-Caisse nationale d'assurance maladie des travailleurs salariés ;
+-caisse nationale d'assurance maladie des travailleurs salariés ;
 
-Caisse nationale d'assurance maladie des travailleurs non salariés des professions non-agricoles ;
+-régime social des indépendants ;
 
-Caisses centrales de mutualité sociale agricole.
+-caisse centrale de mutualité sociale agricole.
 
-2. Organisations professionnelles de médecins :
+2. Organisations représentant les professionnels de santé :
 
-Confédération des syndicats médicaux français ;
+-Confédération des syndicats médicaux français (CSMF) ;
 
-Fédération des médecins de France ;
+-Fédération des médecins de France (FMF) ;
 
-Fédération française des médecins généralistes ;
+-Fédération française des médecins généralistes (MG France) ;
 
-Union collégiale des chirurgiens et spécialistes français ;
+-Syndicat national des médecins, chirurgiens, spécialistes et biologistes des hôpitaux publics (SNAM-HP) ;
 
-Syndicat national des médecins, chirurgiens, spécialistes et biologistes des hôpitaux publics ;
+-Intersyndicale nationale des médecins hospitaliers ;
 
-Intersyndicale nationale des médecins hospitaliers ;
+-Fédération nationale des médecins salariés ;
 
-Fédération nationale des médecins salariés.
+-le Bloc ;
 
-3. Centre national des professions de santé (deux représentants).
+-le Syndicat des médecins libéraux (SML) ;
 
-4. Organismes représentant les établissements hospitaliers :
+-Fédération des syndicats pharmaceutiques de France (FSPF) ;
 
-Fédération hospitalière de France ;
+-Confédération nationale des syndicats dentaires (CNSD) ;
 
-Fédération des établissements d'hospitalisation et d'assistance privés ;
+-Fédération nationale des orthophonistes (FNO) ;
 
-Union hospitalière privée ;
+-Fédération nationale des infirmiers (FNI).
 
-Fédération intersyndicale des établissements d'hospitalisation privés.
+3. Organismes représentant les établissements hospitaliers :
 
-5. Syndicat national de l'industrie pharmaceutique.
+-Fédération hospitalière de France (FHF) ;
 
-6. Comité français d'éducation pour la santé.
+-Fédération des établissements hospitaliers et d'aide à la personne (FEHAP) ;
 
-7. Institut de recherche et de documentation en économie de la santé.
+-Fédération hospitalière privée (FHP) ;
 
-8. Fédérations des mutuelles :
+-Fédération nationale des établissements d'hospitalisation à domicile (FNEHAD) ;
 
-Fédération nationale de la mutualité française ;
+-fédération UNICANCER.
 
-Fédération des mutuelles de France ;
+4. Les entreprises du médicament (LEEM).
 
-Fédération nationale interprofessionnelle des mutuelles.
+5. Syndicat national de l'industrie des technologies médicales (SNITEM).
 
-9. Centre technique des institutions de prévoyance.
+6. Institut de recherche et de documentation en économie de la santé.
 
-10. Fédération française des sociétés d'assurances.
+7. Fédération nationale de la mutualité française.
 
-e) Le secrétaire général de la commission des comptes de la sécurité sociale.
+8. Centre technique des institutions de prévoyance.
 
-f) Le président du Comité économique du médicament.
+9. Fédération française des sociétés d'assurances.
 
-g) Le président du Haut Conseil de l'avenir de l'assurance maladie ou son représentant.
+e) Le secrétaire général de la commission des comptes de la sécurité sociale ;
+
+f) Le président du haut conseil pour l'avenir de l'assurance maladie ou son représentant ;
+
+g) Le président de la Haute Autorité de santé ou son représentant ;
+
+h) Quatorze personnalités, nommées pour trois ans renouvelables, par arrêté conjoint des ministres chargés de la santé, de l'économie et des finances, de l'agriculture et du budget.

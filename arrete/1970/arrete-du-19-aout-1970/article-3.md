@@ -1,3 +1,3 @@
 # Article 3
 
-Le secrétaire général de la commission est désigné par le ministre de la santé publique et de la sécurité sociale.
+Le secrétariat de la commission est assuré par la direction de la recherche, des études, de l'évaluation et des statistiques.
