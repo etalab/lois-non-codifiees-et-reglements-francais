@@ -8,6 +8,8 @@ I. ― Le recrutement en vue de servir en tant que sous-officier est ouvert aux 
 
 Ces conditions s'apprécient au 1er mai de l'année du recrutement.
 
+Par dérogation au 1, les auxiliaires sanitaires candidats au recrutement interne d'infirmier doivent se situer au plus tôt dans la troisième année à compter de la prise d'effet du contrat d'engagement et au plus tard dans la neuvième année.
+
 II. ― Les candidats au recrutement se présentent aux examens suivants :
 
 1° Une ou plusieurs épreuves sportives selon les spécialités ou spécialisations pour lesquelles les candidats postulent ;
