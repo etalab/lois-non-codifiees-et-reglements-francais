@@ -353,7 +353,6 @@
 - [Arrêté du 12 novembre 1997 (MESP9723508A)](arrete-du-12-novembre-1997-mesp9723508a)
 - [Arrêté du 12 septembre 1997 (DEFM9701913A)](arrete-du-12-septembre-1997-defm9701913a)
 - [Arrêté du 12 septembre 1997 (EQUA9701471A)](arrete-du-12-septembre-1997-equa9701471a)
-- [Arrêté du 12 septembre 1997 (EQUP9701257A)](arrete-du-12-septembre-1997-equp9701257a)
 - [Arrêté du 12 septembre 1997 (EQUS9701226A)](arrete-du-12-septembre-1997-equs9701226a)
 - [Arrêté du 12 septembre 1997 (EQUS9701229A)](arrete-du-12-septembre-1997-equs9701229a)
 - [Arrêté du 12 septembre 1997 (MESS9722853A)](arrete-du-12-septembre-1997-mess9722853a)

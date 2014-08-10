@@ -1028,7 +1028,6 @@
 - [Arrêté du 27 juin 2008 (AGRF0818980A)](arrete-du-27-juin-2008-agrf0818980a)
 - [Arrêté du 27 novembre 2008 (AGRG0826662A)](arrete-du-27-novembre-2008-agrg0826662a)
 - [Arrêté du 27 novembre 2008 (BCFZ0828223A)](arrete-du-27-novembre-2008-bcfz0828223a)
-- [Arrêté du 27 novembre 2008 (DEVK0827006A)](arrete-du-27-novembre-2008-devk0827006a)
 - [Arrêté du 27 novembre 2008 (DEVK0828433A)](arrete-du-27-novembre-2008-devk0828433a)
 - [Arrêté du 27 novembre 2008 (IOCA0828110A)](arrete-du-27-novembre-2008-ioca0828110a)
 - [Arrêté du 27 novembre 2008 (IOCD0827036A)](arrete-du-27-novembre-2008-iocd0827036a)
