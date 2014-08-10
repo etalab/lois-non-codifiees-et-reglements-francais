@@ -1,0 +1,3 @@
+# Article 27
+
+Pour l'application du 11 du I de l'article 278 sexies du code général des impôts, le taux de la taxe sur la valeur ajoutée reste fixé à 5,5 % pour les opérations pour lesquelles la demande de permis de construire a été déposée avant le 31 décembre 2015 et pour les opérations réalisées en application d'un traité de concession d'aménagement défini à l'article L. 300-5 du code de l'urbanisme signé avant cette même date, soit situées dans les quartiers faisant l'objet d'une convention prévue à l'article 10 de la loi n° 2003-710 du 1er août 2003 d'orientation et de programmation pour la ville et la rénovation urbaine dont la date d'échéance intervient en 2014, soit entièrement situées à moins de 300 mètres de la limite de ces quartiers.

@@ -7,4 +7,6 @@
 - [LOI n°2014-873 du 4 août 2014 (FVJX1313602L)](loi-n2014-873-du-4-aout-2014-fvjx1313602l)
 - [LOI n°2014-877 du 4 août 2014 (ERNX1410322L)](loi-n2014-877-du-4-aout-2014-ernx1410322l)
 - [LOI n°2014-878 du 4 août 2014 (ETLX1414816L)](loi-n2014-878-du-4-aout-2014-etlx1414816l)
+- [LOI n°2014-891 du 8 août 2014 (FCPX1412391L)](loi-n2014-891-du-8-aout-2014-fcpx1412391l)
+- [LOI n°2014-892 du 8 août 2014 (FCPX1412917L)](loi-n2014-892-du-8-aout-2014-fcpx1412917l)
 - [Loi n°78-763 du 19 juillet 1978](loi-n78-763-du-19-juillet-1978)
