@@ -1,6 +1,6 @@
 # Article 63
 
-I.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement du fonds pour la modernisation des établissements de santé publics et privés est fixé à 263,34 millions d'euros pour l'année 2014.
+I.-Le montant de la participation des régimes obligatoires d'assurance maladie au financement du fonds pour la modernisation des établissements de santé publics et privés est fixé à      103,34 millions d'euros pour l'année 2014.
 
 II.-Le montant de la dotation des régimes obligatoires d'assurance maladie pour le financement de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales, mentionné à l'article L. 1142-23 du code de la santé publique, est fixé à 138 millions d'euros pour l'année 2014.
 

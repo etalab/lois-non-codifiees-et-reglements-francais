@@ -20,7 +20,7 @@ c) Il est ajouté un alinéa ainsi rédigé :
 
 4° Avant le dernier alinéa de l'article L. 834-1, il est inséré un alinéa ainsi rédigé :
 
-" Le plafond mentionné aux troisième et quatrième alinéas est le plafond défini au I de l'article 28-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 modifiée relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte. ” ;
+" Le plafond mentionné au présent 1° est le plafond défini au I de l'article 28-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 modifiée relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte. ” ;
 
 5° L'article L. 835-3 est ainsi modifié :
 
