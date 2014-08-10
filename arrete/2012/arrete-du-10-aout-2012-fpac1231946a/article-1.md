@@ -427,8 +427,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">Rouen business school<br/>
-</td>
+<td align="left" valign="top">NEOMA Business School</td>
 </tr>
 <tr>
 <td align="left" valign="top">III<br/>
@@ -679,8 +678,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">BGE Sud-Ouest<br/>
-</td>
+<td align="left" valign="top">BGE Sud-Ouest</td>
 </tr>
 <tr>
 <td align="left" valign="top">II<br/>
@@ -715,8 +713,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Rouen business school<br/>
-</td>
+<td align="left" valign="top">NEOMA Business School</td>
 </tr>
 <tr>
 <td align="left" valign="top">II<br/>
@@ -1181,8 +1178,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Savoie décision<br/>
-</td>
+<td align="left" valign="top">
+<br/>FORMATIVES</td>
 </tr>
 <tr>
 <td align="left" valign="top">I<br/>

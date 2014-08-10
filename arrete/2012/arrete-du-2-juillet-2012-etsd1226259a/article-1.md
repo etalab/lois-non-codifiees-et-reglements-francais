@@ -475,8 +475,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">La compagnie de formation ― Mercure Academy <br/>
-</td>
+<td align="center">La compagnie de formation-MBWAY</td>
 </tr>
 <tr>
 <td align="center">II<br/>

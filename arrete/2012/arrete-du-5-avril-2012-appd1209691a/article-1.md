@@ -1395,8 +1395,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td valign="top" width="61">
 <p align="center">3 ans</p>
 </td>
-<td valign="top" width="263">
-<p>Bureau de contrôle O2 diagnostics - O2 formations</p>
+<td valign="top" width="263">Saint Honoré audit-Qualit'compétences<br/>
 </td>
 </tr>
 <tr>
@@ -1753,7 +1752,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Association internationale pour la formation (AIPF) </p>
+<p>Association internationale pour la formation (AIPF)</p>
 </td>
 </tr>
 <tr>

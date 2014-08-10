@@ -7,16 +7,24 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <table>
 <tbody>
 <tr>
-<th>NIVEAU<br/>
-</th>
-<th>INTITULÉ<br/>de la certification professionnelle<br/>
-</th>
-<th>CODE NSF<br/>
-</th>
-<th>DURÉE<br/>
-</th>
-<th>ORGANISME<br/>délivrant la certification professionnelle<br/>
-</th>
+<td>
+<p align="center">NIVEAU<br/>
+</p>
+</td>
+<td>
+<p align="center">INTITULÉ<br/>de la certification professionnelle<br/>
+</p>
+</td>
+<td>
+<p align="center">CODE NSF</p>
+</td>
+<td>
+<p align="center">DURÉE</p>
+</td>
+<td>
+<p align="center">ORGANISME<br/>délivrant la certification professionnelle<br/>
+</p>
+</td>
 </tr>
 <tr>
 <td align="center">IV<br/>
@@ -189,7 +197,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">III<br/>
 </td>
-<td align="center">Comptable des services financiers ― option gestion des matériels ― option comptabilité des matériels <br/>
+<td align="center">Comptable des services financiers ― option "gestion des matériels" ― option "comptabilité des matériels" <br/>
 </td>
 <td align="center">314t<br/>
 </td>
@@ -363,7 +371,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">ESGCV - ESGRH (Ecoles supérieures de gestion des ressources humaines)</td>
+<td align="center">ESGCV - ESGRH (Ecoles supérieures de gestion des ressources humaines)<br/>
+</td>
 </tr>
 <tr>
 <td align="center">II<br/>
@@ -530,7 +539,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">2 ans<br/>
 </td>
-<td align="center">Savoie décision<br/>
+<td align="center">FORMATIVES<br/>
 </td>
 </tr>
 <tr>
@@ -601,7 +610,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">KEDGE business school</td>
+<td align="center">KEDGE business school<br/>
+</td>
 </tr>
 <tr>
 <td align="center">I<br/>
