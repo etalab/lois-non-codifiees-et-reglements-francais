@@ -8,9 +8,6 @@ I. A.-A modifié les dispositions suivantes :
 > >
 > >
 > >
-> >
-> >
-> >
 > > B. ― Sauf dispositions contraires, les modalités d'application du A sont fixées par décret en Conseil d'Etat.
 
 C. ― Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2010. La date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe prévue au A est fixée par arrêté conjoint des ministres chargés des transports et du budget.
@@ -22,7 +19,7 @@ II. A.-A créé les dispositions suivantes :
 
 B. ― Sauf dispositions contraires, les modalités d'application du A sont fixées par décret en Conseil d'Etat.
 
-C. ― 1. Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2011. La date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe prévue au A est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+C. ― 1. Le A entre en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe prévue au A est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 2. L'article 285 septies du code des douanes est abrogé à compter de la date de mise en œuvre du dispositif technique nécessaire à la collecte de la taxe mentionnée au 1.
 

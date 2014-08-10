@@ -4,11 +4,11 @@ I.-Il est ouvert un compte d'affectation spéciale intitulé : Financement natio
 
 1° En recettes :
 
-a) La part du quota mentionnée au deuxième alinéa de l'article L. 6241-2 du code du travail ;
+a) La fraction mentionnée au I de l'article L. 6241-2 du code du travail ;
 
 b) Les versements opérés au Trésor public en application de la section 3 du chapitre II du titre V du livre II de la sixième partie du même code ;
 
-c) Le produit de la contribution supplémentaire prévue à l'article 230 H du code général des impôts ;
+c) Le produit de la contribution supplémentaire prévue à l'article 1609 quinvicies du code général des impôts ;
 
 d) Les fonds de concours ;
 

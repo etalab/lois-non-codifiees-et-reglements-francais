@@ -280,7 +280,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre national de la chanson, des variétés et du jazz (CNV) <br/>
 </td>
 <td align="left" valign="top">
-<br/>24 000 <br/>
+<br/>28 000 <br/>
 </td>
 </tr>
 <tr>
@@ -490,7 +490,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Organismes bénéficiaires de la redevance d'archéologie préventive </p>
 </td>
 <td align="left" valign="top">
-<p align="left">122 000 </p>
+<p align="left">118 000 </p>
 </td>
 </tr>
 <tr>
