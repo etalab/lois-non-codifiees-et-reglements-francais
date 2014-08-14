@@ -2,17 +2,17 @@
 
 ÉQUIPEMENTS DE CONTRÔLE
 
-Dans la présente annexe, la "conformité à une norme" signifie la conformité à cette norme ou à des prescriptions reconnues équivalentes en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
+Dans la présente annexe, la " conformité à une norme " signifie la conformité à cette norme ou à des prescriptions reconnues équivalentes en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
 
-Dans les installations de contrôle faisant l'objet d'un premier agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
+Dans les installations de contrôle faisant l'objet d'un premier agrément, le matériel visé aux points 1.1,1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
-Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel visé aux points 1.1, 1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concernés applicables, y compris la transmission informatique entre le matériel et l'informatique de l'installation, dans les six mois qui suivent le nouvel agrément.
+Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel visé aux points 1.1,1.2 et 1.5 est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concernés applicables, y compris la transmission informatique entre le matériel et l'informatique de l'installation, dans les six mois qui suivent le nouvel agrément.
 
-Dans les installations déjà agréées et dans le cadre du même agrément, un délai de douze mois est accordé pour la mise en conformité du matériel visé aux points 1.1, 1.2 et 1.5 quand une nouvelle version de norme ou de cahier des charges est applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
+Dans les installations déjà agréées et dans le cadre du même agrément, un délai de douze mois est accordé pour la mise en conformité du matériel visé aux points 1.1,1.2 et 1.5 quand une nouvelle version de norme ou de cahier des charges est applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
-En cas de remplacement d'un matériel visé aux points 1.1, 1.2 et 1.5 sur une installation agréée, le nouveau matériel visé aux points 1.1, 1.2 et 1.5 est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
+En cas de remplacement d'un matériel visé aux points 1.1,1.2 et 1.5 sur une installation agréée, le nouveau matériel visé aux points 1.1,1.2 et 1.5 est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable, y compris la transmission informatique entre le matériel et l'informatique de l'installation.
 
-Dans le cas particulier des dispositifs de contrôle du réglage des feux d'éclairage, la mise à niveau est effectuée au plus tard le 1er janvier 2015.
+Dans le cas particulier des dispositifs de contrôle du réglage des feux d'éclairage, la mise à niveau est effectuée au plus tard le 1er juillet 2016.
 
 Les équipements suivants transmettent les mesures par liaison informatique :
 
@@ -22,11 +22,11 @@ Les équipements suivants transmettent les mesures par liaison informatique :
 
 -dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes (disposition applicable à compter du 1er janvier 2011) ;
 
--dispositif de contrôle du réglage des feux d'éclairage (à compter du 1er janvier 2015).
+-dispositif de contrôle du réglage des feux d'éclairage (à compter du 1er juillet 2016).
 
 La liste des mesures transmises par liaison informatique est définie dans le protocole prévu au point c de l'article 38 du présent arrêté.
 
-Pour chaque matériel de contrôle visé aux points 1.1, 1.2 et 1.5, les normes ou cahiers des charges concernés applicables ainsi que les dates de mise en application dans les installations de contrôle sont définis dans une liste approuvée par le ministre chargé des transports, tenue à jour par l'organisme technique central et disponible sur le site internet de l'organisme technique central.
+Pour chaque matériel de contrôle visé aux points 1.1,1.2 et 1.5, les normes ou cahiers des charges concernés applicables ainsi que les dates de mise en application dans les installations de contrôle sont définis dans une liste approuvée par le ministre chargé des transports, tenue à jour par l'organisme technique central et disponible sur le site internet de l'organisme technique central.
 
 1. Equipements mécaniques
 
@@ -68,7 +68,7 @@ Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées ém
 
 1.5.2. Le cahier des charges est disponible sur demande après des services du ministre chargé des transports.
 
-La conformité du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1. 5. 1 est démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO / CEI 17025.
+La conformité du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1.5.1 est démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC) ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO/ CEI 17025.
 
 1.6. Outil de mesure de la résistance électrique.
 
@@ -88,21 +88,21 @@ Un outil de mesure de la résistance électrique disposant au minimum d'un calib
 
 1.8.2. Les matériels visés au point 1.1.1 et conformes au cahier des charges cité à ce point et ceux visés aux points 1.2.1 et 1.4 de la présente annexe font l'objet :
 
-- d'un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas huit mois ;
+-d'un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas huit mois ;
 
-- d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
+-d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
 
 Les opérations d'étalonnage et de maintenance préventive font l'objet d'un contrat avec un organisme habilité ou agréé pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles. Le contrat comporte un engagement de respect des dates réglementaires et un engagement à ne faire intervenir que des personnels qualifiés pour les matériels concernés.
 
 1.8.3. Le matériel visé au point 1.2.2 de la présente annexe fait l'objet :
 
-- d'un minimum d'un étalonnage par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas quatorze mois ;
+-d'un minimum d'un étalonnage par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas quatorze mois ;
 
-- d'un minimum d'une visite de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas quatorze mois.
+-d'un minimum d'une visite de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas quatorze mois.
 
 1.8.4. Le matériel visé au 1.6 de la présente annexe fait l'objet d'un étalonnage tous les vingt-quatre mois.
 
-1.8.5. Les matériels prévus aux points 1.1.1, et conformes au cahier des charges cité à ce point, 1.2.1, 1.4 et 1.5.1 de la présente annexe font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné, dans le respect de l'approbation métrologique le cas échéant. Cette disposition est formalisée par un contrat de maintenance.
+1.8.5. Les matériels prévus aux points 1.1.1, et conformes au cahier des charges cité à ce point, 1.2.1,1.4 et 1.5.1 de la présente annexe font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné, dans le respect de l'approbation métrologique le cas échéant. Cette disposition est formalisée par un contrat de maintenance.
 
 1.8.6. En cas de défaut :
 
@@ -114,7 +114,7 @@ b) Des méthodes alternatives prévues dans les procédures de l'installation de
 
 1.8.8. Les opérations d'installation, d'étalonnage, de maintenance, de vérification de conformité en service des différents matériels sont réalisées conformément aux cahiers des charges définis par l'organisme technique central et approuvés par le ministre chargé des transports.
 
-1.8.9. Toute installation/ mise en service d'un matériel visé aux points 1.1.1, 1.2.1, 1.4 et 1.5 s'accompagne d'un contrôle de la liaison informatique entre l'appareil de contrôle et l'outil informatique conformément au cahier des charges établis par l'organisme technique central et approuvé par le ministre chargé des transports.
+1.8.9. Toute installation/ mise en service d'un matériel visé aux points 1.1.1,1.2.1,1.4 et 1.5 s'accompagne d'un contrôle de la liaison informatique entre l'appareil de contrôle et l'outil informatique conformément au cahier des charges établis par l'organisme technique central et approuvé par le ministre chargé des transports.
 
 2. Equipements informatiques
 
@@ -158,7 +158,7 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 -le numéro du châssis de la frappe à froid ;
 
-- l'état de charge du véhicule ;
+-l'état de charge du véhicule ;
 
 -les valeurs de l'efficacité des dispositifs de freinage relevées en l'absence de transmission des mesures entre le freinomètre à rouleaux et le micro-ordinateur ;
 
@@ -232,7 +232,7 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 -véhicule-école TCP ;
 
-- véhicule électrique ou hybride (disposition applicable au 10 janvier 2014) ;
+-véhicule électrique ou hybride (disposition applicable au 10 janvier 2014) ;
 
 -le numéro du procès-verbal de contrôle ;
 
