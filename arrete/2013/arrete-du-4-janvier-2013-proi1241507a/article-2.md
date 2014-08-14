@@ -49,11 +49,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du bureau de la sécurité des équipements industriels à la direction générale de la prévention des risques. (Supprimé le 1er janvier 2014)</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p align="left">Chef du service climat-énergie de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine.</p>
 </td>
 </tr>
@@ -64,27 +59,12 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de service énergie, construction, climat, air (SECCA) de la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie. (Supprimé le 1er août 2013)</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement du Centre. (Supprimé le 1er octobre 2013)</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p align="left">Chef du centre national de réception des véhicules à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale de Moselle à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale du Tarn - Aveyron à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.</p>
 </td>
 </tr>
 <tr>
@@ -114,16 +94,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Ajouté le 1er juillet 2013) (Supprimé le 1er octobre 2013)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chargé de mission à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er septembre 2013) (Supprimé le 1er février 2014)</p>
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
 <p align="left">Chef de l'unité risques technologiques et miniers à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes. (Ajouté le 1er juillet 2013)</p>
 </td>
@@ -136,16 +106,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 <tr>
 <td>
 <p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai. (Ajouté le 1er juin 2013)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chef du service développement économique et innovation au sein de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Provence-Alpes-Côte d'Azur. (Ajouté le 14 juin 2013, supprimé à compter du 23 avril 2014) </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chef de l'unité territoriale d'Angers de la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire. (Ajouté le 1er juillet 2013)</p>
 </td>
 </tr>
 <tr>

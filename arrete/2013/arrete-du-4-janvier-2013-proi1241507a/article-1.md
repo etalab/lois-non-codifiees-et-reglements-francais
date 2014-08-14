@@ -23,11 +23,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services. (Supprimé le 1er février 2014)</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
 <p align="left">Chargé de mission fonds stratégique d'investissement auprès du directeur général de la compétitivité, de l'industrie et des services.</p>
 </td>
 </tr>
@@ -66,11 +61,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chargé de mission auprès du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne. (Ajouté à compter du 28 octobre 2013, supprimé à compter du 1er mai 2014)</p>
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
 <p align="left">Chef du service accompagnement du développement et des mutations économiques à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Champagne-Ardenne.<br/>
 </p>
@@ -79,12 +69,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <tr>
 <td align="left" valign="top">
 <p align="left">Chef du service compétitivité, innovation et international au sein du pôle entreprises, emploi et économie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Franche-Comté.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chef du pôle 3E à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie. (Supprimé le 15 février 2014)<br/>
 </p>
 </td>
 </tr>
@@ -110,11 +94,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <td align="left" valign="top">
 <p align="left">Chef du service compétitivité et compétence des entreprises, développement international, adjoint au chef du pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Picardie.<br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chef du département compétitivité de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
@@ -271,11 +250,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chargé de mission à la direction régionale de l'environnement, de l'aménagement et du logement de Basse-Normandie. (Ajouté le 1er octobre 2013) </p>
-</td>
-</tr>
-<tr>
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne.<br/>
 </p>
@@ -406,6 +380,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
+<p align="left">Adjoint au chef de service du développement des entreprises et mutations économiques à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du Languedoc-Roussillon. (Ajouté à compter du 1er mai 2014)</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="left">Chef de l'unité territoriale de l'Hérault à la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon. (Ajouté à compter du 1er mars 2014)</p>
 </td>
 </tr>
@@ -438,6 +417,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale de la Haute-Garonne à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chef de l'unité territoriale du Tarn-Aveyron à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées. (Ajouté à compter du 12 juillet 2014)</p>
 </td>
 </tr>
 <tr>
@@ -477,9 +461,19 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Chef du service développement de la compétitivité, des compétences, innovation et mutations économiques à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Nord-Pas-de-Calais. (Ajouté à compter du 1er mai 2014)</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale de Nantes à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Chef de l'unité territoriale d'Angers de la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire. (Supprimé le 1er juillet 2013 et réajouté à compter du 7 juillet 2014)</p>
 </td>
 </tr>
 <tr>
@@ -491,12 +485,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <tr>
 <td align="left" valign="top">
 <p align="left">Chef du service risques technologiques et naturels (SRTN) de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chef de la mission stratégie, performance et qualité (MSPQ) de la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes.<br/>
 </p>
 </td>
 </tr>
@@ -530,11 +518,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <tr>
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale des deux Savoie à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale Drôme-Ardèche à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes.</p>
 </td>
 </tr>
 <tr>
