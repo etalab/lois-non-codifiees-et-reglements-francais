@@ -1,6 +1,6 @@
 # Article 3
 
-L'établissement de placement éducatif Atrebatie exerce les missions suivantes :
+L'établissement de placement éducatif Liévin Atrebatie exerce les missions suivantes :
 
 ― l'accueil en hébergement de mineurs, et exceptionnellement de jeunes majeurs, confiés par les juridictions au titre de la législation relative à l'enfance délinquante ;
 

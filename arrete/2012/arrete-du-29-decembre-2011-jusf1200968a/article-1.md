@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé un établissement de placement éducatif (EPE) de la protection judiciaire de la jeunesse, dénommé « Atrebatie », sis 1-3, rue Galilée, 62800 Liévin.
+Il est créé un établissement de placement éducatif de la protection judiciaire de la jeunesse, dénommé " EPE Liévin Atrebatie ", sis 78, rue Romy-Schneider, 62800 Liévin.
