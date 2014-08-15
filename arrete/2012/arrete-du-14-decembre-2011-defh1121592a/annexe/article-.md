@@ -28,7 +28,7 @@ Val-d'Oise (95).
 
 3. Des agents affectés à l'étranger, à l'exception du personnel exerçant en Allemagne et du personnel en poste permanent à l'étranger.
 
-4. Des agents en fonctions dans les sociétés DCNS, GIAT/ NEXTER et au Commissariat à l'énergie atomique et aux énergies alternatives.
+4. Abrogé.
 
 5. Des agents civils appartenant aux corps et catégories suivants :
 
@@ -47,6 +47,16 @@ Val-d'Oise (95).
 ― ouvriers de l'Etat relevant de la branche 9 et de la branche 15 affectés au sein du service de santé des armées.
 
 6. Des agents en fonctions au sein de la direction de la protection et de la sécurité de la défense.
+
+Des agents de l'Agence de reconversion de la défense en fonctions dans les antennes du pôle défense mobilité
+
+de Paris suivantes :
+
+-Bourges (Cher) ;
+
+-Tours (Indre-et-Loire) ;
+
+-Orléans (Loiret).
 
 II. ― Le centre ministériel de gestion de Metz est chargé de l'administration et de la gestion des agents en fonctions :
 
@@ -98,9 +108,7 @@ Territoire de Belfort (90).
 
 2. En Allemagne.
 
-III (Supprimé)
-
-IV.-Le centre ministériel de gestion de Rennes est chargé de l'administration et de la gestion des agents en fonction dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
+III.-Le centre ministériel de gestion de Rennes est chargé de l'administration et de la gestion des agents en fonction dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Calvados (14).
 
@@ -142,7 +150,7 @@ Seine-Maritime (76).
 
 Vendée (85).
 
-V. ― Le centre ministériel de gestion de Bordeaux est chargé de l'administration et de la gestion des agents en fonctions :
+IV. ― Le centre ministériel de gestion de Bordeaux est chargé de l'administration et de la gestion des agents en fonctions :
 
 1. Dans les organismes implantés dans les départements suivants à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
@@ -188,7 +196,7 @@ Haute-Vienne (87).
 
 2. A DGA essais de missiles.
 
-VI.-Le centre ministériel de gestion de Toulon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants, à l'exception des agents gérés par le service de soutien de l'administration centrale :
+V.-Le centre ministériel de gestion de Toulon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants, à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Corse-du-Sud (2A).
 
@@ -216,7 +224,7 @@ Var (83).
 
 Vaucluse (84).
 
-VII. ― Le centre ministériel de gestion de Lyon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants, à l'exception des agents gérés par le service de soutien de l'administration centrale :
+VI. ― Le centre ministériel de gestion de Lyon est chargé de l'administration et de la gestion des agents en fonctions dans les organismes implantés dans les départements suivants, à l'exception des agents gérés par le service de soutien de l'administration centrale :
 
 Ain (01).
 
@@ -242,7 +250,7 @@ Savoie (73).
 
 Haute-Savoie (74).
 
-VIII.-Par dérogation à la répartition des compétences entre les centres ministériels de gestion selon le lieu d'implantation des organismes :
+VII.-Par dérogation à la répartition des compétences entre les centres ministériels de gestion selon le lieu d'implantation des organismes :
 
 1. Le centre ministériel de gestion de Bordeaux est chargé de l'administration et de la gestion :
 
@@ -273,3 +281,9 @@ g) Le centre de la sécurité de défense et des systèmes d'information ;
 h) Le centre de prestations de proximité des ressources humaines ;
 
 i) DGA techniques navales.
+
+5. Le centre ministériel de gestion de Lyon est chargé de l'administration et de la gestion :
+
+a) Des agents en fonctions dans les sociétés DCNS et GIAT/ NEXTER ;
+
+b) Des agents en fonctions au sein du Commissariat à l'énergie atomique et aux énergies alternatives.

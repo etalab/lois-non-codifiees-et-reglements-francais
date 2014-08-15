@@ -97,7 +97,14 @@ Adjoints administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- établissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense <br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>
+<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- établissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau</p>Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :<br/>
+<p>
+<br/>- Bourges (Cher) ;<br/>
+<br/>- Tours (Indre-et-Loire) ;<br/>
+<br/>- Orléans (Loiret). </p>
+<p align="left">
+<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -193,7 +200,8 @@ Adjoints administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan <br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan</p>
+<p align="left">Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -241,7 +249,7 @@ Adjoints administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>Agents en fonctions au sein du centre du service national de Compiègne<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -289,7 +297,7 @@ Adjoints administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des ingénieurs des études et techniques d'armement<br/>- service hydrographique et océanographique de la marine<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des techniques avancées Bretagne<br/>- service hydrographique et océanographique de la marine<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -513,7 +521,14 @@ Agents techniques du ministère de la défense
 <p>Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- établissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>
+<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- établissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau</p>Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :<br/>
+<p>
+<br/>- Bourges (Cher) ;<br/>
+<br/>- Tours (Indre-et-Loire) ;<br/>
+<br/>- Orléans (Loiret). </p>
+<p align="left">
+<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -604,7 +619,8 @@ Agents techniques du ministère de la défense
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan <br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan</p>
+<p align="left">Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -651,7 +667,8 @@ Agents techniques du ministère de la défense
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>Agents en fonctions au sein du centre du service national de Compiègne<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>
+<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -698,7 +715,8 @@ Agents techniques du ministère de la défense
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des ingénieurs des études et techniques d'armement<br/>- service hydrographique et océanographique de la marine<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des techniques avancées Bretagne</p>
+<p align="left">- service hydrographique et océanographique de la marine<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -948,7 +966,14 @@ Techniciens supérieurs d'études et de fabrications
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- Etablissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>
+<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- Etablissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau</p>Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :<br/>
+<p>
+<br/>- Bourges (Cher) ;<br/>
+<br/>- Tours (Indre-et-Loire) ;<br/>
+<br/>- Orléans (Loiret). </p>
+<p align="left">
+<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1038,7 +1063,8 @@ Techniciens supérieurs d'études et de fabrications
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan <br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan</p>
+<p align="left">Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1083,7 +1109,8 @@ Techniciens supérieurs d'études et de fabrications
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>Agents en fonctions au sein du centre du service national de Compiègne<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>
+<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1128,7 +1155,7 @@ Techniciens supérieurs d'études et de fabrications
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des ingénieurs des études et techniques d'armement<br/>- service hydrographique et océanographique de la marine<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des techniques avancées Bretagne<br/>- service hydrographique et océanographique de la marine<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1298,7 +1325,13 @@ Secrétaires administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- Etablissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Oise (60), Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)<br/>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer<br/>Agents affectés à l'étranger sauf ceux en fonctions en Allemagne<br/>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Institution nationale des Invalides<br/>- musée de l'armée<br/>- musée de l'air et de l'espace<br/>- musée de la marine<br/>- Etablissement de communication et de production audiovisuelle de la défense<br/>- Office national des anciens combattants<br/>- Ecole polytechnique<br/>- Ecole nationale supérieure des techniques avancées<br/>- Etablissement public d'insertion de la défense<br/>- Institut des hautes études de la défense nationale<br/>Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau</p>Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :<br/>
+<p>
+<br/>- Bourges (Cher) ;<br/>
+<br/>- Tours (Indre-et-Loire) ;<br/>
+<br/>- Orléans (Loiret). </p>
+<p align="left">
+<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1380,7 +1413,8 @@ Secrétaires administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan <br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74)<br/>Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :<br/>- centre du service national de Nîmes<br/>- centre du service national Nice<br/>- centre du service national Marseille<br/>- centre du service national Perpignan</p>
+<p align="left">Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1421,7 +1455,8 @@ Secrétaires administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>Agents en fonctions au sein du centre du service national de Compiègne<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)<br/>
+<br/>Agents en fonctions au sein du service des essences des armées<br/>Agents en fonctions en Allemagne<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1462,7 +1497,7 @@ Secrétaires administratifs
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des ingénieurs des études et techniques d'armement<br/>- service hydrographique et océanographique de la marine<br/>
+<p align="left">Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :<br/>- Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85)<br/>Agents en fonctions au sein des établissements publics suivants :<br/>- Ecole nationale supérieure des techniques avancées Bretagne<br/>- service hydrographique et océanographique de la marine<br/>
 </p>
 </td>
 <td align="left" valign="top">
