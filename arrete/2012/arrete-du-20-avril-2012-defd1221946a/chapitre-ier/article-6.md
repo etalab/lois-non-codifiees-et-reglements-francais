@@ -2,14 +2,16 @@
 
 La sous-direction de la politique générale, des études et de la prospective est chargée :
 
-― en liaison avec les états-majors, directions et services, d'élaborer la politique générale des ressources humaines du ministère de la défense et de la décliner par des directives. Elle s'assure de son application ;
+1° D'élaborer la politique des ressources humaines du ministère de la défense et de la décliner par des directives, en liaison d'une part avec les états-majors, directions et services, et d'autre part avec la sous-direction du pilotage des ressources humaines militaires et civiles et les autres services de la direction des ressources humaines du ministère de la défense. Elle veille à son application ;
 
-― de conduire les travaux de synthèse de gestion prévisionnelle des ressources humaines ;
+2° De coordonner au sein du ministère les travaux d'élaboration du schéma stratégique ministériel en relation avec la direction générale de l'administration et de la fonction publique et la direction du budget. Elle est, à ce titre, le correspondant du réseau interministériel ;
 
-― de réaliser des analyses et enquêtes statistiques, sociologiques et prospectives sur la situation et la condition du personnel militaire et civil afin d'éclairer les autorités du ministère ;
+3° De réaliser des analyses et enquêtes statistiques, sociologiques sur la situation et la condition du personnel militaire et civil ;
 
-― d'élaborer le bilan social du ministère ;
+4° D'analyser les rapports d'enquêtes, d'audits ou de contrôles dans le domaine des ressources humaines, de les exploiter et de transmettre les éléments nécessaires aux décisions des autorités compétentes ;
 
-― d'assurer une veille sur les pratiques en matière de ressources humaines et de réaliser des études comparatives au niveau national et international ;
+5° De procéder au calcul du "glissement vieillesse technicité" et d'en analyser les facteurs d'évolution ;
 
-― de garantir la cohérence entre la politique générale des ressources humaines du ministère et sa mise en œuvre par les établissements pour lesquels la direction des ressources humaines du ministère de la défense exerce la tutelle ou y participe.
+6° D'élaborer le bilan social du ministère ;
+
+7° D'assurer une veille sur les pratiques en matière de ressources humaines, d'effectuer des analyses prospectives et de réaliser des études comparatives au niveau national et international.

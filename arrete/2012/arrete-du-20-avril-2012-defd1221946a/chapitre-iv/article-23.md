@@ -2,18 +2,12 @@
 
 La sous-direction des pensions comprend :
 
-― le bureau des retraites civiles et militaires ;
+1° Le bureau de la relation avec les usagers ;
 
-― le bureau des invalidités, accidents de service, accidents du travail et maladies professionnelles ;
+2° Le bureau de la préparation et du suivi de l'activité ;
 
-― le bureau du contentieux des pensions, accidents de service, accidents du travail et maladies professionnelles ;
+3° Le bureau de l'instruction des pensions et du contentieux ;
 
-― le bureau du traitement statistique et informatique ;
+4° Le bureau des expertises et analyses médicales ;
 
-― le centre d'expertise et de compétences ;
-
-― le bureau des pensions des ressortissants de l'ancienne communauté française ;
-
-― le bureau administratif.
-
-Les centres d'expertise médicale et de commissions de réforme constituent des organismes extérieurs de la sous-direction des pensions, qui en assure la coordination et l'animation.
+5° Le bureau de la gestion des connaissances.

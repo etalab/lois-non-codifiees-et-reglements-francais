@@ -2781,7 +2781,6 @@
 - [Arrêté du 30 novembre 2010 (EFIT1027551A)](arrete-du-30-novembre-2010-efit1027551a)
 - [Arrêté du 30 novembre 2011 (AGRS1131902A)](arrete-du-30-novembre-2011-agrs1131902a)
 - [Arrêté du 30 novembre 2011 (AGRT1129698A)](arrete-du-30-novembre-2011-agrt1129698a)
-- [Arrêté du 30 novembre 2011 (DEFF1133212A)](arrete-du-30-novembre-2011-deff1133212a)
 - [Arrêté du 30 novembre 2011 (DEVA1132533A)](arrete-du-30-novembre-2011-deva1132533a)
 - [Arrêté du 30 novembre 2011 (DEVA1132786A)](arrete-du-30-novembre-2011-deva1132786a)
 - [Arrêté du 30 novembre 2011 (DEVL1128282A)](arrete-du-30-novembre-2011-devl1128282a)
