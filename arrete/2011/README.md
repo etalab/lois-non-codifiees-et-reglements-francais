@@ -1309,7 +1309,6 @@
 - [Arrêté du 16 juin 2011 (ETSD1116035A)](arrete-du-16-juin-2011-etsd1116035a)
 - [Arrêté du 16 juin 2011 (ETSP1116433A)](arrete-du-16-juin-2011-etsp1116433a)
 - [Arrêté du 16 juin 2011 (JUSB1114723A)](arrete-du-16-juin-2011-jusb1114723a)
-- [Arrêté du 16 juin 2011 (JUSB1115472A)](arrete-du-16-juin-2011-jusb1115472a)
 - [Arrêté du 16 juin 2011 (JUSB1115479A)](arrete-du-16-juin-2011-jusb1115479a)
 - [Arrêté du 16 juin 2011 (JUSB1115487A)](arrete-du-16-juin-2011-jusb1115487a)
 - [Arrêté du 16 juin 2011 (JUSB1116151A)](arrete-du-16-juin-2011-jusb1116151a)

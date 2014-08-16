@@ -633,7 +633,6 @@
 - [Arrêté du 20 juillet 1992 (AGRG9201341A)](arrete-du-20-juillet-1992-agrg9201341a)
 - [Arrêté du 20 juillet 1992 (EQUA9200998A)](arrete-du-20-juillet-1992-equa9200998a)
 - [Arrêté du 20 juillet 1992 (INTE9200343A)](arrete-du-20-juillet-1992-inte9200343a)
-- [Arrêté du 20 juillet 1992 (JUSB9210220A)](arrete-du-20-juillet-1992-jusb9210220a)
 - [Arrêté du 20 juillet 1992 (SANP9201891A)](arrete-du-20-juillet-1992-sanp9201891a)
 - [Arrêté du 20 juillet 1992 (SPSS9202367A)](arrete-du-20-juillet-1992-spss9202367a)
 - [Arrêté du 20 juin 1992 (AGRB9201254A)](arrete-du-20-juin-1992-agrb9201254a)
