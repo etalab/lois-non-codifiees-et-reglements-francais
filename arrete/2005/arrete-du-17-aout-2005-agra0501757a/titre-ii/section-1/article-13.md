@@ -10,4 +10,6 @@ En déposant leur demande de participation au concours, les candidats constituen
 
 -la justification de la ou des activités professionnelles citées, s'il y a lieu.
 
-L'étude de ce dossier par le jury doit permettre d'évaluer les compétences requises pour remplir, d'une part, les missions confiées aux membres des corps concernés telles qu'elles sont définies respectivement aux articles 14, 27 et 36 du décret du 6 avril 1995 susvisé et, d'autre part, l'aptitude à exercer les fonctions relevant de l'emploi type correspondant aux emplois mis aux concours.
+La phase d'admissibilité consiste en une présélection après l'étude de ce dossier par le jury. Elle doit permettre d'évaluer les compétences requises pour remplir, d'une part, les missions confiées aux membres des corps concernés telles qu'elles sont définies respectivement aux articles 14,27 et 36 du décret du 6 avril 1995 susvisé et, d'autre part, l'aptitude à exercer les fonctions relevant de l'emploi type correspondant aux emplois mis aux concours.
+
+A l'issue de la présélection, le jury établit la liste des candidats déclarés admissibles.
