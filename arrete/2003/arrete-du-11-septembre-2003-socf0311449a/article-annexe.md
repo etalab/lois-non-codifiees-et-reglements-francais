@@ -6,7 +6,7 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien (ne) de chantier aménagement-finitions (ancien intitulé : technicien aménagement-finitions).
+Titre professionnel : technicien de chantier aménagement finitions (ancien intitulé : technicien aménagement finitions).
 
 Niveau : IV.
 
@@ -14,43 +14,51 @@ Code NSF : 233 p.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) de chantier aménagement-finitions exerce ses activités dans les entreprises du second oeuvre. Il (elle) intervient sur les chantiers de construction neuve et de réhabilitation de bâtiments, habitats, et ouvrages fonctionnels. Il (elle) supervise et suit la réalisation des travaux de pose de cloisons, de carrelage, de peinture, et de pose de revêtements de sol souples. Il (elle) conduit, coordonne et suit l'exécution des travaux, en respectant le cadre prévisionnel qualitatif, quantitatif, financier et calendaire défini sur les pièces contractuelles des marchés de travaux contractés entre le client et son entreprise. Il (elle) est garant (e) des dépenses engagées et du suivi des recettes pour le chantier.
+Pour le compte d'une entreprise ou d'un service d'entretien de bâtiments, le technicien de chantiers aménagement finitions encadre, pilote et coordonne plusieurs équipes composées de chefs d'équipes et ouvriers professionnels réalisant des travaux d'aménagement finitions sur un ou plusieurs chantiers.
 
-Il (elle) peut être amené (e) à participer à la réalisation des études sur le plan technique, quantitatif, estimatif et organisationnel pour établir les devis de travaux des lots du secteur de l'aménagement-finitions. Il (elle) représente parfois l'entreprise aux réunions de chantier. Sous la responsabilité d'un conducteur de travaux, ou d'un chef de travaux, il (elle) encadre un effectif de 10 à 30 salariés répartis en plusieurs équipes sur un ou plusieurs chantiers. Sa mission peut comporter des déplacements éloignés et ses horaires de travail débordent ceux des chantiers.
+A partir de dossiers techniques du maître d'œuvre, il réalise les métrés, propose des solutions pour réaliser les travaux et fait des estimations au bordereau. Il effectue des relevés de bâtiments et fait des plans de calepinages et prépare les interventions des équipes sur les chantiers. Il contrôle que les techniques de mise en œuvre des matériaux préconisées par les fabricants soient respectées et conformes à la commande des clients et aux exigences des réglementations incendie, thermique et acoustique. Il surveille la consommation des budgets d'heures et des matériaux, anticipe les besoins, réalise les plannings détaillés et ajuste les interventions en fonction de l'avancement des chantiers de manière à respecter les délais contractuels. Il réceptionne les matériaux et le matériel, gère les interfaces techniques avec les autres lots et vérifie que le chantier se déroule dans le respect des règles de sécurité individuelles et collectives et, s'il existe, en application du plan particulier de sécurité et de protection de la santé (PPSPS), sinon du plan de prévention.
 
-Capacités attestées et descriptif es composantes de la certification
+L'emploi se trouve dans des entreprises de l'aménagement et des finitions du secteur du bâtiment ayant de dix à cinquante salariés. Au sein de l'entreprise et sous la responsabilité du chef d'entreprise ou du conducteur de travaux, l'emploi se positionne au niveau de l'agent de maîtrise.
 
-1. Préparer des chantiers de travaux d'aménagement-finitions
+Il est à la charnière entre les équipes de production et la direction technique de l'entreprise. Il intervient en concertation avec les personnes responsables des études pour la mise au point des dossiers avant la remise des offres au client. Il assiste aux différentes réunions avec la maîtrise d'œuvre et la sécurité, participe à la mise au point de la partie administrative comme pour l'autorisation d'occupation de voirie et les contacts avec les concessionnaires. Il organise le cantonnement du personnel, le stockage des matériaux et du matériel. Il finalise avec le client les types de matériaux en tenant compte des délais de fabrication et informe sa hiérarchie si des modifications ou des problèmes se présentent.
 
-Utiliser le dossier d'étude d'un projet de réalisation d'un chantier d'aménagement-finitions.
+Il réalise ses activités la majeure partie du temps sur les chantiers et en partie dans les bureaux de l'entreprise.
 
-Intégrer la sécurité et la gestion des déchets dès la phase préparatoire d'un chantier d'aménagement-finitions.
+Capacités attestées et descriptif
 
-Préparer les contrats nécessaires à la réalisation des travaux d un chantier d'aménagement-finitions.
+des composantes de la certification
 
-Arrêter les choix des matériaux en fonction des caractéristiques techniques et décoratives pour un chantier d aménagement-finitions.
+1. Préparer des chantiers
 
-Ordonnancer et planifier la réalisation des travaux d'un chantier d'aménagement-finitions.
+et réaliser des devis d'aménagement finitions
 
-2. Conduire la réalisation de chantiers d'aménagement-finitions
+Analyser un dossier technique de travaux d'aménagement finitions et réaliser un devis quantitatif et estimatif au bordereau.
 
-Animer les équipes réalisant les travaux sur un chantier d'aménagement-finitions.
+Définir les moyens et les plannings humains et matériels sur des chantiers d'aménagement finitions.
 
-Suivre au quotidien la réalisation des travaux sur un chantier d'aménagement-finitions.
+Finaliser les commandes des matériaux et matériels pour un chantier d'aménagement finitions.
 
-Gérer les contrats liés aux réalisations des travaux sur un chantier d aménagement-finitions.
+2. Conduire la réalisation
 
-Gérer les budgets d heures, le matériel et les matériaux d'un chantier d'aménagement-finitions.
+de chantiers d'aménagement finitions
 
-Participer aux réunions techniques sur un chantier d'aménagement-finitions.
+Piloter, coordonner la réalisation et contrôler la qualité des travaux sur les chantiers d'aménagement finitions.
 
-Secteurs d'activités ou types d emploi ccessibles par le détenteur du titre
+Animer les équipes réalisant des travaux sur les chantiers d'aménagement finitions.
 
-Moyennes et grandes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+Réaliser la livraison d'un chantier d'aménagement finitions.
+
+Secteurs d'activités et types d'emploi
+
+accessibles par le détenteur du titre
+
+L'emploi se trouve essentiellement dans des entreprises du secteur de l'aménagement finitions du bâtiment spécialisées en peinture, plâtrerie, plaques de plâtre, isolation thermique par l'intérieur, isolation thermique par l'extérieur, revêtement de sol souple ou carrelage.
+
+Le technicien de chantier aménagement finitions se rapproche de celui de chef de chantier second œuvre ou celui de commis de chantier.
 
 Code ROME :
 
-61231-Chef de chantier du BTP.
+F1202-Direction de chantier du BTP.
 
 Réglementation de l'activité :
 
@@ -62,8 +70,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
-
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel du ministère chargé de l'emploi ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
