@@ -861,7 +861,6 @@
 - [Arrêté du 23 janvier 2008 (SJSH0801209A)](arrete-du-23-janvier-2008-sjsh0801209a)
 - [Arrêté du 23 juillet 2008 (DEFD0819655A)](arrete-du-23-juillet-2008-defd0819655a)
 - [Arrêté du 23 juillet 2008 (DEFH0813824A)](arrete-du-23-juillet-2008-defh0813824a)
-- [Arrêté du 23 juillet 2008 (DEFH0818393A)](arrete-du-23-juillet-2008-defh0818393a)
 - [Arrêté du 23 juillet 2008 (DEFH0818394A)](arrete-du-23-juillet-2008-defh0818394a)
 - [Arrêté du 23 juillet 2008 (DEVL0817797A)](arrete-du-23-juillet-2008-devl0817797a)
 - [Arrêté du 23 juillet 2008 (ESRH0801493A)](arrete-du-23-juillet-2008-esrh0801493a)
