@@ -42,6 +42,13 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 </td>
 </tr>
 <tr>
+<td>La Banque postale </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>Economie</td>
+</tr>
+<tr>
 <td>
 <p>EMC SA </p>
 </td>
@@ -206,17 +213,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 <p align="center">3</p>
 </td>
 <td>Economie (× 2), Industrie</td>
-</tr>
-<tr>
-<td>
-<p align="left">Société de financement et d'investissement pour la réforme et le développement (SOFIRED) (1)</p>
-</td>
-<td>
-<p align="center">3 </p>
-</td>
-<td>
-<p>Défense (× 3)</p>
-</td>
 </tr>
 </tbody>
 </table>
