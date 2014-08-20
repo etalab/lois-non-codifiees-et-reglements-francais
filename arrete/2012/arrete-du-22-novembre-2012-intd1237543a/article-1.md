@@ -1,6 +1,6 @@
 # Article 1
 
-La commission nationale consultative de la sécurité des transports de fonds, créée pour une durée de cinq ans, est présidée par le délégué interministériel à la sécurité privée, par son représentant ou par un représentant du ministre de l'intérieur.
+La Commission nationale consultative de la sécurité des transports de fonds, créée pour une durée de cinq ans, est présidée par le délégué aux coopérations de sécurité au ministère de l'intérieur, par son représentant ou par un autre représentant du ministre de l'intérieur.
 
 Elle est ainsi composée :
 
