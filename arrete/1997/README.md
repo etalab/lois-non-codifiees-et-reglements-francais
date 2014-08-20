@@ -816,7 +816,6 @@
 - [Arrêté du 26 février 1997 (JUSG9760009A)](arrete-du-26-fevrier-1997-jusg9760009a)
 - [Arrêté du 26 février 1997 (MAEA9720089A)](arrete-du-26-fevrier-1997-maea9720089a)
 - [Arrêté du 26 juin 1997 (ATEN9760280A)](arrete-du-26-juin-1997-aten9760280a)
-- [Arrêté du 26 juin 1997 (DEFD9701679A)](arrete-du-26-juin-1997-defd9701679a)
 - [Arrêté du 26 juin 1997 (INTC9700285A)](arrete-du-26-juin-1997-intc9700285a)
 - [Arrêté du 26 mars 1997 (TASS9720461A)](arrete-du-26-mars-1997-tass9720461a)
 - [Arrêté du 26 novembre 1996 (COPC9600072A)](arrete-du-26-novembre-1996-copc9600072a)

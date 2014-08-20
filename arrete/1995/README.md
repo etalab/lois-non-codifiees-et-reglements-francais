@@ -110,7 +110,6 @@
 - [Arrêté du 4 décembre 1995 (ECOT9551483A)](arrete-du-4-decembre-1995-ecot9551483a)
 - [Arrêté du 4 janvier 1995 (ENVN9540026A)](arrete-du-4-janvier-1995-envn9540026a)
 - [Arrêté du 4 juillet 1995 (DEFB9501761A)](arrete-du-4-juillet-1995-defb9501761a)
-- [Arrêté du 4 juillet 1995 (DEFB9501762A)](arrete-du-4-juillet-1995-defb9501762a)
 - [Arrêté du 4 juillet 1995 (EQUL9500542A)](arrete-du-4-juillet-1995-equl9500542a)
 - [Arrêté du 4 juillet 1995 (EQUT9501083A)](arrete-du-4-juillet-1995-equt9501083a)
 - [Arrêté du 4 juillet 1995 (MENU9501309A)](arrete-du-4-juillet-1995-menu9501309a)
