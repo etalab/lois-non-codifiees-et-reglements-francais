@@ -22,7 +22,6 @@
 - [Arrêté du 4 novembre 1986](arrete-du-4-novembre-1986)
 - [Arrêté du 5 décembre 1985](arrete-du-5-decembre-1985)
 - [Arrêté du 5 décembre 1986](arrete-du-5-decembre-1986)
-- [Arrêté du 5 février 1986](arrete-du-5-fevrier-1986)
 - [Arrêté du 5 juillet 1985](arrete-du-5-juillet-1985)
 - [Arrêté du 5 juin 1986](arrete-du-5-juin-1986)
 - [Arrêté du 5 mars 1986](arrete-du-5-mars-1986)
