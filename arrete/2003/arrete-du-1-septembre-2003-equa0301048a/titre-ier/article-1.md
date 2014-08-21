@@ -6,8 +6,6 @@ a) De définir les conditions techniques applicables aux infrastructures et aux 
 
 b) De préciser certaines obligations que respectent les employeurs en matière de formation à la sûreté ;
 
-c) De préciser les obligations que respectent les entreprises et organismes titulaires des agréments en qualité de " chargeur connu " et d'" établissement connu " ;
+c) De préciser les obligations que respectent les entreprises et organismes titulaires des agréments en qualité de "chargeur connu" et d'"établissement connu" ;
 
-d) De préciser les conditions attachées à l'habilitation délivrée aux organismes techniques visés au troisième alinéa de l'article L. 213-4 ;
-
-e) De préciser les procédures de certification applicables à certains équipements de détection.
+d) De préciser les conditions attachées à l'habilitation délivrée aux organismes techniques visés au troisième alinéa de l'article L. 213-4.

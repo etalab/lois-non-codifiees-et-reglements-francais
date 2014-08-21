@@ -12,13 +12,13 @@ d) " Bagage de soute " un bagage destiné à être transporté dans la soute d'u
 
 e) " Contrôle d'accès " une opération préventive consistant à vérifier que les personnes et les véhicules pénétrant dans la zone réservée d'un aérodrome disposent d'une autorisation d'accès adéquate ;
 
-f) " EDS " un système de détection d'explosifs, de performance spécifiée, utilisant des technologies capables de détecter et, par suite, d'indiquer au moyen d'une alarme la présence dans un bagage ou colis d'une matière explosive, quel que soit le matériau de ce bagage ou colis ;
+f) Abrogé
 
-g) " Dispositif d'imagerie utilisant des ondes millimétriques " un équipement d'inspection filtrage des passagers reposant sur l'utilisation des ondes millimétriques et destiné à la détection d'objets prohibés portés sur la peau ou dans les vêtements ;
+g) Abrogé
 
 h) " Entreprise ou organisme autorisé à occuper ou utiliser la zone réservée " l'entreprise ou l'organisme autorisé par l'exploitant d'aérodrome à occuper ou utiliser la zone réservée à des fins professionnelles ;
 
-i) " Equipement de détection " tout équipement utilisé pour la détection d'articles prohibés ;
+i) Abrogé
 
 j) " Expédition " le fret ou le colis postal destiné à être chargé à bord d'un aéronef et faisant l'objet d'un document de transport ;
 
