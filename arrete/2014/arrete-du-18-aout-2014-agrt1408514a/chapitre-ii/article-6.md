@@ -1,0 +1,5 @@
+# Article 6
+
+Lorsque le producteur livre tout ou partie de ses résidus à un opérateur tiers en vue de leur valorisation, les deux parties peuvent convenir que l'analyse du titre alcoométrique volumique total des lots concernés est réalisée par cet opérateur tiers chargé de la valorisation conformément aux dispositions de l'article 5. Le producteur est tenu de s'assurer que le tiers auquel il a délégué cette mesure du titre alcoométrique volumique total respecte contractuellement les dispositions relatives au prélèvement, à l'analyse et aux délais de retour du résultat de l'analyse prévus au présent chapitre. Dans ce cas, l'opérateur tiers chargé de la valorisation transmet le résultat de l'analyse au producteur dans un délai maximal de quarante-huit heures après obtention des résultats de cette analyse et au plus tard le 31 juillet qui suit l'année de la récolte.
+
+Lorsque le lot analysé par l'opérateur regroupe les livraisons de plusieurs producteurs, l'opérateur transmet le résultat de l'analyse du lot à l'ensemble des producteurs concernés par le lot.
