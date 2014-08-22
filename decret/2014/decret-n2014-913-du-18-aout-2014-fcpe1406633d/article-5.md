@@ -1,0 +1,3 @@
+# Article 5
+
+Lorsque les produits énergétiques ont été fournis par une personne qui n'est pas redevable des taxes intérieures de consommation sur les produits énergétiques pour la fourniture en cause, les exploitants d'installations grandes consommatrices d'énergie, mentionnées à l'article 1er du présent décret, peuvent obtenir, dans les conditions prévues à l'article 352 du code des douanes, le remboursement de la fraction de taxe intérieure, égale à la différence entre le tarif de taxe intérieure de consommation sur les produits énergétiques applicable au moment de la mise à la consommation et le tarif en vigueur le 31 décembre 2013, en adressant une demande de remboursement au service des douanes territorialement compétent.
