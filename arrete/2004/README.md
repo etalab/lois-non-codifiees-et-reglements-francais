@@ -258,7 +258,6 @@
 - [Arrêté du 11 mars 2004 (EQUA0400414A)](arrete-du-11-mars-2004-equa0400414a)
 - [Arrêté du 11 mars 2004 (PRMX0407178A)](arrete-du-11-mars-2004-prmx0407178a)
 - [Arrêté du 11 octobre 2004 (DEFP0401040A)](arrete-du-11-octobre-2004-defp0401040a)
-- [Arrêté du 11 octobre 2004 (ECOP0400771A)](arrete-du-11-octobre-2004-ecop0400771a)
 - [Arrêté du 11 octobre 2004 (ECOP0400776A)](arrete-du-11-octobre-2004-ecop0400776a)
 - [Arrêté du 12 août 2004 (MENS0401892A)](arrete-du-12-aout-2004-mens0401892a)
 - [Arrêté du 12 février 2004 (MENA0302843A)](arrete-du-12-fevrier-2004-mena0302843a)
