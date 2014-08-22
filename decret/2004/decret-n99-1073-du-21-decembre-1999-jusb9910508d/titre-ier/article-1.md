@@ -1,13 +1,11 @@
 # Article 1
 
-Le personnel de direction de l'Ecole nationale de la magistrature comprend, outre le directeur :
+Le présent titre fixe les conditions de nomination et d'avancement dans les emplois de l'Ecole nationale de la magistrature suivants :
 
-1° Un directeur adjoint chargé des recrutements, de la formation initiale et de la recherche ;
+1° Directeur adjoint chargé des recrutements, de la formation initiale et de la recherche ;
 
-2° Un directeur adjoint chargé de la formation continue, de l'international et de la formation professionnelle spécialisée ;
+2° Directeur adjoint chargé de la formation continue, de l'international et de la formation professionnelle spécialisée ;
 
-3° Un ou plusieurs sous-directeurs, placés auprès des directeurs adjoints par décision prise par le directeur de l'école, après avis de son conseil d'administration ;
+3° Sous-directeur ;
 
-4° Un secrétaire général ;
-
-5° Un chef de cabinet.
+4° Chef de cabinet.
