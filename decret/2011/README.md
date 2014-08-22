@@ -54,6 +54,7 @@
 - [Décret n°86-1099 du 10 octobre 1986](decret-n86-1099-du-10-octobre-1986)
 - [Décret n°2011-1266 du 11 octobre 2011 (IOCN1126055D)](decret-n2011-1266-du-11-octobre-2011-iocn1126055d)
 - [Décret n°2011-45 du 11 janvier 2011 (ETST1023798D)](decret-n2011-45-du-11-janvier-2011-etst1023798d)
+- [Décret n°2001-848 du 12 septembre 2001 (MENF0101771D)](decret-n2001-848-du-12-septembre-2001-menf0101771d)
 - [Décret n°2011-1293 du 12 octobre 2011 (AGRT1117880D)](decret-n2011-1293-du-12-octobre-2011-agrt1117880d)
 - [Décret n°2011-49 du 12 janvier 2011 (EFIP1028377D)](decret-n2011-49-du-12-janvier-2011-efip1028377d)
 - [Décret n°2011-833 du 12 juillet 2011 (DEVD1113961D)](decret-n2011-833-du-12-juillet-2011-devd1113961d)
