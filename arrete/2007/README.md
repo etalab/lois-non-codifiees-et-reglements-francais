@@ -501,7 +501,6 @@
 - [Arrêté du 18 décembre 2007 (AGRG0773845A)](arrete-du-18-decembre-2007-agrg0773845a)
 - [Arrêté du 18 décembre 2007 (BCFD0774102A)](arrete-du-18-decembre-2007-bcfd0774102a)
 - [Arrêté du 18 décembre 2007 (DEVU0771401A)](arrete-du-18-decembre-2007-devu0771401a)
-- [Arrêté du 18 décembre 2007 (JUSB0768664A)](arrete-du-18-decembre-2007-jusb0768664a)
 - [Arrêté du 18 décembre 2007 (MTSS0774077A)](arrete-du-18-decembre-2007-mtss0774077a)
 - [Arrêté du 18 janvier 2007 (AGRE0700217A)](arrete-du-18-janvier-2007-agre0700217a)
 - [Arrêté du 18 janvier 2007 (ECOT0620103A)](arrete-du-18-janvier-2007-ecot0620103a)

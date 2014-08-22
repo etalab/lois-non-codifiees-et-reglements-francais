@@ -179,96 +179,6 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>III - ÉCOLE NATIONALE DE LA MAGISTRATURE</p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur de l'école nationale de la magistrature</p>
-</td>
-<td valign="top" width="113">
-<p align="center">HEC - HEE</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Chargé de formation</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - HEC</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur de la formation initiale et des recrutements</p>
-</td>
-<td valign="top" width="113">
-<p align="center">HEB bis</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur de la formation continue et du département international</p>
-</td>
-<td valign="top" width="113">
-<p align="center">HEB bis</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Secrétaire général</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - HEB</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Sous-directeur des stages</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - HEB</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Sous-directeur de la formation continue</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - HEB</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Sous-directeur des études</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - HEB</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Sous-directeur chargé du département international</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - HEB</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
 <p>IV - MAGISTRATS DE L'ORDRE JUDICIAIRE</p>
 </td>
 <td valign="top" width="113">
@@ -288,8 +198,12 @@
 <td valign="top" width="151"/>
 </tr>
 <tr>
-<td>Magistrats du premier grade</td>
-<td>801 - HEB</td>
+<td>
+<p align="left">Magistrats du premier grade</p>
+</td>
+<td>
+<p align="center">801 - HEB</p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -937,8 +851,12 @@
 </tr>
 <tr>
 <td/>
-<td>(616 - 659)(1)</td>
-<td>(1) Echelons provisoires </td>
+<td>
+<p align="center">(616 - 659)(1)</p>
+</td>
+<td>
+<p align="left">(1) Echelons provisoires </p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="378">
