@@ -4,55 +4,53 @@ La composition de ces comités est fixée comme suit :
 
 a) Représentants de l'administration :
 
-- le préfet ou le haut-commissaire de la République en Nouvelle-Calédonie, président ;
+- le préfet, président ;
 
-- le secrétaire général de la préfecture ou le secrétaire général du haut-commissariat de la République en Nouvelle-Calédonie ;
+- le secrétaire général de la préfecture ;
 
 b) Représentants du personnel :
 
 Le nombre de représentants du personnel est fixé comme suit :
 
-<div>
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>EFFECTIFS DU SERVICE CONCERNÉS
-<br/>
-par le comité technique</th>
-<th>
-<br/>MEMBRES TITULAIRES</th>
-<th>
-<br/>MEMBRES SUPPLÉANTS</th>
+<th>EFFECTIFS DU SERVICE CONCERNÉS <br/>par le comité technique<br/>
+</th>
+<th>MEMBRES TITULAIRES<br/>
+</th>
+<th>MEMBRES SUPPLÉANTS<br/>
+</th>
 </tr>
 <tr>
-<td align="left">
-<br/>0 à 200</td>
-<td align="left">
-<br/>4 ou 5</td>
-<td align="left">
-<br/>4 ou 5</td>
+<td align="left">0 à 200<br/>
+</td>
+<td align="left">4 ou 5<br/>
+</td>
+<td align="left">4 ou 5<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>201 à 400</td>
-<td align="left">
-<br/>6 ou 7</td>
-<td align="left">
-<br/>6 ou 7</td>
+<td align="left">201 à 400<br/>
+</td>
+<td align="left">6 ou 7<br/>
+</td>
+<td align="left">6 ou 7<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>401 et plus</td>
-<td align="left">
-<br/>7 ou 8</td>
-<td align="left">
-<br/>7 ou 8</td>
+<td align="left">401 et plus<br/>
+</td>
+<td align="left">7 ou 8<br/>
+</td>
+<td align="left">7 ou 8<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
 </div>
-</div>
 
-Le préfet ou le haut-commissaire de la République en Nouvelle-Calédonie est assisté, en tant que de besoin, par les membres de l'administration exerçant des fonctions de responsabilité et concernés par des questions soumises à l'avis du comité.
+Le préfet est assisté, en tant que de besoin, par les membres de l'administration exerçant des fonctions de responsabilité et concernés par des questions soumises à l'avis du comité.
