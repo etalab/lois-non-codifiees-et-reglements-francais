@@ -1,6 +1,5 @@
 # TITRE III : PRESTATIONS
 
-- [CHAPITRE IER : DISPOSITIONS GENERALES](chapitre-ier)
-- [CHAPITRE II : PRESTATIONS EN NATURE](chapitre-ii)
-- [CHAPITRE III : L'INDEMNISATION DE L'INCAPACITE TEMPORAIRE](chapitre-iii)
-- [CHAPITRE IV : INDEMNISATION DE L'INCAPACITE PERMANENTE](chapitre-iv)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)

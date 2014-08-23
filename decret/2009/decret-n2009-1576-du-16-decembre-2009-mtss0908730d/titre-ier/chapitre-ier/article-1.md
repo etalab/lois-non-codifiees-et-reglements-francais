@@ -1,5 +1,3 @@
 # Article 1
 
-Pour les volontaires civils mentionnés au 15° de l'article 4 de l'ordonnance du 13 décembre 2006 susvisée, les obligations de l'employeur, notamment le versement des cotisations, incombent à l'organisme d'accueil. Les modalités de ce versement sont identiques à celles du versement des cotisations afférentes à la couverture des prestations en nature de l'assurance maladie et maternité.
-
-Le salaire servant de base au calcul des cotisations et à celui de la rente prévue à l'article 51 de l'ordonnance du 13 décembre 2006 est égal au salaire minimum mentionné à l'article 52 de la même ordonnance.
+Les dispositions du chapitre II du titre Ier du livre IV du code de la sécurité sociale (deuxième partie : Décrets en Conseil d'Etat), à l'exception des articles R. 412-1 à R. 412-3 et du dernier alinéa de l'article R. 412-4, sont applicables à Mayotte ainsi que, pour les besoins de cette application, les dispositions de ce code auxquelles ces dispositions renvoient.

@@ -1,3 +1,0 @@
-# Article 80
-
-Dans les cas où les accidents du travail auxquels s'applique l'ordonnance du 13 décembre 2006 susvisée sont survenus hors du territoire de Mayotte, le délai imparti à l'employeur pour faire la déclaration prévue au premier alinéa de l'article 61 de l'ordonnance du 13 décembre 2006 susvisée ne commence à courir que du jour où il a été informé de l'accident par lettre recommandée de la victime ou de son représentant. Si l'employeur n'est pas en mesure d'indiquer dans ce délai la nature des blessures, les noms et adresses des témoins de l'accident, il complète sa déclaration dans le plus bref délai possible par une déclaration complémentaire.

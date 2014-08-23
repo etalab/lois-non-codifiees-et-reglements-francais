@@ -1,6 +1,6 @@
 # Décret n° 2009-1576 du 16 décembre 2009 pris pour l'application de l'ordonnance n° 2006-1588 du 13 décembre 2006 relative au régime de prévention, de réparation et de tarification des accidents du travail et des maladies professionnelles à Mayotte (décret en Conseil d'Etat)
 
-- [TITRE IER : GENERALITES](titre-ier)
+- [TITRE IER : GENERALITES - DISPOSITIONS PROPRES À CERTAINS BÉNÉFICIAIRES](titre-ier)
 - [TITRE II : ORGANISATION ET PREVENTION](titre-ii)
 - [TITRE III : PRESTATIONS](titre-iii)
 - [TITRE IV : PROCEDURES. ― REVISION. ― RECHUTE. ― ACCIDENTS  SURVENUS HORS DU TERRITOIRE DE MAYOTTE](titre-iv)
