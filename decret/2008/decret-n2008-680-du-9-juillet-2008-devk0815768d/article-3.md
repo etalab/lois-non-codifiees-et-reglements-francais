@@ -2,7 +2,7 @@
 
 Le Commissariat général au développement durable est chargé de l'élaboration, de l'animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l'ensemble des politiques publiques ainsi qu'au travers des actions de tous les acteurs socio-économiques.
 
-Le Commissariat général au développement durable assure le secrétariat du           Conseil national de la transition écologique et du comité interministériel pour le développement durable mentionné à l'article D. 134-8 du code de l'environnement.
+Le Commissariat général au développement durable assure le secrétariat du Conseil national de la transition écologique et du comité interministériel pour le développement durable mentionné à l'article D. 134-8 du code de l'environnement.
 
 Il veille à l'intégration de l'environnement dans les plans, programmes et projets et, à ce titre, apporte son soutien au Conseil général de l'environnement et du développement durable dans ses fonctions d'autorité environnementale.
 
@@ -30,11 +30,17 @@ En liaison avec le secrétaire général, elle définit les orientations du rés
 
 Elle assure la tutelle, pour le compte du ministre chargé des transports :
 
-― de l'Institut national de l'information géographique et forestière ;
+- de Météo-France.
 
-― de Météo-France ;
+Elle assure la tutelle, pour le compte du ministre chargé du développement durable :
 
-― de l'institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
+- de l'Institut national de l'information géographique et forestière ;
+
+- de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
+
+Elle assure la tutelle, pour le compte des ministres chargés du développement durable, de l'urbanisme et des transports :
+
+- du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
 
 II. ― Le service de l'observation et des statistiques est chargé de la mobilisation des données et de la maîtrise d'ouvrage des systèmes d'information associés pour élaborer et animer la stratégie générale du ministère. Il organise le système d'observation socio-économique et statistique en matière d'environnement et de développement durable, en liaison avec les institutions nationales, européennes et internationales intéressées. Il recueille, élabore et diffuse l'information statistique concernant les domaines de compétences du ministère, et ceux du ministère chargé du logement. Il définit les indicateurs du développement durable pour les politiques publiques et élabore ceux du ministère.
 
