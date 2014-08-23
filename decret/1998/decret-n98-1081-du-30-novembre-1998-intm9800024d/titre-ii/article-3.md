@@ -6,13 +6,13 @@ Chaque agence est administrée par un conseil d'administration, qui comprend :
 
 -le directeur départemental de l'équipement ou son représentant ;
 
--le directeur des services fiscaux ou son représentant ;
+-le   directeur régional des finances publiques ou son représentant ;
 
 -le directeur départemental de l'agriculture et de la forêt ou son représentant ;
 
 -le directeur régional de l'industrie, de la recherche et de l'environnement ou son représentant ;
 
--le    directeur interrégional de la mer ou son représentant ;
+-le directeur interrégional de la mer ou son représentant ;
 
 -le directeur régional de l'environnement ou son représentant ;
 

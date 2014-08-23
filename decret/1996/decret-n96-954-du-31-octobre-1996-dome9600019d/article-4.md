@@ -6,6 +6,6 @@ Dans ce cadre, il peut acquérir des terrains, au besoin par voie d'expropriatio
 
 L'établissement public peut, par conventions avec l'Etat :
 
--procéder aux actions ou opérations d'aménagement des terrains du domaine privé de l'Etat compris dans les zones délimitées par le préfet en application des articles L. 91-4 et R. 170-62 du code du domaine de l'Etat, et mis à sa disposition ;
+-procéder aux actions ou opérations d'aménagement des terrains du domaine privé de l'Etat compris dans les zones délimitées par le préfet en application des articles L. 5144-1 et R. 5144-1 du code général de la propriété des personnes publiques, et mis à sa disposition ;
 
--être chargé de l'instruction des demandes de cessions gratuites aux personnes physiques dans les conditions fixées par les articles L. 91-5, L. 91-6 et R. 170-62 à R. 170-64 du même code.
+-être chargé de l'instruction des demandes de cessions gratuites aux personnes physiques dans les conditions fixées par les articles L. 5144-2, L. 5144-3 et R. 5144-1 à R. 5144-3 du même code.
