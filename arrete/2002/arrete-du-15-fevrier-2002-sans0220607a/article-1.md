@@ -10,7 +10,7 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 4° Les médicaments vétérinaires, les produits à usage vétérinaire, les objets de pansement, les articles et les appareils de soins utilisés en médecine vétérinaire, ainsi que les produits, réactifs et appareils destinés au diagnostic médical ou à la mesure de toute caractéristique physique ou physiologique chez l'animal ;
 
-5° Les dispositifs médicaux à usage individuel, à l'exception des dispositifs médicaux implantables ;
+5° Les dispositifs médicaux à usage individuel y compris les assistants d'écoute préréglés d'une puissance maximale de 20 décibels, à l'exception des dispositifs médicaux implantables ;
 
 6° Les plantes médicinales, aromatiques et leurs dérivés, en l'état ou sous forme de préparations, à l'exception des cigarettes ou autres produits à fumer ;
 
