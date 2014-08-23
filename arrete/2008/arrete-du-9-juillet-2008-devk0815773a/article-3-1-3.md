@@ -6,16 +6,16 @@ Elle organise l'évaluation des chercheurs relevant du ministère dans le cadre 
 
 Elle prépare les programmes budgétaires de recherche du ministère, veille à leur mise en œuvre ainsi qu'à l'évaluation et la diffusion de leurs résultats.
 
-Elle exerce la tutelle de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux, de l'  Institut national de l'information géographique et forestière et de Météo-France.
+Elle exerce la tutelle de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux, de l'Institut national de l'information géographique et forestière, de Météo-France et du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
 
 Elle coordonne les actions de la direction en matière de tutelle des organismes de recherche.
 
 Elle comprend :
 
-― le bureau de la programmation et de la tutelle ;
+- le bureau de la programmation et de la tutelle ;
 
-― le bureau du pilotage des centres d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
+- le bureau de la tutelle du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
-― la mission des pôles scientifiques et techniques ;
+- la mission des pôles scientifiques et techniques ;
 
-― la mission des compétences scientifiques et techniques.
+- la mission des compétences scientifiques et techniques.

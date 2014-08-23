@@ -18,8 +18,6 @@ La direction générale des infrastructures, des transports et de la mer compren
 
 Le service technique des remontées mécaniques et des transports guidés est rattaché, en tant que service à compétence nationale, au directeur général des infrastructures, des transports et de la mer.
 
-Le service d'étude sur les transports, les routes et leurs aménagements est rattaché, en tant que service à compétence nationale, au directeur général des infrastructures, des transports et de la mer.
-
 L'Agence française de l'information multimodale et de la billettique est rattachée en tant que service à compétence nationale au directeur général des infrastructures, des transports et de la mer.
 
 L'Armement des phares et balises est rattaché, en tant que service à compétence nationale, au directeur des affaires maritimes.
@@ -27,3 +25,5 @@ L'Armement des phares et balises est rattaché, en tant que service à compéten
 L'Ecole nationale de la sécurité et de l'administration de la mer est rattachée, en tant que service à compétence nationale, au directeur des affaires maritimes.
 
 En outre, le directeur des services de transport est le commissaire délégué aux transports terrestres et le directeur des affaires maritimes est le commissaire délégué aux transports maritimes.
+
+La direction générale des infrastructures, des transports et de la mer s'appuie, en tant que de besoin, sur les compétences du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement.
