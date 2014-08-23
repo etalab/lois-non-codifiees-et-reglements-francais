@@ -192,8 +192,6 @@ Hôpital local de Lamballe (Côtes-d'Armor) ;
 
 Hôpital local de Quintin (Côtes-d'Armor) ;
 
-Centre hospitalier d'Aubusson (Creuse) ;
-
 Centre hospitalier Bernard Desplas, à Bourganeuf (Creuse) ;
 
 Centre hospitalier Les Genêts d'or, à Evaux-les-Bains (Creuse) ;
@@ -544,11 +542,7 @@ Centre hospitalier Henri Dunant, à La Charité-sur-Loire (Nièvre) ;
 
 Centre de soins USLD de Luzy (Nièvre) ;
 
-Centre hospitalier d'Haubourdin (Nord) ;
-
 Etablissement public de santé Les Erables, à La Bassée (Nord) ;
-
-Centre hospitalier de Loos (Nord) ;
 
 Centre hospitalier de Jeumont (Nord) ;
 
@@ -559,6 +553,8 @@ Centre hospitalier de Bailleul (Nord) ;
 Centre hospitalier de Zuydcoote (Nord) ;
 
 Centre hospitalier intercommunal de Wasquehal (Nord) ;
+
+Groupe hospitalier Loos-Haubourdin, à Loos (Nord), fusion ;
 
 Hôpital local de Crépy-en-Valois (Oise) ;
 
@@ -668,7 +664,7 @@ Hôpital local d'Amplepuis (Rhône) ;
 
 Centre hospitalier gériatrique du Mont-d'Or, à Albigny-sur-Saône (Rhône) ;
 
-Hôpital local intercommunal de Thizy (Rhône) ;
+Centre hospitalier intercommunal, à Thizy-les-Bourgs-Cours-la-Ville (Rhône), fusion ;
 
 Hôpital local Antonin Achaintre, à Chauffailles (Saône-et-Loire) ;
 
@@ -766,7 +762,7 @@ Centre hospitalier de Ham (Somme) ;
 
 Centre hospitalier de Roye (Somme) ;
 
-Hôpital local de Rue (Somme) ;
+Centre hospitalier intercommunal de la baie de Somme, à Saint-Valéry-sur-Somme (Somme), fusion ;
 
 Centre hospitalier de Gaillac (Tarn) ;
 
@@ -801,8 +797,6 @@ Hôpital local de La Châtaigneraie (Vendée) ;
 Hôpital local de Beauvoir-sur-Mer (Vendée) ;
 
 Hôpital local de Bouin (Vendée) ;
-
-Hôpital local de Lusignan (Vienne) ;
 
 Hôpital local intercommunal Monts et Barrages, à Saint-Léonard-de-Noblat (Haute-Vienne) ;
 
@@ -858,12 +852,10 @@ Hôpital des Trois-Ilets (Martinique) ;
 
 Hôpital Romain Blondet, à Saint-Joseph (Martinique) ;
 
-Centre hospitalier du Carbet (Martinique) ;
-
 Hôpital local du François (Martinique) ;
 
-Centre hospitalier Gérard Noël-Augustin, à Saint-Pierre (Martinique) ;
-
 Centre hospitalier intercommunal Lorrain, à Basse-Pointe (Martinique) ;
+
+Centre hospitalier Nord-Caraïbes, au Carbet (Martinique), fusion ;
 
 Hôpital local Irénée de Bruyn (Collectivité d'outre-mer de Saint-Barthélemy) ;
