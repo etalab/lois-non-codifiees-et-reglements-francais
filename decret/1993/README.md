@@ -421,7 +421,6 @@
 - [Décret n°93-412 du 19 mars 1993 (MENF9304670D)](decret-n93-412-du-19-mars-1993-menf9304670d)
 - [Décret n°93-422 du 19 mars 1993 (EQUU9300148D)](decret-n93-422-du-19-mars-1993-equu9300148d)
 - [Décret n°93-485 du 19 mars 1993 (ACVE9050027D)](decret-n93-485-du-19-mars-1993-acve9050027d)
-- [Décret n°93-70 du 19 janvier 1993 (ECOT9251243D)](decret-n93-70-du-19-janvier-1993-ecot9251243d)
 - [Décret n°93-84 du 19 janvier 1993 (ECOT9251255D)](decret-n93-84-du-19-janvier-1993-ecot9251255d)
 - [Décret n°93-917 du 19 juillet 1993 (JUSX9300107D)](decret-n93-917-du-19-juillet-1993-jusx9300107d)
 - [Décret n°93-931 du 19 juillet 1993 (BUDF9320594D)](decret-n93-931-du-19-juillet-1993-budf9320594d)

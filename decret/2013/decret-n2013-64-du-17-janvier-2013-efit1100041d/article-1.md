@@ -4,8 +4,6 @@ La liste mentionnée au I de l'article 8 de la loi du 8 décembre 2009 susvisée
 
 Société nationale des chemins de fer (SNCF) ;
 
-La Poste ;
-
 Réseau ferré de France (RFF) ;
 
 Régie autonome des transports parisiens (RATP).

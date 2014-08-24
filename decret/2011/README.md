@@ -71,6 +71,7 @@
 - [Décret n°2011-193 du 21 février 2011 (PRMX1104430D)](decret-n2011-193-du-21-fevrier-2011-prmx1104430d)
 - [Décret n°2011-196 du 21 février 2011 (DEVL1020432D)](decret-n2011-196-du-21-fevrier-2011-devl1020432d)
 - [Décret n°2011-303 du 21 mars 2011 (EFIE1102125D)](decret-n2011-303-du-21-mars-2011-efie1102125d)
+- [Décret n°83-1116 du 21 décembre 1983](decret-n83-1116-du-21-decembre-1983)
 - [Décret n°2011-1155 du 22 septembre 2011 (AGRT1108536D)](decret-n2011-1155-du-22-septembre-2011-agrt1108536d)
 - [Décret n°2011-1156 du 22 septembre 2011 (AGRT1108537D)](decret-n2011-1156-du-22-septembre-2011-agrt1108537d)
 - [Décret n°2011-1157 du 22 septembre 2011 (AGRT1108539D)](decret-n2011-1157-du-22-septembre-2011-agrt1108539d)

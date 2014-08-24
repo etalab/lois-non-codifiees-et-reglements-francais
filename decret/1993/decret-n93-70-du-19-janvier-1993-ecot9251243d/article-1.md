@@ -1,7 +1,0 @@
-# Article 1
-
-Les demandes visées à l'article 13 de la loi du 6 août 1986 susvisée et n'excédant pas le nombre de titres fixé en application des dispositions du premier alinéa de cet article sont réduites, le cas échéant, soit en proportion du rapport existant entre le nombre de titres offerts et le nombre de titres demandés, soit en servant chaque demande par quotité d'un titre jusqu'à épuisement de l'offre de titres. Il peut également être décidé de servir les demandes ayant fait l'objet d'un mandat d'achat, qui ne peut être ni modifié ni complété par un ordre d'achat, deux fois mieux au moins que celles ayant fait l'objet d'un tel ordre.
-
-Lorsque le nombre de titres offerts est inférieur au nombre des demandes visées à l'alinéa précédent, celles-ci sont servies soit par tirage au sort dans la limite d'un titre par demande, soit par coupures de titre en proportion du rapport existant entre le nombre de titres offerts et le nombre des demandes ainsi exprimées.
-
-En cas de réduction, sur le total du nombre des titres offerts, le nombre de titres affectés à l'exercice de la priorité prévue au cinquième alinéa de l'article 9 de la loi de finances rectificative pour 1993 (n° 93-859 du 22 juin 1993) est fixé de manière que le rapport entre ce nombre et le nombre des demandes exprimées au titre de cette priorité soit dans tous les cas inférieur au rapport entre le total du nombre des titres offerts et le total des demandes définies au premier alinéa du présent décret.
