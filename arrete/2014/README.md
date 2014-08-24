@@ -648,7 +648,6 @@
 - [ARRÊTÉ du 13 mai 2014 (MENH1400734A)](arrete-du-13-mai-2014-menh1400734a)
 - [ARRÊTÉ du 13 mai 2014 (MENS1406181A)](arrete-du-13-mai-2014-mens1406181a)
 - [ARRÊTÉ du 13 mai 2014 (MENS1406184A)](arrete-du-13-mai-2014-mens1406184a)
-- [ARRÊTÉ du 14 août 2014 (DEVL1417822A)](arrete-du-14-aout-2014-devl1417822a)
 - [ARRÊTÉ du 14 août 2014 (DEVL1417823A)](arrete-du-14-aout-2014-devl1417823a)
 - [ARRÊTÉ du 14 août 2014 (DEVL1417824A)](arrete-du-14-aout-2014-devl1417824a)
 - [Arrêté du 14 avril 2014 (AFSP1409679A)](arrete-du-14-avril-2014-afsp1409679a)
