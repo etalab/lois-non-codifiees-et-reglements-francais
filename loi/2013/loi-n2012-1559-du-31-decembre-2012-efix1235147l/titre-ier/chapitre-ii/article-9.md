@@ -1,3 +1,3 @@
 # Article 9
 
-Toute prise de participation du secteur privé au capital social de la société anonyme BPI-Groupe, même si elle n'a pas pour effet de transférer sa propriété au secteur privé, est soumise aux conditions d'approbation mentionnées au I de l'article 7 de la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social.
+Toute prise de participation du secteur privé au capital de la société anonyme BPI-Groupe est soumise aux conditions mentionnées au titre III de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des sociétés à participation publique.

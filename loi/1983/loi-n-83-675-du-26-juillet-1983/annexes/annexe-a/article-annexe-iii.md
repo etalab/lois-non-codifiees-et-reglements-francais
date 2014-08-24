@@ -22,8 +22,6 @@ Institut d'émission des départements d'outre-mer ;
 
 Institution de gestion sociale des armées ;
 
-Matra et ses filiales ;
-
 Théâtre national de Chaillot ;
 
 Théâtre national de l'Odéon ;
@@ -31,10 +29,6 @@ Théâtre national de l'Odéon ;
 Théâtre national de l'Est parisien ;
 
 Théâtre national de Strasbourg ;
-
-Les sociétés d'économie mixte concessionnaires d'ouvrages routiers à péage, lorsque plus de la moitié de leur capital est détenu, directement ou indirectement, par l'Etat ou un de ses établissements publics ;
-
-Sociétés concessionnaires des grands aéroports régionaux créées en application de l'article 7 de la loi n° 2005-357 du 20 avril 2005 relative aux aéroports ;
 
 Société du Grand Paris.
 

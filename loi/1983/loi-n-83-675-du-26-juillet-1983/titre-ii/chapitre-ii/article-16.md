@@ -2,7 +2,7 @@
 
 L'élection a lieu au scrutin secret, de liste, avec représentation proportionnelle à la plus forte moyenne et sans panachage.
 
-Toutefois, dans les entreprises mentionnées aux 1, 2 et 3 de l'article 1er, et dans les entreprises mentionnées aux 4 et 5 du même article, un siège est réservé aux ingénieurs, chefs de service et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification et est attribué à la liste ayant obtenu le plus de voix dans cette catégorie, sous réserve que cette liste comporte au moins un candidat appartenant à ladite catégorie. Ce siège est, le cas échéant, imputé sur le ou les sièges déjà obtenus par la liste bénéficiaire.
+Toutefois, un siège est réservé aux ingénieurs, chefs de service et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification et est attribué à la liste ayant obtenu le plus de voix dans cette catégorie, sous réserve que cette liste comporte au moins un candidat appartenant à ladite catégorie. Ce siège est, le cas échéant, imputé sur le ou les sièges déjà obtenus par la liste bénéficiaire.
 
 L'élection a lieu le même jour, pendant le temps de travail, pour l'ensemble du corps électoral tel qu'il est défini pour chaque entreprise à l'article 14.
 

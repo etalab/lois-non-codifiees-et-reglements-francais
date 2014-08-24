@@ -38,7 +38,9 @@ Peuvent être mobilisés en application du présent article :
 
 3° Les prêts mentionnés aux I et II de l'article L. 513-4 du code monétaire et financier ;
 
-4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel et de résolution conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément       au I de l'article L. 511-41 et au I de l'article L. 613-20-4 dudit code ;
+4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel et de résolution conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément
+
+au I de l'article L. 511-41 et au I de l'article L. 613-20-4 dudit code ;
 
 5° Les prêts à la consommation consentis aux particuliers résidant en France ou, selon des modalités à définir par la société mentionnée au premier alinéa, ceux consentis à des particuliers résidant dans d'autres Etats membres de l'Union européenne ;
 
@@ -52,7 +54,9 @@ Les statuts de la société mentionnée au premier alinéa sont agréés par arr
 
 Les dirigeants de la société ne peuvent exercer leurs fonctions qu'après agrément du ministre chargé de l'économie.
 
-Par dérogation au premier alinéa de l'article L. 228-39 du code de commerce, la société mentionnée au premier alinéa peut émettre des obligations dès la publication de la présente loi.
+Par dérogation au
+premier alinéa de l'article L. 228-39 du code de commerce
+, la société mentionnée au premier alinéa peut émettre des obligations dès la publication de la présente loi.
 
 B. ― Le ministre chargé de l'économie peut exceptionnellement décider, notamment en cas d'urgence, d'apporter la garantie de l'Etat, à titre onéreux, aux titres émis par les établissements de crédit, à condition que l'Etat bénéficie de sûretés conférant une garantie équivalente à celle dont bénéficie la société de refinancement.
 
@@ -83,3 +87,5 @@ Cette garantie cesse de produire ses effets si la société Dexia perd le contr�
 V.-La garantie de l'Etat mentionnée au présent article est accordée pour un montant maximal de 360 milliards d'euros.
 
 VI.-Le Gouvernement adresse chaque semestre au Parlement un rapport rendant compte de la mise en œuvre du présent article. En cas de mise en œuvre du second alinéa du C du II, ce rapport est adressé au Parlement chaque trimestre.
+
+VII. - Ces dispositions sont applicables nonobstant les dispositions de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des sociétés à participation publique.

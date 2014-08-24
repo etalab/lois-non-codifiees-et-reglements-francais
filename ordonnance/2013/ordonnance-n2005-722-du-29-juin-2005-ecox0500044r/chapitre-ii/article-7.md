@@ -1,6 +1,6 @@
 # Article 7
 
-Le conseil d'administration de la société anonyme BPI-Groupe comprend quinze administrateurs :
+Par dérogation à l' ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des sociétés à participation publique, le conseil d'administration de la société anonyme BPI-Groupe comprend quinze administrateurs :
 
 1° Huit représentants des actionnaires, dont quatre représentants de l'Etat nommés par décret et quatre représentants de la Caisse des dépôts et consignations ;
 

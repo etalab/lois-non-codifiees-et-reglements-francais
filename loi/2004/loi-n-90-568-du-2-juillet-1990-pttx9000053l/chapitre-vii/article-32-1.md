@@ -1,5 +1,0 @@
-# Article 32-1
-
-Les dispositions des articles L. 225-177 à L. 225-197 du code de commerce, des articles 11 à 14 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations et du chapitre III de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances s'appliquent également aux agents ou anciens agents mentionnés aux articles 29 et 44 de la présente loi, affectés à France Télécom ou ayant été affectés pendant au moins cinq ans à la personne morale de droit public France Télécom ou à la société anonyme France Télécom. Ces dispositions s'appliquent également aux anciens agents affectés à France Télécom et relevant des articles 29 et 44 précités dès lors qu'ils ont cessé leurs fonctions après le 1er janvier 1991 et qu'ils peuvent se prévaloir d'une ancienneté supérieure à cinq années dans un emploi d'un service relevant de la direction générale des télécommunications.
-
-Dans ce cadre, 10 % du capital de France Télécom seront proposés au personnel de l'entreprise.

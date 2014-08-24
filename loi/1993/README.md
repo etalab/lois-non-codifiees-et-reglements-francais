@@ -33,7 +33,6 @@
 - [Loi n° 93-893 du 6 juillet 1993 (JUSX9300071L)](loi-n-93-893-du-6-juillet-1993-jusx9300071l)
 - [Loi n° 93-914 du 19 juillet 1993 (INDX9300006L)](loi-n-93-914-du-19-juillet-1993-indx9300006l)
 - [Loi n° 93-915 du 19 juillet 1993 (ACVX9300078L)](loi-n-93-915-du-19-juillet-1993-acvx9300078l)
-- [Loi n° 93-923 du 19 juillet 1993 (ECOX9300080L)](loi-n-93-923-du-19-juillet-1993-ecox9300080l)
 - [Loi n° 93-924 du 20 juillet 1993 (MCCX9300529L)](loi-n-93-924-du-20-juillet-1993-mccx9300529l)
 - [Loi n° 93-933 du 22 juillet 1993 (JUSX9300479L)](loi-n-93-933-du-22-juillet-1993-jusx9300479l)
 - [Loi n° 93-934 du 22 juillet 1993 (AGRX9300027L)](loi-n-93-934-du-22-juillet-1993-agrx9300027l)

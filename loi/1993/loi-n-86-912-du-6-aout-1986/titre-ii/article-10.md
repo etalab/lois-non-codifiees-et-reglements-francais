@@ -1,6 +1,6 @@
 # Article 10
 
-I. - Postérieurement au décret visé au premier alinéa du paragraphe II de l'article 2 de la loi de privatisation n° 93-923 du 19 juillet 1993 et préalablement à la saisine de la commission de la privatisation, un décret détermine, pour chacune des entreprises mentionnées à l'article 2 de la loi de privatisation n° 93-923 du 19 juillet 1993, si la protection des intérêts nationaux exige qu'une action ordinaire de l'Etat soit transformée en une action spécifique assortie de tout ou partie des droits définis ci-dessous. Dans l'affirmative, ledit décret prononce également cette transformation.
+I. - Postérieurement au décret visé au I et au 1° du II de l'article 22 de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des sociétés à participation publique et préalablement à la saisine de la commission de la privatisation, un décret détermine, pour chacune des entreprises concernées, si la protection des intérêts nationaux exige qu'une action ordinaire de l'Etat soit transformée en une action spécifique assortie de tout ou partie des droits définis ci-dessous. Dans l'affirmative, ledit décret prononce également cette transformation.
 
 Les droits pouvant être attachés à une action spécifique sont les suivants :
 
@@ -10,7 +10,7 @@ Les droits pouvant être attachés à une action spécifique sont les suivants :
 
 3° Le pouvoir de s'opposer, dans des conditions fixées par décret en Conseil d'Etat, aux décisions de cession d'actifs ou de certains types d'actifs de la société ou de ses filiales ou d'affectation de ceux-ci à titre de garantie, qui sont de nature à porter atteinte aux intérêts nationaux.
 
-L'institution de cette action produit ses effets de plein droit.    Hormis les cas où l'indépendance nationale est en cause, l'action spécifique peut à tout moment être définitivement transformée en action ordinaire par décret.
+L'institution de cette action produit ses effets de plein droit. Hormis les cas où l'indépendance nationale est en cause, l'action spécifique peut à tout moment être définitivement transformée en action ordinaire par décret.
 
 II. - Pour les entreprises visées au présent titre ou leurs filiales, dont l'activité principale relève des articles 55, 56 et 223 du traité instituant la Communauté européenne, les participations excédant 5 p. 100 prises par des personnes physiques ou morales étrangères ou sous contrôle étranger, au sens de l'article L. 233-3 du code de commerce, agissant seules ou de concert, sont soumises à l'agrément du ministre chargé de l'économie.
 
@@ -20,4 +20,4 @@ Le ministre chargé de l'économie informe de ces prises de participation le pr�
 
 Passé le délai de trois mois mentionné au premier alinéa du présent paragraphe, il est procédé à la vente forcée des titres dans les conditions fixées par décret.
 
-IV. - Les dispositions des paragraphes I à III s'appliquent également aux entreprises du secteur public mentionnées au premier alinéa de l'article 20 lors de leur transfert au secteur privé.
+IV. - Les dispositions des paragraphes I à III s'appliquent également aux entreprises du secteur public mentionnées au IV de l'article 22 de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le capital des sociétés à participation publique lors de leur transfert au secteur privé.
