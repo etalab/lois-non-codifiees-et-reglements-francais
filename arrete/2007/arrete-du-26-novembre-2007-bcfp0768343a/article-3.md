@@ -5,376 +5,302 @@ La composition des commissions administratives paritaires nationales visées à 
 <table>
 <tbody>
 <tr>
-<td width="302">
-<p align="center">COMMISSIONS ADMINISTRATIVES PARITAIRES</p>
-<p align="center">Grades représentés</p>
+<td rowspan="3">
+<p align="center"> COMMISSIONS ADMINISTRATIVES PARITAIRES<br/>Grades représentés </p>
 </td>
-<td colspan="4" width="231">
-<p align="center">NOMBRE DE REPRÉSENTANTS</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302"/>
-<td colspan="2" valign="top">
-<p align="center">Du personnel</p>
-</td>
-<td colspan="2" valign="top" width="115">
-<p align="center">De l'administration</p>
+<td colspan="4">
+<p align="center"> NOMBRE DE REPRÉSENTANTS</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302"/>
-<td valign="top">
-<p>Titulaires</p>
+<td colspan="2">
+<p align="center"> Du personnel </p>
 </td>
-<td valign="top">
-<p>Suppléants</p>
-</td>
-<td valign="top">
-<p>Titulaires</p>
-</td>
-<td valign="top" width="63">
-<p>Suppléants</p>
+<td colspan="2">
+<p align="center"> De l'administration </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p align="center">N° 1</p>
+<td>
+<p align="center">Titulaires</p>
 </td>
-<td valign="top">
-<br/>
+<td>
+<p align="center">Suppléants</p>
 </td>
-<td valign="top">
-<br/>
+<td>
+<p align="center">Titulaires</p>
 </td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
+<td>
+<p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Directeur des services douaniers de 1<sup>re</sup> classe</p>
+<td>
+<p align="center"> N° 1</p>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left">
+<br/>Directeur principal des services douaniers <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td valign="top">
-<p align="center">4</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td valign="top" width="63">
-<p align="center">4</p>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Directeur des services douaniers de 1re classe <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
+</td>
+<td align="center">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Directeur des services douaniers de 2<sup>e</sup> classe</p>
+<td align="left">
+<br/>Directeur des services douaniers de 2e classe <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="center">
+<br/>N° 2 <br/>
 </td>
-<td valign="top" width="63">
-<br/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Inspecteur principal de 1re classe <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>4 <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>4 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p align="center">N° 2</p>
+<td align="left">
+<br/>Inspecteur principal de 2e classe <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Inspecteur principal de 1<sup>re</sup> classe</p>
+<td align="center">
+<br/>N° 3 <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Inspecteur régional de 1re classe <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top">
-<p align="center">4</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top" width="63">
-<br/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Inspecteur régional de 2e classe <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Inspecteur principal de 2<sup>e</sup> classe</p>
+<td align="left">
+<br/>Inspecteur régional de 3e classe <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="center">
+<br/>N° 4 <br/>
 </td>
-<td valign="top" width="63">
-<br/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Inspecteur <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p align="center">N° 3</p>
+<td align="center">
+<br/>N° 5 <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Contrôleur principal <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top" width="63">
-<br/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Contrôleur de 1re classe <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Inspecteur régional de 1<sup>re</sup> classe</p>
+<td align="left">
+<br/>Contrôleur de 2e classe <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top">
-<br/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="center">
+<br/>N° 6 <br/>
 </td>
-<td valign="top" width="63">
-<br/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Agent de constatation principal des douanes de 1re classe <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left">
+<br/>Agent de constatation principal des douanes de 2e classe <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Inspecteur régional de 2<sup>e</sup> classe</p>
+<td align="left">
+<br/>Agent de constatation des douanes de 1re et 2e classe <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<p align="center">6</p>
-</td>
-<td valign="top" width="63">
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Inspecteur régional de 3<sup>e</sup> classe</p>
-</td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p align="center">N° 4</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Inspecteurs</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
-</td>
-<td valign="top" width="63">
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p align="center">N° 5</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Contrôleur principal</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Contrôleur de 1<sup>re</sup> classe</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">9</p>
-</td>
-<td valign="top" width="63">
-<p align="center">9</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Contrôleur de 2<sup>e</sup> classe</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p align="center">N° 6</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Agent de constatation principal de 1<sup>re</sup> classe</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Agent de constatation principal de 2<sup>e</sup> classe</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">9</p>
-</td>
-<td valign="top" width="63">
-<p align="center">9</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Agents de constatation de 1<sup>re</sup> et 2<sup>e</sup> classe</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top" width="63">
-<br/>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 </tbody>

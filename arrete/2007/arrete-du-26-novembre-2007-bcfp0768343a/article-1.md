@@ -1,8 +1,10 @@
 # Article 1
 
-Il est institué auprès du directeur général des douanes et droits indirects 6 commissions administratives paritaires nationales compétentes respectivement à l'égard des personnels indiqués ci-dessous :
+Il est institué auprès de la directrice générale des douanes et droits indirects six commissions administratives paritaires nationales compétentes respectivement à l'égard des personnels indiqués ci-dessous :
 
 _Commission administrative paritaire n° 1_
+
+Directeur principal des services douaniers.
 
 Directeur des services douaniers de 1re classe.
 
