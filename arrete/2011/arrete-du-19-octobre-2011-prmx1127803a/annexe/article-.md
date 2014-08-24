@@ -82,4 +82,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - restructuration des pôles territoriaux Nord, Centre et Sud de la direction départementale des territoires de la Mayenne ;
 
-- fermeture des points d'appui de Rocroi, Fumay, Rethel et Vouziers de la direction départementale des territoires des Ardennes.
+- fermeture des points d'appui de Rocroi, Fumay, Rethel et Vouziers de la direction départementale des territoires des Ardennes ;
+
+-fermeture de l'agence territoriale du Grand Clermont de la direction départementale des territoires du Puy-de-Dôme ;
+
+-fermeture de l'implantation territoriale Centre et restructuration de l'unité territoriale Nord de Saint-Dizier de la direction départementale des territoires de la Haute-Marne.
