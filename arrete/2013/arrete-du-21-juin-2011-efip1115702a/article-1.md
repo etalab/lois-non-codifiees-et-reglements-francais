@@ -19,7 +19,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du service de la logistique </p>
+<p align="left">Chef du service de la logistique (supprimé à compter du 1er mai 2014)</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +27,25 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Agence nationale des fréquences <br/>
 </p>
 </td>
-<td align="left">Chef du service régional de Villejuif (A compter du 1er janvier 2013)</td>
+<td align="left">Chef du service régional de Villejuif (A compter du 1er janvier 2013) (supprimé à compter du 1er septembre 2014)</td>
+</tr>
+<tr>
+<td>
+<p align="left">Agence nationale des fréquences <br/>
+</p>
+</td>
+<td>
+<p align="left">Chef du service des ressources humaines (A compter du 1er mai 2014)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Agence nationale des fréquences <br/>
+</p>
+</td>
+<td>
+<p align="left">Directeur adjoint de la direction de la gestion des fréquences (A compter du 1er septembre 2014)</p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -157,13 +175,22 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction du budget </p>
 </td>
 <td>
-<p align="left">Adjoint au contrôleur général chargé du contrôle de certains opérateurs de recherche au sein du service du contrôle budgétaire et comptable ministériel du ministère de l'éducation nationale et du ministère de l'enseignement supérieur et de la recherche (Ajouté à compter du 1er mars 2014)</p>
+<p align="left">Adjoint au contrôleur général chargé du contrôle de certains opérateurs de recherche au sein du service du contrôle budgétaire et comptable ministériel du ministère de l'éducation nationale et du ministère de l'enseignement supérieur et de la recherche (Ajouté à compter du 1er mars 2014) (supprimé à compter du 1er juillet 2014)</p>
 </td>
 </tr>
 <tr>
 <td align="left">Direction du budget </td>
 <td>
 <p align="left">Chargé de la coordination de la réglementation et de l'animation du réseau du contrôle budgétaire central (A compter du 1er janvier 2013)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction du budget </p>
+</td>
+<td>
+<p align="left">Expert chargé de synthèse sur les problématiques des opérateurs de l'enseignement supérieur, de la recherche et de l'enseignement scolaire au sein du département de contrôle budgétaire du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche (A compter du 1er juillet 2014)<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -462,8 +489,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td>Direction générale de la compétitivité, de l'industrie et des services </td>
-<td>Chef du service "développement économique des territoires, économie de proximité et tourisme" à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des Pays de la Loire <br/>
+<td>
+<p align="left">Direction générale de la compétitivité, de l'industrie et des services </p>
+</td>
+<td>
+<p align="left">Chef du service "développement économique des territoires, économie de proximité et tourisme" à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des Pays de la Loire <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -670,7 +701,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction générale des finances publiques </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef du bureau des politiques sectorielles et taxes sur les transactions (A compter du 1er juin 2013)</p>
+<p align="left">Adjoint au chef du bureau des politiques sectorielles et taxes sur les transactions (A compter du 1er juin 2013) (supprimé à compter du 26 septembre 2014)</p>
 </td>
 </tr>
 <tr>
@@ -726,7 +757,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </p>
 </td>
 <td align="center">
-<p align="left">Adjoint au responsable chargé de la mission "organisation des services, qualité, simplifications" </p>
+<p align="left">Adjoint au responsable chargé de la mission "organisation des services, qualité, simplifications" (supprimé à compter du 1er octobre 2013)</p>
 </td>
 </tr>
 <tr>
@@ -978,7 +1009,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td>
 <p align="left">Secrétariat général </p>
 </td>
-<td align="left">Chef de la mission préfiguration du pilotage ministériel de paye (A compter du 6 mai 2013)<br/>
+<td align="left">Chef de la mission "préfiguration du pilotage ministériel de paye" (A compter du 6 mai 2013) (supprimé à compter du 24 juillet 2014)<br/>
 </td>
 </tr>
 <tr>
@@ -1003,6 +1034,32 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td>
 <p align="left">Inspectrice coordonnatrice nationale de l'inspection santé et sécurité au travail (A compter du 1er janvier 2013)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Secrétariat général </p>
+</td>
+<td>
+<p align="left">Responsable chargé de la mission organisation des services (A compter du 1er octobre 2013)<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Secrétariat général </p>
+</td>
+<td>
+<p align="left">Chef de la mission d'appui à la modernisation de la gestion des ressources humaines (A compter du 24 juillet 2014)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Services du Premier ministre </p>
+</td>
+<td>
+<p align="left">Chef du pôle ressources humaines au secrétariat général pour la modernisation de l'action publique (A compter du 1er juillet 2014)<br/>
+</p>
 </td>
 </tr>
 <tr>

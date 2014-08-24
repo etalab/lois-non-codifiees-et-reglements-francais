@@ -34,7 +34,15 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <p align="left">Agence nationale des fréquences </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Conseiller auprès du directeur général pour l'audit et le système d'information (ajouté à compter du 21 janvier 2013)</p>
+<p align="left">Conseiller auprès du directeur général pour l'audit et le système d'information (ajouté à compter du 21 janvier 2013)(supprimé à compter du 1er septembre 2014)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Agence nationale des fréquences </p>
+</td>
+<td>
+<p align="left">Chef du service régional de Villejuif (A compter du 1er septembre 2014)</p>
 </td>
 </tr>
 <tr>
@@ -139,6 +147,15 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Direction générale des finances publiques <br/>
+</p>
+</td>
+<td>
+<p align="left">Adjoint au chef du bureau des politiques sectorielles et taxes sur les transactions (A compter du 26 septembre 2014)</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Direction générale du Trésor </p>
 </td>
@@ -193,7 +210,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </p>
 </td>
 <td align="center">
-<p align="left">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées </p>
+<p align="left">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées (supprimé à compter du 24 juillet 2014)</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +256,16 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <p align="left">Secrétariat général </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Responsable de la mission de coordination et de promotion de l'offre internet (ajouté à compter du 1er août 2013)</p>
+<p align="left">Responsable de la mission de coordination et de promotion de l'offre internet (ajouté à compter du 1er août 2013) (supprimé à compter du 15 mars 2014)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Secrétariat général </p>
+</td>
+<td>
+<p align="left">Chef du bureau "politique éditoriale, internet et intranet" (A compter du 15 mars 2014)<br/>
+</p>
 </td>
 </tr>
 <tr>
