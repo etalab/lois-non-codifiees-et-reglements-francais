@@ -50,17 +50,21 @@ j) Un sceau cryptographique.
 
 Le parieur est tenu de contrôler immédiatement la conformité des éléments imprimés sur le récépissé avec le pari qu'il souhaitait engager, aucune réclamation sur ce point ne pouvant, par la suite, être prise en considération.
 
-Tout récépissé, modifié, altéré ou dont au moins un seul de ses éléments d'identification, quelle qu'en soit la cause, est rendu illisible, n'est ni réglé, ni remboursé, sans préjudice de l'éventuelle application de l'article 8 du présent arrêté.
+Tout récépissé, modifié, altéré, reproduit ou dont au moins un seul de ses éléments d'identification, quelle qu'en soit la cause, est rendu illisible, n'est ni réglé, ni remboursé, sans préjudice de l'éventuelle application de l'article 8 du présent arrêté.
 
-Le parieur est seul responsable de la conservation de son récépissé.
+Le parieur est seul responsable de la conservation de son récépissé et de la confidentialité des données dont il est le support.
 
 Le pari mutuel urbain est dégagé de toute responsabilité en cas d'utilisation frauduleuse de ce récépissé.
+
+Le récépissé donne lieu à paiement des gains afférents conformément aux dispositions de l'article 21 du présent arrêté.
+
+Les caractéristiques du paiement, de l'annulation ou du remboursement d'un récépissé sont enregistrées sur le système informatique central du Pari mutuel urbain de sorte qu'un même récépissé ne peut être soit payé, soit annulé, soit remboursé qu'une seule fois. Pour toute nouvelle tentative, il sera fait application des dispositions de l'article 8 du présent arrêté.
 
 4. Convention de preuve.
 
 Le récépissé remis au parieur constitue la preuve du pari qu'il a engagé sous réserve de sa concordance parfaite avec les éléments enregistrés sur le système informatique central du pari mutuel urbain.
 
-En cas de distorsion, pour quelque cause que ce soit, entre les caractéristiques du pari telles qu'elles ont été enregistrées sur le système informatique central du pari mutuel urbain et celles qui figurent sur le récépissé, seules les caractéristiques enregistrées sur support magnétique avec scellement de données sur le système informatique central du pari mutuel urbain fonctionnant en temps réel font foi : en particulier, le parieur ne pourra invoquer ni la preuve testimoniale ni les éléments d'identification figurant sur le récépissé.
+En cas de distorsion, pour quelque cause que ce soit, entre les caractéristiques du pari, de la transaction de paiement, d'annulation ou de remboursement telles qu'elles ont été enregistrées sur le système informatique central du Pari mutuel urbain et celles qui figurent sur le récépissé, seules les caractéristiques enregistrées sur support magnétique avec scellement de données sur le système informatique central du Pari mutuel urbain fonctionnant en temps réel font foi : en particulier, le parieur ne pourra invoquer ni la preuve testimoniale ni les éléments d'identification figurant sur le récépissé.
 
 Le pari mutuel urbain ne pourra, en aucun cas, voir sa responsabilité recherchée du fait de cette distorsion, quelle qu'en soit la cause, sauf au parieur à la démontrer, à prouver le lien de causalité entre cette distorsion et le préjudice allégué par lui et à condition de pouvoir justifier qu'il s'agit d'une cause impliquant la responsabilité fautive exclusive du pari mutuel urbain.
 
