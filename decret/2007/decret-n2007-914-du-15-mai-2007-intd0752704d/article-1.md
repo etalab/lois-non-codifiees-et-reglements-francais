@@ -2,15 +2,15 @@
 
 Relèvent des dispositions du dernier alinéa du I de l'article 30 de la loi du 6 janvier 1978 susvisée les traitements automatisés de données à caractère personnel intéressant la sûreté de l'Etat, la défense ou la sécurité publique autorisés par les actes réglementaires suivants :
 
-1. Décret portant création au profit de la    direction générale de la sécurité intérieure d'un traitement automatisé de données à caractère personnel dénommé CRISTINA ;
+1. Décret portant création au profit de la direction générale de la sécurité intérieure d'un traitement automatisé de données à caractère personnel dénommé CRISTINA ;
 
 2. Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 aux fichiers d'informations nominatives mis en œuvre par la direction générale de la sécurité extérieure ;
 
-3. Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 aux fichiers de la direction de la protection et de la sécurité de la défense ;
+3. Décret autorisant la mise en œuvre par la direction de la protection et de la sécurité de la défense d'un traitement automatisé de données à caractère personnel dénommé SIREX ;
 
 4. Décret portant application des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 au fichier d'informations nominatives mis en œuvre par la direction du renseignement militaire ;
 
-5. Arrêté relatif au traitement automatisé d'informations nominatives mis en œuvre par la direction de la protection et de la sécurité de la défense ;
+5. Abrogé ;
 
 6. Arrêté relatif au traitement automatisé d'informations nominatives " fichier de la DGSE " mis en œuvre par la direction générale de la sécurité extérieure ;
 
