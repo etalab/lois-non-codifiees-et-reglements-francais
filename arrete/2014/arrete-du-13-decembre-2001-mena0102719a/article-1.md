@@ -1,0 +1,5 @@
+# Article 1
+
+Les recteurs d'académie et les vice-recteurs du Département de Mayotte et de Polynésie française reçoivent, dans les limites fixées à l'article 2 ci-dessous, délégation de pouvoirs du ministre chargé de l'enseignement supérieur pour certaines opérations de gestion des personnels titulaires et stagiaires du corps des adjoints techniques de recherche et de formation régis par le décret du 31 décembre 1985 susvisé affectés dans les services déconcentrés du ministère de l'éducation nationale et au sein des établissements publics et institutions relevant des ministres chargés de l'éducation nationale, de l'enseignement supérieur et de la jeunesse et des sports dont la liste est fixée à l'article 2-1 du présent arrêté, situés dans le ressort de leur académie ou de leur vice-rectorat.
+
+Les délégations de pouvoirs accordées en application du présent arrêté s'appliquent sous réserve des dispositions des conventions conclues entre l'Etat et la Polynésie française en application des articles 61, 169 et 170 de la loi organique n° 2004-192 du 27 février 2004, s'agissant des personnels mis à disposition de la Polynésie française sur ce fondement.
