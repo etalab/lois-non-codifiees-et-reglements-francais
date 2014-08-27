@@ -42,6 +42,7 @@
 <p>6. Bourg-en-Bresse, site de Bourg-en-Bresse</p>
 <p>7. Grenoble, site de Grenoble-La Tronche</p>
 <p>8. Valence, site de Valence</p>
+<p>9 - Lyon, site de Lyon-Confluence </p>
 </td>
 </tr>
 <tr>
@@ -49,9 +50,9 @@
 <p>4. Sites de délivrance de PSL</p>
 </td>
 <td width="340">
-<p>1. Annonay, site d'Annonay<br/>2. Annemasse, site d'Annemasse HAL</p>
+<p>1. (supprimé)<br/>2. Annemasse, site d'Annemasse HAL</p>
 <p>3. Chambéry, site de Chambéry</p>
-<p>4. Metz-Tessy, site d'Annecy - Metz-Tessy (CHRA)</p>
+<p>4 - Metz-Tessy, site d'Annecy-Metz-Tessy (CHANGE)</p>
 <p>5. Bourg-en-Bresse, site de Bourg-en-Bresse</p>
 <p>6. Grenoble, site de Grenoble-La Tronche</p>
 <p>7. Lyon, site Cardio GHE</p>
@@ -66,14 +67,14 @@
 <p>5. Sites de distribution de PSL aux Établissements de santé gérant un dépôt de sang</p>
 </td>
 <td width="340">
-<p>1. Annonay, site d'Annonay<br/>2. Annemasse, site d'Annemasse HAL<br/>3. Chambéry, site de Chambéry<br/>4. Metz-Tessy, site d'Annecy - Metz-Tessy (CHRA)<br/>5. Bourg-en-Bresse, site de Bourg-en-Bresse</p>
+<p>1. (supprimé)<br/>2. Annemasse, site d'Annemasse HAL<br/>3. Chambéry, site de Chambéry<br/>4 - Metz-Tessy, site d'Annecy-Metz-Tessy (CHANGE)</p>
+<p>5. Bourg-en-Bresse, site de Bourg-en-Bresse</p>
 <p>6. Grenoble, site de Grenoble-La Tronche</p>
 <p>7. Lyon, site Cardio GHE</p>
 <p>8. Lyon, site de la Croix-Rousse</p>
 <p>9. Lyon, site Hôpital Edouard Herriot</p>
 <p>10. Lyon, site de Lyon-Sud</p>
 <p>11. Valence, site de Valence</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -81,8 +82,8 @@
 <p>6. Sites réalisant des analyses IH Receveur</p>
 </td>
 <td width="340">
-<p>1. Annonay, site d'Annonay<br/>2. Annemasse, site d'Annemasse Alpes-Léman<br/>3. Chambéry, site de Chambéry</p>
-<p>4. Metz-Tessy, site d'Annecy - Metz-Tessy (CHRA)</p>
+<p>1. (supprimé)<br/>2. Annemasse, site d'Annemasse Alpes-Léman<br/>3. Chambéry, site de Chambéry</p>
+<p>4 - Metz-Tessy, site d'Annecy-Metz-Tessy (CHANGE)</p>
 <p>5. Bourg-en-Bresse, site de Bourg-en-Bresse</p>
 <p>6. Grenoble, site de Grenoble-La Tronche</p>
 <p>7. Lyon, site Cardio GHE</p>

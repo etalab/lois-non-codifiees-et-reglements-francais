@@ -27,7 +27,7 @@
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
 <td width="375">
-<p>1. Dijon, site de Dijon</p>
+<br/>
 </td>
 </tr>
 <tr>

@@ -28,14 +28,11 @@
 <td>
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
-<td>
-<p>1. BORDEAUX, site de Bordeaux Pellegrin</p>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="10" valign="top">
 <p>3. Sites fixes de collecte</p>
-<br/>
 </td>
 <td>
 <p>1. AGEN, site d'Agen</p>
@@ -89,7 +86,6 @@
 <tr>
 <td rowspan="11" valign="top">
 <p>4. Sites de délivrance de PSL</p>
-<br/>
 </td>
 <td>
 <p>1. AGEN, site d'Agen</p>
@@ -174,23 +170,20 @@
 
 <div align="center">
 
-</div>
-
-2. Etablissements de santé autorisés à gérer un dépôt de sang
-
+<p>2. Etablissements de santé autorisés à gérer un dépôt de sang</p>
 <div align="center">
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> NUMÉRO<br/>du département</p>
+<p align="center">NUMÉRO<br/>du département</p>
 </td>
 <td>
-<p align="center"> NOM DE L'ÉTABLISSEMENT<br/>de santé</p>
+<p align="center">NOM DE L'ÉTABLISSEMENT<br/>de santé</p>
 </td>
 <td>
-<p align="center"> VILLE<br/>d'implantation<br/>de l'établissement<br/>de santé</p>
+<p align="center">VILLE<br/>d'implantation<br/>de l'établissement<br/>de santé</p>
 </td>
 </tr>
 <tr>
@@ -372,8 +365,7 @@
 <tr>
 <td align="center">33<br/>
 </td>
-<td align="center">Centre hospitalier Saint-Nicolas<br/>
-</td>
+<td align="center">Centre hospitalier de la Haute-Gironde </td>
 <td align="center">Blaye<br/>
 </td>
 </tr>
@@ -516,7 +508,7 @@
 <tr>
 <td align="center">64<br/>
 </td>
-<td align="center">Polyclinique Sokorri<br/>
+<td align="center">Centre hospitalier de Saint-Palais<br/>
 </td>
 <td align="center">Saint-Palais<br/>
 </td>
@@ -555,5 +547,8 @@
 </tr>
 </tbody>
 </table>
+
+</div>
+<br/>
 
 </div>

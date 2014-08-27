@@ -311,17 +311,6 @@
 <p align="center">57</p>
 </td>
 <td width="284">
-<p>Hôpital de Freyming-Merlebach</p>
-</td>
-<td width="284">
-<p>Freyming-Merlebach</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">57</p>
-</td>
-<td width="284">
 <p>Hospitalor Saint-Avold</p>
 </td>
 <td width="284">
@@ -355,7 +344,7 @@
 <p align="center">88</p>
 </td>
 <td width="284">
-<p>Centre hospitalier Jean Monnet d'Epinal</p>
+<p>Centre hospitalier intercommunal Emile Durkheim </p>
 </td>
 <td width="284">
 <p>Epinal</p>

@@ -21,13 +21,12 @@
 <tr>
 <td align="center">2. Plateau technique de qualification biologique du don<br/>
 </td>
-<td align="center">1. Strasbourg, site de Strasbourg Spielmann<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">3. Sites fixes de collectes<br/>
 </td>
-<td align="center">1. Strasbourg, site de Strasbourg Spielmann<br/>2. Colmar, site de Colmar<br/>3. Mulhouse, site de Mulhouse<br/>4. Sarrebourg, site de Sarrebourg<br/>
+<td align="center">1. Strasbourg, site de Strasbourg Spielmann<br/>2. Colmar, site de Colmar<br/>3. Mulhouse, site de Mulhouse<br/>
 </td>
 </tr>
 <tr>
@@ -164,11 +163,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">68<br/>
+<td>
+<p align="center"> 68</p>
 </td>
-<td align="center">Clinique Saint-Sauveur de Mulhouse<br/>
+<td>
+<p align="center"> Clinique Diaconat Fonderie</p>
 </td>
-<td align="center">Mulhouse<br/>
+<td>
+<p align="center"> Mulhouse</p>
 </td>
 </tr>
 <tr>

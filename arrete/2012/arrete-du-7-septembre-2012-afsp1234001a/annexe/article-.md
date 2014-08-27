@@ -137,7 +137,7 @@
 </tr>
 <tr>
 <td>
-<p>5. Lille, site Loos Eurasanté</p>
+<p>5- Centre hospitalier régional universitaire de Lille</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@
 <p>5. Sites de distribution de PSL aux Etablissements de santé gérant un dépôt de sang</p>
 </td>
 <td>
-<p>1. Amiens, site Amiens Lesot hôpital<br/>2. Creil, site de Creil<br/>3. Dunkerque, site de Dunkerque<br/>4. Lens, site Lens hôpital<br/>5. Lille, site Loos Eurasanté<br/>6. Saint-Quentin, site Saint-Quentin hôpital<br/>7. Valenciennes, site Valenciennes hôpital<br/>8. Charleville-Mézières, site Charleville-Mézières<br/>9. Reims, site de Reims</p>
+<p>1. Amiens, site Amiens Lesot hôpital<br/>2. Creil, site de Creil<br/>3. Dunkerque, site de Dunkerque<br/>4. Lens, site Lens hôpital<br/>5- Centre hospitalier régional universitaire de Lille<br/>6. Saint-Quentin, site Saint-Quentin hôpital<br/>7. Valenciennes, site Valenciennes hôpital<br/>8. Charleville-Mézières, site Charleville-Mézières<br/>9. Reims, site de Reims</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +330,7 @@
 <p align="center">60</p>
 </td>
 <td>
-<p>Centre hospitalier de la Haute Vallée de l'Oise, Noyon</p>
+<p>Centre hospitalier intercommunal de Compiègne Noyon </p>
 </td>
 <td>
 <p>Noyon</p>
@@ -429,7 +429,7 @@
 <p align="center">60</p>
 </td>
 <td>
-<p>Centre hospitalier de Compiègne</p>
+<p>Centre hospitalier intercommunal de Compiègne Noyon </p>
 </td>
 <td>
 <p>Compiègne</p>
@@ -605,7 +605,7 @@
 <p align="center">62</p>
 </td>
 <td>
-<p>Clinique chirurgicale d'Hesdin à Marconne</p>
+<p>Clinique chirurgicale des 7 Vallées </p>
 </td>
 <td>
 <p>Marconne</p>

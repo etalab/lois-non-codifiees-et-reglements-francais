@@ -27,7 +27,7 @@
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
 <td width="337">
-<p>1. Rennes, site de Rennes Pontchaillou</p>
+<br/>
 </td>
 </tr>
 <tr>

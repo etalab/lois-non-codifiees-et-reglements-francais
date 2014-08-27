@@ -43,7 +43,7 @@
 <p>4. Le Puy-en-Velay, site du Puy-en-Velay</p>
 <p>5. Roanne, site de Roanne</p>
 <p>6. Saint-Priez-en-Jarez, site de Saint-Priez-en-Jarez</p>
-<p>7. Saint-Etienne, site de Saint-Etienne Bellevue</p>
+<p>7-Saint-Etienne, site de Saint-Etienne Châteaucreux </p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@
 <tr>
 <td align="center">15<br/>
 </td>
-<td align="center">Centre hospitalier d'Aurillac<br/>
+<td align="center">Centre hospitalier Henri Mondor <br/>
 </td>
 <td align="center">Aurillac<br/>
 </td>

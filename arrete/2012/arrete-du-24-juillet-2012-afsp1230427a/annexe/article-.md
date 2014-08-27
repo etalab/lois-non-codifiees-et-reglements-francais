@@ -37,7 +37,11 @@
 </p>
 </td>
 <td align="center">
-<p align="left">1. AVICENNE, site d'Avicenne<br/>2. PARIS, site de Beaujon<br/>3. PARIS, site de Bichat<br/>4. PARIS, site de Cabanel<br/>5. CRÉTEIL, site de Créteil<br/>6. ÉVRY, site d'Evry<br/>7. SURESNES, site de Foch<br/>8. PARIS, site de l'hôpital européen Georges Pompidou (HEGP)<br/>9. PARIS, site de La Pitié-Salpêtrière<br/>10. Meaux, site de Meaux<br/>11. PARIS, site de Lariboisière<br/>12. LES ULIS, site des Ulis<br/>13. LE PLESSIS-ROBINSON, site de Marie Lannelongue<br/>14. MELUN, site de Melun<br/>15. VILLEJUIF, site de Paul Brousse<br/>16. POISSY, site de Poissy<br/>17. PONTOISE, site de Pontoise<br/>18. RAMBOUILLET, site de Rambouillet<br/>19. PARIS, site de Robert Debré<br/>20. PARIS, site de Saint-Louis<br/>21. PARIS, site de Saint-Antoine - Crozatier<br/>22. VERSAILLES, site de Versailles<br/>23. PARIS, site de collecte fixe Trinité<br/>
+<p align="left">1. AVICENNE, site d'Avicenne<br/>2. PARIS, site de Beaujon<br/>3. PARIS, site de Bichat<br/>4. PARIS, site de Cabanel<br/>5. CRÉTEIL, site de Créteil<br/>6. ÉVRY, site d'Evry</p>
+<p align="left">7. (supprimé)</p>
+<p align="left">8. PARIS, site de l'hôpital européen Georges Pompidou (HEGP)<br/>9. PARIS, site de La Pitié-Salpêtrière<br/>10. Meaux, site de Meaux<br/>11. PARIS, site de Lariboisière<br/>12. LES ULIS, site des Ulis</p>
+<p align="left">13. (supprimé)</p>
+<p align="left">14. MELUN, site de Melun<br/>15. VILLEJUIF, site de Paul Brousse<br/>16. POISSY, site de Poissy<br/>17. PONTOISE, site de Pontoise<br/>18. RAMBOUILLET, site de Rambouillet<br/>19. PARIS, site de Robert Debré<br/>20. PARIS, site de Saint-Louis<br/>21. PARIS, site de Saint-Antoine - Crozatier<br/>22. VERSAILLES, site de Versailles<br/>23. PARIS, site de collecte fixe Trinité<br/>
 </p>
 </td>
 </tr>
@@ -59,8 +63,13 @@
 </p>
 </td>
 <td align="center">
-<p align="left">1. AVICENNE, site d'Avicenne<br/>2. PARIS, site de Beaujon<br/>3. PARIS, site de Cochin<br/>4. ÉVRY, site d'Evry<br/>5. PARIS, site de l'hôpital européen Georges Pompidou (HEGP)<br/>6. CRÉTEIL, site d'Henri Mondor<br/>7. VILLEJUIF, site de l'institut Gustave Roussy<br/>8. LE PLESSIS-ROBINSON, site de Marie Lannelongue<br/>9. MELUN, site de Melun<br/>10. PARIS, site de Necker-Enfants malades<br/>11. PARIS, site de La Pitié-Salpêtrière<br/>12. POISSY, site de Poissy<br/>13. PONTOISE, site de Pontoise<br/>14. PARIS, site de Saint-Antoine<br/>15. VERSAILLES, site de Versailles<br/>
-</p>
+<p align="left">1. AVICENNE, site d'Avicenne<br/>2. PARIS, site de Beaujon<br/>3. PARIS, site de Cochin<br/>4. ÉVRY, site d'Evry<br/>5. PARIS, site de l'hôpital européen Georges Pompidou (HEGP)<br/>6. CRÉTEIL, site d'Henri Mondor<br/>7. VILLEJUIF, site de l'institut Gustave Roussy<br/>8. LE PLESSIS-ROBINSON, site de Marie Lannelongue<br/>9. MELUN, site de Melun<br/>10. PARIS, site de Necker-Enfants malades<br/>11. PARIS, site de La Pitié-Salpêtrière<br/>12. POISSY, site de Poissy<br/>13. PONTOISE, site de Pontoise<br/>14. PARIS, site de Saint-Antoine<br/>15. VERSAILLES, site de Versailles</p>
+<p align="left">16. Clamart, site Antoine Béclère <br/>17. Meaux, site de Meaux </p>
+<p align="left">18. Paris, site de Bichat </p>
+<p align="left">19. Paris, site de Lariboisière </p>
+<p align="left">20. Paris, site de Robert Debré </p>
+<p align="left">21. Paris, site de Tenon </p>
+<p align="left">22. Villejuif, site de Paul Brousse </p>
 </td>
 </tr>
 <tr>

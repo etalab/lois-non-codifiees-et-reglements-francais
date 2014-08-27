@@ -331,7 +331,7 @@
 <p align="center">86</p>
 </td>
 <td width="284">
-<p>Centre hospitalier de Châtellerault</p>
+<p>Groupe hospitalier Nord-Vienne</p>
 </td>
 <td width="284">
 <p>Châtellerault</p>
@@ -353,7 +353,7 @@
 <p align="center">86</p>
 </td>
 <td width="284">
-<p>Centre hospitalier de Loudun</p>
+<p>Groupe hospitalier Nord-Vienne </p>
 </td>
 <td width="284">
 <p>Loudun</p>
