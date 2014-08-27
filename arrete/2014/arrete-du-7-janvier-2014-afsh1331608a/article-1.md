@@ -94,97 +94,97 @@ Hospices civils de Lyon : 2 emplois :
 
 Assistance publique-hôpitaux de Marseille : 1 emploi : hôpital de la Timone.
 
-III. ― Emplois de coordonnateur général des activités de soins, de rééducation et médico-techniques dans certains établissements publics de santé ou de coordonnateur général des mêmes activités dans certains établissements publics de santé constitués en une direction commune (45 emplois) :
+III.-Emplois de coordonnateur général des activités de soins, de rééducation et médico-techniques dans certains établissements publics de santé ou de coordonnateur général des mêmes activités dans certains établissements publics de santé constitués en une direction commune (45 emplois) :
 
-― centres hospitaliers de Meaux, Lagny - Marne-la-Vallée et Coulommiers (direction commune) (77) ;
+-centres hospitaliers de Meaux, de Lagny-Marne-la-Vallée et de Coulommiers (direction commune) (77) ;
 
-― centres hospitaliers spécialisés de Sainte-Anne et de Maison-Blanche et Groupe public de santé Perray-Vaucluse (direction commune) (75) ;
+-centres hospitaliers spécialisés de Sainte-Anne et de Maison-Blanche et groupe public de santé Perray-Vaucluse (direction commune) (75) ;
 
-― centres hospitaliers de Mulhouse, Cernay, Thann et maison de retraite de Bischwiller les Thann (direction commune) (68) ;
+-centres hospitaliers de Mulhouse, de Cernay, de Thann et maison de retraite de Bischwiller-lès-Thann (direction commune) (68) ;
 
-― centre hospitalier de Valenciennes (59) ;
+-centre hospitalier de Valenciennes (59) ;
 
-― centre hospitalier de Lens (62) ;
+-centre hospitalier Annecy-Genevois (74) ;
 
-― hôpitaux civils de Colmar et centre hospitalier de Guebwiller (direction commune) (68) ;
+-centre hospitalier du Havre (76) ;
 
-― centre hospitalier du Havre (76) ;
+-centre hospitalier du Mans (72) ;
 
-― centre hospitalier du Mans (72) ;
+-hôpitaux civils de Colmar et centre hospitalier de Guebwiller (direction commune) (68) ;
 
-― centre hospitalier de la région d'Annecy et hôpital intercommunal Sud-Léman Valserine (direction commune) (74) ;
+-centre hospitalier Sud francilien à Evry (91) ;
 
-― centre hospitalier Sud francilien à Evry (91) ;
+-centres hospitaliers de Chambéry et d'Aix-les-Bains (direction commune) (73) ;
 
-― centre hospitalier de Belfort-Montbéliard (90) et maison de retraite d'Audincourt (direction commune) (25) ;
+-groupe hospitalier de La Rochelle-Ré-Aunis, centre de soins de suite de Marlonges et maison de retraite de Surgères (direction commune) (17) ;
 
-― centres hospitaliers de Chambéry et d'Aix-les-Bains (direction commune) (73) ;
+-centre hospitalier de Belfort-Montbéliard (90) et maison de retraite d'Audincourt (direction commune) (25) ;
 
-― groupe hospitalier de La Rochelle - Ré - Aunis, centre de soins de suite de Marlonges et maison de retraite de Surgères (direction commune) (17) ;
+-centres hospitaliers du Pays d'Aix, de Digne-les-Bains, de Castellane, de Seyne-les-Alpes et maison de retraite de Thoard (direction commune) (13) ;
 
-― centre hospitalier intercommunal de Poissy - Saint-Germain (78) ;
+-centre hospitalier intercommunal de Toulon-La Seyne (83) ;
 
-― centre hospitalier intercommunal de Toulon-La Seyne (83) ;
+-centre hospitalier d'Avignon et centre hospitalier intercommunal de Cavaillon-Lauris (direction commune) (84) ;
 
-― centre hospitalier d'Avignon et centre hospitalier intercommunal de Cavaillon-Lauris (direction commune) (84) ;
+-centre hospitalier départemental de La Roche-sur-Yon-Luçon-Montaigu (85) ;
 
-― centre hospitalier départemental de La Roche-sur-Yon - Luçon - Montaigu (85) ;
+-centre hospitalier intercommunal de Poissy-Saint-Germain (78) ;
 
-― centre hospitalier de Pontoise (95) ;
+-centre hospitalier de la Côte basque (64) ;
 
-― centre hospitalier de Perpignan (66) ;
+-centre hospitalier de Pontoise (95) ;
 
-― centre hospitalier de la Côte basque (64) ;
+-centre hospitalier de Perpignan (66) ;
 
-― centres hospitaliers de Libourne, Sainte-Foy-la-Grande et maison de retraite de Coutras (direction commune) (33) ;
+-centres hospitaliers de Libourne, de Sainte-Foy-la-Grande et maison de retraite de Coutras (direction commune) (33) ;
 
-― centre hospitalier Bretagne-Atlantique (56) ;
+-centre hospitalier de Cornouaille et maison de retraite de Châteaulin (direction commune) (29) ;
 
-― centres hospitaliers de Périgueux, Sarlat et Lanmary (direction commune) (24) ;
+-centres hospitaliers de Longjumeau et d'Orsay (direction commune) (91) ;
 
-― centre hospitalier de Saint-Brieuc (22) ;
+-centres hospitaliers de Périgueux, de Sarlat et de Lanmary (direction commune) (24) ;
 
-― centre hospitalier de Cornouaille et maison de retraite de Châteaulin (direction commune) (29) ;
+-centre hospitalier Bretagne-Atlantique (56) ;
 
-― centres hospitaliers de Saint-Malo, Dinan et Cancale (direction commune) (35) ;
+-centres hospitaliers de Saint-Malo, de Dinan et de Cancale (direction commune) (35) ;
 
-― centre hospitalier de Versailles (78) ;
+-centres hospitaliers de Bretagne-Sud et de Port-Louis-Riantec (direction commune) (56) ;
 
-― centre hospitalier de Niort (79) ;
+-centre hospitalier de Saint-Brieuc (22) ;
 
-― centre hospitalier de Roubaix (59) ;
+-centre hospitalier de Versailles (78) ;
 
-― centre hospitalier de Bretagne-Sud (56) ;
+-centre hospitalier de Roubaix (59) ;
 
-― centres hospitaliers de Longjumeau et d'Orsay (direction commune) (91) ;
+-centre hospitalier de Niort (79) ;
 
-― centres hospitaliers de Bourg-en-Bresse, Pont-de-Vaux et Hauteville et maison de retraite de Cerdon (direction commune) (01) ;
+-centre hospitalier de Lens (62) ;
 
-― centres hospitaliers d'Auxerre, Avallon et Tonnerre (direction commune) (89) ;
+-centres hospitaliers d'Auxerre, d'Avallon et de Tonnerre (direction commune) (89) ;
 
-― centre hospitalier intercommunal Aix-Pertuis (13) ;
+-centre hospitalier de Cayenne (970) ;
 
-― centres hospitaliers de Saintes, Saint-Jean-d'Angély et maisons de retraite de Matha et Saint-Savinien (direction commune) (17) ;
+-centres hospitaliers de Saintes, de Saint-Jean-d'Angély et maisons de retraite de Matha et de Saint-Savinien (direction commune) (17) ;
 
-― groupement hospitalier public du sud de l'Oise et hôpital local de Nanteuil-le-Haudouin (direction commune) (60) ;
+-centres hospitaliers d'Argenteuil et de Taverny (direction commune) (95) ;
 
-― centres hospitaliers de Châteauroux, Châtillon-sur-Indre, Buzançais et du Blanc et maisons de retraite de Mézières-en-Brenne, Argenton-sur-Creuse et Clion-sur-Indre (direction commune) (36) ;
+-centre hospitalier de Troyes (10) ;
 
-― centres hospitaliers d'Argenteuil et de Taverny (direction commune) (95) ;
+-centres hospitaliers de Châteauroux, de Châtillon-sur-Indre, de Buzançais et du Blanc et maisons de retraite de Mézières-en-Brenne, d'Argenton-sur-Creuse et de Clion-sur-Indre (direction commune) (36) ;
 
-― centre hospitalier de Troyes (10) ;
+-centres hospitaliers de Bourg-en-Bresse, de Pont-de-Vaux et d'Hauteville et maison de retraite de Cerdon (direction commune) (01) ;
 
-― centre hospitalier de Cayenne (970) ;
+-groupe hospitalier d'Eaubonne-Montmorency (95) ;
 
-― groupe hospitalier d'Eaubonne-Montmorency (95) ;
+-centres hospitaliers de Fontainebleau, de Nemours, de Montereau et maison de retraite de Beaumont-du-Gâtinais (direction commune) (77) ;
 
-― centre hospitalier de Saint-Quentin (02) ;
+-groupement hospitalier public du Sud de l'Oise et hôpital local de Nanteuil-le-Haudouin (direction commune) (60) ;
 
-― centres hospitaliers de Bigorre et Lourdes (direction commune) (65) ;
+-centre hospitalier de Saint-Nazaire (44) ;
 
-― centres hospitaliers intercommunaux Les hôpitaux du pays du Mont-Blanc et Les hôpitaux du Léman (direction commune) (74) ;
+-centre hospitalier de Saint-Quentin (02) ;
 
-― centre hospitalier d'Arras (62).
+-centres hospitaliers intercommunaux  Les hôpitaux du pays du Mont-Blanc     et  Les hôpitaux du Léman  (direction commune) (74).
 
 IV. - Emplois de coordonnateur général des activités de formation dans un ou plusieurs des instituts de formation ou groupe d'instituts de formation dans certains centres hospitaliers régionaux (10 emplois) :
 

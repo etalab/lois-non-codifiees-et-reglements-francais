@@ -16,6 +16,8 @@ Centre de rééducation-réadaptation fonctionnelle, à Saint-Gobain (Aisne) ;
 
 Groupe établissements publics handicaps éducation soin emploi (fusion à compter du 1er janvier 2012), à Liesse (Aisne) ;
 
+Maison de retraite, à Châtillon-sur-Chalaronne (Ain) ;
+
 Hôpital local Cœur du Bourbonnais, à Tronget (Allier) ;
 
 Hôpital local, à Bourbon-l'Archambault (Allier) ;
@@ -23,6 +25,8 @@ Hôpital local, à Bourbon-l'Archambault (Allier) ;
 Etablissement d'hébergement pour personnes âgées dépendantes, à Cusset (Allier) ;
 
 Centres hospitaliers, à Forcalquier et à Banon (Alpes-de-Haute-Provence), direction commune ;
+
+Centre d'accueil spécialisé, à Forcalquier (Alpes-de-Haute-Provence) ;
 
 Centres hospitaliers, à Embrun et à Aiguilles (Hautes-Alpes), direction commune ;
 
@@ -36,7 +40,7 @@ Centre hospitalier, à Sospel (Alpes-Maritimes) ;
 
 Centre hospitalier, à Breil-sur-Roya, et établissement d'hébergement pour personnes âgées dépendantes, à Saorge (Alpes-Maritimes), direction commune ;
 
-Maisons de retraite, à Villefranche-sur-Mer et à Peille (Alpes-Maritimes), direction commune ;
+Maison de retraite, à Villefranche-sur-Mer (Alpes-Maritimes) ;
 
 Hôpital local, à Villeneuve-de-Berg (Ardèche) ;
 
@@ -86,15 +90,13 @@ Centre hospitalier gériatrique, à Cornil (Corrèze) ;
 
 établissement public départemental autonome du Glandier, à Beyssac (Corrèze) ;
 
-Centre hospitalier intercommunal, à Corte-Tattone (Haute-Corse) ;
-
 Centre hospitalier, à Bonifacio (Corse-du-Sud) ;
 
 Centre hospitalier, à Quintin (Côtes-d'Armor) ;
 
 Centre hospitalier, à Lamballe, et établissements d'hébergement pour personnes âgées dépendantes, à Trégueux, Langueux, La Méaugon et à Créhen (Côtes-d'Armor), direction commune ;
 
-Hôpital local, à Aubusson (Creuse) ;
+Etablissement public départemental, à Plaintel (Côtes-d'Armor) ;
 
 Etablissements d'hébergement pour personnes âgées dépendantes, à Ajain et à Boussac (Creuse), direction commune ;
 
@@ -138,6 +140,8 @@ Centre hospitalier de La Loupe (Eure-et-Loir) ;
 
 Etablissements d'hébergement pour personnes âgées dépendantes, à Courville-sur-Eure et à Fontaine-la-Guyon (Eure-et-Loir), direction commune ;
 
+Foyer de vie, à Courville-sur-Eure (Eure-et-Loir) ;
+
 Hôpital local, à Lanmeur (Finistère) ;
 
 Etablissements d'hébergement pour personnes âgées dépendantes, à Lannilis et à Plabennec (Finistère), direction commune ;
@@ -161,6 +165,8 @@ Centre hospitalier, à Nogaro, et établissement d'hébergement pour personnes �
 Centre hospitalier, à Gimont (Gers) ;
 
 Centre départemental de l'enfance et de la famille, à Eysines (Gironde) ;
+
+Centre hospitalier intercommunal, à Corte-Tattone (Haute-Corse) ;
 
 Centre hospitalier "Les hôpitaux de Luchon", à Bagnères-de-Luchon (Haute-Garonne) ;
 
@@ -202,15 +208,19 @@ Centre hospitalier, à Sainte-Maure-de-Touraine (Indre-et-Loire) ;
 
 Etablissements d'hébergement pour personnes âgées dépendantes, à Montlouis-sur-Loire et à Bléré (Indre-et-Loire), direction commune ;
 
+Maison de retraite, à Joué-lès-Tours (Indre-et-Loire) ;
+
 Centre hospitalier, à Tullins (Isère) ;
 
 Centre hospitalier, à Morestel (Isère) ;
 
 Centre hospitalier, à La Tour-du-Pin (Isère) ;
 
-Centres hospitaliers, à Saint-Marcellin et au Vinay, et établissements d'hébergement pour personnes âgées dépendantes, à Saint-Sauveur et à Roybon (Isère), direction commune ;
+Centres hospitaliers, à Saint-Marcellin et à Vinay, et établissement d'hébergement pour personnes âgées dépendantes, à Saint-Sauveur (Isère), direction commune ;
 
 EPD Accueil familial Le Charmeyran, à La Tronche et foyer départemental de La Côte-Saint-André (Isère), direction commune ;
+
+Etablissement social de travail et d'hébergement isérois, à Saint-Martin-d'Hères (Isère) ;
 
 Centre hospitalier, à Salins-les-Bains (Jura) ;
 
@@ -246,6 +256,8 @@ Centre hospitalier, à Neuville-aux-Bois (Loiret) ;
 
 Centre hospitalier, à Beaugency, et établissement d'hébergement pour personnes âgées dépendantes, à Meung-sur-Loire (Loiret), direction commune ;
 
+Centre hospitalier, à Martigné-Briand (Maine-et-Loire) ;
+
 Hôpital local intercommunal, à Chemillé (Maine-et-Loire) ;
 
 Hôpital intercommunal, à Baugeois-Vallée (Maine-et-Loire) ;
@@ -262,6 +274,8 @@ Etablissement d'hébergement pour personnes âgées dépendantes, à Doué-la-Fo
 
 Etablissement de services publics d'accompagnement éducatif et social, à Pouancé (Maine-et-Loire) ;
 
+Etablissements d'hébergement pour personnes âgées dépendantes, à Périers et à Saint-Sauveur-Lendelin (Manche), direction commune ;
+
 Etablissement de travail protégé, à Saint-James (Manche) ;
 
 Centre hospitalier, à Mortain (Manche) ;
@@ -271,6 +285,8 @@ Centre hospitalier, à Carentan, et établissement d'hébergement pour personnes
 Centre hospitalier, à Saint-James et centre d'accueil et de soins, à Saint-James (Manche), direction commune ;
 
 Centre hospitalier, à Sainte-Ménehould, et établissement d'hébergement pour personnes âgées dépendantes, à Vienne-le-Château (Marne), direction commune ;
+
+Centres hospitaliers, à Joinville et à Wassy (Haute-Marne), direction commune ;
 
 Hôpital local, à Ernée-et-Montenay (Mayenne) ;
 
@@ -326,11 +342,11 @@ Hôpital maritime Vancauwenberghe, à Zuydcoote (Nord) ;
 
 Centre hospitalier, à Jeumont (Nord) ;
 
+Groupe hospitalier Loos-Haubourdin, à Loos (Nord) ;
+
 Institut Vancauwenberghe, à Zuydcoote (Nord) ;
 
 Centre hospitalier, à Comines (Nord) ;
-
-Centres hospitaliers, à Loos et à Haubourdin (Nord), direction commune ;
 
 Centre hospitalier, à Wasquehal, et établissements d'hébergement pour personnes âgées dépendantes, à Marcq-en-Barœul (Nord), direction commune ;
 
@@ -386,6 +402,8 @@ Etablissements d'hébergement pour personnes âgées dépendantes, à Arles-sur-
 
 Centre hospitalier, à Bischwiller (Bas-Rhin) ;
 
+Centre Harthouse, à Haguenau (Bas-Rhin) ;
+
 Foyer départemental de l'enfance, à Strasbourg (Bas-Rhin) ;
 
 Centre hospitalier, à Brumath, et établissement d'hébergement pour personnes âgées dépendantes, à Schweighouse-sur-Moder (Bas-Rhin), direction commune ;
@@ -402,13 +420,15 @@ Centre de long et moyen séjour, à Sierentz (Haut-Rhin) ;
 
 Centre hospitalier, à Soultz (Haut-Rhin) ;
 
-Hôpital local intercommunal, à Thizy-Bourg-Cours (Rhône) ;
+Centre hospitalier, à Condrieu (Rhône) ;
 
 Centre hospitalier gériatrique du Mont d'Or, à Albigny-sur-Saône (Rhône) ;
 
 Centre de long et moyen séjour, à Neuville-sur-Saône, et établissement d'hébergement pour personnes âgées dépendantes, à Fontaines-sur-Saône (Rhône), direction commune ;
 
 Centres hospitaliers, à Saint-Laurent-du-Chamousset et à Saint-Symphorien-sur-Coise (Rhône), direction commune ;
+
+Centre hospitalier intercommunal, à Thizy-les-Bourgs-Cours-la-Ville, centre hospitalier, à Amplepuis, et maison de retraite, à Cublize (Rhône), direction commune ;
 
 Centres hospitaliers, à Belleville et à Beaujeu (Rhône), direction commune ;
 
@@ -480,6 +500,8 @@ Etablissement d'hébergement pour personnes âgées dépendantes, à Livry-Garga
 
 Centres hospitaliers, à Saint-Maixent-l'Ecole et à Melle, et établissement d'hébergement pour personnes âgées dépendantes, à La Mothe-Saint-Heray (Deux-Sèvres), direction commune ;
 
+Centre hospitalier intercommunal de la Baie de Somme, à Saint-Valéry-sur-Somme, et établissement d'hébergement pour personnes âgées dépendantes, à Cayeux-sur-Mer (Somme), direction commune ;
+
 Etablissement public social et médico-social intercommunal, à Amiens (Somme) ;
 
 Etablissement public intercommunal de santé du Sud-Ouest Somme, à Poix-de-Picardie (Somme) ;
@@ -492,8 +514,6 @@ Centre hospitalier, à Ham (Somme) ;
 
 Etablissements d'hébergement pour personnes âgées dépendantes, à Moreuil et à Warloy-Baillon (Somme), direction commune ;
 
-Centres hospitaliers, à Rue et à Saint-Valéry-sur-Somme, et établissement d'hébergement pour personnes âgées dépendantes, à Cayeux-sur-Mer (Somme), direction commune ;
-
 Centre hospitalier, à Gaillac (Tarn) ;
 
 Centres hospitaliers, à Caussade et à Négrepelisse (Tarn-et-Garonne), direction commune ;
@@ -505,6 +525,10 @@ Institut Le Val Mandé, à Saint-Mandé (Val-de-Marne) ;
 Etablissements d'hébergement pour personnes âgées dépendantes, à Saint-Maur-des-Fossés et à Sucy-en-Brie (Val-de-Marne), direction commune ;
 
 Centre départemental de l'enfance, au Pradet (Var) ;
+
+Etablissement d'accueil départemental enfance et famille, à Avignon, et maison d'enfants à caractère social, à Carpentras (Vaucluse), direction commune ;
+
+Etablissements publics départementaux, L'Alizarine, à Avignon, et Saint-Antoine, à L'Isle-sur-la-Sorgue (Vaucluse), direction commune ;
 
 Hôpital local, à L'Isle-sur-la-Sorgue (Vaucluse) ;
 
@@ -536,7 +560,13 @@ Centre de gérontologie et d'accueil spécialisé de Chevreuse (Yvelines) ;
 
 Centre hospitalier, à Montfort-l'Amaury (Yvelines) ;
 
+Etablissement départemental des Yvelines, au Pecq (Yvelines) ;
+
+Maison de retraite, à Conflans-Sainte-Honorine (Yvelines) ;
+
 Centre de soins de longue durée Le Chenois, à Bavilliers (Territoire de Belfort) ;
+
+Institut Les Eparses, à Chaux (Territoire de Belfort) ;
 
 Centre hospitalier Louis Daniel Beaupertuy, à Pointe-Noire (Guadeloupe) ;
 
