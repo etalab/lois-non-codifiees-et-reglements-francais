@@ -381,7 +381,6 @@
 - [Arrêté du 15 octobre 1993 (ECOT9351301A)](arrete-du-15-octobre-1993-ecot9351301a)
 - [Arrêté du 15 octobre 1993 (EQUP9301551A)](arrete-du-15-octobre-1993-equp9301551a)
 - [Arrêté du 15 octobre 1993 (INDB9300858A)](arrete-du-15-octobre-1993-indb9300858a)
-- [Arrêté du 15 septembre 1993 (AGRM9301801A)](arrete-du-15-septembre-1993-agrm9301801a)
 - [Arrêté du 15 septembre 1993 (DEFP9301853A)](arrete-du-15-septembre-1993-defp9301853a)
 - [Arrêté du 15 septembre 1993 (LOGC9300008A)](arrete-du-15-septembre-1993-logc9300008a)
 - [Arrêté du 15 septembre 1993 (LOGC9300080A)](arrete-du-15-septembre-1993-logc9300080a)
