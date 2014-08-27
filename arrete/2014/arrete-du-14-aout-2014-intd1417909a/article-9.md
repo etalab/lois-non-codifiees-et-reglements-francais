@@ -1,0 +1,3 @@
+# Article 9
+
+Le secrétaire général du ministère, le directeur général des étrangers en France, le directeur général de la sécurité civile et de la gestion des crises, le directeur général de la police nationale, le directeur général de la gendarmerie nationale, les préfets de régions, le préfet de police de Paris, les préfets de départements, le préfet de police des Bouches-du-Rhône, les hauts-commissaires, les préfets délégués pour la défense et la sécurité et les administrateurs supérieurs représentant l'Etat dans les collectivités du Pacifique sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
