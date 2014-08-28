@@ -1,0 +1,3 @@
+# Article 1
+
+En application du deuxième alinéa de l'article L. 5144-3 du code de la santé publique, un établissement utilisateur d'animaux à des fins scientifiques agréé au titre de l'article R. 214-99 du code rural et de la pêche maritime peut acquérir, détenir et utiliser des médicaments vétérinaires ainsi que les médicaments visés au 3° de l'article L. 5143-4 du code de la santé publique pour traiter des animaux dans le cadre exclusif de la réalisation des procédures expérimentales ou la mise à mort de ces animaux réalisées au sein de l'établissement, selon les domaines d'activités, les types de procédures et espèces animales visés dans l'agrément de l'établissement.
