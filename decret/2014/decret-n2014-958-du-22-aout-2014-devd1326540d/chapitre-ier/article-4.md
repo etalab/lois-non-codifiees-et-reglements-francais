@@ -1,0 +1,3 @@
+# Article 4
+
+En contrepartie des sujétions qui leur sont imposées, les agents qui exercent les activités mentionnées aux articles 2 et 3 bénéficient, outre des pauses prévues à l'article 3 du décret du 25 août 2000 susvisé, de pauses d'une durée d'au moins quarante-cinq minutes pour les repas, aménagées au sein de la journée de travail. Les heures effectuées par ces agents en dépassement d'une durée quotidienne de travail effectif de dix heures sont bonifiées à hauteur de vingt-cinq pour cent et sont compensées sous la forme d'un repos. Ces agents bénéficient en outre, le cas échéant, des compensations financières prévues par le régime indemnitaire qui leur est applicable.
