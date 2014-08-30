@@ -210,7 +210,6 @@
 - [Arrêté du 8 janvier 1996 (ECOR9605001A)](arrete-du-8-janvier-1996-ecor9605001a)
 - [Arrêté du 8 janvier 1996 (ECOR9605002A)](arrete-du-8-janvier-1996-ecor9605002a)
 - [Arrêté du 8 janvier 1996 (ECOR9605003A)](arrete-du-8-janvier-1996-ecor9605003a)
-- [Arrêté du 8 janvier 1996 (INTA9600031A)](arrete-du-8-janvier-1996-inta9600031a)
 - [Arrêté du 8 juillet 1996 (INTC9600248A)](arrete-du-8-juillet-1996-intc9600248a)
 - [Arrêté du 8 juillet 1996 (INTC9600249A)](arrete-du-8-juillet-1996-intc9600249a)
 - [Arrêté du 8 juillet 1996 (TASS9622796A)](arrete-du-8-juillet-1996-tass9622796a)
