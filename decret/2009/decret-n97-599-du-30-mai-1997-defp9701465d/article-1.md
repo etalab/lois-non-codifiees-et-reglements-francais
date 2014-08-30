@@ -1,6 +1,6 @@
 # Article 1
 
-Les ouvriers de  l'Etat en fonction au ministère de la défense ou dans un des établissements  publics placés sous sa tutelle qui sont mutés, dans l'intérêt du service, dans  le cadre d'une opération de restructuration de leur service ou établissement  d'emploi, peuvent, dans les conditions du présent décret, bénéficier d'une  indemnité de conversion, à compter du 1er janvier 2009 et jusqu'au 31 décembre  2014.
+Les ouvriers de l'Etat en fonction au ministère de la défense ou dans un des établissements publics placés sous sa tutelle qui sont mutés, dans l'intérêt du service, dans le cadre d'une opération de restructuration de leur service ou établissement d'emploi, peuvent, dans les conditions du présent décret, bénéficier d'une indemnité de conversion,            jusqu'au 31 décembre 2019.
 
 Sont considérées comme des opérations de restructuration les réorganisations se traduisant par des suppressions d'emploi.
 
