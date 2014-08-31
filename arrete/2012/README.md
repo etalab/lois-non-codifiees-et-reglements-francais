@@ -2922,8 +2922,6 @@
 - [Arrêté du 29 octobre 2012 (AGRG1237650A)](arrete-du-29-octobre-2012-agrg1237650a)
 - [Arrêté du 29 octobre 2012 (AGRT1234369A)](arrete-du-29-octobre-2012-agrt1234369a)
 - [Arrêté du 29 octobre 2012 (DEFH1232053A)](arrete-du-29-octobre-2012-defh1232053a)
-- [Arrêté du 29 octobre 2012 (DEFH1233042A)](arrete-du-29-octobre-2012-defh1233042a)
-- [Arrêté du 29 octobre 2012 (DEFH1233043A)](arrete-du-29-octobre-2012-defh1233043a)
 - [Arrêté du 29 octobre 2012 (DEFH1233044A)](arrete-du-29-octobre-2012-defh1233044a)
 - [Arrêté du 29 octobre 2012 (DEFH1233188A)](arrete-du-29-octobre-2012-defh1233188a)
 - [Arrêté du 29 octobre 2012 (DEVM1235531A)](arrete-du-29-octobre-2012-devm1235531a)
