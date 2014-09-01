@@ -1,3 +1,5 @@
 # Article 8
 
-Les épreuves du concours externe et du concours interne sont fixées respectivement aux annexes I et II du présent arrêté.
+Les concours comportent des épreuves d'admissibilité et des épreuves d'admission. Les épreuves du concours externe et du concours interne sont fixées respectivement aux annexes I et II du présent arrêté.
+
+Lors des épreuves d'admission du concours externe, outre les interrogations relatives aux sujets et à la discipline, le jury pose les questions qu'il juge utiles lui permettant d'apprécier la capacité du candidat, en qualité de futur agent du service public d'éducation, à prendre en compte dans le cadre de son enseignement la construction des apprentissages des élèves et leurs besoins, à se représenter la diversité des conditions d'exercice du métier, à en connaître de façon réfléchie le contexte, les différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République. Le jury peut, à cet effet, prendre appui sur le référentiel des compétences professionnelles des métiers du professorat et de l'éducation fixé par l'arrêté du 1er juillet 2013.
