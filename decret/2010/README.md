@@ -872,8 +872,6 @@
 - [Décret n°2010-944 du 24 août 2010 (AGRS1021188D)](decret-n2010-944-du-24-aout-2010-agrs1021188d)
 - [Décret n°2010-945 du 24 août 2010 (DEVP1006217D)](decret-n2010-945-du-24-aout-2010-devp1006217d)
 - [Décret n°2010-950 du 24 août 2010 (MENF1016680D)](decret-n2010-950-du-24-aout-2010-menf1016680d)
-- [Décret n°2010-951 du 24 août 2010 (MENF1016675D)](decret-n2010-951-du-24-aout-2010-menf1016675d)
-- [Décret n°2010-952 du 24 août 2010 (MENF1016676D)](decret-n2010-952-du-24-aout-2010-menf1016676d)
 - [Décret n°2010-953 du 24 août 2010 (MENF1016677D)](decret-n2010-953-du-24-aout-2010-menf1016677d)
 - [Décret n°2010-954 du 24 août 2010 (MENF1016678D)](decret-n2010-954-du-24-aout-2010-menf1016678d)
 - [Décret n°2010-955 du 24 août 2010 (MENF1016682D)](decret-n2010-955-du-24-aout-2010-menf1016682d)

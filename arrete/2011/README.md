@@ -702,7 +702,6 @@
 - [Arrêté du 9 septembre 2011 (DEFH1124927A)](arrete-du-9-septembre-2011-defh1124927a)
 - [Arrêté du 9 septembre 2011 (DEFH1124930A)](arrete-du-9-septembre-2011-defh1124930a)
 - [Arrêté du 9 septembre 2011 (DEFH1124935A)](arrete-du-9-septembre-2011-defh1124935a)
-- [Arrêté du 9 septembre 2011 (DEFH1124943A)](arrete-du-9-septembre-2011-defh1124943a)
 - [Arrêté du 9 septembre 2011 (DEVK1107116A)](arrete-du-9-septembre-2011-devk1107116a)
 - [Arrêté du 9 septembre 2011 (ETSR1124894A)](arrete-du-9-septembre-2011-etsr1124894a)
 - [Arrêté du 9 septembre 2011 (MAEA1124808A)](arrete-du-9-septembre-2011-maea1124808a)

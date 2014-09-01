@@ -88,7 +88,6 @@
 - [Décret n°2001-1163 du 7 décembre 2001 (AGRP0102008D)](decret-n2001-1163-du-7-decembre-2001-agrp0102008d)
 - [Décret n°2001-120 du 7 février 2001 (INTM0000051D)](decret-n2001-120-du-7-fevrier-2001-intm0000051d)
 - [Décret n°2001-128 du 7 février 2001 (EQUP0001802D)](decret-n2001-128-du-7-fevrier-2001-equp0001802d)
-- [Décret n°2001-811 du 7 septembre 2001 (MENF0101833D)](decret-n2001-811-du-7-septembre-2001-menf0101833d)
 - [Décret n°2001-812 du 7 septembre 2001 (ATEN0190056D)](decret-n2001-812-du-7-septembre-2001-aten0190056d)
 - [Décret n°2001-815 du 7 septembre 2001 (ECOI0120162D)](decret-n2001-815-du-7-septembre-2001-ecoi0120162d)
 - [Décret n°2001-816 du 7 septembre 2001 (ECOI0120163D)](decret-n2001-816-du-7-septembre-2001-ecoi0120163d)

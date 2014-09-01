@@ -4,4 +4,3 @@
 - [TITRE III : NOMINATION, TITULARISATION ET FORMATION OBLIGATOIRE.](titre-iii)
 - [TITRE IV : AVANCEMENT.](titre-iv)
 - [TITRE V : DISPOSITIONS DIVERSES.](titre-v)
-- [Article 37](article-37.md)
