@@ -51,7 +51,6 @@
 - [Arrêté du 2 mars 2009 (JUSC0904364A)](arrete-du-2-mars-2009-jusc0904364a)
 - [Arrêté du 2 novembre 2009 (DEVE0925794A)](arrete-du-2-novembre-2009-deve0925794a)
 - [Arrêté du 2 novembre 2009 (DEVE0926434A)](arrete-du-2-novembre-2009-deve0926434a)
-- [Arrêté du 2 novembre 2009 (ECEP0925728A)](arrete-du-2-novembre-2009-ecep0925728a)
 - [Arrêté du 2 novembre 2009 (MCCF0922737A)](arrete-du-2-novembre-2009-mccf0922737a)
 - [Arrêté du 2 novembre 2009 (MCCF0922738A)](arrete-du-2-novembre-2009-mccf0922738a)
 - [Arrêté du 2 novembre 2009 (MCCF0922739A)](arrete-du-2-novembre-2009-mccf0922739a)

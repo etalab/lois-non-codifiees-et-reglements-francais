@@ -40,7 +40,6 @@
 - [Arrêté du 2 octobre 2003 (AGRG0302054A)](arrete-du-2-octobre-2003-agrg0302054a)
 - [Arrêté du 2 septembre 2003 (AGRA0301315A)](arrete-du-2-septembre-2003-agra0301315a)
 - [Arrêté du 2 mai 2002 (ECOP0200199A)](arrete-du-2-mai-2002-ecop0200199a)
-- [Arrêté du 2 mai 2002 (ECOP0200203A)](arrete-du-2-mai-2002-ecop0200203a)
 - [Arrêté du 2 mai 2002 (ECOP0200204A)](arrete-du-2-mai-2002-ecop0200204a)
 - [Arrêté du 2 mai 2002 (ECOP0200205A)](arrete-du-2-mai-2002-ecop0200205a)
 - [Arrêté du 2 mai 2002 (ECOP0200206A)](arrete-du-2-mai-2002-ecop0200206a)

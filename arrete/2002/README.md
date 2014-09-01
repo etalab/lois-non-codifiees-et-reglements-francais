@@ -46,7 +46,6 @@
 - [Arrêté du 2 mai 2002 (ATEP0210164A)](arrete-du-2-mai-2002-atep0210164a)
 - [Arrêté du 2 mai 2002 (DEFP0201510A)](arrete-du-2-mai-2002-defp0201510a)
 - [Arrêté du 2 mai 2002 (ECOC0200058A)](arrete-du-2-mai-2002-ecoc0200058a)
-- [Arrêté du 2 mai 2002 (ECOP0200201A)](arrete-du-2-mai-2002-ecop0200201a)
 - [Arrêté du 2 mai 2002 (ECOP0200202A)](arrete-du-2-mai-2002-ecop0200202a)
 - [Arrêté du 2 mai 2002 (ECOP0200362A)](arrete-du-2-mai-2002-ecop0200362a)
 - [Arrêté du 2 mai 2002 (ECOT0251037A)](arrete-du-2-mai-2002-ecot0251037a)
