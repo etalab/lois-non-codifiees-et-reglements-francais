@@ -31,5 +31,3 @@ Les considérations à prendre en compte en général ou dans un cas particulier
 10. Nécessité de prévenir ou de réduire à un minimum l'impact global des émissions et des risques sur l'environnement.
 
 11. Nécessité de prévenir les accidents et d'en réduire les conséquences sur l'environnement.
-
-12. Informations publiées par la commission en vertu de l'article 16, paragraphe 2, de la directive 96/61/CE ou par des organisations internationales.

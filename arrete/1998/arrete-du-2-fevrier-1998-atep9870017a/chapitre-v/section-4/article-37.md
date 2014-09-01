@@ -22,7 +22,7 @@ II. - L'épandage est interdit :
 
 - à l'aide de dispositifs d'aéro-aspersion qui produisent des brouillards fins lorsque les effluents sont susceptibles de contenir des microorganismes pathoghènes ;
 
-III. - Sous réserve des prescriptions fixées en application de l'article L. 20 du code de la santé publique, l'épandage de déchets ou d'effluents respecte les distances et délais minima prévus au tableau de l'annexe VII b.
+III. - Sous réserve des prescriptions fixées en application de l'article L. 1321-2 du code de la santé publique, l'épandage de déchets ou d'effluents respecte les distances et délais minima prévus au tableau de l'annexe VII b.
 
 IV. - Les déchets solides ou pâteux non stabilisés sont enfouis le plus tôt possible, dans un délai maximum de quarante-huit heures, pour réduire les nuisances olfactives et les pertes par volatilisation.
 

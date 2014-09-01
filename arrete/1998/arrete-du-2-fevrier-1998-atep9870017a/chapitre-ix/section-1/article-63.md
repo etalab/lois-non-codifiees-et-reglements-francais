@@ -26,7 +26,7 @@ ou 500 g/h d'antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, vana
 
 assurent une surveillance de la qualité de l'air ou des retombées (pour les poussières).
 
-Les méthodes de prélèvement, mesure et analyse, de référence en vigueur à la date de l'arrêté sont indiquées en annexe I b.
+Les méthodes de prélèvement, mesure et analyse, de référence en vigueur à la date de l'arrêté sont indiquées en annexe I.
 
 Le nombre de points de mesure et les conditions dans lesquelles les appareils de mesure sont installés et exploités sont fixés sous le contrôle de l'inspection des installations classées.
 

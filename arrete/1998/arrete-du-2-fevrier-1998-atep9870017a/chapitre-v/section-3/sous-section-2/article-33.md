@@ -281,7 +281,7 @@ La valeur limite de concentration pour le chrome est 1,5 mg/l.
 
 14° Stations d'épuration mixtes (rubrique 2752) :
 
-a) Pour les stations d'épuration mixtes visées à la rubrique 2752 de la nomenclature des installations classées, les prescriptions de l'arrêté d'autorisation ne peuvent être moins contraignantes que celles définies par le décret n° 94-469 du 3 juin 1994 et les textes pris pour son application. Elles respectent en outre les objectifs de réduction des flux de substances fixés par l'arrêté préfectoral prévu à l'article 14 du décret précité et les dispositions minimales énoncées au b ci-après ;
+a) Pour les stations d'épuration mixtes visées à la rubrique 2752 de la nomenclature des installations classées, les prescriptions de l'arrêté d'autorisation ne peuvent être moins contraignantes que celles définies par l'article R. 2224-11 du code général des collectivités territoriales et l'arrêté du 22 juin 2007 relatif à la collecte, au transport et au traitement des eaux usées des agglomérations d'assainissement ainsi qu'à la surveillance de leur fonctionnement et de leur efficacité, et aux dispositifs d'assainissement non collectif recevant une charge brute de pollution organique supérieure à 1,2 kg/j de DBO5 pris pour son application. Elles respectent en outre les dispositions minimales énoncées au b ci-après ;
 
 b) Les eaux résiduaires rejetées au milieu naturel respectent soit les valeurs limites en concentration, soit les valeurs limites en rendement définies par le tableau ci-après :
 
@@ -437,7 +437,7 @@ En outre, pour les stations situées dans les zones sensibles visées au b du 2�
 </tbody>
 </table>
 
-Pour les paramètres MEST, DBO5, DCO, azote global et phosphore total, des rendements minimaux moins élevés peuvent, le cas échéant, être fixés, sous réserve que les objectifs de réduction des flux de substances polluantes de l'agglomération définis en application du décret n° 94-469 du 3 juin 1994 soient respectés.
+Pour les paramètres MEST, DBO5, DCO, azote global et phosphore total, des rendements minimaux moins élevés peuvent, le cas échéant, être fixés, sous réserve que les objectifs de réduction des flux de substances polluantes de l'agglomération définis en application de l'arrêté du 22 juin 2007 relatif à la collecte, au transport et au traitement des eaux usées des agglomérations d'assainissement ainsi qu'à la surveillance de leur fonctionnement et de leur efficacité, et aux dispositifs d'assainissement non collectif recevant une charge brute de pollution organique supérieure à 1,2 kg/ j de DBO5 soient respectés.
 
 Pour l'ensemble des paramètres, les valeurs limites ne sont applicables qu'en conditions normales d'exploitation, c'est-à-dire pour des débits et des flux compatibles avec les paramètres adoptés lors du dimensionnement des installations.
 

@@ -20,4 +20,4 @@ Toutefois, l'arrêté d'autorisation peut prescrire des valeurs limites en conce
 
 Pour les polluants autres que ceux réglementés ci-dessus, les valeurs limites sont les mêmes que pour un rejet dans le milieu naturel.
 
-Les prescriptions de l'arrêté d'autorisation délivré au titre de la législation des installations classées s'appliquent sans préjudice de l'autorisation de raccordement au réseau public délivrée, en application de l'article L. 35-8 du code de la santé publique, par la collectivité à laquelle appartient le réseau.
+Les prescriptions de l'arrêté d'autorisation délivré au titre de la législation des installations classées s'appliquent sans préjudice de l'autorisation de raccordement au réseau public délivrée, en application de l'article L. 1331-10 du code de la santé publique, par la collectivité à laquelle appartient le réseau.

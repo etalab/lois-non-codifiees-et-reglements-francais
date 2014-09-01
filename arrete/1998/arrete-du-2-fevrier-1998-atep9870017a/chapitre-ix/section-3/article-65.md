@@ -25,7 +25,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fabrication, emploi ou stockage de substances et préparations très toxiques, dès lors que ces produits sont liquides ou solides, à l'exclusion des gaz liquéfiés</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">5 t</p>
@@ -39,7 +38,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fabrication, emploi ou stockage de substances et préparations toxiques, dès lors que ces produits sont liquides ou solides</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">50 t</p>
@@ -53,7 +51,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fabrication du chlore utilisant le procédé à la cathode au mercure</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">-</p>
@@ -67,7 +64,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Dépôt de produits agropharmaceutiques</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">150 t</p>
@@ -81,7 +77,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fabrication de composés organohalogénés, organophosphorés ou organostanniques</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">-</p>
@@ -95,7 +90,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Stockage, mélange ou emploi, remplissage d'hydrocarbures liquides (à l'exception du fioul lourd)</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">5000 t</p>
@@ -109,7 +103,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Distribution de carburants routiers liquides</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">40 m³/h</p>
@@ -123,7 +116,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Traitement du bois</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">1000 l</p>
@@ -137,7 +129,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Cokerie</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">-</p>
@@ -151,7 +142,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fabrication d'acier, fer, fonte, ferro-alliages, à l'exclusion de la Fabrication des ferro-alliages au four électrique lorsque la puissance installée du (ou des) four(s) est inférieure à 25 kW</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">-</p>
@@ -165,7 +155,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Elaboration et affinage des métaux non ferreux</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">-</p>
@@ -179,7 +168,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fonderie de plomb et alliages contenant du plomb (au moins 3 %)</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">100 kg/j</p>
@@ -193,7 +181,6 @@ a) Les installations soumises à autorisation répondant aux caractéristiques p
 </td>
 <td valign="top" width="165">
 <p>Fonderie de métaux et alliages non ferreux</p>
-<br/>
 </td>
 <td valign="top" width="71">
 <p align="center">2 t/j</p>

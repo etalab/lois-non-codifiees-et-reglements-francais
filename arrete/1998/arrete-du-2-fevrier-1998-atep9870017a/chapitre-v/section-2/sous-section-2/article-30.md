@@ -122,7 +122,7 @@ Copolymères : 1 500 mg/kg de polymère.
 
 a) Centrales d'enrobage au bitume de matériaux routiers temporaires à chaud :
 
-Pour les centrales d'enrobage au bitume de matériaux routiers temporaires à chaud au sens de l'article 23 du décret n° 77-1133 du 21 septembre 1977, la valeur limite de concentration de poussières est de 50 mg/m3 quel que soit le flux horaire autorisé. En dérogation aux articles 52 à 55 et sous réserve de l'absence d'obstacles tels que définis à l'article 56, la hauteur de la cheminée doit être de 13 mètres au moins pour les centrales d'enrobage de capacité supérieure ou égale à 150 tonnes/heure et de 8 mètres au moins pour les centrales de capacité inférieure à 150 tonnes/heure.
+Pour les centrales d'enrobage au bitume de matériaux routiers temporaires à chaud au sens de l'article R. 512-37 du code de l'environnement, la valeur limite de concentration de poussières est de 50 mg/m3 quel que soit le flux horaire autorisé. En dérogation aux articles 52 à 55 et sous réserve de l'absence d'obstacles tels que définis à l'article 56, la hauteur de la cheminée doit être de 13 mètres au moins pour les centrales d'enrobage de capacité supérieure ou égale à 150 tonnes/heure et de 8 mètres au moins pour les centrales de capacité inférieure à 150 tonnes/heure.
 
 b) Autres centrales et installations :
 

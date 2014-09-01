@@ -172,7 +172,7 @@ Particules :
 
 Pour chaque installation nouvelle ou modifiée, la valeur limite d'émission ne dépasse pas 30 mg/Nm3.
 
-II. - Les turbines et moteurs nouveaux ou modifiés sont réglementés par l'arrêté du 11 août 1999.
+II. - Les turbines et moteurs nouveaux ou modifiés sont réglementés par l'arrêté du 11 août 1999 modifié.
 
 III. - Pour les installations de récupération de soufre nouvelles ou modifiées, le taux de conversion est d'au moins 99,5 % en moyenne journalière.
 

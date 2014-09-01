@@ -16,13 +16,13 @@ Matières en suspension totales :
 
 DBO5 (sur effluent non décanté) :
 
-100 mg/l si le flux journalier maximal autorisé n'excède pas 30 kg/j, ce flux est ramené à 15 kg/j pour les eaux réceptrices visées par le décret n° 91-1283 du 19 décembre 1991 susvisé ;
+100 mg/l si le flux journalier maximal autorisé n'excède pas 30 kg/j, ce flux est ramené à 15 kg/j pour les eaux réceptrices visées par l'article D. 211-10 du code de l'environnement ;
 
 30 mg/l au-delà.
 
 DCO (sur effluent non décanté) :
 
-300 mg/l si le flux journalier maximal autorisé n'excède pas 100 kg/j, ce flux est ramené à 50 kg/j pour les eaux réceptrices visées par le décret n° 91-1283 susvisé ;
+300 mg/l si le flux journalier maximal autorisé n'excède pas 100 kg/j, ce flux est ramené à 50 kg/j pour les eaux réceptrices visées par  l'article D. 211-10 du code de l'environnement ;
 
 125 mg/l au-delà.
 
@@ -50,7 +50,7 @@ Phosphore (phosphore total) :
 
 Toutefois des valeurs limites de concentration différentes peuvent être fixées par l'arrêté d'autorisation lorsque le rendement de la station d'épuration de l'installation atteint au moins 90 % pour le phosphore.
 
-b) Dispositions particulières pour les rejets dans le milieu naturel appartenant à une zone sensible telle que définie en application de l'article 6 du décret n° 94-469 du 3 juin 1994 relatif à la collecte et au traitement des eaux usées mentionnées aux articles L. 2224-8 et L. 2224-10 du code général des collectivités territoriales.
+b) Dispositions particulières pour les rejets dans le milieu naturel appartenant à une zone sensible telle que définie en application de l'article R. 211-94 du code de l'environnement.
 
 En plus des dispositions précédentes, l'arrêté d'autorisation, selon les niveaux de flux du rejet et les caractéristiques du milieu récepteur, impose les dispositions suivantes pour au moins un des deux paramètres.
 
@@ -126,7 +126,7 @@ L'arrêté préfectoral d'autorisation fixe des valeurs limites de rejet si le r
 
 Les valeurs limites au 15 sont des valeurs limites mensuelles, les valeurs limites journalières ne devant pas dépasser 2 fois les valeurs limites mensuelles pour les substances listées aux annexes V.a et V.b et 1,5 fois les valeurs limites mensuelles pour les substances listées à l'annexe V.c.
 
-Pour les rejets dans les eaux conchylicoles, en application de la directive 79/923/CEE du 30 octobre 1979 relative à la qualité requise des eaux conchylicoles, en ce qui concerne les substances organohalogénées et les métaux (argent, arsenic, cadmium, chrome, cuivre, mercure, nickel, plomb, zinc), la valeur limite fixée doit permettre de maintenir la concentration de chaque substance dans la chair de coquillage à une valeur compatible avec une bonne qualité des produits conchylicoles.
+Pour les rejets dans les eaux conchylicoles, en application de l'article D. 211-10 du code de l'environnement, en ce qui concerne les substances organohalogénées et les métaux (argent, arsenic, cadmium, chrome, cuivre, mercure, nickel, plomb, zinc), la valeur limite fixée doit permettre de maintenir la concentration de chaque substance dans la chair de coquillage à une valeur compatible avec une bonne qualité des produits conchylicoles.
 
 4° Valeurs limites de rejets en concentration et en flux spécifique pour certaines substances visées par des directives communautaires. Lorsqu'un secteur d'activité ne dispose pas de valeur limite en flux spécifique, cette valeur limite est définie, le cas échéant, dans l'arrêté préfectoral autorisant l'installation et correspond à l'utilisation des meilleures techniques disponibles. Cet arrêté spécifie également une valeur limite d'émission en flux par unité de temps (en kg/an ou en kg/j ou g/j).
 

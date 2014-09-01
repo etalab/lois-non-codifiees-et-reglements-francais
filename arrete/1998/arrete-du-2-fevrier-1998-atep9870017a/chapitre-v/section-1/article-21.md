@@ -8,7 +8,7 @@ Les dispositions relatives au bruit et aux vibrations sont fixées aux articles 
 
 II. - Les valeurs limites ne dépassent pas les valeurs fixées par le présent arrêté.
 
-Les méthodes de mesure, prélèvement et analyse, de référence en vigueur à la date de l'arrêté sont indiquées en annexe I.a.
+Les méthodes de mesure, prélèvement et analyse, de référence en vigueur à la date de l'arrêté sont indiquées en annexe I.
 
 Pour les polluants ne faisant l'objet d'aucune méthode de référence, la procédure retenue, pour le prélèvement notamment, doit permettre une représentation statistique de l'évolution du paramètre.
 

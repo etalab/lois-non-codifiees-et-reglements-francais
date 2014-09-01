@@ -11,8 +11,6 @@
 - [Article Annexe VII a](article-annexe-vii-a.md)
 - [Article Annexe VII b](article-annexe-vii-b.md)
 - [Substances visées à l'article 25](substances-visees-a)
-- [Méthodes de mesure de référence (art. 63)](methodes-de-mesure-de-reference-art)
-- [Méthodes de référence (art. 21)](methodes-de-reference-art)
 - [Substances nocives pour l'environnement visées au 15 du 3° de l'article 32](substances-nocives-pour-l-environnement-visees-au-15)
 - [Substances très toxiques pour l'environnement aquatique visées au 15 du 3° de l'article 32](substances-tres-toxiques-pour-l-environnement-aquatique-visees-au-15)
 - [Composés organiques visés au b du 7° de l'article 27, à l'article 52, au 7° de l'article 59 et à l'article 63](composes-organiques-vises-au-b)
