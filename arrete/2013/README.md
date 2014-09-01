@@ -92,6 +92,7 @@
 - [Arrêté du 12 décembre 2013 (INTA1329288A)](arrete-du-12-decembre-2013-inta1329288a)
 - [Arrêté du 12 décembre 2013 (SPOJ1330806A)](arrete-du-12-decembre-2013-spoj1330806a)
 - [Arrêté du 12 décembre 2013 (TRAK1323254A)](arrete-du-12-decembre-2013-trak1323254a)
+- [Arrêté du 12 juin 1970](arrete-du-12-juin-1970)
 - [Arrêté du 12 novembre 2013 (DEFH1318627A)](arrete-du-12-novembre-2013-defh1318627a)
 - [Arrêté du 13 décembre 2013 (AFSH1330897A)](arrete-du-13-decembre-2013-afsh1330897a)
 - [Arrêté du 13 décembre 2013 (DEFH1329660A)](arrete-du-13-decembre-2013-defh1329660a)
