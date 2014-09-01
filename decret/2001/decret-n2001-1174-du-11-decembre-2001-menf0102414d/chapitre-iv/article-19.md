@@ -2,7 +2,7 @@
 
 Les nominations au grade de personnel de direction hors classe sont prononcées par arrêté du ministre chargé de l'éducation nationale, dans l'ordre d'inscription au tableau annuel d'avancement établi après consultation de la commission administrative paritaire nationale.
 
-Peuvent être inscrits au tableau d'avancement au grade de personnel de direction hors classe les personnels ayant au moins atteint le septième échelon de la 1re classe et justifiant, dans ce grade, de cinq années de services effectifs en qualité de personnel de direction. Ces services doivent avoir été effectués dans au minimum deux postes correspondant aux emplois énumérés à l'article 2 ci-dessus, dont un au moins aura été occupé dans un établissement relevant du ministre chargé de l'éducation nationale, ou dans un établissement scolaire français à l'étranger mentionné dans la liste établie dans les conditions prévues par l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires français à l'étranger, ou dans un établissement relevant du ministre de la défense ou du grand chancelier de la Légion d'honneur.
+Peuvent être inscrits au tableau d'avancement au grade de personnel de direction hors classe les personnels ayant au moins atteint le septième échelon de la 1re classe et justifiant, dans ce grade, de six années de services en qualité de personnel de direction stagiaire ou titulaire, accomplis en position d'activité ou de détachement.
 
 Dès leur nomination, les intéressés sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à l'indice qu'ils détenaient dans leur ancien grade.
 
