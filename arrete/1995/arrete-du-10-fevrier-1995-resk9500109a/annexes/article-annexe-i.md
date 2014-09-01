@@ -1417,22 +1417,22 @@ Première année : classes de " mathématique, physique et sciences de l'ingéni
 </tr>
 <tr>
 <td colspan="16" valign="top">
-<p>(a) Deux heures de travaux pratiques pour les étudiant de la classe de Mathématique, physique et sciences de l'ingénieur suivant l'option Science de l'ingénieur (module optionnel).</p>
+<p>(a) Deux heures de travaux pratiques pour les étudiants de la classe de Mathématiques, physique et sciences de l'ingénieur suivant l'option Science de l'ingénieur (module optionnel).</p>
 </td>
 </tr>
 <tr>
 <td colspan="16" valign="top">
-<p>(b) Non applicable aux étudiants de la classe de Mathématique, physique et sciences de l'ingénieur suivant l'option Informatique.</p>
+<p>(b) Non applicable aux étudiants de la classe de Mathématiques, physique et sciences de l'ingénieur suivant l'option Informatique.</p>
 </td>
 </tr>
 <tr>
 <td colspan="16" valign="top">
-<p>(c) Plus une heure de cours et une heure de travaux dirigés pour les étudiant de la classe Mathématique, physique et sciences de l'ingénieur suivant l'option Informatique.</p>
+<p>(c) Plus une heure de cours et une heure de travaux dirigés pour les étudiants de la classe Mathématiques, physique et sciences de l'ingénieur suivant l'option Informatique.</p>
 </td>
 </tr>
 <tr>
 <td colspan="16" valign="top">
-<p>(d) Plus deux heures de travaux pratique en première et deuxième périodes pour les étudiants issus du baccalauréat général (série scientifique) n'ayant pas choisi en enseignement obligatoire la technologie industrielle.</p>
+<p>(d) Plus deux heures de travaux pratiques en première et deuxième périodes pour les étudiants issus du baccalauréat général (série scientifique) n'ayant pas choisi en enseignement obligatoire la technologie industrielle.</p>
 </td>
 </tr>
 <tr>
@@ -1689,11 +1689,42 @@ Deuxième année : classes de " mathématique et physique ", " physique et chimi
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Informatique</p>
+<td>Informatique</td>
+<td>
+<p align="center">1h(c)</p>
 </td>
-<td colspan="12" valign="top">
-<p>1 heure d'enseignement incluse dans les horaires des disciplines scientifiques et technologiques (b)</p>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<p align="center">1h(c)</p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1796,7 +1827,7 @@ Deuxième année : classes de " mathématique et physique ", " physique et chimi
 </tr>
 <tr>
 <td valign="top">
-<p>Travail d'initiative personnelle encadrés</p>
+<p>Travail d'initiative personnelle encadrée</p>
 </td>
 <td>
 <br/>
@@ -1896,37 +1927,37 @@ Deuxième année : classes de " mathématique et physique ", " physique et chimi
 <p align="center">TOTAL</p>
 </td>
 <td>
-<p align="center">23 (b)</p>
+<p align="center">24 (d)</p>
 </td>
 <td>
-<p align="center">6 (b)</p>
+<p align="center">7 (d)</p>
 </td>
 <td>
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">21</p>
+<p align="center">22(d)</p>
 </td>
 <td>
-<p align="center">5,5</p>
-</td>
-<td>
-<p align="center">5</p>
-</td>
-<td>
-<p align="center">20,5</p>
-</td>
-<td>
-<p align="center">6,5</p>
+<p align="center">6,5(d)</p>
 </td>
 <td>
 <p align="center">5</p>
 </td>
 <td>
-<p align="center">18</p>
+<p align="center">21,5 (d)</p>
 </td>
 <td>
-<p align="center">10</p>
+<p align="center">7,5(d)</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+<td>
+<p align="center">19(d)</p>
+</td>
+<td>
+<p align="center">11(d)</p>
 </td>
 <td>
 <p align="center">5,5</p>
@@ -1983,13 +2014,19 @@ Deuxième année : classes de " mathématique et physique ", " physique et chimi
 </tr>
 <tr>
 <td colspan="13" valign="top">
-<p>(a) Non applicable aux étudiants de la classe de Mathématique et physique suivant l'option Informatique.</p>
+<p>(a) Non applicable aux étudiants de la classe de Mathématiques et physique suivant l'option Informatique.</p>
 </td>
 </tr>
 <tr>
 <td colspan="13" valign="top">
-<p>(b) Plus une heure de cours et une heure de travaux dirigés pour les étudiants de la classe de Mathématique et physique suivant l'option Informatique.</p>
+<p>(b) Plus une heure de cours et une heure de travaux dirigés pour les étudiants de la classe de Mathématiques et physique suivant l'option Informatique.</p>
 </td>
+</tr>
+<tr>
+<td colspan="13">(c) Horaire limité à la première période de la seconde année</td>
+</tr>
+<tr>
+<td colspan="13">(d) Horaire diminué d'une heure en deuxième période</td>
 </tr>
 </tbody>
 </table>
