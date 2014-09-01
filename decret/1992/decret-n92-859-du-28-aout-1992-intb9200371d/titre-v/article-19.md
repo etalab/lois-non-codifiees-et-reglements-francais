@@ -1,5 +1,7 @@
 # Article 19
 
-Les fonctionnaires titulaires de catégorie A justifiant de l'un des titres ou diplômes requis pour se présenter au concours d'accès au cadre d'emplois des puéricultrices territoriales peuvent être détachés dans ce cadre d'emplois.
+I.-Les fonctionnaires justifiant du diplôme ou de l'autorisation d'exercice mentionnés à l'article 4 et ayant opté en faveur de la conservation des droits liés au classement dans la catégorie active en application de l'article 37 de la loi du 5 juillet 2010 susvisée peuvent être placés en position de détachement ou directement intégrés dans le présent cadre d'emplois.
 
-Le détachement intervient dans les conditions de grade, d'échelon et d'ancienneté prévus par l'article 20 ci-après.
+II.-Les fonctionnaires placés en position de détachement ou directement intégrés dans le présent cadre d'emplois sont soumis, selon le cas, aux dispositions des titres Ier, III bis et IV du décret du 13 janvier 1986 susvisé.
+
+III.-Les fonctionnaires détachés dans le présent cadre d'emplois peuvent, sur leur demande, y être intégrés à tout moment.

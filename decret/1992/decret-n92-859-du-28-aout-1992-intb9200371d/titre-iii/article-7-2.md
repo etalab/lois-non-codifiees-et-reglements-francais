@@ -1,3 +1,0 @@
-# Article 7-2
-
-Les puéricultrices qui exerçaient une activité professionnelle de même nature avant leur nomination dans le cadre d'emplois et qui détenaient les titres, diplômes ou autorisations exigés pour l'exercice de leur profession sont classées lors de leur titularisation, si elles ne peuvent se prévaloir de dispositions plus favorables au titre des articles 8 à 12, à un échelon déterminé en prenant en compte la durée de cette activité sur la base de l'ancienneté maximale exigée pour chaque avancement d'échelon. Cette reprise d'ancienneté ne peut être attribuée qu'une fois au cours de la carrière des intéressées.
