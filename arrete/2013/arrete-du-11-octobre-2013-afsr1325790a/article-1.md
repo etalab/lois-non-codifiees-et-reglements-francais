@@ -385,14 +385,6 @@ Secteur travail
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>DIRECCTE Auvergne</p>
-</td>
-<td width="340">
-<p>Secrétaire général</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
 <p>DIRECCTE Centre</p>
 </td>
 <td width="340">
