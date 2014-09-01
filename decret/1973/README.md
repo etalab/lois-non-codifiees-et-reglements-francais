@@ -13,7 +13,6 @@
 - [Décret n°73-317 du 6 mars 1973](decret-n73-317-du-6-mars-1973)
 - [Décret n°73-250 du 7 mars 1973](decret-n73-250-du-7-mars-1973)
 - [Décret n°73-786 du 7 août 1973](decret-n73-786-du-7-aout-1973)
-- [Décret n°73-863 du 7 septembre 1973](decret-n73-863-du-7-septembre-1973)
 - [Décret n° 73-1022 du 8 novembre 1973](decret-n-73-1022-du-8-novembre-1973)
 - [Décret n°73-1023 du 8 novembre 1973](decret-n73-1023-du-8-novembre-1973)
 - [Décret n°73-1026 du 9 novembre 1973](decret-n73-1026-du-9-novembre-1973)
