@@ -535,7 +535,6 @@
 - [Arrêté du 20 janvier 2004 (INTC0400077A)](arrete-du-20-janvier-2004-intc0400077a)
 - [Arrêté du 20 juin 2003 (AGRA0300966A)](arrete-du-20-juin-2003-agra0300966a)
 - [Arrêté du 20 juin 2003 (EQUA0300973A)](arrete-du-20-juin-2003-equa0300973a)
-- [Arrêté du 20 juin 2003 (EQUH0300968A)](arrete-du-20-juin-2003-equh0300968a)
 - [Arrêté du 20 juin 2003 (SANP0322251A)](arrete-du-20-juin-2003-sanp0322251a)
 - [Arrêté du 20 mars 2003 (SANS0321088A)](arrete-du-20-mars-2003-sans0321088a)
 - [Arrêté du 20 octobre 2003 (ECOX0306908A)](arrete-du-20-octobre-2003-ecox0306908a)
