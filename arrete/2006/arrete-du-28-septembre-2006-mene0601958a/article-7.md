@@ -12,10 +12,8 @@ A compter de la rentrée 2011, dans la série littéraire, lorsque la discipline
 
 A compter de la rentrée 2011, les élèves scolarisés en section internationale dans la série littéraire suivent dans une autre langue que celle de leur section :
 
--l'enseignement de littérature étrangère en langue étrangère ;
+- l'enseignement de littérature étrangère en langue étrangère ;
 
--l'enseignement de langue vivante approfondie, s'ils font ce choix au titre de l'enseignement obligatoire au choix en classe de première ou de l'enseignement de spécialité en classe terminale.
-
-A compter de la rentrée 2012, les élèves de la série scientifique scolarisés en section internationale ne sont pas autorisés à suivre l'enseignement facultatif d'histoire-géographie.
+- l'enseignement de langue vivante approfondie, s'ils font ce choix au titre de l'enseignement obligatoire au choix en classe de première ou de l'enseignement de spécialité en classe terminale.
 
 Les élèves de la série littéraire scolarisés en section internationale ne sont pas autorisés à choisir une langue vivante régionale au titre de l'enseignement de langue vivante 2. Pour ces élèves, en application de l'arrêté du 27 janvier 2010 relatif à l'organisation et aux horaires des enseignements du cycle terminal des lycées, sanctionnés par le baccalauréat général, le choix d'une langue vivante régionale reste autorisé au titre de l'enseignement de spécialité de langue vivante 3.
