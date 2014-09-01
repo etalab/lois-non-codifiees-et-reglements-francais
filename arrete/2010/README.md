@@ -1112,7 +1112,6 @@
 - [Arrêté du 14 avril 2010 (ECES1008232A)](arrete-du-14-avril-2010-eces1008232a)
 - [Arrêté du 14 avril 2010 (ESRS1010223A)](arrete-du-14-avril-2010-esrs1010223a)
 - [Arrêté du 14 avril 2010 (IMIK1008603A)](arrete-du-14-avril-2010-imik1008603a)
-- [Arrêté du 14 décembre 2009 (DEFD0930219A)](arrete-du-14-decembre-2009-defd0930219a)
 - [Arrêté du 14 décembre 2009 (ECEM0929046A)](arrete-du-14-decembre-2009-ecem0929046a)
 - [Arrêté du 14 décembre 2010 (DEVA1031568A)](arrete-du-14-decembre-2010-deva1031568a)
 - [Arrêté du 14 décembre 2010 (DEVK1032159A)](arrete-du-14-decembre-2010-devk1032159a)

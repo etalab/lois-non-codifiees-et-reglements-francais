@@ -664,7 +664,6 @@
 - [Arrêté du 9 juin 2011 (JUSB1115699A)](arrete-du-9-juin-2011-jusb1115699a)
 - [Arrêté du 9 juin 2011 (MAEF1115520A)](arrete-du-9-juin-2011-maef1115520a)
 - [Arrêté du 9 mars 2011 (BCRE1107838A)](arrete-du-9-mars-2011-bcre1107838a)
-- [Arrêté du 9 mars 2011 (DEFD1107029A)](arrete-du-9-mars-2011-defd1107029a)
 - [Arrêté du 9 mars 2011 (DEVT1107039A)](arrete-du-9-mars-2011-devt1107039a)
 - [Arrêté du 9 mars 2011 (EFIS1106805A)](arrete-du-9-mars-2011-efis1106805a)
 - [Arrêté du 9 mars 2011 (EFIS1106813A)](arrete-du-9-mars-2011-efis1106813a)

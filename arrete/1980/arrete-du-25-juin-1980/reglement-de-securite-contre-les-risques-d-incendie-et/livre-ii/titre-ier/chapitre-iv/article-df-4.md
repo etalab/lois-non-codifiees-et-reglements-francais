@@ -28,10 +28,6 @@ Les documents afférents tant à l'approche d'ingénierie du désenfumage entrep
 
 § 3. Les matériels entrant dans la constitution de l'installation de désenfumage doivent être conformes aux textes et normes en vigueur, en particulier à celles concernant les systèmes de sécurité incendie visés à l'article MS 53. De plus, les matériels suivants :
 
-- exutoires ;
-
-- volets ;
-
 - dispositifs de commande ;
 
 - coffrets de relayage,

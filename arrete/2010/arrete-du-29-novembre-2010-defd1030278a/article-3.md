@@ -9,5 +9,3 @@ Il assure en outre la programmation des crédits budgétaires qui lui sont confi
 Il relève du sous-chef d'état-major soutien de l'état-major des armées qui a l'appellation de commandant interarmées du soutien.
 
 Le secrétaire général pour l'administration lui donne les directives spécifiques nécessaires à l'exécution des missions qui lui sont confiées par le décret du 5 octobre 2009 susvisé fixant les attributions et l'organisation du secrétariat général pour l'administration du ministère de la défense.
-
-Le commandant de base de défense a autorité sur le chef de groupement de soutien de la base de défense.
