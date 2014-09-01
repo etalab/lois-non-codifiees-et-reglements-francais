@@ -6,349 +6,158 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <table>
 <tbody>
 <tr>
-<td align="center"> EMPLOIS, GRADES ET ÉCHELONS </td>
-<td align="center"> INDICES BRUTS </td>
+<th>
+<br/>EMPLOIS, GRADES ET ÉCHELONS <br/>
+</th>
+<th>
+<br/>INDICES BRUTS <br/>
+</th>
 </tr>
 <tr>
-<td align="center" colspan="2"> Responsable d'unité locale de police </td>
+<td align="center">
+<br/>Responsable d'unité locale de police <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<p>2e échelon <br clear="none"/>
-</p>
+<br/>2e échelon <br/>
+<br/>1er échelon <br/>
 </td>
 <td align="center">
-<br clear="none"/>711 <br clear="none"/>
+<br/>725 <br/>
+<br/>709 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<div align="left">1er échelon <br clear="none"/>
-</div>
+<br/>Major de police <br/>
 </td>
-<td align="center">
-<br clear="none"/>699 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">Major de police<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td> Echelon exceptionnel (1) </td>
-<td align="center"> 660 </td>
-</tr>
-<tr>
-<td align="center">
-<br clear="none"/>
-<div align="left">4e échelon <br clear="none"/>
-</div>
-</td>
-<td align="center">
-<br clear="none"/>647 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">3e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>628 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">2e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>611 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">1er échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>587 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td colspan="2"> Brigadier-chef de police </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">6e échelon <br clear="none"/>
-</p>
-</td>
-<td align="center">
-<br clear="none"/>598 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">5e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>586 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">4e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>578 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">3e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>566 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">2e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>554 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">1er échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>540 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">4e échelon provisoire (2) <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>401 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">3e échelon provisoire (2) <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>384 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">2e échelon provisoire (2) <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>369 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">1er échelon provisoire (2) <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>348 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td colspan="2"> Brigadier de police </td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>7e échelon <br clear="none"/>
+<br/>Echelon exceptionnel (1) <br/>
+<br/>4e échelon <br/>
+<br/>3e échelon <br/>
+<br/>2e échelon <br/>
+<br/>1er échelon <br/>
 </td>
 <td align="center">
-<br clear="none"/>554 <br clear="none"/>
+<br/>674 <br/>
+<br/>657 <br/>
+<br/>633 <br/>
+<br/>613 <br/>
+<br/>587 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Brigadier-chef de police <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>6e échelon <br clear="none"/>
+<br/>6e échelon <br/>
+<br/>5e échelon <br/>
+<br/>4e échelon <br/>
+<br/>3e échelon <br/>
+<br/>2e échelon <br/>
+<br/>1er échelon <br/>
+<br/>4e échelon provisoire (2) <br/>
+<br/>3e échelon provisoire (2) <br/>
+<br/>2e échelon provisoire (2) <br/>
+<br/>1er échelon provisoire (2) <br/>
 </td>
 <td align="center">
-<br clear="none"/>545 <br clear="none"/>
+<br/>612 <br/>
+<br/>586 <br/>
+<br/>578 <br/>
+<br/>566 <br/>
+<br/>554 <br/>
+<br/>540 <br/>
+<br/>401 <br/>
+<br/>384 <br/>
+<br/>369 <br/>
+<br/>348 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Brigadier de police <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>5e échelon <br clear="none"/>
+<br/>7e échelon <br/>
+<br/>6e échelon <br/>
+<br/>5e échelon <br/>
+<br/>4e échelon <br/>
+<br/>3e échelon <br/>
+<br/>2e échelon <br/>
+<br/>1er échelon <br/>
 </td>
 <td align="center">
-<br clear="none"/>528 <br clear="none"/>
+<br/>566 <br/>
+<br/>545 <br/>
+<br/>528 <br/>
+<br/>503 <br/>
+<br/>480 <br/>
+<br/>458 <br/>
+<br/>436 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Gardien de la paix <br/>
+</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>4e échelon <br clear="none"/>
+<br/>13e échelon <br/>
+<br/>12e échelon <br/>
+<br/>11e échelon <br/>
+<br/>10e échelon <br/>
+<br/>9e échelon <br/>
+<br/>8e échelon <br/>
+<br/>7e échelon <br/>
+<br/>6e échelon <br/>
+<br/>5e échelon <br/>
+<br/>4e échelon <br/>
+<br/>3e échelon <br/>
+<br/>2e échelon <br/>
+<br/>1er échelon <br/>
+<br/>Stagiaire <br/>
+<br/>Elève <br/>
+<br/>1er échelon provisoire (3) <br/>
 </td>
 <td align="center">
-<br clear="none"/>503 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>3e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>480 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>2e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>458 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>1er échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>436 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">Gardien de la paix<br clear="none"/>
-</td>
-</tr>
-<tr>
-<td> 13e échelon </td>
-<td align="center"> 521 </td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>12e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>506 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>11e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>490 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>10e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>465 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>9e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>450 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>8e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>436 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>7e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>426 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>6e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>415 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>5e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>381 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>4e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>354 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>3e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>337 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>2e échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>320 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<br clear="none"/>1er échelon <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>310 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br clear="none"/>
-<div align="left">Stagiaire <br clear="none"/>
-</div>
-</td>
-<td align="center">
-<br clear="none"/>297 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<div align="left">
-<br clear="none"/>
-</div>
-<div align="left">Elève <br clear="none"/>
-</div>
-</td>
-<td align="center">
-<br clear="none"/>297 <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="left">1er échelon provisoire (3) <br clear="none"/>
-</td>
-<td align="center">
-<br clear="none"/>244 <br clear="none"/>
+<br/>541 <br/>
+<br/>506 <br/>
+<br/>490 <br/>
+<br/>465 <br/>
+<br/>450 <br/>
+<br/>436 <br/>
+<br/>426 <br/>
+<br/>415 <br/>
+<br/>381 <br/>
+<br/>359 <br/>
+<br/>347 <br/>
+<br/>333 <br/>
+<br/>325 <br/>
+<br/>297 <br/>
+<br/>297 <br/>
+<br/>244 <br/>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<br clear="none"/>(1) Echelon exceptionnel du grade de major accessible dans les conditions fixées par l'
-article 20 du décret n° 2004-1439 du 23 décembre 2004
-. <br/>
-<br/>
-<p>(2) Echelons provisoires du grade de brigadier-chef accessibles dans les conditions prévues par le
-décret n° 2004-1032 du 30 septembre 2004
-modifiant le décret n° 95-657 du 9 mai 1995 portant statut particulier du corps de maîtrise et d'application de la police nationale. </p>
-<p>(3) Echelon provisoire du grade de gardien de la paix accessible dans les conditions prévues par le
-décret n° 2004-770 du 29 juillet 2004
-.<br clear="none"/>
-</p>
+<p align="left">(1) Echelon exceptionnel du grade de major accessible dans les conditions fixées par l'article 20 du décret n° 2004-1439 du 23 décembre 2004.</p>
+<p align="left">(2) Echelons provisoires du grade de brigadier-chef accessibles dans les conditions prévues par le décret n° 2004-1032 du 30 septembre 2004 modifiant le décret n° 95-657 du 9 mai 1995 portant statut particulier du corps de maîtrise et d'application de la police nationale.</p>
+<p align="left">(3) Echelon provisoire du grade de gardien de la paix accessible dans les conditions prévues par le décret n° 2004-770 du 29 juillet 2004.</p>
 </td>
 </tr>
 </tbody>
