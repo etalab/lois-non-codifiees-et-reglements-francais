@@ -109,6 +109,11 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </td>
 </tr>
 <tr>
+<td>Article 1628 ter du code général des impôts</td>
+<td>Agence nationale des titres sécurisés</td>
+<td>4 000</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <br/>Article 46 de la loi n° 2006-1666 du 21 décembre 2006 de finances pour 2007 (I de l'article 953 du code général des impôts) <br/>
 </td>
