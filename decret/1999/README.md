@@ -370,7 +370,6 @@
 - [Décret n°99-98 du 15 février 1999 (ECOM9900064D)](decret-n99-98-du-15-fevrier-1999-ecom9900064d)
 - [Décret n°80-478 du 16 juin 1980](decret-n80-478-du-16-juin-1980)
 - [Décret n°98-1156 du 16 décembre 1998 (FPPA9800225D)](decret-n98-1156-du-16-decembre-1998-fppa9800225d)
-- [Décret n°99-195 du 16 mars 1999 (EQUK9900342D)](decret-n99-195-du-16-mars-1999-equk9900342d)
 - [Décret n°99-222 du 16 mars 1999 (MCCA9800165D)](decret-n99-222-du-16-mars-1999-mcca9800165d)
 - [Décret n°99-298 du 16 avril 1999 (AGRE9801706D)](decret-n99-298-du-16-avril-1999-agre9801706d)
 - [Décret n°99-299 du 16 avril 1999 (MENF9900726D)](decret-n99-299-du-16-avril-1999-menf9900726d)
