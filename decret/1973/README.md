@@ -18,7 +18,6 @@
 - [Décret n°73-1023 du 8 novembre 1973](decret-n73-1023-du-8-novembre-1973)
 - [Décret n°73-1026 du 9 novembre 1973](decret-n73-1026-du-9-novembre-1973)
 - [Décret n°73-1043 du 9 novembre 1973](decret-n73-1043-du-9-novembre-1973)
-- [Décret n°73-151 du 9 février 1973](decret-n73-151-du-9-fevrier-1973)
 - [Décret n°73-255 du 9 mars 1973](decret-n73-255-du-9-mars-1973)
 - [Décret n°73-53 du 9 janvier 1973](decret-n73-53-du-9-janvier-1973)
 - [Décret n°73-955 du 11 octobre 1973](decret-n73-955-du-11-octobre-1973)
