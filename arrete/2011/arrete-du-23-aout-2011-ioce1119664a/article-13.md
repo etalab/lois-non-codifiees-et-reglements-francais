@@ -2,8 +2,8 @@
 
 Le cabinet comprend :
 
-― le bureau du cabinet ;
+- le bureau des affaires réservées et des relations extérieures ;
 
-― le bureau des affaires financières et juridiques ;
+- le bureau de la communication et du porte-parolat ;
 
-― le bureau des ressources humaines et des moyens généraux.
+- le bureau d'animation des conseillers, des experts et des chargés de mission du directeur général.

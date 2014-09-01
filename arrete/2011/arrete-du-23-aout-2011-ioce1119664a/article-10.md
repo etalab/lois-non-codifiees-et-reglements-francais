@@ -13,3 +13,5 @@ Elle prépare et met en œuvre les formations militaires de la sécurité civile
 Elle dirige et coordonne l'action des établissements de soutien opérationnel et logistique (ESOL) pour assurer le soutien opérationnel des unités de la direction générale de la sécurité civile et de la gestion des crises. Les compétences et les moyens des ESOL sont mis à disposition du service de l'achat, des équipements et de la logistique de la sécurité intérieure (SAELSI) par convention avec la direction générale de la sécurité civile et de la gestion de crises, dans le cadre des actions de mutualisation qui relèvent de son champ de compétence.
 
 La sous-direction est en mesure de fournir, sous court préavis, les moyens nationaux organiques susceptibles d'intervenir sur le territoire métropolitain, outre-mer et à l'étranger.
+
+Elle prépare et exécute le budget du programme sécurité civile, conseille les services dans le domaine juridique, assure la gestion des ressources humaines affectées à l'exercice des missions de la direction générale de la sécurité civile et de la gestion des crises. Elle met en œuvre les moyens généraux du siège de la DGSCGC.
