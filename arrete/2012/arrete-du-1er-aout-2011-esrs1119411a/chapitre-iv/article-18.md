@@ -10,8 +10,6 @@ Le président du jury est responsable de la cohérence et du bon déroulement de
 
 Le jury délibère souverainement à partir de l'ensemble des résultats obtenus par les candidats et la délivrance du diplôme est prononcée après délibération du jury. Le procès-verbal de délibération est élaboré sous la responsabilité du président du jury et signé par lui.
 
-Après proclamation des résultats, le jury est tenu de communiquer les notes aux étudiants. De plus, les étudiants ont droit, sur leur demande et dans un délai raisonnable, à la communication de leurs copies et à un entretien, en tant que de besoin, individuel. Le conseil d'administration arrête, sur proposition du conseil des études et de la vie universitaire, les modalités de communication et d'entretien qui sont mises en œuvre par les équipes de formation et peuvent donner lieu à un accompagnement.
+Après proclamation des résultats, le jury est tenu de communiquer les notes aux étudiants. De plus, les étudiants ont droit, sur leur demande et dans un délai raisonnable, à la communication de leurs copies et à un entretien, en tant que de besoin, individuel. La commission de la formation et de la vie universitaire du conseil académique ou du conseil ayant compétence en matière de formation arrête les modalités de communication et d'entretien qui sont mises en œuvre par les équipes pédagogiques et peuvent donner lieu à un accompagnement.
 
 Une attestation de réussite et d'obtention du diplôme est fournie aux étudiants trois semaines au plus tard après la proclamation des résultats. La délivrance du diplôme définitif, signé par les autorités concernées, intervient dans un délai inférieur à six mois après cette proclamation.
-
-Le diplôme de licence est accompagné de l'annexe descriptive mentionnée au d de l'article D. 123-13 du code de l'éducation.

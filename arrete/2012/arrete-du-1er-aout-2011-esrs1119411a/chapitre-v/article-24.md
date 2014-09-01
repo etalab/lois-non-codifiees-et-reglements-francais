@@ -14,6 +14,6 @@ Il est notamment chargé de conduire une réflexion sur :
 
 ― les dénominations des diplômes et leur lisibilité pour les étudiants, les familles et le monde socio-économique.
 
-Le comité peut entendre les établissements et les équipes de formation. Il peut diligenter des missions au sein des établissements.
+Le comité peut entendre les établissements et les équipes pédagogiques. Il peut diligenter des missions au sein des établissements.
 
 Ses travaux sont rendus publics et présentés chaque année devant le Conseil national de l'enseignement supérieur et de la recherche.
