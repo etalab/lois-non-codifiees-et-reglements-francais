@@ -12,7 +12,7 @@ Section arts appliqués (design).
 
 Section biotechnologies (santé-environnement).
 
-Section économie et gestion : option communication et organisation ; option comptabilité et gestion ; option commerce et vente.
+Section économie et gestion : option gestion et administration ; option commerce et vente ; option transport et logistique.
 
 Section esthétique-cosmétique.
 

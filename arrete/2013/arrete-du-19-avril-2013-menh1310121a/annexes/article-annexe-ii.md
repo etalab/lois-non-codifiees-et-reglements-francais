@@ -46,6 +46,8 @@ Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heu
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
+Pour l'épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
 Section économie et gestion
 
 A. - Epreuve d'admissibilité
@@ -97,6 +99,8 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+Pour l'épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section hôtellerie-restauration
 
@@ -199,3 +203,5 @@ Au cours de l'entretien avec le jury, le candidat est conduit plus particulière
 Durée : travaux pratiques : quatre heures ; préparation de l'exposé : une heure ; exposé : trente minutes ; entretien : trente minutes ; coefficient 2.
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+
+Pour l'épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.

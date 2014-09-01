@@ -632,6 +632,8 @@ Durée de la préparation : quatre heures ; durée totale de l'épreuve : une he
 
 Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
+Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
 Section éducation physique et sportive
 
 A. - Epreuves écrites d'admissibilité
@@ -757,3 +759,5 @@ Elle permet d'évaluer les capacités du candidat à proposer et justifier les p
 Durée : six heures ; coefficient 1.
 
 Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
+
+Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
