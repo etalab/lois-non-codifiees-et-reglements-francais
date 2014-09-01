@@ -1,0 +1,5 @@
+# Article 2
+
+Les fonctionnaires nommés dans l'emploi de conseiller technique de la défense assurent, au sein de l'administration centrale, dans les services à compétence nationale, dans les services déconcentrés du ministre de la défense ainsi que dans les établissements publics administratifs sous sa tutelle, soit la direction technique et administrative de bureaux opérant dans les domaines des travaux scientifiques, techniques ou industriels, soit des fonctions d'animation, de coordination, de conseil ou d'expertise comportant, dans ces mêmes domaines, l'exercice de responsabilités particulièrement importantes.
+
+Les conseillers techniques de la défense occupant un emploi permettant l'accès à l'échelon spécial mentionné à l'article 5 sont chargés d'assurer la direction technique ou administrative de services particulièrement importants ou d'exercer, dans les domaines des travaux scientifiques, techniques ou industriels, des fonctions d'animation, de coordination, de conseil ou d'expertise impliquant un haut niveau de qualification.

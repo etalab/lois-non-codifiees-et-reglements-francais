@@ -1,0 +1,3 @@
+# Article 10
+
+La commission de la formation et de la vie universitaire du conseil académique ou du conseil de l'établissement qui a compétence en matière de formation fixe les modalités pédagogiques spéciales prenant en compte les besoins spécifiques d'étudiants dans des situations particulières, notamment des étudiants salariés ou assumant des responsabilités particulières dans la vie universitaire, la vie étudiante ou associative, des femmes enceintes, des étudiants chargés de famille, des étudiants engagés dans plusieurs cursus, des étudiants handicapés, des artistes et des sportifs de haut niveau. Ces modalités pédagogiques peuvent s'appuyer sur les technologies numériques.

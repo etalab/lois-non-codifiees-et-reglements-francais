@@ -829,36 +829,50 @@ Direction départementale de l'équipement et de l'agriculture (2) des Côtes-d'
 </tbody>
 </table>
 
-Direction départementale de l'équipement de la Dordogne
+Direction départementale des territoires de la Dordogne
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">FONCTIONS EXERCEES</p>
+<p align="center">FONCTIONS EXERCÉES</p>
 </td>
 <td>
-<p align="center">NIVEAU<br/>de qualification de l'emploi</p>
+<p align="center">NIVEAU <br/>de qualification <br/>de l'emploi</p>
 </td>
 <td>
 <p align="center">NOMBRE <br/>d'emplois</p>
 </td>
 <td>
-<p align="center">NOMBRE DE POINTS (IM)<br/>par emploi</p>
+<p align="center">NOMBRE <br/>de points (IM) <br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top">
-<p align="left">Chef de la cellule habitat</p>
+<td valign="middle">
+<br/>Adjoint au chef de pôle développement de l'offre de logement, chargé des dossiers ANRU, service urbanisme habitat construction<br/>
 </td>
-<td rowspan="2">
-<p align="center">A</p>
+<td align="center" valign="middle">
+<br/>A<br/>
 </td>
-<td rowspan="2">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td rowspan="2">
-<p align="center">50 points</p>
+<td align="center" valign="middle">
+<br/>25<br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Responsable de la cellule documents stratégiques et ville durable, service urbanisme habitat construction<br/>
+</td>
+<td align="center" valign="middle">
+<br/>A<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>25<br/>
 </td>
 </tr>
 </tbody>
@@ -884,7 +898,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Doubs
 </tr>
 <tr>
 <td>
-<p align="left">Chef du service habitat,  construction ville</p>
+<p align="left">Chef du service habitat, construction ville</p>
 </td>
 <td>
 <p align="center">A</p>

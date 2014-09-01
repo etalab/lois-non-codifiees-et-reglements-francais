@@ -142,7 +142,7 @@ et du logement en Ile-de-France
 <table>
 <tbody>
 <tr>
-<td colspan="4"> DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE </td>
+<td colspan="4">DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE </td>
 </tr>
 <tr>
 <td align="center" valign="middle">
@@ -152,13 +152,11 @@ et du logement en Ile-de-France
 <br/>Niveau de qualification de l'emploi <br/>
 </td>
 <td align="center" valign="middle">
-<br/>Nombre <br/>
-<p>d'emplois <br/>
+<br/>Nombre <p>d'emplois <br/>
 </p>
 </td>
 <td align="center" valign="middle">
-<br/>Nombre de points (IM) <br/>
-<p>par emploi <br/>
+<br/>Nombre de points (IM) <p>par emploi <br/>
 </p>
 </td>
 </tr>
@@ -501,7 +499,7 @@ et du logement en Ile-de-France
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Seine-Maritime
+Direction départementale de l'équipement et de l'agriculture (1) de la Seine-Maritime
 
 <table>
 <tbody>
@@ -536,7 +534,7 @@ Direction départementale de l'équipement et de l'agriculture (2) de la Seine-M
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) de Seine-et-Marne
+Direction départementale de l'équipement et de l'agriculture (1) de Seine-et-Marne
 
 <table>
 <tbody>
@@ -585,7 +583,7 @@ Direction départementale de l'équipement et de l'agriculture (2) de Seine-et-M
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
+Direction départementale des territoires des Yvelines
 
 <table>
 <tbody>
@@ -605,7 +603,7 @@ Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef de la mission "politique de la ville" </p>
+<p align="left">Chef de la mission politique de la ville et chef d'unité rénovation urbaine - Service habitat et rénovation urbaine </p>
 </td>
 <td>
 <p align="center">A </p>
@@ -614,12 +612,12 @@ Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">30 points </p>
+<p align="center">30 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chargé de mission politique de la ville </p>
+<p align="left">Chargé de mission politique de la ville, adjoint au chef d'unité rénovation urbaine - Service habitat et rénovation urbaine </p>
 </td>
 <td>
 <p align="center">A </p>
@@ -628,41 +626,55 @@ Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">30 points </p>
+<p align="center">15</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chargé de mission politique de la ville </p>
+<p align="left">Chargé de mission développement urbain et social des quartiers - Service habitat et rénovation urbaine </p>
 </td>
 <td>
-<p align="center">B </p>
+<p align="center">A </p>
 </td>
 <td>
-<p align="center">2 </p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">20 points </p>
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td>Chargé de mission politique de la ville - Service habitat et rénovation urbaine </td>
+<td align="center">B</td>
+<td align="center">2</td>
+<td align="center">20</td>
+</tr>
+<tr>
+<td>Comptable chargé des engagements des dossiers de travaux d'investissement et du contrôle de la réalisation des travaux - Service habitat et rénovation urbaine </td>
+<td align="center">C</td>
+<td align="center">1 <br/>
+</td>
+<td align="center">10 <br/>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p align="left">Comptable chargé des engagements comptables des dossiers d'investissement et du contrôle de la réalisation des travaux </p>
+<p align="left">Assistant chargé d'instruction des dossiers rénovation urbaine - Service habitat et rénovation urbaine </p>
 </td>
 <td rowspan="2">
 <p align="center">C </p>
 </td>
 <td rowspan="2">
-<p align="center">2 </p>
+<p align="center">1</p>
 </td>
 <td rowspan="2">
-<p align="center">10 points </p>
+<p align="center">10</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) des Deux-Sèvres
+Direction départementale de l'équipement et de l'agriculture (1) des Deux-Sèvres
 
 <table>
 <tbody>
@@ -928,7 +940,7 @@ Direction départementale de la cohésion sociale et de la protection des popula
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) du Var
+Direction départementale de l'équipement et de l'agriculture (1) du Var
 
 <table>
 <tbody>
@@ -1010,10 +1022,10 @@ Direction départementale des territoires de Vaucluse
 <table>
 <tbody>
 <tr>
-<td align="center"> FONCTIONS EXERCÉES </td>
-<td align="center"> NIVEAU <p>de qualification </p>de l'emploi </td>
-<td align="center"> NOMBRE d'emplois</td>
-<td align="center"> NOMBRE <p>de points (IM) </p>par emploi </td>
+<td align="center">FONCTIONS EXERCÉES </td>
+<td align="center">NIVEAU <p>de qualification </p>de l'emploi </td>
+<td align="center">NOMBRE d'emplois</td>
+<td align="center">NOMBRE <p>de points (IM) </p>par emploi </td>
 </tr>
 <tr>
 <td>

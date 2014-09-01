@@ -27,7 +27,7 @@ B.-Le A ne s'applique pas aux plus-values résultant des cessions réalisées au
 
 IV.-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2013-685 DC du 29 décembre 2013.]
 
-B.-Les 2° à 5° du A, le B du I et le II s'appliquent aux plus-values réalisées au titre des cessions intervenant à compter du 1er septembre 2013, à l'exception de celles réalisées au titre des cessions de terrains à bâtir définis au 1° du 2 du I de l'article 257 du code général des impôts ou de droits s'y rapportant.
+B.-Les 2° à 5° du A, le B du I et le II s'appliquent aux plus-values réalisées au titre des cessions intervenant à compter du 1er septembre 2013, à l'exception de celles réalisées au titre des cessions de terrains à bâtir définis au 1° du 2 du I de l'article 257 du code général des impôts ou de droits s'y rapportant intervenant entre le 1er septembre 2013 et le 31 août 2014.
 
 C.-1. Le III s'applique aux plus-values réalisées au titre des cessions intervenant entre le 1er septembre 2013 et le 31 août 2014.
 
