@@ -1,40 +1,43 @@
 # Article 1
 
-Les taux annuels de l'indemnité de sujétions spéciales allouée aux directeurs d'école et aux directeurs d'établissement spécialisé en application des dispositions du décret du 8 juillet 1983 susvisé sont fixés ainsi qu'il suit :
+Les taux annuels de l'indemnité de sujétions spéciales allouée aux directeurs d'école et aux directeurs d'établissement spécialisé en application des dispositions du
+décret du 8 juillet 1983 susvisé
+sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>NOMBRE DE CLASSES DE L'ÉCOLE <br/>
+<br clear="none"/>NOMBRE DE CLASSES DE L'ÉCOLE <br clear="none"/>
 </th>
 <th>
-<br/>TAUX ANNUELS <p>(en euros) <br/>
-</p>
+<br clear="none"/>TAUX ANNUELS <br clear="none"/>
+<br clear="none"/>(en euros) <br clear="none"/>
 </th>
 </tr>
 <tr>
-<td align="center">
-<br/>De 1 à 4 classes <br/>
+<td align="left" valign="middle">
+<br clear="none"/>De 1 à 3 classes <br clear="none"/>
 </td>
-<td align="center">
-<br/>1 595,62 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 5 à 9 classes <br/>
-</td>
-<td align="center">
-<br/>1 895,62 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 795,62 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>10 classes et plus <br/>
+<td align="left" valign="middle">
+<br clear="none"/>De 4 à 9 classes <br clear="none"/>
 </td>
-<td align="center">
-<br/>2 195,62</td>
+<td align="center" valign="middle">
+<br clear="none"/>1 995,62 <br clear="none"/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br clear="none"/>10 classes et plus <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>2 195,62<br clear="none"/>
+</td>
 </tr>
 </tbody>
 </table>
