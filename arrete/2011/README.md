@@ -585,7 +585,6 @@
 - [Arrêté du 8 mars 2011 (AGRT1103459A)](arrete-du-8-mars-2011-agrt1103459a)
 - [Arrêté du 8 mars 2011 (BCRF1104323A)](arrete-du-8-mars-2011-bcrf1104323a)
 - [Arrêté du 8 mars 2011 (DEFD1107582A)](arrete-du-8-mars-2011-defd1107582a)
-- [Arrêté du 8 mars 2011 (DEVT1101019A)](arrete-du-8-mars-2011-devt1101019a)
 - [Arrêté du 8 mars 2011 (JUSA1105681A)](arrete-du-8-mars-2011-jusa1105681a)
 - [Arrêté du 8 mars 2011 (JUSC1032853A)](arrete-du-8-mars-2011-jusc1032853a)
 - [Arrêté du 8 mars 2011 (SPOF1107207A)](arrete-du-8-mars-2011-spof1107207a)

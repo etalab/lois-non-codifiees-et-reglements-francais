@@ -1,3 +1,0 @@
-# CHAPITRE II : ORGANISATION DE LA SCOLARITE
-
-- [Article 12](article-12.md)
