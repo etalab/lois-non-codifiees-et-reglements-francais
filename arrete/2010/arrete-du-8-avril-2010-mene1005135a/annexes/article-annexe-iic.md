@@ -476,7 +476,7 @@ Cette sous-épreuve est organisée à partir des périodes de formation en milie
 
 Elle repose sur la soutenance d'un rapport d'activités en milieu professionnel, élaboré par le candidat à l'issue de ses périodes de formation en entreprise.
 
-Le rapport d'activités est limité à une vingtaine de pages et fait intervenir des réflexions personnelles.
+Le rapport d'activités est limité à une quinzaine de pages et fait intervenir des réflexions personnelles. Les illustrations ne doivent pas représenter plus du quart du rapport d'activités.
 
 Le rapport comporte en particulier :
 
@@ -484,7 +484,7 @@ Le rapport comporte en particulier :
 
 - l'analyse des situations observées, des problèmes abordés, des solutions et des démarches adoptées pour y répondre ;
 
-- un bilan des observations techniques, économiques, organisationnelles effectuées durant la formation en milieu professionnel.
+- un bilan des observations techniques, organisationnelles effectuées durant la formation en milieu professionnel.
 
 Pour la réalisation du rapport, le matériel informatique est autorisé.
 
