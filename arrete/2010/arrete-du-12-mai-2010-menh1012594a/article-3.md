@@ -1,7 +1,0 @@
-# Article 3
-
-L'évaluation mentionnée à l'article 2 ci-dessus s'appuie notamment sur le référentiel de compétences prévu par l'arrêté du 12 mai 2010 susvisé. Cette évaluation se fonde sur le rapport d'inspection du professeur agrégé stagiaire dans l'une des classes dont il a la responsabilité ou dans le lieu où il exerce ses fonctions et sur le rapport établi par le chef d'établissement. Toutefois, pour les professeurs agrégés stagiaires qui n'exercent pas leurs fonctions dans un établissement public d'enseignement du second degré, l'évaluation résulte de l'avis du chef d'établissement. Pour les enseignants exerçant à l'étranger, elle peut résulter d'une inspection et de l'avis du chef d'établissement.
-
-A l'issue de l'évaluation, un avis est formulé sur l'aptitude du professeur agrégé stagiaire à être titularisé. Pour les professeurs agrégés stagiaires qui n'ont pas reçu un avis favorable, un rapport d'évaluation motivé est établi, selon le cas, par l'inspecteur général de l'éducation nationale ou par l'inspecteur d'académie-inspecteur pédagogique régional ou par le professeur agrégé titulaire qui a procédé à l'évaluation.
-
-En outre, lorsqu'il concerne un stagiaire qui effectue une première année de stage, l'avis défavorable doit être complété par un avis sur l'intérêt, au regard de l'aptitude professionnelle, d'autoriser le professeur agrégé stagiaire à effectuer une seconde et dernière année de stage.
