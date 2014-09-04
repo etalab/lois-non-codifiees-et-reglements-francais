@@ -2,7 +2,7 @@
 
 Ces expérimentations sont menées dans les départements désignés par arrêté du ministre chargé des naturalisations.
 
-Elles s'achèvent le 31 décembre 2014.
+Elles s'achèvent le 31 mars 2015.
 
 Chacune d'entre elles commence à une date fixée par l'arrêté prévu au premier alinéa et qui ne pourra être postérieure au 1er janvier 2014.
 
