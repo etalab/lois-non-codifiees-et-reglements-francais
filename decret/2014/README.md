@@ -532,3 +532,6 @@
 - [DÉCRET n°2014-887 du 1er août 2014 (ETSD1411149D)](decret-n2014-887-du-1er-aout-2014-etsd1411149d)
 - [DÉCRET n°2014-888 du 1er août 2014 (INTD1411072D)](decret-n2014-888-du-1er-aout-2014-intd1411072d)
 - [DÉCRET n°2014-890 du 1er août 2014 (ETLL1417987D)](decret-n2014-890-du-1er-aout-2014-etll1417987d)
+- [DÉCRET n°2014-992 du 1er septembre 2014 (DEVP1414326D)](decret-n2014-992-du-1er-septembre-2014-devp1414326d)
+- [DÉCRET n°2014-994 du 1er septembre 2014 (INTV1414728D)](decret-n2014-994-du-1er-septembre-2014-intv1414728d)
+- [DÉCRET n°2014-995 du 1er septembre 2014 (AGRT1317040D)](decret-n2014-995-du-1er-septembre-2014-agrt1317040d)
