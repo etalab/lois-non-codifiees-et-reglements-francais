@@ -1,8 +1,6 @@
 # Article 40-1
 
-Le nombre maximum de maîtres de conférences de classe normale pouvant être promus chaque année au grade de maître de conférences hors classe est déterminé conformément aux dispositions du
-décret n° 2005-1090 du 1er septembre 2005
-relatif à l'avancement de grade dans les corps des administrations de l'Etat. La liste des maîtres de conférences de classe normale remplissant les conditions prévues au présent article est arrêtée à la même date que celle fixant le taux de promotion par le ministre chargé de l'enseignement supérieur.
+Le nombre maximum de maîtres de conférences de classe normale pouvant être promus chaque année au grade de maître de conférences hors classe est déterminé conformément aux dispositions du  décret n° 2005-1090 du 1er septembre 2005  relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
 Peuvent seuls être promus à la hors-classe les maîtres de conférences parvenus au 7e échelon de la classe normale et ayant accompli au moins cinq ans de services en qualité de maître de conférences ou de maître-assistant en position d'activité ou en position de détachement.
 

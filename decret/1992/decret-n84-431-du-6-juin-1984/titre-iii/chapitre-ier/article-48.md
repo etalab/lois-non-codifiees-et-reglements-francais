@@ -1,3 +1,3 @@
 # Article 48
 
-Dans les disciplines juridiques, politiques, économiques et de gestion, les professeurs des universités sont recrutés par la voie de concours nationaux d'agrégation et par concours organisés en application des dispositions du 3° et du 4° de l'article 46. Dans ces disciplines, le nombre des emplois offerts au titre du 3° de l'article 46 ne peut excéder le tiers des emplois offerts au premier concours organisé en application de l'article 49-2.
+Dans les disciplines juridiques, politiques, économiques et de gestion, les professeurs des universités sont recrutés par la voie du concours national d'agrégation de l'enseignement supérieur et par des concours organisés en application des dispositions du 1°, du 3°, du 4° et du 5° de l'article 46.

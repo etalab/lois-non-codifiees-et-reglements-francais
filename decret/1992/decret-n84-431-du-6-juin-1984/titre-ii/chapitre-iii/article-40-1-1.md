@@ -1,0 +1,3 @@
+# Article 40-1-1
+
+Les maîtres de conférences admis à la retraite et qui sont habilités à diriger des travaux de recherche peuvent pour une durée déterminée par l'établissement recevoir le titre de maître de conférences émérite. Ce titre est délivré par le président ou le directeur de l'établissement sur proposition de la commission de la recherche du conseil académique ou, dans les établissements non dotés d'un conseil académique, du conseil scientifique ou de l'organe en tenant lieu, en formation restreinte aux personnes qui sont habilitées à diriger des travaux de recherche. Les maîtres de conférences émérites peuvent continuer à apporter un concours, à titre accessoire et gracieux, aux activités de recherche.

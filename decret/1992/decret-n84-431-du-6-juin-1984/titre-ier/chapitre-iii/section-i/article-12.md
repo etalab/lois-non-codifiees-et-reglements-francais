@@ -1,3 +1,3 @@
 # Article 12
 
-La délégation ne peut être autorisée auprès d'une entreprise ou de tout autre organisme de droit privé, si l'enseignant a, au cours des cinq années précédentes, exercé un contrôle sur cette entreprise, ou cet organisme, ou a participé à l'élaboration ou à la passation de marchés conclus avec l'une ou l'autre.
+La délégation auprès d'une entreprise ou de tout autre organisme de droit privé ne peut être prononcée que si l'intéressé n'a pas, dans le cadre des fonctions publiques qu'il a effectivement exercées, au cours des cinq dernières années précédant la mise en délégation, soit exercé la surveillance ou le contrôle de cet organisme ou de cette entreprise, soit conclu des contrats de toute nature avec cet organisme ou cette entreprise, ou formulé un avis sur de tels contrats, soit proposé des décisions relatives à des opérations réalisées par cet organisme ou cette entreprise, ou formulé un avis sur de telles décisions.

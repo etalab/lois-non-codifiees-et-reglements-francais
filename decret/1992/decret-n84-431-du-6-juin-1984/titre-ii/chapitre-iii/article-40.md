@@ -2,15 +2,15 @@
 
 L'avancement de la classe normale à la hors-classe des maîtres de conférences a lieu au choix parmi les maîtres de conférences remplissant les conditions prévues à l'article 40-1 ci-après. Il est prononcé selon les modalités définies ci-dessous.
 
-I. - L'avancement a lieu, pour moitié, sur proposition de la section compétente du Conseil national des universités ou de la section compétente du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, dans la limite des promotions offertes par discipline au plan national et pour moitié sur proposition du conseil d'administration dans la limite des promotions offertes dans l'établissement, toutes disciplines confondues. Toutefois, lorsque le nombre des enseignants-chercheurs affectés à un établissement est inférieur à cinquante, l'ensemble des avancements est prononcé sur proposition de la section compétente du Conseil national des universités ou de la section compétente du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques après avis du conseil d'administration de l'établissement.
+I.-L'avancement a lieu, pour moitié, sur proposition de la section compétente du Conseil national des universités ou de la section compétente du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, dans la limite des promotions offertes par discipline au plan national et pour moitié sur proposition du conseil académique ou de l'organe compétent pour exercer les attributions mentionnées au IV de l'article L. 712-6-1, siégeant en formation restreinte, dans la limite des promotions offertes dans l'établissement, toutes disciplines confondues. Toutefois, lorsque le nombre des enseignants-chercheurs affectés à un établissement est inférieur à cinquante, l'ensemble des avancements est prononcé sur proposition de la section compétente du Conseil national des universités ou de la section compétente du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques après avis du conseil académique ou de l'organe compétent pour exercer les attributions mentionnées au IV de l'article L. 712-6-1, siégeant en formation restreinte, de l'établissement.
 
-Cet avancement a lieu sur la base de critères rendus publics et de l'évaluation de l'ensemble des activités des enseignants-chercheurs réalisée en application de l'article 7-1.
+Cet avancement a lieu sur la base de critères rendus publics, d'une part, par les sections du Conseil national des universités et, d'autre part, par les établissements.
 
 Le nombre maximum de promotions susceptibles d'être prononcées au titre du I est notifié aux établissements chaque année par arrêté du ministre chargé de l'enseignement supérieur.
 
-II. - Les maîtres de conférences qui exercent des fonctions qui ne sont pas principalement d'enseignement et de recherche dont la liste est fixée par arrêté du ministre chargé de l'enseignement supérieur peuvent demander, chaque année, à bénéficier de la procédure d'avancement définie ci-après.
+II.-Les maîtres de conférences qui exercent des fonctions qui ne sont pas principalement d'enseignement et de recherche dont la liste est fixée par arrêté du ministre chargé de l'enseignement supérieur peuvent demander, chaque année, à bénéficier de la procédure d'avancement définie ci-après. Ils ne peuvent bénéficier en ce cas de la procédure d'avancement définie au I.
 
-Le conseil d'administration de chaque établissement rend un avis sur les maîtres de conférences qui ont demandé à bénéficier de cette procédure. Cet avis est transmis à une instance composée de dix-huit professeurs des universités et dix-huit maîtres de conférences ainsi répartis :
+Le conseil académique ou l'organe compétent pour exercer les attributions mentionnées au IV de l'article L. 712-6-1, siégeant en formation restreinte, de chaque établissement rend un avis sur les maîtres de conférences qui ont demandé à bénéficier de cette procédure. Cet avis est transmis à une instance composée de dix-huit professeurs des universités et dix-huit maîtres de conférences ainsi répartis :
 
 a) Onze présidents de section tirés au sort et relevant chacun d'un groupe différent du Conseil national des universités ;
 
@@ -28,8 +28,6 @@ Après avoir entendu deux rapporteurs désignés par son bureau pour chaque maî
 
 Les modalités de fonctionnement de l'instance sont fixées par arrêté du ministre chargé de l'enseignement supérieur. Le mandat de ses membres prend fin à chaque renouvellement du Conseil national des universités ou, dans les disciplines pharmaceutiques, à chaque renouvellement du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques.
 
-Les propositions d'avancement des maîtres de conférences qui exercent des fonctions de président ou de directeur d'établissement public d'enseignement supérieur sont établies par l'instance mentionnée au présent article, sans consultation du conseil d'administration de l'établissement.
+III.-Les candidatures à l'avancement établies au titre du I et du II pour les maîtres de conférences qui exercent les fonctions de président ou de directeur d'établissement sont directement adressées au Conseil national des universités ou à l'instance prévue au deuxième alinéa du II.
 
-III. - Les présidents et directeurs d'établissements prononcent avant la fin de l'année en cours les promotions attribuées aux maîtres de conférences affectés dans leur établissement dans les conditions prévues au présent article.
-
-Les promotions prononcées sont rendues publiques.
+IV.-Les présidents et directeurs d'établissements prononcent avant la fin de l'année en cours les promotions attribuées aux maîtres de conférences affectés dans leur établissement dans les conditions prévues au présent article. Les promotions prononcées sont rendues publiques.

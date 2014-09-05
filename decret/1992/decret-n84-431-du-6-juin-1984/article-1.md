@@ -6,6 +6,6 @@ Les corps d'enseignants-chercheurs régis par le présent décret sont soumis au
 
 Aucune distinction, directe ou indirecte, ne peut être faite entre les enseignants-chercheurs en raison de leur sexe.
 
-Toutefois des distinctions peuvent être faites entre les femmes et les hommes en vue de la désignation par les autorités qui en sont chargées des membres des jurys et des comités de sélection ou instances constituées pour le recrutement, l'évaluation ou la carrière des enseignants-chercheurs, afin de concourir à une représentation équilibrée des femmes et des hommes dans ces organes.
+Toutefois des distinctions peuvent être faites entre les femmes et les hommes en vue de la désignation par les autorités qui en sont chargées des membres des jurys et des comités de sélection ou instances constituées pour le recrutement, la carrière ou le suivi de carrière des enseignants-chercheurs, afin de concourir à une représentation équilibrée des femmes et des hommes dans ces organes.
 
 Les personnels enseignants et hospitaliers des centres hospitaliers et universitaires restent régis par les dispositions statutaires prises en application des articles L. 952-21 à L. 952-23 du code de l'éducation. Les enseignants chercheurs des corps des établissements d'enseignement supérieur dont la liste figure en annexe du présent texte demeurent soumis aux dispositions statutaires de ces corps.
