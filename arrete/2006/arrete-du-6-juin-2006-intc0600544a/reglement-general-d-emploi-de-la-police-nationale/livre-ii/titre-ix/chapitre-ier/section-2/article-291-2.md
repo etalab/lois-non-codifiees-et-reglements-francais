@@ -1,6 +1,6 @@
 # Article 291-2
 
-Direction active de la direction générale de la police nationale, la DCCRS est composée d'un échelon central et de structures territoriales (les directions zonales), au sein desquelles sont implantés des unités mobiles, des compagnies autoroutières, des unités motocyclistes zonales, des services de soutien opérationnel ainsi que des centres de formation continue. Elle constitue la réserve générale de la police nationale.
+Direction active de la direction générale de la police nationale, la DCCRS est composée d'un échelon central et de structures territoriales (les directions zonales), au sein desquelles sont implantés des unités mobiles,  des compagnies autoroutières , des compagnies de montagne, des unités motocyclistes zonales, des services de soutien opérationnel ainsi que des centres de formation continue. Elle constitue la réserve générale de la police nationale.
 
 Elle est dirigée par un directeur des services actifs de la police nationale, nommé dans les conditions fixées par le décret n° 85-779 du 24 juillet 1985 modifié, et qui exerce son autorité sur l'ensemble des personnels et des services de sa direction.
 
