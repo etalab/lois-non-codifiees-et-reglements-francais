@@ -1,6 +1,6 @@
 # Article 2
 
-La composition de ces commissions administratives paritaires est fixée ainsi qu'il suit :
+La composition de cette commission administrative paritaire est fixée ainsi qu'il suit :
 
 <table>
 <tbody>
@@ -38,79 +38,33 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="85">
+<td rowspan="3" width="85">
 <p align="center">1</p>
 </td>
-<td width="282">
-<p>Ingénieurs principaux de physique nucléaire de 1re classe</p>
+<td>
+<p align="left">Ingénieurs principaux de physique nucléaire de 1re classe </p>
 </td>
-<td width="77">
-<p align="center">1</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-</td>
-<td rowspan="2" width="77">
+<td rowspan="3">
 <p align="center">2</p>
 </td>
-<td rowspan="2" width="83">
+<td rowspan="3">
 <p align="center">2</p>
 </td>
-</tr>
-<tr>
-<td width="282">
-<p>Ingénieurs principaux de physique nucléaire de 2e classe</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-</td>
-</tr>
-<tr>
-<td width="85">
+<td rowspan="3">
 <p align="center">2</p>
 </td>
-<td width="282">
-<p>Ingénieurs de physique nucléaire de 1re classe</p>
-<p>Ingénieurs de physique nucléaire de 2e classe</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-<p align="center">1</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-<p align="center">1</p>
-</td>
-<td width="77">
-<p align="center">2</p>
-</td>
-<td width="83">
+<td rowspan="3">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td width="85">
-<p align="center">3</p>
+<td>
+<p align="left">Ingénieurs principaux de physique nucléaire de 2e classe</p>
 </td>
-<td width="282">
-<p>Techniciens principaux de physique nucléaire</p>
-<p>Techniciens d'atelier de physique nucléaire de 1re classe</p>
-<p>Techniciens d'études de physique nucléaire de 1re classe</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-</td>
-<td width="77">
-<p align="center">1</p>
-</td>
-<td width="83">
-<p align="center">1</p>
+</tr>
+<tr>
+<td>
+<p align="left">Ingénieurs de physique nucléaire de 1re classe </p>
 </td>
 </tr>
 </tbody>

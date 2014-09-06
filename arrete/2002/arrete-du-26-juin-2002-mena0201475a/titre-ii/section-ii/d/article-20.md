@@ -2,7 +2,7 @@
 
 La phase d'admission comporte une audition des candidats admissibles à partir d'un texte ou d'une question qui est précédée, si l'arrêté d'ouverture du concours le prévoit, d'une épreuve écrite professionnelle dont les modalités sont fixées à l'article 21 du présent arrêté.
 
-Cette audition doit permettre d'évaluer les qualités de réflexion et l'aptitude des candidats à exercer les fonctions postulées.
+Cette audition doit permettre d'évaluer les qualités de réflexion          ainsi que l'aptitude des candidats à exercer les fonctions postulées et à remplir les missions des techniciens de la recherche de classe supérieure.
 
 Sa durée est fixée à vingt-cinq minutes, après une préparation de quinze minutes. Elle est affectée du coefficient 3.
 

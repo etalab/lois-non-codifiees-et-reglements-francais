@@ -1,4 +1,4 @@
-# D. - Recrutement des techniciens de la recherche
+# D. - Recrutement des techniciens de la recherche de classe supérieure
 
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
