@@ -95,7 +95,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 <p align="left">Directeur d'administration centrale du ministère de l'intérieur </p>
 </td>
 <td>
-<p align="center">8</p>
+<p align="center">7</p>
 </td>
 <td>
 <p align="center">140 </p>
