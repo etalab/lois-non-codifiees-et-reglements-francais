@@ -46,7 +46,6 @@
 - [Arrêté du 2 juin 2009 (PRMX0912319A)](arrete-du-2-juin-2009-prmx0912319a)
 - [Arrêté du 2 mars 2009 (BCFB0904331A)](arrete-du-2-mars-2009-bcfb0904331a)
 - [Arrêté du 2 mars 2009 (DEVA0904340A)](arrete-du-2-mars-2009-deva0904340a)
-- [Arrêté du 2 mars 2009 (DEVS0904864A)](arrete-du-2-mars-2009-devs0904864a)
 - [Arrêté du 2 mars 2009 (ECEM0831572A)](arrete-du-2-mars-2009-ecem0831572a)
 - [Arrêté du 2 mars 2009 (JUSC0904364A)](arrete-du-2-mars-2009-jusc0904364a)
 - [Arrêté du 2 novembre 2009 (DEVE0925794A)](arrete-du-2-novembre-2009-deve0925794a)
