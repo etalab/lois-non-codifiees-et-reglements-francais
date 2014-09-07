@@ -216,40 +216,37 @@ b) Tournesol
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> RÉGIONS FRANÇAISES, </p>
-<p align="center">où les émissions calculées</p>
-<p align="center">sont supérieures aux valeurs par défaut</p>
+<th>RÉGIONS FRANÇAISES, <br/>
+<br/>où les émissions calculées sont supérieures <br/>
+<br/>aux valeurs par défaut <br/>
+</th>
+<th>
+<br/>ÉMISSIONS <br/>
+<br/>en g CO2eq/ MJ <br/>
+</th>
+</tr>
+<tr>
+<td align="justify">
+<br/>Valeur par défaut détaillée pour la culture <br/>
 </td>
-<td>
-<p align="center"> ÉMISSIONS<br/>en g CO2eq/MJ<br/>
-</p>
+<td align="center">
+<br/>18 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Valeur par défaut détaillée pour la culture <br/>
-</p>
-</td>
-<td align="center">
-<br/>18</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Aucune région productrice <br/>
-</p>
+<td align="justify">
+<br/>Aucune région productrice<br/>
 </td>
 <td align="center">
 <br/>-<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Limousin, Lorraine, Nord-Pas-de-Calais, Picardie, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional</p>
+<td align="justify">
+<br/>Les  régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté,  Haute-Normandie, Lorraine, Nord-Pas-de-Calais, Picardie, faiblement  productrices, ne disposent pas de données robustes sur les itinéraires  techniques au niveau régional<br/>
 </td>
 <td align="center">
-<br/>-<br/>
-</td>
+<br/>-</td>
 </tr>
 </tbody>
 </table>

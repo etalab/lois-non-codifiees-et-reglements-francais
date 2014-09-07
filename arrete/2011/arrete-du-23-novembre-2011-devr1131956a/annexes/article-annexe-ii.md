@@ -153,13 +153,13 @@ b) Blé tendre
 <tbody>
 <tr>
 <td>
-<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">RÉGIONS FRANÇAISES, </p>
 <p align="center">où les émissions calculées</p>
 <p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
 </td>
 <td>
-<p align="center"> ÉMISSIONS </p>
+<p align="center">ÉMISSIONS </p>
 <p align="center">en g CO2eq/MJ<br/>
 </p>
 </td>
@@ -349,13 +349,13 @@ c) Maïs grain
 <tbody>
 <tr>
 <td>
-<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">RÉGIONS FRANÇAISES, </p>
 <p align="center">où les émissions calculées</p>
 <p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
 </td>
 <td>
-<p align="center"> ÉMISSIONS </p>
+<p align="center">ÉMISSIONS </p>
 <p align="center">en g CO2eq/MJ<br/>
 </p>
 </td>
@@ -542,13 +542,13 @@ a) Colza
 <tbody>
 <tr>
 <td>
-<p align="center"> RÉGIONS FRANÇAISES, </p>
+<p align="center">RÉGIONS FRANÇAISES, </p>
 <p align="center">où les émissions calculées</p>
 <p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
 </td>
 <td>
-<p align="center"> ÉMISSIONS </p>
+<p align="center">ÉMISSIONS </p>
 <p align="center">en g CO2eq/MJ<br/>
 </p>
 </td>
@@ -748,19 +748,20 @@ b) Tournesol
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGIONS FRANÇAISES, <p>où les émissions calculées</p>
-<p>sont inférieures aux valeurs par défaut<br/>
+<td>
+<p align="center">RÉGIONS FRANÇAISES, </p>
+<p align="center">où les émissions calculées</p>
+<p align="center">sont inférieures aux valeurs par défaut<br/>
 </p>
-</th>
-<th>
-<br/>ÉMISSIONS <p>en g CO2eq/MJ<br/>
-</p>
-</th>
+</td>
+<td>
+<p align="center">ÉMISSIONS </p>
+<p align="center">en g CO2eq/MJ</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p>Valeur par défaut détaillée pour la culture<br/>
+<p align="left">Valeur par défaut détaillée pour la culture<br/>
 </p>
 </td>
 <td align="center">
@@ -769,7 +770,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Aquitaine<br/>
+<p align="left">Aquitaine<br/>
 </p>
 </td>
 <td align="center">
@@ -778,7 +779,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Auvergne<br/>
+<p align="left">Auvergne<br/>
 </p>
 </td>
 <td align="center">
@@ -787,7 +788,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Bourgogne<br/>
+<p align="left">Bourgogne<br/>
 </p>
 </td>
 <td align="center">
@@ -796,7 +797,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Centre<br/>
+<p align="left">Centre<br/>
 </p>
 </td>
 <td align="center">
@@ -805,7 +806,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Champagne-Ardenne<br/>
+<p align="left">Champagne-Ardenne<br/>
 </p>
 </td>
 <td align="center">
@@ -814,7 +815,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Ile-de-France<br/>
+<p align="left">Ile-de-France<br/>
 </p>
 </td>
 <td align="center">
@@ -823,7 +824,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Languedoc-Roussillon<br/>
+<p align="left">Languedoc-Roussillon<br/>
 </p>
 </td>
 <td align="center">
@@ -832,7 +833,13 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Midi-Pyrénées<br/>
+<p align="left">Limousin </p>
+</td>
+<td align="center">16</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Midi-Pyrénées<br/>
 </p>
 </td>
 <td align="center">
@@ -841,7 +848,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Pays de la Loire<br/>
+<p align="left">Pays de la Loire<br/>
 </p>
 </td>
 <td align="center">
@@ -850,7 +857,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Poitou-Charentes<br/>
+<p align="left">Poitou-Charentes<br/>
 </p>
 </td>
 <td align="center">
@@ -859,7 +866,7 @@ b) Tournesol
 </tr>
 <tr>
 <td>
-<p align="center">Provence-Alpes-Côte d'Azur </p>
+<p align="left">Provence-Alpes-Côte d'Azur </p>
 </td>
 <td>
 <p align="center">16</p>
@@ -867,7 +874,7 @@ b) Tournesol
 </tr>
 <tr>
 <td align="center">
-<p>Rhône-Alpes<br/>
+<p align="left">Rhône-Alpes<br/>
 </p>
 </td>
 <td align="center">
