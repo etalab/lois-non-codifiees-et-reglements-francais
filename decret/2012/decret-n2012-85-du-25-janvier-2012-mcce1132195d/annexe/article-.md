@@ -6,7 +6,7 @@ CAHIER DES CHARGES DE LA SOCIÉTÉ NATIONALE DE PROGRAMME EN CHARGE DE L'AUDIOVI
 
 Préambule
 
-La société en charge de l'audiovisuel extérieur de la France dénommée France Médias Monde a pour ambition d'assurer le rayonnement de la France et de la langue française et de véhiculer les valeurs démocratiques et républicaines au niveau mondial. La société en charge de l'audiovisuel extérieur de la France a pour vocation de proposer une alternative aux médias existants sur la scène internationale en offrant en plusieurs langues, sur tous les médias, une vision française de l'actualité internationale notamment caractérisée par son indépendance par rapport au pouvoir politique et en assurant la promotion du dialogue, de l'échange des points de vue et du débat public. La société en charge de l'audiovisuel extérieur de la France doit également assurer la promotion de la culture française et francophone dans toute sa diversité.
+La société en charge de l'audiovisuel extérieur de la France dénommée France Médias Monde a pour mission d'assurer le rayonnement de la France et de la langue française et de véhiculer les valeurs démocratiques et républicaines au niveau mondial. La société en charge de l'audiovisuel extérieur de la France a pour vocation de proposer une alternative aux médias existants sur la scène internationale en offrant en plusieurs langues, sur tous les médias, une vision française de l'actualité internationale notamment caractérisée par son indépendance par rapport au pouvoir politique et en assurant la promotion du dialogue, de l'échange des points de vue et du débat public. La société en charge de l'audiovisuel extérieur de la France doit également assurer la promotion de la culture française et francophone dans toute sa diversité.
 
 La concrétisation de cette ambition implique de renforcer la présence médiatique internationale de la France. A cette fin, une société, dont le capital est entièrement détenu par l'Etat a été créée en avril 2008. Son rôle est d'assurer la coordination des services et le développement d'une offre originale de programmes complémentaires, innovants et attractifs adaptés à la réalité des demandes et des audiences.
 
@@ -20,7 +20,7 @@ Article 1er
 
 Objectifs de l'offre de services
 
-La société en charge de l'audiovisuel extérieur de la France a pour mission de contribuer au rayonnement de la France dans le monde, à la promotion de la langue française, des cultures française et francophone et plus largement à la diffusion de la diversité culturelle. A cette fin, elle coordonne une offre de services de communication audiovisuelle et de services de communication au public en ligne complémentaires en français ou en langues étrangères, destinés au public international ainsi qu'au public français résidant à l'étranger.
+La société en charge de l'audiovisuel extérieur de la France a pour mission de contribuer au rayonnement de la France dans le monde, à la promotion de la langue française, des cultures française et francophone et plus largement à la diffusion de la diversité culturelle. A cette fin, elle coordonne une offre de services de communication audiovisuelle et de services de communication au public en ligne complémentaires en français ou en langues étrangères, destinés principalement au public international ainsi qu'au public français en particulier celui résidant à l'étranger.
 
 Les services développés assurent de manière coordonnée la promotion des valeurs de la France en diffusant une vision rigoureuse et indépendante de l'actualité internationale, française, européenne et francophone destinée en particulier aux relais d'opinion et aux décideurs étrangers, mais également auprès du grand public dans certaines de ses zones de diffusion.
 
@@ -34,15 +34,15 @@ de communication audiovisuelle
 
 La société conçoit et fait diffuser directement ou par l'intermédiaire de sociétés dont elle détient, directement ou indirectement, tout ou partie du capital :
 
-1° Une offre de services de télévision dénommés France 24 diffusant des programmes d'information internationale en continu destinés aux publics étrangers, y compris ceux résidant en France.
+1° Une offre de services de télévision dénommés France 24 diffusant des programmes d'information internationale en continu destinés en particulier aux publics étrangers, y compris ceux résidant en France.
 
 Elle a pour objet de rendre compte de l'actualité internationale en portant une attention particulière à la dimension multilatérale des relations internationales, et plus particulièrement à la construction européenne. L'information diffusée rend également compte des événements et des débats survenant en France, dans une présentation accessible aux publics étrangers, sans leur donner une place prépondérante.
 
 L'offre de services est composée de programmes principaux en langue française, anglaise et arabe pouvant faire l'objet de décrochages linguistiques sur des aires régionales spécifiques reposant tous sur une même ligne éditoriale. Ces décrochages comportent des bulletins d'information, dont le contenu met l'accent sur l'actualité spécifique aux zones desservies, ainsi que des magazines et des émissions de plateau. Ces programmes doivent pouvoir être modifiés à tout moment afin de rendre compte ou retransmettre les événements majeurs de l'actualité internationale.
 
-Les services sont identifiables comme spécifiquement français et présentent de la France sa culture, son patrimoine touristique, sa vie politique et institutionnelle et les grands débats qui l'animent ainsi que ses réussites technologiques, scientifiques et économiques.
+Les services sont identifiables comme spécifiquement français et présentent de la France sa culture, son patrimoine touristique, sa vie sociale, politique et institutionnelle et les grands débats qui l'animent ainsi que ses réalisations dans les domaines technologiques, scientifiques et économiques.
 
-2° Une offre de services de radio en français et en langues étrangères destinés aux auditoires étrangers, y compris ceux résidant en France, ainsi qu'aux Français résidant à l'étranger, chargés de contribuer à la diffusion de la culture française et d'assurer une mission d'information relative à l'actualité française, européenne et internationale, dénommés Radio France internationale (RFI) et Monte-Carlo Doualiya (MCD).
+2° Une offre de services de radio en français et en langues étrangères destinés en particulier aux auditoires étrangers, y compris ceux résidant en France, ainsi qu'aux Français résidant à l'étranger, chargés de contribuer à la diffusion de la culture française et d'assurer une mission d'information relative à l'actualité française, européenne et internationale, dénommés Radio France internationale (RFI) et Monte-Carlo Doualiya (MCD).
 
 En raison de leur dimension transnationale, multilingue et du développement de partenariats locaux, ces services constituent à la fois un média de proximité pour les publics ciblés mais également un vecteur de promotion de la diversité des cultures et des valeurs françaises et francophones. Ils portent une attention particulière à la sensibilisation aux valeurs démocratiques.
 
@@ -56,7 +56,7 @@ Une offre enrichie par des services
 
 de communication au public en ligne
 
-La société développe une offre de services de communication au public en ligne qui prolongent, complètent, enrichissent et rendent accessible, notamment en situation de mobilité, l'offre de programmes des services précédemment énumérés. Elle favorise la relation avec les publics destinataires par l'utilisation de toutes les techniques de l'interactivité et le développement de services de communications électroniques permettant de compléter et d'enrichir, y compris au plan régional et local, les émissions programmées.
+La société développe une offre de services de communication au public en ligne qui prolongent, complètent, enrichissent et rendent accessible, notamment en situation de mobilité, l'offre de programmes des services précédemment énumérés. Elle favorise la relation avec les publics destinataires par l'utilisation de toutes les techniques de l'interactivité et le développement de services de communications électroniques permettant de compléter et d'enrichir les émissions programmées.
 
 Article 4 : Abrogé.
 
@@ -194,9 +194,7 @@ Article 16
 
 Multilinguisme
 
-I. ― L'offre de services est multilingue : l'offre de télévision, l'offre de radio ainsi que les services mentionnés à l'article 3 sont respectivement diffusés au moins dans les trois langues suivantes : le français, l'anglais et l'arabe. Le contrat d'objectifs et de moyens de la société définit les autres langues à développer dans les différentes régions du monde selon les moyens de diffusion afin de conforter l'identité et l'audience de la société en charge de l'audiovisuel extérieur de la France.
-
-II. ― Des émissions en langues étrangères destinées aux communautés étrangères résidant en France peuvent être programmées sur les services de radio mentionnés au 2° de l'article 2. Les modalités de prise en charge financière de ces émissions sont définies dans le cadre d'une convention annuelle conclue avec les parties concernées.
+L'offre de services est multilingue. Le contrat d'objectifs et de moyens de la société définit les langues à développer dans les différentes régions du monde selon les moyens de diffusion afin de conforter l'identité et l'audience de la société en charge de l'audiovisuel extérieur de la France.
 
 Article 17
 
@@ -216,7 +214,7 @@ Article 18
 
 La recherche de la satisfaction des publics visés
 
-La société procède aux études permettant de mesurer la réception et l'audience des services précédemment énumérés dans les zones desservies.
+La société procède régulièrement aux études permettant de mesurer la réception et l'audience des services précédemment énumérés dans les zones desservies.
 
 Ces études auront notamment pour objet des analyses qualitatives et quantitatives du public visé, afin de prendre en compte les habitudes d'écoute dans les différents pays, d'adapter, en tant que de besoin, les horaires de diffusion et de définir les modalités d'insertion des programmes en langues étrangères, en cohérence avec la ligne éditoriale de chaque service.
 
@@ -300,7 +298,7 @@ Dans la représentation à l'antenne de la société française, la diversité d
 
 Les programmes donnent une image la plus impartiale possible de la société française dans toute sa diversité. Une attention particulière est également accordée au traitement des différentes composantes de la population par les programmes.
 
-De façon générale, la société veille à ce que les programmes assurent la promotion des valeurs d'une culture et d'un civisme partagés.
+De façon générale, la société veille à ce que les programmes assurent la promotion des valeurs démocratiques et républicaines et d'une culture et d'un civisme partagés.
 
 Dans le cadre des recommandations du Conseil supérieur de l'audiovisuel, des actions sont mises en œuvre pour permettre d'améliorer la représentation de la diversité de la société française.
 
@@ -476,7 +474,7 @@ Relations avec les autres sociétés nationales
 
 de programme
 
-Dans le cadre des missions de service public prévues par la loi du 30 septembre 1986 précitée et le présent cahier des charges, les services de radio mentionnés au 2° de l'article 2 utilisent gratuitement les extraits sonores de journaux télévisés et d'émissions d'actualités et des éléments sonores de toutes autres émissions ou éléments d'émission déjà diffusés par les sociétés nationales de programme.
+Dans le cadre des missions de service public prévues par la loi du 30 septembre 1986 précitée et le présent cahier des charges, les services de radio mentionnés au 2° de l'article 2 utilisent gratuitement les extraits sonores de journaux télévisés et d'émissions d'actualités et des éléments sonores de toutes autres émissions ou éléments d'émission déjà diffusés par les sociétés nationales de programme en citant les sources.
 
 La société qui édite les services en cause fait son affaire des réclamations et des frais, y compris les droits d'auteur et droits voisins, que pourrait entraîner l'utilisation des émissions ou des extraits d'émissions que lui mettent à disposition les sociétés nationales de programme dans les conditions prévues au présent article.
 
