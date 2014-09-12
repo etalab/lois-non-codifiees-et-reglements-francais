@@ -1,0 +1,3 @@
+# Article 1
+
+Les élections des représentants du personnel au sein des instances de représentation du personnel du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche ainsi que les élections des représentants du personnel aux instances de représentation des maîtres des établissements d'enseignement privés des premier et second degrés sous contrat qui relèvent du ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche sont organisées dans les conditions et selon les modalités prévues par le décret du 26 mai 2011 susvisé, sous réserve des dispositions prévues aux articles 2 et 3 du présent décret.

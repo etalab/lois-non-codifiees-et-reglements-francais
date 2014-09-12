@@ -100,6 +100,7 @@
 - [DÉCRET n°2014-787 du 8 juillet 2014 (AFSH1319014D)](decret-n2014-787-du-8-juillet-2014-afsh1319014d)
 - [Décret n°98-902 du 8 octobre 1998 (ECOP9800418D)](decret-n98-902-du-8-octobre-1998-ecop9800418d)
 - [Décret n°2002-1437 du 9 décembre 2002 (DEFP0202246D)](decret-n2002-1437-du-9-decembre-2002-defp0202246d)
+- [DÉCRET n°2014-1029 du 9 septembre 2014 (MENH1408146D)](decret-n2014-1029-du-9-septembre-2014-menh1408146d)
 - [Décret n°2014-395 du 9 avril 2014 (JUSB1405862D)](decret-n2014-395-du-9-avril-2014-jusb1405862d)
 - [DÉCRET n°2014-791 du 9 juillet 2014 (MENS1411411D)](decret-n2014-791-du-9-juillet-2014-mens1411411d)
 - [DÉCRET n°2014-793 du 9 juillet 2014 (RDFB1404179D)](decret-n2014-793-du-9-juillet-2014-rdfb1404179d)
