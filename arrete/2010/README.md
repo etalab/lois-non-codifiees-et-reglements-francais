@@ -3014,7 +3014,6 @@
 - [Arrêté du 1er juillet 2010 (ESRS1017038A)](arrete-du-1er-juillet-2010-esrs1017038a)
 - [Arrêté du 1er juillet 2010 (MTSS1017493A)](arrete-du-1er-juillet-2010-mtss1017493a)
 - [Arrêté du 1er juin 2010 (AGRS1014084A)](arrete-du-1er-juin-2010-agrs1014084a)
-- [Arrêté du 1er juin 2010 (DEVA1002579A)](arrete-du-1er-juin-2010-deva1002579a)
 - [Arrêté du 1er juin 2010 (DEVA1008227A)](arrete-du-1er-juin-2010-deva1008227a)
 - [Arrêté du 1er juin 2010 (DEVA1008229A)](arrete-du-1er-juin-2010-deva1008229a)
 - [Arrêté du 1er juin 2010 (DEVP1013850A)](arrete-du-1er-juin-2010-devp1013850a)
