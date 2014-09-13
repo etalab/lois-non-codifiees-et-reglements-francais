@@ -4,9 +4,9 @@ I. - Le ministre de l'écologie, du développement durable et de l'énergie a au
 
 Cette autorité s'exerce :
 
-1° Conjointement avec le ministre du logement et de l'égalité des territoires sur le secrétariat général et la direction générale de l'aménagement, du logement et de la nature ;
+1° Conjointement avec le ministre du logement, de l'égalité des territoires et de la ruralité sur le secrétariat général et la direction générale de l'aménagement, du logement et de la nature ;
 
-2° Conjointement avec le ministre des affaires sociales et de la santé sur la direction générale de la prévention des risques lorsque celle-ci exerce ses compétences en matière de radioprotection.
+2° Conjointement avec le ministre des affaires sociales, de la santé et des droits des femmes sur la direction générale de la prévention des risques lorsque celle-ci exerce ses compétences en matière de radioprotection.
 
 II. - Le ministre de l'écologie, du développement durable et de l'énergie dispose :
 
