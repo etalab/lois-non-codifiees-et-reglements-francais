@@ -4,7 +4,7 @@ I. - Le ministre des finances et des comptes publics prépare et met en œuvre l
 
 II. - Le ministre des finances et des comptes publics est compétent pour :
 
-― les affaires monétaires et financières nationales, conjointement avec le ministre de l'économie, du redressement productif et du numérique pour ce qui concerne le financement des entreprises et des exportations ;
+― les affaires monétaires et financières nationales, conjointement avec le ministre de l'économie, de l'industrie et du numérique pour ce qui concerne le financement des entreprises et des exportations ;
 
 ― les affaires monétaires, économiques et financières européennes et internationales, en liaison avec le ou les ministres intéressés ;
 
@@ -20,7 +20,7 @@ II. - Le ministre des finances et des comptes publics est compétent pour :
 
 ― les pensions et la gestion administrative et financière du régime de retraite de la fonction publique de l'Etat.
 
-III. - Le ministre des finances et des comptes publics est compétent, conjointement avec le ministre de l'économie, du redressement productif et du numérique, pour :
+III. - Le ministre des finances et des comptes publics est compétent, conjointement avec le ministre de l'économie, de l'industrie et du numérique, pour :
 
 ― la prévision économique ;
 
@@ -32,7 +32,7 @@ III. - Le ministre des finances et des comptes publics est compétent, conjointe
 
 Il élabore et met en œuvre les règles relatives aux finances locales, en liaison avec le ministre de l'intérieur et le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique.
 
-Il est chargé, conjointement avec la ministre des affaires sociales et de la santé, de la préparation de la loi de financement de la sécurité sociale et en suit l'exécution. Il est responsable de l'équilibre général des comptes sociaux et des mesures de financement de la protection sociale.
+Il est chargé, conjointement avec la ministre des affaires sociales, de la santé et des droits des femmes, de la préparation de la loi de financement de la sécurité sociale et en suit l'exécution. Il est responsable de l'équilibre général des comptes sociaux et des mesures de financement de la protection sociale.
 
 Il est associé par le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique à la conduite de la politique des rémunérations, pensions et retraites des agents publics et contresigne les décrets relatifs aux statuts et à la rémunération de ces agents.
 

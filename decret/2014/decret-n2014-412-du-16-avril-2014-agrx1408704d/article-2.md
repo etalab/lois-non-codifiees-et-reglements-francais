@@ -12,6 +12,6 @@ Le ministre de l'agriculture, de l'agroalimentaire et de la forêt exerce, en pa
 
 5° Il définit et met en œuvre la politique dans le domaine des industries agroalimentaires ; à ce titre, il est associé à la politique de la pêche et de l'aquaculture ;
 
-6° Il définit et met en œuvre, avec le ministre de l'économie, du redressement productif et du numérique et le ministre des affaires sociales et de la santé, la politique relative au contrôle de la qualité et de la sécurité sanitaire des produits agricoles et alimentaires ;
+6° Il définit et met en œuvre, avec le ministre de l'économie, de l'industrie et du numérique et le ministre des affaires sociales, de la santé et des droits des femmes, la politique relative au contrôle de la qualité et de la sécurité sanitaire des produits agricoles et alimentaires ;
 
 7° Il participe aux négociations européennes et internationales.
