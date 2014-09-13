@@ -4,7 +4,7 @@ Le ministre de l'éducation nationale, de l'enseignement supérieur et de la rec
 
 Il prépare les décisions du Gouvernement relatives à l'attribution des ressources et des moyens alloués par l'Etat dans le cadre de la mission interministérielle « Recherche et enseignement supérieur ». A cet effet, les autres ministres lui présentent leurs propositions de crédits de recherche. Il participe à la définition et à la mise en œuvre du programme des investissements d'avenir.
 
-Il est compétent, conjointement avec le ministre de l'économie, du redressement productif et du numérique, pour la définition et le suivi de la politique en matière d'innovation.
+Il est compétent, conjointement avec le           ministre de l'économie, de l'industrie et du numérique, pour la définition et le suivi de la politique en matière d'innovation.
 
 Il participe à la promotion et à la diffusion des nouvelles technologies.
 
