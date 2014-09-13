@@ -1,4 +1,4 @@
-# Décret n° 2014-409 du 16 avril 2014 relatif aux attributions du ministre des droits des femmes, de la ville, de la jeunesse et des sports
+# Décret n° 2014-409 du 16 avril 2014 relatif aux attributions du ministre de la ville, de la jeunesse et des sports
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
