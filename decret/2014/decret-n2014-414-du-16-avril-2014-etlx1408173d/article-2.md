@@ -1,12 +1,12 @@
 # Article 2
 
-I. - Le ministre du logement et de l'égalité des territoires a autorité, conjointement avec le ministre de l'écologie, du développement durable et de l'énergie, sur le secrétariat général et la direction générale de l'aménagement, du logement et de la nature mentionnés dans le décret du 9 juillet 2008 susvisé.
+I.-Le         ministre du logement, de l'égalité des territoires et de la ruralité a autorité, conjointement avec le ministre de l'écologie, du développement durable et de l'énergie, sur le secrétariat général et la direction générale de l'aménagement, du logement et de la nature mentionnés dans le décret du 9 juillet 2008 susvisé.
 
 Il a autorité sur la délégation à l'hébergement et à l'accès au logement mentionnée dans le décret du 9 juillet 2008 susvisé.
 
 Il dispose du Commissariat général à l'égalité des territoires ainsi que du délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées.
 
-II. - Pour l'exercice de ses attributions, le ministre du logement et de l'égalité des territoires dispose en outre :
+II.-Pour l'exercice de ses attributions, le         ministre du logement, de l'égalité des territoires et de la ruralité dispose en outre :
 
 1° Du Conseil général de l'environnement et du développement durable ;
 
@@ -24,7 +24,7 @@ II. - Pour l'exercice de ses attributions, le ministre du logement et de l'égal
 
 8° De la direction des sports et de la direction de la jeunesse, de l'éducation populaire et de la vie associative.
 
-III. - Le ministre du logement et de l'égalité des territoires peut faire appel :
+III.-Le         ministre du logement, de l'égalité des territoires et de la ruralité peut faire appel :
 
 1° A l'inspection générale des finances et au conseil général de l'économie, de l'industrie, de l'énergie et des technologies ;
 
