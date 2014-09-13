@@ -1,6 +1,6 @@
 # Article 1
 
-Le ministre du travail, de l'emploi et du dialogue social prépare et met en œuvre la politique du Gouvernement dans les domaines du travail, de l'emploi, de la formation professionnelle, du dialogue social et de la prévention des accidents du travail et des maladies professionnelles.
+Le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social prépare et met en œuvre la politique du Gouvernement dans les domaines du travail, de l'emploi, de la formation professionnelle, du dialogue social et de la prévention des accidents du travail et des maladies professionnelles.
 
 A ce titre :
 

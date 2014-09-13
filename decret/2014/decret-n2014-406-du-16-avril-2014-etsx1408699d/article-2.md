@@ -1,6 +1,6 @@
 # Article 2
 
-I. ― Le ministre du travail, de l'emploi et du dialogue social a autorité sur :
+I. ― Le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social a autorité sur :
 
 ― la direction générale du travail ;
 
