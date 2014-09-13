@@ -40,25 +40,25 @@ c) A la détermination de la politique de la santé en tant que cette dernière 
 
 d) A l'élaboration de la législation fiscale en matière d'environnement et d'énergie ;
 
-4° Il assure la coordination des actions concernant la prévention des risques majeurs d'origine technologique ou naturelle et propose, en liaison avec le ministre de l'économie, du redressement productif et du numérique, toute mesure destinée à développer les industries et services de l'environnement ;
+4° Il assure la coordination des actions concernant la prévention des risques majeurs d'origine technologique ou naturelle et propose, en liaison avec le ministre de l'économie, de l'industrie et du numérique, toute mesure destinée à développer les industries et services de l'environnement ;
 
 5° Il assure la coordination des actions tendant à la préservation de la qualité de l'air ;
 
-6° Il élabore et met en œuvre la politique en matière de sûreté nucléaire, y compris en ce qui concerne le transport des matières radioactives et fissiles à usage civil et, conjointement avec le ministre des affaires sociales et de la santé, en matière de radioprotection.
+6° Il élabore et met en œuvre la politique en matière de sûreté nucléaire, y compris en ce qui concerne le transport des matières radioactives et fissiles à usage civil et, conjointement avec le ministre des affaires sociales, de la santé et des droits des femmes, en matière de radioprotection.
 
-III. - Au titre de l'énergie et du climat, il élabore et met en œuvre la politique de l'énergie, afin notamment d'assurer la sécurité d'approvisionnement et la lutte contre le réchauffement climatique et de promouvoir la transition énergétique. Conjointement avec le ministre de l'économie, du redressement productif et du numérique, il est compétent pour la politique des matières premières et des mines en ce qui concerne les matières énergétiques.
+III. - Au titre de l'énergie et du climat, il élabore et met en œuvre la politique de l'énergie, afin notamment d'assurer la sécurité d'approvisionnement et la lutte contre le réchauffement climatique et de promouvoir la transition énergétique. Conjointement avec le ministre de l'économie, de l'industrie et du numérique, il est compétent pour la politique des matières premières et des mines en ce qui concerne les matières énergétiques.
 
-IV. - Au titre des transports et de leurs infrastructures, il exerce notamment les attributions relatives aux transports ferroviaires, guidés et routiers, aux voies navigables, à l'aviation civile, aux applications satellitaires, à la météorologie et à l'organisation des transports pour la défense. En liaison avec le ministre du travail, de l'emploi et du dialogue social, il prépare la réglementation sociale dans le domaine des transports et suit les questions sociales du secteur.
+IV. - Au titre des transports et de leurs infrastructures, il exerce notamment les attributions relatives aux transports ferroviaires, guidés et routiers, aux voies navigables, à l'aviation civile, aux applications satellitaires, à la météorologie et à l'organisation des transports pour la défense. En liaison avec le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social, il prépare la réglementation sociale dans le domaine des transports et suit les questions sociales du secteur.
 
 Il élabore et met en œuvre les politiques de sécurité des infrastructures routières et de réglementation technique des véhicules.
 
 Il élabore la politique d'intermodalité et veille en particulier au développement des plates-formes multimodales ferroviaires et portuaires.
 
-En liaison avec le ministre de l'économie, du redressement productif et du numérique, il contribue à la politique industrielle concernant le secteur des transports.
+En liaison avec le ministre de l'économie, de l'industrie et du numérique, il contribue à la politique industrielle concernant le secteur des transports.
 
 V. - Au titre de l'équipement, il exerce notamment les attributions suivantes :
 
-1° En liaison avec le ministre de l'économie, du redressement productif et du numérique, il a la charge des questions économiques du secteur de l'équipement, du bâtiment et des travaux publics et de l'ingénierie ; il met en œuvre les actions de politique industrielle concernant ces secteurs ; il suit les questions sociales dans ces secteurs ;
+1° En liaison avec le ministre de l'économie, de l'industrie et du numérique, il a la charge des questions économiques du secteur de l'équipement, du bâtiment et des travaux publics et de l'ingénierie ; il met en œuvre les actions de politique industrielle concernant ces secteurs ; il suit les questions sociales dans ces secteurs ;
 
 2° Il élabore et met en œuvre la politique d'équipement routier et autoroutier ;
 

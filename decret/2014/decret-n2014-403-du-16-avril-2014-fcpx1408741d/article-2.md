@@ -12,9 +12,9 @@ I. - Le ministre des finances et des comptes publics a autorité sur :
 
 ― la délégation nationale à la lutte contre la fraude ;
 
-― les services à compétence nationale dénommés « TRACFIN », « Agence pour l'informatique financière de l'Etat » et « Service des achats de l'Etat ».
+― les services à compétence nationale dénommés TRACFIN", "Agence pour l'informatique financière de l'Etat" et "Service des achats de l'Etat".
 
-II. - Conjointement avec le ministre de l'économie, du redressement productif et du numérique, il a autorité sur :
+II. - Conjointement avec le ministre de l'économie, de l'industrie et du numérique, il a autorité sur :
 
 ― la direction générale du Trésor ;
 
@@ -32,13 +32,13 @@ II. - Conjointement avec le ministre de l'économie, du redressement productif e
 
 ― le médiateur des ministères économiques et financiers ;
 
-― le service à compétence nationale dénommé « Agence des participations de l'Etat » ; les modalités d'exercice de cette autorité conjointe sont précisées par arrêté du Premier ministre.
+― le service à compétence nationale dénommé "Agence des participations de l'Etat" ; les modalités d'exercice de cette autorité conjointe sont précisées par arrêté du Premier ministre.
 
-Le ministre des finances et des comptes publics s'assure, avec le ministre de l'économie, du redressement productif et du numérique, de l'accord du ministre des affaires étrangères et du développement international lorsqu'une mesure d'organisation de la direction générale du Trésor affecte directement les conditions d'exercice de ses missions au titre du commerce extérieur.
+Le ministre des finances et des comptes publics s'assure, avec le ministre de l'économie, de l'industrie et du numérique, de l'accord du ministre des affaires étrangères et du développement international lorsqu'une mesure d'organisation de la direction générale du Trésor affecte directement les conditions d'exercice de ses missions au titre du commerce extérieur.
 
-III. - Conjointement avec le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique, le ministre des finances et des comptes publics a autorité sur le service à compétence nationale dénommé « opérateur national de paye ».
+III. - Conjointement avec le ministre de la décentralisation, de la réforme de l'Etat et de la fonction publique, le ministre des finances et des comptes publics a autorité sur le service à compétence nationale dénommé "opérateur national de paye".
 
-IV. - Pour l'exercice de ses attributions relatives aux finances sociales, le ministre des finances et des comptes publics a autorité conjointe avec le ministre des affaires sociales et de la santé sur la direction de la sécurité sociale et avec ce ministre et le ministre du travail, de l'emploi et du dialogue social sur la direction de la recherche, des études, de l'évaluation et des statistiques.
+IV. - Pour l'exercice de ses attributions relatives aux finances sociales, le ministre des finances et des comptes publics a autorité conjointe avec le ministre des affaires sociales, de la santé et des droits des femmes sur la direction de la sécurité sociale et avec ce ministre et le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social sur la direction de la recherche, des études, de l'évaluation et des statistiques.
 
 V. - Pour l'exercice de ses attributions relatives aux finances locales, le ministre des finances et des comptes publics dispose de la direction générale des collectivités locales.
 
