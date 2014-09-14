@@ -1,0 +1,3 @@
+# Article 2
+
+Les ingénieurs navigants d'essais et les expérimentateurs navigants d'essais sont soumis aux exigences essentielles, aux dispositions administratives et aux normes médicales de classe 2 fixées par le règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 et par le règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 modifié par le règlement (UE) n° 290/2012 de la Commission du 30 mars 2012 susvisés, à l'exception des durées de validité et des périodicités des examens spécifiques aux normes complémentaires et propres à la catégorie des essais et réceptions, précisées en annexe.

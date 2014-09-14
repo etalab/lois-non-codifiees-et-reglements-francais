@@ -126,6 +126,8 @@
 - [DÉCRET n°2014-1032 du 11 septembre 2014 (ETSX1420670D)](decret-n2014-1032-du-11-septembre-2014-etsx1420670d)
 - [DÉCRET n°2014-1033 du 11 septembre 2014 (EINX1420685D)](decret-n2014-1033-du-11-septembre-2014-einx1420685d)
 - [DÉCRET n°2014-1034 du 11 septembre 2014 (ETLX1420716D)](decret-n2014-1034-du-11-septembre-2014-etlx1420716d)
+- [DÉCRET n°2014-1038 du 11 septembre 2014 (MENS1417767D)](decret-n2014-1038-du-11-septembre-2014-mens1417767d)
+- [DÉCRET n°2014-1040 du 11 septembre 2014 (DEFD1421252D)](decret-n2014-1040-du-11-septembre-2014-defd1421252d)
 - [Décret n°2014-324 du 11 mars 2014 (ETST1401574D)](decret-n2014-324-du-11-mars-2014-etst1401574d)
 - [Décret n°2014-396 du 11 avril 2014 (INTA1408616D)](decret-n2014-396-du-11-avril-2014-inta1408616d)
 - [Décret n°2014-610 du 11 juin 2014 (MENS1408915D)](decret-n2014-610-du-11-juin-2014-mens1408915d)
