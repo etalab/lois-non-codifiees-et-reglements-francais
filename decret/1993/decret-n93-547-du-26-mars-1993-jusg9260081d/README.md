@@ -1,4 +1,0 @@
-# Décret n°93-547 du 26 mars 1993 portant statut particulier des surveillants-chefs des services médicaux des services extérieurs de l'administration pénitentiaire et de la protection judiciaire de la jeunesse et modifiant le décret n° 90-230 du 14 mars 1990 relatif au statut particulier des infirmiers des services extérieurs de l'administration pénitentiaire et de la protection judiciaire de la jeunesse
-
-- [TITRE Ier : DISPOSITIONS PORTANT STATUT PARTICULIER DES SURVEILLANTS-CHEFS DES SERVICES MÉDICAUX DES SERVICES EXTÉRIEURS DE L'ADMINISTRATION PÉNITENTIAIRE ET DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE.](titre-ier)
-- [TITRE II : DISPOSITIONS MODIFIANT LE DÉCRET N° 90-230 DU 14 MARS 1990 RELATIF AU STATUT PARTICULIER DES INFIRMIERS DES SERVICES EXTÉRIEURS DE L'ADMINISTRATION PÉNITENTIAIRE ET DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE.](titre-ii)
