@@ -50,7 +50,9 @@ b) Sur ressources propres (en fonction des conventions passées avec l'Etat et d
 
 22° Créances fiscales et d'autres créances publiques, dont l'assistance au recouvrement est prévue par les conventions fiscales et les textes communautaires ;
 
-23° Droit d'enregistrement relevant de l'article 1635 bis AE du code général des impôts et comprenant :
+23° Droits d'enregistrement perçus au profit de la Caisse nationale d'assurance maladie des travailleurs salariés :
+
+1° Relevant de l'article 1635 bis AE du code général des impôts et comprenant :
 
 a) Les demandes d'enregistrement des produits homéopathiques, de leurs modifications et de leur renouvellement ;
 
@@ -63,6 +65,14 @@ d) les demandes de reconnaissance d'une autorisation de mise sur le marché ;
 e) Les demandes d'autorisation d'importation parallèle ;
 
 f) Les demandes de dépôt de publicité ;
+
+2° Relevant des articles 1635 bis AF à 1635 bis AH du code général des impôts et comprenant :
+
+a) Les demandes d'inscription, de renouvellement ou de modification d'inscription d'un médicament mentionné à l'article L. 5121-8 du code de la santé publique (CSP) sur la liste des spécialités pharmaceutiques remboursables mentionnée au premier alinéa de l'article L. 162-17 du code de la sécurité sociale (CSS) ou sur la liste des médicaments pris en charge et utilisés par les collectivités publiques, dans les conditions mentionnées aux articles L. 5123-2 à L. 5123-4 du CSP ;
+
+b) Les demandes d'inscription, de renouvellement ou de modification d'inscription d'un produit de santé sur la liste prévue au I de l'article L. 165-11 du CSS ;
+
+c) Les demandes d'inscription d'un dispositif médical à usage individuel sur la liste prévue à l'article L. 165-1 du CSS.
 
 24° Contribution pour frais de contrôle prévue à l'article L. 612-20 du code monétaire et financier ;
 
