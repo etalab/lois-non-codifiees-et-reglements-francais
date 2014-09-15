@@ -583,7 +583,6 @@
 - [Décret n°2008-987 du 18 septembre 2008 (MTST0816621D)](decret-n2008-987-du-18-septembre-2008-mtst0816621d)
 - [Décret n°2008-988 du 18 septembre 2008 (MTSA0821304D)](decret-n2008-988-du-18-septembre-2008-mtsa0821304d)
 - [Décret n°2008-989 du 18 septembre 2008 (DEFH0814637D)](decret-n2008-989-du-18-septembre-2008-defh0814637d)
-- [Décret n°2008-990 du 18 septembre 2008 (SJSP0814648D)](decret-n2008-990-du-18-septembre-2008-sjsp0814648d)
 - [Décret n°2008-992 du 18 septembre 2008 (BCFS0819219D)](decret-n2008-992-du-18-septembre-2008-bcfs0819219d)
 - [Décret n°88-262 du 18 mars 1988 (ECOP8800067D)](decret-n88-262-du-18-mars-1988-ecop8800067d)
 - [Décret n°2004-251 du 19 mars 2004 (INDI0402494D)](decret-n2004-251-du-19-mars-2004-indi0402494d)
