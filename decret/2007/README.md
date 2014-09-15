@@ -1145,7 +1145,6 @@
 - [Décret n° 2007-434 du 25 mars 2007 (SANP0720738D)](decret-n-2007-434-du-25-mars-2007-sanp0720738d)
 - [Décret n° 2007-435 du 25 mars 2007 (SANH0721330D)](decret-n-2007-435-du-25-mars-2007-sanh0721330d)
 - [Décret n° 2007-436 du 25 mars 2007 (SAND0720672D)](decret-n-2007-436-du-25-mars-2007-sand0720672d)
-- [Décret n° 2007-437 du 25 mars 2007 (SANP0721335D)](decret-n-2007-437-du-25-mars-2007-sanp0721335d)
 - [Décret n° 2007-438 du 25 mars 2007 (SANH0721124D)](decret-n-2007-438-du-25-mars-2007-sanh0721124d)
 - [Décret n° 2007-439 du 25 mars 2007 (SANS0720909D)](decret-n-2007-439-du-25-mars-2007-sans0720909d)
 - [Décret n° 2007-440 du 25 mars 2007 (SANS0720747D)](decret-n-2007-440-du-25-mars-2007-sans0720747d)
