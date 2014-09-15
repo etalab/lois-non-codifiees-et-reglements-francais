@@ -2,5 +2,4 @@
 
 - [Chapitre Ier : Formation spécifique à l'ostéopathie.](chapitre-ier)
 - [Chapitre II : Formation continue.](chapitre-ii)
-- [Chapitre III : Agrément des établissements de formation.](chapitre-iii)
 - [Chapitre IV : Dispositions transitoires.](chapitre-iv)
