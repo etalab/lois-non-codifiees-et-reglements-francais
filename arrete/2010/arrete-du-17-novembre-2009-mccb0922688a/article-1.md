@@ -14,7 +14,7 @@ La direction générale des patrimoines comprend :
 
 ― l'inspection des patrimoines ;
 
-― le département de la maîtrise d'ouvrage, de la sécurité et de la sûreté ; le département de la formation scientifique et technique ; le département de la politique des publics ; le département du pilotage de la recherche et de la politique scientifique ; le département des systèmes d'information patrimoniaux ; le département des affaires européennes et internationales ; le département de la communication ;
+― le département de la formation scientifique et technique ; le département de la politique des publics ; le département du pilotage de la recherche et de la politique scientifique ; le département des systèmes d'information patrimoniaux ; le département des affaires européennes et internationales ; le département de la communication ;
 
 ― la sous-direction des affaires financières et générales.
 

@@ -8,15 +8,15 @@ En liaison avec l'ensemble des services et des départements de la direction gé
 
 En liaison avec le secrétariat général :
 
-― elle contribue à définir la politique des ressources humaines s'appliquant à l'administration centrale, aux services déconcentrés, aux services à compétence nationale et aux opérateurs relevant du domaine de compétence de la direction générale ;
+- elle contribue à définir la politique des ressources humaines s'appliquant à l'administration centrale, aux services déconcentrés, aux services à compétence nationale et aux opérateurs relevant du domaine de compétence de la direction générale ;
 
-― elle participe à la programmation des recrutements au niveau ministériel ;
+- elle participe à la programmation des recrutements au niveau ministériel ;
 
-― elle veille au respect du plafond d'emplois des services et des opérateurs rattachés à la direction générale ;
+- elle veille au respect du plafond d'emplois des services et des opérateurs rattachés à la direction générale ;
 
-― elle participe au suivi des recrutements opérés dans les services déconcentrés ;
+- elle participe au suivi des recrutements opérés dans les services déconcentrés ;
 
-― elle participe à la gestion collective des agents qui relèvent de la direction générale ; à ce titre, elle met en place une gestion prévisionnelle des emplois et des compétences ; elle assure le fonctionnement des organismes consultatifs paritaires et des      comités d'hygiène, de sécurité et des conditions de travail qui lui sont rattachés.
+- elle participe à la gestion collective des agents qui relèvent de la direction générale ; à ce titre, elle met en place une gestion prévisionnelle des emplois et des compétences ; elle assure le fonctionnement des organismes consultatifs paritaires et des comités d'hygiène, de sécurité et des conditions de travail qui lui sont rattachés.
 
 Elle assure le secrétariat général du programme dont le directeur général est responsable. En liaison avec le secrétariat général et le service du contrôle budgétaire et comptable ministériel, elle veille à la bonne exécution de la programmation, en recettes et en dépenses.
 
@@ -30,12 +30,10 @@ Elle élabore, en liaison avec l'ensemble des services et des départements, le 
 
 La sous-direction des affaires financières et générales comprend :
 
-― le bureau des ressources humaines ;
+- le bureau des ressources humaines ;
 
-― le bureau de la programmation budgétaire et de la coordination des programmes ;
+- le bureau de la programmation budgétaire et de la performance ;
 
-― le bureau des affaires financières ;
+- le bureau des affaires financières ;
 
-― le bureau du contrôle de gestion et de l'analyse de la performance ;
-
-― le bureau des affaires juridiques.
+- le bureau des affaires juridiques.
