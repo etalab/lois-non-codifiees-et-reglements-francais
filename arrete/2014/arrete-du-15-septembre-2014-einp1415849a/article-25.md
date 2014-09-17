@@ -1,0 +1,5 @@
+# Article 25
+
+I. - La mission de suivi personnalisé et des parcours professionnels des personnels des corps techniques est chargée du suivi personnalisé et de l'orientation professionnelle des ingénieurs de l'industrie et des mines et des techniciens supérieurs de l'économie et de l'industrie.
+
+II. - La mission du contrôle de gestion et des audits est chargée de piloter et d'évaluer la performance, d'élaborer et de suivre, en coordination avec les services concernés, les objectifs et les indicateurs relatifs aux missions et actions opérationnelles de la direction générale, d'assurer le contrôle de gestion, de garantir la qualité de l'organisation et de la mise en œuvre des contrôles internes comptables et budgétaires de la direction générale et de procéder aux audits dans le cadre des orientations définies par le directeur général. Elle coordonne une mission de conseil auprès des services en matière de tutelle administrative des opérateurs relevant du périmètre de compétence de la direction générale, qu'elle assure conjointement avec le bureau des affaires budgétaires et financières.

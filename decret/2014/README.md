@@ -162,6 +162,8 @@
 - [Décret n°2014-485 du 14 mai 2014 (FCPT1409570D)](decret-n2014-485-du-14-mai-2014-fcpt1409570d)
 - [Décret n°2001-42 du 15 janvier 2001 (EQUU0100001D)](decret-n2001-42-du-15-janvier-2001-equu0100001d)
 - [Décret n°2004-976 du 15 septembre 2004 (ECOD0450006D)](decret-n2004-976-du-15-septembre-2004-ecod0450006d)
+- [DÉCRET n°2014-1047 du 15 septembre 2014 (AFSP1410241D)](decret-n2014-1047-du-15-septembre-2014-afsp1410241d)
+- [DÉCRET n°2014-1048 du 15 septembre 2014 (EINP1415729D)](decret-n2014-1048-du-15-septembre-2014-einp1415729d)
 - [DÉCRET n°2014-800 du 15 juillet 2014 (MENE1414240D)](decret-n2014-800-du-15-juillet-2014-mene1414240d)
 - [DÉCRET n°2014-897 du 15 août 2014 (JUSC1405663D)](decret-n2014-897-du-15-aout-2014-jusc1405663d)
 - [Décret n°2014-488 du 15 mai 2014 (FCPT1305515D)](decret-n2014-488-du-15-mai-2014-fcpt1305515d)
