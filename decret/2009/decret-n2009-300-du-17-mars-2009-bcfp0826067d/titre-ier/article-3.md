@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Le conseil d'orientation du service des achats de l'Etat arrête les orientations générales de la politique d'achat de l'Etat et de ses établissements publics. Il s'assure de la bonne adéquation des actions du service avec ces orientations et veille à l'obtention des résultats attendus. Il s'assure de l'accompagnement effectif des ministères par le service des achats de l'Etat pour l'amélioration de la performance de leurs achats.
+I.-Le conseil d'orientation du service des achats de l'Etat arrête les orientations générales de la politique d'achat de l'Etat et de ses établissements publics. Il s'assure de la bonne adéquation des actions du service avec ces orientations et veille à l'obtention des résultats attendus. Il s'assure de l'accompagnement effectif des ministères par le service des achats de l'Etat pour l'amélioration de la performance de leurs achats.
 
 II.-Sont membres du conseil d'orientation du service des achats de l'Etat, avec voix délibérative :
 
@@ -8,7 +8,7 @@ II.-Sont membres du conseil d'orientation du service des achats de l'Etat, avec 
 
 2° Deux parlementaires désignés par l'Assemblée nationale et le Sénat ;
 
-3° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+3° Le            directeur général des entreprises ou son représentant ;
 
 4° Le directeur du budget ou son représentant ;
 

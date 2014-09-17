@@ -6,7 +6,7 @@ Le jury de l'examen professionnel, dont les membres sont nommés par le ministre
 
 2° Un fonctionnaire de catégorie A appartenant au ministère chargé de l'industrie ;
 
-3° Le directeur général de la compétitivité, de l'industrie et des services, ou son représentant ;
+3° Le            directeur général des entreprises, ou son représentant ;
 
 4° Un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou un directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou un directeur régional de l'environnement, de l'aménagement et du logement ou un directeur de l'environnement, de l'aménagement et du logement ou le directeur régional et interdépartemental de l'environnement et de l'énergie d'Ile-de-France ou leur représentant ;
 

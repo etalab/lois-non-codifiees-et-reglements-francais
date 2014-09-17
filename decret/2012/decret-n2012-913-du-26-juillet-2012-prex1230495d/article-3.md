@@ -46,11 +46,11 @@ Le directeur général de la gendarmerie nationale ;
 
 Le directeur général de la sécurité civile et de la gestion des crises ;
 
-Le    directeur général de la sécurité intérieure.
+Le directeur général de la sécurité intérieure.
 
 Ministère du redressement productif :
 
-Le directeur général de la compétitivité, de l'industrie et des services.
+Le            directeur général des entreprises.
 
 Ministère de la défense :
 

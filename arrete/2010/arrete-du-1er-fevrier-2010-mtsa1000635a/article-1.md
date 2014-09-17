@@ -6,13 +6,13 @@ Le Comité national de pilotage du centre national de relais chargé de la réce
 
 ― le directeur général de l'offre de soins ou son représentant ;
 
-― le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
+― le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
 ― le directeur général de la police nationale ou son représentant ;
 
 ― le directeur général de la gendarmerie nationale ou son représentant ;
 
-― le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+― le            directeur général des entreprises ou son représentant ;
 
 ― le directeur général de l'Autorité de régulation des communications électroniques et des postes ou son représentant ;
 

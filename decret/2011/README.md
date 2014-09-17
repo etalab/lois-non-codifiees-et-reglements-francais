@@ -106,6 +106,7 @@
 - [Décret n°2011-746 du 27 juin 2011 (ETSH1111863D)](decret-n2011-746-du-27-juin-2011-etsh1111863d)
 - [Décret n°2011-748 du 27 juin 2011 (ETSH1111851D)](decret-n2011-748-du-27-juin-2011-etsh1111851d)
 - [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
+- [Décret n°2010-1670 du 28 décembre 2010 (EFIS1020583D)](decret-n2010-1670-du-28-decembre-2010-efis1020583d)
 - [Décret n°2011-1202 du 28 septembre 2011 (JUSC1122052D)](decret-n2011-1202-du-28-septembre-2011-jusc1122052d)
 - [Décret n°2011-475 du 28 avril 2011 (MCCB1105634D)](decret-n2011-475-du-28-avril-2011-mccb1105634d)
 - [Décret n°2010-1664 du 29 décembre 2010 (DEVR1024885D)](decret-n2010-1664-du-29-decembre-2010-devr1024885d)

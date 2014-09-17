@@ -4,7 +4,7 @@ Le jury de chaque concours externe et interne, dont les membres sont nommés par
 
 1° Un ingénieur général des mines, président ;
 
-2° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+2° Le            directeur général des entreprises ou son représentant ;
 
 3° Un fonctionnaire de catégorie A relevant du ministère chargé de l'industrie ;
 

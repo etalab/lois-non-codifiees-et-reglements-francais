@@ -34,7 +34,7 @@ c) Le président de l'organisme professionnel de prévention du bâtiment et des
 
 5° Sont associés en tant que de besoin :
 
-a) Le directeur général de la compétitivité, de l'industrie et des services ;
+a) Le            directeur général des entreprises ;
 
 b) Le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 

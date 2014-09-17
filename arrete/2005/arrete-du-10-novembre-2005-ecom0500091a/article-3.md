@@ -14,7 +14,7 @@ Sont également membres de droit de l'observatoire :
 
 4° Le directeur général du Trésor ou son représentant ;
 
-5° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+5° Le            directeur général des entreprises ou son représentant ;
 
 6° Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
@@ -22,7 +22,7 @@ Sont également membres de droit de l'observatoire :
 
 8° Le directeur du budget ou son représentant ;
 
-9° Le secrétaire général des   ministères économiques et financiers du ministère chargé de l'économie ou son représentant ;
+9° Le secrétaire général des ministères économiques et financiers du ministère chargé de l'économie ou son représentant ;
 
 10° Le directeur des affaires juridiques du ministère chargé de l'économie ou son représentant ;
 

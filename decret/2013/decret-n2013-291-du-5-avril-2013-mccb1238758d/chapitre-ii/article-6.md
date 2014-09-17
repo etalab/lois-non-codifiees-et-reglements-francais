@@ -10,7 +10,7 @@ b) Le responsable du service des arts plastiques au ministère chargé de la cul
 
 c) Le responsable du service de l'architecture au ministère chargé de la culture ou son représentant ;
 
-d) Le directeur général de la compétitivité, de l'industrie et des services au ministère chargé de l'industrie ou son représentant ;
+d) Le            directeur général des entreprises au ministère chargé de l'industrie ou son représentant ;
 
 e) Le responsable du service chargé de l'industrie au ministère chargé de l'industrie ou son représentant ;
 

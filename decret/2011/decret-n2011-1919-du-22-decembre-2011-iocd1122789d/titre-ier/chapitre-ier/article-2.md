@@ -16,7 +16,7 @@ e) Le directeur des libertés publiques et des affaires juridiques au ministère
 
 f) Le directeur général du travail au ministère chargé du travail, ou son représentant ;
 
-g) Le directeur général de la compétitivité, de l'industrie et des services au ministère chargé des finances, ou son représentant ;
+g) Le            directeur général des entreprises au ministère chargé des finances, ou son représentant ;
 
 h) Le directeur général de l'aviation civile au ministère chargé des transports, ou son représentant ;
 
@@ -30,7 +30,7 @@ k) Le directeur de la sécurité sociale au ministère chargé de la sécurité 
 
 3° Un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ;
 
-4° Huit personnes issues des activités privées de sécurité mentionnées aux  titres Ier et II du livre VI du code de la sécurité intérieure, nommées par le ministre de l'intérieur parmi celles proposées par les organisations professionnelles de sécurité privée ;
+4° Huit personnes issues des activités privées de sécurité mentionnées aux titres Ier et II du livre VI du code de la sécurité intérieure, nommées par le ministre de l'intérieur parmi celles proposées par les organisations professionnelles de sécurité privée ;
 
 a) Quatre au titre des activités de surveillance et de gardiennage ;
 

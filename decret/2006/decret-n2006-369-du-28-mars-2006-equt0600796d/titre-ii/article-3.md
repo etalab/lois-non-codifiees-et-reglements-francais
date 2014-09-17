@@ -10,9 +10,9 @@ b) Le directeur des infrastructures de transport ou son représentant ;
 
 c) Le directeur du budget ou son représentant ;
 
-d) Le    directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
+d) Le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
-e) Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+e) Le            directeur général des entreprises ou son représentant ;
 
 2° Un représentant de l'Etat choisi parmi les membres du Conseil général des ponts et chaussées ;
 

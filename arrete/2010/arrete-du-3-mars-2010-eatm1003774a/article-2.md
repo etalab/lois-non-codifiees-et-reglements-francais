@@ -2,7 +2,7 @@
 
 Outre son président, la commission comprend :
 
-― le directeur général de la compétitivité, de l'industrie et des services au ministère de l'économie, de l'industrie et de l'emploi ou son représentant ;
+― le            directeur général des entreprises au ministère de l'économie, de l'industrie et de l'emploi ou son représentant ;
 
 ― le directeur général des politiques agricole, agroalimentaire et des territoires au ministère de l'alimentation, de l'agriculture et de la pêche ou son représentant ;
 

@@ -18,7 +18,7 @@ Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre a
 
 -le directeur général de l'énergie et du climat ;
 
--le directeur général de la compétitivité, de l'industrie et des services ;
+-le            directeur général des entreprises ;
 
 -le directeur du budget ;
 

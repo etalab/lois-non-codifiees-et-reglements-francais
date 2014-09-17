@@ -4,7 +4,7 @@ La commission se réunit sur convocation de son président.
 
 Elle entend, à leur demande, les personnes qui sollicitent sa reconnaissance.
 
-Le directeur général de la compétitivité, de l'industrie et des services, ou son représentant, présente ses observations devant la commission.
+Le            directeur général des entreprises, ou son représentant, présente ses observations devant la commission.
 
 La commission ne peut valablement délibérer qu'en présence de la majorité de ses membres. Les décisions sont prises à la majorité des membres présents.
 

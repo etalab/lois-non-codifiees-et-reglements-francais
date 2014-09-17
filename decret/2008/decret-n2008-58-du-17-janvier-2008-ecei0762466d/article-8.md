@@ -8,7 +8,7 @@ La commission de classement est composée :
 
 3° Du directeur général de l'administration et de la fonction publique ou de son représentant ;
 
-4° Du directeur général de la compétitivité, de l'industrie et des services ou de son représentant ;
+4° Du            directeur général des entreprises ou de son représentant ;
 
 5° De deux directeurs du personnel de ministères ou de leurs représentants et d'un directeur du personnel de ministère suppléant ou de son représentant ;
 

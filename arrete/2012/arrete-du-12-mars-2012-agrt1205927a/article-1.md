@@ -10,7 +10,7 @@ Le comité comprend les membres suivants, nommés dans les conditions de l'artic
 
 4. Le directeur général de l'énergie et du climat au ministère chargé du développement durable ou son représentant.
 
-5. Le directeur général de la compétitivité, de l'industrie et des services au ministère chargé de l'industrie ou son représentant.
+5. Le            directeur général des entreprises au ministère chargé de l'industrie ou son représentant.
 
 6. Le directeur général de l'alimentation au ministère chargé des forêts ou son représentant.
 

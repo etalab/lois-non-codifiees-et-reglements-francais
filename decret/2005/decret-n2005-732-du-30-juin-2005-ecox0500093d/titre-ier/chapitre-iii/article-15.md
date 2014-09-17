@@ -6,7 +6,7 @@ II.-Les sociétés dans lesquelles l'établissement public OSEO détient, sépar
 
 Les activités de la société anonyme OSEO mentionnées aux 2° et 3° du I de l'article 6 de l'ordonnance du 29 juin 2005 susvisée sont soumises au contrôle du commissaire du Gouvernement prévu à l'article L. 615-1 du code monétaire et financier.
 
-III.-Le contrôle de l'Etat sur les entreprises et organismes mentionnés dans le présent article est exercé, sous l'autorité des ministres chargés de l'économie et du budget, par une mission de contrôle dont le responsable est nommé par arrêté de ces ministres. Il rend compte de l'exercice de sa mission au directeur général du Trésor, au directeur général de la compétitivité, de l'industrie et des services, au directeur général pour la recherche et l'innovation et au directeur du budget.
+III.-Le contrôle de l'Etat sur les entreprises et organismes mentionnés dans le présent article est exercé, sous l'autorité des ministres chargés de l'économie et du budget, par une mission de contrôle dont le responsable est nommé par arrêté de ces ministres. Il rend compte de l'exercice de sa mission au directeur général du Trésor, au            directeur général des entreprises, au directeur général pour la recherche et l'innovation et au directeur du budget.
 
 Le responsable de cette mission de contrôle ou la personne à qui il délègue ses pouvoirs en application du II de l'article 7 du décret du 26 mai 1955 susvisé exerce la fonction de commissaire du Gouvernement auprès de l'établissement public OSEO et de la société anonyme OSEO.
 

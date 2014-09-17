@@ -297,7 +297,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td width="378">
-<p>Directeur, adjoint au directeur général de la compétitivité, de l'industrie et des services </p>
+<p>Directeur, adjoint au            directeur général des entreprises </p>
 </td>
 <td width="151">
 <p align="center">1 </p>
@@ -447,7 +447,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'un service au secrétariat général des ministères économiques et financiers</p>
+<p align="center">En charge d'un service au secrétariat général des ministères économiques et financiers </p>
 </td>
 </tr>
 <tr>
@@ -525,7 +525,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant du secrétariat général des ministères économiques et financiers</p>
+<p align="center">En charge d'une sous-direction relevant du secrétariat général des ministères économiques et financiers </p>
 </td>
 </tr>
 <tr>
@@ -618,7 +618,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant de la direction générale de l'administration et de la fonction publique</p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de l'administration et de la fonction publique </p>
 </td>
 </tr>
 <tr>
@@ -751,7 +751,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant de la direction générale du Trésor</p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale du Trésor </p>
 </td>
 </tr>
 <tr>
@@ -961,7 +961,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant de la direction générale des finances publiques</p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale des finances publiques </p>
 </td>
 </tr>
 <tr>
@@ -1186,7 +1186,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant de la direction générale des douanes et droits indirects</p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -1268,7 +1268,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant de la direction générale de la concurrence,<br/>de la consommation et de la répression des fraudes</p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de la concurrence, <br/>de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>
@@ -1350,7 +1350,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">En charge d'une sous-direction relevant de la direction générale de la compétitivité, de l'industrie et des services</p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de la compétitivité, de l'industrie et des services </p>
 </td>
 </tr>
 <tr>
@@ -2021,7 +2021,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">a) Service des achats de l'Etat</p>
+<p align="center">a) Service des achats de l'Etat </p>
 </td>
 </tr>
 <tr>
@@ -2048,7 +2048,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">b) Institut de la gestion publique et du développement économique</p>
+<p align="center">b) Institut de la gestion publique et du développement économique </p>
 </td>
 </tr>
 <tr>
@@ -2064,7 +2064,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">c) Systèmes d'information budgétaire, financière et comptable de l'Etat</p>
+<p align="center">c) Systèmes d'information budgétaire, financière et comptable de l'Etat </p>
 </td>
 </tr>
 <tr>
@@ -2091,7 +2091,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">d) Agence France Trésor</p>
+<p align="center">d) Agence France Trésor </p>
 </td>
 </tr>
 <tr>
@@ -2118,7 +2118,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">e) Agence des participations de l'Etat</p>
+<p align="center">e) Agence des participations de l'Etat </p>
 </td>
 </tr>
 <tr>
@@ -2156,7 +2156,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">f) Ecole nationale du Trésor public</p>
+<p align="center">f) Ecole nationale du Trésor public </p>
 </td>
 </tr>
 <tr>
@@ -2172,7 +2172,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">g) Direction des vérifications nationales et internationale et direction des grandes entreprises <br/>relevant de la direction générale des impôts</p>
+<p align="center">g) Direction des vérifications nationales et internationale et direction des grandes entreprises <br/>relevant de la direction générale des impôts </p>
 </td>
 </tr>
 <tr>
@@ -2199,7 +2199,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">h) Service dénommé Programme COPERNIC</p>
+<p align="center">h) Service dénommé Programme COPERNIC </p>
 </td>
 </tr>
 <tr>
@@ -2226,7 +2226,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">i) Direction nationale des enquêtes fiscales, direction nationale des interventions domaniales, <br/>direction nationale des vérifications de situations fiscales, direction des résidents à l'étranger <br/>et des services généraux et Ecole nationale des impôts relevant de la direction générale des impôts</p>
+<p align="center">i) Direction nationale des enquêtes fiscales, direction nationale des interventions domaniales, <br/>direction nationale des vérifications de situations fiscales, direction des résidents à l'étranger <br/>et des services généraux et Ecole nationale des impôts relevant de la direction générale des impôts </p>
 </td>
 </tr>
 <tr>
@@ -2286,7 +2286,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">j) Centre national de formation professionnelle, Ecole nationale du cadastre<br/>et service de la documentation nationale du cadastre relevant de la direction générale des impôts</p>
+<p align="center">j) Centre national de formation professionnelle, Ecole nationale du cadastre <br/>et service de la documentation nationale du cadastre relevant de la direction générale des impôts </p>
 </td>
 </tr>
 <tr>
@@ -2324,7 +2324,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">k) Service dénommé Impôts service</p>
+<p align="center">k) Service dénommé Impôts service </p>
 </td>
 </tr>
 <tr>
@@ -2340,7 +2340,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">l) Direction nationale du renseignement et des enquêtes douanières <br/>relevant de la direction générale des douanes et droits indirects</p>
+<p align="center">l) Direction nationale du renseignement et des enquêtes douanières <br/>relevant de la direction générale des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -2389,7 +2389,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">m) Direction nationale du recrutement et de la formation professionnelle <br/>relevant de la direction générale des douanes et droits indirects</p>
+<p align="center">m) Direction nationale du recrutement et de la formation professionnelle <br/>relevant de la direction générale des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -2438,7 +2438,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">n) Direction nationale des statistiques du commerce extérieur relevant de la direction générale des douanes et droits indirects</p>
+<p align="center">n) Direction nationale des statistiques du commerce extérieur relevant de la direction générale des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -2454,7 +2454,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">o) Centre informatique douanier relevant de la direction générale des douanes et droits indirects</p>
+<p align="center">o) Centre informatique douanier relevant de la direction générale des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -2470,7 +2470,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">p) Direction nationale d'enquêtes de la concurrence, de la consommation et de la répression des fraudes</p>
+<p align="center">p) Direction nationale d'enquêtes de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>
@@ -2486,7 +2486,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">q) Ecole de la direction générale de la concurrence, de la consommation et de la répression des fraudes</p>
+<p align="center">q) Ecole de la direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>
@@ -2502,7 +2502,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">r) Opérateur national de paye</p>
+<p align="center">r) Opérateur national de paye </p>
 </td>
 </tr>
 <tr>
@@ -2551,7 +2551,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">s) Services des biens à double usage</p>
+<p align="center">s) Services des biens à double usage </p>
 </td>
 </tr>
 <tr>
@@ -2559,15 +2559,15 @@ II.-Fonctions exercées dans un service à compétence nationale
 <p>Sous-directeur, chef du service </p>
 </td>
 <td width="150">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td width="150">
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">t) TRACFIN</p>
+<p align="center">t) TRACFIN </p>
 </td>
 </tr>
 <tr>
@@ -2594,7 +2594,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">u) Service commun des laboratoires</p>
+<p align="center">u) Service commun des laboratoires </p>
 </td>
 </tr>
 <tr>
@@ -2610,7 +2610,7 @@ II.-Fonctions exercées dans un service à compétence nationale
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">v) Service des retraites de l'Etat</p>
+<p align="center">v) Service des retraites de l'Etat </p>
 </td>
 </tr>
 <tr>
@@ -2668,7 +2668,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Délégué interrégional des impôts</p>
+<p align="center">Délégué interrégional des impôts </p>
 </td>
 </tr>
 <tr>
@@ -2684,7 +2684,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur interrégional des douanes et droits indirects</p>
+<p align="center">Directeur interrégional des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -2711,7 +2711,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur interrégional de la concurrence, de la consommation et de la répression des fraudes</p>
+<p align="center">Directeur interrégional de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>
@@ -2745,7 +2745,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur régional des douanes et droits indirects</p>
+<p align="center">Directeur régional des douanes et droits indirects </p>
 </td>
 </tr>
 <tr>
@@ -2783,7 +2783,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur régional de la concurrence, de la consommation et de la répression des fraudes</p>
+<p align="center">Directeur régional de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>
@@ -2799,7 +2799,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur régional de l'Institut national de la statistique et des études économiques</p>
+<p align="center">Directeur régional de l'Institut national de la statistique et des études économiques </p>
 </td>
 </tr>
 <tr>
@@ -2837,7 +2837,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur régional du commerce extérieur</p>
+<p align="center">Directeur régional du commerce extérieur </p>
 </td>
 </tr>
 <tr>
@@ -2864,7 +2864,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur régional de l'industrie, de la recherche et de l'environnement</p>
+<p align="center">Directeur régional de l'industrie, de la recherche et de l'environnement </p>
 </td>
 </tr>
 <tr>
@@ -2931,7 +2931,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Chef des services fiscaux</p>
+<p align="center">Chef des services fiscaux </p>
 </td>
 </tr>
 <tr>
@@ -2991,7 +2991,7 @@ III.-Fonctions exercées en services déconcentrés
 </tr>
 <tr>
 <td colspan="3" width="676">
-<p align="center">Directeur départemental de la concurrence, de la consommation et de la répression des fraudes</p>
+<p align="center">Directeur départemental de la concurrence, de la consommation et de la répression des fraudes </p>
 </td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 # Article 4
 
-La Commission spécialisée de terminologie et de néologie "économie, finances, industrie, commerce, artisanat et services" comprend :
+La Commission spécialisée de terminologie et de néologie " économie, finances, industrie, commerce, artisanat et services " comprend :
 
 a) Le secrétaire général ou son représentant ;
 
@@ -10,7 +10,7 @@ Le directeur général du Trésor ou son représentant ;
 
 Le directeur général des finances publiques ou son représentant ;
 
-Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+Le            directeur général des entreprises ou son représentant ;
 
 La directrice générale de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 

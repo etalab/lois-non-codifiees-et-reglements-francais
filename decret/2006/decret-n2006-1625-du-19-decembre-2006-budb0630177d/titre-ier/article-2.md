@@ -6,7 +6,7 @@ L'établissement public est administré par un conseil d'administration composé
 
 2° Un membre désigné par le ministre chargé de la sécurité sociale ;
 
-3° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+3° Le            directeur général des entreprises ou son représentant ;
 
 4° Le directeur du budget ou son représentant ;
 

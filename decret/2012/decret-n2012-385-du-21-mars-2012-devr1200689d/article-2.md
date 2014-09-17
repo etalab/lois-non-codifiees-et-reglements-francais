@@ -10,7 +10,7 @@ b) Le directeur général de l'aménagement, du logement et de la nature ;
 
 c) Le directeur général de la prévention des risques ;
 
-d) Le directeur général de la compétitivité, de l'industrie et des services ;
+d) Le            directeur général des entreprises ;
 
 e) Le directeur général du Trésor ;
 

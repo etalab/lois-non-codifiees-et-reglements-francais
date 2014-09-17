@@ -6,7 +6,7 @@ Un ingénieur général des mines, président ;
 
 1. Un fonctionnaire de catégorie A appartenant au ministère chargé de l'industrie ;
 
-2. Le directeur général de la compétitivité, de l'industrie et des services, ou son représentant ;
+2. Le            directeur général des entreprises, ou son représentant ;
 
 3. Un directeur régional de l'industrie, de la recherche et de l'environnement ou un directeur régional de l'environnement, de l'aménagement et du logement ou un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, ou leur représentant ;
 

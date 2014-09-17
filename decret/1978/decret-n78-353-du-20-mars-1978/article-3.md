@@ -12,7 +12,7 @@ Sont membres de droit du conseil :
 
 -le sous-gouverneur de la Banque de France ;
 
--le directeur général de la compétitivité, de l'industrie et des services ;
+-le            directeur général des entreprises ;
 
 -le directeur général de la mondialisation, du développement et des partenariats ;
 

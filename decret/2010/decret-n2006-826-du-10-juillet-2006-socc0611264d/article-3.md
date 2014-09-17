@@ -20,7 +20,7 @@ e) Un représentant des communes sur proposition du président de l'Association 
 
 4° Neuf représentants des administrations principalement concernées par le développement de l'économie sociale et solidaire :
 
-a) Le directeur général de la compétitivité, de l'industrie et des services ;
+a) Le            directeur général des entreprises ;
 
 b) Le directeur général du Trésor ;
 

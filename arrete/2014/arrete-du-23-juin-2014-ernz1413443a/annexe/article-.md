@@ -27,7 +27,7 @@
 </p>
 </td>
 <td>
-<p align="left">Directeur général de la compétitivité, de l'industrie et des services<br/>
+<p align="left">Directeur général des entreprises<br/>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@
 </p>
 </td>
 <td>
-<p align="left">Directeur général de la compétitivité, de l'industrie et des services<br/>
+<p align="left">Directeur général des entreprises<br/>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@
 </p>
 </td>
 <td>
-<p align="left">Directeur général de la compétitivité, de l'industrie et des services<br/>
+<p align="left">Directeur général des entreprises<br/>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@
 </p>
 </td>
 <td>
-<p align="left">Directeur général de la compétitivité, de l'industrie et des services<br/>
+<p align="left">Directeur général des entreprises<br/>
 </p>
 </td>
 </tr>

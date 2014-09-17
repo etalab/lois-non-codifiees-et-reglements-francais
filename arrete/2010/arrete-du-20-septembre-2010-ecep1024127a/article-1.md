@@ -10,7 +10,7 @@ Dans les services du ministère l'économie, de l'industrie et de l'emploi et du
 
 ― le directeur général du Trésor ;
 
-― le directeur général de la compétitivité, de l'industrie et des services ;
+― le            directeur général des entreprises ;
 
 ― le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 

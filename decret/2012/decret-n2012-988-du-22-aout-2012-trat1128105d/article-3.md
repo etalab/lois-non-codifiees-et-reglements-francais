@@ -2,7 +2,7 @@
 
 I. ― La commission des téléphériques est présidée par le directeur des services de transport. Il peut être suppléé par un membre du Conseil général de l'environnement et du développement durable désigné sur proposition de son vice-président.
 
-II. - La commission des téléphériques comprend, outre son président, vingt-cinq membres répartis en six collèges :
+II.-La commission des téléphériques comprend, outre son président, vingt-cinq membres répartis en six collèges :
 
 1° Un collège de représentants de l'Etat comprenant neuf membres ainsi répartis :
 
@@ -12,7 +12,7 @@ b) Le directeur général de la concurrence, de la consommation et de la répres
 
 c) Le directeur général des collectivités locales ;
 
-d) Le directeur général de la compétitivité, de l'industrie et des services ;
+d) Le            directeur général des entreprises ;
 
 e) Le directeur général du travail.
 
@@ -34,4 +34,4 @@ d) Un représentant des bureaux de contrôle technique de remontées mécaniques
 
 6° Un collège de personnalités qualifiées choisies en raison de leur compétence en matière de remontées mécaniques comprenant deux membres.
 
-III. - Les membres de la commission des téléphériques peuvent se faire suppléer dans les conditions prévues à l'article 3 du décret du 8 juin 2006 susvisé.
+III.-Les membres de la commission des téléphériques peuvent se faire suppléer dans les conditions prévues à l'article 3 du décret du 8 juin 2006 susvisé.

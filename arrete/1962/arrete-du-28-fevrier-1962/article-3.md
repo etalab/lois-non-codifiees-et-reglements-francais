@@ -28,7 +28,7 @@ l) Le directeur général des infrastructures, des transports et de la mer ;
 
 m) Le directeur des pêches maritimes et de l'aquaculture ;
 
-n) Le directeur général de la compétitivité, de l'industrie et des services ;
+n) Le            directeur général des entreprises ;
 
 o) Le directeur des sports ;
 
