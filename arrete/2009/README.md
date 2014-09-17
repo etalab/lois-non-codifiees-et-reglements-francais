@@ -2224,7 +2224,6 @@
 - [Arrêté du 26 janvier 2009 (BCFD0902724A)](arrete-du-26-janvier-2009-bcfd0902724a)
 - [Arrêté du 26 janvier 2009 (DEFH0902337A)](arrete-du-26-janvier-2009-defh0902337a)
 - [Arrêté du 26 janvier 2009 (DEVE0902126A)](arrete-du-26-janvier-2009-deve0902126a)
-- [Arrêté du 26 janvier 2009 (ECEP0828359A)](arrete-du-26-janvier-2009-ecep0828359a)
 - [Arrêté du 26 janvier 2009 (ECES0901711A)](arrete-du-26-janvier-2009-eces0901711a)
 - [Arrêté du 26 janvier 2009 (ECES0901714A)](arrete-du-26-janvier-2009-eces0901714a)
 - [Arrêté du 26 janvier 2009 (ECES0902016A)](arrete-du-26-janvier-2009-eces0902016a)
