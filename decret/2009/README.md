@@ -386,7 +386,6 @@
 - [Décret n°2009-283 du 12 mars 2009 (ECEA0903214D)](decret-n2009-283-du-12-mars-2009-ecea0903214d)
 - [Décret n°2009-285 du 12 mars 2009 (JUSC0819029D)](decret-n2009-285-du-12-mars-2009-jusc0819029d)
 - [Décret n°2009-36 du 12 janvier 2009 (ECEP0828363D)](decret-n2009-36-du-12-janvier-2009-ecep0828363d)
-- [Décret n°2009-37 du 12 janvier 2009 (ECEP0828352D)](decret-n2009-37-du-12-janvier-2009-ecep0828352d)
 - [Décret n°2009-40 du 12 janvier 2009 (BCFR0900042D)](decret-n2009-40-du-12-janvier-2009-bcfr0900042d)
 - [Décret n°2009-41 du 12 janvier 2009 (ECEI0824013D)](decret-n2009-41-du-12-janvier-2009-ecei0824013d)
 - [Décret n°2009-42 du 12 janvier 2009 (ECEL0828834D)](decret-n2009-42-du-12-janvier-2009-ecel0828834d)
