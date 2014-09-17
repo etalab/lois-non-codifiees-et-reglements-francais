@@ -1,7 +1,11 @@
 # Article 5
 
-Les candidats visés à l'article 1er de l'arrêté du 9 mars 2006 susvisé doivent satisfaire aux conditions ci-dessous :
+L'obtention du titre professionnel d'agent (e) de sûreté et de sécurité privée ou du certificat de compétences professionnelles " Assurer la sécurité liée aux risques incendie ou d'origine accidentelle " est soumise à la condition de la production :
 
-― les candidats au titre par la voie de la formation mentionnés au I a et I b de cet arrêté doivent détenir à l'entrée en formation une autorisation préalable en application de l'article 6-1 de la loi n° 83-629 susvisée ;
+-du certificat " Sauveteur-secouriste du travail (SST) " en cours de validité ; et
 
-― les candidats au titre par la voie de la validation des acquis de l'expérience doivent satisfaire aux conditions définies par l'article 6 de la loi n° 83-629 susvisée.
+-de la présentation du diplôme ou du procès-verbal d'examen et de l'attestation individuelle de résultats de la qualification " Service sécurité incendie et assistance aux personnes de niveau 1 (SSIAP1) " à jour de recyclage.
+
+A défaut de production de ces pièces lors de la session de validation, les procès-verbaux mentionnés à l'arrêté du 8 décembre 2008 susvisé portent la mention suivante : " sous réserve de production du SST et du SSIAP1 ".
+
+Les candidats ont un délai de trois mois pour adresser ces pièces justificatives à l'unité territoriale de la DIRECCTE.
