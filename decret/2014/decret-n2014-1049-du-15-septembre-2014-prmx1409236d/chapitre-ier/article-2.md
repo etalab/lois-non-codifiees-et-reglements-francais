@@ -1,0 +1,3 @@
+# Article 2
+
+Les zones du Sahara mentionnées au 1° de l'article 2 de la loi du 5 janvier 2010 susvisée sont celles qui sont inscrites, d'une part, dans un secteur angulaire de 10 degrés centré sur le point (0 degré 3 minutes 26 secondes ouest - 26 degrés 18 minutes 42 secondes nord) compris entre l'azimut 100 degrés et l'azimut 110 degrés sur une distance de 350 kilomètres et, d'autre part, dans un secteur angulaire de 40 degrés centré sur le point (5 degrés 2 minutes 30 secondes est - 24 degrés 3 minutes 0 seconde nord) compris entre l'azimut 70 degrés et l'azimut 110 degrés sur une distance de 40 kilomètres et prolongé sur l'axe d'azimut 90 degrés par un secteur rectangulaire de longueur 100 kilomètres.
