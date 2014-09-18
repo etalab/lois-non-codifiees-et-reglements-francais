@@ -315,4 +315,5 @@
 - [Arrêté du 31 décembre 2012 (SPOV1243668A)](arrete-du-31-decembre-2012-spov1243668a)
 - [Arrêté du 31 janvier 2013 (DEVL1236444A)](arrete-du-31-janvier-2013-devl1236444a)
 - [Arrêté du 31 juillet 2013 (AFSS1320604A)](arrete-du-31-juillet-2013-afss1320604a)
+- [Arrêté du 31 juillet 2013 (INTE1320470A)](arrete-du-31-juillet-2013-inte1320470a)
 - [Arrêté du 1er février 2013 (AGRG1240332A)](arrete-du-1er-fevrier-2013-agrg1240332a)
