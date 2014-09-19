@@ -1071,7 +1071,6 @@
 - [Arrêté du 13 mai 2011 (AGRT1103766A)](arrete-du-13-mai-2011-agrt1103766a)
 - [Arrêté du 13 mai 2011 (AGRT1103767A)](arrete-du-13-mai-2011-agrt1103767a)
 - [Arrêté du 13 mai 2011 (DEFM1115786A)](arrete-du-13-mai-2011-defm1115786a)
-- [Arrêté du 13 mai 2011 (ETSH1113257A)](arrete-du-13-mai-2011-etsh1113257a)
 - [Arrêté du 13 mai 2011 (ETSO1106921A)](arrete-du-13-mai-2011-etso1106921a)
 - [Arrêté du 13 mai 2011 (IOCG1117664A)](arrete-du-13-mai-2011-iocg1117664a)
 - [Arrêté du 13 mai 2011 (IOCJ1109759A)](arrete-du-13-mai-2011-iocj1109759a)
