@@ -12,7 +12,7 @@ I.-En administration centrale
 
 4° Chef d'un projet ou d'une mission ou chargé des fonctions d'analyse, de consultant ou de conseiller, requérant un haut niveau d'expertise ainsi qu'une expérience diversifiée et impliquant une forte autonomie ainsi que des sujétions particulières ;
 
-5° Chef de pôle à la direction des affaires juridiques ;
+5°        Adjoint de chef de pôle à la direction des affaires juridiques ;
 
 6° Directeur de cabinet ou chef de cabinet d'un directeur d'administration centrale, siégeant en comité de direction ;
 
