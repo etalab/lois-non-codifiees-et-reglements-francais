@@ -48,9 +48,7 @@ A l'Ecole nationale de l'aviation civile (ENAC) :
 
 Les chargés d'enseignement.
 
-Au service d'exploitation de la formation aéronautique (SEFA) :
-
-Les chefs de subdivision.
+Les enseignants confirmés.
 
 Au centre d'exploitation, de développement et d'études du réseau d'informatique de gestion (CEDRe) :
 
@@ -130,25 +128,13 @@ Les chefs de division.
 
 A l'Ecole nationale de l'aviation civile (ENAC) :
 
-Les chefs de subdivision.
+Les enseignants seniors
 
-Les adjoints au chef de département.
+Les chefs de subdivision.
 
 Les inspecteurs des études.
 
-Les chefs de laboratoire de recherche.
-
-Le responsable du schéma directeur informatique.
-
-Les adjoints aux délégués.
-
-Au service de la formation aéronautique (SEFA) :
-
-Les contrôleurs de gestion.
-
-Le responsable instruction sol.
-
-Les chefs de division.
+Les chefs de groupe de recherche.
 
 Dans les services outre-mer de l'aviation civile :
 
@@ -242,17 +228,17 @@ Les chefs de division du service technique de l'aviation civile (STAC).
 
 A l'Ecole nationale de l'aviation civile (ENAC) :
 
-Le contrôleur de gestion.
-
 Les délégués.
 
-Le responsable grands travaux.
+Les chefs de pôle.
 
-Au service de la formation aéronautique (SEFA) :
+Les chefs de division.
 
 Les chefs de centre.
 
-Le responsable qualité.
+Les adjoints au chef de département.
+
+Les chefs de laboratoire de recherche.
 
 Dans les services outre-mer de l'aviation civile :
 
@@ -358,11 +344,11 @@ A l'Ecole nationale de l'aviation civile (ENAC) :
 
 Les chefs de département.
 
-Au service de la formation aéronautique (SEFA) :
+Le directeur de cabinet.
 
-L'adjoint au chef du service de la formation aéronautique.
+Les adjoints au secrétaire général.
 
-Les chefs de département.
+L'adjoint au directeur de la formation au pilotage et des vols.
 
 Au bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile (BEA) :
 
@@ -438,9 +424,17 @@ A la direction du transport aérien (DTA) :
 
 Les adjoints au sous-directeur ou au chef de mission.
 
-A l'Ecole nationale de l'aviation civile (ENAC) et au service d'exploitation de la formation aéronautique (SEFA) :
+A l'Ecole nationale de l'aviation civile (ENAC) :
 
 Le secrétaire général.
+
+Le directeur adjoint ;
+
+Le directeur des études et de la recherche.
+
+Le directeur de la formation au pilotage et des vols.
+
+Le directeur de l'international et du développement.
 
 Au centre d'exploitation, de développement et d'études du réseau d'informatique de gestion (CEDRe) :
 
