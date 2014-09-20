@@ -218,6 +218,7 @@
 - [Arrêté du 22 décembre 2006 (SOCT0612564A)](arrete-du-22-decembre-2006-soct0612564a)
 - [Arrêté du 22 février 2006 (MENE0600645A)](arrete-du-22-fevrier-2006-mene0600645a)
 - [Arrêté du 22 février 2006 (MENE0600647A)](arrete-du-22-fevrier-2006-mene0600647a)
+- [Arrêté du 22 juin 2006 (EQUA0601150A)](arrete-du-22-juin-2006-equa0601150a)
 - [Arrêté du 22 mars 2006 (AGRF0600700A)](arrete-du-22-mars-2006-agrf0600700a)
 - [Arrêté du 22 mars 2006 (JUSC0620195A)](arrete-du-22-mars-2006-jusc0620195a)
 - [Arrêté du 22 mars 2006 (JUSC0620196A)](arrete-du-22-mars-2006-jusc0620196a)
