@@ -227,7 +227,6 @@
 - [Arrêté du 23 avril 2012 (IOCS1221485A)](arrete-du-23-avril-2012-iocs1221485a)
 - [Arrêté du 23 décembre 2006 (PRMX0609827A)](arrete-du-23-decembre-2006-prmx0609827a)
 - [Arrêté du 23 décembre 2013 (AFSH1330237A)](arrete-du-23-decembre-2013-afsh1330237a)
-- [Arrêté du 23 décembre 2013 (AGRG1326982A)](arrete-du-23-decembre-2013-agrg1326982a)
 - [Arrêté du 23 décembre 2013 (AGRG1329150A)](arrete-du-23-decembre-2013-agrg1329150a)
 - [Arrêté du 23 décembre 2013 (BUDD1331517A)](arrete-du-23-decembre-2013-budd1331517a)
 - [Arrêté du 23 décembre 2013 (DEVD1318541A)](arrete-du-23-decembre-2013-devd1318541a)
