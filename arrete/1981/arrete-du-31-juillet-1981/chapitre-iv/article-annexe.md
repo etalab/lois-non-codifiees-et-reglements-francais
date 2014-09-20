@@ -349,3 +349,11 @@ La licence de base de pilote d'avion est valable jusqu'au dernier jour du 24e mo
 Elle est renouvelée si son titulaire a effectué 10 heures de vol comme commandant de bord d'avion ou de planeur à dispositif d'envol incorporé dans les 12 mois qui précèdent sa demande.
 
 S'il ne remplit pas cette condition, sa licence est renouvelée s'il satisfait à un contrôle pratique d'un instructeur habilité.
+
+4.6.4. Conversion de la licence en licence LAPL (A) Part FCL.
+
+Les conditions dans lesquelles les personnels navigants titulaires d'un brevet et d'une licence de base de pilote avion peuvent obtenir :
+
+-soit une licence de pilote d'aéronef léger pour avion LAPL (A) conforme aux dispositions de l'annexe I  "   Partie FCL " du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié ;
+
+-soit une licence de pilote d'aéronef léger pour avion LAPL (A) conforme aux dispositions de l'annexe I " Partie FCL " du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné et dont les privilèges sont restreints à ceux du brevet et de la licence de base de pilote avion détenue, tant que l'ensemble des exigences complémentaires demandées n'auront pas été satisfaites, sont fixées à l'appendice 2 de l'annexe au présent arrêté.

@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Chapitre I : Terminologie](chapitre-i)
+- [APPENDICE 2](appendice-2)
 - [Article 2](article-2.md)
 - [Chapitre II : Règles générales](chapitre-ii)
 - [Article 3](article-3.md)

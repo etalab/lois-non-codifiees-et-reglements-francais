@@ -160,7 +160,7 @@ Toutefois, lorsque la France subordonne l'exercice de certains de ces privilège
 
 2.10.1.3. Exceptions
 
-Les licences délivrées aux citoyens d'un État membre de l'Union européenne ou aux citoyens d'un des autres États parties à l'accord sur l'Espace économique européen par des États tiers ne peuvent être validées que si leurs titulaires justiﬁent de l'établissement de leur résidence principale dans un État tiers.
+Abrogé
 
 2.10.2. Dispositions particulières
 
