@@ -626,7 +626,8 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Rhône</td>
 <td align="center">
-<br/>Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.</td>
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur. <p>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -877,8 +878,8 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Saint-Galmier</td>
 <td align="center">
 <br/>Loire</td>
-<td align="center">
-<br/>Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes ont été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Cente-Est. Il est utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<td align="center">L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -893,36 +894,16 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Saint-Jean-d'Avelanne</td>
 <td align="center">
 <br/>Isère</td>
-<td align="center">
-<br/>Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes répondent à l'une des conditions suivantes :<br/>- disposer d'une qualification de vol en montagne ;</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>- avoir été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.<br/>Utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
 <br/>Saint-Jean-en-Royans</td>
 <td align="center">
 <br/>Drôme</td>
-<td align="center">
-<br/>Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes ont été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
+<td align="center">L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>Utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
 </tr>
 <tr>
 <td align="center">
@@ -954,17 +935,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Haute-Savoie</td>
 <td align="center">
-<br/>Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes répondent à l'une des conditions suivantes :<br/>- disposer d'une qualification de vol en montagne ;</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>- avoir été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.<br/>Utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/> L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur, ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
 </tr>
 <tr>
 <td align="center">

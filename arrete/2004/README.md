@@ -42,7 +42,6 @@
 - [Arrêté du 2 juin 2004 (PRMG0470350A)](arrete-du-2-juin-2004-prmg0470350a)
 - [Arrêté du 2 juin 2004 (SANP0421875A)](arrete-du-2-juin-2004-sanp0421875a)
 - [Arrêté du 2 mars 2004 (AGRE0400397A)](arrete-du-2-mars-2004-agre0400397a)
-- [Arrêté du 2 mars 2004 (MAEA0420080A)](arrete-du-2-mars-2004-maea0420080a)
 - [Arrêté du 2 mars 2004 (SANY0420798A)](arrete-du-2-mars-2004-sany0420798a)
 - [Arrêté du 2 novembre 2004 (INTE0400792A)](arrete-du-2-novembre-2004-inte0400792a)
 - [Arrêté du 2 septembre 2004 (DEFP0400853A)](arrete-du-2-septembre-2004-defp0400853a)
