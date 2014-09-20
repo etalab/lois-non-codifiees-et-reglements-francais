@@ -111,7 +111,6 @@
 - [Arrêté du 8 avril 2005 (DEVN0540129A)](arrete-du-8-avril-2005-devn0540129a)
 - [Arrêté du 8 décembre 2005 (SANY0524467A)](arrete-du-8-decembre-2005-sany0524467a)
 - [Arrêté du 8 février 2005 (ECOP0401125A)](arrete-du-8-fevrier-2005-ecop0401125a)
-- [Arrêté du 8 juillet 2005 (DEFP0500964A)](arrete-du-8-juillet-2005-defp0500964a)
 - [Arrêté du 8 juillet 2005 (EQUP0501095A)](arrete-du-8-juillet-2005-equp0501095a)
 - [Arrêté du 8 juillet 2005 (INDI0505330A)](arrete-du-8-juillet-2005-indi0505330a)
 - [Arrêté du 8 novembre 2005 (EQUP0500855A)](arrete-du-8-novembre-2005-equp0500855a)
