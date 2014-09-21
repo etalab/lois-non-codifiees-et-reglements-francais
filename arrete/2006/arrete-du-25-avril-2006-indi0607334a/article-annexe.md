@@ -1,5460 +1,2230 @@
 # Article Annexe
 
-<div align="center">INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER<br/>
-<p>GÉRÉES PAR LE DPSM (BRGM) AU 1er JANVIER 2013<br/>
-</p>
-</div>
-
-<div align="center">
+INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2014
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>BASSIN MINIER<br/>
-</th>
-<th>
-<br/>NATURE DE L'INSTALLATION<br/>
-</th>
-<th>
-<br/>CONCESSION<br/>
-</th>
-<th>
-<br/>COMMUNE<br/>
-</th>
-<th>
-<br/>NOM DE L'INSTALLATION<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Centre Ouest<br/>
+<td width="64">
+<p align="center">Bassin minier</p>
 </td>
-<td align="center">
-<br/>Canalisations<br/>
+<td width="123">
+<p align="center">Nature de l'installation</p>
 </td>
-<td align="center">
-<br/>La Vernade<br/>
+<td width="134">
+<p align="center">Concession</p>
 </td>
-<td align="center">
-<br/>Saint-Eloy-les-Mines<br/>
+<td width="135">
+<p align="center">Commune</p>
 </td>
-<td align="center">
-<br/>Saint-Eloy<br/>
+<td width="163">
+<p align="center">Nom de l'installation</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="18" valign="top" width="64">
+<p align="center">Centre Ouest</p>
 </td>
-<td align="center">
-<br/>Emergences minières<br/>
+<td valign="top" width="123">
+<p>Canalisations</p>
 </td>
-<td align="center">
-<br/>La Vernade<br/>
+<td valign="top" width="134">
+<p>La Vernade </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Saint Eloy les Mines</p>
 </td>
-<td align="center">
-<br/>Saint-Eloy<br/>
+<td valign="top" width="163">
+<p align="left">Saint Eloy</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Le Périmètre de l'Aumance<br/>
+<td rowspan="8" valign="top" width="123">
+<p>Emergences minières</p>
 </td>
-<td align="center">
-<br/>Buxières-les-Mines<br/>
+<td valign="top" width="134">
+<p>La Vernade</p>
 </td>
-<td align="center">
-<br/>Les Gauthrins<br/>
+<td valign="top" width="163">
+<p>Saint Eloy</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Le Périmètre de l'Aumance</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Buxières les Mines</p>
 </td>
-<td align="center">
-<br/>Messeix<br/>
+<td valign="top" width="163">
+<p>Les Gauthrins</p>
 </td>
-<td align="center">
-<br/>Messeix<br/>
-</td>
-<td align="center">
-<br/>Les Mouillères<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Blanzy Montceau<br/>
+<td valign="top" width="134">
+<p>Messeix</p>
 </td>
-<td align="center">
-<br/>Blanzy<br/>
+<td valign="top" width="135">
+<p>Messeix</p>
 </td>
-<td align="center">
-<br/>L'Ouche<br/>
+<td valign="top" width="163">
+<p>Les Mouillères</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Barbery</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Saint Germain le Vasson</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Descenderie du Livet (flanc Sud)</p>
 </td>
-<td align="center">
-<br/>Perrecy-les-Forges<br/>
-</td>
-<td align="center">
-<br/>Ramus<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Piézomètres<br/>
-</td>
-<td align="center">
-<br/>Barbecot<br/>
+<td valign="top" width="134">
+<p>Soummont</p>
 </td>
-<td align="center">
-<br/>Chapdes-Beaufort<br/>
+<td valign="top" width="135">
+<p>Soumont Saint Quentin </p>
 </td>
-<td align="center">
-<br/>BBT1<br/>
+<td valign="top" width="163">
+<p>Galerie de Saint Quentin (flanc Sud)</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Jurques</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Jurques</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>TB 256</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>BBT2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Le Périmètre de l'Aumance<br/>
+<td valign="top" width="134">
+<p>Mont-Pinçon</p>
 </td>
-<td align="center">
-<br/>Saint-Hilaire<br/>
+<td valign="top" width="135">
+<p>Le Plessis-Grimoult</p>
 </td>
-<td align="center">
-<br/>Saint-Charles<br/>
+<td valign="top" width="163">
+<p>TB Anguet</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Blanzy Montceau</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Perrecy les Forges</p>
 </td>
-<td align="center">
-<br/>Blanzy Montceau<br/>
+<td valign="top" width="163">
+<p>Ramus</p>
 </td>
-<td align="center">
-<br/>Perrecy-les-Forges<br/>
-</td>
-<td align="center">
-<br/>Clessy<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="123">
+<p>Piézomètres</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Le Périmètre de l'Aumance</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Saint Hilaire</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Saint Charles</p>
 </td>
-<td align="center">
-<br/>Ramus<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stations de traitement des eaux<br/>
+<td valign="top" width="163">
+<p>Saint Hilaire</p>
 </td>
-<td align="center">
-<br/>Le Périmètre de l'Aumance<br/>
-</td>
-<td align="center">
-<br/>Buxières-les-Mines<br/>
-</td>
-<td align="center">
-<br/>Les Gauthrins<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Blanzy Montceau</p>
 </td>
-<td align="center">
-<br/>Messeix<br/>
+<td valign="top" width="135">
+<p>Perrecy les Forges</p>
 </td>
-<td align="center">
-<br/>Messeix<br/>
+<td valign="top" width="163">
+<p>Ramus</p>
 </td>
-<td align="center">
-<br/>Les Mouillères<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="123">
+<p>Stations de traitement des eaux</p>
 </td>
-<td align="center">
-<br/>Blanzy Montceau<br/>
+<td valign="top" width="134">
+<p>Le Périmètre de l'Aumance</p>
 </td>
-<td align="center">
-<br/>Perrecy-les-Forges<br/>
+<td valign="top" width="135">
+<p>Buxières les Mines</p>
 </td>
-<td align="center">
-<br/>Ramus<br/>
+<td valign="top" width="163">
+<p>Les Gauthrins</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Surverses de lacs miniers<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Messeix</p>
 </td>
-<td align="center">
-<br/>Montceau-les-Mines<br/>
+<td valign="top" width="135">
+<p>Messeix</p>
 </td>
-<td align="center">
-<br/>Barrat Lucy<br/>
+<td valign="top" width="163">
+<p>Les Mouillères</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="134">
+<p>Blanzy Montceau</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Perrecy les Forges</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Ramus</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>La Carrière de la Poudrière<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="123">
+<p>Surverses de lacs miniers</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Montceau les Mines</p>
 </td>
-<td align="center">
-<br/>Saint-Louis<br/>
+<td valign="top" width="163">
+<p>Barrat Lucy/ Ruisseau des Marais</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Saint Louis / La Bourbince</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Saint-Pierre<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Sanvignes les Mines</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Les Fouthiaux / Ruisseau du Moulin Neuf</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Sanvignes-les-Mines<br/>
-</td>
-<td align="center">
-<br/>Les Fouthiaux<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="98" valign="top" width="64">
+<p>Est</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="123">
+<p>Canalisations</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="134">
+<p>De Wendel H</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Petite Rosselle</p>
 </td>
-<td align="center">
-<br/>Saint-Amédée<br/>
+<td valign="top" width="163">
+<p>Ouvrage de gestion des eaux</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Est<br/>
-</td>
-<td align="center">
-<br/>Canalisations<br/>
+<td rowspan="2" valign="top" width="123">
+<p>Digues</p>
 </td>
-<td align="center">
-<br/>De Wendel H<br/>
+<td valign="top" width="163">
+<p>Bassin St Charles</p>
 </td>
-<td align="center">
-<br/>Petite-Rosselle<br/>
-</td>
-<td align="center">
-<br/>Ouvrage de gestion des eaux<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Digues<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Rosbruck</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Rosbruck</p>
 </td>
-<td align="center">
-<br/>Bassin Saint-Charles<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="5" valign="top" width="123">
+<p>Emergences minières</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Bassompierre 1</p>
 </td>
-<td align="center">
-<br/>Rosbruck<br/>
+<td valign="top" width="135">
+<p>Fontoy</p>
 </td>
-<td align="center">
-<br/>Rosbruck<br/>
+<td valign="top" width="163">
+<p>Galerie de Knutange</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Emergences minières<br/>
-</td>
-<td align="center">
-<br/>Bassompierre 1<br/>
+<td valign="top" width="134">
+<p>Bois d'Avril</p>
 </td>
-<td align="center">
-<br/>Fontoy<br/>
+<td valign="top" width="135">
+<p>Avril</p>
 </td>
-<td align="center">
-<br/>Galerie de Knutange<br/>
+<td valign="top" width="163">
+<p>Galerie du Bois d'Avril</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Rombas</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Moyeuvre Grande</p>
 </td>
-<td align="center">
-<br/>Bois d'Avril<br/>
+<td valign="top" width="163">
+<p>Ancienne galerie de Moyeuvre</p>
 </td>
-<td align="center">
-<br/>Avril<br/>
-</td>
-<td align="center">
-<br/>Galerie du Bois d'Avril<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Rombas<br/>
+<td valign="top" width="163">
+<p>Galerie de Moyeuvre Grande</p>
 </td>
-<td align="center">
-<br/>Moyeuvre-Grande<br/>
-</td>
-<td align="center">
-<br/>Ancienne galerie de Moyeuvre<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Saint Pierremont</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Mancieulles</p>
 </td>
-<td align="center">
-<br/>Galerie de Moyeuvre Grande<br/>
+<td valign="top" width="163">
+<p>Galerie du Woigot</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="123">
+<p>Forages de rabattement</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Amodiation du Warndt - Allemagne</p>
 </td>
-<td align="center">
-<br/>Saint-Pierremont<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Nassweiler</p>
 </td>
-<td align="center">
-<br/>Mancieulles<br/>
+<td valign="top" width="163">
+<p>F10</p>
 </td>
-<td align="center">
-<br/>Galerie du Woigot<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Forages de rabattement<br/>
-</td>
-<td align="center">
-<br/>Amodiation du Warndt - Allemagne<br/>
-</td>
-<td align="center">
-<br/>Nassweiler<br/>
+<td valign="top" width="163">
+<p>F11</p>
 </td>
-<td align="center">
-<br/>F10<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="14" valign="top" width="123">
+<p align="left">Forages de rabattement</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="134">
+<p>De Wendel H</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Forbach</p>
 </td>
-<td align="center">
-<br/>F11<br/>
+<td valign="top" width="163">
+<p>Forbach 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
+<td valign="top" width="163">
+<p>Forbach 2</p>
 </td>
-<td align="center">
-<br/>Forbach<br/>
-</td>
-<td align="center">
-<br/>Forbach 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Rosbruck</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F12</p>
 </td>
-<td align="center">
-<br/>Forbach 2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Est<br/>
-</td>
-<td align="center">
-<br/>Forages de rabattement<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
-</td>
-<td align="center">
-<br/>Rosbruck<br/>
+<td valign="top" width="163">
+<p>F13</p>
 </td>
-<td align="center">
-<br/>F12<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="10" valign="top" width="134">
+<p>Sarre et Moselle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Betting les Saint Avold</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F4</p>
 </td>
-<td align="center">
-<br/>F13<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F5</p>
 </td>
-<td align="center">
-<br/>Sarre et Moselle<br/>
-</td>
-<td align="center">
-<br/>Betting-lès-Saint-Avold<br/>
-</td>
-<td align="center">
-<br/>F4<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F6</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>F5<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Freyming Merlebach</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>F6<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F2</p>
 </td>
-<td align="center">
-<br/>Freyming-Merlebach<br/>
-</td>
-<td align="center">
-<br/>F1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F3</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>F2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Hombourg Haut</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F7</p>
 </td>
-<td align="center">
-<br/>F3<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Hombourg-Haut<br/>
+<td valign="top" width="163">
+<p>F8</p>
 </td>
-<td align="center">
-<br/>F7<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>F9</p>
 </td>
-<td align="center">
-<br/>F8<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Varsberg</p>
 </td>
-<td align="center">
-<br/>F9<br/>
+<td valign="top" width="163">
+<p>Varsberg</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="27" valign="top" width="123">
+<p>Piézomètres</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="17" valign="top" width="134">
+<p>De Wendel H</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="7" valign="top" width="135">
+<p>Forbach</p>
 </td>
-<td align="center">
-<br/>Varsberg<br/>
+<td valign="top" width="163">
+<p>FORB ALL 1</p>
 </td>
-<td align="center">
-<br/>Varsberg<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Piézomètres<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
-</td>
-<td align="center">
-<br/>Forbach<br/>
+<td valign="top" width="163">
+<p>FORB ALL 2</p>
 </td>
-<td align="center">
-<br/>FORB ALL 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>FORB GTI 1</p>
 </td>
-<td align="center">
-<br/>FORB ALL 2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits Marienau</p>
 </td>
-<td align="center">
-<br/>FORB GTI 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits Simon 5</p>
 </td>
-<td align="center">
-<br/>Puits Marienau<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZ SDEC E2</p>
 </td>
-<td align="center">
-<br/>Puits Simon 5<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>SP 2003 06</p>
 </td>
-<td align="center">
-<br/>PZ SDEC E2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Morsbach</p>
 </td>
-<td align="center">
-<br/>SP 2003 06<br/>
+<td valign="top" width="163">
+<p>IPA 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Petite Rosselle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>SP 2003 04</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Morsbach<br/>
-</td>
-<td align="center">
-<br/>IPA3<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits St Charles 3</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Petite-Rosselle<br/>
-</td>
-<td align="center">
-<br/>SP 2003 04<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Rosbruck</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>ROS ALL1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits Saint-Charles 3<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>ROS ALL2</p>
 </td>
-<td align="center">
-<br/>Rosbruck<br/>
-</td>
-<td align="center">
-<br/>ROS ALL 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>ROS GTI 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>ROS ALL 2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Schoeneck</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>P50</p>
 </td>
-<td align="center">
-<br/>ROS GTI 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Schoeneck<br/>
+<td valign="top" width="163">
+<p>PZ SDEC E5</p>
 </td>
-<td align="center">
-<br/>P50<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>SP 2007 01</p>
 </td>
-<td align="center">
-<br/>PZ SDEC E5<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Stiring Wendel</p>
 </td>
-<td align="center">
-<br/>SP 2007 01<br/>
+<td valign="top" width="163">
+<p>PZ SDEC E10</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="10" valign="top" width="134">
+<p>La Houve</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="10" valign="top" width="135">
+<p>Creutzwald</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>LH 2003 01</p>
 </td>
-<td align="center">
-<br/>Stiring Wendel<br/>
-</td>
-<td align="center">
-<br/>PZ SDEC E10<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>La Houve<br/>
+<td valign="top" width="163">
+<p>LH 2003 02</p>
 </td>
-<td align="center">
-<br/>Creutzwald<br/>
-</td>
-<td align="center">
-<br/>LH 2003 01<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>LH 2003 03</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>LH 2003 02<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>LH 2003 04</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>LH 2003 03<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>LH 2003 05</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>LH 2003 04<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>LH 2003 06</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>LH 2003 05<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>LH 2003 06<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits 2</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits 4</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits 2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZ SDEC 02</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits 4<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="34" valign="top" width="123">
+<p align="left">Piézomètres</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="34" valign="top" width="134">
+<p>Sarre et Moselle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="5" valign="top" width="135">
+<p>Betting les Saint Avold</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>BET ALL 1</p>
 </td>
-<td align="center">
-<br/>PZ SDEC 02<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Est<br/>
-</td>
-<td align="center">
-<br/>Piézomètres<br/>
+<td valign="top" width="163">
+<p>BET ALL 2</p>
 </td>
-<td align="center">
-<br/>Sarre et Moselle<br/>
-</td>
-<td align="center">
-<br/>Betting-lès-Saint-Avold<br/>
-</td>
-<td align="center">
-<br/>BET ALL 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>BET ALL 3</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>BET ALL 2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>BET GTI 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>IPA 2</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="135">
+<p>Cocheren</p>
 </td>
-<td align="center">
-<br/>BET ALL 3<br/>
+<td valign="top" width="163">
+<p>COCH ALL 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>COCH ALL 2</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>COCH GTI 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="12" valign="top" width="135">
+<p>Creutzwald</p>
 </td>
-<td align="center">
-<br/>BET GTI 1<br/>
+<td valign="top" width="163">
+<p>IPA 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits Barrois</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>PZ Gti Barrois</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>PZ GTi Lac Creutzwald</p>
 </td>
-<td align="center">
-<br/>IPA2<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>PZ SDEC 04</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZ SDEC 05</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>CREU-GTi 2</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>CREU-All 1</p>
 </td>
-<td align="center">
-<br/>Cocheren<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>CREU-All 2</p>
 </td>
-<td align="center">
-<br/>COCH ALL 1<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>CREU-GTi 1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>CREU-All 9</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>CREU-All 10</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="5" valign="top" width="135">
+<p>Freyming Merlebach</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>MERL ALL 1</p>
 </td>
-<td align="center">
-<br/>COCH ALL 2<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>MERL ALL 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>MERL GTI 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Puits Vouters</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Pz GTi Vouters</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="135">
+<p>Ham sous Varsberg</p>
 </td>
-<td align="center">
-<br/>COCH GTI 1<br/>
+<td valign="top" width="163">
+<p>HAM GTI</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="135">
+<p>Hombourg Haut</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>HOM ALL 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Creutzwald<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>HOM ALL 2</p>
 </td>
-<td align="center">
-<br/>IPA1<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>HOM ALL 3</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>HOM GTI 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits Barrois<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ Gti Barrois<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ GTi Lac Creutzwald<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ SDEC 04<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ SDEC 05<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>CREU-GTi 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>CREU-All 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>CREU-All 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>CREU-GTi 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Freyming-Merlebach<br/>
-</td>
-<td align="center">
-<br/>MERL ALL 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>MERL ALL 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>MERL GTI 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits Vouters<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Ham-sous-Varsberg<br/>
-</td>
-<td align="center">
-<br/>HAM ALL<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>HAM GTI<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Hombourg-Haut<br/>
-</td>
-<td align="center">
-<br/>HOM ALL 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>HOM ALL 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>HOM ALL 3<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>HOM GTI 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>L'Hôpital<br/>
-</td>
-<td align="center">
-<br/>Puits 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Saint-Avold<br/>
-</td>
-<td align="center">
-<br/>STAV ALL 2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>STAV GTI 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Varsberg<br/>
-</td>
-<td align="center">
-<br/>PZ Varsberg<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stations de pompage<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
-</td>
-<td align="center">
-<br/>Forbach<br/>
-</td>
-<td align="center">
-<br/>Puits Simon 5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>La Houve<br/>
-</td>
-<td align="center">
-<br/>Creutzwald<br/>
-</td>
-<td align="center">
-<br/>Forage F28<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Puits 1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Sarre et Moselle<br/>
-</td>
-<td align="center">
-<br/>Freyming-Merlebach<br/>
-</td>
-<td align="center">
-<br/>Puits Vouters<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stations de relevage des eaux<br/>
-</td>
-<td align="center">
-<br/>Amodiation du Warndt - Allemagne<br/>
-</td>
-<td align="center">
-<br/>Grossrosseln<br/>
-</td>
-<td align="center">
-<br/>Grande Rosselle<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
-</td>
-<td align="center">
-<br/>Forbach<br/>
-</td>
-<td align="center">
-<br/>Cadario<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Morsbach<br/>
-</td>
-<td align="center">
-<br/>Sortie autoroute<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Rosbruck<br/>
-</td>
-<td align="center">
-<br/>Poste anticrues<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Weihergraben<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Sarre et Moselle<br/>
-</td>
-<td align="center">
-<br/>Ham-sous-Varsberg<br/>
-</td>
-<td align="center">
-<br/>dispositif de drainage<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stations de traitement des eaux<br/>
-</td>
-<td align="center">
-<br/>De Wendel H<br/>
-</td>
-<td align="center">
-<br/>Forbach<br/>
-</td>
-<td align="center">
-<br/>Simon<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>La Houve<br/>
-</td>
-<td align="center">
-<br/>Creutzwald<br/>
-</td>
-<td align="center">
-<br/>Creutzwald<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Sarre et Moselle<br/>
-</td>
-<td align="center">
-<br/>Freyming-Merlebach<br/>
-</td>
-<td align="center">
-<br/>Vouters<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Nord<br/>
-</td>
-<td align="center">
-<br/>Digues<br/>
-</td>
-<td align="center">
-<br/>Bruay<br/>
-</td>
-<td align="center">
-<br/>Bruay-la-Buissière <br/>
-</td>
-<td align="center">
-<br/>Bruay<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Piézomètres<br/>
-</td>
-<td align="center">
-<br/>Auchy au Bois<br/>
-</td>
-<td align="center">
-<br/>Ligny-lès-Aire<br/>
-</td>
-<td align="center">
-<br/>Puits 2 ― 2 bis<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZC L bis<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Bruille<br/>
-</td>
-<td align="center">
-<br/>Bruille-les-Saint-Amand<br/>
-</td>
-<td align="center">
-<br/>PZC B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZH B<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Crespin<br/>
-</td>
-<td align="center">
-<br/>Quiévrechain<br/>
-</td>
-<td align="center">
-<br/>PZC Q<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZH Q<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Meurchin<br/>
-</td>
-<td align="center">
-<br/>Provin<br/>
-</td>
-<td align="center">
-<br/>PZC P<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZH P<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Vimy Fresnoy<br/>
-</td>
-<td align="center">
-<br/>Vimy<br/>
-</td>
-<td align="center">
-<br/>Puits 1 ― 1 bis<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZC V<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Stations de relevage des eaux<br/>
-</td>
-<td align="center">
-<br/>Aniche<br/>
-</td>
-<td align="center">
-<br/>Dechy<br/>
-</td>
-<td align="center">
-<br/>République<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Douai<br/>
-</td>
-<td align="center">
-<br/>Frais Marais<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Solitude<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Pecquencourt<br/>
-</td>
-<td align="center">
-<br/>Ecaillon<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Lemay Sainte Marie<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Nouvelle cité de Pecquencourt<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Vred<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Rieulay<br/>
-</td>
-<td align="center">
-<br/>Larentis<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Sin-le-Noble<br/>
-</td>
-<td align="center">
-<br/>Berg ob Zoom<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Bois des Retz<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Godion<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Viviers de Sin<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Somain<br/>
-</td>
-<td align="center">
-<br/>Boquet<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Waziers<br/>
-</td>
-<td align="center">
-<br/>Cité Dincq<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>GC 35<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Anzin<br/>
-</td>
-<td align="center">
-<br/>Fenain<br/>
-</td>
-<td align="center">
-<br/>Ramette<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Wallers<br/>
-</td>
-<td align="center">
-<br/>Route d'Hélesmes<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Bruay<br/>
-</td>
-<td align="center">
-<br/>Bruay-la-Buissière <br/>
-</td>
-<td align="center">
-<br/>Marmottan<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Rue d'Amont<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Courrières<br/>
-</td>
-<td align="center">
-<br/>Loison-sous-Lens<br/>
-</td>
-<td align="center">
-<br/>Loison Canal<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Noyelles-sous-Lens<br/>
-</td>
-<td align="center">
-<br/>Cimetière<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Nord Africains<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Noyelles Pont<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Escautpont<br/>
-</td>
-<td align="center">
-<br/>Fresnes-sur-Escaut<br/>
-</td>
-<td align="center">
-<br/>Putemont rive droite<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Putemont rive gauche<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Flines les Raches<br/>
-</td>
-<td align="center">
-<br/>Anhiers<br/>
-</td>
-<td align="center">
-<br/>Belle Inutile<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Fresnes<br/>
-</td>
-<td align="center">
-<br/>Fresnes-sur-Escaut<br/>
-</td>
-<td align="center">
-<br/>Fort Masys<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Nord<br/>
-</td>
-<td align="center">
-<br/>Stations de relevage des eaux<br/>
-</td>
-<td align="center">
-<br/>L'Escarpelle<br/>
-</td>
-<td align="center">
-<br/>Auby<br/>
-</td>
-<td align="center">
-<br/>Eglise<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Pasteur<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Flers-en-Escrebieux<br/>
-</td>
-<td align="center">
-<br/>Marais de Flers<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Raimbeaucourt<br/>
-</td>
-<td align="center">
-<br/>Boussinières<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Charlieu<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Cornet<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Roost Warendin<br/>
-</td>
-<td align="center">
-<br/>Bernicourt<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Chapeau<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Paturelles<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Vallée de Scarpe<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Marles<br/>
-</td>
-<td align="center">
-<br/>Marles-les-Mines<br/>
-</td>
-<td align="center">
-<br/>Pont de Divion<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Rue des Ecoles<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Meurchin<br/>
-</td>
-<td align="center">
-<br/>Wingles<br/>
-</td>
-<td align="center">
-<br/>Chemin du Clair<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Marais des Iles<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Odomez<br/>
-</td>
-<td align="center">
-<br/>Odomez<br/>
-</td>
-<td align="center">
-<br/>Odomez<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Raismes<br/>
-</td>
-<td align="center">
-<br/>Escautpont<br/>
-</td>
-<td align="center">
-<br/>Mare Ansart<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Saint-Aybert<br/>
-</td>
-<td align="center">
-<br/>Thivencelle<br/>
-</td>
-<td align="center">
-<br/>Saint-Pierre bis<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Saint-Saulve<br/>
-</td>
-<td align="center">
-<br/>Onnaing<br/>
-</td>
-<td align="center">
-<br/>Alouettes<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Petit Diable<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Pré le Comte<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Vicq<br/>
-</td>
-<td align="center">
-<br/>Gros Charles<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Landimoret<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Vieux Condé<br/>
-</td>
-<td align="center">
-<br/>Condé-sur-l'Escaut<br/>
+<td valign="top" width="135">
+<p>L'Hôpital</p>
 </td>
-<td align="center">
-<br/>Canarderie<br/>
+<td valign="top" width="163">
+<p>Puits 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Saint Avold</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>STAV ALL 2</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>STAV GTI 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="135">
+<p>Varsberg</p>
 </td>
-<td align="center">
-<br/>Moulineaux<br/>
+<td valign="top" width="163">
+<p>PZ Varsberg</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="123">
+<p>Stations de pompage</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>De Wendel H</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Forbach</p>
 </td>
-<td align="center">
-<br/>Vieux-Condé<br/>
+<td valign="top" width="163">
+<p>Puits Simon 5</p>
 </td>
-<td align="center">
-<br/>Amaury rive gauche<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sud<br/>
-</td>
-<td align="center">
-<br/>Canalisations<br/>
+<td rowspan="2" valign="top" width="134">
+<p>La Houve</p>
 </td>
-<td align="center">
-<br/>La Grand'Combe Ouest<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Creutzwald</p>
 </td>
-<td align="center">
-<br/>Laval-Pradel<br/>
+<td valign="top" width="163">
+<p>Forage F28</p>
 </td>
-<td align="center">
-<br/>Galerie du ruisseau de Lascous<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Sarre et Moselle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Freyming Merlebach</p>
 </td>
-<td align="center">
-<br/>Plan incliné des Oules<br/>
+<td valign="top" width="163">
+<p>Puits Vouters</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="6" valign="top" width="123">
+<p>Stations de relevage des eaux</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Amodiation du Warndt - Allemagne</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Grossrosseln</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Grande Rosselle</p>
 </td>
-<td align="center">
-<br/>fossé des Oules<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="134">
+<p>De Wendel H</p>
 </td>
-<td align="center">
-<br/>C3<br/>
+<td valign="top" width="135">
+<p>Forbach</p>
 </td>
-<td align="center">
-<br/>Fuveau ― Gréasque<br/>
+<td valign="top" width="163">
+<p>Cadario</p>
 </td>
-<td align="center">
-<br/>Madame d'André<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Emergences minières<br/>
+<td valign="top" width="135">
+<p>Morsbach</p>
 </td>
-<td align="center">
-<br/>Boussagues<br/>
+<td valign="top" width="163">
+<p>Sortie autoroute</p>
 </td>
-<td align="center">
-<br/>La Tour-sur-Orb<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>Rosbruck</p>
 </td>
-<td align="center">
-<br/>TB Frangouille<br/>
+<td valign="top" width="163">
+<p>Poste anticrues</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Weihergraben</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Cessous Trebiau<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Sarre et Moselle</p>
 </td>
-<td align="center">
-<br/>La Vernarède<br/>
+<td valign="top" width="135">
+<p>Ham sous Varsberg</p>
 </td>
-<td align="center">
-<br/>Galerie de Cornas<br/>
+<td valign="top" width="163">
+<p>dispositif de drainage</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="123">
+<p>Stations de traitement des eaux</p>
 </td>
-<td align="center">
-<br/>La Grand'Combe Ouest<br/>
+<td valign="top" width="134">
+<p>De Wendel H</p>
 </td>
-<td align="center">
-<br/>La Grand'Combe<br/>
+<td valign="top" width="135">
+<p>Forbach</p>
 </td>
-<td align="center">
-<br/>Galerie Corniche<br/>
+<td valign="top" width="163">
+<p>Simon</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>La Houve</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Creutzwald</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Creutzwald</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Galerie Mas Blanc<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Sarre et Moselle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Freyming Merlebach</p>
 </td>
-<td align="center">
-<br/>Galerie Mine Roux<br/>
+<td valign="top" width="163">
+<p>Vouters</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="63" valign="top" width="64">
+<p>Nord</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="123">
+<p>Digues</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Bruay</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Bruay la Buissière </p>
 </td>
-<td align="center">
-<br/>Galerie Sainte-Barbe<br/>
+<td valign="top" width="163">
+<p>Bruay</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="10" valign="top" width="123">
+<p>Piézomètres</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Auchy au Bois</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Ligny lès Aire</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits 2 - 2 bis</p>
 </td>
-<td align="center">
-<br/>Galerie Thérond<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZC L bis</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Bruille</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Bruille les Saint Amand</p>
 </td>
-<td align="center">
-<br/>Galerie Verrerie<br/>
+<td valign="top" width="163">
+<p>PZC B</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZH B</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Le Devois de Graissessac<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Crespin</p>
 </td>
-<td align="center">
-<br/>Graissessac<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Quiévrechain</p>
 </td>
-<td align="center">
-<br/>TB de Grand Champ<br/>
+<td valign="top" width="163">
+<p>PZC Q</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZH Q</p>
 </td>
-<td align="center">
-<br/>Portes &amp; Senechas<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Meurchin</p>
 </td>
-<td align="center">
-<br/>La Vernarède<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Provin</p>
 </td>
-<td align="center">
-<br/>Galerie Burat<br/>
+<td valign="top" width="163">
+<p>PZC P</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZH P</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Robiac &amp; Meyrannes<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Vimy Fresnoy</p>
 </td>
-<td align="center">
-<br/>Bessèges<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Vimy</p>
 </td>
-<td align="center">
-<br/>Galerie Saint-François<br/>
+<td valign="top" width="163">
+<p>Puits 1 - 1 bis</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZC V</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="19" valign="top" width="123">
+<p>Stations de relevage des eaux</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="15" valign="top" width="134">
+<p>Aniche</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Dechy</p>
 </td>
-<td align="center">
-<br/>Galerie Sainte-Illyde<br/>
+<td valign="top" width="163">
+<p>République</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sud<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Douai</p>
 </td>
-<td align="center">
-<br/>Emergences minières<br/>
+<td valign="top" width="163">
+<p>Frais Marais</p>
 </td>
-<td align="center">
-<br/>Robiac &amp; Meyrannes<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Solitude</p>
 </td>
-<td align="center">
-<br/>Molières-sur-Cèze<br/>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="135">
+<p>Pecquencourt</p>
 </td>
-<td align="center">
-<br/>Galerie Chalmeton<br/>
+<td valign="top" width="163">
+<p>Ecaillon</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Lemay Sainte Marie</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Nouvelle cité de Pecquencourt</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Vred</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="135">
+<p>Rieulay</p>
 </td>
-<td align="center">
-<br/>Galerie Silhol<br/>
+<td valign="top" width="163">
+<p>Larentis</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="135">
+<p>Sin le Noble</p>
 </td>
-<td align="center">
-<br/>Rochebelle<br/>
+<td valign="top" width="163">
+<p>Berg ob Zoom</p>
 </td>
-<td align="center">
-<br/>Alès<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Bois des Retz</p>
 </td>
-<td align="center">
-<br/>Galerie la Royale<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Godion</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Viviers de Sin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="135">
+<p>Somain</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Boquet</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>Waziers</p>
 </td>
-<td align="center">
-<br/>Galerie la Royale 2<br/>
+<td valign="top" width="163">
+<p>Cité Dincq</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>GC 35</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Anzin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Fenain</p>
 </td>
-<td align="center">
-<br/>Galerie Saint-Pierre<br/>
+<td valign="top" width="163">
+<p>Ramette</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Wallers</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Route d'Hélesmes</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Bruay</p>
 </td>
-<td align="center">
-<br/>Saint-Martin-de-Valgalgues<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Bruay la Buissière </p>
 </td>
-<td align="center">
-<br/>Galerie nationale<br/>
+<td valign="top" width="163">
+<p>Marmottan </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Rue d'Amont </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="33" valign="top" width="123">
+<p align="left">Stations de relevage des eaux</p>
 </td>
-<td align="center">
-<br/>Ruffas<br/>
+<td rowspan="4" valign="top" width="134">
+<p>Courrières</p>
 </td>
-<td align="center">
-<br/>Le Bousquet-d'Orb<br/>
+<td valign="top" width="135">
+<p>Loison sous Lens</p>
 </td>
-<td align="center">
-<br/>TB 250<br/>
+<td valign="top" width="163">
+<p>Loison Canal</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Trelys &amp; Palmesalade<br/>
-</td>
-<td align="center">
-<br/>Martinet<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Noyelles sous Lens</p>
 </td>
-<td align="center">
-<br/>Galerie des Esteyraings<br/>
+<td valign="top" width="163">
+<p>Cimetière</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Nord Africains</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Noyelles Pont</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Escautpont</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Fresnes sur Escaut</p>
 </td>
-<td align="center">
-<br/>Galerie Piqueur<br/>
+<td valign="top" width="163">
+<p>Putemont rive droite</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Putemont rive gauche</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Flines les Raches</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Anhiers</p>
 </td>
-<td align="center">
-<br/>Galerie Plan<br/>
+<td valign="top" width="163">
+<p>Belle Inutile</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Fresnes</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Fresnes sur Escaut</p>
 </td>
-<td align="center">
-<br/>Rochessadoule<br/>
+<td valign="top" width="163">
+<p>Fort Masys</p>
 </td>
-<td align="center">
-<br/>Galerie Saint-Hyppolite<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="10" valign="top" width="134">
+<p>L'Escarpelle</p>
 </td>
-<td align="center">
-<br/>Combes<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Auby</p>
 </td>
-<td align="center">
-<br/>Aubin<br/>
+<td valign="top" width="163">
+<p>Eglise</p>
 </td>
-<td align="center">
-<br/>Ecoulement Destresse<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Pasteur</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="135">
+<p>Flers en Escrebieux</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Marais de Flers</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="135">
+<p>Raimbeaucourt</p>
 </td>
-<td align="center">
-<br/>Ecoulement du Bois Noir et La Peyrade<br/>
+<td valign="top" width="163">
+<p>Boussinières</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Charlieu</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Cornet</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="135">
+<p>Roost Warendin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Bernicourt</p>
 </td>
-<td align="center">
-<br/>Emergence Combes Feuillantines<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Chapeau</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Paturelles</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Vallée de Scarpe</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Marles</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Marles les Mines</p>
 </td>
-<td align="center">
-<br/>Emergence de la Bouyssonie 2<br/>
+<td valign="top" width="163">
+<p>Pont de Divion </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Rue des Ecoles</p>
 </td>
-<td align="center">
-<br/>Cransac<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Meurchin</p>
 </td>
-<td align="center">
-<br/>Cransac<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Wingles</p>
 </td>
-<td align="center">
-<br/>Ecoulement de Bézelgues<br/>
+<td valign="top" width="163">
+<p>Chemin du Clair</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Marais des Iles</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Odomez</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Odomez</p>
 </td>
-<td align="center">
-<br/>Emergence Augustin<br/>
+<td valign="top" width="163">
+<p>Odomez</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Raismes</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Escautpont</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Mare Ansart</p>
 </td>
-<td align="center">
-<br/>Emergence du Fraysse<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Saint Aybert</p>
 </td>
-<td align="center">
-<br/>Decazeville Firmi<br/>
+<td valign="top" width="135">
+<p>Thivencelle</p>
 </td>
-<td align="center">
-<br/>Aubin<br/>
+<td valign="top" width="163">
+<p>Saint Pierre bis</p>
 </td>
-<td align="center">
-<br/>Tunnel de Tramont 1 côté Firmi<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="5" valign="top" width="134">
+<p>Saint Saulve</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Onnaing</p>
 </td>
-<td align="center">
-<br/>Decazeville<br/>
+<td valign="top" width="163">
+<p>Alouettes</p>
 </td>
-<td align="center">
-<br/>Emergence de Fontvernhes<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Petit Diable</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Pré le Comte</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>Vicq</p>
 </td>
-<td align="center">
-<br/>Emergence du Moulin<br/>
+<td valign="top" width="163">
+<p>Gros Charles</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Landimoret</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Lavernhe<br/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="134">
+<p>Vieux Condé</p>
 </td>
-<td align="center">
-<br/>Aubin<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Condé sur l'Escaut</p>
 </td>
-<td align="center">
-<br/>Emergence du Crol Bas<br/>
+<td valign="top" width="163">
+<p>Canarderie</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Moulineaux</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="135">
+<p>Vieux Condé</p>
 </td>
-<td align="center">
-<br/>Emergence du Gua<br/>
+<td valign="top" width="163">
+<p>Amaury rive gauche</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="93" valign="top" width="64">
+<p align="center">Sud</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="123">
+<p>Canalisations</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="134">
+<p>La Grand'Combe Ouest</p>
 </td>
-<td align="center">
-<br/>Cransac<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Laval Pradel</p>
 </td>
-<td align="center">
-<br/>Emergence de Campagnac<br/>
+<td valign="top" width="163">
+<p>Galerie du ruisseau de Lascous</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Plan incliné des Oules</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>fossé des Oules</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>C3</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Fuveau - Gréasque</p>
 </td>
-<td align="center">
-<br/>Emergence du Mas de Mouly<br/>
+<td valign="top" width="163">
+<p>Madame d'André</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="35" valign="top" width="123">
+<p>Emergences minières</p>
 </td>
-<td align="center">
-<br/>Pic de la Fourque<br/>
+<td valign="top" width="134">
+<p>Boussagues</p>
 </td>
-<td align="center">
-<br/>Couflens-Salau<br/>
+<td valign="top" width="135">
+<p>La Tour sur Orb</p>
 </td>
-<td align="center">
-<br/>Emergence galerie 1230<br/>
+<td valign="top" width="163">
+<p>TB Frangouille</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>C11<br/>
+<td valign="top" width="134">
+<p>Cessous Trebiau</p>
 </td>
-<td align="center">
-<br/>Trets<br/>
+<td valign="top" width="135">
+<p>La Vernarède</p>
 </td>
-<td align="center">
-<br/>Galerie Desfarges<br/>
+<td valign="top" width="163">
+<p>Galerie de Cornas</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="6" valign="top" width="134">
+<p>La Grand'Combe Ouest</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="6" valign="top" width="135">
+<p>La Grand'Combe</p>
 </td>
-<td align="center">
-<br/>C12<br/>
+<td valign="top" width="163">
+<p>Galerie Corniche</p>
 </td>
-<td align="center">
-<br/>La Bouilladisse<br/>
-</td>
-<td align="center">
-<br/>Galerie de Pinchinier<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>C3<br/>
+<td valign="top" width="163">
+<p>Galerie Mas Blanc</p>
 </td>
-<td align="center">
-<br/>Fuveau<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Mine Roux</p>
 </td>
-<td align="center">
-<br/>Galerie de Fuveau<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Sainte Barbe</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie Thérond</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Verrerie</p>
 </td>
-<td align="center">
-<br/>C8<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Le Devois de Graissessac</p>
 </td>
-<td align="center">
-<br/>Peypin<br/>
+<td valign="top" width="135">
+<p>Graissessac</p>
 </td>
-<td align="center">
-<br/>Galerie la Doria<br/>
+<td valign="top" width="163">
+<p>TB de Grand Champ</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Portes &amp; Senechas</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>La Vernarède</p>
 </td>
-<td align="center">
-<br/>Hors concession - C4 - C5<br/>
+<td valign="top" width="163">
+<p>Galerie Burat</p>
 </td>
-<td align="center">
-<br/>Marseille - Mimet - Simiane<br/>
-</td>
-<td align="center">
-<br/>Galerie de la Mer<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Cluzel<br/>
+<td rowspan="4" valign="top" width="134">
+<p>Robiac &amp; Meyrannes</p>
 </td>
-<td align="center">
-<br/>Saint-Genest-Lerpt<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Bessèges</p>
 </td>
-<td align="center">
-<br/>Bas Cluzel<br/>
+<td valign="top" width="163">
+<p>Galerie Saint François</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie Sainte Illyde</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>Molières sur Cèze</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie Chalmeton</p>
 </td>
-<td align="center">
-<br/>Cluzel Haut <br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Silhol</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="134">
+<p>Rochebelle</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Alès</p>
 </td>
-<td align="center">
-<br/>Côte en Velin<br/>
+<td valign="top" width="163">
+<p>Galerie la Royale</p>
 </td>
-<td align="center">
-<br/>Fourneaux<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie la Royale 2</p>
 </td>
-<td align="center">
-<br/>Côte en Velin<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Saint Pierre</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sud<br/>
+<td valign="top" width="135">
+<p>Saint Martin de Valgalgues</p>
 </td>
-<td align="center">
-<br/>Emergences minières<br/>
+<td valign="top" width="163">
+<p>Galerie nationale</p>
 </td>
-<td align="center">
-<br/>La Jonche<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Ruffas</p>
 </td>
-<td align="center">
-<br/>Saint-Arey<br/>
+<td valign="top" width="135">
+<p>Le Bousquet d'Orb</p>
 </td>
-<td align="center">
-<br/>Galerie de Combe Neveuse<br/>
+<td valign="top" width="163">
+<p>TB 250</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="4" valign="top" width="134">
+<p>Trelys &amp; Palmesalade</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Martinet</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie des Esteyraings</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Piqueur</p>
 </td>
-<td align="center">
-<br/>Galerie de la Beaume<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie Plan</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Rochessadoule</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie Saint Hyppolite</p>
 </td>
-<td align="center">
-<br/>La Motte-d'Aveillans<br/>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="134">
+<p>Combes</p>
 </td>
-<td align="center">
-<br/>La Motte-d'Aveillans<br/>
+<td rowspan="4" valign="top" width="135">
+<p>Aubin</p>
 </td>
-<td align="center">
-<br/>Forage de décharge<br/>
+<td valign="top" width="163">
+<p>Ecoulement Destresse</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Ecoulement du Bois Noir et La Peyrade</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Emergence Combes Feuillantines</p>
 </td>
-<td align="center">
-<br/>Galerie N10 bis<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Emergence de la Bouyssonie 2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="134">
+<p>Cransac</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="135">
+<p>Cransac</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Ecoulement de Bézelgues</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Emergence Augustin</p>
 </td>
-<td align="center">
-<br/>Galerie N14<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Emergence du Fraysse</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="134">
+<p>Decazeville Firmi</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Aubin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Tunnel de Tramont 1 côté Firmi</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>Decazeville</p>
 </td>
-<td align="center">
-<br/>Galerie N4 bis<br/>
+<td valign="top" width="163">
+<p>Emergence de Fontvernhes</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Emergence du Moulin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>Lavernhe</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Aubin</p>
 </td>
-<td align="center">
-<br/>Galerie N6 Comberamis<br/>
+<td valign="top" width="163">
+<p>Emergence du Crol Bas</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Emergence du Gua</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="29" valign="top" width="123">
+<p align="left">Emergences minières</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p align="left">Lavernhe</p>
 </td>
-<td align="center">
-<br/>La Motte-Saint-Martin<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Cransac</p>
 </td>
-<td align="center">
-<br/>Galerie de la Faurie<br/>
+<td valign="top" width="163">
+<p>Emergence de Campagnac</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Emergence du Mas de Mouly</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>C11</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Trets</p>
 </td>
-<td align="center">
-<br/>Galerie N3 sous la Molière<br/>
+<td valign="top" width="163">
+<p>Galerie Desfarges</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>C12</p>
 </td>
-<td align="center">
-<br/>Montrambert<br/>
+<td valign="top" width="135">
+<p>La Bouilladisse</p>
 </td>
-<td align="center">
-<br/>La Ricamarie<br/>
+<td valign="top" width="163">
+<p>Galerie de Pinchinier</p>
 </td>
-<td align="center">
-<br/>Fendue Lyon<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>C3</p>
 </td>
-<td align="center">
-<br/>Peychagnard Nouvelle<br/>
+<td valign="top" width="135">
+<p>Fuveau</p>
 </td>
-<td align="center">
-<br/>Prunières<br/>
+<td valign="top" width="163">
+<p>Galerie de Fuveau</p>
 </td>
-<td align="center">
-<br/>Galerie Badier 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>C8</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Peypin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie la Doria</p>
 </td>
-<td align="center">
-<br/>Galerie Merle<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Hors concession - C4 - C5</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Marseille - Mimet - Simiane</p>
 </td>
-<td align="center">
-<br/>Susville<br/>
+<td valign="top" width="163">
+<p>Galerie de la Mer</p>
 </td>
-<td align="center">
-<br/>Galerie du Peychagnard N10<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Cluzel</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Saint Genest Lerpt</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Bas Cluzel </p>
 </td>
-<td align="center">
-<br/>Galerie Fontveille 1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Cluzel Haut </p>
 </td>
-<td align="center">
-<br/>Roche-la-Molière &amp; Firminy<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Côte en Velin</p>
 </td>
-<td align="center">
-<br/>Firminy<br/>
+<td valign="top" width="135">
+<p>Fourneaux</p>
 </td>
-<td align="center">
-<br/>Bas Mas<br/>
+<td valign="top" width="163">
+<p>Côte en Velin</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>La Jonche</p>
 </td>
-<td align="center">
-<br/>Roche-la-Molière<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Saint Arey</p>
 </td>
-<td align="center">
-<br/>Rieux<br/>
+<td valign="top" width="163">
+<p>Galerie de Combe Neveuse</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie de la Beaume</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="7" valign="top" width="134">
+<p>La Motte d'Aveillans</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="5" valign="top" width="135">
+<p>La Motte d'Aveillans</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Forage de décharge</p>
 </td>
-<td align="center">
-<br/>Roare<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie N10 bis</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie N14</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie N4 bis</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Galerie N6 Comberamis</p>
 </td>
-<td align="center">
-<br/>Villars<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>La Motte Saint Martin</p>
 </td>
-<td align="center">
-<br/>Villars<br/>
+<td valign="top" width="163">
+<p>Galerie de la Faurie</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie N3 sous la Molière</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Terrenoire<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Montrambert</p>
 </td>
-<td align="center">
-<br/>Saint-Etienne<br/>
+<td valign="top" width="135">
+<p>La Ricamarie</p>
 </td>
-<td align="center">
-<br/>La Massardière<br/>
+<td valign="top" width="163">
+<p>Fendue Lyon</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Forages de rabattement<br/>
+<td rowspan="4" valign="top" width="134">
+<p>Peychagnard Nouvelle</p>
 </td>
-<td align="center">
-<br/>Decazeville Firmi<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Prunières</p>
 </td>
-<td align="center">
-<br/>Decazeville<br/>
+<td valign="top" width="163">
+<p>Galerie Badier 1</p>
 </td>
-<td align="center">
-<br/>Vialarels 2/170<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Piézomètres<br/>
+<td valign="top" width="163">
+<p>Galerie Merle</p>
 </td>
-<td align="center">
-<br/>Rochebelle<br/>
-</td>
-<td align="center">
-<br/>Alès<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="135">
+<p>Susville</p>
 </td>
-<td align="center">
-<br/>Rochebelle<br/>
+<td valign="top" width="163">
+<p>Galerie du Peychagnard N10</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Galerie Fontveille 1</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="134">
+<p>Roche la Molière &amp; Firminy</p>
 </td>
-<td align="center">
-<br/>Saint-Jean-du-Pin<br/>
+<td valign="top" width="135">
+<p>Firminy</p>
 </td>
-<td align="center">
-<br/>Saint-Raby<br/>
+<td valign="top" width="163">
+<p>Bas Mas</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Salsigne<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Roche la Molière</p>
 </td>
-<td align="center">
-<br/>Salsigne<br/>
+<td valign="top" width="163">
+<p>Rieux </p>
 </td>
-<td align="center">
-<br/>Cheminée Panneau Sud<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>Roare </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Villars</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Villars</p>
 </td>
-<td align="center">
-<br/>Bouquiès<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Terrenoire</p>
 </td>
-<td align="center">
-<br/>Decazeville<br/>
+<td valign="top" width="135">
+<p>Saint Etienne</p>
 </td>
-<td align="center">
-<br/>Crucifix<br/>
+<td valign="top" width="163">
+<p>La Massardière</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="123">
+<p>Forages de rabattement</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Decazeville Firmi</p>
 </td>
-<td align="center">
-<br/>Combes<br/>
+<td valign="top" width="135">
+<p>Decazeville</p>
 </td>
-<td align="center">
-<br/>Aubin<br/>
+<td valign="top" width="163">
+<p>Vialarels 2/170</p>
 </td>
-<td align="center">
-<br/>Lunelle<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="6" valign="top" width="123">
+<p>Piézomètres</p>
 </td>
-<td align="center">
-<br/>Cransac<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Rochebelle</p>
 </td>
-<td align="center">
-<br/>Cransac<br/>
+<td valign="top" width="135">
+<p>Alès</p>
 </td>
-<td align="center">
-<br/>Puits 1 nouveau<br/>
+<td valign="top" width="163">
+<p>Rochebelle</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Saint Jean du Pin</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Saint Raby</p>
 </td>
-<td align="center">
-<br/>Decazeville Firmi<br/>
+</tr>
+<tr>
+<td valign="top" width="134">
+<p>Salsigne</p>
 </td>
-<td align="center">
-<br/>Decazeville<br/>
+<td valign="top" width="135">
+<p>Salsigne</p>
 </td>
-<td align="center">
-<br/>Vialarels 1/150<br/>
+<td valign="top" width="163">
+<p>Cheminée Panneau Sud</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Bouquiès</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Decazeville</p>
 </td>
-<td align="center">
-<br/>C2<br/>
+<td valign="top" width="163">
+<p>Crucifix</p>
 </td>
-<td align="center">
-<br/>Gardanne<br/>
-</td>
-<td align="center">
-<br/>Puits Z<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>C4<br/>
+<td valign="top" width="134">
+<p>Combes</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Aubin</p>
 </td>
-<td align="center">
-<br/>Puits Y<br/>
+<td valign="top" width="163">
+<p>La Lunelle</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Cransac</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Cransac</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits 1 nouveau</p>
 </td>
-<td align="center">
-<br/>Mimet<br/>
-</td>
-<td align="center">
-<br/>Puits Gérard<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="9" valign="top" width="123">
+<p align="left">Piézomètres</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="134">
+<p>Decazeville Firmi</p>
 </td>
-<td align="center">
-<br/>Fontsante<br/>
+<td valign="top" width="135">
+<p align="left">Cransac</p>
 </td>
-<td align="center">
-<br/>Tanneron/Callian<br/>
+<td valign="top" width="163">
+<p>Treille haute 1</p>
 </td>
-<td align="center">
-<br/>PZ1<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Decazeville</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Vialarels 1/150</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>PZ2<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>C2</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="2" valign="top" width="135">
+<p>Gardanne</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits Z</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="134">
+<p>C4</p>
 </td>
-<td align="center">
-<br/>PZ3<br/>
+<td valign="top" width="163">
+<p>Puits Y</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="135">
+<p>Mimet</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>Puits Gérard</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td rowspan="5" valign="top" width="134">
+<p>Fontsante</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="5" valign="top" width="135">
+<p>Tanneron / Callian</p>
 </td>
-<td align="center">
-<br/>PZ4<br/>
+<td valign="top" width="163">
+<p>PZ1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="163">
+<p>PZ2</p>
 </td>
-<td align="center">
-<br/>Prélèvements d'eaux de surface<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>PZ3</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="163">
+<p>PZ4</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td valign="top" width="123">
+<p>Prélèvements d'eaux de surface</p>
 </td>
-<td align="center">
-<br/>P1<br/>
+<td valign="top" width="163">
+<p>P1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="123">
+<p>Stations de pompage</p>
 </td>
-<td align="center">
-<br/>Stations de pompage<br/>
+<td valign="top" width="134">
+<p>Rochebelle</p>
 </td>
-<td align="center">
-<br/>Rochebelle<br/>
+<td valign="top" width="135">
+<p>Saint Martin de Valgalgues</p>
 </td>
-<td align="center">
-<br/>Saint-Martin-de-Valgalgues<br/>
+<td valign="top" width="163">
+<p>Puits Fontanes</p>
 </td>
-<td align="center">
-<br/>Puits Fontanes<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Decazeville Firmi</p>
 </td>
-<td align="center">
-<br/>Decazeville Firmi<br/>
+<td valign="top" width="135">
+<p>Decazeville</p>
 </td>
-<td align="center">
-<br/>Decazeville<br/>
+<td valign="top" width="163">
+<p>Lac de Lassalle</p>
 </td>
-<td align="center">
-<br/>Lac de Lassalle<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>C4</p>
 </td>
-<td align="center">
-<br/>C4<br/>
+<td valign="top" width="135">
+<p>Mimet</p>
 </td>
-<td align="center">
-<br/>Mimet<br/>
+<td valign="top" width="163">
+<p>Puits Gérard</p>
 </td>
-<td align="center">
-<br/>Puits Gérard<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Sud<br/>
-</td>
-<td align="center">
-<br/>Stations de relevage des eaux<br/>
+<td rowspan="2" valign="top" width="123">
+<p>Stations de relevage des eaux</p>
 </td>
-<td align="center">
-<br/>Hors concession<br/>
+<td valign="top" width="134">
+<p>Hors concession</p>
 </td>
-<td align="center">
-<br/>Salsigne<br/>
+<td valign="top" width="135">
+<p>Salsigne</p>
 </td>
-<td align="center">
-<br/>Pompage de Montredon<br/>
+<td valign="top" width="163">
+<p>Pompage de Montredon</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>C3<br/>
+<td valign="top" width="134">
+<p>C3</p>
 </td>
-<td align="center">
-<br/>Gardanne<br/>
+<td valign="top" width="135">
+<p>Gardanne</p>
 </td>
-<td align="center">
-<br/>Les Sauvaires<br/>
+<td valign="top" width="163">
+<p>Les Sauvaires</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="3" valign="top" width="123">
+<p>Stations de traitement des eaux</p>
 </td>
-<td align="center">
-<br/>Stations de traitement des eaux<br/>
+<td valign="top" width="134">
+<p>Rochebelle</p>
 </td>
-<td align="center">
-<br/>Rochebelle<br/>
+<td valign="top" width="135">
+<p>Saint Martin de Valgalgues</p>
 </td>
-<td align="center">
-<br/>Saint-Martin-de-Valgalgues<br/>
+<td valign="top" width="163">
+<p>Destival</p>
 </td>
-<td align="center">
-<br/>Destival<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td valign="top" width="134">
+<p>Hors concession - C4 - C5</p>
 </td>
-<td align="center">
-<br/>Hors concession - C4 - C5<br/>
+<td valign="top" width="135">
+<p>Marseille - Mimet - Simiane</p>
 </td>
-<td align="center">
-<br/>Marseille - Mimet - Simiane<br/>
+<td valign="top" width="163">
+<p>Galerie de la Mer complétée par 3 sondages en mer</p>
 </td>
-<td align="center">
-<br/>Galerie de la Mer complétée par 3 sondages en mer<br/>
-</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Montrambert<br/>
+<td valign="top" width="134">
+<p>Montrambert</p>
 </td>
-<td align="center">
-<br/>Le Chambon-Feugerolles<br/>
+<td valign="top" width="135">
+<p>Le Chambon Feugerolles</p>
 </td>
-<td align="center">
-<br/>Montrambert<br/>
+<td valign="top" width="163">
+<p>Montrambert </p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
+.
