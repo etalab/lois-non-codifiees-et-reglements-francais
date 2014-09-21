@@ -6,7 +6,7 @@ Peuvent être recrutés au choix dans l'un des deux corps régis par le présent
 
 a) Ayant accompli au moins deux ans de service militaire effectif en qualité d'aspirant ou d'officier ;
 
-b) Agés de vingt-deux ans au moins ;
+b) (alinéa supprimé)
 
 c) Les intéressés doivent :
 

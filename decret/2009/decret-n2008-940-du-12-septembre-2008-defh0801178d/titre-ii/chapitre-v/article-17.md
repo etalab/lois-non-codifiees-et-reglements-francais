@@ -6,7 +6,7 @@ Peuvent être recrutés au choix dans le corps des officiers des armes de l'arm�
 
 a) Ayant accompli au moins deux ans de service militaire effectif en qualité d'officier ;
 
-b) Agés de vingt-cinq ans au moins et de trente et un ans au plus ;
+b) Agés de trente et un ans au plus ;
 
 c) Titulaires d'une licence de l'enseignement supérieur général ou technologique ou d'un autre titre ou diplôme classé au moins au niveau II ou d'un titre ou diplôme reconnu comme équivalent à ces derniers figurant sur une liste établie par arrêté du ministre de la défense ;
 

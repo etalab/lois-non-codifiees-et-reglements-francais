@@ -6,7 +6,7 @@ Peuvent être recrutés par concours sur épreuves en qualité d'officier du cor
 
 a) Ayant accompli au moins quatre ans de service civil ou militaire dont au moins deux en qualité d'officier ;
 
-b) Agés de vingt-cinq ans au moins et de trente ans au plus ;
+b) Agés de trente ans au plus ;
 
 c) Titulaires d'une licence de l'enseignement supérieur général ou technologique ou titre reconnu comme équivalent ou d'un autre titre ou diplôme classé au moins au niveau II ;
 
@@ -14,7 +14,7 @@ c) Titulaires d'une licence de l'enseignement supérieur général ou technologi
 
 a) Ayant accompli au moins quatre ans de service en cette qualité ;
 
-b) Agés de vingt-sept ans au moins et de trente-cinq ans au plus ;
+b) Agés de trente-cinq ans au plus ;
 
 c) Titulaires d'une licence de l'enseignement supérieur général ou technologique ou titre reconnu comme équivalent ou d'un autre titre ou diplôme classé au moins au niveau II ;
 
@@ -22,7 +22,7 @@ c) Titulaires d'une licence de l'enseignement supérieur général ou technologi
 
 a) Ayant accompli au moins quatre ans de service civil ou militaire, dont au moins deux en cette qualité ;
 
-b) Agés de vingt-cinq ans au moins et de trente ans au plus ;
+b) Agés de trente ans au plus ;
 
 c) Titulaires d'une licence de l'enseignement supérieur général ou technologique ou titre reconnu comme équivalent ou d'un autre titre ou diplôme classé au moins au niveau II ;
 
@@ -30,7 +30,7 @@ c) Titulaires d'une licence de l'enseignement supérieur général ou technologi
 
 a) Ayant accompli au moins quatre ans de service en cette qualité ;
 
-b) Agés de vingt-sept ans au moins et de trente-cinq ans au plus ;
+b) Agés de trente-cinq ans au plus ;
 
 c) Titulaires d'une licence de l'enseignement supérieur général ou technologique ou titre reconnu comme équivalent ou d'un autre titre ou diplôme classé au moins au niveau II.
 
@@ -38,6 +38,6 @@ c) Titulaires d'une licence de l'enseignement supérieur général ou technologi
 
 a) Ayant accompli au moins quatre ans de service civil ou militaire dont au moins deux en qualité de fonctionnaire de catégorie B du ministère de la défense ;
 
-b) Agés de vingt-cinq ans au moins et de trente-cinq ans au plus ;
+b) Agés de trente-cinq ans au plus ;
 
 c) Titulaires d'une licence de l'enseignement supérieur général ou technologique ou titre reconnu comme équivalent ou d'un autre titre ou diplôme classé au moins au niveau II.

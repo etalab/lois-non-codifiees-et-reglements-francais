@@ -6,7 +6,7 @@ Peuvent être recrutés par concours sur épreuves en qualité d'ingénieur des 
 
 a) Ayant accompli au moins quatre ans de service civil ou militaire dont au moins deux en qualité d'officier ;
 
-b) Agés de vingt-cinq ans au moins et de trente ans au plus ;
+b) Agés de trente ans au plus ;
 
 c) Titulaires d'un diplôme d'ingénieur.
 
@@ -14,7 +14,7 @@ c) Titulaires d'un diplôme d'ingénieur.
 
 a) Ayant accompli au moins quatre ans de service civil ou militaire dont au moins deux en qualité d'ingénieur d'études et de fabrications ;
 
-b) Agés de vingt-cinq ans au moins et trente ans au plus ;
+b) Agés de trente ans au plus ;
 
 c) Titulaires d'un diplôme d'ingénieur ;
 
@@ -22,7 +22,7 @@ c) Titulaires d'un diplôme d'ingénieur ;
 
 a) Ayant accompli au moins quatre ans de service en cette qualité ;
 
-b) Agés de vingt-sept ans au moins et de trente-cinq ans au plus ;
+b) Agés de trente-cinq ans au plus ;
 
 c) Titulaires d'un diplôme d'ingénieur ;
 
@@ -30,7 +30,7 @@ c) Titulaires d'un diplôme d'ingénieur ;
 
 a) Ayant accompli au moins quatre ans de service en cette qualité ;
 
-b) Agés de vingt-sept ans au moins et de trente-cinq ans au plus ;
+b) Agés de trente-cinq ans au plus ;
 
 c) Titulaires d'un diplôme d'ingénieur ;
 
@@ -38,6 +38,6 @@ c) Titulaires d'un diplôme d'ingénieur ;
 
 a) Ayant accompli au moins quatre ans de service civil ou militaire dont au moins deux en qualité de technicien supérieur d'études et de fabrications ou de technicien du ministère de la défense ;
 
-b) Agés de vingt-cinq ans au moins et de trente-cinq ans au plus ;
+b) Agés de trente-cinq ans au plus ;
 
 c) Titulaires d'un diplôme d'ingénieur.
