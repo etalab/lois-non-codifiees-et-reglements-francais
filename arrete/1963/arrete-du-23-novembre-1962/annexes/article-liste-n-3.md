@@ -18,7 +18,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Savoie</td>
 <td align="center">
-<br/>Réservé aux aéronefs qui sont basés sur l'aérodrome ou sur les aérodromes voisins, ainsi qu'aux pilotes nommément autorisés par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne. L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
 </tr>
 <tr>
 <td align="center">
@@ -106,7 +106,9 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Rhône</td>
 <td align="center">
-<br/>Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.<br/>Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<p>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur. </p>
+<p>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -114,7 +116,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Ain</td>
 <td align="center">
-<br/>Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.<br/>Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
 </tr>
 <tr>
 <td align="center">
@@ -839,7 +841,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Ardèche</td>
 <td align="center">
-<br/>Réservé aux pilotes d'avions ou de planeurs à dispositif d'envol incorporé reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.<br/>Utilisable par les autres aéronefs dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.</td>
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
 </tr>
 <tr>
 <td align="center">
@@ -878,8 +880,8 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Saint-Galmier</td>
 <td align="center">
 <br/>Loire</td>
-<td align="center">L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. <br/>
-</td>
+<td align="center">
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
 </tr>
 <tr>
 <td align="center">
@@ -894,8 +896,8 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <br/>Saint-Jean-d'Avelanne</td>
 <td align="center">
 <br/>Isère</td>
-<td align="center">L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. <br/>
-</td>
+<td align="center">
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome.</td>
 </tr>
 <tr>
 <td align="center">
@@ -935,7 +937,7 @@ AÉRODROMES AGRÉÉS À USAGE RESTREINT
 <td align="center">
 <br/>Haute-Savoie</td>
 <td align="center">
-<br/> L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur, ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
+<br/>L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur, ou détenant la qualification montagne.<br/>L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. </td>
 </tr>
 <tr>
 <td align="center">
