@@ -1,0 +1,3 @@
+# Article 16
+
+La directrice des affaires maritimes, les directeurs interrégionaux de la mer et les directeurs de la mer au ministère de l'écologie, du développement durable et de l'énergie, la directrice générale de l'enseignement scolaire et les recteurs au ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, la directrice générale de l'enseignement et de la recherche et les directeurs régionaux de l'agriculture, de l'agroalimentaire et de la forêt au ministère de l'agriculture, de l'agroalimentaire et de la forêt sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
