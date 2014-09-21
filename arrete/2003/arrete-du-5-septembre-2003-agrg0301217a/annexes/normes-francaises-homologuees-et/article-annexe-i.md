@@ -10,6 +10,8 @@ NF U 42-001 /A10 (décembre 2009). - Engrais. - Dénominations et spécification
 
 NF U 42-001 (1er octobre 2011). - Engrais. - Dénominations et spécifications. - Partie 1 : engrais minéraux.
 
+NF U 42-001/A11 (11 janvier 2014). - Engrais. - Dénominations et spécifications.
+
 NF U 42-002-1 (novembre 1990). - Engrais à teneur (s) déclarée (s) en oligo-élément (s) destinés à être apportés au sol. - Partie 1 : oligo-élément (s) sous forme de combinaison (s) chimique (s) exclusivement minérale (s). - Dénominations et spécifications.
 
 NF U 42-002-2 (juin 1992). - Engrais à teneur (s) déclarée (s) en oligo-élément (s) destinés à être apportés au sol. - Partie 2 : oligo-élément (s) sous forme de combinaison (s) organique (s). - Dénominations et spécifications.
