@@ -4,7 +4,7 @@ A.-Fonctions exercées en administration centrale, à la préfecture de police o
 
 1° Chef du service de l'inspection générale de l'administration.
 
-2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, président du Conseil supérieur de l'administration territoriale de l'Etat, secrétaire général du comité interministériel de contrôle de l'immigration, secrétaire général du comité interministériel de prévention de la délinquance, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris.
+2° Secrétaire général du ministère, directeur général et directeur d'administration centrale, président du Conseil supérieur de l'administration territoriale de l'Etat, Directeur général des étrangers en France, secrétaire général du comité interministériel de prévention de la délinquance, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 3° Chef de service, délégué ou directeur d'un service ou organisme de l'administration centrale du ministère de l'intérieur non rattaché à une direction générale ou à une direction d'administration centrale et mentionné dans le décret fixant l'organisation du ministère.
 
@@ -38,11 +38,11 @@ Secrétaire général pour l'administration de la police de Paris ;
 
 Secrétaire général de la zone de défense de Paris ;
 
-Préfet adjoint pour la sécurité en Corse ;
-
 Préfet délégué à la sécurité et à la défense ;
 
 Préfet délégué pour l'égalité des chances ;
+
+Préfet délégué pour la sécurité et la sûreté des plates-formes aéroportuaires de Roissy-Charles de Gaulle et du Bourget ;
 
 Préfet délégué en charge du projet d'agglomération Marseille-Provence ;
 
@@ -52,18 +52,12 @@ Préfet délégué auprès du préfet de la Guadeloupe pour les îles de Saint-B
 
 3° Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps :
 
-a) Sous-préfet occupant un poste territorial classé en 1re catégorie au sens de l'article 4 du décret n° 64-260 du 14 mars 1964 modifié portant statut des sous-préfets ;
+a) Sous-préfet occupant un poste de classe fonctionnelle au sens de l'article 3 du décret n° 64-260 du 14 mars 1964 modifié portant statut des sous-préfets ;
 
 b) Sous-préfet occupant l'un des postes territoriaux suivants :
 
-- secrétaire général de la zone de défense et de sécurité Sud ;
+-secrétaire général de la zone de défense et de sécurité Sud ;
 
-- directeur de cabinet du préfet de police des Bouches-du-Rhône ;
-
--secrétaire général de la préfecture des départements de la Haute-Corse et de Guyane ;
-
--sous-préfet des arrondissements suivants : Sartène, Corte et Calvi ;
-
--directeur du cabinet des préfets de Corse-du-Sud et de Haute-Corse.
+-directeur de cabinet du préfet de police des Bouches-du-Rhône ;
 
 4° Secrétaire général de la représentation du Gouvernement dans un territoire d'outre-mer.
