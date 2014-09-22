@@ -1,241 +1,225 @@
 # Article 
 
-ANNEXE
-
-<div>
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>INTITULÉS DES POSTES DE LA DIRECTION GÉNÉRALE DES ÉTRANGERS EN FRANCE</th>
-<th>
-<br/>NIVEAU       <br/>      de responsabilité</th>
-<th>
-<br/>NOMBRE        <br/>     d'emplois</th>
-<th>
-<br/>NOMBRE        <br/>     de points        <br/>     par emploi</th>
+<th>INTITULÉS DES POSTES DE LA DIRECTION GÉNÉRALE DES ÉTRANGERS EN FRANCE<br/>
+</th>
+<th>NIVEAU <br/>de responsabilité<br/>
+</th>
+<th>NOMBRE <br/>d'emplois<br/>
+</th>
+<th>NOMBRE <br/>de points <br/>par emploi<br/>
+</th>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>Fonctions de responsabilité supérieures dans les services centraux</td>
+<td align="center" colspan="4" valign="middle">Fonctions d'accueil<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Directeur du cabinet du directeur général des étrangers en France</td>
-<td align="center">
-<br/>A</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>40</td>
+<td align="left">Agent d'accueil, standardiste à la sous-direction de l'accès à la nationalité française<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>Fonctions d'accueil</td>
+<td align="center" colspan="4" valign="middle">Emplois de secrétariat auprès des directeurs et cadres dirigeants asujettis à des obligations spéciales d'horaires<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Agent d'accueil, standardiste à la sous-direction de l'accès à la nationalité française</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Secrétaire du chef du service du pilotage et des systèmes d'information<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>Emplois de secrétariat auprès des directeurs et cadres dirigeants asujettis à des obligations spéciales d'horaires</td>
+<td align="left">Secrétaire du chef du service de l'asile<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du chef du service du pilotage et des systèmes d'information</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Secrétaire du directeur de l'immigration<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du chef du service de l'asile</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Secrétaire du directeur de l'accueil, de l'accompagnement des étrangers et de la nationalité<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du directeur de l'immigration</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Secrétaire du sous-directeur à la sous-direction des visas<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du directeur de l'accueil, de l'accompagnement des étrangers et de la nationalité</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Secrétaire du sous-directeur de l'accueil et de la prévention des discriminations<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du sous-directeur à la sous-direction des visas</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Secrétaire du sous-directeur de l'accès à la nationalité française<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du sous-directeur de l'accueil et de la prévention des discriminations</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Secrétaire du sous-directeur du séjour et du travail<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du sous-directeur de l'accès à la nationalité française</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>15</td>
+<td align="center" colspan="4" valign="middle">Fonctions impliquant une technicité particulière (informatique)<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Secrétaire du sous-directeur du séjour et du travail</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Directeur de l'application AGDREF 1, chef du pôle métier AGDREF 2<br/>
+</td>
+<td align="center">A<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>Fonctions impliquant une technicité particulière (informatique)</td>
+<td align="left">Coordonnateur au département des statistiques, des études et de la documentation<br/>
+</td>
+<td align="center">A ou B<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Directeur de l'application AGDREF 1, chef du pôle métier AGDREF 2</td>
-<td align="center">
-<br/>A</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>20</td>
+<td align="center" colspan="4" valign="middle">Emploi de responsable de l'établissement des documents budgétaires<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Coordonnateur au département des statistiques, des études et de la documentation</td>
-<td align="center">
-<br/>A ou B</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Régisseur d'avances au service du pilotage et des systèmes d'information<br/>
+</td>
+<td align="center">B ou C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>Emploi de responsable de l'établissement des documents budgétaires</td>
+<td align="center" colspan="4" valign="middle">Emplois spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Régisseur d'avances au service du pilotage et des systèmes d'information</td>
-<td align="center">
-<br/>B ou C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Coordonnateur, chargé de fonctions d'encadrement à la sous-direction des visas<br/>
+</td>
+<td align="center">B ou C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">20<br/>
+</td>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>Emplois spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières</td>
+<td align="left">Agent chargé des dossiers techniques à la sous-direction des visas<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Coordonnateur, chargé de fonctions d'encadrement à la sous-direction des visas</td>
-<td align="center">
-<br/>B ou C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>20</td>
+<td align="left">Rédacteurs juridiques à la sous-direction des visas<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">3<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Agent chargé des dossiers techniques à la sous-direction des visas</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Agent chargé d'analyse réglementaire ou juridique à la sous-direction des visas<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Rédacteurs juridiques à la sous-direction des visas</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>3</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Agent chargé de fonctions documentaires à la sous-direction des visas<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">15<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Agent chargé d'analyse réglementaire ou juridique à la sous-direction des visas</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>15</td>
+<td align="left">Agent chargé de la maintenance immobilière à la sous-direction de l'accès à la nationalité française<br/>
+</td>
+<td align="center">C<br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">10<br/>
+</td>
 </tr>
 <tr>
-<td align="left">
-<br/>Agent chargé de fonctions documentaires à la sous-direction des visas</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>15</td>
-</tr>
-<tr>
-<td align="left">
-<br/>Agent chargé de la maintenance immobilière à la sous-direction de l'accès à la nationalité française</td>
-<td align="center">
-<br/>C</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>10</td>
-</tr>
-<tr>
-<td align="right">
-<br/>Total des points de NBI = 515</td>
+<td align="right">Total des points de NBI = 515<br/>
+</td>
 <td align="center" colspan="3"/>
 </tr>
+</tbody>
 </table>
 
-</div>
 </div>
