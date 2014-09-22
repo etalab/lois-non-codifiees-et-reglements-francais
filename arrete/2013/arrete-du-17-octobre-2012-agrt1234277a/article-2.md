@@ -20,10 +20,10 @@ Somme des prix des animaux
 
 nets de toute taxe et cotisation et de tout montant supplémentaire)
 
-(sur)
-
 Somme des poids fiscaux de leurs carcasses nets de saisie
 
 Ils sont exprimés en euros par kilogramme de carcasse. Les animaux ayant fait l'objet de saisies partielles ou totales sont exclus de la transmission de données.
 
 Par ailleurs, pour chacune des typologies pour lesquelles ils transmettent les prix, les opérateurs du réseau communiquent les effectifs correspondants ainsi que le poids fiscal moyen des carcasses des animaux concernés.
+
+3. Lorsque plusieurs animaux font l'objet d'un achat en lot avec un prix global sur la facture et un prix identique pour plusieurs typologies du lot sur les autres documents d'achat (bon d'achat, bon de livraison, détail facture), le prix transmis au titre du 2 du présent article est un prix individualisé par typologie conformément à la méthode en annexe IV.
