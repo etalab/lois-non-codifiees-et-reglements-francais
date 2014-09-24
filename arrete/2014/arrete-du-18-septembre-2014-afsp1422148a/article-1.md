@@ -6,6 +6,8 @@ A titre dérogatoire, les médicaments contenant les substances suivantes peuven
 
 - TKM-100-802 ;
 
-- ZMapp.
+- ZMapp ;
+
+- ZMabs.
 
 Ces médicaments pourront être utilisés lors d'une évacuation sanitaire de ressortissants dont l'Etat français a la charge.
