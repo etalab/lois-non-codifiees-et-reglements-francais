@@ -88,18 +88,18 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 <p>Agents des services techniques de 1re classe</p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 <p align="center">2</p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 <p align="center">2</p>
 </td>
 <td>
-<p align="center"> 3</p>
+<p align="center">3</p>
 </td>
 <td>
-<p align="center"> 3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -128,41 +128,26 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 </td>
 </tr>
 <tr>
-<td>
-<p>N° 11</p>
-</td>
-<td>
-<p>Lieutenants de port</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td>
 <p>N° 12</p>
 </td>
 <td>
-<p>Professeurs techniques de l'enseignement maritime hors classe </p>
-<p>Professeurs techniques de l'enseignement maritime de classe normale </p>
+<br/>
 <p>Professeurs techniques (des écoles nationales de la marine marchande)</p>
 </td>
 <td>
-<p align="center">1 </p>
 <br/>
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">1 </p>
 <br/>
 <p align="center">2</p>
 </td>

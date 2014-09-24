@@ -20,10 +20,10 @@ N° 8. - Supprimée ;
 
 N° 9. - Supprimée ;
 
-N° 10. - Corps des officiers de port ;
+N° 10. - Supprimée ;
 
-N° 11. - Corps des officiers de port adjoints ;
+N° 11. - Supprimée ;
 
-N° 12. - Corps des professeurs techniques de l'enseignement maritime et corps des professeurs techniques des écoles nationales de la marine marchande ;
+N° 12. - Corps des professeurs techniques des écoles nationales de la marine marchande ;
 
 N° 13. - Agents de service des services déconcentrés.

@@ -5,3 +5,4 @@
 - [Article 319-23](article-319-23.md)
 - [Article 319-24](article-319-24.md)
 - [Article 319-25](article-319-25.md)
+- [Article 319-26](article-319-26.md)

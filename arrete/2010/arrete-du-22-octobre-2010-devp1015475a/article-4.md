@@ -1,8 +1,8 @@
 # Article 4
 
-I. ― Les règles de construction applicables aux bâtiments mentionnés à l'article 3 sont celles des normes NF EN 1998-1 septembre 2005, NF EN 1998-3 décembre 2005, NF EN 1998-5 septembre 2005, dites "règles Eurocode 8" accompagnées des documents dits "annexes nationales" des normes NF EN 1998-1/ NA décembre 2007, NF EN 1998-3/ NA janvier 2008, NF EN 1998-5/ NA octobre 2007 s'y rapportant.
+I.-Les principes de conception, de calcul et de dimensionnement applicables aux bâtiments mentionnés à l'article 3 sont ceux des normes NF EN 1998-1 septembre 2005, NF EN 1998-3 décembre 2005, NF EN 1998-5 septembre 2005, dites  "    règles Eurocode 8 " accompagnées des documents dits " annexes nationales " des normes NF EN 1998-1/ NA décembre 2007, NF EN 1998-3/ NA janvier 2008, NF EN 1998-5/ NA octobre 2007 s'y rapportant.
 
-Les dispositifs constructifs non visés dans les normes précitées font l'objet d'avis techniques ou d'agréments techniques européens.
+La justification des éléments structuraux et non structuraux est réalisée en respectant les règles d'application définies dans les normes précitées. Les dispositifs constructifs non visés par les règles d'application des normes précitées sont justifiés par application des principes de la norme NF EN 1990 mars 2003, le cas échéant étendus aux éléments non structuraux, en tenant compte du caractère spécifique de leurs matériaux et procédés constitutifs.
 
 II. ― Le mouvement dû au séisme en un point donné de la surface du sol, à partir duquel les règles de construction doivent être appliquées, est représenté par un spectre de réponse élastique en accélération, dénommé par la suite "spectre de réponse élastique".
 
@@ -331,8 +331,14 @@ En zones de sismicité 1 et 2 (sismicité très faible et faible), l'analyse de 
 
 III. ― Pour les bâtiments appartenant à la catégorie d'importance II et remplissant les conditions du paragraphe 1.1 (Domaine d'application) de la norme "NF P 06-014 mars 1995 amendée A1 février 2001-Construction parasismique des maisons individuelles et des bâtiments assimilés, règles PS-MI 89 révisées 92" et qui sont situés en zone de sismicité 3 ou 4, l'application des dispositions définies dans cette même norme dispense de l'application des règles indiquées au I.
 
-Pour les établissements scolaires appartenant à la catégorie d'importance III et remplissant les conditions du paragraphe 1.1 (Domaine d'application) de la norme "NF P 06-014 mars 1995 amendée A1 février 2001-Construction parasismique des maisons individuelles et des bâtiments assimilés, règles PS-MI 89 révisées 92" et qui sont situés en zone de sismicité 2, l'application des dispositions définies dans cette même norme dispense de l'application des règles indiquées au I.
+Pour les établissements scolaires, à un seul niveau, appartenant à la catégorie d'importance III et remplissant les conditions du paragraphe 1.1 (Domaine d'application) de la norme "NF P 06-014 mars 1995 amendée A1 février 2001-Construction parasismique des maisons individuelles et des bâtiments assimilés, règles PS-MI 89 révisées 92" et qui sont situés en zone de sismicité 2, l'application des dispositions définies dans cette même norme dispense de l'application des règles indiquées au I.
 
 IV.-Pour les maisons individuelles appartenant à la catégorie d'importance II et qui sont situées en zone de sismicité 5, l'application des dispositions définies dans le document "Construction parasismique des maisons individuelles aux Antilles, CP-MI Antilles" (édition 2004), rédigé par l'Association française de génie parasismique (AFPS), dispense de l'application des règles indiquées au I.
 
 V.-Une maçonnerie non armée conforme aux dispositions de la norme NF EN 1998-1 septembre 2005 ne peut être utilisée que si le mouvement du sol au droit du site ne dépasse pas la limite d'accélération de 2 m/ s ², plus précisément la valeur du produit ag.S ne doit pas dépasser la limite ag, urm = 2 m/ s ².
+
+VI.-Eléments non structuraux :
+
+a) Les éléments non structuraux nécessitant une prise en compte du séisme et visés aux conditions particulières de l'article 3 et au I de l'article 4 sont ceux définis au chapitre 1er (Domaine d'application) du référentiel  "   Dimensionnement parasismique des éléments non structuraux du cadre bâti ; Justifications parasismiques pour le bâtiment  à risque normal  " version 2014 des ministères du logement et de l'égalité des territoires et de l'écologie, du développement durable et de l'énergie ;
+
+b) L'application des dispositions du référentiel " Dimensionnement parasismique des éléments non structuraux du cadre bâti ; Justifications parasismiques pour le bâtiment  à risque normal  " version 2014 des ministères du logement et de l'égalité des territoires et de l'écologie, du développement durable et de l'énergie vaut justification réglementaire parasismique pour les éléments non structuraux visés au précédent alinéa.

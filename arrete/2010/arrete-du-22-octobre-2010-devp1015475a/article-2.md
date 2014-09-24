@@ -2,7 +2,7 @@
 
 I. ― Classification des bâtiments.
 
-Pour l'application du présent arrêté, les bâtiments de la classe dite  à risque normal  sont répartis en quatre catégories d'importance définies par l'article R. 563-3 du code de l'environnement et précisées par le présent article. Pour les bâtiments constitués de diverses parties relevant de catégories d'importance différentes, c'est le classement le plus contraignant qui s'applique à leur ensemble.
+Pour l'application du présent arrêté, les bâtiments de la classe dite à risque normal sont répartis en quatre catégories d'importance définies par l'article R. 563-3 du code de l'environnement et précisées par le présent article. Pour les bâtiments constitués de diverses parties relevant de catégories d'importance différentes, c'est le classement le plus contraignant qui s'applique à leur ensemble.
 
 Les bâtiments sont classés comme suit :
 
@@ -44,9 +44,15 @@ En catégorie d'importance III :
 
 ― les bâtiments destinés à l'exercice d'une activité industrielle ;
 
-― les bâtiments des établissements sanitaires et sociaux, à l'exception de ceux des établissements de santé au sens de l'article L. 711-2 du code de la santé publique qui dispensent des soins de courte durée ou concernant des affections graves pendant leur phase aiguë en médecine, chirurgie et obstétrique et qui sont mentionnés à la catégorie d'importance IV ci-dessous ;
+― les bâtiments des établissements sanitaires et sociaux, à l'exception de ceux des établissements de santé qui dispensent des soins de courte durée ou concernant des affections graves pendant leur phase aiguë en médecine, chirurgie et obstétrique et qui sont mentionnés à la catégorie d'importance IV ci-dessous ;
 
-― les bâtiments des centres de production collective d'énergie quelle que soit leur capacité d'accueil.
+― Les bâtiments des centres de production collective d'énergie répondant au moins à l'un des trois critères suivants, quelle que soit leur capacité d'accueil :
+
+- la production électrique est supérieure au seuil de 40 MW électrique ;
+
+- la production thermique est supérieure au seuil de 20 MW thermique ;
+
+- le débit d'injection dans le réseau de gaz est supérieur à 2 000 Nm3/ h.
 
 En catégorie d'importance IV :
 
@@ -66,7 +72,7 @@ En catégorie d'importance IV :
 
 ― les bâtiments et toutes leurs dépendances fonctionnelles assurant le contrôle de la circulation aérienne des aérodromes classés dans les catégories A, B et C2 suivant les instructions techniques pour les aérodromes civils (ITAC) édictées par la direction générale de l'aviation civile, dénommées respectivement 4 C,4 D et 4 E suivant l'organisation de l'aviation civile internationale (OACI) ;
 
-― les bâtiments des établissements de santé au sens de l'article L. 711-2 du code de la santé publique qui dispensent des soins de courte durée ou concernant des affections graves pendant leur phase aiguë en médecine, chirurgie et obstétrique ;
+― les bâtiments des établissements de santé qui dispensent des soins de courte durée ou concernant des affections graves pendant leur phase aiguë en médecine, chirurgie et obstétrique ;
 
 ― les bâtiments de production ou de stockage d'eau potable ;
 
