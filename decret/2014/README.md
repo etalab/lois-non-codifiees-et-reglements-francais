@@ -340,6 +340,8 @@
 - [Décret n°2014-518 du 21 mai 2014 (DEFH1407425D)](decret-n2014-518-du-21-mai-2014-defh1407425d)
 - [Décret n°2014-519 du 21 mai 2014 (AGRS1404402D)](decret-n2014-519-du-21-mai-2014-agrs1404402d)
 - [Décret n°2014-520 du 21 mai 2014 (OMES1404620D)](decret-n2014-520-du-21-mai-2014-omes1404620d)
+- [DÉCRET n°2014-1071 du 22 septembre 2014 (AFSH1400808D)](decret-n2014-1071-du-22-septembre-2014-afsh1400808d)
+- [DÉCRET n°2014-1072 du 22 septembre 2014 (VJSJ1415654D)](decret-n2014-1072-du-22-septembre-2014-vjsj1415654d)
 - [DÉCRET n°2014-828 du 22 juillet 2014 (PRMX1413937D)](decret-n2014-828-du-22-juillet-2014-prmx1413937d)
 - [DÉCRET n°2014-829 du 22 juillet 2014 (JUSC1404948D)](decret-n2014-829-du-22-juillet-2014-jusc1404948d)
 - [DÉCRET n°2014-832 du 22 juillet 2014 (DEFH1410652D)](decret-n2014-832-du-22-juillet-2014-defh1410652d)

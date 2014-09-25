@@ -1,0 +1,3 @@
+# Article 9
+
+Les mandats, en cours à la date de publication du présent décret, des membres des commissions d'autorisation d'exercice des médecins, des chirurgiens-dentistes et des sages-femmes ainsi que ceux des membres du Conseil supérieur de la pharmacie sont prolongés jusqu'aux dates des nominations des membres des commissions d'autorisation d'exercice des médecins, des chirurgiens-dentistes, des sages-femmes et des pharmaciens, effectuées en application du présent décret. Les avis rendus par les commissions d'autorisation d'exercice antérieurement à l'installation des commissions d'autorisation d'exercice prévues par le présent décret sont réputées avoir été régulièrement émis.
