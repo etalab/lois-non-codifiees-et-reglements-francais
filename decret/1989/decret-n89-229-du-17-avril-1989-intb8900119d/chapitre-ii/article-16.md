@@ -14,6 +14,6 @@ Peuvent être admis à voter par correspondance :
 
 5° Ceux qui sont empêchés, en raison des nécessités du service, de se rendre au bureau de vote le jour du scrutin.
 
-La liste des fonctionnaires admis à voter par correspondance est affichée au moins quinze jours avant la date des élections. Les fonctionnaires qui figurent sur cette liste sont, dans le même délai, avisés de leur inscription par l'autorité territoriale et de l'impossibilité pour eux de voter directement à l'urne le jour du scrutin.
+La liste des fonctionnaires admis à voter par correspondance est affichée au moins vingt jours avant la date des élections. Les fonctionnaires qui figurent sur cette liste sont, dans le même délai, avisés de leur inscription par l'autorité territoriale et de l'impossibilité pour eux de voter directement à l'urne le jour du scrutin.
 
-Cette liste peut être rectifiée jusqu'au douzième jour précédant le jour du scrutin.
+Cette liste peut être rectifiée jusqu'au quinzième jour précédant le jour du scrutin.

@@ -1,6 +1,6 @@
 # Article 3
 
-Le mandat des représentants du personnel expire une semaine après la date des élections organisées pour leur renouvellement. Ce mandat est renouvelable.
+La durée du mandat des représentants du personnel est fixée à quatre ans. Ce mandat est renouvelable.
 
 Les représentants des collectivités et établissements cessent de siéger lorsque leur mandat électif prend fin.
 
