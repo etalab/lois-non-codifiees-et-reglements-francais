@@ -551,6 +551,7 @@
 - [DÉCRET n°2014-749 du 30 juin 2014 (DEFD1402027D)](decret-n2014-749-du-30-juin-2014-defd1402027d)
 - [DÉCRET n°2014-851 du 30 juillet 2014 (MENS1412970D)](decret-n2014-851-du-30-juillet-2014-mens1412970d)
 - [DÉCRET n°2014-854 du 30 juillet 2014 (ETLL1415713D)](decret-n2014-854-du-30-juillet-2014-etll1415713d)
+- [Décret n°85-565 du 30 mai 1985](decret-n85-565-du-30-mai-1985)
 - [Décret n°2014-556 du 30 mai 2014 (MAEA1411392D)](decret-n2014-556-du-30-mai-2014-maea1411392d)
 - [Décret n°2014-558 du 30 mai 2014 (JUST1407724D)](decret-n2014-558-du-30-mai-2014-just1407724d)
 - [Décret n°2014-561 du 30 mai 2014 (DEFH1330507D)](decret-n2014-561-du-30-mai-2014-defh1330507d)
