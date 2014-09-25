@@ -10,6 +10,10 @@ Le directeur et le directeur adjoint disposent d'un cabinet, qui comprend le bur
 
 Ils disposent d'une mission de veille, des études et de la prospective chargée de recueillir et d'analyser toutes les informations relatives aux domaines de compétence de la direction pour éclairer les choix et la stratégie de la police nationale en ces domaines.
 
+Ils disposent d'une mission d'appui aux ressources humaines.
+
+Ils disposent en outre d'un directeur de projet chargé d'une mission de modernisation de la politique en matière de ressources humaines.
+
 Ils disposent également d'une mission chargée des questions relatives au temps de travail dans les services de la police nationale.
 
 Ils disposent de la direction d'application DIALOGUE.
