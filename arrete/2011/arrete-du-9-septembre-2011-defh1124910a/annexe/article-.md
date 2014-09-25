@@ -1,642 +1,808 @@
 # Article 
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th rowspan="2">COMITÉS TECHNIQUES DE BASE DE DÉFENSE<br/>
-<br/>
-</th>
-<th colspan="2">NOMBRE DE SIÈGES<br/>de représentants du personnel<br/>
-</th>
-<th rowspan="2">MODE DE SCRUTIN<br/>
-<br/>
-</th>
-</tr>
-<tr>
-<th>Titulaires<br/>
-</th>
-<th>Suppléants<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Angers - Le Mans - Saumur</p>
+<td rowspan="2">
+<p align="center"> COMITÉ TECHNIQUE DE BASE DE DÉFENSE </p>
 </td>
-<td align="center">10<br/>
+<td colspan="2">
+<p align="center"> NOMBRE DE SIÈGES DE REPRÉSENTANTS <br/>du personnel </p>
 </td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td rowspan="2">
+<p align="center"> MODE DE SCRUTIN </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Angoulême</p>
+<td>
+<p align="center"> Titulaires </p>
 </td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">Liste<br/>
+<td>
+<p align="center"> Suppléants </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Antilles</p>
+<td align="left" valign="middle">
+<br/>CT BdD Angers-Le Mans-Saumur <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Belfort</p>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Besançon</p>
+<td align="left" valign="middle">
+<br/>CT BdD Angoulême <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Bordeaux - Mérignac</p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Bourges - Avord</p>
+<td align="left" valign="middle">
+<br/>CT BdD Antilles <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Brest - Lorient </p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Brive</p>
+<td align="left" valign="middle">
+<br/>CT BdD Belfort <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Calvi</p>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">Sigle<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Carcassonne</p>
+<td align="left" valign="middle">
+<br/>CT BdD Besançon <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cazaux</p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Charleville-Mézières</p>
+<td align="left" valign="middle">
+<br/>CT BdD Bordeaux-Mérignac <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">Sigle<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Cherbourg</p>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Clermont-Ferrand</p>
+<td align="left" valign="middle">
+<br/>CT BdD Bourges-Avord <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Colmar</p>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Creil</p>
+<td align="left" valign="middle">
+<br/>CT BdD Brest-Lorient <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Dijon</p>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Draguignan</p>
+<td align="left" valign="middle">
+<br/>CT BdD Brive <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Epinal - Luxeuil</p>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Evreux</p>
+<td align="left" valign="middle">
+<br/>CT BdD Calvi <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Gap</p>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">Sigle<br/>
+<td align="center" valign="middle">
+<br/>Sigle <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Grenoble - Annecy - Chambéry</p>
+<td align="left" valign="middle">
+<br/>CT BdD Carcassonne <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Guyane</p>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Ile-de-France</p>
+<td align="left" valign="middle">
+<br/>CT BdD Cazaux <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Istres - Salon-de-Provence</p>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">La Réunion - Mayotte</p>
+<td align="left" valign="middle">
+<br/>CT BdD Charleville-Mézières <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">La Valbonne</p>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Lille</p>
+<td align="left" valign="middle">
+<br/>CT BdD Cherbourg <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Lyon - Mont Verdun</p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Marseille - Aubagne</p>
+<td align="left" valign="middle">
+<br/>CT BdD Clermont-Ferrand <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Metz</p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Mont-de-Marsan</p>
+<td align="left" valign="middle">
+<br/>CT BdD Colmar <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Montauban - Agen</p>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Monthéry</p>
+<td align="left" valign="middle">
+<br/>CT BdD Creil <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Mourmelon - Mailly</p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Nancy</p>
+<td align="left" valign="middle">
+<br/>CT BdD Dijon <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Nîmes - Orange - Laudun</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Nouvelle-Calédonie</p>
+<td align="left" valign="middle">
+<br/>CT BdD Draguignan <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">6<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Orléans - Bricy</p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Pau - Bayonne - Tarbes</p>
+<td align="left" valign="middle">
+<br/>CT BdD Epinal-Luxeuil <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Phalsbourg</p>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Poitiers - Saint-Maixent</p>
+<td align="left" valign="middle">
+<br/>CT BdD Evreux <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Polynésie française</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Rennes</p>
+<td align="left" valign="middle">
+<br/>CT BdD Gap <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Rochefort - Cognac</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Sigle <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Saint-Christol</p>
+<td align="left" valign="middle">
+<br/>CT BdD Grenoble-Annecy-Chambéry <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">Sigle<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Saint-Dizier - Chaumont</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Strasbourg - Haguenau</p>
+<td align="left" valign="middle">
+<br/>CT BdD Guyane <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Toulon </p>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">10<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Toulouse - Castres</p>
+<td align="left" valign="middle">
+<br/>CT BdD Ile-de-France <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">10<br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Tours</p>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Valence</p>
+<td align="left" valign="middle">
+<br/>CT BdD Istres-Salon-de-Provence <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">Liste<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Vannes - Coëtquidan</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Ventiseri - Solenzara</p>
+<td align="left" valign="middle">
+<br/>CT BdD La Réunion-Mayotte <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Verdun</p>
+<td align="left" valign="middle">
+<br/>CT BdD La Valbonne <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">Liste<br/>
+<td align="center" valign="middle">
+<br/>Liste <br/>
 </td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Lille <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Lyon-Mont-Verdun <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Marseille-Aubagne <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Metz <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Mont-de-Marsan <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Montauban-Agen <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Montlhéry <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Mourmelon-Mailly <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Nancy <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Nîmes-Orange-Laudun <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Nouvelle-Calédonie <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Orléans-Bricy <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Pau-Bayonne-Tarbes <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Phalsbourg <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Poitiers-Saint-Maixent <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Polynésie française <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Rennes <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Rochefort-Cognac <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Saint-Christol <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Saint-Dizier-Chaumont <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Strasbourg-Haguenau <br/>
+</td>
+<td align="center" valign="middle">
+<br/>9 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>9 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Toulon <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Toulouse-Castres <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Tours <br/>
+</td>
+<td align="center" valign="middle">
+<br/>9 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>9 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Valence <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Vannes-Coëtquidan <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Ventiseri-Solenzara <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>CT BdD Verdun <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Liste</td>
 </tr>
 </tbody>
 </table>
-
-</div>
