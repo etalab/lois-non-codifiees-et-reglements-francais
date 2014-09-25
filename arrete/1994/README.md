@@ -819,7 +819,6 @@
 - [Arrêté du 26 février 1996 (TASG9610450A)](arrete-du-26-fevrier-1996-tasg9610450a)
 - [Arrêté du 26 février 1996 (TASG9610451A)](arrete-du-26-fevrier-1996-tasg9610451a)
 - [Arrêté du 26 janvier 1994 (ECOT9410204A)](arrete-du-26-janvier-1994-ecot9410204a)
-- [Arrêté du 26 janvier 1994 (EQUH9400052A)](arrete-du-26-janvier-1994-equh9400052a)
 - [Arrêté du 26 janvier 1994 (SPSS9400293A)](arrete-du-26-janvier-1994-spss9400293a)
 - [Arrêté du 26 juillet 1994 (BUDF9400014A)](arrete-du-26-juillet-1994-budf9400014a)
 - [Arrêté du 26 juillet 1994 (ECOC9400095A)](arrete-du-26-juillet-1994-ecoc9400095a)

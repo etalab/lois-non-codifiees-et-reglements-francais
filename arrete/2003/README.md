@@ -152,7 +152,6 @@
 - [Arrêté du 6 août 2003 (EQUA0301180A)](arrete-du-6-aout-2003-equa0301180a)
 - [Arrêté du 6 décembre 2002 (DEFP0301861A)](arrete-du-6-decembre-2002-defp0301861a)
 - [Arrêté du 6 février 2003 (AGRA0300216A)](arrete-du-6-fevrier-2003-agra0300216a)
-- [Arrêté du 6 février 2003 (EQUP0300078A)](arrete-du-6-fevrier-2003-equp0300078a)
 - [Arrêté du 6 février 2003 (MCCB0300099A)](arrete-du-6-fevrier-2003-mccb0300099a)
 - [Arrêté du 6 juin 2003 (BUDR0303020A)](arrete-du-6-juin-2003-budr0303020a)
 - [Arrêté du 6 juin 2003 (MENE0301239A)](arrete-du-6-juin-2003-mene0301239a)

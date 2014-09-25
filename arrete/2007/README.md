@@ -440,7 +440,6 @@
 - [Arrêté du 16 avril 2007 (EQUA0752466A)](arrete-du-16-avril-2007-equa0752466a)
 - [Arrêté du 16 février 2007 (AGRP0700468A)](arrete-du-16-fevrier-2007-agrp0700468a)
 - [Arrêté du 16 février 2007 (DEFB0700247A)](arrete-du-16-fevrier-2007-defb0700247a)
-- [Arrêté du 16 février 2007 (EQUP0602444A)](arrete-du-16-fevrier-2007-equp0602444a)
 - [Arrêté du 16 janvier 2006 (SANP0620362A)](arrete-du-16-janvier-2006-sanp0620362a)
 - [Arrêté du 16 janvier 2007 (AGRP0700153A)](arrete-du-16-janvier-2007-agrp0700153a)
 - [Arrêté du 16 juillet 2007 (AGRS0760579A)](arrete-du-16-juillet-2007-agrs0760579a)
