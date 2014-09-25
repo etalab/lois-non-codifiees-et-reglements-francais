@@ -1948,7 +1948,6 @@
 - [Arrêté du 21 septembre 2012 (DEVK1233238A)](arrete-du-21-septembre-2012-devk1233238a)
 - [Arrêté du 21 mai 2012 (DEFH1223816A)](arrete-du-21-mai-2012-defh1223816a)
 - [Arrêté du 21 mai 2012 (DEFH1223838A)](arrete-du-21-mai-2012-defh1223838a)
-- [Arrêté du 21 mai 2012 (DEFN1223543A)](arrete-du-21-mai-2012-defn1223543a)
 - [Arrêté du 21 mai 2012 (DEFT1225472A)](arrete-du-21-mai-2012-deft1225472a)
 - [Arrêté du 21 mai 2012 (ETSD1209214A)](arrete-du-21-mai-2012-etsd1209214a)
 - [Arrêté du 21 mai 2012 (MCCB1223499A)](arrete-du-21-mai-2012-mccb1223499a)
