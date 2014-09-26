@@ -452,7 +452,6 @@
 - [ARRÊTÉ du 9 septembre 2014 (MENH1419078A)](arrete-du-9-septembre-2014-menh1419078a)
 - [Arrêté du 9 mai 2006 (MENE0601244A)](arrete-du-9-mai-2006-mene0601244a)
 - [Arrêté du 9 mai 2014 (DEFD1410770A)](arrete-du-9-mai-2014-defd1410770a)
-- [Arrêté du 9 mai 2014 (DEVR1411000A)](arrete-du-9-mai-2014-devr1411000a)
 - [Arrêté du 9 mai 2014 (ERNC1405808A)](arrete-du-9-mai-2014-ernc1405808a)
 - [Arrêté du 9 mai 2014 (INTC1408824A)](arrete-du-9-mai-2014-intc1408824a)
 - [Arrêté du 9 mai 2014 (INTC1408829A)](arrete-du-9-mai-2014-intc1408829a)
