@@ -4,4 +4,4 @@ La direction territoriale compétente sur le ressort de la circonscription dépa
 
 Cette direction est placée sous l'autorité d'un directeur territorial de la protection judiciaire de la jeunesse.
 
-Le siège de la direction territoriale de la protection judiciaire de la jeunesse de Paris est sis 13, rue Christiani, 75018 Paris.
+Le siège de la direction territoriale de la protection judiciaire de la jeunesse de Paris est sis 21-23, rue Miollis, bâtiment C, 75015 Paris.

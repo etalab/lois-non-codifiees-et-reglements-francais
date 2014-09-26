@@ -717,7 +717,6 @@
 - [Arrêté du 9 juin 2010 (IOCJ1015000A)](arrete-du-9-juin-2010-iocj1015000a)
 - [Arrêté du 9 juin 2010 (JUSF1015610A)](arrete-du-9-juin-2010-jusf1015610a)
 - [Arrêté du 9 juin 2010 (JUSF1015612A)](arrete-du-9-juin-2010-jusf1015612a)
-- [Arrêté du 9 juin 2010 (JUSF1015613A)](arrete-du-9-juin-2010-jusf1015613a)
 - [Arrêté du 9 juin 2010 (MTSF1013658A)](arrete-du-9-juin-2010-mtsf1013658a)
 - [Arrêté du 9 juin 2010 (SASH1015346A)](arrete-du-9-juin-2010-sash1015346a)
 - [Arrêté du 9 mars 2010 (DEFH1006916A)](arrete-du-9-mars-2010-defh1006916a)
