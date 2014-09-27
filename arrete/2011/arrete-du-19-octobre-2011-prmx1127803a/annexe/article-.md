@@ -86,4 +86,14 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 -fermeture de l'agence territoriale du Grand Clermont de la direction départementale des territoires du Puy-de-Dôme ;
 
--fermeture de l'implantation territoriale Centre et restructuration de l'unité territoriale Nord de Saint-Dizier de la direction départementale des territoires de la Haute-Marne.
+-fermeture de l'implantation territoriale Centre et restructuration de l'unité territoriale Nord de Saint-Dizier de la direction départementale des territoires de la Haute-Marne ;
+
+-restructuration des antennes de Villefranche, Mornant, Givors et Thizy de la direction départementale et des territoires du Rhône ;
+
+-fermeture des sites d'Orthez, de Saint-Palais et de l'antenne de Bedous de la direction départementale des territoires et de la mer des Pyrénées-Atlantiques ;
+
+-fermeture des sites de Palaiseau, Montgeron et Etampes de la direction départementale des territoires de l'Essonne ;
+
+-restructuration des unités territoriales Grand Amiénois, Santerre Haute Somme et Picardie maritime de la direction départementale des territoires et de la mer de la Somme ;
+
+-restructuration des divisions territoriales Ouest, Centre-Est et du Vignoble et Grandlieu de la direction départementale des territoires et de la mer de la Loire-Atlantique.
