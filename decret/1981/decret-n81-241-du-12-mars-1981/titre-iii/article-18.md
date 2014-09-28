@@ -4,7 +4,7 @@ Les membres des corps recrutés par la voie de l'Ecole nationale d'administratio
 
 Au terme de leur période de mise à disposition ou de détachement, les fonctionnaires, magistrats et militaires susmentionnés sont, selon les cas, remis à disposition ou réintégrés dans leur corps ou cadre d'emplois d'origine.
 
-Toutefois, lorsqu'ils ont fait preuve d'une valeur professionnelle exceptionnelle et qu'ils apportent à l'inspection générale de l'administration une compétence ou une expertise particulières, ils peuvent être intégrés dans le corps de l'inspection générale de l'administration au grade d'inspecteur général ou d'inspecteur de l'administration, à l'issue d'une période de cinq années consécutives de services effectifs sous l'autorité directe du chef de service.
+Toutefois, lorsqu'ils ont fait preuve d'une valeur professionnelle exceptionnelle et qu'ils apportent à l'inspection générale de l'administration une compétence ou une expertise particulières, les agents mentionnés au premier alinéa et les agents ayant occupé des fonctions d'inspecteur ou d'inspecteur général en service extraordinaire peuvent être intégrés dans le corps de l'inspection générale de l'administration au grade d'inspecteur général ou d'inspecteur de l'administration, à l'issue d'une période de cinq années consécutives de services effectifs sous l'autorité directe du chef de service.
 
 Nul ne peut être intégré dans le grade d'inspecteur général de l'administration si, à la date de sa nomination, il n'est âgé de cinquante ans au moins et s'il ne compte vingt années au moins de services publics.
 

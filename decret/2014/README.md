@@ -493,6 +493,7 @@
 - [DÉCRET n°2014-980 du 27 août 2014 (DEFH1413634D)](decret-n2014-980-du-27-aout-2014-defh1413634d)
 - [DÉCRET n°2014-981 du 27 août 2014 (DEFH1413635D)](decret-n2014-981-du-27-aout-2014-defh1413635d)
 - [DÉCRET n°2014-982 du 27 août 2014 (DEFH1413636D)](decret-n2014-982-du-27-aout-2014-defh1413636d)
+- [Décret n°95-860 du 27 juillet 1995 (FPPX9500099D)](decret-n95-860-du-27-juillet-1995-fppx9500099d)
 - [Décret n°2014-551 du 27 mai 2014 (FCPE1228065D)](decret-n2014-551-du-27-mai-2014-fcpe1228065d)
 - [Décret n°2014-552 du 27 mai 2014 (FCPE1228071D)](decret-n2014-552-du-27-mai-2014-fcpe1228071d)
 - [Décret n°2014-554 du 27 mai 2014 (AFSA1403170D)](decret-n2014-554-du-27-mai-2014-afsa1403170d)
