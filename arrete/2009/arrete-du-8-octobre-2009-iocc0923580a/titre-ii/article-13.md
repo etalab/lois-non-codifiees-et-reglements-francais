@@ -1,3 +1,3 @@
 # Article 13
 
-Les bulletins de vote et les enveloppes sont établis aux frais de l'administration, d'après un modèle type fourni par celle-ci. Ils sont transmis, ainsi que les professions de foi, par les soins de l'administration aux agents inscrits sur la liste électorale.
+Les bulletins de vote sont établis et transmis dans les conditions prévues par l'article 17 du décret du 28 mai 1982 déjà mentionné.

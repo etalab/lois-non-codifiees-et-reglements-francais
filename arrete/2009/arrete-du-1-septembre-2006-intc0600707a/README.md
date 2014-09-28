@@ -1,6 +1,0 @@
-# Arrêté du 1er septembre 2006 instituant les commissions administratives paritaires nationales et locales compétentes à l'égard des corps des secrétaires administratifs, adjoints administratifs, agents administratifs et adjoints techniques de la police nationale
-
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)

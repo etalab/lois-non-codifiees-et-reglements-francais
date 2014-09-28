@@ -1,3 +1,3 @@
 # Article 20
 
-Les contestations sur la validité des opérations électorales sont portées, dans un délai de cinq jours à compter de la proclamation des résultats, devant le ministre de l'intérieur, puis, le cas échéant, devant la juridiction administrative.
+Les contestations sur la validité des opérations électorales sont régies par les dispositions de l'article 24 du décret du 28 mai 1982 déjà mentionné.

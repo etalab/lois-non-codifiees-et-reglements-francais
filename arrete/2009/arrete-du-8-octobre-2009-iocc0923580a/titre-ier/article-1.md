@@ -1,3 +1,3 @@
 # Article 1
 
-Il est institué auprès des préfets ayant autorité sur les secrétariats généraux pour l'administration de la police des commissions consultatives paritaires compétentes à l'égard des adjoints de sécurité recrutés en application de l'article 36 de la loi n° 95-73 du 21 janvier 1995 modifiée d'orientation et de programmation relative à la sécurité affectés dans leur ressort.
+Il est institué auprès des préfets de zone de défense et de sécurité des commissions consultatives paritaires compétentes à l'égard des adjoints de sécurité recrutés en application de l'article L. 411-5 du code de la sécurité intérieure affectés dans leur ressort.

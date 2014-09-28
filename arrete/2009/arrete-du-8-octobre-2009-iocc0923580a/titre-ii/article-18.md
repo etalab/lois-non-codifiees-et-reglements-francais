@@ -1,5 +1,3 @@
 # Article 18
 
-Lorsque aucune candidature n'a été déposée par les organisations syndicales, il est procédé à un nouveau scrutin dans un délai qui ne peut être inférieur à six semaines et supérieur à dix semaines à compter de la date initialement prévue pour le scrutin. Ce scrutin est organisé dans les conditions déterminées par les articles précédents.
-
-Dans l'hypothèse où aucune organisation syndicale n'a fait acte de candidature pour ce second scrutin, les représentants du personnel sont désignés, par voie de tirage au sort, parmi les agents non titulaires visés à l'article 1er du présent arrêté. Si les agents non titulaires ainsi désignés n'acceptent pas leur nomination, les sièges vacants des représentants du personnel sont attribués à des représentants de l'administration.
+Lorsqu'une liste commune a été établie par des organisations syndicales, la répartition entre elles des suffrages exprimés se fait sur la base indiquée et rendue publique par les organisations syndicales concernées lors du dépôt de leur liste. A défaut d'indication, la répartition des suffrages se fait à part égale entre les organisations concernées. Cette répartition est mentionnée sur les listes affichées dans les sections de vote.
