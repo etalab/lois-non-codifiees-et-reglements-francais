@@ -6,7 +6,7 @@ Pour chaque prêt, la compensation versée par l'Etat est calculée par applicat
 
 Le taux S mentionné à l'alinéa précédent est obtenu en arrondissant à la quatrième décimale la somme des valeurs, actualisées à un taux d'intérêt T 1, des écarts entre les mensualités constantes d'un emprunt à taux nul de 1 euro sur une durée correspondant au prêt octroyé et les mensualités constantes d'un prêt de référence de 1 euro, de même durée, accordé au taux d'intérêt T 2.
 
-Le taux T 1 est égal au taux mensuel équivalent au taux annuel de rendement du bon du Trésor d'une durée de deux ans, constaté le dernier jour ouvré précédant le trimestre.
+Le taux T 1 est égal au taux mensuel équivalent au taux annuel de rendement des emprunts d'Etat d'une durée de deux ans, constaté le dernier jour ouvré précédant le trimestre.
 
 Le taux T 2 est égal au taux mensuel équivalent au même taux annuel T 1 majoré de 2 points.
 
