@@ -172,7 +172,6 @@
 - [Arrêté du 6 mai 1994 (BUDR9404193A)](arrete-du-6-mai-1994-budr9404193a)
 - [Arrêté du 6 mai 1994 (ECOT9451349A)](arrete-du-6-mai-1994-ecot9451349a)
 - [Arrêté du 6 mai 1994 (EQUP9400826A)](arrete-du-6-mai-1994-equp9400826a)
-- [Arrêté du 6 mai 1994 (RESM9400599A)](arrete-du-6-mai-1994-resm9400599a)
 - [Arrêté du 6 mai 1994 (SPSP9401405A)](arrete-du-6-mai-1994-spsp9401405a)
 - [Arrêté du 6 mai 1994 (SPSP9401406A)](arrete-du-6-mai-1994-spsp9401406a)
 - [Arrêté du 6 mai 1994 (SPSP9401407A)](arrete-du-6-mai-1994-spsp9401407a)
