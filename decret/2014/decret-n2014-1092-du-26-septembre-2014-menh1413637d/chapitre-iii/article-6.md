@@ -1,0 +1,9 @@
+# Article 6
+
+Pour la désignation des représentants du personnel au sein du comité technique ministériel de l'enseignement supérieur et de la recherche et du comité technique des personnels enseignants titulaires et stagiaires de statut universitaire institués par le présent décret, des bureaux de vote spéciaux sont créés dans les établissements publics administratifs qui relèvent du périmètre du comité technique ministériel de l'enseignement supérieur et de la recherche, par arrêté de la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche.
+
+Les présidents et directeurs des établissements publics administratifs qui relèvent du périmètre du comité technique ministériel de l'enseignement supérieur et de la recherche créent, dans leur établissement, une ou plusieurs sections de vote placées auprès des bureaux de vote spéciaux institués conformément à l'alinéa précédent ou, le cas échéant, auprès du bureau de vote spécial institué au sein de l'administration centrale de l'enseignement supérieur et de la recherche.
+
+Sous l'autorité de la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, les présidents et directeurs des établissements publics administratifs qui relèvent du périmètre du comité technique ministériel de l'enseignement supérieur et de la recherche procèdent, pour leurs personnels, à l'établissement des listes électorales et à la répartition des électeurs par section de vote ainsi que, dans les conditions prévues à l'article 19 du décret du 15 février 2011 susvisé, aux modifications éventuelles de ces listes, après avoir statué sans délai sur les réclamations contre les inscriptions ou omissions.
+
+La ministre procède à l'établissement des listes électorales et à la répartition des électeurs dans les sections de vote créées au sein de l'administration centrale.
