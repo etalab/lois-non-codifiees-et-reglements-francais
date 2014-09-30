@@ -16,12 +16,26 @@ A ce titre, la vaccination et toute intervention thérapeutique ou toute adminis
 
 Si, sur un même animal, en même temps que la recherche de la tuberculose, d'autres interventions nécessitant l'administration de produits, quels qu'ils soient, doivent être pratiquées, ces interventions ne doivent être effectuées qu'après lecture de la réaction tuberculinique.
 
-Un délai minimum de six semaines doit être respecté entre les tuberculinations.
+Un délai minimum de six semaines doit être respecté entre les intradermotuberculinations.
 
-III. - Pour la recherche de la tuberculose bovine, sont également autorisés, dans le respect des modalités définies par instruction du ministre chargé de l'agriculture et conformément aux méthodes et techniques recommandées par le laboratoire national de référence :
+III.-Pour la recherche de la tuberculose bovine, sont également autorisés, dans le respect des modalités définies par instruction du ministre chargé de l'agriculture et conformément aux méthodes et techniques recommandées par le laboratoire national de référence :
 
-- le test de dosage de l'interféron gamma ;
+-le test de dosage de l'interféron gamma ;
 
-- la méthode PCR ;
+-la méthode PCR agréée dirigée contre les mycobactéries du complexe M. tuberculosis ;
 
-- toute autre méthode autorisée par le ministre chargé de l'agriculture.
+-l'histologie ;
+
+-la culture ;
+
+-la sérologie pour la recherche du nombre maximal d'animaux suspects ou infectés, en complément de l'intradermotuberculination ;
+
+-toute autre méthode reconnue pour une étude expérimentale par une instruction du ministre chargé de l'agriculture.
+
+IV.-Le test de dosage de l'interféron gamma est autorisé dans les circonstances suivantes :
+
+a) Pour des opérations de dépistage menées sur des troupeaux officiellement indemnes, en cours de qualification, ou de dépistage lié aux mouvements. Le test est utilisé seul ou en complément de l'intradermotuberculination, dans ce cas le prélèvement sanguin pour le test de dosage de l'interféron gamma doit être effectué le même jour que l'injection de tuberculine ;
+
+b) Pour la recherche d'animaux suspects ou infectés dans les troupeaux infectés ou suspects. Le prélèvement sanguin pour le test de dosage de l'interféron gamma doit être effectué le même jour que l'injection de tuberculine ;
+
+c) Pour le contrôle des troupeaux suspects suite à l'obtention de résultats d'intradermotuberculination non négatifs, dans le cadre du protocole expérimental défini par instruction du ministre en charge de l'agriculture, le prélèvement sanguin pour le test de dosage de l'interféron gamma doit être effectué au plus tard cinq jours après la lecture de l'intradermotuberculination.

@@ -109,7 +109,6 @@
 - [Arrêté du 4 novembre 2008 (IOCA0826546A)](arrete-du-4-novembre-2008-ioca0826546a)
 - [Arrêté du 4 novembre 2008 (IOCA0826555A)](arrete-du-4-novembre-2008-ioca0826555a)
 - [Arrêté du 4 septembre 2008 (AGRG0821484A)](arrete-du-4-septembre-2008-agrg0821484a)
-- [Arrêté du 4 septembre 2008 (AGRG0821618A)](arrete-du-4-septembre-2008-agrg0821618a)
 - [Arrêté du 4 septembre 2008 (DEVE0821042A)](arrete-du-4-septembre-2008-deve0821042a)
 - [Arrêté du 4 septembre 2008 (ESRS0817101A)](arrete-du-4-septembre-2008-esrs0817101a)
 - [Arrêté du 4 septembre 2008 (IOCE0821616A)](arrete-du-4-septembre-2008-ioce0821616a)

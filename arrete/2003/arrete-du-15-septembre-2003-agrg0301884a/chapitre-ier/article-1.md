@@ -10,6 +10,6 @@ Le présent arrêté a pour objet :
 
 4° L'application de mesures restrictives à la circulation des animaux appartenant à des effectifs animaux des espèces de bovinés d'élevage, de l'espèce caprine ou mixtes non indemnes de tuberculose ;
 
-5° La mise en place d'un réseau national de diagnostic de la tuberculose dans des laboratoires agréés à partir de prélèvements réalisés sur des lésions suspectes constatées lors de l'inspection post mortem de mammifères à l'abattoir ou lors d'autopsie ;
+5° La mise en place d'un réseau national de laboratoires agréés pour le dépistage et le diagnostic de la tuberculose à partir de prélèvements réalisés en élevage, à l'abattoir (mammifères porteurs de lésions suspectes constatées lors de l'inspection post mortem ou faisant l'objet d'un abattage diagnostique) ou lors d'autopsie ;
 
 6° La protection de la santé publique à l'égard de la tuberculose bovine.
