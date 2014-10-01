@@ -2,7 +2,7 @@
 
 I.-Les ingénieurs d'études et de fabrications sont chargés, sous l'autorité du responsable du service où ils exercent leurs activités, de fonctions de préparation, de direction et de contrôle des travaux scientifiques, techniques ou industriels effectués dans les établissements et services du ministère de la défense. Ils organisent le travail du service dont ils ont la charge et en assurent l'encadrement. Ils peuvent aussi être chargés de missions de surveillance industrielle en usine.
 
-Les ingénieurs d'études et de fabrications peuvent être appelés à exercer leurs fonctions en métropole, dans les collectivités d'outre-mer et en Nouvelle-Calédonie ainsi que dans les services du ministère de la défense à l'étranger.
+Les ingénieurs d'études et de fabrications peuvent être appelés à exercer leurs fonctions en métropole, dans les collectivités d'outre-mer et en Nouvelle-Calédonie. Ils peuvent être également appelés à exercer leurs fonctions dans les services du ministère de la défense à l'étranger conformément aux dispositions de l'article 2 du décret n° 2014-1065 du 19 septembre 2014.
 
 Ils peuvent être affectés dans les établissements publics administratifs placés sous la tutelle du ministère de la défense.
 

@@ -1,0 +1,3 @@
+# Article 28
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans le grade de classe normale du corps des techniciens du ministère de la défense ou dans le grade de technicien supérieur d'études et de fabrications de 3e classe sont maintenus en fonctions et ont vocation à être titularisés respectivement dans le grade de technicien supérieur d'études et de fabrications de 3e classe et dans le grade de technicien supérieur d'études et de fabrications de 2e classe du corps des techniciens supérieurs d'études et de fabrications du ministère de la défense régi par le présent décret.

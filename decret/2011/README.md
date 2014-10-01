@@ -64,6 +64,7 @@
 - [Décret n°2011-661 du 14 juin 2011 (ETSH1105688D)](decret-n2011-661-du-14-juin-2011-etsh1105688d)
 - [Décret n°2011-662 du 14 juin 2011 (ETSH1113985D)](decret-n2011-662-du-14-juin-2011-etsh1113985d)
 - [Décret n°2011-275 du 16 mars 2011 (EFIT1103770D)](decret-n2011-275-du-16-mars-2011-efit1103770d)
+- [Décret n°2011-964 du 16 août 2011 (DEFH1111915D)](decret-n2011-964-du-16-aout-2011-defh1111915d)
 - [Décret du 17 octobre 2011 (IOCB1125397D)](decret-du-17-octobre-2011-iocb1125397d)
 - [Décret n°2011-1317 du 17 octobre 2011 (MFPF1113937D)](decret-n2011-1317-du-17-octobre-2011-mfpf1113937d)
 - [Décret n°2010-1247 du 20 octobre 2010 (AGRS1020874D)](decret-n2010-1247-du-20-octobre-2010-agrs1020874d)
