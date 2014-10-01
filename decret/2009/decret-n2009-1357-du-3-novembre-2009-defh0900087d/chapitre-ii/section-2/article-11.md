@@ -10,6 +10,6 @@ Pour être admis à concourir pour l'accès au grade d'aide-soignant civil de cl
 
 ― du certificat d'aptitude à la fonction d'aide-soignant ;
 
-― d'une attestation aux fonctions d'aide-soignant ou d'auxiliaire de puériculture obtenue dans les conditions prévues aux articles R. 4383-7, R. 4383-9, R. 4383-13, R. 4383-14 et R. 4383-15 du code de la santé publique.
+― d'une attestation aux fonctions d'aide-soignant ou d'auxiliaire de puériculture obtenue dans les conditions prévues aux R. 4391-2 à R. 4291-7 et R. 4392-2 à R. 4392-7 du code de la santé publique.
 
 Peuvent également être admis à concourir les personnes ayant satisfait, après 1971, à l'examen de passage de première en deuxième année du diplôme d'Etat d'infirmier ou, après 1979, du diplôme d'infirmier de secteur psychiatrique.
