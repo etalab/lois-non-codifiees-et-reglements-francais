@@ -103,6 +103,14 @@
 </td>
 </tr>
 <tr>
+<td align="left">Chloramphénicol </td>
+<td align="center">r = 15 + [335 x f] </td>
+</tr>
+<tr>
+<td align="left">Sulfites </td>
+<td align="center">r = 15 + [195 x f] </td>
+</tr>
+<tr>
 <td colspan="2">
 <p>r : montant de la redevance.<br/>f : fréquence de contrôle d'identité et physique exprimée en pourcentage (5/100 - 10/100 - 20/100 - 50/100).<br/>f1 : fréquence de contrôle d'identité et physique établie pour le contrôle des teneurs en résidus de pesticides exprimée en pourcentage.<br/>f2 : fréquence de contrôle d'identité et physique établie pour la recherche de salmonelles exprimée en pourcentage.<br/>(1) Arachides en coque, arachides décortiquées, arachides autrement préparées ou conservées.<br/>(2) Noisettes en coque ou décortiquées.<br/>(3) Piments entiers, piments broyés ou pulvérisés, curry, noix de muscade, macis, gingembre et curcuma.<br/>
 </p>
