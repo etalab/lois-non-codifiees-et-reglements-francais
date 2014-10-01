@@ -1251,7 +1251,6 @@
 - [Arrêté du 15 juin 2012 (DEVP1220648A)](arrete-du-15-juin-2012-devp1220648a)
 - [Arrêté du 15 juin 2012 (DEVP1226036A)](arrete-du-15-juin-2012-devp1226036a)
 - [Arrêté du 15 juin 2012 (EFIM1222915A)](arrete-du-15-juin-2012-efim1222915a)
-- [Arrêté du 15 juin 2012 (JUSK1226452A)](arrete-du-15-juin-2012-jusk1226452a)
 - [Arrêté du 15 juin 2012 (MENE1222101A)](arrete-du-15-juin-2012-mene1222101a)
 - [Arrêté du 15 juin 2012 (MENE1226441A)](arrete-du-15-juin-2012-mene1226441a)
 - [Arrêté du 15 juin 2012 (MENE1226564A)](arrete-du-15-juin-2012-mene1226564a)
