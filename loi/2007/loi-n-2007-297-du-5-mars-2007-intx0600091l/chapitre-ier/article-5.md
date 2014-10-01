@@ -6,7 +6,7 @@ Ce fonds reçoit la part des crédits délégués par l'Etat à cette agence, de
 
 Le comité interministériel de prévention de la délinquance fixe les orientations et coordonne l'utilisation des crédits de ce fonds. En application de ces orientations, le conseil d'administration de l'agence approuve les programmes d'intervention correspondants et répartit les crédits entre les départements. Ces crédits sont délégués au représentant de l'Etat dans le département.
 
-Les actions conduites par l'Etat, les communes, les établissements publics de coopération intercommunale, les départements, les régions ainsi que les personnes morales de droit privé chargées d'une mission de service public ne sont éligibles au fonds interministériel pour la prévention de la délinquance que s'ils proposent des travaux d'intérêt général destinés aux personnes condamnées.
+Les actions conduites par l'Etat, les communes, les établissements publics de coopération intercommunale, les départements, les régions ainsi que les personnes morales de droit privé chargées d'une mission de service public ne sont éligibles au fonds interministériel pour la prévention de la délinquance que s'ils proposent soit des travaux d'intérêt général destinés aux personnes condamnées, soit des actions d'insertion ou de réinsertion ou des actions de prévention de la récidive destinées aux personnes placées sous main de justice.
 
 Il est fait rapport une fois par an aux instances territoriales de prévention de la délinquance des actions financées par le fonds, en regard des moyens financiers engagés et des objectifs poursuivis. Une synthèse de ces rapports est présentée une fois par an au comité interministériel de prévention de la délinquance.
 

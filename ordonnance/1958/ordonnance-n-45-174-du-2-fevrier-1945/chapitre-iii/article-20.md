@@ -14,7 +14,7 @@ Dans le cas contraire, le jury de la cour d'assises des mineurs sera formé de j
 
 Sous réserve des dispositions de l'alinéa qui précède, le président de la cour d'assises des mineurs et la cour d'assises des mineurs exerceront respectivement les attributions dévolues par les dispositions du code de procédure pénale au président de la cour d'assises et à la cour.
 
-Les dispositions des alinéas 1er, 2,4 et 5 de l'article 14 s'appliqueront à la cour d'assises des mineurs.
+Les dispositions des alinéas 1er, 2, 4 et 5 de l'article 14 s'appliqueront à la cour d'assises des mineurs.
 
 Après l'interrogatoire des accusés, le président de la cour d'assises des mineurs pourra, à tout moment, ordonner que l'accusé mineur se retire pendant tout ou partie de la suite des débats.
 
@@ -26,8 +26,4 @@ Si l'accusé a moins de dix-huit ans, le président posera, à peine de nullité
 
 2° Y a-t-il lieu d'exclure l'accusé du bénéfice de la diminution de peine prévue à l'article 20-2 ?
 
-S'il est reproché à l'accusé une des infractions prévues aux 2° et 3° de l'article 20-2 commise une nouvelle fois en état de récidive légale, la deuxième question est ainsi rédigée :
-
-" 2° Y a-t-il lieu d'appliquer à l'accusé le bénéfice de la diminution de peine prévue à l'article 20-2 ? ".
-
-S'il est décidé que l'accusé mineur déclaré coupable ne doit pas faire l'objet d'une condamnation pénale, les mesures relatives à son placement ou à sa garde ou les sanctions éducatives sur lesquelles la cour et le jury sont appelés à statuer seront celles des articles 15-1,16 et du premier alinéa de l'article 19.
+S'il est décidé que l'accusé mineur déclaré coupable ne doit pas faire l'objet d'une condamnation pénale, les mesures relatives à son placement ou à sa garde ou les sanctions éducatives sur lesquelles la cour et le jury sont appelés à statuer seront celles des articles 15-1, 16 et du premier alinéa de l'article 19.
