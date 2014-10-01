@@ -1,0 +1,3 @@
+# Article 1
+
+Le montant des frais d'inscription annuels perçus par l'organisme mentionné à l'article L. 512-1 du code des assurances est fixé à 30 €. Ils sont perçus pour chaque inscription et chaque renouvellement d'inscription dans l'une des catégories mentionnées aux 1° à 4° du I de l'article R. 519-4 du code monétaire et financier au titre de laquelle un intermédiaire exerce. Ils sont également acquittés dans les mêmes conditions par les conseillers en investissements financiers mentionnés à l'article L. 541-1, par les agents liés mentionnés à l'article L. 545-1, par les conseillers en investissements participatifs mentionnés à l'article L. 547-1 et par les intermédiaires en financement participatif mentionnés à l'article L. 548-2 du code monétaire et financier.
