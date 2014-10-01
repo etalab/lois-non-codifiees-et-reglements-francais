@@ -23,3 +23,5 @@ III. - Si le pouvoir adjudicateur prévoit des primes au profit des candidats, i
 IV. - Pour les accords-cadres et pour les systèmes d'acquisition dynamiques, la valeur à prendre en compte est la valeur maximale estimée de l'ensemble des marchés envisagés pendant la durée totale de l'accord-cadre ou du système d'acquisition dynamique.
 
 V. - Pour les marchés à bons de commande comportant un maximum, la valeur à prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum, sa valeur estimée est réputée excéder les seuils de procédure formalisée.
+
+VI. - Pour les partenariats d'innovation, la valeur à prendre en compte est la valeur totale estimée des activités de recherche et de développement qui doivent être menées au cours des différentes phases du partenariat ainsi que la valeur totale estimée des fournitures, services ou travaux innovants qui en sont le résultat et dont l'acquisition est envisagée.
