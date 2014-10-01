@@ -1,6 +1,6 @@
 # Article 240-1
 
-Les écritures afférentes à l'activité de chaque avocat sont retracées dans un compte individuel ouvert à son nom.
+Les écritures afférentes à l'activité de chaque avocat sont retracées dans un compte individuel ouvert à son nom ou au nom de la structure d'exercice en cas d'exercice en commun.
 
 Chaque compte individuel est lui-même divisé en autant de sous-comptes qu'il y a d'affaires traitées par l'avocat.
 

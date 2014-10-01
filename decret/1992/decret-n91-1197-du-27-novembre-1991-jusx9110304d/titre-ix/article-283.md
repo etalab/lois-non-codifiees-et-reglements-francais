@@ -2,7 +2,7 @@
 
 Dans les îles Wallis et Futuna :
 
-1° Les articles 1er à 49, 51 à 60, 62 à 64, 66 à 71, 84 à 88, 90 à 93, 94 à 98-1, 100, le premier alinéa de l'article 101,  les articles 102 à 117, 120, 122 à 157, 162 à 179-7, 182 à 199, 205 à 242, 246 à 255, 257 à 262, 265 à 270, 272 à 274, 277, 281 et 282 sont applicables dans leur rédaction en vigueur le lendemain de la publication du décret n° 2013-444 du 27 mai 2013, sous les réserves ci-après :
+1° Les articles 1er à 49, 51 à 60, 62 à 64, 66 à 71, 84 à 88, 90 à 93, 94 à 98-1, 100, le premier alinéa de l'article 101, les articles 102 à 117, 120, 122 à 157, 162 à 179-7, 182 à 199, 205 à 242, 246 à 255, 257 à 262, 265 à 270, 272 à 274, 277, 281 et 282 sont applicables dans leur rédaction issue du décret n° 2014-796 du 11 juillet 2014, sous les réserves ci-après :
 
 Les dispositions du 5° de l'article 93 en tant qu'elles portent sur l'examen du contrôle de connaissances prévu au dernier alinéa de l'article 11 de la loi du 31 décembre 1971 susvisée et celles de l'article 100 ne sont applicables qu'en ce qu'elles concernent des ressortissants français ;
 

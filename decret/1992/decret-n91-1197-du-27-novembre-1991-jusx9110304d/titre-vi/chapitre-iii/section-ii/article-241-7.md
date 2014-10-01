@@ -1,7 +1,7 @@
 # Article 241-7
 
-La commission rend ses décisions après avoir entendu le président de la caisse et, le cas échéant, le ou les bâtonniers et toute personne dont l'audition lui paraît nécessaire.
+En cas de manquement aux règles et obligations prévues par le présent décret et par l'arrêté mentionné à l'article 241-1, la commission de contrôle peut désigner, pour une durée maximale d'un an renouvelable une fois, un avocat aux fins d'assister le président de la caisse.
 
-Le président de la caisse peut se faire assister par le conseil de son choix.
+L'avocat ainsi désigné, qui peut être soit un avocat en exercice, soit un avocat honoraire, ne peut être membre du ou des ordres auprès desquels est instituée la caisse.
 
-Les décisions de la commission sont motivées et exécutoires par provision. Elles sont notifiées au président de la caisse par lettre recommandée avec demande d'avis de réception. Elles peuvent faire l'objet d'un recours devant la cour d'appel de Paris dans un délai d'un mois à compter de leur notification. Le sursis à exécution peut être prononcé.
+Il peut donner au président de la caisse tous avis, conseils et mises en garde. Il tient régulièrement informé, et au moins tous les six mois, le procureur général près la cour d'appel dans le ressort de laquelle est établi le siège de la caisse ainsi que la commission de contrôle.

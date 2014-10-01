@@ -8,4 +8,4 @@ Le commissaire aux comptes peut se faire communiquer tous documents et renseigne
 
 Il établit chaque année un rapport.
 
-La commission prévue à l'article 241-3, le procureur général près la cour d'appel dans le ressort de laquelle est établi le siège de la caisse, le ou les bâtonniers de l'ordre des avocats auprès desquels est instituée la caisse en sont destinataires.
+La commission de contrôle prévue à l'article 241-3-2, le procureur général près la cour d'appel dans le ressort de laquelle est établi le siège de la caisse, le ou les bâtonniers de l'ordre des avocats auprès desquels est instituée la caisse et son président en sont destinataires.
