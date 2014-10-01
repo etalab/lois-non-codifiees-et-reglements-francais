@@ -6,3 +6,4 @@
 - [Chapitre IV : Désignation d'un correspondant par les personnes ou entités dont le siège statutaire n'est pas situé en France](chapitre-iv)
 - [Chapitre V : Désignation de l'AMF comme autorité compétente pour le contrôle de l'offre](chapitre-v)
 - [Chapitre VI : Sondages de marché lors des opérations financières](chapitre-vi)
+- [Chapitre VII : Offres réalisées au moyen d'un site internet ne faisant pas l'objet d'un prospectus visé par l'AMF](chapitre-vii)

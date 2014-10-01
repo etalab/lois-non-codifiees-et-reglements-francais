@@ -8,4 +8,5 @@
 - [Section 6 : Obligations relatives à la lutte
 contre le blanchiment des capitaux](section-6)
 - [Section 7 : Dispositions spécifiques à la gestion d'organismes de placement collectif immobilier, d'organismes professionnels de placement collectif immobilier, de sociétés civiles de placement immobilier et de mandats de gestion spécifiques portant sur des actifs immobiliers](section-7)
+- [Section 8 bis : Prise en charge et suivi des bulletins de souscription](section-8-bis)
 - [Section 9 : Encadrement de la négociation automatisée et à haute fréquence](section-9)

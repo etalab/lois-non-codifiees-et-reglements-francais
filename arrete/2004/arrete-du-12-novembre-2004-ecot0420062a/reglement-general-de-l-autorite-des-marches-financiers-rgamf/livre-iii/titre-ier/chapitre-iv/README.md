@@ -8,3 +8,4 @@
 - [Section 6 : Traitement et exécution des ordres](section-6)
 - [Section 7 : Rémunérations](section-7)
 - [Section 8 : Informations relatives à la fourniture de services](section-8)
+- [Section 9 : Obligations en cas d'offres de titres financiers proposées au moyen d'un site internet](section-9)
