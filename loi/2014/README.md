@@ -1,6 +1,7 @@
 # 2014
 
 - [LOI n°2013-1278 du 29 décembre 2013 (EFIX1323580L)](loi-n2013-1278-du-29-decembre-2013-efix1323580l)
+- [LOI n°2014-640 du 20 juin 2014 (JUSX1405215L)](loi-n2014-640-du-20-juin-2014-jusx1405215l)
 - [LOI n°2014-855 du 31 juillet 2014 (FCPX1410823L)](loi-n2014-855-du-31-juillet-2014-fcpx1410823l)
 - [LOI n°2014-856 du 31 juillet 2014 (ERNX1315311L)](loi-n2014-856-du-31-juillet-2014-ernx1315311l)
 - [LOI n°2014-872 du 4 août 2014 (DEVX1320370L)](loi-n2014-872-du-4-aout-2014-devx1320370l)
@@ -9,4 +10,5 @@
 - [LOI n°2014-878 du 4 août 2014 (ETLX1414816L)](loi-n2014-878-du-4-aout-2014-etlx1414816l)
 - [LOI n°2014-891 du 8 août 2014 (FCPX1412391L)](loi-n2014-891-du-8-aout-2014-fcpx1412391l)
 - [LOI n°2014-892 du 8 août 2014 (FCPX1412917L)](loi-n2014-892-du-8-aout-2014-fcpx1412917l)
+- [LOI n°2014-896 du 15 août 2014 (JUSX1322682L)](loi-n2014-896-du-15-aout-2014-jusx1322682l)
 - [Loi n°78-763 du 19 juillet 1978](loi-n78-763-du-19-juillet-1978)

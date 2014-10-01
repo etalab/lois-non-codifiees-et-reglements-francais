@@ -1,0 +1,7 @@
+# Article 6
+
+L'admissibilité comporte les épreuves orales obligatoires suivantes :
+
+1° Un entretien avec le jury portant sur les capacités professionnelles du candidat et sa motivation. Le jury dispose du curriculum vitae remis par le candidat au moment de son inscription. Au cours de l'entretien, le candidat est interrogé par le jury sur les aspects juridiques et techniques des procédures propres aux interventions sur le patrimoine et les espaces protégés ainsi que sur des questions de culture générale, d'histoire de la restauration et de l'architecture (durée : quarante minutes ; coefficient 5) ;
+
+2° Une analyse raisonnée d'un monument historique ou d'un ensemble urbain protégé à partir d'un dossier élaboré par le jury. Après une présentation du dossier, le candidat est interrogé sur les aspects techniques, économiques, scientifiques et architecturaux liés au sujet traité. Il peut, par ailleurs, être questionné sur les pratiques de conservation et de restauration du patrimoine monumental (théories et doctrines), la nature et la mise en œuvre des matériaux, les études et les travaux nécessités par la conservation, la mise en valeur et la réutilisation des édifices, les arts intégrés à l'architecture, aux jardins et aux ensembles urbains et paysagers. Aucune assistance, notamment documentaire, informatique ou numérique, n'est autorisée durant cette épreuve (durée : une heure quinze minutes, précédée de trente minutes de préparation ; coefficient 5).
