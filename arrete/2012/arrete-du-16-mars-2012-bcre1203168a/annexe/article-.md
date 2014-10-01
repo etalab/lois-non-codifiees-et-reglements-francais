@@ -2,97 +2,113 @@
 
 Siège des directions spécialisées de contrôle fiscal
 
-<div align="left">
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DIRECTION SPÉCIALISÉE DE CONTRÔLE FISCAL</p>
+<th>DIRECTION SPÉCIALISÉE <br/>de contrôle fiscal <br/>
+</th>
+<th>RESSORT TERRITORIAL <br/>
+</th>
+<th>SIÈGE <br/>
+</th>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Direction spécialisée de contrôle fiscal Nord. <br/>
 </td>
-<td>
-<p align="center">SIÈGE</p>
+<td align="left" valign="top">
+<br/>Haute-Normandie, Nord-Pas-de-Calais, Picardie. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Lille (Nord). <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Nord</p>
+<td align="left" valign="top">
+<br/>Direction spécialisée de contrôle fiscal Est. <br/>
 </td>
-<td>
-<p align="left">Lille (Nord)</p>
+<td align="left" valign="top">
+<br/>Alsace, Champagne-Ardenne, Franche-Comté. Lorraine <br/>
 </td>
-</tr>
-<tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Est</p>
-</td>
-<td>
-<p align="left">Nancy (Meurthe-et-Moselle)</p>
+<td align="left" valign="top">
+<br/>Nancy (Meurthe-et-Moselle). <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Île-de-France Est</p>
+<td valign="middle">
+<br/>Direction spécialisée de contrôle fiscal Ile-de-France. <br/>
+</td>
+<td valign="middle">
+<br/>Ile-de-France <br/>
 </td>
 <td>
-<p align="left">Saint-Denis (Seine-Saint-Denis)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Île-de-France Ouest</p>
-</td>
-<td>
-<p align="left">Saint-Denis (Seine-Saint-Denis)</p>
+<br/>Saint-Denis (Seine-Saint-Denis). <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Centre</p>
+<td valign="middle">
+<br/>Direction spécialisée de contrôle fiscal Centre. <br/>
+</td>
+<td valign="middle">
+<br/>Auvergne, Centre. <br/>
 </td>
 <td>
-<p align="left">Orléans (Loiret)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Rhône-Alpes - Bourgogne</p>
-</td>
-<td>
-<p align="left">Lyon (Rhône)</p>
+<br/>Orléans (Loiret). <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Sud-est</p>
+<td align="left" valign="top">
+<br/>Direction spécialisée de contrôle fiscal Rhône-Alpes-Bourgogne. <br/>
 </td>
-<td>
-<p align="left">Marseille (Bouches-du-Rhône)</p>
+<td align="left" valign="top">
+<br/>Bourgogne, Rhône-Alpes. <br/>
 </td>
-</tr>
-<tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Sud-Pyrénées</p>
-</td>
-<td>
-<p align="left">Toulouse (Haute-Garonne)</p>
+<td align="left" valign="top">
+<br/>Lyon (Rhône). <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Sud-ouest</p>
+<td align="left" valign="top">
+<br/>Direction spécialisée de contrôle fiscal Sud-Est. <br/>
 </td>
-<td>
-<p align="left">Bordeaux (Gironde)</p>
+<td align="left" valign="top">
+<br/>Corse, Provence-Alpes-Côte d'Azur. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Marseille (Bouches-du-Rhône). <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Direction spécialisée de contrôle fiscal Ouest</p>
+<td align="left" valign="top">
+<br/>Direction spécialisée de contrôle fiscal Sud-Pyrénées. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Languedoc-Roussillon, Midi-Pyrénées. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Toulouse (Haute-Garonne). <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Direction spécialisée de contrôle fiscal Sud-Ouest. <br/>
+</td>
+<td valign="middle">
+<br/>Aquitaine, Limousin, Poitou-Charentes. <br/>
 </td>
 <td>
-<p align="left">Rennes (Ille-et-Vilaine)</p>
+<br/>Bordeaux (Gironde). <br/>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Direction spécialisée de contrôle fiscal Ouest. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Basse-Normandie, Bretagne, Pays de la Loire. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Rennes (Ille-et-Vilaine).</td>
 </tr>
 </tbody>
 </table>
-</div>
