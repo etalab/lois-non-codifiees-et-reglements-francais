@@ -4,4 +4,6 @@ Chaque électrificateur de clôture doit être accompagné d'une notice d'instru
 
 Cette notice doit comprendre les plans et schémas nécessaires à la mise en service, à l'entretien et à la vérification du bon fonctionnement de l'électrificateur de clôture.
 
+La notice indique le nom et l'adresse du fabricant ou de l'importateur de l'électrificateur de clôture, la marque de fabrique et de commerce, la série ou le type ainsi que la référence de l'attestation d'examen de type mentionnée à l'article 14.
+
 Ces documents doivent être rédigés en français.

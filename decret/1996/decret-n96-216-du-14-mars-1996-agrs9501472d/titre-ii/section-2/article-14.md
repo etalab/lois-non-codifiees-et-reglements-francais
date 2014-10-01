@@ -1,6 +1,6 @@
 # Article 14
 
-Lorsque l'organisme habilité décide que le modèle d'électrificateur de clôture examiné est conforme aux règles techniques le concernant, il établit une attestation d'examen de type.
+Lorsque l'organisme habilité décide que le modèle d'électrificateur de clôture examiné est conforme aux règles techniques le concernant, il établit une attestation d'examen de type, dont la durée de validité est de dix ans.
 
 L'attestation reproduit les conclusions de l'examen, indique les conditions dont elle est éventuellement assortie et comprend les descriptions et dessins nécessaires pour identifier le modèle faisant l'objet de l'attestation.
 
