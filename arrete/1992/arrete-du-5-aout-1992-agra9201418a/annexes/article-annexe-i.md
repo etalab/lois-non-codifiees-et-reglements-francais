@@ -109,6 +109,7 @@ en fonction de l'importance des lots en vue de la certification phytosanitaire
 </td>
 <td width="170">
 <br/>
+<br/>
 <p>Pour 100 kg supplémentaires : 2 N.</p>
 <p>Par 100 kg supplémentaires : 0,2 N.</p>
 </td>
@@ -134,17 +135,24 @@ en fonction de l'importance des lots en vue de la certification phytosanitaire
 </tr>
 <tr>
 <td width="291">
-<p>8. Bois et écorce.</p>
+<p>8 bis. Bois non écorcé</p>
 </td>
 <td width="154">
-<p align="center">10 m3 (ou tonnes) ou moins : 1 N</p>
+<p align="center">10 mètres cubes (ou tonnes) ou moins : 6,5 N </p>
 </td>
 <td width="170">
-<p>Par 10 m3 ou tonnes supplémentaires : 0,2 N.</p>
+<p>Par 10 mètres cubes ou tonnes supplémentaires : 1,3 N </p>
 </td>
 <td width="76">
-<p align="center">20 N</p>
+<p align="center">130 N </p>
 </td>
+</tr>
+<tr>
+<td>8 ter. Bois autre que le bois non écorcé<br/>
+</td>
+<td align="center"> 10 mètres cubes (ou tonnes) ou moins : 1,4 N</td>
+<td>Par 10 mètres cubes ou tonnes supplémentaires : 0,2 N </td>
+<td align="center">130 N </td>
 </tr>
 <tr>
 <td width="291">
