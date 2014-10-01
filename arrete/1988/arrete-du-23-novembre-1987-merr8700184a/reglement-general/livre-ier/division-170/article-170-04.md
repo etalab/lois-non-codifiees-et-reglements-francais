@@ -8,6 +8,8 @@ Obligation d'enregistrement nominatif
 
 - les prénoms ou leurs initiales,
 
+- la nationalité,
+
 - le sexe,
 
 - une indication de la catégorie d'âge (adulte, enfant ou nourrisson) à laquelle la personne appartient, ou bien l'âge ou encore l'année de naissance,
