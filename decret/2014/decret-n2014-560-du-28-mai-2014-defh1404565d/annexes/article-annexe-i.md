@@ -25,15 +25,12 @@
 <br/>Concours réservé<br/>
 </td>
 <td align="center" rowspan="4">
-<p>
-<br/>
-<br/>
-<br/>Agents contractuels du ministère de la défense<br/>
+<p>Agents contractuels du ministère de la défense<br/>
 </p>
 <br/>
-<p>Agents contractuels des établissements publics relevant du ministère de la défense (à l'exception des agents recrutés sur des emplois des établissements inscrits dans l'annexe du décret n° 84-38 du 18 janvier 1984 susvisé)<br/>
 <br/>
-</p>
+<p>Agents contractuels des établissements publics relevant du ministère de la défense (à l'exception des agents recrutés sur des emplois des établissements inscrits dans l'annexe du décret n° 84-38 du 18 janvier 1984 susvisé)</p>
+<br/>
 <br/>
 </td>
 </tr>
@@ -43,12 +40,12 @@
 </p>
 </td>
 <td align="center" rowspan="2">
-<br/>Examen professionnalisé réservé<br/>
+<br/>Concours réservé<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Technicien supérieur d'études et de fabrications de 2e classe<br/>Technicien supérieur d'études et de fabrications de 3e classe<br/>Infirmier civil de soins généraux de classe normale<br/>Technicien paramédical civil de classe normale<br/>Adjoint administratif de 1re classe<br/>Agent technique de 1re classe<br/>Agent technique principal de 2e classe<br/>Aide-soignant de classe normale<br/>
+<p align="left">Technicien supérieur d'études et de fabrications de 2e classe<br/>Technicien supérieur d'études et de fabrications de 3e classe<br/>Premier grade du corps des infirmiers civils en soins généraux et spécialisés du ministère de la défense<br/>Technicien paramédical civil de classe normale<br/>Adjoint administratif de 1re classe<br/>Agent technique de 1re classe<br/>Agent technique principal de 2e classe<br/>Aide-soignant de classe normale<br/>
 </p>
 </td>
 </tr>
