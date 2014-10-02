@@ -6,4 +6,8 @@ La liste des langages prévue à l'article 9 de l'arrêté du 10 juin 1982 susvi
 
 - C;
 
-- Assembleur.
+- Assembleur ;
+
+- PHP ;
+
+- Visual Basic.
