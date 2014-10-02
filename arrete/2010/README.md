@@ -2153,7 +2153,6 @@
 - [Arrêté du 23 septembre 2010 (ECEI1023634A)](arrete-du-23-septembre-2010-ecei1023634a)
 - [Arrêté du 23 septembre 2010 (SASH1016085A)](arrete-du-23-septembre-2010-sash1016085a)
 - [Arrêté du 23 septembre 2010 (SASH1018532A)](arrete-du-23-septembre-2010-sash1018532a)
-- [Arrêté du 23 septembre 2010 (SASP1024629A)](arrete-du-23-septembre-2010-sasp1024629a)
 - [Arrêté du 24 août 2010 (AGRG1013887A)](arrete-du-24-aout-2010-agrg1013887a)
 - [Arrêté du 24 août 2010 (BCRP1017755A)](arrete-du-24-aout-2010-bcrp1017755a)
 - [Arrêté du 24 août 2010 (DEFD1022278A)](arrete-du-24-aout-2010-defd1022278a)
