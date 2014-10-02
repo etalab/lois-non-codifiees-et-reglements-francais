@@ -1,9 +1,9 @@
 # Article 2
 
-Pour l'accomplissement des missions définies à l'article 3, ce service est constitué de trois unités se répartissant comme suit :
+Pour l'accomplissement des missions définies à l'article 3, ce service est constitué des unités éducatives suivantes :
 
-― unité éducative de milieu ouvert de Montauban, sise 4, rue du Fort, 82000 Montauban ;
+-unité éducative de milieu ouvert, dénommée  "    UEMO Montauban ", sise immeuble Le Goéland, ZA Albasud, impasse de Varsovie, 82000 Montauban ;
 
-― unité éducative de milieu ouvert d'Auch, sise 7, rue Gambetta, 32000 Auch ;
+-unité éducative de milieu ouvert, dénommée " UEMO Cahors ", sise 297, rue Saint-Géry, 46000 Cahors ;
 
-― unité éducative de milieu ouvert de Cahors, sise 297, rue Saint-Géry, 46000 Cahors.
+-unité éducative de milieu ouvert, dénommée " UEMO Auch ", sise 7, rue Gambetta, 32000 Auch.
