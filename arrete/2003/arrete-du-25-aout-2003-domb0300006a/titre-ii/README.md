@@ -1,3 +1,0 @@
-# TITRE II : CONDITIONS RELATIVES AUX LOGEMENTS.
-
-- [Article 5](article-5.md)

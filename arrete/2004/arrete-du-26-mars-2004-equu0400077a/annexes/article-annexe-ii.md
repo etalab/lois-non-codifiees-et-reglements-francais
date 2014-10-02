@@ -7,40 +7,51 @@ Plafonds de prix de vente fixés en application de l'article R. 331-76-5-4 du co
 <table>
 <tbody>
 <tr>
-<td align="center"> ZONE GÉOGRAPHIQUE</td>
-<td align="center" colspan="3"> PRIX MAXIMUM</td>
+<th>
+<br/>ZONE GÉOGRAPHIQUE <br/>
+</th>
+<th>
+<br/>PRIX MAXIMUM <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>A<br/>
+<br/>A bis <br/>
 </td>
 <td align="center">
-<br/>3 963<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>B1<br/>
-</td>
-<td align="center">
-<br/>2 658<br/>
+<br/>4 579 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>B2<br/>
+<br/>A <br/>
 </td>
 <td align="center">
-<br/>2 320<br/>
+<br/>3 471 € <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>C<br/>
+<br/>B1 <br/>
 </td>
 <td align="center">
-<br/>2 030<br/>
+<br/>2 780 € <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>B2 <br/>
+</td>
+<td align="center">
+<br/>2 426 € <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>2 123 € </td>
 </tr>
 </tbody>
 </table>

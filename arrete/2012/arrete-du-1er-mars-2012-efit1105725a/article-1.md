@@ -22,7 +22,7 @@ d) La dénomination sociale et, le cas échéant, le sigle, l'enseigne et le nom
 
 4° La justification de la catégorie dans laquelle la personne demande son inscription :
 
-a) Pour les personnes mentionnées au 1° du I de l'article R. 519-4, un extrait d'immatriculation au registre du commerce et des sociétés datant de moins de trois mois et mentionnant l'activité de courtier en opérations de banque et en services de paiement, établi au nom de l'intéressé si l'activité d'intermédiation est exercée en nom propre et au nom de la société concernée dans le cas contraire ;
+a) Pour les personnes mentionnées au 1° du I de l'article R. 519-4, aux articles L. 547-1 et L. 548-2, un extrait d'immatriculation au registre du commerce et des sociétés datant de moins de trois mois mentionnant l'activité de courtier en opérations de banque et en services de paiement, de conseiller en investissements participatifs ou d'intermédiaire en financement participatif, établi au nom de l'intéressé si l'activité d'intermédiation est exercée en nom propre et au nom de la société concernée dans le cas contraire ;
 
 b) Pour les personnes mentionnées à l'article L. 541-1, l'attestation d'adhésion à une association agréée par l'autorité des marchés financiers ;
 
@@ -30,12 +30,16 @@ c) Pour les personnes mentionnées aux 2°, 3° et 4° du I de l'article R. 519-
 
 d) Pour les personnes mentionnées à l'article L. 545-1, un document attestant de l'existence d'un mandat exclusif ;
 
+e) Pour les personnes mentionnées aux articles L. 547-1 ou L. 548-2, l'adresse de leur site internet ;
+
 5° Le cas échéant, l'indication que l'activité concernée est exercée à titre principal ou à titre accessoire et la nature de l'activité principale ;
 
 6° L'attestation d'assurance de responsabilité civile professionnelle prévue à l'article R. 519-16 et L. 541-3 ou, pour les intermédiaires mentionnés aux 2°, 3° et 4° du I de l'article R. 519-4, tout document attestant que l'entière responsabilité des actes de l'intermédiaire est assumée par le ou les mandants dans les conditions prévues à l'article L. 519-3-4 ou, pour les personnes mentionnées à l'article L. 545-1, tout document attestant que l'entière responsabilité des actes de l'agent lié est assumée par le mandant dans les conditions prévues à l'article L. 545-2 ;
 
 7° Pour les personnes mentionnées au I de l'article R. 519-4, l'attestation de garantie financière prévue à l'article R. 519-17 ou, le cas échéant, une déclaration de l'intermédiaire par laquelle celui-ci atteste sur l'honneur ne pas encaisser de fonds ;
 
-8° Le ou les documents permettant d'attester du respect des conditions de capacité professionnelle telles que définies à l'article R. 519.14 ou au règlement général de l'autorité des marchés financiers pour les personnes mentionnées à l'article L. 541-1 ;
+8° Le ou les documents permettant d'attester du respect des conditions de capacité professionnelle telles que définies aux articles R. 519-14 ou R. 548-3 ou au règlement général de l'autorité des marchés financiers pour les personnes mentionnées à l'article L. 541-1 ;
+
+8° bis Pour les personnes mentionnées à l'article L. 547-1, l'attestation d'adhésion à une association agréée par l'Autorité des marchés financiers ou en l'absence d'association agréée, un document de cette autorité attestant qu'elles remplissent les conditions de capacité professionnelle mentionnées au II de l'article L. 547-3 ;
 
 9° Le règlement des frais d'inscription.
