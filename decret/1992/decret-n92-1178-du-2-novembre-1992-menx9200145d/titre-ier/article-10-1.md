@@ -20,4 +20,4 @@ Au vu de l'avis motivé émis par le comité de sélection et, le cas échéant,
 
 Lorsque, pour l'application de l'alinéa précédent, la formation restreinte appelée à siéger comporte moins de dix membres, elle est complétée, pour la tenue de la seule séance concernée par le classement, par des enseignants-chercheurs ou assimilés ou des personnalités scientifiques ou universitaires étrangères de rang au moins égal à l'emploi postulé, désignés par les membres élus du conseil d'administration habilités à siéger, dans la limite du double du nombre de ces derniers.
 
-Le directeur général du Muséum national d'histoire naturelle communique au ministre chargé de l'enseignement supérieur le nom du candidat sélectionné ou, le cas échéant, une liste de candidats classés par ordre de préférence. En aucun cas, il ne peut modifier l'ordre de la liste de classement.
+Le président du Muséum national d'histoire naturelle communique au ministre chargé de l'enseignement supérieur le nom du candidat sélectionné ou, le cas échéant, une liste de candidats classés par ordre de préférence. En aucun cas, il ne peut modifier l'ordre de la liste de classement.

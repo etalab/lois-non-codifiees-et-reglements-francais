@@ -1,19 +1,21 @@
 # Article 13
 
-Le conseil scientifique comprend :
+I.-Le conseil scientifique comprend trente membres :
 
-1° Douze personnalités qualifiées, n'appartenant pas au Muséum, nommées conjointement par les ministres chargés de la tutelle :
+1° Quinze personnalités qualifiées, n'appartenant pas au Muséum, nommées conjointement par les ministres chargés de la tutelle :
 
-a) Six, dont deux appartenant à une institution étrangère, sur proposition du ministre chargé de l'enseignement supérieur ;
+a) Cinq, dont deux appartenant à une institution étrangère, sur proposition du ministre chargé de l'enseignement supérieur ;
 
-b) Trois, dont une appartenant à une institution étrangère, sur proposition du ministre chargé de l'environnement ;
+b) Cinq, dont deux appartenant à une institution étrangère, sur proposition du ministre chargé de l'environnement ;
 
-c) Trois, dont une appartenant à une institution étrangère, sur proposition du ministre chargé de la recherche ;
+c) Quatre, dont une appartenant à une institution étrangère, sur proposition du ministre chargé de la recherche ;
 
-2° Douze membres élus par les collèges définis à l'article 20. Pour chaque titulaire, un suppléant est élu dans les mêmes conditions.
+d) Une sur proposition du ministre chargé de la culture ;
 
-Le président du conseil scientifique est élu parmi les membres nommés au titre du 1°. Le conseil scientifique élit également en son sein un vice-président chargé, en cas d'absence ou d'empêchement temporaire du président, de diriger les débats.
+2° Quinze membres élus répartis conformément au deuxième alinéa de l'article 23. Pour chaque titulaire, un suppléant est élu dans les mêmes conditions.
 
-Les fonctions de membre du conseil scientifique sont incompatibles avec celles de membre du conseil d'administration et avec l'exercice de fonctions de direction au sein de l'établissement.
+II.-Le conseil scientifique élit un président parmi les membres mentionnés au 1° du I et un vice-président parmi les membres mentionnés à son 2°. Le vice-président est chargé, en cas d'absence ou d'empêchement temporaire du président, de diriger les débats.
 
-Le président du Muséum, le directeur général, le directeur des collections, le directeur des bibliothèques et de la documentation ainsi que toute personne dont le président du conseil scientifique juge la présence utile assistent aux séances de celui-ci avec voix consultative.
+Les fonctions de membre du conseil scientifique sont incompatibles avec celles de membre du conseil d'administration et avec l'exercice de fonctions de directeur au sein de l'établissement.
+
+En cas de partage égal des voix, le président a voix prépondérante.

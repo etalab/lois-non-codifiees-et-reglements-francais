@@ -2,7 +2,7 @@
 
 Le nombre maximum de maîtres de conférences du Muséum national d'histoire naturelle de classe normale pouvant être promus chaque année au grade de maître de conférences hors-classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
-L'avancement de la classe normale à la hors-classe des maîtres de conférences du Muséum national d'histoire naturelle a lieu au choix. Il est prononcé par décision du directeur général, sur proposition du conseil d'administration complété par le conseil scientifique siégeant l'un et l'autre en formation restreinte aux enseignants-chercheurs du Muséum national d'histoire naturelle, aux enseignants-chercheurs et personnels assimilés.
+L'avancement de la classe normale à la hors-classe des maîtres de conférences du Muséum national d'histoire naturelle a lieu au choix. Il est prononcé par décision du président du Muséum national d'histoire naturelle, sur proposition du conseil d'administration complété par le conseil scientifique siégeant l'un et l'autre en formation restreinte aux enseignants-chercheurs du Muséum national d'histoire naturelle, aux enseignants-chercheurs et personnels assimilés.
 
 Peuvent seuls être promus à la hors-classe les maîtres de conférences du Muséum national d'histoire naturelle parvenus au 7e échelon de la classe normale et ayant accompli au moins cinq ans de services en position d'activité ou de détachement dans ce corps.
 

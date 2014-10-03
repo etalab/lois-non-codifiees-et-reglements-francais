@@ -6,4 +6,4 @@ Les formations de la section disciplinaire appelées à connaître des poursuite
 
 2° Deux membres mentionnés au 2° de cet article ;
 
-3° Deux représentants du corps ou de la catégorie auxquels appartient la personne déférée, élus dans les conditions définies à l'article 12 du décret du 13 juillet 1992.
+3° Deux représentants du corps ou de la catégorie auxquels appartient la personne déférée, élus dans les conditions définies à l'article R. 712-20 du code de l'éducation.

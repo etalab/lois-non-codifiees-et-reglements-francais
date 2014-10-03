@@ -1,19 +1,29 @@
 # Article 14
 
-Le conseil scientifique se prononce sur les questions mentionnées à l'article L. 712-5 du code de l'éducation. Il fait des propositions dans le domaine de la recherche et de la diffusion des connaissances.
+Le conseil scientifique se prononce et fait des propositions sur toute question scientifique relevant de la mission du Muséum définie à l'article 3.
 
 Il est notamment consulté sur :
 
-1° Les grandes orientations de la politique scientifique, documentaire et patrimoniale du Muséum ;
+1° Les grandes orientations de la politique scientifique et culturelle du Muséum ;
 
-2° La création, la suppression des départements, des unités de recherche et des services communs à caractère scientifique et la création et la réforme des collections ;
+2° Le projet stratégique et le contrat d'établissement ;
 
-3° Les orientations générales de l'action éducative et culturelle de l'établissement et de l'information scientifique et technique ;
+3° La création, la suppression des directions générales déléguées et des structures opérationnelles ;
 
-4° Les modalités et les critères d'évaluation de l'établissement, de son activité et de ses agents.
+4° Les programmes et contrats de recherche proposés par les diverses composantes de l'établissement ;
 
-En outre, il émet un avis sur toutes les questions qui lui sont soumises par le président du Muséum ou par le directeur général.
+5° La répartition des crédits de recherche ;
+
+6° Les demandes d'habilitation à délivrer des diplômes nationaux et les projets de création ou de modification des diplômes d'établissement ;
+
+7° Les programmes de formation initiale et continue ;
+
+8° Le profil à donner aux emplois d'enseignant-chercheur et de chercheur vacants ou demandés ;
+
+9° La création et la réforme des collections ;
+
+10° Les modalités et les critères d'évaluation de l'établissement, de son activité et de ses agents.
+
+En outre, il émet un avis sur toutes les questions qui lui sont soumises par le président du Muséum ou par les ministres de tutelle.
 
 Il adopte son règlement intérieur.
-
-Le conseil scientifique se réunit au moins trois fois par an sur convocation de son président qui en fixe l'ordre du jour.
