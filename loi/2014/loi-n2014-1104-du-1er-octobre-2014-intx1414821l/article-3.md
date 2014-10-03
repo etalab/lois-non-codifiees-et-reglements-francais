@@ -1,0 +1,3 @@
+# Article 3
+
+Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport sur l'application de celle-ci. Ce rapport présente des éléments chiffrés, notamment la quantité d'informations transmises au gestionnaire du registre durant l'exécution du service en application de l'article L. 3121-11-1 du code des transports. En outre, il étudie l'évolution de l'offre de taxis dans les métropoles et propose, le cas échéant, des pistes de réforme de la procédure de délivrance des autorisations de stationnement afin de tenir compte de la demande et de répondre aux besoins de mobilité de la population.
