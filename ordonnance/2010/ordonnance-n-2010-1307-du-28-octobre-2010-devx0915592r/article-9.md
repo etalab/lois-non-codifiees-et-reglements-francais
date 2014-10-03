@@ -168,11 +168,7 @@ b) Les articles 2-1 et 3 ;
 
 25° Les neuvième à onzième, treizième et quatorzième alinéas de l'article 13 du décret n° 69-515 du 19 mai 1969 relatif au régime du pilotage dans les eaux maritimes ;
 
-26° Dans la loi n° 77-6 du 3 janvier 1977 relative à l'exploitation des voitures dites de "petite remise" :
-
-a) A l'article 2, les mots : "par le préfet" et "du maire ou" ;
-
-b) A l'article 4, les mots : "Le préfet" et "Il" ;
+26° (abrogé)
 
 27° Dans la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs :
 
