@@ -4,8 +4,6 @@ Le jury régional se réunit trois fois par an et se prononce au vu de l'ensembl
 
 Le dossier comporte :
 
-1° La validation de l'ensemble des unités d'enseignement, dont les unités d'intégration ;
+1° La validation de l'ensemble des unités d'enseignement ;
 
-2° La validation de l'acquisition de l'ensemble des compétences en situation ;
-
-3° La validation des actes, activités ou techniques réalisées en situation réelle ou simulée.
+2° La validation de l'acquisition de l'ensemble des compétences en situation.
