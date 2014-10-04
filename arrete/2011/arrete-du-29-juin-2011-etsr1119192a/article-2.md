@@ -10,4 +10,4 @@ a) Représentants de l'administration :
 
 b) Représentants du personnel : trois membres titulaires et trois membres suppléants.
 
-Les représentants du personnel sont désignés suite à un scrutin sur sigle.
+Les représentants du personnel sont désignés suite à un scrutin sur liste.
