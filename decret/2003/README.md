@@ -581,7 +581,6 @@
 - [Décret n°2003-1035 du 29 octobre 2003 (SOCS0322961D)](decret-n2003-1035-du-29-octobre-2003-socs0322961d)
 - [Décret n°2003-1037 du 29 octobre 2003 (SANS0224019D)](decret-n2003-1037-du-29-octobre-2003-sans0224019d)
 - [Décret n°2003-1046 du 29 octobre 2003 (INTC0300270D)](decret-n2003-1046-du-29-octobre-2003-intc0300270d)
-- [Décret n°2003-402 du 29 avril 2003 (INTC0300055D)](decret-n2003-402-du-29-avril-2003-intc0300055d)
 - [Décret n°2003-403 du 29 avril 2003 (BUDF0200014D)](decret-n2003-403-du-29-avril-2003-budf0200014d)
 - [Décret n°2003-404 du 29 avril 2003 (MENF0300473D)](decret-n2003-404-du-29-avril-2003-menf0300473d)
 - [Décret n°2003-413 du 29 avril 2003 (DEFD0301328D)](decret-n2003-413-du-29-avril-2003-defd0301328d)
