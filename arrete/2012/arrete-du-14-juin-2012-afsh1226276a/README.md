@@ -5,3 +5,4 @@
 - [Article 2](article-2.md)
 - [TITRE II : DISPENSES DE SCOLARITÉ](titre-ii)
 - [Article Annexe](article-annexe.md)
+- [Article Annexe VII](article-annexe-vii.md)

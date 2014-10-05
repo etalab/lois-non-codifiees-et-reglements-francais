@@ -5,3 +5,4 @@
 - [TITRE II : DISPENSES DE SCOLARITE](titre-ii)
 - [TITRE III : FORMATION ET CERTIFICATION](titre-iii)
 - [Article Annexe](article-annexe.md)
+- [Article Annexe VII](article-annexe-vii.md)

@@ -10,3 +10,4 @@
 - [Article 38](article-38.md)
 - [Article 40](article-40.md)
 - [Article Annexe VI](article-annexe-vi.md)
+- [Article Annexe VII](article-annexe-vii.md)
