@@ -12,13 +12,13 @@ Forme
 
 Les présents statuts régissent la société France Télévisions créée en application du I de l'article 44 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication.
 
-La société France Télévisions (la  société ) est une société anonyme soumise à la législation sur les sociétés anonymes sous réserve des lois spécifiques la régissant, notamment la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication et la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, et aux présents statuts qui sont approuvés par décret conformément à l'article 47 de la loi n° 86-1067 du 30 septembre 1986 modifiée.
+La société France Télévisions (la société) est une société anonyme soumise à la législation sur les sociétés anonymes sous réserve des lois spécifiques la régissant, notamment la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication et la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, et aux présents statuts qui sont approuvés par décret conformément à l'article 47 de la loi n° 86-1067 du 30 septembre 1986 modifiée.
 
 Article 2
 
 Dénomination sociale
 
-La dénomination sociale est  France Télévisions .
+La dénomination sociale est France Télévisions.
 
 Article 3
 
@@ -28,7 +28,7 @@ Objet
 
 a) De concevoir et de programmer des émissions de télévision à caractère national, régional, local ainsi que des émissions de radio ultramarines ;
 
-b) D'éditer, de diffuser et de faire distribuer plusieurs services de communication audiovisuelle, y compris des services de médias audiovisuels à la demande, répondant à des missions de service public définies à l'article 43-11 de la loi du 30 septembre 1986 précitée et dans son cahier des charges ;
+b) D'éditer, de diffuser et de faire distribuer plusieurs services de communication audiovisuelle, y compris des services de médias audiovisuels à la demande, répondant à des missions de service public définies à l'article 43-11 de la loi n° 86-1067 du 30 septembre 1986 modifiée et dans son cahier des charges ;
 
 c) De distribuer et développer une offre de services de communication au public en ligne ;
 
@@ -36,7 +36,7 @@ d) D'assurer un service international d'images ;
 
 e) De conduire toutes actions de développement susceptibles d'enrichir ou de compléter son offre de programmes ou de services ;
 
-f) De réaliser toutes prestations se rapportant à la conception, la création, la fabrication, la réalisation, la production, l'édition, la promotion, la commercialisation et la distribution de contenus (informations, programmes et/ou séquences audiovisuelles), ainsi que d'effectuer toutes opérations relatives à la coordination de ses contenus ;
+f) De réaliser toutes prestations se rapportant à la conception, la création, la fabrication, la réalisation, la production, l'édition, la promotion, la commercialisation et la distribution de contenus (informations, programmes et/ ou séquences audiovisuelles), ainsi que d'effectuer toutes opérations relatives à la coordination de ses contenus ;
 
 g) Dans le respect de la réglementation en vigueur, de produire, coproduire, participer au financement ou acquérir des programmes en vue de leur diffusion sur ses services ;
 
@@ -54,7 +54,7 @@ Article 4
 
 Siège social
 
-Le siège social de la société est fixé à Paris (15e ), 7, esplanade Henri-de-France.
+Le siège social de la société est fixé à Paris (15e), 7, esplanade Henri-de-France.
 
 Le conseil d'administration, ou le cas échéant l'Assemblée générale, est habilité à transférer le siège social de la société, dans les conditions fixées par la loi.
 
@@ -90,17 +90,19 @@ Conseil d'administration
 
 1. Composition du conseil d'administration.
 
-Conformément à l'article 47-1 de la loi n° 86-1067 du 30 septembre 1986 modifiée, la société est administrée par un conseil d'administration de quinze membres ( les administrateurs ) composé comme suit :
+Conformément à l'article 47-1 de la loi n° 86-1067 du 30 septembre 1986 modifiée, la société est administrée par un conseil d'administration de quinze membres (les administrateurs) composé comme suit :
 
-a) Le président de la société ( le président ) ;
+a) Le président de la société (le président) ;
 
-b) Deux parlementaires désignés respectivement par les commissions chargées des affaires culturelles de l'Assemblée nationale et du Sénat (les  administrateurs parlementaires ) ;
+b) Deux parlementaires désignés respectivement par les commissions chargées des affaires culturelles de l'Assemblée nationale et du Sénat (les administrateurs parlementaires) ;
 
 c) Cinq représentants de l'Etat ;
 
-d) Cinq personnalités indépendantes nommées par le Conseil supérieur de l'audiovisuel à raison de leur compétence ;
+d) Cinq personnalités indépendantes nommées par le Conseil supérieur de l'audiovisuel à raison de leur compétence, dont une représente les associations de défense des consommateurs agréées au niveau national, conformément à l'article L. 411-1 du code de la consommation ;
 
-e) Deux représentants du personnel élus conformément au titre II de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public (les  administrateurs salariés ).
+e) Deux représentants du personnel élus conformément au titre II de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public (les administrateurs salariés).
+
+Pour les nominations effectuées en application des c et d, l'écart entre le nombre de membres de chaque sexe n'est pas supérieur à un.
 
 2. Durée des fonctions des administrateurs.
 
@@ -154,15 +156,15 @@ Tout administrateur qui perd la qualité à raison de laquelle il a été nommé
 
 Dans ce cas, de même qu'à la suite du décès, de la révocation ou de la démission d'un administrateur, un nouvel administrateur est nommé par l'autorité compétente pour une durée de cinq ans ou, si le siège à pourvoir est celui d'un administrateur salarié, dans les conditions prévues au septième alinéa de l'article 16 de la loi du 26 juillet 1983.
 
-Conformément aux dispositions de l'article 47-5 de la loi du 30 septembre 1986 modifiée, en cas de vacance, pour quelque cause que ce soit, d'un ou plusieurs sièges de membre du conseil d'administration, le conseil d'administration délibère valablement jusqu'à la désignation du ou des nouveaux membres, sous réserve du respect des règles du quorum.
+Conformément aux dispositions de l'article 47-5 de la loi n° 86-1067 du 30 septembre 1986 modifiée, en cas de vacance, pour quelque cause que ce soit, d'un ou plusieurs sièges de membre du conseil d'administration, le conseil d'administration délibère valablement jusqu'à la désignation du ou des nouveaux membres, sous réserve du respect des règles du quorum.
 
 Article 10
 
 Président du conseil d'administration
 
-Le président du conseil d'administration de la société est nommé conformément aux modalités définies par la loi organique n° 2009-257 du 5 mars 2009 et l'article 47-4 de la loi du 30 septembre 1986 précitée.
+Le président du conseil d'administration de la société est nommé, conformément aux modalités définies par l'article 47-4 de la loi n° 86-1067 du 30 septembre 1986 modifiée.
 
-Son mandat peut lui être retiré dans les conditions prévues à l'article 47-5 de la loi du 30 septembre 1986 précitée.
+Son mandat peut lui être retiré dans les conditions prévues à l'article 47-5 de la loi n° 86-1067 du 30 septembre 1986 modifiée.
 
 Dans le cas où le président cesserait définitivement d'exercer son mandat pour quelque cause que ce soit, et jusqu'à la nomination de son successeur, il est suppléé de plein droit par le doyen en âge des administrateurs nommés par le Conseil supérieur de l'audiovisuel.
 
@@ -206,7 +208,7 @@ Le registre des présences est signé par les administrateurs participant à la 
 
 Les décisions sont prises à la majorité des membres présents ou représentés.
 
-Conformément à l'article 47-5 de la loi n° 86-1067 du 30 septembre 1986, en cas de partage de voix, celle du président de séance est prépondérante.
+Conformément à l'article 47-5 de la loi n° 86-1067 du 30 septembre 1986 modifiée, en cas de partage de voix, celle du président de séance est prépondérante.
 
 7. Procès-verbaux.
 
@@ -314,7 +316,7 @@ Article 17
 
 Assemblée générale extraordinaire
 
-L'assemblée générale extraordinaire est seule habilitée, sous réserve des dispositions légales et réglementaires applicables à la société, à modifier les statuts. Les modifications des statuts sont approuvées par décret conformément à l'article 47 de la loi du 30 septembre 1986 précitée.
+L'assemblée générale extraordinaire est seule habilitée, sous réserve des dispositions légales et réglementaires applicables à la société, à modifier les statuts. Les modifications des statuts sont approuvées par décret conformément à l'article 47 de la loi n° 86-1067 du 30 septembre 1986 modifiée.
 
 TITRE V
 
@@ -338,7 +340,7 @@ Article 20
 
 Entrée en vigueur des statuts
 
-Conformément à l'article 47 de la loi du 30 septembre 1986, les présents statuts n'entrent en vigueur qu'après approbation par décret.
+Conformément à l'article 47 de la loi n° 86-1067 du 30 septembre 1986 modifiée, les présents statuts n'entrent en vigueur qu'après approbation par décret.
 
 Article 21
 
