@@ -1,18 +1,16 @@
 # Article Annexe
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center"> APPELLATION D'ORIGINE CONTRÔLÉE</p>
+<p align="center">APPELLATION D'ORIGINE CONTRÔLÉE</p>
 </td>
 <td>
-<p align="center"> VOLUME COMPLÉMENTAIRE INDIVIDUEL<br/>maximum de l'appellation<br/>pouvant être fixé<br/>pour une récolte donnée<br/>(hl/ha)</p>
+<p align="center">VOLUME COMPLÉMENTAIRE INDIVIDUEL<br/>maximum de l'appellation<br/>pouvant être fixé<br/>pour une récolte donnée<br/>(hl/ha)</p>
 </td>
 <td>
-<p align="center"> VOLUME COMPLÉMENTAIRE INDIVIDUEL<br/>total maximum de vins<br/>pouvant être stockés<br/>par un producteur donné<br/>(hl/ha)</p>
+<p align="center">VOLUME COMPLÉMENTAIRE INDIVIDUEL<br/>total maximum de vins<br/>pouvant être stockés<br/>par un producteur donné<br/>(hl/ha)</p>
 </td>
 </tr>
 <tr>
@@ -490,9 +488,11 @@
 <p align="left">Savigny-lès-Beaune<br/>
 </p>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<p align="center">5</p>
 </td>
-<td align="center">15<br/>
+<td align="center">
+<p align="center">15</p>
 </td>
 </tr>
 <tr>
@@ -500,9 +500,11 @@
 <p align="left">Savigny-lès-Beaune premier cru<br/>
 </p>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<p align="center">5</p>
 </td>
-<td align="center">15<br/>
+<td align="center">
+<p align="center">15</p>
 </td>
 </tr>
 <tr>
@@ -510,9 +512,11 @@
 <p align="left">Viré-Clessé<br/>
 </p>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<p align="center">6</p>
 </td>
-<td align="center">19<br/>
+<td align="center">
+<p align="center">19</p>
 </td>
 </tr>
 <tr>
@@ -520,12 +524,194 @@
 <p align="left">Viré-Clessé suivi du nom d'une unité géographique plus petite<br/>
 </p>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<p align="center">6</p>
 </td>
-<td align="center">18<br/>
+<td align="center">
+<p align="center">18</p>
+</td>
+</tr>
+<tr>
+<td align="left">Bugey </td>
+<td align="center">
+<p align="center">7</p>
+</td>
+<td align="center">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td align="left">Bugey suivi du nom d'une unité géographique plus petite </td>
+<td align="center">
+<p align="center">4</p>
+</td>
+<td align="center">
+<p align="center">18</p>
+</td>
+</tr>
+<tr>
+<td align="left">Roussette du Bugey </td>
+<td align="center">
+<p align="center">4</p>
+</td>
+<td align="center">
+<p align="center">17</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Roussette du Bugey suivi du nom d'une unité géographique plus petite </p>
+</td>
+<td align="center">3</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Savoie ou Vins de Savoie </p>
+</td>
+<td align="center">
+<p align="center">7 <br/>
+</p>
+</td>
+<td align="center">
+<p align="center">21 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Savoie ou Vins de Savoie suivi du nom d'une unité géographique plus petite à l'exception de Chignin-Bergeron </p>
+</td>
+<td align="center">
+<p align="center">7</p>
+</td>
+<td align="center">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td align="left">Savoie suivi de Chignin-Bergeron </td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Roussette de Savoie </p>
+</td>
+<td align="center">
+<p align="center">4</p>
+</td>
+<td align="center">
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Roussette de Savoie suivi du nom d'une unité géographique plus petite </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td align="left">Bergerac </td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Côtes de Bergerac </p>
+</td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">Montravel </td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Côtes de Montravel </p>
+</td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">Rosette </td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Bordeaux </p>
+</td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">Entre-deux-mers </td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Côtes de Bordeaux - Blaye </p>
+</td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Graves </p>
+</td>
+<td align="center">
+<p align="center">5</p>
+</td>
+<td align="center">
+<p align="center">15</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
