@@ -823,7 +823,6 @@
 - [Arrêté du 27 janvier 1993 (RESY9300572A)](arrete-du-27-janvier-1993-resy9300572a)
 - [Arrêté du 27 juillet 1993 (AGRS9301422A)](arrete-du-27-juillet-1993-agrs9301422a)
 - [Arrêté du 27 juillet 1993 (SPSA9302147A)](arrete-du-27-juillet-1993-spsa9302147a)
-- [Arrêté du 27 juillet 1993 (SPSA9302148A)](arrete-du-27-juillet-1993-spsa9302148a)
 - [Arrêté du 27 juillet 1993 (SPSA9302149A)](arrete-du-27-juillet-1993-spsa9302149a)
 - [Arrêté du 27 juillet 1993 (SPSI9302094A)](arrete-du-27-juillet-1993-spsi9302094a)
 - [Arrêté du 27 juillet 1993 (SPSS9302142A)](arrete-du-27-juillet-1993-spss9302142a)
