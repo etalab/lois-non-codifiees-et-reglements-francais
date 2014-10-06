@@ -98,7 +98,6 @@
 - [Décret n°95-462 du 26 avril 1995 (MCCX9400163D)](decret-n95-462-du-26-avril-1995-mccx9400163d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
 - [Décret n°93-622 du 27 mars 1993 (EQUA9300528D)](decret-n93-622-du-27-mars-1993-equa9300528d)
-- [Décret du 28 juillet 2000 (AGRP0001039D)](decret-du-28-juillet-2000-agrp0001039d)
 - [Décret n°2000-162 du 28 février 2000 (INTB0000044D)](decret-n2000-162-du-28-fevrier-2000-intb0000044d)
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-585 du 28 juin 2000 (DEFD0001719D)](decret-n2000-585-du-28-juin-2000-defd0001719d)
