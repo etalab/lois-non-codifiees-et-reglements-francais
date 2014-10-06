@@ -456,7 +456,6 @@
 - [Décret n°2013-639 du 17 juillet 2013 (ETSD1304135D)](decret-n2013-639-du-17-juillet-2013-etsd1304135d)
 - [Décret n°2013-64 du 17 janvier 2013 (EFIT1100041D)](decret-n2013-64-du-17-janvier-2013-efit1100041d)
 - [Décret n°2013-641 du 17 juillet 2013 (TRAT1312364D)](decret-n2013-641-du-17-juillet-2013-trat1312364d)
-- [Décret n°2013-831 du 17 septembre 2013 (AFSA1314339D)](decret-n2013-831-du-17-septembre-2013-afsa1314339d)
 - [Décret n°2013-832 du 17 septembre 2013 (ETLL1320344D)](decret-n2013-832-du-17-septembre-2013-etll1320344d)
 - [Décret n°2013-833 du 17 septembre 2013 (INTB1320146D)](decret-n2013-833-du-17-septembre-2013-intb1320146d)
 - [Décret n°2013-834 du 17 septembre 2013 (DEFD1316336D)](decret-n2013-834-du-17-septembre-2013-defd1316336d)
