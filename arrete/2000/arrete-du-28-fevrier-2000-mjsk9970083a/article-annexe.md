@@ -5,1049 +5,406 @@ ANNEXE I
 <table>
 <tbody>
 <tr>
-<td width="290">
-<p align="center">Désignation des emplois correspondant aux fonctions mentionnées à l'article 1er du décret n° 92-92 du 14 janvier 1992 modifié </p>
+<td>
+<p align="center"> DÉSIGNATION DE L'EMPLOI <br/>
+</p>
 </td>
-<td width="88">
-<p align="center">Niveau des responsabilités exercées </p>
+<td>
+<p align="center"> NIVEAU </p>
+<p align="center">des responsabilités </p>
+<p align="center">exercées </p>
 </td>
-<td width="113">
-<p align="center">Montant de la bonification indiciaire mensuelle à compter du 1er août 1996 </p>
+<td>
+<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">par emploi </p>
 </td>
-<td width="113">
-<p align="center">Nombre d'emplois concernés à compter du 1er août 1996 </p>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">I.-Services déconcentrés </p>
+<td align="center">
+<br/>I.-Etablissements publics et administration centrale <br/>
 </td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">1. Personnel chargé des fonctions de coordination administrative et financière </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A la direction régionale d'Ile-de-France </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">50 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">1 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">25 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">23 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions départementales de 1ère catégorie </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">21 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">16 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions départementales de 2e catégorie et de 3e catégorie </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A-B </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">64 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">2. Adjoints du coordonnateur administratif et financier </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">21 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">24 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">3. Coordonnateur du service public régional de formation </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales et dans les directions départementales d'outre-mer </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">26 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">4. Correspondant informatique local responsable de la coordination </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales et dans les directions départementales </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">126 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">5. Conseiller régional de formation </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">22 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">6. Personnel chargé des interventions du ministère de la jeunesse et des sports dans la politique de la ville </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">20 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">97 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">7. Agent responsable du secrétariat de direction </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">B-C </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">22 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">II.-Services déconcentrés, établissements publics et administration centrale </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">8. Responsables de l'accueil du public </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">C </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">46 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions départementales </p>
-</td>
-<td valign="top" width="88">
-<p align="center">C </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">80 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'administration centrale </p>
-</td>
-<td valign="top" width="88">
-<p align="center">C </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) </p>
-</td>
-<td width="88">
-<p align="center">C </p>
-</td>
-<td width="113">
-<p align="center">15 </p>
-</td>
-<td width="113">
-<p align="center">12 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les centres de ressources, d'expertise et de performance sportives </p>
-</td>
-<td width="88">
-<p align="center">C </p>
-</td>
-<td width="113">
-<p align="center">15 </p>
-</td>
-<td width="113">
-<p align="center">50 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">9. Correspondant informatique interrégional responsable de la mise en œuvre des applications nationales </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales, dans les directions départementales et dans les établissements nationaux de la jeunesse et des sports </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">21 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">10. Agent chargé de la mise en œuvre des règles d'hygiène et de sécurité </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales, dans les directions départementales d'outre-mer, à l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives </p>
-</td>
-<td width="88">
-<p align="center">B </p>
-</td>
-<td width="113">
-<p align="center">20 </p>
-</td>
-<td width="113">
-<p align="center">54 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">11. Responsable du traitement de la paye </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
-</td>
-<td rowspan="2" width="88">
-<p align="center">C </p>
-</td>
-<td rowspan="2" width="113">
-<p align="center">15 </p>
-</td>
-<td rowspan="2" width="113">
-<p align="center">23 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'administration centrale </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">III.-Etablissements publics </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">12. Responsable de la gestion </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP) </p>
-</td>
-<td width="88">
-<p align="center">A </p>
-</td>
-<td width="113">
-<p align="center">47 </p>
-</td>
-<td width="113">
-<p align="center">2 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les centres de ressources, d'expertise et de performance sportives, à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et à l'Institut français du cheval et de l'équitation (ENE) </p>
-</td>
-<td width="88">
-<p align="center">A </p>
-</td>
-<td width="113">
-<p align="center">40 </p>
-</td>
-<td width="113">
-<p align="center">26 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">13. Adjoints du responsable de la gestion </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP) </p>
-</td>
-<td width="88">
-<p align="center">A </p>
-</td>
-<td width="113">
-<p align="center">18 </p>
-</td>
-<td width="113">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>Dans les centres d'éducation populaire et de sport (CREPS), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et à l'Institut français du cheval et de l'équitation (ENE) </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A-B </p>
-</td>
-<td valign="top" width="113">
-<p align="center">15 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">29 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">14. Responsable de la restauration </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives  </p>
-</td>
-<td width="88">
-<p align="center">C </p>
-</td>
-<td width="113">
-<p align="center">20 </p>
-</td>
-<td width="113">
-<p align="center">29 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">15. Adjoints du responsable de la restauration </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives  </p>
-</td>
-<td width="88">
-<p align="center">C </p>
-</td>
-<td width="113">
-<p align="center">15 </p>
-</td>
-<td width="113">
-<p align="center">30 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="290">
-<p align="center">16. Responsables de la maintenance des locaux </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA), à l'Institut français du cheval et de l'équitation (ENE) et dans les centres de ressources, d'expertise et de performance sportives  </p>
-</td>
-<td width="88">
-<p align="center">C </p>
-</td>
-<td width="113">
-<p align="center">15 </p>
+<td align="center">
+<br/>Responsables de l'accueil du public <br/>
 </td>
-<td width="113">
-<p align="center">32 </p>
-</td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">17. Responsables de la maintenance des équipements sportifs et du magasin </p>
+<td>
+<br/>A l'administration centrale <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives  </p>
+<td>
+<br/>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut <br/>national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut <br/>français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile<br/>(ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) <br/>
 </td>
-<td width="88">
-<p align="center">C </p>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td width="113">
-<p align="center">30 </p>
+<td align="center" valign="middle">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">18. Responsables des personnels de service </p>
+<td>
+<br/>Dans les centres de ressources, d'expertise et de performance sportives (CREPS) <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>50 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives </p>
+<td>
+<br/>Correspondant informatique interrégional responsable de la mise en œuvre<br/>des applications nationales dans les établissements nationaux de la <br/>jeunesse et des sports <br/>
 </td>
-<td width="88">
-<p align="center">C </p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="113">
-<p align="center">15 </p>
+<td align="center">
+<br/>21 <br/>
 </td>
-<td width="113">
-<p align="center">32 </p>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">19. Responsables des espaces verts </p>
+<td>
+<br/>Agent chargé de la mise en œuvre des règles d'hygiène et de sécurité à <br/>l'INSEP, à l'INJEP, à l'ENE, à l'ENV, à l'ENSA et dans les CREPS <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center">
+<br/>B <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>20 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>27 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP) et dans les centres de ressources, d'expertise et de performance sportives </p>
+<td>
+<br/>Responsable du traitement de la paye à l'administration centrale <br/>
 </td>
-<td width="88">
-<p align="center">C </p>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td width="113">
-<p align="center">33 </p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">20. Responsable de la maintenance audiovisuelle </p>
-</td>
-<td width="88">
-<br/>
-</td>
-<td width="113">
-<br/>
-</td>
-<td width="113">
-<br/>
+<td align="center">
+<br/>II.-Etablissements publics <br/>
 </td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV) et à l'Ecole nationale de ski et d'alpinisme (ENSA) </p>
+<td align="center">
+<br/>Responsable de la gestion <br/>
 </td>
-<td width="88">
-<p align="center">C </p>
-</td>
-<td width="113">
-<p align="center">15 </p>
-</td>
-<td width="113">
-<p align="center">5 </p>
-</td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">21. Assistante sociale </p>
+<td>
+<br/>A l'INSEP et à l'INJEP <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>47 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP) </p>
+<td>
+<br/>Dans les CREPS, à l'ENV, à l'ENSA et à l'ENE <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">B </p>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>40 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>26 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">22. Responsables de la gymnastique médicale </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>Adjoints du responsable de la gestion <br/>
 </td>
-<td valign="top" width="113">
-<br/>
-</td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>A l'Institut national du sport et de l'éducation physique (INSEP) </p>
+<td>
+<br/>A l'INSEP et à l'INJEP <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">B </p>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>18 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">32 </p>
+<td align="center" valign="middle">
+<br/>4 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">23. Responsables des soins infirmiers </p>
+<td>
+<br/>Dans les CREPS, à l'ENV, à l'ENSA et à l'ENE <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center">
+<br/>A-B <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>29 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>Dans les établissements publics de la jeunesse et des sports </p>
+<td>
+<br/>Responsable de la restauration à l'INSEP, à l'INJEP, à l'ENV, à <br/>l'ENSA et dans les CREPS <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">B </p>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>20 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">32 </p>
+<td align="center" valign="middle">
+<br/>29 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">IV.-Administration centrale </p>
+<td>
+<br/>Adjoints du responsable de la restauration à l'INSEP, à l'INJEP, à l'ENV, <br/>à l'ENSA et dans les CREPS <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>24. Responsable du parc automobile </p>
+<td>
+<br/>Responsables de la maintenance des locaux à l'INSEP, à l'INJEP, à l'ENV, à <br/>l'ENSA, à l'ENE et dans les CREPS <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">C </p>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>32 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>25. Responsables de l'entretien du parc informatique </p>
+<td>
+<br/>Responsables de la maintenance des équipements sportifs et du magasin à <br/>l'INSEP, à l'ENE, à l'ENV, à l'ENSA et dans les CREPS <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">C </p>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">15 </p>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">4 </p>
+<td align="center" valign="middle">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>26. Chefs de bureau </p>
-</td>
-<td valign="top" width="88">
-<p align="center">A </p>
-</td>
-<td valign="top" width="113">
-<p align="center">30 </p>
-</td>
-<td valign="top" width="113">
-<p align="center">8 </p>
+<td>
+<br/>Responsables des personnels de service à l'INSEP, à l'INJEP, à l'ENE, à <br/>l'ENV, à l'ENSA et dans les CREPS <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="290"/>
-<td valign="top" width="88">
-<br/>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>32 <br/>
 </td>
 </tr>
 <tr>
-<td width="290">
-<p align="center">Désignation des emplois correspondant aux fonctions mentionnées à l'article 1er du décret n° 92-92 du 14 janvier 1992 modifié </p>
+<td>
+<br/>Responsables des espaces verts à l'INSEP, à INJEP et dans les CREPS <br/>
 </td>
-<td width="88">
-<p align="center">Niveau des responsabilités exercées </p>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td width="113">
-<p align="center">Montant de la bonification indiciaire mensuelle à compter de la date de publication du présent </p>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td width="113">
-<p align="center">Nombre d'emplois concernés à compter de la date de publication du présent arrêté </p>
+<td align="center" valign="middle">
+<br/>33 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">27. Personnels chargés des interventions du ministère de la jeunesse et des sports dans la politique de la ville </p>
+<td>
+<br/>Responsable de la maintenance audiovisuelle à INSEP, à l'INJEP, à ENE, à <br/>ENV et à l'ENSA <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center" valign="middle">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center" valign="middle">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>Dans les directions départementales (La fonction 27 remplace la fonction 6.) </p>
+<td>
+<br/>Assistante sociale à l'INSEP <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">A </p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">17 </p>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">98 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">28. Personnel technique et pédagogique chargé des fonctions de chef de département </p>
+<td>
+<br/>Responsables de la gymnastique médicale à l'INSEP <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center">
+<br/>B <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>32 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>Dans les centres de ressources, d'expertise et de performance sportives </p>
+<td>
+<br/>Responsables des soins infirmiers dans les établissements publics de la <br/>jeunesse et des sports <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">A </p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">30 </p>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">12 </p>
+<td align="center">
+<br/>32 <br/>
 </td>
 </tr>
-</tbody>
-</table>
-
-ANNEXE II
-
-<table>
-<tbody>
 <tr>
-<td width="290">
-<p align="center">Désignation des emplois correspondant aux fonctions mentionnées à l'article 1er du décret n° 92-92 du 14 janvier 1992 modifié </p>
+<td>
+<br/>Personnel technique et pédagogique chargé des fonctions de chef de <br/>département dans les CREPS <br/>
 </td>
-<td width="88">
-<p align="center">Niveau des responsabilités exercées </p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td width="113">
-<p align="center">Montant de la bonification indiciaire mensuelle à compter du 1er janvier 1997 </p>
+<td align="center">
+<br/>30 <br/>
 </td>
-<td width="114">
-<p align="center">Nombre d'emplois concernés à compter de la date de publication du 1er janvier 1997 </p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p align="center">29. Directeur départemental de la jeunesse, des sports et des loisirs </p>
-</td>
-<td valign="top" width="88">
-<br/>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="114">
-<br/>
+<td align="center">
+<br/>III.-Administration centrale <br/>
 </td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>Dans les directions départementales </p>
+<td>
+<br/>Responsable du parc automobile <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">A </p>
+<td align="center">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">40 </p>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="114">
-<p align="center">82 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>30. Directeur régional adjoint de la jeunesse, des sports et des loisirs </p>
+<td>
+<br/>Responsables de l'entretien du parc informatique <br/>
 </td>
-<td valign="top" width="88">
-<br/>
+<td align="center">
+<br/>C <br/>
 </td>
-<td valign="top" width="113">
-<br/>
+<td align="center">
+<br/>15 <br/>
 </td>
-<td valign="top" width="114">
-<br/>
+<td align="center">
+<br/>4 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="290">
-<p>Dans les directions régionales et départementales </p>
+<td>
+<br/>Chefs de bureau <br/>
 </td>
-<td valign="top" width="88">
-<p align="center">A </p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td valign="top" width="113">
-<p align="center">40 </p>
+<td align="center">
+<br/>30 <br/>
 </td>
-<td valign="top" width="114">
-<p align="center">22</p>
+<td align="center">
+<br/>8<br/>
 </td>
 </tr>
 </tbody>

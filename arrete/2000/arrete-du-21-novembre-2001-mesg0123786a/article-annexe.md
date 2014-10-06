@@ -1,502 +1,330 @@
 # Article Annexe
 
+.
+
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DES EMPLOIS</p>
+<th>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NIVEAU <br/>
+</th>
+<th>
+<br/>NOMBRE <br/>
+<br/>d'emplois <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+<br/>de NBI <br/>
+</th>
+<th>
+<br/>NOMBRE TOTAL <br/>
+<br/>de points de NBI <br/>
+<br/>(dans la limite de) <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>Fonctions relatives au logement social <br/>
 </td>
-<td>
-<p align="center">NIVEAU<br/>des responsabilités exercées</p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">BONIFICATION INDICIAIRE <br/>(en points d'indice majoré)<br/>Nombre de points attribués</p>
+<td align="center">
+<br/>9 <br/>
 </td>
-<td>
-<p align="center">NOMBRE<br/>d'emplois</p>
+<td align="center">
+<p align="left">
+<br/>De 10 à 50 points par emploi </p>
 </td>
-<td>
-<p align="center">NOMBRE TOTAL<br/>de points</p>
+<td align="center">
+<br/>215 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi du dispositif afférent au revenu minimum d'insertion</p>
+<td align="left">
+<br/>Fonctions relatives au logement social <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>5<br/>
-</p>
+<br/>2 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 165 points<br/>
-</p>
+<br/>De 10 à 30 points par emploi </p>
+</td>
+<td align="center">
+<br/>45 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi du dispositif afférent au revenu minimum d'insertion</p>
+<td align="left">
+<br/>Fonctions relatives au logement social <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>B<br/>
-</p>
+<br/>C <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 30 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>6<br/>
-</p>
+<br/>6 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 130 points<br/>
-</p>
+<br/>De 10 à 20 points par emploi </p>
+</td>
+<td align="center">
+<br/>75 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi du dispositif afférent au revenu minimum d'insertion</p>
+<td align="left">
+<br/>Fonctions relatives au suivi des actions sociales au bénéfice des publics défavorisés et au développement social <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>C<br/>
-</p>
+<br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 20 points par emploi<br/>
-</p>
+<br/>22 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>7<br/>
-</p>
+<p align="left">De 10 à 50 points par emploi </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dans la limite de 95 points<br/>
-</p>
+<br/>568 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au logement social</p>
+<td align="left">
+<br/>Fonctions relatives au suivi des actions sociales au bénéfice des publics défavorisés et au développement social <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>1<br/>
-</p>
+<br/>9 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 40 points<br/>
-</p>
+<br/>De 10 à 30 points <br/>par emploi </p>
+</td>
+<td align="center">
+<br/>188 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au logement social</p>
+<td align="left">
+<br/>Fonctions relatives au suivi des actions sociales au bénéfice des publics défavorisés et au développement social <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>B<br/>
-</p>
+<br/>C <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 30 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>2<br/>
-</p>
+<br/>9 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 45 points<br/>
-</p>
+<br/>De 10 à 20 points <br/>par emploi </p>
+</td>
+<td align="center">
+<br/>142 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au logement social</p>
+<td align="left">
+<br/>Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>C<br/>
-</p>
+<br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 20 points par emploi<br/>
-</p>
+<br/>10 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>4<br/>
-</p>
+<p align="left">De 10 à 50 points par emploi </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>Dans la limite de 45 points<br/>
-</p>
+<br/>320 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi des actions sociales au bénéfice des publics défavorisés et au développement social</p>
+<td align="left">
+<br/>Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>13<br/>
-</p>
+<br/>8 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 295 points<br/>
-</p>
+<br/>De 10 à 30 points par emploi </p>
+</td>
+<td align="center">
+<br/>150 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi des actions sociales au bénéfice des publics défavorisés et au développement social</p>
+<td align="left">
+<br/>Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>B<br/>
-</p>
+<br/>C <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 30 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>9<br/>
-</p>
+<br/>3 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 147,5 points<br/>
-</p>
+<br/>De 10 à 20 points <br/>par emploi </p>
+</td>
+<td align="center">
+<br/>45 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi des actions sociales au bénéfice des publics défavorisés et au développement social</p>
+<td align="left">
+<br/>Fonctions relatives au suivi de la politique de la ville (correspondant-ville, suivi des contrats-ville) <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>C<br/>
-</p>
+<br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 20 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>7<br/>
-</p>
+<br/>76 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 95 points<br/>
-</p>
+<br/>De 10 à 50 points par emploi </p>
+</td>
+<td align="center">
+<br/>2019 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence</p>
+<td align="left">
+<br/>Fonctions relatives au suivi de la politique de la ville (correspondant-ville, suivi des contrats-ville) <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>1<br/>
-</p>
+<br/>55 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 20 points<br/>
-</p>
+<br/>De 10 à 30 points <br/>par emploi </p>
+</td>
+<td align="center">
+<br/>871 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence<br/>
-</p>
+<td align="left">
+<br/>Fonctions relatives au suivi de la politique de la ville (correspondant-ville, suivi des contrats-ville) <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>B<br/>
-</p>
+<br/>C <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 30 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>3<br/>
-</p>
+<br/>21 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 57 points<br/>
-</p>
+<br/>De 10 à 20 points par emploi </p>
+</td>
+<td align="center">
+<br/>343 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence</p>
+<td align="left">
+<br/>Fonctions relatives au suivi des politiques d'insertion et de lutte contre l'exclusion <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>C<br/>
-</p>
+<br/>A <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 20 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>2<br/>
-</p>
+<br/>21 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 30 points<br/>
-</p>
+<br/>De 10 à 50 points par emploi </p>
+</td>
+<td align="center">
+<br/>540 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi de la politique de la ville (correspondant-ville, suivi des contrats-ville)</p>
+<td align="left">
+<br/>Fonctions relatives au suivi des politiques d'insertion et de lutte contre l'exclusion <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>89<br/>
-</p>
+<br/>14 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 2 432 points<br/>
-</p>
+<br/>De 10 à 30 points <br/>par emploi </p>
+</td>
+<td align="center">
+<br/>275 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi de la politique de la ville (correspondant-ville, suivi des contrats-ville)</p>
+<td align="left">
+<br/>Fonctions relatives au suivi des politiques d'insertion et de lutte contre l'exclusion <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>B<br/>
-</p>
+<br/>C <br/>
 </td>
 <td align="center">
-<p align="left">
-<br/>De 10 à 30 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>55<br/>
-</p>
+<br/>5 <br/>
 </td>
 <td align="center">
 <p align="left">
-<br/>Dans la limite de 871,5 points<br/>
-</p>
+<br/>De 10 à 20 points <br/>par emploi </p>
+</td>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi de la politique de la ville (correspondant-ville, suivi des contrats-ville)</p>
+<td align="left" valign="middle">
+<br/>Fonctions relatives au suivi des actions de santé <br/>
 </td>
-<td align="center">
-<p align="center">
-<br/>C<br/>
-</p>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
 <p align="left">
-<br/>De 10 à 20 points par emploi<br/>
-</p>
+<br/>De 10 à 50 points </p>
 </td>
-<td align="center">
-<p align="center">
-<br/>21<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Dans la limite de 343 points<br/>
-</p>
+<td align="center" valign="middle">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi des politiques d'insertion et de lutte contre l'exclusion</p>
+<td align="left" valign="middle">
+<br/>Total général <br/>
 </td>
-<td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
+<td align="left" valign="middle"/>
+<td align="center" valign="middle">
+<br/>271 <br/>
 </td>
-<td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>19<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Dans la limite de 665 points<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi des politiques d'insertion et de lutte contre l'exclusion</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>B<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>De 10 à 30 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>17<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Dans la limite de 240 points<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Fonctions relatives au suivi des politiques d'insertion et de lutte contre l'exclusion</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>C<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>De 10 à 20 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>9<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Dans la limite de 140 points<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>Fonctions relatives au suivi des actions de santé<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>A<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>De 10 à 50 points par emploi<br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>Dans la limite de 15 points<br/>
-</p>
+<td align="left" valign="middle"/>
+<td align="center" valign="middle">
+<br/>5 871<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+.
