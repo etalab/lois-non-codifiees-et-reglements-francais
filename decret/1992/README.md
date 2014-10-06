@@ -411,7 +411,6 @@
 - [Décret n°92-1324 du 15 décembre 1992 (BUDL9200116D)](decret-n92-1324-du-15-decembre-1992-budl9200116d)
 - [Décret n°92-1325 du 15 décembre 1992 (BUDF9210086D)](decret-n92-1325-du-15-decembre-1992-budf9210086d)
 - [Décret n°92-43 du 15 janvier 1992 (DOMP9200001D)](decret-n92-43-du-15-janvier-1992-domp9200001d)
-- [Décret n°92-49 du 15 janvier 1992 (SPSG9102336D)](decret-n92-49-du-15-janvier-1992-spsg9102336d)
 - [Décret n°92-519 du 15 juin 1992 (JUSX9200088D)](decret-n92-519-du-15-juin-1992-jusx9200088d)
 - [Décret n°92-520 du 15 juin 1992 (JUSX9200089D)](decret-n92-520-du-15-juin-1992-jusx9200089d)
 - [Décret n°92-525 du 15 juin 1992 (ECOT9210146D)](decret-n92-525-du-15-juin-1992-ecot9210146d)
