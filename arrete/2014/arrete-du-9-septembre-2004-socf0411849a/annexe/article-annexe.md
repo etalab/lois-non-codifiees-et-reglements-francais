@@ -6,75 +6,99 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : menuisier (ère) en construction nautique (ancien intitulé : constructeur [trice] aménageur [se] en marine de plaisance).
+Titre professionnel : menuisier (ère) en construction nautique.
 
 Niveau : V.
 
-Code NSF : 234 s.
+Codes NSF : 225 r, 234 s.
 
 Résumé du référentiel d'emploi
 
-Le menuisier en construction nautique participe à la construction (à l'unité ou en série) de bateaux de plaisance. Il fabrique les aménagements intérieurs cloisons, meubles à partir de bois massif, de panneaux dérivés du bois ou bien en matériaux composites. Il pose ces aménagements à l'intérieur des bateaux en construction ; il pose également l'accastillage de pont, les hublots et panneaux de pont et installe les différents réseaux et servitudes.
+La finalité de cet emploi est de réaliser l'installation, la pose des aménagements et de l'accastillage de pont ainsi que de rénover et réparer les éléments en bois et en matériaux composites.
 
-A cette fin, il travaille à partir d'un cahier des charges, de plans, de gabarits et d'épures parfois tracées par ses soins, conformément aux spécifications des architectes et des chefs de chantier.
+Le (la) menuisier (ère) en construction nautique intervient sur des bateaux de plaisance à voiles ou à moteur :
 
-Il intervient sur des bateaux de plaisance à voile ou à moteur, d'une taille moyenne comprise entre 6 et 12 mètres, construits principalement en matériaux composites.
+- dans un chantier de construction pour la pose des aménagements, des réseaux et de l'accastillage de pont ;
 
-Le menuisier en construction nautique travaille parfois dans des espaces réduits, dans des positions inconfortables et peut être amené à déplacer des charges lourdes ou encombrantes. Les exigences de la clientèle, en termes de qualité et de finition, requièrent de sa part rigueur et méticulosité. Il doit appliquer strictement les consignes d'hygiène et de sécurité car des outillages et des produits toxiques à risques sont manipulés dans le cadre de ce travail.
+- dans un chantier de réparation pour la rénovation des éléments en bois et en matériaux composites.
 
-Capacités attestées et descriptif
+Le titulaire de l'emploi installe les servitudes de bord les plus usuelles telles que les réseaux d'eaux potable et usagée, d'électricité et de gaz.
 
-des composantes de la certification
+Il pose les aménagements intérieurs tels que les meubles et les cloisons.
 
-1. Fabriquer des éléments en matériaux composites,
+Il pose les éléments de finition tels que les vaigrages.
 
-pour des bateaux de plaisance
+Il pose l'accastillage de pont ainsi que les capots, les hublots et les panneaux de pont.
 
-Réaliser des modèles de pièces annexes en matériaux composites pour des bateaux de plaisance.
+Il rénove, répare et fabrique à l'unité des éléments en bois et en panneaux dérivés du bois tels que le mobilier et les cloisons.
 
-Réaliser un moule de pièces annexes en matériaux composites pour des bateaux de plaisance et fabriquer la première pièce.
+Il rénove et répare les éléments en matériaux composites tels que les coques et les ponts.
 
-2. Fabriquer des éléments en bois
+Dans le strict respect des règles d'hygiène, de sécurité et de protection de l'environnement, ces opérations sont réalisées conformément aux préconisations de l'entreprise.
 
-pour des bateaux de plaisance
+Le titulaire de l'emploi travaille généralement dans un chantier nautique spécialisé dans la construction ou dans la maintenance de bateaux de plaisance à voiles ou à moteur.
 
-Usiner en sécurité et assembler des éléments de cloisons et de mobiliers de bateaux de plaisance.
+Son activité s'exerce le plus souvent en intérieur dans un atelier tempéré pour la pose des aménagements. Par contre, pour les travaux de rénovation-réparation, il intervient à l'extérieur de l'atelier.
 
-Mettre en œuvre les techniques de collage pour la fabrication d'aménagements de bateaux de plaisance.
+Il travaille au sein d'une équipe ou parfois seul, mais sous la responsabilité hiérarchique d'un chef d'équipe ou d'un chef d'atelier. Dans les grands chantiers de construction, son activité est intégrée à un processus de production en série.
 
-Usiner et assembler des éléments de coques, de ponts et de superstructures de bateaux de plaisance en contreplaqué.
+Le titulaire de l'emploi réalise des opérations de manutention manuelle ou à l'aide d'un palan. Il manipule des outillages et des produits qui nécessitent de suivre des modes opératoires de mise en œuvre rigoureux.
 
-Assurer la finition et la rénovation des pièces en bois pour les bateaux de plaisance.
+Parfois, son activité s'exerce en hauteur, dans des espaces réduits, dans des positions inconfortables.
 
-3. Installer, modifier des aménagements de bord
+Il utilise des équipements de protection individuelle tels qu'un vêtement de travail, des chaussures de sécurité, des lunettes, un masque et des gants.
 
-et poser l'accastillage de pont dans des bateaux de plaisance
+En fonction de la période, de l'activité et des impératifs de livraison, il travaille le week end ou en horaires variables. Dans les chantiers de construction de série, il a parfois un travail "posté".
+
+Il respecte scrupuleusement toutes les règles et procédures en vigueur dans l'entreprise. Il fait preuve de rigueur, d'organisation et de méthode dans son travail. Il respecte l'environnement de son poste de travail.
+
+Capacités attestées et descriptif des composantes de la certification
+
+1. Fabriquer et rénover des éléments en bois et des éléments
+
+en matériaux composites pour un bateau de plaisance
+
+Fabriquer des éléments en bois et en panneaux dérivés du bois pour un bateau de plaisance.
+
+Rénover des éléments en bois et en panneaux dérivés du bois pour un bateau de plaisance.
+
+Fabriquer des pièces simples en matériaux composites verre/ polyester par stratification au contact.
+
+Rénover des éléments en matériaux composites d'un bateau de plaisance.
+
+2. Installer des aménagements de bord
+
+et poser de l'accastillage dans un bateau de plaisance
 
 Poser des aménagements de bord dans un bateau de plaisance.
 
-Poser l'accastillage de pont, des hublots et panneaux de pont sur un bateau de plaisance.
+Poser l'accastillage de pont, des hublots et des panneaux de pont sur un bateau de plaisance.
 
-Implanter les différents passages ou circuits d'alimentation des bateaux de plaisance.
-
-Manutentionner un bateau de plaisance dans un atelier.
+Implanter les différents circuits d'un bateau de plaisance.
 
 Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Le (la) menuisier (ère) en construction nautique exerce son activité dans les entreprises du secteur nautique :
+La construction des bateaux de plaisance.
 
-- chez un constructeur, en série ou à l'unité, de bateaux de plaisance à voile ou à moteur ;
+La réparation des bateaux de plaisance.
 
-- éventuellement dans un chantier de maintenance de bateaux de plaisance.
+La fabrication d'aménagements des bateaux de plaisance.
+
+Mensuisier d'aménagement des bateaux de plaisance.
+
+Aménageur des bateaux de plaisance.
+
+Menuisier réparateur des bateaux de plaisance.
 
 Codes ROME :
 
-44143-Stratifieur-mouliste.
+H3203-Fabrication de pièces en matériaux composites.
 
-47331-Réalisateur d'ouvrages en bois et matériaux associés.
+H2207-Réalisation de meubles en bois.
 
-42122-Monteur en structures bois.
+I1601-Installation et maintenance en nautisme.
 
 Réglementation de l'activité :
 
