@@ -14,69 +14,61 @@ Code NSF : 254 r.
 
 Résumé du référentiel d'emploi
 
-Le peintre en carrosserie procède à la préparation et à la mise en peinture complète ou partielle des véhicules automobiles.
+Le peintre en carrosserie est un ouvrier qualifié exerçant généralement un métier de service (secteur réparation automobile) ou quelques fois de production (industrie).
 
-Il effectue le traitement des surfaces à peindre, applique et ponce les mastics et les apprêts nécessaires pour retoucher les imperfections, confectionne et corrige les teintes, puis il applique au pistolet les laques et les vernis en respectant l'aspect d'origine. Les véhicules sur lesquels il intervient présentent différents types de surfaces : tôles d'acier, tôles d'aluminium, matériaux plastiques.
+Il remet en peinture-complètement ou partiellement-les véhicules automobiles et utilitaires présentant des supports de différentes natures : éléments en tôles d'acier et d'aluminium, éléments et accessoires en plastique de différents types. Il procède à la préparation et au traitement des surfaces à peindre, applique et ponce les mastics et les apprêts permettant d'éliminer les imperfections, confectionne et corrige les teintes et applique au pistolet pneumatique les laques et les vernis en respectant l'aspect d'origine.
 
-Le peintre opère sur la base de consignes portées sur l'ordre de réparation et parfois complétées de consignes verbales. Il se réfère aux méthodes en vigueur dans l'entreprise et aux consignes mentionnées dans les fiches techniques des produits et dans les manuels des constructeurs.
+Le peintre est autonome dans la conduite de ses interventions. Les consignes particulières sont exprimées clairement sur l'ordre de réparation (OR). Il est placé sous la responsabilité d'un hiérarchique, mais travaille le plus souvent seul et assure lui-même le contrôle qualité. Face à une difficulté technique non maîtrisée ou imprévue, au-delà de ses capacités d'autodocumentation, il doit rechercher systématiquement une aide auprès d'un technicien plus chevronné ou du chef d'équipe. Il peut également faire appel au réseau d'information de ses fournisseurs de peinture ou du constructeur.
 
-Le peintre gère son activité en intégrant les contraintes de temps, liées à l'échéance de restitution du véhicule et aux temps d'interventions qui sont barémés. Il doit s'organiser pour coordonner ses travaux avec les autres corps de métier et plus particulièrement avec le carrossier réparateur. Pour les travaux relevant de l'atelier de peinture, il en assure la prestation technique complète, jusqu'à la finition et remise du véhicule au client, en assurant l'autocontrôle de son travail. Il rend compte de son intervention et informe le responsable et le client des problèmes rencontrés en cours de réparation.
+Le professionnel est en relation avec le chef d'unité, les autres peintres de l'équipe, les carrossiers, et ponctuellement les mécaniciens. Il doit par ailleurs adopter une attitude appropriée (comportement, propos) lors des passages occasionnels à l'atelier des clients et des experts d'assurance.
 
-Il assure l'approvisionnement en teintes de base du système à teinter ainsi que de tous les produits de la ligne peinture : abrasifs, mastics, sous-couches, vernis, durcisseurs... Il gère l'outillage individuel qui lui est confié et le matériel collectif mis à sa disposition.
-
-Son activité s'exerce dans le respect de règles d'hygiène et de sécurité, particulièrement importantes dans ce métier, ainsi que des consignes d'organisation de l'entreprise.
+L'emploi se pratique en atelier, à horaires fixes et réguliers mais avec des dépassements possibles. Les postures sont multiples et variées. Les positions "courbé" et "accroupi" sont très fréquentes. Une bonne dextérité et une bonne sensibilité tactile sont nécessaires pour assurer les opérations de ponçage. Le port de protections auditives est nécessaire pour les travaux avec machine. Le port d'un masque respiratoire est obligatoire dans la plupart des cas, aussi bien lors du ponçage (masque antipoussière) que lors de la préparation des produits, des applications ou du nettoyage du matériel (masque à solvants).
 
 Capacités attestées et descriptif des composantes de la certification
 
 1. Préparer les fonds avant peinture des véhicules légers
 
-Déposer les équipements et ornement extérieurs des véhicules dans le cadre des opérations de peinture.
+Appliquer et poncer les différents mastics sur les imperfections de surface des supports de carrosserie.
 
-Remplacer et régler les éléments, les équipements et accessoires amovibles de carrosserie automobile.
+Protéger les zones non peintes de carrosserie par dépose/repose/masquage.
 
-Remettre en forme et mastiquer les défauts de surface des éléments accidentés de carrosserie.
+Mettre en œuvre les sous-couches d'une gamme peinture destinée à la réparation automobile.
 
-Préparer, appliquer et poncer les sous-couches et apprêts d'une ligne peinture destinée à la réparation automobile.
+2. Réaliser les applications de laques sur véhicules légers
 
-Effectuer le marouflage des véhicules en vue des travaux de peinture.
+Appliquer les différents types de laques sur éléments ou équipements de carrosserie et sur véhicules.
 
-Réparer et préparer les éléments / accessoires / équipements en plastique des véhicules, selon les méthodes des constructeurs.
+Réaliser les différents types de raccords de peinture sur véhicules.
 
-2. Appliquer les laques et réaliser les raccords sur véhicules légers
+Préparer à la livraison les véhicules légers réparés selon une méthode professionnelle de rénovation.
 
-Appliquer les différents types de laques sur éléments ou équipement de carrosserie et sur véhicule.
+3. Elaborer les teintes référencées des constructeurs d'automobiles
 
-Réaliser les différents types de raccords de peinture sur véhicule.
+Confectionner les teintes référencées par les constructeurs d'automobiles.
 
-Effectuer la préparation à la livraison des véhicules légers, en suivant une méthode professionnelle de rénovation.
+Corriger les teintes référencées par les constructeurs d'automobiles.
 
-3. Confectionner et corriger les teintes référencées des constructeurs d'automobiles
+Secteurs d'activités et types d'emploi
 
-Confectionner et corriger les teintes opaques référencées par les constructeurs automobiles.
+accessibles par le détenteur du titre
 
-Confectionner et corriger les teintes à effets référencés par les constructeurs automobiles.
+Les services de l'automobile : réseaux après-vente des constructeurs (succursales/filiales/concessions/agences), carrossiers indépendants et certains garages indépendants.
 
-Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
+Certains secteurs de l'industrie qui élaborent des "produits" nécessitant un revêtement de protection (exemple : matériel de transport routier/ferroviaire/aérien/maritime, biens de consommation).
 
-Les peintres en carrosserie sont principalement employés dans les entreprises relevant du secteur commerce et réparation de l'automobile, à savoir :
+Certaines entreprises ou administrations possédant des ateliers intégrés de réparation carrosserie et peinture (armées, ministères, sociétés de transport public ou privé).
 
--les entreprises indépendantes de carrosserie réparation, parfois organisées en réseaux ;
-
--les agences, concessions et succursales des réseaux de service après-vente des constructeurs automobiles qui disposent d'une unité de carrosserie-peinture ;
-
--les entreprises artisanales, mécaniciens réparateurs automobiles, qui assurent des prestations en carrosserie-peinture.
-
-Certaines entreprises et administrations importantes assurent la maintenance et la réparation de leur flotte de véhicules, dans des ateliers intégrés. De nombreux domaines de l'industrie et du transport proposent également des emplois de peintre. Ces emplois nécessitent alors un temps d'adaptation de durée variable selon les matériels utilisés et les techniques mises en œuvre.
+Principalement "peintre en carrosserie" (ou "peintre automobile" ou encore "peintre carrossier"), peintre qualifié d'un autre secteur donné (par exemple : peintre poids lourds, peintre aéronautique), coloriste, préparateur en peinture, applicateur industriel ou peintre industriel.
 
 Codes ROME :
 
-44323-Réparateur en carrosserie.
+I1606-Réparation de carrosserie.
 
-44142-Agent de traitement de surface.
+H3404-Peinture industrielle.
 
 Réglementation de l'activité :
 
-Néant.
+L'activité est réglementée par le décret n° 98 246 du 2 avril 1998 relatif à la qualification professionnelle. Il précise que quels que soient le statut juridique et les caractéristiques de l'entreprise, les activités d'entretien et de réparation des véhicules ne peuvent être exercées que par une personne qualifiée professionnellement ou sous le contrôle effectif et permanent de celle-ci.
 
 Autorité responsable de la certification :
 
