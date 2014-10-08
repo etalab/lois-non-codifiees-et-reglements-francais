@@ -16,7 +16,7 @@ a) Dans l'établissement, les catégories d'informations nominatives enregistré
 
 - personnes à contacter, identité, adresse, téléphone personnel, téléphone de l'employeur ;
 
-- catégories socioprofessionnelles du père et/ou de la mère ;
+- profession et situation au regard de l'emploi des responsables légaux ;
 
 - situation scolaire actuelle : division, formation, options ;
 
@@ -42,7 +42,9 @@ En outre, pour la gestion des bourses de collège, les catégories d'information
 
 - option offerte aux familles de non-déductibilité du montant de la bourse des frais de pension ou de demi-pension ;
 
-- code monnaie de paiement (euros ou francs).
+- code monnaie de paiement (euros ou francs) ;
+
+- photographie d'identité, sous réserve de l'accord préalable de l'élève s'il est majeur ou de son représentant légal s'il est mineur.
 
 b) Au niveau académique, les catégories d'informations nominatives utilisées sont les suivantes :
 
@@ -54,7 +56,7 @@ b) Au niveau académique, les catégories d'informations nominatives utilisées 
 
 - responsables légaux : lien de parenté ;
 
-- catégories socioprofessionnelles du père et/ou de la mère ;
+- profession et situation au regard de l'emploi des responsables légaux ;
 
 - situation scolaire actuelle : division, formation, options ;
 
@@ -76,7 +78,7 @@ c) Au niveau national, les informations nominatives utilisées dans le cadre du 
 
 - responsables légaux, lien de parenté ;
 
-- catégories socioprofessionnelles du père et/ou de la mère ;
+- profession et situation au regard de l'emploi des responsables légaux ;
 
 - situation scolaire de l'année en cours : division, formation, options ;
 
