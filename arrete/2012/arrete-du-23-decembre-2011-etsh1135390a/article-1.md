@@ -1,3 +1,0 @@
-# Article 1
-
-En application de l'article L. 4381-1-1 du code de la santé publique, le ministre chargé de la santé peut autoriser les infirmières et les infirmiers titulaires d'un titre de formation obtenu dans la province de Québec à exercer leur profession en France, après validation d'une période de stage de soixante-quinze jours au cours de laquelle les intéressés exercent en qualité d'auxiliaire polyvalent, prévue par l'article L. 4311-12 du même code, sous réserve que cet exercice soit effectué auprès d'une équipe soignante comportant au moins une infirmière ou un infirmier diplômé d'Etat et sous la surveillance du responsable de l'équipe.

@@ -2069,7 +2069,6 @@
 - [Arrêté du 23 décembre 2011 (DEFD1200415A)](arrete-du-23-decembre-2011-defd1200415a)
 - [Arrêté du 23 décembre 2011 (DEFH1131738A)](arrete-du-23-decembre-2011-defh1131738a)
 - [Arrêté du 23 décembre 2011 (DEVP1135517A)](arrete-du-23-decembre-2011-devp1135517a)
-- [Arrêté du 23 décembre 2011 (ETSH1135390A)](arrete-du-23-decembre-2011-etsh1135390a)
 - [Arrêté du 23 décembre 2011 (ETSH1135408A)](arrete-du-23-decembre-2011-etsh1135408a)
 - [Arrêté du 23 décembre 2011 (ETSP1200142A)](arrete-du-23-decembre-2011-etsp1200142a)
 - [Arrêté du 23 décembre 2011 (ETST1131996A)](arrete-du-23-decembre-2011-etst1131996a)
