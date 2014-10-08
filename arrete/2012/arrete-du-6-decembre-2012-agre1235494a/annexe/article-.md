@@ -1,406 +1,372 @@
 # Article 
 
-RÈGLEMENT D'EXAMEN DU BACCALAURÉAT TECHNOLOGIQUE SÉRIE STAV
-
-À TITRE EXPÉRIMENTAL (SESSION 2014)
+RÈGLEMENT D'EXAMEN SÉRIE STAV DU BACCALAURÉAT TECHNOLOGIQUE EXPÉRIMENTAL POUR LES SESSIONS 2015 ET 2016
 
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="297">
-<p align="center">ÉPREUVES OBLIGATOIRES</p>
+<td colspan="2">
+<p align="center"> ÉPREUVES OBLIGATOIRES</p>
 </td>
-<td colspan="4" width="377">
-<p align="center">CANDIDATS DE LA VOIE SCOLAIRE</p>
+<td>
+<p align="center">CANDIDATS<br/>de la voie scolaire</p>
 </td>
-</tr>
-<tr>
-<td colspan="2" width="297">
-<br/>
+<td>
+<p align="center"> COEFFICIENT</p>
 </td>
-<td width="148">
-<br/>
+<td>
+<p align="center">NATURE</p>
 </td>
-<td width="75">
-<p align="center">Coefficient</p>
-</td>
-<td width="74">
-<p align="center">Nature</p>
-</td>
-<td width="74">
-<p align="center">Durée</p>
+<td>
+<p align="center">DURÉE</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E1</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>E1/M1<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Langue française, littératures et autres modes d'expression</p>
+<td rowspan="2" valign="middle">
+<br/>Langue française, littératures et autres modes d'expression artistique<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale (1)</p>
+<td align="center" valign="middle">
+<br/>Epreuve terminale anticipée (1)<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">3</p>
+<td align="center" valign="middle">
+<br/>3<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">Ecrit</p>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">3 heures</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
-</td>
-<td valign="top" width="75">
-<p align="center">1</p>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-<td valign="top" width="74">
-<br/>
+<td align="center" valign="middle">
+<br/>3 heures<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E2</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Connaissance et pratique d'une langue étrangère </p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="3" valign="middle">
+<br/>E2/M2<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">2</p>
+<td valign="middle">
+<br/>E2.1 : langue vivante 1<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">Oral</p>
+<td align="center" valign="middle">
+<br/>Epreuve terminale<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">20 minutes</p>
+<td align="center" valign="middle">
+<br/>1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Oral<br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
+<td rowspan="2" valign="middle">
+<br/>E2.2 : langue vivante 2<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>Epreuve terminale<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="center" valign="middle">
+<br/>Oral<br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="37">
-<p align="center">E3</p>
-</td>
-<td valign="top" width="258">
-<p>Education physique et sportive</p>
-</td>
-<td valign="top" width="148">
-<p align="center">CCF</p>
-</td>
-<td valign="top" width="75">
-<p align="center">3</p>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-<td valign="top" width="74">
-<br/>
+<td align="center" valign="middle">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E4</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Mathématiques et TIM</p>
+<td align="center" valign="middle">
+<br/>2<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>E3/M3<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">3</p>
+<td valign="middle">
+<br/>Education physique et sportive<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">Ecrit</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">2 heures</p>
+<td align="center" valign="middle">
+<br/>3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Pratique<br/>
+</td>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>E4/M4<br/>
+</td>
+<td rowspan="2" valign="middle">
+<br/>Mathématiques et technologie de l'informatique et du multimédia (TIM)<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Epreuve terminale Mathématiques<br/>
+</td>
+<td align="center" valign="middle">
+<br/>3<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="3" valign="middle">
+<br/>E5/M5<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td valign="middle">
+<br/>E5.1 : philosophie<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Epreuve terminale<br/>
+</td>
+<td align="center" valign="middle">
+<br/>1<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E5</p>
+<td rowspan="2" valign="middle">
+<br/>E5.2 : histoire géographie<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Philosophie</p>
+<td align="center" valign="middle">
+<br/>Epreuve terminale<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
+<td align="center" valign="middle">
+<br/>2<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">Ecrit</p>
-</td>
-<td valign="top" width="74">
-<p align="center">2 heures</p>
+<td align="center" valign="middle">
+<br/>2 heures<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>E6/M6<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td rowspan="2" valign="middle">
+<br/>Sciences économiques sociales et de gestion<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Epreuve terminale<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 heures<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E6</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Sciences humaines</p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>E7/M7-1 <p>M7.2<br/>
+</p>
 </td>
-<td valign="top" width="75">
-<p align="center">4</p>
+<td rowspan="2" valign="middle">
+<br/>Sciences du vivant<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">Ecrit</p>
+<td align="center" valign="middle">
+<br/>Biologie écologie<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">4 heures</p>
+<td align="center" valign="middle">
+<br/>4<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br/>3<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>E8/M8<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td rowspan="2" valign="middle">
+<br/>Sciences de la matière<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Physique chimie<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrit<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E7</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Sciences du vivant</p>
+<td align="center" valign="middle">
+<br/>1<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>E9/M9<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">4</p>
+<td rowspan="2" valign="middle">
+<br/>Technologies<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">Ecrit</p>
+<td align="center" valign="middle">
+<br/>Epreuve terminale<br/>
 </td>
-<td valign="top" width="74">
-<p align="center">2 heures</p>
+<td align="center" valign="middle">
+<br/>5<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Oral sur dossier<br/>
+</td>
+<td align="center" valign="middle">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br/>3<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>E10<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td valign="middle">
+<br/>Education physique et sportive de complément<br/>
+</td>
+<td align="center" valign="middle">
+<br/>CCF<br/>
+</td>
+<td align="center" valign="middle">
+<br/>2<br/>
+</td>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" colspan="6" valign="middle">
+<br/>Epreuves facultatives. Choix de deux enseignements facultatifs au maximum parmi les suivants :<br/>LV3, pratiques professionnelles, pratiques sociales et culturelles, hippologie équitation<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E8</p>
+<td align="left" valign="middle"/>
+<td valign="middle">
+<br/>Epreuve portant sur le premier enseignement facultatif<br/>
 </td>
-<td rowspan="2" valign="top" width="258">
-<p>Sciences de la matière</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
+<td align="center" valign="middle">
+<br/>Points au-dessus de 10<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">2</p>
-</td>
-<td valign="top" width="74">
-<p align="center">Ecrit</p>
-</td>
-<td valign="top" width="74">
-<p align="center">2 heures</p>
-</td>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
 </tr>
 <tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
+<td align="left" valign="middle"/>
+<td valign="middle">
+<br/>Epreuve portant sur le second enseignement facultatif<br/>
 </td>
-<td valign="top" width="75">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br/>CCF<br/>
 </td>
-<td valign="top" width="74">
-<br/>
+<td align="center" valign="middle">
+<br/>Points au-dessus de 10<br/>
 </td>
-<td valign="top" width="74">
-<br/>
-</td>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="37">
-<p align="center">E9</p>
-</td>
-<td rowspan="2" valign="top" width="258">
-<p>Technologies</p>
-</td>
-<td valign="top" width="148">
-<p align="center">Epreuve terminale</p>
-</td>
-<td valign="top" width="75">
-<p align="center">5</p>
-</td>
-<td valign="top" width="74">
-<p align="center">Oral sur dossier</p>
-</td>
-<td valign="top" width="74">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p align="center">CCF</p>
-</td>
-<td valign="top" width="75">
-<p align="center">3</p>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="37">
-<p align="center">E10</p>
-</td>
-<td valign="top" width="258">
-<p>Education physique et sportive de complément</p>
-</td>
-<td valign="top" width="148">
-<p align="center">CCF</p>
-</td>
-<td valign="top" width="75">
-<p align="center">2</p>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="258">
-<p>Epreuves facultatives</p>
-</td>
-<td colspan="4" valign="top" width="377">
-<p align="center">Candidats de la voie scolaire</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="258">
-<p>Langue vivante 2</p>
-</td>
-<td valign="top" width="148">
-<p align="center">CCF</p>
-</td>
-<td valign="top" width="75">
-<p align="center">(*)</p>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="37">
-<br/>
-</td>
-<td valign="top" width="258">
-<p>Epreuve portant sur un enseignement facultatif de la liste, à l'exception de l'éducation physique et sportive</p>
-</td>
-<td valign="top" width="148">
-<p align="center">CCF</p>
-</td>
-<td valign="top" width="75">
-<p align="center">(*)</p>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-<td valign="top" width="74">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="6" width="676">
-<p>(1) Epreuve anticipée.</p>
-<p>(*) Points au-dessus de 10.</p>
+<td align="left" colspan="6" valign="middle">
+<br/>(1) Epreuve anticipée.<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="left"/>
