@@ -1,0 +1,3 @@
+# Article 7
+
+Si elle ne se juge pas suffisamment éclairée sur les faits reprochés à l'intéressé ou les circonstances dans lesquelles ces faits ont été commis, la commission a la faculté de prescrire un complément d'information ou une enquête administrative qui peut être confiée à un membre actif ou retraité de l'inspection générale des affaires sociales. Si l'agent en cause est un agent comptable, l'enquête peut également être confiée soit à un membre de la direction régionale des finances publiques de la région d'exercice de l'agent comptable mis en cause, soit à un membre de l'inspection générale des finances.
