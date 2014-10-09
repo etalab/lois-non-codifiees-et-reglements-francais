@@ -396,7 +396,6 @@
 - [Arrêté du 8 janvier 2014 (JUSB1331651A)](arrete-du-8-janvier-2014-jusb1331651a)
 - [Arrêté du 8 janvier 2014 (JUSB1331653A)](arrete-du-8-janvier-2014-jusb1331653a)
 - [ARRÊTÉ du 8 juillet 2014 (AFSR1415264A)](arrete-du-8-juillet-2014-afsr1415264a)
-- [ARRÊTÉ du 8 juillet 2014 (AFSR1415265A)](arrete-du-8-juillet-2014-afsr1415265a)
 - [ARRÊTÉ du 8 juillet 2014 (DEVA1416479A)](arrete-du-8-juillet-2014-deva1416479a)
 - [ARRÊTÉ du 8 juillet 2014 (DEVR1415311A)](arrete-du-8-juillet-2014-devr1415311a)
 - [ARRÊTÉ du 8 juillet 2014 (DEVR1416557A)](arrete-du-8-juillet-2014-devr1416557a)
