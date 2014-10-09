@@ -1,6 +1,6 @@
 # Article 7
 
-A l'intérieur de la zone contrôlée, le chef d'établissement délimite, s'il y a lieu, les zones spécialement réglementées ou interdites suivantes :
+A l'intérieur de la zone contrôlée, l'employeur délimite, s'il y a lieu, les zones spécialement réglementées ou interdites suivantes :
 
 a) Les zones spécialement réglementées, désignées zones contrôlées jaunes, où la dose efficace susceptible d'être reçue en une heure reste inférieure à 2 mSv et où la dose équivalente (mains, avant-bras, pieds, chevilles) susceptible d'être reçue en une heure reste inférieure à 50 mSv.
 

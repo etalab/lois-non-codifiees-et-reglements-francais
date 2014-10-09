@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-**PRESCRIPTIONS CONCERNANT LES PANNEAUX DE SIGNALISATION DES ZONES DÉFINIES À L'ARTICLE R. 231-81 DU CODE DU TRAVAIL**
+PRESCRIPTIONS CONCERNANT LES PANNEAUX DE SIGNALISATION DES ZONES DÉFINIES AUX ARTICLES R. 4451-18 À R. 4451-22 DU CODE DU TRAVAIL
 
 La forme des panneaux de signalisation prévus à l'article 8 du présent arrêté est définie par le schéma de base ci-après (Cliché non reproduit).
 

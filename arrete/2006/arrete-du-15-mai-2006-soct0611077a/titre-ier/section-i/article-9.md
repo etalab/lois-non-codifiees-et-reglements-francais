@@ -1,6 +1,6 @@
 # Article 9
 
-I. - Lorsque l'émission de rayonnements ionisants n'est pas continue, et que les conditions techniques le permettent, la délimitation de la zone contrôlée, mentionnée à l'article 5, peut être intermittente. Dans ce cas, le chef d'établissement établit des règles de mise en oeuvre de la signalisation prévue à l'article 8, assurée par un dispositif lumineux et, s'il y a lieu, sonore, interdisant tout accès fortuit d'un travailleur à la zone considérée.
+I. - Lorsque l'émission de rayonnements ionisants n'est pas continue, et que les conditions techniques le permettent, la délimitation de la zone contrôlée, mentionnée à l'article 5, peut être intermittente. Dans ce cas, l'employeur établit des règles de mise en œuvre de la signalisation prévue à l'article 8, assurée par un dispositif lumineux et, s'il y a lieu, sonore, interdisant tout accès fortuit d'un travailleur à la zone considérée.
 
 La zone considérée ainsi délimitée et signalée est, a minima, lorsque l'émission de rayonnements ionisants ne peut être exclue, une zone surveillée. La signalisation de celle-ci, prévue à l'article 8, peut être assurée par un dispositif lumineux.
 
