@@ -1,4 +1,0 @@
-# Annexes
-
-- [LISTE DES ENREGISTREMENTS MENTIONNÉS À L'ARTICLE 1er.](liste-des-enregistrements-mentionnes-a)
-- [LISTE DES OBLIGATIONS MINIMALES DEVANT FIGURER DANS LE CONTENU DU CAHIER DES CHARGES APPLICABLE AUX OPÉRATEURS DU SERVICE PUBLIC D'ENREGISTREMENT ET DE CONTRÔLE DES PERFORMANCES DES RUMINANTS.](liste-des-obligations-minimales-devant-figurer-dans-le-contenu-du-cahier-des-charges-applicable-aux)
