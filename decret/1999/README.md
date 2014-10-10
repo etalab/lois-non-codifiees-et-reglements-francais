@@ -277,7 +277,6 @@
 - [Décret n°99-380 du 12 mai 1999 (MENE9900702D)](decret-n99-380-du-12-mai-1999-mene9900702d)
 - [Décret n°99-381 du 12 mai 1999 (MENE9900701D)](decret-n99-381-du-12-mai-1999-mene9900701d)
 - [Décret du 13 décembre 1999 (ECOC9900126D)](decret-du-13-decembre-1999-ecoc9900126d)
-- [Décret du 13 décembre 1999 (ECOC9900127D)](decret-du-13-decembre-1999-ecoc9900127d)
 - [Décret n°99-1042 du 13 décembre 1999 (MESS9923669D)](decret-n99-1042-du-13-decembre-1999-mess9923669d)
 - [Décret n°99-1046 du 13 décembre 1999 (ECOI9900400D)](decret-n99-1046-du-13-decembre-1999-ecoi9900400d)
 - [Décret n°99-22 du 13 janvier 1999 (ECOF9800038D)](decret-n99-22-du-13-janvier-1999-ecof9800038d)
