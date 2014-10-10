@@ -6,7 +6,7 @@ Pp = P0 + Tp Rp,
 
 dans laquelle :
 
-P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8,5 % de la dépense éligible définie à l'article R. 351-17-3 ou 34,53 euros ;
+P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8,5 % de la dépense éligible définie à l'article R. 351-17-3 ou 34,73 euros ;
 
 Tp représente le taux de participation personnelle ; son montant est calculé selon les dispositions définies à l'article 2 quater ;
 
@@ -35,7 +35,7 @@ où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionn
 </tr>
 <tr>
 <td>
-<p align="center">Personne isolée sans personne à charge </p>
+<p align="left">Personne isolée sans personne à charge </p>
 </td>
 <td>
 <p align="center">88</p>
@@ -46,7 +46,7 @@ où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionn
 </tr>
 <tr>
 <td>
-<p align="center">Couple sans personne à charge </p>
+<p align="left">Couple sans personne à charge </p>
 </td>
 <td>
 <p align="center">126</p>
@@ -57,7 +57,7 @@ où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionn
 </tr>
 <tr>
 <td>
-<p align="center">Personne isolée ou couple avec une personne à charge </p>
+<p align="left">Personne isolée ou couple avec une personne à charge </p>
 </td>
 <td>
 <p align="center">150,3</p>
@@ -79,7 +79,7 @@ où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionn
 </tr>
 <tr>
 <td>
-<p align="center">Majoration par personne à charge supplémentaire </p>
+<p align="left">Majoration par personne à charge supplémentaire </p>
 </td>
 <td>
 <p align="center">40 </p>

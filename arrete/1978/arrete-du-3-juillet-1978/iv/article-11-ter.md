@@ -5,27 +5,30 @@ En application de l'article R. 351-22-1, le montant forfaitaire des charges est 
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉSIGNATION </td>
-<td align="center"> TOUTES ZONES (en euros) </td>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>TOUTES ZONES <br/>
+<br/>(en euros) <br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<div align="left">Bénéficiaire isolé ou couple sans personne à charge <br/>
-</div>
+<td valign="middle">
+<p align="left">
+<br/>Bénéficiaire isolé ou couple sans personne à charge </p>
 </td>
-<td align="center">
-<br/>52,93 <br/>
+<td align="center" valign="middle">
+<br/>53,23 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<div align="left">Par personne supplémentaire à charge <br/>
-</div>
+<td valign="middle">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
 </td>
-<td align="center">
-<br/>11,99 </td>
+<td align="center" valign="middle">
+<br/>12,06</td>
 </tr>
 </tbody>
 </table>
@@ -35,39 +38,39 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉSIGNATION </td>
-<td align="center"> TOUTES ZONES (en euros) </td>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>TOUTES ZONES <br/>
+<br/>(en euros) <br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<div align="left">
-<br/>
-</div>
-<div align="left">Bénéficiaire isolé <br/>
-</div>
+<td valign="middle">
+<p align="left">
+<br/>Bénéficiaire isolé </p>
 </td>
-<td align="center">
-<br/>26,46 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<div align="left">Couple sans personne à charge <br/>
-</div>
-</td>
-<td align="center">
-<br/>52,93 <br/>
+<td align="center" valign="middle">
+<br/>26,61 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<div align="left">Par personne supplémentaire à charge <br/>
-</div>
+<td valign="middle">
+<p align="left">
+<br/>Couple sans personne à charge </p>
 </td>
-<td align="center">
-<br/>11,99<br/>
+<td align="center" valign="middle">
+<br/>53,23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>12,06<br/>
 </td>
 </tr>
 </tbody>

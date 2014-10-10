@@ -4544,16 +4544,16 @@ a) Logements neufs construits ou acquis par l'accédant à la propriété :
 <br/>DÉSIGNATION <br/>
 </th>
 <th>
-<br/>ZONE 1 <br/>
-<br/>(en euros) <br/>
+<br/>ZONE 1 <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>ZONE 2 <br/>
-<br/>(en euros) <br/>
+<br/>ZONE 2 <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>ZONE 3 <br/>
-<br/>(en euros) <br/>
+<br/>ZONE 3 <p>(en euros) <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -4624,16 +4624,16 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 <br/>DÉSIGNATION <br/>
 </th>
 <th>
-<br/>ZONE 1 <br/>
-<br/>(en euros) <br/>
+<br/>ZONE 1 <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>ZONE 2 <br/>
-<br/>(en euros) <br/>
+<br/>ZONE 2 <p>(en euros) <br/>
+</p>
 </th>
 <th>
-<br/>ZONE 3 <br/>
-<br/>(en euros) <br/>
+<br/>ZONE 3 <p>(en euros) <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -4694,3 +4694,175 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tr>
 </tbody>
 </table>
+
+29° Lorsque la date de signature du contrat de prêt est intervenue postérieurement au 30 septembre 2014 :
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>ZONE 1 <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>ZONE 2 <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>ZONE 3 <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Bénéficiaire isolé </p>
+</td>
+<td align="center" valign="middle">
+<br/>368,35 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>328,72 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>306,88 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Couple sans personne à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>444,37 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>395,64 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>367,98 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>520,39 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>462,59 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>429,08 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>76,01 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>66,93 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>61,10 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou logements existants acquis et, le cas échéant, améliorés :
+
+<div align="center">
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>ZONE 1 <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>ZONE 2 <br/>
+<br/>(en euros) <br/>
+</th>
+<th>
+<br/>ZONE 3 <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Bénéficiaire isolé </p>
+</td>
+<td align="center" valign="middle">
+<br/>296,50 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>264,31 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>246,84 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Couple sans personne à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>357,81 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>318,33 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>296,12 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>419,11 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>372,34 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>345,42 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<p align="left">
+<br/>Par personne supplémentaire à charge </p>
+</td>
+<td align="center" valign="middle">
+<br/>61,31 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>54,02 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>49,30<br/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
