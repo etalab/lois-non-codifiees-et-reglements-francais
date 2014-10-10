@@ -735,7 +735,6 @@
 - [Décret n°2004-470 du 25 mai 2004 (JUSD0430034D)](decret-n2004-470-du-25-mai-2004-jusd0430034d)
 - [Décret n°2004-471 du 25 mai 2004 (JUSD0430035D)](decret-n2004-471-du-25-mai-2004-jusd0430035d)
 - [Décret n°2004-473 du 25 mai 2004 (AGRG0401003D)](decret-n2004-473-du-25-mai-2004-agrg0401003d)
-- [Décret du 26 novembre 2004 (AGRP0401706D)](decret-du-26-novembre-2004-agrp0401706d)
 - [Décret du 26 novembre 2004 (AGRP0401808D)](decret-du-26-novembre-2004-agrp0401808d)
 - [Décret n°2003-1255 du 26 décembre 2003 (SOCS0324260D)](decret-n2003-1255-du-26-decembre-2003-socs0324260d)
 - [Décret n°2003-1257 du 26 décembre 2003 (JUSC0320851D)](decret-n2003-1257-du-26-decembre-2003-jusc0320851d)
