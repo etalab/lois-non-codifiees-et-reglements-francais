@@ -8,8 +8,10 @@ Elle anime et met en œuvre la coordination opérationnelle entre les services d
 
 Elle assure la centralisation de l'information relative à la lutte contre l'immigration illégale, la fraude documentaire appliquée aux titres d'identité, de circulation et de séjour ainsi qu'au travail illégal recourant à de la main-d'œuvre étrangère.
 
-Elle produit des statistiques et des analyses relatives aux flux migratoires, à la prévention et à la répression de l'immigration irrégulière.
+Elle centralise l'information et produit des analyses relatives aux flux migratoires, à la prévention et à la répression de l'immigration irrégulière.
 
-Elle est également chargée de la coopération internationale opérationnelle et institutionnelle dans tous les domaines de sa compétence.
+Elle est également chargée de la coopération internationale opérationnelle et institutionnelle dans tous les domaines de sa compétence. Le coordonnateur des centres de coopération policière et douanière est placé sous l'autorité du directeur central.
 
 Elle concourt à la sûreté des moyens de transport internationaux et à la police aéronautique.
+
+Elle participe à la sécurisation des personnes et des biens dans les transports en commun de voyageurs par voie ferrée et assure la coordination nationale de l'action de l'ensemble des acteurs qui y contribuent.
