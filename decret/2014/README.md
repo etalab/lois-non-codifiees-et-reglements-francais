@@ -133,6 +133,8 @@
 - [DÉCRET n°2014-1028 du 8 septembre 2014 (OMEO1415229D)](decret-n2014-1028-du-8-septembre-2014-omeo1415229d)
 - [Décret n°2014-11 du 8 janvier 2014 (PRMX1400502D)](decret-n2014-11-du-8-janvier-2014-prmx1400502d)
 - [DÉCRET n°2014-1144 du 8 octobre 2014 (AFSS1411758D)](decret-n2014-1144-du-8-octobre-2014-afss1411758d)
+- [DÉCRET n°2014-1154 du 8 octobre 2014 (AFSS1411148D)](decret-n2014-1154-du-8-octobre-2014-afss1411148d)
+- [DÉCRET n°2014-1161 du 8 octobre 2014 (INTC1419026D)](decret-n2014-1161-du-8-octobre-2014-intc1419026d)
 - [DÉCRET n°2014-784 du 8 juillet 2014 (DEVT1405501D)](decret-n2014-784-du-8-juillet-2014-devt1405501d)
 - [DÉCRET n°2014-785 du 8 juillet 2014 (FCPT1328150D)](decret-n2014-785-du-8-juillet-2014-fcpt1328150d)
 - [DÉCRET n°2014-786 du 8 juillet 2014 (AFSS1405781D)](decret-n2014-786-du-8-juillet-2014-afss1405781d)
