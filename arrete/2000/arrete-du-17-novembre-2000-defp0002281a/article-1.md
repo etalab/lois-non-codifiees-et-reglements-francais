@@ -1,51 +1,45 @@
 # Article 1
 
-Les dispositions prévues par le décret du 6 février 1950 susvisé sont applicables aux fonctionnaires ci-dessous énumérés occupant des emplois permanents à l'administration centrale du ministère de la défense :
+Les dispositions prévues par le
+décret du 6 février 1950 susvisé
+sont applicables aux fonctionnaires ci-dessous énumérés occupant des emplois permanents dans l'administration centrale du ministère de la défense :
 
 - délégué général pour l'armement, secrétaire général pour l'administration ;
 
--directeurs, chefs de service ;
+- directeurs de la direction générale de la sécurité extérieure, chefs de service de la direction générale de la sécurité extérieure ;
 
--sous-directeurs ;
+- sous- directeurs de la direction générale de la sécurité extérieure ;
 
--inspecteurs du personnel civil, du patrimoine et de l'action sociale ;
+- inspecteurs civils de la défense ;
 
--administrateurs civils ;
+- administrateurs de la direction générale de la sécurité extérieure ;
 
--chargés d'études documentaires ;
+- directeurs de projet de la direction générale de la sécurité extérieure ;
 
--conseillers techniques de service social ;
+- conseillers d'administration de la direction générale de la sécurité extérieure ;
 
--secrétaires administratifs ;
+- attachés de la direction générale de la sécurité extérieure ;
 
--assistants de service social ;
+- chargés d'études documentaires ;
 
--infirmières et infirmiers des services médicaux de l'Etat ;
+- conseillers techniques de service social ;
 
--bibliothécaires adjoints ;
+- infirmiers de la défense ;
 
--agents principaux des services techniques ;
+- secrétaires administratifs spécialisés de la direction générale de la sécurité extérieure ;
 
--chefs de service intérieur ;
+- assistants de service social ;
 
--adjoints administratifs ;
+- bibliothécaires assistants spécialisés ;
 
--agents administratifs ;
+- agents principaux des services techniques ;
 
--maîtres ouvriers ;
+- chefs de service intérieur ;
 
--ouvriers professionnels ;
+- adjoints administratifs ;
 
--chefs de garage ;
+- adjoints administratifs de la direction générale de la sécurité extérieure ;
 
--conducteurs d'automobile ;
+- agents techniques de la direction générale de la sécurité extérieure ;
 
--agents des services techniques ;
-
--téléphonistes ;
-
--directeurs de projets ;
-
--conseillers pour les affaires administratives ;
-
-- attachés d'administration.
+- surveillants de la direction générale de la sécurité extérieure.

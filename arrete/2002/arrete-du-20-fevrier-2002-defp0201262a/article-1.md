@@ -6,50 +6,40 @@ Les fonctionnaires et les agents non titulaires de droit public à durée indét
 <tbody>
 <tr>
 <td>
-<p align="center">CORPS DE FONCTIONNAIRES </p>
+<p align="center"> CORPS DE FONCTIONNAIRES<br/>
+</p>
 </td>
 <td>
-<p align="center">GRADES D'ASSIMILATION </p>
+<p align="center"> GRADES D'ASSIMILATION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Infirmier (ère) des services médicaux des administrations de l'État de classe normale dont l'indice brut de rémunération est au plus égal à 380, assistant des bibliothèques de classe normale dont l'indice brut de rémunération est au plus égal à 380, bibliothécaire adjoint spécialisé de 2e classe dont l'indice brut de rémunération est au plus égal à 380. </p>
+<br/>Bibliothécaires assistants spécialisés de classe normale dont l'indice brut de rémunération est au plus égal à 380<br/>
 </td>
 <td>
-<p>Agent du premier grade de la catégorie B. </p>
+<br/>Agent du premier grade de la catégorie B<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<br/>Catégories d'agents non titulaires<br/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">CATÉGORIES D'AGENTS NON TITULAIRES </p>
+<br/>Agent non titulaire de catégorie 4 C dont l'indice brut de rémunération est au plus égal à 380<br/>
 </td>
 <td>
-<p align="center">GRADES D'ASSIMILATION </p>
+<br/>Agent du premier grade de la catégorie B<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agent non titulaire de catégorie 4 C dont l'indice brut de rémunération est au plus égal à 380. </p>
+<td valign="middle">
+<br/>Agent non titulaire de catégorie 5 C<br/>
 </td>
 <td>
-<p>Agent du premier grade de la catégorie B. </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agent non titulaire de catégorie 5 C. </p>
-</td>
-<td>
-<p>Agent de catégorie C rémunéré en échelle 4. </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Agent non titulaire de catégorie 6 C. </p>
-</td>
-<td rowspan="2">
-<p>Agent de catégorie C rémunéré en échelle 2. </p>
+<br/>Agent de catégorie C rémunéré en échelle 4<br/>
 </td>
 </tr>
 </tbody>

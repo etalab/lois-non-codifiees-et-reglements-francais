@@ -6,88 +6,65 @@ Les fonctionnaires de l'Etat et les agents non titulaires de droit public à dur
 <tbody>
 <tr>
 <td>
-<p align="center">CORPS DE FONCTIONNAIRES </p>
+<p align="center"> CORPS DE FONCTIONNAIRES </p>
 </td>
-<td colspan="2">
-<p align="center">CATÉGORIES D'ASSIMILATION </p>
+<td>
+<p align="center"> CATÉGORIES D'ASSIMILATION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Conseiller pour les affaires administratives du ministère de la défense, chef des services déconcentrés du ministère de la défense, traducteur principal de 1re et 2e classe, chargé d'études documentaires principal de 1re et 2e classe, professeur agrégé hors classe et de classe normale, professeur certifié bi-admissible à l'agrégation hors classe et de classe normale, professeur certifié hors classe et de classe normale, professeur d'éducation physique et sportive hors classe et de classe normale, professeur de lycée professionnel hors classe et de classe normale, professeur d'enseignement général de collège de classe exceptionnelle et hors classe, professeur des écoles hors classe et de classe normale. </p>
+<br/>Chargé d'études documentaires principal de 1re et de 2e classe, professeur agrégé hors classe et de classe normale, professeur certifié bi-admissible à l'agrégation hors classe et de classe normale, professeur certifié hors classe et de classe normale, professeur d'éducation physique et sportive hors classe et de classe normale, professeur de lycée professionnel hors classe et de classe normale, professeur d'enseignement général de collège de classe exceptionnelle et hors classe, professeur des écoles hors classe et de classe normale <br/>
 </td>
-<td colspan="2">
-<p align="center">1re catégorie. </p>
+<td align="center" valign="middle">
+<br/>1re catégorie <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé d'études documentaires, bibliothécaire <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2e catégorie <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Attaché d'administration du ministère de la défense </p>
+<br/>Bibliothécaire assistant spécialisé de classe normale, supérieure, exceptionnelle dont l'indice brut de rémunération est supérieur à 380 <br/>
 </td>
-<td colspan="2">
-<p align="center">2e catégorie. </p>
+<td align="center" valign="middle">
+<br/>3e catégorie <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Catégories d'agents non titulaires <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td>
+<br/>Agent non titulaire de catégorie 1 C <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1re catégorie <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Attaché principal d'administration du ministère de la défense </p>
+<br/>Agent non titulaire de catégorie 2 C <br/>
 </td>
-<td colspan="2">
-<p align="center">1re catégorie. </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Traducteur, chargé d'études documentaires, bibliothécaire. </p>
-</td>
-<td colspan="2">
-<p align="center">2e catégorie. </p>
+<td align="center" valign="middle">
+<br/>2e catégorie <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p>Infirmier (ère) des services médicaux des administrations de l'Etat de classe supérieure, infirmier (ère) des services médicaux des administrations de l'Etat de classe normale dont l'indice brut de rémunération est supérieur à 380, assistant des bibliothèques de classe exceptionnelle, assistant des bibliothèques de classe supérieure, assistant des bibliothèques de classe normale dont l'indice brut de rémunération est supérieur à 380, bibliothécaire adjoint spécialisé hors classe, bibliothécaire adjoint spécialisé de 1re classe, bibliothécaire adjoint spécialisé de 2e classe dont l'indice brut de rémunération est supérieur à 380. </p>
+<br/>Agent non titulaire de catégorie 4 C dont l'indice brut de rémunération est supérieur à 380 <br/>
 </td>
-<td colspan="2">
-<p align="center">3e catégorie. </p>
+<td align="center" valign="middle">
+<br/>3e catégorie<br/>
 </td>
-</tr>
-<tr>
-<td colspan="2">
-<p align="center">CATÉGORIES D'AGENTS NON TITULAIRES </p>
-</td>
-<td>
-<p align="center">CATÉGORIES D'ASSIMILATION </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Agent non titulaire de catégorie 1 C. </p>
-</td>
-<td>
-<p align="center">1re catégorie. </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Agent non titulaire de catégorie 2 C, agent non titulaire de catégorie 3 C. </p>
-</td>
-<td>
-<p align="center">2e catégorie. </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">
-<p>Agent non titulaire de catégorie 4C dont l'indice brut de rémunération est supérieur à 380. </p>
-</td>
-<td rowspan="2">
-<p align="center">3e catégorie. </p>
-</td>
-</tr>
-<tr>
-<td width="503"/>
-<td width="4"/>
-<td width="108"/>
 </tr>
 </tbody>
 </table>
