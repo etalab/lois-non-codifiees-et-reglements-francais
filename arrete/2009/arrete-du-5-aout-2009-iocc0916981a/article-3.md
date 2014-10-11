@@ -16,4 +16,6 @@ La direction centrale de la police judiciaire comprend :
 
 - la sous-direction de la police technique et scientifique ;
 
-- la sous-direction des ressources, de l'évaluation et de la stratégie, à laquelle est rattachée la mission de liaison de la gendarmerie.
+- la sous-direction des ressources, de l'évaluation et de la stratégie, à laquelle est rattachée la mission de liaison de la gendarmerie ;
+
+- le service statistique ministériel de la sécurité intérieure.
