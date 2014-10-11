@@ -2795,7 +2795,6 @@
 - [Arrêté du 30 septembre 2011 (AGRG1032380A)](arrete-du-30-septembre-2011-agrg1032380a)
 - [Arrêté du 30 septembre 2011 (DEFH1126388A)](arrete-du-30-septembre-2011-defh1126388a)
 - [Arrêté du 30 septembre 2011 (DEVA1123209A)](arrete-du-30-septembre-2011-deva1123209a)
-- [Arrêté du 30 septembre 2011 (DEVA1126764A)](arrete-du-30-septembre-2011-deva1126764a)
 - [Arrêté du 30 septembre 2011 (DEVK1124606A)](arrete-du-30-septembre-2011-devk1124606a)
 - [Arrêté du 30 septembre 2011 (DEVL1121405A)](arrete-du-30-septembre-2011-devl1121405a)
 - [Arrêté du 30 septembre 2011 (DEVS0923225A)](arrete-du-30-septembre-2011-devs0923225a)
