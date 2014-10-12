@@ -49,6 +49,7 @@
 - [Décret n°2005-1613 du 22 décembre 2005 (MAEX0500293D)](decret-n2005-1613-du-22-decembre-2005-maex0500293d)
 - [Décret n°2006-726 du 22 juin 2006 (MENX0600078D)](decret-n2006-726-du-22-juin-2006-menx0600078d)
 - [Décret n°2006-1762 du 23 décembre 2006 (FPPA0600165D)](decret-n2006-1762-du-23-decembre-2006-fppa0600165d)
+- [Décret n°2006-1764 du 23 décembre 2006 (MCCB0600908D)](decret-n2006-1764-du-23-decembre-2006-mccb0600908d)
 - [Décret n°2006-1795 du 23 décembre 2006 (ECOP0600785D)](decret-n2006-1795-du-23-decembre-2006-ecop0600785d)
 - [Décret n°2006-1827 du 23 décembre 2006 (FPPA0600168D)](decret-n2006-1827-du-23-decembre-2006-fppa0600168d)
 - [Décret n°2006-595 du 23 mai 2006 (PMEX0600053D)](decret-n2006-595-du-23-mai-2006-pmex0600053d)
