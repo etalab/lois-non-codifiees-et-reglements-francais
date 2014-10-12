@@ -158,7 +158,11 @@ c) Exigences préalables à l'entrée en formation pour le support : "Canoë-kay
 
 - est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées" le titulaire d'une pagaie bleue en eau vive ou en mer, délivrée par la Fédération française de canoë-kayak ;
 
-- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak.
+- est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak ;
+
+- est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III pour la mention monovalente "canoë-kayak et disciplines associées", le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau vive" ou option "canoë-kayak en eau calme et en mer."
+
+Le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau vive" ou option "canoë-kayak en eau calme et en mer", obtient de droit les unités capitalisables 1, 2, 4, 5, 6 (UC1, UC2, UC4, UC5, UC6) du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités nautiques" mention monovalente "canoë-kayak et disciplines associées".
 
 Mention "char à voile" et support "char à voile d'initiation et de découverte"
 
@@ -188,7 +192,7 @@ Etre capable de :
 
 - Maîtriser le démarrage, le roulage, l'équilibre, la direction, l'arrêt d'urgence, le contrôle et le réglage adapté de la propulsion du char à toutes les allures au regard des conditions de milieu et du comportement des autres pilotes.
 
-- Réaliser un parcours avec trajectoires imposées comprenant toutes les manoeuvres courantes et les principales allures dans un vent de force 4 à 6 avec des difficultés de terrain et un test d'évitement.
+- Réaliser un parcours avec trajectoires imposées comprenant toutes les manœuvres courantes et les principales allures dans un vent de force 4 à 6 avec des difficultés de terrain et un test d'évitement.
 
 - Réaliser un parcours similaire avec trajectoires de précision imposées dans un vent de force 1 à 3.
 
@@ -276,7 +280,7 @@ L'attestation de réussite aux exigences préalables, prévue à l'article 5 du 
 
 a) Exigences préalables à l'entrée en formation de la mention "motonautisme" : (L'évaluation est effectuée uniquement sur le support jet).
 
-- Etre titulaire du permis mer "côtier" et eaux intérieures.
+- Etre titulaire du permis mer "côtier" et/ ou eaux intérieures.
 
 Etre capable de :
 
@@ -312,7 +316,7 @@ Etre capable de :
 
 b) Exigences préalables à l'entrée en formation du support "jet" :
 
-- Etre titulaire du permis mer "côtier" et eaux intérieures.
+- Etre titulaire du permis mer "côtier" et/ ou eaux intérieures.
 
 Etre capable de :
 
@@ -348,7 +352,7 @@ Etre capable de :
 
 c) Exigences préalables à l'entrée en formation du support "bateau à moteur d'initiation et de découverte" :
 
-- Etre titulaire du permis mer "côtier" et eaux intérieures.
+- Etre titulaire du permis mer "côtier" et/ou eaux intérieures.
 
 Etre capable de :
 
@@ -360,7 +364,7 @@ Etre capable de :
 
 - Vérifier les équipements individuels de sécurité et les équipements correspondant aux classes de bateaux.
 
-- Manoeuvrer les différents types de bateaux (déjaugeage et maîtrise du cap).
+- Manœuvrer les différents types de bateaux (déjaugeage et maîtrise du cap).
 
 - Accélérer progressivement et ralentir en gérant son erre jusqu'à l'arrêt.
 
@@ -372,7 +376,7 @@ Etre capable de :
 
 d) Exigences préalables à l'entrée en formation du support "engins tractés" :
 
-- Etre titulaire du permis mer "côtier" ou eaux intérieures.
+- Etre titulaire du permis mer "côtier" et/ou eaux intérieures .
 
 - Etre capable d'effectuer un parcours balisé et des évolutions imposées, sans limite de temps, en tractant une bouée avec un bateau tracteur de "type ski nautique".
 
@@ -397,6 +401,8 @@ Au départ et à la fin des évolutions imposées, la bouée doit être placée 
 2. Dispenses et équivalences :
 
 Le diplôme de "moniteur fédéral jet 1er degré" tel que défini dans le règlement des formations, diplômes et qualifications de la fédération française de motonautisme, dispense du test technique préalable à l'entrée en formation pour la mention "motonautisme" et le support "jet" de la spécialité "activités nautiques" du B. P. J. E. P. S.
+
+Canoë-kayak et disciplines associées :
 
 Support "parachutisme ascensionnel nautique"
 
