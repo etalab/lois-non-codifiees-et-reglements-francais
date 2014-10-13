@@ -6,7 +6,7 @@ Le commissaire du Gouvernement représente l'Etat. Il exerce une surveillance su
 
 Pour l'exécution de sa mission, le commissaire du Gouvernement a tous les pouvoirs d'investigation sur pièces et sur place.
 
-Le commissaire du Gouvernement peut assister avec voix consultative aux réunions du conseil de surveillance, du comité stratégique et de tous comités créés en leur sein. A cet effet, les convocations, accompagnées des ordres du jour, les procès-verbaux et tous autres documents lui sont adressés en même temps qu'aux autres membres de ces instances.
+Le commissaire du Gouvernement peut assister avec voix consultative aux réunions du conseil de surveillance, du comité stratégique et des commissions et comités qui y sont constitués. A cet effet, les convocations, accompagnées des ordres du jour, les procès-verbaux et tous autres documents lui sont adressés en même temps qu'aux autres membres de ces instances.
 
 Le commissaire du Gouvernement dispose du droit de demander à tout instant à son président la réunion du conseil de surveillance et l'inscription d'un point à l'ordre du jour du conseil.
 
