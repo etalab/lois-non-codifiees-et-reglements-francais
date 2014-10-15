@@ -6,4 +6,4 @@ II. Le montant des crédits inscrits sur le budget du ministère de l'agricultur
 
 Pour l'application de l'alinéa précédent, les suffrages et les sièges obtenus par des organisations syndicales habilitées ayant présenté une liste d'union sont répartis à parts égales entre ces organisations.
 
-III. Les organisations syndicales bénéficiaires du financement public institué à l'article 1er de la loi n° 99-574 du 9 juillet 1999 précitée sont tenues de tenir une comptabilité retraçant l'utilisation des crédits ainsi attribués. Au titre de chaque année civile, elles établissent un compte rendu qu'elles communiquent dans le premier semestre de l'année suivante au ministère chargé de l'agriculture.
+III. Les organisations syndicales bénéficiaires d'un financement public sont tenues de tenir une comptabilité retraçant l'utilisation des crédits ainsi attribués. Au titre de chaque année civile, elles établissent un compte rendu qu'elles communiquent dans le premier semestre de l'année suivante au ministère chargé de l'agriculture.

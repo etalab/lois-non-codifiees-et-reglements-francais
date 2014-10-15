@@ -6,4 +6,4 @@ Les agréments délivrés en application des dispositions du chapitre IV du titr
 
 Les agréments mentionnés au 3° du II de l'article L. 254-1 et les certificats mentionnés au I de l'article L. 254-3 du même code sont délivrés selon des modalités et un calendrier fixés par décret en Conseil d'Etat et au plus tard dans un délai de deux ans à compter de la date de publication du décret mentionné à l'article L. 254-10 du même code, tel qu'il résulte de la présente loi.
 
-Les certificats mentionnés au II de l'article L. 254-3 du même code sont délivrés selon des modalités et un calendrier fixés par décret en Conseil d'Etat et au plus tard dans un délai de trois ans à compter de la publication du décret mentionné à l'article L. 254-10 du même code, tel qu'il résulte de la présente loi.
+Les certificats mentionnés au II de l'article L. 254-3 du même code sont délivrés selon des modalités et un calendrier fixés par décret en Conseil d'Etat et au plus tard au 26 novembre 2015.
