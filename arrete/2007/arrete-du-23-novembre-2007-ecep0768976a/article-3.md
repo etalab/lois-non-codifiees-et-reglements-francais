@@ -2,300 +2,150 @@
 
 La composition des commissions consultatives paritaires instituées à l'article 1er est fixée comme suit :
 
+<div align="center">
 <table>
 <tbody>
 <tr>
-<th>
-<br/>NUMÉROS<br/>
-<br/>des<br/>
-<br/>commissions<br/>
-</th>
-<th>
-<br/>
-<br/>
-<br/>CATÉGORIES REPRÉSENTÉES<br/>
-</th>
-<th colspan="4">
-<br/>NOMBRE DE REPRÉSENTANTS<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th/>
-<th colspan="2">
-<br/>Du personnel<br/>
-</th>
-<th colspan="2">
-<br/>De l'administration<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th/>
-<th>
-<br/>Titulaires<br/>
-</th>
-<th>
-<br/>Suppléants<br/>
-</th>
-<th>
-<br/>Titulaires<br/>
-</th>
-<th>
-<br/>Suppléants<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>1<br/>
+<td rowspan="3">
+<p align="center">NUMÉROS <br/>   des commissions </p>
 </td>
-<td align="center">
-<br/>Agent contractuel sous CDI<br/>
+<td rowspan="3">
+<p align="center">CATÉGORIES REPRÉSENTÉES </p>
 </td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td colspan="4">
+<p align="center">NOMBRE DE REPRÉSENTANTS </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td colspan="2">
+<p align="center">Du personnel </p>
 </td>
-<td align="center">
-<br/>Agent contractuel sous CDD<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>4<br/>
-</td>
-<td align="center">
-<br/>4<br/>
+<td colspan="2">
+<p align="center">De l'administration </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">Titulaires </p>
 </td>
-<td align="center">
-<br/>Chargé de mission contractuel régi par la décision ministérielle de 1971 et agent contractuel assimilé<br/>
+<td>
+<p align="center">Suppléants </p>
 </td>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">Titulaires </p>
 </td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">Suppléants </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>3<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>Chargé de mission de classe exceptionnelle<br/>
+<td>
+<p>Agent contractuel sous CDI </p>
+<p>Agent contractuel sous CDD </p>
+<p>Chargé de mission contractuel régi   par la décision de 1971et agent contractuel assimilé </p>
+<p>Chargé de mission de classe   exceptionnelle (décret de 1975) </p>
+<p>Chargé de mission de classe normale   (décret de 1975) </p>
+<p>Agent contractuel hors catégorie   (décret de 1975) </p>
+<p>Agent contractuel de 1re catégorie   (décret de 1975) </p>
 </td>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">3 </p>
 </td>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">3 </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">3 </p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Chargé de mission de classe normale<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>6<br/>
-</td>
-<td align="center">
-<br/>6<br/>
+<td>
+<p align="center">3 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>Agent contractuel hors catégorie<br/>
+<td>
+<p>Ingénieur mécanicien électricien </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">3 </p>
 </td>
-<td align="center">
-<br/>Agent contractuel de 1re et de 2e catégorie<br/>
+<td>
+<p>Ingénieur adjoint </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>4<br/>
+<td>
+<p align="center">4 </p>
 </td>
-<td align="center">
-<br/>Ingénieur mécanicien électricien <br/>
+<td>
+<p>Ouvrier et conducteur de véhicules   poids lourds </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">1 </p>
 </td>
-<td align="center">
-<br/>1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>5<br/>
-</td>
-<td align="center">
-<br/>Ingénieur adjoint <br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>6<br/>
+<td>
+<p align="center">5 </p>
 </td>
-<td align="center">
-<br/>Ouvrier (statut alcools)<br/>
+<td>
+<p>Médecin de prévention </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>7<br/>
-</td>
-<td align="center">
-<br/>Conducteur de véhicules poids lourd (statut alcools)<br/>
-</td>
-<td align="center">
-<br/>1<br/>
-</td>
-<td align="center">
-<br/>1<br/>
-</td>
-<td align="center">
-<br/>1<br/>
-</td>
-<td align="center">
-<br/>1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>8<br/>
-</td>
-<td align="center">
-<br/>Médecin de prévention<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
-</td>
-<td align="center">
-<br/>2<br/>
+<td>
+<p align="center">2 </p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+
+.
