@@ -6,9 +6,9 @@ Outre le médecin de prévention, le conseiller ou l'assistant de prévention, m
 
 a) Représentants de l'administration :
 
-― le directeur ou chef de service de la direction générale de l'aviation civile ou son représentant ;
+- le directeur ou chef de service de la direction générale de l'aviation civile ou son représentant ;
 
-― le responsable en charge des ressources humaines ou son représentant.
+- le responsable en charge des ressources humaines ou son représentant.
 
 La présidence du CHSCT commun à plusieurs services est précisée dans son règlement intérieur.
 
@@ -17,104 +17,116 @@ b) Représentants du personnel :
 <table>
 <tbody>
 <tr>
-<td rowspan="3">
-<p align="center"> DIRECTIONS ET SERVICES</p>
-</td>
-<td rowspan="3">
-<p align="center"> CT DE RATTACHEMENT</p>
-</td>
-<td colspan="2">
-<p align="center"> NOMBRE DE REPRÉSENTANTS</p>
+<th rowspan="3">
+<br/>DIRECTIONS ET SERVICES <br/>
+</th>
+<th rowspan="3">
+<br/>CT DE RATTACHEMENT <br/>
+</th>
+<th colspan="2">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<th colspan="2">
+<br/>Membres représentant les personnels <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td align="center" colspan="4" valign="middle">
+<br/>CHSCT de proximité <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<p align="center"> Membres représentant<br/>les personnels</p>
+<td valign="middle">
+<br/>Direction de la sécurité de l'aviation civile Nord-Est et service de la navigation aérienne Nord-Est <br/>
+</td>
+<td align="left" valign="middle">
+<br/>CT spécial DSAC Nord-Est-CT spécial SNA Nord-Est <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center"> Titulaires</p>
+<td valign="middle">
+<br/>Direction de la sécurité de l'aviation civile Ouest et service de la navigation aérienne Ouest <br/>
 </td>
-<td>
-<p align="center"> Suppléants</p>
+<td align="left" valign="middle">
+<br/>CT spécial DSAC Ouest-CT spécial SNA Ouest <br/>
 </td>
-</tr>
-<tr>
-<td colspan="4">
-<p align="center"> CHSCT de proximité</p>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction de la sécurité de l'aviation civile Nord-Est et le service de la navigation aérienne Nord-Est</p>
-</td>
-<td align="center">
-<p align="left">CT spécial DSAC Nord-Est - CT spécial SNA Nord-Est</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction de la sécurité de l'aviation civile Ouest et le service de la navigation aérienne Ouest</p>
+<td valign="middle">
+<br/>Direction de la sécurité de l'aviation civile Sud et service de la navigation aérienne Sud <br/>
 </td>
-<td align="center">
-<p align="left">CT spécial DSAC Ouest - CT spécial SNA Ouest</p>
+<td align="left" valign="middle">
+<br/>CT spécial DSAC Sud-CT spécial SNA Sud <br/>
 </td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center">7<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction de la sécurité de l'aviation civile Sud et le service de la navigation aérienne Sud</p>
-</td>
-<td align="center">
-<p align="left">CT spécial DSAC Sud - CT spécial SNA Sud</p>
-</td>
-<td align="center">7<br/>
-</td>
-<td align="center">7<br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction de la sécurité de l'aviation civile Sud-Ouest et le service de la navigation aérienne Sud-Ouest.</p>
+<td valign="middle">
+<br/>Direction de la sécurité de l'aviation civile Sud-Ouest et service de la navigation aérienne Sud-Ouest <br/>
 </td>
-<td align="center">
-<p align="left">CT spécial DSAC Sud-Ouest - CT spécial SNA Sud-Ouest</p>
+<td align="left" valign="middle">
+<br/>CT spécial DSAC Sud-Ouest-CT spécial SNA Sud-Ouest <br/>
 </td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">9<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction de la sécurité de l'aviation civile Antilles-Guyane et le service de la navigation aérienne Antilles-Guyane </p>
-</td>
-<td align="center">
-<p align="left">CT spécial DSAC Antilles-Guyane - CT spécial SNA Antilles-Guyane</p>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Direction de la sécurité de l'aviation civile océan Indien et le service de la navigation aérienne océan Indien.</p>
+<td valign="middle">
+<br/>Direction de la sécurité de l'aviation civile Antilles-Guyane et service de la navigation aérienne Antilles-Guyane <br/>
 </td>
-<td align="center">
-<p align="left">CT spécial DSAC océan-Indien - CT spécial SNA océan-Indien</p>
+<td align="left" valign="middle">
+<br/>CT spécial DSAC Antilles-Guyane-CT spécial SNA Antilles-Guyane <br/>
 </td>
-<td align="center">5<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center">5<br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Direction de la sécurité de l'aviation civile océan Indien et service de la navigation aérienne océan Indien <br/>
+</td>
+<td align="left" valign="middle">
+<br/>CT spécial DSAC océan-Indien-CT spécial SNA océan-Indien <br/>
+</td>
+<td align="center" valign="middle">
+<br/>5 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>5<br/>
 </td>
 </tr>
 </tbody>
