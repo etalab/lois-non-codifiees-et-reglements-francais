@@ -14,4 +14,4 @@ Diffusion du patrimoine.
 
 Traitement, conservation et restauration du patrimoine.
 
-Langues vivantes.
+Langues vivantes ou latin.
