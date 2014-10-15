@@ -3,97 +3,112 @@
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="281">
+<td rowspan="2">
 <p align="center">CATÉGORIE DE PRODUITS</p>
 </td>
-<td colspan="2" width="399">
-<p align="center">QUANTITÉ MAXIMALE</p>
+<td colspan="2">
+<p align="center"> QUANTITÉ MAXIMALE POUVANT ÊTRE CÉDÉE (*)</p>
 </td>
 </tr>
 <tr>
-<td width="198">
-<p align="center">Livrée à des établissements<br/>de commerce de détail</p>
+<td>
+<p align="left"> Lorsqu'elle représente moins de 30 % de la production totale de l'établissement pour la catégorie considérée </p>
 </td>
-<td width="201">
-<p align="center">Pour la mise en œuvre du dernier alinéa de l'article 12</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="281">
-<p>Laits traités thermiquement </p>
-</td>
-<td valign="top" width="198">
-<p align="left">800 litres par semaine</p>
-</td>
-<td valign="top" width="201">
-<p align="left">250 litres par semaine</p>
+<td>
+<p align="left"> Lorsqu'elle représente plus de 30 % de la production totale de l'établissement pour la catégorie considérée </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="281">
-<p>Produits laitiers </p>
+<td>
+<br/>Laits traités thermiquement <br/>
 </td>
-<td valign="top" width="198">
-<p align="left">250 kilogrammes par semaine</p>
+<td>
+<br/>800 litres par semaine <br/>
 </td>
-<td valign="top" width="201">
-<p align="left">100 kilogrammes par semaine</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="281">
-<p>Viandes fraîches de boucherie, à l'exclusion des viandes hachées </p>
-</td>
-<td valign="top" width="198">
-<p align="left">800 kilogrammes par semaine</p>
-</td>
-<td valign="top" width="201">
-<p align="left">250 kilogrammes par semaine</p>
+<td>
+<br/>250 litres par semaine <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="281">
-<p>Produits à base de viande, plats cuisinés, préparations de viandes, viandes fraîches des autres espèces que boucherie, à l'exclusion des viandes hachées </p>
+<td>
+<br/>Produits laitiers <br/>
 </td>
-<td valign="top" width="198">
-<p align="left">250 kilogrammes par semaine</p>
+<td>
+<br/>250 kilogrammes par semaine <br/>
 </td>
-<td valign="top" width="201">
-<p align="left">100 kilogrammes par semaine</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="281">
-<p>Produits non transformés de la pêche (réfrigéré ou congelé, préparé ou entier) </p>
-</td>
-<td valign="top" width="198">
-<p align="left">250 kilogrammes par semaine</p>
-</td>
-<td valign="top" width="201">
-<p align="left">100 kilogrammes par semaine</p>
+<td>
+<br/>100 kilogrammes par semaine <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="281">
-<p>Produits transformés de la pêche (salé, fumé, plat cuisiné...) </p>
+<td>
+<br/>Viandes fraîches de boucherie à l'exclusion des viandes hachées <br/>
 </td>
-<td valign="top" width="198">
-<p align="left">250 kilogrammes par semaine</p>
+<td>
+<br/>800 kilogrammes par semaine <br/>
 </td>
-<td valign="top" width="201">
-<p align="left">100 kilogrammes par semaine</p>
+<td>
+<br/>250 kilogrammes par semaine <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="281">
-<p>Escargots (entiers, préparés ou transformés) </p>
+<td>
+<br/>Produits à base de viande, plats cuisinés, préparations de viandes, viandes fraîches des autres espèces que boucherie à l'exclusion des viandes hachées <br/>
 </td>
-<td valign="top" width="198">
-<p align="left">100 kilogrammes par semaine</p>
+<td>
+<br/>250 kilogrammes par semaine <br/>
 </td>
-<td valign="top" width="201">
-<p align="left">30 kilogrammes par semaine</p>
+<td>
+<br/>100 kilogrammes par semaine <br/>
 </td>
+</tr>
+<tr>
+<td>
+<br/>Produits à base d'œuf coquille et/ ou de lait cru ayant subi un traitement assainissant autres que produits laitiers <br/>
+</td>
+<td>
+<br/>250 kilogrammes par semaine <br/>
+</td>
+<td>
+<br/>100 kilogrammes par semaine <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Produits non transformés de la pêche (réfrigéré ou congelé, préparé ou entier) <br/>
+</td>
+<td>
+<br/>250 kilogrammes par semaine <br/>
+</td>
+<td>
+<br/>100 kilogrammes par semaine <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Produits transformés de la pêche (salé, fumé, plat cuisiné) <br/>
+</td>
+<td>
+<br/>250 kilogrammes par semaine <br/>
+</td>
+<td>
+<br/>100 kilogrammes par semaine <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Escargots (entiers, préparés ou transformés) <br/>
+</td>
+<td>
+<br/>100 kilogrammes par semaine <br/>
+</td>
+<td>
+<br/>30 kilogrammes par semaine <br/>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<br/>(*) Les quantités maximales sont cumulables pour chaque catégorie de produits. Elles ne s'appliquent pas en cas de livraison à des établissements caritatifs.</td>
 </tr>
 </tbody>
 </table>

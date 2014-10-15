@@ -164,7 +164,6 @@
 - [Arrêté du 5 octobre 1992 (SANH9202583A)](arrete-du-5-octobre-1992-sanh9202583a)
 - [Arrêté du 5 septembre 1992 (MENT9200352A)](arrete-du-5-septembre-1992-ment9200352a)
 - [Arrêté du 5 mai 1992 (DEFT9201453A)](arrete-du-5-mai-1992-deft9201453a)
-- [Arrêté du 5 mai 1992 (MENB9200074A)](arrete-du-5-mai-1992-menb9200074a)
 - [Arrêté du 5 mai 1992 (SANH9201085A)](arrete-du-5-mai-1992-sanh9201085a)
 - [Arrêté du 5 mai 1992 (TEFE9204783A)](arrete-du-5-mai-1992-tefe9204783a)
 - [Arrêté du 6 août 1992 (BUDR9205032A)](arrete-du-6-aout-1992-budr9205032a)

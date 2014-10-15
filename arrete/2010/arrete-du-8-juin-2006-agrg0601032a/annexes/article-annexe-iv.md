@@ -3,31 +3,32 @@
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="279">
-<br/>
+<td rowspan="2">
+<p align="center"> CATÉGORIE DE PRODUITS</p>
 </td>
-<td colspan="2" width="402">
-<p align="center">QUANTITÉ MAXIMALE</p>
-</td>
-</tr>
-<tr>
-<td width="201">
-<p align="center">Livrée à des établissements de restauration collective</p>
-</td>
-<td width="201">
-<p align="center">Pour la mise en œuvre du dernier alinéa de l'article 12</p>
+<td colspan="2">
+<p align="center"> QUANTITÉ MAXIMALE POUVANT ÊTRE CÉDÉE<br/>à des établissements de restauration (*)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="279">
-<p>Repas ou fractions de repas composés des catégories de produits listées à l'annexe 3 </p>
+<td>
+<p align="left"> Lorsqu'elle représente moins de 30 % de la production totale de l'établissement pour la catégorie considérée </p>
 </td>
-<td valign="top" width="201">
-<p align="left">400 repas par semaine</p>
+<td>
+<p align="left"> Lorsqu'elle représente plus de 30 % de la production totale de l'établissement pour la catégorie considérée </p>
 </td>
-<td valign="top" width="201">
-<p align="left">150 repas par semaine</p>
-</td>
+</tr>
+<tr>
+<td>
+<br/>Repas ou préparations culinaires élaborées à l'avance constituant le plat principal d'un repas </td>
+<td>
+<br/>1000 par semaine </td>
+<td>
+<br/>400 par semaine </td>
+</tr>
+<tr>
+<td colspan="3">
+<br/>(*) Les quantités maximales ne s'appliquent pas en cas de livraison à des établissements caritatifs</td>
 </tr>
 </tbody>
 </table>
