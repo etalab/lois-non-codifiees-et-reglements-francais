@@ -136,7 +136,6 @@
 - [Arrêté du 10 décembre 2004 (INTE0400920A)](arrete-du-10-decembre-2004-inte0400920a)
 - [Arrêté du 10 janvier 2005 (DEFD0500156A)](arrete-du-10-janvier-2005-defd0500156a)
 - [Arrêté du 10 janvier 2005 (ECOT0595134A)](arrete-du-10-janvier-2005-ecot0595134a)
-- [Arrêté du 10 janvier 2005 (EQUT0500082A)](arrete-du-10-janvier-2005-equt0500082a)
 - [Arrêté du 10 janvier 2005 (SOCO0411934A)](arrete-du-10-janvier-2005-soco0411934a)
 - [Arrêté du 10 juin 2005 (ECOT0595141A)](arrete-du-10-juin-2005-ecot0595141a)
 - [Arrêté du 10 juin 2005 (JUSF0550069A)](arrete-du-10-juin-2005-jusf0550069a)
