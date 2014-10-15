@@ -10,1916 +10,2334 @@ Référentiels en termes de quota gratuit par tonne-kilomètre déclaré pour 20
 
 Les calculs sont arrondis à l'entier inférieur.
 
-a) Quantité de quotas gratuits à délivrer annuellement aux exploitants par inscription dans le registre mentionné à l'article R. 229-37-4 du code de l'environnement :
-
-<div align="center">
+a) Quantité de quotas gratuits susceptible d'être délivrée annuellement aux exploitants d'aéronefs par inscription dans le registre mentionné à l'
+article R. 229-37-4 du code de l'environnement
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> IDENTIFIANT </p>
+<td align="center"> IDENTIFIANT </td>
+<td align="center"> NOM DE L'EXPLOITANT </td>
+<td align="center"> TKm 2010 </td>
+<td align="center"> QUOTAS GRATUITS 2012 </td>
+<td align="center"> QUOTAS GRATUITS 2013-2020 </td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br clear="none"/>4306 <br clear="none"/>
 </td>
-<td>
-<p align="center"> NOM DE L'EXPLOITANT</p>
+<td align="left" valign="middle">
+<br clear="none"/>ACCOR SA <br clear="none"/>
 </td>
-<td>
-<p align="center"> TKm 2010 </p>
+<td align="center" valign="middle">
+<br clear="none"/>28 760 <br clear="none"/>
 </td>
-<td>
-<p align="center"> QUOTAS GRATUITS <br/>2012</p>
+<td align="center" valign="middle">
+<br clear="none"/>19 <br clear="none"/>
 </td>
-<td>
-<p align="center"> QUOTAS GRATUITS <br/>2013-2020</p>
+<td align="center">
+<br clear="none"/>13 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">4306 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35097 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ACCOR SA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ACTIFLY <br clear="none"/>
 </td>
-<td align="center">28 760 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>30 902 <br clear="none"/>
 </td>
-<td align="center">19 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>21 <br clear="none"/>
 </td>
-<td align="center">18 <br/>
+<td align="center">
+<br clear="none"/>8 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35097 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28604 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ACTIFLY <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AFRIQIYAH AIRWAYS <br clear="none"/>
 </td>
-<td align="center">30 902 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>74 734 685 <br clear="none"/>
 </td>
-<td align="center">21 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>50 796 <br clear="none"/>
 </td>
-<td align="center">19 <br/>
+<td align="center">
+<br clear="none"/>61 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28604 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1769 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AFRIQIYAH AIRWAYS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIGLE AZUR <br clear="none"/>
 </td>
-<td align="center">74 917 919 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>252 303 638 <br clear="none"/>
 </td>
-<td align="center">50 921 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>171 489 <br clear="none"/>
 </td>
-<td align="center">48 111 <br/>
+<td align="center">
+<br clear="none"/>28 685 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">1769 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>186 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIGLE AZUR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR ALGÉRIE <br clear="none"/>
 </td>
-<td align="center">252 303 638 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>226 184 569 <br clear="none"/>
 </td>
-<td align="center">171 489 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>153 736 <br clear="none"/>
 </td>
-<td align="center">162 026 <br/>
+<td align="center">
+<br clear="none"/>27 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">186 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35192 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR ALGERIE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR ARABIA MAROC <br clear="none"/>
 </td>
-<td align="center">226 184 569 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>97 759 956 <br clear="none"/>
 </td>
-<td align="center">153 736 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>66 447 <br clear="none"/>
 </td>
-<td align="center">145 252 <br/>
+<td align="center">
+<br clear="none"/>25 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35192 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29420 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR ARABIA MAROC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR AUSTRAL 2 <br clear="none"/>
 </td>
-<td align="center">97 759 956 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>628 991 030 <br clear="none"/>
 </td>
-<td align="center">66 447 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>427 522 <br clear="none"/>
 </td>
-<td align="center">62 780 <br/>
+<td align="center">
+<br clear="none"/>2 206 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">29420 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29815 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR AUSTRAL 2 <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR CAIRO <br clear="none"/>
 </td>
-<td align="center">628 991 030 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>120 451 822 <br clear="none"/>
 </td>
-<td align="center">427 522 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>81 870 <br clear="none"/>
 </td>
-<td align="center">403 929 <br/>
+<td align="center">
+<br clear="none"/>987 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center"> 4790</td>
-<td>AIRBY<br/>
-<br/>
+<td align="center" valign="middle">
+<br clear="none"/>30304 <br clear="none"/>
+</td>
+<td align="left" valign="middle">
+<br clear="none"/>AIR CARAÏBES <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>564 781 778 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>383 879 <br clear="none"/>
 </td>
-<td align="center">170 058  </td>
-<td align="center"> 115</td>
-<td align="center"> 109 </td>
+<td align="center">
+<br clear="none"/>48 <br clear="none"/>
+</td>
 </tr>
 <tr>
-<td align="center">29815 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>10054 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR CAIRO <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR CORSICA <br clear="none"/>
 </td>
-<td align="center">120 451 822 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>101 886 722 <br clear="none"/>
 </td>
-<td align="center">81 870 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>69 251 <br clear="none"/>
 </td>
-<td align="center">77 352 <br/>
+<td align="center">
+<br clear="none"/>65 430 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">30304 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>227 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR CARAIBES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR FRANCE <br clear="none"/>
 </td>
-<td align="center">564 781 778 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>17 757 062 634 <br clear="none"/>
 </td>
-<td align="center">383 879 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12 069 402 <br clear="none"/>
 </td>
-<td align="center">362 695 <br/>
+<td align="center">
+<br clear="none"/>1 343 461 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center"> 10054</td>
-<td>AIR CORSICA </td>
-<td align="center"> 101 886 722 </td>
-<td align="center"> 69 251 </td>
-<td align="center"> 65 430 </td>
+<td align="center" valign="middle">
+<br clear="none"/>252 <br clear="none"/>
+</td>
+<td align="left" valign="middle">
+<br clear="none"/>AIR MADAGASCAR <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>125 546 319 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>85 333 <br clear="none"/>
+</td>
+<td align="center">
+<br clear="none"/>569 <br clear="none"/>
+</td>
 </tr>
 <tr>
-<td align="center">227 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>261 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR FRANCE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR MAURITIUS <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">17 757 062 634 <br/>
-</p>
+<td align="center" valign="middle">
+<br clear="none"/>517 904 167 <br clear="none"/>
 </td>
-<td align="center">12 069 402 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>352 017 <br clear="none"/>
 </td>
-<td align="center">11 403 353 <br/>
+<td align="center">
+<br clear="none"/>102 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">252 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>24636 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR MADAGASCAR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR MÉDITERRANÉE <br clear="none"/>
 </td>
-<td align="center">125 546 319 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>300 488 502 <br clear="none"/>
 </td>
-<td align="center">85 333 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>204 240 <br clear="none"/>
 </td>
-<td align="center">80 624 <br/>
+<td align="center">
+<br clear="none"/>47 264 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">261 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5636 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR MAURITIUS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR SEYCHELLES <br clear="none"/>
 </td>
-<td align="center">517 904 167 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>166 464 680 <br clear="none"/>
 </td>
-<td align="center">352 017 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>113 145 <br clear="none"/>
 </td>
-<td align="center">332 591 <br/>
+<td align="center">
+<br clear="none"/>2 264 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">24636 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>34296 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR MEDITERRANEE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIR WING LTD <br clear="none"/>
 </td>
-<td align="center">300 488 502 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>15 457 <br clear="none"/>
 </td>
-<td align="center">204 240 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>10<br clear="none"/>
 </td>
-<td align="center">192 969 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">5636 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>24094 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR SEYCHELLES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIRBUS TRANSPORT <br clear="none"/>
 </td>
-<td align="center">166 464 680 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>49 518 225 <br clear="none"/>
 </td>
-<td align="center">113 145 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33 657 <br clear="none"/>
 </td>
-<td align="center">106 901 <br/>
+<td align="center">
+<br clear="none"/>31 799 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">34296 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4790 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIR WING LTD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIRBY <br clear="none"/>
 </td>
-<td align="center">15 457 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>170 058 <br clear="none"/>
 </td>
-<td align="center">10 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>115 <br clear="none"/>
 </td>
-<td align="center">9 <br/>
+<td align="center">
+<br clear="none"/>24 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">24094 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>18982 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIRBUS TRANSPORT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIRFLITE <br clear="none"/>
 </td>
-<td align="center">49 518 225 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>40 715 <br clear="none"/>
 </td>
-<td align="center">33 657 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>27<br clear="none"/>
 </td>
-<td align="center">31 799 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">18982 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26897 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIRFLITE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AIRLINAIR <br clear="none"/>
 </td>
-<td align="center">40 715 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12 914 496 <br clear="none"/>
 </td>
-<td align="center">27 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>8 777 <br clear="none"/>
 </td>
-<td align="center">26 <br/>
+<td align="center">
+<br clear="none"/>8 290 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">26897 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28640 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AIRLINAIR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AL MISEHAL GROUP <br clear="none"/>
 </td>
-<td align="center">12 914 496 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12 667 <br clear="none"/>
 </td>
-<td align="center">8 777 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>8 <br clear="none"/>
 </td>
-<td align="center">8 293 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28640 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10019 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AL MISEHAL GROUP <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ALA SERVICES, LLC <br clear="none"/>
 </td>
-<td align="center">12 667 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>22 778 <br clear="none"/>
 </td>
-<td align="center">8 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>15 <br clear="none"/>
 </td>
-<td align="center">8 <br/>
+<td align="center">
+<br clear="none"/>4 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10019 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5117 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ALA SERVICES, LLC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ALL NIPPON AIRWAYS <br clear="none"/>
 </td>
-<td align="center">22 778 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 043 888 177 <br clear="none"/>
 </td>
-<td align="center">15 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>709 526 <br clear="none"/>
 </td>
-<td align="center">14 <br/>
+<td align="center">
+<br clear="none"/>11 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">5117 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>36010 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ALL NIPPON AIRWAYS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ALPHA JET (ALABAMA) <br clear="none"/>
 </td>
-<td align="center">1 043 888 177 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>37 573 <br clear="none"/>
 </td>
-<td align="center">709 526 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>25 <br clear="none"/>
 </td>
-<td align="center">670 371 <br/>
+<td align="center">
+<br clear="none"/>4 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">36010 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26287 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ALPHA JET (ALABAMA) <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ALTONA <br clear="none"/>
 </td>
-<td align="center">37 573 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>22 397 <br clear="none"/>
 </td>
-<td align="center">25 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>15 <br clear="none"/>
 </td>
-<td align="center">24 <br/>
+<td align="center">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">26287 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>34393 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ALTONA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ANISTANTE HOLDING <br clear="none"/>
 </td>
-<td align="center">22 397 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>79 004 <br clear="none"/>
 </td>
-<td align="center">15 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>53 <br clear="none"/>
 </td>
-<td align="center">14 <br/>
+<td align="center">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">34393 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6188 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ANISTANTE HOLDING <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>APEX OIL <br clear="none"/>
 </td>
-<td align="center">79 004 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>34 221 <br clear="none"/>
 </td>
-<td align="center">53 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23 <br clear="none"/>
 </td>
-<td align="center">50 <br/>
+<td align="center">
+<br clear="none"/>4 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">6188 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>406 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">APEX OIL <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ARKIA ISRAËL AL <br clear="none"/>
 </td>
-<td align="center">34 221 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>98 217 143 <br clear="none"/>
 </td>
-<td align="center">23 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>66 757 <br clear="none"/>
 </td>
-<td align="center">21 <br/>
+<td align="center">
+<br clear="none"/>39 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">406 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28382 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ARKIA ISRAEL AL <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ARMAVIA AVIACOMPANY LLC <br clear="none"/>
 </td>
-<td align="center">98 217 143 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>17 239 970 <br clear="none"/>
 </td>
-<td align="center">66 757 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 717 <br clear="none"/>
 </td>
-<td align="center">63 073 <br/>
+<td align="center">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28382 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29467 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ARMAVIA AVIACOMPANY LLC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AVIALAIR <br clear="none"/>
 </td>
-<td align="center">17 239 970 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>37 105 <br clear="none"/>
 </td>
-<td align="center">11 717 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>25 <br clear="none"/>
 </td>
-<td align="center">11 071 <br/>
+<td align="center">
+<br clear="none"/>11 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">F826/1098 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10060 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">EMAA (armée de l'air) <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>AVIATION 604 AG <br clear="none"/>
 </td>
-<td align="center">3 116 857 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>20 162 <br clear="none"/>
 </td>
-<td align="center">2 118 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13<br clear="none"/>
 </td>
-<td align="center">2 001 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">29467 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31430 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AVIALAIR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>BALTIC JET AIRCOMP. <br clear="none"/>
 </td>
-<td align="center">37 105 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>131 232 <br clear="none"/>
 </td>
-<td align="center">25 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>89 <br clear="none"/>
 </td>
-<td align="center">23 <br/>
+<td align="center">
+<br clear="none"/>4 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10060 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f11004 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">AVIATION 604 AG <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>BILLION MARK LTD <br clear="none"/>
 </td>
-<td align="center">20 162 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>45 844 <br clear="none"/>
 </td>
-<td align="center">13 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31 <br clear="none"/>
 </td>
-<td align="center">12 <br/>
+<td align="center">
+<br clear="none"/>2 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31430 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>30067 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">BALTIC JET AIRCOMP. <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>BONGRAIN BENELUX <br clear="none"/>
 </td>
-<td align="center">131 232 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>48 819 <br clear="none"/>
 </td>
-<td align="center">89 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33 <br clear="none"/>
 </td>
-<td align="center">84 <br/>
+<td align="center">
+<br clear="none"/>21 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f11004 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>21446 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">BILLION MARK LTD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>BREITLING <br clear="none"/>
 </td>
-<td align="center">45 844 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>10 600 <br clear="none"/>
 </td>
-<td align="center">31 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>7<br clear="none"/>
 </td>
-<td align="center">29 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">30067 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>637 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">BONGRAIN BENELUX <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>BRITAIR <br clear="none"/>
 </td>
-<td align="center">48 819 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>115 296 709 <br clear="none"/>
 </td>
-<td align="center">33 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>78 366 <br clear="none"/>
 </td>
-<td align="center">31 <br/>
+<td align="center">
+<br clear="none"/>74 042 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">21446 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32578 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">BREITLING <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CALVIN KLEIN STUDIO <br clear="none"/>
 </td>
-<td align="center">10 600 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>16 796 <br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 <br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">637 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28583 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">BRITAIR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CAPELINK ESTABLISHMENT <br clear="none"/>
 </td>
-<td align="center">115 296 709 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 079 <br clear="none"/>
 </td>
-<td align="center">78 366 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2<br clear="none"/>
 </td>
-<td align="center">74 042 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">32578 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31812 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CALVIN KLEIN STUDIO <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CEPHALON <br clear="none"/>
 </td>
-<td align="center">16 796 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>19 619 <br clear="none"/>
 </td>
-<td align="center">11 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13<br clear="none"/>
 </td>
-<td align="center">10 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28583 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29834 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CAPELINK ESTABLISHMENT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CHINA CARGO AIRLINES <br clear="none"/>
 </td>
-<td align="center">3 079 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 105 980 849 <br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>751 730 <br clear="none"/>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<br clear="none"/>8 713 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31812 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12141 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CEPHALON <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CHINA EASTERN <br clear="none"/>
 </td>
-<td align="center">19 619 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>466 979 113 <br clear="none"/>
 </td>
-<td align="center">13 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>317 403 <br clear="none"/>
 </td>
-<td align="center">12 <br/>
+<td align="center">
+<br clear="none"/>11 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">29834 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>799 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CHINA CARGO AIRLINES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>COCA COLA <br clear="none"/>
 </td>
-<td align="center">1 105 980 849 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>97 380 <br clear="none"/>
 </td>
-<td align="center">751 730 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>66 <br clear="none"/>
 </td>
-<td align="center">710 246 <br/>
+<td align="center">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">12141 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6535 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CHINA EASTERN <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CONSOLIDATED CONTRTS <br clear="none"/>
 </td>
-<td align="center">466 979 113 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>150 784 <br clear="none"/>
 </td>
-<td align="center">317 403 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>102 <br clear="none"/>
 </td>
-<td align="center">299 887 <br/>
+<td align="center">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">799 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6369 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">COCA COLA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CORSAIR FRANCE <br clear="none"/>
 </td>
-<td align="center">97 380 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 137 253 213 <br clear="none"/>
 </td>
-<td align="center">66 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>772 986 <br clear="none"/>
 </td>
-<td align="center">62 <br/>
+<td align="center">
+<br clear="none"/>5 371 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">6535 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12219 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CONSOLIDATED CONTRTS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>COX ENTERPRISES <br clear="none"/>
 </td>
-<td align="center">150 784 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>44 424 <br clear="none"/>
 </td>
-<td align="center">102 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>30 <br clear="none"/>
 </td>
-<td align="center">96 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">6369 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35062 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CORSAIR FRANCE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>CPI AVIATION LLC <br clear="none"/>
 </td>
-<td align="center">1 137 253 213 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>164 728 <br clear="none"/>
 </td>
-<td align="center">772 986 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>111 <br clear="none"/>
 </td>
-<td align="center">730 329 <br/>
+<td align="center">
+<br clear="none"/>10 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">12219 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31467 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">COX ENTERPRISES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>DALIA AIRLINES <br clear="none"/>
 </td>
-<td align="center">44 424 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26 133 <br clear="none"/>
 </td>
-<td align="center">30 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>17 <br clear="none"/>
 </td>
-<td align="center">28 <br/>
+<td align="center">
+<br clear="none"/>2 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35062 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>18972 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">CPI AVIATION LLC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>DASSAULT AVIATION <br clear="none"/>
 </td>
-<td align="center">164 728 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>143 826 <br clear="none"/>
 </td>
-<td align="center">111 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>97 <br clear="none"/>
 </td>
-<td align="center">105 <br/>
+<td align="center">
+<br clear="none"/>20 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31467 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1139 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">DALIA AIRLINES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>DASSAULT FALCON JET <br clear="none"/>
 </td>
-<td align="center">26 133 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>57 620 <br clear="none"/>
 </td>
-<td align="center">17 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>39 <br clear="none"/>
 </td>
-<td align="center">16 <br/>
+<td align="center">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">18972 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>7028 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">DASSAULT AVIATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>DOW CHEMICAL <br clear="none"/>
 </td>
-<td align="center">143 826 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>44 562 <br clear="none"/>
 </td>
-<td align="center">97 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>30 <br clear="none"/>
 </td>
-<td align="center">92 <br/>
+<td align="center">
+<br clear="none"/>5 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">1139 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>24571 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">DASSAULT FALCON JET <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>DSWA <br clear="none"/>
 </td>
-<td align="center">57 620 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>34 539 <br clear="none"/>
 </td>
-<td align="center">39 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23 <br clear="none"/>
 </td>
-<td align="center">37 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">7028 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>30876 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">DOW CHEMICAL <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>DUBROVNIK AIRLINES <br clear="none"/>
 </td>
-<td align="center">44 562 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>24 361 598 <br clear="none"/>
 </td>
-<td align="center">30 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>16 558 <br clear="none"/>
 </td>
-<td align="center">28 <br/>
+<td align="center">
+<br clear="none"/>15 611 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">24571 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>9703 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">DSWA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>EARTH STAR <br clear="none"/>
 </td>
-<td align="center">34 539 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>82 869 <br clear="none"/>
 </td>
-<td align="center">23 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>56 <br clear="none"/>
 </td>
-<td align="center">22 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">30876 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2850 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">DUBROVNIK AIRLINES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>EASYJET SWITZERLAND <br clear="none"/>
 </td>
-<td align="center">24 361 598 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>418 299 633 <br clear="none"/>
 </td>
-<td align="center">16 558 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>284 316 <br clear="none"/>
 </td>
-<td align="center">15 644 <br/>
+<td align="center">
+<br clear="none"/>85 193 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">9703 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23028 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">EARTH STAR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ELI'S BREAD <br clear="none"/>
 </td>
-<td align="center">82 869 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 815 <br clear="none"/>
 </td>
-<td align="center">56 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2 <br clear="none"/>
 </td>
-<td align="center">53 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">2850 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>F826/1098 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">EASYJET SWITZERLAND <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>EMAA (armée de l'air) <br clear="none"/>
 </td>
-<td align="center">418 299 633 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 116 857 <br clear="none"/>
 </td>
-<td align="center">284 316 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2 118 <br clear="none"/>
 </td>
-<td align="center">268 626 <br/>
+<td align="center">
+<br clear="none"/>344 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">23028 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>27518 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ELI'S BREAD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>EUROPE AIRPOST <br clear="none"/>
 </td>
-<td align="center">3 815 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>172 207 250 <br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>117 048 <br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center">
+<br clear="none"/>60 684 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">27518 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10181 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">EUROPE AIRPOST <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>EWA HOLDINGS LLC <br clear="none"/>
 </td>
-<td align="center">172 207 250 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>18 694 <br clear="none"/>
 </td>
-<td align="center">117 048 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12 <br clear="none"/>
 </td>
-<td align="center">110 589 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10181 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31310 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">EWA HOLDINGS LLC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>FARNER AIRWINGS <br clear="none"/>
 </td>
-<td align="center">18 694 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>34 514 <br clear="none"/>
 </td>
-<td align="center">12 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23 <br clear="none"/>
 </td>
-<td align="center">12 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31310 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1147 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">FARNER AIRWINGS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>FEDERAL EXPRESS CORPORATION <br clear="none"/>
 </td>
-<td align="center">34 514 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2 228 856 707 <br clear="none"/>
 </td>
-<td align="center">23 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 514 944 <br clear="none"/>
 </td>
-<td align="center">22 <br/>
+<td align="center">
+<br clear="none"/>81 244 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">1147 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35426 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">FEDERAL EXPRESS CORPORATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>FTC CONSULTING AG <br clear="none"/>
 </td>
-<td align="center">2 228 856 707 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>169 435 <br clear="none"/>
 </td>
-<td align="center">1 514 944 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>115 <br clear="none"/>
 </td>
-<td align="center">1 431 342 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35426 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>27867 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">FTC CONSULTING AG <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>FUTURE ELECTRONICS <br clear="none"/>
 </td>
-<td align="center">169 435 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>24 238 <br clear="none"/>
 </td>
-<td align="center">115 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>16<br clear="none"/>
 </td>
-<td align="center">108 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">27867 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23693 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">FUTURE ELECTRONICS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>GEORGIAN AIRWAYS <br clear="none"/>
 </td>
-<td align="center">24 238 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>16 938 452 <br clear="none"/>
 </td>
-<td align="center">16 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 512<br clear="none"/>
 </td>
-<td align="center">15 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">23693 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>9002 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">GEORGIAN AIRWAYS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>GIE ATR <br clear="none"/>
 </td>
-<td align="center">16 938 452 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>16 702 <br clear="none"/>
 </td>
-<td align="center">11 512 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 <br clear="none"/>
 </td>
-<td align="center">10 877 <br/>
+<td align="center">
+<br clear="none"/>8 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">9002 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31182 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">GIE ATR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>GIOSTYLE LLC <br clear="none"/>
 </td>
-<td align="center">16 702 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>7 062 <br clear="none"/>
 </td>
-<td align="center">11 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4<br clear="none"/>
 </td>
-<td align="center">10 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center"> 31182</td>
-<td>GIOSTYLE LLC </td>
-<td align="center"> 7 062<br/>
+<td align="center" valign="middle">
+<br clear="none"/>f12170 <br clear="none"/>
+</td>
+<td align="left" valign="middle">
+<br clear="none"/>GOLD EAGLE LTD <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>30 321 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>20 <br clear="none"/>
+</td>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
-<td align="center"> 4</td>
-<td align="center"> 4</td>
 </tr>
 <tr>
-<td align="center">f12170 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5362 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">GOLD EAGLE LTD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>HALLIBURTON <br clear="none"/>
 </td>
-<td align="center">30 321 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>58 942 <br clear="none"/>
 </td>
-<td align="center">20 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>40 <br clear="none"/>
 </td>
-<td align="center">19 <br/>
+<td align="center">
+<br clear="none"/>7 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">5362 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>21879 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">HALLIBURTON <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ISRAIR AIRLINES &amp; TOURISM LTD <br clear="none"/>
 </td>
-<td align="center">58 942 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>49 983 352 <br clear="none"/>
 </td>
-<td align="center">40 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33 973 <br clear="none"/>
 </td>
-<td align="center">37 <br/>
+<td align="center">
+<br clear="none"/>24 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">21879 </p>
+<td align="center" valign="middle">
+<br clear="none"/>28006 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ISRAIR AIRLINES &amp; TOURISM LTD </p>
+<td align="left" valign="middle">
+<br clear="none"/>JAPAT <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">49 983 352 </p>
+<td align="center" valign="middle">
+<br clear="none"/>169 940 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">33 973 </p>
+<td align="center" valign="middle">
+<br clear="none"/>115 <br clear="none"/>
 </td>
 <td align="center">
-<p align="center">32 098</p>
+<br clear="none"/>15 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28006 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10277 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">JAPAT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>JEREISSATI PARTICIPACOES S/ A <br clear="none"/>
 </td>
-<td align="center">169 940 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5 600 <br clear="none"/>
 </td>
-<td align="center">115 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3<br clear="none"/>
 </td>
-<td align="center">109 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10277 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31581 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">JEREISSATI PARTICIPACOES S/ A <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>JET4YOU <br clear="none"/>
 </td>
-<td align="center">5 600 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>186 505 259 <br clear="none"/>
 </td>
-<td align="center">3 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>126 766 <br clear="none"/>
 </td>
-<td align="center">3 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>119 771 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31581 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31595 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">JET4YOU <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>JSC PREMIER AVIA <br clear="none"/>
 </td>
-<td align="center">186 505 259 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>222 753 <br clear="none"/>
 </td>
-<td align="center">126 766 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>151 <br clear="none"/>
 </td>
-<td align="center">119 771 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31595 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6510 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">JSC Premier Avia <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>KALAIR LTD <br clear="none"/>
 </td>
-<td align="center">222 753 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>138 098 <br clear="none"/>
 </td>
-<td align="center">151 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>93 <br clear="none"/>
 </td>
-<td align="center">143 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">6510 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10290 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">KALAIR LTD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>KW FLIGHT, LLC/ CENTRAL MISSOURI AV. INC. <br clear="none"/>
 </td>
-<td align="center">138 098 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>17 186 <br clear="none"/>
 </td>
-<td align="center">93 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 <br clear="none"/>
 </td>
-<td align="center">88 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10290 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>30455 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">KW FLIGHT, LLC/ CENTRAL MISSOURI AV. INC. <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>LAS VEGAS JET <br clear="none"/>
 </td>
-<td align="center">17 186 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>42 848 <br clear="none"/>
 </td>
-<td align="center">11 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29<br clear="none"/>
 </td>
-<td align="center">11 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">30455 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4489 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">LAS VEGAS JET <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>LIMITED BRANDS SERVICE COMPANY <br clear="none"/>
 </td>
-<td align="center">42 848 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>303 218 <br clear="none"/>
 </td>
-<td align="center">29 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>206 <br clear="none"/>
 </td>
-<td align="center">27 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">4489 </p>
+<td align="center" valign="middle">
+<br clear="none"/>7764 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">LIMITED BRANDS SERVICE COMPANY</p>
+<td align="left" valign="middle">
+<br clear="none"/>LVMH SERVICES <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">303 218 </p>
+<td align="center" valign="middle">
+<br clear="none"/>116 976 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">206 </p>
+<td align="center" valign="middle">
+<br clear="none"/>79 <br clear="none"/>
 </td>
 <td align="center">
-<p align="center">194 </p>
+<br clear="none"/>29 <br clear="none"/>
 </td>
-</tr>
-<tr>
-<td align="center">7764 </td>
-<td>LVMH SERVICES </td>
-<td align="center">116 976 </td>
-<td align="center"> 79</td>
-<td align="center">75 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">35614</p>
+<td align="center" valign="middle">
+<br clear="none"/>19696 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ZOGBI LUCIANO</p>
+<td align="left" valign="middle">
+<br clear="none"/>LYRECO <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">4 388</p>
+<td align="center" valign="middle">
+<br clear="none"/>52 596 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br clear="none"/>35 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br clear="none"/>32 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">19696 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33834 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">LYRECO <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>M. SQUARE AVIATION <br clear="none"/>
 </td>
-<td align="center">52 596 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>39 149 <br clear="none"/>
 </td>
-<td align="center">35 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26<br clear="none"/>
 </td>
-<td align="center">33 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">33834 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10306 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">M. SQUARE AVIATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MACBENS PATRIMONIAL LTDA <br clear="none"/>
 </td>
-<td align="center">39 149 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>25 046 <br clear="none"/>
 </td>
-<td align="center">26 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>17<br clear="none"/>
 </td>
-<td align="center">25 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10306 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26383 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MACBENS PATRIMONIAL LTDA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MAGIC CONDOR LTD <br clear="none"/>
 </td>
-<td align="center">25 046 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>10 184 <br clear="none"/>
 </td>
-<td align="center">17 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6 <br clear="none"/>
 </td>
-<td align="center">16 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">26383 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32078 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MAGIC CONDOR LTD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MALIBU CONSULTING <br clear="none"/>
 </td>
-<td align="center">10 184 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>19 630 <br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13<br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">32078 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1976 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MALIBU CONSULTING <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MARITIME INVESTMENT AND SHIPPING CO. LTD. <br clear="none"/>
 </td>
-<td align="center">19 630 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>43 414 <br clear="none"/>
 </td>
-<td align="center">13 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29 <br clear="none"/>
 </td>
-<td align="center">12 <br/>
+<td align="center">
+<br clear="none"/>12 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center"> 1976</td>
-<td>MARITIME INVESTMENT AND SHIPPING CO. LTD. </td>
-<td align="center"> 43 414</td>
-<td align="center"> 29 </td>
-<td align="center">27 </td>
+<td align="center" valign="middle">
+<br clear="none"/>32707 <br clear="none"/>
+</td>
+<td align="left" valign="middle">
+<br clear="none"/>MASC AIR LTD <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>28 690 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>19 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
+</td>
 </tr>
 <tr>
-<td align="center">32707 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1855 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MASC AIR LTD <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MEA AIR LIBAN <br clear="none"/>
 </td>
-<td align="center">28 690 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>236 133 322 <br clear="none"/>
 </td>
-<td align="center">19 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>160 498 <br clear="none"/>
 </td>
-<td align="center">18 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>37 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">1855 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28010 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MEA AIR LIBAN <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MONDOIL <br clear="none"/>
 </td>
-<td align="center">236 133 322 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>12 707 <br clear="none"/>
 </td>
-<td align="center">160 498 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>8<br clear="none"/>
 </td>
-<td align="center">151 641 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28010 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35455 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MONDOIL <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>MONT BLANC AVIATION <br clear="none"/>
 </td>
-<td align="center">12 707 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>83 280 <br clear="none"/>
 </td>
-<td align="center">8 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>56 <br clear="none"/>
 </td>
-<td align="center">8 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35455 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31025 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">MONT BLANC AVIATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>NATASHA ESTABLISMENT <br clear="none"/>
 </td>
-<td align="center">83 280 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>8 742 <br clear="none"/>
 </td>
-<td align="center">56 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5<br clear="none"/>
 </td>
-<td align="center">53 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31025 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35373 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">NATASHA ESTABLISMENT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>NEXT GENERATION VENT <br clear="none"/>
 </td>
-<td align="center">8 742 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13 931 <br clear="none"/>
 </td>
-<td align="center">5 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>9 <br clear="none"/>
 </td>
-<td align="center">5 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35373 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31199 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">NEXT GENERATION VENT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>NISSAN C/ O ACI PACIF <br clear="none"/>
 </td>
-<td align="center">13 931 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31 682 <br clear="none"/>
 </td>
-<td align="center">9 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>21 <br clear="none"/>
 </td>
-<td align="center">8 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31199 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32959 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">NISSAN C/ O ACI PACIF <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>NOFA <br clear="none"/>
 </td>
-<td align="center">31 682 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>103 527 <br clear="none"/>
 </td>
-<td align="center">21 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>70 <br clear="none"/>
 </td>
-<td align="center">20 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">32959 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>10326 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">NOFA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>NOUVELAIR TUNISIE <br clear="none"/>
 </td>
-<td align="center">103 527 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>262 206 159 <br clear="none"/>
 </td>
-<td align="center">70 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>178 220 <br clear="none"/>
 </td>
-<td align="center">66 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 165 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">10326 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33212 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">NOUVELAIR TUNISIE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>NPM MANAGEMENT <br clear="none"/>
 </td>
-<td align="center">262 206 159 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13 899 <br clear="none"/>
 </td>
-<td align="center">178 220 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>9<br clear="none"/>
 </td>
-<td align="center">168 385 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">33212</p>
+<td align="center" valign="middle">
+<br clear="none"/>12316 <br clear="none"/>
 </td>
-<td>
-<p align="left">NPM MANAGEMENT </p>
+<td align="left" valign="middle">
+<br clear="none"/>OFTC. INC. <br clear="none"/>
 </td>
-<td>
-<p align="center">13 899</p>
+<td align="center" valign="middle">
+<br clear="none"/>9 702 <br clear="none"/>
 </td>
-<td>
-<p align="center">9</p>
+<td align="center" valign="middle">
+<br clear="none"/>6<br clear="none"/>
 </td>
-<td>
-<p align="center">9</p>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">12316 </td>
-<td>OFTC. INC. </td>
-<td align="center"> 9 702</td>
-<td align="center"> 6</td>
-<td align="center"> 6</td>
+<td align="center" valign="middle">
+<br clear="none"/>32366 <br clear="none"/>
+</td>
+<td align="left" valign="middle">
+<br clear="none"/>OLDBURY HOLDINGS II <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>98 009 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>66 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>10 <br clear="none"/>
+</td>
 </tr>
 <tr>
-<td align="center">32366 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>34603 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">OLDBURY HOLDINGS II <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>OMYA INTERNATIONAL <br clear="none"/>
 </td>
-<td align="center">98 009 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>42 286 <br clear="none"/>
 </td>
-<td align="center">66 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28 <br clear="none"/>
 </td>
-<td align="center">62 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">34603 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32311 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">OMYA INTERNATIONAL <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>OPENSKIES <br clear="none"/>
 </td>
-<td align="center">42 286 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>61 529 229 <br clear="none"/>
 </td>
-<td align="center">28 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>41 821 <br clear="none"/>
 </td>
-<td align="center">27 <br/>
+<td align="center">
+<br clear="none"/>123 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center"> 32311<br/>
+<td align="center" valign="middle">
+<br clear="none"/>31341 <br clear="none"/>
 </td>
-<td>OPENSKIES<br/>
+<td align="left" valign="middle">
+<br clear="none"/>ORIENT GLOBAL AVTN <br clear="none"/>
 </td>
-<td align="center">61 529 229<br/>
+<td align="center" valign="middle">
+<br clear="none"/>4 046 <br clear="none"/>
 </td>
-<td align="center"> 41 821<br/>
+<td align="center" valign="middle">
+<br clear="none"/>2<br clear="none"/>
 </td>
-<td align="center"> 39 513<br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31341 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31395 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ORIENT GLOBAL AVTN <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>OUTPOST INTL <br clear="none"/>
 </td>
-<td align="center">4 046 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 429 <br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>7<br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31395 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2176 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">OUTPOST INTL <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>PPG INDUSTRIES <br clear="none"/>
 </td>
-<td align="center">11 429 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>16 926 <br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11<br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">2176 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28189 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">PPG INDUSTRIES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>PROAIR CHARTER <br clear="none"/>
 </td>
-<td align="center">16 926 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>182 077 <br clear="none"/>
 </td>
-<td align="center">11 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>123 <br clear="none"/>
 </td>
-<td align="center">10 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28189 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>22432 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">PROAIR CHARTER <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>QATAR AMIRI FLIGHT <br clear="none"/>
 </td>
-<td align="center">182 077 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>8 130 063 <br clear="none"/>
 </td>
-<td align="center">123 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5 525 <br clear="none"/>
 </td>
-<td align="center">116 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>267 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">22432 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28265 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">QATAR AMIRI FLIGHT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>REGIONAL CAE <br clear="none"/>
 </td>
-<td align="center">8 130 063 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>179 794 303 <br clear="none"/>
 </td>
-<td align="center">5 525 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>122 205 <br clear="none"/>
 </td>
-<td align="center">5 221 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>114 972 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">28265 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35828 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">REGIONAL CAE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>RELATED COMPANIES <br clear="none"/>
 </td>
-<td align="center">179 794 303 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>28 751 <br clear="none"/>
 </td>
-<td align="center">122 205 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>19 <br clear="none"/>
 </td>
-<td align="center">115 461 <br/>
+<td align="center">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35828 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10387 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">RELATED COMPANIES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>RIO BONITO COMUNICACAO LTDA <br clear="none"/>
 </td>
-<td align="center">28 751 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>10 792 <br clear="none"/>
 </td>
-<td align="center">19 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>7<br clear="none"/>
 </td>
-<td align="center">18 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10387 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10391 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">RIO BONITO COMUNICACAO LTDA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ROUX INVESTMENT MNGT CO <br clear="none"/>
 </td>
-<td align="center">10 792 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5 690 <br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3<br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10391 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>258 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ROUX INVESTMENT MNGT CO <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ROYAL AIR MAROC <br clear="none"/>
 </td>
-<td align="center">5 690 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>770 250 518 <br clear="none"/>
 </td>
-<td align="center">3 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>523 536 <br clear="none"/>
 </td>
-<td align="center">3 <br/>
+<td align="center">
+<br clear="none"/>1 329 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">258 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>25946 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">ROYAL AIR MAROC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SALEM AVIATION <br clear="none"/>
 </td>
-<td align="center">770 250 518 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>90 670 <br clear="none"/>
 </td>
-<td align="center">523 536 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>61 <br clear="none"/>
 </td>
-<td align="center">494 644 <br/>
+<td align="center">
+<br clear="none"/>4 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">25946 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>5432 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SALEM AVIATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SAUDI OGER <br clear="none"/>
 </td>
-<td align="center">90 670 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>546 409 <br clear="none"/>
 </td>
-<td align="center">61 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>371 <br clear="none"/>
 </td>
-<td align="center">58 <br/>
+<td align="center">
+<br clear="none"/>31 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">5432 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32411 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SAUDI OGER <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SCOTTS MIRACLE-GRO <br clear="none"/>
 </td>
-<td align="center">546 409 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>49 987 <br clear="none"/>
 </td>
-<td align="center">371 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33 <br clear="none"/>
 </td>
-<td align="center">350 <br/>
+<td align="center">
+<br clear="none"/>6 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">32411 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1249 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SCOTTS MIRACLE-GRO <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SELIA <br clear="none"/>
 </td>
-<td align="center">49 987 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>81 066 <br clear="none"/>
 </td>
-<td align="center">33 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>55 <br clear="none"/>
 </td>
-<td align="center">32 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>49 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">1249 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33112 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SELIA <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SEVENTH SENSE STAR <br clear="none"/>
 </td>
-<td align="center">81 066 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6 318 <br clear="none"/>
 </td>
-<td align="center">55 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4<br clear="none"/>
 </td>
-<td align="center">52 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">33112 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32728 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SEVENTH SENSE STAR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SILVER VENTURES INC <br clear="none"/>
 </td>
-<td align="center">6 318 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>9 574 <br clear="none"/>
 </td>
-<td align="center">4 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6 <br clear="none"/>
 </td>
-<td align="center">4 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">32728 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>24200 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SILVER VENTURES INC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SIT-SET AG <br clear="none"/>
 </td>
-<td align="center">9 574 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4 495 <br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3<br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">24200 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35424 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SIT-SET AG <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SJ MANAGEMENT LLC <br clear="none"/>
 </td>
-<td align="center">4 495 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>25 557 <br clear="none"/>
 </td>
-<td align="center">3 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>17<br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35424 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35371 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SJ MANAGEMENT LLC <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SL MANAGEMENT <br clear="none"/>
 </td>
-<td align="center">25 557 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11 601 <br clear="none"/>
 </td>
-<td align="center">17 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>7 <br clear="none"/>
 </td>
-<td align="center">16 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">35371 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33859 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SL MANAGEMENT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>SOBEYS CAPITAL INCORPORATED <br clear="none"/>
 </td>
-<td align="center">11 601 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2 743 <br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1<br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">33859</p>
+<td align="center" valign="middle">
+<br clear="none"/>17921 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SOBEYS CAPITAL INCORPORATED</p>
+<td align="left" valign="middle">
+<br clear="none"/>SPECIALISED TRANSP. <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">2 743</p>
+<td align="center" valign="middle">
+<br clear="none"/>52 252 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br clear="none"/>35 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br clear="none"/>8 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">17921 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31400 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">SPECIALISED TRANSP. <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>STARR EQUIPMENT <br clear="none"/>
 </td>
-<td align="center">52 252 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6 758 <br clear="none"/>
 </td>
-<td align="center">35 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4<br clear="none"/>
 </td>
-<td align="center">33 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31400 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26148 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">STARR EQUIPMENT <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TAG AVIATION (SUISSE + MNGT) <br clear="none"/>
 </td>
-<td align="center">6 758 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>664 774 <br clear="none"/>
 </td>
-<td align="center">4 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>451 <br clear="none"/>
 </td>
-<td align="center">4 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>66 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">26148 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4386 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TAG AVIATION (SUISSE + MNGT) <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TAM LINHAS AEREAS <br clear="none"/>
 </td>
-<td align="center">664 774 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 728 675 620 <br clear="none"/>
 </td>
-<td align="center">451 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 174 973 <br clear="none"/>
 </td>
-<td align="center">426 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>105 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">4386 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>f10437 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TAM LINHAS AEREAS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TARGET CORPORATION <br clear="none"/>
 </td>
-<td align="center">1 728 675 620 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>19 404 <br clear="none"/>
 </td>
-<td align="center">1 174 973 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>13<br clear="none"/>
 </td>
-<td align="center">1 110 132 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">f10437 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>29860 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TARGET CORPORATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TPS <br clear="none"/>
 </td>
-<td align="center">19 404 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4 326 <br clear="none"/>
 </td>
-<td align="center">13 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2<br clear="none"/>
 </td>
-<td align="center">12 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">29860 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>32673 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TPS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TRANSAVIA FRANCE SAS <br clear="none"/>
 </td>
-<td align="center">4 326 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>303 991 244 <br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>206 621 <br clear="none"/>
 </td>
-<td align="center">2 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>58 457 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">32673 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2752 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TRANSAVIA FRANCE SAS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TUNIS AIR <br clear="none"/>
 </td>
-<td align="center">303 991 244 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>442 571 357 <br clear="none"/>
 </td>
-<td align="center">206 621 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>300 813 <br clear="none"/>
 </td>
-<td align="center">195 219 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 117 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">2752 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>31018 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TUNIS AIR <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>TURNBERRY MANAGEMENT <br clear="none"/>
 </td>
-<td align="center">442 571 357 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>39 568 <br clear="none"/>
 </td>
-<td align="center">300 813 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26<br clear="none"/>
 </td>
-<td align="center">284 213 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">31018</p>
+<td align="center" valign="middle">
+<br clear="none"/>28237 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">TURNBERRY MANAGEMENT</p>
+<td align="left" valign="middle">
+<br clear="none"/>TWIN JET <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">39 568</p>
+<td align="center" valign="middle">
+<br clear="none"/>5 201 083 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">26</p>
+<td align="center" valign="middle">
+<br clear="none"/>3 535 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">25</p>
+<td align="center" valign="middle">
+<br clear="none"/>1 956 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">28237</p>
+<td align="center" valign="middle">
+<br clear="none"/>10637 <br clear="none"/>
 </td>
-<td>
-<p align="left">TWIN JET </p>
+<td align="left" valign="middle">
+<br clear="none"/>VALMONT <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">5 201 083</p>
+<td align="center" valign="middle">
+<br clear="none"/>2 475 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">3 535 </p>
+<td align="center" valign="middle">
+<br clear="none"/>1<br clear="none"/>
 </td>
-<td align="center">
-<p align="center">3 340</p>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">10637</p>
+<td align="center" valign="middle">
+<br clear="none"/>19445 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">VALMONT</p>
+<td align="left" valign="middle">
+<br clear="none"/>VIETNAM AIRLINES <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">2 475</p>
+<td align="center" valign="middle">
+<br clear="none"/>491 029 904 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br clear="none"/>333 751 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">1</p>
+<td align="center" valign="middle">
+<br clear="none"/>5 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">19445 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>33703 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">VIETNAM AIRLINES <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>VIKING AVIATION LTD. <br clear="none"/>
 </td>
-<td align="center">491 029 904 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>38 385 <br clear="none"/>
 </td>
-<td align="center">333 751 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>26 <br clear="none"/>
 </td>
-<td align="center">315 332 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>1 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">33703 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23592 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">VIKING AVIATION LTD. <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>VULCAN INC <br clear="none"/>
 </td>
-<td align="center">38 385 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>68 865 <br clear="none"/>
 </td>
-<td align="center">26 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>46 <br clear="none"/>
 </td>
-<td align="center">24 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>3 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">23592</p>
+<td align="center" valign="middle">
+<br clear="none"/>31064 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">VULCAN INC</p>
+<td align="left" valign="middle">
+<br clear="none"/>WHITE LOTUS <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">68 865</p>
+<td align="center" valign="middle">
+<br clear="none"/>10 800 <br clear="none"/>
 </td>
-<td align="center">
-<p align="center">46</p>
+<td align="center" valign="middle">
+<br clear="none"/>7<br clear="none"/>
 </td>
-<td align="center">
-<p align="center">44</p>
+<td align="center" valign="middle">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">31064 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>23330 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">WHITE LOTUS <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>XL AIRWAYS FRANCE <br clear="none"/>
 </td>
-<td align="center">10 800 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>501 573 183 <br clear="none"/>
 </td>
-<td align="center">7 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>340 917 <br clear="none"/>
 </td>
-<td align="center">6 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>47 970 <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center">23330 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>11467 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">XL AIRWAYS FRANCE <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>YUM BRANDS INC. <br clear="none"/>
 </td>
-<td align="center">501 573 183 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>9 773 <br clear="none"/>
 </td>
-<td align="center">340 917 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>6<br clear="none"/>
 </td>
-<td align="center">322 103 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="center"> 11467</td>
-<td>YUM BRANDS INC. </td>
-<td align="center"> 9 773</td>
-<td align="center">6 </td>
-<td align="center"> 6</td>
+<td align="center" valign="middle">
+<br clear="none"/>31488 <br clear="none"/>
+</td>
+<td align="left" valign="middle">
+<br clear="none"/>YYA AVIATION <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>76 935 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>52 <br clear="none"/>
+</td>
+<td align="center" valign="middle">
+<br clear="none"/>4 <br clear="none"/>
+</td>
 </tr>
 <tr>
-<td align="center">31488 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>35614 <br clear="none"/>
 </td>
-<td align="center">
-<p align="left">YYA AVIATION <br/>
-</p>
+<td align="left" valign="middle">
+<br clear="none"/>ZOGBI LUCIANO <br clear="none"/>
 </td>
-<td align="center">76 935 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>4 388 <br clear="none"/>
 </td>
-<td align="center">52 <br/>
+<td align="center" valign="middle">
+<br clear="none"/>2<br clear="none"/>
 </td>
-<td align="center">49 <br/>
+<td align="center">
+<br clear="none"/>-<br clear="none"/>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="center">
 
 </div>
 

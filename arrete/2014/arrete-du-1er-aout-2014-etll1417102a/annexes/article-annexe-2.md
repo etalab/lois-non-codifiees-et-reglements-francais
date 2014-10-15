@@ -1,320 +1,430 @@
 # Article Annexe 2
 
-ANNEXE 2
-
-C
-
-Reste du territoire
-
-<div>
-<div align="center">
+.
 
 <table>
+<tbody>
 <tr>
 <td align="left" valign="bottom">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left" valign="bottom">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left" valign="bottom">
-<br/>Challex</td>
+<br/>Challex<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Chevry</td>
+<br/>Chevry<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Crozet</td>
+<br/>Crozet<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Échenevex</td>
+<br/>Echenevex<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Farges</td>
+<br/>Farges<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Grilly</td>
+<br/>Grilly<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Léaz</td>
+<br/>Léaz<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Pougny</td>
+<br/>Pougny<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Saint-Jean-de-Gonville</td>
+<br/>Saint-Jean-de-Gonville<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Sauverny</td>
+<br/>Sauverny<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Sergy</td>
+<br/>Sergy<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Versonnex</td>
+<br/>Versonnex<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>01</td>
+<br/>01<br/>
+</td>
 <td align="left">
-<br/>Ain</td>
+<br/>Ain<br/>
+</td>
 <td align="left">
-<br/>Vesancy</td>
+<br/>Vesancy<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Andilly</td>
+<br/>Andilly<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Arbusigny</td>
+<br/>Arbusigny<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Cercier</td>
+<br/>Cercier<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Cernex</td>
+<br/>Cernex<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Chênex</td>
+<br/>Chênex<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Copponex</td>
+<br/>Copponex<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Cuvat</td>
+<br/>Cuvat<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Dingy-en-Vuache</td>
+<br/>Dingy-en-Vuache<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Jonzier-Épagny</td>
+<br/>Jonzier-Epagny<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Menthonnex-en-Bornes</td>
+<br/>Menthonnex-en-Bornes<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>La Muraz</td>
+<br/>La Muraz<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Saint-Blaise</td>
+<br/>Saint-Blaise<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Le Sappey</td>
+<br/>Le Sappey<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Savigny</td>
+<br/>Savigny<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Scientrier</td>
+<br/>Scientrier<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Vers</td>
+<br/>Vers<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Villy-le-Bouveret</td>
+<br/>Villy-le-Bouveret<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Villy-le-Pelloux</td>
+<br/>Villy-le-Pelloux<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>74</td>
+<br/>74<br/>
+</td>
 <td align="left">
-<br/>Haute-Savoie</td>
+<br/>Haute-Savoie<br/>
+</td>
 <td align="left">
-<br/>Vovray-en-Bornes</td>
+<br/>Vovray-en-Bornes<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>77</td>
+<br/>77<br/>
+</td>
 <td align="left">
-<br/>Seine-et-Marne</td>
+<br/>Seine-et-Marne<br/>
+</td>
 <td align="left">
-<br/>Réau</td>
+<br/>Réau<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>78</td>
+<br/>78<br/>
+</td>
 <td align="left">
-<br/>Yvelines</td>
+<br/>Yvelines<br/>
+</td>
 <td align="left">
-<br/>Aigremont</td>
+<br/>Aigremont<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>78</td>
+<br/>78<br/>
+</td>
 <td align="left">
-<br/>Yvelines</td>
+<br/>Yvelines<br/>
+</td>
 <td align="left">
-<br/>Châteaufort</td>
+<br/>Châteaufort<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>78</td>
+<br/>78<br/>
+</td>
 <td align="left">
-<br/>Yvelines</td>
+<br/>Yvelines<br/>
+</td>
 <td align="left">
-<br/>Saint-Germain-de-la-Grange</td>
+<br/>Saint-Germain-de-la-Grange<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>78</td>
+<br/>78<br/>
+</td>
 <td align="left">
-<br/>Yvelines</td>
+<br/>Yvelines<br/>
+</td>
 <td align="left">
-<br/>Toussus-le-Noble</td>
+<br/>Toussus-le-Noble<br/>
+</td>
 </tr>
 <tr>
 <td align="left">
-<br/>91</td>
+<br/>91<br/>
+</td>
 <td align="left">
-<br/>Essonne</td>
+<br/>Essonne<br/>
+</td>
 <td align="left">
-<br/>Boissy-sous-Saint-Yon</td>
+<br/>Boissy-sous-Saint-Yon<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
