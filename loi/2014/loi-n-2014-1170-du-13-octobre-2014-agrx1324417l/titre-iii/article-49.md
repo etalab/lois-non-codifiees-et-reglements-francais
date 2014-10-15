@@ -1,0 +1,3 @@
+# Article 49
+
+En vue de permettre, au plus tard le 31 décembre 2016, une réduction de 25 % par rapport à l'année 2013 de l'utilisation des substances antibiotiques appartenant à chacune des trois familles des fluoroquinolones et des céphalosporines de troisième et de quatrième générations, tous les acteurs sont sensibilisés aux risques liés à l'antibiorésistance ; les bonnes pratiques d'élevage et les bonnes pratiques de prescription et d'utilisation de ces substances sont privilégiées, ainsi que le développement des alternatives permettant d'en éviter le recours. A l'issue de cette période, une évaluation de la réduction est réalisée et un nouvel objectif est défini.

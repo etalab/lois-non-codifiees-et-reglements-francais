@@ -1,0 +1,3 @@
+# Article 82
+
+Dans un délai de six mois à compter de la promulgation de la présente loi, le Gouvernement dépose sur le bureau des assemblées parlementaires un rapport sur les règles applicables aux exportations et aux importations de bois et de produits fabriqués en bois, précisant notamment les conditions phytosanitaires dans lesquelles elles se déroulent, évaluant les dispositifs de surveillance et de contrôle les concernant et indiquant les mesures à prendre afin de les renforcer. Ce rapport s'appuie sur l'analyse des données statistiques du commerce extérieur des produits bois des cinq dernières années.

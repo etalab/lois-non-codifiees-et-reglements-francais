@@ -1,0 +1,23 @@
+# Article 55
+
+I.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre, par voie d'ordonnances, les dispositions législatives nécessaires afin de :
+
+1° Mettre en place une expérimentation à l'appui du plan d'action ayant pour objet de réduire l'utilisation des produits phytopharmaceutiques, en définissant les personnes vendant des produits phytopharmaceutiques, autres que les produits de biocontrôle mentionnés au premier alinéa de l'article L. 253-5 du code rural et de la pêche maritime, qui sont tenues de mettre en œuvre des actions à cette fin, les conditions dans lesquelles ces personnes peuvent satisfaire à ces obligations et un dispositif de certificats d'économie de produits phytopharmaceutiques qui sont délivrés aux personnes assujetties lorsqu'elles justifient avoir satisfait à leurs obligations à l'instar du précédent sur les certificats d'économies d'énergie ;
+
+2° Moderniser et simplifier les règles applicables aux matières fertilisantes et supports de culture, en précisant leur définition, les conditions dans lesquelles leur importation, leur mise sur le marché, leur détention en vue de la mise sur le marché, leur vente ou distribution à titre gratuit et leur utilisation sont subordonnées à une autorisation administrative et les conditions dans lesquelles l'exercice de ces activités peut faire l'objet de mesures d'interdiction, de limitation ou de réglementation ;
+
+3° Compléter la liste des personnes habilitées à rechercher et à constater les infractions dans le domaine de la santé animale ou végétale, de la protection des animaux, de la sécurité sanitaire de l'alimentation et de la mise sur le marché, de la vente ou de la cession, de l'utilisation et du stockage des produits phytopharmaceutiques, en précisant le champ de leurs compétences et les pouvoirs dont elles disposent ;
+
+4° Modifier et simplifier le régime applicable aux groupements de défense contre les organismes nuisibles et à leurs fédérations, prévus aux articles L. 252-1 à L. 252-5 du code rural et de la pêche maritime ;
+
+5° Redéfinir et moderniser l'organisation et les missions de l'ordre des vétérinaires, en élargissant son champ d'action, en réformant l'organisation du système disciplinaire, notamment par la clarification de la gestion des missions administratives et disciplinaires de l'ordre, en définissant le statut de l'élu ordinal, son rôle, les modalités de son remplacement, ses devoirs et prérogatives et en recherchant l'amélioration du service rendu au public, grâce à la formation, à l'accréditation et au renforcement du contrôle ordinal ;
+
+6° Renforcer les règles applicables au commerce des animaux de compagnie, notamment en redéfinissant le seuil de déclaration de l'activité d'élevage de chiens et de chats, en réglementant ou en interdisant certaines modalités de vente et de cession à titre gratuit de vertébrés, tout en préservant, d'une part, l'activité des éleveurs professionnels comme non professionnels qui garantissent la pérennité des races et des espèces et contribuent au maintien de la filière nationale de génétique collective et, d'autre part, la pérennité des ventes effectuées par des professionnels sur les foires et marchés, et renforcer la protection des animaux, en étendant, dans le code de procédure pénale, le pouvoir des associations de défense et de protection des animaux de se constituer partie civile pour tous les délits relevant du chapitre unique du titre II du livre V du code pénal ;
+
+7° Adapter au droit de l'Union européenne les dispositions relatives au transport des animaux vivants et aux sous-produits animaux, notamment en redéfinissant l'activité d'équarrissage, et en actualisant et en complétant la liste des sanctions mentionnées à l'article L. 228-5 du code rural et de la pêche maritime ;
+
+8° Organiser la surveillance en matière de santé animale, de santé végétale et d'alimentation, en définissant les missions et obligations respectives des principaux acteurs en matière de surveillance ainsi que les conditions dans lesquelles ils échangent des informations et coordonnent leur action en s'appuyant sur le maillage territorial des laboratoires d'analyses départementaux.
+
+II.-Les ordonnances mentionnées aux 2°, 3° et 7° du I sont prises dans un délai de huit mois suivant la promulgation de la présente loi. Les ordonnances mentionnées aux 1°, 4°, 5°, 6° et 8° du I sont prises dans un délai de douze mois suivant la promulgation de la présente loi.
+
+Pour chaque ordonnance, un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.
