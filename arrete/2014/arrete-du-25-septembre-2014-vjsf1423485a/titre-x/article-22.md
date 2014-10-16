@@ -1,0 +1,7 @@
+# Article 22
+
+Le président du jury peut à tout moment, après avis du jury et sur décision motivée, suspendre le déroulement des épreuves ou exclure un candidat, pour des raisons tenant notamment à la sécurité et dans les formes prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 susvisée.
+
+L'autorité administrative responsable de la formation peut à tout moment, après avis de l'équipe de formateurs et sur décision motivée, suspendre des actions de formation ou exclure un stagiaire, pour des raisons tenant notamment à la sécurité, pour non-respect des dispositions du règlement intérieur de l'organisme de formation et dans les formes prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 susvisée.
+
+Le directeur général de l'Ecole nationale des sports de montagne, site du Centre national de ski nordique et de moyenne montagne, peut, après avis de la section permanente de l'alpinisme de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, sur décision motivée et pour des raisons tenant notamment au non-respect des dispositions du règlement intérieur du centre de formation concerné ou des dispositions de la convention de stage pédagogique en situation mentionnée à l'article 13 du présent arrêté, suspendre la validité du livret de formation délivrés au stagiaire pour une durée déterminée, dans les formes prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 susvisée.

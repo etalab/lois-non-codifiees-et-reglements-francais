@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation "site Natura 2000 vallée de la Sée" (zone spéciale de conservation FR 2500110) l'espace délimité sur la carte d'assemblage au 1/100 000 et les cinq cartes au 1/25 000 ci-jointes, s'étendant dans le département de la Manche, sur une partie du territoire des communes suivantes : Beauficel, Brouains, Brécey, Chérencé-le-Roussel, Cresnays, Cuves, La Gohannière, Lingeard, Les Loges-sur-Brécey, Le Mesnil-Adelée, Le Mesnil-Gilbert, Le Mesnil-Tôve, Notre-Dame-de-Livoye, Perriers-en-Beauficel, Le Petit-Celland, Ponts, Saint-Brice, Saint-Georges-de-Livoye, Saint-Laurent-de-Cuves, Saint-Nicolas-des-Bois, Saint-Pois, Saint-Senier-sous-Avranches, Sourdeval, Tirepied, Vernix.
