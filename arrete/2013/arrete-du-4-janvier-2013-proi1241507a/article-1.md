@@ -28,7 +28,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chargé de mission fonds stratégique d'investissement auprès du            directeur général des entreprises. </p>
+<p align="left">Chargé de mission fonds stratégique d'investissement auprès du directeur général des entreprises. </p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
-<p align="left">Chef de l'unité territoriale de l'Hérault à la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon. (Ajouté à compter du 1er mars 2014) </p>
+<p align="left">Chef de l'unité territoriale de l'Hérault à la direction régionale de l'environnement, de l'aménagement et du logement de Languedoc-Roussillon. (Ajouté à compter du 1er mars 2014) (Supprimé le 1er octobre 2014)</p>
 </td>
 </tr>
 <tr>
@@ -600,7 +600,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
-<p align="left">Chargé de mission auprès du secrétaire général de la direction générale de la compétitivité, de l'industrie et des services. (Ajouté le 13 septembre 2013) </p>
+<p align="left">Chargé de mission auprès du secrétaire général de la direction générale de la compétitivité, de l'industrie et des services. (Ajouté le 13 septembre 2013) (Supprimé le 5 mai 2014)</p>
 </td>
 </tr>
 <tr>
@@ -610,7 +610,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
-<p align="left">Chef de service de la métrologie légale à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie. (Ajouté le 1er mars 2014)</p>
+<p align="left">Chef de service de la métrologie légale à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie. (Ajouté le 1er mars 2014) (Supprimé le 1er septembre 2014)</p>
 </td>
 </tr>
 </tbody>

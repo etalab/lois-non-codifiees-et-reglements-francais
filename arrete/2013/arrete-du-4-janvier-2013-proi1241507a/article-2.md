@@ -69,7 +69,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.<br/>
+<p align="left">Secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées. (Supprimé le 1er juin 2014)<br/>
 </p>
 </td>
 </tr>
@@ -132,6 +132,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 <td>
 <p align="left">Chef du bureau sécurité des équipements industriels au SRT/SDRA/BSEI à la direction générale de la prévention des risques. (Ajouté le 1er janvier 2014)</p>
 </td>
+</tr>
+<tr>
+<td>Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées (Ajouté le 1er juin 2014)</td>
 </tr>
 </tbody>
 </table>
