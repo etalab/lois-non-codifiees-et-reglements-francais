@@ -461,19 +461,6 @@ Le siège et le ressort des tribunaux des pensions est déterminé comme suit :
 </tr>
 <tr>
 <td colspan="2" width="680">
-<p align="center">Tribunal supérieur d'appel de Mamoudzou</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="340">
-<p>Mamoudzou </p>
-</td>
-<td valign="top" width="340">
-<p>Ressort du tribunal supérieur d'appel de Mamoudzou </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="680">
 <p align="center">Tribunal supérieur d'appel de Saint-Pierre</p>
 </td>
 </tr>
