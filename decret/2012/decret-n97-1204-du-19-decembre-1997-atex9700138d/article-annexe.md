@@ -91,8 +91,7 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Approbation des modalités de contrôle du système destiné à mesurer la proportion d'emballages éliminés mis en place par chaque producteur. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et de l'agriculture. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 543-64
-</p>
+<p>Article R. 543-64 </p>
 </td>
 </tr>
 <tr>
@@ -189,6 +188,12 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <td align="left" valign="top">
 <p>Article R. 521-1 </p>
 </td>
+</tr>
+<tr>
+<td/>
+<td>Exemptions au règlement (UE) n° 528/2012 concernant la défense nationale <p>Décision conjointe du ministre de la défense et du ministre chargé de l'environnement </p>
+</td>
+<td>Article R. 522-2 </td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
@@ -667,10 +672,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation provisoire de mise sur le marché d'une substance active biocide. </p>
+<p>Autorisation provisoire de mise à disposition sur le marché d'un produit biocide contenant une nouvelle substance active biocide en cours d'examen  </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 522-4 </p>
+<p>Article R. 522-4  </p>
 </td>
 </tr>
 <tr>
@@ -679,10 +684,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation de mise sur le marché d'un produit biocide. </p>
+<p>Autorisation nationale de mise à disposition sur le marché et de renouvellement d'autorisation nationale d'un produit biocide  </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 522-14 </p>
+<p>Articles R. 522-6 et R. 522-7  </p>
 </td>
 </tr>
 <tr>
@@ -691,23 +696,76 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Modification des conditions d'utilisation définies dans l'autorisation de mise sur le marché d'un produit biocide. </p>
+<p>Autorisation nationale de mise à disposition sur le marché par reconnaissance mutuelle (simultanée ou séquentielle) </p>
+</td>
+<td valign="top" width="227">
+<p>Articles R. 522-9, R. 522-10 et R. 522-11  </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="76">
+<br/>
+<br/>
+</td>
+<td valign="top" width="378">
+<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification administrative)  </p>
+</td>
+<td valign="top" width="227">
+<p>Articles R. 522-12  </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="76">
+<br/>
+<br/>
+</td>
+<td valign="top" width="378">
+<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification mineure)  </p>
+</td>
+<td valign="top" width="227">
+<p>Articles R. 522-13 à R. 522-15  </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="76">
+<br/>
+<br/>
+</td>
+<td valign="top" width="378">
+<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification majeure)  </p>
+</td>
+<td valign="top" width="227">
+<p>Articles R. 522-16 à R. 522-18  </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="76">
+<br/>
+<br/>
+</td>
+<td valign="top" width="378">
+<p>Autorisation simplifiée de mise à disposition sur le marché d'un produit biocide </p>
+</td>
+<td valign="top" width="227">
+<p>Article R. 522-20  </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="76">
+<br/>
+<br/>
+</td>
+<td valign="top" width="378">
+<p>Autorisation de mise à disposition sur le marché de produits biocides identiques  </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 522-21 </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="76">
-<br/>
-<br/>
-</td>
-<td valign="top" width="378">
-<p>Autorisation de mise sur le marché d'un produit biocide correspondant à une formulation cadre établie par le ministre chargé de l'environnement. </p>
-</td>
-<td valign="top" width="227">
-<p>Article R. 522-25 </p>
-</td>
+<td/>
+<td>Autorisation d'expériences ou d'essais sur des produits biocides ou des substances actives biocides  </td>
+<td>Articles R. 522-23 et R. 522-24  </td>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -715,58 +773,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation de mise sur le marché d'un produit biocide contenant une ou plusieurs substances inscrites sur la liste I définie à l'article R. 522-2. </p>
+<p>Autorisation de commerce parallèle  </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 522-27 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="76">
-<br/>
-<br/>
-</td>
-<td valign="top" width="378">
-<p>Refus de la reconnaissance mutuelle des autorisations accordées pour les types de produit 15,17 et 23 mentionnés au tableau annexé à l'article R. 522-9. </p>
-</td>
-<td valign="top" width="227">
-<p>Article R. 522-29 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="76">
-<br/>
-<br/>
-</td>
-<td valign="top" width="378">
-<p>Autorisation provisoire de mise sur le marché de produits biocides prise en application des 1° et 2° du I de l'article L. 522-7. </p>
-</td>
-<td valign="top" width="227">
-<p>Article R. 522-30 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="76">
-<br/>
-<br/>
-</td>
-<td valign="top" width="378">
-<p>Autorisation de mise sur le marché en vue d'un essai pouvant entraîner un rejet dans l'environnement d'un produit biocide non autorisé ou de certaines substances actives. </p>
-</td>
-<td valign="top" width="227">
-<p>Article R. 522-41 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="76">
-<br/>
-<br/>
-</td>
-<td valign="top" width="378">
-<p>Autorisation et détermination des conditions de toute expérience ou essai portant sur une substance active ou un produit biocide. </p>
-</td>
-<td valign="top" width="227">
-<p>Article R. 522-42 </p>
+<p>Article R. 522-26 </p>
 </td>
 </tr>
 <tr>

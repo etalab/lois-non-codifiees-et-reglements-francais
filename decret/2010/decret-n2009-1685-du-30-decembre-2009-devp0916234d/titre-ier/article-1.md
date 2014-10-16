@@ -1,16 +1,16 @@
 # Article 1
 
-I. ― Les autorisations transitoires de mise sur le marché des produits biocides mentionnés au I de l'article 9 de la loi du 1er août 2008 susvisée sont délivrées, aux conditions qu'elles déterminent, par le ministre chargé de l'environnement après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
+I. ― Les autorisations transitoires de mise sur le marché des produits biocides mentionnés au I de l'article 13 de la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine du développement durable sont délivrées, aux conditions qu'elles déterminent, par le ministre chargé de l'environnement après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
 L'avis mentionné à l'alinéa précédent n'est pas requis en cas d'urgence lorsqu'un danger imprévu ne peut être maîtrisé par d'autres moyens. Dans ce cas, l'autorisation n'excède pas cent vingt jours.
 
-II. ― Lorsqu'un produit mentionné au I de l'article 9 de la loi du 1er août 2008 susvisée bénéficie déjà d'une autorisation transitoire de mise sur le marché, une nouvelle autorisation est demandée dans les cas suivants :
+II. ― Lorsqu'un produit mentionné au              I de l'article 13 de la loi n° 2013-619 du 16 juillet 2013 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine du développement durable bénéficie déjà d'une autorisation transitoire de mise sur le marché, une nouvelle autorisation est demandée dans les cas suivants :
 
 ― une modification de l'usage du produit ;
 
-― un changement de la composition du produit ;
+― un changement de la composition en substances actives ou en substances non actives nécessaires à l'efficacité du produit biocide ;
 
-― un changement de classification, de conditionnement ou d'étiquetage du produit ;
+― un changement de classification, de conditionnement ou d'étiquetage du produit, autre que tout changement résultant d'une disposition réglementaire ;
 
 ― le fait de commercialiser ce produit sous un autre nom commercial ;
 
@@ -24,4 +24,4 @@ Toute autre modification du produit apportée par le détenteur de l'autorisatio
 
 Ces autorisations sont délivrées par le ministre chargé de l'environnement après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
 
-III. ― Les dispositions du II du présent article s'appliquent aux autorisations visées au IV de l'article 9 de la loi du 1er août 2008 susvisée.
+III. ― Les dispositions du II du présent article s'appliquent aux autorisations visées au IV de l'article 13 de la loi du 16 juillet 2013 déjà citée.
