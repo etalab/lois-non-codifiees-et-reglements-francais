@@ -377,6 +377,7 @@
 - [Décret n°2014-512 du 20 mai 2014 (INTV1405419D)](decret-n2014-512-du-20-mai-2014-intv1405419d)
 - [Décret n°2014-513 du 20 mai 2014 (RDFF1328976D)](decret-n2014-513-du-20-mai-2014-rdff1328976d)
 - [Décret n°2014-514 du 20 mai 2014 (AGRS1406067D)](decret-n2014-514-du-20-mai-2014-agrs1406067d)
+- [Décret n°2004-581 du 21 juin 2004 (SANS0420260D)](decret-n2004-581-du-21-juin-2004-sans0420260d)
 - [Décret n°2014-217 du 21 février 2014 (INTA1330845D)](decret-n2014-217-du-21-fevrier-2014-inta1330845d)
 - [Décret n°2014-363 du 21 mars 2014 (AFSS1403347D)](decret-n2014-363-du-21-mars-2014-afss1403347d)
 - [Décret n°2014-364 du 21 mars 2014 (RDFF1331420D)](decret-n2014-364-du-21-mars-2014-rdff1331420d)
