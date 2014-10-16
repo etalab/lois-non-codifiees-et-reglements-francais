@@ -508,7 +508,6 @@
 - [Décret n°2004-1386 du 21 décembre 2004 (JUSC0420949D)](decret-n2004-1386-du-21-decembre-2004-jusc0420949d)
 - [Décret n°2004-346 du 21 avril 2004 (SANX0400022D)](decret-n2004-346-du-21-avril-2004-sanx0400022d)
 - [Décret n°2004-576 du 21 juin 2004 (INDI0402942D)](decret-n2004-576-du-21-juin-2004-indi0402942d)
-- [Décret n°2004-581 du 21 juin 2004 (SANS0420260D)](decret-n2004-581-du-21-juin-2004-sans0420260d)
 - [Décret n°2004-587 du 21 juin 2004 (ECOD0470006D)](decret-n2004-587-du-21-juin-2004-ecod0470006d)
 - [Décret n°2004-588 du 21 juin 2004 (ECOD0470007D)](decret-n2004-588-du-21-juin-2004-ecod0470007d)
 - [Décret n°2004-589 du 21 juin 2004 (ECOF0420124D)](decret-n2004-589-du-21-juin-2004-ecof0420124d)
