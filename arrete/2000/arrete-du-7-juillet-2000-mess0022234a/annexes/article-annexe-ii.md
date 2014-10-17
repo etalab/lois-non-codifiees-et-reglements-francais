@@ -46,6 +46,8 @@ MORGERE SAS Réparation navale. 10, avenue Louis-Martin, BP 170, 35408 Saint-Mal
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Bordeaux, palais de la Bourse, 3, place Gabriel, 33075 Bordeaux : de 1947 à 1997.
 
+SARL FLORIDE Marine, Zone technique, port de pêche, cale de Floride, 64700 Hendaye, De 1981 à 1985 puis Coopérative maritime Bidassoa, département mécanique, Zone technique, port de pêche, quai de Floride, 64700 Hendaye, De 1985 à 1998.
+
 Basse-Normandie
 
 ACE Société ACE (GIE), 1, rue des Claires, BP 59, de sa création à 1996, puis 7, rue des Claires, BP 59, 50460 Querqueville, depuis 1996.

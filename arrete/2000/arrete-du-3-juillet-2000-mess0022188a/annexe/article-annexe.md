@@ -228,6 +228,8 @@ Technisol, 47, rue Paul-Doumer, 14600 Honfleur : de 1957 à 1984.
 
 Haute-Normandie
 
+ALFRED ANDRE Route nationale 15, zone du Camp Dolent, 76700 Gonfreville-L'Orcher  De 1983 à 2000 ;
+
 Bitumastic, 24, rue des Pâtis, BP 2, 76144 Le Petit-Quevilly Cedex : de 1930 à 1992 ;
 
 CFPI, Notre-Dame-de-la-Garenne, ZI secteur C, 27600 Gaillon : de 1960 à 1996 ;
