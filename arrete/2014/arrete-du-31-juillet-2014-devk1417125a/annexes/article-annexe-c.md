@@ -2,15 +2,12 @@
 
 <div align="center">
 
-</div>
-
-.
-
+<p>.</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p align="center">SERVICES<br/> déconcentrés</p>
+<p align="center">SERVICES<br/>déconcentrés</p>
 </td>
 <td colspan="3">
 <p align="center">REPRÉSENTANTS DE L'ADMINISTRATION ET DU PERSONNEL</p>
@@ -365,10 +362,10 @@
 <p>DRIHL</p>
 </td>
 <td>
-<p align="center">8</p>
+<p align="center">10</p>
 </td>
 <td>
-<p align="center">8</p>
+<p align="center">10</p>
 </td>
 <td>
 <p align="center">Liste</p>
@@ -698,3 +695,5 @@
 </tr>
 </tbody>
 </table>
+
+</div>
