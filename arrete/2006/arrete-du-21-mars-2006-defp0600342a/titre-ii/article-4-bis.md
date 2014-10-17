@@ -16,6 +16,6 @@ Le contingent maximal réservé pour l'admission dans les classes du deuxième c
 
 III.-Groupe III
 
-Enfants ne relevant ni du groupe I ni du groupe II et détenteurs de bourses ou éligibles aux bourses de l'éducation nationale au moment du dépôt de leur candidature.
+Enfants ne relevant ni du groupe I ni du groupe II et détenteurs de bourses nationales de lycée ou éligibles à ces bourses au moment du dépôt de leur candidature.
 
 Le contingent maximal réservé pour l'admission dans les classes du deuxième cycle de l'enseignement du second degré des lycées de la défense aux candidats appartenant au groupe III est fixé à 15 % des places disponibles.

@@ -1,273 +1,222 @@
 # Article ANNEXE I
 
-ENSEIGNEMENTS DISPENSÉS DANS LES LYCÉES DE LA DÉFENSE
+Enseignements dispensés dans les lycées de la défense
 
 <table>
 <tbody>
 <tr>
-<th colspan="3">
-<br/>ENSEIGNEMENT DU SECOND DEGRÉ <br/>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>d'Aix-en-</p>
-<p>Provence <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>d'Autun <br/>
-</p>
-</th>
-<th>
-<br/>PRYTANÉE <p>national </p>
-<p>militaire de </p>
-<p>La Flèche <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>de Saint-Cyr-</p>
-<p>l'Ecole <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>naval </p>
-<p>de Brest <br/>
-</p>
-</th>
-<th>
-<br/>ÉCOLE <p>des pupilles </p>
-<p>de l'air </p>
-<p>de Grenoble <br/>
-</p>
-</th>
+<td align="center" colspan="3"> ENSEIGNEMENT DU SECOND DEGRÉ </td>
+<td align="center"> LYCÉE militaire d'Aix-en-Provence</td>
+<td align="center"> LYCÉE militaire d'Autun</td>
+<td align="center"> PRYTANÉE national militaire de La Flèche</td>
+<td align="center"> LYCÉE militaire de Saint-Cyr-l'Ecole</td>
+<td align="center"> LYCÉE naval de Brest</td>
+<td align="center"> ÉCOLE des pupilles de l'air de Grenoble</td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="2" valign="middle">
 <br/>Premier cycle <br/>
 </td>
-<td align="center">
+<td align="center" colspan="2" valign="middle">
 <br/>6e, 5e, 4e, 3e <br/>
 </td>
-<td/>
-<td align="center"/>
-<td align="center">
+<td align="left" rowspan="2" valign="middle"/>
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>X <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>1re et 2e année BEP <p>administration commerciale </p>
-<p>et comptable (ACC) <br/>
-</p>
-</td>
-<td/>
-<td align="center"/>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
+<td align="left" rowspan="2" valign="middle"/>
+<td align="left" rowspan="2" valign="middle"/>
+<td align="left" rowspan="2" valign="middle"/>
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Second <p>cycle <br/>
-</p>
+<td colspan="2" valign="middle">
+<br/>1re et 2e année BEP administration commerciale et comptable (ACC)<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="7" valign="middle">
+<br/>Second cycle <br/>
+</td>
+<td align="center" colspan="2" valign="middle">
 <br/>Classes de seconde <br/>
 </td>
-<td/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>Classes de premières <p>et terminales <br/>
+<td align="center" rowspan="6" valign="middle">
+<br/>Classes de premières <br/>
+<br/>
+<p>et terminales <br/>
 </p>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>S <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>L <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
+<br/>X<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>X<br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>ES <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>STMG (*) <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
+<td align="center" valign="middle">
+<br/>STMG (*)<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>X<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
 <br/>STI2D SIN (**) <br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>X<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Comptabilité <p>(***) <br/>
-</p>
+<td align="center" valign="middle">
+<br/>Comptabilité (***)<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td colspan="9">
-<br/>(*) Sciences et technologies du management et de la gestion. <p>(**) Sciences et technologies de l'industrie et du développement durable, option système d'information et numérique . </p>
-<p>(***) Enseignement professionnel spécialité comptabilité. <br/>
-</p>
+<td colspan="9" valign="middle">
+<p align="left">(*) Sciences et technologies du management et de la gestion.</p>
+<p align="left">(**) Sciences et technologies de l'industrie et du développement durable, option "système d'information et numérique".</p>
+<p align="left">(***) Enseignement professionnel spécialité comptabilité.</p>
 </td>
 </tr>
 </tbody>
@@ -276,124 +225,90 @@ ENSEIGNEMENTS DISPENSÉS DANS LES LYCÉES DE LA DÉFENSE
 <table>
 <tbody>
 <tr>
-<th colspan="2">
-<br/>CLASSES PRÉPARATOIRES <p>aux études supérieures <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>d'Aix-en-</p>
-<p>Provence <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>d'Autun <br/>
-</p>
-</th>
-<th>
-<br/>PRYTANÉE <p>national </p>
-<p>militaire de </p>
-<p>La Flèche <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>de Saint-Cyr-</p>
-<p>l'École <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>naval </p>
-<p>de Brest <br/>
-</p>
-</th>
-<th>
-<br/>ÉCOLE <p>des pupilles </p>
-<p>de l'air </p>
-<p>de Grenoble <br/>
-</p>
-</th>
+<td align="center" colspan="2"> CLASSES PRÉPARATOIRES <br/>aux études supérieures </td>
+<td align="center"> LYCÉE MILITAIRE<br/>d'Aix-en-Provence </td>
+<td align="center"> LYCÉE MILITAIRE<br/> d'Autun </td>
+<td align="center"> PRYTANÉE <p>national </p>
+<p>militaire </p>de La Flèche </td>
+<td align="center"> LYCÉE MILITAIRE<br/>de Saint-Cyr-l'Ecole </td>
+<td align="center"> LYCÉE <br/>naval de Brest </td>
+<td align="center"> ÉCOLE <br/>des pupilles de l'air de Grenoble</td>
 </tr>
 <tr>
-<td align="center">
+<td rowspan="3" valign="middle">
 <br/>Filières <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>Sciences <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
+<br/>X<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>X<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>Lettres <br/>
+<td align="center" valign="middle">
+<br/>Lettres<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>X<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>SES (*) <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td colspan="8">
-<p align="left">
-<br/>(*) Sciences économiques et sociales. <br/>
-</p>
+<td align="center" valign="middle">
+<br/>SES (*)<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>X<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+</tr>
+<tr>
+<td colspan="8" valign="middle">
+<p align="left">(*) Sciences économiques et sociales.</p>
 </td>
 </tr>
 </tbody>
@@ -402,247 +317,207 @@ ENSEIGNEMENTS DISPENSÉS DANS LES LYCÉES DE LA DÉFENSE
 <table>
 <tbody>
 <tr>
-<th colspan="2">
-<br/>CLASSES PRÉPARATOIRES <p>aux grande écoles militaires </p>
-<p>Préparation aux concours <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>d'Aix-en-</p>
-<p>Provence <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>d'Autun <br/>
-</p>
-</th>
-<th>
-<br/>PRYTANÉE <p>national </p>
-<p>militaire </p>
-<p>de La Flèche <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>militaire </p>
-<p>de Saint-Cyr-</p>
-<p>l'Ecole <br/>
-</p>
-</th>
-<th>
-<br/>LYCÉE <p>naval </p>
-<p>de Brest <br/>
-</p>
-</th>
-<th>
-<br/>ÉCOLE <p>des pupilles </p>
-<p>de l'air </p>
-<p>de Grenoble <br/>
-</p>
-</th>
+<td align="center" colspan="2"> CLASSES PRÉPARATOIRES <br/>aux études supérieures </td>
+<td align="center"> LYCÉE MILITAIRE<br/>d'Aix-en-Provence </td>
+<td align="center"> LYCÉE<p>militaire </p>d'Autun</td>
+<td align="center"> PRYTANÉE <p>national </p>
+<p>militaire </p>de La Flèche </td>
+<td align="center"> LYCÉE MILITAIRE<br/>de Saint-Cyr-l'Ecole </td>
+<td align="center"> LYCÉE <br/>naval de Brest </td>
+<td align="center"> ÉCOLE <p>des pupilles de l'air </p>de Grenoble</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ESM <p>de Saint-Cyr <br/>
-</p>
+<td align="left" rowspan="3" valign="middle">
+<br/>ESM de Saint-Cyr <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>Sciences <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>Lettres <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
+<br/>X<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>X<br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>- <br/>
-</td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>SES (*) <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>X<br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ecole polytechnique <br/>
+<td align="left" colspan="2" valign="middle">
+<br/>Ecole polytechnique<br/>
 </td>
-<td/>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>X <br/>
+<td align="center" valign="middle">
+<br/>X<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td align="center">
-<br/>- <br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" colspan="2" valign="middle">
 <br/>Ecole navale <br/>
 </td>
-<td/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" colspan="2" valign="middle">
 <br/>Ecole de l'air <br/>
 </td>
-<td/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
-<br/>X <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>ENSIETA (**) <br/>
-</td>
-<td/>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
-<br/>X <br/>
-</td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" colspan="2" valign="middle">
+<br/>ENSTA-Bretagne (**) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+<td align="center" valign="middle">
+<br/>X <br/>
+</td>
+</tr>
+<tr>
+<td align="left" colspan="2" valign="middle">
 <br/>ENSIM (***) <br/>
 </td>
-<td/>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>X <br/>
 </td>
 </tr>
 <tr>
-<td colspan="8">
-<p align="left">(*) Sciences économiques et sociales. </p>
-<p align="left">(**) Ecole nationale supérieure des ingénieurs des études et techniques d'armement. </p>
-<p align="left">(***) Ecole nationale supérieure des ingénieurs de l'infrastructure militaire. <br/>
-</p>
+<td colspan="8" valign="middle">
+<p align="left">(*) Sciences économiques et sociales.</p>
+<p align="left">(**) Ecole nationale supérieure des techniques avancées.</p>
+<p align="left">(***) Ecole nationale supérieure des ingénieurs de l'infrastructure militaire.</p>
 </td>
 </tr>
 </tbody>
