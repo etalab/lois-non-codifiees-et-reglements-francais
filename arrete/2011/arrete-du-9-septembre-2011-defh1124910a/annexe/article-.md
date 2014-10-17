@@ -1,25 +1,21 @@
 # Article 
 
+<div>
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
-<p align="center"> COMITÉ TECHNIQUE DE BASE DE DÉFENSE </p>
-</td>
-<td colspan="2">
-<p align="center"> NOMBRE DE SIÈGES DE REPRÉSENTANTS <br/>du personnel </p>
-</td>
-<td rowspan="2">
-<p align="center"> MODE DE SCRUTIN </p>
-</td>
+<th rowspan="2">COMITÉ TECHNIQUE DE BASE DE DÉFENSE <br/>
+</th>
+<th colspan="2">NOMBRE DE SIÈGES DE REPRÉSENTANTS <br/>du personnel <br/>
+</th>
+<th rowspan="2">MODE DE SCRUTIN <br/>
+</th>
 </tr>
 <tr>
-<td>
-<p align="center"> Titulaires </p>
-</td>
-<td>
-<p align="center"> Suppléants </p>
-</td>
+<th>Titulaires <br/>
+</th>
+<th>Suppléants <br/>
+</th>
 </tr>
 <tr>
 <td align="left" valign="middle">
@@ -200,7 +196,7 @@
 <br/>3 <br/>
 </td>
 <td align="center" valign="middle">
-<br/>Liste <br/>
+<br/>Sigle<br/>
 </td>
 </tr>
 <tr>
@@ -676,7 +672,7 @@
 <br/>3 <br/>
 </td>
 <td align="center" valign="middle">
-<br/>Liste <br/>
+<br/>Sigle<br/>
 </td>
 </tr>
 <tr>
@@ -806,3 +802,4 @@
 </tr>
 </tbody>
 </table>
+</div>
