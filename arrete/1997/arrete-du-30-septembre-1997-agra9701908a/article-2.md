@@ -5,75 +5,52 @@ La composition de la commission administrative paritaire mentionnée à l'articl
 <table>
 <tbody>
 <tr>
-<td valign="top"/>
-<td colspan="2" valign="top">
-<p align="center">MEMBRES</p>
+<td rowspan="2">
+<p align="center">
+<b/>
+</p>
+</td>
+<td colspan="2">
+<p align="center">
+<br/>MEMBRES</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<pre> </pre>
+<td>
+<p align="center">
+<br/>Titulaires</p>
 </td>
-<td valign="top">
-<p align="center">Titulaires</p>
-</td>
-<td valign="top">
-<p align="center">Suppléants</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>a) Représentants du personnel:</p>
-</td>
-<td valign="top">
-<pre> </pre>
-</td>
-<td valign="top">
-<pre> </pre>
+<td>
+<p align="center">
+<br/>Suppléants</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Professeur certifié hors classe</p>
+<td>
+<p>
+<br/>a) Représentants du personnel :<br/>Professeur certifié hors classe <br/>Professeur certifié <br/>b) Représentants de l'administration </p>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td valign="bottom">
+<p align="center">
+<br/>3<br/>3<br/>6</p>
 </td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Professeur certifié</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
+<td valign="bottom">
+<p align="center">
+<br/>3<br/>3<br/>6</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>b) Représentants de l'administration</p>
+<td>
+<p>
+<br/>Total </p>
 </td>
-<td valign="top">
-<p align="center">5</p>
+<td>
+<p align="center">
+<br/>12</p>
 </td>
-<td valign="top">
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p>Total</p>
-</td>
-<td rowspan="2" valign="top">
-<p align="center">10</p>
-</td>
-<td rowspan="2" valign="top">
-<p align="center">10</p>
+<td>
+<p align="center">
+<br/>12</p>
 </td>
 </tr>
 </tbody>

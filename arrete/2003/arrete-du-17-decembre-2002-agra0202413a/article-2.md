@@ -31,6 +31,17 @@ La composition de la commission administrative paritaire mentionnée à l'articl
 </tr>
 <tr>
 <td width="205">
+<p>Administrateur civil général</p>
+</td>
+<td width="205">
+<p align="center">1</p>
+</td>
+<td width="205">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td width="205">
 <p>Administrateur civil hors classe</p>
 </td>
 <td width="205">
@@ -41,14 +52,14 @@ La composition de la commission administrative paritaire mentionnée à l'articl
 </td>
 </tr>
 <tr>
-<td width="205">
+<td>
 <p>Administrateur civil</p>
 </td>
-<td width="205">
-<p align="center">2</p>
+<td>
+<p align="center"> 1</p>
 </td>
-<td width="205">
-<p align="center">2</p>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
