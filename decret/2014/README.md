@@ -231,6 +231,8 @@
 - [DÉCRET n°2014-1048 du 15 septembre 2014 (EINP1415729D)](decret-n2014-1048-du-15-septembre-2014-einp1415729d)
 - [DÉCRET n°2014-1049 du 15 septembre 2014 (PRMX1409236D)](decret-n2014-1049-du-15-septembre-2014-prmx1409236d)
 - [DÉCRET n°2014-1187 du 15 octobre 2014 (AGRT1419182D)](decret-n2014-1187-du-15-octobre-2014-agrt1419182d)
+- [DÉCRET n°2014-1189 du 15 octobre 2014 (JUSC1405236D)](decret-n2014-1189-du-15-octobre-2014-jusc1405236d)
+- [DÉCRET n°2014-1191 du 15 octobre 2014 (AGRT1417977D)](decret-n2014-1191-du-15-octobre-2014-agrt1417977d)
 - [DÉCRET n°2014-800 du 15 juillet 2014 (MENE1414240D)](decret-n2014-800-du-15-juillet-2014-mene1414240d)
 - [DÉCRET n°2014-897 du 15 août 2014 (JUSC1405663D)](decret-n2014-897-du-15-aout-2014-jusc1405663d)
 - [Décret n°2014-488 du 15 mai 2014 (FCPT1305515D)](decret-n2014-488-du-15-mai-2014-fcpt1305515d)

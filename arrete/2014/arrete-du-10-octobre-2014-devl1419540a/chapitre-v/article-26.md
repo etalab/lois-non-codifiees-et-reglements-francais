@@ -1,0 +1,3 @@
+# Article 26
+
+Les représentants du personnel ne peuvent siéger à la commission lorsque celle-ci est appelée à délibérer sur leur situation individuelle. Lorsque la commission évoque la situation d'un représentant du personnel en tant que titulaire, il est fait appel au premier représentant suppléant ou, à défaut, à un autre représentant suppléant appartenant à la même liste. Dans le cas où une commission est appelée à examiner la situation de tous les représentants, titulaires et suppléants, de cette commission ou si aucun représentant ne peut valablement siéger, il est fait application de la procédure de tirage au sort.

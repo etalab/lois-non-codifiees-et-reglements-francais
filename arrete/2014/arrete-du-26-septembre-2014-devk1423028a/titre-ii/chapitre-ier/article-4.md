@@ -1,0 +1,3 @@
+# Article 4
+
+Les représentants de l'administration, membres titulaires et suppléants d'une commission consultative paritaire, venant à cesser les fonctions en considération desquelles ils ont été nommés au cours de la période susvisée de quatre années, par suite de démission de l'administration ou de leur mandat de membre de ladite commission, de mise en congé de longue durée au titre de l'article 34 de la loi du 11 janvier 1984 susvisée, de mise en disponibilité ou pour toute autre cause, sont remplacés selon les modalités prévues dans l'article 6 ci-après et dans les conditions prévues à l'article 7 ci-après. Le mandat de leurs successeurs expire dans ce cas lors du renouvellement de la commission.

@@ -1,0 +1,3 @@
+# Article 8
+
+Sont éligibles à la commission consultative paritaire les agents qui remplissent les conditions pour être électeurs. Toutefois, ne peuvent être élus ni les agents en congé de grave maladie au titre de l'article 13 du décret n° 86-83 du 17 janvier 1986 susvisé, ni ceux placés pour quelque raison que ce soit en position de congés sans rémunération, ni ceux qui ne comptent pas au moins trois mois d'ancienneté à la date du scrutin, ni ceux frappés de l'une des incapacités prononcées par les articles L. 5 et L. 7 du code électoral, ni ceux frappés d'une exclusion temporaire des fonctions en application de l'article 43-2 du décret n° 86-83 du 17 janvier 1986 susvisé, à moins qu'ils n'aient été amnistiés ou relevés de leur peine.
