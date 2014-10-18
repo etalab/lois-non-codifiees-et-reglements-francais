@@ -20,7 +20,7 @@ IV. ― Aires et zones dans lesquelles différentes opérations sont réalisées
 
 La récolte des raisins, la vinification, l'élaboration, l'élevage et le conditionnement des vins sont assurés sur les territoires délimités par l'article 17 de la loi du 6 mai 1919, sous réserve des dispositions suivantes :
 
-― dans l'arrondissement de Vitry-le-François (département de la Marne), l'aire parcellaire délimitée est celle approuvée par le comité national compétent de l'Institut national de l'origine et de la qualité lors de la séance des 7 et 8 novembre 1990 et dont les plans sont déposés dans les mairies concernées ;
+― dans l'arrondissement de Vitry-le-François (département de la Marne), l'aire parcellaire délimitée est celle approuvée par le comité national compétent de l'Institut national de l'origine et de la qualité lors de la séance des 7 et 8 novembre 1990 et dont les plans sont déposés dans les mairies des communes concernées ;
 
 ― dans les communes suivantes du département de l'Aube : Arsonval, Cunfin, Dolancourt, Jaucourt, l'aire parcellaire délimitée est celle approuvée par le comité national compétent de l'Institut national de l'origine et de la qualité lors des séances des 23 juin 1994, 8 septembre 1994 et 19 mai 1995 et dont les plans sont déposés dans les mairies des communes concernées ;
 
@@ -34,13 +34,7 @@ La récolte des raisins, la vinification, l'élaboration, l'élevage et le condi
 
 V. ― Encépagement
 
-1° Encépagement :
-
 Les vins sont issus exclusivement des cépages arbane B, chardonnay B, meunier N, petit meslier B, pinot blanc B, pinot gris G et pinot noir N.
-
-2° Règles de proportion à l'exploitation :
-
-Pas de disposition particulière.
 
 VI. ― Conduite du vignoble
 
@@ -48,11 +42,17 @@ VI. ― Conduite du vignoble
 
 a) Densité de plantation.
 
-Les vignes sont plantées avec un écartement entre les rangs qui ne peut être supérieur à 1, 50 mètre.
+Dispositions générales
 
-L'écartement entre les pieds sur un même rang est compris entre 0, 90 mètre et 1, 50 mètre.
+Les vignes sont plantées avec un écartement entre les rangs qui ne peut être supérieur à 1,50 mètre.
 
-La somme de l'écartement entre les rangs et de l'écartement entre les pieds sur un même rang ne peut être supérieur à 2, 50 mètres.
+L'écartement entre les pieds sur un même rang est compris entre 0,90 mètre et 1,50 mètre.
+
+La somme de l'écartement entre les rangs et de l'écartement entre les pieds sur un même rang ne peut être supérieur à 2,50 mètres.
+
+Dispositions particulières
+
+Afin de permettre le passage d'engins adaptés, les parcelles présentant, soit une pente supérieure à 35 %, soit une pente supérieure à 25 % associée à un dévers supérieur à 10 %, peuvent présenter des allées, d'une largeur comprise entre 1,50 mètre et 3 mètres, avec une fréquence maximale d'un rang sur six. Dans ce cas, la somme de l'écartement entre les autres rangs et de l'écartement entre les pieds sur un même rang ne peut être supérieure à 2,30 mètres.
 
 b) Règles de taille.
 
@@ -89,7 +89,8 @@ Les vignes sont taillées selon les techniques suivantes :
 <tr>
 <td align="center">Disposition particulière <br/>
 </td>
-<td align="center">Les vignes plantées avec le cépage meunier N et avec un écartement sur le rang supérieur à 1, 20 mètre peuvent être conduites avec 3 charpentes portant chacune un prolongement à fruit, couché sur un fil et taillé avec un maximum de 6 yeux francs. <br/>
+<td align="center">a) En cas de charpente manquante, une rentrure à 2 yeux francs maximum peut être pratiquée sur une des charpentes, en supplément du courson de remplacement ou de rajeunissement (dit rachet ) situé à la base de la souche ; <p>b) Les vignes plantées avec le cépage meunier N et avec un écartement sur le rang supérieur à 1,20 mètre peuvent être conduites avec 3 charpentes portant chacune un prolongement à fruit, couché sur un fil et taillé avec un maximum de 6 yeux francs. <br/>
+</p>
 </td>
 </tr>
 </tbody>
@@ -170,24 +171,30 @@ Les vignes sont taillées selon les techniques suivantes :
 <td align="center">a) Les vignes sont taillées : <br/>― en taille Guyot simple avec un courson à 3 yeux francs maximum et un long bois à 10 yeux francs maximum ; <br/>― en taille Guyot double avec au plus 2 coursons à 2 yeux francs maximum et au plus 2 longs bois à 8 yeux francs maximum dont 6 au maximum sont disposés sur le fil en position horizontale. <br/>b) Les longs bois sont liés à une hauteur maximale de 0, 50 mètre au-dessus du niveau du sol. <br/>
 </td>
 </tr>
-<tr>
-<td align="center">Exigences particulières <br/>
-</td>
-<td align="center">Pas de disposition particulière. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Disposition particulière <br/>
-</td>
-<td align="center">Pas de disposition particulière. <br/>
-</td>
-</tr>
 </tbody>
 </table>
 
 </div>
-
-La taille en cordon permanent et la taille Guyot asymétrique sont également autorisées comme des variations des autres tailles ci-dessus mentionnées.
+<table>
+<tbody>
+<tr>
+<th colspan="2">TAILLE GUYOT ASYMÉTRIQUE <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>Description <br/>
+</td>
+<td>
+<p>a) Les vignes sont taillées :</p>
+<p>-avec un rachet de 2 yeux francs maximum ;</p>
+<p>-un lancement portant 6 yeux francs maximum ;</p>
+<p>-un prolongement (à fruits) établi à l'extrémité du lancement de l'année précédente, ou d'une charpente de plus de 2 ans et portant au maximum 6 yeux francs ; </p>
+<p>b) La disposition des bois doit être telle que les derniers bourgeons se trouvent à une hauteur maximale de 0,60 mètre. </p>
+</td>
+</tr>
+</tbody>
+</table>
 
 c) Règle de palissage.
 
@@ -207,11 +214,17 @@ La hauteur de feuillage palissé, après rognage, est au minimum égaleà 0, 6 f
 
 Elle est mesurée entre le fil lieur et la limite supérieure de rognage.
 
-g) Seuil de manquants.
+g) Charge maximale moyenne à la parcelle.
 
-Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural est fixé à 20 %.
+La charge maximale moyenne à la parcelle est fixée à 19 700 kilogrammes de raisins à l'hectare.
 
-h) Etat cultural de la vigne.
+Le nombre de grappes par mètre carré de surface de vigne en production est inférieur ou égal à 17.
+
+h) Seuil de manquants.
+
+Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 645-4 du code rural et de la pêche maritime est fixé à 20 %.
+
+i) Etat cultural de la vigne.
 
 Les parcelles doivent être conduites afin d'assurer un bon état cultural global de la vigne, notamment son état sanitaire et l'entretien de son sol.
 
@@ -221,7 +234,9 @@ Afin de préserver les caractéristiques des sols, qui constituent un élément 
 
 a) L'enherbement permanent des tournières est obligatoire ;
 
-b) L'utilisation des composts et déchets organiques ménagers, des boues de station d'épuration autres que celles des installations vitivinicoles, seuls ou en mélange, est interdite.
+b) L'utilisation des composts et déchets organiques ménagers, des boues de station d'épuration autres que celles des installations vitivinicoles, seuls ou en mélange, est interdite ;
+
+c) Toute modification substantielle de la morphologie, du sous-sol ou des éléments permettant de garantir l'intégrité et la pérennité des sols d'une parcelle destinée à la production de l'appellation d'origine contrôlée est interdite, à l'exclusion des travaux de défonçage classique.
 
 3° Irrigation :
 
@@ -233,7 +248,7 @@ VII. ― Récolte, transport et maturité du raisin
 
 a) Les vins proviennent de raisins récoltés à bonne maturité.
 
-La date de début des vendanges est fixée selon les dispositions de l'article D. 644-24 du code rural.
+La date de début des vendanges est fixée selon les dispositions de l'article D. 645-6 du code rural et de la pêche maritime.
 
 Une date de fin de cueillette est fixée par arrêté préfectoral sur proposition des services de l'Institut national de l'origine et de la qualité, après avis de l'organisme de défense et de gestion.
 
@@ -243,7 +258,7 @@ Tout moyen ne permettant pas la récolte de grappes de raisin entières est inte
 
 c) Dispositions particulières de transport de la vendange.
 
-Les raisins doivent être transportés entiers jusqu'aux installations de pressurage ou de vinification.
+Les raisins sont transportés entiers jusqu'aux installations de pressurage ou de vinification.
 
 Les paniers, caisses et cagettes utilisés pour le transport des raisins du lieu de la cueillette jusqu'à l'installation de pressurage ou de vinification doivent comporter au fond et sur tous les côtés des orifices permettant l'écoulement rapide et complet du jus dans l'attente du pressurage ou de la vinification.
 
@@ -257,45 +272,39 @@ b) Titre alcoométrique volumique naturel minimum.
 
 Les vins présentent un titre alcoométrique volumique naturel minimum de 9 %.
 
-c) Titre alcoométrique volumique acquis.
-
-Pas de disposition particulière.
+c) Abrogé.
 
 VIII. ― Rendements. ― Entrée en production
 
 1° Rendement :
 
-Le rendement visé à l'article D. 644-25 du code rural est fixé à 10 400 kilogrammes de raisins à l'hectare.
+Le rendement visé à l'article D. 645-7 du code rural et de la pêche maritime est fixé à 12 400 kilogrammes de raisins à l'hectare.
 
 2° Rendement butoir :
 
-Le rendement butoir visé à l'article D. 644-25 du code rural est fixé à 15 500 kilogrammes de raisins à l'hectare.
+Le rendement butoir visé à l' article D. 645-7 du code rural et de la pêche maritime est fixé à 15 500 kilogrammes de raisins à l'hectare.
 
-3° Rendement maximum de production :
-
-Pas de disposition particulière.
-
-4° Entrée en production des vignes :
+3° Entrée en production des vignes :
 
 Le bénéfice de l'appellation d'origine contrôlée ne peut être accordé aux vins provenant des parcelles de jeunes vignes qu'à partir de la deuxième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 juillet.
 
-5° Dispositions particulières :
+4° Dispositions particulières :
 
 a) Vins blancs :
 
-― les vins sont obtenus dans la limite de 102 litres de moûts débourbés pour 160 kilogrammes de raisins mis en œuvre ;
+-les vins sont obtenus dans la limite d'un volume de 102 litres de moûts débourbés pour 160 kilogrammes de raisins mis en œuvre. Pour une récolte déterminée, compte tenu notamment des caractéristiques de celle-ci, un arrêté interministériel peut diminuer ce volume ;
 
-― les bourbes résultant du pressurage sont extraites dans une proportion comprise entre 1 % et 4 % de la quantité de moûts débourbés. Elles font l'objet d'un retrait sous contrôle ou sont détruites par distillation avant le 15 décembre de l'année de la récolte ;
+-les bourbes résultant du pressurage sont extraites dans une proportion comprise entre 1 % et 4 % de la quantité de moûts débourbés. Elles sont éliminées dans le respect des dispositions encadrant l'élimination des sous-produits avant le 15 décembre de l'année de la récolte ;
 
-― les moûts destinés à l'élaboration des vins susceptibles de bénéficier de l'appellation d'origine contrôlée sont débourbés préalablement à toute sortie du centre de pressurage ;
+-les moûts destinés à l'élaboration des vins susceptibles de bénéficier de l'appellation d'origine contrôlée sont débourbés préalablement à toute sortie du centre de pressurage ;
 
-― les vins de presse obtenus en fin de pressurage au-delà du rendement maximum autorisé sont assimilés aux rebêches.
+-les vins de presse obtenus en fin de pressurage au-delà du rendement maximum autorisé sont assimilés aux rebêches.
 
 b) Vins rouges et vins rosés de macération ou de saignée :
 
-― les vins sont obtenus dans la limite de 102 litres de vins pour 160 kilogrammes de raisins mis en œuvre, après égouttage et pressurage ;
+-les vins sont obtenus dans la limite d'un volume de 102 litres de vins pour 160 kilogrammes de raisins mis en œuvre, après égouttage et pressurage. Pour une récolte déterminée, compte tenu notamment des caractéristiques de celle-ci, un arrêté interministériel peut diminuer ce volume.
 
-― les vins de presse obtenus en fin de pressurage au-delà du rendement maximum autorisé sont assimilés aux rebêches.
+-les vins de presse obtenus en fin de pressurage au-delà du rendement maximum autorisé sont assimilés aux rebêches.
 
 c) Prise en charge au compte de l'appellation d'origine contrôlée :
 
@@ -317,9 +326,9 @@ a) Réception et pressurage.
 
 La pesée des raisins est obligatoire sur le lieu du pressurage et d'encuvage.
 
-― pour l'élaboration de vins blancs, le pressurage doit obligatoirement être effectué dans des pressoirs permettant de recevoir, en raisins entiers, au moins 2 000 kilogrammes et au plus 12 000 kilogrammes de raisins par charge. Les pressoirs utilisés doivent permettre la fragmentation des moûts en cuvée et taille ;
+― Pour l'élaboration de vins blancs, le pressurage doit obligatoirement être effectué dans des pressoirs permettant de recevoir, en raisins entiers, au moins 2 000 kilogrammes et au plus 12 000 kilogrammes de raisins par charge. Les pressoirs utilisés doivent permettre la fragmentation des moûts en cuvée et taille ;
 
-― pour l'élaboration des vins rouges et rosés, l'utilisation de pressoirs d'une capacité inférieure à 2 000 kilogrammes est autorisée.
+― Pour l'élaboration des vins rouges et rosés, l'utilisation de pressoirs d'une capacité inférieure à 2 000 kilogrammes est autorisée.
 
 b) Fermentation malolactique.
 
@@ -333,7 +342,7 @@ Les vins présentent une teneur en sucres fermentescibles (glucose et fructose) 
 
 d) Pratiques œnologiques et traitements physiques.
 
-L'utilisation de morceaux de bois de chêne est interdite.
+L'utilisation de morceaux de bois est interdite.
 
 Pour l'élaboration des vins rosés, l'emploi des charbons à usage œnologique, seuls ou en mélange dans des préparations, est interdit.
 
@@ -341,13 +350,9 @@ Après enrichissement, les vins ne dépassent pas le titre alcoométrique volumi
 
 L'augmentation du volume de moût en fermentation mis en œuvre ne peut être supérieure à 1, 12 %, pour 1 % d'augmentation du titre alcoométrique volumique, lors de l'opération d'enrichissement.
 
-Les volumes excédentaires sont détruits par envoi aux usages industriels avant le 15 décembre de l'année suivant celle de la récolte, conformément aux dispositions prévues par l'article D. 644-32 du code rural.
+Les volumes excédentaires sont détruits par envoi aux usages industriels avant le 15 décembre de l'année suivant celle de la récolte, conformément aux dispositions prévues par l'article l' article D. 645-14 du code rural et de la pêche maritime .
 
-e) Capacité globale de cuverie de vinification.
-
-Pas de disposition particulière.
-
-f) Bon état d'entretien global du chai et du matériel.
+e) Entretien du chai et du matériel
 
 Le chai (sol et murs) et le matériel de vinification présentent un bon état d'entretien général.
 
@@ -355,7 +360,7 @@ Le chai (sol et murs) et le matériel de vinification présentent un bon état d
 
 a) Les vins font l'objet d'un élevage minimum jusqu'au 15 août de l'année qui suit celle de la récolte.
 
-b) L'élaboration des vins donne lieu à l'envoi à la distillation, avant le 31 juillet de l'année suivant celle de la récolte, des sous-produits de la vinification à raison de 1, 5 % des moûts débourbés.
+b) L'élaboration des vins donne lieu à l'élimination, avant le 31 juillet de l'année suivant celle de la récolte, des sous-produits de la vinification à raison de 1, 5 % des moûts débourbés.
 
 3° Dispositions relatives au conditionnement :
 
@@ -363,11 +368,11 @@ a) Les vins sont conditionnés dans des bouteilles neuves.
 
 b) Pour tout lot conditionné, l'opérateur tient à disposition de l'organisme de contrôle agréé :
 
-― les informations figurant dans le registre des manipulations visé à l'article D. 644-36 du code rural ;
+― les informations figurant dans le registre des manipulations visé à l'article D. 645-18 du code rural et de la pêche maritime ;
 
 ― une analyse réalisée avant ou après le conditionnement.
 
-Les bulletins d'analyse doivent être conservés pendant une période de douze mois à compter de la date du conditionnement.
+Les bulletins d'analyse sont conservés pendant une période de soixante mois à compter de la date du conditionnement.
 
 4° Dispositions relatives au stockage :
 
@@ -379,11 +384,7 @@ a) Date de mise en marché à destination du consommateur.
 
 A l'issue de la période d'élevage, les vins sont mis en marché à destination du consommateur à partir du 15 octobre de l'année qui suit celle de la récolte.
 
-b) Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés.
-
-Pas de disposition particulière.
-
-c) Circulation avec un document d'accompagnement.
+b) Circulation avec un document d'accompagnement.
 
 Les raisins et l'ensemble des produits destinés à l'élaboration d'un vin de l'appellation d'origine contrôlée ne peuvent circuler avec un document d'accompagnement portant le nom de l'appellation d'origine contrôlée qu'à partir d'une commune appartenant à l'aire géographique définie au IV du présent cahier des charges et à destination d'une autre commune appartenant à cette même aire en application de l'article 466 du code général des impôts.
 
@@ -415,9 +416,9 @@ Le vignoble se situe en zone septentrionale. Il est soumis à une double influen
 
 b) Description des facteurs humains contribuant au lien.
 
-Remontant à l'Antiquité, la vigne est bien établie en Champagne au ixe siècle, suite au développement de la viticulture monastique. Les vins sont alors connus au cours du Moyen Age sous la dénomination de Vins de France parce que produits dans le bassin parisien, en bordure du domaine royal.
+Remontant à l'Antiquité, la vigne est bien établie en Champagne au IXe siècle, suite au développement de la viticulture monastique. Les vins sont alors connus au cours du Moyen Age sous la dénomination de Vins de France parce que produits dans le bassin parisien, en bordure du domaine royal.
 
-Jusqu'au xviiie siècle, la province de Champagne est avant tout productrice de vins rouges. Selon Pierre Galet, leur production domine largement celle des vins blancs et rosés (dits paillets) avant la maîtrise de la prise de mousse par seconde fermentation en bouteille. Au xixe siècle, la notoriété des vins mousseux de Champagne grandissant, la production de vins rouges recule. Seuls quelques grands vins produits dans la Montagne de Reims, dans la Grande Vallée de la Marne et dans l'Aube conservent une bonne renommée.
+Jusqu'au XVIIIe siècle, la province de Champagne est avant tout productrice de vins rouges. Selon Pierre Galet, leur production domine largement celle des vins blancs et rosés (dits paillets) avant la maîtrise de la prise de mousse par seconde fermentation en bouteille. Au XIXe siècle, la notoriété des vins mousseux de Champagne grandissant, la production de vins rouges recule. Seuls quelques grands vins produits dans la Montagne de Reims, dans la Grande Vallée de la Marne et dans l'Aube conservent une bonne renommée.
 
 La loi du 22 juillet 1927, réservant l'appellation Champagne aux seuls vins mousseux, introduit l'indication Vins originaires de la Champagne viticole, dénommés ensuite, dès 1953, Vins natures de Champagne. Réhabilités grâce aux efforts de quelques vignerons qui perpétuent la tradition de ces vins natures, les vins sont reconnus en appellation d'origine contrôlée Coteaux champenois en 1974, suite aux dispositions de la loi du 12 décembre 1973, qui interdit l'usage de l'appellation simple vins natures de la Champagne.
 
@@ -425,7 +426,7 @@ Les vins d'appellation d'origine contrôlée Coteaux champenois ne sont produits
 
 Soucieux d'éviter toute pratique frauduleuse à partir de vins circulant en vrac, les producteurs ont sollicité la promulgation de la loi du 23 mai 1977 qui interdit toute expédition, autrement qu'en bouteilles, des vins produits sous l'appellation d'origine contrôlée Coteaux champenois, à l'exception des mouvements s'effectuant à l'intérieur de la Champagne viticole délimitée, entre opérateurs champenois.
 
-La gestion de la production est assurée par les mêmes organisations professionnelles que celles mises en place pour l'appellation d'origine contrôlée Champagne, à savoir le Syndicat général des vignerons de Champagne (créé en 1904) et l'Union des maisons de Champagne (fondée en 1882), regroupés dans le Comité interprofessionnel des vins de Champagne (créé en 1941).
+La gestion de la production est assurée par les mêmes organisations professionnelles que celles mises en place pour l'appellation d'origine contrôlée Champagne, à savoir le Syndicat général des vignerons de Champagne (créé en 1904) et l'Union des Maisons de Champagne (fondée en 1882), regroupés dans le Comité Interprofessionnel du Vin de Champagne (créé en 1941).
 
 2° Informations sur la qualité et les caractéristiques du produit :
 
@@ -447,7 +448,7 @@ Les vins sont souvent issus de raisins noirs qui, selon Jules Guyot, résistent 
 
 La vinification des vins rouges ou rosés, par macération plus ou moins courte, respecte au mieux les arômes des cépages pinot noir N et meunier N ainsi que leur épanouissement pendant la cuvaison. Pour les vins blancs, la préservation de l'intégrité du raisin dès la récolte et le pressurage doux, selon les usages champenois, permettent d'éviter la coloration des jus issus de raisins noirs et ainsi de garantir la limpidité du vin.
 
-Les vins rouges de la province de Champagne font leur apparition parmi les grands vins aux sacres des rois à Reims dès 1328 (Philippe de Valois), où la finesse naturelle de leur bouquet les fait apprécier tout spécialement. De puissants souverains d'Europe vont même acquérir des vignes dans la Montagne de Reims, et Henry IV tient à prendre le titre de seigneur d'Ay. Les fins dégustateurs de la cour de Louis XIV, s'intitulant l'ordre des Coteaux, consacrent la notoriété et la réputation de ces vins : N'épargnez aucune dépense pour avoir du vin de Champagne, écrit en 1671 Saint Evremond au comte d'Olonne. Il n'y a pas de province qui fournisse de plus excellents vins pour toutes les saisons que la Champagne. Nombre de documents du xviie au xixe siècle relatent ces éloges ; ces vins occupent le rang distingué parmi les meilleurs vins fins du royaume, que leur assigne André Jullien en 1822.A travers le professionnalisme de ses producteurs, cette notoriété perdure encore aujourd'hui. Ces vins doivent être dégustés avec respect et curiosité historique, en songeant qu'ils sont la survivance de temps anciens.
+Les vins rouges de la province de Champagne font leur apparition parmi les grands vins aux sacres des rois à Reims dès 1328 (Philippe de Valois), où la finesse naturelle de leur bouquet les fait apprécier tout spécialement. De puissants souverains d'Europe vont même acquérir des vignes dans la Montagne de Reims, et Henry IV tient à prendre le titre de seigneur d'Ay. Les fins dégustateurs de la cour de Louis XIV, s'intitulant l'ordre des Coteaux, consacrent la notoriété et la réputation de ces vins : N'épargnez aucune dépense pour avoir du vin de Champagne, écrit en 1671 Saint Evremond au comte d'Olonne. Il n'y a pas de province qui fournisse de plus excellents vins pour toutes les saisons que la Champagne. Nombre de documents du XVIIe au XIXe siècle relatent ces éloges ; ces vins occupent le rang distingué parmi les meilleurs vins fins du royaume, que leur assigne André Jullien en 1822.A travers le professionnalisme de ses producteurs, cette notoriété perdure encore aujourd'hui. Ces vins doivent être dégustés avec respect et curiosité historique, en songeant qu'ils sont la survivance de temps anciens.
 
 XI. ― Mesures transitoires
 
@@ -455,15 +456,7 @@ XI. ― Mesures transitoires
 
 Les parcelles de vigne en place au 17 janvier 1978, ne respectant pas les dispositions relatives à la densité de plantation, continuent à bénéficier, pour leur récolte du droit à l'appellation d'origine contrôlée jusqu'à leur arrachage, sous réserve du respect des règles de palissage et de hauteur de feuillage fixées dans le présent cahier des charges.
 
-2° Rendement et charge maximale moyenne à la parcelle :
-
-A titre expérimental et jusqu'à la fin de la campagne 2011-2012 :
-
-― le rendement visé au 1° du point VIII du présent cahier des charges est fixé à 12 400 kilogrammes de raisins à l'hectare ;
-
-― la charge maximale moyenne à la parcelle est fixée à 21 700 kilogrammes par hectare. Le nombre de grappes par mètre carré de surface de vigne en production est inférieur ou égal à 18.
-
-3° Dispositions relatives au conditionnement :
+2° Dispositions relatives au conditionnement :
 
 La disposition relative à l'obligation de conditionnement des vins dans des bouteilles neuves s'applique à compter du 1er janvier 2015.
 
@@ -471,11 +464,37 @@ XII. ― Règles de présentation et étiquetage
 
 a) Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'appellation d'origine contrôlée Coteaux champenois et qui sont présentés sous ladite appellation ne peuvent être offerts au public, expédiés, mis en vente ou vendus, sans que, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, caisses ou emballages, l'appellation d'origine contrôlée susvisée soit inscrite.
 
+b) L'étiquetage des vins bénéficiant de l'appellation d'origine contrôlée peut préciser le nom d'une unité géographique plus petite, sous réserve :
+
+-qu'il s'agisse du nom d'un lieudit cadastré ;
+
+-que celui-ci figure sur la déclaration de récolte.
+
+L'indication d'un lieudit n'est autorisée que si tous les raisins mis en œuvre pour l'élaboration des vins sont des raisins provenant du lieudit considéré.
+
+c) Le cépage peut être indiqué en caractères dont les dimensions, aussi bien en hauteur qu'en largeur, ne sont pas supérieures à 3 millimètres et la moitié de la taille des caractères composant le nom de l'appellation d'origine contrôlée. La revendication d'un cépage n'est possible que si la totalité des raisins sont issus dudit cépage.
+
 Chapitre II
 
 I. ― Obligations déclaratives
 
-Déclaration de revendication.
+1° Déclaration d'adaptation de la densité de plantation selon les dispositions particulières
+
+Tout opérateur procédant à une adaptation de la densité de plantation d'une parcelle dans le cadre des dispositions particulières de plantation, doit déposer une déclaration auprès de l'organisme de défense et de gestion, au plus tard dans les 48 heures suivant la fin des travaux.
+
+Pour chaque parcelle concernée, la déclaration précise notamment :
+
+-les références cadastrales et la commune ;
+
+-la superficie.
+
+2° Déclaration d'aménagement de parcelle
+
+Avant tout aménagement ou tous travaux susceptibles de modifier la morphologie, le sous-sol ou des éléments permettant de garantir l'intégrité et la pérennité des sols d'une parcelle destinée à la production de l'appellation d'origine contrôlée, à l'exclusion des travaux de défonçage classique, l'opérateur adresse une déclaration à l'ODG au moins 6 semaines avant la date prévue pour le début des travaux envisagés.
+
+L'ODG transmet sans délai une copie de cette déclaration aux services de l'INAO.
+
+3° Déclaration de revendication.
 
 La déclaration de revendication doit être adressée à l'organisme de contrôle agréé avant le 15 août de l'année suivant celle de la récolte.
 
@@ -560,11 +579,17 @@ I. ― Points principaux à contrôler et méthodes d'évaluation
 </td>
 </tr>
 <tr>
-<td align="center">A3 ― Outil de transformation <br/>
+<td align="center">A3. Aménagement d'une parcelle <br/>
 </td>
-<td align="center">
-<br/>
+<td align="center">Documentaire et visite sur le terrain <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">A4 - Outil de transformation <br/>
+</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td align="center">Réception et pressurage ― site de pressurage <br/>
@@ -651,9 +676,9 @@ I. ― Points principaux à contrôler et méthodes d'évaluation
 </td>
 </tr>
 <tr>
-<td align="center">Vins avant conditionnement <br/>
+<td align="center">Vins avant ou après conditionnement<br/>
 </td>
-<td align="center">Examen analytique et organoleptique de tous les lots <br/>
+<td align="center">Examen analytique et organoleptique <br/>
 </td>
 </tr>
 </tbody>
@@ -661,8 +686,12 @@ I. ― Points principaux à contrôler et méthodes d'évaluation
 
 </div>
 
-II. ― Références concernant la structure de contrôle
+II. ― Références concernant la structure de contrôle Institut national de l'origine et de la qualité (INAO),
 
-Institut national de l'origine et de la qualité (INAO), 51, rue d'Anjou, 75008 Paris, téléphone : (33) (0) 1. 53. 89. 80. 00, télécopie : (33) (0) 1. 42. 25. 57. 97, courriel :  info @ inao. gouv. fr
+TSA 30003
 
-L'INAO est l'autorité de contrôle assurant le respect des dispositions du présent cahier des charges pour les produits bénéficiant de l'appellation d'origine contrôlée.
+93555 Montreuil-sous-Bois Cedex.
+
+Le contrôle du respect du présent cahier des charges est effectué par un organisme tiers offrant des garanties de compétence, d'impartialité et d'indépendance, sous l'autorité de l'INAO, sur la base d'un plan d'inspection approuvé.
+
+Le plan d'inspection rappelle les autocontrôles réalisés par les opérateurs sur leur propre activité et les contrôles internes réalisés sous la responsabilité de l'organisme de défense et de gestion. Il indique les contrôles externes réalisés par l'organisme tiers ainsi que les examens analytique et organoleptique. L'ensemble des contrôles est réalisé par sondage.
