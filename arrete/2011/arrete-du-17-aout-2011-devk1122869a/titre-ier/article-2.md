@@ -1,3 +1,0 @@
-# Article 2
-
-Par application du deuxième alinéa de l'article 1er-2 du décret n° 86-83 du 17 janvier 1986 modifié relatif aux dispositions générales applicables aux agents non titulaires de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, les agents recrutés ou régis par le règlement du 14 mai 1973 régissant les personnels non titulaires du LCPC et des CETE qui exercent leurs fonctions au sein de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux, relèvent de la commission instituée au 8 de l'article 1er du présent arrêté.

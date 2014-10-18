@@ -1344,7 +1344,6 @@
 - [Arrêté du 16 mai 2011 (PRMG1112491A)](arrete-du-16-mai-2011-prmg1112491a)
 - [Arrêté du 17 août 2011 (DEFF1123114A)](arrete-du-17-aout-2011-deff1123114a)
 - [Arrêté du 17 août 2011 (DEFK1123919A)](arrete-du-17-aout-2011-defk1123919a)
-- [Arrêté du 17 août 2011 (DEVK1122869A)](arrete-du-17-aout-2011-devk1122869a)
 - [Arrêté du 17 août 2011 (ETSD1123069A)](arrete-du-17-aout-2011-etsd1123069a)
 - [Arrêté du 17 août 2011 (JUSA1115288A)](arrete-du-17-aout-2011-jusa1115288a)
 - [Arrêté du 17 décembre 2009 (DEVA0928642A)](arrete-du-17-decembre-2009-deva0928642a)
