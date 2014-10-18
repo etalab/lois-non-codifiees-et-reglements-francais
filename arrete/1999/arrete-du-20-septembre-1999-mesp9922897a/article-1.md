@@ -2,4 +2,4 @@
 
 Ne peuvent être prescrits pour une durée supérieure à quatorze jours les médicaments classés comme stupéfiants suivants :
 
-- méthadone et ses sels ;
+- méthadone et ses sels présentés sous forme de solution buvable ;
