@@ -1,0 +1,3 @@
+# Article 4
+
+Un arrêté conjoint des ministres chargés des finances et des comptes publics, du travail, de l'emploi, de la formation professionnelle et du dialogue social et de l'économie, de l'industrie et du numérique établit la liste des organisations syndicales aptes à désigner des représentants du personnel au comité technique spécial et en fixe le nombre sur la base de l'agrégation des résultats obtenus, lors des élections organisées pour la composition des comités techniques placés auprès des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, par les organisations syndicales.
