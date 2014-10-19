@@ -133,7 +133,6 @@
 - [Décret n°2008-226 du 5 mars 2008 (MLVU0802896D)](decret-n2008-226-du-5-mars-2008-mlvu0802896d)
 - [Décret n°2008-227 du 5 mars 2008 (BCFR0756100D)](decret-n2008-227-du-5-mars-2008-bcfr0756100d)
 - [Décret n°2008-228 du 5 mars 2008 (BCFR0756699D)](decret-n2008-228-du-5-mars-2008-bcfr0756699d)
-- [Décret n°2008-534 du 5 juin 2008 (ECEC0812141D)](decret-n2008-534-du-5-juin-2008-ecec0812141d)
 - [Décret n°2008-535 du 5 juin 2008 (ECEC0812143D)](decret-n2008-535-du-5-juin-2008-ecec0812143d)
 - [Décret n°2008-536 du 5 juin 2008 (AGRF0804388D)](decret-n2008-536-du-5-juin-2008-agrf0804388d)
 - [Décret n°2008-537 du 5 juin 2008 (AGRF0812319D)](decret-n2008-537-du-5-juin-2008-agrf0812319d)
