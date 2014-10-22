@@ -6,7 +6,7 @@ Est dispensé de la vérification des exigences préalables définies à l'artic
 
 ― certificat de spécialisation "lutte et disciplines associées" associé au brevet professionnel de la jeunesse, de l'éducation populaire et du sport ;
 
-― brevet fédéral premier degré "animateur" délivré par la Fédération française de lutte.
+― brevet fédéral premier degré "animateur" dans l'option spécifiée sur le brevet fédéral, lutte, sambo, grappling ou lutte bretonne délivré par la Fédération française de lutte.
 
 Est également dispensé de cette vérification le sportif de haut niveau en lutte inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport.
 

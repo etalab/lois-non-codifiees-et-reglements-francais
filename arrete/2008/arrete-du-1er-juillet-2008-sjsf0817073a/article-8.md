@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur de la vie associative, de l'emploi et des formations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 27 octobre 1997 susvisé est abrogé à compter du 1er septembre 2011.

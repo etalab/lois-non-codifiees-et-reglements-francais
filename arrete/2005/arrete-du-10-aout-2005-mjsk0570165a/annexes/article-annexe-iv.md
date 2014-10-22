@@ -56,6 +56,8 @@ Pour la mention "Activités haltères, musculation et forme sur plateau"
 
 - Assistant animateur national délivré par la Fédération Française d'Haltérophilie de musculation de force athlétique et culturisme.
 
+- Brevet fédéral d'initiateur délivré par la Fédération française d'haltérophilie, musculation, force athlétique et culturisme.
+
 Les titulaires du certificat de qualification professionnelle " animateur de loisirs sportifs " sont dispensés des exigences préalables à la mise en situation pédagogique de la spécialité " activités gymniques de la forme et de la force ", quelle que soit la mention.
 
 Les titulaires du certificat de qualification professionnelle " animateur des activités gymniques " sont dispensés des exigences préalables à la mise en situation pédagogique de la spécialité " activités gymniques de la forme et de la force, " quelle que soit la mention.

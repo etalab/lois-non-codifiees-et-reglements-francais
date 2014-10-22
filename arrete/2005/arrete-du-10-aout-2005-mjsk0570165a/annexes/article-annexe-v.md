@@ -18,6 +18,8 @@ Pour la mention "haltères, musculation et forme sur plateau" (UC9D) :
 
 - Assistant animateur national délivré par la Fédération Française d'Haltérophilie, Musculation, Force Athlétique et culturisme.
 
+- Brevet fédéral d'initiateur délivré par la Fédération française d'haltérophilie, musculation, force athlétique et culturisme.
+
 Obtiennent de droit les unités capitalisables (UC) 2 et 5 de la spécialité " activités gymniques de la forme et de la force ", les titulaires du certificat de qualification professionnelle " animateur de loisirs sportifs ", option activités gymniques d'entretien et d'expression.
 
 Obtiennent de droit les unités capitalisables (UC) 7A, 8A et 9A de la mention " activités gymniques acrobatiques " de la spécialité " activités gymniques de la forme et de la force ", les titulaires du certificat de qualification professionnelle " animateur des activités gymniques ", mention " activités gymniques acrobatiques ".

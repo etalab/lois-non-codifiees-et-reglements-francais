@@ -46,7 +46,9 @@ Mention "forme en cours collectifs"
 
 Dispenses et équivalences
 
-Les titulaires du diplôme fédéral suivant obtiennent l'équivalence des exigences préalables à l'entrée en formation dans la mention activités de la forme en cours collectifs :- Animateur des activités gymniques cardio-vasculaires délivré par la Fédération Française de Gymnastique.
+Les titulaires du diplôme fédéral suivant obtiennent l'équivalence des exigences préalables à l'entrée en formation dans la mention activités de la forme en cours collectifs :
+
+- Animateur des activités gymniques cardio-vasculaires délivré par la Fédération Française de Gymnastique.
 
 Mention "haltères-musculation et forme sur plateau"
 
@@ -55,6 +57,8 @@ Mention "haltères-musculation et forme sur plateau"
 2- EC de démontrer différentes techniques dans le respect du placement corporel,
 
 3- EC d'exécuter une prestation mettant en évidence des qualités d'endurance aérobie.
+
+Brevet fédéral d'initiateur délivré par la Fédération française d'haltérophilie, musculation, force athlétique et culturisme.
 
 Dispenses et équivalences
 
