@@ -2,7 +2,7 @@
 
 Dans le ressort de compétence territoriale de chacun des bureaux régionaux du logement, est créée une commission régionale du logement chargée d'étudier la situation des personnels de la défense en matière de logement, de proposer les opérations nécessaires à la satisfaction des besoins et d'effectuer le bilan des actions menées à leur niveau.
 
-Elle est coprésidée par un représentant de la direction de la mémoire, du patrimoine et des archives et par le général sous l'autorité duquel est placé l'état-major de soutien défense de la zone de soutien concernée.
+Elle est coprésidée par un représentant de la direction de la mémoire, du patrimoine et des archives et par le commandant de région terre ou le commandant d'arrondissement maritime concerné.
 
 Sont membres de droit de chaque commission régionale du logement :
 

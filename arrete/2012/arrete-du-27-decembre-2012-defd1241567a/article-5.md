@@ -6,7 +6,7 @@ Sont exclus de la délégation mentionnée à l'article 3 les actes concernant l
 
 2° Les immeubles domaniaux visés à l'article 67 de la loi du 27 décembre 2008 susvisée ;
 
-3° Les immeubles faisant l'objet d'une cession, d'une occupation ou d'un transfert de gestion à titre gratuit ;
+3° Les immeubles faisant l'objet à titre gratuit, d'une cession, d'une occupation d'une durée supérieure à trois ans ou d'un transfert de gestion ;
 
 4° La saisine de l'administration chargée des domaines pour les échanges de biens ou de droits à caractère immobilier prévus aux articles R. 1111-1 et R. 1111-2 du code général de la propriété des personnes publiques ;
 
