@@ -4,4 +4,4 @@ Les opérations de dépenses ou de recettes relatives à la gestion du patrimoin
 
 Le mandataire judiciaire transmet au comptable public les ordres de recettes et de dépenses sans les accompagner des pièces justificatives correspondantes. Celles-ci sont conservées par lui.
 
-En cas d'empêchement du mandataire judiciaire, le directeur de l'établissement en informe le comptable public. Les obligations du préposé mandataire judiciaire sont alors exécutées par son délégataire ou, à défaut, par le directeur de l'établissement.
+En cas d'empêchement du mandataire judiciaire, le directeur de l'établissement en informe le comptable public. Les obligations du préposé mandataire judiciaire sont alors exécutées par son délégataire.

@@ -375,6 +375,8 @@
 - [Décret n°2014-506 du 19 mai 2014 (JUSC1402079D)](decret-n2014-506-du-19-mai-2014-jusc1402079d)
 - [Décret n°2014-507 du 19 mai 2014 (RDFF1316870D)](decret-n2014-507-du-19-mai-2014-rdff1316870d)
 - [Décret n°2014-508 du 19 mai 2014 (RDFB1409692D)](decret-n2014-508-du-19-mai-2014-rdfb1409692d)
+- [DÉCRET n°2014-1205 du 20 octobre 2014 (MENF1420241D)](decret-n2014-1205-du-20-octobre-2014-menf1420241d)
+- [DÉCRET n°2014-1206 du 20 octobre 2014 (MENF1424467D)](decret-n2014-1206-du-20-octobre-2014-menf1424467d)
 - [Décret n°2014-358 du 20 mars 2014 (DEVD1403567D)](decret-n2014-358-du-20-mars-2014-devd1403567d)
 - [Décret n°2014-359 du 20 mars 2014 (ETST1406662D)](decret-n2014-359-du-20-mars-2014-etst1406662d)
 - [Décret n°2014-361 du 20 mars 2014 (EFIT1404823D)](decret-n2014-361-du-20-mars-2014-efit1404823d)
