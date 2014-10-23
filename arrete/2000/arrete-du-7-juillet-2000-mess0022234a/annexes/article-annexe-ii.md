@@ -1094,7 +1094,9 @@ CGT/CGM/SPIN/CMA-CGM/ARNO/COGER/SIREN (Société industrielle de réparation et 
 
 Chambre de commerce et d'industrie de Dieppe, 4, boulevard du Général-de-Gaulle, 76374 Dieppe Cedex, quai du Maroc, 76200 Dieppe, de 1956 à 1986.
 
-Chantier de Normandie/Chantiers réunis Dubigeon Normandie/AFO/ARNO, rue Edouard-Lavoine, 76200 Dieppe, de 1919 jusqu'à 1996, Ateliers de la Manche/Manche SA, rue Charles-Bloud, 76200 Dieppe, de 1956 à 1987, Manche Industrie Marine (MIM), rue Charles-Bloud, 76200 Dieppe, de 1988 à 1996.
+Chantier de Normandie/ Chantiers réunis Dubigeon Normandie/ AFO/ ARNO, rue Edouard-Lavoine, 76200 Dieppe, de 1919 jusqu'à 1996,
+
+Ateliers de la Manche/ Manche SA, rue Charles-Bloud, 76200 Dieppe, de 1956 à 1987, Manche Industrie Marine (MIM), rue Charles-Bloud, 76200 Dieppe, de 1988 à 2006.
 
 Chantier Dubigeon Normandie/Chantier de Normandie :
 
