@@ -1,6 +1,6 @@
 # Article 2
 
-Hormis pour les membres des corps mentionnés à l'article 3, la délégation de pouvoirs du ministre chargé des transports ne peut pas porter sur les actes soumis à l'avis préalable des commissions administratives paritaires ainsi que sur les décisions relatives :
+Hormis pour les membres  du corps mentionné à l'article 3, la délégation de pouvoirs du ministre chargé des transports ne peut pas porter sur les actes soumis à l'avis préalable des commissions administratives paritaires ainsi que sur les décisions relatives :
 
 1° A la nomination en qualité de stagiaire ;
 

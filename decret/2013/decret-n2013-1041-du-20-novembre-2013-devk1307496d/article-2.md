@@ -1,6 +1,6 @@
 # Article 2
 
-I. ― Hormis pour les membres des corps mentionnés à l'article 3 du présent décret, la délégation de pouvoirs du ministre chargé du développement durable ne peut porter sur les décisions soumises à l'avis préalable des commissions administratives paritaires ou des commissions consultatives paritaires, ni sur les décisions relatives :
+I. ― Hormis pour les membres du corps des adjoints administratifs, la délégation de pouvoirs du ministre chargé du développement durable ne peut porter sur les décisions soumises à l'avis préalable des commissions administratives paritaires ou des commissions consultatives paritaires, ni sur les décisions relatives :
 
 1° Au recrutement des fonctionnaires et des personnels non titulaires en application des articles 4, 6, 6 quater et 6 quinquies de la loi du 11 janvier 1984 susvisée ;
 
@@ -8,7 +8,7 @@ I. ― Hormis pour les membres des corps mentionnés à l'article 3 du présent 
 
 3° A l'affectation en position d'activité ;
 
-4° Aux congés de maladie et autorisations de service à temps partiel thérapeutique, lorsque l'avis du comité médical supérieur est requis ;
+4° Aux autorisations de service à temps partiel thérapeutique, lorsque l'avis du comité médical supérieur est requis ;
 
 5° Au congé parental ;
 
