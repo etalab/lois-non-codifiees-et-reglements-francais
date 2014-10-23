@@ -1,0 +1,3 @@
+# Article 2
+
+Le conseil consultatif académique de la formation continue des adultes contribue au développement de la mission de formation continue des adultes exercée par le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, favorise la concertation des services et des établissements publics relevant du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche concernés par les orientations stratégiques de cette mission, veille à la cohérence et à l'efficacité du réseau des groupements d'établissements (Greta) constitués en application de l'article L. 423-1 du code de l'éducation et du groupement d'intérêt public formation continue et insertion professionnelle.

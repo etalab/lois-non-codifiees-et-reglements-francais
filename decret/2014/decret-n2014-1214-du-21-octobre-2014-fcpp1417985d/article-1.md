@@ -1,0 +1,5 @@
+# Article 1
+
+I. - Par dérogation à l'article 3 du décret du 15 février 2011 susvisé, le comité technique ministériel unique créé auprès du ministre des finances et des comptes publics, du ministre de l'économie, de l'industrie et du numérique et du ministre de la décentralisation et de la fonction publique est compétent pour connaître de toutes les questions intéressant l'ensemble des services placés sous l'autorité exclusive ou conjointe de ces ministres, à l'exception de la direction générale des collectivités locales.
+
+II. - Par dérogation à l'article 4 du décret du 15 février 2011 susvisé, le comité technique unique d'administration centrale créé auprès du secrétaire général des ministères économiques et financiers est compétent pour connaître de toutes les questions intéressant les services d'administration centrale et les services à compétence nationale relevant du périmètre des administrations centrales du ministère des finances et des comptes publics, du ministère de l'économie, de l'industrie et du numérique et du ministère de la décentralisation et de la fonction publique à l'exception de la direction générale des collectivités locales.

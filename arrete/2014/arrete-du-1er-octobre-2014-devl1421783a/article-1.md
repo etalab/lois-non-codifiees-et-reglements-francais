@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 littoral ouest du Cotentin de Saint-Germain-sur-Ay au Rozel » (zone spéciale de conservation FR 2500082) l'espace délimité sur la carte d'assemblage au 1/100 000 et les six cartes au 1/25 000 ci-jointes, s'étendant dans le département de la Manche, sur une partie du territoire des communes suivantes : Barneville-Carteret, Baubigny, Bretteville-sur-Ay, Glatigny, Les Moitiers-d'Allonne, Portbail, Le Rozel, Saint-Georges-de-la-Rivière, Saint-Germain-sur-Ay, Saint-Jean-de-la-Rivière, Saint-Lô-d'Ourville, Saint-Rémy-des-Landes, Surtainville, Surville.
