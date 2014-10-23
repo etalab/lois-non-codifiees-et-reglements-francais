@@ -1,15 +1,5 @@
 # Article 1
 
-Il est institué des commissions consultatives paritaires compétentes à l'égard des personnels non titulaires des services du Premier ministre, quel que soit leur mode de recrutement et de rémunération, relevant de la gestion de la direction des services administratifs et financiers et employés dans les services désignés ci-après :
+Il est institué des commissions consultatives paritaires compétentes à l'égard des agents non titulaires de droit public exerçant dans les services relevant de l'autorité du Premier ministre, recrutés en application du décret du 17 janvier 1986 susvisé ou par contrat à durée indéterminée et relevant de la gestion de la direction des services administratifs et financiers des services du Premier ministre.
 
-- cabinets ministériels (personnels administratifs) et services centraux ;
-
-- direction de la Documentation française (agents rémunérés sur le budget général et sur le compte de commerce) ;
-
-- service d'information et de diffusion ;
-
-- service d'observation des programmes ;
-
-- délégation à la formation professionnelle ;
-
-- service d'information du Gouvernement.
+Ces commissions ne sont pas compétentes pour les agents non titulaires relevant d'une instance paritaire de concertation propre à leur structure d'affectation.
