@@ -1287,7 +1287,6 @@
 - [Arrêté du 16 décembre 2011 (EFIS1134262A)](arrete-du-16-decembre-2011-efis1134262a)
 - [Arrêté du 16 décembre 2011 (ESRS1132120A)](arrete-du-16-decembre-2011-esrs1132120a)
 - [Arrêté du 16 décembre 2011 (ETST1135012A)](arrete-du-16-decembre-2011-etst1135012a)
-- [Arrêté du 16 décembre 2011 (IOCE1134581A)](arrete-du-16-decembre-2011-ioce1134581a)
 - [Arrêté du 16 décembre 2011 (SCSA1114622A)](arrete-du-16-decembre-2011-scsa1114622a)
 - [Arrêté du 16 décembre 2011 (TRAT1129282A)](arrete-du-16-decembre-2011-trat1129282a)
 - [Arrêté du 16 décembre 2011 (TRAT1133319A)](arrete-du-16-decembre-2011-trat1133319a)
