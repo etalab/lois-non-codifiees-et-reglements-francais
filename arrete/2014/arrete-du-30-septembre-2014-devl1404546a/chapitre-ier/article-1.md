@@ -1,0 +1,3 @@
+# Article 1
+
+Le bénéficiaire de l'autorisation ou le déclarant d'une opération relevant de la rubrique 3.1.5.0 de la nomenclature annexée au tableau de l'article R. 214-1 du code de l'environnement, relative aux installations, ouvrages, travaux ou activités, étant de nature à détruire dans le lit mineur d'un cours d'eau les frayères, les zones de croissance et les zones d'alimentation de la faune piscicole, des crustacés et des batraciens, ou dans son lit majeur les frayères à brochets, est tenu de respecter les prescriptions du présent arrêté, sans préjudice de l'application des prescriptions fixées au titre d'autres rubriques de la nomenclature précitée et d'autres législations, notamment celle relative aux espèces protégées.
