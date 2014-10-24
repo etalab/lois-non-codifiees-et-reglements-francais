@@ -1493,7 +1493,6 @@
 - [Arrêté du 18 avril 2012 (BCRE1221697A)](arrete-du-18-avril-2012-bcre1221697a)
 - [Arrêté du 18 avril 2012 (BCRE1222389A)](arrete-du-18-avril-2012-bcre1222389a)
 - [Arrêté du 18 avril 2012 (DEFD1220920A)](arrete-du-18-avril-2012-defd1220920a)
-- [Arrêté du 18 avril 2012 (DEFD1221005A)](arrete-du-18-avril-2012-defd1221005a)
 - [Arrêté du 18 avril 2012 (DEVL1202487A)](arrete-du-18-avril-2012-devl1202487a)
 - [Arrêté du 18 avril 2012 (DEVL1220586A)](arrete-du-18-avril-2012-devl1220586a)
 - [Arrêté du 18 avril 2012 (INDG1208937A)](arrete-du-18-avril-2012-indg1208937a)
