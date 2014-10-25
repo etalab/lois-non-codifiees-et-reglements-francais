@@ -1,241 +1,433 @@
 # Article 13
 
-Le nombre de représentants du personnel au sein des commissions administratives paritaires locales prévues à la section 3 du présent arrêté est fixé dans les conditions suivantes :
-
-<div>
 <div align="center">
+<div align="left">Le nombre de représentants du personnel au sein des commissions administratives paritaires locales prévues à la section 3 du présent arrêté est fixé dans les conditions suivantes : <br/>
+</div>
 
 <table>
+<tbody>
 <tr>
-<th rowspan="2">
-<br/>COMMISSIONS       <br/>     administratives locales</th>
-<th colspan="2">
-<br/>GARDIEN DE LA PAIX</th>
-<th colspan="2">
-<br/>BRIGADIER DE POLICE</th>
-<th colspan="2">
-<br/>BRIGADIER-CHEF DE POLICE</th>
-<th colspan="2">
-<br/>MAJOR DE POLICE</th>
+<td rowspan="2">
+<p align="center">COMMISSIONS<br/>administratives locales</p>
+</td>
+<td colspan="2">
+<p align="center">GARDIEN DE LA PAIX <br/>
+</p>
+</td>
+<td colspan="2">
+<p align="center">BRIGADIER DE POLICE </p>
+</td>
+<td colspan="2">
+<p align="center">BRIGADIER-CHEF DE POLICE </p>
+</td>
+<td colspan="2">
+<p align="center">MAJOR DE POLICE </p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>Membres titulaires</th>
-<th>
-<br/>Membres suppléants</th>
-<th>
-<br/>Membres titulaires</th>
-<th>
-<br/>Membres suppléants</th>
-<th>
-<br/>Membres titulaires</th>
-<th>
-<br/>Membres suppléants</th>
-<th>
-<br/>Membres titulaires</th>
-<th>
-<br/>Membres suppléants</th>
+<td>
+<p align="center">Membres<br/>titulaires </p>
+</td>
+<td>
+<p align="center">Membres<br/>suppléants </p>
+</td>
+<td>
+<p align="center">Membres<br/>titulaires </p>
+</td>
+<td>
+<p align="center">Membres<br/>suppléants </p>
+</td>
+<td>
+<p align="center">Membres<br/>titulaires</p>
+</td>
+<td>
+<p align="center">Membres<br/>suppléants</p>
+</td>
+<td>
+<p align="center">Membres<br/>titulaires</p>
+</td>
+<td>
+<p align="center">Membres<br/>suppléants </p>
+</td>
 </tr>
 <tr>
+<td>
+<p>Guyane </p>
+</td>
 <td align="left">
-<br/>Guyane</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-</tr>
-<tr>
+<p align="center">
+<br/>2</p>
+</td>
 <td align="left">
-<br/>Guadeloupe</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-</tr>
-<tr>
+<p align="center">
+<br/>2</p>
+</td>
 <td align="left">
-<br/>Martinique</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-</tr>
-<tr>
+<p align="center">
+<br/>2</p>
+</td>
 <td align="left">
-<br/>La Réunion</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-</tr>
-<tr>
+<p align="center">
+<br/>2</p>
+</td>
 <td align="left">
-<br/>Mayotte</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-</tr>
-<tr>
+<p align="center">
+<br/>2</p>
+</td>
 <td align="left">
-<br/>Nouvelle-Calédonie</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<br/>Formation pédagogique de la police nationale</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
+<td>
+<p>Guadeloupe </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<br/>Formation des services de la police nationale</td>
-<td align="center" valign="middle">
-<br/>3</td>
-<td align="center" valign="middle">
-<br/>3</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
+<td>
+<p>Martinique </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<br/>Compagnies républicaines de sécurité</td>
-<td align="center" valign="middle">
-<br/>4</td>
-<td align="center" valign="middle">
-<br/>4</td>
-<td align="center" valign="middle">
-<br/>3</td>
-<td align="center" valign="middle">
-<br/>3</td>
-<td align="center" valign="middle">
-<br/>3</td>
-<td align="center" valign="middle">
-<br/>3</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
+<td>
+<p>La Réunion </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<br/>Direction générale de la sécurité intérieure</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle">
-<br/>2</td>
-<td align="center" valign="middle"/>
+<td>
+<p>Mayotte </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
 </tr>
+<tr>
+<td>
+<p>Nouvelle-Calédonie </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Formation pédagogique de la police nationale </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Formation des services de la police nationale </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compagnies républicaines de sécurité </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>4 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>4 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>3 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Direction générale de la sécurité intérieure </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2</p>
+</td>
+</tr>
+</tbody>
 </table>
 
-</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
