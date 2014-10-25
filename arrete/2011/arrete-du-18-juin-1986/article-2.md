@@ -1,6 +1,6 @@
 # Article 2
 
-La composition de ces commissions administratives paritaires est fixée ainsi qu'il suit :
+La composition de ces commissions administratives paritaires nationales est fixée ainsi qu'il suit :
 
 Ingénieurs et personnels administratifs et techniques de recherche et de formation
 
