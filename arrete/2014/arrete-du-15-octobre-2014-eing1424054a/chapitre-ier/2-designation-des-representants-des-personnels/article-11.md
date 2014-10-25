@@ -1,0 +1,7 @@
+# Article 11
+
+Un bureau de vote central est constitué afin de procéder au dépouillement du scrutin et à la proclamation des résultats. Il est présidé par le directeur général de l'Institut Mines-Télécom ou son représentant.
+
+Il constate le nombre total des votants et détermine le nombre total des suffrages valablement exprimés ainsi que le nombre de voix obtenues par chaque liste.
+
+Il détermine en outre le quotient électoral en divisant le nombre total de suffrages valablement exprimés par le nombre de représentants titulaires à élire.
