@@ -2,9 +2,9 @@
 
 I et II.-I.-Les dispositions du chapitre IV du titre Ier du livre IX du code de l'éducation sont applicables en Polynésie française et en Nouvelle-Calédonie, à l'exception :
 
-1° En Polynésie française, des articles R. 914-4 à R. 914-13, R. 914-15, R. 914-16, R. 914-18, R. 914-20 à R. 914-23, R. 914-28 à R. 914-31, R. 914-50, R. 914-51, R. 914-77, R. 914-81 et R. 914-82, R. 914-87, R. 914-88, R. 914-91, R. 914-95 à R. 914-99, R. 914-106 à R. 914-112, R. 914-114 à R. 914-142 ;
+1° En Polynésie française, des articles R. 914-4 à R. 914-13, R. 914-18, R. 914-77, R. 914-81 et R. 914-82, R. 914-87, R. 914-88, R. 914-91, R. 914-95 à R. 914-99, R. 914-106 à R. 914-112, R. 914-114 à R. 914-142 ;
 
-2° En Nouvelle-Calédonie, des articles R. 914-15, R. 914-16, R. 914-18, R. 914-20 à R. 914-23, R. 914-28 à R. 914-31, R. 914-50, R. 914-51, R. 914-81, R. 914-82, R. 914-87, R. 914-88, R. 914-91, R. 914-95 à R. 914-99, R. 914-106 à R. 914-112, R. 914-114 à R. 914-142.
+2° En Nouvelle-Calédonie, des articles R. 914-18, R. 914-81, R. 914-82, R. 914-87, R. 914-88, R. 914-91, R. 914-95 à R. 914-99, R. 914-106 à R. 914-112, R. 914-114 à R. 914-142.
 
 II.-Pour l'application du I :
 
