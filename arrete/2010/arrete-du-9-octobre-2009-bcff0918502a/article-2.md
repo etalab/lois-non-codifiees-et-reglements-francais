@@ -2,13 +2,10 @@
 
 En application de l'article 4 du décret du 22 décembre 2008 susvisé, les montants annuels de référence de la prime de fonctions et de résultats applicables au corps des administrateurs civils sont fixés comme suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
 <td rowspan="2" valign="top" width="298">
-<br/>
 <br/>
 </td>
 <td colspan="2" width="300">
@@ -54,7 +51,19 @@ En application de l'article 4 du décret du 22 décembre 2008 susvisé, les mont
 <p align="center">55 200</p>
 </td>
 </tr>
+<tr>
+<td>
+<p align="left">Administrateur général et grade analogue</p>
+</td>
+<td>
+<p align="center">4 900 </p>
+</td>
+<td>
+<p align="center">4 900 </p>
+</td>
+<td>
+<p align="center">58 800</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
