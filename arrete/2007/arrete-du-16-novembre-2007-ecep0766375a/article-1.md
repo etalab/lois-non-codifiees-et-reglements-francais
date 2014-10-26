@@ -1,17 +1,13 @@
 # Article 1
 
-Il est institué auprès du directeur général de l'Institut national de la statistique et des études économiques quatre commissions consultatives paritaires compétentes à l'égard des personnels ci-après désignés :
+Il est institué auprès du directeur général de l'institut national de la statistique et des études économiques trois commissions consultatives paritaires compétentes à l'égard des personnels ci-après désignés :
 
-1. Personnels contractuels de niveau A :
+1. Personnels contractuels de niveau A, de niveau B et de niveau C.
 
-Chargés de mission de niveau I ;
+2. Enquêteurs :
 
-Chargés de mission de niveau II ;
+Catégorie 2 ;
 
-Chargés de mission de niveau III et de niveau IV.
+Catégorie 1.
 
-2. Personnels contractuels de niveau B et de niveau C.
-
-3. Enquêteurs.
-
-4. Agents de droit public employés conformément aux dispositions de l'article 34 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations dits "agents Berkani ".
+3. Agents de droit public mentionnés à l'article 1er de l'arrêté du 19 juin 2002 portant institution de commissions consultatives paritaires au ministère de l'économie, des finances et de l'industrie.
