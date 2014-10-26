@@ -6,6 +6,6 @@ II. ― Le comptable adresse aux débiteurs les avis des sommes à payer corresp
 
 III. ― Un effet de commerce ne peut être accepté en règlement qu'avec l'accord de l'ordonnateur.
 
-IV. ― Dans le cadre des obligations qui lui incombent en vertu des articles 5 et 6 du présent décret, le comptable est tenu notamment de faire diligence pour assurer la rentrée de toutes les ressources de l'établissement, d'avertir l'ordonnateur de l'expiration des baux, de prévenir la survenance d'une prescription et de requérir l'inscription hypothécaire des titres susceptibles d'être soumis à cette formalité.
+IV. ― Dans le cadre des obligations qui lui incombent, le comptable est tenu notamment de faire diligence pour assurer la rentrée de toutes les ressources de l'établissement, d'avertir l'ordonnateur de l'expiration des baux, de prévenir la survenance d'une prescription et de requérir l'inscription hypothécaire des titres susceptibles d'être soumis à cette formalité.
 
 V. ― Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
