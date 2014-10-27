@@ -4,4 +4,4 @@ L'Institut polytechnique de Bordeaux est un établissement public à caractère 
 
 Son siège est fixé dans l'académie de Bordeaux.
 
-L'établissement est rattaché aux universités Bordeaux-I et Bordeaux-II. Les conventions de rattachement en précisent les modalités, notamment en ce qui concerne la coopération pédagogique et scientifique dans le domaine de la formation et de la recherche, en particulier à travers des laboratoires communs.
+L'établissement est rattaché        à l'Université de Bordeaux. Les conventions de rattachement en précisent les modalités, notamment en ce qui concerne la coopération pédagogique et scientifique dans le domaine de la formation et de la recherche, en particulier à travers des laboratoires communs.

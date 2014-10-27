@@ -26,4 +26,4 @@ d) Deux représentants de l'ensemble des autres personnels ;
 
 Pour chacun des membres visés aux 1° et 2° ci-dessus, un suppléant est désigné dans les mêmes conditions.
 
-Le directeur général, le secrétaire général, les directeurs de département, le        contrôleur budgétaire, l'agent comptable, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances du conseil avec voix consultative.
+Le directeur général, le directeur général des services, les directeurs de département, le contrôleur budgétaire, l'agent comptable, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances du conseil avec voix consultative.

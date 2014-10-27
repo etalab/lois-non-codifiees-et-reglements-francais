@@ -38,7 +38,7 @@ Le conseil d'administration délibère sur :
 
 18° Les actions en justice et les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers.
 
-En outre, il exerce les attributions confiées au conseil des études et de la vie universitaire des universités par l'article L. 712-6 du code de l'éducation.
+En outre, il exerce les attributions confiées à la commission de la formation et de la vie universitaire du conseil académique par le I de l'article L. 712-6-1 du code de l'éducation.
 
 Dans les limites qu'il détermine, le conseil d'administration peut déléguer au président les attributions prévues aux 11°, 12°, 13°, 15°, 16°, 17° et 18°. Le président rend compte au conseil d'administration, lors de la plus prochaine séance, des décisions qu'il a prises en vertu de ces délégations.
 

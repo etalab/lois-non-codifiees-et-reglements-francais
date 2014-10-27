@@ -6,11 +6,11 @@ Le conseil des formations comprend vingt-neuf membres, qui élisent parmi eux un
 
 a) Quatorze représentants des personnels d'enseignement et de recherche :
 
-- quatre représentants des professeurs du CNAM ;
+-quatre représentants des professeurs du CNAM ;
 
-- quatre représentants des professeurs des universités ;
+-quatre représentants des professeurs des universités ;
 
-- six représentants des autres catégories de personnel d'enseignement et de recherche ;
+-six représentants des autres catégories de personnel d'enseignement et de recherche ;
 
 b) Deux représentants des personnels de bibliothèque, ingénieurs, administratifs, techniques, ouvriers, de service et de santé ;
 
@@ -20,6 +20,6 @@ c) Deux représentants des élèves du CNAM ;
 
 3° Cinq personnalités extérieures désignées par les autres membres du conseil des formations, dans les conditions fixées par le règlement intérieur.
 
-L'administrateur général, le directeur adjoint et le secrétaire général assistent aux séances du conseil des formations avec voix consultative.
+L'administrateur général, le directeur adjoint et le directeur général des services assistent aux séances du conseil des formations avec voix consultative.
 
 Le conseil des formations se réunit dans les conditions fixées par le règlement intérieur.

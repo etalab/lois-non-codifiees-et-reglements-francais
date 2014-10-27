@@ -2,7 +2,7 @@
 
 I. ― Le conseil de discipline comprend :
 
-1° Le secrétaire général de l'école ;
+1° Le directeur général des services de l'école ;
 
 2° Trois représentants des personnels d'enseignement et de recherche choisis en leur sein par les représentants de ces personnels au conseil d'administration ;
 

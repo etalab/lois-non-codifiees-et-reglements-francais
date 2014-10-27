@@ -1,6 +1,6 @@
 # Article 9
 
-Le président de l'université de Nîmes exerce les attributions confiées aux présidents d'université par l'article L. 712-2 du code de l'éducation et les décrets pris pour son application.
+Le président de l'université de Nîmes exerce les attributions confiées au président d'université par l'article L. 712-2 du code de l'éducation, à l'exception du 10°, et les textes pris pour son application. Il nomme, en outre, les membres des jurys et installe, sur proposition du conseil d'administration, une mission "égalité entre les hommes et les femmes".
 
 Il préside le conseil d'université. En cas de partage égal des voix, il a voix prépondérante.
 

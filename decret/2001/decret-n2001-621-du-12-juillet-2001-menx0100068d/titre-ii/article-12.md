@@ -1,6 +1,6 @@
 # Article 12
 
-Le conseil scientifique se prononce sur les questions mentionnées à l'article L. 712-5 du code de l'éducation et sur toute question pouvant avoir une incidence en matière de recherche. En particulier :
+Le conseil scientifique se prononce sur toute question pouvant avoir une incidence en matière de recherche.  En particulier :
 
 1° Il propose au conseil d'administration le programme scientifique de l'institut ;
 
@@ -10,6 +10,6 @@ Le conseil scientifique se prononce sur les questions mentionnées à l'article 
 
 4° Il contribue au développement des relations de l'institut avec les milieux scientifiques étrangers et internationaux ;
 
-5° Il donne un avis sur les projets de convention de recherche avec d'autres établissements ou organismes ;
+5° Il donne un avis sur les conventions de recherche avec d'autres établissements ou organismes, le bilan des activités de recherche de l'établissement ainsi que de ses actions de valorisation et de diffusion de la culture et de l'information scientifique et technique et la répartition des crédits de recherche ;
 
 6° Il contribue à l'évaluation des activités scientifiques de l'institut.

@@ -20,4 +20,4 @@ Le directeur général dirige l'institut. A ce titre :
 
 9° Il établit le rapport annuel d'activité de l'institut.
 
-Le directeur général peut déléguer sa signature au secrétaire général et, pour les affaires relevant de leurs attributions, aux directeurs de département et aux responsables de service mentionnés à l'article 5.
+Le directeur général peut déléguer sa signature au directeur général des services et, pour les affaires relevant de leurs attributions, aux directeurs de département et aux responsables de service mentionnés à l'article 5.

@@ -18,6 +18,6 @@ f) Un représentant des élèves suivant une formation doctorale au CNAM ;
 
 2° Dix personnalités extérieures désignées par les autres membres du conseil scientifique, dans les conditions fixées au règlement intérieur.
 
-L'administrateur général, le directeur adjoint et le secrétaire général assistent aux séances du conseil scientifique avec voix consultative.
+L'administrateur général, le directeur adjoint et le directeur général des services assistent aux séances du conseil scientifique avec voix consultative.
 
 Le conseil scientifique se réunit dans les conditions fixées par le règlement intérieur.

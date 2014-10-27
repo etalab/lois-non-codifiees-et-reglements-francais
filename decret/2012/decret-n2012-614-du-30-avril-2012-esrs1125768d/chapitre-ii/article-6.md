@@ -12,7 +12,7 @@ Il est composé :
 
 4° De douze représentants élus :
 
-a) Trois représentants des professeurs d'université ou personnels assimilés au sens de l'article 3 du décret du 18 janvier 1985 susvisé ;
+a) Trois représentants des professeurs d'université ou personnels assimilés au sens de l'article D. 719-4 du code de l'éducation  ;
 
 b) Trois représentants des autres personnels d'enseignement et de recherche ;
 

@@ -16,4 +16,4 @@ Le directeur général assure le bon fonctionnement de l'école et la représent
 
 7° Il rend compte de sa gestion au conseil d'administration.
 
-Il peut déléguer sa signature au directeur des études, au directeur de la recherche, au secrétaire général, aux directeurs de centres et chefs de service, dans la limite de leurs attributions.
+Il peut déléguer sa signature au directeur des études, au directeur de la recherche, au directeur général des services, aux directeurs de centres et chefs de service, dans la limite de leurs attributions.

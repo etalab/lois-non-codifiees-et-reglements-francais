@@ -1,6 +1,6 @@
 # Article 4
 
-Chaque école française à l'étranger est dirigée par un directeur. Celui-ci est assisté, pour la gestion de l'établissement, par un secrétaire général et un agent comptable.
+Chaque école française à l'étranger est dirigée par un directeur. Celui-ci est assisté, pour la gestion de l'établissement, par un directeur général des services et un agent comptable.
 
 Le conseil d'administration, par ses délibérations, et le conseil scientifique, par ses avis et orientations, assurent l'administration de l'école.
 

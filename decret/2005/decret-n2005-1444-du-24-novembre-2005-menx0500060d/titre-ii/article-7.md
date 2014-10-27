@@ -20,6 +20,6 @@ Le président assure la direction de l'établissement. A ce titre, il exerce les
 
 8° Il est responsable du bon fonctionnement de l'établissement, du respect de l'ordre et de la sécurité. Il exerce, en matière de maintien de l'ordre, les compétences attribuées au président d'université dans les conditions prévues par l'article L. 712-2 du code de l'éducation ;
 
-9° Il est la personne responsable des marchés et peut, dans ce domaine, déléguer sa signature au secrétaire général. Dans les autres domaines, il peut déléguer sa signature à ses assesseurs, aux doyens des sections, aux responsables des instituts et au secrétaire général, dans la limite de leurs attributions ;
+9° Il est la personne responsable des marchés et peut, dans ce domaine, déléguer sa signature au directeur général des services. Dans les autres domaines, il peut déléguer sa signature à ses assesseurs, aux doyens des sections, aux responsables des instituts et au directeur général des services, dans la limite de leurs attributions ;
 
 10° Il peut assister aux réunions de l'assemblée de chaque section et des conseils des instituts.

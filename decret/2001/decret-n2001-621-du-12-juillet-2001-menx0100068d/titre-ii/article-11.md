@@ -22,4 +22,4 @@ Le conseil scientifique élit, pour la durée de son mandat, un vice-président 
 
 Pour chacun des membres mentionnés au 2° ci-dessus, un suppléant est désigné dans les mêmes conditions.
 
-Le secrétaire général, les directeurs de département, ainsi que toute personne dont la présence est jugée utile par le président du conseil scientifique assistent aux séances du conseil avec voix consultative.
+Le directeur général des services, les directeurs de département, ainsi que toute personne dont la présence est jugée utile par le président du conseil scientifique assistent aux séances du conseil avec voix consultative.

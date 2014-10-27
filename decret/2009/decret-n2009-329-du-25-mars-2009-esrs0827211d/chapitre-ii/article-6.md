@@ -6,7 +6,7 @@ Ils comprennent en outre des personnalités extérieures, notamment des représe
 
 Le conseil d'administration, constitué au maximum de trente membres, comprend également :
 
-1° Le président de l'université Bordeaux-I, le président de l'université Bordeaux-II et le président du pôle de recherche et d'enseignement supérieur « Université de Bordeaux » ou leurs représentants ;
+1° Le président de l'Université de Bordeaux et le président de la Communauté d'universités et établissements d'Aquitaine ou leurs représentants ;
 
 2° Des représentants de collectivités territoriales ou de leurs groupements sur le territoire desquels est implanté l'établissement, désignés respectivement par leurs organes délibérants ; ces collectivités sont choisies par le conseil d'administration.
 

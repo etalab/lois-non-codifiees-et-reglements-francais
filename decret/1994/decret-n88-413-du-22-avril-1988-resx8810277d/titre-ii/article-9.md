@@ -36,4 +36,4 @@ e) Deux représentants élus des directeurs de centre associé ;
 
 f) Un représentant élu des élèves du CNAM.
 
-L'administrateur général, le directeur adjoint, le secrétaire général et l'agent comptable ainsi qu'un représentant du ministre chargé de l'enseignement supérieur assistent aux séances du conseil d'administration avec voix consultative.
+L'administrateur général, le directeur adjoint, le directeur général des services et l'agent comptable ainsi qu'un représentant du ministre chargé de l'enseignement supérieur assistent aux séances du conseil d'administration avec voix consultative.
