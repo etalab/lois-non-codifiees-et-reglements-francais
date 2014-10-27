@@ -100,8 +100,6 @@
 - [Arrêté du 2 septembre 2010 (AGRG1015911A)](arrete-du-2-septembre-2010-agrg1015911a)
 - [Arrêté du 2 septembre 2010 (AGRG1022926A)](arrete-du-2-septembre-2010-agrg1022926a)
 - [Arrêté du 2 septembre 2010 (AGRS1011193A)](arrete-du-2-septembre-2010-agrs1011193a)
-- [Arrêté du 2 septembre 2010 (DEVK1020346A)](arrete-du-2-septembre-2010-devk1020346a)
-- [Arrêté du 2 septembre 2010 (DEVK1020350A)](arrete-du-2-septembre-2010-devk1020350a)
 - [Arrêté du 2 septembre 2010 (DEVN0929375A)](arrete-du-2-septembre-2010-devn0929375a)
 - [Arrêté du 2 septembre 2010 (DEVN0929378A)](arrete-du-2-septembre-2010-devn0929378a)
 - [Arrêté du 2 septembre 2010 (IMIK1021862A)](arrete-du-2-septembre-2010-imik1021862a)

@@ -501,7 +501,6 @@
 - [Arrêté du 7 septembre 2011 (BCRP1124508A)](arrete-du-7-septembre-2011-bcrp1124508a)
 - [Arrêté du 7 septembre 2011 (EFIP1124399A)](arrete-du-7-septembre-2011-efip1124399a)
 - [Arrêté du 7 septembre 2011 (EFIP1124403A)](arrete-du-7-septembre-2011-efip1124403a)
-- [Arrêté du 7 septembre 2011 (EFIP1124504A)](arrete-du-7-septembre-2011-efip1124504a)
 - [Arrêté du 7 septembre 2011 (ESRH1124850A)](arrete-du-7-septembre-2011-esrh1124850a)
 - [Arrêté du 7 septembre 2011 (JUSA1124791A)](arrete-du-7-septembre-2011-jusa1124791a)
 - [Arrêté du 7 mai 2012 (MENF1220270A)](arrete-du-7-mai-2012-menf1220270a)

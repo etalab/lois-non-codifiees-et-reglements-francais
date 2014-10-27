@@ -1,3 +1,0 @@
-# Article 7
-
-Les commissions administratives paritaires instituées par les articles 3 et 4 du présent arrêté sont compétentes pour toutes les questions d'ordre individuel mentionnées à l'article 25 du décret du 28 mai 1982 susvisé. Elles n'ont pas compétence pour les actes mentionnés à l'article 4 de ce même décret.
