@@ -2,239 +2,233 @@
 
 La composition des commissions administratives paritaires instituées à l'article 1er est fixée comme suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
 <td rowspan="3">
-<p align="center"> NUMÉROS<br/>des<br/>commissions</p>
+<p align="center"> NUMÉROS </p>
+<p align="center">des commissions </p>
 </td>
 <td rowspan="3">
 <p align="center"> GRADES</p>
 </td>
 <td colspan="4">
-<p align="center"> NOMBRE DE REPRÉSENTANTS</p>
+<p align="center"> NOMBRE DE REPRÉSENTANTS </p>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<p align="center"> Du personnel</p>
+<p align="center"> Du personnel <br/>
+</p>
 </td>
 <td colspan="2">
-<p align="center"> De l'administration</p>
+<p align="center"> De l'administration </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Titulaires</p>
+<p align="center"> Titulaires </p>
 </td>
 <td>
-<p align="center"> Suppléants</p>
+<p align="center"> Suppléants </p>
 </td>
 <td>
-<p align="center"> Titulaires</p>
+<p align="center"> Titulaires </p>
 </td>
 <td>
-<p align="center"> Suppléants</p>
+<p align="center"> Suppléants </p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">1<br/>
+<td align="center" rowspan="2" valign="middle">1 <br/>
 </td>
-<td align="center">
-<p align="left">Inspecteur général de classe exceptionnelle</p>
+<td align="left" valign="middle">
+<br/>Inspecteur général de classe exceptionnelle <br/>
 </td>
-<td align="center">1<br/>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td align="center">1<br/>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td align="center">
-<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Inspecteur général de classe normale</p>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">3<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>3 <br/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">2<br/>
+<td align="left" valign="middle">
+<br/>Inspecteur général de classe normale <br/>
 </td>
-<td align="center">
-<p align="left">Administrateur hors classe</p>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Administrateur </p>
+<td align="center" rowspan="2" valign="middle">2 <br/>
 </td>
-<td align="center">2<br/>
+<td align="left" valign="middle">
+<br/>Administrateur hors classe <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">4<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">4<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>4 <br/>
 </td>
-</tr>
-<tr>
-<td align="center" rowspan="2">3<br/>
-</td>
-<td align="center">
-<p align="left">Attaché statisticien principal</p>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">5<br/>
-</td>
-<td align="center">5<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>4 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Attaché statisticien</p>
+<td align="left" valign="middle">
+<br/>Administrateur <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">3<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3">4<br/>
+<td align="center" rowspan="2" valign="middle">3 <br/>
 </td>
-<td align="center">
-<p align="left">Contrôleur principal</p>
+<td align="left" valign="middle">
+<br/>Attaché statisticien principal <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">
-<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>5 <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Contrôleur de 1re classe</p>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">6<br/>
-</td>
-<td align="center">6<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>5 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Contrôleur de 2e classe</p>
+<td align="left" valign="middle">
+<br/>Attaché statisticien <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center" valign="middle">
+<br/>3 <br/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">5<br/>
+<td align="center" rowspan="3" valign="middle">4 <br/>
 </td>
-<td align="center">
-<p align="left">Adjoint administratif principal de l'INSEE de 1re classe</p>
+<td align="left" valign="middle">
+<br/>Contrôleur principal <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">3<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">
-<br/>
+<td align="center" rowspan="3" valign="middle">
+<br/>6 <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Adjoint administratif principal de l'INSEE de 2e classe</p>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">2<br/>
-</td>
-<td align="center">9<br/>
-</td>
-<td align="center">9<br/>
+<td align="center" rowspan="3" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Adjoint administratif de l'INSEE de 1re classe</p>
+<td align="left" valign="middle">
+<br/>Contrôleur de 1re classe <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">2<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Adjoint administratif de l'INSEE de 2e classe</p>
+<td align="left" valign="middle">
+<br/>Contrôleur de 2e classe <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td align="center">
-<br/>
+</tr>
+<tr>
+<td align="center" rowspan="4" valign="middle">5 <br/>
 </td>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>Adjoint administratif principal de l'INSEE de 1re classe <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" rowspan="4" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" rowspan="4" valign="middle">
+<br/>8 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Adjoint administratif principal de l'INSEE de 2e classe <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Adjoint administratif de l'INSEE de 1re classe <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Adjoint administratif de l'INSEE de 2e classe <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="center">
+
+<br/>
+<br/>
+<br/>
 
 </div>

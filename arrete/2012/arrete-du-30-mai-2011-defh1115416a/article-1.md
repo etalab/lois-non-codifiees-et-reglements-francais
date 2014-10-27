@@ -10,13 +10,15 @@ Il est institué au ministère de la défense seize commissions administratives 
 
 ― directeurs des services déconcentrés du ministère de la défense ;
 
-― ingénieurs d'études et de fabrications ;
+― ingénieurs d'études et de fabrications du ministère de la défense  ;
 
 ― conseillers techniques de service social ;
 
 ― assistants de service social ;
 
-― infirmières et infirmiers des services médicaux ;
+―  infirmiers de la défense  ;
+
+― infirmiers civils en soins généraux et spécialisés du ministère de la défense ;
 
 ― techniciens supérieurs d'études et de fabrications du ministère de la défense ;
 
