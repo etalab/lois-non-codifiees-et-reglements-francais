@@ -593,6 +593,8 @@
 - [Décret n°2013-1258 du 27 décembre 2013 (JUSB1329259D)](decret-n2013-1258-du-27-decembre-2013-jusb1329259d)
 - [Décret n°2013-1261 du 27 décembre 2013 (AFSP1319983D)](decret-n2013-1261-du-27-decembre-2013-afsp1319983d)
 - [Décret n°2013-1308 du 27 décembre 2013 (DEFH1328923D)](decret-n2013-1308-du-27-decembre-2013-defh1328923d)
+- [DÉCRET n°2014-1245 du 27 octobre 2014 (AFSS1422680D)](decret-n2014-1245-du-27-octobre-2014-afss1422680d)
+- [DÉCRET n°2014-1246 du 27 octobre 2014 (AFSS1425254D)](decret-n2014-1246-du-27-octobre-2014-afss1425254d)
 - [Décret n°2014-373 du 27 mars 2014 (EFIT1405000D)](decret-n2014-373-du-27-mars-2014-efit1405000d)
 - [Décret n°2014-374 du 27 mars 2014 (AFSS1324588D)](decret-n2014-374-du-27-mars-2014-afss1324588d)
 - [DÉCRET n°2014-712 du 27 juin 2014 (AFSS1409984D)](decret-n2014-712-du-27-juin-2014-afss1409984d)
