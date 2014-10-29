@@ -12,7 +12,7 @@ I. - Le présent arrêté a pour objet de définir la nature, les modalités d'e
 
 - à l'Ecole des officiers de la gendarmerie nationale.
 
-2° Concours externe pour le recrutement d'élèves commissaires de l'armée de terre, d'élèves commissaires de la marine et d'élèves commissaires de l'air ;
+2° Concours externe pour le recrutement d'élèves commissaires des armées ;
 
 3° Concours unique d'admission dans les écoles de formation des officiers des corps techniques et administratifs des armées ouvert aux candidats titulaires du diplôme de fin de premier cycle de l'enseignement supérieur.
 
