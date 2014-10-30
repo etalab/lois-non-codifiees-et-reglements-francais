@@ -18,9 +18,7 @@ Filière administrative
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Corps des attachés d'administration des affaires sociales<br clear="none"/>(
-Décret n° 2006-1818 du 23 décembre 2006
-)</p>
+<p align="center">Corps des attachés d'administration des affaires sociales<br clear="none"/>(Décret n° 2006-1818 du 23 décembre 2006)</p>
 </td>
 </tr>
 <tr>
@@ -35,9 +33,7 @@ Décret n° 2006-1818 du 23 décembre 2006
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Corps des secrétaires administratifs relevant des ministres chargés des affaires sociales<br clear="none"/>(
-Décret n° 2012-483 du 13 avril 2012
-)</p>
+<p align="center">Corps des secrétaires administratifs relevant des ministres chargés des affaires sociales<br clear="none"/>(Décret n° 2012-483 du 13 avril 2012)</p>
 </td>
 </tr>
 <tr>
@@ -62,9 +58,7 @@ Décret n° 2012-483 du 13 avril 2012
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Corps des adjoints administratifs des administrations de l'Etat relevant des ministres chargés des affaires sociales<br clear="none"/>(
-Décret n° 2006-1760 du 23 décembre 2006
-modifié)</p>
+<p align="center">Corps des adjoints administratifs des administrations de l'Etat relevant des ministres chargés des affaires sociales<br clear="none"/>(Décret n° 2006-1760 du 23 décembre 2006 modifié)</p>
 </td>
 </tr>
 <tr>
@@ -258,32 +252,44 @@ modifié) <br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="left">Technicien principal <br clear="none"/>
+<td align="left">
+<p align="left">Technicien principal <br clear="none"/>
+</p>
 </td>
 <td align="center">19 % en 2013<br clear="none"/>
 </td>
 </tr>
 <tr>
-<td align="left">Technicien en chef <br clear="none"/>
+<td align="left">
+<p align="left">Technicien en chef <br clear="none"/>
+</p>
 </td>
 <td align="center">8 % en 2013<br clear="none"/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Corps des techniciens sanitaires et de sécurité sanitaire </p>
+<p align="center">Corps des techniciens sanitaires et de sécurité sanitaire </p>
 <p align="center">(Décret n° 2013-176 du 27 février 2013)<br clear="none"/>
 </p>
 </td>
 <td/>
 </tr>
 <tr>
-<td> Technicien principal</td>
-<td> 20 % en 2014 et 15 % en 2015</td>
+<td>
+<p align="left">Technicien principal</p>
+</td>
+<td>
+<p align="center">20 % en 2014 et 15 % en 2015</p>
+</td>
 </tr>
 <tr>
-<td> Technicien en chef</td>
-<td> 10 % en 2014 et 8 % en 2015</td>
+<td>
+<p align="left">Technicien en chef</p>
+</td>
+<td>
+<p align="center">10 % en 2014 et 8 % en 2015</p>
+</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -555,14 +561,13 @@ Décret n° 2012-762 du 9 mai 2012
 <tr>
 <td align="left">Infirmier de classe supérieure<br clear="none"/>
 </td>
-<td align="center">30 % en 2013 et 20 % en 2014<br clear="none"/>
+<td align="center">20 % en 2014 et 2015 <br clear="none"/>
 </td>
 </tr>
 <tr>
 <td align="left">Infirmier hors classe<br clear="none"/>
 </td>
-<td align="center">10 % en 2013 et 10,8 % en 2014<br clear="none"/>
-</td>
+<td align="center">10,8 % en 2014 et 2015</td>
 </tr>
 </tbody>
 </table>
