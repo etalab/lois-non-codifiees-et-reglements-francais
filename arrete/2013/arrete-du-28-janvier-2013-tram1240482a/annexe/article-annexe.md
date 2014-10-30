@@ -2,64 +2,63 @@
 
 QUOTA D'EFFORT DE PÊCHE ATTRIBUÉ AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS
 
-POUR LA PÊCHE PROFESSIONNELLE AU CHALUT (1) EN MER MEDITERRANÉE
+POUR LA PÊCHE PROFESSIONNELLE AU CHALUT (1) EN MER MÉDITERRANNÉE
 
 <table>
 <tbody>
 <tr>
-<td width="416">
-<br/>
-</td>
-<td width="321">
-<p align="center">NOMBRE DE JOURS <br/>de pêche par année de gestion</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p align="left">Navires adhérant à l'organisation de producteurs Organisation de producteurs du Sud (OP DU SUD) </p>
-</td>
-<td valign="top" width="321">
-<p align="center">6 844</p>
+<td/>
+<td>
+<p align="center"> NOMBRE DE JOURS </p>
+<p align="center">de pêche par année de gestion </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="416">
-<p align="left">Navires adhérant à l'organisation de producteurs SA Coopérative maritime des pêcheurs de Sète-Mole (SATHOAN) </p>
+<td align="left">
+<p>Navires adhérents à l'organisation de producteurs Organisation de Producteurs du Sud (OP DU SUD) </p>
 </td>
-<td valign="top" width="321">
-<p align="center">2 904</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p align="left">Navires n ‘ adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur </p>
-</td>
-<td valign="top" width="321">
-<p align="center">2 074</p>
+<td align="center">
+<br/>7 228 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="416">
-<p align="left">Navires n'adhérant pas à une organisation de producteurs et immatriculés dans le ressort de la région Languedoc-Roussillon </p>
+<td align="left">
+<p>Navires adhérents à l'organisation de producteurs SA Coopérative Maritime des pêcheurs de Sète-Mole (SATHOAN) </p>
 </td>
-<td valign="top" width="321">
-<p align="center">1 037</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="416">
-<p align="left">Navires n'adhérant à une organisation de producteurs et immatriculés dans le ressort de la collectivité territoriale de Corse </p>
-</td>
-<td valign="top" width="321">
-<p align="center">1 867</p>
+<td align="center">
+<br/>3 278 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="416">
-<p align="left">Total </p>
+<td align="left">
+<p>Navires non adhérents à une organisation de producteurs et immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur </p>
 </td>
-<td valign="top" width="321">
-<p align="center">14 726</p>
+<td align="center">
+<br/>1 860 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>Navires non adhérents à une organisation de producteurs et immatriculés dans le ressort de la région Languedoc-Roussillon </p>
+</td>
+<td align="center">
+<br/>1 118 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>Navires non adhérents à une organisation de producteurs et immatriculés dans le ressort de la collectivité territoriale de Corse </p>
+</td>
+<td align="center">
+<br/>1 242 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p>Total </p>
+</td>
+<td align="center">
+<br/>14 726 <br/>
 </td>
 </tr>
 </tbody>
