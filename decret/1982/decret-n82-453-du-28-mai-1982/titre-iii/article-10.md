@@ -12,4 +12,6 @@ L'équipe pluridisciplinaire ainsi constituée est placée sous la responsabilit
 
 2° Les moyens mis à leur disposition ainsi que les règles assurant leur accès aux lieux de travail et les conditions d'accomplissement de leurs missions, notamment celles propres à assurer la libre présentation de leurs observations ou propositions.
 
+Le service de médecine de prévention peut accueillir des collaborateurs médecins dans les conditions prévues à l'article R. 4623-25 et aux alinéas premiers des articles R. 4623-25-1 et R. 4623-25-2 du code du travail.
+
 Les services sociaux peuvent être associés à la mise en œuvre des actions menées par l'équipe pluridisciplinaire.
