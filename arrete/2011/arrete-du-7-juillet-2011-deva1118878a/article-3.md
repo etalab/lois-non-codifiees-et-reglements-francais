@@ -13,67 +13,88 @@ b) Représentants du personnel :
 <table>
 <tbody>
 <tr>
-<th>SERVICES À COMPÉTENCE NATIONALE <br/>
+<th rowspan="3">
+<br/>SERVICES À COMPÉTENCE NATIONALE <br/>
 </th>
-<th colspan="2">NOMBRE DE REPRÉSENTANTS <br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th colspan="2">Membres représentant les personnels <br/>
+<th colspan="2">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
 </th>
 </tr>
 <tr>
-<th/>
-<th>Titulaires <br/>
-</th>
-<th>Suppléants <br/>
+<th colspan="2">
+<br/>Membres représentant les personnels <br/>
 </th>
 </tr>
 <tr>
-<td align="left" valign="middle">Direction des services de la navigation aérienne (DSNA) <br/>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Direction des services de la navigation aérienne (DSNA) </p>
 </td>
-<td align="center" valign="middle">10 <br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center" valign="middle">10 <br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Direction de la sécurité de l'aviation civile (DSAC) <br/>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Direction de la sécurité de l'aviation civile (DSAC) </p>
 </td>
-<td align="center" valign="middle">10 <br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td align="center" valign="middle">10 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">Service technique de l'aviation civile (STAC) <br/>
-</td>
-<td align="center" valign="middle">7 <br/>
-</td>
-<td align="center" valign="middle">7 <br/>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Service national d'ingénierie aéroportuaire (SNIA) <br/>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service technique de l'aviation civile (STAC) </p>
 </td>
-<td align="center" valign="middle">10 <br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td align="center" valign="middle">10 <br/>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Service des systèmes d'information et de la modernisation (DSI) <br/>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service national d'ingénierie aéroportuaire (SNIA) </p>
 </td>
-<td align="center" valign="middle">6 <br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td align="center" valign="middle">6 <br/>
+<td align="center" valign="middle">
+<br/>9 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service des systèmes d'information et de la modernisation (DSI) </p>
+</td>
+<td align="center" valign="middle">
+<br/>5 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>5 <br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="left"/>
 
 Les représentants du personnel sont élus au scrutin de liste.
 

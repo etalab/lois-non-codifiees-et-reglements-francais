@@ -15,7 +15,7 @@ b) Représentants du personnel :
 <table>
 <tbody>
 <tr>
-<th>
+<th rowspan="3">
 <br/>DIRECTIONS ET SERVICES DE LA DSNA <br/>
 </th>
 <th colspan="2">
@@ -23,13 +23,11 @@ b) Représentants du personnel :
 </th>
 </tr>
 <tr>
-<th/>
 <th colspan="2">
 <br/>Membres représentant les personnels <br/>
 </th>
 </tr>
 <tr>
-<th/>
 <th>
 <br/>Titulaires <br/>
 </th>
@@ -39,7 +37,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Direction de la technique et de l'innovation (DTI) <br/>
+<p align="left">
+<br/>Direction de la technique et de l'innovation (DTI) </p>
 </td>
 <td align="center" valign="middle">
 <br/>10 <br/>
@@ -50,7 +49,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Direction des opérations (DO) <br/>
+<p align="left">
+<br/>Direction des opérations (DO) </p>
 </td>
 <td align="center" valign="middle">
 <br/>10 <br/>
@@ -61,7 +61,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Centre d'exploitation des systèmes de la navigation aérienne centraux (CESNAC) <br/>
+<p align="left">
+<br/>Centre d'exploitation des systèmes de la navigation aérienne centraux (CESNAC) </p>
 </td>
 <td align="center" valign="middle">
 <br/>5 <br/>
@@ -72,7 +73,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de l'information aéronautique (SIA) <br/>
+<p align="left">
+<br/>Service de l'information aéronautique (SIA) </p>
 </td>
 <td align="center" valign="middle">
 <br/>5 <br/>
@@ -83,7 +85,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Centre en route de la navigation aérienne Nord (CRNA/ Nord) <br/>
+<p align="left">
+<br/>Centre en route de la navigation aérienne Nord (CRNA/Nord) </p>
 </td>
 <td align="center" valign="middle">
 <br/>10 <br/>
@@ -94,7 +97,80 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Centre en route de la navigation aérienne Ouest (CRNA/ Ouest) <br/>
+<p align="left">
+<br/>Centre en route de la navigation aérienne Ouest (CRNA/Ouest) </p>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Centre en route de la navigation aérienne Sud-Ouest (CRNA/Sud-Ouest) </p>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Centre en route de la navigation aérienne Sud-Est (CRNA/Sud-Est) </p>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Centre en route de la navigation aérienne Est (CRNA/Est) </p>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service de la navigation aérienne Nord (SNA/Nord) </p>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service de la navigation aérienne Nord-Est (SNA/Nord-Est) </p>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service de la navigation aérienne Centre-Est (SNA/Centre-Est) </p>
 </td>
 <td align="center" valign="middle">
 <br/>9 <br/>
@@ -105,7 +181,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Centre en route de la navigation aérienne Sud-Ouest (CRNA/ Sud-Ouest) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne Sud-Est (SNA/Sud-Est) </p>
 </td>
 <td align="center" valign="middle">
 <br/>9 <br/>
@@ -116,62 +193,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Centre en route de la navigation aérienne Sud-Est (CRNA/ Sud-Est) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Centre en route de la navigation aérienne Est (CRNA/ Est) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Service de la navigation aérienne Nord (SNA/ Nord) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>8 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>8 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Service de la navigation aérienne Nord-Est (SNA/ Nord-Est) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>8 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>8 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Services de la navigation aérienne région parisienne (SNA/ RP) à compter du 1er janvier 2015 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Service de la navigation aérienne Centre-Est (SNA/ Centre-Est) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne Sud-Sud-Est (SNA/Sud-Sud-Est) </p>
 </td>
 <td align="center" valign="middle">
 <br/>9 <br/>
@@ -182,18 +205,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de la navigation aérienne Sud-Est (SNA/ Sud-Est) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>9 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>9 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Service de la navigation aérienne Sud-Sud-Est (SNA/ Sud-Sud-Est) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne Sud (SNA/Sud) </p>
 </td>
 <td align="center" valign="middle">
 <br/>8 <br/>
@@ -204,7 +217,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de la navigation aérienne Sud (SNA/ Sud) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne Sud-Ouest (SNA/Sud-Ouest) </p>
 </td>
 <td align="center" valign="middle">
 <br/>8 <br/>
@@ -215,7 +229,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de la navigation aérienne Sud-Ouest (SNA/ Sud-Ouest) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne Ouest (SNA/Ouest) </p>
 </td>
 <td align="center" valign="middle">
 <br/>8 <br/>
@@ -226,29 +241,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de la navigation aérienne Ouest (SNA/ Ouest) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>8 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>8 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Services de la navigation aérienne du grand Sud-ouest (SNA/ GSO) à compter du 1er janvier 2015 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>10 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Service de la navigation aérienne Antilles-Guyane (SNA/ Antilles-Guyane) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne Antilles-Guyane (SNA/Antilles-Guyane) </p>
 </td>
 <td align="center" valign="middle">
 <br/>7 <br/>
@@ -259,7 +253,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de la navigation aérienne océan Indien (SNA/ océan Indien) <br/>
+<p align="left">
+<br/>Service de la navigation aérienne océan Indien (SNA/océan Indien) </p>
 </td>
 <td align="center" valign="middle">
 <br/>4 <br/>
@@ -270,7 +265,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organisme de Bâle-Mulhouse <br/>
+<p align="left">
+<br/>Organisme de Bâle-Mulhouse </p>
 </td>
 <td align="center" valign="middle">
 <br/>6 <br/>
@@ -281,7 +277,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organisme de Clermont-Ferrand <br/>
+<p align="left">
+<br/>Organisme de Clermont-Ferrand </p>
 </td>
 <td align="center" valign="middle">
 <br/>4 <br/>
@@ -292,7 +289,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organisme de Montpellier <br/>
+<p align="left">
+<br/>Organisme de Montpellier </p>
 </td>
 <td align="center" valign="middle">
 <br/>5 <br/>
@@ -303,7 +301,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organisme d'Orly-aviation générale <br/>
+<p align="left">
+<br/>Organisme d'Orly-Aviation générale </p>
 </td>
 <td align="center" valign="middle">
 <br/>8 <br/>
@@ -314,7 +313,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organisme de Roissy-Le Bourget <br/>
+<p align="left">
+<br/>Organisme de Roissy-Le Bourget </p>
 </td>
 <td align="center" valign="middle">
 <br/>10 <br/>
@@ -325,7 +325,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organismes de Bastia et d'Ajaccio <br/>
+<p align="left">
+<br/>Organismes de Bastia et d'Ajaccio </p>
 </td>
 <td align="center" valign="middle">
 <br/>6 <br/>
@@ -336,29 +337,8 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Organisme Pyrénées (à compter du 1er janvier 2015) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>4 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>4 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Organisme de Fort-de-France <br/>
-</td>
-<td align="center" valign="middle">
-<br/>4 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>4 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<br/>Organisme de Pointe-à-Pitre <br/>
+<p align="left">
+<br/>Martinique </p>
 </td>
 <td align="center" valign="middle">
 <br/>5 <br/>
@@ -369,7 +349,20 @@ b) Représentants du personnel :
 </tr>
 <tr>
 <td align="left" valign="middle">
-<br/>Service de l'aviation civile à Saint-Pierre-et-Miquelon <br/>
+<p align="left">
+<br/>Organisme de Pointe-à-Pitre </p>
+</td>
+<td align="center" valign="middle">
+<br/>5 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>5 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Service de l'aviation civile à Saint-Pierre-et-Miquelon </p>
 </td>
 <td align="center" valign="middle">
 <br/>4 <br/>
@@ -380,8 +373,6 @@ b) Représentants du personnel :
 </tr>
 </tbody>
 </table>
-
-<div align="left"/>
 
 <div align="left">
 <br/>Les représentants du personnel de chaque comité technique spécial ci-dessus sont désignés suite au dépouillement des résultats obtenus pour la composition du comité technique de la DSNA. </div>
