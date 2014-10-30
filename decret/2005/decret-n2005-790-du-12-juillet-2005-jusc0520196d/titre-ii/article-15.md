@@ -1,7 +1,7 @@
 # Article 15
 
-La publicité est permise à l'avocat si elle procure une information au public et si sa mise en oeuvre respecte les principes essentiels de la profession.
+La publicité et la sollicitation personnalisée sont permises à l'avocat si elles procurent une information sincère sur la nature des prestations de services proposées et si leur mise en œuvre respecte les principes essentiels de la profession. Elles excluent tout élément comparatif ou dénigrant.
 
-La publicité inclut la diffusion d'informations sur la nature des prestations de services proposées, dès lors qu'elle est exclusive de toute forme de démarchage.
+La publicité s'opère dans les conditions prévues par le décret du 25 août 1972 susvisé.
 
-Toute offre de service personnalisée adressée à un client potentiel est interdite à l'avocat.
+La sollicitation personnalisée prend la forme d'un envoi postal ou d'un courrier électronique adressé au destinataire de l'offre de service, à l'exclusion de tout message textuel envoyé sur un terminal téléphonique mobile. Elle précise les modalités de détermination du coût de la prestation, laquelle fera l'objet d'une convention d'honoraires.
