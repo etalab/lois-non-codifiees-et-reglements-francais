@@ -38,27 +38,24 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction régionale de Basse-Normandie - service de statistiques nationales d'entreprises<br/>(ajouté à compter du 1er janvier 2011)</p>
-<p align="left">(supprimé à compter du 1er septembre 2014)</p>
+<p align="left">Direction régionale de Basse-Normandie - service de statistiques nationales d'entreprises<br/>(ajouté à compter du 1er janvier 2011)<br/>(supprimé à compter du 1er septembre 2014)</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef de la division méthodes et coordination de la production <br/>(ajouté à compter du 1er janvier 2011)</p>
-<p align="left">(supprimé à compter du 1er septembre 2014)</p>
+<p align="left">Chef de la division méthodes et coordination de la production <br/>(ajouté à compter du 1er janvier 2011)<br/>(supprimé à compter du 1er septembre 2014)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Direction régionale de Basse-Normandie</p>
-<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
+<p align="left">Direction régionale de Basse-Normandie<br/>(ajouté à compter du 1er septembre 2014)</p>
 </td>
 <td>
 <p align="left">Chef du service statistique</p>
-<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
+<p align="left">(ajouté à compter du 1er septembre 2014)</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction régionale de Bourgogne <br/>
+<p align="left">Direction régionale de Bourgogne<br/>(supprimé à compter du 1er octobre 2014)<br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -160,12 +157,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td>
-<p align="left">Direction régionale de Languedoc-Roussillon <br/>(Ajouté à compter du 1er septembre 2014) <br/>
+<p align="left">Direction régionale de Languedoc-Roussillon <br/>(ajouté à compter du 1er septembre 2014) <br/>
 </p>
 </td>
 <td>
 <p align="left">Chef du service statistique </p>
-<p align="left">(Ajouté à compter du 1er septembre 2014)</p>
+<p align="left">(ajouté à compter du 1er septembre 2014)</p>
 </td>
 </tr>
 <tr>
