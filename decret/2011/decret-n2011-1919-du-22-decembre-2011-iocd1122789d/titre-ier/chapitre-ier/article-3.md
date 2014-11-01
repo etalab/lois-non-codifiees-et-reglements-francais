@@ -4,4 +4,4 @@ Le collège, présidé par son doyen d'âge, élit son président à la majorit�
 
 Le président est élu pour une durée de trois ans renouvelable une fois parmi les membres du collège désignés aux 1°, 2°, 3° et 5° de l'article 2.
 
-Il désigne, parmi les mêmes membres, la personne chargée de le suppléer en cas d'absence momentanée ou d'empêchement.
+Un vice-président, chargé de suppléer le président en cas d'absence ou d'empêchement de celui-ci et d'assurer l'intérim en cas de vacance momentanée du poste de président, est élu dans les mêmes conditions.

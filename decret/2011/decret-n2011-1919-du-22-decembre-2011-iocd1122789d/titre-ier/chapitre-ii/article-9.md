@@ -4,4 +4,4 @@ La Commission nationale d'agrément et de contrôle, présidée par son doyen d'
 
 Le président est élu pour une durée de trois ans renouvelable une fois. En cas d'égalité de voix, le plus âgé des candidats est élu.
 
-Il désigne, parmi les membres de la commission désignés aux 1° et 2° de l'article 8, la personne chargée de le suppléer en cas d'absence momentanée ou d'empêchement.
+Un vice-président, chargé de suppléer le président en cas d'absence ou d'empêchement de celui-ci et d'assurer l'intérim en cas de vacance momentanée du poste de président, est élu dans les mêmes conditions.
