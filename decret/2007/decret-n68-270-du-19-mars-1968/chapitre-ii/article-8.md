@@ -1,5 +1,3 @@
 # Article 8
 
-L'ingénieur en chef, chef du service de l'exploitation, les ingénieurs en chef, les ingénieurs, le graveur général des monnaies, les ingénieurs principaux d'exploitation et les ingénieurs d'exploitation sont nommés par arrêté du ministre chargé de l'économie et des finances pris sur la proposition du directeur de l'établissement public La Monnaie de Paris et sur le rapport du directeur du personnel et des services généraux.
-
-Les autres fonctionnaires, à l'exception du conservateur du musée et de la bibliothèque recruté dans les conditions prévues à l'article 10, sont nommés par le directeur de l'établissement public La Monnaie de Paris.
+Les fonctionnaires régis par le présent décret sont nommés et gérés par le président-directeur général de l'établissement "La Monnaie de Paris", sous réserve des dispositions prévues aux deuxième et troisième alinéas du II de l'article R. 121-14 du code monétaire et financier.

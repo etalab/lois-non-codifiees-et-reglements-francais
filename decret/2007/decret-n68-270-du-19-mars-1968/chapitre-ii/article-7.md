@@ -4,13 +4,7 @@ Les ingénieurs en chef et les ingénieurs assurent la direction de la fabricati
 
 L'ingénieur en chef, chef du service de l'exploitation, est responsable en outre de la conservation des stocks, notamment de métaux communs.
 
-Un autre ingénieur en chef qui exerce les fonctions de directeur des essais est, en cette qualité, chef du service du laboratoire des monnaies ; il préside également aux examens des essayeurs du commerce.
-
-Le conservateur du musée et de la bibliothèque est responsable de la conservation des diverses collections du musée et de la bibliothèque de l'administration des monnaies et médailles ; il organise, en outre, les expositions de monnaies et médailles en France et à l'étranger.
-
 Le graveur général des monnaies dirige le service de la gravure et la création des principaux instruments monétaires, des poinçons, des coins et viroles pour la fabrication des monnaies et médailles et des poinçons et bigornes de la garantie.
-
-Les ingénieurs principaux d'exploitation et les ingénieurs d'exploitation secondent les ingénieurs en chef et les ingénieurs. Ils assurent l'exécution des programmes de fabrication et le fonctionnement de services d'entretien et d'études.
 
 Les chefs de fabrication sont chargés soit de diriger l'ensemble des ateliers de production et d'entretien, soit d'assurer la coordination et le contrôle technique des différents secteurs de l'établissement.
 

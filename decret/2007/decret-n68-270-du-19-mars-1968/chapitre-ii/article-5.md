@@ -4,13 +4,9 @@ Les fonctionnaires techniques de l'établissement public La Monnaie de Paris com
 
 L'ingénieur en chef, chef du service de l'exploitation ;
 
-Les ingénieurs en chef dont l'un exerce les fonctions de directeur des essais et les ingénieurs ;
-
-Le conservateur du musée et de la bibliothèque ;
+Les ingénieurs en chef et les ingénieurs ;
 
 Le graveur général des monnaies ;
-
-Les ingénieurs principaux d'exploitation et les ingénieurs d'exploitation ;
 
 Les chefs de fabrication et les chefs de fabrication adjoints ;
 
