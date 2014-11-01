@@ -2,11 +2,11 @@
 
 En application des dispositions prévues par l'article 2 du décret n° 2007-931 du 15 mai 2007 susvisé, la liste des emplois de directeur interrégional des services pénitentiaires est fixée ainsi qu'il suit :
 
-I. - Administration centrale
+I.-Administration centrale
 
 Adjoint au chef de l'inspection des services pénitentiaires.
 
-Inspecteur territorial des services pénitentiaires (3 emplois).
+Inspecteur territorial des services pénitentiaires (1 emploi).
 
 II. − Services déconcentrés
 

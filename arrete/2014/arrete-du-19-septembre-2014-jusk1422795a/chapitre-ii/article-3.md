@@ -4,7 +4,7 @@ En application des dispositions prévues par l'article 4 du décret n° 2007-931
 
 I. − Administration centrale
 
-Inspecteur des services pénitentiaires (3 emplois).
+Inspecteur des services pénitentiaires (6 emplois).
 
 Adjoint au sous-directeur d'administration centrale (2 emplois).
 
@@ -12,7 +12,7 @@ Chargé de mission auprès du directeur de l'administration pénitentiaire (2 em
 
 II. − Directions interrégionales des services pénitentiaires
 
-A. - Adjoint au directeur interrégional des services pénitentiaires
+A.-Adjoint au directeur interrégional des services pénitentiaires
 
 Adjoint au directeur interrégional des services pénitentiaires de Bordeaux.
 
@@ -32,7 +32,7 @@ Adjoint au directeur interrégional des services pénitentiaires de Strasbourg.
 
 Adjoint au directeur interrégional des services pénitentiaires de Toulouse.
 
-B. - Secrétaire général de la direction interrégionale des services pénitentiaires
+B.-Secrétaire général de la direction interrégionale des services pénitentiaires
 
 Secrétaire général de la direction interrégionale des services pénitentiaires de Paris.
 
@@ -42,7 +42,7 @@ Secrétaire général de la direction interrégionale des services pénitentiair
 
 III. − Etablissements pénitentiaires
 
-A. - Chef d'établissement pénitentiaire de :
+A.-Chef d'établissement pénitentiaire de :
 
 Aix-Luynes ;
 
@@ -68,7 +68,7 @@ Château-Thierry ;
 
 Clairvaux ;
 
-Condé-sur-Sarthe - Alençon ;
+Condé-sur-Sarthe-Alençon ;
 
 Ducos (Martinique) ;
 
@@ -80,7 +80,7 @@ Fresnes ;
 
 Grasse ;
 
-Hauts-de-Seine - Nanterre ;
+Hauts-de-Seine-Nanterre ;
 
 Joux-la-Ville ;
 
@@ -94,7 +94,7 @@ Liancourt ;
 
 Lille-Annœullin ;
 
-Lille - Loos - Sequedin ;
+Lille-Loos-Sequedin ;
 
 Longuenesse ;
 
@@ -102,7 +102,7 @@ Lyon-Corbas ;
 
 Marseille ;
 
-Meaux - Chauconin-Neufmontiers ;
+Meaux-Chauconin-Neufmontiers ;
 
 Metz ;
 
@@ -144,7 +144,7 @@ Saint-Maur ;
 
 Salon-de-Provence ;
 
-Seine-Saint-Denis - Villepinte ;
+Seine-Saint-Denis-Villepinte ;
 
 Sud francilien ;
 
@@ -156,7 +156,7 @@ Toulouse-Seysses ;
 
 Uzerche ;
 
-Val-d'Oise - Osny ;
+Val-d'Oise-Osny ;
 
 Val-de-Reuil ;
 
@@ -166,11 +166,11 @@ Villefranche-sur-Saône ;
 
 Villeneuve-lès-Maguelone ;
 
-Yvelines - Bois-d'Arcy.
+Yvelines-Bois-d'Arcy.
 
-B. - Adjoint au chef d'établissement pénitentiaire de Fleury-Mérogis.
+B.-Adjoint au chef d'établissement pénitentiaire de Fleury-Mérogis.
 
-IV. - Etablissement public administratif national et service à compétence nationale
+IV.-Etablissement public administratif national et service à compétence nationale
 
 Directeur de l'Ecole nationale d'administration pénitentiaire.
 
