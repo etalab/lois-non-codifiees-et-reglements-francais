@@ -16,7 +16,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Ain </p>
 </td>
 <td valign="top" width="170">
@@ -27,10 +27,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nantua </p>
 </td>
@@ -39,10 +35,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Trévoux </p>
 </td>
@@ -51,8 +43,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Aisne </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Aisne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Laon </p>
@@ -62,10 +54,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Château-Thierry </p>
 </td>
@@ -74,10 +62,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td width="151">
-<br/>
-<br/>
-</td>
 <td width="170">
 <p align="left">Hirson </p>
 </td>
@@ -86,10 +70,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Quentin </p>
 </td>
@@ -98,10 +78,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Soissons </p>
 </td>
@@ -110,8 +86,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Allier </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Allier</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Moulins </p>
@@ -121,10 +97,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cusset 1er service de la publicité foncière </p>
 </td>
@@ -133,10 +105,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cusset 2e service de la publicité foncière </p>
 </td>
@@ -145,10 +113,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montluçon </p>
 </td>
@@ -179,7 +143,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="8" valign="top" width="151">
 <p align="left">Alpes-Maritimes </p>
 </td>
 <td valign="top" width="170">
@@ -190,10 +154,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nice (2e service de la publicité foncière) </p>
 </td>
@@ -202,10 +162,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nice (3e service de la publicité foncière) </p>
 </td>
@@ -214,10 +170,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nice (4e service de la publicité foncière) </p>
 </td>
@@ -226,10 +178,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Antibes (1er service de la publicité foncière) </p>
 </td>
@@ -238,10 +186,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td width="151">
-<br/>
-<br/>
-</td>
 <td width="170">
 <p align="left">Antibes (2e service de la publicité foncière) </p>
 </td>
@@ -250,10 +194,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Grasse (1er service de la publicité foncière) </p>
 </td>
@@ -262,10 +202,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Grasse (2e service de la publicité foncière) </p>
 </td>
@@ -274,8 +210,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Ardèche </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Ardèche</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Privas </p>
@@ -285,10 +221,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Tournon </p>
 </td>
@@ -297,7 +229,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Ardennes </p>
 </td>
 <td valign="top" width="170">
@@ -308,10 +240,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Charleville-Mézières 2</p>
 </td>
@@ -320,10 +248,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rethel 1</p>
 </td>
@@ -332,10 +256,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rethel 2 </p>
 </td>
@@ -355,8 +275,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Aube </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Aube</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Troyes (1er service de la publicité foncière) </p>
@@ -366,10 +286,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Troyes (2e service de la publicité foncière) </p>
 </td>
@@ -378,7 +294,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Aude </p>
 </td>
 <td valign="top" width="170">
@@ -389,10 +305,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Narbonne </p>
 </td>
@@ -401,8 +313,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Aveyron </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Aveyron</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Rodez </p>
@@ -412,10 +324,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Millau </p>
 </td>
@@ -424,10 +332,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Villefranche-de-Rouergue </p>
 </td>
@@ -436,7 +340,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="7" valign="top" width="151">
 <p align="left">Bouches-du-Rhône </p>
 </td>
 <td valign="top" width="170">
@@ -447,10 +351,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Marseille (2e service de la publicité foncière) </p>
 </td>
@@ -459,10 +359,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Marseille (3e service de la publicité foncière) </p>
 </td>
@@ -471,10 +367,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Marseille (4e service de la publicité foncière) </p>
 </td>
@@ -483,10 +375,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Aix-en-Provence (1er service de la publicité foncière) </p>
 </td>
@@ -495,10 +383,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Aix-en-Provence (2e service de la publicité foncière) </p>
 </td>
@@ -507,10 +391,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Tarascon </p>
 </td>
@@ -519,8 +399,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Calvados </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Calvados</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Caen (1er service de la publicité foncière) </p>
@@ -530,10 +410,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Caen (2e service de la publicité foncière) </p>
 </td>
@@ -542,10 +418,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bayeux </p>
 </td>
@@ -554,10 +426,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lisieux </p>
 </td>
@@ -566,10 +434,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pont-l'Evêque </p>
 </td>
@@ -578,10 +442,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Vire </p>
 </td>
@@ -601,8 +461,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Charente </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Charente</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Angoulême (1er service de la publicité foncière) </p>
@@ -612,10 +472,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Angoulême (2e service de la publicité foncière) </p>
 </td>
@@ -624,10 +480,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cognac </p>
 </td>
@@ -636,8 +488,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Charente-Maritime </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Charente-Maritime</p>
 </td>
 <td valign="top" width="170">
 <p align="left">La Rochelle </p>
@@ -647,10 +499,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Jonzac </p>
 </td>
@@ -659,10 +507,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Marennes </p>
 </td>
@@ -671,10 +515,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rochefort </p>
 </td>
@@ -683,10 +523,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saintes </p>
 </td>
@@ -695,10 +531,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Jean-d'Angély </p>
 </td>
@@ -707,8 +539,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Cher </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Cher</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Bourges </p>
@@ -718,10 +550,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Amand-Montrond </p>
 </td>
@@ -730,10 +558,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Sancerre </p>
 </td>
@@ -742,8 +566,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Corrèze </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Corrèze</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Tulle </p>
@@ -753,10 +577,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Brive-la-Gaillarde </p>
 </td>
@@ -787,7 +607,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Côte-d'Or </p>
 </td>
 <td valign="top" width="170">
@@ -798,10 +618,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dijon (2e service de la publicité foncière)</p>
 </td>
@@ -810,10 +626,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dijon (3e service de la publicité foncière) </p>
 </td>
@@ -822,10 +634,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Beaune </p>
 </td>
@@ -834,7 +642,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="5" valign="top" width="151">
 <p align="left">Côtes-du-Nord</p>
 </td>
 <td valign="top" width="170">
@@ -845,10 +653,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dinan </p>
 </td>
@@ -857,10 +661,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Guingamp </p>
 </td>
@@ -869,10 +669,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lannion</p>
 </td>
@@ -881,10 +677,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Loudéac </p>
 </td>
@@ -893,7 +685,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Creuse </p>
 </td>
 <td valign="top" width="170">
@@ -904,10 +696,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Aubusson </p>
 </td>
@@ -916,7 +704,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Dordogne </p>
 </td>
 <td valign="top" width="170">
@@ -927,10 +715,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bergerac </p>
 </td>
@@ -939,10 +723,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Ribérac </p>
 </td>
@@ -951,10 +731,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Sarlat </p>
 </td>
@@ -963,7 +739,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Doubs </p>
 </td>
 <td valign="top" width="170">
@@ -974,10 +750,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Besançon (2e service de la publicité foncière) </p>
 </td>
@@ -986,10 +758,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montbéliard </p>
 </td>
@@ -998,7 +766,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Drôme </p>
 </td>
 <td valign="top" width="170">
@@ -1009,10 +777,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Valence (2e service de la publicité foncière) </p>
 </td>
@@ -1021,8 +785,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Essonne </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Essonne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Corbeil (1er service de la publicité foncière) </p>
@@ -1032,10 +796,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Corbeil (2e service de la publicité foncière) </p>
 </td>
@@ -1044,10 +804,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Corbeil (3e service de la publicité foncière) </p>
 </td>
@@ -1056,10 +812,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Etampes </p>
 </td>
@@ -1068,10 +820,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Massy </p>
 </td>
@@ -1080,8 +828,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Eure </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Eure</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Evreux </p>
@@ -1091,10 +839,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Les Andelys </p>
 </td>
@@ -1103,10 +847,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bernay </p>
 </td>
@@ -1115,10 +855,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Louviers </p>
 </td>
@@ -1127,10 +863,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pont-Audemer </p>
 </td>
@@ -1139,7 +871,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Eure-et-Loir </p>
 </td>
 <td valign="top" width="170">
@@ -1150,10 +882,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Châteaudun </p>
 </td>
@@ -1162,10 +890,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dreux </p>
 </td>
@@ -1174,10 +898,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nogent-le-Rotrou </p>
 </td>
@@ -1186,7 +906,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="6" valign="top" width="151">
 <p align="left">Finistère </p>
 </td>
 <td valign="top" width="170">
@@ -1197,10 +917,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Quimper (2e service de la publicité foncière) </p>
 </td>
@@ -1209,10 +925,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Brest (1er service de la publicité foncière) </p>
 </td>
@@ -1221,10 +933,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Brest (2e service de la publicité foncière) </p>
 </td>
@@ -1233,10 +941,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Châteaulin </p>
 </td>
@@ -1245,10 +949,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Morlaix </p>
 </td>
@@ -1257,7 +957,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Gard </p>
 </td>
 <td valign="top" width="170">
@@ -1268,10 +968,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nîmes (2e service de la publicité foncière ) </p>
 </td>
@@ -1280,10 +976,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Alès </p>
 </td>
@@ -1292,8 +984,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Haute-Garonne </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Haute-Garonne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Toulouse (1er service de la publicité foncière ) </p>
@@ -1303,10 +995,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Toulouse (2e service de la publicité foncière ) </p>
 </td>
@@ -1315,10 +1003,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Toulouse (3e service de la publicité foncière ) </p>
 </td>
@@ -1327,10 +1011,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Muret </p>
 </td>
@@ -1339,10 +1019,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Gaudens </p>
 </td>
@@ -1351,8 +1027,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Gers </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Gers</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Auch </p>
@@ -1362,10 +1038,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Condom </p>
 </td>
@@ -1374,8 +1046,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Gironde </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Gironde</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Bordeaux (1er service de la publicité foncière) </p>
@@ -1385,10 +1057,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bordeaux (2e service de la publicité foncière) </p>
 </td>
@@ -1397,10 +1065,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bordeaux (3e service de la publicité foncière) </p>
 </td>
@@ -1409,10 +1073,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">La Réole </p>
 </td>
@@ -1421,10 +1081,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lesparre </p>
 </td>
@@ -1433,10 +1089,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Libourne </p>
 </td>
@@ -1445,7 +1097,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="5" valign="top" width="151">
 <p align="left">Hauts-de-Seine </p>
 </td>
 <td valign="top" width="170">
@@ -1456,10 +1108,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nanterre (2e service de la publicité foncière) </p>
 </td>
@@ -1468,10 +1116,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nanterre (3e service de la publicité foncière) </p>
 </td>
@@ -1480,10 +1124,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Vanves (1er service de la publicité foncière) </p>
 </td>
@@ -1492,10 +1132,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Vanves (2e service de la publicité foncière) </p>
 </td>
@@ -1504,8 +1140,14 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Hérault </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 </td>
 <td valign="top" width="170">
 <p align="left">Montpellier (1er service de la publicité foncière) </p>
@@ -1515,10 +1157,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montpellier (2e service de la publicité foncière ) </p>
 </td>
@@ -1527,10 +1165,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Béziers (1er service de la publicité foncière ) </p>
 </td>
@@ -1539,10 +1173,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Béziers (2e service de la publicité foncière ) </p>
 </td>
@@ -1551,8 +1181,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Ille-et-Vilaine </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Ille-et-Vilaine</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Rennes 1</p>
@@ -1562,10 +1192,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rennes 2</p>
 </td>
@@ -1574,10 +1200,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rennes 3</p>
 </td>
@@ -1586,10 +1208,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Fougères </p>
 </td>
@@ -1598,10 +1216,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Redon</p>
 </td>
@@ -1610,10 +1224,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Malo </p>
 </td>
@@ -1622,30 +1232,26 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Indre </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Indre</p>
 </td>
 <td valign="top" width="170">
-<p align="left">Châteauroux (1er service de la publicité foncière)  </p>
+<p align="left">Châteauroux (1er service de la publicité foncière) </p>
 </td>
 <td valign="top" width="416">
-<p align="left">Cantons d'Aigurande, Ardentes, Argenton-sur-Creuse, Buzançais, Châteauroux-Centre, Châteauroux-Est, Châteauroux-Ouest, Châteauroux-Sud, Châtillon-sur-Indre, La Châtre, Ecueille, Eguzon-Chantôme, Issoudun-Nord, Issoudun-Sud, Levroux, Neuvy-Saint-Sépulchre, Saint-Christophe-en-Bazelle, Sainte-Sévère-sur-Indre, Valençay, Vatan.  </p>
+<p align="left">Cantons d'Aigurande, Ardentes, Argenton-sur-Creuse, Buzançais, Châteauroux-Centre, Châteauroux-Est, Châteauroux-Ouest, Châteauroux-Sud, Châtillon-sur-Indre, La Châtre, Ecueille, Eguzon-Chantôme, Issoudun-Nord, Issoudun-Sud, Levroux, Neuvy-Saint-Sépulchre, Saint-Christophe-en-Bazelle, Sainte-Sévère-sur-Indre, Valençay, Vatan. </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
-<p align="left">Châteauroux (2nd service de la publicité foncière)  </p>
+<p align="left">Châteauroux (2nd service de la publicité foncière) </p>
 </td>
 <td valign="top" width="416">
 <p align="left">Cantons de Bélâbre, Le Blanc, Mézières-en-Brenne, Saint-Benoît-du-Sault, Saint-Gaultier, Tournon-Saint-Martin. </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Indre-et-Loire </p>
 </td>
 <td valign="top" width="170">
@@ -1656,10 +1262,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Tours (2e service de la publicité foncière ) </p>
 </td>
@@ -1668,10 +1270,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Chinon </p>
 </td>
@@ -1680,10 +1278,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Loches </p>
 </td>
@@ -1692,8 +1286,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Isère </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Isère</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Grenoble (1er service de la publicité foncière ) </p>
@@ -1703,10 +1297,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Grenoble (2e service de la publicité foncière ) </p>
 </td>
@@ -1715,10 +1305,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Grenoble (3e service de la publicité foncière ) </p>
 </td>
@@ -1727,10 +1313,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bourgoin-Jallieu </p>
 </td>
@@ -1739,10 +1321,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Marcellin </p>
 </td>
@@ -1751,10 +1329,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Vienne </p>
 </td>
@@ -1763,8 +1337,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Jura </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Jura</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Lons-le-Saunier </p>
@@ -1774,10 +1348,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Poligny </p>
 </td>
@@ -1786,7 +1356,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Landes </p>
 </td>
 <td valign="top" width="170">
@@ -1797,10 +1367,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dax </p>
 </td>
@@ -1809,43 +1375,29 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p align="left">Loir-et-Cher </p>
 </td>
 <td valign="top" width="170">
-<p align="left">Blois </p>
+<p align="left">Blois 1</p>
 </td>
-<td valign="top" width="416">
-<p align="left">Cantons de Blois-I, Blois-II, Blois-III, Blois-IV, Blois-V, Blois-VI, Bracieux, Contres, Herbault, Marchenoir, Mer, Montrichard, Ouzouer-le-Marché, Saint-Aignan, Vineuil. </p>
-</td>
+<td valign="top" width="416">Cantons de Blois-I, Blois-II, Blois-III, Blois-IV, Blois-V, Blois-VI, Bracieux, Contres, Herbault, Marchenoir, Mer, Montrichard, Ouzouer-le-Marché, Saint-Aignan, Vineuil.</td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
-<p align="left">Romorantin-Lanthenay </p>
+<p align="left">Blois 2</p>
 </td>
-<td valign="top" width="416">
-<p align="left">Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris, Selles-sur-Cher. </p>
-</td>
+<td valign="top" width="416">Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris, Selles-sur-Cher.</td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Vendôme </p>
 </td>
-<td valign="top" width="416">
-<p align="left">Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme-I, Vendôme-II. </p>
-</td>
+<td valign="top" width="416">Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme-I, Vendôme-II.</td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Loire </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Loire</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Saint-Etienne (1er service de la publicité foncière ) </p>
@@ -1855,10 +1407,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Etienne (2e service de la publicité foncière ) </p>
 </td>
@@ -1867,10 +1415,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montbrison </p>
 </td>
@@ -1879,10 +1423,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Roanne </p>
 </td>
@@ -1902,8 +1442,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Loire-Atlantique </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Loire-Atlantique</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Nantes (1er service de la publicité foncière ) </p>
@@ -1913,10 +1453,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Nantes (2e service de la publicité foncière ) </p>
 </td>
@@ -1925,10 +1461,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Châteaubriant </p>
 </td>
@@ -1937,10 +1469,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pornic </p>
 </td>
@@ -1949,10 +1477,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Nazaire (1er service de la publicité foncière ) </p>
 </td>
@@ -1961,10 +1485,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Nazaire (2e service de la publicité foncière ) </p>
 </td>
@@ -1973,8 +1493,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Loiret </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Loiret</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Orléans (1er service de la publicité foncière ) </p>
@@ -1984,10 +1504,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Orléans (2e service de la publicité foncière ) </p>
 </td>
@@ -1996,10 +1512,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Gien </p>
 </td>
@@ -2008,10 +1520,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montargis </p>
 </td>
@@ -2020,10 +1528,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pithiviers </p>
 </td>
@@ -2043,8 +1547,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Lot-et-Garonne </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Lot-et-Garonne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Agen </p>
@@ -2054,10 +1558,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Marmande </p>
 </td>
@@ -2066,10 +1566,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Villeneuve-sur-Lot </p>
 </td>
@@ -2089,8 +1585,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Maine-et-Loire </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Maine-et-Loire</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Angers (1er service de la publicité foncière ) </p>
@@ -2100,10 +1596,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Angers (2e service de la publicité foncière ) </p>
 </td>
@@ -2112,10 +1604,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Baugé </p>
 </td>
@@ -2124,10 +1612,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cholet </p>
 </td>
@@ -2136,10 +1620,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saumur </p>
 </td>
@@ -2148,10 +1628,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Segré </p>
 </td>
@@ -2160,7 +1636,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="5" valign="top" width="151">
 <p align="left">Manche </p>
 </td>
 <td valign="top" width="170">
@@ -2171,10 +1647,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Avranches </p>
 </td>
@@ -2183,10 +1655,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cherbourg </p>
 </td>
@@ -2195,10 +1663,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Coutances </p>
 </td>
@@ -2207,10 +1671,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Valognes </p>
 </td>
@@ -2219,8 +1679,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Marne </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Marne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Châlons-sur-Marne (1er service de la publicité foncière ) </p>
@@ -2230,10 +1690,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Châlons-sur-Marne (2e service de la publicité foncière ) </p>
 </td>
@@ -2242,10 +1698,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Epernay </p>
 </td>
@@ -2254,10 +1706,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Reims </p>
 </td>
@@ -2266,8 +1714,10 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Haute-Marne </p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="170">
 <p align="left">Chaumont </p>
@@ -2277,10 +1727,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Dizer </p>
 </td>
@@ -2289,8 +1735,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Mayenne </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Mayenne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Laval </p>
@@ -2300,10 +1746,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Château-Gontier </p>
 </td>
@@ -2312,10 +1754,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Mayenne </p>
 </td>
@@ -2324,7 +1762,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="4" valign="top" width="151">
 <p align="left">Meurthe-et-Moselle </p>
 </td>
 <td valign="top" width="170">
@@ -2335,10 +1773,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Briey </p>
 </td>
@@ -2347,10 +1781,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lunéville </p>
 </td>
@@ -2359,10 +1789,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Toul </p>
 </td>
@@ -2371,8 +1797,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Meuse </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Meuse</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Bar-le-Duc 1er service de la publicité foncière </p>
@@ -2382,10 +1808,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bar-le-Duc 2e service de la publicité foncière </p>
 </td>
@@ -2394,10 +1816,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Verdun </p>
 </td>
@@ -2406,8 +1824,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Morbihan </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Morbihan</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Vannes </p>
@@ -2417,10 +1835,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lorient (1er service de la publicité foncière ) </p>
 </td>
@@ -2429,10 +1843,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lorient (2e service de la publicité foncière ) </p>
 </td>
@@ -2441,10 +1851,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Ploërmel </p>
 </td>
@@ -2453,10 +1859,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pontivy </p>
 </td>
@@ -2465,8 +1867,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Nièvre </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Nièvre</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Nevers </p>
@@ -2476,10 +1878,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Clamecy </p>
 </td>
@@ -2488,10 +1886,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cosne-sur-Loire </p>
 </td>
@@ -2500,8 +1894,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Nord </p>
+<td rowspan="9" valign="top" width="151">
+<p align="left">Nord</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Lille (1er service de la publicité foncière ) </p>
@@ -2511,10 +1905,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lille (2e service de la publicité foncière ) </p>
 </td>
@@ -2523,10 +1913,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lille (3e service de la publicité foncière ) </p>
 </td>
@@ -2535,10 +1921,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Avesnes-sur-Helpe </p>
 </td>
@@ -2547,10 +1929,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cambrai </p>
 </td>
@@ -2559,10 +1937,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Douai </p>
 </td>
@@ -2571,10 +1945,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dunkerque </p>
 </td>
@@ -2583,10 +1953,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Hazebrouck </p>
 </td>
@@ -2595,10 +1961,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Valenciennes </p>
 </td>
@@ -2607,8 +1969,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Oise </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Oise</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Beauvais </p>
@@ -2618,10 +1980,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Clermont-en-l'Oise </p>
 </td>
@@ -2630,10 +1988,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Compiègne </p>
 </td>
@@ -2642,10 +1996,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Senlis </p>
 </td>
@@ -2654,8 +2004,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Orne </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Orne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Alençon </p>
@@ -2665,10 +2015,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Argentan </p>
 </td>
@@ -2677,10 +2023,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Domfront </p>
 </td>
@@ -2689,10 +2031,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montagne-au-Perche </p>
 </td>
@@ -2701,8 +2039,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Paris (Ville de) </p>
+<td rowspan="12" valign="top" width="151">
+<p align="left">Paris (Ville de)</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Paris (1er service de la publicité foncière ) </p>
@@ -2712,10 +2050,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (2e service de la publicité foncière ) </p>
 </td>
@@ -2724,10 +2058,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (3e service de la publicité foncière ) </p>
 </td>
@@ -2736,10 +2066,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (4e service de la publicité foncière ) </p>
 </td>
@@ -2748,10 +2074,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (5e service de la publicité foncière ) </p>
 </td>
@@ -2760,10 +2082,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (6e service de la publicité foncière ) </p>
 </td>
@@ -2772,10 +2090,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (7e service de la publicité foncière ) </p>
 </td>
@@ -2784,10 +2098,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (8e service de la publicité foncière ) </p>
 </td>
@@ -2796,10 +2106,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (9e service de la publicité foncière ) </p>
 </td>
@@ -2808,10 +2114,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (10e service de la publicité foncière ) </p>
 </td>
@@ -2820,10 +2122,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Paris (11e service de la publicité foncière ) </p>
 </td>
@@ -2832,10 +2130,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td width="151">
-<br/>
-<br/>
-</td>
 <td width="170">
 <p align="left">Paris (12e service de la publicité foncière ) </p>
 </td>
@@ -2844,8 +2138,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Pas-de-Calais </p>
+<td rowspan="7" valign="top" width="151">
+<p align="left">Pas-de-Calais</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Arras </p>
@@ -2855,10 +2149,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Béthune (1er service de la publicité foncière ) </p>
 </td>
@@ -2867,10 +2157,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Béthune (2e service de la publicité foncière ) </p>
 </td>
@@ -2879,10 +2165,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Boulogne-sur-Mer </p>
 </td>
@@ -2891,10 +2173,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montreuil-sur-Mer </p>
 </td>
@@ -2903,10 +2181,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Omer </p>
 </td>
@@ -2915,10 +2189,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Pol-sur-Ternoise </p>
 </td>
@@ -2927,8 +2197,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Puy-de-Dôme </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Puy-de-Dôme</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Clermont-Ferrand </p>
@@ -2938,10 +2208,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Issoire </p>
 </td>
@@ -2950,10 +2216,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Riom </p>
 </td>
@@ -2962,10 +2224,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Thiers </p>
 </td>
@@ -2974,8 +2232,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Pyrénées-Atlantiques </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Pyrénées-Atlantiques</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Pau (1er service de la publicité foncière ) </p>
@@ -2985,10 +2243,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pau (2e service de la publicité foncière ) </p>
 </td>
@@ -2997,10 +2251,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bayonne (1er service de la publicité foncière ) </p>
 </td>
@@ -3009,10 +2259,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bayonne (2e service de la publicité foncière ) </p>
 </td>
@@ -3021,7 +2267,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Hautes-Pyrénées </p>
 </td>
 <td valign="top" width="170">
@@ -3032,10 +2278,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Tarbes (2e service de la publicité foncière ) </p>
 </td>
@@ -3044,7 +2286,7 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
+<td rowspan="2" valign="top" width="151">
 <p align="left">Pyrénées-Orientales </p>
 </td>
 <td valign="top" width="170">
@@ -3055,10 +2297,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Perpignan (2e service de la publicité foncière ) </p>
 </td>
@@ -3067,8 +2305,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Rhône </p>
+<td rowspan="6" valign="top" width="151">
+<p align="left">Rhône</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Lyon (1er service de la publicité foncière ) </p>
@@ -3078,10 +2316,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lyon (2e service de la publicité foncière ) </p>
 </td>
@@ -3090,10 +2324,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lyon (3e service de la publicité foncière ) </p>
 </td>
@@ -3102,10 +2332,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lyon (4e service de la publicité foncière ) </p>
 </td>
@@ -3114,10 +2340,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lyon (5e service de la publicité foncière ) </p>
 </td>
@@ -3126,10 +2348,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Villefranche-sur-Saône </p>
 </td>
@@ -3138,8 +2356,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Haute-Saône </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Haute-Saône</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Vesoul 1er service de la publicité foncière </p>
@@ -3149,10 +2367,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Vesoul 2e service de la publicité foncière </p>
 </td>
@@ -3161,10 +2375,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Lure </p>
 </td>
@@ -3184,8 +2394,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Saône-et-Loire </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Saône-et-Loire</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Mâcon </p>
@@ -3195,10 +2405,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Autun </p>
 </td>
@@ -3207,10 +2413,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Chalon-sur-Saône </p>
 </td>
@@ -3219,10 +2421,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Charolles </p>
 </td>
@@ -3231,10 +2429,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Louhans </p>
 </td>
@@ -3243,8 +2437,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Sarthe </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Sarthe</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Le Mans (1er service de la publicité foncière ) </p>
@@ -3254,10 +2448,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Le Mans (2e service de la publicité foncière ) </p>
 </td>
@@ -3266,10 +2456,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">La Flèche </p>
 </td>
@@ -3278,10 +2464,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Mamers </p>
 </td>
@@ -3290,8 +2472,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Savoie </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Savoie</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Chambéry (1er service de la publicité foncière ) </p>
@@ -3301,10 +2483,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Chambéry (2e service de la publicité foncière ) </p>
 </td>
@@ -3313,8 +2491,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Haute-Savoie </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Haute-Savoie</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Annecy </p>
@@ -3324,10 +2502,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bonneville </p>
 </td>
@@ -3336,10 +2510,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Thonon-les-Bains </p>
 </td>
@@ -3348,8 +2518,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Seine-Maritime </p>
+<td rowspan="7" valign="top" width="151">
+<p align="left">Seine-Maritime</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Rouen (1er service de la publicité foncière ) </p>
@@ -3359,10 +2529,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rouen (2e service de la publicité foncière ) </p>
 </td>
@@ -3371,10 +2537,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Dieppe </p>
 </td>
@@ -3383,10 +2545,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Le Havre (1er service de la publicité foncière ) </p>
 </td>
@@ -3395,10 +2553,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Le Havre (2e service de la publicité foncière ) </p>
 </td>
@@ -3407,10 +2561,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Neufchâtel-en-Bray </p>
 </td>
@@ -3419,10 +2569,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Yvetot </p>
 </td>
@@ -3431,8 +2577,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Seine-et-Marne </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Seine-et-Marne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Melun </p>
@@ -3442,10 +2588,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Coulommiers </p>
 </td>
@@ -3454,10 +2596,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Fontainebleau </p>
 </td>
@@ -3466,10 +2604,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Meaux </p>
 </td>
@@ -3478,10 +2612,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Provins </p>
 </td>
@@ -3490,8 +2620,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Seine-Saint-Denis </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Seine-Saint-Denis</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Bobigny 1er service de la publicité foncière </p>
@@ -3501,10 +2631,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bobigny 2e service de la publicité foncière </p>
 </td>
@@ -3513,10 +2639,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bobigny 3e service de la publicité foncière </p>
 </td>
@@ -3525,10 +2647,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bobigny 4e service de la publicité foncière </p>
 </td>
@@ -3537,10 +2655,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bobigny 5e service de la publicité foncière </p>
 </td>
@@ -3549,8 +2663,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Sèvres (Deux-) </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Sèvres (Deux-)</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Niort </p>
@@ -3560,10 +2674,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Bressuire </p>
 </td>
@@ -3572,10 +2682,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Parthenay </p>
 </td>
@@ -3584,8 +2690,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Somme </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Somme</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Amiens </p>
@@ -3595,10 +2701,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Abbeville </p>
 </td>
@@ -3607,10 +2709,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montdidier </p>
 </td>
@@ -3619,10 +2717,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Péronne </p>
 </td>
@@ -3631,8 +2725,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Tarn </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Tarn</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Albi </p>
@@ -3642,10 +2736,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Castres </p>
 </td>
@@ -3654,8 +2744,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Tarn-et-Garonne </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Tarn-et-Garonne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Montauban </p>
@@ -3665,10 +2755,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Moissac </p>
 </td>
@@ -3677,8 +2763,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Val-de-Marne </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Val-de-Marne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Créteil (1er service de la publicité foncière ) </p>
@@ -3688,10 +2774,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Créteil (2e service de la publicité foncière ) </p>
 </td>
@@ -3700,10 +2782,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Créteil (3e service de la publicité foncière ) </p>
 </td>
@@ -3712,10 +2790,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Créteil (4e service de la publicité foncière ) </p>
 </td>
@@ -3724,8 +2798,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Val-d'Oise </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Val-d'Oise</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Cergy-Pontoise (1er service de la publicité foncière ) </p>
@@ -3735,10 +2809,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Ermont </p>
 </td>
@@ -3747,10 +2817,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Leu-la-Forêt </p>
 </td>
@@ -3759,10 +2825,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Cergy-Pontoise (4e service de la publicité foncière ) </p>
 </td>
@@ -3771,8 +2833,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Var </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Var</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Toulon (1er service de la publicité foncière ) </p>
@@ -3782,10 +2844,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Toulon (2e service de la publicité foncière ) </p>
 </td>
@@ -3794,10 +2852,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Draguignan (1er service de la publicité foncière ) </p>
 </td>
@@ -3806,10 +2860,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Draguignan (2e service de la publicité foncière ) </p>
 </td>
@@ -3818,8 +2868,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Vaucluse </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Vaucluse</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Avignon (1er service de la publicité foncière ) </p>
@@ -3829,10 +2879,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Avignon (2e service de la publicité foncière ) </p>
 </td>
@@ -3841,10 +2887,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Orange </p>
 </td>
@@ -3853,8 +2895,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Vendée </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Vendée</p>
 </td>
 <td valign="top" width="170">
 <p align="left">La Roche-sur-Yon </p>
@@ -3864,10 +2906,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Challans </p>
 </td>
@@ -3876,10 +2914,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Fontenay-le-Comte </p>
 </td>
@@ -3888,10 +2922,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Les Sables-d'Olonne </p>
 </td>
@@ -3900,8 +2930,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Vienne </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Vienne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Poitiers </p>
@@ -3911,10 +2941,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Châtellerault </p>
 </td>
@@ -3923,10 +2949,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Montmorillon </p>
 </td>
@@ -3935,8 +2957,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Vienne (Haute-) </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Vienne (Haute-)</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Limoges 1 </p>
@@ -3946,10 +2968,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td width="151">
-<br/>
-<br/>
-</td>
 <td width="170">
 <p align="left">Limoges 2 </p>
 </td>
@@ -3958,8 +2976,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Vosges </p>
+<td rowspan="3" valign="top" width="151">
+<p align="left">Vosges</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Epinal </p>
@@ -3969,10 +2987,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Remiremont </p>
 </td>
@@ -3981,10 +2995,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Dié </p>
 </td>
@@ -3993,8 +3003,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Yonne </p>
+<td rowspan="4" valign="top" width="151">
+<p align="left">Yonne</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Auxerre (1er service de la publicité foncière ) </p>
@@ -4004,10 +3014,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Auxerre (2e service de la publicité foncière ) </p>
 </td>
@@ -4016,10 +3022,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Joigny </p>
 </td>
@@ -4028,10 +3030,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Sens </p>
 </td>
@@ -4040,8 +3038,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Yvelines </p>
+<td rowspan="5" valign="top" width="151">
+<p align="left">Yvelines</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Versailles (1er service de la publicité foncière ) </p>
@@ -4051,10 +3049,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Versailles (2e service de la publicité foncière ) </p>
 </td>
@@ -4063,10 +3057,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Versailles (3e service de la publicité foncière ) </p>
 </td>
@@ -4075,10 +3065,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Mantes-la-Jolie </p>
 </td>
@@ -4087,10 +3073,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Rambouillet </p>
 </td>
@@ -4099,8 +3081,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Guadeloupe </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Guadeloupe</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Basse-Terre </p>
@@ -4110,10 +3092,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Pointe-à-Pitre </p>
 </td>
@@ -4144,8 +3122,8 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p align="left">Réunion </p>
+<td rowspan="2" valign="top" width="151">
+<p align="left">Réunion</p>
 </td>
 <td valign="top" width="170">
 <p align="left">Saint-Denis </p>
@@ -4155,10 +3133,6 @@ Le siège et le ressort des services de la publicité foncière sont fixés conf
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<br/>
-<br/>
-</td>
 <td valign="top" width="170">
 <p align="left">Saint-Pierre </p>
 </td>
