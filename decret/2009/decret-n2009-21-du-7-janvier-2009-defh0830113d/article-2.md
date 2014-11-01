@@ -5,79 +5,86 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <table>
 <tbody>
 <tr>
-<th>
-<br/>GRADE <br/>
-</th>
-<th>
-<br/>ÉCHELLE DE SOLDE <br/>
-</th>
-<th>
-<br/>ÉCHELON <br/>
-</th>
-<th>
-<br/>INDICE BRUT <br/>
-</th>
-</tr>
-<tr>
-<td align="left" rowspan="7" valign="top">
-<p align="left">Major. </p>
+<td>
+<p align="center"> GRADE </p>
 </td>
-<td align="left" rowspan="7" valign="top">
-<p align="left">Echelle de solde n° 4 </p>
+<td>
+<p align="center"> ÉCHELLE DE SOLDE </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Echelon exceptionnel (1) </p>
+<td>
+<p align="center"> ÉCHELON</p>
 </td>
-<td align="left" valign="top">
-<p align="center">665</p>
+<td>
+<p align="center"> INDICE BRUT </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="left" rowspan="7" valign="top">
+<br/>Major. <br/>
+</td>
+<td align="left" rowspan="7" valign="top">
+<br/>Echelle de solde n° 4 <br/>
+</td>
+<td align="left" valign="top">
+<br/>Echelon exceptionnel (1) <br/>
+</td>
+<td align="left" valign="top">
+<p align="center">
+<br/>665 </p>
+</td>
+</tr>
+<tr>
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>645 <br/>
+<td align="left">
+<p align="center">
+<br/>645 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>622 <br/>
+<td align="left">
+<p align="center">
+<br/>622 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>606 <br/>
+<td align="left">
+<p align="center">
+<br/>606 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>589 <br/>
+<td align="left">
+<p align="center">
+<br/>589 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>567 <br/>
+<td align="left">
+<p align="center">
+<br/>567 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>548 <br/>
+<td align="left">
+<p align="center">
+<br/>548 </p>
 </td>
 </tr>
 <tr>
@@ -88,74 +95,84 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 4 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">9e échelon</p>
+<p align="center">
+<br/>9e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">607</p>
+<p align="center">
+<br/>607 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>8e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>589 <br/>
+<td align="left">
+<p align="center">
+<br/>589 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>7e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>577 <br/>
+<td align="left">
+<p align="center">
+<br/>577 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>566 <br/>
+<td align="left">
+<p align="center">
+<br/>566 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>558 <br/>
+<td align="left">
+<p align="center">
+<br/>558 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>554 <br/>
+<td align="left">
+<p align="center">
+<br/>554 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>550 <br/>
+<td align="left">
+<p align="center">
+<br/>550 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>538 <br/>
+<td align="left">
+<p align="center">
+<br/>538 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>521 <br/>
+<td align="left">
+<p align="center">
+<br/>521 </p>
 </td>
 </tr>
 <tr>
@@ -166,74 +183,84 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 4 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">9e échelon</p>
+<p align="center">
+<br/>9e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">566</p>
+<p align="center">
+<br/>566 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>8e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>554 <br/>
+<td align="left">
+<p align="center">
+<br/>554 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>7e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>547 <br/>
+<td align="left">
+<p align="center">
+<br/>547 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>535 <br/>
+<td align="left">
+<p align="center">
+<br/>535 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>524 <br/>
+<td align="left">
+<p align="center">
+<br/>524 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>502 <br/>
+<td align="left">
+<p align="center">
+<br/>502 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>491 <br/>
+<td align="left">
+<p align="center">
+<br/>491 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>476 <br/>
+<td align="left">
+<p align="center">
+<br/>476 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>467 <br/>
+<td align="left">
+<p align="center">
+<br/>467 </p>
 </td>
 </tr>
 <tr>
@@ -241,26 +268,30 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 3 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">3e échelon</p>
+<p align="center">
+<br/>3e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">397</p>
+<p align="center">
+<br/>397 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>388 <br/>
+<td align="left">
+<p align="center">
+<br/>388 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>378 <br/>
+<td align="left">
+<p align="center">
+<br/>378 </p>
 </td>
 </tr>
 <tr>
@@ -271,58 +302,66 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 4 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">7e échelon</p>
+<p align="center">
+<br/>7e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">546</p>
+<p align="center">
+<br/>546 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>524 <br/>
+<td align="left">
+<p align="center">
+<br/>524 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>497 <br/>
+<td align="left">
+<p align="center">
+<br/>497 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>469 <br/>
+<td align="left">
+<p align="center">
+<br/>469 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>449 <br/>
+<td align="left">
+<p align="center">
+<br/>449 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>431 <br/>
+<td align="left">
+<p align="center">
+<br/>431 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>399 <br/>
+<td align="left">
+<p align="center">
+<br/>399 </p>
 </td>
 </tr>
 <tr>
@@ -330,50 +369,56 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 3 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">6e échelon</p>
+<br/>6e échelon <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">384</p>
+<p align="center">
+<br/>384 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>374 <br/>
+<td align="left">
+<p align="center">
+<br/>374 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>369 <br/>
+<td align="left">
+<p align="center">
+<br/>369 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>362 <br/>
+<td align="left">
+<p align="center">
+<br/>362 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>355 <br/>
+<td align="left">
+<p align="center">
+<br/>355 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>342 <br/>
+<td align="left">
+<p align="center">
+<br/>342 </p>
 </td>
 </tr>
 <tr>
@@ -384,58 +429,66 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 4 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">7e échelon</p>
+<p align="center">
+<br/>7e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">473</p>
+<p align="center">
+<br/>473 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>449 <br/>
+<td align="left">
+<p align="center">
+<br/>449 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>430 <br/>
+<td align="left">
+<p align="center">
+<br/>430 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>403 <br/>
+<td align="left">
+<p align="center">
+<br/>403 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>380 <br/>
+<td align="left">
+<p align="center">
+<br/>380 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>372 <br/>
+<td align="left">
+<p align="center">
+<br/>372 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>365 <br/>
+<td align="left">
+<p align="center">
+<br/>365 </p>
 </td>
 </tr>
 <tr>
@@ -443,66 +496,75 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 3 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">8e échelon</p>
+<p align="center">
+<br/>8e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">372</p>
+<p align="center">
+<br/>372 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>7e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>363 <br/>
+<td align="left">
+<p align="center">
+<br/>363 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>358 <br/>
+<td align="left">
+<p align="center">
+<br/>358 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>346 <br/>
+<td align="left">
+<p align="center">
+<br/>346 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>341 <br/>
+<td align="left">
+<p align="center">
+<br/>341 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>333 <br/>
+<td align="left">
+<p align="center">
+<br/>333 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>328 <br/>
+<td align="left">
+<p align="center">
+<br/>328 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>323 <br/>
+<td align="left">
+<p align="center">
+<br/>323 </p>
 </td>
 </tr>
 <tr>
@@ -510,66 +572,75 @@ L'échelonnement indiciaire applicable aux sous-officiers, officiers mariniers e
 <br/>Echelle de solde n° 2 <br/>
 </td>
 <td align="left" valign="top">
-<p align="center">8e échelon</p>
+<p align="center">
+<br/>8e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">332</p>
+<p align="center">
+<br/>332 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>7e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>323 <br/>
+<td align="left">
+<p align="center">
+<br/>323 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>6e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>316 <br/>
+<td align="left">
+<p align="center">
+<br/>316 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>5e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>305 <br/>
+<td align="left">
+<p align="center">
+<br/>314 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>4e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>296 <br/>
+<td align="left">
+<p align="center">
+<br/>311 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>3e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>292 <br/>
+<td align="left">
+<p align="center">
+<br/>310 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>2e échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>289 <br/>
+<td align="left">
+<p align="center">
+<br/>309 </p>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
+<td align="center">
 <br/>1er échelon <br/>
 </td>
-<td align="center" valign="middle">
-<br/>288<br/>
+<td align="left">
+<p align="center">
+<br/>308 </p>
 </td>
 </tr>
 <tr>
