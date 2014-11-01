@@ -555,7 +555,6 @@
 - [Arrêté du 28 septembre 1999 (INTB9900468A)](arrete-du-28-septembre-1999-intb9900468a)
 - [Arrêté du 28 septembre 1999 (MENE9902076A)](arrete-du-28-septembre-1999-mene9902076a)
 - [Arrêté du 28 septembre 1999 (MENE9902077A)](arrete-du-28-septembre-1999-mene9902077a)
-- [Arrêté du 28 mai 1999 (EQUA9900770A)](arrete-du-28-mai-1999-equa9900770a)
 - [Arrêté du 28 mai 1999 (INTC9900267A)](arrete-du-28-mai-1999-intc9900267a)
 - [Arrêté du 28 mai 1999 (MESF9910881A)](arrete-du-28-mai-1999-mesf9910881a)
 - [Arrêté du 29 avril 1999 (MENA9900957A)](arrete-du-29-avril-1999-mena9900957a)
