@@ -1,6 +1,6 @@
 # Article 3
 
-L'espace destiné au stationnement sécurisé des vélos prévu aux articles R. 111-14-4 et R. 111-14-5 du code de la construction et de l'habitation doit être couvert et éclairé, se situer de préférence au rez-de-chaussée du bâtiment ou à défaut au premier sous-sol et accessible facilement depuis le (s) point (s) d'entrée du bâtiment.
+L'espace destiné au stationnement sécurisé des vélos prévu aux articles R. 111-14-4 et R. 111-14-5 du code de la construction et de l'habitation doit être couvert et éclairé, se situer de préférence au rez-de-chaussée du bâtiment ou, à défaut, au premier sous-sol ou au premier étage, et accessible facilement depuis le (s) point (s) d'entrée du bâtiment. Cet espace peut également être réalisé à l'extérieur du bâtiment, à condition qu'il soit couvert et éclairé, clos et situé sur la même unité foncière que le bâtiment, et accessible facilement depuis le(s) point(s) d'entrée du bâtiment.
 
 Il possède les caractéristiques minimales suivantes :
 
