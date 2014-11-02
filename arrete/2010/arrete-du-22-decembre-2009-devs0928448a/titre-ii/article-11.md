@@ -6,7 +6,7 @@ L'élève doit parcourir une distance minimale de mille kilomètres, sur le rés
 
 L'accompagnateur, assis à l'avant du véhicule, à côté de l'élève, doit être titulaire du permis de conduire de la catégorie B depuis au moins cinq ans sans interruption à la date de la signature du contrat de formation ou de l'avenant au contrat de formation.
 
-Le véhicule utilisé, à boîte de vitesses manuelle ou automatique, peut être attelé d'une remorque dès lors que l'ensemble formé par le véhicule tracteur et la remorque ne relève pas de la catégorie E (B). Un signe distinctif autocollant ou magnétisé conforme au modèle annexé au présent arrêté doit être apposé à l'arrière gauche du véhicule.
+Le véhicule utilisé, à boîte de vitesses manuelle ou automatique, peut être attelé d'une remorque dès lors que la conduite de l'ensemble formé par le véhicule tracteur et la remorque ne nécessite pas la détention de la catégorie BE du permis de conduire ou le suivi de la formation prévue au point III bis de l'article R. 221-8 du code de la route. Un signe distinctif autocollant ou magnétisé conforme au modèle annexé au présent arrêté doit être apposé à l'arrière gauche du véhicule.
 
 Au cours de cette phase d'acquisition d'expérience de la conduite, l'élève doit :
 

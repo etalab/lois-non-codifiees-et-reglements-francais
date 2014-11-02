@@ -66,21 +66,25 @@ L'obtention du BSR intervient dans les conditions prévues à l'article R. 211-1
 
 II. - Conditions administratives générales.
 
-A. - Les âges de présentation à l'épreuve théorique.
+A. - Les âges de présentation aux épreuves théorique et pratique.
 
-L'âge minimal requis pour se présenter à cette épreuve est fixé à :
+L'âge minimal requis pour se présenter à l'épreuve théorique est fixé à :
 
 - seize ans pour les candidats au permis de conduire des catégories A1 et B1 ;
 
-- seize ans pour les candidats au permis de conduire de la catégorie B suivant une formation selon la formule de l'apprentissage anticipé de la conduite ;
+- quinze ans pour les candidats au permis de conduire de la catégorie B suivant une formation selon la formule de l'apprentissage anticipé de la conduite ;
 
 - dix-sept ans pour les autres candidats au permis de conduire de la catégorie B ou les candidats au permis de conduire de la catégorie A2.
+
+L'âge minimal requis pour se présenter à l'épreuve pratique est identique à l'âge minimal exigé pour l'obtention du permis de conduire fixé par l'
+article R. 221-5 du code de la route
+, à l'exception des candidats à la catégorie B en situation d'apprentissage anticipé de la conduite, pour lesquels l'âge minimal requis est fixé à dix-sept ans et demi, et des candidats bénéficiant des dispositions relatives à l'âge figurant dans le décret du 11 septembre 2007 susvisé.
 
 B. - Conditions d'admissibilité.
 
 Sont déclarés admissibles les candidats ayant réussi l'épreuve théorique générale.
 
-L'épreuve théorique générale est déclarée réussie lorsque le candidat obtient un nombre de réponses justes supérieur ou égal à 35 sur un total de quarante questions, numérotées de 1 à 40 pour chaque série. Les candidats ayant obtenu un résultat favorable à l'épreuve théorique générale conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques par catégorie et à la condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité ; une épreuve pratique est comptabilisée à chaque échec à l'épreuve hors circulation des catégories concernées et à chaque échec à l'épreuve en circulation.
+L'épreuve théorique générale est déclarée réussie lorsque le candidat obtient un nombre de réponses justes supérieur ou égal à 35 sur un total de quarante questions, numérotées de 1 à 40 pour chaque série. Les candidats ayant obtenu un résultat favorable à l'épreuve théorique générale conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques par catégorie et à la condition qu'un délai maximum de cinq ans ne se soit pas écoulé depuis l'obtention de cette admissibilité ; une épreuve pratique est comptabilisée à chaque échec à l'épreuve hors circulation des catégories concernées et à chaque échec à l'épreuve en circulation.
 
 Le bénéfice de l'admissibilité reste acquis en cas de changement :
 
@@ -92,7 +96,7 @@ Les candidats au permis de conduire qui répondent aux conditions définies à l
 
 Sont dispensés de l'épreuve théorique générale, dans la limite de cinq épreuves pratiques par catégorie, les candidats titulaires d'un permis de conduire français ou d'un permis délivré par un Etat membre de l'Union européenne ou de l'Espace économique européen et à la condition qu'un délai maximum de cinq ans ne se soit pas écoulé depuis l'obtention de la dernière catégorie. Cette disposition n'est pas valable concernant les catégories AM et A obtenue en accès progressif.
 
-Sont également dispensés de repasser l'épreuve théorique générale, dans la limite de cinq épreuves pratiques par catégorie, les candidats à un permis de conduire des catégories A1, A2 ou B1 en situation de conduite encadrée et à la condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis la réussite à l'épreuve théorique générale.
+Sont également dispensés de repasser l'épreuve théorique générale, dans la limite de cinq épreuves pratiques par catégorie, les candidats à un permis de conduire des catégories A1, A2 ou B1 en situation de conduite encadrée et à la condition qu'un délai maximum de cinq ans ne se soit pas écoulé depuis la réussite à l'épreuve théorique générale.
 
 C. - Les délais de présentation.
 

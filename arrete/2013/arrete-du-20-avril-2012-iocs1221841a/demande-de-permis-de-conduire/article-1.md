@@ -6,7 +6,7 @@ Sa délivrance est subordonnée à au moins une présentation en personne du dem
 
 II. - Toute personne désirant obtenir le permis de conduire prévu aux articles R. 211-1, R. 221-1, R. 221-2 et D. 221-3 du code de la route doit en faire la demande au préfet du département de sa résidence normale ou au préfet du département dans lequel vont être subies les épreuves de l'examen si elle se présente dans un département autre que celui de sa résidence normale.
 
-Cette demande ne peut être effectuée avant l'âge de 16 ans révolus, à l'exception de la catégorie AM pour laquelle l'âge est de 14 ans révolus. Pour les personnes nées après le 31 décembre 1987, la demande de cette dernière catégorie intervient après obtention du brevet de sécurité routière prévu à l'article R. 211-1 du code précité.
+Cette demande ne peut être effectuée avant l'âge de 16 ans révolus, à l'exception de la catégorie AM pour laquelle l'âge est de 14 ans révolus et de la catégorie B, dans le cadre de l'apprentissage anticipé de la conduite, pour laquelle l'âge est de 15 ans révolus. Pour les personnes nées après le 31 décembre 1987, la demande de cette dernière catégorie intervient après obtention du brevet de sécurité routière prévu à l'article R. 211-1 du code précité.
 
 Cette demande énonce les nom, prénom(s), nationalité, lieu de résidence, lieu et date de naissance du demandeur et précise la ou les catégories de permis sollicitées.
 

@@ -1,7 +1,7 @@
 # Article Annexe III
 
-NOUVEAU MODÈLE PERMIS DE CONDUIRE DE L'UNION EUROPÉENNE
+6. Notice explicative des CEPC favorables
 
-Vous pouvez consulter le modèle dans le JO n° 150 du 29/06/2012 texte numéro 8
+Vous pouvez consulter la notice à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120629&numTexte=8&pageDebut=10613&pageFin=10614
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141101&numTexte=68&pageDebut=18418&pageFin=18423

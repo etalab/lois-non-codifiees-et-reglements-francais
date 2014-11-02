@@ -6,13 +6,13 @@ La phase de conduite accompagnée a une durée minimale d'un an. L'élève et so
 
 L'accompagnateur, assis à l'avant du véhicule, à côté de l'élève, doit être titulaire de la catégorie B du permis de conduire depuis au moins cinq ans sans interruption à la date de la signature du contrat de formation de l'élève.
 
-Le véhicule utilisé, à boîte de vitesses manuelle ou automatique, peut être attelé d'une remorque dès lors que l'ensemble formé par le véhicule tracteur et la remorque ne relève pas de la catégorie E (B). Un signe distinctif autocollant ou magnétisé conforme au modèle annexé au présent arrêté doit être apposé à l'arrière gauche du véhicule et sur la remorque, le cas échéant.
+Le véhicule utilisé, à boîte de vitesses manuelle ou automatique, peut être attelé d'une remorque dès lors que la conduite de l'ensemble formé par le véhicule tracteur et la remorque ne nécessite pas la détention de la catégorie BE du permis de conduire ou le suivi de la formation prévue au point III bis de l'article R. 221-8 du code de la route. Un signe distinctif autocollant ou magnétisé conforme au modèle annexé au présent arrêté doit être apposé à l'arrière gauche du véhicule et sur la remorque, le cas échéant.
 
 Au cours de cette phase d'acquisition d'expérience de la conduite, l'élève doit :
 
-― respecter les limitations de vitesse mentionnées à l'article R. 413-5 du code de la route ;
+-respecter les limitations de vitesse mentionnées à l'article R. 413-5 du code de la route ;
 
-― participer à au moins deux rendez-vous pédagogiques d'une durée de trois heures chacun. Ces rendez-vous comportent une partie pratique et une partie théorique. La présence d'au moins un des accompagnateurs de l'élève est obligatoire à chaque rendez-vous.
+-participer à au moins deux rendez-vous pédagogiques d'une durée de trois heures chacun. Ces rendez-vous comportent une partie pratique et une partie théorique. La présence d'au moins un des accompagnateurs de l'élève est obligatoire à chaque rendez-vous.
 
 La partie pratique d'un rendez-vous pédagogique est d'une durée d'une heure de conduite en circulation sur le véhicule de l'établissement, l'accompagnateur étant assis à l'arrière du véhicule. Elle a pour but de mesurer les progrès réalisés par l'élève et d'apporter les conseils nécessaires pour poursuivre la conduite accompagnée dans de bonnes conditions.
 
