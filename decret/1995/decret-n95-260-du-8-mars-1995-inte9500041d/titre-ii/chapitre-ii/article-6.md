@@ -4,7 +4,7 @@ Sont membres de la commission avec voix délibérative :
 
 1. Pour toutes les attributions de la commission :
 
-a) Neuf représentants des services de l'Etat :
+a) Les représentants des services de l'Etat :
 
 -le directeur départemental des affaires sanitaires et sociales ;
 
