@@ -1,10 +1,12 @@
 # Article 4-1
 
-I. - A titre dérogatoire, le plasma frais sécurisé recueilli chez des convalescents rétablis après une maladie à virus Ebola peut être importé, stocké, prescrit, délivré et administré pour le traitement des personnes contaminées par le virus Ebola dans les établissements de santé de référence (ESR) et dans les hôpitaux d'instruction des armées (HIA) figurant sur la liste mise en ligne sur le site du ministère des affaires sociales, de la santé et des droits des femmes.
+I. - A titre dérogatoire, le plasma frais dont la qualification biologique doit être conforme aux exigences définies à l'annexe IV de la directive 2002/98/CE et recueilli chez des convalescents rétablis après une maladie à virus Ebola peut être importé, stocké, distribué prescrit, délivré et administré pour le traitement des personnes contaminées par le virus Ebola dans les établissements de santé de référence (ESR) et dans les hôpitaux d'instruction des armées (HIA) figurant sur la liste mise en ligne sur le site du ministère des affaires sociales, de la santé et des droits des femmes.
 
 Ce plasma peut être utilisé lors d'une évacuation sanitaire de ressortissants dont l'Etat français a la charge.
 
-II. - L'importation et le stockage du plasma mentionné au I peuvent être également effectués par l'Etablissement de préparation et de réponse aux urgences sanitaires, par le Centre de transfusion sanguine des armées ou par l'Etablissement français du sang.
+II. - L'importation, le stockage, la distribution et la délivrance du plasma mentionné au I peuvent être effectués par le Centre de transfusion sanguine des armées ou par l'Etablissement français du sang.
+
+L'importation, le stockage et la distribution du plasma mentionné au I peuvent être également effectués par l'Etablissement de préparation et de réponse aux urgences sanitaires.
 
 L'Etablissement de préparation et de réponse aux urgences sanitaires, le Centre de transfusion sanguine des armées et l'Etablissement français du sang sont chargés, le cas échéant, de l'exportation du plasma mentionné au I.
 
