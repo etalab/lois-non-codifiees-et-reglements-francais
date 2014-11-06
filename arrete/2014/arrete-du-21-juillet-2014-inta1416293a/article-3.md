@@ -8,7 +8,7 @@ a) Représentants de l'administration :
 
 - le directeur des ressources humaines ;
 
-b) Représentants du personnel : 9 membres titulaires et 9 membres suppléants, désignés par les organisations syndicales proportionnellement au nombre de voix obtenues lors de l'élection des représentants du personnel aux comités techniques de proximité des services mentionnés à l'article 1er, à l'exception du haut-commissariat de la République en Polynésie française soumis à l'article 7 du décret du 5 janvier 1968 susvisé ;
+b) Représentants du personnel : 9 membres titulaires et 9 membres suppléants, désignés par les organisations syndicales proportionnellement au nombre de voix obtenues lors de l'élection des représentants du personnel aux comités techniques de proximité des services mentionnés à l'article 1er ;
 
 c) Le médecin-chef, coordonnateur national de la médecine de prévention ;
 
