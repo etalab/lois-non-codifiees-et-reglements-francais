@@ -31,7 +31,7 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 <td>
 <br/>L'officier le plus ancien dans le grade le plus élevé parmi les membres présents.<br/>
 </td>
-<td align="center" valign="middle">
+<td align="center">
 <br/>/ <br/>
 </td>
 <td>
@@ -120,8 +120,9 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 </td>
 </tr>
 <tr>
-<td colspan="4" valign="middle">
-<br/>(1) Ne sont pas visés les groupements chefs-lieux d'implantation des régions de gendarmerie. <br/>
+<td colspan="4">
+<p align="left">
+<br/>(1) Ne sont pas visés les groupements chefs-lieux d'implantation des régions de gendarmerie. </p>
 </td>
 </tr>
 </tbody>
@@ -178,7 +179,8 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 </tr>
 <tr>
 <td colspan="4" valign="middle">
-<br/>(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire  chef d'état-major . <br/>
+<p align="left">
+<br/>(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire : "chef d'état-major". </p>
 </td>
 </tr>
 </tbody>
@@ -331,18 +333,28 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 </tr>
 <tr>
 <td>
-<br/>Personnel servant au sein du pôle judiciaire de la gendarmerie nationale. <br/>
+<p align="left">
+<br/>Personnel servant au sein du pôle judiciaire de la gendarmerie nationale. </p>
 </td>
 <td>
-<br/>Le commandant du pôle judiciaire de la gendarmerie nationale. <br/>
+<p align="left">
+<br/>L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale. </p>
 </td>
 <td>
-<br/>Le commandant en second du pôle judiciaire de la gendarmerie nationale. <br/>
+<p align="left">
+<br/>L'officier supérieur le plus ancien dans le grade le plus élevé du pôle judiciaire de la gendarmerie nationale (1). </p>
 </td>
 <td>
+<p align="left">
 <br/>Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ou le directeur adjoint de l'institut de recherche criminelle de la gendarmerie nationale par suppléance. <br/>
 <br/>Le chef du service technique de recherches judiciaires ou l'adjoint au chef du service technique de recherches judiciaires par suppléance. <br/>
-<br/>Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale. <br/>
+<br/>Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale. </p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="left">
+<br/>(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale. </p>
 </td>
 </tr>
 </tbody>
@@ -370,35 +382,43 @@ La commission d'avancement mentionnée à l'article 4 se compose des officiers d
 </tr>
 <tr>
 <td>
-<br/>Aéronautique, pilotes. <br/>
+<p align="left">
+<br/>Aéronautique, pilotes <br/>
 <br/>Aéronautique, mécaniciens cellules et moteurs. <br/>
 <br/>Aéronautique, mécaniciens avionique. <br/>
-<br/>Aéronautique, opérateurs aérosurveillance et avitailleurs. <br/>
+<br/>Aéronautique, opérateurs aérosurveillance et avitailleurs. </p>
 </td>
 <td>
-<br/>Le commandant des forces aériennes de la gendarmerie nationale. <br/>
+<p align="left">
+<br/>Le commandant des forces aériennes de la gendarmerie nationale. </p>
 </td>
 <td>
-<br/>L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des forces aériennes de la gendarmerie nationale. <br/>
+<p align="left">
+<br/>L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des forces aériennes de la gendarmerie nationale. </p>
 </td>
 <td>
-<br/>Deux officiers supérieurs désignés par le commandant des forces aériennes de la gendarmerie nationale. <br/>
+<p align="left">
+<br/>Deux officiers supérieurs désignés par le commandant des forces aériennes de la gendarmerie nationale. </p>
 </td>
 </tr>
 <tr>
 <td>
+<p align="left">
 <br/>Affaires immobilières. <br/>
 <br/>Montagne. <br/>
-<br/>Systèmes d'information et de communication. <br/>
+<br/>Systèmes d'information et de communication. </p>
 </td>
 <td>
-<br/>Le sous-directeur de la gestion du personnel. <br/>
+<p align="left">
+<br/>Le sous-directeur de la gestion du personnel. </p>
 </td>
 <td>
-<br/>L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. <br/>
+<p align="left">
+<br/>L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. </p>
 </td>
 <td>
-<br/>Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale.<br/>
+<p align="left">
+<br/>Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale.</p>
 </td>
 </tr>
 </tbody>
