@@ -1,0 +1,3 @@
+# Article 3-2
+
+Dans tous les actes autorisant la création de traitements automatisés de données à caractère personnel relatifs à la gestion des ressources humaines concernant des agents de l'Etat, peuvent être destinataires des données requises pour la constitution de listes d'adresses électroniques nominatives professionnelles, pour l'exercice de mandats ou en vue d'une candidature, et dans la limite du besoin d'en connaître, les agents expressément désignés par une organisation syndicale dans les conditions prévues par les dispositions de l'article 3-1 pour utiliser des technologies de l'information et de la communication et certaines données à caractère personnel.
