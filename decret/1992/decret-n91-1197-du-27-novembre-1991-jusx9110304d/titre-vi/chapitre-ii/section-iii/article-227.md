@@ -6,6 +6,6 @@ En ce cas, chaque garant doit avoir été avisé de toutes les conventions pass�
 
 L'ordre dans lequel interviendront les garants en cas de mise en oeuvre de la garantie et le montant maximal de chaque garantie, indiqués dans un document distinct, portent la signature de tous les garants.
 
-Les dispositions du deuxième alinéa sont applicables lorsqu'une garantie complémentaire portant sur une opération déterminée a été consentie par une banque, un établissement de crédit, une entreprise d'assurances ou une société de caution mutuelle autre que celui qui garantit l'ensemble des activités de l'avocat.
+Les dispositions du deuxième alinéa sont applicables lorsqu'une garantie complémentaire portant sur une opération déterminée a été consentie par une banque, un  établissement de crédit, une société de financement, une entreprise d'assurances ou une société de caution mutuelle autre que celui qui garantit l'ensemble des activités de l'avocat.
 
 Dans tous les cas, l'intéressé et le garant doivent informer le bâtonnier par lettre recommandée avec demande d'avis de réception des garanties complémentaires qui ont été consenties et des modalités de leur mise en oeuvre.

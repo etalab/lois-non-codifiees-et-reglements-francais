@@ -10,6 +10,6 @@ b) Intervention en cas d'effondrement de terrils ou de rupture de digues constit
 
 c) Les mesures de remise en état du site après la fin des travaux d'exploitation.
 
-Les garanties financières résultent de l'engagement écrit d'un établissement de crédit ou d'une entreprise d'assurance.
+Les garanties financières résultent de l'engagement écrit d'un établissement de crédit, d'une société de financement ou d'une entreprise d'assurance.
 
 Trois mois au moins avant l'échéance des garanties financières, l'exploitant mentionné au premier alinéa adresse au préfet un document attestant de leur renouvellement.

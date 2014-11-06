@@ -1,6 +1,6 @@
 # Article 19
 
-Lorsque l'établissement de crédit mentionné au septième alinéa de l'article 3 de la loi du 2 janvier 1970 susvisée est une société de caution mutuelle régie par la section III du chapitre V du titre Ier du livre V du code monétaire et financier, cette société a pour objet de garantir :
+Lorsque l'établissement de crédit ou la société de financement mentionné au septième alinéa de l'article 3 de la loi du 2 janvier 1970 susvisée est une société de caution mutuelle régie par la section III du chapitre V du titre Ier du livre V du code monétaire et financier, cette société a pour objet de garantir :
 
 1° Dans les conditions prévues par la loi du 2 janvier 1970 susvisée et par le présent décret, les remboursements ou restitutions des versements ou remises visés à l'article 5 de ladite loi ;
 

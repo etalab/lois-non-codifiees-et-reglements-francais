@@ -18,25 +18,25 @@ Le concessionnaire s'engage à exercer l'ensemble de ses missions à ses frais, 
 
 2. Une convention de concession conclue entre l'autorité concédante et le concessionnaire a pour objet de fixer dans chaque cas le cadre précis des droits et obligations des deux parties. Elle précise notamment :
 
-- la durée de la concession ;
+-la durée de la concession ;
 
-- l'assiette des biens la composant ;
+-l'assiette des biens la composant ;
 
-- la liste des contrats conclus antérieurement par l'autorité concédante ou un autre gestionnaire et dont le concessionnaire poursuit l'exécution ;
+-la liste des contrats conclus antérieurement par l'autorité concédante ou un autre gestionnaire et dont le concessionnaire poursuit l'exécution ;
 
-- le cas échéant et quand elles existent, le montant, les conditions et les modalités du remboursement des avances faites par le précédent gestionnaire ;
+-le cas échéant et quand elles existent, le montant, les conditions et les modalités du remboursement des avances faites par le précédent gestionnaire ;
 
-- le seuil à partir duquel le concessionnaire doit soumettre à l'autorité concédante un dossier d'investissement conformément à l'article 10 du présent cahier des charges ;
+-le seuil à partir duquel le concessionnaire doit soumettre à l'autorité concédante un dossier d'investissement conformément à l'article 10 du présent cahier des charges ;
 
-- les modalités d'exécution des tâches de sûreté ;
+-les modalités d'exécution des tâches de sûreté ;
 
-- les modalités d'exécution des services de la circulation aérienne ;
+-les modalités d'exécution des services de la circulation aérienne ;
 
-- l'obligation s'il y a lieu pour le concessionnaire de l'aérodrome d'élaborer des plans à cinq ans prévus à l'article 2 du présent cahier des charges ;
+-l'obligation s'il y a lieu pour le concessionnaire de l'aérodrome d'élaborer des plans à cinq ans prévus à l'article 2 du présent cahier des charges ;
 
-- les taux des redevances prévues à l'article R. 224-2 du code de l'aviation civile applicables à la date de signature de la convention ;
+-les taux des redevances prévues à l'article R. 224-2 du code de l'aviation civile applicables à la date de signature de la convention ;
 
-- les modalités spécifiques d'application de certains articles du présent cahier des charges, lorsque l'aérodrome n'a pas pour affectataire principal le ministère chargé de l'aviation civile.
+-les modalités spécifiques d'application de certains articles du présent cahier des charges, lorsque l'aérodrome n'a pas pour affectataire principal le ministère chargé de l'aviation civile.
 
 La convention de concession est complétée, s'il y a lieu, par des protocoles destinés à en préciser certaines mesures techniques d'exécution.
 
@@ -54,11 +54,11 @@ Il est remis à jour annuellement.
 
 2. Le plan à cinq ans comprend notamment :
 
-- un échancier prévisionnel de réalisation des dépenses d'investissement ;
+-un échancier prévisionnel de réalisation des dépenses d'investissement ;
 
-- une fiche financière et des budgets prévisionnels traduisant les hypothèses retenues notamment en termes de trafic et d'investissements ;
+-une fiche financière et des budgets prévisionnels traduisant les hypothèses retenues notamment en termes de trafic et d'investissements ;
 
-- les fourchettes d'évolution des principaux ratios financiers.
+-les fourchettes d'évolution des principaux ratios financiers.
 
 Article 3
 
@@ -130,7 +130,7 @@ Contrats ou engagements conclus antérieurement
 
 à l'entrée en vigueur de la présente concession
 
-I. - Engagements antérieurs contractés
+I.-Engagements antérieurs contractés
 
 par l'autorité concédante
 
@@ -138,7 +138,7 @@ Le concessionnaire, du seul fait de l'octroi de la présente concession, est sub
 
 Le concessionnaire prend également à sa charge toutes les responsabilités techniques, administratives et financières découlant pour l'autorité concédante des engagements susvisés, dont il reconnaît avoir pris connaissance.
 
-II. - Engagements antérieurs conclus par un précédent
+II.-Engagements antérieurs conclus par un précédent
 
 concessionnaire ou occupant gestionnaire
 
@@ -154,7 +154,7 @@ Toutefois, si le précédent acte de gestion avait également prévu qu'à son e
 
 3. Le concessionnaire reprend également l'ensemble des éléments de l'actif immobilisé, les stocks.
 
-III. - Cas particulier des avances remboursables
+III.-Cas particulier des avances remboursables
 
 Si le précédent acte de gestion avait prévu qu'à son expiration, l'Etat rembourserait les avances éventuellement faites par le gestionnaire sur ses ressources propres, le concessionnaire peut utiliser dans la mesure convenue avec l'autorité concédante, les ressources de la présente concession pour en rembourser tout ou partie.
 
@@ -168,9 +168,7 @@ Le concessionnaire informe, au moins une fois par an, les collectivités territo
 
 TITRE II
 
-OPÉRATIONS D'ÉQUIPEMENT
-
-ET TRAVAUX D'ENTRETIEN
+OPÉRATIONS D'ÉQUIPEMENT ET TRAVAUX D'ENTRETIEN
 
 Article 8
 
@@ -190,17 +188,17 @@ Ces documents de planification sont approuvés par l'autorité concédante.
 
 Article 9
 
-Régime des travaux. - Principes généraux
+Régime des travaux.-Principes généraux
 
 Tous travaux de création ou de réfection des pistes, voies de circulation, aires de stationnement, tous travaux qui sont soumis à permis de construire, ou toute édification ou modification d'ouvrage ou d'installation doivent, sauf dérogation expresse du ministre chargé de l'aviation civile, être compatibles :
 
-- avec les documents de planification aéroportuaire définis à l'article 8 du présent cahier des charges ;
+-avec les documents de planification aéroportuaire définis à l'article 8 du présent cahier des charges ;
 
-- avec les servitudes aéronautiques et radioélectriques ;
+-avec les servitudes aéronautiques et radioélectriques ;
 
-- avec les surfaces libres d'obstacles ou avec les surfaces d'évaluation d'obstacles relatives aux approches de précision ;
+-avec les surfaces libres d'obstacles ou avec les surfaces d'évaluation d'obstacles relatives aux approches de précision ;
 
-- avec le fonctionnement des équipements radioélectriques de la navigation aérienne.
+-avec le fonctionnement des équipements radioélectriques de la navigation aérienne.
 
 Ils ne doivent pas dégrader les conditions d'exercice du contrôle de la navigation aérienne.
 
@@ -214,11 +212,11 @@ Dossiers d'investissement et avant-projet sommaire de travaux
 
 Le seuil fixé dans la convention correspond :
 
-- soit à un pourcentage du chiffre d'affaires prévu pour la concession l'année de l'engagement des travaux, sans toutefois que celui-ci puisse être supérieur à 20 % ;
+-soit à un pourcentage du chiffre d'affaires prévu pour la concession l'année de l'engagement des travaux, sans toutefois que celui-ci puisse être supérieur à 20 % ;
 
-- soit à un montant absolu ;
+-soit à un montant absolu ;
 
-- soit à une combinaison des deux précédents critères.
+-soit à une combinaison des deux précédents critères.
 
 3. Le dossier d'investissement a pour objet de permettre à l'autorité concédante de vérifier la faisabilité technique et financière de l'opération projetée, l'échéancier de réalisation prévu, d'apprécier l'opportunité d'une éventuelle participation de l'autorité concédante et d'autoriser le lancement des opérations.
 
@@ -268,11 +266,11 @@ Le concessionnaire réalise à ses frais, dans les locaux ainsi déterminés, le
 
 2. Si d'autres locaux sont demandés pour d'autres usages par les administrations intéressées, le concessionnaire n'est tenu de les fournir qu'à condition de recevoir de ces administrations :
 
-- soit une contribution financière couvrant les dépenses d'investissement ou d'aménagement à effectuer, ainsi que les charges d'exploitation y afférentes ;
+-soit une contribution financière couvrant les dépenses d'investissement ou d'aménagement à effectuer, ainsi que les charges d'exploitation y afférentes ;
 
-- soit le paiement d'une redevance d'occupation aux conditions générales et barèmes établis pour les locaux de même nature dans les bâtiments analogues de l'aérodrome ;
+-soit le paiement d'une redevance d'occupation aux conditions générales et barèmes établis pour les locaux de même nature dans les bâtiments analogues de l'aérodrome ;
 
-- soit une composition des deux lorsque la contribution financière précitée couvre partiellement les dépenses d'investissement ou d'aménagement, ainsi que les charges d'exploitation y afférentes.
+-soit une composition des deux lorsque la contribution financière précitée couvre partiellement les dépenses d'investissement ou d'aménagement, ainsi que les charges d'exploitation y afférentes.
 
 Aucune prestation gratuite ne peut être demandée au concessionnaire au titre de ces locaux par les administrations concernées.
 
@@ -296,11 +294,11 @@ L'autorité concédante établit, dans l'intérêt de la circulation aérienne, 
 
 Afin d'assurer la sécurité de la circulation aérienne et la sureté du transport aérien, l'autorité concédante :
 
-- délivre les habilitations et qualifications et contrôle le maintien de l'aptitude professionnelle des personnels chargés des services correspondants ;
+-délivre les habilitations et qualifications et contrôle le maintien de l'aptitude professionnelle des personnels chargés des services correspondants ;
 
-- fixe les normes des matériels à utiliser, autorise la mise en service et s'assure du maintien de la qualité opérationnelle des équipements et installations affectés à cet effet ;
+-fixe les normes des matériels à utiliser, autorise la mise en service et s'assure du maintien de la qualité opérationnelle des équipements et installations affectés à cet effet ;
 
-- délivre les agréments et contrôle le maintien de l'aptitude des unités d'entretien chargées d'assurer la maintenance des équipements et installations affectés à cet effet.
+-délivre les agréments et contrôle le maintien de l'aptitude des unités d'entretien chargées d'assurer la maintenance des équipements et installations affectés à cet effet.
 
 Article 15
 
@@ -318,11 +316,11 @@ par l'autorité concédante
 
 Lorsque l'autorité concédante exécute elle-même l'ensemble des services de la circulation aérienne, elle exécute et finance les tâches aéronautiques suivantes :
 
-- l'achat, l'installation et l'entretien des équipements nécessaires à la fourniture des services de la circulation aérienne, y compris le dispositif de commande du balisage lumineux ;
+-l'achat, l'installation et l'entretien des équipements nécessaires à la fourniture des services de la circulation aérienne, y compris le dispositif de commande du balisage lumineux ;
 
-- l'achat, l'installation et l'entretien des aides radioélectriques à l'atterrissage ;
+-l'achat, l'installation et l'entretien des aides radioélectriques à l'atterrissage ;
 
-- l'achat et l'installation des indicateurs visuels de pente d'approche éventuels, des barres d'arrêt éventuelles et des panneaux d'obligation et d'interdiction.
+-l'achat et l'installation des indicateurs visuels de pente d'approche éventuels, des barres d'arrêt éventuelles et des panneaux d'obligation et d'interdiction.
 
 Article 17
 
@@ -332,11 +330,11 @@ L'assistance météorologique à la navigation aérienne est de la responsabilit
 
 Cette assistance comprend notamment :
 
-- l'observation météorologique sur l'aérodrome et sa diffusion ;
+-l'observation météorologique sur l'aérodrome et sa diffusion ;
 
-- la prévision météorologique pour l'aérodrome et sa diffusion ;
+-la prévision météorologique pour l'aérodrome et sa diffusion ;
 
-- l'assistance météorologique pour les vols au départ de cet aérodrome.
+-l'assistance météorologique pour les vols au départ de cet aérodrome.
 
 Météo-France assure l'élaboration des prévisions. Les modalités selon lesquelles les autres volets de l'assistance météorologique à la navigation aérienne peuvent être assurés par le concessionnaire ou par Météo-France sont fixées par une convention conclue entre le concessionnaire et Météo-France.
 
@@ -358,9 +356,9 @@ aux obligations du cahier des charges
 
 En cas de manquements fautifs par le concessionnaire aux obligations imposées par le présent cahier des charges, l'autorité concédante peut, après une mise en demeure assortie d'un délai approprié à la nature du manquement et à l'urgence d'y remédier :
 
-- soit prescrire toutes mesures conservatoires destinées à assurer provisoirement l'entretien, le renouvellement ou l'exploitation des biens et services concédés ; celles-ci, exécutées directement par l'autorité concédante ou confiées par elle à un tiers, sont réalisées aux frais du concessionnaire ;
+-soit prescrire toutes mesures conservatoires destinées à assurer provisoirement l'entretien, le renouvellement ou l'exploitation des biens et services concédés ; celles-ci, exécutées directement par l'autorité concédante ou confiées par elle à un tiers, sont réalisées aux frais du concessionnaire ;
 
-- soit résilier la concession dans les conditions prévues à l'article 45 du présent cahier des charges.
+-soit résilier la concession dans les conditions prévues à l'article 45 du présent cahier des charges.
 
 SOUS-TITRE II
 
@@ -394,49 +392,49 @@ Modalités d'exécution des tâches aéronautiques
 
 par le concessionnaire
 
-I. - Tâches aéronautiques exécutées dans tous les cas
+I.-Tâches aéronautiques exécutées dans tous les cas
 
 par le concessionnaire
 
 Dans tous les cas, le concessionnaire exécute sous sa seule responsabilité et finance les tâches suivantes :
 
-- l'aménagement et l'entretien des aires de trafic ainsi que l'affectation des postes de stationnement pour les aéronefs et des zones pour le stockage de matériels ; le concessionnaire peut déléguer tout ou partie de l'exécution de ces tâches avec l'accord de l'autorité concédante ;
+-l'aménagement et l'entretien des aires de trafic ainsi que l'affectation des postes de stationnement pour les aéronefs et des zones pour le stockage de matériels ; le concessionnaire peut déléguer tout ou partie de l'exécution de ces tâches avec l'accord de l'autorité concédante ;
 
-- l'achat et l'installation du balisage lumineux et des panneaux d'indication ;
+-l'achat et l'installation du balisage lumineux et des panneaux d'indication ;
 
-- l'entretien du balisage lumineux, des barres d'arrêt éventuelles, des indicateurs visuels de pente d'approche éventuels et des panneaux d'indication, d'obligation et d'interdiction ;
+-l'entretien du balisage lumineux, des barres d'arrêt éventuelles, des indicateurs visuels de pente d'approche éventuels et des panneaux d'indication, d'obligation et d'interdiction ;
 
-- la fourniture d'énergie électrique :
+-la fourniture d'énergie électrique :
 
 a) Au balisage lumineux, aux barres d'arrêt éventuelles, aux indicateurs visuels de pente d'approche éventuels, aux panneaux d'indication, d'obligation et d'interdiction ;
 
 b) Aux équipements nécessaires aux services de la circulation aérienne ainsi qu'aux aides radioélectriques à l'atterrissage. Si l'autorité concédante exécute elle-même l'ensemble des services de la circulation aérienne, la convention de concession prévoit soit des dispositions contraires, soit une participation financière ou en nature de l'autorité concédante, pour l'exécution de cette dernière prestation.
 
-II. - Tâches additionnelles exécutées par le concessionnaire
+II.-Tâches additionnelles exécutées par le concessionnaire
 
 En plus des tâches mentionnées au paragraphe I du présent article :
 
 1. Lorsque l'autorité concédante exécute elle-même l'ensemble des services de la circulation aérienne au bénéfice de l'aérodrome, le concessionnaire exécute, sous la responsabilité de l'autorité concédante, et finance les tâches suivantes :
 
-- la surveillance de l'état de la piste et de ses abords ;
+-la surveillance de l'état de la piste et de ses abords ;
 
-- l'accompagnement des tiers sur l'aire de manoeuvre ;
+-l'accompagnement des tiers sur l'aire de manoeuvre ;
 
-- les mesures de glissance.
+-les mesures de glissance.
 
 2. Lorsque l'autorité concédante n'exécute pas l'ensemble des services de la circulation aérienne au bénéfice de l'aérodrome, le concessionnaire exécute sous sa seule responsabilité et finance les tâches suivantes :
 
-- l'achat, l'installation et l'entretien des équipements nécessaires à la fourniture des services de la circulation aérienne éventuels qui lui sont confiés par l'autorité concédante ;
+-l'achat, l'installation et l'entretien des équipements nécessaires à la fourniture des services de la circulation aérienne éventuels qui lui sont confiés par l'autorité concédante ;
 
-- l'achat, l'installation et l'entretien des aides radioélectriques à l'atterrissage ;
+-l'achat, l'installation et l'entretien des aides radioélectriques à l'atterrissage ;
 
-- l'achat et l'installation des indicateurs visuels de pente d'approche éventuels, des barres d'arrêt éventuelles et des panneaux d'obligation et d'interdiction ;
+-l'achat et l'installation des indicateurs visuels de pente d'approche éventuels, des barres d'arrêt éventuelles et des panneaux d'obligation et d'interdiction ;
 
-- la surveillance de l'état de la piste et de ses abords ;
+-la surveillance de l'état de la piste et de ses abords ;
 
-- l'accompagnement des tiers sur l'aire de manoeuvre ;
+-l'accompagnement des tiers sur l'aire de manoeuvre ;
 
-- les mesures de glissance.
+-les mesures de glissance.
 
 Article 23
 
@@ -444,9 +442,9 @@ Modalités d'exécution des tâches de sécurité et de sûreté
 
 1. Le concessionnaire assure sous sa responsabilité, dans le cadre des mesures édictées par l'Etat et sous le contrôle de celui-ci :
 
-- le service de sécurité incendie et sauvetage ;
+-le service de sécurité incendie et sauvetage ;
 
-- la prévention du péril aviaire.
+-la prévention du péril aviaire.
 
 Pour ces missions, une participation de l'autorité concédante, financière ou en nature, est prévue et précisée par la convention de concession.
 
@@ -454,11 +452,11 @@ Pour ces missions, une participation de l'autorité concédante, financière ou 
 
 a) Les tâches de sûreté incluant :
 
-- les tâches d'exécution des visites de sûreté prévues au b de l'article L. 282-8 du code de l'aviation civile ;
+-les tâches d'exécution des visites de sûreté prévues au b de l'article L. 282-8 du code de l'aviation civile ;
 
-- l'achat, la mise en place, l'entretien, le renouvellement et la mise à niveau des équipements nécessaires à ces visites ;
+-l'achat, la mise en place, l'entretien, le renouvellement et la mise à niveau des équipements nécessaires à ces visites ;
 
-- l'adaptation des installations concédées auxdites visites ;
+-l'adaptation des installations concédées auxdites visites ;
 
 b) L'acquisition, la maintenance et l'exploitation des équipements nécessaires au contrôle automatisé des accès sur l'aéroport.
 
@@ -496,9 +494,9 @@ Le concessionnaire prend toutes les dispositions utiles pour assurer aux entrepr
 
 Dans les conditions et limites découlant de la réglementation en vigueur :
 
-- des entreprises de transport aérien peuvent être autorisées à exploiter de tels services pour leur propre compte ou celui d'autres usagers ;
+-des entreprises de transport aérien peuvent être autorisées à exploiter de tels services pour leur propre compte ou celui d'autres usagers ;
 
-- d'autres prestataires peuvent être autorisés à exploiter de tels services.
+-d'autres prestataires peuvent être autorisés à exploiter de tels services.
 
 Les dispositions réglementaires concernant l'accès au marché de l'assistance en escale n'affectent pas les prérogatives du concessionnaire relatives aux autorisations d'occupation domaniale nécessaires aux entreprises de transport aérien et aux prestataires de service pour l'exercice des services d'assistance en escale.
 
@@ -524,9 +522,9 @@ Actes juridiques du concessionnaire
 
 2. Tout acte excédant le terme normal de la concession doit recevoir, préalablement à sa conclusion, l'accord de l'autorité concédante qui dispose d'un délai d'un mois, à compter de sa notification, pour le faire connaître au concessionnaire.
 
-3. Pour les contrats de crédit-bail, le concessionnaire est tenu d'inscrire ou de faire inscrire dans l'acte conclu auprès de l'établissement crédit-bailleur, une clause spéciale prévoyant pour le crédit preneur, l'obligation de lever l'option d'achat du ou des biens ainsi financés, au plus tard six mois avant le terme de la concession et cela quelles qu'en soient les causes.
+3. Pour les contrats de crédit-bail, le concessionnaire est tenu d'inscrire ou de faire inscrire dans l'acte conclu auprès de l'établissement de crédit ou la société de financement crédit-bailleur, une clause spéciale prévoyant pour le crédit preneur, l'obligation de lever l'option d'achat du ou des biens ainsi financés, au plus tard six mois avant le terme de la concession et cela quelles qu'en soient les causes.
 
-Du fait de cette obligation, le concessionnaire accepte de prendre en charge, sous sa seule responsabilité, tout recours contentieux que l'établissement crédit-bailleur pourrait faire ultérieurement, notamment pour défaut d'information ou pour contester le droit de propriété publique dont dispose l'autorité concédante au terme de la concession.
+Du fait de cette obligation, le concessionnaire accepte de prendre en charge, sous sa seule responsabilité, tout recours contentieux que l'établissement de crédit ou la société de financement crédit-bailleur pourrait faire ultérieurement, notamment pour défaut d'information ou pour contester le droit de propriété publique dont dispose l'autorité concédante au terme de la concession.
 
 Article 28
 
@@ -670,9 +668,9 @@ Renonciation à certaines réclamations
 
 Le concessionnaire ne sera admis à réclamer à l'autorité concédante aucune indemnité en raison :
 
-- soit de l'état des éléments non concédés de l'aérodrome ou de restrictions temporaires à son accès terrestre ou aérien ;
+-soit de l'état des éléments non concédés de l'aérodrome ou de restrictions temporaires à son accès terrestre ou aérien ;
 
-- soit d'une interruption totale ou partielle ou d'une gêne apportée à son exploitation, qui résulterait de travaux entrepris par l'Etat, ou de mesures temporaires d'ordre ou de police prescrites par les autorités compétentes et sous réserve qu'aient été menées en temps voulu les concertations utiles.
+-soit d'une interruption totale ou partielle ou d'une gêne apportée à son exploitation, qui résulterait de travaux entrepris par l'Etat, ou de mesures temporaires d'ordre ou de police prescrites par les autorités compétentes et sous réserve qu'aient été menées en temps voulu les concertations utiles.
 
 Article 43
 
@@ -730,7 +728,7 @@ Cette remise est faite sans indemnité et accompagnée des provisions pour renou
 
 L'estimation de ces biens sera effectuée, à l'amiable ou à dire d'expert, sur la base de leur valeur initiale diminuée de l'amortissement déjà réalisé.
 
-3. A l'expiration de la présente concession et quelles qu'en soient les causes, le concessionnaire sera tenu de remettre à ses frais dans leur état primitif les dépendances de la concession sur lesquels auront été installés ou implantés tous biens meubles ou immeubles classés comme biens propres ou non repris par l'autorité concédante, conformément aux dispositions des articles 3.2, 3.3 et 4 du présent cahier des charges.
+3. A l'expiration de la présente concession et quelles qu'en soient les causes, le concessionnaire sera tenu de remettre à ses frais dans leur état primitif les dépendances de la concession sur lesquels auront été installés ou implantés tous biens meubles ou immeubles classés comme biens propres ou non repris par l'autorité concédante, conformément aux dispositions des articles 3.2,3.3 et 4 du présent cahier des charges.
 
 Le concessionnaire pourra toutefois être dispensé de cette obligation par l'autorité concédante, s'il lui fait abandon pur et simple des biens édifiés.
 
@@ -776,9 +774,9 @@ Si la capacité d'autofinancement moyenne ainsi obtenue donne pour résultat une
 
 Pour le calcul de cette indemnité, on appelle :
 
-- " Capacité d'autofinancement moyenne au terme ", la moyenne arithmétique des capacités d'autofinancement ressortant des cinq derniers comptes exécutés à l'exclusion de la plus élevée et la plus faible de ces valeurs. Ces capacités d'autofinancement sont au préalable corrigées en les diminuant des subventions d'exploitation et en retirant les éléments exceptionnels, produits ou charges ;
+-" Capacité d'autofinancement moyenne au terme ", la moyenne arithmétique des capacités d'autofinancement ressortant des cinq derniers comptes exécutés à l'exclusion de la plus élevée et la plus faible de ces valeurs. Ces capacités d'autofinancement sont au préalable corrigées en les diminuant des subventions d'exploitation et en retirant les éléments exceptionnels, produits ou charges ;
 
-- " Montant des emprunts restant à la charge du concessionnaire ", le capital des emprunts restant dû figurant au bilan de clôture des comptes de la concession, diminué d'une part et le cas échéant, de la part couverte par des conventions de remboursement de ces emprunts au moyen de subventions en provenance de tiers, et augmenté, d'autre part, des intérêts courus non échus correspondants.
+-" Montant des emprunts restant à la charge du concessionnaire ", le capital des emprunts restant dû figurant au bilan de clôture des comptes de la concession, diminué d'une part et le cas échéant, de la part couverte par des conventions de remboursement de ces emprunts au moyen de subventions en provenance de tiers, et augmenté, d'autre part, des intérêts courus non échus correspondants.
 
 Les dispositions qui précèdent n'excluent pas la possibilité pour le concessionnaire d'avoir à l'expiration de la concession un endettement résiduel au-delà de celui couvert par l'indemnité compensatoire, notamment en cas de convention de remboursement des emprunts correspondants conclue entre le concessionnaire et un tiers.
 
@@ -834,9 +832,9 @@ Conformément à l'article 1.2 du cahier des charges, une convention de concessi
 
 est conclue entre :
 
-- d'une part, le ministre chargé de l'aviation civile, agissant au nom de l'Etat et dénommé dans les divers actes de la concession " Autorité concédante " ;
+-d'une part, le ministre chargé de l'aviation civile, agissant au nom de l'Etat et dénommé dans les divers actes de la concession " Autorité concédante " ;
 
-- d'autre part, ,
+-d'autre part,,
 
 représenté par
 
@@ -864,7 +862,7 @@ Contrats transférés au concessionnaire
 
 La liste des contrats et engagements pour lesquels le concessionnaire est subrogé :
 
-(Option 1) au précédent concessionnaire/occupant-gestionnaire ;
+(Option 1) au précédent concessionnaire/ occupant-gestionnaire ;
 
 (Option 2) à l'autorité concédante,
 
@@ -874,7 +872,7 @@ Article 4
 
 Modalités de règlement des avances remboursables (facultatif)
 
-Le montant de  MF, correspondant à des avances
+Le montant de MF, correspondant à des avances
 
 consenties par le concessionnaire dans le cadre du précédent acte de gestion de l'aérodrome, sera prélevé sur les recettes de la présente concession (recettes d'exploitation et recettes en capital) et versé aux autres services du concessionnaire.
 
@@ -884,15 +882,15 @@ Plan à cinq ans (facultatif)
 
 Le concessionnaire est tenu d'établir en concertation avec l'autorité concédante, un plan à cinq ans destiné à définir et proposer :
 
-- le contexte et la situation présente du ou des aérodromes de la concession ;
+-le contexte et la situation présente du ou des aérodromes de la concession ;
 
-- les objectifs généraux de développement ;
+-les objectifs généraux de développement ;
 
-- les objectifs de qualité de service ;
+-les objectifs de qualité de service ;
 
-- divers objectifs financiers et de performance et notamment les volumes annuels maximaux d'emprunts nouveaux liés à ces objectifs ;
+-divers objectifs financiers et de performance et notamment les volumes annuels maximaux d'emprunts nouveaux liés à ces objectifs ;
 
-- la liste des principaux investissements envisagés.
+-la liste des principaux investissements envisagés.
 
 TITRE II
 
@@ -904,15 +902,15 @@ Dossiers d'investissement
 
 Dès lors que le concessionnaire envisage la réalisation d'un projet excédant :
 
-(Option 1)  % du chiffre d'affaires prévu pour la
+(Option 1) % du chiffre d'affaires prévu pour la
 
 concession l'année de l'engagement des travaux ;
 
-(Option 2)  francs ;
+(Option 2) francs ;
 
-(Option 3)  % du chiffre d'affaires prévu pour la
+(Option 3) % du chiffre d'affaires prévu pour la
 
-concession l'année de l'engagement des travaux et  francs,
+concession l'année de l'engagement des travaux et francs,
 
 un dossier d'investissement doit être transmis pour approbation à l'autorité concédante conformément aux dispositions de l'article 10 du cahier des charges.
 
@@ -922,7 +920,7 @@ Exécution des tâches aéronautiques
 
 (Option 1) Dans le cadre de la présente concession, l'ensemble des services de la circulation aérienne sont exécutés par l'autorité concédante.
 
-Dès lors, la répartition matérielle et financière de ces missions entre l'autorité concédante et le concessionnaire s'effectue conformément aux dispositions prévues dans les articles 16, 22-I et 22-II (1°) du cahier des charges.
+Dès lors, la répartition matérielle et financière de ces missions entre l'autorité concédante et le concessionnaire s'effectue conformément aux dispositions prévues dans les articles 16,22-I et 22-II (1°) du cahier des charges.
 
 (Option 2) Dans le cadre de la présente concession, l'autorité concédante n'exécute pas l'ensemble des services de la circulation aérienne.
 
@@ -946,7 +944,7 @@ Le concessionnaire exécute les missions suivantes :
 
 L'Etat contribue à ces activités sous la forme suivante :
 
-2. A compter du  (date), le concessionnaire exécute
+2. A compter du (date), le concessionnaire exécute
 
 l'ensemble des missions prévue à l'article 23.2 du cahier des charges.
 
@@ -980,11 +978,11 @@ Article 12
 
 Redevance domaniale
 
-Le concessionnaire verse à la caisse du receveur local des impôts de ,
+Le concessionnaire verse à la caisse du receveur local des impôts de,
 
 une redevance annuelle due au titre de son occupation des terrains concédés.
 
-Le premier terme d'un montant de  francs sera payé
+Le premier terme d'un montant de francs sera payé
 
 dans le mois qui suit la publication de l'arrêté approuvant la présente convention de concession.
 
@@ -1006,7 +1004,7 @@ Article 14
 
 Durée
 
-La durée de la concession est fixée à  ans, à compter
+La durée de la concession est fixée à ans, à compter
 
 de la date de publication de l'arrêté interministériel approuvant le cahier des charges et la présente convention de concession au Journal officiel de la République française.
 
@@ -1060,9 +1058,9 @@ ANNEXES À LA CONVENTION DE CONCESSION TYPE APPLICABLE
 
 AUX CONCESSIONS AÉROPORTUAIRES
 
-I. - Situation administrative.
+I.-Situation administrative.
 
-II. - Plan de la concession ; liste des biens la composant :
+II.-Plan de la concession ; liste des biens la composant :
 
 Biens de retour ;
 
@@ -1070,6 +1068,6 @@ Biens de reprise ;
 
 Biens propres.
 
-III. - Liste des contrats et engagements antérieurs repris par le concessionnaire.
+III.-Liste des contrats et engagements antérieurs repris par le concessionnaire.
 
-IV. - Protocoles.
+IV.-Protocoles.
