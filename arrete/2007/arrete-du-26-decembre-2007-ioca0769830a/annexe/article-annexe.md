@@ -230,7 +230,7 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Secrétariat général pour l'administration de la police :</p>
+<p align="left">Secrétariat général pour l'administration du ministère de l'intérieur :</p>
 </td>
 <td align="center">
 <br/>
@@ -238,26 +238,26 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Zone de défense Sud</p>
+<p align="left">Zone de défense et de sécurité Sud</p>
 </td>
 <td align="center">
-<p align="left">Directeur des personnels et des relations sociales. </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Zone de défense Ouest</p>
-</td>
-<td align="center">
-<p align="left">Directeurs des ressources humaines. </p>
+<p align="left">Directeur des ressources humaines.</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Zone de défense Sud-Est</p>
+<p align="left">Zone de défense et de sécurité Ouest</p>
 </td>
 <td align="center">
-<p align="left">Directeurs des ressources humaines. </p>
+<p align="left">Directeur des ressources humaines. </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Zone de défense et de sécurité Sud-Est</p>
+</td>
+<td align="center">
+<p align="left">Directeur des ressources humaines. </p>
 </td>
 </tr>
 </tbody>

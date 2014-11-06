@@ -10,7 +10,9 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <td colspan="3">LOCALISATION DE L'EMPLOI </td>
 </tr>
 <tr>
-<td colspan="3">Conseillers d'administration de l'intérieur et de l'outre-mer exerçant dans les directions et services d'administration centrale du ministère de l'intérieur et du ministère des outre-mer et dans les établissements publics relevant de la tutelle administrative des mêmes ministres les fonctions suivantes </td>
+<td colspan="3">
+<p align="center">Conseillers d'administration de l'intérieur et de l'outre-mer exerçant dans les directions et services d'administration centrale du ministère de l'intérieur et du ministère des outre-mer et dans les établissements publics relevant de la tutelle administrative des mêmes ministres les fonctions suivantes </p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -482,14 +484,26 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Service de l'achat, des équipements et de la logistique de la sécurité intérieure. <br/>
+<td align="left" valign="top">
+<p align="left">Service de l'achat, des équipements et de la logistique de la sécurité intérieure.</p>
 </td>
-<td align="left">
-<br/>Chef du bureau de la maintenance des équipements. <br/>
+<td align="left" valign="top">
+<p align="left">Chef du bureau de la maintenance des équipements.</p>
 </td>
-<td align="center">
-<br/>30<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Institut national de police scientifique. </p>
+</td>
+<td>
+<p align="left">Secrétaire général. </p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>

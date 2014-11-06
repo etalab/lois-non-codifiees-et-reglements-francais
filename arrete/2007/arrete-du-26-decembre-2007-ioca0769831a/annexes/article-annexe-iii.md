@@ -337,6 +337,20 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">59</p>
+</td>
+<td>
+<p align="left">Nord.</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="center">67</p>
 </td>
@@ -413,13 +427,12 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </table>
 
 <div align="left">.</div>
-<div align="left">
 
 <table>
 <tbody>
 <tr>
 <td colspan="4">
-<p align="center">CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL<br/>dans la structure de formation de police suivante</p>
+<p align="center">CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER<br/>exercant des fonctions de secrétaire général ou autres fonctions d'encadrement ou d'expertise<br/>requérant une haute technicité et d'une importance particulière au sein des structures de formation de police suivantes </p>
 </td>
 </tr>
 <tr>
@@ -427,10 +440,10 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <p align="center">Localisation de l'emploi</p>
 </td>
 <td>
-<p align="center">Nombre d'emplois</p>
+<p align="center">Fonctions</p>
 </td>
 <td>
-<p align="center">Nombre de points NBI</p>
+<p align="center">Points NBI</p>
 </td>
 </tr>
 <tr>
@@ -438,28 +451,42 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 <p align="center">63 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Institut national de la formation<br/>de Clermont-Ferrand.</p>
+<p align="left">Institut national de la formation de Clermont-Ferrand.</p>
 </td>
 <td align="left" valign="top">
-<p align="center">1</p>
+<p align="left">Secrétaire général.</p>
 </td>
 <td align="left" valign="top">
 <p align="center">30</p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="center">69 </p>
 </td>
-<td>Ecole nationale supérieure de la police. </td>
-<td>
-<p align="center">1</p>
+<td align="left" valign="top">
+<p align="left">Ecole nationale supérieure de la police. </p>
 </td>
-<td>
+<td align="left" valign="top">
+<p align="left">Secrétaire général. </p>
+</td>
+<td align="left" valign="top">
 <p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">30</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ecole nationale de police de Nîmes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation interrégionale au recrutement et à la formation de la zone Sud.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">20</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
