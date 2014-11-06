@@ -2,35 +2,37 @@
 
 Le numérateur du coefficient de liquidité est composé de la somme des éléments suivants :
 
-S'agissant des opérations interbancaires :
+S'agissant des opérations interbancaires et avec des sociétés de financement :
 
 1. Les avoirs en caisse ;
 
-2. Le solde, lorsqu'il est débiteur, des comptes à vue débiteurs et des comptes à vue créditeurs ouverts auprès d'une banque centrale de l'Eurosystème ;
+2. Pour les établissements de crédit, le solde, lorsqu'il est débiteur, des comptes à vue débiteurs et des comptes à vue créditeurs ouverts auprès d'une banque centrale de l'Eurosystème ;
 
-3. Le solde, lorsqu'il est débiteur, des prêts et emprunts au jour le jour et ayant au plus un mois à courir auprès d'une banque centrale de l'Eurosystème autres que les prêts et emprunts liés à des opérations de politique monétaire d'une banque centrale de l'Eurosystème ;
+3. Pour les établissements de crédit, le solde, lorsqu'il est débiteur, des prêts et emprunts au jour le jour et ayant au plus un mois à courir auprès d'une banque centrale de l'Eurosystème autres que les prêts et emprunts liés à des opérations de politique monétaire d'une banque centrale de l'Eurosystème ;
 
-4. Le montant des actifs affectés en garantie auprès d'une banque centrale de l'Eurosystème dans la limite du montant qui peut être mobilisé auprès de cette banque centrale conformément à l'orientation de la Banque centrale européenne susvisée et non encore effectivement mobilisés ;
+4. Pour les établissements de crédit, le montant des actifs affectés en garantie auprès d'une banque centrale de l'Eurosystème dans la limite du montant qui peut être mobilisé auprès de cette banque centrale conformément à l'orientation de la Banque centrale européenne susvisée et non encore effectivement mobilisés ;
 
-5. 50 % des encours de créances privées éligibles auprès d'une banque centrale de l'Eurosystème, libres de tout engagement et non encore affectées en garantie auprès d'une banque centrale de l'Eurosystème ;
+5. Pour les établissements de crédit, 50 % des encours de créances privées éligibles auprès d'une banque centrale de l'Eurosystème, libres de tout engagement et non encore affectées en garantie auprès d'une banque centrale de l'Eurosystème ;
 
 6. Lorsqu'il est débiteur, le solde des comptes à vue débiteurs et des comptes à vue créditeurs ouverts auprès des banques centrales n'appartenant pas à l'Eurosystème, des établissements de crédit agréés en France, dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, des établissements de crédit reconnus de pays tiers ainsi qu'auprès de la Caisse des dépôts et consignations ;
 
-7. Lorsqu'il est débiteur, le solde entre les prêts et emprunts au jour le jour aux banques centrales n'appartenant pas à l'Eurosystème, aux établissements de crédit agréés en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, aux établissements de crédit reconnus de pays tiers ainsi qu'à la Caisse des dépôts et consignations ;
+7. Lorsqu'il est débiteur, le solde entre les prêts et emprunts au jour le jour aux banques centrales n'appartenant pas à l'Eurosystème, aux établissements de crédit agréés en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, aux établissements de crédit reconnus de pays tiers, aux sociétés de financement, ainsi qu'à la Caisse des dépôts et consignations ;
 
-8. Lorsqu'il est débiteur, le solde entre les prêts et emprunts ayant au plus un mois à courir aux banques centrales n'appartenant pas à l'Eurosystème, aux établissements de crédit agréés en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, aux établissements de crédit reconnus de pays tiers ainsi qu'à la Caisse des dépôts et consignations ;
+8. Lorsqu'il est débiteur, le solde entre les prêts et emprunts ayant au plus un mois à courir aux banques centrales n'appartenant pas à l'Eurosystème, aux établissements de crédit agréés en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, aux établissements de crédit reconnus de pays tiers, aux sociétés de financement, ainsi qu'à la Caisse des dépôts et consignations ;
 
 9. Le cas échéant, le solde débiteur entre les titres financiers à livrer et les titres financiers à recevoir dans le mois à venir, à l'exclusion des opérations visées au point 27 du présent article ;
 
 10. Lorsqu'il est prêteur, le solde des comptes de recouvrement ;
 
-11. Le cas échéant, 80 % de l'excédent des accords de refinancement, d'une validité minimale de six mois, reçus d'établissements soumis à la présente réglementation, d'autres établissements de crédit agréés dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et d'établissements de crédit reconnus de pays tiers, sur les accords de refinancement donnés à des établissements de même nature, lorsque ces accords sont contractés avec des établissements n'appartenant pas au même groupe au sens du règlement n° 2000-03 susvisé ou au même réseau que l'établissement assujetti ;
+11. Le cas échéant, 80 % de l'excédent des accords de refinancement, d'une validité minimale de six mois, reçus d'entreprises soumises à la présente réglementation, d'autres établissements de crédit agréés dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et d'établissements de crédit reconnus de pays tiers, sur les accords de refinancement donnés à des entreprises de même nature, lorsque ces accords sont contractés avec des entreprises n'appartenant pas au même groupe au sens du règlement n° 2000-03 susvisé ou au même réseau que l'entreprise assujettie ;
 
-12. Le cas échéant, l'excédent des accords de refinancement, d'une validité minimale de six mois, reçus d'établissements soumis à la présente réglementation, d'autres établissements de crédit agréés dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et d'établissements de crédit reconnus de pays tiers, sur les accords de refinancement donnés à des établissements de même nature, lorsque ces accords sont contractés avec des établissements appartenant au même groupe au sens du règlement n° 2000-03 susvisé ou au même réseau que l'établissement assujetti ;
+12. Le cas échéant, l'excédent des accords de refinancement, d'une validité minimale de six mois, reçus d'entreprises soumises à la présente réglementation, d'autres établissements de crédit agréés dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et d'établissements de crédit reconnus de pays tiers, sur les accords de refinancement donnés à des entreprises de même nature, lorsque ces accords sont contractés avec des entreprises appartenant au même groupe au sens du règlement n° 2000-03 susvisé ou au même réseau que l'entreprise assujettie ;
 
 S'agissant des opérations avec la clientèle :
 
 13. 75 % de la partie des concours ayant au plus un mois à courir, consentis pour une durée initiale inférieure ou égale à un an et revêtant la forme de crédits à la clientèle, d'opérations de crédit-bail, de location avec option d'achat et de location simple ;
+
+13 bis. 85 % de la partie des créances professionnelles cédées en vertu d'un contrat d'affacturage, diminuée des comptes d'affacturage indisponibles correspondants, ayant au plus un mois à courir, consenties pour une durée initiale inférieure ou égale à un an ;
 
 14. 100 % de la partie des autres concours ayant au plus un mois à courir consentis sous forme de crédits à la clientèle, d'opérations de crédit-bail, de location avec option d'achat et de location simple ;
 
@@ -38,7 +40,7 @@ S'agissant des opérations avec la clientèle :
 
 16. 15 % des billets et des créances hypothécaires libres de tout engagement ayant plus d'un mois à courir ;
 
-17. Le cas échéant, 70 % de l'excédent des accords de refinancement d'une validité minimale d'un an reçus d'entités autres que celles soumises à la présente réglementation, autres que les établissements de crédit agréés dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et autres que les établissements de crédit reconnus de pays tiers, sur les accords de refinancement donnés à des entités de même nature, lorsque ces accords sont contractés avec des entités appartenant au même groupe que l'établissement assujetti dans les conditions définies à l'article 14 du présent arrêté ;
+17. Le cas échéant, 70 % de l'excédent des accords de refinancement d'une validité minimale d'un an reçus d'entités autres que celles soumises à la présente réglementation, autres que les établissements de crédit agréés dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen et autres que les établissements de crédit reconnus de pays tiers, sur les accords de refinancement donnés à des entités de même nature, lorsque ces accords sont contractés avec des entités appartenant au même groupe que l'entreprise assujettie dans les conditions définies à l'article 14 du présent arrêté ;
 
 S'agissant des opérations sur titres financiers :
 
@@ -56,7 +58,7 @@ S'agissant des opérations sur titres financiers :
 
 24. 80 % des titres de capital et des instruments équivalents émis sur le fondement de droits étrangers négociables sur un marché actif au sens de l'article 2 a du règlement n° 90-01 susvisé ;
 
-25. 100 % des parts ou actions des organismes de placement collectif en valeurs mobilières dits « monétaires » tels que définis par l'instruction de l'Autorité des marchés financiers susvisée ;
+25. 100 % des parts ou actions des organismes de placement collectif en valeurs mobilières dits  monétaires  tels que définis par l'instruction de l'Autorité des marchés financiers susvisée ;
 
 26. 80 % des parts ou actions des autres organismes de placement collectif en valeurs mobilières et des instruments équivalents émis sur le fondement de droits étrangers, dès lors qu'ils sont négociables sur un marché actif au sens de l'article 2 a du règlement n° 90-01 susvisé ;
 

@@ -8,7 +8,7 @@ Les fonctions d'animation peuvent être exercées dans les séjours de vacances,
 
 - Brevet d'Etat d'animateur technicien de l'éducation populaire et de la jeunesse (BEATEP) ;
 
-- Brevet d'aptitude professionnelle d'assistant animateur technicien (BAPAAT), option loisirs du jeune et de l'enfant ;
+- Brevets d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports (BAPAAT) ;
 
 - Certificat de qualification professionnelle premier degré de l'animation ;
 
@@ -28,4 +28,10 @@ Les fonctions d'animation peuvent être exercées dans les séjours de vacances,
 
 - Certificat de qualification professionnelle animateur périscolaire.
 
-- Brevet de technicien supérieur agricole option " gestion et protection de la nature ".
+- Brevet de technicien supérieur agricole option "gestion et protection de la nature" ;
+
+- Diplôme d'animateur de section de jeunes sapeurs pompiers ;
+
+- Diplôme d'Etat de moniteur éducateur (DEME) ;
+
+- Diplôme universitaire de musicien intervenant (DUMI).

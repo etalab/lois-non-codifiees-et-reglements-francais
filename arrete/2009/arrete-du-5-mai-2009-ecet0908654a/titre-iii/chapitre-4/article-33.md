@@ -1,9 +1,5 @@
 # Article 33
 
-Peuvent être exclus du périmètre de gestion visé à l'article 31 les établissements de crédit dont l'établissement démontre qu'ils disposent d'une autonomie de mesure, d'analyse et de gestion opérationnelle de leur risque de liquidité.
+Les méthodologies internes permettent d'identifier, mesurer, gérer et contrôler, à l'aide d'indicateurs et de limites et selon des hypothèses suffisamment prudentes, les flux entrants et sortants, tant certains que probables, résultant de l'ensemble des éléments d'actifs, de passifs et de hors-bilan, notamment des engagements envers des entités ad hoc au sens du paragraphe 10052 de l'annexe du règlement du Comité de la réglementation comptable n° 99-07 susvisé, ou des entités équivalentes au sens des normes IFRS, vis-à-vis desquelles l'entreprise assujettie agit comme sponsor au sens du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 ou auxquelles elle apporte un soutien significatif en liquidité.
 
-Lorsqu'un établissement agréé en France est exclu du périmètre de gestion d'un établissement assujetti, il est lui-même soumis soit à la méthode avancée, soit à la méthode standard.
-
-Afin d'assurer un suivi global de la situation de liquidité du groupe, l'établissement intègre cependant dans ses méthodologies internes les besoins de liquidité pouvant émaner des entités exclues du périmètre de gestion mentionné à l'article 31.
-
-Il décrit les modalités de prise en compte, en cas de crise, des besoins de liquidité pouvant émaner de ces entités.
+Ces méthodologies prennent en compte la matérialisation éventuelle d'un risque de réputation résultant notamment du risque de non-conformité au sens du règlement n° 97-02 susvisé.

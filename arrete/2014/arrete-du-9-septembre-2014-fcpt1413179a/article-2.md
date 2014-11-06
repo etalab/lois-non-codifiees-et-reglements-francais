@@ -8,4 +8,4 @@ Le contrôle permanent des établissements assujettis s'assure que la formation 
 
 Le contrôle permanent des établissements s'assure enfin que les rémunérations des personnes chargées de ces opérations sont fixées de façon cohérente avec les règles d'organisation et de fonctionnement assignées aux unités internes mentionnées aux points a à f du 1° du I de l'article L. 511-47 susmentionné et n'encouragent pas la prise de risque sans lien avec leurs objectifs.
 
-Les dispositifs de contrôle permanent relatifs aux quatre alinéas précédents ainsi que les résultats de ceux-ci sont inclus dans le rapport prévu aux articles 42 et 43 du règlement du comité de la réglementation bancaire et financière n° 97-02 du 21 février 1997 susvisé.
+Les dispositifs de contrôle permanent relatifs aux quatre alinéas précédents ainsi que les résultats de ceux-ci sont inclus dans le rapport prévu aux articles 258 à 264 de l'arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des services de paiement et des services d'investissement soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution.

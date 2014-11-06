@@ -1,5 +1,5 @@
 # TITRE IV : DISPOSITIONS FINALES ET TRANSITOIRES
 
-- [Article 57](article-57.md)
-- [Article 58](article-58.md)
-- [Article 59](article-59.md)
+- [Article 37](article-37.md)
+- [Article 38](article-38.md)
+- [Article 39](article-39.md)

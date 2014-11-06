@@ -1,7 +1,9 @@
 # Article 32
 
-L'établissement élabore une cartographie de ce périmètre et justifie des différences existant entre le périmètre de gestion du risque de liquidité et le périmètre de consolidation comptable au sens du règlement du Comité de la réglementation comptable n° 99-07 susvisé ou des normes IFRS. Il indique en particulier comment il assure un suivi global de la situation de liquidité du groupe, notamment en cas de crise de liquidité.
+Peuvent être exclus du périmètre de gestion visé à l'article 30 les établissements de crédit et les sociétés de financement dont l'entreprise assujettie démontre qu'ils disposent d'une autonomie de mesure, d'analyse et de gestion opérationnelle de leur risque de liquidité.
 
-Cette cartographie met en évidence les éventuels besoins et apports de liquidités de chaque entité juridique et de chaque ligne d'activités ainsi que les modalités de collecte et de transmission d'informations relatives à la situation de liquidité de ces entités.
+Lorsqu'un établissement de crédit ou une société de financement agréé en France est exclu du périmètre de gestion d'une entreprise assujettie, il est lui-même soumis soit à la méthode avancée, soit à la méthode standard.
 
-Cette cartographie met en évidence les obstacles législatifs, réglementaires ou opérationnels qui peuvent entraver de façon significative le transfert de fonds et d'actifs ou le remboursement des passifs au sein du périmètre de gestion visé à l'article 31.
+Afin d'assurer un suivi global de la situation de liquidité du groupe, l'entreprise assujettie intègre cependant dans ses méthodologies internes les besoins de liquidité pouvant émaner des entités exclues du périmètre de gestion mentionné à l'article 30.
+
+Elle décrit les modalités de prise en compte, en cas de crise, des besoins de liquidité pouvant émaner de ces entités.
