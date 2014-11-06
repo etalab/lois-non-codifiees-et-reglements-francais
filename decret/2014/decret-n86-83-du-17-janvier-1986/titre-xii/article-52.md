@@ -8,4 +8,8 @@ Toutefois l'indemnité de licenciement n'est pas due à l'agent qui remplit les 
 
 3° A atteint l'âge d'ouverture du droit à une pension de retraite mentionné à l'article L. 161-17-2 du code de la sécurité sociale et justifie de la durée d'assurance, tous régimes de retraite de base confondus, exigée pour obtenir la liquidation d'une retraite au taux plein du régime général de la sécurité sociale ;
 
-4° Est démissionnaire de ses fonctions.
+4° Est démissionnaire de ses fonctions ;
+
+5° Est reclassé selon les dispositions fixées au c du 3° de l'article 17 ou au III de l'article 45-5 ;
+
+6° Accepte une modification de son contrat dans les conditions fixées à l'article 45-4.

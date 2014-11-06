@@ -4,6 +4,6 @@ Le montant du traitement servi pendant une période de congé de maladie, de gra
 
 Pour ces congés, un contrôle pourra être effectué à tout moment par un médecin agréé de l'administration.
 
-Si les conclusions du médecin agréé donnent lieu à contestation dans les cas prévus aux articles 3, 12, 14, 15, 16 et 17, le comité médical peut être saisi dans les conditions prévues par la réglementation en vigueur pour les fonctionnaires titulaires.
+Si les conclusions du médecin agréé donnent lieu à contestation dans les cas prévus aux articles 3, 12, 14, 15, 16 et 17, le comité médical peut être saisi dans les conditions prévues par la réglementation en vigueur pour les fonctionnaires titulaires. Cette saisine ne proroge pas la durée du contrat à durée déterminée.
 
 Pour l'application de l'article 13, le comité médical supérieur peut être saisi dans les conditions prévues par la réglementation en vigueur pour les fonctionnaires titulaires.
