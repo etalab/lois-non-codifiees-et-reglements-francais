@@ -1,0 +1,3 @@
+# Article 95
+
+Les entreprises assujetties, les compagnies financières holding et les entreprises mères de société de financement mentionnées à l'article 8 disposent également, sur base consolidée ou, le cas échéant, sous-consolidée, de systèmes de mesure adaptés à la nature et au volume de leurs opérations leur permettant d'appréhender les risques de crédit et de contrepartie, résiduel, de concentration, de marché, de taux d'intérêt global, de base, d'intermédiation, de règlement-livraison, de liquidité, de titrisation, de levier excessif, ainsi que les risques systémiques, les risques liés au modèle et le risque opérationnel.

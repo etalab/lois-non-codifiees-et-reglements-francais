@@ -1,0 +1,11 @@
+# Article 16
+
+I. - Les établissements de crédit conventionnés pour consentir les prêts prévus à l'article 1er du décret n° 2000-88 du 1er février 2000 susvisé qui ont opté pour un agrément en tant que société de financement, conformément au II de l'article 34 de l'ordonnance n° 2013-544 du 27 juin 2013 relative aux établissements de crédit et aux sociétés de financement, restent soumis aux dispositions de ce décret pour les prêts consentis avant le 31 décembre 2001.
+
+II. - Les établissements de crédit conventionnés pour consentir les prêts prévus à l'article 1er du décret n° 2000-251 du 16 mars 2000 susvisé qui ont opté pour un agrément en tant que société de financement, conformément au II de l'article 34 de l'ordonnance n° 2013-544 du 27 juin 2013 relative aux établissements de crédit et aux sociétés de financement, restent soumis aux dispositions de ce décret pour les prêts consentis avant le 31 décembre 2001.
+
+III. - Les établissements de crédit conventionnés pour consentir les prêts prévus à l'article 5 du décret n° 2009-542 du 15 mai 2009 susvisé qui ont opté pour un agrément en tant que société de financement, conformément au II de l'article 34 de l'ordonnance n° 2013-544 du 27 juin 2013 relative aux établissements de crédit et aux sociétés de financement, restent soumis aux dispositions de ce décret pour les prêts consentis avant le 31 décembre 2010.
+
+IV. - Les établissements de crédit conventionnés pour consentir les prêts prévus à l'article 1er du décret n° 2009-543 du 15 mai 2009 susvisé qui ont opté pour un agrément en tant que société de financement, conformément au II de l'article 34 de l'ordonnance n° 2013-544 du 27 juin 2013 relative aux établissements de crédit et aux sociétés de financement, restent soumis aux dispositions de ce décret pour les prêts consentis avant le 31 décembre 2010.
+
+V. - Les établissements de crédit conventionnés pour consentir les prêts prévus à l'article 1er du décret n° 2009-544 du 15 mai 2009 susvisé qui ont opté pour un agrément en tant que société de financement, conformément au II de l'article 34 de l'ordonnance n° 2013-544 du 27 juin 2013 relative aux établissements de crédit et aux sociétés de financement, restent soumis aux dispositions de ce décret pour les prêts consentis avant le 31 décembre 2010.

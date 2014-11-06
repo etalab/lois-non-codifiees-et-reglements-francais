@@ -1,0 +1,3 @@
+# Article 41
+
+Lorsque l'article 39 s'applique et qu'une entreprise assujettie fait partie d'un groupe ou d'un sous-groupe auquel appartient un établissement d'importance systémique mondiale ou un autre établissement d'importance systémique, l'exigence globale de coussin de fonds propres qui s'applique, sur base individuelle, à l'entreprise assujettie ne peut être inférieure à la somme du coussin de conservation de fonds propres, du coussin de fonds propres contra-cyclique et du montant le plus élevé du coussin pour les autres établissements d'importance systémique ou du coussin pour le risque systémique défini au dernier alinéa du même article.

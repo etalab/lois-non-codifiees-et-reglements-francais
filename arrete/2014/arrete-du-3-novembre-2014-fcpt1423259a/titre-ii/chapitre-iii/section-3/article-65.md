@@ -1,0 +1,3 @@
+# Article 65
+
+Quand les entreprises assujetties recourent à des agents, dans les conditions du I de l'article L. 523-1 du code monétaire et financier, ou à des personnes en vue de distribuer, pour leur compte, de la monnaie électronique, dans les conditions posées aux articles L. 525-8 et suivants du même code, des procédures spécifiques prévoient les modalités de mise en œuvre des obligations de vigilance prévues par le code monétaire et financier et les conditions dans lesquelles ces agents et personnes leur transmettent toute information utile à la lutte contre le blanchiment des capitaux et le financement du terrorisme.

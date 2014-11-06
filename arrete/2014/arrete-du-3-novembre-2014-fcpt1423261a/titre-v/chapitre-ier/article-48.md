@@ -1,0 +1,7 @@
+# Article 48
+
+Lorsque le taux de coussin pour le risque systémique doit être fixé à un taux compris entre 3 et 5 % conformément au I de l'article 47, le Haut Conseil de stabilité financière le notifie à la Commission européenne. Les mesures concernées ne peuvent être adoptées qu'après avis de la Commission européenne.
+
+Lorsque la Commission européenne émet un avis défavorable, le Haut Conseil de stabilité financière s'y conforme ou explique les raisons pour lesquelles il ne s'y conforme pas.
+
+Lorsqu'un sous-ensemble du secteur financier est une filiale dont l'entreprise mère est établie dans un autre Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen, le Haut Conseil de stabilité financière notifie le taux du coussin pour le risque systémique aux autorités de cet Etat, à la Commission européenne et au Comité européen du risque systémique, qui formulent une recommandation sur ce taux. En cas de désaccord des autorités de l'Etat concerné et de recommandation défavorable à la fois de la Commission et du Comité européen du risque systémique, le Haut Conseil de stabilité financière peut saisir l'Autorité bancaire européenne conformément à l'article 19 du règlement (UE) n° 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 susvisé. Dans cette hypothèse, le Haut Conseil de la stabilité financière suspend sa décision dans l'attente de celle de l'Autorité bancaire européenne.

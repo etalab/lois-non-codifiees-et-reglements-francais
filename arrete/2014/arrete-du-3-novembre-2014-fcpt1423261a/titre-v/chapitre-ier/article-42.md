@@ -1,0 +1,3 @@
+# Article 42
+
+Lorsque l'article 40 s'applique et qu'une entreprise assujettie fait partie d'un groupe ou d'un sous-groupe dans lequel l'entreprise mère se voit appliquer, sur base consolidée, l'exigence de coussin applicable aux établissements d'importance systémique mondiale ou celle applicable aux autres établissements d'importance systémique, l'exigence globale de coussin de fonds propres de cette entreprise ne peut être inférieure à la somme du coussin de conservation de fonds propres, du coussin de fonds propres contra-cyclique et de la somme du coussin pour les autres établissements d'importance systémique et du coussin pour le risque systémique qui lui sont applicables sur base individuelle.

@@ -1,0 +1,3 @@
+# Article 12
+
+Lorsqu'en application du cinquième alinéa de l'article L. 511-41-1 C ou du cinquième alinéa de l'article L. 533-2-3 du code monétaire et financier, l'Autorité de contrôle prudentiel et de résolution applique les dispositions de ces articles de manière analogue ou identique à des entreprises mentionnées à l'article 1er, à l'exception des sociétés de financement et des entreprises mères de société de financement, présentant des profils de risque analogues en raison de la similitude de leurs modèles d'entreprise ou de la localisation géographique de leurs expositions, elle en informe l'Autorité bancaire européenne.

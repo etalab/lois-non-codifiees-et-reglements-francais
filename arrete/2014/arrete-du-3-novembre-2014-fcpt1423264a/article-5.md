@@ -1,0 +1,3 @@
+# Article 5
+
+Lorsqu'une compagnie financière holding ou une compagnie financière holding mixte, ayant son siège social dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, autre que la France, n'a pas de filiale agréée en qualité d'établissement de crédit ou d'entreprise d'investissement, autre qu'une société de gestion de portefeuille, dans cet Etat mais en a une en France, elle est soumise à la surveillance sur base consolidée de l'Autorité de contrôle prudentiel et de résolution dans le cas où cette filiale a le total de bilan le plus élevé parmi toutes les filiales de cette compagnie également agréées en qualité d'établissement de crédit ou d'entreprise d'investissement, autre qu'une société de gestion de portefeuille.

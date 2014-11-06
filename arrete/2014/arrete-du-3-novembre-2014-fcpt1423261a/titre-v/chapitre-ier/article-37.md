@@ -1,0 +1,3 @@
+# Article 37
+
+En application du 4° bis de l'article L. 631-2-1 du code monétaire et financier, le Haut Conseil de stabilité financière peut imposer pour le secteur financier ou pour un ou plusieurs sous-ensembles de ce secteur une exigence de coussin pour le risque systémique, afin de prévenir et atténuer les risques systémiques ou macro-prudentiels non cycliques à long terme qui ne sont pas couverts par le règlement (UE) n° 575/2013 susvisé, au sens d'un risque de perturbation du système financier susceptible d'avoir de graves répercussions sur le système financier et l'économie réelle en France. Le Haut Conseil de stabilité financière recense les entreprises assujetties auxquelles s'applique le coussin pour le risque systémique susmentionné.

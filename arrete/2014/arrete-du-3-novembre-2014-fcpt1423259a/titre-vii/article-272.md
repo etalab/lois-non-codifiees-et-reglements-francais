@@ -1,0 +1,3 @@
+# Article 272
+
+A l'exception des dispositions relatives au risque de blanchiment des capitaux et de financement du terrorisme prévues aux articles 43 à 73, 246, 258 et 259, le présent arrêté ne s'applique pas aux succursales des entreprises d'investissement, des établissements de paiement ainsi que des établissements de monnaie électronique ayant leur siège social dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen et mentionnés respectivement à l'article L. 532-18-1, au 1° du II de l'article L. 522-13 et à l'article L. 526-25 du code monétaire et financier.

@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque des établissements de crédit agréés dans plus d'un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ont pour entreprises mères plusieurs compagnies financières holding ou compagnies financières holding mixtes ayant leur siège dans des Etats membres de l'Union européenne ou partie à l'accord sur l'Espace économique européen différents et que chacun de ces Etats accueille au moins l'un de ces établissements de crédit, la surveillance sur base consolidée est exercée par les autorités compétentes de l'établissement de crédit affichant le total du bilan le plus élevé.

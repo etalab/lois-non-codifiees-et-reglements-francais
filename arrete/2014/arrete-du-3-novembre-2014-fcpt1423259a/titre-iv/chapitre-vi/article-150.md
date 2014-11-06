@@ -1,0 +1,3 @@
+# Article 150
+
+Les stratégies, politiques, procédures, systèmes, outils et limites mentionnés à l'article 148 sont également adaptés à la complexité, au profil de risque, au champ d'activité des entreprises assujetties, au niveau de tolérance au risque déterminé conformément à l'article 181 et reflètent l'importance des entreprises assujetties dans chacun des Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen où elles exercent leurs activités, appréciée en tenant compte des répercussions systémiques pouvant résulter de leur importance sur ces marchés.

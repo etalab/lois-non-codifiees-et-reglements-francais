@@ -1,0 +1,19 @@
+# Article 11
+
+I. - L'Autorité de contrôle prudentiel et de résolution examine à intervalles réguliers, et au moins tous les trois ans, si les entreprises mentionnées à l'article 1er respectent les exigences relatives aux approches pour lesquelles une autorisation préalable est exigée avant leur application aux fins du calcul de leurs exigences de fonds propres conformément à la troisième partie du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 susvisé.
+
+L'Autorité de contrôle prudentiel et de résolution vérifie et évalue notamment que les entreprises mentionnées à l'article 1er, lorsqu'elles utilisent les approches mentionnées au précédent alinéa, recourent à des techniques et à des pratiques bien élaborées et à jour.
+
+Lors de l'examen prévu au premier alinéa, l'Autorité de contrôle prudentiel et de résolution tient compte, en particulier, de l'évolution des activités de l'entreprise mentionnée à l'article 1er et de l'application de ces approches aux nouveaux produits. Lorsque des manquements significatifs sont constatés dans la prise en compte des risques suivant l'approche interne de l'entreprise mentionnée à l'article 1er, l'Autorité de contrôle prudentiel et de résolution prend les mesures appropriées pour y remédier ou en atténuer les conséquences, notamment par l'imposition de facteurs de multiplication plus élevés ou d'exigences de capital supplémentaires ou par d'autres mesures appropriées et effectives.
+
+II. - Lorsque, pour un modèle interne de risque de marché, de nombreux dépassements, au sens de l'article 366 du même règlement, révèlent que le modèle n'est pas ou plus suffisamment précis, l'Autorité de contrôle prudentiel et de résolution révoque l'autorisation d'utilisation du modèle interne ou impose des mesures appropriées afin que le modèle soit rapidement amélioré.
+
+III. - Lorsqu'une entreprise mentionnée à l'article 1er a été autorisée par l'Autorité de contrôle prudentiel et de résolution à recourir à une approche interne aux fins du calcul des exigences de fonds propres appropriées à sa situation conformément à la troisième partie du même règlement, mais que cette entreprise ne satisfait plus aux exigences pour utiliser cette approche, l'Autorité de contrôle prudentiel et de résolution exige de cette entreprise, soit de démontrer que les effets de cette non-conformité sont négligeables, le cas échéant, conformément au même règlement, soit de présenter un plan pour la mise en conformité en temps utile avec ces exigences et de fixer une échéance pour sa mise en œuvre.
+
+L'Autorité de contrôle prudentiel et de résolution exige la modification de ce plan lorsqu'elle estime qu'il ne permet pas le respect par l'entreprise mentionnée à l'article 1er des exigences qui s'imposent à elle ou si elle estime que l'échéance mentionnée au précédent alinéa n'est pas appropriée.
+
+S'il est peu probable que l'entreprise mentionnée à l'article 1er parvienne à rétablir la conformité dans un délai approprié et, le cas échéant, si celle-ci n'a pas démontré que les effets de cette non-conformité sont négligeables, l'Autorité de contrôle prudentiel et de résolution révoque l'autorisation d'utilisation de l'approche interne ou limite celle-ci aux domaines où la conformité est assurée ou peut l'être dans un délai approprié.
+
+IV. - Pour l'examen prévu au premier alinéa du I, l'Autorité de contrôle prudentiel et de résolution tient compte de l'analyse des approches internes des différents établissements effectuée par l'Autorité bancaire européenne et des valeurs de référence émises par celle-ci.
+
+V. - L'Autorité de contrôle prudentiel et de résolution informe l'Autorité bancaire européenne de la méthode utilisée pour mettre en œuvre le présent article, sauf lorsque cette information concerne les sociétés de financement et les entreprises mères de société de financement.

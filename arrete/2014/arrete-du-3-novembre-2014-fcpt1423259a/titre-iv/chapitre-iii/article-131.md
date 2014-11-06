@@ -1,0 +1,3 @@
+# Article 131
+
+Les entreprises assujetties qui, pour le calcul de leurs exigences de fonds propres afférentes au risque de position conformément au chapitre II du titre IV de la troisième partie du règlement (UE) n° 575/2013 susvisé, ont compensé leurs positions dans une ou plusieurs des actions constituant un indice boursier avec une ou plusieurs positions dans un contrat à terme sur cet indice boursier ou avec un autre produit dérivé de cet indice boursier, disposent d'un capital interne adéquat pour couvrir le risque de base résultant d'une évolution divergente entre la valeur du contrat à terme ou de cet autre produit et la valeur des actions qui composent l'indice boursier.
