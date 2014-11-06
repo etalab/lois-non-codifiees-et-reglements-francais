@@ -28,7 +28,7 @@ I. ― A l'appui des candidatures et dans la mesure où ils sont nécessaires à
 
 13° Renseignements relatifs à la nationalité du candidat pour les contrats de partenariat passés dans le domaine de la défense, ainsi que des renseignements complémentaires concernant son habilitation préalable, en application de l'article 7 du décret du 17 juillet 1998 susvisé, la composition de son actionnariat, l'implantation de son patrimoine technologique, les compétences des personnes devant intervenir pour la réalisation du contrat ;
 
-14° Justificatifs délivrés par un ou plusieurs organismes externes d'évaluation de crédit permettant de mesurer la qualité de crédit sur le long terme des établissements de crédit.
+14° Justificatifs délivrés par un ou plusieurs organismes externes d'évaluation de crédit permettant de mesurer la qualité de crédit sur le long terme des  établissements de crédit ou des sociétés de financement.
 
 II. ― La personne mentionnée au I de l'article 1er précise dans l'avis d'appel public à la concurrence ou dans le règlement de la consultation ceux des renseignements et documents énumérés au I que doit produire le candidat.
 

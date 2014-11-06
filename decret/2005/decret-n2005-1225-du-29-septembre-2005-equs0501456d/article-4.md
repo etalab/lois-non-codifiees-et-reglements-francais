@@ -1,6 +1,6 @@
 # Article 4
 
-L'absence d'intérêt acquitté par les souscripteurs de prêts mentionnés à l'article 1er ouvre droit à compensation financière au bénéfice des établissements de crédit dans les conditions suivantes.
+L'absence d'intérêt acquitté par les souscripteurs de prêts mentionnés à l'article 1er ouvre droit à compensation financière au bénéfice des  établissements de crédit ou des sociétés de financement dans les conditions suivantes.
 
 Pour chaque prêt, la compensation versée par l'Etat est calculée par application d'un taux S au montant du prêt octroyé.
 

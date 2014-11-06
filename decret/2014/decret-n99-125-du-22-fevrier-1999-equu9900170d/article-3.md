@@ -2,7 +2,7 @@
 
 Le fonds de soutien de l'Union des entreprises et des salariés pour le logement est géré en respectant les règles suivantes :
 
-Le niveau minimal du fonds de soutien est égal à 1,5 fois le montant maximal de subventions à verser dans l'année. Ce montant maximal, calculé par la Société de gestion du fonds de garantie de l'accession sociale à la propriété, est fixé chaque année en tenant compte du risque de chômage des accédants, du nombre et des caractéristiques des prêts sécurisés tels que définis à l'article 2 et des subventions moyennes à verser aux établissements de crédit.
+Le niveau minimal du fonds de soutien est égal à 1,5 fois le montant maximal de subventions à verser dans l'année. Ce montant maximal, calculé par la Société de gestion du fonds de garantie de l'accession sociale à la propriété, est fixé chaque année en tenant compte du risque de chômage des accédants, du nombre et des caractéristiques des prêts sécurisés tels que définis à l'article 2 et des subventions moyennes à verser aux  établissements de crédit et aux sociétés de financement.
 
 Des versements exceptionnels au fonds de soutien s'avèrent nécessaires quand le niveau du fonds est inférieur à ce niveau minimal.
 
@@ -14,4 +14,4 @@ Le fonds de soutien doit à tout moment disposer de sommes parfaitement liquides
 
 Les disponibilités du fonds de soutien sont placées en bons du Trésor ou valeurs assimilées ou en valeurs garanties par l'Etat.
 
-L'Union des entreprises et des salariés pour le logement garantit l'équilibre financier du fonds de soutien. L'Union des entreprises et des salariés pour le logement prend toutes mesures pour permettre au fonds de soutien d'assurer le paiement des subventions aux établissements de crédit.
+L'Union des entreprises et des salariés pour le logement garantit l'équilibre financier du fonds de soutien. L'Union des entreprises et des salariés pour le logement prend toutes mesures pour permettre au fonds de soutien d'assurer le paiement des subventions aux  établissements de crédit et aux sociétés de financement.
