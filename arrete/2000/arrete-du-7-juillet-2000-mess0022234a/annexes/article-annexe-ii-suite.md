@@ -392,7 +392,7 @@ Chaudronnerie Joly :
 
 - Le Collet de Lebre, 3, rue Chabaud, 13180 Gignac : de 1984 à 1994.
 
-Chaudronnerie seynoise/Nouvelle Chaudronnerie seynoise, ZI Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer, de 1975 à 2001.
+Chaudronnerie seynoise/ Nouvelle Chaudronnerie seynoise, quartier Peyron, chemin Monneiret, puis impasse Noël-Verlaque, puis ZI Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer. De 1975 à 2001.
 
 Chaudronnerie tuyauterie Provence Corse (CTPC), 1, rue Reine-Elisabeth, 13001 Marseille : de 1983 à 1986.
 
@@ -692,7 +692,7 @@ Marine Diesel Services :
 
 - 1re avenue-13e rue, ZI, 06510 Carros : depuis 1997.
 
-Marine maintenance service (MMS), avenue Franklin-Roosevelt, Le Cygne, 83000 Toulon, puis Le Parc Athéna, quartier Quiez, 83190 Ollioules, puis impasse des Callas, 83500 La Seyne-sur-Mer : depuis 1989.
+Marine Maintenance Service (MMS), avenue Franklin-Roosevelt, Le Cygne, 83000 Toulon puis Le Parc Athéna, quartier Quiez, 83190 Ollioules puis impasse des Câbles, 83500 La Seyne-sur-Mer de 1989 à 2005.
 
 Marine Yatching Service (MYS), 19, quai de Rive-Neuve, 13007 Marseille : de 1988 à 2001.
 
