@@ -1,6 +1,6 @@
 # Article 7
 
-Les pouvoirs délégués aux recteurs d'académie en matière de recrutement et de gestion des personnels appartenant au corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur mentionnés au 3 de l'article 1er sont les suivants :
+Les pouvoirs délégués aux recteurs d'académie en matière de recrutement et de gestion des membres du corps interministériel des attachés d'administration de l'Etat mentionnés au 3 de l'article 1er sont les suivants :
 
 I.-En matière de recrutement
 
@@ -66,7 +66,7 @@ III.-En matière de déroulement de carrière
 
 6° Attribution de l'avantage spécifique d'ancienneté.
 
-7° Attribution des réductions d'ancienneté et application des majorations d'ancienneté pour l'avancement d'échelon.
+7° (Abrogé)
 
 8° Avancement d'échelon.
 

@@ -20,7 +20,7 @@ d) Techniciens de l'éducation nationale régis par le décret n° 91-462 du 14 
 
 3. Corps et emploi de catégorie A
 
-a) Attachés d'administration de l'éducation nationale et de l'enseignement supérieur régis par le décret n° 2006-1732 du 23 décembre 2006.
+a) Membres du corps interministériel des attachés d'administration de l'Etat régi par le décret n° 2011-1317 du 17 octobre 2011, affectés dans les services et établissements publics relevant des ministres chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche.
 
 b) Conseillers techniques de service social régis par le décret n° 2012-1099 du 28 septembre 2012 portant statut particulier du corps interministériel des conseillers techniques de service social des administrations de l'Etat, affectés dans les services et établissements publics relevant des ministres chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche.
 

@@ -1,6 +1,6 @@
 # Article 1
 
-Délégation permanente de pouvoirs est donnée aux recteurs d'académie pour prononcer à l'égard des personnels appartenant aux corps des inspecteurs d'académie-inspecteurs pédagogiques régionaux, des inspecteurs de l'éducation nationale, aux corps des personnels de direction d'établissements d'enseignement ou de formation relevant du ministre de l'éducation nationale, au corps des conseillers d'administration scolaire et universitaire les décisions suivantes :
+Délégation permanente de pouvoirs est donnée aux recteurs d'académie pour prononcer à l'égard des personnels appartenant aux corps des inspecteurs d'académie-inspecteurs pédagogiques régionaux, des inspecteurs de l'éducation nationale, aux corps des personnels de direction d'établissements d'enseignement ou de formation relevant du ministre de l'éducation nationale, les décisions suivantes :
 
 -octroi des congés prévus à l'article 34 de la loi du 11 janvier 1984 susvisée, sauf pour les cas où l'avis du comité médical supérieur est requis ;
 
@@ -10,7 +10,7 @@ Délégation permanente de pouvoirs est donnée aux recteurs d'académie pour pr
 
 -mise en position de congé parental ;
 
--autorisation de travailler à mi-temps pour raison thérapeutique, sauf dans les cas nécessitant l'avis du comité médical supérieur, à l'exception des conseillers d'administration scolaire et universitaire exerçant des fonctions d'agent comptable ;
+-autorisation de travailler à mi-temps pour raison thérapeutique, sauf dans les cas nécessitant l'avis du comité médical supérieur ;
 
 -autorisation d'absence, notamment pour se rendre à l'étranger à titre personnel ;
 
@@ -26,9 +26,9 @@ Délégation permanente de pouvoirs est donnée aux recteurs d'académie pour pr
 
 -autorisation de cumul de rémunérations prévue par le décret-loi du 29 octobre 1936 susvisé ;
 
--octroi du bénéfice du mi-temps de droit pour raisons familiales, en application des dispositions du décret du 7 février 1995 susvisé, à l'exception des conseillers d'administration scolaire et universitaire exerçant les fonctions d'agent comptable ;
+-octroi du bénéfice du mi-temps de droit pour raisons familiales, en application des dispositions du décret du 7 février 1995 susvisé ;
 
--autorisation de travailler à temps partiel, à l'exception des conseillers d'administration scolaire et universitaire exerçant les fonctions d'agent comptable ;
+-autorisation de travailler à temps partiel ;
 
 -avancement d'échelon ;
 
@@ -36,4 +36,4 @@ Délégation permanente de pouvoirs est donnée aux recteurs d'académie pour pr
 
 -classement après nomination consécutive à une inscription sur liste d'aptitude ou tableau d'avancement ;
 
--mise en cessation progressive d'activité, à l'exception des conseillers d'administration scolaire et universitaire exerçant les fonctions d'agent comptable.
+-mise en cessation progressive d'activité.
