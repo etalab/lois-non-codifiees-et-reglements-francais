@@ -1,13 +1,11 @@
 # Article 411-133
 
-Peuvent être admises aux négociations sur un marché réglementé les parts ou actions d'OPCVM dont l'objectif de gestion est fondé sur un indice, qui sont :
+I.-Les OPCVM dont les parts ou actions sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation dans les conditions prévues par l'article D. 214-22-1 du code monétaire et financier mettent à disposition du public des informations spécifiques à cette admission, selon les modalités précisées par une instruction de l'AMF.
 
-1° Les parts ou actions d'OPCVM indiciels régis par l'article R. 214-22 du code monétaire et financier ;
+Ces informations sont rendues publiques préalablement à l'admission effective des parts ou actions de l'OPCVM aux négociations sur un marché réglementé ou un système multilatéral de négociation.
 
-2° Les parts ou actions d'OPCVM dont l'objectif de gestion est de reproduire l'évolution d'un résultat obtenu par l'application à un indice répondant aux conditions mentionnées au I de l'article R. 214-22 du code monétaire et financier d'une formule mathématique appelée "algorithme" ;
+Une copie du prospectus est adressée sans frais à toute personne qui en fait la demande et la version électronique du prospectus est mise en ligne sur le site de la société de gestion et envoyée à l'AMF aux fins de mise en ligne sur son site.
 
-3° Les parts ou actions d'OPCVM mentionnés aux 1° et 2° lorsqu'ils ont fait l'objet d'une notification conformément aux dispositions de l'article L. 214-2-2 du code monétaire et financier.
+II.-Les dispositions du présent article s'appliquent à la commercialisation des parts ou actions d'OPCVM mentionnés à l'article 411-135, lorsqu'elles sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation dans les conditions prévues par l'article D. 214-22-1 du code monétaire et financier.
 
-L'algorithme dépend d'une ou de plusieurs données susceptibles de varier dans le temps, appelées "variables".
-
-L'algorithme, l'indice et les conditions d'ajustement des variables sont décrits dans le prospectus et fixés dans des conditions compatibles avec une bonne information du public.
+III.-La personne qui commercialise des parts ou actions de l'OPCVM dont les parts ou actions sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation dans les conditions prévues par l'article D. 214-22-1 du code monétaire et financier s'assure que les investisseurs disposent des informations prévues par la présente sous-section.

@@ -1,4 +1,4 @@
-# Chapitre III : Dépositaires d'organismes de placement collectif en valeurs mobilières
+# Chapitre III : Dépositaires d'OPCVM, d'organismes de titrisation et d'autres placements collectifs
 
 - [Section 1 : Missions du dépositaire d'OPCVM](section-1)
 - [Section 2 : Organisation et moyens du dépositaire](section-2)
