@@ -50,6 +50,12 @@ A compter de 2014, la seconde section mentionnée au cinquième alinéa retrace 
 
 A compter de 2014, la seconde section mentionnée au même cinquième alinéa retrace également le versement aux départements des recettes définies au I de l'article 42 de la loi n° 2013-1278 du 29 décembre 2013 précitée. Ce versement est attribué mensuellement, à raison d'un douzième du montant dû dans les conditions prévues à l'article L. 3332-1-1 du code général des collectivités territoriales, à l'exclusion des troisième et dernier alinéas de ce même article.
 
+A compter de 2015, la seconde section mentionnée au cinquième alinéa retrace également :
+
+a) Le versement et le remboursement des avances sur le montant des impositions revenant à la métropole de Lyon en application des I et II de l'article L. 3662-2 du code général des collectivités territoriales ;
+
+b) Le versement à la métropole de Lyon des ressources mentionnées aux sixième, septième, huitième et quatorzième alinéas du présent II.
+
 III.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
 Prêts et avances à des particuliers ou à des organismes privés.

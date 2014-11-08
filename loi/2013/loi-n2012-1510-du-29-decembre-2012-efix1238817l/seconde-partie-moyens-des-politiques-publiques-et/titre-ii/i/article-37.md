@@ -94,7 +94,7 @@ C.-Par dérogation aux deux premiers alinéas du I de l'article 1639 A bis du co
 
 Le premier alinéa du présent C s'applique à compter du 1er octobre 2012.
 
-E.-Le D du présent VI s'applique à compter du 1er janvier 2013.
+E.-Le D du présent VI s'applique à compter du 1er janvier 2013. Il s'applique à la métropole de Lyon à compter du 1er janvier 2015.
 
 VII. A.
 
