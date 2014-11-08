@@ -1,3 +1,3 @@
 # Article 4
 
-Les autorités administratives peuvent créer, dans le respect des dispositions de la loi du 6 janvier 1978 susvisée et des règles de sécurité et d'interopérabilité prévues aux chapitres IV et V de la présente ordonnance, des téléservices. Lorsqu'elles mettent en place un tel service, les autorités administratives rendent accessibles depuis ce dernier la décision le créant ainsi que ses modalités d'utilisation, notamment les modes de communication possibles. Ces modalités s'imposent aux usagers.
+Un décret en Conseil d'Etat précise les conditions d'application des articles 2 et 3. Des décrets en Conseil d'Etat peuvent, pour certaines démarches administratives, écarter l'application des articles 2 et 3 pour des motifs d'ordre public, de défense et sécurité nationale, de nécessité de comparution personnelle de l'usager ou de bonne administration, notamment pour prévenir les demandes abusives.

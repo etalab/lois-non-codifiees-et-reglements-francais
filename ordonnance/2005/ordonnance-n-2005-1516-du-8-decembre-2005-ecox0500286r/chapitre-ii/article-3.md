@@ -1,3 +1,7 @@
 # Article 3
 
-Lorsqu'un usager a transmis par voie électronique à une autorité administrative une demande ou une information et qu'il en a été accusé réception conformément au I de l'article 5, cette autorité administrative est régulièrement saisie et traite la demande ou l'information sans demander à l'usager la confirmation ou la répétition de son envoi sous une autre forme. Un décret en Conseil d'Etat fixe les cas dans lesquels, en raison d'exigences particulières de forme ou de procédure, il peut être dérogé à cette règle.
+Les autorités administratives mettent en place, dans le respect des dispositions de la loi du 6 janvier 1978 susvisée et des règles de sécurité et d'interopérabilité prévues aux chapitres IV et V de la présente ordonnance, un ou plusieurs téléservices.
+
+Lorsqu'elles mettent en place un ou plusieurs téléservices, les autorités administratives rendent accessibles leurs modalités d'utilisation, notamment les modes de communication possibles. Ces modalités s'imposent aux usagers.
+
+Lorsqu'elle a mis en place un téléservice dédié à l'accomplissement de certaines démarches administratives, une autorité administrative n'est régulièrement saisie par voie électronique que par l'usage de ce téléservice.

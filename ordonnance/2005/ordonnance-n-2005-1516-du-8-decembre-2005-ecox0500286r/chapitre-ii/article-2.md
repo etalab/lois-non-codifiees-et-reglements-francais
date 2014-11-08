@@ -1,3 +1,3 @@
 # Article 2
 
-Une autorité administrative peut répondre par voie électronique à toute demande d'information qui lui a été adressée par cette voie par un usager ou par une autre autorité administrative.
+Tout usager, dès lors qu'il s'est identifié auprès d'une autorité administrative, peut adresser par voie électronique à celle-ci une demande, une déclaration, un document ou une information, ou lui répondre par la même voie. Cette autorité administrative est régulièrement saisie et traite la demande, la déclaration, le document ou l'information sans demander à l'usager la confirmation ou la répétition de son envoi sous une autre forme.
