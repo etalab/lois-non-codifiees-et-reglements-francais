@@ -1,7 +1,7 @@
 # Article 3
 
-Pour l'accomplissement de ses missions, ce service est constitué de deux unités éducatives se répartissant comme suit :
+Pour l'accomplissement de ses missions, ce service est constitué des deux unités éducatives suivantes :
 
-― unité éducative de milieu ouvert Cévennes Camargue, sise 5, rue Arnavielle, 30900 Nîmes ;
+- l'unité éducative de milieu ouvert, dénommée " UEMO Nîmes Via Domitia ", sise 42, rue du Forez, site Les 7 Collines, 30000 Nîmes ;
 
-― unité éducative de milieu ouvert Via Domitia, sise 5, rue Arnavielle, 30900 Nîmes.
+- l'unité éducative de milieu ouvert, dénommée " UEMO Cévennes Camargue ", sise 42, rue du Forez, site Les 7 Collines, 30000 Nîmes.
