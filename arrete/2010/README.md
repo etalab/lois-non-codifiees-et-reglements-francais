@@ -1897,7 +1897,6 @@
 - [Arrêté du 22 décembre 2009 (DEVS0928448A)](arrete-du-22-decembre-2009-devs0928448a)
 - [Arrêté du 22 décembre 2009 (DEVS0928748A)](arrete-du-22-decembre-2009-devs0928748a)
 - [Arrêté du 22 décembre 2009 (DEVS0929562A)](arrete-du-22-decembre-2009-devs0929562a)
-- [Arrêté du 22 décembre 2009 (DEVT0927344A)](arrete-du-22-decembre-2009-devt0927344a)
 - [Arrêté du 22 décembre 2009 (DEVT0927350A)](arrete-du-22-decembre-2009-devt0927350a)
 - [Arrêté du 22 décembre 2009 (DEVT0927352A)](arrete-du-22-decembre-2009-devt0927352a)
 - [Arrêté du 22 décembre 2009 (DEVT0927356A)](arrete-du-22-decembre-2009-devt0927356a)
