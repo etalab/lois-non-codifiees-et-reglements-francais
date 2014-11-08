@@ -25,11 +25,11 @@ A créé les dispositions suivantes :
 
 1.2.3. Création au profit des communes et établissements publics de coopération intercommunale d'une taxe additionnelle à la taxe foncière sur les propriétés non bâties.
 
-1.2.4. Transfert de la taxe sur les surfaces commerciales aux communes et établissements publics de coopération intercommunale.
+1.2.4. Transfert de la taxe sur les surfaces commerciales aux communes et établissements publics de coopération intercommunale et à la métropole de Lyon.
 
 1.2.4.1. A compter du 1er janvier 2011, la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés est perçue au profit de la commune sur le territoire de laquelle est situé l'établissement imposable.
 
-Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts sont substitués aux communes membres pour l'application des dispositions relatives à la taxe sur les surfaces commerciales et la perception de son produit.
+Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts sont substitués aux communes membres pour l'application des dispositions relatives à la taxe sur les surfaces commerciales et la perception de son produit. La métropole de Lyon est substituée aux communes situées dans son périmètre pour l'application des dispositions relatives à la taxe sur les surfaces commerciales et à la perception de son produit.
 
 Les établissements publics de coopération intercommunale faisant application du I de l'article 1609 quinquies C du même code sont substitués aux communes membres pour l'application des dispositions relatives à la taxe sur les surfaces commerciales acquittée par les établissements situés dans les zones d'activités économiques mentionnées au même I et la perception de son produit.
 
@@ -37,7 +37,7 @@ Les établissements publics de coopération intercommunale à fiscalité propre 
 
 L'organe délibérant de l'établissement public de coopération intercommunale ou, à défaut, le conseil municipal de la commune affectataire de la taxe peut, pour la première fois au titre de la taxe due en 2012, appliquer aux montants de la taxe, calculés conformément à l'article 3 de la loi n° 72-657 du 13 juillet 1972 précitée, un coefficient multiplicateur compris entre 0,8 et 1,2 et ne comportant que deux décimales.
 
-Ce coefficient ne peut être inférieur à 0,95 ni supérieur à 1,05 au titre de la première année pour laquelle cette faculté est exercée. Il ne peut ensuite varier de plus de 0,05 chaque année.
+Ce coefficient ne peut être inférieur à 0,95 ni supérieur à 1,05 au titre de la première année pour laquelle cette faculté est exercée. Il ne peut ensuite varier de plus de 0,05 chaque année. Le coefficient multiplicateur applicable en 2015 est égal au coefficient multiplicateur appliqué au profit de la communauté urbaine de Lyon en 2014. Pour les années suivantes, le conseil de la métropole de Lyon peut le faire varier chaque année, à la hausse comme à la baisse, de 0,05 au plus par délibération prise avant le 1er octobre pour une application à compter du 1er janvier de l'exercice qui suit.
 
 En cas de fusion d'établissements publics de coopération intercommunale réalisée dans les conditions prévues à l'article L. 5211-41-3 du code général des collectivités territoriales, les dispositions relatives à la taxe sur les surfaces commerciales et à la perception de son produit qui étaient en vigueur sur le territoire de chaque commune ou de chaque établissement public de coopération intercommunale préexistant sont maintenues pour l'année au cours de laquelle cette fusion produit ses effets au plan fiscal.
 
