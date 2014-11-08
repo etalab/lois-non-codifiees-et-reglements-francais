@@ -1,6 +1,9 @@
 # 2014
 
 - [Ordonnance n°2014-577 du 4 juin 2014 (ETSD1403034R)](ordonnance-n2014-577-du-4-juin-2014-etsd1403034r)
+- [ORDONNANCE n°2014-1330 du 6 novembre 2014 (PRMX1423175R)](ordonnance-n2014-1330-du-6-novembre-2014-prmx1423175r)
+- [ORDONNANCE n°2014-1332 du 6 novembre 2014 (FCPT1422085R)](ordonnance-n2014-1332-du-6-novembre-2014-fcpt1422085r)
+- [ORDONNANCE n°2014-1335 du 6 novembre 2014 (RDFX1421575R)](ordonnance-n2014-1335-du-6-novembre-2014-rdfx1421575r)
 - [Ordonnance n°2014-295 du 6 mars 2014 (INTD1400358R)](ordonnance-n2014-295-du-6-mars-2014-intd1400358r)
 - [Ordonnance n° 2014-463 du 7 mai 2014 (AFSA1405628R)](ordonnance-n-2014-463-du-7-mai-2014-afsa1405628r)
 - [Ordonnance n° 2014-464 du 7 mai 2014 (INTX1409906R)](ordonnance-n-2014-464-du-7-mai-2014-intx1409906r)
