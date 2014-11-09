@@ -1,6 +1,6 @@
 # Article 38-3
 
-A l'exception de l'article 34, le présent décret est applicable en Polynésie française dans sa rédaction en vigueur le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012 sous réserve des adaptations suivantes :
+A l'exception de l'article 34, le présent décret est applicable en Polynésie française dans sa rédaction en vigueur le lendemain de la publication du décret n° 2014-1338 du 6 novembre 2014 relatif à la procédure civile applicable devant la Cour de cassationsous réserve des adaptations suivantes :
 
 1° Au premier alinéa de l'article 6 et à l'article 10, les mots : " tribunal de grande instance " sont remplacés par les mots : " tribunal de première instance " ;
 

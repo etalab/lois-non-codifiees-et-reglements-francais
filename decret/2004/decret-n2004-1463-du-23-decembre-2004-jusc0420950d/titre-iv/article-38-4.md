@@ -1,6 +1,6 @@
 # Article 38-4
 
-A l'exception de l'article 34, le présent décret est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna dans sa rédaction en vigueur le lendemain de la publication du décret n° 2012-1451 du 24 décembre 2012 sous réserve des adaptations suivantes :
+A l'exception de l'article 34, le présent décret est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna dans sa rédaction en vigueur le lendemain de la publication          du décret n° 2014-1338 du 6 novembre 2014 relatif à la procédure civile applicable devant la Cour de cassation sous réserve des adaptations suivantes :
 
 1° Le premier alinéa de l'article 6 est remplacé par les dispositions suivantes :
 
