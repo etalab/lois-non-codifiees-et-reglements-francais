@@ -10,8 +10,6 @@ b) Soit la possession de diplômes universitaires, qualifications et titres just
 
 c) Soit que le candidat réunit les conditions mentionnées au 2° ou au 3° ou au 4° ou au 5° de l'article 1er ou de l'article 2 ci-dessus.
 
-La justification d'une activité professionnelle effective non salariée est apportée par la production d'une pièce attestant soit que le candidat a été assujetti à la taxe professionnelle, soit qu'il a retiré de l'exercice de sa profession des moyens d'existence réguliers pour la période considérée ;
-
 2° Un exemplaire du curriculum vitae limité à deux pages ;
 
 3° Un exposé du candidat, limité à quatre pages, présentant ses activités en matière d'enseignement, de recherche, d'administration et d'autres responsabilités collectives ;

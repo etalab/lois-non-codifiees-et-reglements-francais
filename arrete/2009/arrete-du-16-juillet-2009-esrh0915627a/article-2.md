@@ -24,6 +24,4 @@ Les titulaires de diplômes universitaires, qualifications et titres de niveau �
 
 5° Remplir les conditions prévues au c et d de l'article 46 (4°) du décret n° 84-431 du 6 juin 1984.
 
-Pour les sections 1 à 6 du Conseil national des universités, seuls les candidats remplissant les conditions mentionnées au 2° ou au 3° ou au 4° ou au 5° sont admis à demander leur inscription sur la liste de qualification aux fonctions de professeur des universités.
-
 La possession de la nationalité française n'est pas exigée des candidats.
