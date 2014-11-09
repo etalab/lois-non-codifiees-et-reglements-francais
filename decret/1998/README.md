@@ -380,7 +380,6 @@
 - [Décret n°98-83 du 16 février 1998 (MENF9703615D)](decret-n98-83-du-16-fevrier-1998-menf9703615d)
 - [Décret n°98-84 du 16 février 1998 (ECOT9891078D)](decret-n98-84-du-16-fevrier-1998-ecot9891078d)
 - [Décret n°98-85 du 16 février 1998 (ECOF9810010D)](decret-n98-85-du-16-fevrier-1998-ecof9810010d)
-- [Décret n°98-851 du 16 septembre 1998 (EQUB9801005D)](decret-n98-851-du-16-septembre-1998-equb9801005d)
 - [Décret n°98-852 du 16 septembre 1998 (EQUP9800862D)](decret-n98-852-du-16-septembre-1998-equp9800862d)
 - [Décret n°98-853 du 16 septembre 1998 (EQUP9800863D)](decret-n98-853-du-16-septembre-1998-equp9800863d)
 - [Décret n°98-854 du 16 septembre 1998 (FPPA9800144D)](decret-n98-854-du-16-septembre-1998-fppa9800144d)
