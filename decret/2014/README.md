@@ -288,6 +288,7 @@
 - [DÉCRET n°2014-808 du 16 juillet 2014 (FCPE1325937D)](decret-n2014-808-du-16-juillet-2014-fcpe1325937d)
 - [DÉCRET n°2014-810 du 16 juillet 2014 (FCPT1414058D)](decret-n2014-810-du-16-juillet-2014-fcpt1414058d)
 - [DÉCRET n°2014-812 du 16 juillet 2014 (ETLL1411462D)](decret-n2014-812-du-16-juillet-2014-etll1411462d)
+- [Décret n°98-851 du 16 septembre 1998 (EQUB9801005D)](decret-n98-851-du-16-septembre-1998-equb9801005d)
 - [Décret n°2014-491 du 16 mai 2014 (INTA1410877D)](decret-n2014-491-du-16-mai-2014-inta1410877d)
 - [Décret n°2014-493 du 16 mai 2014 (AGRS1403816D)](decret-n2014-493-du-16-mai-2014-agrs1403816d)
 - [Décret n°2014-494 du 16 mai 2014 (AGRS1403817D)](decret-n2014-494-du-16-mai-2014-agrs1403817d)
