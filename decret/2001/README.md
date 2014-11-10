@@ -321,6 +321,7 @@
 - [Décret n°2001-1261 du 21 décembre 2001 (ECOF0100019D)](decret-n2001-1261-du-21-decembre-2001-ecof0100019d)
 - [Décret n°2001-1262 du 21 décembre 2001 (ECOF0100018D)](decret-n2001-1262-du-21-decembre-2001-ecof0100018d)
 - [Décret n°2001-1270 du 21 décembre 2001 (DEFD0102303D)](decret-n2001-1270-du-21-decembre-2001-defd0102303d)
+- [Décret n°2001-1273 du 21 décembre 2001 (ATEG0190074D)](decret-n2001-1273-du-21-decembre-2001-ateg0190074d)
 - [Décret n°2001-1277 du 21 décembre 2001 (ECOT0114138D)](decret-n2001-1277-du-21-decembre-2001-ecot0114138d)
 - [Décret n°2001-172 du 21 février 2001 (ECOD0170000D)](decret-n2001-172-du-21-fevrier-2001-ecod0170000d)
 - [Décret n°2001-442 du 21 mai 2001 (AGRP0100029D)](decret-n2001-442-du-21-mai-2001-agrp0100029d)
