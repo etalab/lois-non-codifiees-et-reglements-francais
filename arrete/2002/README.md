@@ -260,7 +260,6 @@
 - [Arrêté du 11 janvier 2002 (EQUA0200127A)](arrete-du-11-janvier-2002-equa0200127a)
 - [Arrêté du 11 juillet 2002 (AGRG0201691A)](arrete-du-11-juillet-2002-agrg0201691a)
 - [Arrêté du 11 mars 2002 (DEFP0201184A)](arrete-du-11-mars-2002-defp0201184a)
-- [Arrêté du 11 mars 2002 (EQUP0200352A)](arrete-du-11-mars-2002-equp0200352a)
 - [Arrêté du 11 mars 2002 (MENF0200104A)](arrete-du-11-mars-2002-menf0200104a)
 - [Arrêté du 11 septembre 2002 (SOCA0222958A)](arrete-du-11-septembre-2002-soca0222958a)
 - [Arrêté du 12 août 1991 (BUDL9100122A)](arrete-du-12-aout-1991-budl9100122a)
