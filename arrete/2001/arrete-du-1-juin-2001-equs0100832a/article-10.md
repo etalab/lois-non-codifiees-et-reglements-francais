@@ -4,6 +4,6 @@ Tout exploitant d'un établissement assurant la formation des candidats au BEPEC
 
 L'exploitant joint à sa demande toutes les pièces énumérées à l'article 2 du présent arrêté ainsi que la justification d'une formation attestant la réactualisation de ses connaissances professionnelles, conformément aux dispositions de l'article R. 213-6 (2°) du code de la route.
 
-L'agrément, dont le renouvellement a été sollicité dans le délai et la forme prévus, est maintenu provisoirement valide jusqu'à ce que le préfet statue sur la demande.
+L'agrément, dont le renouvellement a été sollicité dans le délai et la forme prévus, est maintenu provisoirement valide jusqu'à ce que le préfet statue sur la demande. En l'absence de décision expresse, l'agrément est réputé renouvelé à l'issue d'un délai de quatre mois à compter de la réception, par le préfet de département, du dossier complet de demande de l'exploitant de renouvellement de son agrément.
 
 Le renouvellement d'agrément ou le refus de renouvellement est prononcé dans les mêmes conditions que lors de la procédure d'agrément définie à l'article 3 du présent arrêté.
