@@ -105,13 +105,15 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">33 ― Gironde </p>
+<p align="left">33 - Gironde </p>
 </td>
 <td align="left" valign="top">
 <p align="left">SIP du Bouscat </p>
 </td>
 <td align="left" valign="top">
-<div align="left">CDI de Bordeaux-Bouscat<br/>Trésorerie du Bouscat</div>
+<div align="left">CDI de Bordeaux-Bouscat <br/>
+</div>
+<div align="left">Trésorerie du Bouscat</div>
 </td>
 <td align="left" valign="top">
 <p align="left">1er janvier 2014 </p>
@@ -119,7 +121,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">38 ― Isère </p>
+<p align="left">38 - Isère </p>
 </td>
 <td align="left" valign="top">
 <p align="left">SIP de Grenoble Grésivaudan </p>
@@ -143,7 +145,6 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td align="left" valign="top">
 <div align="left">CDI de Lens Sud.</div>
 <p align="left">Trésoreries de Liévin et Avion.</p>
-<br/>
 </td>
 <td align="left" valign="top">
 <p align="left">1er janvier 2013</p>
@@ -271,6 +272,25 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td align="left" valign="top">
 <p align="left">1er janvier 2013 </p>
 </td>
+</tr>
+<tr>
+<td>
+<br/>974 - La Réunion <br/>
+</td>
+<td>SIP de Saint-Denis de La Réunion Est (dont recouvrement des rôles <p>d'impôts mentionnés à l'article 3) <br/>
+</p>
+</td>
+<td>CDI de Saint-Denis de La Réunion Est, trésorerie de Saint-Denis <br/>
+</td>
+<td>1er décembre 2014 </td>
+</tr>
+<tr>
+<td>974 - La Réunion <br/>
+</td>
+<td>SIP de Saint-Denis de La Réunion Ouest </td>
+<td>CDI de Saint-Denis de La Réunion Ouest, trésorerie de Saint-Denis <br/>
+</td>
+<td>1er décembre 2014</td>
 </tr>
 <tr>
 <td colspan="4">
