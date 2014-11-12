@@ -1,0 +1,3 @@
+# Article 1
+
+Sauf disposition législative y faisant obstacle, les dispositions réglementaires qui régissent les procédures pour lesquelles le silence vaut rejet en application de décrets pris sur le fondement du 4° du I ou du II de l'article 21 de la loi du 12 avril 2000 susvisée et celles pour lesquelles le silence vaut acceptation en application du I du même article, peuvent être modifiées par décret pour tirer les conséquences de l'application de ces textes en précisant la nature de la décision susceptible de naître du silence gardé par l'administration ainsi que le délai au terme duquel cette décision est acquise.

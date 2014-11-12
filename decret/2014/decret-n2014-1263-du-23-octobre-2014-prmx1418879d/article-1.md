@@ -1,0 +1,3 @@
+# Article 1
+
+En application du II de l'article 21 de la loi du 12 avril 2000 susvisée et par exception à l'application du délai de deux mois prévu au premier alinéa du I de cet article, le silence gardé par une administration de l'Etat ou par un établissement public administratif de l'Etat sur une demande tendant à la délivrance d'une licence conforme à une licence type préalablement mise à disposition des personnes intéressées et comportant une définition de son objet et de ses bénéficiaires, conformément à l'article 16 de la loi du 17 juillet 1978 susvisée, vaut décision d'acceptation à l'expiration d'un délai d'un mois.
