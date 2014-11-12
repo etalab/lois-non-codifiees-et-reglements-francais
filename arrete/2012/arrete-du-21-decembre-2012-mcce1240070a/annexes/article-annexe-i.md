@@ -106,8 +106,6 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 971 Guadeloupe.
 
-976 Mayotte.
-
 97-7 Collectivité d'outre-mer de Saint-Barthélemy.
 
 97-8 Collectivité d'outre-mer de Saint-Martin.
