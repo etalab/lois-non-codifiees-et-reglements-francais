@@ -6,7 +6,7 @@ Les concours de recrutement prévus à l'article premier ci-dessus peuvent être
 
 2° Droit public ;
 
-3° Histoire du droit, des institutions et des faits économiques et sociaux ;
+3° Histoire du droit ;
 
 4° Science politique ;
 

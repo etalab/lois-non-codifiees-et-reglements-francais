@@ -2,7 +2,7 @@
 
 - [SECTION I : Concours de droit privé et sciences criminelles](section-i)
 - [SECTION II : Concours de droit public](section-ii)
-- [SECTION III : Concours d'histoire du droit, des institutions et des faits économiques et sociaux](section-iii)
+- [SECTION III : Concours d'histoire du droit](section-iii)
 - [SECTION IV : Concours de science politique](section-iv)
 - [SECTION V : Concours de sciences économiques](section-v)
 - [SECTION VI : Concours de sciences de gestion](section-vi)
