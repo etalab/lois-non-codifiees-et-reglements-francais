@@ -20,4 +20,4 @@ Il comprend les membres titulaires suivants :
 
 Le président peut solliciter la participation du délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense, du directeur général de la gendarmerie nationale, du directeur central du service de santé des armées, du délégué à l'information et à la communication de la défense, ainsi que de toute autre personnalité qualifiée en fonction des sujets évoqués par le CEND.
 
-Le CEND dispose d'un secrétariat permanent assuré par le chef de la division forces nucléaires de l'état-major des armées et l'inspecteur chargé des missions relatives à la sécurité nucléaire de la direction générale de l'armement ou leurs représentants ainsi que d'une structure d'étude et de suivi nommée cellule d'études du CEND.
+Le CEND dispose d'un secrétariat permanent assuré par le chef de la division forces nucléaires de l'état-major des armées et le chargé de mission dissuasion de la direction des opérations de la direction générale de l'armement ou leurs représentants ainsi que d'une structure d'étude et de suivi nommée cellule d'études du CEND.

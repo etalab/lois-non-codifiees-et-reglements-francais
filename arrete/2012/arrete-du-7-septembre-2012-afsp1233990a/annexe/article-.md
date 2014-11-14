@@ -28,7 +28,8 @@
 <td>
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
-<td/>
+<td>1. BORDEAUX, site de Bordeaux Pellegrin <br/>
+</td>
 </tr>
 <tr>
 <td rowspan="10" valign="top">
