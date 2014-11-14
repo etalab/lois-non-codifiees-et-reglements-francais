@@ -38,7 +38,7 @@ Les membres du conseil d'enseignement, autres que les membres de droit et les re
 
 Les membres du conseil d'enseignement décédés, démissionnaires ou qui cessent d'exercer les fonctions au titre desquelles ils avaient été désignés sont remplacés. Dans ce cas le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui de leur prédécesseur.
 
-Le conseil d'enseignement se réunit au moins deux fois par an, sur convocation de son président, qui en fixe l'ordre du jour.
+Le conseil d'enseignement se réunit au moins une fois par an, sur convocation de son président, qui en fixe l'ordre du jour.
 
 Le conseil d'enseignement ne délibère valablement que si la moitié au moins de ses membres est présente ou représentée à l'ouverture de la séance. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour, dans un délai maximum de vingt jours ; il délibère alors sans condition de quorum.
 
