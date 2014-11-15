@@ -4,9 +4,9 @@
 
 Pour être utilisés à des fins thérapeutiques, les tissus ou leurs dérivés, les cellules ou les préparations de thérapie cellulaire doivent être accompagnés des éléments d'information suivants :
 
-I. - Les résultats individuels des examens biologiques pratiqués chez le donneur conformément aux articles R. 1211-14, R. 1211-15, R. 1211-16 et R. 1211-21 ainsi que la mention du laboratoire ayant pratiqué ces examens.
+I. - Les résultats individuels des examens biologiques pratiqués chez le donneur conformément aux articles R. 1211-14, R. 1211-15, R. 1211-16 et R. 1211-21 ou ceux pratiqués chez le patient conformément à l'article R.1211-22-1 ainsi que la mention du laboratoire ayant pratiqué ces examens.
 
-Ces résultats sont fournis sous la forme d'un compte rendu d'analyses signé par le responsable des analyses pratiquées ou de la photocopie de ce compte rendu ou d'un certificat visé par la personne responsable ou le responsable des activités tels que définis à l'article R. 1243-12. Les établissements autorisés conformément à l'article R. 1243-6 sont tenus de conserver les comptes rendus originaux des analyses biologiques pratiquées chez le donneur conformément aux règles de bonnes pratiques mentionnées à l'article L. 1245-6.
+Ces résultats sont fournis sous la forme d'un compte rendu d'analyses signé par le responsable des analyses pratiquées ou de la photocopie de ce compte rendu ou d'un certificat visé par la personne responsable ou le responsable des activités tels que définis à l'article R. 1243-12. Les établissements autorisés conformément à l'article R. 1243-6 sont tenus de conserver les comptes rendus originaux des analyses biologiques pratiquées chez le donneur ou chez le patient en situation autologue conformément aux règles de bonnes pratiques mentionnées à l'article L. 1245-6.
 
 Le certificat ou les comptes rendus d'analyses mentionnent la technique et la dénomination commerciale des dispositifs médicaux de diagnostic in vitro utilisés pour réaliser les analyses biologiques permettant la recherche des marqueurs biologiques d'infection suivant la réglementation en vigueur.
 
@@ -18,7 +18,7 @@ Cet étiquetage comporte les informations suivantes :
 
 1. Etiquetage du conditionnement primaire au sens des bonnes pratiques prévues à l'article L. 1245-6 du code de la santé publique.
 
-a) La mention  Elément ou produit du corps humain  ;
+a) La mention Elément ou produit du corps humain ;
 
 b) Le type de tissus ou de préparation de thérapie cellulaire ;
 
@@ -30,19 +30,19 @@ e) Les coordonnées de l'établissement ou de l'organisme autorisé en applicati
 
 f) La date de péremption (jour, mois, année et le cas échéant heure) ;
 
-g) La mention  RISQUE BIOLOGIQUE  lorsque la présence de marqueur de maladie infectieuse est avérée ;
+g) La mention RISQUE BIOLOGIQUE lorsque la présence de marqueur de maladie infectieuse est avérée ;
 
 h) En cas de don destiné à un receveur déterminé, l'étiquette doit identifier le receveur désigné (nom, prénom, date de naissance) ;
 
-i) En cas de don autologue, il y a lieu d'indiquer  pour usage autologue uniquement  et d'identifier le patient ;
+i) En cas de don autologue, il y a lieu d'indiquer pour usage autologue uniquement et d'identifier le patient ;
 
-j) La mention  pour greffe .
+j) La mention pour greffe .
 
 Si l'information mentionnée aux points h) et i) ne peut être mentionnée sur l'étiquette du conditionnement primaire, elle doit être indiquée sur une feuille distincte accompagnant ce dernier.
 
 2. Etiquetage du conditionnement extérieur au sens des bonnes pratiques prévues à l'article L. 1245-6 du code de la santé publique, destiné à être inclus dans le récipient de transport.
 
-a) Les mentions  tissus  ou  cellules  ou  préparation de thérapie cellulaire  d'origine humaine ;
+a) Les mentions tissus ou cellules ou préparation de thérapie cellulaire d'origine humaine ;
 
 b) Le type de tissu ou de préparation de thérapie cellulaire ;
 
@@ -56,7 +56,7 @@ Dans le cas où les informations portées sur le conditionnement primaire ne ser
 
 IV. - Les informations nécessaires à la traçabilité.
 
-Ces informations doivent permettre d'établir le lien entre le donneur et le ou les receveur(s). Elles permettent également de suivre et de retrouver rapidement l'ensemble des étapes allant de l'examen clinique d'un donneur à l'utilisation thérapeutique d'un élément ou produit du corps humain, en passant par le prélèvement, la conservation, la préparation, le transport, la distribution, la cession, la greffe ou l'administration à un patient.
+Ces informations doivent permettre d'établir le lien entre le donneur et le ou les receveur(s). Elles permettent également de suivre et de retrouver rapidement l'ensemble des étapes allant de l'examen clinique d'un donneur ou d'un patient en situation autologue à l'utilisation thérapeutique d'un élément ou produit du corps humain, en passant par le prélèvement, la conservation, la préparation, le transport, la distribution, la cession, la greffe ou l'administration à un patient.
 
 Les informations permettant d'assurer la traçabilité sont mentionnées dans les documents suivants :
 
