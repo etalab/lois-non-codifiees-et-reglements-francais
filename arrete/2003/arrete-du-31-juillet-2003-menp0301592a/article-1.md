@@ -2,7 +2,7 @@
 
 Délégation permanente de pouvoirs du ministre chargé de l'éducation est donnée, pour prononcer à l'égard des personnels enseignants, d'éducation, d'information et d'orientation de l'enseignement du second degré et des personnels stagiaires de ces mêmes corps, hormis ceux en position de détachement :
 
-I.-Aux vice-recteurs des îles Wallis et Futuna, de Mayotte et, sous réserve des dispositions des articles 2 et 3 du présent arrêté, aux vice-recteurs de Polynésie française et de Nouvelle-Calédonie, les décisions relatives :
+I. - Aux vice-recteurs des îles Wallis et Futuna et de Mayotte, au vice-recteur de Polynésie française sous réserve des dispositions de l'article 2 du présent arrêté et au vice-recteur de Nouvelle-Calédonie sous réserve des dispositions de l'article 2-1 du présent arrêté, les décisions relatives :
 
 1. Aux congés de maladie, de longue maladie et de longue durée, sauf lorsque l'avis du Comité médical supérieur est requis ;
 
@@ -52,7 +52,7 @@ c) Consécutivement à un abandon de poste.
 
 II.-Au vice-recteur de Mayotte, les décisions relatives aux premières et nouvelles affectations des personnels nommés dans l'enseignement secondaire au sein de ce département pour les corps de personnels qui disposent d'une commission administrative paritaire locale ;
 
-III.-Au vice-recteur de Mayotte et au vice-recteur de Nouvelle-Calédonie pour les corps de personnels qui disposent d'une commission administrative paritaire locale les décisions relatives :
+III. - Au vice-recteur de Mayotte, au vice-recteur de Polynésie française et au vice-recteur de Nouvelle-Calédonie, pour les corps de personnels qui disposent d'une commission administrative paritaire locale, les décisions relatives :
 
 1. A l'exercice des fonctions à temps partiel, y compris le temps partiel annualisé ;
 
