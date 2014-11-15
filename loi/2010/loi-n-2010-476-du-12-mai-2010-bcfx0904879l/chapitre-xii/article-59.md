@@ -4,7 +4,9 @@ Dans le but de constater les infractions prévues aux articles 56 et 57, les off
 
 1° Participer sous un pseudonyme à des échanges électroniques sur un site de jeux ou paris agréé ou non, et notamment à une session de jeu en ligne ;
 
-2° Extraire, acquérir ou conserver par ce moyen des données sur les personnes susceptibles d'être les auteurs de ces infractions ainsi que sur les comptes bancaires utilisés.
+2° Extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d'être les auteurs de ces infractions ainsi que sur les comptes bancaires utilisés ;
+
+3° Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites dans des conditions fixées par décret.
 
 A peine de nullité, ces actes ne peuvent avoir pour effet d'inciter autrui à commettre une infraction ou de contrevenir à la prohibition énoncée à l'article 5.
 

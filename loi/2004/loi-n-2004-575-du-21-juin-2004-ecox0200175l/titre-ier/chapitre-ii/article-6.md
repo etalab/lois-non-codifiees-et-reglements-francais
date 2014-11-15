@@ -34,17 +34,13 @@ L'alinéa précédent ne s'applique pas lorsque le destinataire du service agit 
 
 Le précédent alinéa est sans préjudice de toute activité de surveillance ciblée et temporaire demandée par l'autorité judiciaire.
 
-Compte tenu de l'intérêt général attaché à la répression de l'apologie des crimes contre l'humanité, de l'incitation à la haine raciale, à la haine à l'égard de personnes à raison de leur sexe, de leur orientation ou identité sexuelle ou de leur handicap,  ainsi que de la pornographie enfantine, de l'incitation à la violence, notamment l'incitation aux violences faites aux femmes, ainsi que des atteintes à la dignité humaine, les personnes mentionnées ci-dessus doivent concourir à la lutte contre la diffusion des infractions visées aux cinquième, huitième et neuvième  alinéas de l'article 24 de la loi du 29 juillet 1881 sur la liberté de la presse et aux articles 227-23 et 227-24 du code pénal.
+Compte tenu de l'intérêt général attaché à la répression de l'apologie des crimes contre l'humanité, de la provocation à la commission d'actes de terrorisme et de leur apologie, de l'incitation à la haine raciale, à la haine à l'égard de personnes à raison de leur sexe, de leur orientation ou identité sexuelle ou de leur handicap, ainsi que de la pornographie enfantine, de l'incitation à la violence, notamment l'incitation aux violences faites aux femmes, ainsi que des atteintes à la dignité humaine, les personnes mentionnées ci-dessus doivent concourir à la lutte contre la diffusion des infractions visées aux cinquième, septième et huitième alinéas de l'article 24 de la loi du 29 juillet 1881 sur la liberté de la presse et aux articles 227-23, 227-24 et 421-2-5 du code pénal.
 
 A ce titre, elles doivent mettre en place un dispositif facilement accessible et visible permettant à toute personne de porter à leur connaissance ce type de données. Elles ont également l'obligation, d'une part, d'informer promptement les autorités publiques compétentes de toutes activités illicites mentionnées à l'alinéa précédent qui leur seraient signalées et qu'exerceraient les destinataires de leurs services, et, d'autre part, de rendre publics les moyens qu'elles consacrent à la lutte contre ces activités illicites.
 
-Lorsque les nécessités de la lutte contre la diffusion des images ou des représentations de mineurs relevant de l'article 227-23 du code pénal le justifient, l'autorité administrative notifie aux personnes mentionnées au 1 du présent I les adresses électroniques des services de communication au public en ligne contrevenant aux dispositions de cet article, auxquelles ces personnes doivent empêcher l'accès sans délai (2).
-
-Un décret fixe les modalités d'application de l'alinéa précédent, notamment celles selon lesquelles sont compensés, s'il y a lieu, les surcoûts résultant des obligations mises à la charge des opérateurs (2).
-
 Compte tenu de l'intérêt général attaché à la répression des activités illégales de jeux d'argent, les personnes mentionnées aux 1 et 2 mettent en place, dans des conditions fixées par décret, un dispositif facilement accessible et visible permettant de signaler à leurs abonnés les services de communication au public en ligne tenus pour répréhensibles par les autorités publiques compétentes en la matière. Elles informent également leurs abonnés des risques encourus par eux du fait d'actes de jeux réalisés en violation de la loi.
 
-Tout manquement aux obligations définies aux quatrième, cinquième et septième alinéas est puni des peines prévues au 1 du VI.
+Tout manquement aux obligations définies aux quatrième et cinquième alinéas est puni des peines prévues au 1 du VI.
 
 8.L'autorité judiciaire peut prescrire en référé ou sur requête, à toute personne mentionnée au 2 ou, à défaut, à toute personne mentionnée au 1, toutes mesures propres à prévenir un dommage ou à faire cesser un dommage occasionné par le contenu d'un service de communication au public en ligne.
 
@@ -88,9 +84,9 @@ Les conditions d'insertion de la réponse sont celles prévues par l'article 13 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent IV.
 
-V.-Les  dispositions des chapitres IV et V de la loi du 29 juillet 1881 précitée sont applicables aux services de communication au public en ligne et la prescription acquise dans les conditions prévues par l'article 65 de ladite loi.
+V.-Les dispositions des chapitres IV et V de la loi du 29 juillet 1881 précitée sont applicables aux services de communication au public en ligne et la prescription acquise dans les conditions prévues par l'article 65 de ladite loi.
 
-VI.-1. Est puni d'un an d'emprisonnement et de 75 000 Euros d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'une des activités définies aux 1 et 2 du I, de ne pas satisfaire aux obligations définies aux quatrième, cinquième et septième alinéas du 7 du I, de ne pas avoir conservé les éléments d'information visés au II ou de ne pas déférer à la demande d'une autorité judiciaire d'obtenir communication desdits éléments.
+VI.-1. Est puni d'un an d'emprisonnement et de 75 000 Euros d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'une des activités définies aux 1 et 2 du I, de ne pas satisfaire aux obligations définies aux quatrième et cinquième alinéas du 7 du I du présent article ni à celles prévues à l'article 6-1 de la présente loi, de ne pas avoir conservé les éléments d'information visés au II du présent article ou de ne pas déférer à la demande d'une autorité judiciaire d'obtenir communication desdits éléments.
 
 Les personnes morales peuvent être déclarées pénalement responsables de ces infractions dans les conditions prévues à l'article 121-2 du code pénal. Elles encourent une peine d'amende, suivant les modalités prévues par l'article 131-38 du même code, ainsi que les peines mentionnées aux 2° et 9° de l'article 131-39 de ce code.L'interdiction mentionnée au 2° de cet article est prononcée pour une durée de cinq ans au plus et porte sur l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise.
 
