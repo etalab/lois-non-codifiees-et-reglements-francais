@@ -28,7 +28,7 @@ Spécialités :
 
 - rentrayeur en tapisserie ;
 
-- restaurateur de costumes ;
+- créateur et restaurateur de costumes ;
 
 - tapissier décoration ;
 
@@ -56,11 +56,11 @@ Métiers de l'audiovisuel
 
 Spécialités :
 
-- photographe ;
+-photographe ;
 
-- multimédia ;
+-multimédia ;
 
-- spécialiste de l'image et du son.
+-spécialiste de l'image et du son.
 
 Métiers de la céramique
 
@@ -74,48 +74,48 @@ Métiers de la présentation des collections
 
 Spécialités :
 
-- aquariologiste ;
+-aquariologiste ;
 
-- éclairagiste ;
+-éclairagiste ;
 
-- encadreur-doreur ;
+-encadreur-doreur ;
 
-- installateur-monteur d'objets d'art et de documents ;
+-installateur-monteur d'objets d'art et de documents ;
 
-- peintre-décorateur ;
+-peintre-décorateur ;
 
-- métallier.
+-métallier.
 
 Métiers des minéraux et métaux
 
 Spécialités :
 
-- argentier d'art ;
+-argentier d'art ;
 
-- bronzier ;
+-bronzier ;
 
-- créateur de prototypes ;
+-créateur de prototypes ;
 
-- fontainier d'art ;
+-fontainier d'art ;
 
-- lustrier ;
+-lustrier ;
 
-- marbrier ;
+-marbrier ;
 
-- restaurateur mouleur de sceaux ;
+-restaurateur mouleur de sceaux ;
 
-- restaurateur de monnaies ;
+-restaurateur de monnaies ;
 
-- serrurier d'art.
+-serrurier d'art.
 
 Métiers des matériaux et volumes
 
 Spécialités :
 
-- maquettiste ;
+-maquettiste ;
 
-- moulages ;
+-moulages ;
 
-- réalisateur de prototypes ;
+-réalisateur de prototypes ;
 
-- volumes.
+-volumes.
