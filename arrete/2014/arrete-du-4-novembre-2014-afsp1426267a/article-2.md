@@ -1,0 +1,3 @@
+# Article 2
+
+Les critères généraux et les situations qui fondent les contre-indications au don de tissus et de cellules figurent dans l'annexe II du présent arrêté. Conformément au VII de l'article R. 1211-13 et à l'article R. 1241-19-1 du code de la santé publique, à moins qu'une analyse documentée des risques liés à l'utilisation des tissus et des cellules du donneur approuvée par la personne responsable mentionnée à l'article R. 1243-12 du même code ne le justifie, le médecin ou la sage-femme ainsi que, le cas échéant, le médecin en charge du receveur écartent du don les personnes vivantes ou décédées qui présentent une contre-indication.

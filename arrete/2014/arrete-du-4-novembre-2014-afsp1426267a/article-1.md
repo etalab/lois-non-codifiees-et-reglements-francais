@@ -1,0 +1,3 @@
+# Article 1
+
+Les données minimales et, le cas échéant, complémentaires, qui sont recueillies en vue de la caractérisation des donneurs d'organes et des organes eux-mêmes figurent dans l'annexe I du présent arrêté. Conformément aux articles R.1211-13 et R.1231-1 du code de la santé publique, lorsque dans une situation particulière, y compris dans les situations d'urgence vitale, une analyse des risques et des avantages fait apparaître que les avantages escomptés pour le receveur l'emportent sur les risques qui découlent de données incomplètes, la greffe de cet organe peut être envisagée, même si toutes les données minimales précisées dans l'annexe I ne sont pas disponibles.
