@@ -1,3 +1,3 @@
 # Article 6
 
-Dans le cadre des demandes de majoration de pension pour enfants mentionnées à l'article 1er, le présent traitement peut faire l'objet d'une interconnexion avec le traitement créé par l'arrêté du 22 janvier 2007 susvisé.
+Toute opération relative au traitement automatisé autorisé par le présent arrêté fait l'objet d'un enregistrement comprenant l'identification de l'utilisateur, la date, l'heure et la nature de l'intervention dans ledit traitement automatisé.
