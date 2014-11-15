@@ -88,9 +88,9 @@ c) Les toxines :
 
 - la ricine ;
 
-- l'entérotoxine B du Staphyloccus aureus, pour toute détention d'une quantité supérieure à 1 mg pour un même établissement ;
+- l'entérotoxine B du Staphylococcus aureus,pour toute détention d'une quantité supérieure à 1 mg ;
 
-- les saxitoxines, pour toute détention d'une quantité supérieure à 1 mg pour un même établissement ;
+- les saxitoxines, pour toute détention d'une quantité supérieure à 1 mg ;
 
 - les toxines botuliques ;
 
