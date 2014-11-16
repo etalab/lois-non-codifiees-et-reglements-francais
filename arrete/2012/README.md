@@ -1211,7 +1211,6 @@
 - [Arrêté du 14 novembre 2012 (DEFH1226019A)](arrete-du-14-novembre-2012-defh1226019a)
 - [Arrêté du 14 novembre 2012 (JUSF1239449A)](arrete-du-14-novembre-2012-jusf1239449a)
 - [Arrêté du 14 novembre 2012 (MCCE1235781A)](arrete-du-14-novembre-2012-mcce1235781a)
-- [Arrêté du 14 novembre 2012 (MENJ1239813A)](arrete-du-14-novembre-2012-menj1239813a)
 - [Arrêté du 14 octobre 2008 (SJSP0824523A)](arrete-du-14-octobre-2008-sjsp0824523a)
 - [Arrêté du 14 octobre 2011 (ETSP1125380A)](arrete-du-14-octobre-2011-etsp1125380a)
 - [Arrêté du 14 octobre 2011 (JUST1128451A)](arrete-du-14-octobre-2011-just1128451a)
