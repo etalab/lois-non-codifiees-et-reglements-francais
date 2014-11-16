@@ -5,3 +5,5 @@ Les grades classés dans l'échelle 3 de rémunération créée par le décret n
 Les grades classés dans les échelles 4 et 5 de rémunération créées par le décret n° 2005-1229 du 29 septembre 2005 susmentionné comportent douze échelons.
 
 Les grades classés dans l'échelle 6 de rémunération créée par le décret n° 2005-1229 du 29 septembre 2005 susmentionné comportent neuf échelons.
+
+Les corps de fonctionnaires de catégorie C comportant trois grades sont classés dans les échelles 4, 5 et 6 de rémunération ; ceux qui comportent deux grades sont classés dans les échelles 5 et 6 de rémunération.
