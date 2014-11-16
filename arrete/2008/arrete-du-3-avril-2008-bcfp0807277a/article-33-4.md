@@ -1,0 +1,3 @@
+# Article 33-4
+
+<div align="left">La mission “gouvernance et support” est chargée de la gouvernance et de  l'animation des missions relevant de la politique immobilière et  domaniale de l'Etat mises en œuvre par les services déconcentrés et le  service à compétence nationale rattaché au chef du service France  Domaine. Elle pilote les actions du plan stratégique de la direction  générale concernant ces missions et assure la coordination au sein du  service France Domaine et avec le service à compétence nationale. Elle  est chargée du suivi de l'activité des services déconcentrés. Elle  assure la maîtrise d'ouvrage du système d'information de la politique  immobilière et domaniale.</div>
