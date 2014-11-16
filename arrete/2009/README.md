@@ -119,7 +119,6 @@
 - [Arrêté du 3 juin 2009 (DEFD0915003A)](arrete-du-3-juin-2009-defd0915003a)
 - [Arrêté du 3 juin 2009 (DEFD0915404A)](arrete-du-3-juin-2009-defd0915404a)
 - [Arrêté du 3 juin 2009 (DEVN0910824A)](arrete-du-3-juin-2009-devn0910824a)
-- [Arrêté du 3 juin 2009 (ECED0912522A)](arrete-du-3-juin-2009-eced0912522a)
 - [Arrêté du 3 juin 2009 (MCCH0912668A)](arrete-du-3-juin-2009-mcch0912668a)
 - [Arrêté du 3 juin 2009 (MCCH0912947A)](arrete-du-3-juin-2009-mcch0912947a)
 - [Arrêté du 3 juin 2009 (MENE0911567A)](arrete-du-3-juin-2009-mene0911567a)
