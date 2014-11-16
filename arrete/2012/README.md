@@ -1003,7 +1003,6 @@
 - [Arrêté du 12 juin 2012 (INTA1226035A)](arrete-du-12-juin-2012-inta1226035a)
 - [Arrêté du 12 juin 2012 (INTG1224928A)](arrete-du-12-juin-2012-intg1224928a)
 - [Arrêté du 12 mars 2012 (AGRE1204627A)](arrete-du-12-mars-2012-agre1204627a)
-- [Arrêté du 12 mars 2012 (AGRM1206391A)](arrete-du-12-mars-2012-agrm1206391a)
 - [Arrêté du 12 mars 2012 (AGRT1205927A)](arrete-du-12-mars-2012-agrt1205927a)
 - [Arrêté du 12 mars 2012 (AGRT1206245A)](arrete-du-12-mars-2012-agrt1206245a)
 - [Arrêté du 12 mars 2012 (BCRZ1203123A)](arrete-du-12-mars-2012-bcrz1203123a)
