@@ -1,3 +1,0 @@
-# Article 14
-
-Pour l'évaluation des unités de recherche, chaque comité d'experts est constitué, après consultation des établissements en cause qui font notamment part de leurs observations sur d'éventuels conflits d'intérêt, d'une part, d'au moins six membres nommés dans les conditions prévues à l'article 10 parmi lesquels est nommé le président du comité et, d'autre part, d'un représentant de l'instance d'évaluation des personnels de chaque établissement dont relève l'unité évaluée, sur proposition de cette instance. Le directeur de la section adresse aux comités une lettre de mission, après consultation des établissements de rattachement.

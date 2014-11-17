@@ -6,7 +6,6 @@
 - [Décret n°2006-649 du 2 juin 2006 (INDI0607508D)](decret-n2006-649-du-2-juin-2006-indi0607508d)
 - [Décret n°2006-657 du 2 juin 2006 (MCCT0600254D)](decret-n2006-657-du-2-juin-2006-mcct0600254d)
 - [Décret n°2006-106 du 3 février 2006 (INTE0500250D)](decret-n2006-106-du-3-fevrier-2006-inte0500250d)
-- [Décret n°2006-1334 du 3 novembre 2006 (MENX0600140D)](decret-n2006-1334-du-3-novembre-2006-menx0600140d)
 - [Décret n°2006-780 du 3 juillet 2006 (INTB0600134D)](decret-n2006-780-du-3-juillet-2006-intb0600134d)
 - [Décret n°2006-501 du 3 mai 2006 (FPPA0600034D)](decret-n2006-501-du-3-mai-2006-fppa0600034d)
 - [Décret n°2006-504 du 3 mai 2006 (INTB0600033D)](decret-n2006-504-du-3-mai-2006-intb0600033d)
