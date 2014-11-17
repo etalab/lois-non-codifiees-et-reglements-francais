@@ -2956,7 +2956,6 @@
 - [Arrêté du 1er juin 2011 (IOCC1114326A)](arrete-du-1er-juin-2011-iocc1114326a)
 - [Arrêté du 1er juin 2011 (MENE1115213A)](arrete-du-1er-juin-2011-mene1115213a)
 - [Arrêté du 1er juin 2011 (MENE1115318A)](arrete-du-1er-juin-2011-mene1115318a)
-- [Arrêté du 1er juin 2011 (PRMX1114564A)](arrete-du-1er-juin-2011-prmx1114564a)
 - [Arrêté du 1er mars 2011 (AGRG1106061A)](arrete-du-1er-mars-2011-agrg1106061a)
 - [Arrêté du 1er mars 2011 (DEVT1032830A)](arrete-du-1er-mars-2011-devt1032830a)
 - [Arrêté du 1er mars 2011 (EFIS1105364A)](arrete-du-1er-mars-2011-efis1105364a)
