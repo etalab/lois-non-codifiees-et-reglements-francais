@@ -1,0 +1,3 @@
+# Article 32
+
+Le LPO doit disposer de procédures comportant un " système de gestion de la qualité " qui permet de s'assurer de la conformité à toutes les exigences réglementaires appropriées de manière à établir et à maintenir une totale conformité avec les normes de contrôle, les standards et les procédures. Ce système permet de détecter toute déficience et d'y remédier par des actions correctrices. Il met à la disposition des personnels chargés d'organiser les contrôles une documentation technique appropriée exposant les procédures à suivre. Le système de gestion de la qualité doit à tout moment garantir le niveau de qualité des contrôles.

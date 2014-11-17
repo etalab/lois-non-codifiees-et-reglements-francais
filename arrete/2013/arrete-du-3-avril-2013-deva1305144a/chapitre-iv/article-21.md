@@ -1,0 +1,3 @@
+# Article 21
+
+Les candidats ne peuvent utiliser pendant les épreuves que les instruments et documents autorisés par l'autorité. Sont notamment interdits, pendant toute la durée des épreuves, l'usage des téléphones portables, qui doivent être débranchés et rangés avant l'entrée en salle, les assistants électroniques ainsi que tout appareil susceptible de transmettre ou de communiquer une information ou de gêner de quelque manière que ce soit le bon déroulement des épreuves. Le non-respect de ces consignes peut entraîner l'exclusion immédiate du candidat, indépendamment d'éventuelles sanctions pour fraude.
