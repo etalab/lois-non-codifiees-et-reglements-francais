@@ -2248,8 +2248,10 @@ Direction de l'administration pénitentiaire (suite)
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -2625,228 +2627,296 @@ Services judiciaires
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">Désignation de l'emploi</p>
+<th>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NIVEAU <br/>
+<br/>de responsabilités <br/>
+<br/>exercées <br/>
+</th>
+<th>
+<br/>NIVEAU <br/>
+<br/>d'emplois <br/>
+<br/>éligibles <br/>
+</th>
+<th>
+<br/>NOMBRE <br/>
+<br/>de points <br/>
+<br/>par emploi <br/>
+</th>
+</tr>
+<tr>
+<td align="justify">
+<br/>Assistant de gestion chargé de fonctions particulières à la Cour de cassation <br/>
 </td>
-<td>
-<p align="center">Niveau des responsabilités exercées</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">Nombre d'emplois</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">Nombre de points par emploi</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Assistant de gestion chargé de fonctions particulières à la Cour de cassation</p>
+<td align="justify">
+<br/>Assistant informatique chargé de fonctions particulières à la Cour de cassation <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">12</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Assistant informatique chargé de fonctions particulières à la Cour de cassation </p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">12</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Assistant informatique adjoint chargé de fonctions particulières à la Cour de cassation</p>
+<td align="justify">
+<br/>Assistant informatique adjoint chargé de fonctions particulières à la Cour de cassation <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">12</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable de la gestion des ressources humaines adjoint</p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">35</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Responsable de la gestion budgétaire adjoint</p>
+<td align="justify">
+<br/>Responsable de la gestion des ressources humaines adjoint dans un service administratif régional de cour d'appel <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">35</p>
+<td align="center" rowspan="3">
+<br/>132 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Responsable de la gestion informatique adjoint</p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">46</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Greffier responsable du centre de préarchivage de Paris</p>
+<td align="justify">
+<br/>Responsable de la gestion budgétaire adjoint dans un service administratif régional de cour d'appel <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">15</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Greffier, chef de greffe</p>
+<td align="justify">
+<br/>Responsable de la gestion informatique adjoint dans un service administratif régional de cour d'appel <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">186</p>
-</td>
-<td>
-<p align="center">25</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Greffier d'instruction dans un cabinet d'instruction dans les tribunaux de grande instance et dans les tribunaux de première instance de : Agen, Auch, Cahors, Marmande, Aix-en-Provence, Digne, Draguignan, Grasse, Marseille, Nice, Tarascon, Toulon, Abbeville, Amiens, Beauvais, Compiègne, Laon, Péronne, Saint-Quentin, Senlis, Soissons, Angers, Laval, Le Mans, Saumur, Ajaccio, Bastia, Belfort, Besançon, Dole, Lons-le- Saunier, Lure, Montbéliard, Vesoul, Angoulême, Bergerac, Bordeaux, Libourne, Périgueux, Bourges, Châteauroux, Nevers, Alençon, Argentan, Avranches, Caen, Cherbourg, Coutances, Lisieux, Albertville, Annecy, Bonneville, Chambéry, Thonon-les-Bains, Colmar, Mulhouse, Saverne, Strasbourg, Chalon-sur-Saône, Chaumont, Dijon, Mâcon, Arras, Avesnes-sur-Helpe, Béthune, Boulogne-sur-Mer, Cambrai, Douai, Dunkerque, Hazebrouck, Lille, Saint-Omer, Valenciennes, Bourgoin-Jallieu, Gap, Grenoble, Valence, Vienne, Brive-la-Gaillarde, Guéret, Limoges, Tulle, Belley, Bourg-en-Bresse, Lyon, Montbrison, Roanne, Saint-Etienne, Villefranche-sur-Saône, Metz, Sarreguemines, Thionville, Béziers, Carcassonne, Millau, Montpellier, Narbonne, Perpignan, Rodez, Bar-le-Duc, Briey, Epinal, Nancy, Saint-Dié, Verdun, Alès, Avignon, Carpentras, Mende, Nîmes, Privas, Blois, Montargis, Orléans, Tours, Auxerre, Bobigny, Créteil, Evry, Fontainebleau, Meaux, Melun, Paris, Sens, Bayonne, Dax, Mont-de-Marsan, Pau, Tarbes, Bressuire, La Rochelle, La Roche-sur-Yon, Les Sables-d'Olonne, Niort, Poitiers, Rochefort, Saintes, Châlons-en-Champagne, Charleville-Mézières, Reims, Troyes, Brest, Dinan, Guingamp, Lorient, Morlaix, Nantes, Quimper, Rennes, Saint-Brieuc, Saint-Malo, Saint-Nazaire, Vannes, Aurillac, Clermont-Ferrand, Cusset, Le Puy-en-Velay, Montluçon, Moulins, Riom, Dieppe, Bernay, Evreux, Le Havre, Rouen, Albi, Castres, Foix, Montauban, Saint-Gaudens, Toulouse, Chartres, Nanterre, Pontoise, Versailles, Basse-Terre, Pointe-à-Pitre, Fort-de-France, Cayenne, Saint-Denis de la Réunion, Saint-Pierre de la Réunion, Nouméa, Papeete.</p>
+<td align="justify">
+<br/>Greffier placé <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">626</p>
+<td align="center">
+<br/>311 <br/>
 </td>
-<td>
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Greffier d'audience correctionnelle collégiale dans les tribunaux de grande instance et dans les tribunaux de première instance de : Agen, Auch, Cahors, Marmande, Aix-en-Provence, Digne, Draguignan, Grasse, Marseille, Nice, Tarascon, Toulon, Abbeville, Amiens, Beauvais, Compiègne, Laon, Péronne, Saint-Quentin, Senlis, Soissons, Angers, Laval, Le Mans, Saumur, Ajaccio, Bastia, Belfort, Besançon, Dole, Lons-le- Saunier, Lure, Montbéliard, Vesoul, Angoulême, Bergerac, Bordeaux, Libourne, Périgueux, Bourges, Châteauroux, Nevers, Alençon, Argentan, Avranches, Caen, Cherbourg, Coutances, Lisieux, Albertville, Annecy, Bonneville, Chambéry, Thonon-les-Bains, Colmar, Mulhouse, Saverne, Strasbourg, Chalon-sur-Saône, Chaumont, Dijon, Mâcon, Arras, Avesnes-sur-Helpe, Béthune, Boulogne-sur-Mer, Cambrai, Douai, Dunkerque, Hazebrouck, Lille, Saint-Omer, Valenciennes, Bourgoin-Jallieu, Gap, Grenoble, Valence, Vienne, Brive-la-Gaillarde, Guéret, Limoges, Tulle, Belley, Bourg-en-Bresse, Lyon, Montbrison, Roanne, Saint-Etienne, Villefranche-sur-Saône, Metz, Sarreguemines, Thionville, Béziers, Carcassonne, Millau, Montpellier, Narbonne, Perpignan, Rodez, Bar-le-Duc, Briey, Epinal, Nancy, Saint-Dié, Verdun, Alès, Avignon, Carpentras, Mende, Nîmes, Privas, Blois, Montargis, Orléans, Tours, Auxerre, Bobigny, Créteil, Evry, Fontainebleau, Meaux, Melun, Paris, Sens, Bayonne, Dax, Mont-de-Marsan, Pau, Tarbes, Bressuire, La Rochelle, La Roche-sur-Yon, Les Sables-d'Olonne, Niort, Poitiers, Rochefort, Saintes, Châlons-en-Champagne, Charleville-Mézières, Reims, Troyes, Brest, Dinan, Guingamp, Lorient, Morlaix, Nantes, Quimper, Rennes, Saint-Brieuc, Saint-Malo, Saint-Nazaire, Vannes, Aurillac, Clermont-Ferrand, Cusset, Le Puy-en-Velay, Montluçon, Moulins, Riom, Dieppe, Bernay, Evreux, Le Havre, Rouen, Albi, Castres, Foix, Montauban, Saint-Gaudens, Toulouse, Chartres, Nanterre, Pontoise, Versailles, Basse-Terre, Pointe-à-Pitre, Fort-de-France, Cayenne, Saint- Denis de la Réunion, Saint-Pierre de la Réunion, Nouméa, Papeete</p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">501</p>
-</td>
-<td>
-<p align="center">15</p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Greffier d'assises dans les cours d'assises de : Bouches-du-Rhône, Var, Alpes-Maritimes, Somme, Oise, Aisne, Maine-et-Loire, Sarthe, Corse-du-Sud, Doubs, Jura, Haute-Saône, Gironde, Dordogne, Cher, Indre, Calvados, Manche, Savoie, Haute-Savoie, Haut-Rhin, Bas-Rhin, Côte-d'Or, Saône-et-Loire, Haute-Marne, Nord, Pas-de-Calais, Isère, Drôme, Haute-Vienne, Corrèze, Rhône, Ain, Loire, Moselle, Hérault, Meurthe-et-Moselle, Vosges, Gard, Vaucluse, Loiret, Loir-et-Cher, Indre-et-Loire, Paris, Yonne, Seine-Saint-Denis, Val-de-Marne, Essonne, Seine-et-Marne, Pyrénées-Atlantiques, Charente-Maritime, Marne, Aube, Ille-et-Vilaine, Loire-Atlantique, Finistère, Côtes-d'Armor, Morbihan, Puy-de-Dôme, Seine- Maritime, Eure, Haute-Garonne, Tarn, Tarn-et-Garonne, Yvelines, Eure-et-Loir, Hauts-de-Seine, Val-d'Oise, Guadeloupe, Martinique, Guyane, Réunion, Polynésie française.</p>
+<td align="justify">
+<br/>Greffier, responsable du centre de préarchivage de Paris <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">120</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">15</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Greffier responsable de l'audiovisuel à l'Ecole nationale des greffes </p>
-</td>
-<td>
-<p align="center">B</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">10</p>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes, chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions</p>
+<td align="justify">
+<br/>Greffier, chef de greffe <br/>
 </td>
-<td>
-<p align="center">B</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">58</p>
+<td align="center">
+<br/>121 <br/>
 </td>
-<td>
-<p align="center">20</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 60 980 €.</p>
-</td>
-<td>
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">136</p>
-</td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Adjoint administratif placé</p>
+<td align="justify">
+<br/>Greffier  dans un cabinet du juge d'instruction ou du juge des libertés et de la  détention dans un tribunal de grande instance et dans un tribunal de  première instance <br/>
 </td>
-<td>
-<p align="center">C</p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">95</p>
+<td align="center">
+<br/>610 <br/>
 </td>
-<td>
-<p align="center">20</p>
+<td align="center">
+<br/>15 <br/>
 </td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance et dans un tribunal de première instance <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>550 <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier d'assises dans les cours d'assises <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>150 <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Responsable de la gestion des ressources humaines adjoint à l'Ecole nationale des greffes <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Responsable de la gestion budgétaire adjoint à l'Ecole nationale des greffes <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Référent des stages et des parcours professionnels à l'Ecole nationale des greffes <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Formateur spécialisé et polyvalent à l'Ecole nationale des greffes <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>19 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Coordonnateur de l'organisation informatique des services à l'Ecole nationale des greffes <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  mis à disposition ou affecté à l'administration centrale chargé de  développement, d'implantation et de formation en matière informatique au  profit des juridictions <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>64 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 60 980 euros <br/>
+</td>
+<td align="center">
+<br/>A <br/>
+</td>
+<td align="center">
+<br/>185 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Adjoint administratif placé <br/>
+</td>
+<td align="center">
+<br/>C <br/>
+</td>
+<td align="center">
+<br/>113 <br/>
+</td>
+<td align="center">
+<br/>20</td>
 </tr>
 </tbody>
 </table>
@@ -3190,11 +3260,14 @@ Grande chancellerie de la légion d'honneur I. - Administration centrale
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3288,11 +3361,14 @@ Grande chancellerie de la légion d'honneur I. - Administration centrale
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3358,11 +3434,14 @@ Grande chancellerie de la légion d'honneur I. - Administration centrale
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3414,11 +3493,14 @@ Grande chancellerie de la légion d'honneur I. - Administration centrale
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3456,11 +3538,14 @@ Grande chancellerie de la légion d'honneur I. - Administration centrale
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3519,11 +3604,14 @@ II. - Maisons d'éducation
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3673,11 +3761,14 @@ II. - Maisons d'éducation
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3827,11 +3918,14 @@ II. - Maisons d'éducation
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>

@@ -5,526 +5,376 @@ SERVICES JUDICIAIRES
 <table>
 <tbody>
 <tr>
-<td colspan="2">
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+<th>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NOMBRE <br/>
+<br/>d'emplois éligibles <br/>
+</th>
+<th>
+<br/>NOMBRE <br/>
+<br/>de points par emploi <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier  en chef, directeur délégué à l'administration régionale judiciaire du  service administratif régional de la cour d'appel de Dijon, Nancy,  Fort-de-France <br/>
 </td>
-<td colspan="2">
-<p align="center">NOMBRE D'EMPLOIS </p>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, directeur délégué à l'administration régionale judiciaire du  service administratif régional de la cour d'appel d'Agen, Angers,  Bastia, Besançon, Bourges, Caen, Cayenne, Chambéry, Limoges, Metz,  Orléans, Pau, Poitiers, Reims, Riom, Basse-Terre, Saint-Denis de La  Réunion, Nouméa, Papeete <br/>
+</td>
+<td align="center">
+<br/>19 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, responsable de la gestion des ressources humaines du service  administratif régional de la cour d'appel de Paris (emploi fonctionnel) <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, responsable de la gestion budgétaire du service administratif  régional de la cour d'appel de Paris (emploi fonctionnel) <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, responsable de la gestion des ressources humaines dans un service administratif régional <br/>
+</td>
+<td align="center" rowspan="5" valign="middle">
+<br/>154 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, responsable de la gestion de la formation dans un service administratif régional <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, responsable de la gestion budgétaire dans un service administratif régional <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, responsable de la gestion budgétaire et des marchés publics dans un service administratif régional <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, responsable de la gestion informatique dans un service administratif régional <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef placé <br/>
+</td>
+<td align="center">
+<br/>57 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, directeur de greffe de la Cour de cassation <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, directeur de greffe de la cour d'appel d'Aix-en-Provence,  Amiens, Bordeaux, Caen, Colmar, Douai, Grenoble, Lyon, Metz,  Montpellier, Nancy, Nîmes, Orléans, Paris, Pau, Poitiers, Reims, Rennes,  Riom, Rouen, Toulouse, Versailles <br/>
+</td>
+<td align="center">
+<br/>22 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, directeur de greffe de la cour d'appel d'Agen, Angers, Bastia,  Basse-Terre, Besançon, Bourges, Cayenne, Chambéry, Dijon,  Fort-de-France, Limoges, Nouméa, Papeete, Saint-Denis de La Réunion <br/>
+</td>
+<td align="center">
+<br/>14 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, directeur de greffe de la chambre d'appel de Mamoudzou <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, directeur de greffe du tribunal de grande instance de Bobigny, Créteil, Nanterre, Paris <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, directeur de greffe du tribunal de grande instance  d'Aix-en-Provence, Amiens, Avignon, Beauvais, Béthune, Béziers,  Bordeaux, Boulogne, Bourg-en-Bresse, Brest, Caen, Chartres,  Clermont-Ferrand, Dijon, Draguignan, Evreux, Evry, Grenoble, Grasse, Le  Mans, Lille, Lorient, Lyon, Marseille, Meaux, Melun, Metz, Montpellier,  Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Poitiers,  Pontoise, Reims, Rennes, Rouen, Saint-Etienne, Senlis, Strasbourg,  Toulon, Toulouse, Tours, Valence, Valenciennes, Versailles <br/>
+</td>
+<td align="center" valign="middle">
+<br/>49 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, directeur de greffe du tribunal de grande instance d'Angers,  Angoulême, Besançon, Chalon-sur-Saône, Colmar, Le Havre, Limoges,  Saint-Denis de La Réunion, Sarreguemines <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, directeur de greffe des autres tribunaux de grande instance <br/>
+</td>
+<td align="center">
+<br/>102 <br/>
+</td>
+<td align="center">
+<br/>25 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, directeur de greffe du tribunal de première instance de Nouméa <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier en chef, directeur de greffe du tribunal de police de Paris <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Greffier  en chef, directeur de greffe du tribunal d'instance de Bordeaux, Lille,  Lyon, Marseille, Metz, Mulhouse, Nantes, Nice, Rouen, Strasbourg,  Toulouse, Villeurbanne <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, directeur de greffe du tribunal d'instance de Grenoble, Melun, Montpellier, Toulon <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier  en chef, directeur de greffe du conseil de prud'hommes de Bobigny,  Bordeaux, Créteil, Lyon, Marseille, Nanterre, Paris, Toulouse <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, directeur de greffe du conseil de prud'hommes de Boulogne-Billancourt, Grenoble, Nantes, Nice, Lille, Toulon <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, directeur de greffe des autres tribunaux d'instance et conseils de prud'hommes <br/>
+</td>
+<td align="center">
+<br/>365 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, directeur de secrétariat de parquet autonome de la Cour de cassation <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>40 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, directeur de secrétariat de parquet autonome du tribunal de grande instance de Paris <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, chef de service chargé de fonctions particulières à la Cour de cassation <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef, responsable de la gestion informatique à la Cour de cassation <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef à l'inspection générale des services judiciaires <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify">
+<br/>Greffier en chef affecté à l'Ecole nationale des greffes en qualité de :<br/>
+<br/>-secrétaire général<br/>
+<br/>-secrétaire général adjoint<br/>
+<br/>-directeur adjoint chargé des activités pédagogiques<br/>
+<br/>-sous-directeur<br/>
+<br/>-coordonnateur de programme, des stages et des parcours professionnels, expert<br/>
+<br/>-responsable de la gestion des ressources humaines<br/>
+<br/>-responsable de la gestion budgétaire <br/>
+</td>
+<td align="center">
 <br/>
-<p align="center">à compter du 1er janvier 2006 </p>
+<br/>1 <br/>
+<br/>1 <br/>
+<br/>1 <br/>
+<br/>3 <br/>
+<br/>15 <br/>
+<br/>1 <br/>
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">NOMBRE DE POINTS </p>
+<td align="center">
 <br/>
-<p align="center">par emploi à compter du 1er janvier 2006 </p>
+<br/>40 <br/>
+<br/>25 <br/>
+<br/>40 <br/>
+<br/>25 <br/>
+<br/>25 <br/>
+<br/>25 <br/>
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<p>Greffier en chef, coordonnateur du service administratif régional de la cour d'appel d'Agen, Angers, Bastia, Besançon, Bourges, Caen, Chambéry, Dijon, Limoges, Metz, Nancy, Orléans, Pau, Poitiers, Reims, Riom, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa et Papeete </p>
+<td align="justify">
+<br/>Greffier  en chef mis à disposition ou affecté à l'administration centrale chargé  de développement, d'implantation et de formation en matière  informatique au profit des juridictions <br/>
 </td>
-<td colspan="2">
-<p align="center">21 </p>
+<td align="center">
+<br/>20 <br/>
 </td>
-<td>
-<p align="center">40 </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Greffier en chef, responsable de la gestion des ressources humaines au service administratif régional de la cour d'appel de Paris (emploi fonctionnel) </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">40 </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Greffier en chef, responsable de gestion dans un service administratif régional de cour d'appel :</p>
-</td>
-<td colspan="2">
-<pre/>
-<br/>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-responsable de la gestion des ressources humaines </p>
-</td>
-<td colspan="2">
-<p align="center">32 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-responsable de la gestion de la formation </p>
-</td>
-<td colspan="2">
-<p align="center">34 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-responsable de la gestion budgétaire </p>
-</td>
-<td colspan="2">
-<p align="center">48 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-responsable de la gestion informatique </p>
-</td>
-<td colspan="2">
-<p align="center">39 </p>
-</td>
-<td>
-<p align="center">25 </p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Greffier en chef, chef de greffe :</p>
-</td>
-<td colspan="2">
-<pre/>
-<br/>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-Cour de cassation </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-cour d'appel d'Aix-en-Provence, Douai, Lyon, Paris, Rennes, Versailles, Bordeaux, Colmar et Montpellier </p>
-</td>
-<td colspan="2">
-<p align="center">9 </p>
-</td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p>-cour d'appel d'Amiens, Caen, Grenoble, Metz, Nancy, Nîmes, Orléans, Pau, Poitiers, Reims, Riom, Rouen et Toulouse </p>
-</td>
-<td colspan="2">
-<p align="center">13 </p>
-</td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-    chambre d'appel de Mamoudzou  </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td colspan="2">
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de grande instance d'Aix-en-Provence, Marseille, Nice, Bordeaux, Strasbourg, Lille, Grenoble, Lyon, Montpellier, Bobigny, Créteil, Evry, Paris, Nantes, Toulouse, Nanterre, Pontoise Versailles, Draguignan, Grasse, Toulon, Amiens, Le Mans, Caen, Mulhouse, Dijon, Béthune, Valence, Metz, Perpignan, Nancy, Nîmes, Orléans, Tours, Meaux, Melun, Rennes, Clermont-Ferrand et Rouen </p>
-</td>
-<td colspan="2">
-<p align="center">39 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de grande instance de Saint-Etienne </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de grande instance de Beauvais, Boulogne, Valenciennes, Avignon, Poitiers, Reims, Lorient et Chartres </p>
-</td>
-<td colspan="2">
-<p align="center">8 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de grande instance de Senlis, Bourg-en-Bresse, Béziers, Brest et Evreux </p>
-</td>
-<td colspan="2">
-<p align="center">5 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de grande instance d'Angers, Besançon, Angoulême, Colmar, Chalon-sur-Saône, Limoges, Sarreguemines, Le Havre et Saint-Denis-de-la-Réunion </p>
-</td>
-<td colspan="2">
-<p align="center">9 </p>
-</td>
-<td colspan="2">
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-autres tribunaux de grande instance </p>
-</td>
-<td colspan="2">
-<p align="center">119 </p>
-</td>
-<td colspan="2">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de première instance de Nouméa </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td colspan="2">
-<p align="center">26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de police de Paris </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal d'instance de Marseille, Bordeaux, Mulhouse, Strasbourg, Lille, Lyon, Villeurbanne, Metz, Nantes et Toulouse </p>
-</td>
-<td colspan="2">
-<p align="center">10 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal d'instance de Nice et Rouen </p>
-</td>
-<td colspan="2">
-<p align="center">2 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal d'instance de Montpellier, Toulon, Grenoble et Melun </p>
-</td>
-<td colspan="2">
-<p align="center">4 </p>
-</td>
-<td colspan="2">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-conseil de prud'hommes de Paris, Marseille, Bordeaux, Lyon, Bobigny, Créteil et Nanterre </p>
-</td>
-<td colspan="2">
-<p align="center">7 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-conseil de prud'hommes de Toulouse </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td colspan="2">
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-conseil de prud'hommes de Nice, Toulon, Lille, Grenoble et Nantes </p>
-</td>
-<td colspan="2">
-<p align="center">5 </p>
-</td>
-<td colspan="2">
-<p align="center">30</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-conseil de prud'hommes de Boulogne-Billancourt </p>
-</td>
-<td colspan="2">
-<p align="center">1 </p>
-</td>
-<td colspan="2">
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>-autres tribunaux d'instance et conseils de prud'hommes </p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">483 </p>
-</td>
-<td colspan="2" rowspan="2">
-<p align="center">20 </p>
-</td>
-</tr>
-<tr>
-<td width="443"/>
-<td width="4"/>
-<td width="41"/>
-<td width="41"/>
-<td width="86"/>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
-</td>
-<td>
-<p align="center">NOMBRE D'EMPLOIS </p>
-<br/>
-<p align="center">à compter du 1er janvier 2006 </p>
-</td>
-<td>
-<p align="center">NOMBRE DE POINTS </p>
-<br/>
-<p align="center">par emploi à compter du 1er janvier 2006 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Greffier en chef, secrétaire en chef de parquet :</p>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p>-Cour de cassation </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-tribunal de grande instance de Paris </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">40 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Greffier en chef, chef de service chargé de fonctions particulières à la Cour de cassation </p>
-</td>
-<td>
-<p align="center">11 </p>
-</td>
-<td>
-<p align="center">20 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Greffier en chef à la mission de l'inspection des greffes </p>
-</td>
-<td>
-<p align="center">11 </p>
-</td>
-<td>
-<p align="center">26 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Greffier en chef, affecté à l'Ecole nationale des greffes en qualité de :</p>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p>-secrétaire général </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-secrétaire général adjoint </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-directeur de la formation permanente et informatique </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">40</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-sous-directeur de la formation initiale et de la recherche </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-sous-directeur de la formation permanente </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-maître de conférences à l'Ecole nationale des greffes </p>
-</td>
-<td>
-<p align="center">26 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-chef du service des relations internationales et de la communication </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">25</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>-responsable de la gestion budgétaire </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">25 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Greffier en chef mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions </p>
-</td>
-<td rowspan="2">
-<p align="center">20 </p>
-</td>
-<td rowspan="2">
-<p align="center">25</p>
-</td>
+<td align="center">
+<br/>25</td>
 </tr>
 </tbody>
 </table>
