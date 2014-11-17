@@ -1,0 +1,3 @@
+# Article 9
+
+Electricité de France devra aviser le ministre de l'industrie, du commerce et de l'artisanat de tout projet de création ou de modification d'une installation entrant dans le champ d'application de la loi du 19 juillet 1976 et située à l'intérieur du périmètre défini sur le plan annexé au présent décret. Le ministre de l'industrie, du commerce et de l'artisanat notifiera les prescriptions techniques auxquelles l'exploitant devra se conformer. Ces prescriptions feront l'objet d'une expédition au service central de protection contre les rayonnements ionisants et au préfet de l'Indre-et-Loire.
