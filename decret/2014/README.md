@@ -326,6 +326,7 @@
 - [DÉCRET n°2014-1203 du 17 octobre 2014 (AGRT1416823D)](decret-n2014-1203-du-17-octobre-2014-agrt1416823d)
 - [DÉCRET n°2014-1204 du 17 octobre 2014 (EINI1423373D)](decret-n2014-1204-du-17-octobre-2014-eini1423373d)
 - [Décret n°2014-133 du 17 février 2014 (MENA1330827D)](decret-n2014-133-du-17-fevrier-2014-mena1330827d)
+- [DÉCRET n°2014-1371 du 17 novembre 2014 (FCPS1419336D)](decret-n2014-1371-du-17-novembre-2014-fcps1419336d)
 - [Décret n°2014-138 du 17 février 2014 (ACTI1318893D)](decret-n2014-138-du-17-fevrier-2014-acti1318893d)
 - [Décret n°2014-139 du 17 février 2014 (ACTI1319676D)](decret-n2014-139-du-17-fevrier-2014-acti1319676d)
 - [Décret n°2014-399 du 17 avril 2014 (PRMX1408465D)](decret-n2014-399-du-17-avril-2014-prmx1408465d)
