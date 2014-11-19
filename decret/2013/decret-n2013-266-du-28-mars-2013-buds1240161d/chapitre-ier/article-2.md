@@ -1,7 +1,7 @@
 # Article 2
 
-L'employeur qui opte en 2013 pour le dispositif mentionné à l'article L. 133-5-3 du code de la sécurité sociale, l'URSSAF, la caisse générale de sécurité sociale ou la caisse de mutualité sociale agricole dont il relève adhèrent à une « charte relative à la déclaration sociale nominative ». Le groupement d'intérêt public « modernisation des déclarations sociales » adhère également à la charte lorsque les déclarations sont effectuées par l'intermédiaire du portail internet qu'il gère.
+L'accès au dispositif mentionné à l'article L. 133-5-3 du code de la sécurité sociale est effectué par l'intermédiaire d'un portail figurant parmi ceux énumérés dans une liste fixée par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture. Lors de leur inscription sur l'un de ces portails, une charte relative à la déclaration sociale nominative est communiquée aux employeurs qui ont recours à la déclaration sociale nominative.
 
-Cette charte définit les engagements d'accompagnement de ces organismes ainsi que les conditions et modalités techniques selon lesquelles les déclarations prévues au I de l'article R. 133-13 du même code sont effectuées.
+Cette charte rappelle les conditions et modalités techniques selon lesquelles la déclaration sociale nominative doit être effectuée, indique les précautions que les employeurs sont invités à prendre dans le cadre de l'utilisation de ce dispositif et comporte les engagements d'accompagnement des URSSAF, des caisses générales de sécurité sociale ou des caisses de mutualité sociale agricole dont les employeurs relèvent.
 
 Elle est conforme à un modèle approuvé par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture.
