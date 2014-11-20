@@ -6,265 +6,198 @@ Dès lors qu'ils exercent en services déconcentrés, dans les établissements p
 <tbody>
 <tr>
 <td>
-<p align="center">Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (1re catégorie) </p>
+<p align="center">Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (1re catégorie)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">1. Personnels en fonctions dans les services déconcentrés, dans les établissements publics locaux d'enseignement et tes établissements publics relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur : </p>
+<td align="left" valign="middle">
+<p align="left">
+<br/>1. Personnels de catégorie A en fonctions dans les services déconcentrés, dans les établissements publics locaux d'enseignement et les établissements publics relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur : </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche ; </p>
+<td align="left">
+<p align="left">
+<br/>Attachés principaux d'administration de recherche et de formation ; </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers d'administration scolaire et universitaire ; </p>
+<td align="left">
+<p align="left">
+<br/>Chefs d'études documentaires ; </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Attachés principaux d'administration scolaire et universitaire de 1re et 2e classe ; </p>
+<td align="left">
+<p align="left">
+<br/>Chargés d'études documentaires principaux ; </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Intendants universitaires ; </p>
+<td align="left">
+<p align="left">
+<br/>Directeurs de centres d'orientation et d'information en fonctions auprès des chefs des services académiques d'information et d'orientation, délégués régionaux de l'Office national d'information sur les enseignements et les professions ; </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'administration de recherche et de formation de 1re classe ; </p>
+<td align="left">
+<p align="left">
+<br/>Conseillers d'orientation-psychologues en fonctions auprès des chefs des services académiques d'information et d'orientation, délégués régionaux de l'Office national d'information sur les enseignements et les professions. </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Attachés principaux d'administration de recherche et de formation de 1re et 2e classe ; </p>
+<td align="left" valign="middle">
+<br/>2. Personnels enseignants, d'éducation, et de direction exerçant des fonctions administratives dans les services déconcentrés et dans les établissements publics relevant du ministre chargé de l'éducation nationale : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chefs d'études documentaires ; </p>
+<td align="left">
+<br/>Professeurs agrégés ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'études documentaires principaux de 1re et 2e classe ; </p>
+<td align="left">
+<br/>Professeurs certifiés ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs de centres d'orientation et d'information en fonctions auprès des chefs des services académiques d'information et d'orientation, délégués régionaux de l'Office national d'information sur les enseignements et les professions ; </p>
+<td align="left">
+<br/>Professeurs bi-admissibles ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers d'orientation-psychologues en fonctions auprès des chefs des services académiques d'information et d'orientation, délégués régionaux de l'Office national d'information sur les enseignements et les professions. </p>
+<td align="left">
+<br/>Professeurs d'éducation physique et sportive ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">2. Personnels enseignants, d'éducation et de direction exerçant des fonctions administratives dans les services déconcentrés et dans les établissements publics relevant du ministre chargé de l'éducation nationale </p>
+<td align="left">
+<br/>Professeurs de lycée professionnel ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs agrégés ; </p>
+<td align="left">
+<br/>Chargés d'enseignement d'éducation physique et sportive hors classe et de classe exceptionnelle ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs certifiés ; </p>
+<td align="left">
+<br/>Professeurs d'enseignement général de collège hors classe et classe exceptionnelle ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs bi-admissibles ; </p>
+<td align="left">
+<br/>Professeurs des écoles ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs d'éducation physique et sportive ; </p>
+<td align="left">
+<br/>Conseillers principaux d'éducation ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs de lycée professionnel ; </p>
+<td align="left">
+<br/>Personnels de direction. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'enseignement d'éducation physique et sportive hors classe et de classe exceptionnelle ; </p>
+<td align="center" valign="middle">
+<br/>Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (2e catégorie) <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs d'enseignement général de collège hors classe et classe exceptionnelle ; </p>
+<td align="left" valign="middle">
+<br/>3. Personnels de catégorie A en fonctions dans les services déconcentrés, dans les établissements publics locaux d'enseignement et les établissements publics relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs des écoles ; </p>
+<td align="left">
+<br/>Attachés d'administration de recherche et de formation ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers principaux d'éducation ; </p>
+<td align="left">
+<br/>Chargés d'études documentaires ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Personnels de direction proviseurs vie scolaire. </p>
+<td align="left">
+<br/>Bibliothécaires. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (2e catégorie) </p>
+<td align="left" valign="middle">
+<br/>4. Personnels enseignants exerçant des fonctions administratives dans les services déconcentrés et dans les établissements publics relevant du ministre chargé de l'éducation nationale : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">3. Personnels en fonctions dans les services déconcentrés, dans les établissements publics locaux d'enseignement et les établissements publics relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur : </p>
+<td align="left">
+<br/>Chargés d'enseignement d'éducation physique et sportive de classe normale ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Attachés d'administration scolaire et universitaire ; </p>
+<td align="left">
+<br/>Professeurs d'enseignement général de collège de classe normale ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'administration de recherche et de formation de 2e classe ; </p>
+<td align="left">
+<br/>Adjoints d'enseignement. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Attachés d'administration de recherche et de formation ; </p>
+<td align="center" valign="middle">
+<br/>Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (3e catégorie) <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'études documentaires ; </p>
+<td align="left" valign="middle">
+<br/>5. Personnels de catégorie B en fonctions dans les services déconcentrés, dans les établissements publics locaux d'enseignement et les établissements publics relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur, et dont la rémunération indiciaire est supérieure à celle correspondant à l'indice brut 380 : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Bibliothécaires. </p>
+<td align="left">
+<br/>Bibliothécaires assistants spécialisés ; <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">4. Personnels enseignants, d'éducation et de direction exerçant des fonctions administratives dans les services déconcentrés : </p>
+<td align="left">
+<br/>Infirmières et infirmiers du ministère chargé de l'éducation nationale. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'enseignement d'éducation physique et sportive de classe normale ; </p>
+<td align="left">
+<br/>6. Personnels de catégorie B exerçant des fonctions administratives dans les services déconcentrés et les établissements publics relevant du ministre chargé de l'éducation nationale : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Professeurs d'enseignement général de collège de classe normale ; </p>
+<td align="left" valign="middle">
+<br/>Techniciens de recherche et de formation. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers d'éducation ; </p>
+<td align="left">
+<br/>7. Personnels enseignants exerçant des fonctions administratives dans les services déconcentrés et dans les établissements publics relevant du ministre chargé de l'éducation nationale : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Adjoints d'enseignement. </p>
+<td align="left">
+<br/>Instituteurs. <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (3e catégorie) </p>
+<td align="center" valign="middle">
+<br/>Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés (4e catégorie) <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">5. Personnels en fonctions dans les services déconcentrés, dans les établissements publics locaux d'enseignement et les établissements publics relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur : </p>
+<td align="left">
+<br/>8. Personnels de catégorie A dont l'indice brut terminal du dernier grade est égal à l'indice brut 730 : <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Bibliothécaires adjoints spécialisés hors classe et 1re classe ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Bibliothécaires adjoints spécialisés de 2e classe à partir du 6e échelon ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Infirmières et infirmiers de classe supérieure </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Infirmières et infirmiers de classe normale à partir du 4e échelon ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Assistants des bibliothèques de classe supérieure et de classe exceptionnelle ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Assistants des bibliothèques de classe normale à partir du 8e échelon ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires d'administration scolaire et universitaire de classe supérieure et de classe exceptionnelle ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires d'administration scolaire et universitaire de classe normale à partir du 8e échelon ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires d'administration de recherche et de formation de classe supé heure et de classe exceptionnelle ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires d'administration de recherche et de formation de classe normale à partir du 6e échelon ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires de documentation de classe supérieure et de classe exceptionnelle ; </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaires de documentation de classe normale à partir du 8e échelon ; </p>
-</td>
-</tr>
-<tr>
-<td>Technicien de laboratoire de classe supérieure et de classe exceptionnelle ; </td>
-</tr>
-<tr>
-<td rowspan="3">
-<p>Technicien de laboratoire de classe normale à partir du 8e échelon. </p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">6-Personnels enseignants, d'éducation et de direction exerçant des fonctions administratives dans les services déconcentrés : </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Instituteurs.</p>
+<td align="left" valign="middle">
+<br/>Infirmiers de l'éducation nationale et de l'enseignement supérieur.<br/>
 </td>
 </tr>
 </tbody>
