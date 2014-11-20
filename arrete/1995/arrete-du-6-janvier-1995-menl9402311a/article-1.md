@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des spécialités de baccalauréat professionnel ouvrant droit au concours général des métiers à compter de la session 2014 est fixée comme suit :
+La liste des spécialités de baccalauréat professionnel ouvrant droit au concours général des métiers à compter de la session 2015 est fixée comme suit :
 
 - artisanat et métiers d'art : option arts de la pierre ;
 
@@ -18,11 +18,11 @@ La liste des spécialités de baccalauréat professionnel ouvrant droit au conco
 
 - maintenance de véhicules automobiles, option voitures particulières ;
 
-- maintenance des matériels : option A : agricoles, option B : travaux publics et manutention et option C : parcs et jardins ;
+- maintenance des matériels : option A : agricoles ; option B : travaux publics et manutention et option C : parcs et jardins ;
 
-- métiers de la mode - vêtements ;
+- menuiserie aluminium-verre ;
 
-- ouvrages du bâtiment : aluminium, verre et matériaux de synthèse ;
+- métiers de la mode-vêtements ;
 
 - plastiques et composites ;
 
