@@ -6,7 +6,7 @@ Commission administrative paritaire n° 1 : corps des contrôleurs généraux é
 
 Commission administrative paritaire n° 2 : corps des administrateurs civils ;
 
-Commission administrative paritaire n° 3 : corps des attachés d'administration du ministère de l'économie, des finances et de l'industrie ;
+Commission administrative paritaire n° 3 : corps interministériel des attachés d'administration de l'Etat ;
 
 Commission administrative paritaire n° 4 : corps des traducteurs ;
 
