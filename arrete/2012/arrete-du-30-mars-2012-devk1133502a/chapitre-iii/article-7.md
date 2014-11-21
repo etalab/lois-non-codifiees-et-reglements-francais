@@ -2,7 +2,7 @@
 
 Le directeur du centre ministériel de valorisation des ressources humaines est nommé par arrêté du ministre chargé du développement durable, sur proposition du directeur des ressources humaines.
 
-Il exerce son autorité sur l'ensemble des personnels du centre.
+Il exerce son autorité sur l'ensemble des personnels du centre. Il est assisté par un adjoint qui peut le suppléer.
 
 Il anime le comité de direction du centre ministériel de valorisation des ressources humaines, qui comprend :
 
