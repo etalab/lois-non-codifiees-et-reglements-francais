@@ -1,476 +1,608 @@
 # Article Annexe I
 
-(QUOTAS EN TONNES)
+(Quotas en tonnes)
 
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="3"/>
-<td align="center">QUOTA <br/>
-<br/>en mer <br/>
-<br/>Méditerranée <br/>
+<td width="75">
+<br/>
 </td>
-<td align="center">DONT XT MAXIMUM <br/>
-<br/>est composé <br/>
-<br/>de thon rouge <br/>
-<br/>pesant entre 8 kg <br/>
-<br/>et 30 kg  <br/>
+<td width="111">
+<br/>
 </td>
-<td align="center">QUOTA EN OCÉAN <br/>
-<br/>atlantique à l'Est <br/>
-<br/>de la longitude 45° <br/>
-<br/>Ouest  <br/>
+<td width="111">
+<br/>
 </td>
-</tr>
-<tr>
-<td align="center" rowspan="3">OP du Sud  <br/>
+<td width="111">
+<br/>
 </td>
-<td align="left" colspan="2">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"  <br/>
+<td width="75">
+<p align="center">QUOTA <br/>en mer <br/>Méditerranée</p>
 </td>
-<td align="center">65,5 <br/>
+<td width="129">
+<p align="center">DONT X T MAXIMUM <br/>est composé de thon rouge pesant entre 8 kg et 30 kg</p>
 </td>
-<td align="center">13,0  <br/>
-</td>
-<td align="center">0<br/>
+<td width="110">
+<p align="center">QUOTA EN OCÉAN <br/>Atlantique à l'est de <br/>la longitude 45° Ouest</p>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"  <br/>
+<td valign="top" width="75">
+<p>OP du Sud</p>
 </td>
-<td align="center">11,1  <br/>
+<td colspan="3" valign="top" width="336">
+<p>Palangriers "petits métiers" titulaires d'une AEP "thon rouge"</p>
 </td>
-<td align="center">2,2 <br/>
+<td valign="top" width="75">
+<p>64,1</p>
 </td>
-<td align="center">0<br/>
+<td valign="top" width="129">
+<p>13,0</p>
 </td>
-</tr>
-<tr>
-<td align="left" colspan="2">Total OP du Sud  <br/>
-</td>
-<td align="center">76,6  <br/>
-</td>
-<td align="center">15,2 <br/>
-</td>
-<td align="center">0</td>
-</tr>
-<tr>
-<td align="center" rowspan="12">OP SATHOAN <br/>
-</td>
-<td align="left" rowspan="8">Senneurs titulaires d'une AEP "thon rouge" :  <br/>
-</td>
-<td>Jean Marie Christian 3 immatriculé 781462  </td>
-<td align="center">150 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>0</p>
 </td>
 </tr>
 <tr>
-<td>Jean Marie Christian 4 immatriculé 819527</td>
-<td align="center">150 <br/>
+<td valign="top" width="75">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="3" valign="top" width="336">
+<p>Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"</p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="75">
+<p>12,9</p>
 </td>
-</tr>
-<tr>
-<td>Janvier Giordano immatriculé 819571  </td>
-<td align="center">66 <br/>
+<td valign="top" width="129">
+<p>2,6</p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td>Sainte Sophie François 2 immatriculé 859076  </td>
-<td align="center">94  <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>0</p>
 </td>
 </tr>
 <tr>
-<td>Jean Marie Christian 6 immatriculé 900265  </td>
-<td align="center">150 <br/>
+<td valign="top" width="75">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="3" valign="top" width="336">
+<p>TotaL OP du Sud</p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="75">
+<p>77,0</p>
 </td>
-</tr>
-<tr>
-<td>Jean Marie Christian 7 immatriculé 900270 </td>
-<td align="center">150 <br/>
+<td valign="top" width="129">
+<p>15,6</p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td>Sainte Sophie François 3 immatriculé 923752  </td>
-<td align="center">94 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>0</p>
 </td>
 </tr>
 <tr>
-<td>Janvier Louis Raphaël immatriculé 925310  </td>
-<td align="center">248 <br/>
+<td valign="top" width="75">
+<p>OP SATHOAN</p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>Senneurs titulaires d'une AEP "thon rouge" :</p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>Jean Marie Christian 3 <br/>Jean Marie Christian 4 <br/>Janvier Giordano <br/>Sainte Sophie François 2 <br/>Jean Marie Christian 6 <br/>Jean Marie Christian 7 <br/>Sainte Sophie François 3 <br/>Janvier Louis Raphaël</p>
 </td>
-</tr>
-<tr>
-<td align="left" colspan="2">Palangriers hauturiers titulaires d'une AEP "thon rouge"  <br/>
+<td valign="top" width="111">
+<p>immatriculé 781462 <br/>immatriculé 819527 <br/>immatriculé 819571 <br/>immatriculé 859076 <br/>immatriculé 900265 <br/>immatriculé 900270 <br/>immatriculé 923752 <br/>immatriculé 925310</p>
 </td>
-<td align="center">23,5 <br/>
+<td valign="top" width="75">
+<p>150 <br/>150 <br/>66 <br/>94 <br/>150 <br/>150 <br/>94 <br/>248</p>
 </td>
-<td align="center">2,3  <br/>
+<td valign="top" width="129">
+<p>0 <br/>0 <br/>0 <br/>0 <br/>0 <br/>0 <br/>0 <br/>0</p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"  <br/>
-</td>
-<td align="center">106,85 <br/>
-</td>
-<td align="center">22,8  <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>0 <br/>0 <br/>0 <br/>0 <br/>0 <br/>0 <br/>0 <br/>0</p>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"  <br/>
+<td valign="top" width="75">
+<br/>
 </td>
-<td align="center">5,65  <br/>
+<td colspan="3" valign="top" width="336">
+<p>Palangriers hauturiers titulaires d'une AEP "thon rouge"</p>
 </td>
-<td align="center">1,5 <br/>
+<td width="75">
+<p>23,5 </p>
 </td>
-<td align="center">0 <br/>
+<td width="129">
+<p>4,2 </p>
 </td>
-</tr>
-<tr>
-<td align="left" colspan="2">Total SATHOAN  <br/>
-</td>
-<td align="center">1 238,0 <br/>
-</td>
-<td align="center">26,6  <br/>
-</td>
-<td align="center">0 <br/>
+<td width="110">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="5">Groupement de navires STM  <br/>
+<td valign="top" width="75">
+<br/>
 </td>
-<td align="left" rowspan="4">Senneurs titulaires d'une AEP "thon rouge" : <br/>
+<td colspan="3" valign="top" width="336">
+<p>Palangriers "petits métiers" titulaires d'une AEP "thon rouge"</p>
 </td>
-<td>Juanico Lucien Rafael immatriculé 308341   </td>
-<td align="center">114  <br/>
+<td width="75">
+<p>107,25 </p>
 </td>
-<td align="center">0 <br/>
+<td width="129">
+<p>20,9 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td>Cisberlande 5 immatriculé 923751  </td>
-<td align="center">256 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td width="110">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td>Gerald Jean III immatriculé 916344   </td>
-<td align="center">61 <br/>
+<td valign="top" width="75">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="3" valign="top" width="336">
+<p>Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"</p>
 </td>
-<td align="center">0 <br/>
+<td width="75">
+<p>5,65 </p>
 </td>
-</tr>
-<tr>
-<td>Gerald Jean IV immatriculé 916469   </td>
-<td align="center">61  <br/>
+<td width="129">
+<p>1,5 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2">Total STM  <br/>
-</td>
-<td align="center">492 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td width="110">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3">Groupement de navires golfe du Lion (SPMLR)  <br/>
+<td valign="top" width="75">
+<br/>
 </td>
-<td align="left" colspan="2">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"  <br/>
+<td colspan="3" valign="top" width="336">
+<p>Total SATHOAN</p>
 </td>
-<td align="center">2,7  <br/>
+<td width="75">
+<p>1 238,4 </p>
 </td>
-<td align="center">0,5 <br/>
+<td width="129">
+<p>26,6 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" <br/>
-</td>
-<td align="center">1,2 <br/>
-</td>
-<td align="center">0,2 <br/>
-</td>
-<td align="center">0 <br/>
+<td width="110">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="2">Total SPMLR <br/>
+<td valign="top" width="75">
+<p>Groupement de navires STM</p>
 </td>
-<td align="center">3,9 <br/>
+<td valign="top" width="111">
+<p>Senneurs titulaires d'une AEP "thon rouge" :</p>
 </td>
-<td align="center">0,7  <br/>
+<td valign="top" width="111">
+<p>Juanico Lucien Rafaël <br/>Cisberlande 5 <br/>Gerald Jean III <br/>Gerald Jean IV</p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>immatriculé 308341 <br/>immatriculé 923751 <br/>immatriculé 916344 <br/>immatriculé 916469</p>
+</td>
+<td valign="top" width="75">
+<p>114 <br/>256 <br/>61 <br/>61</p>
+</td>
+<td valign="top" width="129">
+<p>0 <br/>0 <br/>0 <br/>0 <br/>0</p>
+</td>
+<td valign="top" width="110">
+<p>0 <br/>0 <br/>0 <br/>0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<br/>
+</td>
+<td colspan="3" valign="top" width="336">
+<p>Total STM</p>
+</td>
+<td valign="top" width="75">
+<p>492</p>
+</td>
+<td valign="top" width="129">
+<p>0</p>
+</td>
+<td valign="top" width="110">
+<p>0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<p>Groupement de navires golfe du Lion (SPMLR)</p>
+</td>
+<td colspan="3" valign="top" width="336">
+<p>Palangriers "petits métiers" titulaires d'une AEP "thon rouge"</p>
+</td>
+<td valign="top" width="75">
+<p>3,1</p>
+</td>
+<td valign="top" width="129">
+<p>0,5</p>
+</td>
+<td valign="top" width="110">
+<p>0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<br/>
+</td>
+<td colspan="3" valign="top" width="336">
+<p>Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"</p>
+</td>
+<td valign="top" width="75">
+<p>1,2</p>
+</td>
+<td valign="top" width="129">
+<p>0,2</p>
+</td>
+<td valign="top" width="110">
+<p>0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="75">
+<br/>
+</td>
+<td colspan="3" valign="top" width="336">
+<p>Total SPMLR</p>
+</td>
+<td valign="top" width="75">
+<p>4,3</p>
+</td>
+<td valign="top" width="129">
+<p>0,7</p>
+</td>
+<td valign="top" width="110">
+<p>0</p>
 </td>
 </tr>
 </tbody>
 </table>
 
+.
+
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="3"/>
-<td align="center">QUOTA <br/>
-<br/>en mer <br/>
-<br/>Méditerranée <br/>
+<td width="74">
+<br/>
 </td>
-<td align="center">DONT XT MAXIMUM <br/>
-<br/>est composé <br/>
-<br/>de thon rouge <br/>
-<br/>pesant entre 8 kg <br/>
-<br/>et 30 kg  </td>
-<td align="center">QUOTA EN OCÉAN <br/>
-<br/>atlantique à l'Est <br/>
-<br/>de la longitude 45° <br/>
-<br/>Ouest  </td>
-</tr>
-<tr>
-<td align="center" rowspan="18">
-<p>Navires n'adhérant pas à une organisation </p>
-<p>de producteurs (hors OP)  </p>
+<td width="110">
+<br/>
 </td>
-<td align="left" rowspan="5">
-<p>Senneurs titulaires d'une AEP </p>
-<p>"thon rouge" :  </p>
+<td width="110">
+<br/>
 </td>
-<td align="left">Anne Antoine II immatriculé 819572   <br/>
+<td width="110">
+<br/>
 </td>
-<td align="center">58  </td>
-<td align="center">0 <br/>
+<td width="75">
+<p align="center">QUOTA <br/>en mer <br/>Méditerranée</p>
 </td>
-<td align="center">0 <br/>
+<td width="130">
+<p align="center">DONT X T MAXIMUM <br/>est composé de thon rouge <br/>pesant entre <br/>8 kg et 30 kg</p>
+</td>
+<td width="111">
+<p align="center">QUOTA EN OCÉAN <br/>Atlantique à l'est de la <br/>longitude 45° Ouest</p>
 </td>
 </tr>
 <tr>
-<td align="left">Gerard Luc IV immatriculé 900236   <br/>
+<td valign="top" width="74">
+<p>Navires n'adhérant pas à une organisation de producteurs (hors OP) </p>
 </td>
-<td align="center">118 <br/>
+<td valign="top" width="110">
+<p>Senneurs titulaires d'une AEP "thon rouge" : </p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>Anne Antoine II <br/>Gerard Luc IV <br/>Eric Marin <br/>Chrisderic II <br/>Ville d'Agde IV </p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>immatriculé 819572 <br/>immatriculé 900236 <br/>immatriculé 924860 <br/>immatriculé 863686 <br/>immatriculé 924880 </p>
 </td>
-</tr>
-<tr>
-<td align="left">Eric Marin  immatriculé 924860 <br/>
+<td valign="top" width="75">
+<p>58 <br/>118 <br/>58 <br/>58 <br/>58 </p>
 </td>
-<td align="center">58 <br/>
+<td valign="top" width="130">
+<p>0 <br/>0 <br/>0 <br/>0 <br/>0 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">Chrisderic II  immatriculé 863686<br/>
-</td>
-<td align="center">58 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>0 <br/>0 <br/>0 <br/>0 <br/>0 </p>
 </td>
 </tr>
 <tr>
-<td align="left">Ville d'Agde IV immatriculé 924880  </td>
-<td align="center">58 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<p>Palangriers "petits métiers" titulaires d'une AEP "thon rouge"</p>
 </td>
-<td align="center">0 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime des Alpes-Maritimes</p>
 </td>
-</tr>
-<tr>
-<td align="left" rowspan="6">
-<p>Palangriers "petits métiers" titulaires </p>
-<p>d'une AEP "thon rouge"  </p>
+<td valign="top" width="75">
+<p>1,3 </p>
 </td>
-<td align="left">et immatriculés dans un quartier maritime des Alpes maritimes  </td>
-<td align="center">0,9 </td>
-<td align="center">0,2 <br/>
+<td valign="top" width="130">
+<p>0,2 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">et immatriculés dans un quartier maritime des Bouches-du-Rhône  </td>
-<td align="center">15,0 <br/>
-</td>
-<td align="center">3,0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="left">et immatriculés dans un quartier maritime de la Corse  </td>
-<td align="center">4,7 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">0,9 <br/>
+<td valign="top" width="110">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime des Bouches-du-Rhône</p>
 </td>
-</tr>
-<tr>
-<td align="left">et immatriculés dans un quartier maritime de l'Hérault  </td>
-<td align="center">8,2 <br/>
+<td valign="top" width="75">
+<p>15,0 </p>
 </td>
-<td align="center">1,6 <br/>
+<td valign="top" width="130">
+<p>3,0 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">et immatriculés dans un quartier maritime des Pyrénées-Orientales  </td>
-<td align="center"> 0</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="left">et immatriculés dans un quartier maritime du Var </td>
-<td align="center">0,6 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">0,1 <br/>
+<td valign="top" width="110">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime de la Corse</p>
 </td>
-</tr>
-<tr>
-<td align="left" rowspan="6">
-<p>Canneurs, ligneurs "petits métiers" </p>
-<p>titulaires d'une AEP "thon rouge" :  </p>
+<td valign="top" width="75">
+<p>5,1 </p>
 </td>
-<td align="left">et immatriculés dans un quartier maritime des Alpes-Maritimes  </td>
-<td align="center">0 <br/>
+<td valign="top" width="130">
+<p>0,9 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="left">et immatriculés dans un quartier maritime des Bouches-du-Rhône  </td>
-<td align="center"> 3,0</td>
-<td align="center">0,6 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<br/>
 </td>
-</tr>
-<tr>
-<td align="left">et immatriculés dans un quartier maritime de la Corse  </td>
-<td align="center">2,1 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime de l'Hérault</p>
 </td>
-<td align="center">0,4 <br/>
+<td width="75">
+<p>8,2 </p>
 </td>
-<td align="center">0 <br/>
+<td width="130">
+<p>1,6 </p>
 </td>
-</tr>
-<tr>
-<td align="left">et immatriculés dans un quartier maritime de l'Hérault  </td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
-</td>
-<td align="center">0 <br/>
+<td width="111">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="left">et immatriculés dans un quartier maritime des Pyrénées-Orientales  </td>
-<td align="center">0 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime des Pyrénées-Orientales</p>
 </td>
-</tr>
-<tr>
-<td align="left">et immatriculés dans un quartier maritime du Var  </td>
-<td align="center">0 <br/>
+<td valign="top" width="75">
+<p>0 </p>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="130">
+<p>0 </p>
 </td>
-<td align="center">0 <br/>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2">Total hors OP  </td>
-<td align="center">384,5 <br/>
-</td>
-<td align="center">6,8 <br/>
-</td>
-<td align="center">0 <br/>
+<td valign="top" width="111">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur  </td>
-<td align="center">4 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td valign="top" width="110">
+<br/>
 </td>
-<td align="center">0 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime du Var</p>
+</td>
+<td valign="top" width="75">
+<p>0,6 </p>
+</td>
+<td valign="top" width="130">
+<p>0,1 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">Total  </td>
-<td align="center">2 199 <br/>
+<td valign="top" width="74">
+<br/>
 </td>
-<td align="center">49,3 <br/>
+<td valign="top" width="110">
+<p>Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" :</p>
 </td>
-<td align="center">0 <br/>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime des Alpes-Maritimes</p>
+</td>
+<td valign="top" width="75">
+<p>0 </p>
+</td>
+<td valign="top" width="130">
+<p>0 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime des Bouches-du-Rhône</p>
+</td>
+<td valign="top" width="75">
+<p>3,0 </p>
+</td>
+<td valign="top" width="130">
+<p>0,6 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime de la Corse</p>
+</td>
+<td valign="top" width="75">
+<p>2,1 </p>
+</td>
+<td valign="top" width="130">
+<p>0,4 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime de l'Hérault</p>
+</td>
+<td valign="top" width="75">
+<p>0 </p>
+</td>
+<td valign="top" width="130">
+<p>0 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime des Pyrénées-Orientales</p>
+</td>
+<td valign="top" width="75">
+<p>0 </p>
+</td>
+<td valign="top" width="130">
+<p>0 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td colspan="2" valign="top" width="223">
+<p>et immatriculés dans un quartier maritime du Var</p>
+</td>
+<td valign="top" width="75">
+<p>0 </p>
+</td>
+<td valign="top" width="130">
+<p>0 </p>
+</td>
+<td valign="top" width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="110">
+<p>Total hors OP</p>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td valign="top" width="110">
+<br/>
+</td>
+<td width="75">
+<p>385,3 </p>
+</td>
+<td width="130">
+<p>6,8 </p>
+</td>
+<td width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="410">
+<p>Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur</p>
+</td>
+<td width="75">
+<p>4 </p>
+</td>
+<td width="130">
+<p>0 </p>
+</td>
+<td width="111">
+<p>0 </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="410">
+<p>Total</p>
+</td>
+<td width="75">
+<p>2 201 </p>
+</td>
+<td width="130">
+<p>49,3 </p>
+</td>
+<td width="111">
+<p>0</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-<div align="center">
-
-</div>

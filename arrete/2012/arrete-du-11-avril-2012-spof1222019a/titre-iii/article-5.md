@@ -6,6 +6,6 @@ Le jury du test technique d'accès est présidé par le directeur régional de l
 
 ― un représentant de l'organisation professionnelle nationale la plus représentative, désigné par son président ;
 
-― des techniciens qualifiés, parmi lesquels figurent les ouvreurs.
+― des techniciens qualifiés parmi lesquels figurent les ouvreurs et le ou les traceurs.
 
 Parmi les membres du jury, le président du jury désigne un jury d'épreuve, dont la composition est définie en annexe I au présent arrêté. Ce jury est chargé de vérifier le déroulement de l'épreuve et sa conformité aux règles techniques mentionnées à l'article 4.

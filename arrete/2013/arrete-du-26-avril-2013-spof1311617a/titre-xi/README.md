@@ -1,0 +1,3 @@
+# TITRE XI : LA VALIDATION DES DEUX CYCLES  ET LES JURYS D'EXAMEN
+
+- [Article 27](article-27.md)

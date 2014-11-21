@@ -20,31 +20,47 @@ Le dossier comprend les pièces suivantes :
 
 7. Trois enveloppes autocollantes de format 23 × 16 cm affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat (*).
 
-Les convocations aux tests de la première période (tests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait aux tests, en vue d'une éventuelle inscription aux tests de la seconde période (test se déroulant entre les mois de mars et avril) .
+Les convocations aux tests de la première période (tests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet. Cette attestation est conservée par le candidat dans le cas où il échouerait aux tests, en vue d'une éventuelle inscription aux tests de la seconde période (test se déroulant entre les mois de mars et avril).
 
-II. ― Modalités d'organisation
+II. - Modalités d'organisation
 
-1. En cas d'échec à la première manche, les candidats ont la possibilité de se présenter à une seconde manche. L'ordre des départs est alors inversé.
+1. Conditions de déroulement de l'épreuve
 
-2. Les ouvreurs peuvent prendre leur premier départ à leur convenance. Chaque ouvreur est autorisé à prendre un nouveau départ, sur décision du jury.
+L'épreuve est constituée d'un slalom. Elle se déroule en deux manches, à raison d'un nombre maximal de 80 candidats par jour et par manche.
 
-En début de saison, chaque ouvreur est affecté d'un coefficient individuel par la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne pour les tests de la première période. En tant que de besoin, la section permanente peut procéder à un ajustement de ces coefficients pour les tests de la deuxième période.
+Exceptionnellement, l'épreuve peut être ouverte à 120 candidats. Dans ce cas, quatre manches sont organisées et les candidats sont répartis à raison d'un nombre maximal de 60 par manche.
 
-Les coefficients ont une valeur variable, inversement proportionnelle au niveau de l'ouvreur :
+En cas d'échec à la première manche, les candidats ont la possibilité de se présenter à une seconde manche. L'ordre des départs est alors inversé.
+
+2. Agrément des sites
+
+L'épreuve se déroule sur les stades de slalom désignés par le directeur général de l'Ecole nationale des sports de montagne, directeur de l'Ecole nationale de ski et d'alpinisme parmi une liste de stades agréés établie sur proposition de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. L'agrément est prononcé en référence aux règles techniques définies par la Fédération internationale de ski, aménagées afin de prendre en compte les objectifs spécifiques de cette épreuve.
+
+3. Ouvreurs
+
+3.1. Les ouvreurs et le ou les traceurs sont désignés par le directeur général de l'Ecole nationale des sports de montagne, directeur de l'Ecole nationale de ski et d'alpinisme, parmi ceux figurant sur une liste qu'il valide annuellement, sur proposition de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+
+3.2. Les ouvreurs sont au nombre minimal de deux.
+
+3.3. Les ouvreurs peuvent prendre leur premier départ à leur convenance. Chaque ouvreur est autorisé à prendre un nouveau départ, sur décision du jury.
+
+3.4. En début de saison, chaque ouvreur est affecté d'un coefficient individuel par la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, pour les tests de la première période. En tant que de besoin, la section permanente peut procéder à un ajustement de ces coefficients, pour les tests de la deuxième période.
+
+Les coefficients ont une valeur variable, inversement proportionnelle au niveau de l'ouvreur.
 
 A titre d'exemple :
 
-― l'ouvreur noté à 23 est affecté du coefficient 1,03 ;
+- l'ouvreur noté à 23 est affecté du coefficient 1,03 ;
 
-― l'ouvreur noté à 22 est affecté du coefficient 1,02 ;
+- l'ouvreur noté à 22 est affecté du coefficient 1,02 ;
 
-― l'ouvreur noté à 21 est affecté du coefficient 1,01 ;
+- l'ouvreur noté à 21 est affecté du coefficient 1,01 ;
 
-― l'ouvreur noté à 20 est affecté du coefficient 1,00 ;
+- l'ouvreur noté à 20 est affecté du coefficient 1,00 ;
 
-― l'ouvreur noté à 19 est affecté du coefficient 0,99 ;
+- l'ouvreur noté à 19 est affecté du coefficient 0,99 ;
 
-― l'ouvreur noté à 18 est affecté du coefficient 0,98.
+- l'ouvreur noté à 18 est affecté du coefficient 0,98.
 
 III. ― Modalités de calcul du temps de base et du temps maximal à réaliser pour l'admission
 

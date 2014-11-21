@@ -1,0 +1,3 @@
+# Article 2-1
+
+<div align="left">Les  personnes titulaires de diplômes étrangers souhaitant intégrer le  cursus de formation du diplôme d'Etat de ski-moniteur national de ski  nordique de fond en font la demande auprès du Pôle national des métiers  de l'encadrement du ski et de l'alpinisme. Le directeur général de  l'Ecole nationale des sports de montagne, site du Centre national de ski  nordique et de moyenne montagne procède à leur intégration et à leur  positionnement dans ce cursus, après avis de la section permanente du  ski de fond de la commission de la formation et de l'emploi du Conseil  supérieur des sports de montagne.</div>

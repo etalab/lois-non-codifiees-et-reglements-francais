@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidats au test technique d'accès prévu à l'article 2 doivent être âgés de dix-sept ans révolus à la date du début de la session du test.
+Les candidats au test technique d'accès prévu à l'article 2 doivent être âgés de dix-sept ans révolus au 31 décembre de l'année civile au cours de laquelle se déroule le test.
 
 Le dossier d'inscription, dont la composition est fixée en annexe I au présent arrêté, est déposé auprès de la direction régionale de la jeunesse, des sports et de la cohésion sociale territorialement compétente.
 
