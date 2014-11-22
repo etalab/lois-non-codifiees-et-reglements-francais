@@ -72,23 +72,23 @@ Syndicat de la presse quotidienne régionale (SPQR) : 1 suppléant.
 
 Syndicat de la presse quotidienne nationale (SPQN) : 1 suppléant.
 
-7. Représentants des éditeurs de livres
+7. Représentants des éditeurs de livres :
 
-Editis : 1 titulaire.
+Syndicat national de l'édition (SNE) : 2 titulaires et 2 suppléants.
 
-Les Editions Gallimard : 1 titulaire.
+8. Représentants des producteurs audiovisuels :
 
-Syndicat national de l'édition (SNE) : 2 suppléants.
+Union syndicale de la production audiovisuelle (USPA) : 1 titulaire.
 
-8. Représentants des producteurs audiovisuels
-
-Union syndicale de la production audiovisuelle (USPA) : 1 titulaire et 1 suppléant.
+Syndicat des producteurs de films d'animation (SPFA) : 1 suppléant.
 
 Syndicat des producteurs indépendants (SPI) : 1 titulaire et 1 suppléant.
 
-9. Représentants des producteurs de cinéma
+9. Représentants des producteurs de cinéma :
 
-Union des producteurs de films (UPF) : 1 titulaire et 1 suppléant.
+Union des producteurs de films (UPF) : 1 titulaire.
+
+Association des producteurs indépendants (API) : 1 suppléant.
 
 Association des producteurs de cinéma (APC) : 1 titulaire.
 
