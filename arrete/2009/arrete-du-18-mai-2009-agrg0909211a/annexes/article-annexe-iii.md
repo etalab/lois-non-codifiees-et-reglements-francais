@@ -17,14 +17,14 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 </td>
 </tr>
 <tr>
-<td align="center"> Végétaux, produits végétaux<br/>et autres objets<br/>(y compris bois<br/>sous toutes ses formes<br/>et fruits et légumes)</td>
-<td align="center"> Bois sous toutes<br/>ses formes exclusivement</td>
-<td align="center"> Fruits et légumes<br/>exclusivement</td>
+<td align="center">Végétaux, produits végétaux<br/>et autres objets<br/>(y compris bois<br/>sous toutes ses formes<br/>et fruits et légumes)</td>
+<td align="center">Bois sous toutes<br/>ses formes exclusivement</td>
+<td align="center">Fruits et légumes<br/>exclusivement</td>
 </tr>
 <tr>
-<td> Bordeaux</td>
-<td> Aéroport-port</td>
-<td align="center"> Tous</td>
+<td>Bordeaux</td>
+<td>Aéroport-port</td>
+<td align="center">Tous</td>
 <td/>
 <td/>
 </tr>
@@ -336,6 +336,19 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Mayotte-Longoni</p>
+</td>
+<td>
+<p align="center">Aéroport-port </p>
+</td>
+<td>
+<p align="center">Tous</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Nantes<br/>
 </p>
@@ -427,7 +440,7 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 </p>
 </td>
 <td align="center">
-<p align="center">Perpignan<br/>
+<p align="center">Tous<br/>
 </p>
 </td>
 <td align="center">
@@ -436,7 +449,8 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 </p>
 </td>
 <td align="center">
-<p align="center">Port-Vendres<br/>
+<p align="center">
+<br/>
 </p>
 </td>
 </tr>
@@ -583,8 +597,8 @@ POINTS D'ENTRÉE COMMUNAUTAIRES
 <tr>
 <td>Sète <br/>
 </td>
-<td align="center"> Port</td>
-<td align="center"> Tous</td>
+<td align="center">Port</td>
+<td align="center">Tous</td>
 <td/>
 <td/>
 </tr>

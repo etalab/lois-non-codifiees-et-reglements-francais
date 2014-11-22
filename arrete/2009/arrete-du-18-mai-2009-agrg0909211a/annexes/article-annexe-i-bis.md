@@ -6,20 +6,20 @@ POINTS D'ENTRÉE AUTORISÉS
 <tbody>
 <tr>
 <td>
-<p align="center"> NOM</p>
+<p align="center">NOM</p>
 </td>
 <td>
-<p align="center"> CODE TRACES</p>
+<p align="center">CODE TRACES</p>
 </td>
 <td>
-<p align="center"> TYPE</p>
+<p align="center">TYPE</p>
 </td>
 <td>
-<p align="center"> PRODUITS</p>
+<p align="center">PRODUITS</p>
 </td>
 <td>
-<p align="center"> ANIMAUX<br/>
-<br/>vivants</p>
+<p align="center">ANIMAUX</p>
+<p>vivants</p>
 </td>
 </tr>
 <tr>
@@ -35,10 +35,7 @@ POINTS D'ENTRÉE AUTORISÉS
 <td align="center">
 <br/>HC, NHC<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -53,10 +50,7 @@ POINTS D'ENTRÉE AUTORISÉS
 <td align="center">
 <br/>HC, NHC-NT<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -71,10 +65,7 @@ POINTS D'ENTRÉE AUTORISÉS
 <td align="center">
 <br/>HC, NHC-T(CH), NHC-NT<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -111,15 +102,32 @@ POINTS D'ENTRÉE AUTORISÉS
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Mayotte-Longoni</p>
+</td>
+<td>
+<p align="center">FR LON 1</p>
+</td>
+<td>
+<p align="center">Port</p>
+</td>
+<td>
+<p align="center">HC, NHC-NT</p>
+</td>
+<td/>
+</tr>
+<tr>
 <td colspan="5">
-<br/>HC = tous produits de consommation humaine.<br/>
-<br/>NHC = autres produits non destinés à la consommation humaine.<br/>
-<br/>NT = sans conditions de température.<br/>
-<br/>T = produits soumis à des conditions de température :<br/>
-<br/>(FR) = produits congelés.<br/>
-<br/>(CH) = produits réfrigérés.<br/>
-<br/>E = équidés enregistrés au sens de la directive 90/426/CEE.<br/>
-<br/>O = autres animaux (y compris animaux des jardins zoologiques), autres que E et U (ongulés tels que bovins, porcins, ovins, caprins, solipèdes sauvages et domestiques).<br/>
+<p align="left">
+<br/>HC = tous produits de consommation humaine. </p>
+<p align="left">NHC = autres produits non destinés à la consommation humaine.</p>
+<p align="left">NT = sans conditions de température.</p>
+<p align="left">T = produits soumis à des conditions de température :</p>
+<p align="left">(FR) = produits congelés.</p>
+<p align="left">(CH) = produits réfrigérés.</p>
+<p align="left">E = équidés enregistrés au sens de la directive 90/426/CEE.</p>
+<p align="left">O = autres animaux (y compris animaux des jardins zoologiques), autres que E et U (ongulés tels que bovins, porcins, ovins, caprins, solipèdes sauvages et domestiques).<br/>
+</p>
 </td>
 </tr>
 </tbody>
