@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation " site Natura 2000 bocage, forêts et milieux humides du Sud Morvan " (zone spéciale de conservation FR 2601015) l'espace délimité sur la carte d'assemblage au 1/120 000 et les seize cartes au 1/25 000 ci-jointes, s'étendant dans le département de la Nièvre, sur une partie du territoire des communes suivantes : Fléty, Fours, Glux-en-Glenne, Larochemillay, Limanton, Luzy, Millay, Montaron, Moulins-Engilbert, La Nocle-Maulaix, Onlay, Poil, Préporché, Saint-Honoré-les-Bains, Saint-Léger-de-Fougeret, Savigny-Poil-Fol, Sermages, Thaix, Vandenesse, Villapourçon ; sur la totalité du territoire des communes suivantes : Avrée, Chiddes, Lanty, Rémilly, Sémelay.
