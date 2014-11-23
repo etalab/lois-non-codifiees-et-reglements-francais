@@ -10,7 +10,7 @@ Survitesse : vitesse de rotation des parties tournantes (rotor constitué du moy
 
 Aérogénérateur : dispositif mécanique destiné à convertir l'énergie du vent en électricité, composé des principaux éléments suivants : un mât, une nacelle, le rotor auquel sont fixées les pales, ainsi que, le cas échéant, un transformateur.
 
-Emergence : la différence entre les niveaux de pression acoustiques pondérés  A  du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation).
+Emergence : la différence entre les niveaux de pression acoustiques pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation).
 
 Zones à émergence réglementée :
 
@@ -23,3 +23,5 @@ Zones à émergence réglementée :
 Périmètre de mesure du bruit de l'installation : périmètre correspondant au plus petit polygone dans lequel sont inscrits les disques de centre chaque aérogénérateur et de rayon R défini comme suit :
 
 R = 1,2 × (hauteur de moyeu + longueur d'un demi-rotor)
+
+Zones d'impact : au sens du présent arrêté, les zones d'impact s'entendent à l'intérieur de la surface définie par les distances minimales d'éloignement précisées au tableau II de l'article 4 et pour lesquelles les mesures du radar météorologique sont inexploitables du fait de l'impact cumulé des aérogénérateurs.
