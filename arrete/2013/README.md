@@ -230,6 +230,7 @@
 - [Arrêté du 21 juin 2011 (EFIP1115702A)](arrete-du-21-juin-2011-efip1115702a)
 - [Arrêté du 21 mars 2013 (AFSH1307681A)](arrete-du-21-mars-2013-afsh1307681a)
 - [Arrêté du 21 novembre 2013 (DEVR1328804A)](arrete-du-21-novembre-2013-devr1328804a)
+- [Arrêté du 22 décembre 2003 (SOCF0312100A)](arrete-du-22-decembre-2003-socf0312100a)
 - [Arrêté du 22 janvier 2013 (FPAC1301141A)](arrete-du-22-janvier-2013-fpac1301141a)
 - [Arrêté du 22 juillet 2013 (ETSD1318318A)](arrete-du-22-juillet-2013-etsd1318318a)
 - [Arrêté du 22 mars 2013 (INTC1306774A)](arrete-du-22-mars-2013-intc1306774a)
