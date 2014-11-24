@@ -465,6 +465,8 @@
 - [DÉCRET n°2014-1229 du 21 octobre 2014 (AGRT1419024D)](decret-n2014-1229-du-21-octobre-2014-agrt1419024d)
 - [DÉCRET n°2014-1230 du 21 octobre 2014 (ETLL1414636D)](decret-n2014-1230-du-21-octobre-2014-etll1414636d)
 - [DÉCRET n°2014-1387 du 21 novembre 2014 (INTA1426392D)](decret-n2014-1387-du-21-novembre-2014-inta1426392d)
+- [DÉCRET n°2014-1388 du 21 novembre 2014 (PRMI1426489D)](decret-n2014-1388-du-21-novembre-2014-prmi1426489d)
+- [DÉCRET n°2014-1389 du 21 novembre 2014 (DEVA1423073D)](decret-n2014-1389-du-21-novembre-2014-deva1423073d)
 - [Décret n°2014-217 du 21 février 2014 (INTA1330845D)](decret-n2014-217-du-21-fevrier-2014-inta1330845d)
 - [Décret n°2014-363 du 21 mars 2014 (AFSS1403347D)](decret-n2014-363-du-21-mars-2014-afss1403347d)
 - [Décret n°2014-364 du 21 mars 2014 (RDFF1331420D)](decret-n2014-364-du-21-mars-2014-rdff1331420d)
