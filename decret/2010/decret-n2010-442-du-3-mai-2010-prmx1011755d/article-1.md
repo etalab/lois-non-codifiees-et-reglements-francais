@@ -18,4 +18,6 @@ Le Commissariat à l'énergie atomique et aux énergies alternatives ;
 
 L'Office national d'études et de recherches aérospatiales ;
 
+L'Etablissement national des produits de l'agriculture et de la mer (France Agrimer) ;
+
 OSEO.
