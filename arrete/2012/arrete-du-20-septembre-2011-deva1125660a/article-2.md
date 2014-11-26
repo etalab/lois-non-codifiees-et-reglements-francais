@@ -2,9 +2,9 @@
 
 Sous réserve des dispositions spécifiques prévues à l'article 4 du présent arrêté, tous les aéronefs doivent respecter les procédures particulières de décollage et de montée initiale élaborées en vue de limiter les nuisances sonores.
 
-L'utilisation de la procédure d'arrivée à Paris - Charles-de-Gaulle en provenance du sud-est face à l'est, dénommée OKIPA 1E., est interdite entre 22 h 20 et 7 heures, heures locales de passage du point MOSUD.
+Toute utilisation de procédure d'arrivée à l'aéroport de Paris - Charles-de-Gaulle en configuration face à l'est, en provenance du sud-est, et passant au sud de la plate-forme à partir du point MOSUD est interdite dès lors qu'elle s'effectuerait avec un passage audit point MOSUD entre 22 h 20 et 7 heures, heures locales.
 
-Ces procédures particulières sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+Les procédures en vigueur concernées par les dispositions de l'alinéa précédent sont précisées et portées à la connaissance des usagers par la voie de l'information aéronautique.
 
 Aucun essai moteur ne peut être effectué entre 22 heures et 6 heures, heures locales.
 
