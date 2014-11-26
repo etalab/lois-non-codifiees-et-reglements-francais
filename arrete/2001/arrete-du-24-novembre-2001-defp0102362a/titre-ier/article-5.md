@@ -1,6 +1,6 @@
 # Article 5
 
-Les candidats qui s'inscrivent au titre de la seconde voie du concours doivent adresser à l'Ecole polytechnique, avant une date fixée chaque année par le directeur général de l'école, un dossier d'inscription comportant les pièces suivantes :
+Les candidats qui s'inscrivent au titre de la seconde voie du concours doivent adresser à l'Ecole polytechnique, avant une date fixée chaque année par le président du conseil d'administration de l'école, un dossier d'inscription comportant les pièces suivantes :
 
 1° Une demande d'inscription au concours, avec fiche de renseignements ;
 

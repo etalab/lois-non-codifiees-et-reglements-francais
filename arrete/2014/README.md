@@ -4,6 +4,7 @@
 - [Arrêté du 2 août 2013 (ETST1322259A)](arrete-du-2-aout-2013-etst1322259a)
 - [Arrêté du 2 décembre 2002 (MENA0202724A)](arrete-du-2-decembre-2002-mena0202724a)
 - [Arrêté du 2 décembre 2013 (BUDD1332208A)](arrete-du-2-decembre-2013-budd1332208a)
+- [Arrêté du 2 janvier 2013 (DEVK1238194A)](arrete-du-2-janvier-2013-devk1238194a)
 - [Arrêté du 2 janvier 2014 (AFSR1400084A)](arrete-du-2-janvier-2014-afsr1400084a)
 - [Arrêté du 2 janvier 2014 (INTE1400144A)](arrete-du-2-janvier-2014-inte1400144a)
 - [Arrêté du 2 janvier 2014 (PRMG1310794A)](arrete-du-2-janvier-2014-prmg1310794a)

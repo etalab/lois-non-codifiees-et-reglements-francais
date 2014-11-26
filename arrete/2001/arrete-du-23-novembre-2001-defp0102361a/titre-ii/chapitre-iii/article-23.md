@@ -14,7 +14,7 @@ a) Pour la filière MP :
 
 - une interrogation de français (durée : trente minutes) ;
 
-- une interrogation de langue vivante obligatoire (durée : trente minutes) ;
+- une interrogation de langue vivante obligatoire (durée : vingt minutes) ;
 
 - une interrogation de langue vivante facultative (durée : quinze minutes).
 
@@ -34,7 +34,7 @@ b) Pour la filière PC :
 
 - une interrogation de français (durée : trente minutes) ;
 
-- une interrogation de langue vivante obligatoire (durée : trente minutes) ;
+- une interrogation de langue vivante obligatoire (durée : vingt minutes) ;
 
 - une interrogation de langue vivante facultative (durée : quinze minutes).
 

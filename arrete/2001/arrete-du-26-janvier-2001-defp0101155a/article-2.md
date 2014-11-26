@@ -12,4 +12,4 @@ Pour être autorisé à concourir, tout candidat doit :
 
 5. Etre inscrit dans une université en troisième année de licence de sciences ou de sciences et technologie ou en magistère portant sur l'une ou plusieurs des mentions suivantes : mathématiques, informatique, mécanique, physique, chimie ou une mention jugée équivalente par la commission prévue à l'article 7 du présent arrêté ;
 
-6. Avoir acquitté les droits d'inscription dont le montant est fixé par arrêté conjoint du ministre chargé des armées et du ministre chargé du budget.
+6. Avoir acquitté les droits d'inscription dont le montant est fixé par arrêté conjoint du ministre de la défense et du ministre chargé du budget.

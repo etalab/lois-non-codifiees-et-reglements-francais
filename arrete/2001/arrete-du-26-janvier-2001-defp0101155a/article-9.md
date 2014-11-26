@@ -8,7 +8,7 @@ Les candidats admissibles sont convoqués à l'Ecole polytechnique pour subir le
 
 3. Une épreuve d'analyse de documents scientifiques (ADS) de 40 minutes (coefficient 10), préparée pendant deux heures et portant sur les mathématiques, la physique ou la chimie au choix du candidat.
 
-Cette épreuve se déroule dans les mêmes conditions que celles qui sont prévues pour les filières MP et PC du concours d'admission à l'annexe I, section B-III de l'arrêté du 23 septembre 1996 susvisé.
+Cette épreuve se déroule dans les mêmes conditions que celles qui sont prévues pour les filières MP et PC du concours d'admission à l'annexe III, section B-III de l'arrêté du 23 novembre 2001 précité.
 
 4. Une épreuve de 30 minutes de français (coefficient 3) comportant un résumé, un commentaire et un entretien sur la base d'un texte d'intérêt général, après une préparation de trente minutes ;
 

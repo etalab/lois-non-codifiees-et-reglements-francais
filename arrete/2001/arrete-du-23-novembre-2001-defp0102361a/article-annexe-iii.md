@@ -28,33 +28,37 @@ Cette épreuve a pour but d'évaluer l'aptitude des candidats à dégager object
 
 II. - Epreuves de langue vivante obligatoire
 
-a) A l'écrit :
+1. A l'écrit :
 
-La version est jugée du double point de vue de l'intelligence du texte et de la maîtrise de la langue française.
+L'épreuve de langue comprend deux parties (A et B) :
 
-L'épreuve d'expression écrite en langue étrangère s'appuie sur un texte en langue française portant sur un sujet général de nature scientifique, technique, économique ou sociologique. Les candidats doivent répondre dans la langue qu'ils ont choisie à deux questions, l'une portant explicitement sur le contenu du texte, l'autre élargissant la réflexion en faisant appel à leur culture personnelle.
+(A) Une synthèse de documents, à rédiger intégralement dans la langue choisie à partir d'un dossier comprenant trois articles d'environ 600 à 800 mots dans la langue choisie, ainsi qu'un document iconographique (images, tableaux, graphiques, statistiques), soit quatre documents au total ; sans paraphraser les documents proposés dans le dossier, le candidat réalise une synthèse de celui-ci, en mettant clairement en valeur ses principaux enseignements et enjeux dans le contexte de l'aire géographique de la langue choisie, et en prenant soin de n'ajouter aucun commentaire personnel à sa composition.
 
-b) A l'oral :
+Obligatoirement précédée d'un titre proposé par le candidat, la synthèse doit comporter entre 600 et 675 mots.
 
-L'épreuve orale de langue vivante comprend deux parties :
+Les dossiers porteront sur l'actualité politique, culturelle, économique ou sociale au sein de l'aire géographique de la langue choisie. Aucune connaissance spécialisée n'est nécessaire pour réaliser la synthèse. Pour préparer cette partie de l'épreuve écrite de langue, il est conseillé aux candidats de suivre attentivement, pendant l'année du concours, les grandes problématiques qui font l'objet d'articles fréquents dans la presse généraliste rédigée dans la langue considérée.
 
-- test de compréhension auditive ;
+(B) Un texte d'opinion, à rédiger dans la langue choisie. Un éditorial comprenant entre 400 et 500 mots, rédigé dans la langue choisie, et portant sur la même thématique que les quatre autres documents du dossier de synthèse proposé au titre de la partie (A) de l'épreuve, est proposé au candidat ; celui-ci réagit aux arguments exprimés dans cet éditorial, en rédigeant lui-même un texte d'opinion d'une longueur de 500 à 600 mots.
 
-- analyse et commentaire dans la langue étrangère choisie par le candidat parmi les langues autorisées, d'un texte de la même langue.
+L'usage de tout matériel électronique est strictement interdit pendant l'épreuve de langue.
 
-Première partie : en laboratoire, le candidat écoute trois fois un texte ou un document sonore identique enregistré d'une durée de cinq minutes environ ; il est ensuite interrogé en langue étrangère, durant quinze minutes, et doit faire la preuve au cours de cette interrogation de sa bonne compréhension de l'ensemble du texte et de ses articulations logiques ainsi que d'une bonne maîtrise de la langue parlée.
+2. A l'oral :
 
-Deuxième partie : le candidat doit analyser puis commenter dans la langue étrangère qu'il a choisie parmi les langues autorisées un texte de cette langue ; ce texte emprunté par l'examinateur à un journal ou à une revue de l'année en cours n'exige pas une connaissance spécialisée de la civilisation étrangère.
+Un extrait vidéo d'une durée de 4 à 6 minutes maximum dans la langue choisie, portant sur l'actualité, est proposé au candidat, qui en prépare un court résumé et un commentaire personnel suivi d'un entretien avec l'examinateur. Les extraits vidéo proposés sont des documents journalistiques (extraits d'émissions télévisées, de débats, de bulletins d'information et de documentaires).
 
-Le candidat dispose d'une demi-heure pour préparer ce travail et conserve le texte sous ses yeux comme soutien de mémoire pendant son exposé. Il doit, dans celui-ci, s'affranchir de la présentation matérielle de l'article et prouver qu'il est capable de la repenser, d'en dégager les points essentiels et les détails significatifs et de mesurer leur importance.
+Le candidat bénéficie de trente minutes de préparation. L'épreuve permet d'apprécier la bonne compréhension du document proposé ainsi que la précision de la langue, l'autonomie langagière et la qualité de la réflexion du candidat.
+
+Chaque jury de cette épreuve orale est composé de deux examinateurs.
+
+III. - Epreuve orale de langue vivante facultative
+
+Au cours de l'épreuve de langue vivante facultative, le candidat doit analyser puis commenter dans la langue étrangère qu'il a choisie un texte rédigé dans cette même langue ; ce texte emprunté par l'examinateur à un journal ou à une revue de l'année en cours n'exige pas une connaissance spécialisée de la civilisation étrangère.
+
+Le candidat dispose de trente minutes de préparation et conserve le texte sous ses yeux comme soutien de mémoire pendant son exposé. Il doit, dans celui-ci, s'affranchir de la présentation matérielle de l'article et prouver qu'il est capable de la repenser, d'en dégager les points essentiels et les détails significatifs et de mesurer leur importance.
 
 Le candidat peut élargir son commentaire par des remarques appropriées et l'examinateur peut également orienter le candidat vers une discussion plus générale. Il appartient à celui-ci de montrer ainsi son aptitude à exposer et développer des idées et à dialoguer en langue étrangère avec un interlocuteur.
 
 Le candidat est jugé globalement sur sa compréhension de la langue étrangère, son aisance à la manier, ses facultés d'analyse et de synthèse, son esprit critique et sa culture générale.
-
-III. - Epreuve orale de langue vivante facultative
-
-L'épreuve orale de langue vivante facultative se déroule dans les mêmes conditions que la deuxième partie de l'épreuve orale de langue vivante obligatoire (analyse et commentaire de texte).
 
 B. - Programme scientifique
 

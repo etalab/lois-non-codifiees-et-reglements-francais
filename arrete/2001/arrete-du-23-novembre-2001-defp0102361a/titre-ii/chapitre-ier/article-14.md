@@ -36,6 +36,6 @@ E. - Epreuves communes aux deux filières MP et PC :
 
 - français (durée : quatre heures) ;
 
-- langue vivante comprenant une épreuve d'expression écrite en langue étrangère (durée : une heure trente) et une version (durée : une heure trente).
+- langue vivante comprenant une synthèse de documents et un texte d'opinion dans la langue choisie (durée : quatre heures).
 
 L'épreuve de langue vivante porte, au choix du candidat, sur les langues suivantes : allemand, anglais, arabe, chinois, espagnol.
