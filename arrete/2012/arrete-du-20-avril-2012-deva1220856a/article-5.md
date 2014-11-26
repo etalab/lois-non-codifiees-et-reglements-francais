@@ -1,6 +1,6 @@
 # Article 5
 
-Le domaine « Production et exploitation » (PROD) est garant de la disponibilité, de la continuité et de la sécurité, de la performance des environnements de production. Il assure l'exploitation du SIGP, gère les infrastructures techniques informatiques et participe au développement des projets techniques du SIGP.
+Le domaine " Production et exploitation " (PROD) est garant de la disponibilité, de la continuité et de la sécurité, de la performance des environnements de production. Il assure l'exploitation du SIGP, gère les infrastructures techniques informatiques et participe au développement des projets techniques du SIGP.
 
 Il est responsable de la qualification en exploitation des logiciels du SIGP et en assure la diffusion à tous les services de la direction générale de l'aviation civile.
 
@@ -18,12 +18,10 @@ Il apporte le support de premier niveau aux utilisateurs du siège de la directi
 
 Il apporte le support de second niveau aux administrateurs d'informatique de gestion des autres sites.
 
-Le domaine « Production et exploitation » comprend quatre pôles :
+Le domaine " Production et exploitation " comprend quatre pôles :
 
-― le pôle « exploitation des serveurs » ;
+― le pôle " exploitation des serveurs " ;
 
-― le pôle « exploitation des réseaux » ;
+― le pôle " exploitation des réseaux " ;
 
-― le pôle « centre de service et communauté des administrateurs d'informatique de gestion » ;
-
-― le pôle « support Farman ».
+― le pôle " centre de service et communauté des administrateurs d'informatique de gestion ".
