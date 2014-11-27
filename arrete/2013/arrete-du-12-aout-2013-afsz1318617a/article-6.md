@@ -1,0 +1,3 @@
+# Article 6
+
+La mission des réseaux d'administration centrale, déconcentrés, des agences régionales de santé et des opérateurs promeut et met en œuvre la démarche d'amélioration de la gestion des ressources humaines dans les services centraux et territoriaux et les opérateurs relevant des ministères chargés des affaires sociales. Elle coordonne les relations transversales de la direction avec ces services et opérateurs. Elle est chargée des relations avec les organismes nationaux de sécurité sociale pour la gestion des personnels des agences régionales de santé régis par les conventions collectives de ces organismes qui leur sont applicables.

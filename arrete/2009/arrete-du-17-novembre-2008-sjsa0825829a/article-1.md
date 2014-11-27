@@ -21,7 +21,7 @@ Les taux moyens annuels servant de base de calcul des crédits pour l'attributio
 <tr>
 <td align="center">Inspecteur principal de la jeunesse et des sports<br/>
 </td>
-<td align="center">8 520<br/>
+<td align="center">12 674<br/>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ Les taux moyens annuels servant de base de calcul des crédits pour l'attributio
 <tr>
 <td align="center">Inspecteur de la jeunesse et des sports<br/>
 </td>
-<td align="center">7 130<br/>
+<td align="center">10 608<br/>
 </td>
 </tr>
 </tbody>
