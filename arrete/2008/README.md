@@ -38,7 +38,6 @@
 - [Arrêté du 2 septembre 2008 (MAEA0819923A)](arrete-du-2-septembre-2008-maea0819923a)
 - [Arrêté du 2 mai 2002 (ECOP0200200A)](arrete-du-2-mai-2002-ecop0200200a)
 - [Arrêté du 3 avril 2008 (BCFP0807277A)](arrete-du-3-avril-2008-bcfp0807277a)
-- [Arrêté du 3 avril 2008 (MCCB0809028A)](arrete-du-3-avril-2008-mccb0809028a)
 - [Arrêté du 3 décembre 2008 (AGRP0825406A)](arrete-du-3-decembre-2008-agrp0825406a)
 - [Arrêté du 3 décembre 2008 (DEVL0822780A)](arrete-du-3-decembre-2008-devl0822780a)
 - [Arrêté du 3 décembre 2008 (MTST0828676A)](arrete-du-3-decembre-2008-mtst0828676a)
