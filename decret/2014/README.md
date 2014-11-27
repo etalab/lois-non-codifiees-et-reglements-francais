@@ -594,6 +594,8 @@
 - [DÉCRET n°2014-1241 du 24 octobre 2014 (RDFB1418687D)](decret-n2014-1241-du-24-octobre-2014-rdfb1418687d)
 - [DÉCRET n°2014-1243 du 24 octobre 2014 (OMEO1415246D)](decret-n2014-1243-du-24-octobre-2014-omeo1415246d)
 - [DÉCRET n°2014-1244 du 24 octobre 2014 (OMEO1415262D)](decret-n2014-1244-du-24-octobre-2014-omeo1415262d)
+- [DÉCRET n°2014-1393 du 24 novembre 2014 (DEVR1412297D)](decret-n2014-1393-du-24-novembre-2014-devr1412297d)
+- [DÉCRET n°2014-1394 du 24 novembre 2014 (MENF1421799D)](decret-n2014-1394-du-24-novembre-2014-menf1421799d)
 - [Décret n°2014-365 du 24 mars 2014 (ESRR1328891D)](decret-n2014-365-du-24-mars-2014-esrr1328891d)
 - [Décret n°2014-367 du 24 mars 2014 (AFSH1325173D)](decret-n2014-367-du-24-mars-2014-afsh1325173d)
 - [Décret n°2014-368 du 24 mars 2014 (DEVK1320279D)](decret-n2014-368-du-24-mars-2014-devk1320279d)
