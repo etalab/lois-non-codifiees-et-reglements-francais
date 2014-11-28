@@ -1935,7 +1935,6 @@
 - [Arrêté du 21 novembre 2012 (BUDD1240578A)](arrete-du-21-novembre-2012-budd1240578a)
 - [Arrêté du 21 novembre 2012 (BUDD1240651A)](arrete-du-21-novembre-2012-budd1240651a)
 - [Arrêté du 21 novembre 2012 (DEVA1237891A)](arrete-du-21-novembre-2012-deva1237891a)
-- [Arrêté du 21 novembre 2012 (DEVA1237892A)](arrete-du-21-novembre-2012-deva1237892a)
 - [Arrêté du 21 novembre 2012 (ETSO1240918A)](arrete-du-21-novembre-2012-etso1240918a)
 - [Arrêté du 21 octobre 2011 (DEVP1105830A)](arrete-du-21-octobre-2011-devp1105830a)
 - [Arrêté du 21 septembre 2012 (AGRG1228454A)](arrete-du-21-septembre-2012-agrg1228454a)
