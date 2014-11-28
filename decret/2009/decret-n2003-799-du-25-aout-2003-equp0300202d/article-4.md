@@ -26,13 +26,13 @@ Ingénieur des travaux publics de l'Etat (à compter du 7e échelon) : 33.
 
 Ingénieur des travaux publics de l'Etat (du 1er au 6e échelon inclus) : 28.
 
-III. - Corps des techniciens supérieurs du développement durable
+III.-Corps des techniciens supérieurs du développement durable :
 
-Technicien supérieur en chef du développement durable : 18.
+-technicien supérieur en chef du développement durable : 18 ;
 
-Technicien supérieur principal du développement durable : 16.
+-technicien supérieur principal du développement durable : 16 ;
 
-Technicien supérieur du développement durable : 10.
+-technicien supérieur du développement durable : 12.
 
 IV. - Corps des conducteurs des travaux publics de l'Etat
 
@@ -40,10 +40,10 @@ Conducteur principal des travaux publics de l'Etat : 7,5.
 
 Conducteur des travaux publics de l'Etat : 7,5.
 
-V. - Corps des dessinateurs
+V.-Corps des dessinateurs :
 
-Dessinateur chef de groupe, dessinateur : 8.
+-dessinateur chef de groupe, dessinateur : 9.
 
-VI. - Corps des experts techniques des services techniques
+VI.-Corps des experts techniques des services techniques :
 
-Expert technique principal, expert technique : 8.
+-expert technique principal, expert technique : 9.
