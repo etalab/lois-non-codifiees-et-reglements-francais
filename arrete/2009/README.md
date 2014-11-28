@@ -1428,7 +1428,6 @@
 - [Arrêté du 19 août 2009 (AGRG0919622A)](arrete-du-19-aout-2009-agrg0919622a)
 - [Arrêté du 19 août 2009 (AGRP0916616A)](arrete-du-19-aout-2009-agrp0916616a)
 - [Arrêté du 19 décembre 2008 (DEFD0901296A)](arrete-du-19-decembre-2008-defd0901296a)
-- [Arrêté du 19 décembre 2008 (DEVA0828132A)](arrete-du-19-decembre-2008-deva0828132a)
 - [Arrêté du 19 décembre 2008 (DEVL0829910A)](arrete-du-19-decembre-2008-devl0829910a)
 - [Arrêté du 19 décembre 2008 (DEVT0757472A)](arrete-du-19-decembre-2008-devt0757472a)
 - [Arrêté du 19 décembre 2008 (ECEP0828375A)](arrete-du-19-decembre-2008-ecep0828375a)
