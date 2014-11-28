@@ -17,6 +17,7 @@
 - [Arrêté du 2 août 2012 (BUDE1231237A)](arrete-du-2-aout-2012-bude1231237a)
 - [Arrêté du 2 août 2012 (DEFH1227430A)](arrete-du-2-aout-2012-defh1227430a)
 - [Arrêté du 2 août 2012 (DEFH1228221A)](arrete-du-2-aout-2012-defh1228221a)
+- [Arrêté du 2 août 2012 (DEVL1227528A)](arrete-du-2-aout-2012-devl1227528a)
 - [Arrêté du 2 août 2012 (DEVL1230685A)](arrete-du-2-aout-2012-devl1230685a)
 - [Arrêté du 2 août 2012 (DEVL1230734A)](arrete-du-2-aout-2012-devl1230734a)
 - [Arrêté du 2 août 2012 (PROI1225048A)](arrete-du-2-aout-2012-proi1225048a)
