@@ -7,6 +7,7 @@
 - [Arrêté du 2 décembre 2013 (AGRT1327789A)](arrete-du-2-decembre-2013-agrt1327789a)
 - [Arrêté du 2 décembre 2013 (DEVL1323309A)](arrete-du-2-decembre-2013-devl1323309a)
 - [Arrêté du 2 décembre 2013 (MCCD1315688A)](arrete-du-2-decembre-2013-mccd1315688a)
+- [Arrêté du 2 janvier 2013 (DEVK1238196A)](arrete-du-2-janvier-2013-devk1238196a)
 - [Arrêté du 2 novembre 2012 (DEVK1236601A)](arrete-du-2-novembre-2012-devk1236601a)
 - [Arrêté du 2 mai 2013 (EFIS1311311A)](arrete-du-2-mai-2013-efis1311311a)
 - [Arrêté du 2 mai 2013 (EFIT1304202A)](arrete-du-2-mai-2013-efit1304202a)
