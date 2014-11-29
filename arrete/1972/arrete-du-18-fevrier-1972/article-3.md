@@ -1,3 +1,0 @@
-# Article 3
-
-Les candidats adressent à la direction du personnel et de l'administration générale, par la voie hiérarchique, leur demande de participation aux épreuves de la sélection professionnelle. Cette demande est accompagnée de la liste des diplômes, brevets et qualifications obtenus par le candidat, de la liste des stages suivis au sein du secrétariat général de l'aviation civile ou en dehors de cette administration, de la liste des références et titres professionnels ainsi que de l'option choisie suivant l'annexe jointe au présent arrêté (1). Cette demande fait l'objet, à chaque échelon hiérarchique, d'une appréciation sur les aptitudes du candidat.
