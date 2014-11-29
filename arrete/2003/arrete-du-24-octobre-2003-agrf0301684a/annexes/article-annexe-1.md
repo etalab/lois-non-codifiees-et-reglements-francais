@@ -511,7 +511,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <td/>
 <td>BPE800-Corse </td>
 <td>
-<p align="center"> BPE800</p>
+<p align="center">BPE800</p>
 </td>
 </tr>
 <tr>
@@ -702,33 +702,33 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 </tr>
 <tr>
-<td align="left">Gommier bleu  </td>
+<td align="left">Gommier bleu </td>
 <td align="left">
 <i>Eucalyptus globulus Labill </i>
 </td>
-<td align="left">EGL700 - région méditerranéenne  </td>
+<td align="left">EGL700 - région méditerranéenne </td>
 <td align="center">EGL700 <br/>
 </td>
 </tr>
 <tr>
 <td align="left"/>
 <td align="left"/>
-<td align="left">EGL800 - Corse  </td>
+<td align="left">EGL800 - Corse </td>
 <td align="center">EGL800</td>
 </tr>
 <tr>
-<td align="left">Gommier à cidre  </td>
+<td align="left">Gommier à cidre </td>
 <td align="left">
 <i>Eucalyptus gunnii Hook.f </i>
 </td>
-<td align="left">EGU311 - Grand Ouest  </td>
+<td align="left">EGU311 - Grand Ouest </td>
 <td align="center">EGU311 <br/>
 </td>
 </tr>
 <tr>
 <td/>
 <td/>
-<td>EGU700 - Région méditerranéenne  </td>
+<td>EGU700 - Région méditerranéenne </td>
 <td align="center">EGU700 <br/>
 </td>
 </tr>
@@ -1656,7 +1656,7 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td/>
 <td/>
-<td>PPA303-Dunes littorales de Gascogne</td>
+<td>PPA303-Dunes atlantiques</td>
 <td>
 <p align="center">PPA303</p>
 </td>
