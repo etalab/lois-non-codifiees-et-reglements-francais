@@ -1307,7 +1307,6 @@
 - [Arrêté du 16 juin 2011 (JUSB1116151A)](arrete-du-16-juin-2011-jusb1116151a)
 - [Arrêté du 16 juin 2011 (JUST1116167A)](arrete-du-16-juin-2011-just1116167a)
 - [Arrêté du 16 mars 2004 (MCCF0400225A)](arrete-du-16-mars-2004-mccf0400225a)
-- [Arrêté du 16 mars 2011 (AGRS1108265A)](arrete-du-16-mars-2011-agrs1108265a)
 - [Arrêté du 16 mars 2011 (DEVL1104973A)](arrete-du-16-mars-2011-devl1104973a)
 - [Arrêté du 16 mars 2011 (DEVR1108178A)](arrete-du-16-mars-2011-devr1108178a)
 - [Arrêté du 16 mars 2011 (ETSD1104756A)](arrete-du-16-mars-2011-etsd1104756a)
