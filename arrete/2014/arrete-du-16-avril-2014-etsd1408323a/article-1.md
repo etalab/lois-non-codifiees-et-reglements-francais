@@ -591,8 +591,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="middle">3 ans<br/>
 </td>
-<td align="left" valign="middle">Sciences-U Lille (EFFICOM - EDUCTIVE Group) ; Sciences-U Paris (EFFICOM - EDUCTIVE Group)<br/>
-</td>
+<td align="left" valign="middle">Sciences-U Lille-Efficom ; Sciences-U Paris-Esupcom</td>
 </tr>
 <tr>
 <td align="center" valign="middle">II<br/>

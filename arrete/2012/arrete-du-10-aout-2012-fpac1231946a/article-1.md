@@ -678,7 +678,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">BGE Sud-Ouest</td>
+<td align="left" valign="top">BGE Sud-Ouest<br/>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">II<br/>
@@ -724,7 +725,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Sciences U France ― EFAB<br/>
+<td align="left" valign="top">Sciences-U Lyon<br/>
 </td>
 </tr>
 <tr>
@@ -760,7 +761,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Sciences U France (Montrouge)<br/>
+<td align="left" valign="top">Sciences-U Lyon<br/>
 </td>
 </tr>
 <tr>
@@ -772,7 +773,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Sciences U France (Montrouge)<br/>
+<td align="left" valign="top">Sciences-U Lyon<br/>
 </td>
 </tr>
 <tr>

@@ -236,7 +236,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">2 ans<br/>
 </td>
-<td align="center">Réseau Ducretet </td>
+<td align="center">Réseau Ducretet<br/>
+</td>
 </tr>
 <tr>
 <td align="center">IV<br/>
@@ -871,7 +872,10 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">Sciences U Lyon ; Sciences U Lille (Efficom Lille) <br/>
+<td align="center">
+<p>Sciences-U Lille-Efficom ;</p>
+<p>Sciences-U Lyon-Crespa<br/>
+</p>
 </td>
 </tr>
 <tr>

@@ -23,10 +23,10 @@ Les certificats de qualification professionnelle ci-dessous énumérés sont enr
 <p align="left">Vendeur-conseil en négoce des matériaux de construction</p>
 </td>
 <td align="left" valign="top">
-<p align="center"> 224w<br/>232w<br/>312</p>
+<p align="center">224w<br/>232w<br/>312</p>
 </td>
 <td align="left" valign="top">
-<p align="center"> 5 ans</p>
+<p align="center">5 ans</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) du négoce des matériaux de construction - Fédération du négoce de bois et des matériaux de construction (FNBM)</p>
@@ -62,7 +62,7 @@ Les certificats de qualification professionnelle ci-dessous énumérés sont enr
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Technicien vendeur produits sports (maîtrise professionnelle) option produits sports de raquettes, option produits sports de glisse, option maintenance cycle</p>
+<p align="left">Technicien-vendeur produits sports (maîtrise professionnelle) option produits sports de raquettes, option produits sports de glisse, option maintenance cycle, option produits running/ course à pied</p>
 </td>
 <td align="left" valign="top">
 <p align="center">250w</p>

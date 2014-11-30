@@ -261,7 +261,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td>Chargé de clientèle en banque et assurance </td>
 <td> 313p</td>
 <td> 5 ans</td>
-<td> IPAC</td>
+<td>IPAC</td>
 </tr>
 <tr>
 <td align="left" valign="top">III<br/>
@@ -308,7 +308,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Sciences U EFAB Paris<br/>
+<td align="left" valign="top">Sciences-U Lyon<br/>
 </td>
 </tr>
 <tr>
@@ -404,7 +404,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Association internationale pour la formation (AIPF)<br/>
+<td align="left" valign="top">Association internationale pour la formation (AIPF) <br/>
 </td>
 </tr>
 <tr>

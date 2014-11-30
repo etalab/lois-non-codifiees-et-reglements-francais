@@ -8,22 +8,22 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tbody>
 <tr>
 <td>
-<p align="center"> NIVEAU<br/>
+<p align="center">NIVEAU<br/>
 </p>
 </td>
 <td>
-<p align="center"> INTITULÉ<br/>de la certification professionnelle<br/>
+<p align="center">INTITULÉ<br/>de la certification professionnelle<br/>
 </p>
 </td>
 <td>
-<p align="center"> CODE NSF<br/>
+<p align="center">CODE NSF<br/>
 </p>
 </td>
 <td>
-<p align="center"> DURÉE</p>
+<p align="center">DURÉE</p>
 </td>
 <td>
-<p align="center"> ORGANISME DÉLIVRANT<br/>la certification professionnelle</p>
+<p align="center">ORGANISME DÉLIVRANT<br/>la certification professionnelle</p>
 </td>
 </tr>
 <tr>
@@ -680,7 +680,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">Ecole supérieure d'ostéopathie (ESO) ; Centre international d'ostéopathie (CIDO) ; Collège d'ostéopathie de Provence (COP) ; Institut des hautes études ostéopathiques (IDHEO)<br/>
+<td align="center">Ecole supérieure d'ostéopathie (ESO) ; Centre international d'ostéopathie (CIDO) ; Collège ostéopathique de Provence Aix-Marseille (COP Aix-Marseille) ; Institut des hautes études ostéopathiques (IDHEO)<br/>
 </td>
 </tr>
 </tbody>

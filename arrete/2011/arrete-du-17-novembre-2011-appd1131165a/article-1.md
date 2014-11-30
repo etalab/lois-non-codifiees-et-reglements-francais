@@ -767,8 +767,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">4 ans<br/>
 </td>
-<td align="left" valign="top">Sciences U Paris (Efficom)<br/>
-</td>
+<td align="left" valign="top">Sciences-U Paris-Esupcom</td>
 </tr>
 <tr>
 <td align="left" valign="top">II<br/>

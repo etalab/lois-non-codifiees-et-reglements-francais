@@ -732,7 +732,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Sciences U Lille (Efficom Lille) ; Sciences U Paris (Efficom Montrouge) </p>
+<p align="left">Sciences-U Lille-Efficom ;</p>
+<p align="left">Sciences-U Paris-Esupcom</p>
 </td>
 </tr>
 <tr>

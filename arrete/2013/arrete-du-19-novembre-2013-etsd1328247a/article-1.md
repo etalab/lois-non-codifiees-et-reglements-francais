@@ -165,7 +165,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">IV<br/>
 </td>
-<td align="center">Concepteur d'accueil  tourisme loisirs et handicap <br/>
+<td align="center">Concepteur d'accueil tourisme loisirs et handicap <br/>
 </td>
 <td align="center">330t<br/>
 </td>
@@ -345,7 +345,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">III<br/>
 </td>
-<td align="center">Formateur  lutte contre l'illettrisme/français langue étrangère <br/>
+<td align="center">Formateur lutte contre l'illettrisme/français langue étrangère <br/>
 </td>
 <td align="center">333t<br/>
 </td>
@@ -519,7 +519,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans <br/>
 </td>
-<td align="center">Ecole nationale de commerce (ENC)-GRETA MEHETOR Paris</td>
+<td align="center">Ecole nationale de commerce (ENC) - GRETA des métiers du tertiaire de l'hôtellerie et de la restauration de Paris (METEHOR Paris)</td>
 </tr>
 <tr>
 <td align="center">II<br/>

@@ -6,66 +6,66 @@ L'admissibilité au concours TSI est prononcée au vu des résultats obtenus par
 <tbody>
 <tr>
 <th>
-<br/>NATURE DE L'ÉPREUVE <br/>
+<br/>NATURE DE L'ÉPREUVE<br/>
 </th>
 <th>
-<br/>COEFFICIENT <br/>
+<br/>COEFFICIENT<br/>
 </th>
 </tr>
 <tr>
-<td align="center">
-<br/>Mathématiques I <br/>
+<td align="left">
+<br/>Mathématiques<br/>
 </td>
 <td align="center">
-<br/>5 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Mathématiques II <br/>
-</td>
-<td align="center">
-<br/>5 <br/>
+<br/>5<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Physique <br/>
+<td align="left">
+<br/>Physique - chimie<br/>
 </td>
 <td align="center">
-<br/>5 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chimie <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
+<br/>5<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Français <br/>
+<td align="left">
+<br/>Français - philosophie<br/>
 </td>
 <td align="center">
-<br/>5 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Projet : EEA + mécanique <br/>
-</td>
-<td align="center">
-<br/>5 <br/>
+<br/>5<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Langue vivante <br/>
+<td align="left">
+<br/>Langue vivante A<br/>
 </td>
 <td align="center">
-<br/>3 <br/>
+<br/>3<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Informatique<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Modélisation<br/>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Sciences industrielles<br/>
+</td>
+<td align="center">
+<br/>5<br/>
 </td>
 </tr>
 </tbody>

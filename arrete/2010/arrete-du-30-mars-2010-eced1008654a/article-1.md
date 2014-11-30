@@ -429,8 +429,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="center">
-<p align="left">Groupe sciences. ― U France.<br/>
-</p>
+<p align="left">Sciences ― U Lyon</p>
 </td>
 </tr>
 <tr>

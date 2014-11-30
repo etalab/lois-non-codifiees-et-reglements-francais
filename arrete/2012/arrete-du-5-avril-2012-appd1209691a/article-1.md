@@ -1022,7 +1022,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">5 ans</p>
 </td>
 <td valign="top" width="263">
-<p>Sciences U Lyon</p>
+<p>Sciences U Lyon -Crespa</p>
 </td>
 </tr>
 <tr>

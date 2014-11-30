@@ -1242,7 +1242,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">ESGCV - IICP (Institut international de la communication de Paris)<br/>
+<p align="left">Institut international de la communication de Paris (IICP).<br/>
 </p>
 </td>
 </tr>
@@ -1264,7 +1264,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Institut international de l'image et du son (3IS).<br/>
+<p align="left">3IS SUP<br/>
 </p>
 </td>
 </tr>
@@ -1286,7 +1286,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Institut international de l'image et du son (3IS).<br/>
+<p align="left">3IS SUP<br/>
 </p>
 </td>
 </tr>

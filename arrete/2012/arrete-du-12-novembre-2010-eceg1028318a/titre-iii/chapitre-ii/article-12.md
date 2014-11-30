@@ -4,68 +4,81 @@ L'admissibilité au concours pour la filière PT est prononcée au vu des résul
 
 Ces épreuves et les coefficients associés sont fixés comme suit :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th>NATURE DE L'ÉPREUVE<br/>
+<th>
+<br/>NATURE DE L'ÉPREUVE<br/>
 </th>
-<th>COEFFICIENT<br/>
+<th>
+<br/>COEFFICIENT<br/>
 </th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Mathématiques B</p>
+<td align="left">
+<br/>Mathématiques B<br/>
 </td>
-<td align="center">4<br/>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Mathématiques C</p>
+<td align="left">
+<br/>Mathématiques C<br/>
 </td>
-<td align="center">3<br/>
+<td align="center">
+<br/>4<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Physique B</p>
+<td align="left">
+<br/>Physique A<br/>
 </td>
-<td align="center">4<br/>
+<td align="center">
+<br/>4<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Physique C</p>
+<td align="left">
+<br/>Physique B<br/>
 </td>
-<td align="center">3<br/>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Sciences industrielles C</p>
+<td align="left">
+<br/>Informatique<br/>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Français A</p>
+<td align="left">
+<br/>Sciences industrielles A<br/>
 </td>
-<td align="center">5<br/>
+<td align="center">
+<br/>6<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Langue vivante B</p>
+<td align="left">
+<br/>Français B<br/>
 </td>
-<td align="center">3<br/>
+<td align="center">
+<br/>5<br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Langue vivante A<br/>
+</td>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
 
 La commission du concours visée à l'article 2 ci-dessus dresse la liste des candidats admissibles au concours pour la filière PT.

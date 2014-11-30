@@ -246,7 +246,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Institut international de l'image et du son (3IS)<br/>
+<td align="left" valign="top">3IS SUP <br/>
 </td>
 </tr>
 <tr>
@@ -258,7 +258,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Institut international de l'image et du son (3IS)<br/>
+<td align="left" valign="top">3IS SUP <br/>
 </td>
 </tr>
 <tr>
@@ -270,7 +270,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Institut international de l'image et du son (3IS)<br/>
+<td align="left" valign="top">3IS SUP <br/>
 </td>
 </tr>
 <tr>
@@ -390,8 +390,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">ESGCV-ESGCI (Ecole supérieure de gestion et commerce international)<br/>
-</td>
+<td align="left" valign="top">ESGCV-ESGCI (Ecole supérieure de gestion et commerce international)</td>
 </tr>
 <tr>
 <td align="center" valign="top">II<br/>
@@ -438,7 +437,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center" valign="top">3 ans<br/>
 </td>
-<td align="left" valign="top">ESGCV - IICP (Institut international de la communication de Paris)<br/>
+<td align="left" valign="top">ESGCV-IICP (Institut international de la communication de Paris)<br/>
 </td>
 </tr>
 <tr>
@@ -463,18 +462,6 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center" valign="top">3 ans<br/>
 </td>
 <td align="left" valign="top">Institut privé d'enseignement ostéopathique (IPEO)<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">II<br/>
-</td>
-<td align="left" valign="top">Ostéopathe<br/>
-</td>
-<td align="center" valign="top">331t<br/>
-</td>
-<td align="center" valign="top">3 ans<br/>
-</td>
-<td align="left" valign="top">Institut supérieur d'ostéopathie d'Aix-en-Provence (InSO)<br/>
 </td>
 </tr>
 <tr>

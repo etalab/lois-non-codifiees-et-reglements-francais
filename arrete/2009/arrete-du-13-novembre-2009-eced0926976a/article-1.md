@@ -219,8 +219,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">Association internationale pour la formation (AIPF)<br/>
-</td>
+<td align="center">Association internationale pour la formation (AIPF)</td>
 </tr>
 <tr>
 <td align="center">II<br/>
@@ -399,7 +398,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">5 ans<br/>
 </td>
-<td align="center">Groupe Sciences - U France.<br/>
+<td align="center">Sciences - U France.<br/>
 </td>
 </tr>
 <tr>

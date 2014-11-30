@@ -8,19 +8,19 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tbody>
 <tr>
 <td>
-<p align="center"> NIVEAU</p>
+<p align="center">NIVEAU</p>
 </td>
 <td>
-<p align="center"> INTITULÉ <br/>de la certification professionnelle</p>
+<p align="center">INTITULÉ <br/>de la certification professionnelle</p>
 </td>
 <td>
-<p align="center"> CODE NSF</p>
+<p align="center">CODE NSF</p>
 </td>
 <td>
-<p align="center"> DURÉE</p>
+<p align="center">DURÉE</p>
 </td>
 <td>
-<p align="center"> ORGANISME DÉLIVRANT <br/>la certification professionnelle</p>
+<p align="center">ORGANISME DÉLIVRANT <br/>la certification professionnelle</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="middle">5 ans<br/>
 </td>
-<td align="left" valign="middle">Ministère de l'intérieur - direction générale de la police nationale<br/>
+<td align="left" valign="middle">Ministère de l'intérieur-Direction générale de la gendarmerie nationale<br/>
 </td>
 </tr>
 <tr>
