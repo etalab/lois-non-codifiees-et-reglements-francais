@@ -692,6 +692,8 @@
 - [DÉCRET n°2014-1245 du 27 octobre 2014 (AFSS1422680D)](decret-n2014-1245-du-27-octobre-2014-afss1422680d)
 - [DÉCRET n°2014-1246 du 27 octobre 2014 (AFSS1425254D)](decret-n2014-1246-du-27-octobre-2014-afss1425254d)
 - [DÉCRET n°2014-1255 du 27 octobre 2014 (RDFF1415899D)](decret-n2014-1255-du-27-octobre-2014-rdff1415899d)
+- [DÉCRET n°2014-1412 du 27 novembre 2014 (DEVP1426085D)](decret-n2014-1412-du-27-novembre-2014-devp1426085d)
+- [DÉCRET n°2014-1414 du 27 novembre 2014 (ETLL1414147D)](decret-n2014-1414-du-27-novembre-2014-etll1414147d)
 - [Décret n°2014-373 du 27 mars 2014 (EFIT1405000D)](decret-n2014-373-du-27-mars-2014-efit1405000d)
 - [Décret n°2014-374 du 27 mars 2014 (AFSS1324588D)](decret-n2014-374-du-27-mars-2014-afss1324588d)
 - [DÉCRET n°2014-712 du 27 juin 2014 (AFSS1409984D)](decret-n2014-712-du-27-juin-2014-afss1409984d)
