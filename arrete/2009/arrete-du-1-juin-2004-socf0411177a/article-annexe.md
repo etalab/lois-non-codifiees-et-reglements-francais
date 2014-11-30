@@ -6,7 +6,7 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : technicien de laboratoire (ancien intitulé technicien[ne] de laboratoire biologie/biochimie).
+Titre professionnel : technicien (ne) de laboratoire.
 
 Niveau : IV.
 
@@ -14,139 +14,99 @@ Code NSF : 222 r.
 
 Résumé du référentiel d'emploi
 
-Le technicien de laboratoire procède à des analyses selon des procédés chimiques, physiques, biochimiques, biologiques et microbiologiques de produits chimiques, pharmaceutiques, agroalimentaires, d'échantillons d'environnement (eau, sol, air, boues, déchets...), depuis la prise d'échantillon jusqu'à l'interprétation des résultats.
+Le (la) technicien (ne) de laboratoire procède à des mesures et analyses selon divers procédés : chimiques, physiques, biochimiques, biologiques et microbiologiques depuis la prise d'échantillon jusqu'à l'interprétation des résultats.
 
-Il utilise des appareils simples ou complexes, manuels ou automatisés, participe à l'entretien, au nettoyage et au contrôle du matériel, gère le matériel et les réactifs.
+Il réalise ces analyses sur des produits chimiques, pharmaceutiques, agroalimentaires, ainsi que sur des échantillons d'environnement : eau, sol, air, boues, déchets.
 
-Il peut participer à la mise au point de mode opératoire mais en général applique un protocole bien défini.
+Il utilise des équipements simples ou complexes, manuels ou automatisés ; il participe à leur entretien, à leur nettoyage et à leur contrôle.
 
-Capacités attestées et descriptif
+Il prévoit les quantités des produits, des réactifs et des consommables qu'il utilise et peut les commander.
 
-des composantes de la certification
+Généralement, le technicien de laboratoire applique des procédures selon des protocoles précis. Même s'il travaille en relative autonomie, il est sous la responsabilité de son supérieur hiérarchique, en général l'ingénieur ou le responsable de laboratoire qui est chargé de valider ses résultats, avant transmission de ceux-ci aux personnes ou services concernées.
 
-1. Prélever un échantillon et le conditionner
+Le technicien alerte son supérieur hiérarchique en cas de résultats aberrants mais il peut prendre l'initiative de refaire une série d'analyses pour confirmer ou infirmer un résultat.
 
-Appliquer le protocole de prélèvement et de conditionnement adapté pour des échantillons environnementaux (air, eau, sol, déchets...), agroalimentaires, pharmaceutiques, cosmétiques...
+L'emploi s'exerce principalement dans des laboratoires de contrôle, d'analyse ou de recherche et développement avec des horaires réguliers de jour. Néanmoins, il peut arriver que des techniciens soient postés ou aient des astreintes les week-ends.
 
-Exploiter et appliquer les documents techniques en langues française et anglaise relatifs aux domaines de la chimie ou de la biologie.
+Le titulaire de l'emploi travaille soit individuellement, soit au sein d'une équipe généralement de petite taille sous la responsabilité d'un ingénieur ou d'un chef de laboratoire.
 
-Stocker les échantillons en vue d'une analyse ultérieure ou d'une conservation en échantillothèque.
+Il doit respecter strictement les règles d'hygiène, de sécurité, d'environnement, de développement durable ainsi que d'assurance qualité.
 
-Dans le cadre d'un laboratoire, organiser son poste de travail et le remettre en état.
+L'emploi se réalise en stations debout et assise alternées. Il peut nécessiter des déplacements à l'extérieur pour effectuer des prélèvements. Il peut se dérouler en salles spécifiques et zones délimitées.
 
-Dans le cadre d'un laboratoire, assurer la traçabilité et communiquer les résultats, les dérives et les incidents éventuels.
+Les conditions d'environnement varient suivant les matières traitées et le milieu de travail.
 
-2. Procéder à des essais (mesures, analyses)
+Le port d'équipements de protection individuelle tels que blouse, gants, lunettes, est en général indispensable.
 
-en microbiologie sur un échantillon
+Capacités attestées et descriptif des composantes de la certification
 
-Exploiter et appliquer les documents techniques en langues française et anglaise relatifs aux domaines de la chimie ou de la biologie.
+1. Prélever, conditionner et stocker un échantillon
 
-Dans le cadre d'un laboratoire, organiser son poste de travail et le remettre en état.
+Prélever et conditionner des échantillons d'origines diverses.
 
-Dans le cadre d'un laboratoire, préparer à des essais en microbiologie.
+En laboratoire, stocker les échantillons en vue d'une analyse ultérieure ou d'une conservation en échantillothèque.
 
-Dans le cadre d'un laboratoire, identifier des bactéries en appliquant les techniques de recherche et d'identification (systématique bactérienne).
+2. Procéder à des essais en microbiologie sur un échantillon
 
-Dans le cadre d'un laboratoire, rechercher ou dénombrer des micro-organismes présents dans un échantillon.
+En laboratoire, préparer à des essais en microbiologie.
 
-Dans le cadre d'un laboratoire, mettre en œuvre les techniques d'identification des parasites et des champignons microscopiques dans un échantillon.
+En laboratoire, identifier des bactéries par systématique bactérienne.
 
-Dans le cadre d'un laboratoire, collecter les données brutes et calculer le résultat final par les calculs appropriés en tenant compte des risques d'erreurs.
+En laboratoire, rechercher ou dénombrer des microorganismes présents dans un échantillon.
 
-Dans le cadre d'un laboratoire, assurer la traçabilité et communiquer les résultats, les dérives et les incidents éventuels.
+En laboratoire, identifier des parasites et des champignons microscopiques dans un échantillon.
 
-3. Procéder à des essais (mesures, analyses)
+3. Procéder à des essais en chimie et biochimie sur un échantillon
 
-en chimie et biochimie sur un échantillon
+En laboratoire, préparer à des essais en chimie et biochimie.
 
-Exploiter et appliquer les documents techniques en langues française et anglaise relatifs aux domaines de la chimie ou de la biologie.
+En laboratoire, quantifier une substance par des méthodes volumétriques.
 
-Dans le cadre d'un laboratoire, organiser son poste de travail et le remettre en état.
+En laboratoire, caractériser ou quantifier une substance par spectrophotométrie d'absorption UV visible.
 
-Dans le cadre d'un laboratoire, préparer à des essais en chimie-biochimie.
+En laboratoire, séparer ou purifier les constituants d'un échantillon pour les identifier par des méthodes physico-chimiques.
 
-Dans le cadre d'un laboratoire, quantifier une substance par des méthodes volumétriques.
+En laboratoire, déterminer les constantes physico-chimiques d'une substance.
 
-Dans le cadre d'un laboratoire, identifier, caractériser ou quantifier une substance par des méthodes de spectrométrie moléculaire.
+En laboratoire, réaliser des dosages enzymatiques.
 
-Dans le cadre d'un laboratoire, séparer ou purifier les constituants d'un échantillon pour les identifier par des méthodes physico-chimiques telles que : électrophorèse, chromatographie sur colonne ouverte ou sur couches minces...
+Certificats complémentaires de spécialisation (CCS).
 
-Dans le cadre d'un laboratoire, déterminer les constantes physico-chimiques d'une substance.
+4. Procéder à des essais spécialisés en chimie et biochimie
 
-Dans le cadre d'un laboratoire, mettre en place des dosages enzymatiques.
+En laboratoire, effectuer des synthèses organiques.
 
-Dans le cadre d'un laboratoire, collecter les données brutes et calculer le résultat final par les calculs appropriés en tenant compte des risques d'erreurs.
+En laboratoire, identifier, caractériser ou quantifier une substance par des méthodes de spectrométrie d'absorption atomique ou infrarouge.
 
-Dans le cadre d'un laboratoire, assurer la traçabilité et communiquer les résultats, les dérives et les incidents éventuels.
+En laboratoire, séparer ou purifier un échantillon pour l'identifier par des méthodes de chromatographie.
 
-Certificats complémentaires de spécialisation (CCS)
+5. Procéder à des essais spécialisés en biologie végétale, cellulaire et moléculaire et en immunologie
 
-1. Procéder à des essais spécialisés
+Multiplier et analyser des organismes végétaux.
 
-en chimie et biochimie
+En laboratoire, analyser le génome et son expression fonctionnelle.
 
-Exploiter et appliquer les documents techniques en langues française et anglaise relatifs aux domaines de la chimie ou de la biologie.
+En laboratoire, appliquer des techniques d'immunologie directes et indirectes.
 
-Dans le cadre d'un laboratoire, organiser son poste de travail et le remettre en état.
+En laboratoire, mettre en culture et entretenir des cellules.
 
-Dans le cadre d'un laboratoire, effectuer des synthèses organiques.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Dans le cadre d'un laboratoire, identifier, caractériser ou quantifier une substance par des méthodes de spectrométrie d'absorption atomique.
+L'industrie, la recherche et l'enseignement dans les domaines de la chimie, de l'environnement, de l'agroalimentaire, de la pharmacie, de la cosmétique, de la biologie.
 
-Dans le cadre d'un laboratoire, séparer ou purifier un échantillon pour l'identifier par des méthodes de chromatographie.
+- technicien en contrôle qualité ;
 
-Dans le cadre d'un laboratoire, collecter les données brutes et calculer le résultat final par les calculs appropriés en tenant compte des risques d'erreurs.
+- technicien ou adjoint de recherche/ développement ;
 
-Dans le cadre d'un laboratoire, assurer la traçabilité et communiquer les résultats, les dérives et les incidents éventuels.
-
-2. Procéder à des essais spécialisés en biologie végétale,
-
-cellulaire et moléculaire et en immunologie
-
-Exploiter et appliquer les documents techniques en langues française et anglaise relatifs aux domaines de la chimie ou de la biologie.
-
-Dans le cadre d'un laboratoire, organiser son poste de travail et le remettre en état.
-
-Dans le cadre d'un laboratoire, mettre en œuvre des procédés appropriés et des méthodes pour multiplier et analyser les organismes végétaux.
-
-Dans le cadre d'un laboratoire, mettre en œuvre des procédés appropriés et des méthodes pour analyser le génome et son expression fonctionnelle.
-
-Dans le cadre d'un laboratoire, appliquer des techniques d'immunologie directes et indirectes.
-
-Dans le cadre d'un laboratoire, assurer la mise en culture de cellules et leur entretien.
-
-Dans le cadre d'un laboratoire, collecter les données brutes et calculer le résultat final par les calculs appropriés en tenant compte des risques d'erreurs.
-
-Dans le cadre d'un laboratoire, assurer la traçabilité et communiquer les résultats, les dérives et les incidents éventuels.
-
-Secteurs d'activités et types d'emploi
-
-accessibles par le détenteur du titre
-
-L'emploi s'exerce principalement dans :
-
-- des laboratoires de contrôle ou d'analyse sur des sites de production ou dans des laboratoires de prestations analytique ;
-
-- des laboratoires de recherche et développement ;
-
-- des laboratoires de production de matériel biologique (cellules souches, vecteur...) soit directement en production, soit en contrôle qualité ;
-
-- des laboratoires du système éducatif (préparation de TP-éducation nationale) dans des secteurs aussi variés que la chimie, la biochimie, la biologie, la microbiologie, la pétrochimie, l'agroalimentaire, la pharmacie, la cosmétique, l'hydrologie, l'énergie, l'environnement...
-
-L'emploi ne concerne plus les analyses de biologie médicale (qui nécessitent un niveau III depuis 1992).
+- technicien ou aide technique dans l'éducation nationale (préparateur de travaux pratiques).
 
 Codes ROME :
 
-52232 - Technicien/technicienne de laboratoire de contrôle de fabrication des industries de process.
+H1210-Intervention technique en études, recherche et développement ;
 
-52141 - Technicien/technicienne de laboratoire de recherche des industries de process.
+H1303-Intervention technique en hygiène sécurité environnement-HSE-industriel ;
 
-52234 - Technicien/technicienne en environnement des industries de process.
-
-45413 - Opérateur/opératrice de laboratoire des industries de process.
-
-45414 - Agent/agente de traitements dépolluants.
+H1503-Intervention technique en laboratoire d'analyse industrielle.
 
 Réglementation de l'activité :
 
