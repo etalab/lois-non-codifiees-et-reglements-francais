@@ -1119,7 +1119,6 @@
 - [Arrêté du 13 juillet 2012 (MAEF1229004A)](arrete-du-13-juillet-2012-maef1229004a)
 - [Arrêté du 13 juillet 2012 (MENE1229306A)](arrete-du-13-juillet-2012-mene1229306a)
 - [Arrêté du 13 juillet 2012 (PRMG1229065A)](arrete-du-13-juillet-2012-prmg1229065a)
-- [Arrêté du 13 juin 1983](arrete-du-13-juin-1983)
 - [Arrêté du 13 juin 2012 (AGRE1209549A)](arrete-du-13-juin-2012-agre1209549a)
 - [Arrêté du 13 juin 2012 (BUDE1223135A)](arrete-du-13-juin-2012-bude1223135a)
 - [Arrêté du 13 juin 2012 (DEFP1228960A)](arrete-du-13-juin-2012-defp1228960a)
