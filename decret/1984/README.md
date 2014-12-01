@@ -49,7 +49,6 @@
 - [Décret n°84-346 du 10 mai 1984](decret-n84-346-du-10-mai-1984)
 - [Décret n°83-293 du 11 avril 1983](decret-n83-293-du-11-avril-1983)
 - [Décret n°84-23 du 11 janvier 1984](decret-n84-23-du-11-janvier-1984)
-- [Décret n°84-26 du 11 janvier 1984](decret-n84-26-du-11-janvier-1984)
 - [Décret n°84-266 du 11 avril 1984](decret-n84-266-du-11-avril-1984)
 - [Décret n°84-269 du 11 avril 1984](decret-n84-269-du-11-avril-1984)
 - [Décret n°84-358 du 11 mai 1984](decret-n84-358-du-11-mai-1984)

@@ -14,7 +14,7 @@ b) Aux entreprises qui ne satisfont pas aux conditions suivantes :
 
 ― dans les sociétés par actions et les sociétés à responsabilité limitée, les gérants, les commandités, les membres du conseil d'administration, du directoire ou du conseil de surveillance doivent être français ou ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen. La majorité du capital doit être détenue par des Français ou des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen. L'Etat peut subordonner l'octroi des autorisations à la forme nominative des actions ;
 
-c) Aux entreprises qui ne satisfont pas aux conditions suivantes, lorsque ces entreprises sollicitent une autorisation de fabrication ou de commerce d'armes automatiques et de matériels de guerre relevant de la catégorie A2 de l'article 2 du présent décret :
+c) Aux entreprises qui ne satisfont pas aux conditions suivantes, lorsque ces entreprises sollicitent une autorisation de fabrication ou de commerce d'armes automatiques et de matériels de guerre relevant de la catégorie A2 de l'article R. 311-2 du code de la sécurité intérieure :
 
 ― les entreprises individuelles doivent appartenir à un ressortissant français ;
 

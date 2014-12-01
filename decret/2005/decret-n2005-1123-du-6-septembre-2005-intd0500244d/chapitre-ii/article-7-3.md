@@ -1,3 +1,0 @@
-# Article 7-3
-
-Lorsque la demande d'agrément émane d'un ressortissant d'un Etat membre de l'Union européenne dont la formation, attestée par le titre mentionné au quatrième alinéa de l'article 1er du présent décret, porte sur des matières substantiellement différentes de celles couvertes par les titres mentionnés aux deuxième et troisième alinéas, l'intéressé justifie avoir acquis les compétences manquantes, à son choix, soit en passant une épreuve d'aptitude organisée par un organisme agréé en vue de la délivrance d'une certification professionnelle ou d'un certificat de qualification professionnelle, soit en suivant un stage d'adaptation d'une durée comprise entre six mois et trois ans.

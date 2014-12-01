@@ -1,5 +1,0 @@
-# Article 5
-
-Les ouvrages visés à l'article 1er du présent décret ne peuvent être mis en service pour la première fois que lorsque le plan particulier d'intervention a été arrêté par le préfet, après constatation du bon fonctionnement des dispositifs techniques de détection et de surveillance et des dispositifs d'alerte.
-
-Toutefois, pour les ouvrages dont la construction est en cours ou terminée à la date de la publication du présent décret, mais qui ne sont pas encore mis en service, le ministre chargé de la sécurité civile et le ministre chargé du contrôle de la sécurité de l'ouvrage peuvent, compte tenu de l'état d'avancement des travaux, autoriser par décision conjointe l'utilisation de dispositifs provisoires pour la détection, la surveillance et l'alerte. Ils peuvent dans cette éventualité accorder au maître de l'ouvrage, pour satisfaire aux dispositions des articles 3, 4 et 5 du présent décret, un délai maximal de trois ans à compter de la date d'autorisation de mise en service ou, si cette autorisation n'est pas exigée, de la mise en service elle-même.

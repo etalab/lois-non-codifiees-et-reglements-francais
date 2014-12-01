@@ -1,6 +1,6 @@
 # Article 4
 
-En application du 2° de l'article 34 du décret n° 2013-700 du 30 juillet 2013 modifié susvisé, l'autorisation donnée sur avis favorable d'une fédération est nulle de plein droit lorsque les conditions d'octroi ne sont plus réunies, notamment lorsque la détention n'est plus motivée par la pratique du tir sportif. Cette disposition est portée à la connaissance des pétitionnaires par les fédérations au moment de la demande de délivrance de l'avis. Mention de la notification de cette disposition au demandeur est portée sur l'avis.
+En application de l'article R. 312-40 du code de la sécurité intérieure, l'autorisation donnée sur avis favorable d'une fédération est nulle de plein droit lorsque les conditions d'octroi ne sont plus réunies, notamment lorsque la détention n'est plus motivée par la pratique du tir sportif. Cette disposition est portée à la connaissance des pétitionnaires par les fédérations au moment de la demande de délivrance de l'avis. Mention de la notification de cette disposition au demandeur est portée sur l'avis.
 
 En cas d'infraction grave aux règles de sécurité, les fédérations délivrancières de l'avis demandent au préfet le retrait des autorisations.
 

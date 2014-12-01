@@ -2,7 +2,7 @@
 
 Orphelins.
 
-Les sommes et enjeux, ainsi que le montant du crédit des cartes de paiement ou des tickets prévus à l'article 7 du décret du 22 décembre 1959 modifié, trouvés à terre, laissés sur les tables de jeux ou abandonnés en cours de partie sans que l'on sache à qui ils appartiennent sont dénommés "orphelins". Pour la dernière catégorie, le montant en est déterminé par le total de la mise initialement oubliée et de ses gains cumulés jusqu'au moment où, cherchant à en individualiser le propriétaire, il est constaté effectivement que ces sommes sont abandonnées.
+Les sommes et enjeux, ainsi que le montant du crédit des cartes de paiement ou des tickets prévus à l'article R. 321-16 du code de la sécurité intérieure, trouvés à terre, laissés sur les tables de jeux ou abandonnés en cours de partie sans que l'on sache à qui ils appartiennent sont dénommés "orphelins". Pour la dernière catégorie, le montant en est déterminé par le total de la mise initialement oubliée et de ses gains cumulés jusqu'au moment où, cherchant à en individualiser le propriétaire, il est constaté effectivement que ces sommes sont abandonnées.
 
 Les tickets précités dont le propriétaire n'a pu être identifié ou dont la durée de validité est expirée constituent également des orphelins.
 

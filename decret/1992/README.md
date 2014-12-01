@@ -422,7 +422,6 @@
 - [Décret n°92-63 du 15 janvier 1992 (PRMG9170491D)](decret-n92-63-du-15-janvier-1992-prmg9170491d)
 - [Décret n°92-687 du 15 juillet 1992 (ECOC9200071D)](decret-n92-687-du-15-juillet-1992-ecoc9200071d)
 - [Décret n°92-995 du 15 septembre 1992 (DEFP9201876D)](decret-n92-995-du-15-septembre-1992-defp9201876d)
-- [Décret n°92-997 du 15 septembre 1992 (ENVE9200057D)](decret-n92-997-du-15-septembre-1992-enve9200057d)
 - [Décret n°93-55 du 15 janvier 1993 (MENE9204227D)](decret-n93-55-du-15-janvier-1993-mene9204227d)
 - [Décret n°92-444 du 15 mai 1992 (SANH9200998D)](decret-n92-444-du-15-mai-1992-sanh9200998d)
 - [Décret n°92-446 du 15 mai 1992 (MENK9200020D)](decret-n92-446-du-15-mai-1992-menk9200020d)

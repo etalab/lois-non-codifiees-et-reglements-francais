@@ -1,6 +1,6 @@
 # Article 1
 
-Les zones et lieux sécurisés définis au III de l'article 1er du décret du 18 décembre 2000 susvisé où sont opérées des manipulations de fonds par un convoyeur pour le compte d'un donneur d'ordre présentent les caractéristiques techniques suivantes :
+Les zones et lieux sécurisés définis à l'article D. 613-60 du code de la sécurité intérieure où sont opérées des manipulations de fonds par un convoyeur pour le compte d'un donneur d'ordre présentent les caractéristiques techniques suivantes :
 
 ― l'espace dans lequel sont opérées les manipulations du convoyeur est totalement clos ;
 

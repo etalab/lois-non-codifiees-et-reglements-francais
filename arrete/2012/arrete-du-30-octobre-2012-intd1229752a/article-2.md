@@ -4,7 +4,7 @@ Le certificat de qualification professionnelle comporte les éléments suivants 
 
 1° La définition des fonctions concernées et des compétences requises pour les exercer ;
 
-2° La présentation par thème et par objectifs pédagogiques détaillés et par durée d'enseignement, des compétences évaluées pour la délivrance du certificat, portant sur les savoir-faire prévus par l'article 93 du décret n° 2013-700 du 30 juillet 2013 modifié portant application de la loi n° 2012-304 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif et précisés comme suit :
+2° La présentation par thème et par objectifs pédagogiques détaillés et par durée d'enseignement, des compétences évaluées pour la délivrance du certificat, portant sur les savoir-faire prévus par l'article R. 313-4 du code de la sécurité intérieure et précisés comme suit :
 
 <table>
 <tbody>
@@ -177,11 +177,14 @@ Le certificat de qualification professionnelle comporte les éléments suivants 
 </td>
 <td align="center">
 <br/>
-</td>
-<td align="center">
 <br/>
 </td>
 <td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 <td align="center">

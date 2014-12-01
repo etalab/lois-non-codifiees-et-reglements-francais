@@ -180,7 +180,6 @@
 - [Décret n°87-182 du 19 mars 1987 (MERP8700010D)](decret-n87-182-du-19-mars-1987-merp8700010d)
 - [Décret n°87-195 du 19 mars 1987 (ASED8703205D)](decret-n87-195-du-19-mars-1987-ased8703205d)
 - [Décret n°87-428 du 19 juin 1987](decret-n87-428-du-19-juin-1987)
-- [Décret n°87-430 du 19 juin 1987 (INTD8700151D)](decret-n87-430-du-19-juin-1987-intd8700151d)
 - [Décret n°87-435 du 19 juin 1987 (INTA8720013D)](decret-n87-435-du-19-juin-1987-inta8720013d)
 - [Décret n°87-436 du 19 juin 1987 (INTA8720014D)](decret-n87-436-du-19-juin-1987-inta8720014d)
 - [Décret n°87-440 du 19 juin 1987 (ENVN87001180D)](decret-n87-440-du-19-juin-1987-envn87001180d)

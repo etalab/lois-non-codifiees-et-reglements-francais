@@ -64,8 +64,8 @@ Char Stridsvagn M. 103.
 
 2. Matériels de transmission et de télécommunications.
 
-Les matériels de transmission et de télécommunications du 12° de la catégorie A2 mentionné à l'article 2 du décret n° 2013-700 du 30 juillet 2013 modifié portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'application d'un contrôle des armes moderne, simplifié et préventif, dont la fabrication est antérieure au 1er janvier 1965.
+Les matériels de transmission et de télécommunications du 12° de la catégorie A2 mentionné à l'article R. 311-2 du code de la sécurité intérieure, dont la fabrication est antérieure au 1er janvier 1965.
 
 3. Matériels de protection contre les gaz.
 
-Les masques à gaz et cartouches filtrantes du 17° de la catégorie A2 mentionné à l'article 2 du décret n° 2013-700 du 30 juillet 2013 modifié portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'application d'un contrôle des armes moderne, simplifié et préventif, dont la fabrication est antérieure au 1er janvier 1965.
+Les masques à gaz et cartouches filtrantes du 17° de la catégorie A2 mentionné à l'article R. 311-2 du code de la sécurité intérieure, dont la fabrication est antérieure au 1er janvier 1965.

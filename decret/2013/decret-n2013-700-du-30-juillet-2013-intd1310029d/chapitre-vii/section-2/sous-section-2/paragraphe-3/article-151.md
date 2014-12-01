@@ -6,13 +6,13 @@ La délivrance de l'accord préalable aux particuliers transférant vers la Fran
 
 A la réception des biens, le professionnel destinataire inscrit sur l'accord préalable les quantités livrées. Le particulier, lorsqu'il s'agit d'armes, de munitions et de leurs éléments mentionnés au 1° de l'article 148, renvoie le volet n° 2 de l'autorisation d'acquisition dûment rempli au préfet.
 
-La délivrance de l'accord préalable aux particuliers transférant vers la France des armes, munitions et leurs éléments de la catégorie C et du 1° de la catégorie D est subordonnée à la présentation des pièces prévues à l'article 43.
+La délivrance de l'accord préalable aux particuliers transférant vers la France des armes, munitions et leurs éléments de la catégorie C et du 1° de la catégorie D est subordonnée à la présentation des pièces prévues à l'article R. 312-53 du code de la sécurité intérieure.
 
 II. ― Par dérogation au premier alinéa du I ci-dessus, sont dispensés de l'accord préalable du ministre chargé des douanes :
 
 1° Le transfert d'armes, de munitions et de leurs éléments mentionnés à l'article 148 renvoyés vers la France après exposition ou réparation dans un autre Etat membre de l'Union européenne ;
 
-2° Le transfert temporaire en France des armes de poing et des munitions, dont le port est autorisé par arrêté du ministre de l'intérieur en application de l'article 124 ;
+2° Le transfert temporaire en France des armes de poing et des munitions, dont le port est autorisé par arrêté du ministre de l'intérieur en application de l'article R. 315-6 du code de la sécurité intérieure ;
 
 3° Le transfert définitif ou temporaire des armes à feu et leurs éléments à percussion annulaire figurant aux 1°, 2° et 8° de la catégorie C ;
 

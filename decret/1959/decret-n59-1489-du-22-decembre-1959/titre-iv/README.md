@@ -1,3 +1,0 @@
-# TITRE IV  : CONDITIONS D'ACCES DANS LES SALLES DE JEUX
-
-- [Article 14](article-14.md)

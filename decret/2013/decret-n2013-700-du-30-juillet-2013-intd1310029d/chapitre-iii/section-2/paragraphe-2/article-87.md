@@ -4,11 +4,11 @@
 
 a) Un document faisant foi de son identité et comportant une photographie ;
 
-b) L'autorisation d'acquisition et de détention dont celui-ci doit être titulaire ; pour les personnes mentionnées à l'article 25 du présent décret, le récépissé prévu au même article ;
+b) L'autorisation d'acquisition et de détention dont celui-ci doit être titulaire ; pour les personnes mentionnées aux articles R. 312-22 à R. 312-24 du code de la sécurité intérieure, les autorisations mentionnées à l'article R. 312-25 du même code  article ;
 
 2° Le fabricant ou commerçant cédant est ensuite tenu :
 
-― de compléter les volets n°s 1 et 2 de l'autorisation ou du récépissé qui lui est présenté en inscrivant les indications qu'il lui incombe d'y porter ;
+― de compléter les volets n° s 1 et 2 de l'autorisation ou du récépissé qui lui est présenté en inscrivant les indications qu'il lui incombe d'y porter ;
 
 ― d'inscrire la cession sur le registre spécial mentionné à l'article 83 ;
 

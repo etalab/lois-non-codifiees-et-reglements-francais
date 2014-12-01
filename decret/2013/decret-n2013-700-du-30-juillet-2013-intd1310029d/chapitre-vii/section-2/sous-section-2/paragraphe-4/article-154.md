@@ -8,13 +8,13 @@ a) Aux personnes qui répondent aux conditions prévues par le présent décret 
 
 b) Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 du code de la défense et qui, à titre exceptionnel, demandent l'autorisation de transférer vers un autre Etat membre ou en provenance d'un autre Etat membre des armes, munitions et leurs éléments du 1° de l'article 148 ;
 
-c) Aux communes qui ont obtenu, dans les conditions prévues par le décret n° 2000-276 du 24 mars 2000 fixant les modalités d'application de l'article L. 412-51 du code des communes et relatif à l'armement des agents de police municipale, l'autorisation d'en faire l'acquisition et de les détenir ;
+c) Aux communes qui ont obtenu, dans les conditions prévues par la section 1 du chapitre Ier du titre Ier du livre V du code de la sécurité intérieure , l'autorisation d'en faire l'acquisition et de les détenir ;
 
-d) Aux particuliers qui ont obtenu, dans les conditions définies par le présent décret, l'autorisation d'en faire l'acquisition et de les détenir ;
+d) Aux particuliers qui ont obtenu, dans les conditions définies par le chapitre II du titre Ier du livre III du code de la sécurité intérieure, l'autorisation d'en faire l'acquisition et de les détenir ;
 
 2° En ce qui concerne les armes, munitions et leurs éléments du 2° de l'article 148 :
 
-a) Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions des articles 74, 91, 97 et 101 ;
+a) Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions de l'article 74 du présent décret ou des articles R. 313-1, R. 313-2, R. 313-8 et R. 313-12 du code de la sécurité intérieure ;
 
 b) Aux particuliers, soit pour les transférer vers un autre Etat membre, soit pour les acquérir ou les détenir à titre personnel ou professionnel ;
 

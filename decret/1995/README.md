@@ -393,7 +393,6 @@
 - [Décret n°95-59 du 12 janvier 1995 (INDA9401442D)](decret-n95-59-du-12-janvier-1995-inda9401442d)
 - [Décret n°95-783 du 12 juin 1995 (ILEG9501776D)](decret-n95-783-du-12-juin-1995-ileg9501776d)
 - [Décret n°97-1029 du 12 novembre 1997 (MAEA9720426D)](decret-n97-1029-du-12-novembre-1997-maea9720426d)
-- [Décret n°87-264 du 13 avril 1987 (INTD8700102D)](decret-n87-264-du-13-avril-1987-intd8700102d)
 - [Décret n°95-1008 du 13 septembre 1995 (ECOT9551465D)](decret-n95-1008-du-13-septembre-1995-ecot9551465d)
 - [Décret n°95-1010 du 13 septembre 1995 (MCCB9500426D)](decret-n95-1010-du-13-septembre-1995-mccb9500426d)
 - [Décret n°95-1012 du 13 septembre 1995 (EQUP9500785D)](decret-n95-1012-du-13-septembre-1995-equp9500785d)

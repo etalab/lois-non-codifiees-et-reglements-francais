@@ -10,7 +10,7 @@ atteste avoir procédé le (date)
 
 pour le compte de (nom, prénoms, raison sociale, adresse)
 
-conformément aux procédés techniques définis par l'arrêté fixant les conditions de neutralisation des systèmes d'armes et armes embarqués des matériels de guerre des 6°, 8°, 9° et 10° de la catégorie A2 pris en application de l'article 119 du décret n° 2013-700 du 30 juillet 2013 modifié, aux opérations de neutralisation portant sur les pièces ci-dessous mentionnées (préciser le type d'arme) :
+conformément aux procédés techniques définis par l'arrêté fixant les conditions de neutralisation des systèmes d'armes et armes embarqués des matériels de guerre des 6°, 8°, 9° et 10° de la catégorie A2 pris en application de l'article R. 314-11 du code de la sécurité intérieure, aux opérations de neutralisation portant sur les pièces ci-dessous mentionnées (préciser le type d'arme) :
 
 Cachet et signature
 

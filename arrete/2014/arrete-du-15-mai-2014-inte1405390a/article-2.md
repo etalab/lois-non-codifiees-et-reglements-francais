@@ -232,8 +232,9 @@ La correspondance des grades et appellations s'établit comme ci-dessous :
 </td>
 <td align="center" rowspan="4">
 <br/>Infirmier<br/>
+<p>
 <br/>
-<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -392,7 +393,7 @@ La correspondance des grades et appellations s'établit comme ci-dessous :
 </td>
 </tr>
 <tr>
-<td colspan="2">(2) Correspondance sous réserve que le militaire soit admis en deuxième année du deuxième cycle des études médicales, conformément aux dispositions de l'article 69 du décret n° 2013-942 du 17 mai 2013 relatif aux sapeurs-pompiers volontaires.</td>
+<td colspan="2">(2) Correspondance sous réserve que le militaire soit admis en deuxième année du deuxième cycle des études médicales, conformément aux dispositions de l'article R. 723-81 du code de la sécurité intérieure.</td>
 </tr>
 </tbody>
 </table>

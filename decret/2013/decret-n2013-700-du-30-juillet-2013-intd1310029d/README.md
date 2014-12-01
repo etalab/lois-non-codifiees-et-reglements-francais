@@ -4,8 +4,6 @@
 - [Chapitre II : Acquisition et détention](chapitre-ii)
 - [Chapitre III : Fabrication et commerce](chapitre-iii)
 - [Chapitre IV : Commerce de détail](chapitre-iv)
-- [Chapitre V : Conservation et transfert de propriété](chapitre-v)
-- [Chapitre VI : Port et transport](chapitre-vi)
 - [Chapitre VII : Acquisition et détention de certaines armes et munitions par des résidents d'un Etat membre de l'Union européenne et transfert de ces armes et munitions à destination ou en provenance d'un de ces Etats](chapitre-vii)
 - [Chapitre VIII : Dispositions pénales](chapitre-viii)
 - [Chapitre IX : Dispositions diverses](chapitre-ix)
