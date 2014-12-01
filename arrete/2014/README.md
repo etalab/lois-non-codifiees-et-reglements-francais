@@ -981,6 +981,7 @@
 - [Arrêté du 14 février 2014 (EFIP1403733A)](arrete-du-14-fevrier-2014-efip1403733a)
 - [Arrêté du 14 février 2014 (ETSD1403649A)](arrete-du-14-fevrier-2014-etsd1403649a)
 - [Arrêté du 14 février 2014 (MENH1329519A)](arrete-du-14-fevrier-2014-menh1329519a)
+- [Arrêté du 14 janvier 1988 (RESY8800110A)](arrete-du-14-janvier-1988-resy8800110a)
 - [Arrêté du 14 janvier 2009 (DEVK0831021A)](arrete-du-14-janvier-2009-devk0831021a)
 - [Arrêté du 14 janvier 2014 (AFSP1331854A)](arrete-du-14-janvier-2014-afsp1331854a)
 - [Arrêté du 14 janvier 2014 (AFSP1331857A)](arrete-du-14-janvier-2014-afsp1331857a)

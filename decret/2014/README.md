@@ -53,6 +53,7 @@
 - [DÉCRET n°2014-765 du 3 juillet 2014 (MENH1411047D)](decret-n2014-765-du-3-juillet-2014-menh1411047d)
 - [DÉCRET n°2014-766 du 3 juillet 2014 (AFSS1411206D)](decret-n2014-766-du-3-juillet-2014-afss1411206d)
 - [DÉCRET n°2014-767 du 3 juillet 2014 (FVJV1409744D)](decret-n2014-767-du-3-juillet-2014-fvjv1409744d)
+- [Décret n°92-41 du 3 janvier 1992 (RESY9100244D)](decret-n92-41-du-3-janvier-1992-resy9100244d)
 - [DÉCRET n°2014-1006 du 4 septembre 2014 (MENH1413441D)](decret-n2014-1006-du-4-septembre-2014-menh1413441d)
 - [DÉCRET n°2014-1007 du 4 septembre 2014 (MENH1413438D)](decret-n2014-1007-du-4-septembre-2014-menh1413438d)
 - [DÉCRET n°2014-1008 du 4 septembre 2014 (FCPT1411028D)](decret-n2014-1008-du-4-septembre-2014-fcpt1411028d)
