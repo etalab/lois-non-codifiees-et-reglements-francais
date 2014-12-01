@@ -1,74 +1,89 @@
 # Article 4
 
-Le quota défini à l'article 1er, attribué aux marins pêcheurs, est réparti en sous-quotas entre les unités de gestion anguille, ci-après dénommées  UGA , de la façade Atlantique-Manche-mer du Nord, telles que définies dans le plan de gestion anguille français.
-
-<div align="center">
+Le quota défini à l'article 1er, attribué aux marins pêcheurs, est réparti en sous-quotas entre les unités de gestion anguille, ci-après dénommées " UGA " de la façade Atlantique-Manche-mer du Nord, telles que définies dans le plan de gestion anguille français.
 
 <table>
 <tbody>
 <tr>
+<th>
+<br/>UNITÉ DE GESTION ANGUILLE (UGA) <br/>
+</th>
+<th>
+<br/>QUOTA PAR UGA <br/>
+<br/>(kg) <br/>
+</th>
+</tr>
+<tr>
 <td>
-<p align="center"> UNITÉ DE GESTION ANGUILLE (UGA)</p>
+<br/>Artois-Picardie <br/>
 </td>
+<td align="center" valign="middle">
+<br/>300 <br/>
+</td>
+</tr>
+<tr>
 <td>
-<p align="center"> QUOTA PAR UGA <br/>(kg)</p>
+<br/>Seine-Normandie <br/>
+</td>
+<td align="center" valign="middle">
+<br/>900 <br/>
 </td>
 </tr>
 <tr>
-<td>Artois-Picardie<br/>
+<td>
+<br/>Bretagne <br/>
 </td>
-<td align="center" valign="middle">300<br/>
-</td>
-</tr>
-<tr>
-<td>Seine-Normandie<br/>
-</td>
-<td align="center" valign="middle">900<br/>
+<td align="center" valign="middle">
+<br/>2 699 <br/>
 </td>
 </tr>
 <tr>
-<td>Bretagne<br/>
+<td>
+<br/>Loire, côtiers vendéens et Sèvre niortaise <br/>
 </td>
-<td align="center" valign="middle">2 699<br/>
-</td>
-</tr>
-<tr>
-<td>Loire, côtiers vendéens et Sèvre niortaise<br/>
-</td>
-<td align="center" valign="middle">14 099<br/>
+<td align="center" valign="middle">
+<br/>14 099<br/>
 </td>
 </tr>
 <tr>
-<td valign="middle">- navires adhérents de l'organisation de producteurs Estuaires<br/>
+<td align="left">
+<br/>-navires adhérents de l'organisation de producteurs Estuaires <br/>
 </td>
-<td align="center" valign="middle">9 063<br/>
-</td>
-</tr>
-<tr>
-<td valign="middle">- navires non adhérents d'une organisation de producteurs<br/>
-</td>
-<td align="center" valign="middle">5 036<br/>
+<td align="center" valign="bottom">
+<br/>9 616<br/>
 </td>
 </tr>
 <tr>
-<td>Garonne-Dordogne-Charente-Seudre-Leyre-Arcachon<br/>
+<td align="left">
+<br/>-navires non adhérents d'une organisation de producteurs <br/>
 </td>
-<td align="center" valign="middle">6 601<br/>
-</td>
-</tr>
-<tr>
-<td>Adour-cours d'eau côtiers<br/>
-</td>
-<td align="center" valign="middle">1 501<br/>
+<td align="center" valign="middle">
+<br/>4 483 <br/>
 </td>
 </tr>
 <tr>
-<td>Total<br/>
+<td>
+<br/>Garonne-Dordogne-Charente-Seudre-Leyre-Arcachon <br/>
 </td>
-<td align="center" valign="middle">26 100<br/>
+<td align="center" valign="middle">
+<br/>6 601 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Adour-cours d'eau côtiers <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 501 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Total <br/>
+</td>
+<td align="center" valign="middle">
+<br/>26 100<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
