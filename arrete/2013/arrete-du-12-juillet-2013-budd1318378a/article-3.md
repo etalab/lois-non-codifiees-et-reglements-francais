@@ -1,6 +1,6 @@
 # Article 3
 
-Toutes les informations requises à l'enregistrement, obligatoires ou facultatives, produites immédiatement ou a posteriori, doivent être justifiées par un des documents identifiés en annexe I, à l'exception de celles dites déclaratives.
+Toutes les informations requises à l'enregistrement, obligatoires ou facultatives, produites immédiatement ou a posteriori, doivent être justifiées par un des documents identifiés en annexes I et I bis, à l'exception de celles dites déclaratives.
 
 Un même document peut servir à justifier plusieurs informations.
 
