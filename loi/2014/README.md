@@ -9,6 +9,7 @@
 - [LOI n°2014-640 du 20 juin 2014 (JUSX1405215L)](loi-n2014-640-du-20-juin-2014-jusx1405215l)
 - [LOI n°2014-855 du 31 juillet 2014 (FCPX1410823L)](loi-n2014-855-du-31-juillet-2014-fcpx1410823l)
 - [LOI n°2014-856 du 31 juillet 2014 (ERNX1315311L)](loi-n2014-856-du-31-juillet-2014-ernx1315311l)
+- [LOI n°2014-871 du 4 août 2014 (DEVX1412103L)](loi-n2014-871-du-4-aout-2014-devx1412103l)
 - [LOI n°2014-872 du 4 août 2014 (DEVX1320370L)](loi-n2014-872-du-4-aout-2014-devx1320370l)
 - [LOI n°2014-873 du 4 août 2014 (FVJX1313602L)](loi-n2014-873-du-4-aout-2014-fvjx1313602l)
 - [LOI n°2014-877 du 4 août 2014 (ERNX1410322L)](loi-n2014-877-du-4-aout-2014-ernx1410322l)
