@@ -262,7 +262,6 @@
 - [Arrêté du 9 juillet 2008 (JUSG0816307A)](arrete-du-9-juillet-2008-jusg0816307a)
 - [Arrêté du 9 juillet 2008 (JUSG0816314A)](arrete-du-9-juillet-2008-jusg0816314a)
 - [Arrêté du 9 juillet 2008 (JUSG0816317A)](arrete-du-9-juillet-2008-jusg0816317a)
-- [Arrêté du 9 juillet 2008 (JUSG0816338A)](arrete-du-9-juillet-2008-jusg0816338a)
 - [Arrêté du 9 juillet 2008 (JUSG0816343A)](arrete-du-9-juillet-2008-jusg0816343a)
 - [Arrêté du 9 juillet 2008 (JUSG0816346A)](arrete-du-9-juillet-2008-jusg0816346a)
 - [Arrêté du 9 juillet 2008 (JUSG0816350A)](arrete-du-9-juillet-2008-jusg0816350a)

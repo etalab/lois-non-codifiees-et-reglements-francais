@@ -114,7 +114,6 @@
 - [Décret n°92-201 du 3 mars 1992 (INTC9200082D)](decret-n92-201-du-3-mars-1992-intc9200082d)
 - [Décret n°92-206 du 3 mars 1992 (SANH9200268D)](decret-n92-206-du-3-mars-1992-sanh9200268d)
 - [Décret n°92-212 du 3 mars 1992 (ENVN9161995D)](decret-n92-212-du-3-mars-1992-envn9161995d)
-- [Décret n°92-41 du 3 janvier 1992 (RESY9100244D)](decret-n92-41-du-3-janvier-1992-resy9100244d)
 - [Décret n°92-485 du 3 juin 1992 (INDH9200402D)](decret-n92-485-du-3-juin-1992-indh9200402d)
 - [Décret n°92-608 du 3 juillet 1992 (EQUT9200582D)](decret-n92-608-du-3-juillet-1992-equt9200582d)
 - [Décret n°92-609 du 3 juillet 1992 (EQUT9200450D)](decret-n92-609-du-3-juillet-1992-equt9200450d)

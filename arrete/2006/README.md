@@ -92,7 +92,6 @@
 - [Arrêté du 10 juillet 2006 (EQUA0600935A)](arrete-du-10-juillet-2006-equa0600935a)
 - [Arrêté du 10 mars 2003 (ECOP0300042A)](arrete-du-10-mars-2003-ecop0300042a)
 - [Arrêté du 10 mars 2006 (ECOS0650011A)](arrete-du-10-mars-2006-ecos0650011a)
-- [Arrêté du 10 mars 2006 (INTE0600176A)](arrete-du-10-mars-2006-inte0600176a)
 - [Arrêté du 11 août 2006 (INDI0607746A)](arrete-du-11-aout-2006-indi0607746a)
 - [Arrêté du 11 avril 2006 (SOCA0621478A)](arrete-du-11-avril-2006-soca0621478a)
 - [Arrêté du 11 décembre 2006 (DEFP0601671A)](arrete-du-11-decembre-2006-defp0601671a)

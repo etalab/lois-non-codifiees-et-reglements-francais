@@ -229,7 +229,6 @@
 - [Arrêté du 14 décembre 1987 (EQUU8701087A)](arrete-du-14-decembre-1987-equu8701087a)
 - [Arrêté du 14 décembre 1988 (INTB8800467A)](arrete-du-14-decembre-1988-intb8800467a)
 - [Arrêté du 14 janvier 1987 (ASET8703032A)](arrete-du-14-janvier-1987-aset8703032a)
-- [Arrêté du 14 janvier 1988 (RESY8800110A)](arrete-du-14-janvier-1988-resy8800110a)
 - [Arrêté du 14 juin 1988 (ASEH8800851A)](arrete-du-14-juin-1988-aseh8800851a)
 - [Arrêté du 14 mars 1986](arrete-du-14-mars-1986)
 - [Arrêté du 14 mars 1988 (AGRB8800564A)](arrete-du-14-mars-1988-agrb8800564a)
