@@ -349,18 +349,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Réseau ferré de France<br/>
-</td>
+<br/>SNCF</td>
 <td align="center">
-<br/>Président du conseil d'administration<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Société nationale des chemins de fer français <br/>
-</td>
-<td align="center">
-<br/>Président du conseil d'administration<br/>
+<p>
+<br/>Président du conseil de surveillance</p>
+<p>Président du directoire</p>
+<p>Président délégué du directoire<br/>
+</p>
 </td>
 </tr>
 <tr>
