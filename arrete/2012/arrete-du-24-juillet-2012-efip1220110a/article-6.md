@@ -36,7 +36,7 @@ Le département de l'emploi et des revenus d'activité comprend :
 
 Le département des ressources et des conditions de vie des ménages comprend :
 
-- la division "prix à la consommation" ;
+- la division "logement" ;
 
 - la division "conditions de vie des ménages" ;
 
