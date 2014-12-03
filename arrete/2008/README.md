@@ -758,7 +758,6 @@
 - [Arrêté du 20 octobre 2008 (SJSG0824960A)](arrete-du-20-octobre-2008-sjsg0824960a)
 - [Arrêté du 20 octobre 2008 (SJSH0824986A)](arrete-du-20-octobre-2008-sjsh0824986a)
 - [Arrêté du 20 octobre 2008 (SJSH0824999A)](arrete-du-20-octobre-2008-sjsh0824999a)
-- [Arrêté du 21 août 2008 (AGRG0820404A)](arrete-du-21-aout-2008-agrg0820404a)
 - [Arrêté du 21 août 2008 (DEVA0821040A)](arrete-du-21-aout-2008-deva0821040a)
 - [Arrêté du 21 août 2008 (DEVO0773410A)](arrete-du-21-aout-2008-devo0773410a)
 - [Arrêté du 21 août 2008 (DEVP0820250A)](arrete-du-21-aout-2008-devp0820250a)
