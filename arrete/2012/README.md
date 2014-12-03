@@ -322,7 +322,6 @@
 - [Arrêté du 5 juin 2012 (MENE1225082A)](arrete-du-5-juin-2012-mene1225082a)
 - [Arrêté du 5 juin 2012 (MENE1225105A)](arrete-du-5-juin-2012-mene1225105a)
 - [Arrêté du 5 juin 2012 (MENE1225114A)](arrete-du-5-juin-2012-mene1225114a)
-- [Arrêté du 5 juin 2012 (SPOV1225431A)](arrete-du-5-juin-2012-spov1225431a)
 - [Arrêté du 5 mars 2012 (AGRM1201113A)](arrete-du-5-mars-2012-agrm1201113a)
 - [Arrêté du 5 mars 2012 (AGRT1205946A)](arrete-du-5-mars-2012-agrt1205946a)
 - [Arrêté du 5 mars 2012 (BCRB1201145A)](arrete-du-5-mars-2012-bcrb1201145a)
