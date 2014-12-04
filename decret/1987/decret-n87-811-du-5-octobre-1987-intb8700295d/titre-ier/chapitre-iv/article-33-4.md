@@ -2,7 +2,7 @@
 
 Le mandat des membres titulaires et suppléants du conseil d'orientation représentant les communes expire à l'occasion du renouvellement général des conseils municipaux.
 
-Le mandat des représentants des départements expire à l'occasion du renouvellement partiel des conseils généraux.
+Le mandat des représentants des départements expire         à l'occasion du renouvellement général des conseils départementaux.
 
 Le mandat des représentants des régions expire à l'occasion du renouvellement général des conseils régionaux.
 

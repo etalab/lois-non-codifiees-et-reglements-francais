@@ -1,11 +1,15 @@
 # Article 23
 
-L'assemblée plénière et les formations spécialisées émettent des avis ou des propositions à la majorité des suffrages exprimés.
+Lorsque le Conseil, siégeant en assemblée plénière ou en bureau, émet un avis, celui-ci est rendu lorsque l'avis des représentants syndicaux, d'une part, et l'avis des représentants des employeurs territoriaux, d'autre part, ont été rendus. L'avis d'un collège est réputé favorable ou défavorable lorsque la majorité de ses membres présents ou représentés ayant voix délibérative s'est prononcée en ce sens. En cas de partage des voix, l'avis du collège concerné est réputé rendu.
 
-Si le tiers des membres présents le réclame, ou s'il s'agit de procéder à une nomination, le vote a lieu à bulletin secret. Il en est de même en matière disciplinaire.
+Lorsqu'un projet de texte soumis pour avis au Conseil supérieur recueille un vote défavorable unanime du collège des représentants syndicaux, une nouvelle convocation du conseil est envoyée dans un délai d'au moins huit jours. La nouvelle réunion se tient au minimum dix jours après la date d'envoi des convocations. Le conseil siège alors valablement quel que soit le nombre de membres présents ou représentés. Il ne peut être appelé à délibérer une nouvelle fois suivant cette même procédure.
 
-Le vote par procuration est admis sauf dans les cas visés aux articles 72,91,93 et 97 de la loi du 26 janvier 1984 précitée. Un membre présent ne peut disposer que d'une procuration.
+Lorsque l'assemblée plénière ou le bureau émettent des propositions, celles-ci sont soumises au vote de chacun des collèges. Elles sont adoptées à la majorité des membres présents ou représentés ayant voix délibérative de chaque collège.
 
-Lorsqu'un membre titulaire est remplacé par un membre suppléant, celui-ci dispose du droit de vote du titulaire sans pouvoir donner ni recevoir procuration.
+Sauf opposition de la majorité des membres présents ou représentés ayant voix délibérative des deux collèges réunis, le vote a lieu à bulletin secret si un tiers de ces membres le réclame.
 
-Le président dispose d'une voix prépondérante.
+Il a également lieu à bulletin secret lorsqu'il s'agit de procéder à une nomination.
+
+Le vote par procuration est admis. Un membre présent ayant voix délibérative ne peut disposer que d'une procuration.
+
+Lorsqu'un membre titulaire est remplacé par un membre suppléant, celui-ci dispose des mêmes droits. Il peut recevoir et donner une procuration en cours de séance.
