@@ -764,7 +764,6 @@
 - [Arrêté du 20 octobre 1995 (SANH9503149A)](arrete-du-20-octobre-1995-sanh9503149a)
 - [Arrêté du 20 octobre 1995 (SANH9503150A)](arrete-du-20-octobre-1995-sanh9503150a)
 - [Arrêté du 20 octobre 1995 (SANH9503151A)](arrete-du-20-octobre-1995-sanh9503151a)
-- [Arrêté du 20 septembre 1993 (ACVI9330001A)](arrete-du-20-septembre-1993-acvi9330001a)
 - [Arrêté du 20 septembre 1994 (ENVN9540016A)](arrete-du-20-septembre-1994-envn9540016a)
 - [Arrêté du 20 septembre 1995 (INDG9500910A)](arrete-du-20-septembre-1995-indg9500910a)
 - [Arrêté du 20 septembre 1995 (MENU9502028A)](arrete-du-20-septembre-1995-menu9502028a)
