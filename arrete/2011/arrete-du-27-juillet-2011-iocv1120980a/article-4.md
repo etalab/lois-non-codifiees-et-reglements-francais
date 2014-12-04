@@ -1,13 +1,3 @@
 # Article 4
 
-Lors du scrutin pour l'élection du comité technique de l'Office français de protection des réfugiés et apatrides, le vote par correspondance peut être ouvert aux agents se trouvant dans l'une des situations suivantes :
-
-― ne pas exercer ses fonctions à proximité de la section de vote à laquelle l'agent est rattaché ;
-
-― être en congé parental, en congé de maternité, en congé de paternité ou en congé d'adoption ;
-
-― être en congé de maladie, en congé de longue maladie, en congé de longue durée ou en congé de grave maladie ;
-
-― être absent en raison de nécessités de service.
-
-Le vote par correspondance peut également être ouvert aux agents se trouvant en position d'absence régulièrement autorisée non énumérée au présent article.
+Le vote pour l'élection des représentants du personnel au sein de ce comité peut avoir lieu par correspondance dans les conditions fixées par arrêté du ministre de l'intérieur.

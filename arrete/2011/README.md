@@ -1170,7 +1170,6 @@
 - [Arrêté du 14 septembre 2010 (DEFH1023009A)](arrete-du-14-septembre-2010-defh1023009a)
 - [Arrêté du 14 septembre 2011 (AGRG1104433A)](arrete-du-14-septembre-2011-agrg1104433a)
 - [Arrêté du 14 septembre 2011 (AGRT1122670A)](arrete-du-14-septembre-2011-agrt1122670a)
-- [Arrêté du 14 septembre 2011 (JUST1125158A)](arrete-du-14-septembre-2011-just1125158a)
 - [Arrêté du 14 septembre 2011 (MFPF1124815A)](arrete-du-14-septembre-2011-mfpf1124815a)
 - [Arrêté du 15 avril 2011 (AGRG1109430A)](arrete-du-15-avril-2011-agrg1109430a)
 - [Arrêté du 15 avril 2011 (AGRM1109527A)](arrete-du-15-avril-2011-agrm1109527a)
