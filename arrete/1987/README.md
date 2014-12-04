@@ -179,7 +179,6 @@
 - [Arrêté du 10 juin 1987](arrete-du-10-juin-1987)
 - [Arrêté du 10 juin 1987 (ECOT8750030A)](arrete-du-10-juin-1987-ecot8750030a)
 - [Arrêté du 10 mars 1987 (EQUS8700326A)](arrete-du-10-mars-1987-equs8700326a)
-- [Arrêté du 10 mars 1987 (TRSM8710012A)](arrete-du-10-mars-1987-trsm8710012a)
 - [Arrêté du 10 novembre 1987 (BUDF8720093A)](arrete-du-10-novembre-1987-budf8720093a)
 - [Arrêté du 11 août 1987 (ECOC8700041A)](arrete-du-11-aout-1987-ecoc8700041a)
 - [Arrêté du 11 août 1987 (ECOC8700043A)](arrete-du-11-aout-1987-ecoc8700043a)

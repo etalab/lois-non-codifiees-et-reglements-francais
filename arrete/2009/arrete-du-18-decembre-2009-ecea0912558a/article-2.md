@@ -1,3 +1,0 @@
-# Article 2
-
-Le directeur général des infrastructures, des transports et de la mer, le directeur des affaires civiles et du sceau, le directeur général de la compétitivité, de l'industrie et des services, le directeur général de l'Institut national de la statistique et des études économiques, le directeur général des finances publiques, le directeur de la sécurité sociale et le directeur général des politiques agricole, agroalimentaire et des territoires sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

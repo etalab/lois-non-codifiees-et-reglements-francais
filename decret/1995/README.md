@@ -289,7 +289,6 @@
 - [Décret n°95-650 du 9 mai 1995 (SPSH9501360D)](decret-n95-650-du-9-mai-1995-spsh9501360d)
 - [Décret n°95-651 du 9 mai 1995 (SPSH9501359D)](decret-n95-651-du-9-mai-1995-spsh9501359d)
 - [Décret n°95-654 du 9 mai 1995 (INTX9500790D)](decret-n95-654-du-9-mai-1995-intx9500790d)
-- [Décret n°95-659 du 9 mai 1995 (INTX9500793D)](decret-n95-659-du-9-mai-1995-intx9500793d)
 - [Décret n°95-660 du 9 mai 1995 (JUSC9520264D)](decret-n95-660-du-9-mai-1995-jusc9520264d)
 - [Décret n°95-661 du 9 mai 1995 (JUSD9530020D)](decret-n95-661-du-9-mai-1995-jusd9530020d)
 - [Décret n°95-662 du 9 mai 1995 (DEFM9501485D)](decret-n95-662-du-9-mai-1995-defm9501485d)

@@ -504,7 +504,6 @@
 - [Arrêté du 25 mai 1999 (PRMX9903566A)](arrete-du-25-mai-1999-prmx9903566a)
 - [Arrêté du 26 avril 1999 (MESA9921084A)](arrete-du-26-avril-1999-mesa9921084a)
 - [Arrêté du 26 avril 1999 (MESH9921503A)](arrete-du-26-avril-1999-mesh9921503a)
-- [Arrêté du 26 février 1999 (AGRA9900305A)](arrete-du-26-fevrier-1999-agra9900305a)
 - [Arrêté du 26 janvier 1999 (ATEN9870472A)](arrete-du-26-janvier-1999-aten9870472a)
 - [Arrêté du 26 mars 1999 (ECOA9951799A)](arrete-du-26-mars-1999-ecoa9951799a)
 - [Arrêté du 26 mars 1999 (ECOU9900006A)](arrete-du-26-mars-1999-ecou9900006a)

@@ -1,5 +1,0 @@
-# Article 21
-
-Les comités d'hygiène et de sécurité, créés en 2010 ou dont le mandat a été établi sur la base du résultat des élections organisées en 2010 pour la composition des commissions administratives paritaires ou des comités techniques paritaires, demeurent régis jusqu'au terme de leur mandat par les dispositions du titre IV du décret du 28 mai 1982 relatif à l'hygiène, la sécurité et la prévention médicale dans la fonction publique dans sa rédaction antérieure au décret n° 2011-774 du 28 juin 2011 portant modification du décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique.
-
-Toutefois, le premier, le quatrième, le cinquième et le sixième alinéa de l'article 39, le troisième alinéa de l'article 41, les articles 47 et 48 et les articles 50 à 78 du décret du 28 mai 1982 susvisé dans leur rédaction issue du décret n° 2011-774 du 28 juin 2011 portant modification du décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique sont applicables à ces mêmes comités.
