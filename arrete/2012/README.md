@@ -2368,7 +2368,6 @@
 - [Arrêté du 25 mai 2012 (ESRS1221993A)](arrete-du-25-mai-2012-esrs1221993a)
 - [Arrêté du 25 mai 2012 (ETSD1227874A)](arrete-du-25-mai-2012-etsd1227874a)
 - [Arrêté du 25 mai 2012 (ETSD1227876A)](arrete-du-25-mai-2012-etsd1227876a)
-- [Arrêté du 25 mai 2012 (INTJ1225729A)](arrete-du-25-mai-2012-intj1225729a)
 - [Arrêté du 25 mai 2012 (MCCB1222866A)](arrete-du-25-mai-2012-mccb1222866a)
 - [Arrêté du 25 mai 2012 (MENE1224074A)](arrete-du-25-mai-2012-mene1224074a)
 - [Arrêté du 25 mai 2012 (MENE1224082A)](arrete-du-25-mai-2012-mene1224082a)
