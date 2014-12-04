@@ -1,58 +1,56 @@
 # Article 18
 
-Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des techniciens de recherche, dont la composition est fixée comme suit :
-
-<div align="center">
+<div>Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des techniciens de recherche, dont la composition est fixée comme suit : <br/>
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="224">
-<p align="center">GRADES</p>
+<th rowspan="2">
+<br/>GRADES <br/>
+</th>
+<th colspan="2">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Techniciens de recherche de classe exceptionnelle <br/>
 </td>
-<td colspan="2" width="450">
-<p align="center">NOMBRE DE REPRÉSENTANTS</p>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td width="224">
-<p align="center">Titulaires</p>
+<td align="left" valign="middle">
+<br/>Techniciens de recherche de classe supérieure <br/>
 </td>
-<td width="224">
-<p align="center">Suppléants</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-</tr>
-<tr>
-<td width="224">
-<p>Techniciens de recherche de classe exceptionnelle</p>
-</td>
-<td width="224">
-<p align="center">2</p>
-</td>
-<td width="224">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
 </tr>
 <tr>
-<td width="224">
-<p>Techniciens de recherche de classe supérieure</p>
+<td align="left" valign="middle">
+<br/>Techniciens de recherche de classe normale <br/>
 </td>
-<td width="224">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td width="224">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td width="224">
-<p>Techniciens de recherche de classe normale</p>
-</td>
-<td width="224">
-<p align="center">2</p>
-</td>
-<td width="224">
-<p align="center">2</p>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 </tbody>

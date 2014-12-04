@@ -1,58 +1,56 @@
 # Article 5
 
-Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des secrétaires administratifs et des assistants de service social du ministère de la culture et de la communication, dont la composition est fixée comme suit :
-
-<div align="center">
+<div>Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des secrétaires administratifs du ministère de la culture et de la communication, dont la composition est fixée comme suit : <br/>
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="224">
-<p align="center">GRADES</p>
+<th rowspan="2">
+<br/>GRADES <br/>
+</th>
+<th colspan="2">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td>
+<br/>Secrétaires administratifs de classe exceptionnelle <br/>
 </td>
-<td colspan="2" width="450">
-<p align="center">NOMBRE DE REPRÉSENTANTS</p>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td width="224">
-<p align="center">Titulaires</p>
+<td>
+<br/>Secrétaires administratifs de classe supérieure <br/>
 </td>
-<td width="224">
-<p align="center">Suppléants</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-</tr>
-<tr>
-<td width="224">
-<p>Secrétaires administratifs de classe exceptionnelle et assistants de service social principaux</p>
-</td>
-<td width="224">
-<p align="center">2</p>
-</td>
-<td width="224">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td width="224">
-<p>Secrétaires administratifs de classe supérieure</p>
+<td>
+<br/>Secrétaires administratifs de classe normale <br/>
 </td>
-<td width="224">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="224">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td width="224">
-<p>Secrétaires administratifs de classe normale et assistants de service social </p>
-</td>
-<td width="224">
-<p align="center">2</p>
-</td>
-<td width="224">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 </tbody>

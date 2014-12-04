@@ -1,47 +1,56 @@
 # Article 4
 
-Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des attachés d'administration et conseillers techniques de service social du ministère de la culture et de la communication, dont la composition est fixée comme suit :
-
-<div align="center">
+<div>Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des attachés d'administration relevant en gestion, du ministère de la culture et de la communication, dont la composition est fixée comme suit : <br/>
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="224">
-<p align="center">GRADES</p>
+<th rowspan="2">
+<br/>GRADES <br/>
+</th>
+<th colspan="2">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+</tr>
+<tr>
+<td>
+<br/>Attachés hors classe <br/>
 </td>
-<td colspan="2" width="450">
-<p align="center">NOMBRE DE REPRÉSENTANTS</p>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td width="224">
-<p align="center">Titulaires</p>
+<td>
+<br/>Attachés principaux d'administration <br/>
 </td>
-<td width="224">
-<p align="center">Suppléants</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-</tr>
-<tr>
-<td width="224">
-<p>Attachés principaux d'administration</p>
-</td>
-<td width="224">
-<p align="center">2</p>
-</td>
-<td width="224">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td width="224">
-<p>Attachés et conseillers techniques de service social</p>
+<td>
+<br/>Attachés d'administration <br/>
 </td>
-<td width="224">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td width="224">
-<p align="center">2</p>
+<td align="center">
+<br/>2 <br/>
 </td>
 </tr>
 </tbody>

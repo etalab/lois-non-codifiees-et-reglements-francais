@@ -43,7 +43,6 @@
 - [Arrêté du 3 décembre 1993 (BUDR9305031A)](arrete-du-3-decembre-1993-budr9305031a)
 - [Arrêté du 3 décembre 1993 (ECOC9310176A)](arrete-du-3-decembre-1993-ecoc9310176a)
 - [Arrêté du 3 décembre 1993 (ENVN9320435A)](arrete-du-3-decembre-1993-envn9320435a)
-- [Arrêté du 3 décembre 1993 (MCCB9300357A)](arrete-du-3-decembre-1993-mccb9300357a)
 - [Arrêté du 3 décembre 1993 (SANH9303462A)](arrete-du-3-decembre-1993-sanh9303462a)
 - [Arrêté du 3 février 1993 (ECOT9313669A)](arrete-du-3-fevrier-1993-ecot9313669a)
 - [Arrêté du 3 mars 1993 (ENEC9300115A)](arrete-du-3-mars-1993-enec9300115a)

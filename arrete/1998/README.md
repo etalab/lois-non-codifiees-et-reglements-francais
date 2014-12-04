@@ -117,7 +117,6 @@
 - [Arrêté du 5 juin 1998 (ECOP9800258A)](arrete-du-5-juin-1998-ecop9800258a)
 - [Arrêté du 5 mars 1998 (MENE9800449A)](arrete-du-5-mars-1998-mene9800449a)
 - [Arrêté du 5 novembre 1998 (ECOT9820080A)](arrete-du-5-novembre-1998-ecot9820080a)
-- [Arrêté du 5 novembre 1998 (MCCB9800799A)](arrete-du-5-novembre-1998-mccb9800799a)
 - [Arrêté du 5 octobre 1998 (DEFA9801963A)](arrete-du-5-octobre-1998-defa9801963a)
 - [Arrêté du 5 octobre 1998 (DEFA9801964A)](arrete-du-5-octobre-1998-defa9801964a)
 - [Arrêté du 5 octobre 1998 (DEFG9801957A)](arrete-du-5-octobre-1998-defg9801957a)

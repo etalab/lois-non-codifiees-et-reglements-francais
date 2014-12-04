@@ -1,6 +1,6 @@
-# Article 22
+# Article 22-2
 
-<div>Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des adjoints techniques d'accueil, de surveillance et de magasinage, dont la composition est fixée comme suit : <br/>
+Il est créé, auprès du secrétaire général du ministère de la culture et de la communication, une commission administrative paritaire compétente à l'égard du corps des adjoints techniques de l'Etat du ministère de la culture et de la communication, dont la composition est fixée comme suit :
 
 <table>
 <tbody>
@@ -32,7 +32,7 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="left">
 <br/>Adjoints techniques principaux de 2e classe <br/>
 </td>
 <td align="center">
@@ -43,18 +43,18 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="left">
 <br/>Adjoints techniques de 1re classe <br/>
 </td>
 <td align="center">
-<br/>3 <br/>
+<br/>2 <br/>
 </td>
 <td align="center">
-<br/>3 <br/>
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left">
 <br/>Adjoints techniques de 2e classe <br/>
 </td>
 <td align="center">
@@ -66,5 +66,3 @@
 </tr>
 </tbody>
 </table>
-
-</div>
