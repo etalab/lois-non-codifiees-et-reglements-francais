@@ -270,10 +270,10 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p align="center">2</p>
 </td>
 <td rowspan="4" width="80">
-<p align="center">6</p>
+<p align="center">5</p>
 </td>
 <td rowspan="4" width="75">
-<p align="center">6</p>
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
@@ -292,10 +292,10 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p>Adjoints techniques de la recherche de 1ere classe</p>
 </td>
 <td width="79">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="75">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
