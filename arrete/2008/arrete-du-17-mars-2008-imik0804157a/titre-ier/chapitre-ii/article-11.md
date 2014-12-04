@@ -1,3 +1,0 @@
-# Article 11
-
-Les bulletins de vote et les enveloppes sont établis par l'administration selon un modèle type et adressés au moins trois semaines avant la date du scrutin aux agents inscrits sur la liste électorale.
