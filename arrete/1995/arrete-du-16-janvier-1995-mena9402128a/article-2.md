@@ -5,80 +5,64 @@ La composition de ces commissions est fixée comme suit :
 <table>
 <tbody>
 <tr>
-<td rowspan="3">
-<p align="center">GRADES</p>
-</td>
-<td colspan="7" valign="top">
-<p align="center">NOMBRE DE REPRESENTANTS</p>
-</td>
+<th rowspan="3">
+<br/>GRADES <br/>
+</th>
+<th colspan="4">
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
 </tr>
 <tr>
-<td colspan="3" valign="top">
-<p align="center">Personnel</p>
-</td>
-<td colspan="6" valign="top">
-<p align="center">Administration</p>
-</td>
+<th colspan="2">
+<br/>Du personnel <br/>
+</th>
+<th colspan="2">
+<br/>De l'administration <br/>
+</th>
 </tr>
 <tr>
-<td valign="top">
-<p align="center">Titulaires</p>
-</td>
-<td colspan="2" valign="top">
-<p align="center">Suppléants</p>
-</td>
-<td colspan="2" valign="top">
-<p align="center">Titulaires</p>
-</td>
-<td colspan="4" valign="top">
-<p align="center">Suppléants</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Assistant de service social principal</p>
-</td>
-<td colspan="2" valign="top">
-<p align="center">2</p>
-</td>
-<td colspan="2" valign="top">
-<p align="center">2</p>
-</td>
-<td colspan="2" valign="top">
-<pre> </pre>
-</td>
-<td valign="top">
-<pre> </pre>
-</td>
-<td/>
-<td>
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p>Assistant de service social</p>
-</td>
-<td colspan="2" rowspan="2" valign="top">
-<p align="center">3</p>
-</td>
-<td colspan="2" rowspan="2" valign="top">
-<p align="center">3</p>
-</td>
-<td colspan="2" rowspan="2" valign="top">
-<p align="center">5</p>
-</td>
-<td rowspan="2" valign="top">
-<p align="center">5</p>
-</td>
-<td>-</td>
-<td>-</td>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
+<th>
+<br/>Titulaires <br/>
+</th>
+<th>
+<br/>Suppléants <br/>
+</th>
 </tr>
 <tr>
 <td>
-<p>-</p>
+<p align="left">
+<br/>Assistant de service social principal </p>
 </td>
-<td>-</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>6 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<br/>Assistant de service social </p>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
 </tr>
 </tbody>
 </table>

@@ -1,63 +1,68 @@
 # Article 3
 
-<div>
-<br/>La composition de la commission administrative paritaire nationale des techniciens de l'éducation nationale est fixée comme suit :<br/>
-<br/>
-<div align="center">
+La composition de la commission administrative paritaire nationale des techniciens de l'éducation nationale est fixée comme suit :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES</th>
+<th rowspan="3">
+<br/>GRADES <br/>
+</th>
 <th colspan="4">
-<br/>NOMBRE DE REPRÉSENTANTS</th>
+<br/>NOMBRE DE REPRÉSENTANTS <br/>
+</th>
 </tr>
 <tr>
-<th/>
 <th colspan="2">
-<br/>Du personnel</th>
+<br/>Du personnel <br/>
+</th>
 <th colspan="2">
-<br/>De l'administration</th>
+<br/>De l'administration <br/>
+</th>
 </tr>
 <tr>
-<th/>
 <th>
-<br/>Titulaires</th>
+<br/>Titulaires <br/>
+</th>
 <th>
-<br/>Suppléants</th>
+<br/>Suppléants <br/>
+</th>
 <th>
-<br/>Titulaires</th>
+<br/>Titulaires <br/>
+</th>
 <th>
-<br/>Suppléants</th>
+<br/>Suppléants <br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Technicien de classe supérieure</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>3</td>
-<td align="center">
-<br/>3</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Technicien de classe normale</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>
+<td>
+<p align="left">
+<br/>Technicien de classe supérieure </p>
 </td>
 <td align="center">
-<br/>
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="left">
+<br/>Technicien de classe normale </p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
