@@ -100,7 +100,6 @@
 - [Décret n°2002-237 du 20 février 2002 (ECOP0200104D)](decret-n2002-237-du-20-fevrier-2002-ecop0200104d)
 - [Décret n°2002-374 du 20 mars 2002 (MESV0220533D)](decret-n2002-374-du-20-mars-2002-mesv0220533d)
 - [Décret n°71-1140 du 21 décembre 1971](decret-n71-1140-du-21-decembre-1971)
-- [Décret du 22 février 2002 (AGRP0102102D)](decret-du-22-fevrier-2002-agrp0102102d)
 - [Décret n°2002-1275 du 22 octobre 2002 (DEVD0200078D)](decret-n2002-1275-du-22-octobre-2002-devd0200078d)
 - [Décret n°2002-1393 du 22 novembre 2002 (EQUA0201543D)](decret-n2002-1393-du-22-novembre-2002-equa0201543d)
 - [Décret n°2002-251 du 22 février 2002 (RECR0200059D)](decret-n2002-251-du-22-fevrier-2002-recr0200059d)
