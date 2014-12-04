@@ -2,11 +2,11 @@
 
 Application
 
-1. Sauf dispositions expresses contraires, la présente division s'applique aux équipements marins énumérés à l'annexe 311-1. A. 1, embarqués le 30 novembre 2013 ou après cette date.
+1. Sauf dispositions expresses contraires, la présente division s'applique aux équipements marins énumérés à l'annexe 311-1.A.1, embarqués le 4 décembre 2014 ou après cette date.
 
-2. Les équipements marins énumérés à l'annexe 311-1. A. 1, embarqués avant le 30 novembre 2013, sont approuvés conformément à la division 311 en vigueur telle que modifiée par l'arrêté du 1er août 2012 paru au Journal officiel de la République française du 9 août 2012.
+2. Les équipements marins énumérés à l'annexe 311-1.A.1, embarqués avant le 4 décembre 2014, sont approuvés conformément à la division 311 en vigueur telle que modifiée par l'arrêté du 5 novembre 2013 paru au JORF du 27/11/2013.
 
-3. Les équipements qualifiés de " nouvel article " dans la colonne " nom de l'article " de l'annexe 311-1. A. 1 ainsi que les équipements transférés de l'annexe 311-1. A. 2 à l'annexe 311-1. A. 1 qui ont été fabriqués avant le 30 novembre 2013 conformément aux procédures d'approbation de type en vigueur avant le 30 novembre 2013 peuvent être mis sur le marché et mis à bord de navires dont les certificats ont été délivrés par l'administration conformément aux conventions internationales, et ce pendant deux ans à compter de cette date.
+3. Les équipements qualifiés de "nouvel article" dans la colonne "nom de l'article" de l'annexe 311-1.A.1 ainsi que les équipements transférés de l'annexe 311-1.A.2 à l'annexe 311-1.A.1, qui ont été fabriqués avant le 4 décembre 2014, conformément aux procédures d'approbation de type en vigueur avant le 4 décembre 2014, peuvent être mis sur le marché et mis à bord de navires dont les certificats ont été délivrés par l'administration conformément aux conventions internationales, et ce pendant deux ans à compter de cette date.
 
 4. Les équipements marins énumérés à l'annexe 311-1.A.2 continuent à être approuvés conformément à la division 310.
 
