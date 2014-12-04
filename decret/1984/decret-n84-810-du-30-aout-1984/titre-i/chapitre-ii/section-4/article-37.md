@@ -1,6 +1,6 @@
 # Article 37
 
-Est à la charge du propriétaire ou de l'exploitant du navire, du constructeur, du fabricant, ou de l'importateur le coût des études, expertises, analyses, essais, épreuves, inspections, visites et audits, exigés par l'administration ou la société de classification habilitée nécessaires :
+Est à la charge du propriétaire, de l'exploitant ou de l'armateur au titre de la certification sociale  du navire, du constructeur, du fabricant, ou de l'importateur le coût des études, expertises, analyses, essais, épreuves, inspections, visites et audits, exigés par l'administration ou la société de classification habilitée nécessaires :
 
 1° A l'examen des plans et documents d'un navire ;
 
@@ -14,4 +14,4 @@ Est à la charge du propriétaire ou de l'exploitant du navire, du constructeur,
 
 6° Préalablement à la mise en exploitation d'un transbordeur roulier ou d'un engin à passagers à grande vitesse.
 
-Lorsque, à la demande du propriétaire ou exploitant du navire, du constructeur, du fabricant, ou de l'importateur, les membres d'une commission de visite ou d'une commission d'audit sont amenés à se déplacer, les frais afférents à ces déplacements sont à la charge du demandeur.
+Lorsque, à la demande du propriétaire, de l'exploitant ou de l'armateur au titre de la certification sociale du navire, du constructeur, du fabricant, ou de l'importateur, les membres d'une commission de visite ou d'une commission d'audit sont amenés à se déplacer, les frais afférents à ces déplacements sont à la charge du demandeur.

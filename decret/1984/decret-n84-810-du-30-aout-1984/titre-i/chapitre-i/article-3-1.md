@@ -16,7 +16,9 @@ II. - Sont délivrés au nom de l'Etat par une société de classification habil
 
 3° Pour les navires de plaisance à usage personnel ou de formation d'une longueur de référence supérieure ou égale à 24 mètres, le certificat national de jaugeage en l'absence de certificat international de jaugeage ;
 
-4° Pour tous les navires, si la demande en est formée auprès de la société de classification habilitée, le certificat Panama et Suez.
+4° Pour tous les navires, si la demande en est formée auprès de la société de classification habilitée, le certificat Panama et Suez ;
+
+5° Pour les navires remorqués, une attestation de conformité à la résolution A.765 (18) justifiant de la résistance structurelle, de l'étanchéité, de la stabilité et de la sécurité de la navigation dans le respect des directives édictées par cette résolution. Un arrêté du ministre chargé de la mer précise les conditions et les modalités de délivrance de l'attestation de conformité.
 
 III. - Sont délivrés, visés et renouvelés par le chef du centre de sécurité des navires compétent, après avis de la commission de visite ou d'étude :
 
@@ -26,7 +28,9 @@ III. - Sont délivrés, visés et renouvelés par le chef du centre de sécurit�
 
 3° Les titres de sécurité et certificats de prévention de la pollution des navires spéciaux, des navires à passagers, des navires de pêche, des navires de charge d'une jauge brute supérieure ou égale à 500 effectuant des voyages nationaux, des navires de charge d'une jauge brute inférieure à 500 et des navires de plaisance à utilisation commerciale ;
 
-4° Pour tous les navires, le permis de navigation prévu à l'article 4.
+4° Le certificat de travail maritime, après avoir visé la partie II de la déclaration de conformité du travail maritime et, le cas échéant, délivré la partie I de la déclaration de conformité du travail maritime ;
+
+5° Pour tous les navires, le permis de navigation prévu à l'article 4.
 
 Toutefois, lorsque la visite du navire doit être réalisée à l'étranger dans une zone formellement déconseillée par le ministère des affaires étrangères, le ministre chargé de la mer peut déléguer à une société de classification habilitée le pouvoir de délivrer au nom de l'Etat les titres de sécurité des navires mentionnés au III.
 

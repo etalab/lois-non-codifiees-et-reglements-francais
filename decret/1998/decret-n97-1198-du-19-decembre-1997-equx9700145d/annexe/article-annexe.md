@@ -17,6 +17,7 @@ Code des ports maritimes
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1538,6 +1539,11 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 </td>
 </tr>
 <tr>
+<td align="left">2 bis </td>
+<td>Suspension du document de conformité à la gestion de la sécurité  </td>
+<td>Article 8-1 </td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p>3</p>
 </td>
@@ -1612,6 +1618,28 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 </td>
 <td align="left" valign="top">
 <p align="left">Article 42-2.</p>
+</td>
+</tr>
+<tr>
+<td>10 <br/>
+</td>
+<td>Habilitation des organismes chargés de délivrer les approbations de structures  </td>
+<td>Article 42-2<br/>
+</td>
+</tr>
+<tr>
+<td>11 <br/>
+</td>
+<td>Habilitation des organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires  </td>
+<td>Article 42-2<br/>
+</td>
+</tr>
+<tr>
+<td>12 <br/>
+</td>
+<td>Habilitation des organismes chargés de procéder au mesurage du bruit <br/>
+</td>
+<td>Article 42-2 <br/>
 </td>
 </tr>
 </tbody>
@@ -2318,11 +2346,13 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="left">Habilitation d'organes d'inspection d'utilisateurs mentionnés à l'article 14 ainsi que la suspension ou le retrait de cette habilitation.</p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2339,6 +2369,7 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 </tr>
 <tr>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">

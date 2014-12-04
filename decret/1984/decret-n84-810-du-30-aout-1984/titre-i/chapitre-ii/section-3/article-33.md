@@ -2,7 +2,7 @@
 
 Commission de contre-visite.
 
-I.-1. Donnent lieu à contre-visite, si elles sont portées dans un délai de quinze jours francs à compter de la notification de la décision contestée devant le chef du centre de sécurité des navires, les réclamations contre les décisions prises à l'occasion de :
+I. - 1. Peuvent donner lieu  à contre-visite, si elles sont portées dans un délai de quinze jours francs à compter de la notification de la décision contestée devant le chef du centre de sécurité des navires, les réclamations contre les décisions prises à l'occasion de :
 
 a) La visite de mise en service des navires d'une longueur inférieure à douze mètres ;
 
@@ -24,13 +24,13 @@ c) Le ou les requérants dont la réclamation faite dans le cadre d'une visite s
 
 3. Le chef du centre de sécurité des navires peut transmettre le dossier pour instruction et décision à un autre centre de sécurité des navires de France métropolitaine ou des départements et régions d'outre-mer dans lequel se rend le navire, sous réserve de l'accord du centre de sécurité concerné.
 
-II.-La commission comprend :
+II. - La commission comprend :
 
 a) Le directeur interrégional de la mer adjoint chargé de la sécurité maritime ou son représentant, président ;
 
 b) Trois experts qualifiés désignés par le directeur interrégional de la mer.
 
-III.-La commission est saisie par le chef du centre de sécurité des navires qui lui transmet le dossier de la réclamation et lui accorde tous les moyens d'investigation nécessaires.
+III. - La commission est saisie par le chef du centre de sécurité des navires qui lui transmet le dossier de la réclamation et lui accorde tous les moyens d'investigation nécessaires.
 
 Elle procède, dans les quarante-huit heures du recours ou de l'arrivée du navire au port à une contre-visite.
 

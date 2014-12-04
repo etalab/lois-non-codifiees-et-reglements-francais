@@ -1,6 +1,6 @@
 # Article 41-13
 
-I. ― Sont à la charge du propriétaire ou de l'exploitant du navire :
+I. ― Sont à la charge du propriétaire, de l'exploitant ou de l'armateur au titre de la certification sociale du navire :
 
 1° Les frais liés aux attestations, analyses, expertises, interventions de sociétés tiers, chantiers, organismes agréés ou Etats du pavillon requises lors d'une inspection détaillée ou d'une inspection renforcée ;
 

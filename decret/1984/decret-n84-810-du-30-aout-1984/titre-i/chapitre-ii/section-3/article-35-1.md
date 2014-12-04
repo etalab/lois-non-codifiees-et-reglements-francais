@@ -1,0 +1,3 @@
+# Article 35-1
+
+<div align="left">Les  recours contre les décisions relatives à la délivrance, au visa et au  renouvellement du certificat de travail maritime prises par les chefs de  centre de sécurité des navires statuant en application des articles  28-1 et 32 ou par un inspecteur de la sécurité des navires et de la  prévention des risques professionnels maritimes statuant en application  de l'article 28 sont portés par l'armateur au titre de la certification  sociale du navire devant le ministre chargé de la mer, dans un délai de  quinze jours francs à compter de leur notification. Les recours prévus  au présent article ne sont pas suspensifs.</div>

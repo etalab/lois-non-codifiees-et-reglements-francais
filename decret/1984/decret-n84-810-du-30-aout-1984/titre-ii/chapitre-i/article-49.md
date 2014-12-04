@@ -4,7 +4,7 @@ Sauvetage.
 
 I.-Pour prendre la mer, un navire doit posséder les engins collectifs et individuels nécessaires pour le sauvetage de toutes les personnes présentes à bord.
 
-II.-Les embarcations et radeaux de sauvetage, ainsi que les engins flottants d'un navire, doivent ête promptement disponibles en cas d'urgence.
+II.-Les embarcations et radeaux de sauvetage, ainsi que les engins flottants d'un navire, doivent être promptement disponibles en cas d'urgence.
 
 A cet effet, les conditions suivantes doivent être remplies :
 
@@ -20,4 +20,4 @@ III.-Tous les engins de sauvetage doivent être maintenus en bon état de servic
 
 IV.-Des consignes concernant l'utilisation des matériels, l'évacuation et l'abandon du navire doivent être affichées à bord.
 
-V.-Avant le départ d'un navire à passagers, le capitaine porte à la connaissance de l'autorité compétente les éléments d'information nécessaires à la recherche et au sauvetage en mer concernant les passagers. Le     ministre chargé de la mer  arrête la liste de ces éléments d'information en fonction des conditions d'exploitation des navires.
+V.-Avant le départ d'un navire à passagers, le capitaine porte à la connaissance de l'autorité compétente les éléments d'information nécessaires à la recherche et au sauvetage en mer concernant les passagers. Le ministre chargé de la mer arrête la liste de ces éléments d'information en fonction des conditions d'exploitation des navires.

@@ -28,15 +28,25 @@ c) Le nombre de passagers pouvant être admis à bord est limité dans des condi
 
 4. Navire de charge : tout navire autre qu'un navire à passagers, un navire de pêche ou un navire de plaisance.
 
-5. Navire spécial : tout navire à propulsion mécanique autonome qui, du fait de sa fonction, est autorisé à embarquer un nombre de membres du personnel spécial et de passagers supérieur à douze.
+5. Navire spécial : tout navire à propulsion mécanique autonome qui, du fait de sa fonction, est autorisé à embarquer un nombre de membres du personnel spécial et de passagers supérieur à douze sans que le nombre de passagers soit supérieur à douze.
 
 II.-Les expressions ci-dessous désignent :
 
-1. Centres de sécurité des navires : services spécialisés des directions interrégionales de la mer compétents en matière de sécurité des navires, d'habitabilité, de prévention des risques professionnels maritimes, d'hygiène et de vie à bord et de prévention de la pollution par les navires.
+1. Centres de sécurité des navires : services spécialisés des directions interrégionales de la mer compétents en matière :
+
+-de sécurité des navires et de sûreté ;
+
+-de prévention de la pollution par les navires ;
+
+-de sécurité du travail maritime, y compris en matière de prévention des risques professionnels maritimes ;
+
+-d'habitabilité, d'hygiène et de vie à bord ;
+
+-de certification sociale des navires.
 
 2. Centre de sécurité compétent : celui du port d'immatriculation, sous réserve de toute autre modalité d'attribution de compétence arrêtée par le ministre chargé de la mer.
 
-3. Inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes : les agents de l'Etat habilités par le ministre chargé de la mer, dans les conditions de formation et de qualification définies par le ministre chargé de la mer, affectés à des tâches de vérification de la sécurité des navires, de l'habitabilité et de la sécurité du travail maritime à bord et de la prévention de la pollution.
+3. Inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes : les agents de l'Etat habilités par le ministre chargé de la mer, dans les conditions de formation et de qualification définies par le ministre chargé de la mer, affectés à des tâches de vérification dans les domaines énumérés au 1.
 
 4. Passager : toute personne autre que :
 
@@ -50,7 +60,7 @@ N'entrent pas en compte, dans le nombre de passagers, les personnes qui se trouv
 
 5. Personnel spécial : toutes les personnes qui ne sont ni des passagers, ni des membres d'équipage, ni des enfants de moins d'un an et qui sont transportées à bord en raison des fonctions spéciales du navire ou des activités spéciales exercées à son bord.
 
-6. Délégué de l'équipage : tout délégué de bord et, s'il est embarqué sur le navire, tout représentant du personnel navigant à la section des gens de mer du comité d'hygiène, de sécurité et des conditions de travail.
+6. Délégué de l'équipage : tout délégué de bord prévu à l'article L. 5543-2-1 du code des transports ou, en l'absence du délégué de bord, tout délégué du personnel ou, s'il est embarqué sur le navire, tout représentant du personnel navigant à la section des gens de mer du comité d'hygiène, de sécurité et des conditions de travail.
 
 7 Société de classification agréée : tout organisme ayant reçu l'agrément de la Commission européenne pour effectuer, en tout ou partie, les inspections ou visites afférentes à la délivrance, au visa ou au renouvellement de titres de sécurité ou de prévention de la pollution et, le cas échéant, à délivrer, viser ou renouveler lesdits titres et figurant sur la liste publiée au Journal officiel de l'Union européenne.
 
@@ -92,10 +102,22 @@ N'entrent pas en compte, dans le nombre de passagers, les personnes qui se trouv
 
 26. Marchandise polluante : toute marchandise présentant un risque pour le milieu marin au sens des annexes I, II et III de la convention internationale pour la prévention de la pollution par les navires faite à Londres le 2 novembre 1973, telle que modifiée.
 
-27. Exploitant du navire ou exploitant : tout organisme ou personne, tel que l'exploitant-gérant, l'agent ou l'affréteur coque nue, auquel le fréteur de navire confie la responsabilité de l'exploitation du navire et qui, en assumant cette responsabilité, s'acquitte de toutes les tâches et obligations relatives à la sécurité du navire, à celle de l'équipage et des personnes embarquées ainsi qu'à la prévention de la pollution.
+27. Exploitant du navire ou exploitant : tout organisme ou personne, tel que l'exploitant-gérant, l'agent ou l'affréteur coque nue, auquel le fréteur de navire confie la responsabilité de l'exploitation du navire et qui, en assumant cette responsabilité, s'acquitte de toutes les tâches et obligations relatives à la sécurité du navire, à celle de l'équipage et des personnes embarquées ainsi qu'à la prévention de la pollution, à l'exception des tâches et obligations relatives à la certification sociale du navire.
 
 28. Chargeur : toute personne au nom de laquelle ou pour le compte de laquelle un contrat de transport de marchandise est conclu avec un transporteur.
 
 29. Inspecteur : au titre du contrôle des navires étrangers par l'Etat du port, un inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes habilité pour effectuer des visites de navire au titre du contrôle par l'Etat du port dans les conditions définies par arrêté du ministre chargé de la mer.
 
 30. Organisme agréé : au titre du contrôle des navires étrangers par l'Etat du port, une société de classification ou autre organisme privé effectuant des tâches réglementaires pour le compte d'une administration d'un Etat du pavillon.
+
+31. Armateur au titre de la certification sociale du navire : l'armateur tel que défini à l'article L. 5511-1 du code des transports.
+
+32. Certification sociale du navire : procédure ayant pour objet de délivrer la partie I de la déclaration de conformité du travail maritime, de contrôler les engagements pris par l'armateur dans la partie II de la déclaration de conformité du travail maritime et de viser cette partie II, puis de délivrer, de viser et de renouveler le certificat de travail maritime, en application de la norme A5. 1.3 de la convention du travail maritime du 7 février 2006.
+
+33. Annexe d'un navire : embarcation ou engin utilisé à des fins de servitude à partir d'un navire porteur, non soumis aux dispositions des articles L. 5112-2 et L 5241-3 du code des transports ; un arrêté du ministre chargé de la mer précise les caractéristiques techniques de l'annexe d'un navire.
+
+34. Conteneur : engin de transport tel que défini par la convention internationale sur la sécurité des conteneurs faite à Genève le 2 décembre 1972.
+
+35. Propriétaire de conteneur : soit le propriétaire au sens de l'article 544 du code civil, soit le locataire à bail ou le dépositaire si les parties à un contrat conviennent que le locataire à bail ou le dépositaire assumera la responsabilité du propriétaire en ce qui concerne l'entretien et l'examen du conteneur conformément aux exigences de la convention internationale sur la sécurité des conteneurs.
+
+36. Navire flottant remorqué : tout navire flottant ne disposant pas d'une autonomie de propulsion lui permettant d'affronter seul les périls de la mer et qui est déplacé par un navire auquel il est pris en remorque.

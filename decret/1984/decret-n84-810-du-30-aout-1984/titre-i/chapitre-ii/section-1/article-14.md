@@ -2,7 +2,7 @@
 
 La commission centrale de sécurité est placée auprès du ministre chargé de la mer.
 
-I.-Elle examine :
+I. - Elle examine :
 
 1. Préalablement à la délivrance des titres et certificats de sécurité et de prévention de la pollution, les plans et documents :
 
@@ -20,12 +20,14 @@ I.-Elle examine :
 
 3. Les conditions d'approbation de tout équipement marin.
 
-II.-La commission centrale de sécurité examine, dans les conditions fixées par arrêté du ministre chargé de la mer, les rapports d'audit relatifs à la gestion de la sécurité des compagnies pour lesquelles la délivrance du document de conformité à la gestion de la sécurité relève du ministre chargé de la mer.
+4. Les demandes d'habilitation des organismes mentionnés au 2° du I de l'article 42-2 qui sont chargés de contrôler ou d'agréer les conteneurs.
 
-III.-Elle reçoit communication des résultats de toute enquête technique ou administrative relative aux navires de sa compétence prescrite par le ministre chargé de la mer .
+II. - La commission centrale de sécurité examine, dans les conditions fixées par arrêté du ministre chargé de la mer, les rapports d'audit relatifs à la gestion de la sécurité des compagnies pour lesquelles la délivrance du document de conformité à la gestion de la sécurité relève du ministre chargé de la mer.
 
-III bis.-La commission centrale de sécurité examine toute demande relative à l'habilitation des sociétés de classification et des organismes de certification et de contrôle, à l'exception des organismes mentionnés au 3° de l'article 17 et des organismes chargés de délivrer les certificats relatifs aux cargaisons mentionnées au II de l'article 56.
+III. - Elle reçoit communication des résultats de toute enquête technique ou administrative relative aux navires de sa compétence prescrite par le ministre chargé de la mer.
 
-IV.-La commission centrale de sécurité connaît des recours en matière de sauvegarde de la vie humaine en mer, d'habitabilité à bord des navires et de prévention de la pollution dans les conditions définies à la section 3 du présent chapitre.
+III bis. - La commission centrale de sécurité examine toute demande relative à l'habilitation des sociétés de classification et des organismes de certification et de contrôle, à l'exception des organismes mentionnés au 3° de l'article 17 et des organismes chargés de délivrer les certificats relatifs aux cargaisons mentionnées au II de l'article 56.
 
-V.-La commission centrale de sécurité est consultée par le ministre sur tout projet de réglementation proposé en application de l'article 54 du présent décret, toute question relative à la sauvegarde de la vie humaine en mer, à l'habitabilité des navires et à la prévention de la pollution par les navires, et généralement sur toute question relative à l'application du présent décret.
+IV. - La commission centrale de sécurité connaît des recours en matière de sauvegarde de la vie humaine en mer, d'habitabilité à bord des navires et de prévention de la pollution dans les conditions définies à la section 3 du présent chapitre.
+
+V. - La commission centrale de sécurité est consultée par le ministre sur tout projet de réglementation proposé en application de l'article 54 du présent décret, toute question relative à la sauvegarde de la vie humaine en mer, à l'habitabilité des navires et à la prévention de la pollution par les navires, et généralement sur toute question relative à l'application du présent décret.

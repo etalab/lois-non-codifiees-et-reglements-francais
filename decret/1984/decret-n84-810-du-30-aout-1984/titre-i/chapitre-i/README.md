@@ -1,4 +1,4 @@
-# Chapitre I : Titres de sécurité et certificats de prévention de la pollution.
+# Chapitre I : Titres de sécurité, certificat de prévention de la pollution et certificat de travail maritime.
 
 - [Article 3](article-3.md)
 - [Article 3-1](article-3-1.md)

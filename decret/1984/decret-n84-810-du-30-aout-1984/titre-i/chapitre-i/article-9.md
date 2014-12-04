@@ -1,6 +1,6 @@
 # Article 9
 
-I. - Si, à l'expiration du délai imparti pour la mise en conformité, le navire ne satisfait toujours pas aux conditions de délivrance du titre de sécurité ou de prévention de la pollution, le chef du centre de sécurité des navires ou la société de classification prononce, par une décision motivée, le retrait du ou des titres concernés, après que le propriétaire ou l'exploitant du navire a été mis à même de présenter ses observations.
+I. - Si, à l'expiration du délai imparti pour la mise en conformité, le navire ne satisfait toujours pas aux conditions de délivrance du titre de sécurité, de prévention de la pollution ou du certificat de travail maritime, le chef du centre de sécurité des navires ou la société de classification prononce, par une décision motivée, le retrait du ou des titres concernés, après que le propriétaire ou l'exploitant du navire a été mis à même de présenter ses observations.
 
 La décision de retrait est notifiée au propriétaire et au capitaine du navire. La notification mentionne les délais et voies de recours ouverts à l'encontre de la décision de retrait.
 

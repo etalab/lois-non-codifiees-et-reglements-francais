@@ -11,3 +11,5 @@ c) Tout retrait de classe ;
 d) Toute réserve importante émise sur le certificat de classification ;
 
 e) Toute déclaration faite à l'assureur sur corps, lorsque cette déclaration est relative à la sécurité du navire ou à la prévention de la pollution.
+
+L'armateur au titre de la certification sociale du navire est tenu aux mêmes obligations d'information pour toute modification susceptible de remettre en cause les conditions de délivrance ou de maintien du certificat de travail maritime du navire.

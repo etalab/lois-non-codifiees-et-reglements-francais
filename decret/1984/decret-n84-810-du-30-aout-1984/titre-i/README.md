@@ -1,6 +1,6 @@
-# Titre I : Titres de sécurité et certificats de prévention de la pollution - Contrôles des navires
+# Titre I : Titres de sécurité, certificat de prévention de la pollution et certificat de travail maritime -Contrôles des navires
 
-- [Chapitre I : Titres de sécurité et certificats de prévention de la pollution.](chapitre-i)
+- [Chapitre I : Titres de sécurité, certificat de prévention de la pollution et certificat de travail maritime.](chapitre-i)
 - [Article 2](article-2.md)
 - [Chapitre II : Contrôles des navires](chapitre-ii)
 - [Chapitre III : Navires français à l'étranger.](chapitre-iii)

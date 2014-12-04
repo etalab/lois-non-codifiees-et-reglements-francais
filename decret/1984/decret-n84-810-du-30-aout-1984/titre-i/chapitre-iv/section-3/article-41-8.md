@@ -1,8 +1,8 @@
 # Article 41-8
 
-I. ― Lorsque les anomalies constatées relatives à la sécurité du navire et des personnes embarquées, aux conditions de vie et de travail des gens de mer, ou les risques pour la protection de l'environnement sont manifestement sérieux par leur nature, leur nombre ou leur répétition, l'inspecteur décide l'immobilisation du navire et, éventuellement, l'arrêt de l'exploitation et de toute opération connexe. Il ne peut être tenu compte du risque d'encombrement du port ou de défaut de services portuaires.
+I. ― Lorsque les anomalies constatées relatives à la sécurité du navire et des personnes embarquées, aux conditions d'emploi,  de vie et de travail des gens de mer, ou les risques pour la protection de l'environnement sont manifestement sérieux par leur nature, leur nombre ou leur répétition, l'inspecteur décide l'immobilisation du navire et, éventuellement, l'arrêt de l'exploitation et de toute opération connexe. Il ne peut être tenu compte du risque d'encombrement du port ou de défaut de services portuaires.
 
-La décision d'immobilisation ou de l'arrêt de l'opération est immédiatement notifiée au capitaine du navire, à la capitainerie, à l'administration de l'Etat du pavillon ou de son représentant et, le cas échéant, à l'organisme agréé par l'Etat du pavillon.
+La décision d'immobilisation ou de l'arrêt de l'opération est immédiatement notifiée au capitaine du navire, à la capitainerie, à l'administration de l'Etat du pavillon ou de son représentant et, le cas échéant, à l'organisme agréé par l'Etat du pavillon. Les organisations représentatives au niveau national des armateurs et des gens de mer sont tenues informées sans délai des décisions dont les motifs sont en relation avec les intérêts qu'elles défendent.
 
 Le capitaine est informé du droit au recours prévu par l'article 41-12.
 

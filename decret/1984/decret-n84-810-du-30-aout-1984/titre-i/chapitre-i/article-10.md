@@ -6,4 +6,6 @@ a) Aux navires construits ou acquis sur le territoire de la République françai
 
 b) Aux navires en essais.
 
-II. - Le titre provisoire se rapportant au document de conformité au code ISM est délivré par le ministre chargé de la mer ou par le directeur interrégional de la mer, dans les conditions fixées par arrêté du ministre chargé de la mer et dans le respect des normes minimales définies au titre II.
+II. - Le titre provisoire se rapportant au document de conformité au code ISM est délivré par le ministre chargé de la mer ou par le directeur interrégional de la mer, dans les conditions fixées par arrêté du ministre chargé de la mer et dans le respect des règles générales  définies au titre II.
+
+III. - Un certificat de travail maritime provisoire peut être délivré par le chef du centre de sécurité des navires compétent dans les conditions fixées par arrêté du ministre chargé de la mer et dans le respect des règles générales définies au titre II.

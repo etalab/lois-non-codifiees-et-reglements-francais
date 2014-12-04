@@ -20,7 +20,7 @@ g) Pour évaluer l'exécution par la société de classification habilitée des 
 
 h) Pour vérifier si un navire dont la délivrance, le visa et le renouvellement de tout ou partie des certificats sont délégués, continue à satisfaire aux exigences qui lui sont applicables ;
 
-i) D'une manière générale, pour répondre à toute question spécifique en matière de sécurité et de prévention de la pollution par le navire ;
+i) D'une manière générale, pour répondre à toute question spécifique en matière de sécurité, de prévention de la pollution et de certification sociale du navire ;
 
 j) Pour délivrer des titres provisoires, au titre de l'article 10, aux navires visés à l'article 25-2 ;
 

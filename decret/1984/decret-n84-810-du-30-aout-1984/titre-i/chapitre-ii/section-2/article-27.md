@@ -14,8 +14,8 @@ a) Le chef du centre de sécurité des navires ou son représentant, président.
 
 b) Pour les navires munis d'une installation radioélectrique, un représentant de l'Agence nationale des fréquences dans les conditions arrêtées par le ministre chargé de la mer selon les catégories de navires ;
 
-c) Dans les conditions arrêtées par le ministre chargé de la mer selon les catégories de navires, le médecin des gens de mer ou son représentant.
+c) Dans les conditions arrêtées par le ministre chargé de la mer selon les catégories de navires, le médecin des gens de mer ou son représentant ou un infirmier du service de santé des gens de mer.
 
-V. - Le propriétaire du navire, l'exploitant ou leur représentant et le ou les délégués du personnel, délégués de bord ou représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail, sont admis à assister aux opérations de la commission et à présenter leurs observations.
+IV. - Le propriétaire du navire, l'exploitant ou leur représentant et le ou les délégués du personnel, délégués de bord ou représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail, sont admis à assister aux opérations de la commission et à présenter leurs observations.
 
-VI. - Le président statue après avis de la commission pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+V. - Le président statue après avis de la commission pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.

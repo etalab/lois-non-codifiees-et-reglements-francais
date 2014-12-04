@@ -2,9 +2,9 @@
 
 I. ― L'inspection dite initiale a pour objet :
 
-1° De vérifier que le navire est muni des certificats et des documents de sécurité, de sûreté et de prévention de la pollution en cours de validité requis par les conventions internationales, directives et règlements communautaires pertinents ;
+1° De vérifier que le navire est muni des certificats et des documents de sécurité, de sûreté, de prévention de la pollution et, s'il y a lieu, du certificat de travail maritime en cours de validité requis par les conventions internationales, directives et règlements communautaires pertinents ;
 
-2° De constater l'absence de défaut apparent de conformité aux conventions et règlements applicables visant à garantir la sécurité du navire, de l'équipage et des personnes embarquées ainsi que la protection de l'environnement ;
+2° De constater l'absence de défaut apparent de conformité aux conventions et règlements applicables visant à garantir la sécurité du navire, de l'équipage et des personnes embarquées ainsi que la protection de l'environnement et les conditions d'emploi, de travail et de vie à bord  ;
 
 3° De vérifier, le cas échéant, s'il a été remédié aux anomalies constatées lors d'une inspection précédente réalisée au titre du contrôle par l'Etat du port.
 

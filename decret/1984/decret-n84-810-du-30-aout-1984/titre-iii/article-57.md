@@ -46,6 +46,8 @@ I.-Est puni des peines prévues pour les contraventions de la cinquième classe 
 
 22° Pour tout capitaine de navire battant pavillon d'un Etat étranger, son exploitant ou son agent de ne pas se soumettre à l'obligation de notification prévue au V de l'article 41-8 ;
 
+23° Pour tout armateur au titre de la certification sociale du navire de ne pas respecter ses engagements inscrits dans la partie II de la déclaration de conformité du travail maritime, conformément aux dispositions de l'article 51-2.
+
 II.-Les mêmes peines sont applicables aux responsables des opérations de chargement, de déchargement, de classification, d'emballage, de marquage, d'étiquetage, de déclaration et de manutention des marchandises dangereuses ou polluantes et des autres cargaisons qui n'auront pas respecté les dispositions des arrêtés pris en application de l'article 56.
 
 III.-La récidive des contraventions prévue au présent article est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.

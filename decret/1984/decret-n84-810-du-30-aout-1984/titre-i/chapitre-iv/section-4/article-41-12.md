@@ -1,6 +1,6 @@
 # Article 41-12
 
-I. ― Tout recours contre une décision d'un inspecteur est formé devant le chef de centre de sécurité des navires par le propriétaire, l'exploitant d'un navire ou son représentant.
+I. ― Tout recours contre une décision d'un inspecteur est formé devant le chef de centre de sécurité des navires par le propriétaire, l'exploitant ou l'armateur au titre de la certification sociale d'un navire ou son représentant.
 
 Tout recours contre une décision prise par un chef de centre de sécurité des navires est formé devant le ministre chargé de la mer.
 

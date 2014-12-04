@@ -1,10 +1,16 @@
 # Article 42-2
 
-I. - Sont habilités par le ministre chargé de la mer après avis de la commission d'étude compétente :
+I. - Sont habilités par le ministre chargé de la mer  selon des modalités fixées par arrêté du même ministre  :
 
 1° Les organismes chargés de délivrer, renouveler, suspendre ou retirer les certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat, suivant des modalités fixées par arrêté du ministre chargé de la mer ;
 
-2° Les organismes chargés de certifier les conteneurs.
+2° Les organismes chargés de contrôler ou d'agréer les conteneurs ;
+
+3° Les organismes chargés de délivrer les approbations de structures prévues à l'article 42-6 ;
+
+4° Les organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires en application du décret n° 2005-748 du 4 juillet 2005 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus aux vibrations mécaniques des personnels employés à bord des navires ;
+
+5° Les organismes chargés de procéder au mesurage du bruit en application du décret n° 2006-1044 du 23 août 2006 relatif aux prescriptions de sécurité et de santé applicables en cas d'exposition aux risques dus au bruit des personnels employés à bord des navires, sauf en ce qui concerne les mesures prescrites dans le cadre des mises en demeure mentionnées à son article 5.
 
 II. - Sont habilités, selon le cas, par le ministre chargé du transport des marchandises dangereuses, le ministre chargé de la mer ou l'Autorité de sûreté nucléaire, après avis de la commission compétente, les organismes chargés de délivrer les certificats relatifs aux cargaisons destinées à être transportées à bord d'un navire et requis par les conventions internationales.
 
