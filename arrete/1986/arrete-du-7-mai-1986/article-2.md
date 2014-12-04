@@ -1,6 +1,8 @@
 # Article 2
 
 <div align="left">La composition des commissions administratives visées à l'article 1er ci-dessus est fixée ainsi qu'il suit :</div>
+<div align="left"/>
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -58,8 +60,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Directeurs de recherche de 1re classe</p>
-</td>
+<br/>Directeurs de recherche de 1re classe</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -69,7 +70,8 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Directeurs de recherche de 2e classe</td>
+<p align="left">Directeurs de recherche de 2e classe</p>
+</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -82,7 +84,8 @@
 <p align="center">2</p>
 </td>
 <td align="left" valign="top">
-<br/>Chargés de recherche de 1re classe</td>
+<p align="left">Chargés de recherche de 1re classe</p>
+</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -111,7 +114,8 @@
 <p align="center">3</p>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieurs de recherche hors classe</td>
+<p align="left">Ingénieurs de recherche hors classe</p>
+</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -150,7 +154,8 @@
 <p align="center">4</p>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieurs d'études hors classe et attachés principaux d'administration de la recherche de 1re classe</td>
+<p align="left">Ingénieurs d'études hors classe et attachés principaux d'administration de la recherche de 1re classe</p>
+</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -189,7 +194,8 @@
 <p align="center">5</p>
 </td>
 <td align="left" valign="top">
-<br/>Assistants ingénieurs</td>
+<p align="left">Assistants ingénieurs</p>
+</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -205,11 +211,11 @@
 </tr>
 <tr>
 <td align="left" rowspan="3" valign="top">
-<p align="center">
-<br/>6</p>
+<p align="center">6</p>
 </td>
 <td align="left" valign="top">
-<br/>Techniciens de la recherche de classe exceptionnelle et secrétaires d'administration de la recherche de classe exceptionnelle</td>
+<p align="left">Techniciens de la recherche de classe exceptionnelle et secrétaires d'administration de la recherche de classe exceptionnelle</p>
+</td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
@@ -244,47 +250,38 @@
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="4" valign="top">
+<td align="left" rowspan="3" valign="top">
 <p align="center">7</p>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints techniques de la recherche principaux de 1re classe</td>
-<td align="left" valign="top">
-<p align="center">2</p>
+<p align="left">Adjoints techniques de la recherche principaux de 1re classe</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2</p>
 </td>
-<td align="center" rowspan="4" valign="middle">
-<p align="center">8</p>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td align="center" rowspan="4" valign="middle">
-<p align="center">8</p>
+<td align="center" rowspan="3" valign="middle">
+<p align="center">5</p>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>Adjoints techniques de la recherche principaux de 2e classe</td>
 <td align="left" valign="top">
-<p align="center">3</p>
+<p align="center">2</p>
 </td>
 <td align="left" valign="top">
-<p align="center">3</p>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
 <br/>Adjoints techniques de la recherche 1re classe</td>
-<td align="left" valign="top">
-<p align="center">2</p>
-</td>
-<td align="left" valign="top">
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoints techniques de la recherche 2e classe</td>
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
@@ -294,3 +291,4 @@
 </tr>
 </tbody>
 </table>
+</div>

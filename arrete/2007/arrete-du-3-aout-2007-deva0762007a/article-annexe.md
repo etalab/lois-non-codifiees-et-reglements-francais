@@ -155,3 +155,11 @@ Jusqu'au 31 août 2018 :
 Fort-de-France - Saint-John's (Antigua-et-Barbuda) ;
 
 Pointe-à-Pitre - Saint-John's (Antigua-et-Barbuda).
+
+Jusqu'au 30 novembre 2019, pour du transport de fret uniquement :
+
+Saint-Denis de La Réunion-Port-Louis (île Maurice).
+
+Jusqu'au 30 novembre 2019 :
+
+Paris-Johannesburg (Afrique du Sud).

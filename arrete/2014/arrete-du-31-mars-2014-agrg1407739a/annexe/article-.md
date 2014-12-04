@@ -3,12 +3,12 @@
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="2"> RÉGIONS</td>
-<td align="center" colspan="2"> ORGANISMES RECONNUS OVS</td>
+<td align="center" rowspan="2">RÉGIONS</td>
+<td align="center" colspan="2">ORGANISMES RECONNUS OVS</td>
 </tr>
 <tr>
-<td align="center"> Domaine végétal</td>
-<td align="center"> Domaine animal</td>
+<td align="center">Domaine végétal</td>
+<td align="center">Domaine animal</td>
 </tr>
 <tr>
 <td align="center">
@@ -18,7 +18,7 @@
 <p align="left">FREDON* Alsace</p>
 </td>
 <td align="center">
-<p align="left">Aucun</p>
+<p align="left">GDS Alsace</p>
 </td>
 </tr>
 <tr>
