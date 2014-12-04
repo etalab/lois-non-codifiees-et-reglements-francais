@@ -501,7 +501,6 @@
 - [Arrêté du 21 juin 2004 (INTE0400492A)](arrete-du-21-juin-2004-inte0400492a)
 - [Arrêté du 21 juin 2004 (INTE0400493A)](arrete-du-21-juin-2004-inte0400493a)
 - [Arrêté du 21 juin 2004 (JUSG0460058A)](arrete-du-21-juin-2004-jusg0460058a)
-- [Arrêté du 21 juin 2004 (SANG0323698A)](arrete-du-21-juin-2004-sang0323698a)
 - [Arrêté du 21 octobre 2004 (EQUP0401142A)](arrete-du-21-octobre-2004-equp0401142a)
 - [Arrêté du 21 septembre 2004 (ECOP0400598A)](arrete-du-21-septembre-2004-ecop0400598a)
 - [Arrêté du 21 septembre 2004 (JUSG0460077A)](arrete-du-21-septembre-2004-jusg0460077a)
