@@ -38,4 +38,4 @@ d) Une copie du rapport de visite établi par la société de classification apr
 
 e) Des photographies numériques des parties défectueuses.
 
-Après analyse, le rapport est transmis à la Commission européenne, à l'Agence européenne de sécurité maritime et à tous les Etats membres par le bureau SM3.
+Après analyse, le rapport est transmis à la Commission européenne, à l'Agence européenne de sécurité maritime et à tous les Etats membres par le bureau en charge du contrôle des navires par l'Etat du port du ministère chargé de la mer.

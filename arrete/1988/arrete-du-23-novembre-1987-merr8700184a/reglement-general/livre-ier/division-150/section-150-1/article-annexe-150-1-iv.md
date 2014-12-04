@@ -46,11 +46,11 @@ LISTES DE CERTIFICATS ET DOCUMENTS
 
 21. Certificats ou autres documents exigés conformément aux dispositions de la convention STCW 78/95.
 
-22. Certificats médicaux (convention de l'OIT n° 73 concernant l'examen médical des gens de mer).
+22. Certificats médicaux (convention du travail maritime 2006).
 
-23. Tableau précisant l'organisation du travail à bord (convention de l'OIT n° 180 et convention STCW 78/95).
+23. Tableau précisant l'organisation du travail à bord (convention du travail maritime 2006).
 
-24. Registres des heures de travail et de repos des marins (convention de l'OIT n° 180).
+24. Registres des heures de travail et de repos des marins (convention du travail maritime 2006).
 
 25. Renseignements sur la stabilité.
 
@@ -107,6 +107,14 @@ LISTES DE CERTIFICATS ET DOCUMENTS
 51. Certificat international de prévention de la pollution de l'atmosphère.
 
 52. Certificat international de prévention de la pollution par les eaux résiduaires.
+
+53. Certificat de travail maritime ;
+
+54. Déclaration de conformité du travail maritime, parties I et II ;
+
+55. Certificat international du système antisalissure ;
+
+56. Certificat d'assurance ou autre garantie financière relative à la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute.
 
 (1) A partir de la date d'application de la directive n° 2009/20/CE ;
 

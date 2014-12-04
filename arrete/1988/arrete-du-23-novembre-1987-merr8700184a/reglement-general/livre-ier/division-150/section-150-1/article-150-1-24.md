@@ -8,4 +8,4 @@ Base de données des inspections.
 
 3. Les fonctionnalités du système d'information sont détaillées dans l'annexe 150-1.XI.
 
-4. Pour les anomalies qui relèvent exclusivement de la réglementation communautaire, le rapport distinct est conservé au CSN.
+4. Pour les anomalies qui relèvent exclusivement de la réglementation communautaire, le rapport distinct est conservé au centre de sécurité des navires.

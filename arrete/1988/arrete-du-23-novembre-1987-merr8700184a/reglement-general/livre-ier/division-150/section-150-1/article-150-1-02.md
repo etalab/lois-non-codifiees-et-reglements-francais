@@ -26,15 +26,15 @@ Aux fins de la présente division, on entend par :
 
 11. "Inspection initiale", une visite effectuée à bord d'un navire par un inspecteur pour vérifier la conformité aux conventions et règlements applicables et comprenant au moins les contrôles prescrits par l'article 150-1.13, point 1 ;
 
-12. "Inspection détaillée", une ou plusieurs visites par laquelle le navire, son équipement et son équipage sont soumis, en tout ou en partie selon le cas, à un examen approfondi, dans les conditions précisées à l'article 150-1.13, point 3, pour tout ce qui concerne la construction, l'équipement et l'équipage, les conditions de vie et de travail et la conformité aux procédures opérationnelles à bord du navire ;
+12. "Inspection détaillée", une ou plusieurs visites par laquelle le navire, son équipement et son équipage sont soumis, en tout ou en partie selon le cas, à un examen approfondi, dans les conditions précisées à l'article 150-1.13, point 3, pour tout ce qui concerne la construction, l'équipement et l'équipage, les conditions de vie et de travail et la conformité aux procédures opérationnelles à bord du navire conformément à l'article 41-4 du décret n° 84-810 du 30 août 1984 modifié ;
 
-13. "Inspection renforcée", une ou plusieurs visites portant au moins sur les points énumérés à l'annexe 150-1.VII. Une inspection renforcée peut inclure une inspection détaillée si cela est justifié, conformément à l'article 150-1.13, point 3 ;
+13. "Inspection renforcée", conformément à l'article 41-5 du décret n° 84-810 du 30 août 1984 modifié une ou plusieurs visites portant au moins sur les points énumérés à l'annexe 150-1.VII. Une inspection renforcée peut inclure une inspection détaillée si cela est justifié, conformément à l'article 150-1.13, point 3 ;
 
 14. "Réclamation", toute information ou tout rapport soumis par toute personne ou tout organisme ayant un intérêt légitime exempt d'intérêt commercial dans la sécurité du navire, y compris en ce qui concerne la sécurité ou les risques pour la santé de l'équipage, les conditions de vie et de travail à bord et la prévention de la pollution ;
 
 15. "Immobilisation", l'interdiction formelle signifiée à l'encontre d'un navire de prendre la mer en raison des anomalies constatées qui, isolément ou ensemble, entraînent l'impossibilité pour le navire de naviguer ;
 
-16. "Refus d'accès", la décision délivrée par le ministre chargé de la mer au capitaine d'un navire, à la compagnie responsable du navire et à l'Etat du pavillon leur notifiant que le navire se verra refuser l'accès à tous les ports et mouillages de la Communauté ;
+16. "Mesure de refus d'accès", la décision délivrée par le ministre chargé de la mer au capitaine d'un navire, à la compagnie responsable du navire et à l'Etat du pavillon leur notifiant que le navire se verra refuser l'accès à tous les ports et mouillages des Etats membres de l'Union européenne  ;
 
 17. "Arrêt d'opération ou d'exploitation", l'interdiction formelle signifiée à l'encontre d'un navire de poursuivre son exploitation ou toute opération en raison des anomalies constatées qui, isolément ou ensemble, rendraient dangereuse la poursuite de cette exploitation ;
 
@@ -48,14 +48,12 @@ Aux fins de la présente division, on entend par :
 
 22. "Certificat de classification", un document confirmant la conformité avec la convention SOLAS 74, chapitre II-1, partie A-1, règle 3-1 ;
 
-23. "Base de données des inspections" ou "THETIS", le système d'information contribuant à la mise en œuvre du système de contrôle par l'Etat du port dans la Communauté et concernant les données sur les inspections réalisées dans la Communauté et dans la région couverte par le mémorandum d'entente de Paris ;
+23. "Directive", directive n° 2009/16/CE du Parlement européen et du Conseil du 23 avril 2009 relative au contrôle par l'Etat du port, dans sa version actualisée ;
 
-24. "Directive", directive n° 2009/16/CE du Parlement européen et du Conseil du 23 avril 2009 relative au contrôle par l'Etat du port, dans sa version actualisée ;
+24. "CSN", centre de sécurité des navires ;
 
-25. "DIRM", ou direction interrégionale de la mer, service déconcentré relevant du ministre chargé de la mer et du ministre chargé du développement durable, dont le ressort et le siège sont définis à l'article 1er du décret n° 2010-130 du 11 février 2010 relatif à l'organisation et aux missions des directions interrégionales de la mer ;
+25. "CROSS", centres régionaux opérationnels de surveillance et de sauvetage tels que définis par le décret n° 88-531 du 2 mai 1988 portant organisation du secours, de la recherche et du sauvetage des personnes en détresse en mer ;
 
-26. "CSN", centre de sécurité des navires ;
+26. "organisations de gens de mer et d'armateur", organisations syndicales reconnues représentatives dans les conventions collectives nationales des officiers et du personnel navigant d'exécution de la marine marchande conformément à la loi du 20 août 2008 portant rénovation de la démocratie sociale et réforme du temps de travail et organisations professionnelles des entreprises françaises de transport et de service maritime.
 
-27. "CROSS", centres régionaux opérationnels de surveillance et de sauvetage tels que définis par le décret n° 88-531 du 2 mai 1988 portant organisation du secours, de la recherche et du sauvetage des personnes en détresse en mer ;
-
-28. "Personne chargée", agent désigné par le directeur interrégional de la mer ou le chef de centre de sécurité des navires par délégation pour effectuer le suivi des navires en escale, déterminer l'ordre des navires soumis à inspection et coordonner les inspections. La désignation peut être périodique. La personne chargée est un agent affecté au sein d'un CSN ou d'une DIRM.
+28. "Personne chargée", agent désigné par le directeur interrégional de la mer ou le chef de centre de sécurité des navires par délégation pour effectuer le suivi des navires en escale, déterminer l'ordre des navires soumis à inspection et coordonner les inspections. La désignation peut être périodique. La personne chargée est un agent affecté au sein d'un centre de sécurité des navires  ou d'une DIRM.

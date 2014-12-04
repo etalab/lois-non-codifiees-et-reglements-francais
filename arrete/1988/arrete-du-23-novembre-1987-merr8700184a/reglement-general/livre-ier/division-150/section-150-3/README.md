@@ -1,4 +1,4 @@
-# Section 150-3 : Contrôle des dispositions relatives à la durée du travail des gens de mer à bord des navires faisant escale dans les ports de la Communauté européenne
+# Section 150-3 : Contrôle des dispositions relatives à la durée du travail des gens de mer à bord des navires faisant escale dans les ports et mouillages des Etats membres de l'Union européenne européenne
 
 - [Article 150-3.01](article-150-3-01.md)
 - [Article 150-3.02](article-150-3-02.md)

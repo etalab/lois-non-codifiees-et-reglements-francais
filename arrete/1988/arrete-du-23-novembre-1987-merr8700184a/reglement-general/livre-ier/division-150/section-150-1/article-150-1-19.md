@@ -6,6 +6,10 @@ Suppression des anomalies et immobilisation du navire
 
 2. Lorsque les anomalies présentent un risque manifeste pour la sécurité, la santé ou l'environnement, l'inspecteur fait en sorte que le navire soit immobilisé ou que l'exploitation ou l'opération au cours de laquelle des anomalies ont été révélées soit arrêtée.
 
+2 bis. Lorsque les conditions de vie et de travail à bord présentent un risque manifeste pour la sécurité, la santé ou la sûreté des gens de mer ou que des anomalies constituent un manquement grave ou répété aux prescriptions de la convention du travail maritime 2006 (y compris les droits des gens de mer), l'inspecteur fait en sorte que le navire soit immobilisé ou que l'exploitation au cours de laquelle des anomalies ont été révélées soit arrêtée.
+
+L'ordre d'immobilisation ou d'arrêt d'exploitation n'est levé que lorsqu'il a été remédié aux anomalies ou que l'inspecteur a marqué son accord sur un plan d'action visant à remédier à ces anomalies et est convaincu que le plan sera mis en œuvre sans retard. Avant de marquer son accord sur un plan d'action, l'inspecteur peut consulter les autorités compétentes de l'Etat du pavillon.
+
 3. Lorsque les anomalies motivant l'immobilisation ont été rectifiées, l'exploitant notifie à l'inspecteur la correction des déficiences et la demande de levée d'immobilisation. La visite de vérification est effectuée dès le premier jour ouvré suivant la notification par l'exploitant.
 
 Toutefois, cette visite peut être reportée si le chef de centre de sécurité des navires estime qu'elle mettrait en péril la sécurité de l'inspecteur, du navire ou de son équipage et des personnes embarquées, ou présente un risque pour le port ou l'environnement. A titre d'exemple, le danger peut être lié à des conditions météorologiques ou des essais qui ne peuvent être effectués à un moment précis compte tenu de facteurs extérieurs.
@@ -22,11 +26,13 @@ S'il ne peut être remédié aisément à cette anomalie dans le port où le nav
 
 Avant la suspension de l'inspection, l'inspecteur consigne sur le rapport les déficiences motivant d'ores et déjà l'immobilisation.
 
-Dès que l'inspection du navire est suspendue, l'inspecteur en informe l'armateur et l'autorité du pavillon.
+Dès que l'inspection du navire est suspendue, l'inspecteur en informe la compagnie  et l'autorité du pavillon.
 
 La suspension de l'inspection dure jusqu'à ce que les mesures de remise aux normes aient été prises par l'armateur et que la validité des certificats ait été confirmée par l'Etat du pavillon, en application des prescriptions pertinentes des conventions internationales ou des règlements pertinents.
 
 8. En cas d'immobilisation, d'arrêt d'exploitation ou d'arrêt d'opération ou de leur levée, l'inspecteur informe immédiatement, par écrit et en incluant le rapport d'inspection, l'administration de l'Etat du pavillon ou, lorsque cela n'est pas possible, le consul ou, en son absence, le plus proche représentant diplomatique de cet Etat, de toutes les circonstances dans lesquelles une intervention a été jugée nécessaire. Le bureau chargé du contrôle des navires par l'Etat du port est également destinataire de cette information. En outre, les inspecteurs désignés ou les organismes agréés chargés de la délivrance des certificats de classification ou des certificats réglementaires conformément aux conventions sont également informés, le cas échéant.
+
+Par ailleurs, si un navire est empêché de naviguer pour avoir enfreint de manière grave ou répétée les prescriptions de la convention du travail maritime 2006 (y compris les droits des gens de mer), ou en raison de conditions de vie et de travail à bord présentant un risque manifeste pour la sécurité, la santé ou la sûreté des gens de mer, l'inspecteur le notifie immédiatement à l'Etat du pavillon, invite un de ses représentants à être présent, si possible, et demande à cet Etat du pavillon de répondre dans un délai donné. L'inspecteur informe également immédiatement les organisations de gens de mer et d'armateurs.
 
 9. La présente section est applicable sans préjudice d'autres conditions éventuellement prévues par les conventions pour ce qui est des procédures de notification et de rapport relatives aux contrôles par l'Etat du port.
 

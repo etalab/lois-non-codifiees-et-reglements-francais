@@ -36,6 +36,14 @@ A. - Exemples de motifs évidents justifiant une inspection détaillée.
 
 15. Absence de tableau précisant l'organisation du travail à bord ou de registres des heures de travail et de repos des marins.
 
+16. Les documents exigés au titre de la convention du travail maritime 2006, ne sont pas présentés, ou ne sont pas tenus à jour, ou le sont de façon mensongère, ou les documents présentés ne contiennent pas les informations exigées par la convention du travail maritime 2006, ou ne sont pas valables pour une autre raison.
+
+17. Les conditions de vie et de travail à bord du navire ne sont pas conformes aux prescriptions de la convention du travail maritime 2006.
+
+18. Il existe des motifs raisonnables de penser que le navire a changé de pavillon dans le but de se soustraire au respect de la convention du travail maritime 2006.
+
+19. Une réclamation a été déposée au motif que certaines conditions de vie et de travail à bord du navire ne sont pas conformes aux prescriptions de la convention du travail maritime 2006.
+
 B. - Exemples de motifs évidents justifiant le contrôle de la sûreté des navires
 
 1. L'inspecteur peut estimer qu'il existe des motifs évidents d'arrêter des mesures de contrôle supplémentaires en matière de sûreté lors de l'inspection initiale dans le cadre du contrôle par l'Etat du port dans les circonstances suivantes :
@@ -52,7 +60,7 @@ B. - Exemples de motifs évidents justifiant le contrôle de la sûreté des nav
 
 1.6. Il ressort de constatations que les arrangements relatifs à la sûreté comportent de graves lacunes ;
 
-1.7. Des informations émanant de tiers, comme un rapport ou une plainte, concernant des informations liées à la sûreté ont été communiquées ;
+1.7. Des informations émanant de tiers, comme un rapport ou une réclamation, concernant des informations liées à la sûreté ont été communiquées ;
 
 1.8. Le navire est titulaire d'un certificat international de sûreté du navire (ISSC) provisoire faisant suite à un autre certificat provisoire et, selon le jugement professionnel de l'inspecteur, l'une des raisons pour lesquelles le navire ou la compagnie a sollicité un tel certificat est de se soustraire à l'obligation de satisfaire pleinement au chapitre XI-2 de la convention SOLAS 74 et à la partie A du code ISPS au-delà de la période de validité du certificat ISSC provisoire initial. La partie A du code ISPS définit les circonstances dans lesquelles un certificat provisoire peut être délivré.
 

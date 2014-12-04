@@ -22,25 +22,25 @@ Les navires de plus de douze ans sont réputés présenter un profil de risque p
 
 c) Action de l'Etat du pavillon en matière de contrôle :
 
-i) Les navires battant le pavillon d'un Etat dont le taux d'immobilisation est élevé au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé ;
+i) Les navires battant le pavillon d'un Etat dont le taux d'immobilisation est élevé au sein de l'Union européenne et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé ;
 
-ii) Les navires battant le pavillon d'un Etat dont le taux d'immobilisation est faible au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible ;
+ii) Les navires battant le pavillon d'un Etat dont le taux d'immobilisation est faible au sein de l'Union européenne et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible ;
 
 iii) Les navires battant le pavillon d'un Etat pour lesquels un audit a été mené à bien ou, le cas échéant, un plan comportant des mesures correctives a été présenté, les deux conformément aux code et procédures pour le système d'audit volontaire des Etats membres de l'OMI sont réputés présenter un risque plus faible. Dès que les modalités visées à l'article 10, paragraphe 3, de la directive n° 2009/16/CE sont adoptées, l'Etat du pavillon d'un navire de ce type doit avoir démontré la conformité au code pour l'application des instruments obligatoires de l'OMI ;
 
 d) Organismes agréés :
 
-i) Les navires munis de certificats délivrés par des organismes agréés dont le niveau de performance est faible ou très faible compte tenu de leur taux d'immobilisation au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé ;
+i) Les navires munis de certificats délivrés par des organismes agréés dont le niveau de performance est faible ou très faible compte tenu de leur taux d'immobilisation au sein de l'Union européenne et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé ;
 
-ii) Les navires munis de certificats délivrés par des organismes agréés dont le niveau de performance est élevé compte tenu de leur taux d'immobilisation au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible ;
+ii) Les navires munis de certificats délivrés par des organismes agréés dont le niveau de performance est élevé compte tenu de leur taux d'immobilisation au sein de l'Union européenne et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible ;
 
 iii) Les navires munis de certificats délivrés par des organismes agréés conformément au règlement (CE) n° 391/2009.
 
 e) Respect des normes par les compagnies :
 
-i) Les navires d'une compagnie dont le respect des normes est faible ou très faible compte tenu du taux d'anomalie et d'immobilisation de ses navires au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé ;
+i) Les navires d'une compagnie dont le respect des normes est faible ou très faible compte tenu du taux d'anomalie et d'immobilisation de ses navires au sein de l'Union européenne et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus élevé ;
 
-ii) Les navires d'une compagnie dont le respect des normes est élevé compte tenu du taux d'anomalie et d'immobilisation de ses navires au sein de la Communauté et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible.
+ii) Les navires d'une compagnie dont le respect des normes est élevé compte tenu du taux d'anomalie et d'immobilisation de ses navires au sein de l'Union européenne et de la région couverte par le mémorandum d'entente de Paris sont réputés présenter un risque plus faible.
 
 2. Paramètres historiques.
 
@@ -68,11 +68,11 @@ Les inspections périodiques ont lieu à intervalles déterminés à l'avance. L
 
 La personne chargée sélectionne pour inspection périodique :
 
-A. - Tout navire présentant un profil de risque élevé qui n'a pas été inspecté dans un port ou mouillage de la Communauté ou de la région couverte par le mémorandum de Paris au cours des six derniers mois. Les navires présentant un profil de risque élevé sont susceptibles d'être inspectés dès le cinquième mois.
+A. - Tout navire présentant un profil de risque élevé qui n'a pas été inspecté dans un port ou mouillage d'un Etat membre de l'Union européenne ou de la région couverte par le mémorandum de Paris au cours des six derniers mois. Les navires présentant un profil de risque élevé sont susceptibles d'être inspectés dès le cinquième mois.
 
-B. - Tout navire présentant un profil de risque normal qui n'a pas été inspecté dans un port ou mouillage de la Communauté ou de la région couverte par le mémorandum de Paris au cours des douze derniers mois. Les navires présentant un profil de risque normal sont susceptibles d'être inspectés dès le dixième mois.
+B. - Tout navire présentant un profil de risque normal qui n'a pas été inspecté dans un port ou mouillage d'un Etat membre de l'Union européenne ou de la région couverte par le mémorandum de Paris au cours des douze derniers mois. Les navires présentant un profil de risque normal sont susceptibles d'être inspectés dès le dixième mois.
 
-C. - Tout navire présentant un profil de risque faible qui n'a pas été inspecté dans un port ou un mouillage dans la Communauté ou la région couverte par le mémorandum de Paris au cours des trente-six derniers mois. Les navires présentant un profil de risque faible sont susceptibles d'être inspectés dès le vingt-quatrième mois.
+C. - Tout navire présentant un profil de risque faible qui n'a pas été inspecté dans un port ou mouillage d'un Etat membre de l'Union européenne ou la région couverte par le mémorandum de Paris au cours des trente-six derniers mois. Les navires présentant un profil de risque faible sont susceptibles d'être inspectés dès le vingt-quatrième mois.
 
 2. Inspections supplémentaires.
 
@@ -104,13 +104,15 @@ Les navires auxquels s'appliquent les facteurs imprévus énumérés ci-après p
 
 - les navires munis de certificats délivrés par un organisme anciennement agréé dont l'agrément a été retiré depuis la dernière inspection effectuée dans la Communauté ou dans la région couverte par le mémorandum de Paris ;
 
-- les navires signalés par les pilotes ou les autorités portuaires comme présentant des anomalies manifestes susceptibles de compromettre la sécurité de la navigation ou de constituer une menace pour le milieu marin conformément à l'article 150-1.23 de la présente directive ;
+- les navires signalés par les pilotes ou les autorités portuaires comme présentant des anomalies manifestes susceptibles de compromettre la sécurité de la navigation ou de constituer une menace pour le milieu marin conformément à l'article 150-1.23 de la présente division ;
 
 - les navires qui ne satisfont pas aux obligations de notification applicables visées à l'article 150-1.9, aux directives n° 2000/59/CE et n° 2002/59/CE, et, le cas échéant, au règlement (CE) n° 725/2004 ;
 
-- les navires ayant fait l'objet d'un rapport ou d'une plainte émanant du capitaine, d'un membre d'équipage ou de toute personne ou organisation ayant un intérêt légitime dans la sécurité d'exploitation du navire, les conditions de vie et de travail à bord ou la prévention de la pollution, sauf si la personne chargée juge le rapport ou la plainte manifestement non fondés ;
+- les navires ayant fait l'objet d'un rapport ou d'une réclamation, y compris une réclamation à terre, émanant du capitaine, d'un membre d'équipage ou de toute personne ou organisation ayant un intérêt légitime dans la sécurité d'exploitation du navire, les conditions de vie et de travail à bord ou la prévention de la pollution, à moins que l'inspecteur ne juge le rapport ou la réclamation manifestement infondés ;
 
-- les navires ayant déjà fait l'objet d'une immobilisation plus de trois mois auparavant ;
+- les navires pour lesquels un plan d'action visant à rectifier les anomalies visées à l'article 150-1.19, paragraphe 2 bis, a été accepté mais à l'égard desquels la mise en œuvre de ce plan n'a pas été contrôlée par un inspecteur.
+
+-les navires ayant déjà fait l'objet d'une immobilisation plus de trois mois auparavant ;
 
 - les navires qui ont été signalés comme présentant des anomalies non encore corrigées, à l'exception de ceux dont les anomalies devaient être corrigées dans un délai de quatorze jours après leur départ et de ceux dont les anomalies devaient être corrigées avant leur départ ;
 

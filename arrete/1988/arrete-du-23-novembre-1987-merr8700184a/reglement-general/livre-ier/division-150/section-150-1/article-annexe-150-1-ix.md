@@ -210,7 +210,7 @@ Absence des certificats et documents en cours de validité requis par les instru
 
 7. Il est impossible de trouver, pour assurer le premier quart au début d'un voyage et les quarts ultérieurs, des personnes suffisamment reposées et aptes au service à tous autres égards.
 
-3.10. Domaines relevant des conventions de l'OIT.
+3.10. Domaines relevant de la convention du travail maritime 2006.
 
 1. Quantité de nourriture insuffisante pour le voyage jusqu'au prochain port.
 
@@ -225,6 +225,10 @@ Absence des certificats et documents en cours de validité requis par les instru
 6. Présence en excès de déchets, blocage des couloirs ou des logements par du matériel ou la cargaison ou autres éléments compromettant la sécurité dans ces zones.
 
 7. Preuve flagrante que le personnel de veille et de garde pour le premier quart ou les quarts suivants est affaibli par la fatigue.
+
+8. Les conditions à bord présentent un risque manifeste pour la sécurité, la santé ou la sûreté des gens de mer.
+
+9. La non-conformité constitue un manquement grave ou répété aux prescriptions de la convention du travail maritime 2006, y compris les droits des gens de mer, concernant les conditions de vie et de travail des gens de mer à bord du navire, telles qu'elles sont spécifiées dans le certificat de travail maritime et la déclaration de conformité du travail maritime du navire.
 
 3.11. Domaines ne nécessitant pas l'immobilisation mais requérant la suspension des opérations de cargaison.
 

@@ -4,7 +4,7 @@ FONCTIONNALITÉS DE LA BASE DE DONNÉES DES INSPECTIONS
 
 (visées à l'article 150-1.24, 1)
 
-1. La base de données des inspections effectuées au titre de la directive est intégrée au système d'information hébergé par l'Agence européenne de sécurité maritime. Ce système d'information est dénommé THETIS (The Hybrid European Targeting and Inspection System).
+1. La base de données des inspections effectuées au titre de la directive 2009/16/ CE  est intégrée au système d'information hébergé par l'Agence européenne de sécurité maritime. Ce système d'information est dénommé THETIS (The Hybrid European Targeting and Inspection System).
 
 2. La personne chargée et les inspecteurs se fient à THETIS, qui :
 

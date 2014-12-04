@@ -18,6 +18,7 @@
 - [Article 150-1.16](article-150-1-16.md)
 - [Article 150-1.17](article-150-1-17.md)
 - [Article 150-1.18](article-150-1-18.md)
+- [Article 150-1.18 bis](article-150-1-18-bis.md)
 - [Article 150-1.19](article-150-1-19.md)
 - [Article 150-1.20](article-150-1-20.md)
 - [Article 150-1.21](article-150-1-21.md)

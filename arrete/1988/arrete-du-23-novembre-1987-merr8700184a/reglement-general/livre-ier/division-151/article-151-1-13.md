@@ -10,6 +10,8 @@ Sont applicables, au titre de la présente division, les dispositions de la divi
 
 - aux réclamations (art. 150-1.18) ;
 
+- aux  traitements à terre des réclamations des gens de mer lorsque la  convention du travail maritime 2006 s'applique (art. 150-1.18 bis) ;
+
 - au droit de recours (art. 150-1.20) ;
 
 - au suivi des anomalies (art. 150-1.21) ;

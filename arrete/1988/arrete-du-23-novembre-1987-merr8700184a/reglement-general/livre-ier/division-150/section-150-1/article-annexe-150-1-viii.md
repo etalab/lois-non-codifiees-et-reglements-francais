@@ -1,10 +1,6 @@
 # Article Annexe 150-1.VIII
 
-DISPOSITIONS CONCERNANT LE REFUS D'ACCÈS
-
-AUX PORTS ET MOUILLAGE DANS LA COMMUNAUTÉ
-
-(visés à l'article 150-1.16)
+Dispositions concernant le refus d'acces aux ports et mouillages
 
 1. Le chef du centre de sécurité des navires du port d'inspection ou, le cas échéant, celui du port de réparation désigné rend compte au ministère chargé de la mer s'il a connaissance que l'un des navires remplit les conditions visées au paragraphe 150-1.16, point 1, et 150-1.21, point 4.
 
@@ -32,4 +28,4 @@ Si le port ayant fait l'objet d'un accord est situé dans un Etat membre, l'auto
 
 11. Le ministère des transports informe également de sa décision, par écrit, l'administration de l'Etat du pavillon, la société de classification concernée, les autres Etats membres, les autres signataires du mémorandum d'entente de Paris, la Commission et le secrétariat du mémorandum d'entente de Paris. Le ministère chargé des transports doit également mettre à jour la base de données des inspections en y ajoutant immédiatement les informations relatives à la levée du refus d'accès.
 
-12. Les informations relatives aux navires auxquels l'accès aux ports dans la Communauté a été refusé doivent être rendues disponibles dans la base de données des inspections et publiées conformément aux dispositions de l'article 26 et de l'annexe XIII de la directive n° 2009/16/CE.
+12. Les informations relatives aux navires auxquels l'accès aux ports dans les Etats membres de l'Union européenne a été refusé doivent être rendues disponibles dans la base de données des inspections et publiées conformément aux dispositions de l'article 26 et de l'annexe XIII de la directive n° 2009/16/CE.

@@ -50,12 +50,6 @@ Convention internationale pour le contrôle des systèmes anti-salissures de 200
 
 Conventions adoptées par l'Organisation internationale du travail
 
-Convention n° 68 sur l'alimentation et le service de table (équipages des navires), adoptée le 27 juin 1946 et publiée par décret n° 50-1550 du 13 décembre 1950 ;
-
-Convention n° 92 sur le logement des équipages, adoptée le 18 juin 1949 et publiée par décret n° 51-1351 du 21 novembre 1951 ;
-
 Convention n° 126 sur le logement à bord des navires de pêche, adoptée le 21 juin 1966 et publiée par décret n° 72-779 du 18 août 1972 ;
 
-Convention n° 134 sur la prévention des accidents du travail des gens de mer, adoptée le 30 octobre 1970 et publiée par décret n° 79-322 du 19 avril 1979 ;
-
-Convention n° 164 sur la protection de la santé et les soins médicaux (gens de mer), adoptée le 8 octobre 1987 et publiée par décret n° 2005-508 du 11 mai 2005.
+Convention du travail maritime 2006 (CTM), adoptée le 23 février 2006 et publiée par la loi n° 2012-1320 du 29 novembre 2012 autorisant la ratification de la convention du travail maritime de l'Organisation internationale du travail.
