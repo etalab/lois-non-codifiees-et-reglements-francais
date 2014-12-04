@@ -324,7 +324,6 @@
 - [Arrêté du 11 mars 1997 (EQUT9700320A)](arrete-du-11-mars-1997-equt9700320a)
 - [Arrêté du 11 mars 1997 (MENN9700669A)](arrete-du-11-mars-1997-menn9700669a)
 - [Arrêté du 11 mars 1997 (TASP9720896A)](arrete-du-11-mars-1997-tasp9720896a)
-- [Arrêté du 11 septembre 1997 (DEFE9755022A)](arrete-du-11-septembre-1997-defe9755022a)
 - [Arrêté du 11 septembre 1997 (ECOP9700482A)](arrete-du-11-septembre-1997-ecop9700482a)
 - [Arrêté du 11 septembre 1997 (EQUA9701473A)](arrete-du-11-septembre-1997-equa9701473a)
 - [Arrêté du 11 septembre 1997 (MCCB9700692A)](arrete-du-11-septembre-1997-mccb9700692a)
