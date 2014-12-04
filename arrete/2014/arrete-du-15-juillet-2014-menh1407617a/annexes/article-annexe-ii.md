@@ -39,3 +39,5 @@ Adjoints techniques de recherche et de formation.
 3. Commissions administratives paritaires académiques compétentes à l'égard des corps suivants :
 
 Adjoints techniques de recherche et de formation.
+
+4. Commission administrative paritaire nationale compétente à l'égard des professeurs de l'Ecole nationale supérieure d'arts et métiers.

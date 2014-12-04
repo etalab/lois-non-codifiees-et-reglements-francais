@@ -36,6 +36,8 @@ Université Bordeaux-III.
 
 Université Bordeaux-IV.
 
+Université de Brest.
+
 Université de Caen.
 
 Université de Cergy-Pontoise.
@@ -53,6 +55,12 @@ Université de Dijon.
 Université d'Evry-Val d'Essonne.
 
 Université de La Rochelle.
+
+Université Grenoble-I.
+
+Université Grenoble-II.
+
+Université Grenoble-III.
 
 Université du Havre.
 
@@ -186,19 +194,17 @@ Observatoire de la Côte d'Azur.
 
 Conservatoire national des arts et métiers.
 
-Ecole centrale des arts et manufactures.
-
 Ecole nationale supérieure d'arts et métiers.
 
 Ecole nationale supérieure des sciences de l'information et des bibliothèques.
 
 Institut national des langues et civilisations orientales.
 
-Institut national polytechnique de Grenoble.
+Institut polytechnique de Grenoble.
 
 Institut polytechnique de Bordeaux.
 
-Institut de physique du Globe.
+Institut de physique du Globe de Paris.
 
 Muséum national d'histoire naturelle.
 
@@ -263,3 +269,5 @@ Ecole normale supérieure de Paris.
 Agence d'évaluation de la recherche et de l'enseignement supérieur.
 
 Institut national polytechnique de Toulouse.
+
+Institut d'administration des entreprises de Paris.
