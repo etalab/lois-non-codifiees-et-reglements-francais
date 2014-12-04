@@ -6,7 +6,7 @@ Par dérogation à l'article 37 du décret du 28 mai 1982 susvisé et à l'artic
 
 a) A la hors-classe des professeurs agrégés, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative ;
 
-b) A la hors-classe des professeurs certifiés, les trois représentants du personnel titulaires siègent avec trois suppléants qui ont voix délibérative ;
+b) A la hors-classe des professeurs certifiés, les quatre représentants du personnel titulaires siègent avec quatre suppléants qui ont voix délibérative ;
 
 c) A la hors-classe des professeurs d'éducation physique et sportive, les deux représentants du personnel titulaires siègent avec deux suppléants qui ont voix délibérative ;
 

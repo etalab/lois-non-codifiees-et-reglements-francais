@@ -10,7 +10,7 @@ Le nombre des représentants titulaires du personnel au sein des formations pari
 
 2. Pour les disciplines comportant des professeurs certifiés et des adjoints d'enseignement dix-neuf représentants ;
 
-3. Pour l'éducation physique et sportive : un représentant des professeurs agrégés, sept représentants des professeurs d'éducation physique et sportive et des chargés d'enseignement d'éducation physique et sportive.
+3. Pour l'éducation physique et sportive : un représentant des professeurs agrégés, neuf représentants des professeurs d'éducation physique et sportive et des chargés d'enseignement d'éducation physique et sportive.
 
 Les représentants du personnel appelés à siéger dans la formation paritaire mixte nationale sont choisis, en leur sein, par les représentants titulaires et suppléants de chaque liste aux commissions administratives paritaires nationales.
 
