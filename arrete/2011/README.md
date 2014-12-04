@@ -2616,7 +2616,6 @@
 - [Arrêté du 29 juillet 2011 (EFIP1121441A)](arrete-du-29-juillet-2011-efip1121441a)
 - [Arrêté du 29 juillet 2011 (ESRS1116545A)](arrete-du-29-juillet-2011-esrs1116545a)
 - [Arrêté du 29 juillet 2011 (IOCD1103390A)](arrete-du-29-juillet-2011-iocd1103390a)
-- [Arrêté du 29 juillet 2011 (IOCV1121617A)](arrete-du-29-juillet-2011-iocv1121617a)
 - [Arrêté du 29 juillet 2011 (JUSB1116775A)](arrete-du-29-juillet-2011-jusb1116775a)
 - [Arrêté du 29 juillet 2011 (JUSB1116780A)](arrete-du-29-juillet-2011-jusb1116780a)
 - [Arrêté du 29 juillet 2011 (JUSC1027630A)](arrete-du-29-juillet-2011-jusc1027630a)
