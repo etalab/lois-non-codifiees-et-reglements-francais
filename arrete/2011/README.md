@@ -1929,7 +1929,6 @@
 - [Arrêté du 22 septembre 2011 (BCRE1127285A)](arrete-du-22-septembre-2011-bcre1127285a)
 - [Arrêté du 22 septembre 2011 (BCRP1123938A)](arrete-du-22-septembre-2011-bcrp1123938a)
 - [Arrêté du 22 septembre 2011 (BCRS1125995A)](arrete-du-22-septembre-2011-bcrs1125995a)
-- [Arrêté du 22 septembre 2011 (DEFH1126292A)](arrete-du-22-septembre-2011-defh1126292a)
 - [Arrêté du 22 septembre 2011 (DEFH1126293A)](arrete-du-22-septembre-2011-defh1126293a)
 - [Arrêté du 22 septembre 2011 (ESRH1126154A)](arrete-du-22-septembre-2011-esrh1126154a)
 - [Arrêté du 22 septembre 2011 (ETSP1125904A)](arrete-du-22-septembre-2011-etsp1125904a)
