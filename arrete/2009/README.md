@@ -921,7 +921,6 @@
 - [Arrêté du 13 février 2009 (BCFS0903989A)](arrete-du-13-fevrier-2009-bcfs0903989a)
 - [Arrêté du 13 février 2009 (CPTX0902314A)](arrete-du-13-fevrier-2009-cptx0902314a)
 - [Arrêté du 13 février 2009 (ECEI0902028A)](arrete-du-13-fevrier-2009-ecei0902028a)
-- [Arrêté du 13 février 2009 (SASG0905184A)](arrete-du-13-fevrier-2009-sasg0905184a)
 - [Arrêté du 13 janvier 2009 (AGRP0900785A)](arrete-du-13-janvier-2009-agrp0900785a)
 - [Arrêté du 13 janvier 2009 (BCFD0900984A)](arrete-du-13-janvier-2009-bcfd0900984a)
 - [Arrêté du 13 janvier 2009 (BCFF0900890A)](arrete-du-13-janvier-2009-bcff0900890a)
