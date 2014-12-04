@@ -681,7 +681,6 @@
 - [Arrêté du 9 février 2010 (DEVP1002145A)](arrete-du-9-fevrier-2010-devp1002145a)
 - [Arrêté du 9 février 2010 (ESRR1003105A)](arrete-du-9-fevrier-2010-esrr1003105a)
 - [Arrêté du 9 février 2010 (JUSB1004032A)](arrete-du-9-fevrier-2010-jusb1004032a)
-- [Arrêté du 9 février 2010 (MCCB0931547A)](arrete-du-9-fevrier-2010-mccb0931547a)
 - [Arrêté du 9 février 2010 (MCCF1001742A)](arrete-du-9-fevrier-2010-mccf1001742a)
 - [Arrêté du 9 février 2010 (SASH1003858A)](arrete-du-9-fevrier-2010-sash1003858a)
 - [Arrêté du 9 février 2010 (SASH1003874A)](arrete-du-9-fevrier-2010-sash1003874a)
