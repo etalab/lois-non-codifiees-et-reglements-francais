@@ -1291,7 +1291,6 @@
 - [Arrêté du 16 février 2011 (DEFD1105045A)](arrete-du-16-fevrier-2011-defd1105045a)
 - [Arrêté du 16 février 2011 (DEVK1101526A)](arrete-du-16-fevrier-2011-devk1101526a)
 - [Arrêté du 16 février 2011 (DEVP1101582A)](arrete-du-16-fevrier-2011-devp1101582a)
-- [Arrêté du 16 janvier 1979](arrete-du-16-janvier-1979)
 - [Arrêté du 16 janvier 2011 (DEVA1103379A)](arrete-du-16-janvier-2011-deva1103379a)
 - [Arrêté du 16 juin 1995 (AGRE9501127A)](arrete-du-16-juin-1995-agre9501127a)
 - [Arrêté du 16 juin 2011 (AGRG1023186A)](arrete-du-16-juin-2011-agrg1023186a)
