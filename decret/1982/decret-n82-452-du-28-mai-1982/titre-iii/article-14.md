@@ -1,7 +1,0 @@
-# Article 14
-
-Sous réserve des dispositions du deuxième alinéa, le comité technique paritaire ministériel est seul compétent pour connaître de toutes les questions relatives à l'élaboration ou à la modification des règles statutaires régissant les personnels des corps relevant du ministre affectés dans les services placés sous l'autorité du ministre ou dans les établissements publics placés sous sa tutelle. Le comité technique paritaire ministériel n'est compétent pour connaître des problèmes généraux de formation que des personnels affectés dans les services du ministère.
-
-Toutefois, un arrêté du ministre intéressé peut prévoir la consultation préalable sur ces questions du comité technique central institué auprès du directeur du personnel de l'administration centrale.
-
-Dans les établissements publics de l'Etat mentionnés à l'article 1er du présent décret, le comité technique paritaire central institué auprès du directeur ou du directeur général est seul compétent pour connaître de toutes les questions relatives à l'élaboration ou à la modification des règles statutaires applicables aux fonctionnaires appartenant à un corps propre à l'établissement. Ce comité technique paritaire est seul compétent pour connaître des problèmes de formation intéressant ces fonctionnaires ainsi que les fonctionnaires des corps relevant du ministre affectés dans l'établissement, sans préjudice des dispositions de l'article 20 du décret n° 85-607 du 14 juin 1985 relatif à la formation professionnelle des fonctionnaires de l'Etat.

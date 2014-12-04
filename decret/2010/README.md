@@ -196,7 +196,6 @@
 - [Décret n°2010-467 du 7 mai 2010 (MTSF1008492D)](decret-n2010-467-du-7-mai-2010-mtsf1008492d)
 - [Décret n°2010-468 du 7 mai 2010 (PRMG1003591D)](decret-n2010-468-du-7-mai-2010-prmg1003591d)
 - [Décret n°2010-469 du 7 mai 2010 (MENE1005182D)](decret-n2010-469-du-7-mai-2010-mene1005182d)
-- [Décret n°2010-470 du 7 mai 2010 (MCCB1003096D)](decret-n2010-470-du-7-mai-2010-mccb1003096d)
 - [Décret du 8 juillet 2010 (ESRS1004718D)](decret-du-8-juillet-2010-esrs1004718d)
 - [Décret n°2009-1521 du 8 décembre 2009 (BCFP0928220D)](decret-n2009-1521-du-8-decembre-2009-bcfp0928220d)
 - [Décret n°2010-1064 du 8 septembre 2010 (DEVT1019353D)](decret-n2010-1064-du-8-septembre-2010-devt1019353d)
