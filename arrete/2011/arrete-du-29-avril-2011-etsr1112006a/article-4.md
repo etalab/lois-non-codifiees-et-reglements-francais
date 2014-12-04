@@ -1,3 +1,0 @@
-# Article 4
-
-Les dispositions du présent arrêté entreront en vigueur à la date du prochain renouvellement des commissions administratives paritaires et, au plus tard, le 15 novembre 2011.
