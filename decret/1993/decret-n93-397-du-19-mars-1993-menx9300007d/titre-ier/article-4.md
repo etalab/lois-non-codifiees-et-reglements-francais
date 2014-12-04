@@ -1,6 +1,6 @@
 # Article 4
 
-Le centre accomplit ces missions principalement par l'octroi de prêts, d'avances ou de subventions.
+Le centre accomplit ces missions principalement par l'octroi de prêts, d'avances, de bourses ou de subventions.
 
 Il peut :
 

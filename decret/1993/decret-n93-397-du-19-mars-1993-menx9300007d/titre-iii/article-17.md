@@ -2,7 +2,7 @@
 
 Les ressources du centre comprennent :
 
-1° Les recettes du compte spécial du Trésor ouvert par l'article 38 de la loi n° 75-1278 du 30 décembre 1975 portant loi de finances pour 1976 et intitulé " Fonds national du livre " ;
+1° Le produit des taxes mentionnées à l'article 1609 undecies du code général des impôts ;
 
 2° Les subventions de l'Etat, des collectivités territoriales et de tout organisme public ou privé, et les recettes de mécénat ;
 

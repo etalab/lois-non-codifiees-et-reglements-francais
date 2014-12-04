@@ -1,31 +1,47 @@
 # Article 6
 
-Le conseil d'administration comprend, outre son président :
+I.-Le conseil d'administration comprend, outre son président :
 
-1° Six représentants de l'Etat :
+1° Deux membres du Parlement :
+
+a) Un député ;
+
+b) Un sénateur ;
+
+2° Huit représentants de l'Etat :
 
 a) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-b) Le directeur général des médias et des industries culturelles au ministère chargé de la culture ou son représentant ;
+b) Le directeur général des médias et des industries culturelles ou son représentant ;
 
-c) Le directeur du budget au ministère chargé du budget ou son représentant ;
+c) Le chef du service du livre et de la lecture ou son représentant ;
 
-d) Un représentant du ministre chargé de l'enseignement supérieur ;
+d) Le délégué général à la langue française et aux langues de France ou son représentant ;
 
-e) Un représentant du ministre chargé de l'éducation ;
+e) Un directeur régional des affaires culturelles nommé par arrêté du ministre chargé de la culture ;
 
-f) Un représentant du ministre des affaires étrangères.
+f) Le directeur du budget ou son représentant ;
 
-Les membres mentionnés aux d, e et f ci-dessus sont désignés pour trois ans par arrêté du ministre chargé de la culture sur proposition des ministres intéressés ; pour chacun d'eux, un suppléant est désigné dans les mêmes conditions ;
+g) Le directeur général de l'enseignement scolaire ou son représentant ;
 
-2° Quinze personnes désignées, en raison de leur compétence dans le domaine des activités littéraires et des professions du livre, par un arrêté du ministre chargé de la culture, pour un mandat de trois ans renouvelable :
+h) Le directeur général de la mondialisation, du développement et des partenariats ou son représentant ;
 
-a) Cinq éditeurs ;
+3° Le président de la Bibliothèque nationale de France ou son représentant ;
 
-b) Deux libraires ;
+4° Neuf représentants des professions et des activités littéraires comprenant :
 
-c) Deux conservateurs ou conservateurs généraux des bibliothèques ;
+a) Trois auteurs, dont un traducteur ;
 
-d) Six personnalités qualifiées dans le domaine de la création, de l'édition, de la diffusion du livre, des nouvelles technologies et des services numériques, parmi lesquelles trois auteurs au moins dont un traducteur ;
+b) Trois éditeurs ;
 
-3° Un représentant du personnel élu pour trois ans selon des modalités fixées par arrêté du ministre chargé de la culture.
+c) Deux libraires ;
+
+d) Un professionnel des bibliothèques.
+
+Ces membres sont nommés par arrêté du ministre chargé de la culture sur proposition des organisations nationales issues des professions et activités concernées ;
+
+5° Le président de la Fédération interrégionale du livre et de la lecture ;
+
+6° Un représentant du personnel élu selon des modalités fixées par arrêté du ministre chargé de la culture.
+
+II.-Les membres mentionnés aux 1°, e du 2°, 4° et 6° sont nommés ou élus pour un mandat de trois ans, renouvelable.

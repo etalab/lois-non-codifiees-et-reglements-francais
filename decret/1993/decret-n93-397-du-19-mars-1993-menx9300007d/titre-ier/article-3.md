@@ -2,7 +2,7 @@
 
 Outre les compétences fixées par l'article 2 de la loi du 11 octobre 1946 susvisée, le Centre national du livre a pour missions :
 
-1° D'offrir aux auteurs, éditeurs, traducteurs, libraires, imprimeurs, bibliothécaires et à tous les professionnels et amateurs du livre un centre permanent de rencontres et de dialogues ;
+1° D'offrir à tous les professionnels et amateurs du livre imprimé et numérique un centre permanent de rencontres et de dialogues ;
 
 2° D'encourager tous les modes d'expression littéraire et de concourir à la diffusion, sous toutes ses formes, des oeuvres littéraires ;
 
