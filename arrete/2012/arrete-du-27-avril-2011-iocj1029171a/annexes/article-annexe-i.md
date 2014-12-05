@@ -6,31 +6,31 @@ OU D'UN DIPLÔME OU TITRE ENREGISTRÉ ET CLASSÉ AU MOINS AU NIVEAU IV
 
 (1° de l'article 13-1 du décret du 12 septembre 2008 susvisé)
 
-I. ― Nature, forme et programmes des épreuves d'admissibilité
+I.-Nature, forme et programmes des épreuves d'admissibilité.
 
 Les épreuves d'admissibilité comprennent :
 
-― une épreuve de composition (durée : 3 heures ; coefficient 5) ;
+-une épreuve de composition de culture générale (durée : 3 heures ; coefficient 5) ;
 
-― une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2) ;
+-une épreuve d'aptitude professionnelle (durée : 35 minutes ; coefficient 2) ;
 
-― une épreuve de langue étrangère (durée : 30 minutes ; coefficient 1).
+-une épreuve de langue étrangère (durée : 30 minutes ; coefficient 1).
 
-1.1. Epreuve de composition
+1.1. Epreuve de composition de culture générale.
 
-Cette épreuve consiste en la rédaction d'un devoir de connaissances générales avec l'aide d'une documentation jointe. Cette épreuve mixte , entre la composition classique et la note de synthèse, a pour objectif d'évaluer les qualités rédactionnelles des candidats.
+Cette épreuve consiste en la rédaction d'un devoir sur un sujet d'ordre général, ayant pour objectif d'évaluer les qualités rédactionnelles des candidats.
 
-Il est notamment attendu qu'ils aient une bonne culture générale, qu'ils sachent exploiter une documentation pour en retirer les idées les plus importantes et qu'ils présentent de bonnes aptitudes à exposer leur point de vue grâce à une argumentation pertinente.
+Il est notamment attendu qu'ils aient une bonne culture générale et qu'ils présentent de bonnes aptitudes à exposer leur point de vue grâce à une argumentation pertinente.
 
-Le devoir devra être soigneusement organisé (introduction-parties-conclusion) et une attention particulière sera portée à la maîtrise de la langue française.
+Le devoir devra être soigneusement organisé (introduction, parties, conclusion) et une attention particulière sera portée à la maîtrise de la langue française.
 
-1.2. Epreuve d'aptitude professionnelle
+1.2. Epreuve d'aptitude professionnelle.
 
 Cette épreuve consiste en un QCM portant sur des suites ou des ensembles logiques à résoudre.
 
 Elle vise à évaluer le potentiel intellectuel général des candidats et notamment leur capacité à comprendre et s'adapter à une situation avec rapidité et justesse, par le développement d'un système de raisonnement logique.
 
-1.3. Epreuve de langue étrangère
+1.3. Epreuve de langue étrangère.
 
 Cette épreuve consiste en un QCM de niveau baccalauréat portant sur la syntaxe, le vocabulaire et la grammaire d'une langue étrangère.
 
