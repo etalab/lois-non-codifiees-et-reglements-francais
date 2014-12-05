@@ -64,7 +64,6 @@
 - [Arrêté du 7 avril 2006 (MJSK0670082A)](arrete-du-7-avril-2006-mjsk0670082a)
 - [Arrêté du 7 décembre 2006 (EQUA0602276A)](arrete-du-7-decembre-2006-equa0602276a)
 - [Arrêté du 7 décembre 2006 (EQUT0602343A)](arrete-du-7-decembre-2006-equt0602343a)
-- [Arrêté du 7 février 2006 (MAEA0620031A)](arrete-du-7-fevrier-2006-maea0620031a)
 - [Arrêté du 7 juillet 2006 (DEVP0650375A)](arrete-du-7-juillet-2006-devp0650375a)
 - [Arrêté du 7 juillet 2006 (MJSK0670171A)](arrete-du-7-juillet-2006-mjsk0670171a)
 - [Arrêté du 7 juin 2006 (DEFM0600693A)](arrete-du-7-juin-2006-defm0600693a)
