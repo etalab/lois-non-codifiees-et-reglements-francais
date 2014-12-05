@@ -3020,7 +3020,6 @@
 - [Arrêté du 30 juillet 2012 (AGRG1230629A)](arrete-du-30-juillet-2012-agrg1230629a)
 - [Arrêté du 30 juillet 2012 (AGRT1230930A)](arrete-du-30-juillet-2012-agrt1230930a)
 - [Arrêté du 30 juillet 2012 (DEFD1222240A)](arrete-du-30-juillet-2012-defd1222240a)
-- [Arrêté du 30 juillet 2012 (DEFD1230922A)](arrete-du-30-juillet-2012-defd1230922a)
 - [Arrêté du 30 juillet 2012 (ESRS1228717A)](arrete-du-30-juillet-2012-esrs1228717a)
 - [Arrêté du 30 juillet 2012 (INTV1230742A)](arrete-du-30-juillet-2012-intv1230742a)
 - [Arrêté du 30 juillet 2012 (SPOF1230970A)](arrete-du-30-juillet-2012-spof1230970a)
