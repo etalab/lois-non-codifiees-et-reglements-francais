@@ -56,68 +56,70 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 27° Le délégué général pour l'armement, le secrétaire général pour l'administration du ministère de la défense, le chef d'état-major de l'armée de terre, le chef d'état-major de la marine, le chef d'état-major de l'armée de l'air, le gouverneur militaire de Paris, commandant de la région terre Ile-de-France ;
 
-28° Le président du Conseil supérieur de l'audiovisuel ;
+28° Le président de la Haute Autorité pour la transparence de la vie publique  ;
 
-29° Le président de la Commission nationale de l'informatique et des libertés ;
+29° Le président du Conseil supérieur de l'audiovisuel ;
 
-30° Le président de l'Autorité de la concurrence ;
+30° Le président de la Commission nationale de l'informatique et des libertés ;
 
-31° Le président de l'Autorité des marchés financiers ;
+31° Le président de l'Autorité de la concurrence ;
 
-32° Le recteur de l'académie de Paris, chancelier des universités de Paris ;
+32° Le président de l'Autorité des marchés financiers ;
 
-33° Les hauts-commissaires, commissaires généraux, commissaires, délégués généraux, délégués, secrétaires généraux, directeurs de cabinet, le directeur général de la gendarmerie nationale, les directeurs généraux et directeurs d'administration centrale dans l'ordre de préséance des ministères déterminé par l'ordre protocolaire du Gouvernement et, au sein de chaque ministère, dans l'ordre de préséance déterminé par leur fonction ou leur grade ;
+33° Le recteur de l'académie de Paris, chancelier des universités de Paris ;
 
-34° Le gouverneur de la Banque de France, le directeur général de la Caisse des dépôts et consignations ;
+34° Les hauts-commissaires, commissaires généraux, commissaires, délégués généraux, délégués, secrétaires généraux, directeurs de cabinet, le directeur général de la gendarmerie nationale, les directeurs généraux et directeurs d'administration centrale dans l'ordre de préséance des ministères déterminé par l'ordre protocolaire du Gouvernement et, au sein de chaque ministère, dans l'ordre de préséance déterminé par leur fonction ou leur grade ;
 
-35° Le président du tribunal administratif de Paris, le président du tribunal de grande instance de Paris et le procureur de la République près ce tribunal, le président de la chambre régionale des comptes d'Ile-de-France ;
+35° Le gouverneur de la Banque de France, le directeur général de la Caisse des dépôts et consignations ;
 
-36° Le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, directeur du cabinet du préfet de police, le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, secrétaire général de l'administration de la police, le préfet, secrétaire général de la zone de défense ;
+36° Le président du tribunal administratif de Paris, le président du tribunal de grande instance de Paris et le procureur de la République près ce tribunal, le président de la chambre régionale des comptes d'Ile-de-France ;
 
-37° Les membres du conseil de Paris, les membres du conseil régional d'Ile-de-France ;
+37° Le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, directeur du cabinet du préfet de police, le préfet, secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris, le préfet, secrétaire général de l'administration de la police, le préfet, secrétaire général de la zone de défense ;
 
-38° Le chef du contrôle général des armées, les généraux de division ayant rang et appellation de généraux d'armée, les vices-amiraux ayant rang et appellation d'amiraux, les généraux de division aérienne ayant rang et appellation de généraux d'armée aérienne, les généraux de division ayant rang et appellation de généraux de corps d'armée, les vice-amiraux ayant rang et appellation de vice-amiraux d'escadre, les généraux de division aérienne ayant rang et appellation de généraux de corps aérien ;
+38° Les membres du conseil de Paris, les membres du conseil régional d'Ile-de-France ;
 
-39° Les présidents des universités de Paris, les directeurs des grandes écoles nationales, les directeurs des grands établissements nationaux de recherche ;
+39° Le chef du contrôle général des armées, les généraux de division ayant rang et appellation de généraux d'armée, les vices-amiraux ayant rang et appellation d'amiraux, les généraux de division aérienne ayant rang et appellation de généraux d'armée aérienne, les généraux de division ayant rang et appellation de généraux de corps d'armée, les vice-amiraux ayant rang et appellation de vice-amiraux d'escadre, les généraux de division aérienne ayant rang et appellation de généraux de corps aérien ;
 
-40° Le président du tribunal de commerce de Paris ;
+40° Les présidents des universités de Paris, les directeurs des grandes écoles nationales, les directeurs des grands établissements nationaux de recherche ;
 
-41° Le président du conseil de prud'hommes de Paris ;
+41° Le président du tribunal de commerce de Paris ;
 
-42° Le secrétaire général de la ville de Paris ;
+42° Le président du conseil de prud'hommes de Paris ;
 
-43° Le directeur général des services administratifs de la région d'Ile-de-France ;
+43° Le secrétaire général de la ville de Paris ;
 
-44° Les présidents et secrétaires perpétuels des académies créées ou reconnues par une loi ou un décret ;
+44° Le directeur général des services administratifs de la région d'Ile-de-France ;
 
-45° Le président du Conseil économique, social et environnemental de la région d'Ile-de-France ;
+45° Les présidents et secrétaires perpétuels des académies créées ou reconnues par une loi ou un décret ;
 
-46° Les chefs des services déconcentrés de l'Etat dans la région d'Ile-de-France et dans le département de Paris dans l'ordre de préséance attribué au département ministériel dont ils relèvent et les directeurs généraux et directeurs de la préfecture de région, de la préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police ;
+46° Le président du Conseil économique, social et environnemental de la région d'Ile-de-France ;
 
-47° Le président de l'assemblée des chambres françaises de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers et de l'artisanat ;
+47° Les chefs des services déconcentrés de l'Etat dans la région d'Ile-de-France et dans le département de Paris dans l'ordre de préséance attribué au département ministériel dont ils relèvent et les directeurs généraux et directeurs de la préfecture de région, de la préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police ;
 
-48° Le président de la chambre de commerce et d'industrie de Paris, le président de la chambre régionale de commerce et d'industrie d'Ile-de-France ;
+48° Le président de l'assemblée des chambres françaises de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers et de l'artisanat ;
 
-49° Le président de la chambre régionale d'agriculture d'Ile-de-France, le président de la chambre interdépartementale d'agriculture d'Ile-de-France ;
+49° Le président de la chambre de commerce et d'industrie de Paris, le président de la chambre régionale de commerce et d'industrie d'Ile-de-France ;
 
-50° Le président de la chambre départementale de métiers de Paris ;
+50° Le président de la chambre régionale d'agriculture d'Ile-de-France, le président de la chambre interdépartementale d'agriculture d'Ile-de-France ;
 
-51° Le président du conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation ;
+51° Le président de la chambre départementale de métiers de Paris ;
 
-52° Le bâtonnier de l'ordre des avocats au barreau de Paris et le président de la conférence des bâtonniers ;
+52° Le président du conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation ;
 
-53° Les présidents des conseils nationaux des ordres professionnels ;
+53° Le bâtonnier de l'ordre des avocats au barreau de Paris et le président de la conférence des bâtonniers ;
 
-54° Les directeurs des services de la ville de Paris dans l'ordre de leur nomination ;
+54° Les présidents des conseils nationaux des ordres professionnels ;
 
-55° Les commissaires de police, les officiers de gendarmerie et les officiers de la brigade de sapeurs-pompiers de Paris ;
+55° Les directeurs des services de la ville de Paris dans l'ordre de leur nomination ;
 
-56° Le président de la Chambre nationale des avoués près les cours d'appel ;
+56° Les commissaires de police, les officiers de gendarmerie et les officiers de la brigade de sapeurs-pompiers de Paris ;
 
-57° Le président du Conseil supérieur du notariat ;
+57° Le président de la Chambre nationale des avoués près les cours d'appel ;
 
-58° Le président de la Chambre nationale des commissaires-priseurs judiciaires ;
+58° Le président du Conseil supérieur du notariat ;
 
-59° Le président de la Chambre nationale des huissiers de justice ;
+59° Le président de la Chambre nationale des commissaires-priseurs judiciaires ;
 
-60° Le président de la Compagnie nationale des commissaires aux comptes.
+60° Le président de la Chambre nationale des huissiers de justice ;
+
+61° Le président de la Compagnie nationale des commissaires aux comptes.
