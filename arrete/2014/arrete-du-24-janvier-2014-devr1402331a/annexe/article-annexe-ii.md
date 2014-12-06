@@ -93,47 +93,45 @@
 </td>
 <td>
 <p align="center">
-<br/>NESTLE France SAS</p>
+<br/>SAICA PAPER FRANCE</p>
+</td>
+<td>
+<p align="center">SAICA VENIZEL</p>
 </td>
 <td>
 <p align="center">
-<br/>NESTLE France - usine de Boué</p>
+<br/>59192</p>
+</td>
+<td>
+<br/>
+<p>58164</p>
 </td>
 <td>
 <p align="center">
-<br/>18 618</p>
+<br/>57123</p>
 </td>
 <td>
 <p align="center">
-<br/>16 661</p>
+<br/>56072</p>
 </td>
 <td>
 <p align="center">
-<br/>14 758</p>
+<br/>55010</p>
 </td>
 <td>
 <p align="center">
-<br/>12 912</p>
+<br/>53937</p>
 </td>
 <td>
 <p align="center">
-<br/>11 123</p>
+<br/>52851</p>
+</td>
+<td>
+<p align="center">51761</p>
 </td>
 <td>
 <p align="center">
-<br/>9 392</p>
-</td>
-<td>
-<p align="center">
-<br/>7 717</p>
-</td>
-<td>
-<p align="center">
-<br/>6 105</p>
-</td>
-<td>
-<p align="center">
-<br/>97 286</p>
+<br/>444110</p>
 </td>
 </tr>
 <tr>
@@ -1008,31 +1006,31 @@
 </td>
 <td>
 <p align="center">
-<br/>4 299 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>3 992 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>3 694 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>3 403 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>3 119 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 845 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>30 902</p>
+<br/>9 550</p>
 </td>
 </tr>
 <tr>
@@ -1441,7 +1439,7 @@
 </td>
 <td>
 <p align="center">
-<br/>COFELY GDF SUEZ</p>
+<br/>VSPU</p>
 </td>
 <td>
 <p align="center">
@@ -1895,7 +1893,7 @@
 </td>
 <td>
 <p align="center">
-<br/>SITPA - usine de Rosières</p>
+<br/>SITPA - Usine de Rosières</p>
 </td>
 <td>
 <p align="center">
@@ -1903,35 +1901,34 @@
 </td>
 <td>
 <p align="center">
-<br/>16 118 </p>
+<br/>22 123</p>
+</td>
+<td>
+<p align="center">21 727</p>
 </td>
 <td>
 <p align="center">
-<br/>14 277 </p>
+<br/>21 328</p>
 </td>
 <td>
 <p align="center">
-<br/>12 492 </p>
+<br/>20 924</p>
 </td>
 <td>
 <p align="center">
-<br/>10 761 </p>
+<br/>20 516</p>
 </td>
 <td>
 <p align="center">
-<br/>9 086 </p>
+<br/>20 102</p>
 </td>
 <td>
 <p align="center">
-<br/>7 466 </p>
+<br/>19 688</p>
 </td>
 <td>
 <p align="center">
-<br/>5 907 </p>
-</td>
-<td>
-<p align="center">
-<br/>94 119</p>
+<br/>164 420</p>
 </td>
 </tr>
 <tr>
@@ -2195,11 +2192,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Creil Energie, chaufferie de la ZUP Les Martinets </p>
+<br/>Creil Energie, Chaufferie de la ZUP "Les Martinets" </p>
 </td>
 <td>
 <p align="center">
-<br/>4 054 </p>
+<br/>4 308 </p>
 </td>
 <td>
 <p align="center">
@@ -2230,7 +2227,7 @@
 </td>
 <td>
 <p align="center">
-<br/>7 683</p>
+<br/>7 937</p>
 </td>
 </tr>
 <tr>
@@ -2940,11 +2937,11 @@
 </td>
 <td>
 <p align="center">
-<br/>ROLPIN</p>
+<br/>NP ROLPIN</p>
 </td>
 <td>
 <p align="center">
-<br/>ROLPIN (site de Labouheyre)</p>
+<br/>NP ROLPIN</p>
 </td>
 <td>
 <p align="center">
@@ -3581,56 +3578,6 @@
 <td>
 <p align="center">
 <br/>365 451</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>FR000000000000101</p>
-</td>
-<td>
-<p align="center">
-<br/>TOTAL E&amp;P France</p>
-</td>
-<td>
-<p align="center">
-<br/>TOTAL E&amp;P France</p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0</p>
 </td>
 </tr>
 <tr>
@@ -4752,35 +4699,33 @@
 </td>
 <td>
 <p align="center">
-<br/>15 047 </p>
+<br/>20 654</p>
 </td>
 <td>
 <p align="center">
-<br/>13 330 </p>
+<br/>20 285</p>
 </td>
 <td>
 <p align="center">
-<br/>11 662 </p>
+<br/>19 911 </p>
 </td>
 <td>
 <p align="center">
-<br/>10 046 </p>
+<br/>19 534</p>
 </td>
 <td>
 <p align="center">
-<br/>8 483 </p>
+<br/>19 153</p>
+</td>
+<td>
+<p align="center">18 768</p>
+</td>
+<td>
+<p align="center">18 381 </p>
 </td>
 <td>
 <p align="center">
-<br/>6 970 </p>
-</td>
-<td>
-<p align="center">
-<br/>5 514 </p>
-</td>
-<td>
-<p align="center">
-<br/>87 867</p>
+<br/>153 501</p>
 </td>
 </tr>
 <tr>
@@ -5006,31 +4951,31 @@
 </td>
 <td>
 <p align="center">
-<br/>3 977 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>3 480 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>3 001 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 535 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 086 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 652 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>26 236</p>
+<br/>9 505</p>
 </td>
 </tr>
 <tr>
@@ -5052,35 +4997,34 @@
 </td>
 <td>
 <p align="center">
-<br/>18 129 </p>
+<br/>22 251</p>
+</td>
+<td>
+<p align="center">21 706</p>
 </td>
 <td>
 <p align="center">
-<br/>16 590 </p>
+<br/>21 163</p>
 </td>
 <td>
 <p align="center">
-<br/>15 098 </p>
+<br/>20 621</p>
 </td>
 <td>
 <p align="center">
-<br/>13 643 </p>
+<br/>20 081</p>
 </td>
 <td>
 <p align="center">
-<br/>12 234 </p>
+<br/>19 541</p>
 </td>
 <td>
 <p align="center">
-<br/>10 864 </p>
+<br/>19 005</p>
 </td>
 <td>
 <p align="center">
-<br/>9 543 </p>
-</td>
-<td>
-<p align="center">
-<br/>115 805</p>
+<br/>164 072</p>
 </td>
 </tr>
 <tr>
@@ -5339,11 +5283,11 @@
 </td>
 <td>
 <p align="center">
-<br/>NORDEON ET TGI TUBE</p>
+<br/>MARVEL GLASS</p>
 </td>
 <td>
 <p align="center">
-<br/>NORDEON ET TGI TUBE</p>
+<br/>MARVEL GLASS</p>
 </td>
 <td>
 <p align="center">
@@ -5736,13 +5680,10 @@
 <p align="center">
 <br/>FR000000000000158</p>
 </td>
+<td>TOKAI RUBBER INDUSTRIE</td>
 <td>
 <p align="center">
-<br/>ANVIS France DECIZE SAS</p>
-</td>
-<td>
-<p align="center">
-<br/>ANVIS France Decize SAS</p>
+<br/>TOKAI RUBBER INDUSTRIE</p>
 </td>
 <td>
 <p align="center">
@@ -5988,11 +5929,11 @@
 </td>
 <td>
 <p align="center">
-<br/>CORIANCE</p>
+<br/>SODIEN</p>
 </td>
 <td>
 <p align="center">
-<br/>Chaufferie urbaine CORIANCE</p>
+<br/>Chaufferie Urbaine SODIEN</p>
 </td>
 <td>
 <p align="center">
@@ -6041,8 +5982,7 @@
 <br/>MONCIA</p>
 </td>
 <td>
-<p align="center">
-<br/>Chaufferie de LUCY II Montceau-les-Mines</p>
+<p align="center">MONCIA LUCY II Montceau-les-Mines</p>
 </td>
 <td>
 <p align="center">
@@ -6350,35 +6290,34 @@
 </td>
 <td>
 <p align="center">
-<br/>8 943 </p>
+<br/>10 782</p>
 </td>
 <td>
 <p align="center">
-<br/>8 230 </p>
+<br/>10 512</p>
+</td>
+<td>
+<p align="center">10 243 </p>
 </td>
 <td>
 <p align="center">
-<br/>7 536 </p>
+<br/>9 974</p>
 </td>
 <td>
 <p align="center">
-<br/>6 862 </p>
+<br/>9 707</p>
 </td>
 <td>
 <p align="center">
-<br/>6 205 </p>
+<br/>9 440</p>
 </td>
 <td>
 <p align="center">
-<br/>5 569 </p>
+<br/>9 175</p>
 </td>
 <td>
 <p align="center">
-<br/>4 952 </p>
-</td>
-<td>
-<p align="center">
-<br/>57 971</p>
+<br/>79 507</p>
 </td>
 </tr>
 <tr>
@@ -6400,35 +6339,35 @@
 </td>
 <td>
 <p align="center">
-<br/>12 122 </p>
+<br/>13 215</p>
 </td>
 <td>
 <p align="center">
-<br/>11 188 </p>
+<br/>12 551</p>
 </td>
 <td>
 <p align="center">
-<br/>10 280 </p>
+<br/>11 901</p>
 </td>
 <td>
 <p align="center">
-<br/>9 398 </p>
+<br/>11 264</p>
 </td>
 <td>
 <p align="center">
-<br/>8 539 </p>
+<br/>10 641</p>
 </td>
 <td>
 <p align="center">
-<br/>7 704 </p>
+<br/>10 031</p>
 </td>
 <td>
 <p align="center">
-<br/>6 897 </p>
+<br/>9 438</p>
 </td>
 <td>
 <p align="center">
-<br/>79 205</p>
+<br/>92 118</p>
 </td>
 </tr>
 <tr>
@@ -6698,35 +6637,34 @@
 </td>
 <td>
 <p align="center">
-<br/>12 919 </p>
+<br/>14 447</p>
 </td>
 <td>
 <p align="center">
-<br/>11 746 </p>
+<br/>13 650</p>
 </td>
 <td>
 <p align="center">
-<br/>10 605 </p>
+<br/>12 870</p>
 </td>
 <td>
 <p align="center">
-<br/>9 499 </p>
+<br/>12 109</p>
 </td>
 <td>
 <p align="center">
-<br/>8 426 </p>
+<br/>11 364</p>
 </td>
 <td>
 <p align="center">
-<br/>7 384 </p>
+<br/>10 637</p>
+</td>
+<td>
+<p align="center">9 930</p>
 </td>
 <td>
 <p align="center">
-<br/>6 379 </p>
-</td>
-<td>
-<p align="center">
-<br/>81 079</p>
+<br/>99 128</p>
 </td>
 </tr>
 <tr>
@@ -6748,35 +6686,35 @@
 </td>
 <td>
 <p align="center">
-<br/>18 324 </p>
+<br/>23 435</p>
 </td>
 <td>
 <p align="center">
-<br/>16 269 </p>
+<br/>22 609</p>
 </td>
 <td>
 <p align="center">
-<br/>14 276 </p>
+<br/>21 795</p>
 </td>
 <td>
 <p align="center">
-<br/>12 345 </p>
+<br/>20 991</p>
 </td>
 <td>
 <p align="center">
-<br/>10 475 </p>
+<br/>20 199</p>
 </td>
 <td>
 <p align="center">
-<br/>8 666 </p>
+<br/>19 416</p>
 </td>
 <td>
 <p align="center">
-<br/>6 923 </p>
+<br/>18 649</p>
 </td>
 <td>
 <p align="center">
-<br/>107 713</p>
+<br/>167 529</p>
 </td>
 </tr>
 <tr>
@@ -6836,11 +6774,11 @@
 </td>
 <td>
 <p align="center">
-<br/>SOCCRAM</p>
+<br/>ENERSUD</p>
 </td>
 <td>
 <p align="center">
-<br/>SOCCRAM chaufferie urbaine du Blosnes (ZUP Sud RENNES)</p>
+<br/>ENERSUD chaufferie urbaine du Blosnes (ZUP Sud RENNES)</p>
 </td>
 <td>
 <p align="center">
@@ -6948,35 +6886,32 @@
 </td>
 <td>
 <p align="center">
-<br/>13 064 </p>
+<br/>14 681</p>
+</td>
+<td>
+<p align="center">14 014</p>
+</td>
+<td>
+<p align="center">13 359</p>
 </td>
 <td>
 <p align="center">
-<br/>12 004 </p>
+<br/>12 717</p>
 </td>
 <td>
 <p align="center">
-<br/>10 976 </p>
+<br/>12 087</p>
 </td>
 <td>
 <p align="center">
-<br/>9 974 </p>
+<br/>11 469</p>
 </td>
 <td>
 <p align="center">
-<br/>9 001 </p>
+<br/>10 866</p>
 </td>
 <td>
-<p align="center">
-<br/>8 057 </p>
-</td>
-<td>
-<p align="center">
-<br/>7 145 </p>
-</td>
-<td>
-<p align="center">
-<br/>84 368</p>
+<p align="center">103 340</p>
 </td>
 </tr>
 <tr>
@@ -6998,35 +6933,33 @@
 </td>
 <td>
 <p align="center">
-<br/>19 468 </p>
+<br/>20 722</p>
 </td>
 <td>
 <p align="center">
-<br/>18 644 </p>
+<br/>20 210</p>
 </td>
 <td>
 <p align="center">
-<br/>17 835 </p>
+<br/>19 699</p>
+</td>
+<td>
+<p align="center">19 190</p>
 </td>
 <td>
 <p align="center">
-<br/>17 041 </p>
+<br/>18 682</p>
 </td>
 <td>
 <p align="center">
-<br/>16 261 </p>
+<br/>18 175</p>
+</td>
+<td>
+<p align="center">17 672</p>
 </td>
 <td>
 <p align="center">
-<br/>15 493 </p>
-</td>
-<td>
-<p align="center">
-<br/>14 744 </p>
-</td>
-<td>
-<p align="center">
-<br/>139 789</p>
+<br/>154 653</p>
 </td>
 </tr>
 <tr>
@@ -7102,31 +7035,31 @@
 </td>
 <td>
 <p align="center">
-<br/>2 511 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 198 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 893 </p>
+<br/>0 </p>
 </td>
 <td>
 <p align="center">
-<br/>1 599 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 313 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 039 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>16 557</p>
+<br/>6 004</p>
 </td>
 </tr>
 <tr>
@@ -7240,7 +7173,7 @@
 </td>
 <td>
 <p align="center">
-<br/>ADISSEO SAS </p>
+<br/>ADISSEO SAS site de Commentry</p>
 </td>
 <td>
 <p align="center">
@@ -7539,7 +7472,7 @@
 </td>
 <td>
 <p align="center">
-<br/>BOUYER LEROUX STRUCTURE SA POMEL</p>
+<br/>BOUYER LEROUX STRUCTURE SA POMEL site de Vergonghéon</p>
 </td>
 <td>
 <p align="center">
@@ -7589,7 +7522,7 @@
 </td>
 <td>
 <p align="center">
-<br/>Aubert et Duval</p>
+<br/>Aubert et Duval site des Ancizes</p>
 </td>
 <td>
 <p align="center">
@@ -7639,7 +7572,7 @@
 </td>
 <td>
 <p align="center">
-<br/>IDEX - TRELLEBORG INDUSTRIE SA</p>
+<br/>IDEX - TRELLEBORG INDUSTRIE SA Clermont-Ferrand</p>
 </td>
 <td>
 <p align="center">
@@ -7689,7 +7622,7 @@
 </td>
 <td>
 <p align="center">
-<br/>site de CATAROUX</p>
+<br/>MFP Michelin site de CATAROUX</p>
 </td>
 <td>
 <p align="center">
@@ -7739,7 +7672,7 @@
 </td>
 <td>
 <p align="center">
-<br/>MFPM MICHELIN LA COMBAUDE</p>
+<br/>MFPM MICHELIN site de LA COMBAUDE</p>
 </td>
 <td>
 <p align="center">
@@ -7784,12 +7717,11 @@
 <br/>FR000000000000210</p>
 </td>
 <td>
-<p align="center">
-<br/>Sucrerie de Bourdon</p>
+<p align="center">Cristal union</p>
 </td>
 <td>
 <p align="center">
-<br/>Sucrerie de Bourdon</p>
+<br/>Cristal union Sucrerie de Bourdon</p>
 </td>
 <td>
 <p align="center">
@@ -7935,7 +7867,7 @@
 </td>
 <td>
 <p align="center">
-<br/>PAPETERIE BANQUE de France</p>
+<br/>BANQUE DE France</p>
 </td>
 <td>
 <p align="center">
@@ -7989,7 +7921,7 @@
 </td>
 <td>
 <p align="center">
-<br/>SARVAL SUD EST</p>
+<br/>SARVAL SUD EST site de Bayet</p>
 </td>
 <td>
 <p align="center">
@@ -8135,7 +8067,7 @@
 </td>
 <td>
 <p align="center">
-<br/>MCCAIN Alimentaire</p>
+<br/>MC CAIN Alimentaire</p>
 </td>
 <td>
 <p align="center">
@@ -8147,35 +8079,31 @@
 </td>
 <td>
 <p align="center">
-<br/>19 350 </p>
+<br/>26 557</p>
+</td>
+<td>
+<p align="center">26 082</p>
+</td>
+<td>
+<p align="center">25 602</p>
 </td>
 <td>
 <p align="center">
-<br/>17 138 </p>
+<br/>25 117</p>
+</td>
+<td>
+<p align="center">24 627</p>
 </td>
 <td>
 <p align="center">
-<br/>14 995 </p>
+<br/>24 131</p>
+</td>
+<td>
+<p align="center">23 633</p>
 </td>
 <td>
 <p align="center">
-<br/>12 918 </p>
-</td>
-<td>
-<p align="center">
-<br/>10 907 </p>
-</td>
-<td>
-<p align="center">
-<br/>8 962 </p>
-</td>
-<td>
-<p align="center">
-<br/>7 090 </p>
-</td>
-<td>
-<p align="center">
-<br/>112 980</p>
+<br/>197 369</p>
 </td>
 </tr>
 <tr>
@@ -8385,11 +8313,11 @@
 </td>
 <td>
 <p align="center">
-<br/>DALKIA France</p>
+<br/>COFELY GDF SUEZ</p>
 </td>
 <td>
 <p align="center">
-<br/>DALKIA - CHAUFFERIE CENTRALE DU VERT-BOIS </p>
+<br/>COFELY- CHAUFFERIE CENTRALE DU VERT BOIS</p>
 </td>
 <td>
 <p align="center">
@@ -10050,32 +9978,30 @@
 <br/>428 444 </p>
 </td>
 <td>
-<p align="center">
-<br/>420 782 </p>
+<p align="center">0</p>
 </td>
 <td>
 <p align="center">
-<br/>413 040 </p>
+<br/>0</p>
+</td>
+<td>
+<p align="center">0</p>
 </td>
 <td>
 <p align="center">
-<br/>405 214 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>397 313 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>389 312 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>381 284 </p>
-</td>
-<td>
-<p align="center">
-<br/>3 271 406</p>
+<br/>864 461</p>
 </td>
 </tr>
 <tr>
@@ -10585,11 +10511,11 @@
 </td>
 <td>
 <p align="center">
-<br/>UPM-KYMMENE France Ets Chapelle-Darblay</p>
+<br/>UPM FRANCE</p>
 </td>
 <td>
 <p align="center">
-<br/>UPM-KYMMENE France Ets Chapelle-Darblay</p>
+<br/>UPM France Ets Chapelle Darblay</p>
 </td>
 <td>
 <p align="center">
@@ -10935,11 +10861,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Double A</p>
+<br/>DA Alizay</p>
 </td>
 <td>
 <p align="center">
-<br/>Double A</p>
+<br/>DA Alizay</p>
 </td>
 <td>
 <p align="center">
@@ -11185,11 +11111,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Michel Blin</p>
+<br/>Holophane</p>
 </td>
 <td>
 <p align="center">
-<br/>VERRE</p>
+<br/>Holophane</p>
 </td>
 <td>
 <p align="center">
@@ -11535,11 +11461,11 @@
 </td>
 <td>
 <p align="center">
-<br/>CORIANCE</p>
+<br/>MONT SAINT-AIGNAN ENERGIE VERTE</p>
 </td>
 <td>
 <p align="center">
-<br/>Chaufferie urbaine de Mont-Saint-Aignan, Mont-Saint-Aignan</p>
+<br/>Chaufferie urbaine de Mont-Saint-Aignan</p>
 </td>
 <td>
 <p align="center">
@@ -11585,11 +11511,11 @@
 </td>
 <td>
 <p align="center">
-<br/>NeoElectra du Rouvray</p>
+<br/>Taranis du Rouvray</p>
 </td>
 <td>
 <p align="center">
-<br/>NEOELECTRA DU ROUVRAY</p>
+<br/>Taranis du Rouvray</p>
 </td>
 <td>
 <p align="center">
@@ -12731,56 +12657,6 @@
 <tr>
 <td>
 <p align="center">
-<br/>FR000000000000328</p>
-</td>
-<td>
-<p align="center">
-<br/>FRANCHE-COMTE ENERGIES</p>
-</td>
-<td>
-<p align="center">
-<br/>DALKIA - FRANCHE-COMTE ENERGIES</p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
-</td>
-<td>
-<p align="center">
-<br/>0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
 <br/>FR000000000000329</p>
 </td>
 <td>
@@ -13735,11 +13611,11 @@
 </td>
 <td>
 <p align="center">
-<br/>ATEMAX Sud Est</p>
+<br/>ATEMAX France</p>
 </td>
 <td>
 <p align="center">
-<br/>ATEMAX Sud Est</p>
+<br/>ATEMAX France</p>
 </td>
 <td>
 <p align="center">
@@ -14139,7 +14015,7 @@
 </td>
 <td>
 <p align="center">
-<br/>Stockage souterrain de TERSANNE</p>
+<br/>Stockage Souterrain de TERSANNE</p>
 </td>
 <td>
 <p align="center">
@@ -14150,32 +14026,31 @@
 <br/>3 445 </p>
 </td>
 <td>
-<p align="center">
-<br/>3 052 </p>
+<p align="center">0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 670 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>2 300 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 942 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>1 596 </p>
+<br/>0 </p>
 </td>
 <td>
 <p align="center">
-<br/>1 262 </p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>20 116</p>
+<br/>7 294</p>
 </td>
 </tr>
 <tr>

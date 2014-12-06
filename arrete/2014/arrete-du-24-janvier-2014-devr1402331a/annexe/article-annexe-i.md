@@ -11,14 +11,6 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </th>
 </tr>
 <tr>
-<td align="center">FR000000000000143<br/>
-</td>
-<td align="center">E.ON<br/>
-</td>
-<td align="center">E.ON ― Centrale de LUCY<br/>
-</td>
-</tr>
-<tr>
 <td align="center">FR000000000000171<br/>
 </td>
 <td align="center">Electricité de France <br/>
@@ -117,10 +109,10 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td>FR000000000000791</td>
 <td>
-<p align="center"> Electricité de France </p>
+<p align="center">Electricité de France </p>
 </td>
 <td>
-<p align="center"> EDF Centrale d'ARAMON</p>
+<p align="center">EDF Centrale d'ARAMON</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +182,7 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR000000000001040<br/>
 </td>
-<td align="center">EDF Corse<br/>
+<td align="center">EDF SEI<br/>
 </td>
 <td align="center">EDF Corse Centrale du Vazzio<br/>
 </td>
@@ -198,7 +190,7 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR000000000001041<br/>
 </td>
-<td align="center">EDF Corse<br/>
+<td align="center">EDF SEI<br/>
 </td>
 <td align="center">EDF SEI Centrale de Lucciana<br/>
 </td>
@@ -254,7 +246,8 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR000000000001114<br/>
 </td>
-<td align="center">EDF PEI<br/>
+<td align="center">EDF SEI<br/>
+<br/>
 </td>
 <td align="center">EDF Pointe des Carrières<br/>
 </td>
@@ -262,8 +255,9 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR000000000001116<br/>
 </td>
-<td align="center">EDF Production électrique insulaire SAS</td>
-<td align="center">EDF Production électrique insulaire SAS - Etablissement de Bellefontaine</td>
+<td align="center">EDF SEI<br/>
+</td>
+<td align="center">EDF SEI centrale de BELLEFONTAINE</td>
 </tr>
 <tr>
 <td align="center">FR000000000001133<br/>
@@ -340,17 +334,42 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR-New-06208313<br/>
 </td>
-<td align="center">POWEO <br/>
+<td align="center">TOUL POWER SAS<br/>
 </td>
-<td align="center">POWEO TOUL PRODUCTION Centrale électrique<br/>
-</td>
+<td align="center">TOUL POWER SAS, centrale électrique de Toul</td>
 </tr>
 <tr>
 <td align="center">FR-New-06900399 <br/>
 </td>
-<td align="center">CARAÏBES ÉNERGIE<br/>
+<td align="center">
+<p align="center">ALBIOMA CARAÏBES<br/>
+<br/>
+</p>
 </td>
-<td align="center">CARAÏBES ÉNERGIE<br/>
+<td align="center">
+<p align="center">ALBIOMA CARAÏBES</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> FR-new6900563</p>
+</td>
+<td>
+<p align="center"> EDF PEI</p>
+</td>
+<td>
+<p align="center"> EDF PEI centrale de Pointe Jarry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> FR-New-06900568</p>
+</td>
+<td>
+<p align="center">  EDF PEI</p>
+</td>
+<td>
+<p align="center"> EDF PEI centrale de Bellefontaine</p>
 </td>
 </tr>
 <tr>
@@ -366,16 +385,14 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 <td align="center">EDF PEI<br/>
 </td>
-<td align="center">EDF PEI Port Est<br/>
+<td align="center">EDF PEI centrale de Port Est<br/>
 </td>
 </tr>
 <tr>
 <td align="center">FR-new-07300368<br/>
 </td>
-<td align="center">EDF PEI Haute-Corse<br/>
-</td>
-<td align="center">EDF Production Electrique Insulaire ― Etablissement de Haute-Corse<br/>
-</td>
+<td align="center">EDF PEI </td>
+<td align="center">EDF PEI centrale de Haute-Corse</td>
 </tr>
 <tr>
 <td align="center">FR-new-07404411<br/>
@@ -386,21 +403,21 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td> FR-new-40000003</td>
+<td>FR-new40000003</td>
 <td>
-<p align="center"> Electricité de Mayotte </p>
+<p align="center">Electricité de Mayotte </p>
 </td>
 <td>
-<p align="center"> EDM Centrale de Badamiers</p>
+<p align="center">EDM Centrale de Badamiers</p>
 </td>
 </tr>
 <tr>
-<td> FR-new-40000024</td>
+<td>FR-new40000024</td>
 <td>
-<p align="center"> Electricité de Mayotte </p>
+<p align="center">Electricité de Mayotte </p>
 </td>
 <td>
-<p align="center"> EDM Centrale de Longoni</p>
+<p align="center">EDM Centrale de Longoni</p>
 </td>
 </tr>
 </tbody>
