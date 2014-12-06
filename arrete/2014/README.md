@@ -1545,7 +1545,6 @@
 - [Arrêté du 20 janvier 2014 (PMEI1332106A)](arrete-du-20-janvier-2014-pmei1332106a)
 - [Arrêté du 20 juin 2013 (INTD1312148A)](arrete-du-20-juin-2013-intd1312148a)
 - [Arrêté du 20 juin 2013 (PRMR1316192A)](arrete-du-20-juin-2013-prmr1316192a)
-- [ARRÊTÉ du 20 juin 2014 (AGRT1413722A)](arrete-du-20-juin-2014-agrt1413722a)
 - [ARRÊTÉ du 20 juin 2014 (INTJ1413982A)](arrete-du-20-juin-2014-intj1413982a)
 - [ARRÊTÉ du 20 juin 2014 (MENE1414778A)](arrete-du-20-juin-2014-mene1414778a)
 - [Arrêté du 20 mars 2007 (EQUM0700481A)](arrete-du-20-mars-2007-equm0700481a)
