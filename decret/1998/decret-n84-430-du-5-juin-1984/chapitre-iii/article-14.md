@@ -1,10 +1,10 @@
 # Article 14
 
-Des commissions scientifiques représentatives d'un secteur de la recherche participent à l'évaluation des travaux et des programmes dans leur domaine de compétence sans préjudice des dispositions des articles 11, 13 et 14 du décret n° 2006-1334 du 3 novembre 2006 relatif à l'organisation et au fonctionnement de l'Agence d'évaluation de la recherche et de l'enseignement supérieur.
+Des commissions scientifiques représentatives d'un secteur de la recherche participent à l'évaluation des travaux et des programmes dans leur domaine de compétence sans préjudice des dispositions des articles 11,13 et 14 du décret n° 2006-1334 du 3 novembre 2006 relatif à l'organisation et au fonctionnement de l'Agence d'évaluation de la recherche et de l'enseignement supérieur.
 
 Elles contribuent à la réflexion du conseil scientifique sur la politique scientifique de l'institut.
 
-Ces commissions scientifiques sectorielles sont consultées, dans leur domaine de compétence, sur la création, la modification ou la suppression des unités de recherche de l'institut et la nomination de leurs directeurs.
+Ces commissions scientifiques sectorielles sont consultées, dans leur domaine de compétence, sur la création, la modification ou la suppression des unités de recherche de l'institut et la nomination de leurs directeurs. Le conseil d'administration peut décider de confier l'organisation des évaluations des unités de recherche à l'instance mentionnée à l'article L. 114-3-1 du code de la recherche dans les conditions prévues au 2° de cet article, ou demander à cette instance de s'assurer de la qualité des évaluations conduites par ces commissions en validant la procédure qu'elles proposent.
 
 Elles donnent leur avis sur toute question qui leur est soumise par le président de l'institut.
 

@@ -1,6 +1,6 @@
 # Article 15
 
-Une ou des commissions de gestion de la recherche et de ses applications participent à l'évaluation des activités techniques, administratives et de transfert de l'institut sans préjudice des dispositions des articles 11, 13 et 14 du décret n° 2006-1334 du 3 novembre 2006 relatif à l'organisation et au fonctionnement de l'Agence d'évaluation de la recherche et de l'enseignement supérieur. Elles sont créées par le conseil d'administration sur proposition du président de l'institut, après avis du conseil scientifique.
+Une ou des commissions de gestion de la recherche et de ses applications participent à l'évaluation des activités techniques, administratives et de transfert de l'institut. Elles sont créées par le conseil d'administration sur proposition du président de l'institut, après avis du conseil scientifique.
 
 Elles ont, dans leur domaine de compétence, les mêmes attributions que les commissions scientifiques sectorielles.
 

@@ -2,7 +2,7 @@
 
 Le président de l'institut est responsable de la politique générale de l'institut. Il en assure la direction scientifique, administrative et financière, il gère le personnel.
 
-Le président de l'institut est nommé pour quatre ans par décret en conseil des ministres, sur proposition du ministre chargé de la recherche et du ministre chargé de la coopération et du développement. Ses fonctions sont renouvelables une fois.
+Le président de l'institut est nommé pour quatre ans par décret en conseil des ministres, sur proposition du ministre chargé de la recherche et du ministre chargé de la coopération et du développement. Ses fonctions sont renouvelables une fois. Cette nomination intervient après un appel public à candidatures établi sous forme d'avis par le ministre chargé de la recherche, publié au Journal officiel, et l'examen de ces candidatures par une commission dont la composition et le fonctionnement sont fixés à l'article 9.
 
 II assure, en liaison avec les départements ministériels concernés, les relations de l'établissement avec les partenaires nationaux et étrangers ainsi qu'avec les organisations internationales intervenant dans son domaine d'activité.
 
