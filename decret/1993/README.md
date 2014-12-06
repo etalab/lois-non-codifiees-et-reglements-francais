@@ -728,7 +728,6 @@
 - [Décret n°93-589 du 27 mars 1993 (ECOT9326069D)](decret-n93-589-du-27-mars-1993-ecot9326069d)
 - [Décret n°93-590 du 27 mars 1993 (ECOT9326078D)](decret-n93-590-du-27-mars-1993-ecot9326078d)
 - [Décret n°93-591 du 27 mars 1993 (COMK9206002D)](decret-n93-591-du-27-mars-1993-comk9206002d)
-- [Décret n°93-600 du 27 mars 1993 (AGRA9300225D)](decret-n93-600-du-27-mars-1993-agra9300225d)
 - [Décret n°93-601 du 27 mars 1993 (AGRS9300324D)](decret-n93-601-du-27-mars-1993-agrs9300324d)
 - [Décret n°93-602 du 27 mars 1993 (AGRE9300177D)](decret-n93-602-du-27-mars-1993-agre9300177d)
 - [Décret n°93-603 du 27 mars 1993 (AGRA9300487D)](decret-n93-603-du-27-mars-1993-agra9300487d)
