@@ -17,8 +17,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du bureau de la chimie de la sous-direction de l'industrie de santé, de la chimie et des nouveaux matériaux à la direction générale de la compétitivité, de l'industrie et des services. <br/>
-</p>
+<p align="left">Chef du bureau de la chimie de la sous-direction de l'industrie de santé, de la chimie et des nouveaux matériaux à la direction générale de la compétitivité, de l'industrie et des services. (Supprimé le 1er mai 2014) </p>
 </td>
 </tr>
 <tr>
@@ -49,14 +48,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Alsace. <br/>
-</p>
+<p align="left">Secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Alsace. (Supprimé le 4 novembre 2014)  </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service développement des entreprises et des compétences au sein du pôle entreprises, emploi et économie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Aquitaine. <br/>
-</p>
+<p align="left">Chef du service développement des entreprises et des compétences au sein du pôle entreprises, emploi et économie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Aquitaine. (Supprimé le 4 février 2014) </p>
 </td>
 </tr>
 <tr>
@@ -101,6 +98,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
+<td>Chef du Centre national de réception des véhicules, adjoint au chef du service énergie, climat et véhicules à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France (Ajouté le 15 novembre 2014) </td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Chef du service compétitivité et innovation au sein du pôle entreprises, emploi et économie de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi des Pays de la Loire. <br/>
 </p>
@@ -119,7 +119,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux. </p>
+<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux. (Supprimé le 1er avril 2015) </p>
 </td>
 </tr>
 <tr>
@@ -140,6 +140,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <tr>
 <td align="left" valign="top">
 <p align="left">Chef de la division de Nantes de l'Autorité de sûreté nucléaire. </p>
+</td>
+</tr>
+<tr>
+<td>Chef de cabinet du collège de l'Autorité de sûreté nucléaire (Ajouté le 1er septembre 2014)  <br/>
 </td>
 </tr>
 <tr>
@@ -182,8 +186,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef de la mission expertise et animation à l'Autorité de sûreté nucléaire. <br/>
-</p>
+<p align="left">Adjoint au chef de la mission expertise et animation à l'Autorité de sûreté nucléaire. (Supprimé le 1er septembre 2014) </p>
 </td>
 </tr>
 <tr>
@@ -235,6 +238,9 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
+<td>Adjoint au chef du bureau du pilotage des corps techniques à la direction générale des entreprises (Ajouté le 1er janvier 2015)</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale du Bas-Rhin à la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace. <br/>
 </p>
@@ -250,6 +256,11 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <td align="left" valign="top">
 <p align="left">Chef de l'unité territoriale de la Gironde à la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine. (Ajouté le 1er janvier 2015)</p>
 </td>
 </tr>
 <tr>
@@ -277,8 +288,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne. <br/>
-</p>
+<p align="left">Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne.  (Supprimé le 1er décembre 2014) </p>
 </td>
 </tr>
 <tr>
@@ -564,7 +574,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. </p>
+<p align="left">Chef de l'unité sécurité des ouvrages hydrauliques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes. (Supprimé le 19 juillet 2014) </p>
 </td>
 </tr>
 <tr>
