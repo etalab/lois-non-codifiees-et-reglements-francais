@@ -96,4 +96,8 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 -restructuration des unités territoriales Grand Amiénois, Santerre Haute Somme et Picardie maritime de la direction départementale des territoires et de la mer de la Somme ;
 
--restructuration des divisions territoriales Ouest, Centre-Est et du Vignoble et Grandlieu de la direction départementale des territoires et de la mer de la Loire-Atlantique.
+-restructuration des divisions territoriales Ouest, Centre-Est et du Vignoble et Grandlieu de la direction départementale des territoires et de la mer de la Loire-Atlantique ;
+
+-fermeture de l'unité d'ingénierie d'Oloron-Sainte-Marie de la direction départementale des territoires et de la mer des Pyrénées-Atlantiques ;
+
+-fermeture des antennes de Châtillon-sur-Seine, Saulieu, Is-sur-Tille et Auxonne de la direction départementale des territoires de la Côte-d'Or.
