@@ -589,7 +589,6 @@
 - [Arrêté du 8 novembre 2010 (SASF1028837A)](arrete-du-8-novembre-2010-sasf1028837a)
 - [Arrêté du 8 novembre 2010 (SPOF1028834A)](arrete-du-8-novembre-2010-spof1028834a)
 - [Arrêté du 8 novembre 2011 (AGRE1130519A)](arrete-du-8-novembre-2011-agre1130519a)
-- [Arrêté du 8 novembre 2011 (AGRS1129085A)](arrete-du-8-novembre-2011-agrs1129085a)
 - [Arrêté du 8 novembre 2011 (COTB1118917A)](arrete-du-8-novembre-2011-cotb1118917a)
 - [Arrêté du 8 novembre 2011 (COTB1118924A)](arrete-du-8-novembre-2011-cotb1118924a)
 - [Arrêté du 8 novembre 2011 (COTB1118925A)](arrete-du-8-novembre-2011-cotb1118925a)
