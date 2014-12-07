@@ -69,6 +69,7 @@
 - [DÉCRET n°2014-1325 du 4 novembre 2014 (MENH1417127D)](decret-n2014-1325-du-4-novembre-2014-menh1417127d)
 - [DÉCRET n°2014-1439 du 4 décembre 2014 (PRMX1425447D)](decret-n2014-1439-du-4-decembre-2014-prmx1425447d)
 - [DÉCRET n°2014-1440 du 4 décembre 2014 (DEVK1324515D)](decret-n2014-1440-du-4-decembre-2014-devk1324515d)
+- [DÉCRET n°2014-1452 du 4 décembre 2014 (VJSV1419489D)](decret-n2014-1452-du-4-decembre-2014-vjsv1419489d)
 - [Décret n°2014-292 du 4 mars 2014 (INTJ1315429D)](decret-n2014-292-du-4-mars-2014-intj1315429d)
 - [Décret n°2014-578 du 4 juin 2014 (AGRX1407412D)](decret-n2014-578-du-4-juin-2014-agrx1407412d)
 - [Décret n°2014-579 du 4 juin 2014 (AGRS1324549D)](decret-n2014-579-du-4-juin-2014-agrs1324549d)
