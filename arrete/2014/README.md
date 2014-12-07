@@ -546,6 +546,7 @@
 - [ARRÊTÉ du 8 juillet 2014 (PRMX1416209A)](arrete-du-8-juillet-2014-prmx1416209a)
 - [ARRÊTÉ du 8 juillet 2014 (PRMX1417855A)](arrete-du-8-juillet-2014-prmx1417855a)
 - [ARRÊTÉ du 8 juillet 2014 (PRMX1417856A)](arrete-du-8-juillet-2014-prmx1417856a)
+- [Arrêté du 8 novembre 2011 (AGRS1129085A)](arrete-du-8-novembre-2011-agrs1129085a)
 - [ARRÊTÉ du 8 octobre 2014 (AGRT1416488A)](arrete-du-8-octobre-2014-agrt1416488a)
 - [ARRÊTÉ du 8 octobre 2014 (DEFH1424172A)](arrete-du-8-octobre-2014-defh1424172a)
 - [ARRÊTÉ du 8 octobre 2014 (DEFH1424174A)](arrete-du-8-octobre-2014-defh1424174a)
