@@ -1,3 +1,0 @@
-# CHAPITRE III : LA FORMATION DOCTORALE
-
-- [Article 26](article-26.md)

@@ -1,3 +1,0 @@
-# CHAPITRE III : ADMISSION EN FORMATION DOCTORALE
-
-- [Article 14](article-14.md)
