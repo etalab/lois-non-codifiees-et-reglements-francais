@@ -32,8 +32,6 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau du dialogue social à la direction des ressources humaines de la direction générale de l'armement ;
 
-- chef de la division mobilité et dialogue social au centre ministériel de gestion de Lyon ;
-
 - adjoint au directeur du centre ministériel de gestion de Saint-Germain-en-Laye ;
 
 - directeur du pôle des sépultures de guerre et hauts lieux de mémoire nationale à l'Office national des anciens combattants et victimes de guerre ;
