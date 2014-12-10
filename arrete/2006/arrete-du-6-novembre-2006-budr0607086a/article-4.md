@@ -4,8 +4,8 @@ Des liaisons informatisées sont mises en place avec :
 
 - l'application REC ;
 
-- l'application annuaire DGCP ;
+- l'application COMPAS ;
 
-- l'application annuaire DGI ;
+- les annuaires de la direction générale des finances publiques ;
 
 - la Banque de France.

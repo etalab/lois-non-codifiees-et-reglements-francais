@@ -32,38 +32,32 @@ Numéro du contrat et numéro de l'avenant le cas échéant (numéro séquentiel
 
 Mode de paiement ;
 
-RIB ;
+Coordonnées bancaires (identification du titulaire du compte, références du compte) ;
 
 Date du prélèvement ;
 
-Montant du prélèvement.
+Montant du prélèvement ;
+
+Référence du mandat de prélèvement.
 
 La durée de conservation des informations dépend de la durée de vie du délai : aussi longtemps que la dette n'est pas soldée ou que le contribuable n'est pas exclu du bénéfice des délais de paiement.
 
 Les dossiers soldés ou clos pour exclusion du dispositif sont conservés dans la base jusqu'au 31 décembre N + 1 suivant l'année de clôture et deux ans sur support d'archivage.
 
-2. Les créations et modifications de dossiers dans SISPEO effectuées par les agents de la direction générale des impôts habilités et les agents de la direction générale de la comptabilité publique habilités font l'objet d'une historisation qui se traduit par la conservation, dans l'application, de la date et de la nature des modifications. Celles-ci sont conservées jusqu'au 31 décembre N + 1 de l'année qui suit la clôture d'un dossier.
+2. Les créations et modifications de dossiers dans SISPEO effectuées par les agents habilités de la direction générale des finances publiques  font l'objet d'une historisation qui se traduit par la conservation, dans l'application, de la date et de la nature des modifications. Celles-ci sont conservées jusqu'au 31 décembre N + 1 de l'année qui suit la clôture d'un dossier.
 
-3. Pour l'habilitation des utilisateurs DGCP :
+3. Pour l'habilitation des utilisateurs, les données pouvant être utilisées en fonction de leurs attributions sont :
 
 Identification des utilisateurs et leur profil ;
 
 Date de début et de fin d'activation du profil ;
 
-Poste(s) comptable(s) de rattachement ;
+Structure de rattachement ;
 
 Code état (utilisateur interne) ;
 
 Fonction, grade ;
 
 Date de début et fin d'habilitation de l'utilisateur.
-
-Ces informations sont conservées tant que l'agent est en service et est habilité à consulter l'application SISPEO.
-
-4. Pour l'habilitation des utilisateurs DGI :
-
-Identification des utilisateurs ;
-
-Code structure.
 
 Ces informations sont conservées tant que l'agent est en service et est habilité à consulter l'application SISPEO.
