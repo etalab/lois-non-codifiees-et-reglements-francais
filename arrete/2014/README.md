@@ -1352,7 +1352,6 @@
 - [ARRÊTÉ du 17 octobre 2014 (EINP1424976A)](arrete-du-17-octobre-2014-einp1424976a)
 - [ARRÊTÉ du 17 octobre 2014 (INTJ1424278A)](arrete-du-17-octobre-2014-intj1424278a)
 - [Arrêté du 17 septembre 2013 (DEVA1322862A)](arrete-du-17-septembre-2013-deva1322862a)
-- [ARRÊTÉ du 17 septembre 2014 (DEFH1421547A)](arrete-du-17-septembre-2014-defh1421547a)
 - [ARRÊTÉ du 17 septembre 2014 (INTA1421023A)](arrete-du-17-septembre-2014-inta1421023a)
 - [ARRÊTÉ du 17 septembre 2014 (INTA1421024A)](arrete-du-17-septembre-2014-inta1421024a)
 - [ARRÊTÉ du 17 septembre 2014 (INTA1421686A)](arrete-du-17-septembre-2014-inta1421686a)
