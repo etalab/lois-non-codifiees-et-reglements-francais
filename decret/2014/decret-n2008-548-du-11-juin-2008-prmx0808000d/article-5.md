@@ -1,0 +1,3 @@
+# Article 5
+
+Sont définies d'un commun accord par le président de la commission et chacun des chefs de service des inspections générales des finances, de l'administration, des affaires sociales, du contrôle général économique et financier et le vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux les conditions dans lesquelles la commission reçoit le concours d'autres membres de ces services d'inspection et de contrôle ainsi que du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, notamment la durée, l'objet, l'organisation de leur mission auprès de la commission.
