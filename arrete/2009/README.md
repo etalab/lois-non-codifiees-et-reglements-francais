@@ -2268,7 +2268,6 @@
 - [Arrêté du 26 mai 2009 (JUSA0911824A)](arrete-du-26-mai-2009-jusa0911824a)
 - [Arrêté du 26 mai 2009 (MTSS0911937A)](arrete-du-26-mai-2009-mtss0911937a)
 - [Arrêté du 26 mai 2009 (MTSS0911963A)](arrete-du-26-mai-2009-mtss0911963a)
-- [Arrêté du 27 août 2009 (BCFL0914998A)](arrete-du-27-aout-2009-bcfl0914998a)
 - [Arrêté du 27 août 2009 (DEFD0922691A)](arrete-du-27-aout-2009-defd0922691a)
 - [Arrêté du 27 août 2009 (DEFD0922722A)](arrete-du-27-aout-2009-defd0922722a)
 - [Arrêté du 27 août 2009 (DEFD0922883A)](arrete-du-27-aout-2009-defd0922883a)
