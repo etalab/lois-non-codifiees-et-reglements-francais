@@ -1,5 +1,0 @@
-# Article 7
-
-Le président de la commission adresse au secrétaire général des affaires européennes, aux ministres et aux autorités de gestion, de paiement et de certification concernés les rapports et avis de conformité sur les descriptions de système de gestion et de contrôle, les rapports annuels de contrôle et les avis annuels, les déclarations de clôture ainsi que les rapports d'audit de système, le résumé des audits et déclarations disponibles et les recommandations.
-
-Le président de la commission transmet au secrétaire général des affaires européennes, pour envoi à la Commission européenne, les rapports et avis de conformité sur les descriptions de systèmes de gestion et de contrôle, les rapports annuels de contrôle et les avis annuels, les déclarations de clôture, le résumé des audits et déclarations disponibles ainsi que tout document destiné à cette autorité. Les rapports sont également transmis, par l'intermédiaire du secrétaire général des affaires européennes, au premier président de la Cour des comptes qui les communique à la Cour des comptes européenne.
