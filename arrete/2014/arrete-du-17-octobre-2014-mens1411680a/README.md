@@ -1,4 +1,4 @@
-# Décret n° 2008-548 du 11 juin 2008 relatif à la commission interministérielle de coordination des contrôles - autorité d'audit pour les fonds européens en France
+# Arrêté du 17 octobre 2014 relatif à l'admission en première année dans certaines écoles d'ingénieurs
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,5 +8,8 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article Annexe](article-annexe.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
