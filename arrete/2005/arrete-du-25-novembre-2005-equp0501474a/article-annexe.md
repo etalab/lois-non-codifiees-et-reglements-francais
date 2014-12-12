@@ -1,12 +1,10 @@
 # Article Annexe
 
-RÉDACTION D'UNE NOTE DE SYNTHÈSE
+RÉDACTION D'UNE NOTE DE PROBLÉMATIQUE
 
-SE RAPPORTANT À UN SUJET DE PORTÉE GÉNÉRALE SUIVIE D'UN COMMENTAIRE
+Cette épreuve est destinée à apprécier les qualités rédactionnelles du ou de la candidate, sa capacité de raisonnement et à comprendre des textes juridiques et/ou techniques. La note de problématique doit permettre de juger les qualités de réflexions des candidat(e)s.
 
-Sur un sujet donné, les candidats disposeront de plusieurs documents (textes réglementaires, articles de presse, éléments d'information divers...).
-
-Cette épreuve est destinée à apprécier les facultés d'analyse et de synthèse des candidat(e)s, leurs qualités d'expression et leur aptitude au raisonnement. Le commentaire doit permettre de juger les qualités de réflexion et les connaissances générales des candidat(e)s.
+L'épreuve consiste en la rédaction d'une note de problématique prenant appui sur plusieurs documents fournis au candidat (textes réglementaires, articles de presse, éléments d'information divers). Le (ou la) candidat(e) pourra, le cas échéant, être amené(e) à proposer des solutions et à les argumenter.
 
 ÉPREUVES DE MATHÉMATIQUES ET DE SCIENCES PHYSIQUES
 
