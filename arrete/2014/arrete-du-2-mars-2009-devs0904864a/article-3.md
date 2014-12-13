@@ -1,6 +1,6 @@
 # Article 3
 
-Les produits de construction de type dispositifs de retenue permanents des véhicules ne peuvent être mis en service sur les voies du domaine public routier, au sens de l'article L. 111-1 du code de la voirie routière, que s'ils sont marqués CE (conformément au règlement [UE] n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011) et respectent les performances appropriées à l'utilisation sur les types de routes ou d'ouvrages sur lesquels ces équipements sont installés.
+Tous les dispositifs de retenue permanents de véhicules, qualifiés de produits de construction, ne peuvent être mis en service sur les voies du domaine public routier, au sens de l'article L. 111-1 du code de la voirie routière, que s'ils sont marqués CE (conformément au règlement [UE] n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011).
 
 Par dérogation à l'alinéa précédent, les dispositions de l'article 9 du présent arrêté s'appliquent aux éléments de dispositifs de retenue routiers non soumis au marquage CE en l'absence de normes harmonisées au titre du règlement des produits de construction.
 

@@ -54,7 +54,7 @@ Les réparations des produits marqués CE devront être effectuées à l'identiq
 
 Les réparations des produits non marqués CE devront être effectuées à l'identique ou pourront faire l'objet d'une mise en conformité avec un produit CE.
 
-En section courante, sont distinguées les réparations de petits linéaires de barrière de sécurité lorsque la section est de longueur inférieure ou égale à 200 mètres, des réparations de longueur supérieure :
+En section courante et sur ouvrages d'art, sont distinguées les réparations de petits linéaires de barrière de sécurité lorsque la section est de longueur inférieure ou égale à 200 mètres, des réparations de longueur supérieure :
 
 -dans le premier cas, lorsque la section des composants endommagés est de longueur inférieure ou égale à 200 mètres, par exception aux règles d'application du marquage CE, les composants endommagés peuvent être remplacés par des pièces identiques. Dans le cas d'une réparation à l'identique d'un dispositif de retenue non marqué CE, les pièces de remplacement doivent alors être conformes aux caractéristiques descriptives de la pièce endommagée fixées par les normes françaises. La certification de conformité de ces pièces de réparation par la marque NF correspondante ou toute autre marque d'attestation de conformité présentant des garanties de sécurité équivalente est exigée ;
 
