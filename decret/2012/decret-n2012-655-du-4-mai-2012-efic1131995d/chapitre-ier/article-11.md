@@ -4,7 +4,7 @@ Les mentions relatives à la fermentation, à l'élevage et au vieillissement de
 
 Pour les vins de liqueur, les qualificatifs : « vieux », « très vieux » et « extravieux » sont réservés aux vins de liqueur bénéficiant d'une appellation d'origine protégée pour lesquels ces termes sont définis dans leur cahier des charges.
 
-La mention : « blanc de blanc » ou « blanc de blancs » est réservée aux produits vitivinicoles mentionnés aux 1 à 11, 13, 15 et 16 de l'annexe XI ter du règlement du 22 octobre 2007 susvisé, produits en France et issus de la fermentation exclusive de jus de raisins blancs.
+La mention : « blanc de blanc » ou « blanc de blancs » est réservée aux produits vitivinicoles mentionnés aux 1 à 11,13,15 et 16 de           l'annexe VII, partie II, du règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil, produits en France et issus de la fermentation exclusive de jus de raisins blancs.
 
 L'indication de l'année de récolte est obligatoire dans l'étiquetage des vins comportant le qualificatif : « primeur » ou « nouveau ». La taille des caractères de l'indication du millésime est au moins équivalente à celle des mentions : « nouveau » ou « primeur ».
 

@@ -695,7 +695,6 @@
 - [Décret n°93-1024 du 27 août 1993 (SPSS9302212D)](decret-n93-1024-du-27-aout-1993-spss9302212d)
 - [Décret n°93-1039 du 27 août 1993 (LOGC9300017D)](decret-n93-1039-du-27-aout-1993-logc9300017d)
 - [Décret n°93-1120 du 27 septembre 1993 (SPSS9302237D)](decret-n93-1120-du-27-septembre-1993-spss9302237d)
-- [Décret n°93-1130 du 27 septembre 1993 (ECOC9300111D)](decret-n93-1130-du-27-septembre-1993-ecoc9300111d)
 - [Décret n°93-115 du 27 janvier 1993 (JUSC9220874D)](decret-n93-115-du-27-janvier-1993-jusc9220874d)
 - [Décret n°93-1192 du 27 octobre 1993 (SPSN9302766D)](decret-n93-1192-du-27-octobre-1993-spsn9302766d)
 - [Décret n°93-1207 du 27 octobre 1993 (COPC9300021D)](decret-n93-1207-du-27-octobre-1993-copc9300021d)

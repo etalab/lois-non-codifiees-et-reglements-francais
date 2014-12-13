@@ -1,6 +1,6 @@
 # Article 15
 
-Tous les récipients pour l'entreposage des produits vitivinicoles mentionnés à l'annexe XI ter du règlement du 22 octobre 2007 susvisé portent les indications permettant d'identifier ces produits au regard de leur catégorie, de leur dénomination de vente et des mentions facultatives mentionnées à l'article 118 septvicies de ce dernier règlement pour autant qu'il est envisagé de les faire figurer dans l'étiquetage.
+Tous les récipients pour l'entreposage des produits vitivinicoles mentionnés à           l'annexe VII, partie II, du règlement (UE) n° 1308/2013 du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil  portent les indications permettant d'identifier ces produits au regard de leur catégorie, de leur dénomination de vente et des mentions facultatives mentionnées à l'article 120  de ce dernier règlement pour autant qu'il est envisagé de les faire figurer dans l'étiquetage.
 
 Ces indications peuvent être remplacées en tout ou partie :
 
