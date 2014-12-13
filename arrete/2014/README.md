@@ -2822,7 +2822,6 @@
 - [Arrêté du 31 décembre 2013 (AGRE1331175A)](arrete-du-31-decembre-2013-agre1331175a)
 - [Arrêté du 31 décembre 2013 (AGRE1331181A)](arrete-du-31-decembre-2013-agre1331181a)
 - [Arrêté du 31 décembre 2013 (AGRG1329152A)](arrete-du-31-decembre-2013-agrg1329152a)
-- [Arrêté du 31 décembre 2013 (BUDB1332143A)](arrete-du-31-decembre-2013-budb1332143a)
 - [Arrêté du 31 décembre 2013 (BUDE1330104A)](arrete-du-31-decembre-2013-bude1330104a)
 - [Arrêté du 31 décembre 2013 (BUDE1400295A)](arrete-du-31-decembre-2013-bude1400295a)
 - [Arrêté du 31 décembre 2013 (BUDE1400307A)](arrete-du-31-decembre-2013-bude1400307a)
