@@ -6,7 +6,7 @@ DÉNOMINATIONS DES MORCEAUX DE VIANDE DE PORC
 <tbody>
 <tr>
 <td width="359">
-<p align="center">DÉNOMINATIONS<br/>obligatoires</p>
+<p align="center">DÉNOMINATIONS USUELLES </p>
 </td>
 <td width="378">
 <p align="center">MENTIONS COMPLÉMENTAIRES<br/>facultatives</p>
