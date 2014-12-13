@@ -160,9 +160,9 @@ c) Exigences préalables à l'entrée en formation pour le support : "Canoë-kay
 
 - est dispensé des exigences préalables à l'entrée en formation définies à l'annexe III, pour la mention "canoë-kayak et disciplines associées", le titulaire du diplôme de moniteur fédéral à jour de son recyclage, délivré par la Fédération française de canoë-kayak ;
 
-- est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III pour la mention monovalente "canoë-kayak et disciplines associées", le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau vive" ou option "canoë-kayak en eau calme et en mer."
+- est dispensé des exigences préalables à l'entrée en formation, définies à l'annexe III pour la mention monovalente "canoë-kayak et disciplines associées", le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option " canoë-kayak en eau calme et en eau vive " ou option "canoë-kayak en eau calme et en mer."
 
-Le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau vive" ou option "canoë-kayak en eau calme et en mer", obtient de droit les unités capitalisables 1, 2, 4, 5, 6 (UC1, UC2, UC4, UC5, UC6) du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités nautiques" mention monovalente "canoë-kayak et disciplines associées".
+Le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option " canoë-kayak en eau calme et en eau vive " ou option "canoë-kayak en eau calme et en mer", obtient de droit les unités capitalisables 1, 2, 4, 5, 6 (UC1, UC2, UC4, UC5, UC6) du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités nautiques" mention monovalente "canoë-kayak et disciplines associées".
 
 Mention "char à voile" et support "char à voile d'initiation et de découverte"
 

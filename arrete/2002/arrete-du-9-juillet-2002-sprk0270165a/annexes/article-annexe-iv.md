@@ -40,11 +40,11 @@ Etre capable de :
 
 Mention "canoë-kayak" et disciplines associées et supports "canoë-kayak, eau calme, mer et vagues", "canoë-kayak, eau calme et rivière d'eau vive"
 
-- est dispensé des exigences préalables à la mise en situation pédagogique pour la mention monovalente "canoë-kayak et disciplines associées" le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau vive" ou option "canoë-kayak en eau calme et en mer" ;
+- est dispensé des exigences préalables à la mise en situation pédagogique pour la mention monovalente "canoë-kayak et disciplines associées" le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive" ou option "canoë-kayak en eau calme et en mer" ;
 
 - est dispensé des exigences préalables à la mise en situation pédagogique pour le support "canoë-kayak, eau-calme, mer et vagues", le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer" ;
 
-- est dispensé des exigences préalables à la mise en situation pédagogique pour le support "canoë-kayak, eau calme et rivière d'eau vive", le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau vive".
+- est dispensé des exigences préalables à la mise en situation pédagogique pour le support "canoë-kayak, eau calme et rivière d'eau vive", le titulaire du certificat de qualification professionnelle "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive" .
 
 Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévus à l'article 14 de l'arrêté du 18 avril 2002 précité, sont définis pour la mention canoë-kayak et disciplines associées et les supports "canoë-kayak, eau calme, mer et vagues" et "canoë-kayak, eau calme et rivière d'eau vive".
 
