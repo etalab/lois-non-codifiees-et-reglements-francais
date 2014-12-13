@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les foires, les salons ou à l'occasion de toute manifestation commerciale relevant du chapitre II du titre VI du livre VII du code de commerce, les professionnels proposant la vente de biens ou la fourniture de services affichent, de manière visible pour les consommateurs, sur un panneau ne pouvant pas être inférieur au format A3 et dans une taille de caractère ne pouvant être inférieure à celle du corps quatre-vingt-dix, la phrase suivante : « Le consommateur ne bénéficie pas d'un droit de rétractation pour tout achat effectué dans [cette foire] ou [ce salon], ou [sur ce stand] » ; le professionnel choisissant la formulation la mieux adaptée.
