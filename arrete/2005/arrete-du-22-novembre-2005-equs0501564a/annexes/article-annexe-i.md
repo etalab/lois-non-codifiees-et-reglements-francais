@@ -1147,6 +1147,7 @@ T = ministère chargé des transports.
 <br/>2000/25/CE <p>Modifiée par 2010/22/UE </p>
 <p>Modifiée par 2011/72/UE </p>
 <p>Modifiée par 2011/87/UE</p>
+<p>Modifiée par la directive 2014/43/UE  </p>
 </td>
 <td align="center">
 <br/>(7) <p>30 avril 2010 <br/>
