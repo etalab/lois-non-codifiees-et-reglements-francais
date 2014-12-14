@@ -72,11 +72,11 @@ Centre de ressources, d'expertise et de performance sportives du Centre ;
 
 Centre de ressources, d'expertise et de performance sportives de Poitou-Charentes ;
 
-Centre de ressources, d'expertise et de performance sportives de Toulouse - Midi-Pyrénées ;
+Centre de ressources, d'expertise et de performance sportives de Toulouse-Midi-Pyrénées ;
 
 Centre de ressources, d'expertise et de performance sportives de Nancy ;
 
-Centre de ressources, d'expertise et de performance sportives de Nord - Pas-de-Calais ;
+Centre de ressources, d'expertise et de performance sportives de Nord-Pas-de-Calais ;
 
 Centre de ressources, d'expertise et de performance sportives Aquitaine ;
 
@@ -146,7 +146,7 @@ Directeurs de certains établissements de la jeunesse et des sports.
 
 Comités d'hygiène, de sécurité et des conditions de travail :
 
-Comité d'hygiène, de sécurité et des conditions de travail ministériel placé auprès des ministres chargés de la santé, de la jeunesse, de la vie associative, des solidarités, de la cohésion sociale, de la ville et des sports ;
+Comité d'hygiène, de sécurité et des conditions de travail ministériel placé auprès des ministres chargés de la santé, de la jeunesse, de la vie associative, des solidarités, de la cohésion sociale, de la ville et des sports ; comité d'hygiène, de sécurité et des conditions de travail ministériel placé auprès des ministres chargés du travail, de l'emploi et de la formation professionnelle ;
 
 Comité d'hygiène, de sécurité et des conditions de travail d'administration centrale placé auprès du directeur des ressources humaines relevant des ministres chargés de la santé, de la jeunesse, de la vie associative, des solidarités, de la cohésion sociale, de la ville et des sports ;
 
@@ -200,11 +200,11 @@ Centre de ressources, d'expertise et de performance sportives du Centre ;
 
 Centre de ressources, d'expertise et de performance sportives de Poitou-Charentes ;
 
-Centre de ressources, d'expertise et de performance sportives de Toulouse - Midi-Pyrénées ;
+Centre de ressources, d'expertise et de performance sportives de Toulouse-Midi-Pyrénées ;
 
 Centre de ressources, d'expertise et de performance sportives de Nancy ;
 
-Centre de ressources, d'expertise et de performance sportives de Nord - Pas-de-Calais ;
+Centre de ressources, d'expertise et de performance sportives de Nord-Pas-de-Calais ;
 
 Centre de ressources, d'expertise et de performance sportives Aquitaine ;
 

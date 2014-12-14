@@ -1,6 +1,6 @@
 # Article Annexe I B
 
-AUXILIAIRES TECHNOLOGIQUES AUTORISÉS JUSQU'AU 31 DÉCEMBRE 2014
+Auxiliaires technologiques autorisés jusqu'au 30 juin 2015
 
 <table>
 <tbody>
