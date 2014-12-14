@@ -70,7 +70,7 @@ Les enveloppes financières des emplois définis à la même section 2 et ne fig
 </td>
 <td align="center">630 <br/>
 </td>
-<td align="center">525IV</td>
+<td align="center">635 IV</td>
 </tr>
 <tr>
 <td align="center">
@@ -97,9 +97,6 @@ Les enveloppes financières des emplois définis à la même section 2 et ne fig
 <tr>
 <td align="center" rowspan="4">
 <p align="left">b) De l'article L. 313-3 <br/>
-</p>
-<p>
-<br/>
 </p>
 </td>
 <td align="center">
@@ -184,9 +181,6 @@ Les enveloppes financières des emplois définis à la même section 2 et ne fig
 <tr>
 <td align="center" rowspan="4">
 <p align="left">) De l'article L. 313-3 <br/>
-</p>
-<p>
-<br/>
 </p>
 </td>
 <td align="center">
@@ -294,6 +288,7 @@ Les enveloppes financières des emplois définis à la même section 2 et ne fig
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
+<br/>
 </td>
 <td align="center">
 <br/>
@@ -303,6 +298,7 @@ Les enveloppes financières des emplois définis à la même section 2 et ne fig
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -329,6 +325,7 @@ Les enveloppes financières des emplois définis à la même section 2 et ne fig
 </td>
 <td align="center">00</td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>

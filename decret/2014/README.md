@@ -745,7 +745,6 @@
 - [Décret n°2014-554 du 27 mai 2014 (AFSA1403170D)](decret-n2014-554-du-27-mai-2014-afsa1403170d)
 - [Décret n°2000-817 du 28 août 2000 (ECOP0000638D)](decret-n2000-817-du-28-aout-2000-ecop0000638d)
 - [Décret n°2000-818 du 28 août 2000 (ECOP0000639D)](decret-n2000-818-du-28-aout-2000-ecop0000639d)
-- [Décret n°2009-1660 du 28 décembre 2009 (DEVU0922173D)](decret-n2009-1660-du-28-decembre-2009-devu0922173d)
 - [DÉCRET n°2014-1250 du 28 octobre 2014 (DEVR1418153D)](decret-n2014-1250-du-28-octobre-2014-devr1418153d)
 - [DÉCRET n°2014-1251 du 28 octobre 2014 (JUSC1417471D)](decret-n2014-1251-du-28-octobre-2014-jusc1417471d)
 - [DÉCRET n°2014-1254 du 28 octobre 2014 (EINI1424933D)](decret-n2014-1254-du-28-octobre-2014-eini1424933d)
