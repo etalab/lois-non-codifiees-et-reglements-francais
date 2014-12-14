@@ -35,7 +35,6 @@
 - [Décret n°2000-118 du 14 février 2000 (EQUT0000218D)](decret-n2000-118-du-14-fevrier-2000-equt0000218d)
 - [Décret n°2000-1222 du 14 décembre 2000 (PRMX0000078D)](decret-n2000-1222-du-14-decembre-2000-prmx0000078d)
 - [Décret n°2000-1246 du 15 décembre 2000 (DEFP0002341D)](decret-n2000-1246-du-15-decembre-2000-defp0002341d)
-- [Décret n°2000-247 du 15 mars 2000 (ECOP0000062D)](decret-n2000-247-du-15-mars-2000-ecop0000062d)
 - [Décret n°2000-257 du 15 mars 2000 (ECOB0050007D)](decret-n2000-257-du-15-mars-2000-ecob0050007d)
 - [Décret n° 2000-527 du 16 juin 2000 (EQUT0000048D)](decret-n-2000-527-du-16-juin-2000-equt0000048d)
 - [Décret n° 2000-528 du 16 juin 2000 (EQUT0000526D)](decret-n-2000-528-du-16-juin-2000-equt0000526d)

@@ -1,3 +1,0 @@
-# Article 1
-
-Les géomètres principaux, géomètres et techniciens-  géomètres-cadastreurs des finances publiques, ainsi que les personnels affectés dans ce service en qualité d'aides-géomètres, sont tenus de procéder eux-mêmes à l'achat et à l'entretien des menus instruments d'arpentage, de calcul et de dessin, des articles d'habillement et, pour les trois premières catégories de personnels susvisés, de la voiture automobile personnelle, éventuellement nécessaires à l'exercice de leur profession. Plus généralement, ils doivent pourvoir sur leurs fonds personnels aux dépenses spéciales de toute nature que leur impose l'exécution des travaux qui leur sont confiés.
