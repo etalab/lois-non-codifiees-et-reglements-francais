@@ -273,7 +273,6 @@
 - [Arrêté du 10 juillet 1996 (TASG9622738A)](arrete-du-10-juillet-1996-tasg9622738a)
 - [Arrêté du 10 juin 1996 (AGRA9601172A)](arrete-du-10-juin-1996-agra9601172a)
 - [Arrêté du 10 juin 1996 (AVIV9600897A)](arrete-du-10-juin-1996-aviv9600897a)
-- [Arrêté du 10 juin 1996 (ECOP9600248A)](arrete-du-10-juin-1996-ecop9600248a)
 - [Arrêté du 10 juin 1996 (LOGC9600016A)](arrete-du-10-juin-1996-logc9600016a)
 - [Arrêté du 10 juin 1996 (MENN9601690A)](arrete-du-10-juin-1996-menn9601690a)
 - [Arrêté du 10 juin 1996 (TASH9621851A)](arrete-du-10-juin-1996-tash9621851a)

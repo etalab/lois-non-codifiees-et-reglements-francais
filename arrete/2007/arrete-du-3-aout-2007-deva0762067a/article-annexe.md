@@ -36,18 +36,6 @@ Paris-New York (Etats-Unis) ;
 
 Paris-Samana (République dominicaine).
 
-Jusqu'au 30 novembre 2014 :
-
-Paris-La Havane (Cuba) ;
-
-Paris-Malé (Maldives) ;
-
-Paris-La Romana (République dominicaine) ;
-
-Paris-Puerto Plata (République dominicaine) ;
-
-Paris-Punta Cana (République dominicaine).
-
 Jusqu'au 15 mai 2015 :
 
 Paris-Las Vegas (Etats-Unis).
@@ -105,3 +93,11 @@ Toulouse-Punta Cana (République dominicaine).
 Jusqu'au 30 avril 2019 :
 
 Paris-New York (Etats-Unis).
+
+Jusqu'au 30 novembre 2019 :
+
+Paris-Punta Cana (République dominicaine) ;
+
+Paris-Puerto Plata (République dominicaine) ;
+
+Paris-La Romana (République dominicaine).
