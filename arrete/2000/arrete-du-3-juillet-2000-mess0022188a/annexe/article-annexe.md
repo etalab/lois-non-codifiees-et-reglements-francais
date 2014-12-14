@@ -834,9 +834,11 @@ société 3M France, Route de Sancourt, 59554 Tilloy-lès-Cambrai : de 1975 à 1
 
 Société dunkerquoise de matériaux et enrobés (SDME), avenue de la Gironde, 59640 Petite-Synthe Dunkerque : de 1974 à 1993 ;
 
-Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : de 1966 à 1988.
+Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : de 1966 à 1988 ;
 
-SPIE BATIGNOLLES (De 1968 à 1996), SPIE ENERTRANS (De 1993 à 2001), SPIE FERRIÈRE TUYAUTERIE (De 1996 à 2001) 70, rue Ernest-Lesaffre, 59680 Ferrière-la-Grande
+SPIE BATIGNOLLES (De 1968 à 1996), SPIE ENERTRANS (De 1993 à 2001), SPIE FERRIÈRE TUYAUTERIE (De 1996 à 2001) 70, rue Ernest-Lesaffre, 59680 Ferrière-la-Grande ;
+
+Verreries de Masnières, Route nationale, BP 18, 59241 Masnières, 1962 à 1996.
 
 Basse-Normandie
 
