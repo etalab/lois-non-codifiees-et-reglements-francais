@@ -41,7 +41,6 @@
 - [Arrêté du 5 novembre 2013 (TRAM1326342A)](arrete-du-5-novembre-2013-tram1326342a)
 - [Arrêté du 6 décembre 2013 (AFSZ1330179A)](arrete-du-6-decembre-2013-afsz1330179a)
 - [Arrêté du 6 décembre 2013 (DEVA1329862A)](arrete-du-6-decembre-2013-deva1329862a)
-- [Arrêté du 6 décembre 2013 (INTB1328393A)](arrete-du-6-decembre-2013-intb1328393a)
 - [Arrêté du 6 décembre 2013 (INTD1310608A)](arrete-du-6-decembre-2013-intd1310608a)
 - [Arrêté du 6 décembre 2013 (INTD1326306A)](arrete-du-6-decembre-2013-intd1326306a)
 - [Arrêté du 6 décembre 2013 (INTE1329665A)](arrete-du-6-decembre-2013-inte1329665a)
