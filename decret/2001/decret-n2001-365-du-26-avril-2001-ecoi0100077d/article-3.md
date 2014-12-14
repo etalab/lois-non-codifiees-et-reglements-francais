@@ -1,6 +1,6 @@
 # Article 3
 
-Les tarifs d'utilisation des réseaux publics de transport et de distribution permettent de répartir de façon non discriminatoire les coûts mentionnés à l'article 2 du présent décret entre :
+Les tarifs d'utilisation des réseaux publics de transport et de distribution permettent de répartir de façon non discriminatoire les coûts mentionnés à l'article L. 341-2 du code de l'énergie entre :
 
 1° Les consommateurs d'électricité qui sont raccordés aux réseaux publics et qui prélèvent de l'électricité sur ces réseaux ;
 
