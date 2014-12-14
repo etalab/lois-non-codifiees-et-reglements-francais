@@ -280,16 +280,4 @@ b) Les ascenseurs hydrauliques dont le système de contrôle d'arrêt et de main
 
 Le propriétaire doit mettre en place un système qui permette, en toutes circonstances de charge autorisée en cabine et à tous les niveaux desservis, en tenant compte d'un entretien et de réglages réguliers conformes aux dispositions minimum d'entretien exigées à l'article R. 125-2 du CCH, une différence de niveau maximum de 20 mm entre le seuil de la cabine et le seuil du palier.
 
-2. Dispositif de protection contre la vitesse excessive de la cabine en montée pour un ascenseur électrique à adhérence
-
-Les ascenseurs concernés sont les ascenseurs électriques à adhérence, non munis d'un système de protection contre la vitesse excessive en montée de la cabine, et admettant une charge maximum supérieure à 320 kg.
-
-Le dispositif à installer doit :
-
--comprendre des organes de contrôle et de réduction de la vitesse ;
-
--détecter un mouvement incontrôlé de la cabine en survitesse montée ;
-
--provoquer l'arrêt de la cabine, ou tout au moins réduire sa vitesse à celle pour laquelle l'amortisseur de contrepoids est conçu ;
-
--fonctionner, sauf redondance de construction, sans l'aide d'aucun élément de l'ascenseur qui, en service normal, contrôle la vitesse ou la décélération ou arrête la cabine.
+2. Abrogé.
