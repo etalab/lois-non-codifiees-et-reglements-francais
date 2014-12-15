@@ -6,4 +6,3 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 10](article-10.md)
-- [Modalités de demande d'autorisation d'user du titre d'ostéopathe.](modalites-de-demande-d-autorisation-d-user-du-titre-d-osteopathe)

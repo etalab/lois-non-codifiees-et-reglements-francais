@@ -364,7 +364,6 @@
 - [Arrêté du 6 juillet 2011 (DEFH1118793A)](arrete-du-6-juillet-2011-defh1118793a)
 - [Arrêté du 6 juillet 2011 (DEVA1025494A)](arrete-du-6-juillet-2011-deva1025494a)
 - [Arrêté du 6 juillet 2011 (DEVA1121291A)](arrete-du-6-juillet-2011-deva1121291a)
-- [Arrêté du 6 juillet 2011 (DEVP1109623A)](arrete-du-6-juillet-2011-devp1109623a)
 - [Arrêté du 6 juillet 2011 (ETSH1118747A)](arrete-du-6-juillet-2011-etsh1118747a)
 - [Arrêté du 6 juillet 2011 (MAEA1117703A)](arrete-du-6-juillet-2011-maea1117703a)
 - [Arrêté du 6 juillet 2011 (MCCB1115789A)](arrete-du-6-juillet-2011-mccb1115789a)

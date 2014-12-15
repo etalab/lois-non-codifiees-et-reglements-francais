@@ -302,6 +302,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -355,6 +356,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -389,6 +391,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -397,6 +400,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -404,6 +408,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 <p>b) Supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles </p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -443,6 +448,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -450,6 +456,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 <p>I. Engrais composés susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur en azote due au nitrate d'ammonium est : </p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -530,6 +537,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -606,7 +614,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="5" valign="top">
+<td align="left" rowspan="6" valign="top">
 <p align="center">1431 </p>
 <p align="center">1432 </p>
 <p align="center">1433 </p>
@@ -616,6 +624,7 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 <p>Liquides inflammables : </p>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
@@ -649,6 +658,10 @@ Les indications données dans la colonne centrale des tableaux ci-dessous ne con
 <td align="left" valign="top">
 <p align="center">500 t </p>
 </td>
+</tr>
+<tr>
+<td>- fiouls lourds </td>
+<td align="center">2 500 t</td>
 </tr>
 <tr>
 <td align="left" valign="top">
