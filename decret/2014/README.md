@@ -243,6 +243,8 @@
 - [DÉCRET n°2014-1355 du 12 novembre 2014 (ETSD1416993D)](decret-n2014-1355-du-12-novembre-2014-etsd1416993d)
 - [DÉCRET n°2014-1356 du 12 novembre 2014 (INTB1415735D)](decret-n2014-1356-du-12-novembre-2014-intb1415735d)
 - [DÉCRET n°2014-1500 du 12 décembre 2014 (ETLL1427766D)](decret-n2014-1500-du-12-decembre-2014-etll1427766d)
+- [DÉCRET n°2014-1501 du 12 décembre 2014 (DEVP1412212D)](decret-n2014-1501-du-12-decembre-2014-devp1412212d)
+- [DÉCRET n°2014-1505 du 12 décembre 2014 (AFSH1427626D)](decret-n2014-1505-du-12-decembre-2014-afsh1427626d)
 - [Décret n°2014-616 du 12 juin 2014 (OMES1405579D)](decret-n2014-616-du-12-juin-2014-omes1405579d)
 - [Décret n°2014-474 du 12 mai 2014 (PRMD1408256D)](decret-n2014-474-du-12-mai-2014-prmd1408256d)
 - [Décret n°2014-475 du 12 mai 2014 (RDFF1400455D)](decret-n2014-475-du-12-mai-2014-rdff1400455d)
