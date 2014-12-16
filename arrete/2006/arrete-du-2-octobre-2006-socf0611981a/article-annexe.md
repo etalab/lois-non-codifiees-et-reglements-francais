@@ -1,8 +1,10 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+Informations requises pour l'inscription du titre professionnel au répertoire national des certifications professionnelles
 
-Intitulé : technicien (ne) d'études en mécanique.
+Intitulé :
+
+Titre professionnel : technicien (ne) d'études en mécanique.
 
 Niveau : IV.
 
@@ -10,21 +12,29 @@ Code NSF : 251 n.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) d'études en mécanique réalise les dossiers d'étude détaillés de sous-ensembles de machines et de biens d'équipement, à partir d'un cahier des charges, d'une pré-étude ou d'un schéma fonctionnel et de consignes. Ces dossiers d'étude ont pour objet de permettre au département méthodes et industrialisation la production d'exemplaires du produit conformes au dossier de définition de référence.
+Le technicien d'études en mécanique réalise les dossiers d'études détaillés de sous-ensembles de machines et de biens d'équipements, à partir d'un cahier des charges, d'une pré-étude ou d'un schéma fonctionnel et de consignes. Ces dossiers d'études ont pour objet de permettre au département méthodes d'industrialisation la production d'exemplaires du produit conformes au dossier de définition de référence.
 
-Ces dossiers comprennent les instructions nécessaires à la définition du produit, à savoir : des plans, des nomenclatures, des notices techniques qui précisent les ensembles mécaniques et les pièces constitutives en vue de leur fabrication, de leur montage et de leur utilisation. Ceux-ci sont réalisés à l'aide de logiciels de CAO-DAO et bureautiques.
+Ces dossiers comprennent les instructions nécessaires à la définition du produit à savoir : des plans, des nomenclatures, des notices techniques qui précisent les ensembles mécaniques et les pièces constitutives en vue de leur fabrication, de leur montage et de leur utilisation. Ceux-ci sont réalisés à l'aide de logiciels de CAO-DAO et bureautiques.
 
-Il (elle) intègre l'environnement, la sécurité des biens et des personnes, les règles de base en conception lors de l'étude des produits industriels et il (elle) s'informe régulièrement sur les évolutions technologiques et les coûts des composants disponibles sur le marché.
+Il intègre l'environnement et l'éco-conception, la sécurité des personnes et des biens, les règles de base en conception lors de l'étude des produits industriels et il s'informe régulièrement sur les évolutions technologiques et les coûts des composants disponibles sur le marché. De plus, il assure la veille technologique par la consultation permanente et régulière des banques de ressources technologiques, des normes, des catalogues, des tarifs des fournisseurs de composants mécaniques, des banques de matériaux et des revues professionnelles.
 
-Il (elle) travaille généralement au sein d'une équipe pluridisciplinaire, sous la responsabilité d'un chef de projet ou d'un responsable de bureau d'études, qui a en charge la répartition des tâches en fonction des compétences techniques et de la disponibilité de chacun. Ce responsable hiérarchique est à la fois l'interlocuteur principal et le support technique du technicien. Il est le garant de la cohérence du projet.
+La complexité des études dont il a la charge, le degré d'innovation et les risques technologiques du produit à étudier sont fonction de son expérience dans le métier et dans le secteur industriel concerné.
 
-L'emploi s'exerce en bureau d'études, dans un cabinet d'ingénierie sous-traitant ou sur site chez le client (ex. : site de production) et nécessite un travail de collaboration avec l'ensemble de l'équipe projet. Le (la) salarié (e) peut être amené à être mobile géographiquement ou à pratiquer des horaires variables. Selon l'organisation de l'entreprise ou le secteur d'activité, le (la) technicien (ne) peut se trouver dans l'obligation de vivre sur le lieu de travail pendant la durée du projet.
+Les missions qui lui sont confiées nécessitent un ensemble d'actions en assurance qualité en conception industrielle. En cas de difficultés techniques ou d'incompatibilité avec les objectifs assignés, il négocie avec son supérieur hiérarchique et justifie les corrections ou les innovations qui seront portées au cahier des charges.
+
+Le (la) technicien (ne) travaille en toute autonomie dans des domaines industriels très variés qui s'étendent des biens de consommation aux biens d'équipements industriels et concernent des produits fabriqués en petites, moyennes et grandes séries. Le respect des délais de réalisation du projet dont il a la charge est impératif et conditionne le rythme et sa charge de travail. Cela implique que le (la) technicien (ne) doit régulièrement informer sa hiérarchie de l'avancement des travaux.
+
+Il travaille généralement au sein d'une équipe pluridisciplinaire, sous la responsabilité d'un chef de projet ou d'un responsable de bureau d'études, qui a en charge la répartition des tâches en fonction des compétences techniques et de la disponibilité de chacun. Ce responsable hiérarchique est à la fois, l'interlocuteur principal et le support technique du technicien. Il est le garant de la cohérence du projet.
+
+L'emploi s'exerce en bureau d'études, dans un cabinet d'ingénierie sous-traitant ou sur site chez le client et nécessite un travail de collaboration avec l'équipe projet.
+
+Le travail s'exerce le plus fréquemment à horaires réguliers, il nécessite parfois des déplacements chez les clients et les fournisseurs pour valider les solutions techniques et faire le point sur l'avancement des travaux. Selon l'organisation de l'entreprise ou du secteur d'activité, le technicien peut être détaché géographiquement pendant la durée du projet. Dans ce cas, la fonction s'exerce avec une autonomie renforcée. Le respect des délais de réalisation du projet dont il a la charge conditionne le rythme et sa charge de travail. Cela implique qu'il doit régulièrement informer sa hiérarchie de l'avancement des travaux.
 
 Capacités attestées et descriptif des composantes de la certification
 
 1. Concrétiser l'architecture mécanique d'un produit
 
-Modifier des dossiers d'étude en utilisant des outils CAO et bureautiques.
+Modifier des dossiers d'études en utilisant des outils CAO et bureautiques.
 
 Elaborer la maquette numérique d'un système mécanique et produire un dessin d'ensemble.
 
@@ -56,7 +66,9 @@ Réaliser des dessins de définition de pièces mécaniques.
 
 Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Il peut exercer dans un cabinet d'ingénierie travaillant en sous-traitance ou directement au sein du bureau d'études d'une entreprise du secteur de la mécanique dans des domaines tels que l'automobile, l'industrie agroalimentaire, la machine spéciale, la domotique, le ferroviaire, l'informatique, la construction navale, l'électroménager...
+Aéronautique, spatial, alimentaire, armement, automobile, bâtiment et travaux publics, bois, ameublement, chimie, chimie fine, construction navale, éco-industrie, électricité, électroménager, électronique, énergie-nucléaire-fluide, ferroviaire, habillement-cuir-textile, industrie cosmétique, industrie du papier carton, information et communication, machinisme, mécanique, travail des métaux, métallurgie, sidérurgie, nautisme, parachimie, pétrochimie, plasturgie-caoutchouc-composites, sport et loisirs, verre, matériaux de construction.
+
+Technicien (ne) en conception industrielle en mécanique, technicien (ne) d'études en mécanique, technicien (ne) d'études en architecture mécanique, dessinateur (trice) d'études en mécanique, dessinateur (trice) en architecture mécanique, dessinateur (trice) en construction mécanique, dessinateur (trice) en outillage, dessinateur (trice) en structures mécaniques, dessinateur (trice) en structures métalliques, dessinateur (trice) en systèmes mécaniques, dessinateur (trice) petites études en mécanique, dessinateur (trice) industriel (le) en mécanique
 
 Code ROME :
 
