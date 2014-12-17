@@ -1,6 +1,6 @@
 # Article 12
 
-Les dispositions du présent arrêté entrent en vigueur à compter de sa date de publication. Néanmoins, à titre transitoire, les dispositions du décret n° 63 du 18 janvier 1943 susvisé peuvent être appliquées jusqu'au 1er juillet 2014.
+Les dispositions du présent arrêté entrent en vigueur à compter de sa date de publication. Néanmoins, à titre transitoire, les dispositions du décret n° 63 du 18 janvier 1943 susvisé peuvent être appliquées jusqu'au 1er juillet 2016.
 
 La première inspection périodique des enveloppes des équipements électriques à haute tension est réalisée dans le délai maximum de deux ans à compter de la date de publication du présent arrêté.
 
