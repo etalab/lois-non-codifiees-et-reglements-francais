@@ -192,7 +192,6 @@
 - [Arrêté du 19 avril 2013 (MENH1310122A)](arrete-du-19-avril-2013-menh1310122a)
 - [Arrêté du 19 décembre 2013 (AFSH1331416A)](arrete-du-19-decembre-2013-afsh1331416a)
 - [Arrêté du 19 décembre 2013 (AFSS1331458A)](arrete-du-19-decembre-2013-afss1331458a)
-- [Arrêté du 19 décembre 2013 (AFSS1331469A)](arrete-du-19-decembre-2013-afss1331469a)
 - [Arrêté du 19 décembre 2013 (BUDE1319811A)](arrete-du-19-decembre-2013-bude1319811a)
 - [Arrêté du 19 décembre 2013 (DEVA1328087A)](arrete-du-19-decembre-2013-deva1328087a)
 - [Arrêté du 19 décembre 2013 (DEVP1328475A)](arrete-du-19-decembre-2013-devp1328475a)
