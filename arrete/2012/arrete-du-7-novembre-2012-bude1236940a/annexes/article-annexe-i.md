@@ -120,6 +120,42 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 </tr>
 <tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">SIP de Bordeaux Sud-Est<br/>(dont recouvrement des rôles d'impôts mentionnés à l'article 3)</p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Bordeaux Sud-Est<br/>Trésorerie de Bordeaux Est </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2015 </p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="left">Le recouvrement des rôles d'impôts des contribuables ayant leur domicile ou leur résidence cumulativement dans les ressorts territoriaux de la trésorerie de Bordeaux-Est et du CDI de Bordeaux Sud-Est, et dont la mise en recouvrement est postérieure au 1er janvier 2015, est confié au comptable du SIP de Bordeaux Sud-Est </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">33 - Gironde </p>
+</td>
+<td align="left" valign="top">
+<p align="left">SIP de Bordeaux Nord-Est </p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Bordeaux Nord-Est<br/>Trésorerie de Bordeaux Est </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2015</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="left">Le recouvrement des rôles d'impôts des contribuables ayant leur domicile ou leur résidence cumulativement dans les ressorts territoriaux de la trésorerie de Bordeaux-Est et du CDI de Bordeaux Nord-Est, et dont la mise en recouvrement est postérieure au 1er janvier 2015, est confié au comptable du SIP de Bordeaux Nord-Est </p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">38 - Isère </p>
 </td>
@@ -232,8 +268,7 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <p align="left">91 - Essonne </p>
 </td>
 <td align="left" valign="top">
-<p align="left">SIP de Juvisy Sud-Ouest </p>
-<p align="left">(dont recouvrement des rôles d'impôts mentionnés à l'article 3) </p>
+<p align="left">SIP de Juvisy Sud-Ouest<br/>(dont recouvrement des rôles d'impôts mentionnés à l'article 3) </p>
 </td>
 <td align="left" valign="top">
 <p align="left">CDI de Juvisy Sud-Ouest </p>
@@ -241,6 +276,30 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </td>
 <td align="left" valign="top">
 <p align="left">1er janvier 2014 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">SIP de Yerres Est </p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Yerres Est<br/>Trésorerie de Brunoy </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2015</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">SIP de Yerres Ouest </p>
+</td>
+<td align="left" valign="top">
+<p align="left">CDI de Yerres Ouest<br/>Trésoreries de Montgeron, Draveil et Vigneux-sur-Seine </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1er janvier 2015</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +347,9 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 <td>974 - La Réunion <br/>
 </td>
 <td>SIP de Saint-Denis de La Réunion Ouest </td>
-<td>CDI de Saint-Denis de La Réunion Ouest, trésorerie de Saint-Denis <br/>
+<td>
+<p align="left">CDI de Saint-Denis de La Réunion Ouest, trésorerie de Saint-Denis <br/>
+</p>
 </td>
 <td>1er décembre 2014</td>
 </tr>
@@ -303,6 +364,9 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS (SIP)
 </tr>
 </tbody>
 </table>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
