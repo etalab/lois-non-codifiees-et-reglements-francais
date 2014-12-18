@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Les données visées au I de l'article 3 extraites des déclarations d'impôt sur le revenu sont conservées pendant une durée de cinq ans et les données visées au I de l'article 3 extraites des déclarations d'impôt de solidarité sur la fortune sont conservées pendant une durée de dix ans, à compter de l'année au titre de laquelle les déclarations dont elles sont issues ont été souscrites.
+I. - Les données visées au I de l'article 3 extraites des déclarations de revenus et des déclarations annexes sont conservées pendant une durée de cinq ans et les données visées au I de l'article 3 extraites des déclarations d'impôt de solidarité sur la fortune sont conservées pendant une durée de dix ans, à compter de l'année au titre de laquelle les déclarations dont elles sont issues ont été souscrites.
 
 II. - Les données visées au II de l'article 3 sont conservées pendant cinq ans au maximum à compter de la date de connexion.
 
