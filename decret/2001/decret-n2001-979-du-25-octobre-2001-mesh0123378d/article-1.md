@@ -4,9 +4,7 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 1. Adjoints des cadres hospitaliers encadrant au moins cinq personnes : 25 points majorés ;
 
-2. Secrétaires médicaux exerçant les fonctions de coordination des secrétariats médicaux ou encadrant au moins cinq personnes :
-
-25 points majorés ;
+2. Assistants médico-administratifs exerçant les fonctions de coordonnateurs de secrétariats médicaux ou de coordonnateurs en assistance de régulation médicale, ou encadrant au moins cinq personnes : 25 points majorés ;
 
 3. Techniciens et techniciens supérieurs hospitaliers encadrant au moins cinq personnes :
 
