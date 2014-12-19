@@ -2771,7 +2771,6 @@
 - [Arrêté du 30 janvier 2014 (DEVL1328662A)](arrete-du-30-janvier-2014-devl1328662a)
 - [Arrêté du 30 janvier 2014 (DEVL1330758A)](arrete-du-30-janvier-2014-devl1330758a)
 - [Arrêté du 30 janvier 2014 (DEVL1330769A)](arrete-du-30-janvier-2014-devl1330769a)
-- [Arrêté du 30 janvier 2014 (DEVL1401519A)](arrete-du-30-janvier-2014-devl1401519a)
 - [Arrêté du 30 janvier 2014 (INTA1401947A)](arrete-du-30-janvier-2014-inta1401947a)
 - [Arrêté du 30 janvier 2014 (JUSF1402981A)](arrete-du-30-janvier-2014-jusf1402981a)
 - [Arrêté du 30 janvier 2014 (MCCB1400710A)](arrete-du-30-janvier-2014-mccb1400710a)
