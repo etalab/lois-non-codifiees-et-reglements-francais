@@ -14,4 +14,6 @@ Les officiers spécialisés de la marine exercent leurs attributions en priorit�
 
 En permanence en haute mer, et le cas échéant, dans la mer territoriale des pays étrangers, les officiers de marine et les officiers spécialisés de la marine, lorsqu'ils commandent des bâtiments de guerre, représentent la France.
 
+Nul officier de marine ou officier spécialisé de la marine ne peut exercer le commandement d'un élément naval s'il n'a été au préalable inscrit sur un tableau de commandement, établi annuellement, dans les conditions prévues à l'article 35-1 du présent décret.
+
 Les commandements des éléments navals et des forces maritimes sont attribués par décrets et leurs titulaires reçoivent une lettre de commandement.

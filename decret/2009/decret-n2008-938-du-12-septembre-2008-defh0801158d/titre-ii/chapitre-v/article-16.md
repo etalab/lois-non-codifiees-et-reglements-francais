@@ -15,3 +15,5 @@ i) soit avoir suivi avec succès le cursus de formation d'une école navale étr
 ii) soit être titulaires d'un diplôme ou d'un titre conférant le grade de master ou d'un diplôme ou d'un titre étranger reconnu équivalent à un master ;
 
 2° Avec leur grade, les officiers sous contrat des grades de lieutenant de vaisseau et de capitaine de corvette qui comptent au moins huit ans de service, en qualité d'aspirant ou d'officier.
+
+Les périodes de formation réalisées dans une école navale étrangère sont prises en compte en tant que service militaire effectif, demandé aux alinéas précédents, dès lors que le cursus de formation de ces écoles a été suivi avec succès.

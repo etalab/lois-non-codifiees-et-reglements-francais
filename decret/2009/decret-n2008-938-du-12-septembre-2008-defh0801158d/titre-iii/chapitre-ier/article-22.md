@@ -4,7 +4,7 @@ I. ― Pour le corps des officiers de marine, les nominations au grade d'enseign
 
 II. ― Pour le corps des officiers spécialisés de la marine :
 
-1° Les nominations au grade d'enseigne de vaisseau de 1re classe effectuées au profit des officiers admis au cursus de formation prévus au 1° de l'article 6 sont prononcées sur une période de cinq ans dans la limite de 20 pour 100 du nombre d'élèves officiers admis à l'Ecole militaire de la flotte au titre de l'article 5 sur la même période ;
+1° Les nominations au grade d'enseigne de vaisseau de 1re classe effectuées au profit des officiers admis au cursus de formation prévus au 1° de l'article 6 ainsi qu'au profit des officiers recrutés au titre du 1° de l'article 16, sont prononcées sur une période de cinq ans dans la limite de 20 pour 100 du nombre d'élèves officiers admis à l'Ecole militaire de la flotte au titre de l'article 5 sur la même période ;
 
 2° Les nominations au grade d'enseigne de vaisseau de 1re classe effectuées au profit des officiers admis au cursus de formation prévus au 2° de l'article 6 sont prononcées sur une période de cinq ans dans la limite de 50 pour 100 du nombre de candidats admis à l'Ecole navale par les concours ouverts aux candidats titulaires d'un diplôme de fin de second cycle de l'enseignement secondaire général, technologique ou professionnel ou titre reconnu équivalent, ou d'un autre titre ou diplôme classé au moins au niveau IV prévus au a du 1° et au 2° de l'article 4 et à l'Ecole militaire de la flotte au titre de l'article 5 sur la même période.
 
