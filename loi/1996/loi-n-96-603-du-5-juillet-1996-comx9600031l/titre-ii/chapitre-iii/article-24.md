@@ -4,7 +4,7 @@ I.-Est puni d'une amende de 7500 euros :
 
 1° Le fait d'exercer à titre indépendant ou de faire exercer par l'un de ses collaborateurs une des activités visées à l'article 16 sans disposer de la qualification professionnelle exigée par cet article ou sans assurer le contrôle effectif et permanent de l'activité par une personne en disposant ;
 
-2° Le fait d'exercer, hors le cas prévu au V de l'article 19, une activité visée à cet article sans être immatriculé au répertoire des métiers ou au registre des entreprises tenu par les chambres de métiers d'Alsace et de la Moselle ;
+2° Le fait d'exercer une activité mentionnée à l'article 19 sans être immatriculé au répertoire des métiers ou au registre des entreprises tenu par les chambres de métiers d'Alsace et de la Moselle ;
 
 3° Le fait de faire usage du mot : " artisan " ou de l'un de ses dérivés pour l'appellation, l'enseigne, la promotion ou la publicité de l'entreprise, du produit ou de la prestation de service sans détenir la qualité d'artisan, de maître ou de maître artisan dans les conditions prévues par le I et le II de l'article 21.
 
