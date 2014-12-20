@@ -261,7 +261,6 @@
 - [ARRÊTÉ du 4 novembre 2014 (MENH1422245A)](arrete-du-4-novembre-2014-menh1422245a)
 - [ARRÊTÉ du 4 novembre 2014 (RDFF1410068A)](arrete-du-4-novembre-2014-rdff1410068a)
 - [ARRÊTÉ du 4 septembre 2014 (AFSP1410349A)](arrete-du-4-septembre-2014-afsp1410349a)
-- [ARRÊTÉ du 4 septembre 2014 (DEVR1421508A)](arrete-du-4-septembre-2014-devr1421508a)
 - [ARRÊTÉ du 4 septembre 2014 (DEVT1417133A)](arrete-du-4-septembre-2014-devt1417133a)
 - [ARRÊTÉ du 4 septembre 2014 (EINP1419156A)](arrete-du-4-septembre-2014-einp1419156a)
 - [ARRÊTÉ du 4 septembre 2014 (FCPE1411253A)](arrete-du-4-septembre-2014-fcpe1411253a)
