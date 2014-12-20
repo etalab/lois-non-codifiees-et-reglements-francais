@@ -2317,7 +2317,6 @@
 - [Arrêté du 25 avril 2012 (MENH1220071A)](arrete-du-25-avril-2012-menh1220071a)
 - [Arrêté du 25 avril 2012 (MENV1221832A)](arrete-du-25-avril-2012-menv1221832a)
 - [Arrêté du 25 février 2012 (DEVA1016716A)](arrete-du-25-fevrier-2012-deva1016716a)
-- [Arrêté du 25 février 2012 (DEVA1201974A)](arrete-du-25-fevrier-2012-deva1201974a)
 - [Arrêté du 25 janvier 1988 (MEND8800084A)](arrete-du-25-janvier-1988-mend8800084a)
 - [Arrêté du 25 janvier 2012 (AGRG1200995A)](arrete-du-25-janvier-2012-agrg1200995a)
 - [Arrêté du 25 janvier 2012 (AGRS1202397A)](arrete-du-25-janvier-2012-agrs1202397a)
