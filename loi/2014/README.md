@@ -5,6 +5,7 @@
 - [LOI n°2014-1104 du 1er octobre 2014 (INTX1414821L)](loi-n2014-1104-du-1er-octobre-2014-intx1414821l)
 - [LOI n°2014-1353 du 13 novembre 2014 (INTX1414166L)](loi-n2014-1353-du-13-novembre-2014-intx1414166l)
 - [LOI n°2014-1392 du 24 novembre 2014 (PRMX1029143L)](loi-n2014-1392-du-24-novembre-2014-prmx1029143l)
+- [LOI n°2014-1528 du 18 décembre 2014 (ETSX1401575L)](loi-n2014-1528-du-18-decembre-2014-etsx1401575l)
 - [LOI n°2014-366 du 24 mars 2014 (ETLX1313501L)](loi-n2014-366-du-24-mars-2014-etlx1313501l)
 - [LOI n°2014-626 du 18 juin 2014 (ERNX1317571L)](loi-n2014-626-du-18-juin-2014-ernx1317571l)
 - [LOI n°2014-640 du 20 juin 2014 (JUSX1405215L)](loi-n2014-640-du-20-juin-2014-jusx1405215l)
