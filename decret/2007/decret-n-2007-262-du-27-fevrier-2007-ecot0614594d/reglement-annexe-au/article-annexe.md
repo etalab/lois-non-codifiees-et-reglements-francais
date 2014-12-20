@@ -24,23 +24,21 @@ Une cotisation est retenue sur le traitement nominal, les allocations spéciales
 
 Le taux de la cotisation mentionnée au précédent alinéa est fixé à :
 
-a) 8,54 % pour l'année 2014 ;
+a) 8,86 % pour l'année 2015 ;
 
-b) 8,81 % pour l'année 2015 ;
+b) 9,28 % pour l'année 2016 ;
 
-c) 9,18 % pour l'année 2016 ;
+c) 9,65 % pour l'année 2017 ;
 
-d) 9,50 % pour l'année 2017 ;
+d) 9,97 % pour l'année 2018 ;
 
-e) 9,82 % pour l'année 2018 ;
+e) 10,29 % pour l'année 2019 ;
 
-f) 10,14 % pour l'année 2019 ;
+f) 10,56 % pour l'année 2020 ;
 
-g) 10,41 % pour l'année 2020 ;
+g) 10,83 % pour l'année 2021 ;
 
-h) 10,68 % pour l'année 2021 ;
-
-i) 10,95 % à compter de l'année 2022.
+h) 11,10 % à compter de l'année 2022.
 
 Article 4
 
