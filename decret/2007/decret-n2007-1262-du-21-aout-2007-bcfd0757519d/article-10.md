@@ -1,3 +1,3 @@
 # Article 10
 
-Le procès-verbal est adressé à la Fondation du patrimoine maritime et fluvial, qui statue dans les trente jours sur l'avis de la commission. Après attribution du label, la Fondation du patrimoine maritime et fluvial adresse la liste nominative des navires ayant reçu le label " bateau d'intérêt patrimonial " aux ministres chargés des douanes, de la mer et de la culture ainsi qu'à la Fondation du patrimoine.
+Le procès-verbal est adressé à l'association "Patrimoine maritime et fluvial" qui établit dans les trente jours la liste nominative des navires ayant bénéficié d'un avis favorable de la commission d'agrément. L'association "Patrimoine maritime et fluvial" adresse cette liste aux ministres chargés des douanes, de la mer et de la culture.

@@ -1,5 +1,7 @@
 # Article 15
 
-La Fondation du patrimoine maritime et fluvial n'engagera pas la procédure de renouvellement du label pour les bateaux dont les propriétaires n'auraient pas déposé de demande de renouvellement du label avant la date limite de dépôt du dossier au cours de la cinquième année d'attribution du label.
+L'association "Patrimoine maritime et fluvial" peut engager la procédure de retrait du label lorsque le bateau bénéficiant du label a subi des modifications propres à remettre en cause les motifs ayant conduit à l'attribution du label au vu des critères prévus à l'article 8 du présent décret.
 
-Le non-renouvellement du label entraîne le paiement du droit annuel de francisation et de navigation, pour l'année en cours et les années suivantes.
+Le retrait du label entraîne le paiement du droit annuel de francisation et de navigation, pour l'année en cours et les années suivantes.
+
+S'il est établi qu'au cours de la période de labellisation les conditions ayant permis l'attribution du label n'ont pas été respectées, le droit annuel de francisation et de navigation est exigible pour les années où ces conditions n'ont pas été respectées.

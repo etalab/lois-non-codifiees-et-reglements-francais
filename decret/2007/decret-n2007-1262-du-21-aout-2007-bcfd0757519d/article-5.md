@@ -2,7 +2,7 @@
 
 La commission d'agrément susvisée est composée comme suit :
 
-- un représentant de la Fondation du patrimoine maritime et fluvial ;
+- un représentant de l'association "Patrimoine maritime et fluvial" ;
 
 - un représentant du ministre chargé des douanes ;
 
@@ -18,4 +18,4 @@ La commission d'agrément susvisée est composée comme suit :
 
 - cinq personnalités qualifiées nommées, pour une durée de trois ans renouvelable, par le ministre chargé des douanes, ou leur suppléant.
 
-La présidence de la commission d'agrément est assurée par le représentant de la Fondation du patrimoine maritime et fluvial.
+La présidence de la commission d'agrément est assurée par le représentant de l'association "Patrimoine maritime et fluvial".

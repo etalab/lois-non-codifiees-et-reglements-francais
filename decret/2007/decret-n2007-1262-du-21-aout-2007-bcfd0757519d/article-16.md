@@ -1,7 +1,5 @@
 # Article 16
 
-La Fondation du patrimoine maritime et fluvial peut engager la procédure de retrait du label lorsque le bateau bénéficiant du label a subi des modifications propres à remettre en cause les motifs ayant conduit à l'attribution du label au vu des critères prévus à l'article 8 du présent décret.
-
-Le retrait du label entraîne le paiement du droit annuel de francisation et de navigation, pour l'année en cours et les années suivantes.
-
-S'il est établi qu'au cours de la période de labellisation les conditions ayant permis l'attribution du label n'ont pas été respectées le droit annuel de francisation et de navigation est exigible pour les années où ces conditions n'ont pas été respectées.
+Sont considérés, au titre de l'
+article 224 du code des douanes susvisé
+, comme embarcations mues principalement par l'énergie humaine les bateaux non pontés, principalement propulsés à l'aviron et dont le gréement et la mâture peuvent être montés et démontés par l'équipage sans aide extérieure.
