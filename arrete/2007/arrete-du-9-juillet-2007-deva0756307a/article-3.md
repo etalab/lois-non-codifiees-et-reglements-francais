@@ -4,12 +4,6 @@ I. ― Sur les liaisons auxquelles le règlement (CEE) n° 2408 / 92 du 23 juill
 
 II. ― La société est également autorisée, sous réserve des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services réguliers de passagers, de courrier et de fret sur les liaisons suivantes :
 
-Jusqu'au 15 octobre 2014
-
-Turquie :
-
-Paris-Antalya.
-
 Jusqu'au 31 décembre 2014
 
 Tunisie : Nantes - Djerba ;
@@ -121,3 +115,11 @@ Paris-Tel-Aviv (Israël).
 Jusqu'au 1er avril 2019 :
 
 Strasbourg - Marrakech (Maroc).
+
+Jusqu'au 30 novembre 2019 :
+
+Paris-Istanbul (Turquie) ;
+
+Paris-Antalya (Turquie) ;
+
+Lyon-Tel Aviv (Israël).
