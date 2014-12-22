@@ -22,7 +22,7 @@ e) Deux personnalités désignées par les autres membres du conseil avant l'él
 
 5° Deux représentants des personnels administratifs, techniques, ouvriers et de service.
 
-Le président de l'université de rattachement est membre de droit du conseil d'administration.
+Le président de l'université Paris-I est membre de droit du conseil d'administration.
 
 Le recteur de l'académie de Paris représente le ministre chargé de l'enseignement supérieur auprès du conseil d'administration. Il assiste ou se fait représenter à ses séances.
 

@@ -6,7 +6,7 @@ Le directeur dirige l'institut et le représente en justice et à l'égard des t
 
 2° Il a autorité sur l'ensemble des personnels et nomme à toutes les fonctions pour lesquelles aucune autre autorité n'a reçu pouvoir de nomination ;
 
-3° Il est responsable du maintien de l'ordre au sein de l'établissement. Lorsque celui-ci est installé dans les locaux de l'université de rattachement, le directeur peut recevoir délégation du président de l'université à cette fin ;
+3° Il est responsable du maintien de l'ordre au sein de l'établissement. Lorsque celui-ci est installé dans les locaux de l'université Paris-I, le directeur peut recevoir délégation du président de l'université à cette fin ;
 
 4° Il est ordonnateur des recettes et des dépenses ;
 
