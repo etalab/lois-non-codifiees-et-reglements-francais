@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="4">
-<p align="center">Premier ministre</p>
+<p align="left">Premier ministre</p>
 </td>
 <td align="center">
 <p>Directions générales, directions et délégations, services à compétence nationale, autorités administratives indépendantes, secrétariats généraux, commissariats, comités, conseils, autorités, missions et commissions rattachés au Premier ministre. <br/>
@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Premier ministre, dans les conditions prévues aux articles R. 112-2-1 et R. 212-2-1 du code des juridictions financières, et premier président de la Cour des comptes, dans les conditions prévues aux articles R. 112-4 et R. 212-3 du même code. <br/>
+<p align="left">Premier ministre, dans les conditions prévues aux articles R. 112-2-1 et R. 212-2-1 du code des juridictions financières, et premier président de la Cour des comptes, dans les conditions prévues aux articles R. 112-4 et R. 212-3 du même code. <br/>
 </p>
 </td>
 <td align="center">
@@ -50,8 +50,8 @@
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">
-<p>Ministres chargés de la santé et de la sécurité sociale.</p>
+<td align="center" rowspan="3">
+<p align="left">Ministres chargés des affaires sociales.</p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant des ministres chargés de la sécurité sociale, de l'action sociale, de la santé, du travail, de l'emploi, de la formation professionnelle, des sports, de la jeunesse, de l'éducation populaire et de la vie associative ; autorités administratives indépendantes rattachées à ces ministres. <br/>
@@ -71,14 +71,8 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p>Secrétariat général du comité interministériel des villes. <br/>
-</p>
-</td>
-</tr>
-<tr>
 <td align="center" rowspan="3">
-<p align="center">Ministre chargé de l'agriculture</p>
+<p align="left">Ministre chargé de l'agriculture</p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant du ministre chargé de l'agriculture ; autorités administratives indépendantes rattachées à ce ministre. <br/>
@@ -99,7 +93,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="2">
-<p align="center">Ministre chargé de la culture </p>
+<p align="left">Ministre chargé de la culture </p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant des ministres chargés de la culture et de la communication ; autorités administratives indépendantes rattachées à ces ministres. <br/>
@@ -114,7 +108,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="4">
-<p align="center">Ministre chargé du développement durable</p>
+<p align="left">Ministre chargé du développement durable</p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant des ministres chargés de l'écologie, du développement durable, de l'énergie, des transports, du logement, de l'aménagement du territoire et de la mer, à l'exception de ceux de la direction générale de l'aviation civile et du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile ; autorités administratives indépendantes rattachées à ces ministres. <br/>
@@ -141,7 +135,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="5">
-<p align="center">Ministres chargés de l'économie et du budget</p>
+<p align="left">Ministres chargés de l'économie et du budget</p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant des ministres chargés de l'économie, du budget, de l'industrie, du commerce extérieur, de l'artisanat, du commerce et du tourisme ; autorités administratives indépendantes rattachées à ces ministres. <br/>
@@ -176,7 +170,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="2">
-<p align="center">Ministre chargé de l'éducation nationale</p>
+<p align="left">Ministre chargé de l'éducation nationale</p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant des ministres chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche ; autorités administratives indépendantes rattachées à ces ministres. <br/>
@@ -191,7 +185,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="4">
-<p align="center">Ministre de l'intérieur </p>
+<p align="left">Ministre de l'intérieur </p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant du ministre de l'intérieur et des ministres chargés des collectivités territoriales et de l'outre-mer, y compris les services de la direction générale de la gendarmerie nationale et des formations administratives qui y sont rattachées ; autorités administratives indépendantes rattachées à ces ministres. <br/>
@@ -218,7 +212,7 @@
 </tr>
 <tr>
 <td align="center" rowspan="4">
-<p>Garde des sceaux, ministre de la justice</p>
+<p align="left">Garde des sceaux, ministre de la justice</p>
 </td>
 <td align="center">
 <p>Services de l'administration centrale, services à compétence nationale et services déconcentrés relevant du ministre de la justice ; autorités administratives indépendantes rattachées à ce ministre. <br/>
@@ -245,7 +239,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="center">Garde des sceaux, ministre de la justice, et, dans les conditions prévues à l'article R. 121-13 du code de justice administrative, vice-président du Conseil d'Etat<br/>
+<p align="left">Garde des sceaux, ministre de la justice, et, dans les conditions prévues à l'article R. 121-13 du code de justice administrative, vice-président du Conseil d'Etat<br/>
 </p>
 </td>
 <td align="center">
@@ -255,7 +249,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Directeur général de la Caisse des dépôts et consignations <br/>
+<p align="left">Directeur général de la Caisse des dépôts et consignations <br/>
 </p>
 </td>
 <td align="center">
@@ -265,12 +259,28 @@
 </tr>
 <tr>
 <td align="center">
-<p>Directeur général de l'Office national des forêts <br/>
+<p align="left">Directeur général de l'Office national des forêts <br/>
 </p>
 </td>
 <td align="center">
 <p>Services centraux et déconcentrés de l'Office national des forêts.<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<p align="left">Ministre de la défense<br/>
+</p>
+</td>
+<td align="center">Services de l'administration centrale et des états-majors, services à compétence nationale, services extérieurs et formations administratives des armées relevant du ministre de la défense<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Etablissements publics relevant de la tutelle administrative du ministre de la défense<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Caisse nationale militaire de sécurité sociale<br/>
 </td>
 </tr>
 </tbody>

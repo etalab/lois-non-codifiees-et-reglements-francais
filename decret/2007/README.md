@@ -1420,7 +1420,6 @@
 - [Décret n° 2007-494 du 29 mars 2007 (PMEA0720015D)](decret-n-2007-494-du-29-mars-2007-pmea0720015d)
 - [Décret n°2004-1488 du 29 décembre 2004 (INTB0400365D)](decret-n2004-1488-du-29-decembre-2004-intb0400365d)
 - [Décret n°2006-1477 du 29 novembre 2006 (JUSC0620862D)](decret-n2006-1477-du-29-novembre-2006-jusc0620862d)
-- [Décret n°2006-1483 du 29 novembre 2006 (DEFP0601530D)](decret-n2006-1483-du-29-novembre-2006-defp0601530d)
 - [Décret n°2006-1484 du 29 novembre 2006 (DEFP0601531D)](decret-n2006-1484-du-29-novembre-2006-defp0601531d)
 - [Décret n°2007-1057 du 29 juin 2007 (DEVE0757658D)](decret-n2007-1057-du-29-juin-2007-deve0757658d)
 - [Décret n°2007-1058 du 29 juin 2007 (DEVE0757323D)](decret-n2007-1058-du-29-juin-2007-deve0757323d)

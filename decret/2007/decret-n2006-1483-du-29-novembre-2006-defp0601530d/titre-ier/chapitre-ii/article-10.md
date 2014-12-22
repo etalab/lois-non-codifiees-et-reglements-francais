@@ -1,5 +1,0 @@
-# Article 10
-
-Jusqu'à la constitution des commissions administratives paritaires, qui interviendront dans un délai d'un an à compter de la date d'entrée en vigueur du présent décret, les représentants des personnels aux commissions administratives paritaires du corps d'attachés d'administration centrale du ministère de la défense, du corps administratif supérieur des services déconcentrés du ministère de la défense, du corps des directeurs, délégués principaux et délégués des services déconcentrés du ministère de la défense, du corps des secrétaires généraux des services départementaux de l'Office national des anciens combattants et victimes de guerre sont maintenus en fonction et siègent en formation commune.
-
-Durant cette période, les représentants des grades d'attaché principal d'administration centrale de 1re et de 2e classe, de chef de service administratif de 1re et de 2e classe, de délégué principal de 1re et de 2e classe et de secrétaire hors classe et de classe exceptionnelle représentent le grade d'attaché principal d'administration.
