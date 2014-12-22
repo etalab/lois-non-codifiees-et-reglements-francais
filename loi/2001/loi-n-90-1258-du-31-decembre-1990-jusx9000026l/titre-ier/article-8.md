@@ -8,4 +8,4 @@ Lorsque les statuts prévoient qu'il est créé ou que pourront être créées d
 
 Par dérogation à l'article L. 225-124 du code de commerce, les actions à droit de vote double transférées, pour quelque cause que ce soit, perdent leur droit de vote double dès lors que le bénéficiaire du transfert n'est pas un professionnel en exercice au sein de la société.
 
-Les parts ou actions des sociétés d'exercice libéral ne peuvent faire l'objet du contrat de bail prévu aux articles L. 239-1 à L. 239-5 du code de commerce, sauf au profit de professionnels salariés ou collaborateurs libéraux exerçant au sein de celles-ci.
+Les parts ou actions des sociétés d'exercice libéral ne peuvent faire l'objet du contrat de bail prévu aux articles L. 239-1 à L. 239-5 du code de commerce, sauf au profit de professionnels salariés ou collaborateurs libéraux exerçant au sein de celles-ci et, à l'exception des sociétés intervenant dans le domaine de la santé ou exerçant les fonctions d'officier public ou ministériel, de professionnels exerçant la profession constituant l'objet social de ces sociétés.

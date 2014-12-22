@@ -6,6 +6,4 @@ Les établissements publics de l'Etat, qu'ils soient ou non soumis aux règles d
 
 Néanmoins, quand les conditions posées aux premier et deuxième alinéas ne sont pas remplies, les établissements publics de l'Etat peuvent nommer au moins un commissaire aux comptes et un suppléant. Il en va de même dans les groupements d'intérêt public dont l'Etat ou un établissement public de l'Etat est membre.
 
-2. Les commissaires aux comptes des établissements publics de l'Etat sont nommés, sur proposition des organes dirigeants, par le ministre chargé de l'économie. Lorsque des titres financiers de l'établissement sont admis aux négociations sur un marché réglementé, cette nomination est effectuée après avis de l'Autorité des marchés financiers dans des conditions fixées par décret.
-
-3. Abrogé.
+2. Les commissaires aux comptes des établissements publics de l'Etat sont désignés dans les conditions prévues à l'article L. 823-1 du code de commerce. Lorsque des titres financiers de l'établissement sont admis aux négociations sur un marché réglementé, cette désignation est effectuée après avis de l'Autorité des marchés financiers, dans des conditions fixées par décret.
