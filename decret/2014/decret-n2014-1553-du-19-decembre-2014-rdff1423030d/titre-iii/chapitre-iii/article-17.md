@@ -1,0 +1,7 @@
+# Article 17
+
+I. - Jusqu'à la mise en place de la nouvelle commission administrative paritaire placée auprès du ministre de la défense, qui interviendra dans un délai de neuf mois au plus tard à compter de la date d'entrée en vigueur du présent décret, et par dérogation à l'article 38 du décret du 17 octobre 2011 susvisé, la commission administrative paritaire du corps des attachés d'administration du ministère de la défense demeure compétente, le mandat de ses membres est maintenu et elle est placée, conformément aux dispositions prévues à l'article 6 du décret du 17 octobre 2011 susvisé, auprès du ministre de la défense.
+
+II. - Durant cette même période, la commission administrative paritaire des directeurs des services déconcentrés du ministère de la défense demeure compétente, le mandat de ses membres est maintenu et elle est placée, conformément aux dispositions prévues à l'article 6 du décret du 17 octobre 2011 susvisé, auprès du ministre de la défense.
+
+Cette commission siège en formation conjointe avec la commission administrative paritaire du corps des attachés d'administration du ministère de la défense mentionnée au premier alinéa. Les représentants du grade d'attaché principal du corps des attachés d'administration du ministère de la défense et les représentants du grade des directeurs des services déconcentrés du ministère de la défense représentent les grades d'attachés principaux et de directeurs de service du corps interministériel des attachés d'administration de l'Etat dont l'autorité de rattachement est le ministre de la défense.

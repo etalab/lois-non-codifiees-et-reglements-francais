@@ -1,0 +1,5 @@
+# Article 13
+
+I. - A la date d'entrée en vigueur du présent décret, les attachés d'administration du ministère de la défense qui sont détachés dans le corps interministériel des attachés d'administration de l'Etat sont affectés en position d'activité dans leur administration d'accueil. Sur leur demande et par dérogation au deuxième alinéa de l'article 5 du décret du 17 octobre 2011 susvisé, ils sont rattachés au ministre de la défense jusqu'à ce qu'ils changent d'administration d'affectation et, au plus, pendant une période de cinq ans.
+
+II. - Par dérogation au deuxième alinéa de l'article 5 du décret du 17 octobre 2011 susvisé, les membres du corps interministériel des attachés d'administration de l'Etat affectés en application du décret du 18 avril 2008 susvisé dans une administration ou dans un établissement mentionné au 3° de l'article 4 du présent décret sont rattachés, sur leur demande, à leur administration d'origine jusqu'à changement de leur administration d'affectation et, au plus, pendant une période de cinq ans.

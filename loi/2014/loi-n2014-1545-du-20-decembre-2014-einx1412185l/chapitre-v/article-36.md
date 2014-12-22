@@ -1,0 +1,3 @@
+# Article 36
+
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toute mesure relevant du domaine de la loi et ayant pour objet de fixer les règles de recouvrement, de gestion et de contestation devant la juridiction administrative spécialisée de la redevance de stationnement, y compris du forfait de post-stationnement, mentionnée à l'article L. 2333-87 du code général des collectivités territoriales, dans sa rédaction résultant de l'article 63 de la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles, ainsi que les règles de contestation des actes de poursuite pris par le comptable compétent.

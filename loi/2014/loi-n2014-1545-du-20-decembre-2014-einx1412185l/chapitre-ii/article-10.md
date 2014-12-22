@@ -1,0 +1,5 @@
+# Article 10
+
+Dans les conditions prévues à l'article 38 de la Constitution et aux fins d'alléger les contraintes pesant sur les entreprises, le Gouvernement est autorisé à prendre par ordonnance toute mesure relevant du domaine de la loi aux fins de supprimer ou de simplifier les régimes d'autorisation préalable et de déclaration auxquels sont soumis les entreprises et les professionnels dans le cadre de l'exercice de leur activité, de remplacer certains de ces régimes d'autorisation préalable par des régimes déclaratifs et de définir, dans ce cadre, des possibilités d'opposition de l'administration, des modalités de contrôle a posteriori et des sanctions éventuelles, tout en préservant les exigences de garantie des libertés individuelles, des droits fondamentaux et de la santé publique, ainsi que de protection des personnes et des données à caractère personnel.
+
+Les régimes d'autorisation préalable et de déclaration mentionnés au premier alinéa du présent article sont ceux qui s'appliquent exclusivement aux entreprises et aux professionnels et qui n'impliquent pas de demande à portée exclusivement financière.

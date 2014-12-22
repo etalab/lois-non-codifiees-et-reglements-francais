@@ -1,0 +1,3 @@
+# Article 5
+
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance toute mesure relevant du domaine de la loi afin de simplifier et de sécuriser les modalités et conditions d'application de la section 1 du chapitre III du titre II du livre Ier de la troisième partie du code du travail et du VIII de l'article 12 de la loi n° 2013-504 du 14 juin 2013 relative à la sécurisation de l'emploi et de préciser les conditions dans lesquelles un salarié travaillant moins de vingt-quatre heures par semaine peut demander à obtenir une durée de travail supérieure ou égale à ce seuil.
