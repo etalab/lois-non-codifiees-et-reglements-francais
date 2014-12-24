@@ -537,7 +537,6 @@
 - [Arrêté du 8 décembre 2011 (DEVA1133474A)](arrete-du-8-decembre-2011-deva1133474a)
 - [Arrêté du 8 décembre 2011 (DEVP1132166A)](arrete-du-8-decembre-2011-devp1132166a)
 - [Arrêté du 8 décembre 2011 (EFIC1127741A)](arrete-du-8-decembre-2011-efic1127741a)
-- [Arrêté du 8 décembre 2011 (EFIG1127363A)](arrete-du-8-decembre-2011-efig1127363a)
 - [Arrêté du 8 décembre 2011 (EFIG1132768A)](arrete-du-8-decembre-2011-efig1132768a)
 - [Arrêté du 8 décembre 2011 (ETSF1133544A)](arrete-du-8-decembre-2011-etsf1133544a)
 - [Arrêté du 8 décembre 2011 (ETSH1133855A)](arrete-du-8-decembre-2011-etsh1133855a)
