@@ -6,6 +6,4 @@ Au titre de sa mission de pilotage de l'ensemble des projets du SIGP et dans le 
 
 ― coordonne et pilote l'ensemble des projets de création, de modification et d'évolution des prestations, depuis la conception des applications jusqu'à leur mise en production, et veille à leur maintien en condition opérationnelle ;
 
-― pilote les projets de gestion collaborative en concertation avec les directions et services ;
-
-― est responsable de la valorisation de la conservation du patrimoine historique et de la gestion des archives de la DGAC.
+― pilote les projets de gestion collaborative en concertation avec les directions et services.

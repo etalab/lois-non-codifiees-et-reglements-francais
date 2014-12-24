@@ -20,8 +20,10 @@ Il apporte le support de second niveau aux administrateurs d'informatique de ges
 
 Le domaine " Production et exploitation " comprend quatre pôles :
 
-― le pôle " exploitation des serveurs " ;
+- le pôle " exploitation des serveurs " ;
 
-― le pôle " exploitation des réseaux " ;
+- le pôle " exploitation des réseaux " ;
 
-― le pôle " centre de service et communauté des administrateurs d'informatique de gestion ".
+- le pôle " centre de service et communauté des administrateurs d'informatique de gestion " ;
+
+- le pôle " support Farman ".
