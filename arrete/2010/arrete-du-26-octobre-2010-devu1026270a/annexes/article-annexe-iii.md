@@ -138,25 +138,23 @@ Sources d'énergie renouvelables
 
 Les sources d'énergie renouvelables sont définies à l'article 19 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement et modifiant l'article 29 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique.
 
-Surface de plancher hors œuvre nette au sens de la RT d'un bâtiment
+Surface thermique au sens de la RT d'une maison individuelle ou accolée, ou d'un bâtiment ou d'une partie de bâtiment collectif d'habitation, SRT
 
-ou d'une partie de bâtiment à usage d'habitation, SHONRT
+La surface thermique au sens de la RT d'un bâtiment ou d'une partie de bâtiment à usage d'habitation, SRT, est égale à la somme des surfaces de parois horizontales construites de chaque niveau de ce bâtiment ou de cette partie de bâtiment, mesurées au nu extérieur des murs de pourtour, après déduction :
 
-La surface de plancher hors œuvre nette au sens de la RT d'un bâtiment ou d'une partie de bâtiment à usage d'habitation, SHONRT, est égale à la surface hors œuvre brute de ce bâtiment ou de cette partie de bâtiment, au sens du premier alinéa de l'article R. 112-2 du code de l'urbanisme, après déduction :
+a) Des surfaces de parois horizontales construites des combles et des sous-sols non aménageables ou non aménagés pour l'habitation ou pour des activités à caractère professionnel, artisanal, industriel ou commercial.
 
-a) Des surfaces de plancher hors œuvre des combles et des sous-sols non aménageables ou non aménagés pour l'habitation ou pour des activités à caractère professionnel, artisanal, industriel ou commercial ;
+Sont définis comme non aménageables pour l'habitation, les locaux ou parties de locaux qui correspondent à des hauteurs sous toiture ou sous plafond inférieures à 1,80 m, les locaux techniques affectés au fonctionnement général du bâtiment et à occupation passagère, les caves ;
 
-b) Des surfaces de plancher hors œuvre des toitures-terrasses, des balcons, des loggias, des vérandas non chauffées ainsi que des surfaces non closes situées au rez-de-chaussée ou à des niveaux supérieurs ;
+b) Des surfaces de parois horizontales construites des toitures-terrasses, des balcons, des loggias, des vérandas non chauffées ainsi que des surfaces non closes situées au rez-de-chaussée ou à des niveaux supérieurs ;
 
-c) Des surfaces de plancher hors œuvre des bâtiments ou des parties de bâtiment aménagés en vue du stationnement des véhicules ;
+c) Des surfaces de parois horizontales construites des bâtiments ou des parties de bâtiment aménagés en vue du stationnement des véhicules.
 
-d) Dans les exploitations agricoles, des surfaces de plancher des serres de production, des locaux destinés à abriter les récoltes, à héberger les animaux, à ranger et à entretenir le matériel agricole, des locaux de production et de stockage des produits à usage agricole, des locaux de transformation et de conditionnement des produits provenant de l'exploitation.
+Surface thermique au sens de la RT  d'un bâtiment
 
-Surface de plancher hors œuvre nette au sens de la RT d'un bâtiment
+ou d'une partie de bâtiment à usage autre que d'habitation, SRT
 
-ou d'une partie de bâtiment à usage autre que d'habitation, SHONRT
-
-La surface de plancher hors œuvre nette, au sens de la RT, d'un bâtiment ou d'une partie de bâtiment à usage autre que d'habitation, SHONRT, est égale à la surface utile de ce bâtiment ou de cette partie de bâtiment, multipliée par un coefficient dépendant de l'usage défini ci-dessous :
+La surface thermique au sens de la RT, d'un bâtiment ou d'une partie de bâtiment à usage autre que d'habitation, SRT , est égale à la surface utile de ce bâtiment ou de cette partie de bâtiment, multipliée par un coefficient dépendant de l'usage défini ci-dessous :
 
 <table>
 <tbody>

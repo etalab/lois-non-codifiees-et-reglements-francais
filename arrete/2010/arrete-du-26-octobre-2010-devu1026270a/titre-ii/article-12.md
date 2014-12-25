@@ -6,7 +6,7 @@ Cepmax = 57,5 × Mctype × (Mcgéo + Mcalt + Mcsurf + McGES)
 
 Avec :
 
-Mctype : coefficient de modulation selon le type de bâtiment ou de partie de bâtiment et sa catégorie CE1/CE2 ;
+Mctype : coefficient de modulation selon le type de bâtiment ou de partie de bâtiment et sa catégorie CE1/ CE2 ;
 
 Mcgéo : coefficient de modulation selon la localisation géographique ;
 
@@ -18,4 +18,4 @@ McGES : coefficient de modulation selon les émissions de gaz à effet de serre 
 
 Les valeurs des coefficients de modulation sont définies à l'annexe VIII.
 
-Pour les bâtiments comportant plusieurs zones, définies par leur usage, le Cepmax du bâtiment est calculé au prorata des SHONRT de chaque zone, à partir des Cepmax des différentes zones.
+Pour les bâtiments comportant plusieurs zones, définies par leur usage, le Cepmax du bâtiment est calculé au prorata des SRT  de chaque zone, à partir des Cepmax des différentes zones.

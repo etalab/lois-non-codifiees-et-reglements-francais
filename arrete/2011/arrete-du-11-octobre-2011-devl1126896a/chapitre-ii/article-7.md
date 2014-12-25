@@ -16,7 +16,7 @@ I.-Pour tout type de bâtiment :
 
 6° La date de la visite sur site nécessaire à l'établissement de l'attestation ;
 
-7° La valeur de la surface de plancher au sens de la réglementation thermique SHONRT ;
+7° La valeur de la surface de plancher au sens de la réglementation thermique SRT ;
 
 8° Les valeurs des coefficients Bbio et Bbiomax du bâtiment et le statut du projet vis-à-vis de l'exigence définie au I (2°) de l'article 7 de l'arrêté du 26 octobre 2010 susvisé, vérifiés à l'aide du récapitulatif standardisé d'étude thermique ;
 

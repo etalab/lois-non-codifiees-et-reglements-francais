@@ -18,6 +18,8 @@ Cette information est délivrée dans le volume habitable, par type d'énergie, 
 
 - autres.
 
+Cette répartition peut être basée soit sur des données mesurées, soit sur des données estimées à partir d'un paramétrage préalablement défini.
+
 Toutefois, dans le cas d'un maître d'ouvrage qui est également le futur propriétaire bailleur du bâtiment construit, notamment les maîtres d'ouvrage de logements locatifs sociaux, cette information peut être délivrée aux occupants, a minima mensuellement, par voie électronique ou postale et non pas directement dans le volume habitable.
 
-Cette répartition peut être basée soit sur des données mesurées, soit sur des données estimées à partir d'un paramétrage préalablement défini.
+La justification de la prise en compte de cet article doit être effectuée conformément au guide Mesure ou estimation des consommations en logement, qui en précise les modalités d'application.

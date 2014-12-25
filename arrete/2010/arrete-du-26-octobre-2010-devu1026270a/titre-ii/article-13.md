@@ -6,7 +6,7 @@ Bbiomax = Bbiomaxmoyen × (Mbgéo + Mbalt + Mbsurf)
 
 Avec :
 
-Bbiomaxmoyen : valeur moyenne du Bbiomax définie par type d'occupation du bâtiment ou de la partie de bâtiment et par catégorie CE1/CE2 ;
+Bbiomaxmoyen : valeur moyenne du Bbiomax définie par type d'occupation du bâtiment ou de la partie de bâtiment et par catégorie CE1/ CE2 ;
 
 Mbgéo : coefficient de modulation selon la localisation géographique ;
 
@@ -16,4 +16,4 @@ Mbsurf : pour les maisons individuelles ou accolées, coefficient de modulation 
 
 Les valeurs de Bbiomaxmoyen et des coefficients de modulation sont définies à l'annexe VIII.
 
-Pour les bâtiments comportant plusieurs zones, définies par leur usage, le Bbiomax du bâtiment est calculé au prorata des SHONRT de chaque zone, à partir des Bbiomax des différentes zones.
+Pour les bâtiments comportant plusieurs zones, définies par leur usage, le Bbiomax du bâtiment est calculé au prorata des SRT  de chaque zone, à partir des Bbiomax des différentes zones.

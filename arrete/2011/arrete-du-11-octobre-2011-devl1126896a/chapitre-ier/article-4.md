@@ -22,7 +22,7 @@ II.-Pour les bâtiments de surface de plancher de plus de 1 000 m ², mentionné
 
 III.-Pour tout type de bâtiment :
 
-1° La valeur de la surface de plancher au sens de la réglementation thermique SHONRT ;
+1° La valeur de la surface de plancher au sens de la réglementation thermique SRT ;
 
 2° Les valeurs des coefficients Bbio et Bbiomax du bâtiment ;
 
@@ -39,3 +39,5 @@ IV.-Pour les maisons individuelles ou accolées et les bâtiments collectifs d'h
 V.-Pour les maisons individuelles ou accolées, la solution envisagée à ce stade du projet comme recours à une source d'énergie renouvelable ou solution alternative, en application de l'article 16 de l'arrêté du 26 octobre 2010 susvisé.
 
 VI.-Pour les bâtiments autres que maison individuelle ou accolée, les solutions envisagées à ce stade du projet comme recours à une source d'énergie renouvelable.
+
+VII.-Dans le cas d'une opération dont la SRT est inférieure à 50 m2, seuls les points I-1° à I-5° et III-1° et le statut du projet vis-à-vis des exigences définies à l'arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants sont renseignés.
