@@ -50,10 +50,6 @@ Diclazuril.
 
 Halofuginone.
 
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
 Toltrazuril.
 
 1.4. Antiparasitaires externes
@@ -82,55 +78,7 @@ Ivermectine.
 
 Moxidectine.
 
-2. Antibiotiques
-
-2.1. Sous forme d'aliments médicamenteux
-
-Chlortétracycline.
-
-Colistine.
-
-Néomycine.
-
-Oxytétracycline.
-
-Spiramycine
-
-2.2. Produits pour la prophylaxie des mammites
-
-(préparations administrables par voie galactophore exclusivement
-
-réservées au traitement pendant la période de tarissement)
-
-Ampicilline.
-
-Benzylpénicilline G.
-
-Céfapirine.
-
-Cefquinome.
-
-Céfazoline.
-
-Céfalexine.
-
-Céfalonium.
-
-Cloxacilline.
-
-Colistine.
-
-Dihydrostreptomycine.
-
-Framycétine.
-
-Nafcilline.
-
-Néomycine.
-
-Rifaximine.
-
-Spiramycine.
+2. (Abrogé)
 
 3. Vitamines et oligoéléments
 
@@ -178,7 +126,9 @@ Vaccins contre :
 
 - les affections dues à Coxiella burnetii. ;
 
-- la fièvre catarrhale ovine (sérotypes 1 et 8).
+- la fièvre catarrhale ovine (sérotypes 1 et 8) ;
+
+- la leptospirose.
 
 5. Médicaments utilisés
 
@@ -220,10 +170,6 @@ Pipérazine.
 
 1.3. Anticoccidiens
 
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
 Toltrazuril.
 
 1.4. Antiparasitaires externes
@@ -236,41 +182,7 @@ Ivermectine.
 
 Phoxime.
 
-2. Anti-infectieux/antibiotiques
-
-(sous forme d'aliments médicamenteux ou de préparations pâteuses
-
-administrées par voie orale aux porcelets jusqu'à 25 kg)
-
-Amoxicilline.
-
-Chlortétracyline.
-
-Apramycine.
-
-Colistine.
-
-Doxycycline.
-
-Lincomycine.
-
-Néomycine.
-
-Oxytétracycline.
-
-Spectinomycine.
-
-Lincomycine.
-
-Spiramycine.
-
-Tiamuline.
-
-Triméthoprime.
-
-Tylosine.
-
-Valnémuline.
+2. (Abrogé)
 
 3. Vitamines et oligoéléments
 
@@ -370,15 +282,13 @@ Décoquinate.
 
 Diclazuril.
 
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
 Toltrazuril.
 
 1.4. Antiparasitaires externes
 
 Amitraz.
+
+Cyperméthrine.
 
 Deltaméthrine.
 
@@ -394,21 +304,7 @@ Moxidectine.
 
 Phoxime.
 
-2. Anti-infectieux/antibiotiques
-
-2.1. Sous forme d'aliments médicamenteux
-
-Chlortétracycline.
-
-Oxytétracycline.
-
-2.2. Produits pour la prophylaxie des mammites
-
-(préparations administrables par voie galactophore exclusivement
-
-réservées au traitement pendant la période de tarissement)
-
-Céfazoline.
+2. (Abrogé)
 
 3. Vitamines et oligoéléments
 
@@ -440,6 +336,8 @@ Vaccins contre :
 
 - la toxoplasmose ;
 
+- les mammites à Staphylococcus aureus ;
+
 - la fièvre catarrhale ovine (sérotypes 1 et 8).
 
 5. Médicaments utilisés pour la maîtrise de l'œstrus
@@ -470,11 +368,7 @@ Fenbendazole.
 
 Oxfendazole.
 
-1.3. Anticoccidiens
-
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
+1.3. (Abrogé)
 
 1.4. Antiparasitaires externes
 
@@ -482,13 +376,7 @@ Amitraz.
 
 Diazinon (Dimpylate).
 
-2. Anti-infectieux/antibiotiques
-
-2.1. Sous forme d'aliments médicamenteux
-
-Chlortétracycline.
-
-Oxytétracycline.
+2. (Abrogé)
 
 3. Vitamines et oligoéléments
 
@@ -512,7 +400,7 @@ Vaccins contre :
 
 - les affections dues à Coxiella burnetii ;
 
-- la fièvre catarrhale ovine (sérotypes 1 et 8).
+- les mammites à Staphylococcus aureus et staphylocoques coagulase négatifs.
 
 5. Médicaments utilisés pour la maîtrise de l'œstrus
 
@@ -530,6 +418,8 @@ Production avicole, volailles et oiseaux
 
 1.2. Anthelminthiques
 
+Fenbendazole.
+
 Flubendazole.
 
 Lévamisole.
@@ -540,61 +430,9 @@ Pipérazine.
 
 Amprolium.
 
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
-Sulfaquinoxaline.
-
 Toltrazuril.
 
-2. Anti-infectieux/antibiotiques
-
-2.1. Sous forme d'aliments médicamenteux
-
-2.1.1. Sulfamides
-
-Sulfadimérazine (Sulfadimidine).
-
-2.1.2. Antibiotiques
-
-Chlortétracycline.
-
-Colistine.
-
-Doxycycline.
-
-Néomycine.
-
-Oxytétracycline.
-
-Spiramycine.
-
-Tylosine.
-
-2.2. Anti-infectieux administrés dans l'eau de boisson
-
-(et seulement à des concentrations correspondant à
-
-une médication exclusivement préventive)
-
-Colistine.
-
-Oxytétracycline.
-
-Spiramycine.
-
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
-Sulfaméthoxypyridazine.
-
-Tiamuline.
-
-Triméthoprime.
-
-Tylosine.
+2. (Abrogé)
 
 3. Vitamines et oligoéléments
 
@@ -658,51 +496,9 @@ Chapitre VI
 
 Production cunicole
 
-1. Antiparasitaires
+1. (Abrogé)
 
-1.3. Anticoccidiens
-
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
-Sulfaquinoxaline.
-
-2. Anti-infectieux/antibiotiques
-
-2.1. Sous forme d'aliments médicamenteux
-
-2.1.1. Sulfamides
-
-Sulfadimérazine (Sulfamidine).
-
-2.1.2. Antibiotiques
-
-Chlortétracycline.
-
-Colistine.
-
-Néomycine.
-
-Oxytétracycline.
-
-2.2. Anti-infectieux administrés dans l'eau de boisson
-
-(et seulement à des concentrations correspondant à
-
-une médication exclusivement préventive)
-
-Colistine.
-
-Oxytétracycline.
-
-Sulfadimérazine (Sulfadimidine).
-
-Sulfadiméthoxine.
-
-Sulfaméthoxypyridazine.
-
-Triméthoprime.
+2. (Abrogé)
 
 3. Vitamines et oligoéléments
 
@@ -734,31 +530,9 @@ Chapitre VII
 
 Production de petit gibier
 
-1. Antiparasitaires
+1. (Abrogé)
 
-1.3. Anticoccidiens
-
-Sulfadiméthoxine.
-
-Sulfaquinoxaline.
-
-2. Anti-infectieux/antibiotiques
-
-2.1. Sous forme d'aliments médicamenteux
-
-2.1.1. Sulfamides
-
-Sulfadimérazine (Sulfadimidine).
-
-2.1.2. Antibiotiques
-
-Chlortétracycline.
-
-Colistine.
-
-Néomycine.
-
-Oxytétracycline.
+2. (Abrogé)
 
 3. Vitamines
 
