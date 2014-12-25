@@ -69,6 +69,7 @@
 - [Décret n°2011-964 du 16 août 2011 (DEFH1111915D)](decret-n2011-964-du-16-aout-2011-defh1111915d)
 - [Décret du 17 octobre 2011 (IOCB1125397D)](decret-du-17-octobre-2011-iocb1125397d)
 - [Décret n°2011-1317 du 17 octobre 2011 (MFPF1113937D)](decret-n2011-1317-du-17-octobre-2011-mfpf1113937d)
+- [Décret n°2011-1325 du 18 octobre 2011 (AGRG1111616D)](decret-n2011-1325-du-18-octobre-2011-agrg1111616d)
 - [Décret n°2010-1247 du 20 octobre 2010 (AGRS1020874D)](decret-n2010-1247-du-20-octobre-2010-agrs1020874d)
 - [Décret n°2011-1597 du 21 novembre 2011 (DEVR1126147D)](decret-n2011-1597-du-21-novembre-2011-devr1126147d)
 - [Décret n°2011-193 du 21 février 2011 (PRMX1104430D)](decret-n2011-193-du-21-fevrier-2011-prmx1104430d)
