@@ -17,7 +17,6 @@
 - [Arrêté du 7 mai 1974](arrete-du-7-mai-1974)
 - [Arrêté du 8 novembre 1974](arrete-du-8-novembre-1974)
 - [Arrêté du 8 octobre 1974](arrete-du-8-octobre-1974)
-- [Arrêté du 9 août 1974](arrete-du-9-aout-1974)
 - [Arrêté du 10 avril 1974](arrete-du-10-avril-1974)
 - [Arrêté du 10 décembre 1973](arrete-du-10-decembre-1973)
 - [Arrêté du 11 juin 2010 (ESRH1000233A)](arrete-du-11-juin-2010-esrh1000233a)
