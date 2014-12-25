@@ -22,11 +22,19 @@ Sauf dans le cas où le fonctionnaire ne peut être placé en congé de longue m
 
 Sur demande de l'intéressé, l'administration a la faculté, après avis du comité médical, de maintenir en congé de longue maladie le fonctionnaire qui peut prétendre à l'octroi d'un congé de longue durée ;
 
-5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale. Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
+5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale.
+
+En cas de décès de la mère au cours de la période entre la naissance de l'enfant et la fin de l'indemnisation prévue par son régime d'assurance maternité, le père bénéficie d'un droit à congé, avec traitement, pour la durée restant à courir entre la date du décès de la mère et la fin de la période d'indemnisation dont elle aurait bénéficié.
+
+Le fonctionnaire bénéficiaire de ce droit à congé peut demander le report de tout ou partie de ce congé.
+
+Lorsque le père de l'enfant ne demande pas à bénéficier de ce droit à congé, avec traitement, ce droit est accordé au conjoint de la mère ou au fonctionnaire lié à elle par un pacte civil de solidarité ou vivant maritalement avec elle.
+
+Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
 
 Au congé de paternité et d'accueil de l'enfant en cas de naissance, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale.
 
-A l'expiration de chacun des congés mentionnés aux deux alinéas précédents, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 60 ;.
+A l'expiration de chacun des congés mentionnés au présent 5°, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 60 ;
 
 6° Au congé de formation professionnelle ;
 
