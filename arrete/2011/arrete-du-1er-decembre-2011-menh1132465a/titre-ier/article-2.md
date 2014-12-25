@@ -1,8 +1,6 @@
 # Article 2
 
-Il est créé auprès du ministre chargé de l'éducation nationale un comité d'hygiène, de sécurité et des conditions de travail ministériel ayant compétence dans le cadre du titre IV du décret du 28 mai 1982 susvisé pour connaître de toutes les questions concernant l'ensemble des services centraux et des services déconcentrés du département ministériel.
-
-En outre, le comité d'hygiène, de sécurité et des conditions de travail ministériel est compétent pour examiner les questions communes à tout ou partie des établissements publics administratifs suivants :
+Le comité d'hygiène, de sécurité et des conditions de travail ministériel de l'éducation nationale créé en application de l'article 1er du décret du 22 décembre 2014 susvisé est compétent pour examiner les questions communes à tout ou partie des établissements publics administratifs suivants :
 
 Centre international d'études pédagogiques ;
 

@@ -1,3 +1,0 @@
-# Article 3
-
-Le comité d'hygiène, de sécurité et des conditions de travail ministériel créé en application de l'article 2 apporte son concours, pour les questions concernant les services mentionnés à l'article 2, au comité technique ministériel de l'éducation nationale ayant compétence dans le cadre du titre III du décret du 15 février 2011 susvisé pour connaître de toutes les questions concernant l'ensemble des services centraux, des services déconcentrés du département ministériel et des questions communes à tout ou partie des établissements publics administratifs mentionnés à l'article 2 de l'arrêté du 8 avril 2011 susvisé.
