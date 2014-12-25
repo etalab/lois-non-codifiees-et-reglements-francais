@@ -2396,7 +2396,6 @@
 - [Arrêté du 26 décembre 2011 (COTB1132568A)](arrete-du-26-decembre-2011-cotb1132568a)
 - [Arrêté du 26 décembre 2011 (DEVL1133433A)](arrete-du-26-decembre-2011-devl1133433a)
 - [Arrêté du 26 décembre 2011 (DEVR1132344A)](arrete-du-26-decembre-2011-devr1132344a)
-- [Arrêté du 26 décembre 2011 (ESRH1135075A)](arrete-du-26-decembre-2011-esrh1135075a)
 - [Arrêté du 26 décembre 2011 (ETSS1129062A)](arrete-du-26-decembre-2011-etss1129062a)
 - [Arrêté du 26 décembre 2011 (MAEA1133874A)](arrete-du-26-decembre-2011-maea1133874a)
 - [Arrêté du 26 décembre 2011 (MFPF1135452A)](arrete-du-26-decembre-2011-mfpf1135452a)
