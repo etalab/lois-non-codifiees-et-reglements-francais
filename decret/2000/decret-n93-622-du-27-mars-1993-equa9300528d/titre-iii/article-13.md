@@ -3,106 +3,99 @@
 Les techniciens supérieurs nommés au grade de technicien supérieur des études et de l'exploitation de l'aviation civile de classe principale sont classés dans ce grade conformément au tableau ci-après : <table>
 <tbody>
 <tr>
+<th>TSEEAC DE CLASSE NORMALE <br/>
+</th>
+<th colspan="2">
+<br/>TSEEAC DE CLASSE PRINCIPALE <br/>
+</th>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Echelons <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Echelons <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Ancienneté conservée dans la limite de la durée de l'échelon d'accueil <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>10e échelon <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7e échelon <br/>
+</td>
 <td>
-<p align="center">TSEEAC DE CLASSE NORMALE</p>
-</td>
-<td colspan="2">
-<p align="center">  TSEEAC DE CLASSE PRINCIPALE</p>
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="center">Echelons</p>
+<td align="center" valign="middle">
+<br/>9e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Echelons</p>
+<td align="center" valign="middle">
+<br/>6e échelon <br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Ancienneté conservée dans la limite <br/>de la durée de l'échelon</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">11e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">7e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">Ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">10e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">6e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">7/8 de l'ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">9e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">5e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">7/8 de l'ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">8e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">4e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">Ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">7e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">3e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">4/5 de l'ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">6e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">2e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">3/5 de l'ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">5e échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="left">1er échelon</p>
-</td>
-<td align="left" valign="top">
-<p align="center">3/4 de l'ancienneté acquise.</p>
-</td>
-</tr>
-<tr>
-<td>4e échelon </td>
-<td>1er échelon </td>
 <td>
-<p align="center">Sans ancienneté</p>
+<br/>7/8 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>8e échelon <br/>
+</td>
+<td align="center" valign="middle">
+<p align="center">
+<br/>5e échelon </p>
+</td>
+<td>
+<br/>7/8 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>7e échelon <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4e échelon <br/>
+</td>
+<td>
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>6e échelon <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3e échelon <br/>
+</td>
+<td>
+<br/>4/5 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>5e échelon <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2e échelon <br/>
+</td>
+<td>
+<br/>3/5 de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>4e échelon <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1er échelon <br/>
+</td>
+<td>
+<br/>3/4 de l'ancienneté acquise<br/>
 </td>
 </tr>
 </tbody>
