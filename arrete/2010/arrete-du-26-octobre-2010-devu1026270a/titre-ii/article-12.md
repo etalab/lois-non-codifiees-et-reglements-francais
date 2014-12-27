@@ -1,6 +1,6 @@
 # Article 12
 
-Pour les bâtiments collectifs d'habitation ou parties de bâtiment collectif d'habitation ayant fait l'objet d'une demande de permis ou d'une déclaration préalable déposée entre la date d'entrée en vigueur du décret n° 2010-1269 du 26 octobre 2010 susvisé et le 31 décembre 2014, la consommation conventionnelle maximale d'énergie primaire du bâtiment ou de la partie de bâtiment, Cepmax, est déterminée comme suit :
+Pour les bâtiments collectifs d'habitation ou parties de bâtiment collectif d'habitation ayant fait l'objet d'une demande de permis ou d'une déclaration préalable déposée entre la date d'entrée en vigueur du décret n° 2010-1269 du 26 octobre 2010 susvisé et le  31 décembre 2017 , la consommation conventionnelle maximale d'énergie primaire du bâtiment ou de la partie de bâtiment, Cepmax, est déterminée comme suit :
 
 Cepmax = 57,5 × Mctype × (Mcgéo + Mcalt + Mcsurf + McGES)
 
@@ -18,4 +18,4 @@ McGES : coefficient de modulation selon les émissions de gaz à effet de serre 
 
 Les valeurs des coefficients de modulation sont définies à l'annexe VIII.
 
-Pour les bâtiments comportant plusieurs zones, définies par leur usage, le Cepmax du bâtiment est calculé au prorata des SRT  de chaque zone, à partir des Cepmax des différentes zones.
+Pour les bâtiments comportant plusieurs zones, définies par leur usage, le Cepmax du bâtiment est calculé au prorata des SRT de chaque zone, à partir des Cepmax des différentes zones.
