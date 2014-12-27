@@ -4,21 +4,21 @@ En outre, lorsque le service normal de nuit nécessite un travail intensif, les 
 
 1° Les personnels régis par les décrets :
 
-- n° 88-1077 du 30 novembre 1988 modifié portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière ;
+-n° 88-1077 du 30 novembre 1988 modifié portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière ;
 
-- n° 89-241 du 18 avril 1989 modifié portant statuts particuliers des aides-soignants et des agents des services hospitaliers de la fonction publique hospitalière et portant statut particulier des agents des services hospitaliers qualifiés de la fonction publique hospitalière ;
+-n° 2001-1375 du 31 décembre 2001 modifié portant statut particulier du corps des cadres de santé de la fonction publique hospitalière ;
 
-- n° 89-609 du 1er septembre 1989 modifié portant statuts particuliers des personnels de rééducation de la fonction publique hospitalière ;
+-n° 2007-1188 du 3 août 2007 modifié portant statut particulier du corps des aides-soignants et des agents des services hospitaliers qualifiés de la fonction publique hospitalière ;
 
-- n° 89-611 du 1er septembre 1989 modifié portant statut particulier des sages-femmes de la fonction publique hospitalière ;
+-n° 2010-1139 du 29 septembre 2010 modifié portant statut particulier du corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière ;
 
-- n° 89-613 du 1er septembre 1989 modifié portant statuts particuliers des personnels médico-techniques de la fonction publique hospitalière ;
+-n° 2011-746 du 27 juin 2011 modifié portant statuts particuliers des corps des personnels de rééducation de la catégorie B de la fonction publique hospitalière ;
 
-- n° 91-1271 du 18 décembre 1991 portant statut particulier des personnels infirmiers surveillants-chefs des services médicaux de la fonction publique hospitalière et modifiant le décret n° 88-1077 du 30 novembre 1988 modifié portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière ;
+-n° 2011-748 du 27 juin 2011 modifié portant statuts particuliers des corps des personnels médico-techniques de la catégorie B de la fonction publique hospitalière ;
 
-- n° 91-1269 du 18 décembre 1991 portant statut particulier des personnels de rééducation surveillants-chefs des services médicaux de la fonction publique hospitalière et modifiant le décret n° 89-609 du 1er septembre 1989 modifié portant statuts particuliers des personnels de rééducation de la fonction publique hospitalière ;
+-n° 2012-1466 du 26 décembre 2012 portant statut particulier du corps des cadres de santé paramédicaux de la fonction publique hospitalière ;
 
-- n° 91-1273 du 18 décembre 1991 portant statut particulier des personnels médico-techniques surveillants-chefs de la fonction publique hospitalière et modifiant le décret n° 89-613 du 1er septembre 1989 portant statuts particuliers des personnels médico-techniques de la fonction publique hospitalière,
+-n° 2014-1585 du 23 décembre 2014 portant statut particulier des sages-femmes des hôpitaux de la fonction publique hospitalière,
 
 lorsqu'ils effectuent pendant la nuit les mêmes travaux effectifs que ceux qu'ils accompliraient en service de jour.
 
