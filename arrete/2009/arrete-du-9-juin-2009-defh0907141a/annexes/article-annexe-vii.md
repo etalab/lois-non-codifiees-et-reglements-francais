@@ -7,20 +7,23 @@ Fonctions relevant du service des essences des armées
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉSIGNATION DE L'EMPLOI</td>
-<td align="center"> NOMBRE D'EMPLOIS </td>
-<td align="center"> NOMBRE DE POINTS PAR EMPLOI </td>
+<th>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<div align="left">Directeur de l'exploitation et de la logistique pétrolière interarmées <br/>
-</div>
+<td>
+<br/>Directeur de l'exploitation et de la logistique pétrolière interarmées <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>100 <br/>
 </td>
 </tr>

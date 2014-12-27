@@ -203,7 +203,6 @@
 - [Arrêté du 8 janvier 2002 (EQUT0101837A)](arrete-du-8-janvier-2002-equt0101837a)
 - [Arrêté du 8 janvier 2002 (MCCB0100739A)](arrete-du-8-janvier-2002-mccb0100739a)
 - [Arrêté du 8 janvier 2002 (MENS0200032A)](arrete-du-8-janvier-2002-mens0200032a)
-- [Arrêté du 8 janvier 2002 (MESH0124163A)](arrete-du-8-janvier-2002-mesh0124163a)
 - [Arrêté du 8 janvier 2002 (MJSK0170208A)](arrete-du-8-janvier-2002-mjsk0170208a)
 - [Arrêté du 8 juillet 2002 (AGRG0201589A)](arrete-du-8-juillet-2002-agrg0201589a)
 - [Arrêté du 8 juillet 2002 (EQUS0201021A)](arrete-du-8-juillet-2002-equs0201021a)

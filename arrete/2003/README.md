@@ -121,7 +121,6 @@
 - [Arrêté du 4 mars 2003 (SANS0320810A)](arrete-du-4-mars-2003-sans0320810a)
 - [Arrêté du 4 novembre 2003 (JUSF0350134A)](arrete-du-4-novembre-2003-jusf0350134a)
 - [Arrêté du 4 septembre 2003 (EQUS0301270A)](arrete-du-4-septembre-2003-equs0301270a)
-- [Arrêté du 4 septembre 2003 (SANH0322616A)](arrete-du-4-septembre-2003-sanh0322616a)
 - [Arrêté du 4 septembre 2003 (SOCF0311412A)](arrete-du-4-septembre-2003-socf0311412a)
 - [Arrêté du 4 septembre 2003 (SOCF0311413A)](arrete-du-4-septembre-2003-socf0311413a)
 - [Arrêté du 4 septembre 2003 (SOCF0311415A)](arrete-du-4-septembre-2003-socf0311415a)

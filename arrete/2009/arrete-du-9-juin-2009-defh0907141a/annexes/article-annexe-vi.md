@@ -7,161 +7,166 @@ Fonctions relevant du service de santé des armées
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉSIGNATION DE L'EMPLOI </td>
-<td align="center"> NOMBRE D'EMPLOIS </td>
-<td align="center"> NOMBRE DE POINTS PAR EMPLOI </td>
+<th>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
+</th>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Inspecteur général du service de santé des armées <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées du Val-de-Grâce <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées du "Val-de-Grâce" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Sainte-Anne <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Sainte-Anne" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Laveran <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Laveran" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Percy <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Percy" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Bégin <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Bégin" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Desgenettes <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Desgenettes" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Robert Picqué <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Robert Picqué" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Clermont-Tonnerre <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Clermont-Tonnerre" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Médecin chef de l'hôpital d'instruction des armées Legouest <br/>
+<td>
+<br/>Médecin-chef de l'hôpital d'instruction des armées "Legouest" <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Directeur des approvisionnements en produits de santé <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Directeur de l'école du Val-de-Grâce <br/>
+<td>
+<br/>Directeur de l'Ecole du Val-de-Grâce <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Directeur de l'institut de recherche biomédicale du service de santé des armées <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Inspecteur du service de santé des armées <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="left" valign="bottom">
 <br/>100 <br/>
 </td>
 </tr>

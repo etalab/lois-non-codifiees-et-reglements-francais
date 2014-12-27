@@ -7,52 +7,56 @@ Fonctions relevant de la direction générale de l'armement
 <table>
 <tbody>
 <tr>
-<td align="center"> DÉSIGNATION DE L'EMPLOI </td>
-<td align="center">
-<br/>NOMBRE D'EMPLOIS </td>
-<td align="center"> NOMBRE DE POINTS PAR EMPLOI </td>
+<th>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
+</th>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Directeur de DGA maîtrise de l'information à la direction technique <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Directeur de DGA essais en vol à la direction technique <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Directeur de DGA essais de missiles à la direction technique <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Directeur local du service de soutien de la flotte <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>1 <br/>
 </td>
-<td align="center">
+<td align="center" valign="bottom">
 <br/>80 <br/>
 </td>
 </tr>

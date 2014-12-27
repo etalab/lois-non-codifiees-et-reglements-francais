@@ -4,23 +4,22 @@ TABLEAU I
 
 Emplois de haute direction
 
-<div align="left">
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI </p>
-</td>
-<td>
-<p align="center"> NOMBRE D'EMPLOIS </p>
-</td>
-<td>
-<p align="center"> NOMBRE DE POINTS PAR EMPLOI </p>
-</td>
+<th>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
+</th>
 </tr>
 <tr>
 <td align="left">
-<p>Chef d'état-major des armées </p>
+<br/>Chef d'état-major des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -31,7 +30,29 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Secrétaire général pour l'administration </p>
+<br/>Secrétaire général pour l'administration <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>200 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Délégué général pour l'armement <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>200 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Chef d'état-major de l'armée de terre <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -42,7 +63,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Délégué général pour l'armement </p>
+<br/>Chef d'état-major de la marine nationale <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -53,7 +74,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Chef d'état-major de l'armée de terre </p>
+<br/>Chef d'état-major de l'armée de l'air <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -64,7 +85,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Chef d'état-major de la marine nationale </p>
+<br/>Chef du contrôle général des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -75,29 +96,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Chef d'état-major de l'armée de l'air </p>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>180 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<p>Chef du contrôle général des armées </p>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>180 <br/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<p>Major général des armées </p>
+<br/>Major général des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -108,7 +107,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Major général de l'armée de terre </p>
+<br/>Major général de l'armée de terre <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -119,7 +118,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Major général de la marine nationale </p>
+<br/>Major général de la marine nationale <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -130,7 +129,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Major général de l'armée de l'air </p>
+<br/>Major général de l'armée de l'air <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -141,7 +140,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Directeur général adjoint de la direction générale de l'armement </p>
+<br/>Directeur général adjoint de la direction générale de l'armement <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -152,7 +151,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Général d'armée (terre), inspecteur général des armées </p>
+<br/>Général d'armée (terre), inspecteur général des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -163,7 +162,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Amiral, inspecteur général des armées </p>
+<br/>Amiral, inspecteur général des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -174,7 +173,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Général d'armée aérienne, inspecteur général des armées </p>
+<br/>Général d'armée aérienne, inspecteur général des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -185,7 +184,7 @@ Emplois de haute direction
 </tr>
 <tr>
 <td align="left">
-<p>Officier général de l'armement, inspecteur général des armées </p>
+<br/>Officier général de l'armement, inspecteur général des armées <br/>
 </td>
 <td align="center">
 <br/>1 <br/>
@@ -196,4 +195,3 @@ Emplois de haute direction
 </tr>
 </tbody>
 </table>
-</div>
