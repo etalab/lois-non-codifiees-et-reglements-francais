@@ -1,3 +1,3 @@
 # Article 10
 
-Les candidatures antérieures à la date d'entrée en vigueur du présent arrêté sont prises en compte pour le décompte des trois tentatives prévues à l'article 3.
+Sont prises en compte pour le décompte des trois tentatives prévues à l'article 3, les candidatures au cycle de perfectionnement deuxième section, au cycle du certificat d'études spécialisées des métiers de dirigeants (CESDIR) et au cycle de formation CapDirigeants (CapDIR).

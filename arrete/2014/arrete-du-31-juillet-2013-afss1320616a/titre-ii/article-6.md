@@ -10,12 +10,12 @@ La durée minimale de fonctions est fixée à huit ans lorsque le candidat justi
 
 La durée minimale de fonctions est fixée à six ans lorsque le candidat justifie de l'une des expériences suivantes :
 
-― avoir occupé des emplois d'agent de direction dans plus d'une branche ou plus d'un régime ;
+- avoir occupé des emplois d'agent de direction dans plus d'une branche ou plus d'un régime au sein de plus d'un organisme ;
 
-― avoir occupé des emplois d'agent de direction dans un organisme local de sécurité sociale et dans un organisme national de sécurité sociale ;
+- avoir occupé des emplois d'agent de direction dans un organisme local de sécurité sociale et dans un organisme national de sécurité sociale ;
 
-― avoir occupé un emploi d'encadrement dans tout autre organisme public ou privé ;
+- avoir occupé un emploi d'encadrement dans tout autre organisme public ou privé ;
 
-― avoir occupé des emplois d'agent de direction dans plusieurs établissements publics, de nature différente, habilités à recruter des personnels régis par des conventions collectives nationales des organismes de sécurité sociale.
+- avoir occupé des emplois d'agent de direction dans plusieurs établissements publics, de nature différente, habilités à recruter des personnels régis par des conventions collectives nationales des organismes de sécurité sociale.
 
 Les durées minimales de fonctions de dix ans et huit ans mentionnées sont réduites de deux ans lorsque le candidat a été agréé dans un emploi d'agent comptable au sein d'un organisme de sécurité sociale.
