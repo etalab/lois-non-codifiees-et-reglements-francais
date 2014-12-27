@@ -258,7 +258,6 @@
 - [Arrêté du 4 mai 2012 (BCRD1207941A)](arrete-du-4-mai-2012-bcrd1207941a)
 - [Arrêté du 4 mai 2012 (DEFD1222769A)](arrete-du-4-mai-2012-defd1222769a)
 - [Arrêté du 4 mai 2012 (DEFD1222783A)](arrete-du-4-mai-2012-defd1222783a)
-- [Arrêté du 4 mai 2012 (ETSD1207035A)](arrete-du-4-mai-2012-etsd1207035a)
 - [Arrêté du 4 mai 2012 (ETSP1222713A)](arrete-du-4-mai-2012-etsp1222713a)
 - [Arrêté du 4 mai 2012 (ETSP1222794A)](arrete-du-4-mai-2012-etsp1222794a)
 - [Arrêté du 4 mai 2012 (ETSS1220275A)](arrete-du-4-mai-2012-etss1220275a)
