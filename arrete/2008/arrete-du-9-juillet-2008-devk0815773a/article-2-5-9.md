@@ -30,4 +30,4 @@ Il comprend :
 
 - le bureau de la formation des agents de l'administration centrale ;
 
-- le pôle de la coordination de la gestion des ressources humaines en administration centrale.
+- le bureau de la coordination de la gestion des ressources humaines en administration centrale.

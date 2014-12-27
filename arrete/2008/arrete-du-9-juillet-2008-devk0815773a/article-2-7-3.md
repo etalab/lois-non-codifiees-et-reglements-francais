@@ -1,6 +1,6 @@
 # Article 2.7.3
 
-La sous-direction du schéma directeur et de la politique des systèmes d'information. Elle élabore, sur la base des orientations stratégiques établies par le service du pilotage et de l'évolution des services, le schéma directeur des systèmes d'information et de communication ministériels, y compris les systèmes d'information géographique ; elle en assure le suivi de la mise en œuvre et en propose les évolutions.
+La sous-direction du schéma directeur et de la politique des systèmes d'information élabore, sur la base des orientations stratégiques établies par le service du pilotage et de l'évolution des services, le schéma directeur des systèmes d'information et de communication ministériels, y compris les systèmes d'information géographique ; elle en assure le suivi de la mise en œuvre et en propose les évolutions.
 
 Elle assure les relations avec les maîtrises d'ouvrage métiers des directions et services du ministère.
 
@@ -16,28 +16,26 @@ Elle définit la politique internet et intranet du ministère et en coordonne la
 
 Elle définit la politique technique du ministère et en coordonne la mise en œuvre dans les domaines suivants :
 
-― infrastructures de réseaux informatiques et de télécommunications ;
+- infrastructures de réseaux informatiques et de télécommunications ;
 
-― architecture technique des applications informatiques et bureautiques ;
+- architecture technique des applications informatiques et bureautiques ;
 
-― centres serveurs d'hébergement ;
+- centres serveurs d'hébergement ;
 
-― poste de travail et logiciels libres ;
+- poste de travail et logiciels libres ;
 
-― architecture technique des applications informatiques ;
+- architecture technique des applications informatiques ;
 
-― méthodes et référentiel qualité des systèmes d'information.
+- méthodes et référentiel qualité des systèmes d'information.
 
 Elle assure la maîtrise d'ouvrage des infrastructures communes en matière de réseaux et de services d'hébergement.
 
 Elle comprend :
 
-― le département du schéma directeur des systèmes d'information ;
+-le département du développement, de l'animation et de la coordination des systèmes d'information ;
 
-― le bureau de la politique et de la cohérence des systèmes d'information ;
+-le bureau de la publication, de la gestion et du partage de l'information ;
 
-― le bureau de la politique technique et des infrastructures ;
+-le bureau des infrastructures ;
 
-― le bureau de la politique du développement et de l'hébergement ;
-
-― le bureau de la sécurité des systèmes d'information.
+-le bureau de la sécurité des systèmes d'information, de l'hébergement et des référentiels techniques.
