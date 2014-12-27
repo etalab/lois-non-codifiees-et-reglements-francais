@@ -6,11 +6,13 @@ I.-Le schéma directeur d'aménagement et de gestion des eaux comporte les élé
 
 2° Les orientations fondamentales ;
 
-3° Les objectifs définis en application des dispositions des IV à VII de l'article L. 212-1 du code de l'environnement et les motivations éventuelles d'adaptation de ces objectifs en application du second alinéa de l'article R212-9 du code de l'environnement et des articles R212-11, R212-15 et R212-16 du même code ;
+3° Les objectifs définis en application des dispositions des IV à VII de l'article L. 212-1 du code de l'environnement et les motivations éventuelles d'adaptation de ces objectifs en application des articles R. 212-11, R. 212-15 et R. 212-16 du même code, ainsi que les objectifs définis en application de l'article R. 212-9 du code de l'environnement ;
 
 4° Les dispositions nécessaires pour atteindre les objectifs, pour prévenir la détérioration de l'état des eaux et pour décliner les orientations fondamentales ;
 
-5° La liste des valeurs seuils retenues pour l'évaluation de l'état chimique des eaux souterraines.
+5° La liste des valeurs seuils retenues pour l'évaluation de l'état chimique des eaux souterraines, ainsi que les listes des substances dangereuses et des polluants non dangereux pour lesquels des mesures de prévention ou de limitation des introductions dans les eaux souterraines sont définis ;
+
+6° Un résumé présentant la démarche d'adaptation au changement climatique pour le bassin.
 
 II.-Le schéma directeur d'aménagement et de gestion des eaux est notamment accompagné, à titre informatif, des documents suivants :
 
@@ -26,10 +28,4 @@ II.-Le schéma directeur d'aménagement et de gestion des eaux est notamment acc
 
 6° Un résumé des dispositions prises pour l'information et la consultation du public ainsi que la déclaration prévue à l'article L. 122-10 du code de l'environnement ;
 
-7° Une note d'évaluation du potentiel hydroélectrique à l'échelle du bassin hydrographique ;
-
-8° Un rapport de synthèse relatif aux eaux souterraines ;
-
-9° Le cas échéant, une présentation des approches et méthodes appliquées pour définir les zones de mélanges telles que définies à l'article 2 de l'arrêté du 25 janvier 2010 relatif aux méthodes et critères d'évaluation de l'état écologique, de l'état chimique et du potentiel écologique des eaux de surface prise en application des articles R. 212-10, R. 212-11 et R. 212-18 du code de l'environnement, ainsi qu'une présentation des mesures prises en vue de réduire l'étendue des zones de mélange à l'avenir ;
-
-10° L'inventaire visé au I de l'article 10 de l'arrêté du 12 janvier 2010 modifié relatif aux méthodes et aux critères à mettre en œuvre pour délimiter et classer les masses d'eau et dresser l'état des lieux prévu à l'article R. 212-3 du code de l'environnement.
+7° La synthèse des méthodes et critères servant à l'élaboration des schémas directeurs d'aménagement et de gestion des eaux.

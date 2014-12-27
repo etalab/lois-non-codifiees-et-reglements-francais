@@ -1,6 +1,6 @@
 # Article 9
 
-Pour les substances prioritaires et dangereuses définies à l'article 9 du décret du 16 mai 2005 susvisé, l'objectif de réduction progressive ou d'élimination des déversements, écoulements, rejets directs ou indirects est présenté, pour chacune des substances ou groupe de substances, comme un pourcentage de réduction escompté à la date d'échéance du schéma directeur d'aménagement et de gestion des eaux. Cet objectif est défini en tenant compte des délais de réalisation des actions ou des travaux et, le cas échéant, de mise en service des ouvrages.
+Pour les substances prioritaires et dangereuses à l'article R. 212-9 du code de l'environnement, les objectifs de réduction progressive ou d'élimination des déversements, écoulements, rejets directs ou indirects sont présentés sous la forme d'un tableau récapitulatif, avec pour chacune des substances ou groupe de substances, un pourcentage de réduction escompté à la date d'échéance du schéma directeur d'aménagement et de gestion des eaux. Cet objectif est défini en tenant compte des délais de réalisation des actions ou des travaux et, le cas échéant, de mise en service des ouvrages.
 
 Le schéma identifie les incertitudes sur les flux ou les origines des substances. Le programme de mesures et le programme de surveillance mentionnent alors les études à réaliser afin de réduire ces incertitudes.
 
