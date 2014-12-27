@@ -8,11 +8,9 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 3° Directeurs des soins, directeurs d'institut de formation de cadres de santé : 30 points majorés ;
 
-4° Directeurs d'école préparant au diplôme d'Etat de sage-femme :
+4° Sages-femmes des hôpitaux du second grade chargées de fonctions de direction de structures de formation en maïeutique et coordonnateurs en maïeutique chargés de fonctions de direction de structures de formation en maïeutique : 30 points majorés.
 
-15 points majorés. Ce montant est porté à 30 points majorés à compter du 1er août 1996 ;
-
-5° Directeurs d'école préparant au certificat cadre de sage-femme : 15 points majorés. Ce nombre est porté à 45 points majorés à compter du 1er août 1996 ;
+5° Abrogé ;
 
 6° Agents nommés dans un des grades du corps des orthophonistes ou dans le corps des orthophonistes cadres de santé et dans le corps des orthophonistes cadres de santé paramédicaux : 13 points majorés ;
 
