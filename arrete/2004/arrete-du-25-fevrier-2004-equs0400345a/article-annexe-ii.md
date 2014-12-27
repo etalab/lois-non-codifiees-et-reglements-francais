@@ -4,65 +4,61 @@ DEMANDE DE REMBOURSEMENT D'AMENDE SUITE AU SUIVI
 
 DU STAGE DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE
 
-Je soussigné (e) (1)
+Je soussigné (e) (1) ......................................
 
 Renseignements sur le demandeur :
 
-Adresse :
+Adresse : ......................................
 
-Code postal : Ville :
+Code postal : ...................................... Ville : ......................................
 
-Téléphone fixe :/ téléphone portable :
+Téléphone fixe : ...................................... / téléphone portable : ......................................
 
-Courriel : @
-
-Sexe (1 = homme ; 2 = femme).
-
-Année de naissance (les deux derniers chiffres).
-
-Mois de naissance.
-
-Département de naissance (trois chiffres pour l'outre-mer ; 99 pour les naissances à l'étranger).
-
-Commune de naissance (code INSEE [*]) (deux chiffres pour l'outre-mer ou trois chiffres pour l'identifiant du pays de naissance),
+Courriel : ...................................... @ ......................................
 
 ayant suivi un stage de sensibilisation à la sécurité routière, en application des articles R. 223-4 et suivants du code de la route, demande :
 
-Le remboursement de l'amende (2).
+☐ Le remboursement de l'amende (2)
 
-Montant de l'amende à rembourser :
+Montant de l'amende à rembourser ......................................
 
 Je transmets dans tous les cas :
 
--une copie de la lettre 48 N adressée par le ministère de l'intérieur ;
+- une copie de la lettre 48 N adressée par le ministère de l'intérieur ;
 
--un relevé d'identité bancaire libellé au nom et adresse du demandeur (3) ;
+- un relevé d'identité bancaire libellé au nom et à l'adresse du demandeur (3) ;
 
--une copie de l'attestation de suivi de stage remise par la personne responsable de la formation spécifique, titulaire de l'agrément ;
+- une copie de l'attestation de suivi de stage de sensibilisation à la sécurité routière ;
 
--la date et le mode de paiement de l'amende (4) ;
+- la date et le mode de paiement de l'amende (4) ;
 
--la preuve du paiement de l'amende : original de la partie à conserver du timbre-amende, copie du relevé de compte bancaire...
+- la preuve du paiement de l'amende : original de la partie à conserver du timbre-amende, copie du relevé de compte bancaire ...
 
-De plus, selon la nature de l'amende si :
+- Une copie de ma carte nationale d'identité ou de mon passeport.
 
-Il s'agit d'une décision judiciaire (2) (amende forfaitaire majorée, jugement ou arrêt, ordonnance pénale...) :
+De plus, selon la nature de l'amende :
 
-Je transmets l'original de l'avis d'amende (avis d'amende forfaitaire majorée, relevé de condamnation pénale, etc.).
+☐ S'il s'agit d'une décision judiciaire (2) (amende forfaitaire majorée, jugement ou arrêt, ordonnance pénale ...) :
+
+Je transmets :
+
+- l'original de l'avis d'amende (avis d'amende forfaitaire majorée, relevé de condamnation pénale, etc.).
 
 J'adresse le dossier de demande de remboursement complet au centre des finances publiques mentionné sur l'avis réclamant le paiement de l'amende (5).
 
-Nota.-Les amendes de composition pénale (suite à une décision judiciaire) ne peuvent faire l'objet d'un remboursement.
+NB : les amendes de composition pénale (suite à une décision judiciaire) ne peuvent faire l'objet d'un remboursement.
 
-Il s'agit d'une amende forfaitaire (2) :
+☐ S'il s'agit d'une amende forfaitaire (2) :
 
-Je transmets l'original de l'avis de contravention.
+Je transmets :
 
-Lorsqu'il s'agit d'une infraction relevée par contrôle automatisé (radars vitesse et dispositifs feux rouges), j'adresse le dossier complet de demande de remboursement à la trésorerie du contrôle automatisé à Rennes : TCA, service des remboursements, CS 81239,35012 Rennes Cedex.
+- l'original de l'avis de contravention.
 
-Pour tous les autres cas, j'adresse le dossier complet de demande de remboursement à la direction départementale des finances publiques du département du lieu de commission de l'infraction (5).
+Lorsqu'il s'agit d'une infraction relevée par contrôle automatisé (radars vitesse et dispositifs feux rouges), j'adresse le dossier complet de demande de remboursement à la trésorerie du contrôle automatisé à Rennes : TCA service des remboursements, CS 81239,35012 Rennes Cedex.
 
-L'interruption de l'action en recouvrement de l'amende (2).
+Pour tous les autres cas, j'adresse le dossier complet de demande de remboursement à la Direction départementale des finances publiques du département du lieu de commission de l'infraction (5).
+
+☐ L'interruption de l'action en recouvrement de l'amende (2)
 
 Je transmets :
 
@@ -74,8 +70,18 @@ Je transmets :
 
 J'adresse le dossier de demande au centre des finances publiques (5) mentionné sur l'avis réclamant le paiement de l'amende.
 
-Fait à, le
+Fait à...................................... ,
 
-(Signature du demandeur)
+le ......................................
 
-_(*) Le code INSEE est le numéro à trois chiffres de votre commune de naissance : il fait partie de votre numéro de sécurité sociale, dont il constitue les huitième, neuvième et dixième chiffres, qui figurent immédiatement à la suite des deux chiffres indiquant votre département de naissance. (1) Nom et prénom (s) du titulaire du permis de conduire entrant dans le cadre de la période probatoire et auteur d'une infraction ayant donné lieu à une perte d'au moins 3 points. (2) Case à cocher. (3) Si le titulaire du compte n'est pas le demandeur, transmettre les documents suffisants pour justifier de la discordance (copie du livret de famille, par exemple). (4) Timbre-amende, chèque, virement, télépaiement... (5) Dans le cadre de l'instruction du dossier, le comptable des finances publiques peut demander toute autre pièce complémentaire qui s'avérerait nécessaire._
+Signature du demandeur :
+
+(1) Nom et prénom (s) du titulaire du permis de conduire entrant dans le cadre de la période probatoire et auteur d'une infraction ayant donné lieu à une perte d'au moins 3 points.
+
+(2) Case à cocher.
+
+(3) Si le titulaire du compte n'est pas le demandeur, transmettre les documents suffisants pour justifier de la discordance (copie du livret de famille, par exemple).
+
+(4) Timbre-amende, chèque, virement, télépaiement ...
+
+(5) Dans le cadre de l'instruction du dossier, le comptable des finances publiques peut demander toute autre pièce complémentaire qui s'avérerait nécessaire.
