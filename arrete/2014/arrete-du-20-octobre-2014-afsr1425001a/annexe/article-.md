@@ -136,8 +136,6 @@ Techniciens sanitaires et de sécurité sanitaire de l'Agence nationale de sécu
 
 Commissions consultatives paritaires :
 
-Agents non titulaires relevant des ministres chargés de la santé, de la jeunesse et de la vie associative, des solidarités et de la cohésion sociale, de la ville et des sports ;
-
 Agents non titulaires relevant du ministre chargé du travail et de l'emploi ;
 
 Directeurs adjoints de certains établissements de la jeunesse et des sports ;

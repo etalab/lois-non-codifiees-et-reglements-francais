@@ -642,7 +642,6 @@
 - [Arrêté du 30 août 2001 (FPPA0100084A)](arrete-du-30-aout-2001-fppa0100084a)
 - [Arrêté du 30 août 2001 (JUSA0100205A)](arrete-du-30-aout-2001-jusa0100205a)
 - [Arrêté du 30 août 2002 (SCOF0202017A)](arrete-du-30-aout-2002-scof0202017a)
-- [Arrêté du 30 avril 2002 (AGRR0200992A)](arrete-du-30-avril-2002-agrr0200992a)
 - [Arrêté du 30 avril 2002 (AGRR0201002A)](arrete-du-30-avril-2002-agrr0201002a)
 - [Arrêté du 30 avril 2002 (ECOP0200329A)](arrete-du-30-avril-2002-ecop0200329a)
 - [Arrêté du 30 avril 2002 (ECOP0200330A)](arrete-du-30-avril-2002-ecop0200330a)
