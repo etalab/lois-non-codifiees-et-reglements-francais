@@ -1532,7 +1532,6 @@
 - [Arrêté du 19 décembre 2013 (DEVA1306100A)](arrete-du-19-decembre-2013-deva1306100a)
 - [Arrêté du 19 décembre 2013 (DEVA1327881A)](arrete-du-19-decembre-2013-deva1327881a)
 - [Arrêté du 19 décembre 2013 (DEVA1329684A)](arrete-du-19-decembre-2013-deva1329684a)
-- [Arrêté du 19 décembre 2013 (DEVA1329687A)](arrete-du-19-decembre-2013-deva1329687a)
 - [Arrêté du 19 décembre 2013 (DEVP1328390A)](arrete-du-19-decembre-2013-devp1328390a)
 - [Arrêté du 19 décembre 2013 (DEVR1328799A)](arrete-du-19-decembre-2013-devr1328799a)
 - [Arrêté du 19 décembre 2013 (EFIC1228744A)](arrete-du-19-decembre-2013-efic1228744a)
