@@ -1,10 +1,8 @@
 # Article 3
 
-Le commandant de la défense aérienne et des opérations aériennes dispose d'un officier général adjoint « opérations » et d'un officier général adjoint « territoire national ».
+Le commandant de la défense aérienne et des opérations aériennes dispose d'un officier général adjoint  "opérations"  et d'un officier général adjoint  "territoire national".
 
 Dans le cadre des missions qui lui sont confiées en matière de circulation aérienne, le commandant de la défense aérienne et des opérations aériennes est assisté d'un officier général de l'armée de l'air, directeur de la circulation aérienne militaire.
-
-Il dispose également des commandants des zones aériennes de défense.
 
 Le commandement de la défense aérienne et des opérations aériennes comprend les formations suivantes :
 

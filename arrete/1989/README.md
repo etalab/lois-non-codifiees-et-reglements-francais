@@ -353,7 +353,6 @@
 - [Arrêté du 22 décembre 1989 (SPSS8902771A)](arrete-du-22-decembre-1989-spss8902771a)
 - [Arrêté du 22 décembre 1989 (SPSS8902773A)](arrete-du-22-decembre-1989-spss8902773a)
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
-- [Arrêté du 22 janvier 1987 (DEFD8701044A)](arrete-du-22-janvier-1987-defd8701044a)
 - [Arrêté du 22 juin 1989 (AGRS8901128A)](arrete-du-22-juin-1989-agrs8901128a)
 - [Arrêté du 22 juin 1989 (SPSS8901296A)](arrete-du-22-juin-1989-spss8901296a)
 - [Arrêté du 22 mars 1989 (MENU8900647A)](arrete-du-22-mars-1989-menu8900647a)

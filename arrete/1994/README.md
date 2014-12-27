@@ -538,7 +538,6 @@
 - [Arrêté du 18 juillet 1994 (BUDR9407019A)](arrete-du-18-juillet-1994-budr9407019a)
 - [Arrêté du 18 juillet 1994 (DEFD9401279A)](arrete-du-18-juillet-1994-defd9401279a)
 - [Arrêté du 18 juillet 1994 (MCCH9400431A)](arrete-du-18-juillet-1994-mcch9400431a)
-- [Arrêté du 18 mars 1994 (DEFD9401269A)](arrete-du-18-mars-1994-defd9401269a)
 - [Arrêté du 18 mars 1994 (DEFG9401315A)](arrete-du-18-mars-1994-defg9401315a)
 - [Arrêté du 18 mars 1994 (INTB9400152A)](arrete-du-18-mars-1994-intb9400152a)
 - [Arrêté du 18 novembre 1994 (COPC9400126A)](arrete-du-18-novembre-1994-copc9400126a)

@@ -1,16 +1,16 @@
 # Article 
 
-ANNEXE
+PROGRAMME D'ENQUÊTES STATISTIQUES AUPRÈS DES MÉNAGES
 
-PROGRAMME D'ENQUÊTES STATISTIQUES AUPRÈS DES MÉNAGES DES SERVICES PUBLICS POUR 2015
+DES SERVICES PUBLICS POUR 2015
 
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr)
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif
+
+des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr/)
 
 1. Enquêtes d'intérêt général et obligatoires
 
 1.A. Enquêtes d'initiative nationale
-
-<div align="center">
 
 <table>
 <tbody>
@@ -23,106 +23,155 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </th>
 </tr>
 <tr>
-<td align="center">Démographie<br/>
+<td align="center">
+<p align="center">Démographie<br/>
+</p>
 </td>
 <td align="center"/>
 <td align="center" rowspan="3" valign="middle">INSEE<br/>
 </td>
 </tr>
 <tr>
-<td>Bulletins d'état civil<br/>
+<td>
+<p align="left">Bulletins d'état civil<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
 </td>
 </tr>
 <tr>
-<td>Enquêtes annuelles de recensement. Cycle 2015-2019 (dont recensement des communautés)<br/>
+<td>
+<p align="left">Enquêtes annuelles de recensement. Cycle 2015-2019 (dont recensement des communautés)<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Conditions de vie<br/>
+<td align="center">
+<p align="center">Conditions de vie<br/>
+</p>
 </td>
 <td align="center"/>
-<td align="center" rowspan="3" valign="middle">INSEE<br/>
+<td align="center" valign="middle"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête de conjoncture auprès des ménages mensuelle (CAMME)<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Mensuelle<br/>
+</p>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<p align="center">INSEE</p>
 </td>
 </tr>
 <tr>
-<td>Enquête de conjoncture auprès des ménages mensuelle (CAMME)<br/>
-</td>
-<td align="center">Mensuelle<br/>
-</td>
-</tr>
-<tr>
-<td>Enquête sur les technologies de l'information et de la communication (TIC) auprès des ménages<br/>
+<td>
+<p align="left">Enquête sur les technologies de l'information et de la communication (TIC) auprès des ménages<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Enquête méthodologique de conjoncture auprès des ménages mensuelle (CAMME) par internet 2015 </p>
+</td>
+<td>
+<p align="center">Ponctuelle (trois mois seulement) </p>
+</td>
+<td>
+<p align="center">INSEE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête résidence principale (ancien nom : enquête expérimentale internet patrimoine) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Ponctuelle</p>
+</td>
+<td align="left" valign="top">
+<p align="center">INSEE</p>
 </td>
 </tr>
 <tr>
 <td align="center">Prix<br/>
 </td>
 <td align="center"/>
-<td align="center">SOeS<br/>
+<td align="center">
+<p align="center">SOeS<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>Enquête sur le prix des terrains à bâtir<br/>
+<td>
+<p align="left">Enquête sur le prix des terrains à bâtir<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">Logement<br/>
+<td align="center">
+<p align="center">Logement<br/>
+</p>
 </td>
 <td align="center"/>
 <td align="center" rowspan="2" valign="middle">INSEE<br/>
 </td>
 </tr>
 <tr>
-<td>Enquête nationale sur les loyers et charges<br/>
+<td>
+<p align="left">Enquête nationale sur les loyers et charges<br/>
+</p>
 </td>
 <td align="center">Trimestrielle<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Ressources<br/>
+<td align="center">
+<p align="center">Ressources<br/>
+</p>
 </td>
 <td align="center"/>
 <td align="center" rowspan="5" valign="middle">INSEE<br/>
 </td>
 </tr>
 <tr>
-<td>Enquête Statistiques sur les ressources et les conditions de vie (SRCV)<br/>
+<td>
+<p align="left">Enquête Statistiques sur les ressources et les conditions de vie (SRCV)<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
 </td>
 </tr>
 <tr>
-<td>Enquête sur la participation sociale et culturelle - module secondaire de SRCV 2015<br/>
+<td>
+<p align="left">Enquête sur la participation sociale et culturelle - module secondaire de SRCV 2015</p>
 </td>
 <td align="center">Ponctuelle<br/>
 </td>
 </tr>
 <tr>
-<td>Enquête Patrimoine<br/>
-</td>
-<td align="center">Ponctuelle<br/>
+<td>Enquête Patrimoine</td>
+<td align="center">
+<p align="center">Ponctuelle<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>Enquête expérimentale internet Patrimoine<br/>
-</td>
-<td align="center">Ponctuelle<br/>
+<td>Enquête expérimentale internet Patrimoine</td>
+<td align="center">
+<p align="center">Ponctuelle</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
-<div align="center">
 
 <table>
 <tbody>
@@ -135,33 +184,44 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </th>
 </tr>
 <tr>
-<td align="center">Emploi<br/>
+<td align="center">
+<p align="center">Emploi<br/>
+</p>
 </td>
 <td align="center"/>
-<td align="center" rowspan="2" valign="middle">DARES<br/>
+<td align="center" rowspan="2" valign="middle">DARES</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête auprès des bénéficiaires d'un contrat unique d'insertion et d'une population témoin (vague 1)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Ponctuelle</p>
 </td>
 </tr>
 <tr>
-<td>Enquête auprès des bénéficiaires d'un contrat unique d'insertion et d'une population témoin (vague 1)<br/>
-</td>
-<td align="center">Ponctuelle<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Emploi, insertion professionnelle, salaires<br/>
+<td align="center">
+<p align="center">Emploi, insertion professionnelle, salaires<br/>
+</p>
 </td>
 <td align="center"/>
-<td align="center" rowspan="6" valign="middle">INSEE<br/>
+<td align="center" rowspan="6" valign="middle">
+<p align="center">INSEE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>Enquête sur l'emploi<br/>
+<td>
+<p align="left">Enquête sur l'emploi<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
 </td>
 </tr>
 <tr>
-<td>Enquête annuelle Emploi à Mayotte<br/>
+<td>
+<p align="left">Enquête annuelle Emploi à Mayotte<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>
 </td>
@@ -184,11 +244,30 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 <td align="center">Ponctuelle<br/>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête auprès des bénéficiaires d'un contrat unique d'insertion (CUI) et d'une population témoin-Vagues de réinterrogation (2,3 et 4) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Annuelle</p>
+</td>
+<td align="left" valign="top">
+<p align="center">DARES</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Dispositif d'enquête sur les formations et les itinéraires des salariés (DEFIS)-Volet salariés </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Ponctuelle</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Céreq</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
-<div align="center">
 
 <table>
 <tbody>
@@ -201,9 +280,13 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </th>
 </tr>
 <tr>
-<td align="left">Panel d'élèves du premier degré recrutés en 2011<br/>Panel d'élèves du second degré recrutés en 2007<br/>Panel d'élèves en situation de handicap nés en 2001 et en 2005<br/>
+<td align="left">
+<p align="left">Panel d'élèves du premier degré recrutés en 2011<br/>Panel d'élèves du second degré recrutés en 2007<br/>Panel d'élèves en situation de handicap nés en 2001 et en 2005<br/>
+</p>
 </td>
-<td align="center">Annuelle<br/>Annuelle<br/>Annuelle<br/>
+<td align="center">
+<p align="center">Annuelle<br/>Annuelle<br/>Annuelle<br/>
+</p>
 </td>
 <td align="center" valign="middle">DEPP<br/>
 </td>
@@ -240,16 +323,45 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 <td align="center" valign="middle">SIES<br/>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête sur la scolarisation des élèves allophones nouvellement arrivés (EANA) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Ponctuelle </p>
+</td>
+<td align="left" valign="top">
+<p align="center">DEPP</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquêtes sur les effectifs d'élèves dans les établissements privés d'enseignement </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Annuelle</p>
+</td>
+<td align="left" valign="top">
+<p align="center">DEPP/SIES </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête statistique sur le devenir des bacheliers 2014 (ancien nom : enquête sur le suivi des bacheliers)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Annuelle </p>
+</td>
+<td align="left" valign="top">
+<p align="center">SIES</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
 
 2. Enquêtes d'intérêt général
 
 2.A. Enquêtes d'initiative nationale
-
-<div align="center">
 
 <table>
 <tbody>
@@ -258,28 +370,75 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </th>
 <th>PÉRIODICITÉ<br/>
 </th>
-<th>PRODUCTEURS <br/>(voir liste des producteurs)<br/>
+<th>PRODUCTEURS <br/>(voir liste des<br/>producteurs)<br/>
 </th>
 </tr>
 <tr>
-<td align="center">Démographie<br/>
+<td align="center">
+<p align="center">Démographie<br/>
+</p>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
-<td>Enquête de suivi du panel patrimoine<br/>
+<td>
+<p align="left">Enquête de suivi du panel patrimoine<br/>
+</p>
 </td>
 <td align="center">Ponctuelle<br/>
 </td>
 <td align="center">INSEE<br/>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête SHARE (Survey on Health, Ageing and Retirement<br/>in Europe)-Vague 6 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Ponctuelle</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Paris-Dauphine (LEGOS) </p>
+</td>
+</tr>
 </tbody>
 </table>
 
+<div align="left">.</div>
+<div align="left"/>
+<div align="left">
+<table>
+<tbody>
+<tr>
+<th>EMPLOI, QUALIFICATION ET REVENUS DU TRAVAIL <br/>
+</th>
+<th>
+<br/>PÉRIODICITÉ <br/>
+</th>
+<th>
+<br/>PRODUCTEURS<br/>(voir liste des<br/>producteurs)</th>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<br/>Emploi, insertion professionnelle, salaires <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête auprès des sortants des listes de demandeurs d'emploi de Pôle emploi </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Trimestrielle </p>
+</td>
+<td align="left" valign="top">
+<p align="center">DARES/Pôle emploi </p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
-<div align="center">
+<div align="left">.</div>
 
 <table>
 <tbody>
@@ -290,6 +449,17 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </th>
 <th>PRODUCTEURS <br/>(voir liste des producteurs)<br/>
 </th>
+</tr>
+<tr>
+<td>
+<p align="left">Cohorte Constances </p>
+</td>
+<td>
+<p align="center">Annuelle</p>
+</td>
+<td>
+<p align="center">INSERM</p>
+</td>
 </tr>
 <tr>
 <td align="left">Enquête nationale de santé 2014-2015 auprès des élèves scolarisés en classe CM2<br/>
@@ -323,14 +493,32 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 <td align="center">SIES<br/>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Enquête nationale sur le climat scolaire et la victimation en milieu scolaire auprès des lycéens </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Ponctuelle</p>
+</td>
+<td align="left" valign="top">
+<p align="center">DEPP </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Système d'information et de vigilance sur la sécurité scolaire (SIVIS) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Annuelle </p>
+</td>
+<td align="left" valign="top">
+<p align="center">DEPP</p>
+</td>
+</tr>
 </tbody>
 </table>
 
-</div>
-
 2.B. Enquêtes d'initiative régionale
-
-<div align="center">
 
 <table>
 <tbody>
@@ -343,7 +531,9 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </th>
 </tr>
 <tr>
-<td align="left">Enquête Flux touristiques à La Réunion<br/>Enquête Flux touristiques à Mayotte<br/>
+<td align="left">
+<p align="left">Enquête Flux touristiques à La Réunion<br/>Enquête Flux touristiques à Mayotte<br/>
+</p>
 </td>
 <td align="center">Annuelle<br/>Annuelle<br/>
 </td>
@@ -353,11 +543,7 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
-
 Liste des producteurs
-
-<div align="center">
 
 <table>
 <tbody>
@@ -368,6 +554,18 @@ Liste des producteurs
 </th>
 <th>MINISTÈRE OU MINISTÈRE DE TUTELLE <br/>le cas échéant<br/>
 </th>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Céreq </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Centre d'études et de recherches sur les qualifications </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche <br/>
+<br/>Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social </p>
+</td>
 </tr>
 <tr>
 <td align="left">DARES<br/>
@@ -402,11 +600,17 @@ Liste des producteurs
 </td>
 </tr>
 <tr>
-<td align="left">INSEE<br/>
+<td align="left" valign="top">INSEE<br/>
 </td>
-<td align="left">Institut national de la statistique et des études économiques<br/>
+<td align="left" valign="top">
+<p align="left">Institut national de la statistique et des études économiques<br/>
+</p>
 </td>
-<td>Ministère des finances et des comptes publics<br/>Ministère de l'économie, de l'industrie et du numérique<br/>
+<td align="left" valign="top">
+<p align="left">Ministère des finances et des comptes publics</p>
+<p align="left">
+<br/>Ministère de l'économie, de l'industrie et du numérique<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -418,11 +622,39 @@ Liste des producteurs
 </td>
 </tr>
 <tr>
-<td align="left">ONDRP<br/>
+<td align="left" valign="top">
+<p align="left">LEGOS </p>
 </td>
-<td align="left">Observatoire national de la délinquance et des réponses pénales<br/>
+<td align="left" valign="top">
+<p align="left">Laboratoire d'économie et de gestion des organisations à l'Université Paris-Dauphine</p>
 </td>
-<td>Premier ministre<br/>
+<td align="left" valign="top">
+<p align="left">Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Pôle emploi </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pôle emploi (établissement public) </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">ONDRP<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Observatoire national de la délinquance et des réponses pénales<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Premier ministre<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -435,5 +667,3 @@ Liste des producteurs
 </tr>
 </tbody>
 </table>
-
-</div>
