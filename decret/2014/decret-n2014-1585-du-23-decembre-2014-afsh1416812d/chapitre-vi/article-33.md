@@ -1,0 +1,3 @@
+# Article 33
+
+Les directeurs d'école de sages-femmes régis par le décret n° 90-949 du 26 octobre 1990 portant statut particulier des directeurs d'école de sages-femmes de la fonction publique hospitalière et les sages-femmes cadres ou cadres supérieures régies par le décret n° 89-611 du 1er septembre 1989 portant statut particulier des sages-femmes de la fonction publique hospitalière qui, à la date de parution du présent décret, bénéficient d'un logement au titre de l'article 12 du décret du 26 octobre 1990 précité peuvent continuer à en disposer pour autant qu'ils remplissent les conditions établies au même article.

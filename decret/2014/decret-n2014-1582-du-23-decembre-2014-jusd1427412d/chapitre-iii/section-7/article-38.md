@@ -1,0 +1,5 @@
+# Article 38
+
+I.-Les dispositions des deux derniers alinéas de l'article D. 522 du même code, dans leur rédaction en vigueur avant le 1er janvier 2015, demeurent applicables pour le calcul de la date prévisible de libération conditionnelle des personnes ayant fait l'objet des crédits de réduction de peine applicables aux récidivistes avant cette date, pour le calcul de la durée des mesures d'assistance et de contrôle ainsi que pour le calcul de la durée de la peine à subir en cas de révocation de la décision de libération prévue par le deuxième alinéa de l'article 733.
+
+II.-En cas de décision sur les réductions de peine supplémentaires prise au bénéfice d'une personne condamnée en état de récidive légale avant le 1er janvier 2015 et visant une période d'emprisonnement ou de réclusion débutant avant cette date et prenant fin après cette date, le juge de l'application des peines peut, pour la période courant à compter de cette date, réexaminer la situation du condamné au regard du quantum maximal résultant de l'article 721-1 du code de procédure pénale dans sa rédaction issue de la loi n° 2014-896 du 15 août 2014.
