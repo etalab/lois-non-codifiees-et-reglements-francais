@@ -111,7 +111,6 @@
 - [Arrêté du 12 novembre 2013 (DEFH1318627A)](arrete-du-12-novembre-2013-defh1318627a)
 - [Arrêté du 13 décembre 2013 (AFSH1330897A)](arrete-du-13-decembre-2013-afsh1330897a)
 - [Arrêté du 13 décembre 2013 (DEFH1329660A)](arrete-du-13-decembre-2013-defh1329660a)
-- [Arrêté du 13 décembre 2013 (EFIT1330553A)](arrete-du-13-decembre-2013-efit1330553a)
 - [Arrêté du 13 décembre 2013 (INTA1329767A)](arrete-du-13-decembre-2013-inta1329767a)
 - [Arrêté du 13 décembre 2013 (INTA1329844A)](arrete-du-13-decembre-2013-inta1329844a)
 - [Arrêté du 13 décembre 2013 (INTA1329846A)](arrete-du-13-decembre-2013-inta1329846a)
