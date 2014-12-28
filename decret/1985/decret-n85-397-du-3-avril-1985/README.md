@@ -4,4 +4,3 @@
 - [Chapitre I : Conditions d'exercice des droits syndicaux](chapitre-i)
 - [Article 2](article-2.md)
 - [Chapitre II : Situation des représentants syndicaux](chapitre-ii)
-- [Chapitre III : Dispositions transitoires](chapitre-iii)
