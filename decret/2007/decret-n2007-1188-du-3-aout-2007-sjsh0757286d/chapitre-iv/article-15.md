@@ -1,11 +1,11 @@
 # Article 15
 
-Peuvent être détachés dans le corps des aides-soignants et des agents des services hospitaliers qualifiés en qualité d'aide-soignant les fonctionnaires titulaires de l'un des titres ou diplômes mentionnés au 1° de l'article 6 du présent décret.
+I.-Les fonctionnaires appartenant à un corps ou cadre d'emploi de catégorie C ou de niveau équivalent peuvent être placés en position de détachement ou directement intégrés dans le corps des aides-soignants et des agents des services hospitaliers qualifiés régis par le présent décret.
 
-Peuvent être détachés dans le corps des aides-soignants et des agents des services hospitaliers qualifiés en qualité d'agent des services hospitaliers qualifiés les fonctionnaires appartenant à un corps, cadre d'emploi ou emploi classé dans la même catégorie.
+Pour exercer les fonctions d'aides-soignants, ils doivent de plus justifier des diplômes, titres ou autorisations requis pour l'accès à celles-ci.
 
-Le détachement est prononcé à équivalence de grade et à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui que détenait l'intéressé dans son grade d'origine.
+II.-Les fonctionnaires placés en position de détachement ou directement intégrés dans ce corps sont soumis selon le cas, aux dispositions des titres II et II bis du décret n° 88-976 du 13 octobre 1988 modifié relatif au régime particulier de certaines positions de fonctionnaires hospitaliers, à l'intégration et à certaines modalités de mise à disposition.
 
-Le fonctionnaire détaché conserve, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement consécutive à son détachement est inférieure ou égale à celle qui aurait résulté d'un avancement d'échelon dans son grade d'origine ou à celle qui a résulté de sa promotion au dernier échelon lorsqu'il a déjà atteint l'échelon terminal de son grade d'origine.
+III.-Les fonctionnaires détachés peuvent, à tout moment, être intégrés, sur leur demande, dans le corps régi par le présent décret.
 
-Les fonctionnaires placés en position de détachement dans le corps des aides-soignants et des agents des services hospitaliers qualifiés concourent pour les avancements d'échelon et de grade dans les mêmes conditions que les fonctionnaires de ce corps.
+IV.-Les services accomplis dans le corps ou cadre d'emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.

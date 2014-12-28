@@ -1,7 +1,3 @@
 # Article 16
 
-Les fonctionnaires placés en position de détachement depuis un an peuvent être, sur leur demande, intégrés dans le corps des aides-soignants et des agents des services hospitaliers qualifiés, après avis de la commission administrative paritaire.
-
-Ils sont nommés au grade et à l'échelon qu'ils occupent en position de détachement avec conservation de l'ancienneté acquise dans l'échelon.
-
-Les services accomplis dans le corps, cadre d'emploi ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
+Peuvent être également détachés dans le corps des aides-soignants et des agents des services hospitaliers qualifiés régis par le présent décret les militaires mentionnés à l'article 13 ter de la loi du 13 juillet 1983 susvisée, dans les conditions fixées par le décret prévu par les mêmes dispositions et s'ils justifient, pour pouvoir exercer les fonctions d'aides-soignants, des conditions de diplômes, titres ou autorisations requis pour l'accès à celles-ci.
