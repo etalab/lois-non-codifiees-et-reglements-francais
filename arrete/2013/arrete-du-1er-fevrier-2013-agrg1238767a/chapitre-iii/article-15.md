@@ -1,0 +1,3 @@
+# Article 15
+
+Un projet qui a bénéficié, avant la date d'entrée en vigueur du décret n° 2013-118 du 1er février 2013 relatif à la protection des animaux utilisés à des fins scientifiques, d'un avis éthique favorable d'un comité reconnu par le ministère de la défense ne nécessitera pas d'autorisation du ministère de la défense pour sa réalisation, à partir du moment où sa durée ne s'étend pas au-delà du 1er janvier 2018. Les projets approuvés avant la date d'entrée en vigueur du décret susmentionné et dont la durée s'étend au-delà du 1er janvier 2018 devront obtenir une autorisation du ministre de la défense au plus tard le 1er janvier 2018.
