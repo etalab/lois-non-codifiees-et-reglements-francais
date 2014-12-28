@@ -7,49 +7,93 @@ PRÉVUES À L'ARTICLE D. 161-13-1 DU CODE DE LA SÉCURITÉ SOCIALE
 <table>
 <tbody>
 <tr>
-<td width="78">
+<td>
 <p align="center">QUANTITÉ</p>
 </td>
-<td width="196">
-<p align="center">LIBELLÉ COURT ET FORME</p>
+<td>
+<p align="center">LIBELLÉ COURT </p>
+<p align="center">et forme</p>
 </td>
-<td width="117">
+<td>
 <p align="center">IDENTIFIANT</p>
 </td>
-<td width="78">
-<p align="center">PRIX <br/>unitaire</p>
+<td>
+<p align="center">PRIX </p>
+<p align="center">unitaire </p>
 </td>
-<td width="117">
-<p align="center">BASE <br/>de remboursement <br/>sécurité sociale</p>
+<td>
+<p align="center">BASE </p>
+<p align="center">de remboursement </p>
+<p align="center">sécurité sociale </p>
 </td>
-<td width="117">
-<p align="center">TAUX <br/>de remboursement <br/>sécurité sociale</p>
+<td>
+<p align="center">HONORAIRE </p>
+<p align="center">de dispensation </p>
+<p align="center">unitaire <br/>
+</p>
+</td>
+<td>
+<p align="center">TAUX </p>
+<p align="center">de remboursement </p>
+<p align="center">sécurité sociale <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td width="78">
-<br/>
+<td align="left"/>
+<td align="center">
+<br/>(1) <br/>
 </td>
-<td width="196">
-<p align="center">(1)</p>
+<td align="center">
+<br/>(2) <br/>
 </td>
-<td width="117">
-<p align="center">(2)</p>
+<td align="center">
+<br/>(3) <br/>
 </td>
-<td width="78">
-<p align="center">(3)</p>
+<td align="center">
+<br/>(4) <br/>
 </td>
-<td width="117">
-<p align="center">(4)</p>
+<td align="center">
+<br/>(3) <br/>
 </td>
-<td width="117">
-<p align="center">(5)</p>
+<td align="center">
+<br/>(5) <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
 .
+
+<table>
+<tbody>
+<tr>
+<td align="center" valign="middle">
+<br/>(a) 1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Honoraire ordonnance &gt; 4 lignes<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>(3) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>(5)<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left"/>
 
 <table>
 <tbody>
