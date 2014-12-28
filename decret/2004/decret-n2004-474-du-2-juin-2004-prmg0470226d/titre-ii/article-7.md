@@ -4,4 +4,4 @@ Un arrêté conjoint du ministre chargé du développement durable, du ministre 
 
 Les conditions d'organisation des concours et de l'examen professionnel ainsi que le nombre des emplois à pourvoir sont fixés par arrêtés conjoints du ministre chargé du développement durable et du ministre chargé de la culture.
 
-Les places non pourvues au titre de l'un des deux concours peuvent être reportées, dans la limite du dixième des places offertes à ce concours, sur l'autre concours.
+Les places non pourvues au titre de l'un des deux concours peuvent être reportées sur l'autre concours.

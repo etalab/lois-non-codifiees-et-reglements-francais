@@ -1,6 +1,6 @@
 # Article 13
 
-Peuvent seuls être inscrits au tableau d'avancement pour l'accès au grade d'architecte et urbaniste de l'Etat en chef les architectes et urbanistes de l'Etat, les architectes et urbanistes de l'Etat ayant atteint le 7e échelon de leur grade depuis un an au moins et justifiant d'au moins huit ans de service dans le corps, dont quatre ans dans un service de l'Etat, en position d'activité ou de détachement.
+Peuvent seuls être inscrits au tableau d'avancement pour l'accès au grade d'architecte et urbaniste de l'Etat en chef, les architectes et urbanistes de l'Etat ayant atteint le 7e échelon de leur grade depuis un an au moins et justifiant d'au moins huit ans de service dans le corps, dont quatre ans dans un service de l'Etat, en position d'activité ou de détachement.
 
 Les nominations au grade d'architecte et urbaniste en chef sont prononcées suivant le tableau de correspondance ci-après :
 
@@ -8,8 +8,8 @@ Les nominations au grade d'architecte et urbaniste en chef sont prononcées suiv
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">ARCHITECTE <br/>
-<br/>et urbaniste</p>
+<p align="center">ARCHITECTE </p>
+<p>et urbaniste</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">ARCHITECTE ET URBANISTE EN CHEF</p>
