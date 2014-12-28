@@ -76,7 +76,6 @@
 - [Arrêté du 2 septembre 2013 (INTD1321576A)](arrete-du-2-septembre-2013-intd1321576a)
 - [ARRÊTÉ du 2 septembre 2014 (AGRG1420851A)](arrete-du-2-septembre-2014-agrg1420851a)
 - [ARRÊTÉ du 2 septembre 2014 (DEVP1403460A)](arrete-du-2-septembre-2014-devp1403460a)
-- [ARRÊTÉ du 2 septembre 2014 (DEVP1422461A)](arrete-du-2-septembre-2014-devp1422461a)
 - [ARRÊTÉ du 2 septembre 2014 (INTC1414356A)](arrete-du-2-septembre-2014-intc1414356a)
 - [ARRÊTÉ du 2 septembre 2014 (INTK1420009A)](arrete-du-2-septembre-2014-intk1420009a)
 - [ARRÊTÉ du 2 septembre 2014 (INTK1420703A)](arrete-du-2-septembre-2014-intk1420703a)
