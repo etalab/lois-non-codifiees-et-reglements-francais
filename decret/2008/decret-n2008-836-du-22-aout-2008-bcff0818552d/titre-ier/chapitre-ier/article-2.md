@@ -7,140 +7,230 @@ L'échelonnement indiciaire applicable aux architectes et urbanistes de l'Etat r
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> GRADES ET ÉCHELONS</p>
-</td>
-<td>
-<p align="center"> INDICES BRUTS</p>
+<th>GRADES ET ÉCHELONS <br/>
+</th>
+<th>
+<br/>INDICES BRUTS <br/>
+</th>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="middle">
+<br/>Architectes et urbanistes généraux de l'Etat <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Architectes et urbanistes de l'Etat en chef<br/>
+<td valign="middle">
+<br/>Echelon spécial <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">7e échelon<br/>
-</td>
-<td align="center">HE B<br/>
+<td align="left" valign="middle">
+<br/>HE D <br/>
 </td>
 </tr>
 <tr>
-<td align="center">6e échelon<br/>
+<td valign="middle">
+<br/>5e échelon <br/>
 </td>
-<td align="center">HE A<br/>
-</td>
-</tr>
-<tr>
-<td align="center">5e échelon<br/>
-</td>
-<td align="center">1 015<br/>
+<td align="left" valign="middle">
+<br/>HE C <br/>
 </td>
 </tr>
 <tr>
-<td align="center">4e échelon<br/>
+<td valign="middle">
+<br/>4e échelon <br/>
 </td>
-<td align="center">966<br/>
-</td>
-</tr>
-<tr>
-<td align="center">3e échelon<br/>
-</td>
-<td align="center">901<br/>
+<td align="left" valign="middle">
+<br/>HE B bis <br/>
 </td>
 </tr>
 <tr>
-<td align="center">2e échelon<br/>
+<td valign="middle">
+<br/>3e échelon <br/>
 </td>
-<td align="center">830<br/>
-</td>
-</tr>
-<tr>
-<td align="center">1er échelon<br/>
-</td>
-<td align="center">750<br/>
+<td align="left" valign="middle">
+<br/>HE B <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Architectes et urbanistes de l'Etat<br/>
+<td valign="middle">
+<br/>2e échelon <br/>
 </td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">10e échelon<br/>
-</td>
-<td align="center">901<br/>
+<td align="left" valign="middle">
+<br/>HE A <br/>
 </td>
 </tr>
 <tr>
-<td align="center">9e échelon<br/>
+<td valign="middle">
+<br/>1er échelon <br/>
 </td>
-<td align="center">852<br/>
-</td>
-</tr>
-<tr>
-<td align="center">8e échelon<br/>
-</td>
-<td align="center">801<br/>
+<td align="left" valign="middle">
+<br/>1015 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">7e échelon<br/>
-</td>
-<td align="center">750<br/>
-</td>
-</tr>
-<tr>
-<td align="center">6e échelon<br/>
-</td>
-<td align="center">701<br/>
+<td align="center" colspan="2" valign="middle">
+<br/>Architectes et urbanistes de l'Etat en chef <br/>
 </td>
 </tr>
 <tr>
-<td align="center">5e échelon<br/>
+<td valign="middle">
+<br/>Echelon spécial <br/>
 </td>
-<td align="center">655<br/>
-</td>
-</tr>
-<tr>
-<td align="center">4e échelon<br/>
-</td>
-<td align="center">612<br/>
+<td align="left" valign="middle">
+<br/>HE B bis <br/>
 </td>
 </tr>
 <tr>
-<td align="center">3e échelon<br/>
+<td valign="middle">
+<br/>7e échelon <br/>
 </td>
-<td align="center">562<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2e échelon<br/>
-</td>
-<td align="center">513<br/>
+<td align="left" valign="middle">
+<br/>HE B <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1er échelon<br/>
+<td valign="middle">
+<br/>6e échelon <br/>
 </td>
-<td align="center">427<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Architectes et urbanistes de l'Etat élèves<br/>
-</td>
-<td align="center">
-<br/>
+<td align="left" valign="middle">
+<br/>HE A <br/>
 </td>
 </tr>
 <tr>
-<td align="center">1er échelon<br/>
+<td valign="middle">
+<br/>5e échelon <br/>
 </td>
-<td align="center">395<br/>
+<td align="left" valign="middle">
+<br/>1 015 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>4e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>966 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>3e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>901 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>2e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>830 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>1er échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>750 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="middle">
+<br/>Architectes et urbanistes de l'Etat <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>10e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>901 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>9e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>852 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>8e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>801 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>7e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>750 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>6e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>701 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>5e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>655 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>4e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>612 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>3e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>562 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>2e échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>513 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>1er échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>427 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" valign="middle">
+<br/>Architectes et urbanistes de l'Etat élèves <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>1er échelon <br/>
+</td>
+<td align="left" valign="middle">
+<br/>395<br/>
 </td>
 </tr>
 </tbody>
