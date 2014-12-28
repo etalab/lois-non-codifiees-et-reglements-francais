@@ -94,7 +94,6 @@
 - [Décret n°85-1236 du 22 novembre 1985](decret-n85-1236-du-22-novembre-1985)
 - [Décret n°85-552 du 22 mai 1985](decret-n85-552-du-22-mai-1985)
 - [Décret n°85-1135 du 23 octobre 1985](decret-n85-1135-du-23-octobre-1985)
-- [Décret n°85-447 du 23 avril 1985](decret-n85-447-du-23-avril-1985)
 - [Décret n°85-783 du 23 juillet 1985](decret-n85-783-du-23-juillet-1985)
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
 - [Décret n°85-1148 du 24 octobre 1985](decret-n85-1148-du-24-octobre-1985)

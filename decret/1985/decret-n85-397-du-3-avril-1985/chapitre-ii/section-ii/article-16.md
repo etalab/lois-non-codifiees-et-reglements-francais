@@ -1,7 +1,5 @@
 # Article 16
 
-L'autorité territoriale attribue globalement à l'ensemble des organisations syndicales un crédit d'heures déterminé selon le barème fixé à l'article 18, qu'elles se répartissent, sous réserve des dispositions de l'article suivant, selon les critères ci-après :
+Dans le cas de participations aux congrès ou aux réunions des organismes directeurs des unions, fédérations ou confédérations de syndicats non représentées au Conseil commun de la fonction publique, la durée des autorisations spéciales d'absence accordées à un même agent, au cours d'une année, ne peut excéder dix jours. Les syndicats nationaux et locaux ainsi que les unions régionales, interdépartementales et départementales de syndicats qui leur sont affiliés disposent des mêmes droits.
 
-25 % de ce crédit est partagé également entre les organisations syndicales représentées au conseil supérieur de la fonction publique territoriale,
-
-75 % est partagé entre les organisations qui ont obtenu des suffrages pris en compte pour la répartition des sièges au conseil supérieur de la fonction publique territoriale, proportionnellement au nombre de voix obtenues au  comité technique de la collectivité, de l'établissement ou du centre de gestion pour les collectivités et établissements de moins de cinquante agents.
+Cette limite est portée à vingt jours par an dans le cas de participation aux congrès ou aux réunions des organismes directeurs des organisations syndicales internationales, ou aux congrès et aux réunions des organismes directeurs des unions, fédérations ou confédérations représentées au Conseil commun de la fonction publique. Les syndicats nationaux et locaux ainsi que les unions régionales, interdépartementales et départementales de syndicats qui leur sont affiliés disposent des mêmes droits.

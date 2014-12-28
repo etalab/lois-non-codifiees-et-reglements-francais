@@ -1,3 +1,7 @@
 # Article 13
 
-La durée des autorisations spéciales d'absence accordées en application de l'article précédent à un même agent, au cours d'une année, ne peut excéder dix jours dans le cas de participation aux congrès des syndicats nationaux, des fédérations et des confédérations de syndicats. Cette limite est portée à vingt jours par an lorsque cet agent est appelé à participer aux congrès syndicaux internationaux ou aux réunions des organismes directeurs des organisations syndicales internationales, de syndicats nationaux, des fédérations, des confédérations et des instances statutaires départementales, interdépartementales et régionales.
+Chacun des contingents mentionnés aux 1° et 2° de l'article 12 est réparti entre les organisations syndicales, compte tenu de leur représentativité appréciée de la manière suivante :
+
+1° La moitié entre les organisations syndicales représentées au comité technique ou aux comités techniques du périmètre retenu pour le calcul du contingent, en fonction du nombre de sièges qu'elles détiennent ;
+
+2° L'autre moitié entre toutes les organisations syndicales ayant présenté leur candidature à l'élection du comité technique ou des comités techniques du périmètre retenu pour le calcul du contingent, proportionnellement au nombre de voix qu'elles ont obtenues.

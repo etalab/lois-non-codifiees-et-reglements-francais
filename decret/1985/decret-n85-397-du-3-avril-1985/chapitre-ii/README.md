@@ -1,6 +1,7 @@
 # Chapitre II : Situation des représentants syndicaux
 
-- [Section I : Autorisation spéciale d'absence](section-i)
-- [Section II : Décharges d'activité de service](section-ii)
-- [Section III : Mises à disposition des représentants syndicaux](section-iii)
-- [Section IV : Compensation financière correspondant aux mises à disposition non prononcées de représentants syndicaux](section-iv)
+- [Section I : Crédit de temps syndical](section-i)
+- [Section II : Autorisations d'absence](section-ii)
+- [Section III : Décharges de service](section-iii)
+- [Section V : Avancement des fonctionnaires bénéficiant, pour l'exercice de mandats syndicaux, d'une mise à disposition ou d'une décharge de service](section-v)
+- [Section VI : Statistiques et information](section-vi)
