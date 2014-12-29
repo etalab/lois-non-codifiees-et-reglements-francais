@@ -4,6 +4,8 @@ I. - Ont accès aux informations contenues dans le traitement les agents de l'of
 
 - la direction générale de la police nationale ;
 
+- la direction générale de la sécurité intérieure ;
+
 - la direction générale de la gendarmerie nationale ;
 
 - la préfecture de police ;
