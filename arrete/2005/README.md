@@ -355,7 +355,6 @@
 - [Arrêté du 20 septembre 2005 (DEFP0501426A)](arrete-du-20-septembre-2005-defp0501426a)
 - [Arrêté du 20 septembre 2005 (DEFP0501427A)](arrete-du-20-septembre-2005-defp0501427a)
 - [Arrêté du 20 septembre 2005 (MENF0501600A)](arrete-du-20-septembre-2005-menf0501600a)
-- [Arrêté du 20 mai 2005 (AGRG0501211A)](arrete-du-20-mai-2005-agrg0501211a)
 - [Arrêté du 21 avril 2005 (BUDD0570003A)](arrete-du-21-avril-2005-budd0570003a)
 - [Arrêté du 21 avril 2005 (DEFD0500557A)](arrete-du-21-avril-2005-defd0500557a)
 - [Arrêté du 21 avril 2005 (EQUA0500591A)](arrete-du-21-avril-2005-equa0500591a)
