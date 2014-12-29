@@ -24,7 +24,7 @@ III. - Les questions soumises au Conseil supérieur sont, sur décision de son p
 
 3° Soit renvoyées pour étude à l'une de ses formations spécialisées avant inscription à l'ordre du jour de l'assemblée plénière.
 
-En dehors de l'examen des projets de textes mentionnés aux 1° à 5° de l'article 2 et des cas prévus au 3° du présent III, les formations spécialisées se prononcent au nom du Conseil supérieur sur les questions qui leur sont soumises.
+En dehors de l'examen des projets de textes mentionnés aux 1° à 4° de l'article 2 et des cas prévus au 3° du présent III, les formations spécialisées se prononcent au nom du Conseil supérieur sur les questions qui leur sont soumises.
 
 Toutefois, elles peuvent demander, après examen d'une question, son inscription à l'ordre du jour de l'assemblée plénière, à la majorité des deux tiers de leurs membres ayant voix délibérative. Les deux tiers des membres mentionnés au I de l'article 5 peuvent également demander son inscription à l'ordre du jour de l'assemblée plénière. Le président du Conseil supérieur dispose du même droit. Dans ce cas, l'assemblée plénière est convoquée dans un délai de deux mois maximum à compter de cette demande.
 
