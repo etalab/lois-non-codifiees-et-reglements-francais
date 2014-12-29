@@ -4,16 +4,6 @@ I. - Sur les liaisons auxquelles le règlement (CEE) n° 2408 / 92 du 23 juillet
 
 II. - La société est également autorisée, sous réserve des articles R. 330-8 et R. 330-9 du code de l'aviation civile, à effectuer des services réguliers de passagers, de courrier et de fret sur les liaisons suivantes :
 
-Jusqu'au 31 décembre 2014 :
-
-Pointe-à-Pitre-Roseau (La Dominique) ;
-
-Fort-de-France-Roseau (La Dominique) ;
-
-Saint-Martin-Roseau (La Dominique) ;
-
-Saint-Barthélemy-Roseau (La Dominique).
-
 Jusqu'au 15 août 2016 :
 
 Fort-de-France - Sainte-Lucie ;
@@ -59,3 +49,7 @@ Fort-de-France - San Juan (Puerto Rico).
 Pointe-à-Pitre - San Juan (Puerto Rico).
 
 Saint-Martin - San Juan (Puerto Rico).
+
+Jusqu'au 31 décembre 2019 :
+
+Pointe-à-Pitre-Melville (La Dominique).
