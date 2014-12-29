@@ -2719,7 +2719,6 @@
 - [Arrêté du 30 juin 2011 (AGRS1117115A)](arrete-du-30-juin-2011-agrs1117115a)
 - [Arrêté du 30 juin 2011 (DEFM1119538A)](arrete-du-30-juin-2011-defm1119538a)
 - [Arrêté du 30 juin 2011 (DEVK1110892A)](arrete-du-30-juin-2011-devk1110892a)
-- [Arrêté du 30 juin 2011 (ETSH1032982A)](arrete-du-30-juin-2011-etsh1032982a)
 - [Arrêté du 30 juin 2011 (ETSH1118017A)](arrete-du-30-juin-2011-etsh1118017a)
 - [Arrêté du 30 juin 2011 (IOCS1115505A)](arrete-du-30-juin-2011-iocs1115505a)
 - [Arrêté du 30 juin 2011 (MEND1115391A)](arrete-du-30-juin-2011-mend1115391a)

@@ -1,7 +1,0 @@
-# Article 3
-
-I. - Plusieurs RHS peuvent être produits successivement au cours d'un séjour. Ces résumés comportent alors le même numéro de séjour SSR. Les RHS font l'objet d'un classement dans une catégorie majeure (CM) et dans un groupe médico-économique (GME), tel que décrit par le manuel de groupage du PMSI SSR, produit en annexe I du présent arrêté.
-
-Le guide méthodologique de production des informations relatives à l'activité médicale et à sa facturation en soins de suite et de réadaptation produit en annexe II du présent arrêté précise les modalités de production et de codage des RHS.
-
-II. - Les variables de morbidité sont les suivantes : finalité principale de prise en charge, manifestation morbide principale, affection étiologique et diagnostics associés significatifs. Ces variables sont codées selon la classification internationale des maladies (CIM) de l'Organisation mondiale de la santé (OMS), complétée, le cas échéant, d'extensions publiées par l'agence technique de l'information sur l'hospitalisation (ATIH). Les actes de rééducation-réadaptation mentionnés au n de l'article 2 sont recueillis selon le catalogue spécifique des actes de rééducation et réadaptation produit en annexe IV du présent arrêté. Les variables de dépendance sont cotées selon une grille de dépendance élaborée spécifiquement pour le recueil des RHS, présentée dans le guide méthodologique de production des RHS susmentionné. Les actes médicaux sont recueillis et codés selon la classification commune des actes médicaux en vigueur.

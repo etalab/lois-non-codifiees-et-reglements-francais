@@ -226,7 +226,6 @@
 - [Arrêté du 10 juin 2004 (MDIB0400010A)](arrete-du-10-juin-2004-mdib0400010a)
 - [Arrêté du 10 juin 2004 (SANH0422034A)](arrete-du-10-juin-2004-sanh0422034a)
 - [Arrêté du 10 mars 2004 (MENS0400507A)](arrete-du-10-mars-2004-mens0400507a)
-- [Arrêté du 10 novembre 2003 (SANA0324579A)](arrete-du-10-novembre-2003-sana0324579a)
 - [Arrêté du 10 novembre 2004 (FPPA0400122A)](arrete-du-10-novembre-2004-fppa0400122a)
 - [Arrêté du 10 novembre 2004 (FPPA0400124A)](arrete-du-10-novembre-2004-fppa0400124a)
 - [Arrêté du 10 novembre 2004 (FPPA0400125A)](arrete-du-10-novembre-2004-fppa0400125a)
