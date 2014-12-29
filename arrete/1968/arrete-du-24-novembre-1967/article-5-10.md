@@ -44,6 +44,10 @@ ID14b. Poste de distribution de carburant, assurant également le ravitaillement
 
 ID14c. Garage ou poste de dépannage.
 
+ID14d.-Poste de recharge de véhicules électriques.
+
+ID14e.-Poste de recharge de véhicules électriques assurant également le ravitaillement en gaz de pétrole liquéfié (GPL).
+
 ID15a. Parc naturel régional : il s'agit d'un idéogramme type qui reçoit dans l'ovale marron l'emblème particulier du parc naturel régional à signaler.
 
 ID15b. Parc national.

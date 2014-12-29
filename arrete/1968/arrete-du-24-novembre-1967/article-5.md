@@ -204,6 +204,14 @@ Panneau CE15e. Marque du poste de distribution de carburant ouvert 7 jours sur 7
 
 Panneau CE15f. Marque du poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant également le ravitaillement en gaz de pétrole liquéfié (GPL).
 
+Panneau CE15g.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant la recharge des véhicules électriques.
+
+Panneau CE15h.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant le ravitaillement en gaz de pétrole liquéfié (GPL) et la recharge des véhicules électriques.
+
+Panneau CE15i.-Poste de recharge de véhicules électriques ouvert 7 jours sur 7 et 24 heures sur 24.
+
+Panneau CE15j.-Poste de recharge de véhicules électriques ouvert 7 jours sur 7 et 24 heures sur 24 assurant le ravitaillement en gaz de pétrole liquéfié (GPL).
+
 Panneau CE16. Restaurant ouvert 7 jours sur 7.
 
 Panneau CE17. Hôtel ou motel ouvert 7 jours sur 7.
@@ -242,7 +250,13 @@ Panneau CE50. Installations ou services divers.
 
 Panneau CE51. Point du réseau de distribution "écotaxe" (taxe nationale sur les véhicules de transport de marchandises).
 
-Les panneaux de type CE sont de forme carrée. Fait exception le panneau CE3b, qui est de forme rectangulaire et peut comporter plusieurs faces.
+Panneau complémentaire CE100. Indication de l'enseigne de la ou des sociétés commerciales offrant un service de distribution de carburant ou de restauration signalé sur les aires de service autoroutières par un panneau CE15a, CE15c ou CE16.
+
+Les panneaux de type CE sont de forme carrée. Font exception :
+
+- le panneau CE3b, qui est de forme rectangulaire et peut comporter plusieurs faces ;
+
+- le panneau complémentaire CE100 qui peut être de forme carrée ou rectangulaire.
 
 Les panneaux de type CE sont à fond blanc, avec une bordure bleue, elle-même entourée d'un listel blanc. Les pictogrammes et inscriptions sont noirs. Font exception :
 
@@ -250,8 +264,12 @@ Les panneaux de type CE sont à fond blanc, avec une bordure bleue, elle-même e
 
 - le panneau CE3b, dont plusieurs faces peuvent être polychromes ;
 
+- les panneaux CE15e et CE15f qui comportent un logotype pouvant être polychrome ;
+
 - le panneau CE29, dont le pictogramme est rouge ;
 
-- les panneaux CE30a et CE30b, dont le fond est vert avec listel et pictogramme blancs.
+- les panneaux CE30a et CE30b, dont le fond est vert avec listel et pictogramme blancs ;
 
-- le panneau CE51 dont une partie du pictogramme est verte.
+- le panneau CE51 dont une partie du pictogramme est verte ;
+
+- le panneau complémentaire CE100 qui comporte un ou plusieurs logotypes pouvant être polychromes.

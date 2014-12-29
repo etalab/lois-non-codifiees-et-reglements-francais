@@ -40,9 +40,9 @@ Le registre supérieur du panneau D31f est à fond bleu. Il est complété par u
 
 Le registre supérieur des panneaux D31 intègre une flèche oblique orientée vers le bas et peut comporter :
 
-― le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour le panneau D31d ;
+- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour le panneau D31d ;
 
-― l'encart d'un cartouche de type E40. Le panneau D31d peut être surmonté de plusieurs cartouches de type E40.
+- l'encart d'un cartouche de type E40. Le panneau D31d peut être surmonté de plusieurs cartouches de type E40.
 
 Le ou les autres registres comportent les mentions des pôles desservis.
 
@@ -80,11 +80,11 @@ Panneau Da32b. Indication d'une affectation de voies d'aire sur autoroute.
 
 Les panneaux de type Da31 sont composés d'un ou de plusieurs registres rectangulaires superposés. Le registre inférieur peut comporter :
 
-― une ou plusieurs flèches d'affectation de voies verticales et certaines mentions desservies pour les panneaux Da31a, Da31b et Da31c ;
+- une ou plusieurs flèches d'affectation de voies verticales et certaines mentions desservies pour les panneaux Da31a, Da31b et Da31c ;
 
-― une ou plusieurs flèches d'affectation de voies coudées et certaines mentions desservies pour les panneaux Da31d, Da31e et Da31f ;
+- une ou plusieurs flèches d'affectation de voies coudées et certaines mentions desservies pour les panneaux Da31d, Da31e et Da31f ;
 
-― le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da31a et Da31d.
+- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da31a et Da31d.
 
 Les autres registres comportent les mentions des pôles desservis.
 
@@ -100,7 +100,7 @@ Les panneaux Da31a, Da31b, Da31d et Da31e utilisés en sortie d'une rocade peuve
 
 Le panneau Da32a est composé d'un registre rectangulaire à fond blanc. Le panneau Da32b est composé d'un registre rectangulaire à fond bleu.
 
-Les panneaux de type Da32 comportent la mention " aire de... ”, complétée par le nom de l'aire concernée et une flèche d'affectation de voies.
+Les panneaux de type Da32 comportent la mention "aire de...", complétée par le nom de l'aire concernée et une flèche d'affectation de voies.
 
 D.-Panneaux de présignalisation de type D40.
 
@@ -132,13 +132,19 @@ Panneau D47b : Présignalisation d'une gare de péage permettant le retrait d'un
 
 Panneau D47c : Présignalisation du paiement du péage.
 
+Panneau D48a : Présignalisation des deux prochaines aires de service autoroutières, avec l'indication, pour chaque aire signalée, des sociétés offrant un service de distribution de carburant ou de restauration sur ces aires, limitée à trois enseignes par ligne.
+
+Panneau D48b : En présence d'une bifurcation, présignalisation de la prochaine aire de service autoroutière située avant la bifurcation et, pour chaque axe, de la prochaine aire de service autoroutière rencontrée après la bifurcation. L'indication, pour chaque aire signalée, des sociétés offrant un service de distribution de carburant ou de restauration sur ces aires, est limitée à trois enseignes par ligne.
+
+Panneau D48c : En présence d'une bifurcation, présignalisation complémentaire au panneau D48b de la ou des deux aires de service autoroutières rencontrées après l'aire déjà signalée par le panneau D48b. L'indication, pour chaque aire signalée, des sociétés offrant un service de distribution de carburant ou de restauration sur ces aires, est limitée à trois enseignes par ligne.
+
 Les panneaux D41 sont composés de plusieurs registres rectangulaires superposés. Le registre supérieur peut comporter :
 
-― une indication de distance ;
+- une indication de distance ;
 
-― le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour le panneau D41a ;
+- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour le panneau D41a ;
 
-― l'encart d'un cartouche de type E40 pour les panneaux D41b et D41c.
+- l'encart d'un cartouche de type E40 pour les panneaux D41b et D41c.
 
 Les autres registres comportent les mentions des pôles desservis.
 
@@ -162,6 +168,14 @@ Le panneau D45 est composé de deux registres rectangulaires superposés surmont
 
 Les panneaux D46 et D47 sont rectangulaires à fond bleu ou blanc, la couleur bleu étant utilisée uniquement sur les voiries à statut autoroutier. Ils sont composés de deux registres et peuvent être complétés par des panneaux C ou CE.
 
+Les panneaux D48 sont rectangulaires à fond bleu. Ils comportent en encart supérieur les idéogrammes ID14a et ID26a qui sont disposés en fonction du nombre et du type de logotypes.
+
+Le panneau D48a indique sur deux lignes la distance en kilomètres, par ordre croissant, des deux prochaines aires de service et comporte en encart, au regard de l'indication de ces distances, le ou les logotypes de la ou des sociétés de distribution de carburant, puis s'il y a lieu le ou les logotypes de la ou des sociétés de restauration présentes sur l'aire. Les logotypes doivent être les mêmes sur le panneau D48 et le panneau CE100 correspondant.
+
+Le panneau D48b comporte les mêmes indications sur trois lignes. La distance indiquée sur les deux dernières lignes est surmontée, en encart, du cartouche d'identification de l'autoroute concernée, complété s'il y a lieu par une mention caractérisant la direction.
+
+Le panneau D48c comporte une ou deux lignes. La distance indiquée est surmontée, en encart, du cartouche d'identification de l'autoroute concernée, complété s'il y a lieu par une mention caractérisant la direction.
+
 E.-Panneaux de présignalisation d'affectation de voies de type Da40.
 
 Ils matérialisent l'endroit où l'usager doit effectuer son choix pour emprunter la ou les voies qui le concernent.
@@ -184,13 +198,13 @@ Panneau Da41f. Présignalisation d'affectation de voies de bifurcation autorouti
 
 Les panneaux de type Da40 sont composés d'un ou de plusieurs registres rectangulaires superposés. Le registre inférieur comporte :
 
-― une indication de distance ;
+- une indication de distance ;
 
-― une ou plusieurs flèches d'affectation de voies verticales et certaines mentions desservies pour les panneaux Da41a, Da41b et Da41c ;
+- une ou plusieurs flèches d'affectation de voies verticales et certaines mentions desservies pour les panneaux Da41a, Da41b et Da41c ;
 
-― une ou plusieurs flèches d'affectation de voies coudées et certaines mentions desservies pour les panneaux Da41d, Da41e et Da41f ;
+- une ou plusieurs flèches d'affectation de voies coudées et certaines mentions desservies pour les panneaux Da41d, Da41e et Da41f ;
 
-― le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da41a et Da41d.
+- le symbole SE2b ou SE2c d'identification de l'échangeur desservi pour les panneaux Da41a et Da41d.
 
 Les autres registres comportent les mentions des pôles desservis.
 
@@ -230,7 +244,7 @@ Le registre supérieur des panneaux D51cr comporte un schéma simplifié de l'em
 
 Le registre supérieur des panneaux D51d comporte un schéma simplifié des deux embranchements. Chacune des branches de sortie, terminée en pointe de flèche, est complétée par le symbole d'échangeur SE2b ou SE2c. Le registre inférieur indique la distance de la première sortie.
 
-Le registre supérieur des panneaux D51dr comporte un schéma simplifié des deux embranchements. Chacune des branches de sortie, terminée en pointe de flèche, est complétée par le symbole d'échangeur SE2b ou SE2c et par un encart bleu comportant la mention " aire de ” complétée du nom de l'aire. Le registre inférieur indique la distance de la première sortie.
+Le registre supérieur des panneaux D51dr comporte un schéma simplifié des deux embranchements. Chacune des branches de sortie, terminée en pointe de flèche, est complétée par le symbole d'échangeur SE2b ou SE2c et par un encart bleu comportant la mention "aire de" complétée du nom de l'aire. Le registre inférieur indique la distance de la première sortie.
 
 Le registre supérieur des panneaux D52a et D52b représente l'embranchement de manière simplifiée.
 
@@ -260,7 +274,7 @@ Les panneaux de type Da50 sont composés de deux registres rectangulaires superp
 
 Le registre supérieur des panneaux Da51b et Da52b comporte un schéma simplifié de l'embranchement. La voie de sortie affectée est représentée par un trait séparé terminé en pointe de flèche et complété par le symbole d'échangeur SE2b ou SE2c. Le registre inférieur indique la distance de la sortie. Les panneaux Da51b et Da52b utilisés en sortie d'une rocade peuvent, si la sortie est dénommée, être surmontés d'un registre à fond blanc comportant cette dénomination.
 
-Le registre supérieur du panneau Da51br comporte un schéma simplifié de l'embranchement. La voie de sortie affectée est représentée par un trait séparé terminé en pointe de flèche et complété par le symbole d'échangeur SE2b ou SE2c et par un encart bleu comportant la mention " aire de ” complétée du nom de l'aire. Le registre inférieur indique la distance de la sortie.
+Le registre supérieur du panneau Da51br comporte un schéma simplifié de l'embranchement. La voie de sortie affectée est représentée par un trait séparé terminé en pointe de flèche et complété par le symbole d'échangeur SE2b ou SE2c et par un encart bleu comportant la mention "aire de" complétée du nom de l'aire. Le registre inférieur indique la distance de la sortie.
 
 Le registre supérieur des panneaux Da52a et Da52b représente l'embranchement de manière simplifiée. La voie affectée est représentée par un trait séparé.
 
@@ -292,15 +306,15 @@ Panneau D63c. Confirmation de la prochaine sortie.
 
 Panneau D63d. Annonce de la prochaine bifurcation autoroutière.
 
-Panneau D69a. Fin d'itinéraire " S ”.
+Panneau D69a. Fin d'itinéraire "S".
 
-Panneau D69b. Fin d'itinéraire " Bis ”.
+Panneau D69b. Fin d'itinéraire "Bis".
 
 Les panneaux D61 et D62 sont composés d'un ou plusieurs registres rectangulaires :
 
-― à fond bleu, vert ou blanc pour les panneaux D61a et D62a ;
+- à fond bleu, vert ou blanc pour les panneaux D61a et D62a ;
 
-― à fond bleu pour les panneaux D61b, D62b, D62c et D62d.
+- à fond bleu pour les panneaux D61b, D62b, D62c et D62d.
 
 Ils sont surmontés d'un ou plusieurs cartouches de type E40.
 
@@ -314,9 +328,9 @@ Les autres registres comportent les autres mentions des pôles desservis.
 
 Les panneaux D63 sont composés de registres rectangulaires superposés. Le registre supérieur comporte :
 
-― un encart du cartouche E42 avec l'indication de la distance restant à parcourir jusqu'à la prochaine bifurcation pour le panneau D63d ;
+- un encart du cartouche E42 avec l'indication de la distance restant à parcourir jusqu'à la prochaine bifurcation pour le panneau D63d ;
 
-― le symbole d'échangeur SE2b ou SE2c avec l'indication de la distance restant à parcourir jusqu'au prochain échangeur pour le panneau D63c.
+- le symbole d'échangeur SE2b ou SE2c avec l'indication de la distance restant à parcourir jusqu'au prochain échangeur pour le panneau D63c.
 
 Les autres registres comportent les mentions desservies sans indication de distance.
 
@@ -326,7 +340,7 @@ Le registre supérieur du panneau D63d est à fond bleu. Il est complété par u
 
 Le panneau D69a est de forme rectangulaire. Il est à fond jaune et listel noir, avec une barre transversale rouge, et comporte le symbole SU1.
 
-Le panneau D69b est composé de deux registres rectangulaires. Le registre supérieur est à fond jaune et listel noir, avec une barre transversale rouge ; il comporte le symbole SU2 et l'inscription " Fin d'itinéraire Bis ”. Le registre inférieur est à fond bleu, vert ou blanc ; il est composé comme un panneau de confirmation courante D61.
+Le panneau D69b est composé de deux registres rectangulaires. Le registre supérieur est à fond jaune et listel noir, avec une barre transversale rouge ; il comporte le symbole SU2 et l'inscription "Fin d'itinéraire Bis". Le registre inférieur est à fond bleu, vert ou blanc ; il est composé comme un panneau de confirmation courante D61.
 
 I.-Panneaux de signalisation complémentaire de type D70.
 
@@ -342,21 +356,21 @@ Panneau D74a. Présignalisation complémentaire de bifurcation autoroutière com
 
 Panneau D74b. Présignalisation complémentaire de bifurcation autoroutière ne comportant pas de numéros d'autoroutes.
 
-Panneau D79a. Signalisation complémentaire d'itinéraire " S ”.
+Panneau D79a. Signalisation complémentaire d'itinéraire "S".
 
-Panneau D79b. Signalisation complémentaire d'itinéraire " Bis ”.
+Panneau D79b. Signalisation complémentaire d'itinéraire "Bis".
 
 Les panneaux D71 et D72 sont rectangulaires à fond blanc.
 
-Le panneau D71 comporte l'indication " prochaine sortie : ” complétée par une ou plusieurs mentions.
+Le panneau D71 comporte l'indication "prochaine sortie :" complétée par une ou plusieurs mentions.
 
-Le panneau D72 comporte, écrite sur deux lignes, l'indication " accès à... ” suivie du nom de l'agglomération concernée, complétée par l'énumération des sorties identifiées chacune par un symbole SE2b ou SE2c.
+Le panneau D72 comporte, écrite sur deux lignes, l'indication "accès à..." suivie du nom de l'agglomération concernée, complétée par l'énumération des sorties identifiées chacune par un symbole SE2b ou SE2c.
 
 Le panneau D73 est composé de deux registres à fond blanc :
 
-― le registre supérieur comporte un symbole SE2b ou SE2c ;
+- le registre supérieur comporte un symbole SE2b ou SE2c ;
 
-― le registre inférieur indique la distance de la sortie.
+- le registre inférieur indique la distance de la sortie.
 
 Le panneau D74a est composé de deux registres à fond bleu. Le registre supérieur comporte le symbole SE3 suivi de l'encart du cartouche E42. Le registre inférieur indique la distance restant à parcourir jusqu'à la bifurcation.
 
@@ -364,6 +378,6 @@ Le panneau D74b est composé de deux registres à fond bleu. Le registre supéri
 
 Les panneaux D79 sont composés de deux registres rectangulaires :
 
-― le registre supérieur du panneau D79a est à fond bleu, vert ou blanc et comporte la ou les mentions signalées sur l'itinéraire principal. Le registre inférieur est à fond jaune et comporte sur une ligne le mot " suivre ” suivi du symbole SU1 ;
+- le registre supérieur du panneau D79a est à fond bleu, vert ou blanc et comporte la ou les mentions signalées sur l'itinéraire principal. Le registre inférieur est à fond jaune et comporte sur une ligne le mot "suivre" suivi du symbole SU1 ;
 
-― le registre supérieur du panneau D79b est à fond jaune et comporte le symbole SU2 suivi de la ou des mentions de l'itinéraire " Bis ”. Le registre inférieur est à fond blanc et comporte, sur une première ligne, le mot " suivre ” et, sur une seconde ligne, la mention éventuellement dans un encart vert ou bleu.
+- le registre supérieur du panneau D79b est à fond jaune et comporte le symbole SU2 suivi de la ou des mentions de l'itinéraire "Bis". Le registre inférieur est à fond blanc et comporte, sur une première ligne, le mot "suivre" et, sur une seconde ligne, la mention éventuellement dans un encart vert ou bleu.

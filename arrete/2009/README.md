@@ -2618,7 +2618,6 @@
 - [Arrêté du 29 octobre 2009 (AGRE0920529A)](arrete-du-29-octobre-2009-agre0920529a)
 - [Arrêté du 29 octobre 2009 (DEVA0925311A)](arrete-du-29-octobre-2009-deva0925311a)
 - [Arrêté du 29 octobre 2009 (DEVA0925427A)](arrete-du-29-octobre-2009-deva0925427a)
-- [Arrêté du 29 octobre 2009 (DEVK0921368A)](arrete-du-29-octobre-2009-devk0921368a)
 - [Arrêté du 29 octobre 2009 (DEVN0914202A)](arrete-du-29-octobre-2009-devn0914202a)
 - [Arrêté du 29 octobre 2009 (DEVN0914530A)](arrete-du-29-octobre-2009-devn0914530a)
 - [Arrêté du 29 octobre 2009 (DEVP0925742A)](arrete-du-29-octobre-2009-devp0925742a)
