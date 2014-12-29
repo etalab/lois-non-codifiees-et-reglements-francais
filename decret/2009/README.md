@@ -292,7 +292,6 @@
 - [Décret n°2009-275 du 10 mars 2009 (MENF0820682D)](decret-n2009-275-du-10-mars-2009-menf0820682d)
 - [Décret n°2009-397 du 10 avril 2009 (DEVS0825483D)](decret-n2009-397-du-10-avril-2009-devs0825483d)
 - [Décret n°2009-398 du 10 avril 2009 (JUSC0821762D)](decret-n2009-398-du-10-avril-2009-jusc0821762d)
-- [Décret n°2009-399 du 10 avril 2009 (AGRP0902017D)](decret-n2009-399-du-10-avril-2009-agrp0902017d)
 - [Décret n°2009-400 du 10 avril 2009 (MLVU0900685D)](decret-n2009-400-du-10-avril-2009-mlvu0900685d)
 - [Décret n°2009-660 du 10 juin 2009 (SASF0909530D)](decret-n2009-660-du-10-juin-2009-sasf0909530d)
 - [Décret n°2009-667 du 10 juin 2009 (ECEL0805260D)](decret-n2009-667-du-10-juin-2009-ecel0805260d)
