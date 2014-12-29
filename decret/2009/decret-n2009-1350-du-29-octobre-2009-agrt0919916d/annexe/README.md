@@ -8,4 +8,3 @@
 - [Article AOC "Marc d'Alsace"](article-aoc-marc-d-alsace.md)
 - [Article AOC "Pays d'Auge"](article-aoc-pays-d-auge.md)
 - [Article AOC "Pommeau de Normandie"](article-aoc-pommeau-de-normandie.md)
-- [Article AOC "Pommeau du Maine"](article-aoc-pommeau-du-maine.md)

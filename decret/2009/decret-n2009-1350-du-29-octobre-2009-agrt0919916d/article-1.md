@@ -16,6 +16,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Pays d'Auge" ;
 
-― "Pommeau du Maine" ;
-
 ― "Pommeau de Normandie".
