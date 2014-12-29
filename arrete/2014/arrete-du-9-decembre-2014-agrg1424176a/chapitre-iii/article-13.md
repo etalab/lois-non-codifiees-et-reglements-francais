@@ -1,0 +1,3 @@
+# Article 13
+
+Par dérogation à l'article 10 relatif aux carnivores domestiques du règlement (UE) n° 576/2013 du Parlement européen et du Conseil du 12 juin 2013 susvisé, certains mouvements non commerciaux (cas de graves crises politiques justifiant un rapatriement des animaux dans l'urgence ou autres contextes particuliers) peuvent être autorisés après accord du service d'inspection vétérinaire et phytosanitaire aux frontières et sous réserve que les animaux soient isolés sous surveillance officielle dans un lieu approuvé par le service d'inspection vétérinaire et phytosanitaire aux frontières durant la période requise pour qu'ils remplissent les conditions de l'article 10, cette durée ne pouvant pas excéder six mois.
