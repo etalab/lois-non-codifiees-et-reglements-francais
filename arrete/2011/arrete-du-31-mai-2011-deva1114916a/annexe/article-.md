@@ -12,18 +12,6 @@ Jusqu'au 31 mai 2014
 
 Paris-Beyrouth (Liban).
 
-Jusqu'au 31 décembre 2014
-
-Lille-Béjaïa (Algérie).
-
-Lille-Sétif (Algérie).
-
-Lille-Tlemcen (Algérie).
-
-Lyon-Tlemcen (Algérie).
-
-Mulhouse-Oran (Algérie).
-
 Jusqu'au 1er mars 2015
 
 Paris-Agadir (Maroc).
@@ -177,3 +165,7 @@ Lille-Oran (Algérie).
 Jusqu'au 30 novembre 2019
 
 Marseille-Tlemcen (Algérie).
+
+Jusqu'au 31 décembre 2019 :
+
+Mulhouse-Oran (Algérie).

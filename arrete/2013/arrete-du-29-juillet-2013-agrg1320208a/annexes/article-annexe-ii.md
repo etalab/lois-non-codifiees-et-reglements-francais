@@ -17,6 +17,20 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </th>
 </tr>
 <tr>
+<td>
+<p align="center">Agalactie contagieuse</p>
+</td>
+<td>
+<p align="center"> Mycoplasma agalactiae</p>
+</td>
+<td>
+<p> Ovins</p>
+<p>Caprins (en Aquitaine)</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
 <td align="center">Artérite virale équine<br/>
 </td>
 <td align="center">Virus de l'artérite équine (Arteriviridae, Arterivirus).<br/>
