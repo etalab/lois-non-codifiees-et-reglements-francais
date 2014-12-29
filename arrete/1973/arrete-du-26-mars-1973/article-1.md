@@ -82,7 +82,7 @@ Directeur d'école nationale vétérinaire, mentionné dans le décret n° 69-83
 
 Personnels de direction de 1re catégorie, 1re classe, 2e classe ou 3e classe ; personnels de direction de 2e catégorie, 1re classe, 2e classe, 3e classe ou 4e classe, mentionnés dans le décret n° 91-921 du 12 septembre 1991.
 
-Directeur et sous-directeur de l'école nationale supérieure féminine d'agronomie, de l'école nationale de formation agronomique et de l'institut nationale agricole et rural de la montagne, mentionnés dans le décret n° 68-537 du 30 mai 1968 modifié. (1).
+Directeur et sous-directeur de l'école nationale supérieure féminine d'agronomie, de l'école nationale de formation agronomique et de l'institut nationale agricole et rural de la montagne, mentionnés dans le décret n° 68-537 du 30 mai 1968 modifié.
 
 Directeurs de l'institut national agronomique et des autres écoles nationales supérieures agronomiques, mentionnés dans le décret n° 70-867 du 17 septembre 1970.
 
@@ -172,9 +172,9 @@ Directeur adjoint de l'office national d'information sur les enseignements et le
 
 Directeur du centre d'études et de recherches sur les qualifications, mentionné dans le décret n° 76-966 du 21 octobre 1976.
 
-Directeur général du centre national de documentation pédagogique, mentionné dans le décret n° 78-528 du 4 avril 1978 ;
+Directeur général du Réseau Canopé, mentionné dans le décret n° 78-528 du 4 avril 1978 (1) ;
 
-Directeur adjoint du centre national de documentation pédagogique, mentionné dans le décret n° 78-528 du 4 avril 1978 ;
+Directeur adjoint du Réseau Canopé, mentionné dans le décret n° 78-528 du 4 avril 1978 ;
 
 Directeur de l'institut national de recherche pédagogique, mentionné dans le décret n° 78-529 du 4 avril 1978 ;
 
@@ -192,7 +192,7 @@ Aménagement du territoire, équipement, logement et tourisme
 
 Chef du service régional de l'équipement de la région parisienne, mentionné dans le décret n° 66-614 du 10 août 1966.
 
-Secrétaire général de l'  Institut national de l'information géographique et forestière, mentionné dans le décret n° 67-752 du 29 août 1967.
+Secrétaire général de l' Institut national de l'information géographique et forestière, mentionné dans le décret n° 67-752 du 29 août 1967.
 
 Directeur départemental de l'équipement et chef du service régional de l'équipement, mentionnés dans le décret n° 70-912 du 5 octobre 1970.
 
@@ -200,7 +200,7 @@ Vice-président et président de section du conseil général des ponts et chaus
 
 Chef d'arrondissement mentionné dans le décret n° 76-213 du 26 février 1976 ;
 
-Directeur général adjoint et directeur de l'  Institut national de l'information géographique et forestière, mentionnés dans le décret n° 77-364 du 28 mars 1977.
+Directeur général adjoint et directeur de l' Institut national de l'information géographique et forestière, mentionnés dans le décret n° 77-364 du 28 mars 1977.
 
 Intérieur
 
@@ -232,7 +232,7 @@ Justice (grande chancellerie de la Légion d'honneur)
 
 Secrétaire général adjoint de la grande chancellerie de la Légion d'honneur, prévu par le décret n° 77-1244 du 14 novembre 1977 ;
 
-Chef de service de la grande chancellerie de la Légion d'honneur, prévu par le décret n° 76-1170 du 14 décembre 1976. (1).
+Chef de service de la grande chancellerie de la Légion d'honneur, prévu par le décret n° 76-1170 du 14 décembre 1976.
 
 Santé et sécurité sociale
 
