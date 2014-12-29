@@ -153,6 +153,7 @@
 - [Décret n°2012-176 du 6 février 2012 (AGRT1200928D)](decret-n2012-176-du-6-fevrier-2012-agrt1200928d)
 - [Décret n°2012-177 du 6 février 2012 (ESRS1134288D)](decret-n2012-177-du-6-fevrier-2012-esrs1134288d)
 - [Décret n°2012-178 du 6 février 2012 (ESRS1129902D)](decret-n2012-178-du-6-fevrier-2012-esrs1129902d)
+- [Décret n°2012-20 du 6 janvier 2012 (MAEA1104096D)](decret-n2012-20-du-6-janvier-2012-maea1104096d)
 - [Décret n°2012-309 du 6 mars 2012 (EFIR1200079D)](decret-n2012-309-du-6-mars-2012-efir1200079d)
 - [Décret n°2012-310 du 6 mars 2012 (MENV1129791D)](decret-n2012-310-du-6-mars-2012-menv1129791d)
 - [Décret n°2012-327 du 6 mars 2012 (DEVL1131022D)](decret-n2012-327-du-6-mars-2012-devl1131022d)
