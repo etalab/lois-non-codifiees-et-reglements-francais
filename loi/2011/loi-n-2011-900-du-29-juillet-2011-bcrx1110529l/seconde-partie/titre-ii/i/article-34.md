@@ -1,13 +1,13 @@
 # Article 34
 
-I., IV. - A créé les dispositions suivantes :
+I., IV.-A créé les dispositions suivantes :
 
-> - Code de l'urbanisme
+> -Code de l'urbanisme
 > > Art. L520-1, Art. L520-3, Art. L520-5, Art. L520-6, Art. L520-7, Art. L520-8, Art. L520-9
 
 A modifié les dispositions suivantes :
 
-> - Code des douanes
+> -Code des douanes
 
 > Art. 265 A bis
 II-1. Les locaux à usage de bureaux situés :
@@ -16,7 +16,7 @@ a) Dans les communes de la région d'Ile-de-France non mentionnées à l'article
 
 b) Dans les communes mentionnées au second alinéa de l'article L. 520-1 et au 3° de l'article R. 520-12 du même code, dans leur rédaction en vigueur au 28 décembre 2010, à l'exception des arrondissements de Paris, et rattachées à la première circonscription en application de l'article L. 520-3 du même code ;
 
-bénéficient au titre des années 2011 à 2015 d'un abattement respectivement des cinq sixièmes, des deux tiers, de la moitié, du tiers et du sixième de l'augmentation du montant de la redevance telle que définie au 3 du présent II.
+bénéficient à compter du 1er janvier 2015 d'un abattement du tiers de l'augmentation du montant de la redevance telle que définie au 3 du présent II.
 
 2. Les locaux à usage de bureaux situés :
 

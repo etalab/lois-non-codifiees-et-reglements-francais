@@ -10,4 +10,4 @@ II. - La première section fait l'objet de versements réguliers du budget gén�
 
 La seconde section fait l'objet d'une autorisation de découvert limitative dont le montant est fixé chaque année par la loi de finances.
 
-III. - Le Gouvernement transmet au Parlement le compte rendu d'un audit contractuel organisé chaque année sur les états financiers du compte de commerce, sur les procédures prudentielles mises en oeuvre, sur l'ensemble des opérations effectuées en vue de couvrir les charges de la trésorerie et de gérer les liquidités ou les instruments d'endettement de l'Etat, ainsi que sur l'incidence de ces opérations sur le coût de la dette.
+III. - Abrogé.

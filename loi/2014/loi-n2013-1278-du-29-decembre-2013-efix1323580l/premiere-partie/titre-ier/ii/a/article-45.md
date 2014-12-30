@@ -1,12 +1,6 @@
 # Article 45
 
-I.-A.-Il est institué un prélèvement sur les recettes de l'Etat compensant les pertes de recettes résultant, pour le Département de Mayotte, des conséquences au plan fiscal de l'application de l'article 1er de la loi organique n° 2010-1486 du 7 décembre 2010 relative au Département de Mayotte.
-
-B.-Le montant du prélèvement prévu au A est établi de façon à ce que la somme des recettes fiscales et douanières du Département de Mayotte en 2014 et de la compensation soit égale aux recettes fiscales perçues par le Département de Mayotte en 2012, hors recettes exceptionnelles d'impôt sur les sociétés perçues en 2012 au titre d'exercices antérieurs à 2012 et déduction faite des reversements effectués notamment au bénéfice du fonds intercommunal de péréquation des communes de Mayotte.
-
-C.-Par dérogation au B, un montant provisoire est fixé au titre de 2014 jusqu'à ce que soit connu le montant total des recettes perçues par le Département de Mayotte. Ce montant est égal à 83 millions d'euros. Il est attribué mensuellement à raison d'un douzième, le premier versement étant effectué avant le 31 janvier 2014.
-
-D.-Le montant mentionné au C est ajusté, dans les conditions prévues au B, au plus tard le 31 décembre 2014. Avant le 31 décembre 2015, la différence entre ce montant ajusté et le montant de 83 millions d'euros est versée ou appelée sur les douzièmes prévus au C selon qu'elle est, respectivement, positive ou négative.
+I.- (Abrogé).
 
 II.-Les régularisations au titre des attributions du fonds intercommunal de péréquation de 2012 et de 2013 sont reversées aux communes de Mayotte dans les conditions prévues aux articles L. 6175-4 et L. 6175-5 du code général des collectivités territoriales.
 

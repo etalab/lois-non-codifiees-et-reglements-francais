@@ -285,7 +285,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre national de la chanson, des variétés et du jazz (CNV) <br/>
 </td>
 <td align="left" valign="top">
-<br/>28 000 <br/>
+<br/>29 000 <br/>
 </td>
 </tr>
 <tr>

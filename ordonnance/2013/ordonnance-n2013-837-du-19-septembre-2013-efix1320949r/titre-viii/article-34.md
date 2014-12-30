@@ -5,9 +5,9 @@ A modifié les dispositions suivantes :
 > - Loi n°2004-639 du 2 juillet 2004
 > > Art. 47
 
-II. - Par exception aux dispositions de l'article 48 de la loi n° 2004-639 du 2 juillet 2004 susvisée , au titre de l'année 2014, les communes de Mayotte reçoivent une part de la dotation globale garantie égale aux montants mentionnés au III. Le département reçoit le solde de la dotation globale garantie.
+II. - Par exception à l'article 48 de la loi n° 2004-639 du 2 juillet 2004 relative à l'octroi de mer, au titre de l'année 2014, les communes de Mayotte reçoivent une part de la dotation globale garantie égale aux montants figurant dans le tableau suivant.
 
-III. - Le tableau infra fixe à titre provisoire la part de la dotation globale garantie affectée à chaque commune en 2014. Lorsque le montant de la fiscalité directe locale au titre de 2014 sera connu, les parts indiquées dans le tableau ci-après sont ajustées de façon à affecter à chaque commune une part de dotation globale garantie égale au montant perçu par cette commune en 2012 au titre de la section de fonctionnement et d'une fraction de la section d'investissement du fonds intercommunal de péréquation, corrigée des abondements du fonds au titre des recettes fiscales exceptionnelles du Département de Mayotte au titre des années antérieures à 2012 et minorée des recettes de fiscalité directe locale de cette commune résultant de l'application du taux de référence défini à l'article 23 de la présente ordonnance. Ces ajustements seront constatés par arrêté du ministre chargé du budget.
+(En euros)
 
 <table>
 <tbody>
@@ -16,147 +16,153 @@ III. - Le tableau infra fixe à titre provisoire la part de la dotation globale 
 <br/>COMMUNES<br/>
 </th>
 <th>
-<br/>PART DE LA DOTATION GLOBALE<br/>
-<br/>affectée à chaque commune en 2014 (en euros)<br/>
+<br/>DOTATION GLOBALE GARANTIE <br/>
+<br/>en 2014<br/>
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Acoua<br/>
 </td>
-<td align="center">
-<br/>899 130<br/>
+<td align="left" valign="middle">
+<br/>1 180 119<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Bandraboua<br/>
 </td>
-<td align="center">
-<br/>1 957 952<br/>
+<td align="left" valign="middle">
+<br/>2 569 836<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Bandrele<br/>
 </td>
-<td align="center">
-<br/>1 799 438<br/>
+<td align="left" valign="middle">
+<br/>2 361 783<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Boueni<br/>
+<td align="left" valign="middle">
+<br/>Bouéni<br/>
 </td>
-<td align="center">
-<br/>1 019 680<br/>
+<td align="left" valign="middle">
+<br/>1 338 343<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Chiconi<br/>
 </td>
-<td align="center">
-<br/>1 005 754<br/>
+<td align="left" valign="middle">
+<br/>1 320 064<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Chirongui<br/>
 </td>
-<td align="center">
-<br/>1 581 938<br/>
+<td align="left" valign="middle">
+<br/>2 076 313<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Dembeni<br/>
 </td>
-<td align="center">
-<br/>2 264 929<br/>
+<td align="left" valign="middle">
+<br/>2 972 746<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Dzaoudzi<br/>
 </td>
-<td align="center">
-<br/>2 058 469<br/>
+<td align="left" valign="middle">
+<br/>2 701 765<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Kani-Keli<br/>
+<td align="left" valign="middle">
+<br/>Kani-Kéli<br/>
 </td>
-<td align="center">
-<br/>1 094 495<br/>
+<td align="left" valign="middle">
+<br/>1 436 539<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Koungou<br/>
 </td>
-<td align="center">
-<br/>3 186 586<br/>
+<td align="left" valign="middle">
+<br/>4 182 430<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Mamoudzou<br/>
 </td>
-<td align="center">
-<br/>7 620 410<br/>
+<td align="left" valign="middle">
+<br/>10 001 876<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Mtsangamouji<br/>
 </td>
-<td align="center">
-<br/>1 190 808<br/>
+<td align="left" valign="middle">
+<br/>1 562 950<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Mtzamboro<br/>
 </td>
-<td align="center">
-<br/>1 209 745<br/>
+<td align="left" valign="middle">
+<br/>1 587 805<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Ouangani<br/>
 </td>
-<td align="center">
-<br/>1 308 614<br/>
+<td align="left" valign="middle">
+<br/>1 717 571<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Pamandzi<br/>
 </td>
-<td align="center">
-<br/>1 226 689<br/>
+<td align="left" valign="middle">
+<br/>1 610 044<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Sada<br/>
 </td>
-<td align="center">
-<br/>1 275 711<br/>
+<td align="left" valign="middle">
+<br/>1 674 386<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="middle">
 <br/>Tsingoni<br/>
 </td>
-<td align="center">
-<br/>2 044 731<br/>
+<td align="left" valign="middle">
+<br/>2 683 734<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+Le Département de Mayotte reçoit, en 2014, une part fixée à 24 588 072 €.
+
+Le solde entre le montant de l'octroi de mer perçu en 2014 et les parts définies aux trois premiers alinéas du présent II est réparti, en 2015, selon les critères prévus à l'article 49 de la loi n° 2004-639 du 2 juillet 2004 précitée et relatifs au fonds régional pour le développement et l'emploi.
+
+III. - 5(Abrogé).
 
 IV. - Au titre de l'année 2014 et par exception aux dispositions de l'article L. 4434-3 du code général des collectivités territoriales, le produit de la taxe spéciale de consommation prévue à l'article 266 quater du code des douanes perçue à Mayotte est intégralement affecté au Département de Mayotte.

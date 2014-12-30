@@ -6,6 +6,6 @@ Ce compte de commerce retrace les opérations de couverture des risques financie
 
 Le compte de commerce comporte, en recettes et en dépenses, la totalité des produits et des charges résultant de ces opérations.
 
-II. - Le ministre chargé de l'économie transmet chaque année au Parlement le compte rendu d'un audit réalisé par un organisme extérieur sur les états financiers du compte de commerce mentionné au I, sur les procédures prudentielles mises en oeuvre et sur l'ensemble des opérations effectuées.
+II. - Abrogé.
 
 III. - Paragraphe modificateur.
