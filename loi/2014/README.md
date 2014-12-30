@@ -8,6 +8,7 @@
 - [LOI n°2014-1528 du 18 décembre 2014 (ETSX1401575L)](loi-n2014-1528-du-18-decembre-2014-etsx1401575l)
 - [LOI n°2014-1545 du 20 décembre 2014 (EINX1412185L)](loi-n2014-1545-du-20-decembre-2014-einx1412185l)
 - [LOI n°2014-1554 du 22 décembre 2014 (FCPX1422901L)](loi-n2014-1554-du-22-decembre-2014-fcpx1422901l)
+- [LOI n°2014-1655 du 29 décembre 2014 (FCPX1425969L)](loi-n2014-1655-du-29-decembre-2014-fcpx1425969l)
 - [LOI n°2014-366 du 24 mars 2014 (ETLX1313501L)](loi-n2014-366-du-24-mars-2014-etlx1313501l)
 - [LOI n°2014-40 du 20 janvier 2014 (AFSX1322587L)](loi-n2014-40-du-20-janvier-2014-afsx1322587l)
 - [LOI n°2014-626 du 18 juin 2014 (ERNX1317571L)](loi-n2014-626-du-18-juin-2014-ernx1317571l)

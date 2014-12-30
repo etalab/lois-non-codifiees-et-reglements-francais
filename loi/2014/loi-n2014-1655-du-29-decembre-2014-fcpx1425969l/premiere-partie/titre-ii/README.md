@@ -1,0 +1,3 @@
+# Titre II : RATIFICATION D'UN DÉCRET RELATIF À LA RÉMUNÉRATION DE SERVICES RENDUS
+
+- [Article 8](article-8.md)
