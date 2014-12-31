@@ -13,31 +13,27 @@ Pour le ministère de l'économie et le ministère du budget, les bulletins offi
 <p align="center">TITRE</p>
 </td>
 <td valign="top" width="205">
-<p align="center">LIEUX</p>
+<p align="center">LIEUX ET SITES INTERNET</p>
 <p align="center">de consultation</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="205">
-<p>Du ministère de l'économie, des finances et de l'industrie</p>
+<p>Des ministères chargés de l'économie et des finances</p>
 </td>
 <td valign="top" width="205">
-<p>Bulletin officiel du ministère de l'économie, des finances et de l'industrie (1)</p>
+<p>Bulletin officiel de l'administration centrale des ministères économiques et financiers</p>
 </td>
 <td valign="top" width="205">
-<p>Centre de documentation économie et finances (CEDEF), 12, place Bataillon-du-Pacifique, 75572 Paris Cedex 12</p>
+www.economie.gouv.fr
 </td>
 </tr>
 <tr>
 <td valign="top" width="205">
 <p>Du ministère de l'économie, des finances et de l'industrie :</p>
 </td>
-<td valign="top" width="205">
-<br/>
-</td>
-<td valign="top" width="205">
-<br/>
-</td>
+<td valign="top" width="205"/>
+<td valign="top" width="205"/>
 </tr>
 <tr>
 <td valign="top" width="205">
@@ -54,12 +50,8 @@ Pour le ministère de l'économie et le ministère du budget, les bulletins offi
 <td valign="top" width="205">
 <p>Du secrétariat d'Etat au budget :</p>
 </td>
-<td valign="top" width="205">
-<br/>
-</td>
-<td valign="top" width="205">
-<br/>
-</td>
+<td valign="top" width="205"/>
+<td valign="top" width="205"/>
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="205">
@@ -68,9 +60,7 @@ Pour le ministère de l'économie et le ministère du budget, les bulletins offi
 <td valign="top" width="205">
 <p>Bulletin officiel des finances publiques comportant trois sections :</p>
 </td>
-<td valign="top" width="205">
-<br/>
-</td>
+<td valign="top" width="205"/>
 </tr>
 <tr>
 <td valign="top" width="205">
@@ -108,9 +98,7 @@ Pour le ministère de l'économie et le ministère du budget, les bulletins offi
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top" width="614">
-<p>(1) Bulletin commun aux directions et services du ministère, à l'exception de ceux qui possèdent un bulletin qui leur est propre</p>
-</td>
+<td colspan="3" valign="top" width="614"/>
 </tr>
 </tbody>
 </table>

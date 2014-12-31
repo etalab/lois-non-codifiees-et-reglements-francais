@@ -1751,7 +1751,6 @@
 - [Arrêté du 22 juin 2009 (AGRT0911328A)](arrete-du-22-juin-2009-agrt0911328a)
 - [Arrêté du 22 juin 2009 (AGRT0914526A)](arrete-du-22-juin-2009-agrt0914526a)
 - [Arrêté du 22 juin 2009 (AGRT0914527A)](arrete-du-22-juin-2009-agrt0914527a)
-- [Arrêté du 22 juin 2009 (AGRT0914534A)](arrete-du-22-juin-2009-agrt0914534a)
 - [Arrêté du 22 juin 2009 (AGRT0914550A)](arrete-du-22-juin-2009-agrt0914550a)
 - [Arrêté du 22 juin 2009 (AGRT0914560A)](arrete-du-22-juin-2009-agrt0914560a)
 - [Arrêté du 22 juin 2009 (DEFD0915499A)](arrete-du-22-juin-2009-defd0915499a)
