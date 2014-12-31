@@ -1,7 +1,5 @@
 # Article 29
 
-Sont tenus de créer un ou plusieurs comités d'hygiène et de sécurité, outre les services départementaux d'incendie et de secours sans condition d'effectifs, les collectivités ou établissements mentionnés à l'article 1er, occupant un effectif d'au moins 200 agents titulaires ou non, à temps complet ou non complet, dans un ou plusieurs services comportant des risques professionnels spécifiques par leur fréquence et leur gravité, notamment en raison de la nature des missions ou des tâches, de l'agencement ou de l'équipement des locaux.
+Chacun des membres du comité d'hygiène, de sécurité et des conditions de travail a un suppléant. Les représentants de la collectivité peuvent se suppléer l'un l'autre. Les représentants du personnel suppléants peuvent suppléer les titulaires appartenant à la même organisation syndicale.
 
-L'organe délibérant de la collectivité ou de l'établissement sous la responsabilité duquel fonctionnent lesdits services détermine après avis du  comité technique le nombre, le siège et la compétence des comités d'hygiène et de sécurité, et peut décider le cas échéant la division d'un comité d'hygiène et de sécurité en sections correspondant à des spécificités différentes au sein des services.
-
-Les dépenses de fonctionnement du comité sont à la charge de la collectivité ou de l'établissement public.
+Lors de chaque réunion du comité, le président est assisté en tant que de besoin par un ou plusieurs agents de la collectivité ou de l'établissement concernés par les questions sur lesquelles le comité est consulté. Ces derniers ne sont pas membres du comité d'hygiène, de sécurité et des conditions de travail.

@@ -3,4 +3,4 @@
 - [TITRE I : Règles relatives à l'hygiène et à la sécurité et contrôle de leur application.](titre-i)
 - [TITRE II : Formation en matière d'hygiène et de sécurité.](titre-ii)
 - [TITRE III : Médecine professionnelle et préventive.](titre-iii)
-- [TITRE IV : Organismes compétents en matière d'hygiène et de sécurité](titre-iv)
+- [TITRE IV : Organismes compétents en matière d'hygiène, de sécurité et des conditions de travail](titre-iv)
