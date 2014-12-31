@@ -113,6 +113,7 @@
 - [Décret n°2005-1637 du 26 décembre 2005 (SANS0524636D)](decret-n2005-1637-du-26-decembre-2005-sans0524636d)
 - [Décret n°2005-1638 du 26 décembre 2005 (SANS0524637D)](decret-n2005-1638-du-26-decembre-2005-sans0524637d)
 - [Décret n°2005-78 du 26 janvier 2005 (INDI0404303D)](decret-n2005-78-du-26-janvier-2005-indi0404303d)
+- [Décret n°87-948 du 26 novembre 1987 (BUDB8720020D)](decret-n87-948-du-26-novembre-1987-budb8720020d)
 - [Décret n°2005-544 du 26 mai 2005 (INTX0500125D)](decret-n2005-544-du-26-mai-2005-intx0500125d)
 - [Décret n°2005-555 du 26 mai 2005 (INTE0500097D)](decret-n2005-555-du-26-mai-2005-inte0500097d)
 - [Décret n°2005-850 du 27 juillet 2005 (PRMX0500111D)](decret-n2005-850-du-27-juillet-2005-prmx0500111d)
