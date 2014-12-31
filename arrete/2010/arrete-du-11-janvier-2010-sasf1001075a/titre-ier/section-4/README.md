@@ -1,3 +1,0 @@
-# SECTION 4 : STAGE « ALPINISME HIVERNAL ASPIRANT GUIDE 4 »
-
-- [Article 12](article-12.md)
