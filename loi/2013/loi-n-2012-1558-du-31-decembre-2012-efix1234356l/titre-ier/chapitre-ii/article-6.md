@@ -1,7 +1,0 @@
-# Article 6
-
-I. ― L'agrégat composé des dépenses du budget général de l'Etat, hors remboursements et dégrèvements, des prélèvements sur recettes et du produit, plafonné ou fixé, des impositions de toutes natures mentionnées à l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 ne peut, à périmètre constant, excéder 370,5 milliards d'euros pour chacune des années 2013, 2014, 2015, 2016 et 2017, en euros constants de 2012. Ce montant est actualisé en fonction de la prévision d'évolution des prix à la consommation, hors tabac, associée au projet de loi de finances de l'année pour chacune des années 2013 à 2017.
-
-II. ― Hors charge de la dette et hors contributions au compte d'affectation spéciale « Pensions », cet agrégat est, à périmètre constant et pour chacune des années 2013 à 2017, au plus égal à 279,455 milliards d'euros.
-
-III. ― Afin d'assurer le respect des orientations définies aux I et II, chaque année, pour chaque programme doté de crédits limitatifs, sont mis en réserve au moins 0,5 % des crédits de paiement et des autorisations d'engagement ouverts sur le titre 2 « Dépenses de personnel », et au moins 5 % des crédits de paiement et des autorisations d'engagement ouverts sur les autres titres. Pour la mise en réserve sur le titre 3 « Dépenses de fonctionnement », l'application de ce taux peut être modulée en fonction de la nature des dépenses supportées par les organismes bénéficiant d'une subvention pour charge de service public.
