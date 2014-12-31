@@ -8,4 +8,4 @@ Constituent le groupe hiérarchique 2, dénommé groupe hiérarchique supérieur
 
 3° Les sergents et les adjudants de sapeurs-pompiers professionnels ;
 
-4° Les fonctionnaires qui, ne relevant pas du 1°, 2° ou 3°, sont titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 446.
+4° Les fonctionnaires qui, ne relevant pas du 1°, 2° ou 3°, sont titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 459.
