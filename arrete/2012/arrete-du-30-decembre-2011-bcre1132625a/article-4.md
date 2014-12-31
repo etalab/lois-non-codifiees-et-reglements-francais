@@ -6,8 +6,4 @@ Sont assignées sur le comptable principal du Trésor du département de la Mose
 
 ― le directeur de la plate-forme achats finances Nord-Est ;
 
-― le directeur du service exécutant de la solde unique ;
-
-― le directeur du commissariat de l'armée de terre de Châlons-en-Champagne ;
-
-― le directeur du commissariat de l'armée de terre de Strasbourg.
+― le directeur du service exécutant de la solde unique.
