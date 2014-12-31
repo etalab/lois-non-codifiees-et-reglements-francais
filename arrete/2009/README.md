@@ -2314,7 +2314,6 @@
 - [Arrêté du 27 juillet 2009 (ESRF0916240A)](arrete-du-27-juillet-2009-esrf0916240a)
 - [Arrêté du 27 juillet 2009 (ESRH0916152A)](arrete-du-27-juillet-2009-esrh0916152a)
 - [Arrêté du 27 juillet 2009 (IMIK0911222A)](arrete-du-27-juillet-2009-imik0911222a)
-- [Arrêté du 27 juillet 2009 (MENE0917620A)](arrete-du-27-juillet-2009-mene0917620a)
 - [Arrêté du 27 juillet 2009 (MENE0917680A)](arrete-du-27-juillet-2009-mene0917680a)
 - [Arrêté du 27 juillet 2009 (MENE0917729A)](arrete-du-27-juillet-2009-mene0917729a)
 - [Arrêté du 27 juillet 2009 (MENE0917767A)](arrete-du-27-juillet-2009-mene0917767a)
