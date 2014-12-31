@@ -41,11 +41,15 @@ A. - Elèves admis à compter de la rentrée universitaire 2014
 </td>
 </tr>
 <tr>
+<td align="center"> Ingénieurs-élèves des ponts, des eaux et des forêts </td>
+<td align="center"> 759,00 €</td>
+</tr>
+<tr>
 <td align="center">
-<br/>Formation conduisant au diplôme de docteur <p>de l'Ecole nationale des ponts et chaussées<br/>
-</p>
+<p> Formation conduisant au diplôme de docteur de </p>
+<p>l'Ecole nationale des ponts et chaussées</p>
 </td>
-<td align="center"/>
+<td/>
 </tr>
 <tr>
 <td align="center">
