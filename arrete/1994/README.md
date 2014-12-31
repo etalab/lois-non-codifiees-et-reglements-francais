@@ -981,7 +981,6 @@
 - [Arrêté du 31 décembre 1993 (DEFP9401007A)](arrete-du-31-decembre-1993-defp9401007a)
 - [Arrêté du 31 décembre 1993 (ECOX9301623A)](arrete-du-31-decembre-1993-ecox9301623a)
 - [Arrêté du 31 décembre 1993 (JUSA9300386A)](arrete-du-31-decembre-1993-jusa9300386a)
-- [Arrêté du 31 décembre 1993 (JUSG9360080A)](arrete-du-31-decembre-1993-jusg9360080a)
 - [Arrêté du 31 janvier 1994 (INTA9400083A)](arrete-du-31-janvier-1994-inta9400083a)
 - [Arrêté du 31 janvier 1994 (SANH9400616A)](arrete-du-31-janvier-1994-sanh9400616a)
 - [Arrêté du 31 mars 1994 (AGRG9400687A)](arrete-du-31-mars-1994-agrg9400687a)
