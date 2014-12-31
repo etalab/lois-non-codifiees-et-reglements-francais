@@ -9,5 +9,4 @@
 - [Chapitre VII : Pannes, mauvais fonctionnements et défauts  pouvant affecter la navigabilité](chapitre-vii)
 - [Chapitre VIII : Coopération entre la conception et la production](chapitre-viii)
 - [Chapitre IX : Dispositions finales et transitoires](chapitre-ix)
-- [Annexe](annexe)
 - [Annexes](annexes)
