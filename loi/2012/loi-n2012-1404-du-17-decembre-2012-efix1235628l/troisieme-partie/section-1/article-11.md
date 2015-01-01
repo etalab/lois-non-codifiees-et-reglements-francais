@@ -5,7 +5,7 @@ I.-A modifié les dispositions suivantes :
 > -Code de la sécurité sociale.
 > > Art. L131-6, Art. L133-6-8, Art. L612-3, Art. L612-4, Art. L612-5, Art. L612-9, Art. L612-13, Art. L722-4, Art. L756-3, Art. L756-4, Art. L756-5
 
-II.-L'article L. 131-7 du code de la sécurité sociale n'est pas applicable à la réduction prévue à l'article L. 612-5 du même code.
+II.-Abrogé.
 
 III.-Le présent article s'applique aux cotisations de sécurité sociale et contributions sociales dues au titre des périodes courant à compter du 1er janvier 2013, sous réserve des dispositions suivantes :
 
