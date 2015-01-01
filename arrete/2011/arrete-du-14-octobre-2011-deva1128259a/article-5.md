@@ -18,114 +18,108 @@ b) Représentants du personnel :
 <tbody>
 <tr>
 <th rowspan="3">
-<br/>DIRECTIONS ET SERVICES <br/>
+<br/>DIRECTIONS ET SERVICES<br/>
 </th>
 <th rowspan="3">
-<br/>CT DE RATTACHEMENT <br/>
+<br/>CT DE RATTACHEMENT<br/>
 </th>
 <th colspan="2">
-<br/>NOMBRE DE REPRÉSENTANTS <br/>
+<br/>NOMBRE DE REPRÉSENTANTS<br/>
 </th>
 </tr>
 <tr>
 <th colspan="2">
-<br/>Membres représentant les personnels <br/>
+<br/>Membres représentant les personnels<br/>
 </th>
 </tr>
 <tr>
 <th>
-<br/>Titulaires <br/>
+<br/>Titulaires<br/>
 </th>
 <th>
-<br/>Suppléants <br/>
+<br/>Suppléants<br/>
 </th>
 </tr>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<br/>CHSCT de proximité <br/>
+<td align="center" colspan="4">
+<br/>CHSCT spéciaux<br/>
 </td>
 </tr>
 <tr>
-<td valign="middle">
-<br/>Direction de la sécurité de l'aviation civile Nord-Est et service de la navigation aérienne Nord-Est <br/>
+<td>
+<br/>Direction de la sécurité de l'aviation civile Ouest et service de la navigation aérienne Ouest<br/>
 </td>
-<td align="left" valign="middle">
-<br/>CT spécial DSAC Nord-Est-CT spécial SNA Nord-Est <br/>
+<td align="left">
+<br/>CT spécial DSAC Ouest - CT spécial SNA Ouest<br/>
 </td>
-<td align="center" valign="middle">
-<br/>7 <br/>
+<td align="center">
+<br/>7<br/>
 </td>
-<td align="center" valign="middle">
-<br/>7 <br/>
-</td>
-</tr>
-<tr>
-<td valign="middle">
-<br/>Direction de la sécurité de l'aviation civile Ouest et service de la navigation aérienne Ouest <br/>
-</td>
-<td align="left" valign="middle">
-<br/>CT spécial DSAC Ouest-CT spécial SNA Ouest <br/>
-</td>
-<td align="center" valign="middle">
-<br/>7 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>7 <br/>
+<td align="center">
+<br/>7<br/>
 </td>
 </tr>
 <tr>
-<td valign="middle">
-<br/>Direction de la sécurité de l'aviation civile Sud et service de la navigation aérienne Sud <br/>
+<td>
+<p align="left">
+<br/>Direction de la sécurité de l'aviation civile Sud et service de la navigation aérienne Sud</p>
 </td>
-<td align="left" valign="middle">
-<br/>CT spécial DSAC Sud-CT spécial SNA Sud <br/>
+<td align="left">
+<p align="left">
+<br/>CT spécial DSAC Sud - CT spécial SNA Sud</p>
 </td>
-<td align="center" valign="middle">
-<br/>7 <br/>
+<td align="center">
+<br/>7<br/>
 </td>
-<td align="center" valign="middle">
-<br/>7 <br/>
-</td>
-</tr>
-<tr>
-<td valign="middle">
-<br/>Direction de la sécurité de l'aviation civile Sud-Ouest et service de la navigation aérienne Sud-Ouest <br/>
-</td>
-<td align="left" valign="middle">
-<br/>CT spécial DSAC Sud-Ouest-CT spécial SNA Sud-Ouest <br/>
-</td>
-<td align="center" valign="middle">
-<br/>9 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>9 <br/>
+<td align="center">
+<br/>7<br/>
 </td>
 </tr>
 <tr>
-<td valign="middle">
-<br/>Direction de la sécurité de l'aviation civile Antilles-Guyane et service de la navigation aérienne Antilles-Guyane <br/>
+<td>
+<p align="left">
+<br/>Direction de la sécurité de l'aviation civile Sud-Ouest et service de la navigation aérienne Sud-Ouest</p>
 </td>
-<td align="left" valign="middle">
-<br/>CT spécial DSAC Antilles-Guyane-CT spécial SNA Antilles-Guyane <br/>
+<td align="left">
+<p align="left">
+<br/>CT spécial DSAC Sud-Ouest -CT spécial SNA Sud-Ouest</p>
 </td>
-<td align="center" valign="middle">
-<br/>9 <br/>
+<td align="center">
+<br/>9<br/>
 </td>
-<td align="center" valign="middle">
-<br/>9 <br/>
+<td align="center">
+<br/>9<br/>
 </td>
 </tr>
 <tr>
-<td valign="middle">
-<br/>Direction de la sécurité de l'aviation civile océan Indien et service de la navigation aérienne océan Indien <br/>
+<td>
+<p align="left">
+<br/>Direction de la sécurité de l'aviation civile Antilles-Guyane et service de la navigation aérienne Antilles-Guyane</p>
 </td>
-<td align="left" valign="middle">
-<br/>CT spécial DSAC océan-Indien-CT spécial SNA océan-Indien <br/>
+<td align="left">
+<p align="left">
+<br/>CT spécial DSAC Antilles-Guyane - CT spécial SNA Antilles-Guyane</p>
 </td>
-<td align="center" valign="middle">
-<br/>5 <br/>
+<td align="center">
+<br/>9<br/>
 </td>
-<td align="center" valign="middle">
+<td align="center">
+<br/>9<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">
+<br/>Direction de la sécurité de l'aviation civile océan Indien et service de la navigation aérienne océan Indien</p>
+</td>
+<td align="left">
+<p align="left">
+<br/>CT spécial DSAC océan-Indien - CT spécial SNA océan-Indien</p>
+</td>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
 <br/>5<br/>
 </td>
 </tr>

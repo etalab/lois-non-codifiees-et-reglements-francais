@@ -10,8 +10,6 @@ a) Représentants de l'administration :
 
 b) Représentants du personnel :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -102,20 +100,8 @@ b) Représentants du personnel :
 <td align="center">4<br/>
 </td>
 </tr>
-<tr>
-<td align="center">
-<p align="left">Centre de Saint-Auban<br/>
-</p>
-</td>
-<td align="center">4<br/>
-</td>
-<td align="center">4<br/>
-</td>
-</tr>
 </tbody>
 </table>
-
-</div>
 
 Les représentants du personnel de chaque comité technique spécial ci-dessus sont désignés suite au dépouillement des résultats obtenus pour la composition du comité technique de l'ENAC.
 
