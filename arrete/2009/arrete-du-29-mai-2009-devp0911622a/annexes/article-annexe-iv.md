@@ -85,7 +85,7 @@ Chapitre 10 : Marquage.
 
 2.3. Flexibles pour les matières de la classe 2 des n°s ONU 1011, 1075, 1965, 1969 et 1978.
 
-Les flexibles sont d'un seul tenant et sont conformes à la norme NF EN 1762 de mai 2004.
+Les flexibles sont d'un seul tenant. Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1762 de mai 2004.
 
 2.4. Flexibles pour les gaz liquéfiés réfrigérés de la classe 2.
 
@@ -93,13 +93,11 @@ Les flexibles sont conformes à la norme NF EN 12434 de février 2001.
 
 2.5. Flexibles pour les carburants de la classe 3.
 
-Les flexibles réalisés à partir de tuyaux en caoutchouc sont conformes à la norme NF EN 1360 de novembre 2005, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005, ou à la norme NF EN 13765 de juin 2010, ou à la norme NF EN ISO 1825 de juillet 2011.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 1360 d'août 2013, ou à la norme NF EN 1761 de juillet 1999, ou à la norme NF EN 1765 de mars 2005, ou à la norme NF EN 13765 de juin 2010, ou à la norme NF EN ISO 1825 de juillet 2011.
 
-2.6. Flexibles en caoutchouc et en matériaux thermoplastiques pour matières chimiques liquides ou gazeuses.
+2.6. Flexibles pour les matières chimiques liquides ou gazeuses.
 
-Les flexibles sont conformes à la norme NF EN 12115 d'avril 2011 ou à la norme NF EN 13765 de juin 2010.
-
-2.7. Les normes NF EN 12115, NF EN 13765 et NF EN ISO 1825 précitées peuvent n'être appliquées qu'à compter du 1er janvier 2014.
+Les flexibles réalisés à partir de tuyaux en caoutchouc ou en matériaux thermoplastiques sont conformes à la norme NF EN 12115 d'avril 2011, ou à la norme NF EN 13765 de juin 2010.
 
 3. Agrément des flexibles
 
@@ -228,14 +226,14 @@ Contrôle des transports de marchandises dangereuses par route
 <tr>
 <td colspan="2" rowspan="2" width="301">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 <td colspan="3" width="287">
 <p align="center">Lieu d'immatriculation des véhicules (1)</p>
 </td>
 <td width="93">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -381,7 +379,7 @@ Le rapport annuel comprend le tableau suivant.
 </td>
 <td colspan="2" valign="top" width="308">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -417,7 +415,7 @@ Le rapport annuel comprend le tableau suivant.
 <td valign="top" width="147">
 <br/>
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -426,7 +424,7 @@ Le rapport annuel comprend le tableau suivant.
 </td>
 <td valign="top" width="147">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -436,7 +434,7 @@ Le rapport annuel comprend le tableau suivant.
 <td valign="top" width="147">
 <br/>
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -486,7 +484,7 @@ Le cas échéant, d'autres éléments peuvent être intégrés, notamment :
 
 1.2. Place du conseiller à la sécurité dans l'organisation
 
-Le cas échéant, un organigramme est fourni, indiquant clairement la place du (ou des) conseiller(s) à la sécurité.
+Un organigramme est fourni, indiquant clairement la place du (ou des) conseiller(s) à la sécurité.
 
 Si le conseiller n'est pas basé dans l'établissement, il indique les coordonnées de son interlocuteur local.
 
@@ -498,7 +496,17 @@ Afin de quantifier les activités de l'entreprise liées aux marchandises danger
 
 Le relevé des activités de transport de marchandises dangereuses des classes 1 et 7 s'appuie, le cas échéant, sur les données transmises par ailleurs, de façon plus détaillée, à l'autorité compétente.
 
-Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1, 2.1.2, 2.1.3, 2.1.4 et 2.1.5 du présent appendice.
+Selon les activités de l'entreprise, les tableaux correspondants sont complétés en fonction des obligations et des spécificités reprises aux points 2.1.1,2.1.2,2.1.3,2.1.4 et 2.1.5 du présent appendice. Les quantités reportées dans les tableaux portent sur les marchandises concernées par les activités du conseiller à la sécurité ; elles peuvent faire l'objet d'une estimation sous réserve que celle-ci permette au conseiller à la sécurité de remplir les missions listées au 1.8.3.3.
+
+Les informations relatives aux marchandises susvisées comprennent la mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage et figurent :
+
+-soit dans des colonnes supplémentaires ajoutées aux tableaux ;
+
+-soit dans une liste annexée au rapport annuel si la ventilation par numéro ONU dans ces derniers s'avère impossible.
+
+Toutefois celles-ci peuvent faire l'objet de regroupements, par catégories génériques homogènes de marchandises dont les propriétés et les conditions de transport sont similaires, et suivant des principes clairement définis. Dans ce cas la liste exhaustive des numéros ONU n'est pas nécessaire si après regroupement les données listées sont suffisamment précises pour permettre au conseiller de remplir les missions listées au 1.8.3.3.
+
+Les numéros ONU correspondant à des entrées dont les caractéristiques et conditions de transport ne permettent pas un rattachement à une catégorie générique visée à l'alinéa précédent doivent être listés précisément.
 
 La mention des numéros ONU, complétée des désignations officielles de transport et des groupes d'emballage figure :
 
@@ -515,8 +523,8 @@ Le relevé des activités comprend au minimum les informations contenues dans le
 <tr>
 <td align="center">CLASSE (1)</td>
 <td align="center">ÉTIQUETTE(S) (2)</td>
-<td align="center">TYPE <br clear="none"/>de conditionnement (3)</td>
-<td align="center">QUANTITÉS TOTALES<br clear="none"/>annuelles (4)</td>
+<td align="center">TYPE <br/>de conditionnement (3)</td>
+<td align="center">QUANTITÉS TOTALES<br/>annuelles (4)</td>
 </tr>
 <tr>
 <td/>
@@ -529,7 +537,7 @@ Le relevé des activités comprend au minimum les informations contenues dans le
 <p>(1) Indiquer la classe. </p>
 <p align="left">(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
 <p align="left">(3) Conditionnement. Le type de conditionnement peut apparaître en toutes lettres ou sous la forme des codes issus des chapitres 6.1 à 6.6 des réglementations modales.</p>
-<p align="left">(4) Indiquer les quantités de marchandises concernées.<br clear="none"/>
+<p align="left">(4) Indiquer les quantités de marchandises concernées.<br/>
 </p>
 </td>
 </tr>
@@ -546,7 +554,7 @@ Le relevé des activités de chargement ou de remplissage comprend au minimum le
 <td align="center" rowspan="2">CLASSE (1)</td>
 <td align="center" rowspan="2">ÉTIQUETTE(S) (2)</td>
 <td align="center" colspan="3">TYPE DE CONTENANT (3)</td>
-<td align="center" colspan="3">QUANTITÉS TOTALES<br clear="none"/>annuelles</td>
+<td align="center" colspan="3">QUANTITÉS TOTALES<br/>annuelles</td>
 </tr>
 <tr>
 <td align="center">Colis</td>
@@ -571,7 +579,7 @@ Le relevé des activités de chargement ou de remplissage comprend au minimum le
 <p>(1) Indiquer la classe. </p>
 <p align="left">(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
 <p align="left">(3) Renseigner les cases correspondant au type de contenant utilisé.</p>
-<p align="left">(4) Indiquer les quantités de marchandises concernées en fonction du mode de transport (R : route ; F : ferroviaire ; N : voies de navigation intérieures).<br clear="none"/>
+<p align="left">(4) Indiquer les quantités de marchandises concernées en fonction du mode de transport (R : route ; F : ferroviaire ; N : voies de navigation intérieures).<br/>
 </p>
 </td>
 </tr>
@@ -605,8 +613,8 @@ Le relevé des activités de transport comprend au minimum les informations cont
 </tr>
 <tr>
 <td colspan="5">
-<br clear="none"/>(1) Indiquer la classe. <p>(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
-<p>(3) Indiquer les quantités de marchandises concernées.<br clear="none"/>
+<br/>(1) Indiquer la classe. <p>(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
+<p>(3) Indiquer les quantités de marchandises concernées.<br/>
 </p>
 </td>
 </tr>
@@ -636,7 +644,7 @@ Le relevé des activités de transport comprend au minimum les informations cont
 <td colspan="5">
 <p>(1) Indiquer la classe. </p>
 <p align="left">(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
-<p align="left">(3) Indiquer les quantités de marchandises concernées selon qu'il s'agit de wagons et/ou d'UTI (unités de transport intermodales).<br clear="none"/>
+<p align="left">(3) Indiquer les quantités de marchandises concernées selon qu'il s'agit de wagons et/ou d'UTI (unités de transport intermodales).<br/>
 </p>
 </td>
 </tr>
@@ -666,7 +674,7 @@ Le relevé des activités de transport comprend au minimum les informations cont
 <td colspan="5">
 <p>(1) Indiquer la classe. </p>
 <p align="left">(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
-<p align="left">(3) Indiquer les quantités de marchandises concernées en fonction du type de bateau utilisé.<br clear="none"/>
+<p align="left">(3) Indiquer les quantités de marchandises concernées en fonction du type de bateau utilisé.<br/>
 </p>
 </td>
 </tr>
@@ -683,7 +691,7 @@ Le relevé des activités de transport comprend au minimum les informations cont
 <td align="center" rowspan="2">CLASSE (1)</td>
 <td align="center" rowspan="2">ÉTIQUETTE(S) (2)</td>
 <td align="center" colspan="3">
-<br clear="none"/>
+<br/>
 <div>QUANTITÉS TOTALES ANNUELLES (3)</div>
 </td>
 </tr>
@@ -703,7 +711,7 @@ Le relevé des activités de transport comprend au minimum les informations cont
 <td colspan="5">
 <p>(1) Indiquer la classe. </p>
 <p align="left">(2) Colonne à remplir obligatoirement dans le cas de la classe 7.</p>
-<p align="left">(3) Indiquer les quantités de marchandises concernées en fonction du mode de transport (R : route ; F : ferroviaire ; N : voies de navigation intérieures).<br clear="none"/>
+<p align="left">(3) Indiquer les quantités de marchandises concernées en fonction du mode de transport (R : route ; F : ferroviaire ; N : voies de navigation intérieures).<br/>
 </p>
 </td>
 </tr>
@@ -1151,15 +1159,15 @@ Les événements relatifs au transport de marchandises dangereuses de la classe 
 <tbody>
 <tr>
 <td align="center">
-<br clear="none"/>Nombre d'événements significatifs : <br clear="none"/>
+<br/>Nombre d'événements significatifs : <br/>
 </td>
 <td align="center">
-<br clear="none"/>Nombre d'événements intéressants (EIT) (*) : <br clear="none"/>
+<br/>Nombre d'événements intéressants (EIT) (*) : <br/>
 </td>
 </tr>
 <tr>
 <td colspan="5">
-<p>(*) EIT : Ecarts aux exigences réglementaires qui n'entraînent pas de dégradation des fonctions de sûreté et dont les incidences sont faibles. Ces EIT sont alors classés "hors échelle" sur l'échelle INES et ne nécessitent pas de compte rendu d'événement significatif.<br clear="none"/>
+<p>(*) EIT : Ecarts aux exigences réglementaires qui n'entraînent pas de dégradation des fonctions de sûreté et dont les incidences sont faibles. Ces EIT sont alors classés "hors échelle" sur l'échelle INES et ne nécessitent pas de compte rendu d'événement significatif.<br/>
 </p>
 </td>
 </tr>
@@ -1170,17 +1178,198 @@ Les événements relatifs au transport de marchandises dangereuses de la classe 
 
 4.1. Tableau de synthèse des visites et interventions réalisées par le conseiller à la sécurité
 
-Le tableau de synthèse ci-après est rempli afin d'obtenir un récapitulatif clair de toutes les visites ou interventions du conseiller à la sécurité effectuées dans l'entreprise sur le thème du transport de marchandises dangereuses.
+Le tableau de synthèse ci-après est rempli afin d'obtenir un récapitulatif clair de toutes les visites ou interventions du conseiller à la sécurité effectuées dans l'entreprise sur le thème du transport de marchandises dangereuses (MD).
 
-Le tableau est divisé en thèmes et sous-thèmes généraux, correspondant aux tâches du conseiller à la sécurité décrites dans la partie 5 du présent appendice et numérotées de 5.1 à 5.13.
+Ce tableau est divisé en thèmes correspondant aux tâches du conseiller à la sécurité visées au 1.8.3.3, décrites dans la partie 5 du présent appendice et numérotées de 5.1 à 5.13.
 
-Chaque visite ou intervention fait l'objet d'une ligne du tableau avec indication de sa date et du lieu (si plusieurs sites, par exemple). Les sous-thèmes qui auront été abordés par intervention ou visite sont simplement cochés.
+Chaque visite ou intervention fait l'objet d'une ligne du tableau avec indication de sa date et du lieu. Les thèmes qui sont abordés par intervention ou visite sont simplement cochés.
 
-Vous pouvez consulter le tableau dans le JO
+Le cas échéant, il est possible, en fonction des activités de l'entreprise, que certains thèmes indiqués soient sans objet. Dans ce cas, les cases correspondantes de la ligne " sans objet " sont cochées. Le rapport comprend alors les justifications appropriées.
 
-n° 304 du 31/12/2013 texte numéro 56 à l'adresse suivante
+<table>
+<tbody>
+<tr>
+<th colspan="2">
+<br/>THÈMES <br/>
+<br/>(TÂCHES DU CONSEILLER) <br/>
+</th>
+<th>
+<br/>5.1 <br/>
+</th>
+<th>
+<br/>5.2 <br/>
+</th>
+<th>
+<br/>5.3 <br/>
+</th>
+<th>
+<br/>5.4 <br/>
+</th>
+<th>
+<br/>5.5 <br/>
+</th>
+<th>
+<br/>5.6 <br/>
+</th>
+<th>
+<br/>5.7 <br/>
+</th>
+<th>
+<br/>5.8 <br/>
+</th>
+<th>
+<br/>5.9 <br/>
+</th>
+<th>
+<br/>5.10 <br/>
+</th>
+<th>
+<br/>5.11 <br/>
+</th>
+<th>
+<br/>5.12 <br/>
+</th>
+<th>
+<br/>5.13 <br/>
+</th>
+<th>
+<br/>AUTRES (*) <br/>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<br/>Désignation <br/>
+</td>
+<td>
+<br/>Identification des MD <br/>
+</td>
+<td>
+<br/>Achats de moyens de transport <br/>
+</td>
+<td>
+<br/>Vérification du matériel utilisé <br/>
+</td>
+<td>
+<br/>Formation du personnel <br/>
+</td>
+<td>
+<br/>Procédures d'urgence pour incidents/ accidents MD <br/>
+</td>
+<td>
+<br/>Analyse des incidents/ accidents/ infractions graves <br/>
+</td>
+<td>
+<br/>Mesures pour éviter la répétition d'accidents/ incidents/ infractions graves <br/>
+</td>
+<td>
+<br/>Sous-traitance et intervenants extérieurs <br/>
+</td>
+<td>
+<br/>Procédures et consignes <br/>
+</td>
+<td>
+<br/>Sensibilisation aux risques des MD <br/>
+</td>
+<td>
+<br/>Documents et équipements de sécurité <br/>
+</td>
+<td>
+<br/>Chargement-déchargement <br/>
+</td>
+<td>
+<br/>Plan de sûreté prévu au 1.10.3.2 <br/>
+</td>
+<td align="left"/>
+</tr>
+<tr>
+<td colspan="2">
+<br/>Thème (s) sans objet pour l'entreprise <br/>
+</td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td colspan="2">
+<br/>Visite (s) <br/>
+</td>
+<td colspan="14">
+<br/>Thèmes abordés <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Date <br/>
+</td>
+<td>
+<br/>Lieu <br/>
+</td>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+</tbody>
+</table>
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20131231&numTexte=56&pageDebut=22353&pageFin=22362
+(*) Si cette rubrique est renseignée, préciser la nature du thème concerné par l'intervention  ;
 
 4.2. Rappel des autres travaux ou audits réalisés pouvant avoir une incidence sur les activités liées au transport de marchandises dangereuses
 
@@ -1203,8 +1392,6 @@ Le rapport annuel contient :
 ― une description des actions principales dans lesquelles le conseiller à la sécurité s'est investi au cours de l'année et qui lui ont permis d'examiner les pratiques de l'entreprise dans les différentes activités impliquées et d'évaluer leur conformité par rapport aux obligations réglementaires ;
 
 ― les recommandations qui ont été réalisées par le conseiller à la sécurité pour chacune des treize tâches décrites au 1.8.3.3.
-
-Le cas échéant, il est possible, en fonction de l'activité de l'entreprise, que certaines tâches indiquées soient sans objet. Dans ce cas, il en sera fait simplement mention.
 
 Chaque point, numéroté de 5.1 à 5.13 est renseigné par le conseiller à la sécurité.
 
@@ -1268,56 +1455,56 @@ Formation pour les conducteurs selon le chapitre 8.2 de l'ADR :
 <tbody>
 <tr>
 <td align="center">TYPE DE FORMATION</td>
-<td align="center">NOMBRE DE PERSONNES TITULAIRES<br clear="none"/>d'un certificat de conducteur ADR</td>
+<td align="center">NOMBRE DE PERSONNES TITULAIRES<br/>d'un certificat de conducteur ADR</td>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Formation de base<br clear="none"/>
+<br/>Formation de base<br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation citernes<br clear="none"/>
+<br/>Spécialisation citernes<br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation classe 1 <br clear="none"/>
+<br/>Spécialisation classe 1 <br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation classe 7 <br clear="none"/>
+<br/>Spécialisation classe 7 <br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation citernes produits pétroliers<br clear="none"/>
+<br/>Spécialisation citernes produits pétroliers<br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation citernes GPL<br clear="none"/>
+<br/>Spécialisation citernes GPL<br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation citernes gaz<br clear="none"/>
+<br/>Spécialisation citernes gaz<br/>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<br clear="none"/>Spécialisation citernes (hors classe 2)<br clear="none"/>
+<br/>Spécialisation citernes (hors classe 2)<br/>
 </td>
 <td align="center">
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 </tbody>
@@ -1331,50 +1518,50 @@ Formation pour les experts selon le chapitre 8.2 de l'ADN :
 <tbody>
 <tr>
 <td align="center">TYPE DE FORMATION</td>
-<td align="center">NOMBRE DE PERSONNES TITULAIRES<br clear="none"/>d'une attestation d'expert</td>
+<td align="center">NOMBRE DE PERSONNES TITULAIRES<br/>d'une attestation d'expert</td>
 </tr>
 <tr>
 <td align="left">
-<p>Formation de base<br clear="none"/>
+<p>Formation de base<br/>
 </p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<p>― marchandises sèches<br clear="none"/>
+<p>― marchandises sèches<br/>
 </p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<p>― bateau-citerne <br clear="none"/>
+<p>― bateau-citerne <br/>
 </p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<p>― combiné<br clear="none"/>
+<p>― combiné<br/>
 </p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<p>Spécialisation gaz<br clear="none"/>
+<p>Spécialisation gaz<br/>
 </p>
 </td>
 <td align="center"/>
 </tr>
 <tr>
 <td align="left">
-<p>Spécialisation chimie<br clear="none"/>
+<p>Spécialisation chimie<br/>
 </p>
 </td>
 <td align="center">
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 </tbody>
@@ -1385,13 +1572,13 @@ Formation des intervenants selon le chapitre 1.3 :
 <table>
 <tbody>
 <tr>
-<td align="center">NOMBRE DE PERSONNES<br clear="none"/>concernées</td>
-<td align="center">NOMBRE DE PERSONNES <br clear="none"/>formées dans l'année</td>
+<td align="center">NOMBRE DE PERSONNES<br/>concernées</td>
+<td align="center">NOMBRE DE PERSONNES <br/>formées dans l'année</td>
 </tr>
 <tr>
 <td align="center"/>
 <td align="center">
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 </tbody>
@@ -1411,7 +1598,7 @@ Formation à la radioprotection pour la classe 7 selon le 1.7.2.5 :
 <tr>
 <td align="center"/>
 <td align="center">
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 </tbody>
@@ -1545,7 +1732,7 @@ Le cas échéant, une notion de hiérarchisation de ces propositions sera faite 
 
 La conclusion du rapport annuel donne une vision globale de la situation et de la conformité réglementaire de l'entreprise dans ses activités liées au transport de marchandises dangereuses (y compris le chargement et le déchargement).
 
-Le conseiller à la sécurité fait apparaître les points forts de l'entreprise qu'il souhaite mettre en valeur, mais aussi les points faibles sur lesquels un suivi des actions menées pendant l'année visée par le rapport annuel est établi.
+Le conseiller à la sécurité fait apparaître les points forts de l'entreprise qu'il souhaite mettre en valeur, mais aussi les axes d'amélioration sur lesquels un suivi des actions menées pendant l'année visée par le rapport annuel est établi.
 
 APPENDICE IV.5 : MODÈLES DE CERTIFICATS D'AGRÉMENT DES MODÈLES TYPES D'EMBALLAGE ET D'ATTESTATIONS LIÉES AU CONTRÔLE DE FABRICATION DES EMBALLAGES
 
@@ -1975,7 +2162,7 @@ APPENDICE IV.6 : CONTRÔLES MAGNÉTOSCOPIQUES DES CITERNES
 
 1. Les modalités des contrôles par magnétoscopie des citernes visées au 3 d de l'article 25 du présent arrêté sont définies par la norme NF EN ISO 17638 d'avril 2010. Les critères d'acceptation sont ceux du niveau 1 de la norme NF EN ISO 23278 d'avril 2010.
 
-Les contrôles magnétoscopiques doivent être effectués par un personnel qualifié niveau 2 suivant la norme NF EN 473.
+Les contrôles magnétoscopiques doivent être effectués par un personnel qualifié niveau 2 suivant la norme NF EN ISO 9712.
 
 2. Sont soumises au contrôle les soudures suivantes :
 
@@ -2084,7 +2271,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p align="center">Type de défaut</p>
 </td>
 <td width="202">
-<p align="center">Méthode d'examen<br clear="none"/>Moyens mis en œuvre</p>
+<p align="center">Méthode d'examen<br/>Moyens mis en œuvre</p>
 </td>
 <td width="107">
 <p align="center">Référence ADR, arrêté TMD et autres textes</p>
@@ -2104,7 +2291,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>Présence, état, concordance avec le véhicule et la citerne, validité (mise à jour de la liste des matières, réforme)</p>
 </td>
 <td width="107">
-<p align="center">9.1.2.2<br clear="none"/>6.8.2.3</p>
+<p align="center">9.1.2.2<br/>6.8.2.3</p>
 </td>
 </tr>
 <tr>
@@ -2212,7 +2399,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>Mise en action. Examen visuel</p>
 </td>
 <td width="107">
-<p align="center">9.2.2.3.2<br clear="none"/>si présence</p>
+<p align="center">9.2.2.3.2<br/>si présence</p>
 </td>
 </tr>
 <tr>
@@ -2305,7 +2492,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 </td>
 <td width="107">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2319,7 +2506,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>Examen visuel</p>
 </td>
 <td width="107">
-<p align="center">6.8.2.5<br clear="none"/>6.8.3.5</p>
+<p align="center">6.8.2.5<br/>6.8.3.5</p>
 </td>
 </tr>
 <tr>
@@ -2331,7 +2518,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 </td>
 <td width="107">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2339,7 +2526,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>7.5. Isolation thermique</p>
 </td>
 <td rowspan="2" width="107">
-<p align="center">6.8.2.2<br clear="none"/>6.8.3.2</p>
+<p align="center">6.8.2.2<br/>6.8.3.2</p>
 </td>
 </tr>
 <tr>
@@ -2369,7 +2556,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 </td>
 <td width="107">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2394,7 +2581,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 </td>
 <td width="107">
 <br/>
-<br clear="none"/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2422,7 +2609,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>Examen visuel</p>
 </td>
 <td width="107">
-<p align="center">9.3.1<br clear="none"/>9.3.3<br clear="none"/>9.3.4</p>
+<p align="center">9.3.1<br/>9.3.3<br/>9.3.4</p>
 </td>
 </tr>
 <tr>
@@ -2433,7 +2620,7 @@ Les dates limites de validité portées sur la carte grise et sur le certificat 
 <p>État, présence et conformité</p>
 </td>
 <td width="107">
-<p align="center">9.3.3<br clear="none"/>9.3.4</p>
+<p align="center">9.3.3<br/>9.3.4</p>
 </td>
 </tr>
 <tr>

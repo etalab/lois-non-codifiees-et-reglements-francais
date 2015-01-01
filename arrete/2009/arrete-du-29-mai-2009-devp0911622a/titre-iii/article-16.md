@@ -4,7 +4,7 @@ Formation, examens et certificats de formation.
 
 1. Formation, examens et certificats de formation des conducteurs de véhicules au titre de l'ADR.
 
-1.1. Seuls les organismes de formation agréés organisent les formations mentionnées aux 8.2.2.1 et 8.2.1.3 de l'ADR, ainsi que l'examen prévu aux 8.2.1.1 et 8.2.2.1 de l'ADR, selon la procédure visée à l'article 19. L'agrément délivré à un organisme de formation ne peut en aucun cas être délégué pour tout ou partie à un organisme non agréé.
+1.1. Seuls les organismes de formation agréés organisent les formations mentionnées aux 8.2.1 et 8.2.2 de l'ADR, ainsi que l'examen prévu aux 8.2.1.1 et 8.2.2.1 de l'ADR, selon la procédure visée à l'article 19. L'agrément délivré à un organisme de formation ne peut en aucun cas être délégué pour tout ou partie à un organisme non agréé.
 
 Les références de l'arrêté d'agrément sont mentionnées expressément dans toute offre de formation.
 

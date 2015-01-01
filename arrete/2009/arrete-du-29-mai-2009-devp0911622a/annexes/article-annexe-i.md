@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2013, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
+- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2015, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
 
 http://www.unece.org/trans/danger/danger.htm;
 
@@ -270,7 +270,7 @@ Dans le cadre de la prescription S1 (2) du 8. 5 et sans préjudice des dispositi
 
 Sont reconnues pour exercer cette fonction :
 
-- les personnes habilitées dans le cadre de la section IX du décret n° 79-846 du 28 septembre 1979 portant règlement d'administration publique sur la protection des travailleurs contre les risques particuliers auxquels ils sont soumis dans les établissements pyrotechniques ;
+- les personnes habilitées dans le cadre de l'article R. 4462-27 du code du travail ;
 
 - les personnes titulaires d'un certificat de formation de conducteur conforme au 8. 2. 2. 8 valable pour les transports de marchandises de la classe 1.
 
@@ -332,7 +332,7 @@ Le transport simultané de personnes et de marchandises dangereuses autres que c
 
 3.2. Informations concernant le transport.
 
-3.2.1. Le transport pour compte propre de marchandises dangereuses autres que celles de la classe 7, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
+3.2.1. Le transport pour compte propre de marchandises dangereuses autres que les matières radioactives, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
 
 3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules pour vrac et conteneurs pour vrac), la désignation des marchandises prévue au 5.4.1.1.6.2.3 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
 
@@ -402,7 +402,7 @@ A défaut d'utiliser des véhicules agréés EX / II comme le prévoit la dispos
 
 A défaut d'être titulaire du certificat de formation défini au 8.2 et comportant la spécialisation pour le transport des matières et objets de la classe 1, le conducteur doit posséder :
 
-- soit un certificat de qualification en vue de l'utilisation des artifices de divertissement de la catégorie 4 et des articles pyrotechniques destinés au théâtre de la catégorie T2, délivré en application de l'article 6 du décret n° 2010-580 du 31 mai 2010 susvisé ou, jusqu'au 30 juin 2012, un certificat de qualification en vue de l'utilisation des artifices de divertissement classés dans le groupe K4 délivré en application des dispositions de l'arrêté du 17 mars 2008 relatif à la mise en œuvre des artifices de divertissement du groupe K4 ;
+- soit un certificat de qualification en vue de l'utilisation des artifices de divertissement de la catégorie 4 et des articles pyrotechniques destinés au théâtre de la catégorie T2, délivré en application de l'article 6 du décret n° 2010-580 du 31 mai 2010 susvisé délivré en application des dispositions de l'arrêté du 17 mars 2008 relatif à la mise en œuvre des artifices de divertissement du groupe K4 ;
 
 - soit un certificat de formation spécifique délivré par un organisme agréé à délivrer pour la classe 1 les certificats de formation conformes au 8.2. Ce certificat s'inspire du modèle figurant au 8.2.2.8.3 de l'ADR applicable jusqu'au 31 décembre 2010. Les conditions de validité et de renouvellement de ce certificat sont les mêmes que celles des certificats conformes au 8.2.
 
@@ -491,9 +491,7 @@ Les durées minimales de la formation de base, des spécialisations, ainsi que c
 <table>
 <tbody>
 <tr>
-<td width="227">
-<br/>
-</td>
+<td width="227"/>
 <td width="227">
 <p align="center">FORMATION INITIALE </p>
 </td>
@@ -557,9 +555,7 @@ Les durées minimales de la formation de base, des spécialisations, ainsi que c
 <table>
 <tbody>
 <tr>
-<td width="227">
-<br/>
-</td>
+<td width="227"/>
 <td width="227">
 <p align="center">FORMATION INITIALE </p>
 </td>
@@ -614,8 +610,12 @@ Les durées minimales de la formation de base, des spécialisations, ainsi que c
 <div align="left">Pour l'application des dispositions de l'article 1er bis du décret n° 77-1331 susvisé, les dispositions dont la méconnaissance entraîne une infraction respectivement de catégorie de risque I, II ou III sont définies comme suit : <br/>Catégorie de risque I : risque élevé de décès, de dommages corporels graves ou de dommages environnementaux importants et devant normalement amener à prendre immédiatement des mesures correctives appropriées. </div>
 <div align="left">Relèvent de cette catégorie les faits suivants : </div>
 <div align="left">1) Le transport de marchandises dangereuses interdites au transport ; <br/>2) Toute fuite de substances dangereuses ; <br/>3) L'utilisation d'un mode de transport interdit ou d'un moyen de transport inapproprié ; <br/>4) Le transport en vrac dans un conteneur qui n'est pas structurellement en bon état ; <br/>5) Le transport dans un véhicule dépourvu d'un certificat d'agrément ; <br/>6) Le fait que le véhicule ne soit plus conforme aux normes d'agrément et présente un danger immédiat (si cette dernière condition n'est pas remplie, on se trouve dans la catégorie de risque II) ; <br/>7) L'utilisation de colis non agréés ; <br/>8) Le fait que l'emballage ne soit pas conforme à l'instruction d'emballage applicable ; <br/>9) Le non-respect des dispositions spéciales relatives à l'emballage en commun ; <br/>10) Le non-respect des règles régissant la fixation et l'arrimage du chargement ; <br/>11) Le non-respect des règles régissant le chargement en commun de colis ; <br/>12) Le non-respect des degrés de remplissage autorisés des citernes ou des colis ; <br/>13) Le non-respect des dispositions limitant les quantités transportées par unité de transport ; <br/>14) Le transport de marchandises dangereuses sans indication de leur présence (documents, marquage et étiquetage des colis, placardage et marquage des véhicules, etc.) ; <br/>15) Le transport sans aucun placardage ou marquage sur le véhicule ; <br/>16) L'absence d'informations relatives à la substance transportée permettant de déterminer l'existence d'un risque de la catégorie I (n° ONU, dénomination, groupe d'emballage, etc.) ; <br/>17) Le fait que le conducteur ne détienne pas un certificat de formation professionnelle valide ; <br/>18) L'utilisation de feu ou d'ampoules à nu ; <br/>19) Le non-respect de l'interdiction de fumer. </div>
-<div align="left">Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours. </div>
-<div align="left">Relèvent de cette catégorie les faits suivants : <br/>1) Le fait que l'unité de transport soit composée de plus d'une remorque / semi-remorque ; <br/>2) Le fait que le véhicule ne soit plus conforme aux normes d'agrément sans toutefois présenter un danger immédiat ; <br/>3) Le fait que le véhicule ne transporte pas d'extincteurs d'incendie en état de fonctionner tels que prescrits ; un extincteur peut être jugé en état de fonctionner s'il n'y a que le plomb prescrit et / ou la date d'expiration qui manquent ; cependant, cela ne vaut pas si l'extincteur est visiblement devenu inutilisable, par exemple si le manomètre est à zéro ; <br/>4) Le fait que le véhicule ne transporte pas les équipements prescrits dans l'ADR ou dans les consignes écrites ; <br/>5) Le fait que les dates d'essai et d'inspection et les durées d'utilisation des colis, des GRV ou des grands emballages n'aient pas été respectées ; <br/>6) Le fait de transporter des emballages contenant des colis, des GRV et de grands emballages endommagés ou des emballages vides, non nettoyés et endommagés ; <br/>7) Le transport de marchandises en colis dans un conteneur qui n'est pas structurellement en bon état ; <br/>8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement ; <br/>9) Le transport d'un emballage combiné avec un emballage extérieur non convenablement fermé ; <br/>10) Un étiquetage, marquage ou placardage incorrect ; <br/>11) L'absence de consignes écrites conformes à l'ADR ou la présence de consignes écrites non pertinentes pour les marchandises transportées ; <br/>12) Le fait que le véhicule ne soit pas convenablement surveillé ou garé. </div>
+<div align="left">Catégorie de risque II : risque de dommages corporels ou de dommages environnementaux et devant normalement amener à prendre des mesures correctives appropriées, comme l'obligation de se mettre en ordre sur les lieux mêmes du contrôle dans la mesure du possible ou au plus tard à l'issue de l'opération de transport en cours ;</div>
+<div align="left">20) L'absence à bord d'un agent agréé de convoyage ; </div>
+
+21) La présence de voyageur dans un véhicule transportant des marchandises dangereuses.
+
+<div>Relèvent de cette catégorie les faits suivants : <br/>1) Le fait que l'unité de transport soit composée de plus d'une remorque / semi-remorque ; <br/>2) Le fait que le véhicule ne soit plus conforme aux normes d'agrément sans toutefois présenter un danger immédiat ; <br/>3) Le fait que le véhicule ne transporte pas d'extincteurs d'incendie en état de fonctionner tels que prescrits ; un extincteur peut être jugé en état de fonctionner s'il n'y a que le plomb prescrit et / ou la date d'expiration qui manquent ; cependant, cela ne vaut pas si l'extincteur est visiblement devenu inutilisable, par exemple si le manomètre est à zéro ; <br/>4) Le fait que le véhicule ne transporte pas les équipements prescrits dans l'ADR ou dans les consignes écrites ; <br/>5) Le fait que les dates d'essai et d'inspection et les durées d'utilisation des colis, des GRV ou des grands emballages n'aient pas été respectées ; <br/>6) Le fait de transporter des emballages contenant des colis, des GRV et de grands emballages endommagés ou des emballages vides, non nettoyés et endommagés ; <br/>7) Le transport de marchandises en colis dans un conteneur qui n'est pas structurellement en bon état ; <br/>8) Le fait que des citernes ou des véhicules-citernes (y compris vides et non nettoyés) n'aient pas été fermés convenablement ; <br/>9) Le transport d'un emballage combiné avec un emballage extérieur non convenablement fermé ; <br/>10) Un étiquetage, marquage ou placardage incorrect ; <br/>11) L'absence de consignes écrites conformes à l'ADR ou la présence de consignes écrites non pertinentes pour les marchandises transportées ; <br/>12) Le fait que le véhicule ne soit pas convenablement surveillé ou garé. </div>
 <div align="left">Catégorie de risque III : faible risque de dommages corporels ou de dommages environnementaux et n'amenant pas à prendre des mesures correctives appropriées sur place, celles-ci pouvant être prises ultérieurement dans l'entreprise. </div>
 <div align="left">Relève de cette catégorie le fait de méconnaître toute disposition réglementaire non mentionnée aux alinéas précédents comme relevant des catégories I ou II. Notamment : <br/>1) Le fait que la taille des panneaux ou des étiquettes, ou des lettres, chiffres ou symboles figurant sur les panneaux ou les étiquettes ne soit pas réglementaire ; <br/>2) Le fait que certaines informations, autres que celles visées au point 16 de la catégorie de risque I, ne figurent pas dans les documents de transport ; <br/>3) Le fait que le certificat de formation ne se trouve pas à bord du véhicule mais que d'autres éléments indiquent que le conducteur en est détenteur. <br/>5. 5. Des contrôles sont également effectués dans les entreprises à titre préventif ou lorsque des infractions mettant en danger la sécurité du transport de marchandises dangereuses auront été constatées sur la route. <br/>Ces contrôles, effectués conformément au 1.8.1.3, doivent viser à assurer que les conditions de sécurité dans lesquelles s'effectuent les transports de marchandises dangereuses sont conformes à la législation applicable en la matière. <br/>Lorsqu'une ou plusieurs infractions ont été constatées en matière de transports de marchandises dangereuses par route, les transports concernés doivent être mis en conformité avant de quitter l'entreprise ou faire l'objet d'autres mesures appropriées. <br/>5. 6. Les informations suivantes permettant de renseigner le tableau de l'appendice IV.3 du présent arrêté :<br/>- nombre de contrôles effectués ;<br/>- nombre de véhicules contrôlés, selon l'immatriculation (véhicules immatriculés sur le territoire national, d'autres Etats membres ou d'Etats tiers) ;<br/>- nombre d'infractions constatées et type d'infractions ;<br/>- nombre et type des sanctions infligées, <br/>sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer. <br/>Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.</div>
 <div align="left"/>

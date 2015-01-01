@@ -2,9 +2,9 @@
 
 Notification d'expédition à l'Autorité de sûreté nucléaire et au ministère chargé de l'intérieur pour certaines matières radioactives.
 
-1. La notification préalable prévue au 5.1.5.1.4 est adressée par l'expéditeur à l'Autorité de sûreté nucléaire ainsi qu'au ministère de l'intérieur ( direction générale de la sécurité civile et de la gestion des crises ― COGIC) avec copie au transporteur. Ces dispositions s'appliquent également à toute expédition de colis chargé de matière fissile.
+1. La notification préalable prévue au 5.1.5.1.4 est adressée par l'expéditeur à l'Autorité de sûreté nucléaire ainsi qu'au ministère de l'intérieur (direction générale de la sécurité civile et de la gestion des crises ― COGIC) avec copie au transporteur. Ces dispositions s'appliquent également à toute expédition de colis chargé de matière fissile, à l'exception de ceux qui satisfont à une des dispositions des alinéas a à e du 2.2.7.2.3.5.
 
-2. La notification préalable prévue au paragraphe 1 du présent article doit parvenir sept jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par télécopie.
+2. La notification préalable prévue au paragraphe 1 du présent article doit parvenir sept jours ouvrables au moins avant l'expédition. Les renseignements sont adressés par voie électronique dans des conditions définies par l'Autorité de sûreté nucléaire et le ministère de l'intérieur.
 
 3. La notification préalable de transport doit préciser les renseignements indiqués au 5.1.5.1.4 d dans la forme suivante :
 

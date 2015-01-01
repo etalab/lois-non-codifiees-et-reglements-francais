@@ -23,3 +23,9 @@ L'aluminium n'est pas autorisé comme matériau constitutif d'un réservoir dot�
 Les véhicules immatriculés en France porteurs de conteneurs-citernes ou de citernes mobiles de plus de 3 000 litres doivent être équipés de verrous tournants d'un des modèles énumérés dans la norme ISO 1161 ou de dispositifs de fixation ayant fait l'objet d'un agrément par le ministre chargé des transports terrestres de matières dangereuses.
 
 6. Pour l'application de la disposition spéciale TU 35, il est considéré que les risques sont éliminés dès lors que la citerne est vide, non nettoyée et que la matière ne présente pas de danger pour l'environnement selon le 2.2.9.1.10. Tant qu'il subsiste un danger, le placardage de la citerne reste identique au placardage applicable à la citerne pleine.
+
+7. Les véhicules-citernes visés au 1.6.3.44 de l'ADR, immatriculés en France, peuvent continuer à être utilisés. La mention "Citerne équipée d'un dispositif pour additifs autorisée conformément au 1.6.3.44 de l'AD" est portée sur l'attestation du premier contrôle intermédiaire ou périodique effectué après le 31 décembre 2015.
+
+8. Les wagons-citernes visés au 1.6.3.3.1 du RID, immatriculés en France, peuvent continuer à être utilisés jusqu'au 31 décembre 2017 sous réserve du respect des exigences techniques et réglementaires les concernant, notamment la maintenance, permettant ainsi de conserver leur niveau de sécurité initial.
+
+9. Pour l'application de la disposition spéciale TT11, le demandeur est le titulaire du certificat d'agrément du véhicule ou l'exploitant de la citerne.

@@ -15,3 +15,5 @@ Agréments des bateaux.
 - conformément aux dispositions du 9.3.1.8, du 9.3.2.8 ou du 9.3.3.8, à la délivrance, par ladite société de classification, du certificat attestant de la conformité du bateau aux règles de la section 9.3.1,9.3.2 ou 9.3.3 ;
 
 - à l'établissement, par ladite société de classification, de la liste visée au 1.16.1.2.5 de toutes les marchandises dangereuses admises au transport dans le bateau-citerne ; si nécessaire, cette liste est renseignée des matières faisant l'objet de l'autorisation spéciale prévue au 1.5.2.
+
+5. Les certificats d'agrément et les certificats d'agrément provisoire sont accompagnés de leur annexe, définie au 1.16.1.4.1 de l'ADN, dans les conditions et selon les modalités définies aux 1.16.1.4.2, 1.16.1.4.3 et 1.16.2.

@@ -1,21 +1,17 @@
 # Article Annexe 1
 
-CONDITIONS D'INSTALLATION SPÉCIFIQUES  AUX POMPES À CHALEUR DE TYPE AIR/AIR
+ÉVALUATION DES PERFORMANCES ÉNERGÉTIQUES DES ÉQUIPEMENTS ET OUVRAGES
 
-Les pompes à chaleur de type air/air visées à l'article 6 doivent être installées dans les conditions suivantes :
+Matériaux d'isolation thermique
 
-― l'appareil, centralisé sur une ou plusieurs unités extérieures, assure le chauffage des pièces composant le logement telles que mentionnées à l'article R. 111-10 du code de la construction et de l'habitation, dès lors que leur superficie est au moins égale à 8 m². Les pièces de service, telles que celles affectées à l'usage exclusif de cuisines, de toilettes ou de salles de bains, ne sont pas prises en compte ;
+La résistance thermique de l'isolant visée aux articles 3 et 4 est déterminée à partir de la résistance thermique déclarée dans le cadre du marquage CE ou certifiée (ACERMI ou équivalent) en minorant cette dernière de :
 
-― chaque pièce équipée doit disposer de son propre organe de régulation automatique, quel que soit le principe de diffusion retenu ;
+0 % si l'isolant est continu (ni interrompu, ni comprimé à plus de 50 % de son épaisseur, par des dispositifs de fixation) ;
 
-― le fonctionnement normal de l'équipement est garanti par le fabricant à une température extérieure de ― 15 °C ;
+15 % si l'isolant est pénétré par des dispositifs ponctuels de fixation ;
 
-― la puissance calorifique thermodynamique restituée de l'unité extérieure est supérieure ou égale à 5 kW à une température extérieure de 7 °C. En cas d'installation simultanée de plusieurs unités extérieures, cette condition doit être remplie par au moins l'une d'entre elles.
+20 % si l'isolant est interrompu, ou comprimé à plus de 50 % de son épaisseur, par des ossatures linéaires non métalliques ;
 
-<div align="center">
-<p>
-<br/>
-<br/>
-</p>
-</div>
-<div align="center"/>
+50 % si l'isolant est interrompu ou comprimé à plus de 50 % de son épaisseur, par des ossatures linéaires métalliques.
+
+Les minorations de la résistance thermique, liées à la dégradation de celle-ci, sont cumulables. Si la paroi est isolée par empilement de différentes couches d'isolant, la résistance totale s'obtient par addition des résistances correspondantes, après minoration éventuelle.

@@ -12,6 +12,6 @@ Dispositions applicables.
 
 4.1. Les transports effectués au moyen de véhicules autres que ceux définis à l'article 2 ne sont soumis qu'aux dispositions relatives à l'emballage, au marquage et à l'étiquetage des colis prescrites aux 4.1 et 5.2 ou au 3.4 ou au 3.5 de l'ADR.
 
-4.2. Toutefois, l'usage des véhicules à deux ou trois roues est interdit pour le transport de matières et objets affectés au n° ONU 3291, ainsi que pour le transport des marchandises dangereuses de la classe 7, sauf dans le cas d'un transport pour compte propre des matières du n° ONU 2911.
+4.2. Toutefois, l'usage des véhicules à deux ou trois roues est interdit pour le transport de matières et objets affectés au n° ONU 3291, ainsi que pour le transport des matières radioactives, sauf dans le cas d'un transport pour compte propre des matières du n° ONU 2911.
 
 4.3. Par ailleurs, les transports agricoles, y compris ceux effectués avec des véhicules agricoles autres que ceux définis à l'article 2, font l'objet de dispositions spécifiques décrites au paragraphe 3.3 de l'annexe I du présent arrêté.

@@ -1,12 +1,10 @@
 # Article 5
 
-Décisions et accords de l'autorité compétente.
+. Lorsque le présent arrêté ou ses annexes requièrent une décision de l'autorité compétente française ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé des transports terrestres de matières dangereuses. Toutefois, cette autorité compétente est :
 
-1. Lorsque le présent arrêté ou ses annexes requièrent une décision de l'autorité compétente française ou la délivrance d'un certificat par cette autorité, cette autorité compétente est le ministre chargé des transports terrestres de matières dangereuses. Toutefois, cette autorité compétente est :
+- l'Autorité de sûreté nucléaire pour les transports de matières radioactives et fissiles à usage civil ;
 
-― l'Autorité de sûreté nucléaire pour les transports de matières radioactives et fissiles à usage civil ;
-
-― le ministre chargé de la sécurité industrielle lorsque celui-ci est compétent en vertu du décret du 3 mai 2001 susvisé (notamment pour l'évaluation de la conformité, la réévaluation de la conformité, le contrôle périodique, l'utilisation et l'entretien des récipients à gaz).
+- le ministre chargé de la sécurité industrielle lorsque celui-ci est compétent en vertu du décret du 3 mai 2001 susvisé (notamment pour l'évaluation de la conformité, la réévaluation de la conformité, le contrôle périodique, l'utilisation et l'entretien des récipients à gaz).
 
 2. En outre, l'autorité compétente, telle que définie au paragraphe 1 du présent article, peut désigner tout service ou organisme pour délivrer les décisions et certificats requis par le présent arrêté et ses annexes. Les dispositions relatives à la désignation de ces services ou organismes par le ministre chargé des transports terrestres de matières dangereuses ou par l'Autorité de sûreté nucléaire ainsi que, le cas échéant, les conditions auxquelles ces organismes doivent répondre sont précisées dans le présent arrêté et ses annexes, et notamment dans ses articles 13 à 21.
 
@@ -27,7 +25,7 @@ Décisions et accords de l'autorité compétente.
 <p align="left">Certificats d'agrément et procès-verbaux d'épreuves des modèles types d'emballages, de récipients, de GRV et de grands emballages, marqués conformément aux 6.1.3, 6.2.2.7, 6.2.2.8, 6.3.4, 6.5.2 et 6.6.3.</p>
 </td>
 <td align="left" rowspan="5" valign="top">
-<p align="left">Tous Etats, qu'ils soient ou non :<br/>― Parties contractantes à l'ADR pour un transport effectué par route ;<br/>― Parties au RID pour un transport ferroviaire ;<br/>― Parties contractantes à l'ADN pour un transport effectué par voies de navigation intérieures.</p>
+<p align="left">Tous Etats, qu'ils soient ou non :<br/>- Parties contractantes à l'ADR pour un transport effectué par route ;<br/>- Parties au RID pour un transport ferroviaire ;<br/>- Parties contractantes à l'ADN pour un transport effectué par voies de navigation intérieures.</p>
 </td>
 </tr>
 <tr>
@@ -63,15 +61,15 @@ Décisions et accords de l'autorité compétente.
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Certificats d'agrément de modèles de colis de type B(U)-96 ne transportant pas de matières radioactives faiblement dispersables ou de matières fissiles, mentionnés au 6.4.22.2.</p>
+<p align="left">Certificats d'agrément de modèles de colis de type B(U) conformes à l'une des éditions de 1996 ou suivantes du Règlement de transport de l'AIEA et ne transportant pas de matières radioactives faiblement dispersables ou de matières fissiles soumises à un agrément mentionné au 6.4.22.4 pour les matières fissiles contenues. </p>
 </td>
 <td align="left" rowspan="3" valign="top">
-<p align="left">Etats membres de l'Union européenne ou :<br/>― Parties contractantes à l'ADR pour un transport effectué par route ;<br/>― Parties au RID pour un transport ferroviaire ;<br/>― Parties contractantes à l'ADN pour un transport effectué par voies de navigation intérieures.</p>
+<p align="left">Etats membres de l'Union européenne ou :<br/>- Parties contractantes à l'ADR pour un transport effectué par route ;<br/>- Parties au RID pour un transport ferroviaire ;<br/>- Parties contractantes à l'ADN pour un transport effectué par voies de navigation intérieures.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Certificats d'agrément de modèles de colis de type C-96 ne transportant pas de matières fissiles, mentionnés au 6.4.22.2.</p>
+<p align="left">Certificats d'agrément de modèles de colis de type C conformes à l'une des éditions de 1996 ou suivantes du Règlement de transport de l'AIEA et ne transportant pas de matières fissiles soumises à un agrément mentionné au 6.4.22.4 pour les matières fissiles contenues.</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +87,7 @@ Décisions et accords de l'autorité compétente.
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Certificats de formation des conducteurs mentionnés aux 8.2.1.8 et 8.2.2.8 de l'ADR.</p>
+<p align="left">Certificats de formation des conducteurs mentionnés au 8.2.1.1 de l'ADR. </p>
 </td>
 </tr>
 <tr>

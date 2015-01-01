@@ -6,9 +6,9 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1.1. La présente annexe est composée :
 
-- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le Règlement concernant le transport international ferroviaire des marchandises dangereuses (RID). Ce règlement, y compris les amendements en vigueur au 1er janvier 2013, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30, 3006 Berne, Suisse ;
+-de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le Règlement concernant le transport international ferroviaire des marchandises dangereuses (RID). Ce règlement, y compris les amendements en vigueur au 1er janvier 2015, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse ;
 
-- des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
+-des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
 1.2. Les dispositions particulières sont réparties dans les paragraphes 2 à 3 de la présente annexe II comme suit :
 
@@ -16,23 +16,23 @@ Dispositions particulières applicables à tous les transports ferroviaires de m
 
 Ces dispositions précisent les dispositions particulières applicables concernant les points suivants :
 
-- missions respectives des différents intervenants lors des opérations de chargement et de déchargement et avant acceptation au transport des envois (paragraphe 2.1) ;
+-missions respectives des différents intervenants lors des opérations de chargement et de déchargement et avant acceptation au transport des envois (paragraphe 2.1) ;
 
-- chargement, déchargement (paragraphe 2.2) ;
+-chargement, déchargement (paragraphe 2.2) ;
 
-- transport et stationnement (paragraphe 2.3) ;
+-transport et stationnement (paragraphe 2.3) ;
 
-- informations concernant le transport (paragraphe 2.4) ;
+-informations concernant le transport (paragraphe 2.4) ;
 
-- dispositions spéciales relatives à la classe 1 (paragraphe 2.5).
+-dispositions spéciales relatives à la classe 1 (paragraphe 2.5).
 
 Dispositions particulières applicables aux seuls transports nationaux ferroviaires de marchandises dangereuses (paragraphe 3).
 
 Ces dispositions précisent les dispositions particulières applicables concernant les points suivants :
 
-- transport de marchandises dangereuses dans les trains de voyageurs (paragraphe 3.1) ;
+-transport de marchandises dangereuses dans les trains de voyageurs (paragraphe 3.1) ;
 
-- informations concernant le transport (paragraphe 3.2).
+-informations concernant le transport (paragraphe 3.2).
 
 1.3. En ce qui concerne les numéros cités dans la présente annexe sans mention explicite du document réglementaire auquel ils se rapportent, ceux-ci visent un chapitre, une section ou une sous-section du RID.
 
@@ -50,13 +50,13 @@ Outre les dispositions prévues par d'autres textes pour le chargement et le dé
 
 Il appartient au responsable de tout établissement où s'effectue le chargement de veiller à l'application des dispositions du présent arrêté relatives au chargement et notamment :
 
-- aux interdictions de chargement en commun ;
+-aux interdictions de chargement en commun ;
 
-- au calage et à l'arrimage des colis ;
+-au calage et à l'arrimage des colis ;
 
-- aux prescriptions sur les transports en vrac ou en petits conteneurs ;
+-aux prescriptions sur les transports en vrac ou en petits conteneurs ;
 
-- au placardage et à la signalisation des wagons à la sortie de l'établissement.
+-au placardage et à la signalisation des wagons à la sortie de l'établissement.
 
 Il appartient au destinataire de veiller à ce que les dispositions du présent arrêté relatives au déchargement soient respectées.
 
@@ -64,59 +64,59 @@ Il appartient au destinataire de veiller à ce que les dispositions du présent 
 
 Il appartient au responsable de tout établissement où s'effectue le remplissage de veiller à ce que :
 
-- la citerne soit autorisée pour le transport du produit ;
+-la citerne soit autorisée pour le transport du produit ;
 
-- la citerne ne présente pas d'avarie et soit dans un bon état extérieur ;
+-la citerne ne présente pas d'avarie et soit dans un bon état extérieur ;
 
-- ses équipements soient en bon état de fonctionnement ;
+-ses équipements soient en bon état de fonctionnement ;
 
-- la citerne ait été, si besoin, convenablement nettoyée et/ou dégazée.
+-la citerne ait été, si besoin, convenablement nettoyée et/ ou dégazée.
 
 En cas de contrôle négatif d'un des éléments ci-dessus et s'il ne peut pas être mis en conformité, la citerne ne doit pas être chargée.
 
 Le responsable de tout établissement où s'effectue le remplissage doit veiller en outre à ce que :
 
-- le personnel habilité au remplissage ait reçu la formation prévue au 1.3 ;
+-le personnel habilité au remplissage ait reçu la formation prévue au 1.3 ;
 
-- l'affichage des consignes relatives aux opérations de remplissage ait été effectué ;
+-l'affichage des consignes relatives aux opérations de remplissage ait été effectué ;
 
-- les consignes de remplissage soient respectées.
+-les consignes de remplissage soient respectées.
 
 Après le remplissage, comme après le déchargement, l'établissement expéditeur ou l'établissement destinataire doit vérifier que :
 
-- tous les dispositifs de fermeture sont en position fermée et étanches ;
+-tous les dispositifs de fermeture sont en position fermée et étanches ;
 
-- il ne subsiste pas de résidus de produit sur les parties extérieures du wagon ;
+-il ne subsiste pas de résidus de produit sur les parties extérieures du wagon ;
 
-- le placardage et la signalisation sont conformes.
+-le placardage et la signalisation sont conformes.
 
 2.1.3. Transfert de marchandises entre transport ferroviaire et autres modes de transport.
 
 Les responsables des chantiers de transfert doivent veiller à ce que :
 
-- le personnel habilité au transbordement ait reçu la formation prévue au 1.3 ;
+-le personnel habilité au transbordement ait reçu la formation prévue au 1.3 ;
 
-- les consignes de transbordement soient affichées et respectées.
+-les consignes de transbordement soient affichées et respectées.
 
 Il appartient au responsable qui effectue l'opération de transfert sur wagon :
 
-- de veiller :
+-de veiller :
 
-- aux interdictions de chargement en commun des colis ;
+-aux interdictions de chargement en commun des colis ;
 
-- au calage et à l'arrimage des colis ou des unités de transport intermodal ;
+-au calage et à l'arrimage des colis ou des unités de transport intermodal ;
 
-- au placardage des wagons chargés de colis ;
+-au placardage des wagons chargés de colis ;
 
-- de vérifier :
+-de vérifier :
 
-- le bon état apparent des colis ou des unités de transport intermodal ;
+-le bon état apparent des colis ou des unités de transport intermodal ;
 
-- la présence des plaques-étiquettes et des panneaux orange sur les unités de transport intermodal ;
+-la présence des plaques-étiquettes et des panneaux orange sur les unités de transport intermodal ;
 
-- que le document de transport comporte bien la mention "transport selon 1.1.4.4", pour le trafic ferroutage ;
+-que le document de transport comporte bien la mention " transport selon 1.1.4.4 ", pour le trafic ferroutage ;
 
-- que le document de transport comporte bien le numéro d'identification de danger devant le n° ONU, pour le transport de citernes ou de marchandises dangereuses en vrac, pour lequel l'ADR prévoit un panneau orange avec indication du numéro d'identification du danger.
+-que le document de transport comporte bien le numéro d'identification de danger devant le n° ONU, pour le transport de citernes ou de marchandises dangereuses en vrac, pour lequel l'ADR prévoit un panneau orange avec indication du numéro d'identification du danger.
 
 2.1.4. Mission du transporteur ferroviaire avant acceptation au transport des envois de marchandises dangereuses.
 
@@ -148,11 +148,11 @@ Le chargement et le déchargement des marchandises des classes 4.2 et 4.3 transp
 
 Le chargement et le déchargement des matières dangereuses transportées en citerne ne peuvent pas être effectués en gare. Sont toutefois admis le chargement et le déchargement des marchandises suivantes :
 
-- classe 2 : gaz du groupe A ;
+-classe 2 : gaz du groupe A ;
 
-- classe 3 : matières des groupes d'emballage II ou III et autorisées en citernes ;
+-classe 3 : matières des groupes d'emballage II ou III et autorisées en citernes ;
 
-- classe 4.1 : matières pulvérulentes ou granulaires autorisées en citernes.
+-classe 4.1 : matières pulvérulentes ou granulaires autorisées en citernes.
 
 2.2.3.3. Pour le chargement et le déchargement de marchandises dangereuses en gare, des consignes communes doivent être établies entre le transporteur ferroviaire et l'expéditeur ou le destinataire pour définir leur rôle respectif ainsi que les modalités de réalisation des opérations prévues.
 
@@ -184,11 +184,11 @@ Le séjour temporaire ne couvre pas le cas du garage de wagons vides non nettoy�
 
 2.3.1.3. Le stationnement des unités de transport intermodal (UTI), au sol ou chargées sur un véhicule ou un bateau dans les centres de transbordement ne doit pas excéder 48 heures. Toutefois, cette durée peut être prolongée dans le cas d'événements extérieurs au centre survenant du fait :
 
-- des règles de circulation routière ou ferroviaire les week-ends, jours fériés et veilles de jours fériés ;
+-des règles de circulation routière ou ferroviaire les week-ends, jours fériés et veilles de jours fériés ;
 
-- du retard des navires ;
+-du retard des navires ;
 
-- des limites liées aux plans de transport ferroviaire.
+-des limites liées aux plans de transport ferroviaire.
 
 Dans les centres de transbordement spécialement affectés aux colis de la classe 7, le stationnement des UTI peut également être prolongé dans le cas de contraintes imposées par le contrôle et la formation ou l'éclatement du convoi ferroviaire.
 
@@ -208,13 +208,13 @@ Si la constatation est faite en cours d'acheminement, le wagon est arrêté à l
 
 En cas d'accident ou d'événement, notamment explosion, incendie, fuite ou menace de fuite suite à un choc, perte ou vol de matières ou objets dangereux survenant en cours de transport, le gestionnaire de l'infrastructure prévient ou fait prévenir, sans délai, dans les conditions arrêtées au plan d'intervention et de sécurité (PIS) de l'infrastructure prévu par l'arrêté du 12 août 2008 pris en application de l'article 13 du décret n° 2006-1279 du 19 octobre 2006 et relatif aux plans d'intervention et de sécurité sur le réseau ferré national, les services d'incendie et de secours et la brigade de gendarmerie ou le service de police le plus proche du lieu de l'événement, cet avis devant indiquer :
 
-- le lieu ou la nature de l'événement ;
+-le lieu ou la nature de l'événement ;
 
-- le numéro ONU, la désignation officielle de transport, la quantité et les caractéristiques des matières transportées (s'il y a lieu les consignes particulières d'intervention ainsi que les agents d'extinction prohibés) ;
+-le numéro ONU, la désignation officielle de transport, la quantité et les caractéristiques des matières transportées (s'il y a lieu les consignes particulières d'intervention ainsi que les agents d'extinction prohibés) ;
 
-- l'importance des dommages ;
+-l'importance des dommages ;
 
-- plus généralement toutes précisions permettant d'estimer l'importance du risque et de décider de l'ampleur des secours à mettre en œuvre.
+-plus généralement toutes précisions permettant d'estimer l'importance du risque et de décider de l'ampleur des secours à mettre en œuvre.
 
 2.3.4. Plan d'urgence interne des gares de triage.
 
@@ -252,13 +252,13 @@ Lorsque les wagons de matières et objets explosibles proviennent d'un embranche
 
 2.5.2. Manœuvres.
 
-Outre les prescriptions du 7.5.3.1, les wagons contenant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1), 1.5 ou 1.6 ne doivent pas, au cours des manœuvres, être attelés directement à un wagon muni d'une plaque-étiquette des n° s 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
+Outre les prescriptions du 7.5.3.1, les wagons contenant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1), 1.5 ou 1.6 ne doivent pas, au cours des manœuvres, être attelés directement à un wagon muni d'une plaque-étiquette des n° s 2.1,3,4.1,4.2,4.3,5.1 ou 5.2.
 
 2.5.3. Séjour temporaire dans les gares de départ et d'arrivée.
 
 Les wagons renfermant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 sont isolés et placés sur des voies choisies parmi celles qui sont le plus éloignées des voies principales ou de stationnement des trains de voyageurs, des voies de circulation de machines de manœuvres et du bâtiment à voyageurs. Ces wagons sont immobilisés et protégés par le transporteur ferroviaire ou la personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret n° 2006-1279 du 19 octobre 2006 modifié relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, selon les paramètres techniques de l'infrastructure indiqués dans la documentation d'exploitation.
 
-Les wagons munis d'une plaque étiquette n° 1, 1.5 ou 1.6 ne sont pas placés sur des voies contiguës ou au voisinage des wagons munis d'une plaque étiquette des n°s 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
+Les wagons munis d'une plaque étiquette n° 1,1.5 ou 1.6 ne sont pas placés sur des voies contiguës ou au voisinage des wagons munis d'une plaque étiquette des n° s 2.1,3,4.1,4.2,4.3,5.1 ou 5.2.
 
 2.5.4. Consignes de gare.
 
@@ -284,11 +284,11 @@ Acceptation de colis express et de bagages enregistrés dans les trains de voyag
 
 3.1.3. Les colis contenant des marchandises de la classe 1 ou de la classe 7, expédiés comme envois express ou comme bagages enregistrés, sont soumis pour leur chargement dans des véhicules ferroviaires transportant des voyageurs aux limites indiquées respectivement aux dispositions spéciales CE1 et CE15 du 7.6 et aux règles complémentaires suivantes :
 
-- pour les colis contenant des matières et objets classés 1. 4S et chargés en commun avec des marchandises des autres classes : la limite de 100 kg s'applique pour eux-mêmes et la limite de 300 kg s'applique pour l'ensemble des marchandises chargées ;
+-pour les colis contenant des matières et objets classés 1. 4S et chargés en commun avec des marchandises des autres classes : la limite de 100 kg s'applique pour eux-mêmes et la limite de 300 kg s'applique pour l'ensemble des marchandises chargées ;
 
-- les colis contenant des marchandises de la classe 1, soumises à autorisation d'acquisition en vertu du décret n° 81-972 du 21 octobre 1981 modifié relatif au marquage, à l'acquisition, à la détention, au transport, à la livraison et à l'emploi de produits explosifs, ne peuvent en aucun cas être chargés dans des trains de voyageurs ;
+-les colis contenant des marchandises de la classe 1, soumises à autorisation d'acquisition vertu des articles R. 2352-74 et suivants du code de la défense, ne peuvent en aucun cas être chargés dans des trains de voyageurs ;
 
-- pour les colis contenant des marchandises de la classe 7, dispensés d'étiquetage ou portant deux étiquettes n° 7A : la limite de 300 kg s'applique pour eux-mêmes s'ils sont chargés seuls, pour l'ensemble des marchandises dangereuses en cas de chargement en commun.
+-pour les colis contenant des marchandises de la classe 7, dispensés d'étiquetage ou portant deux étiquettes n° 7A : la limite de 300 kg s'applique pour eux-mêmes s'ils sont chargés seuls, pour l'ensemble des marchandises dangereuses en cas de chargement en commun.
 
 3.1.4. Les colis chargés dans des trains de voyageurs sont déposés dans un compartiment ou un coffre isolé à la fois des voyageurs et des moteurs et éventuellement des organes chauds par un écran isolant qui ne soit pas en contact avec les organes chauds. Pour les gaz, cet emplacement est convenablement ventilé.
 
@@ -308,8 +308,8 @@ Les transports pour les besoins propres du transporteur ferroviaire en quantité
 
 3.2.2.1. Placardage des wagons de messagerie.
 
-Nonobstant le 5.3.1.5, seuls les wagons de messagerie chargés de plus de trois tonnes (masse brute) de matières d'une même classe (autre que les classes 1, 6.2 ou 7) doivent porter, sur les deux côtés, la ou les plaques-étiquettes suivantes :
+Nonobstant le 5.3.1.5, seuls les wagons de messagerie chargés de plus de trois tonnes (masse brute) de matières d'une même classe (autre que les classes 1,6.2 ou 7) doivent porter, sur les deux côtés, la ou les plaques-étiquettes suivantes :
 
-- pour les classes autres que la classe 2 : la plaque-étiquette correspondant à la classe ;
+-pour les classes autres que la classe 2 : la plaque-étiquette correspondant à la classe ;
 
-- pour la classe 2 : des plaques-étiquettes correspondant à toutes les étiquettes figurant sur les colis de cette classe.
+-pour la classe 2 : des plaques-étiquettes correspondant à toutes les étiquettes figurant sur les colis de cette classe.

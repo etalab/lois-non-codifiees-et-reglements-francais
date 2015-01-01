@@ -20,4 +20,4 @@ Les réceptions par type nationales des véhicules à moteur, complets ou incomp
 
 5. Les certificats d'agrément des véhicules prévus aux 9.1.2 et 9.1.3 de l'ADR ainsi qu'au 3.6 de l'annexe I du présent arrêté sont délivrés par les directions régionales chargées des contrôles de sécurité des véhicules. Les véhicules qui circulent sous couvert d'un certificat W garage ne peuvent pas se voir délivrer de certificat d'agrément.
 
-6. L'EPSF est désigné pour délivrer les autorisations prévues aux 7.3.3 VW12 et 7.3.3 VW 13 du RID pour les wagons transportant des matières de la classe 9 respectivement du n° ONU 3257 et du n° ONU 3258.
+6. L'EPSF est désigné pour délivrer les autorisations prévues au 7.3.3.1 VC3 du RID pour les wagons transportant des matières de la classe 9 respectivement du n° ONU 3257 et du n° ONU 3258.

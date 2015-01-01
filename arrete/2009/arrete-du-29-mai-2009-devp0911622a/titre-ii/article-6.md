@@ -36,7 +36,7 @@ Toutefois, au titre de ce dernier point, les entreprises qui effectuent des opé
 
 2.1. Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers, suivant le modèle de déclaration CERFA n° 12251*02 disponible sur le site internet du ministère chargé des transports terrestres de matières dangereuses ( http://www.developpement-durable.gouv.fr/), au préfet de région ― direction régionale chargée des services de transport ou du contrôle des transports terrestres ― où l'entreprise est domiciliée. Le chef d'entreprise doit être en possession d'une copie du certificat du conseiller et, lorsque le conseiller est une personne extérieure à l'entreprise, d'une attestation de celui-ci indiquant qu'il accepte cette mission.
 
-2.2. Les entreprises ayant obtenu une autorisation d'accès du préfet de région ― direction régionale chargée des services de transport ou du contrôle des transports terrestres ― peuvent accéder par internet au système des téléprocédures (DEMOSTEN) du ministère chargé des transports terrestres de matières dangereuses, pour y effectuer la déclaration du conseiller à la sécurité.
+2.2. (abrogé)
 
 2.3. Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
 
@@ -56,7 +56,7 @@ Toutefois, au titre de ce dernier point, les entreprises qui effectuent des opé
 
 5. Rapport annuel :
 
-5.1. Le rapport annuel mentionné au 1.8.3.3 est basé sur une ou plusieurs visites dans l'entreprise du conseiller à la sécurité désigné ou d'un mandataire lui-même titulaire d'un certificat de conseiller à la sécurité et quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller. Ce rapport comprend un résumé des actions menées par le conseiller à la sécurité, conformément aux tâches reprises au 1.8.3.3 et des propositions qu'il a faites pour l'amélioration de la sécurité ainsi qu'un résumé des accidents survenus ayant donné lieu à un rapport au titre du 1.8.3.6.
+5.1. Le rapport annuel mentionné au 1.8.3.3 est basé sur une ou plusieurs visites dans l'entreprise du conseiller à la sécurité désigné ou d'un mandataire lui-même titulaire d'un certificat de conseiller à la sécurité et quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller. Ce rapport comprend un résumé des actions menées par le conseiller à la sécurité, conformément aux tâches reprises au 1.8.3.3 et des propositions qu'il a faites pour l'amélioration de la sécurité ainsi qu'un résumé des accidents survenus ayant donné lieu à un rapport au titre du 1.8.3.6. Le conseiller à la sécurité exerce ses fonctions sous la responsabilité du chef d'entreprise qui est tenu de lui communiquer l'ensemble des informations nécessaires à la rédaction du rapport annuel conformément au 1.8.3.3.
 
 5.2. Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise, comportant, en annexe, les rapports de ses différents conseillers.
 
