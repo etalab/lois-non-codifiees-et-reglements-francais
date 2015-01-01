@@ -1,11 +1,9 @@
 # Article 2
 
-Cet établissement est habilité dans l'ensemble de la région Provence-Alpes-Côte d'Azur :
+Conformément aux dispositions de l'article L. 321-1 du code de l'urbanisme, l'établissement est habilité à procéder à toutes acquisitions foncières et opérations immobilières et foncières de nature à faciliter l'aménagement. Il peut aussi effectuer les études et travaux nécessaires à leur accomplissement et, le cas échéant, participer à leur financement.
 
-1° A procéder à toutes opérations immobilières et foncières de nature à faciliter l'aménagement au sens de l'article L. 300-1 du code de l'urbanisme et spécialement le renouvellement urbain, le logement, notamment social, le développement d'activités économiques, et à contribuer à la protection des espaces agricoles, à la préservation des espaces naturels remarquables et à l'aménagement du territoire ;
+Ces missions peuvent être réalisées par l'établissement public foncier soit pour son compte ou celui de l'Etat et de ses établissements publics, soit pour celui des collectivités territoriales, de leurs groupements, ou de leurs établissements publics en application de conventions passées avec eux. Pour les opérations passées pour le compte des collectivités territoriales, de leurs groupements, ou de leurs établissements publics, ces conventions prévoient obligatoirement le rachat des biens dans un délai déterminé et, le cas échéant, la garantie de l'emprunt souscrit.
 
-2° A procéder à la réalisation des études et travaux nécessaires à l'accomplissement des missions définies au 1° ci-dessus et, le cas échéant, à participer à leur financement.
+Lorsqu'il intervient au titre de la préservation des espaces naturels et agricoles, l'Etablissement public foncier de Provence-Alpes-Côte d'Azur coopère avec la société d'aménagement foncier et d'Etablissement rural de Provence-Alpes-Côte d'Azur et les autres organismes chargés de la préservation de ces espaces, dans le cadre de conventions.
 
-Les missions définies aux 1° et 2° ci-dessus peuvent être réalisées par l'établissement public soit pour son compte ou celui de l'Etat et de ses établissements publics, soit pour le compte des collectivités territoriales et de leurs groupements, conformément à des conventions passées avec eux ;
-
-3° A réaliser, lorsqu'il en a reçu l'autorisation préalable de l'autorité de contrôle mentionnée à l'article 16, des opérations d'aménagement et des équipements pour son compte ou pour le compte des collectivités territoriales et de leurs groupements, conformément à des conventions à passer avec eux.
+Il est compétent pour achever les opérations d'aménagement et les travaux d'équipements décidés par délibération et autorisés par l'autorité de contrôle avant le 9 septembre 2011.
