@@ -2,7 +2,7 @@
 
 Les épreuves d'admission du concours comprennent :
 
-1° Un entretien avec le jury portant sur le fonctionnement général des institutions publiques et sur la motivation du candidat pour occuper un emploi d'agent de police municipale (durée : vingt minutes ; coefficient 2) ;
+1° Un entretien avec le jury permettant à ce dernier d'apprécier la personnalité du candidat et sa motivation pour occuper un emploi d'agent de police municipale, ainsi que ses connaissances sur le fonctionnement général des institutions publiques (durée : vingt minutes ; coefficient 3).
 
 2° Des épreuves physiques (coefficient 1) :
 
