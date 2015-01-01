@@ -1,3 +1,9 @@
 # Article 5-2
 
-Les actes signifiés par voie électronique à un tiers dans le cadre d'une procédure d'exécution ou d'une mesure conservatoire au sens de l'article 1er de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution sont faits concurremment par les huissiers de justice du ressort du tribunal de grande instance où le débiteur a son domicile ou sa résidence sauf lorsque ceux-ci sont situés à l'étranger.
+Les actes signifiés par voie électronique peuvent également être faits par tout huissier de justice ayant sa résidence :
+
+1° Dans le ressort du tribunal de grande instance où l'un des destinataires a son domicile ou sa résidence ;
+
+2° Dans le ressort d'un tribunal de grande instance dont le siège est situé dans le même département que le tribunal de grande instance dans le ressort duquel un des destinataires a son domicile ou sa résidence.
+
+La dénonciation par la voie électronique d'un acte peut être faite par l'huissier de justice compétent pour signifier ou établir l'acte.
