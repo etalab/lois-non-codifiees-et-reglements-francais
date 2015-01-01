@@ -1,46 +1,92 @@
 # Article Annexe I-2
 
-BARÈME DE MARGE DU PHARMACIEN
+BARÈME DE MARGE DU PHARMACIEN D'OFFICINE
+
+<div align="center">
 
 <table>
 <tbody>
 <tr>
-<td width="405">
-<p align="center">POUR LA PARTIE DU PRIX FABRICANT HT<br/>comprise entre</p>
+<th>
+<br/>POUR LA PARTIE DU PRIX FABRICANT HT <br/>
+<br/>comprise entre <br/>
+</th>
+<th>
+<br/>COEFFICIENT HT <br/>
+<br/>du 1er janvier 2015 au 31 décembre 2015 <br/>
+</th>
+<th>
+<br/>COEFFICIENT HT <br/>
+<br/>à partir du 1er janvier 2016 <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>0 et 0,82 € <br/>
 </td>
-<td width="237">
-<p align="center">COEFFICIENT HT</p>
+<td align="center">
+<br/>0 % <br/>
+</td>
+<td align="center">
+<br/>0 % <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="405">
-<p>0 et 22,90 €</p>
+<td align="left">
+<br/>0,83 € et 1,91 € <br/>
 </td>
-<td valign="top" width="237">
-<p align="center">0,261</p>
+<td align="center">
+<br/>25,5 % <br/>
 </td>
-</tr>
-<tr>
-<td align="left"> 22,91 € et 150 €<br/>
-</td>
-<td align="center"> 0,10</td>
-</tr>
-<tr>
-<td valign="top" width="405">
-<p>Au-delà de 150 € </p>
-</td>
-<td valign="top" width="237">
-<p align="center">0,06</p>
+<td align="center">
+<br/>0 % <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="405">
-<p>Forfait HT : 0,53 €</p>
+<td align="left">
+<br/>1,92 € et 22,90 € <br/>
 </td>
-<td valign="top" width="237">
-<br/>
-<br/>
+<td align="center">
+<br/>25,5 % <br/>
+</td>
+<td align="center">
+<br/>25,5 % <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>22,91 € et 150,00 € <br/>
+</td>
+<td align="center">
+<br/>8,5 % <br/>
+</td>
+<td align="center">
+<br/>8,5 % <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>150,01 € et 1 500,00 € <br/>
+</td>
+<td align="center">
+<br/>6 % <br/>
+</td>
+<td align="center">
+<br/>6 % <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<br/>Supérieur à 1 500,00 € <br/>
+</td>
+<td align="center">
+<br/>0 % <br/>
+</td>
+<td align="center">
+<br/>0 %<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
