@@ -1,8 +1,5 @@
 # 1977
 
-- [Décret n°77-185 du 1 mars 1977](decret-n77-185-du-1-mars-1977)
-- [Décret n°77-186 du 1 mars 1977](decret-n77-186-du-1-mars-1977)
-- [Décret n°77-187 du 1 mars 1977](decret-n77-187-du-1-mars-1977)
 - [Décret n°77-550 du 1 juin 1977](decret-n77-550-du-1-juin-1977)
 - [Décret n°77-723 du 1 juillet 1977](decret-n77-723-du-1-juillet-1977)
 - [Décret n°77-898 du 2 août 1977](decret-n77-898-du-2-aout-1977)
@@ -73,8 +70,6 @@
 - [Décret n°77-686 du 23 juin 1977](decret-n77-686-du-23-juin-1977)
 - [Décret n°77-1318 du 24 novembre 1977](decret-n77-1318-du-24-novembre-1977)
 - [Décret n°77-1319 du 24 novembre 1977](decret-n77-1319-du-24-novembre-1977)
-- [Décret n°77-285 du 24 mars 1977](decret-n77-285-du-24-mars-1977)
-- [Décret n°77-286 du 24 mars 1977](decret-n77-286-du-24-mars-1977)
 - [Décret n°77-907 du 27 juillet 1977](decret-n77-907-du-27-juillet-1977)
 - [Décret n°77-1477 du 28 décembre 1977](decret-n77-1477-du-28-decembre-1977)
 - [Décret n°77-307 du 28 mars 1977](decret-n77-307-du-28-mars-1977)
