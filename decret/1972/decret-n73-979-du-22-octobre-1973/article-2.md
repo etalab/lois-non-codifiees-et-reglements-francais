@@ -38,8 +38,8 @@ Agents du service des eaux et fontaines de Versailles, Marly et Saint-Cloud.
 
 Surveillants et agents de service de l'école nationale supérieure des arts décoratifs.
 
-4° Ministère des anciens combattants et victimes de guerre :
+4° Ministère de la défense :
 
-Agents qui exercent les fonctions de veilleurs de nuit dans les locaux de l'administration centrale et des services extérieurs du ministère ;
+Agents qui exercent les fonctions de veilleur de nuit, dans les locaux des services relevant du ministère de la défense et de ses établissements publics administratifs sous tutelle.
 
-Agents qui exercent les fonctions de veilleurs de nuit dans les locaux de l'institution nationale des invalides, à l'exclusion des agents appartenant aux services hospitaliers de cette institution.
+Les agents relevant des corps paramédicaux du ministère de la défense ainsi que les agents non titulaires exerçant des fonctions identiques et les ouvriers de l'Etat du ministère de la défense sont exclus du bénéfice de cette indemnité.
