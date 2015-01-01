@@ -109,6 +109,7 @@
 - [Décret n°2011-219 du 25 février 2011 (JUSD0805748D)](decret-n2011-219-du-25-fevrier-2011-jusd0805748d)
 - [Décret n°2011-873 du 25 juillet 2011 (DEVL1105488D)](decret-n2011-873-du-25-juillet-2011-devl1105488d)
 - [Décret n°93-511 du 25 mars 1993 (PTTX9300034D)](decret-n93-511-du-25-mars-1993-pttx9300034d)
+- [Décret n°2011-1398 du 26 octobre 2011 (AGRT1122174D)](decret-n2011-1398-du-26-octobre-2011-agrt1122174d)
 - [Décret n°2011-1966 du 26 décembre 2011 (DEFD1126787D)](decret-n2011-1966-du-26-decembre-2011-defd1126787d)
 - [Décret n°2011-887 du 26 juillet 2011 (AGRR1031365D)](decret-n2011-887-du-26-juillet-2011-agrr1031365d)
 - [Décret n°2011-119 du 27 janvier 2011 (OMEO1034008D)](decret-n2011-119-du-27-janvier-2011-omeo1034008d)
