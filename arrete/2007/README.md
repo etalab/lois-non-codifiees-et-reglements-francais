@@ -626,7 +626,6 @@
 - [Arrêté du 21 mars 2007 (EQUA0700564A)](arrete-du-21-mars-2007-equa0700564a)
 - [Arrêté du 21 mars 2007 (EQUT0700600A)](arrete-du-21-mars-2007-equt0700600a)
 - [Arrêté du 21 mars 2007 (JUSX0700975A)](arrete-du-21-mars-2007-jusx0700975a)
-- [Arrêté du 21 mars 2007 (SOCU0612412A)](arrete-du-21-mars-2007-socu0612412a)
 - [Arrêté du 21 novembre 2007 (AGRE0771214A)](arrete-du-21-novembre-2007-agre0771214a)
 - [Arrêté du 21 septembre 2007 (DEVU0763823A)](arrete-du-21-septembre-2007-devu0763823a)
 - [Arrêté du 21 septembre 2007 (SJSH0766359A)](arrete-du-21-septembre-2007-sjsh0766359a)
