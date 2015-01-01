@@ -1,5 +1,3 @@
 # Article 6
 
-Les représentants des établissements publics de coopération intercommunale à fiscalité propre visés au d du 1° de l'article 5 du présent décret sont désignés par une assemblée composée des présidents des communautés de communes compétentes en matière de politique du logement. Les présidents de ces établissements peuvent se faire représenter par un autre membre de l'organe délibérant désigné par celui-ci. Cette assemblée est réunie par le préfet de la région Poitou-Charentes, préfet de la Vienne, à chaque renouvellement complet du conseil d'administration.
-
-Si l'assemblée ne désigne pas ses représentants au conseil d'administration de l'établissement, cette désignation peut être opérée par décision du préfet de la région Poitou-Charentes, préfet de la Vienne.
+Les associations départementales des maires de la Charente, de la Charente-Maritime, des Deux-Sèvres et de la Vienne désignent, chacune pour leur part, dans les conditions prévues au dernier alinéa de l'article L. 321-9 du code de l'urbanisme, les représentants des établissements publics de coopération intercommunale à fiscalité propre et des communes mentionnés au d du 1° de l'article 5.

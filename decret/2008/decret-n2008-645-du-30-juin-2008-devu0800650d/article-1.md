@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé, sous le nom d'Etablissement public foncier de Poitou-Charentes», un établissement public foncier de l'Etat, à caractère industriel et commercial, doté de la personnalité morale et de l'autonomie financière.
+L'Etablissement public foncier de l'Etat, dénommé Etablissement public foncier de Poitou-Charentes, est compétent sur l'ensemble du territoire de la région Poitou-Charentes.

@@ -10,8 +10,8 @@ Le président et les vice-présidents sont répartis de la façon suivante :
 
 ― un représentant d'une communauté d'agglomération chef-lieu de département ;
 
-― un représentant d'un autre établissement public de coopération intercommunale.
+― un représentant d'un autre établissement public de coopération intercommunale à fiscalité propre.
 
-Il désigne également trois membres qui, avec le président et les trois vice-présidents, constituent le bureau.
+Il désigne également trois membres qui, avec le président, les trois vice-présidents et un représentant de l'Etat désigné par les membres de ce collège en leur sein, constituent le bureau.
 
 Les vice-présidents suppléent, dans l'ordre de leur élection, le président en cas d'absence ou d'empêchement.

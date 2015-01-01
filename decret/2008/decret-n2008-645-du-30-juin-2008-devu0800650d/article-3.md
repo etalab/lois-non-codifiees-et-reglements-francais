@@ -1,3 +1,3 @@
 # Article 3
 
-Pour la réalisation des objectifs définis à l'article 2, l'établissement public foncier peut agir par voie d'expropriation et exercer les droits de préemption définis par le code de l'urbanisme, dans les cas et conditions prévus par ledit code.
+Les activités de l'établissement s'exercent dans le cadre d'un programme pluriannuel d'interventions prévu aux articles L. 321-5 et suivants du code de l'urbanisme, élaboré, approuvé et mis en œuvre conformément aux dispositions des articles R. * 321-13, R. * 321-15 et R. * 321-16 du même code.
