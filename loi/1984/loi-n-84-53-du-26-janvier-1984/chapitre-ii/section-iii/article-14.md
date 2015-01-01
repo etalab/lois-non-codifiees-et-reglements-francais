@@ -2,7 +2,7 @@
 
 Les centres de gestion regroupent les collectivités et établissements qui leur sont affiliés à titre obligatoire ou volontaire en application de l'article 15. Ils assurent, pour les fonctionnaires de catégories A, B, et C, les missions définies à l'article 23.
 
-Les centres sont organisés dans chaque département sous réserve des dispositions des articles 17 et 18. Des centres peuvent décider, par délibérations concordantes de leurs conseils d'administration, de constituer un centre commun organisé au niveau interdépartemental, auquel ils peuvent confier tout ou partie de leurs missions.
+Les centres sont organisés dans chaque département sous réserve des dispositions des articles 17, 18 et 18-1. Des centres peuvent décider, par délibérations concordantes de leurs conseils d'administration, de constituer un centre commun organisé au niveau interdépartemental, auquel ils peuvent confier tout ou partie de leurs missions.
 
 Sous réserve des dispositions des I et III de l'article 23, les collectivités et établissements non affiliés à un centre de gestion assurent par eux-mêmes les missions confiées aux centres de gestion. Dans ce cas, les dispositions mentionnées aux premier et deuxième alinéas de l'article 21 pour les centres de gestion leur sont applicables dans les mêmes conditions.
 

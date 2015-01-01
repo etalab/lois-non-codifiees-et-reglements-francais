@@ -7,6 +7,7 @@
 - [Article 112](article-112.md)
 - [Article 112-1](article-112-1.md)
 - [Article 112-2](article-112-2.md)
+- [Article 112-3](article-112-3.md)
 - [Article 114](article-114.md)
 - [Article 115](article-115.md)
 - [Article 116](article-116.md)
