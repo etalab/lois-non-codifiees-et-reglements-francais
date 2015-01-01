@@ -1,0 +1,5 @@
+# Article 3
+
+Sont abrogées toutes dispositions contraires au présent décret, et notamment le décret-loi du 19 mai 1939 portant réglementation du travail dans les chemins de fer et dans les entreprises de transport par terre, le décret-loi du 6 octobre 1939 modifiant le régime du travail du personnel de la Société nationale des chemins de fer français pendant la durée des hostilités, ainsi que les décrets subséquents.
+
+Les dispositions de l'article 6 du décret-loi du 21 avril 1939, relatif au régime du travail, décidant que l'augmentation de la durée du travail de quarante à quarante-cinq heures dans les services publics industriels, en régie ou concédés de l'Etat, des départements et communes ne donnerait droit à aucun supplément de rémunération cessent d'être applicables à compter du 1er janvier 1942, aux services publics visés à la présente loi, lorsque le personnel desdits services ne bénéficie pas des mesures prévues en matière de rémunération des fonctionnaires et agents de l'Etat par les lois des 23 mai et 31 octobre 1941 ou de mesures analogues.

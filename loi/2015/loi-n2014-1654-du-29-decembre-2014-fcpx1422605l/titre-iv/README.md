@@ -1,3 +1,0 @@
-# Titre IV : DISPOSITIONS PERMANENTES  I. - MESURES FISCALES
-
-- [Article 77](article-77.md)

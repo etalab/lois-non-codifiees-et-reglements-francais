@@ -1,3 +1,0 @@
-# Article 5
-
-Le procureur de la République près un tribunal de grande instance ou un tribunal de première instance autre que ceux mentionnés à l'article 3 doit, pour les infractions maritimes définies à l'article 2, soit se dessaisir au profit du procureur de la République près le tribunal de grande instance ou le tribunal de première instance mentionné à l'article 3, soit requérir le juge d'instruction ou le pôle de l'instruction, dans les conditions et selon les modalités prévues par les articles 704-2 et 704-3 du code de procédure pénale, de se dessaisir au profit de la juridiction d'instruction du tribunal de grande instance ou du tribunal de première instance mentionnée à l'article 3.
