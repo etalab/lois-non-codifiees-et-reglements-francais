@@ -283,6 +283,7 @@
 - [Arrêté du 25 juillet 2013 (INTE1319833A)](arrete-du-25-juillet-2013-inte1319833a)
 - [Arrêté du 25 juillet 2013 (INTE1319931A)](arrete-du-25-juillet-2013-inte1319931a)
 - [Arrêté du 26 avril 2013 (SPOF1311617A)](arrete-du-26-avril-2013-spof1311617a)
+- [Arrêté du 26 décembre 2012 (ETST1243253A)](arrete-du-26-decembre-2012-etst1243253a)
 - [Arrêté du 26 décembre 2012 (INTA1240506A)](arrete-du-26-decembre-2012-inta1240506a)
 - [Arrêté du 26 décembre 2013 (AFSH1331999A)](arrete-du-26-decembre-2013-afsh1331999a)
 - [Arrêté du 26 décembre 2013 (BUDB1325369A)](arrete-du-26-decembre-2013-budb1325369a)
