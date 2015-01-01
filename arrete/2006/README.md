@@ -180,7 +180,6 @@
 - [Arrêté du 19 décembre 2006 (ECOK0600080A)](arrete-du-19-decembre-2006-ecok0600080a)
 - [Arrêté du 19 décembre 2006 (ECOT0620090A)](arrete-du-19-decembre-2006-ecot0620090a)
 - [Arrêté du 19 décembre 2006 (MENF0602652A)](arrete-du-19-decembre-2006-menf0602652a)
-- [Arrêté du 19 juin 2006 (INDI0607665A)](arrete-du-19-juin-2006-indi0607665a)
 - [Arrêté du 19 juin 2006 (MAEF0610043A)](arrete-du-19-juin-2006-maef0610043a)
 - [Arrêté du 19 juin 2006 (MCCB0600454A)](arrete-du-19-juin-2006-mccb0600454a)
 - [Arrêté du 19 octobre 2006 (AGRE0602111A)](arrete-du-19-octobre-2006-agre0602111a)

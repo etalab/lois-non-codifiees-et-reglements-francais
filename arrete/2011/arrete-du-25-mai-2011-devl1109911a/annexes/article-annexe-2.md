@@ -1,5 +1,7 @@
 # Article Annexe 2
 
-Formulaire type de demande d'une avance remboursable sans intérêt outre-mer
+FORMULAIRE TYPE DE DEMANDE D'UNE AVANCE REMBOURSABLE SANS INTÉRÊT OUTRE-MER
 
-Vous pouvez consulter le formulaire dans le JO n° 139 du 17/06/2011 texte numéro 18
+Vous pouvez consulter l'image à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141228&numTexte=58&pageDebut=22711&pageFin=22711

@@ -1868,7 +1868,6 @@
 - [Arrêté du 23 janvier 2009 (AGRM0901863A)](arrete-du-23-janvier-2009-agrm0901863a)
 - [Arrêté du 23 janvier 2009 (AGRS0830837A)](arrete-du-23-janvier-2009-agrs0830837a)
 - [Arrêté du 23 janvier 2009 (BCFL0902522A)](arrete-du-23-janvier-2009-bcfl0902522a)
-- [Arrêté du 23 janvier 2009 (DEVE0902365A)](arrete-du-23-janvier-2009-deve0902365a)
 - [Arrêté du 23 janvier 2009 (DEVK0901503A)](arrete-du-23-janvier-2009-devk0901503a)
 - [Arrêté du 23 janvier 2009 (DEVR0901327A)](arrete-du-23-janvier-2009-devr0901327a)
 - [Arrêté du 23 janvier 2009 (ECEC0902367A)](arrete-du-23-janvier-2009-ecec0902367a)

@@ -1769,7 +1769,6 @@
 - [Arrêté du 21 février 2014 (BUDE1405045A)](arrete-du-21-fevrier-2014-bude1405045a)
 - [Arrêté du 21 février 2014 (BUDE1405056A)](arrete-du-21-fevrier-2014-bude1405056a)
 - [Arrêté du 21 février 2014 (DEVK1330211A)](arrete-du-21-fevrier-2014-devk1330211a)
-- [Arrêté du 21 février 2014 (DEVR1404834A)](arrete-du-21-fevrier-2014-devr1404834a)
 - [Arrêté du 21 février 2014 (INTA1324889A)](arrete-du-21-fevrier-2014-inta1324889a)
 - [Arrêté du 21 février 2014 (JUSF1404854A)](arrete-du-21-fevrier-2014-jusf1404854a)
 - [Arrêté du 21 février 2014 (MENE1404566A)](arrete-du-21-fevrier-2014-mene1404566a)

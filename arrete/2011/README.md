@@ -1179,7 +1179,6 @@
 - [Arrêté du 15 avril 2011 (ETSH1110860A)](arrete-du-15-avril-2011-etsh1110860a)
 - [Arrêté du 15 avril 2011 (ETSP1107294A)](arrete-du-15-avril-2011-etsp1107294a)
 - [Arrêté du 15 avril 2011 (MENH1110150A)](arrete-du-15-avril-2011-menh1110150a)
-- [Arrêté du 15 décembre 2010 (DEVR1032059A)](arrete-du-15-decembre-2010-devr1032059a)
 - [Arrêté du 15 décembre 2010 (EFIP1024737A)](arrete-du-15-decembre-2010-efip1024737a)
 - [Arrêté du 15 décembre 2010 (ETSW1032881A)](arrete-du-15-decembre-2010-etsw1032881a)
 - [Arrêté du 15 décembre 2011 (BCRB1131885A)](arrete-du-15-decembre-2011-bcrb1131885a)
