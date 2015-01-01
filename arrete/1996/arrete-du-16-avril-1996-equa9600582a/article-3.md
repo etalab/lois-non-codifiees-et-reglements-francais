@@ -2,7 +2,7 @@
 
 Le montant de la redevance due à chaque décollage est égal au produit du taux unitaire de redevance par le nombre d'unités de service.
 
-Le nombre d'unités de service est égal au produit de la masse maximale au décollage inscrite au manuel de vol de l'aéronef exprimée en tonnes métriques, divisée par 50 et affectée de l'   exposant 0,7.
+Le nombre d'unités de service est égal à la masse maximale au décollage de l'aéronef divisée par 50 et affectée de l'exposant 0,7 ; la masse maximale au décollage utilisée est celle inscrite au certificat de navigabilité, au manuel de vol ou sur tout autre document officiel équivalent de l'aéronef exprimée en tonnes métriques par un nombre comportant une décimale.
 
 Pour l'outre-mer, le nombre d'unités de service est égal au produit d'un coefficient égal à 1,247 par la masse maximale au décollage inscrite au manuel de vol de l'aéronef, exprimée en tonnes métriques et affectée de l'exposant 0,9.
 

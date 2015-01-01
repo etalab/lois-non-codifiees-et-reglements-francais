@@ -2599,7 +2599,6 @@
 - [Arrêté du 27 décembre 2013 (ACTI1328002A)](arrete-du-27-decembre-2013-acti1328002a)
 - [Arrêté du 27 décembre 2013 (AFSS1327290A)](arrete-du-27-decembre-2013-afss1327290a)
 - [Arrêté du 27 décembre 2013 (AGRT1330753A)](arrete-du-27-decembre-2013-agrt1330753a)
-- [Arrêté du 27 décembre 2013 (BUDS1331381A)](arrete-du-27-decembre-2013-buds1331381a)
 - [Arrêté du 27 décembre 2013 (DEVK1328681A)](arrete-du-27-decembre-2013-devk1328681a)
 - [Arrêté du 27 décembre 2013 (DEVP1326202A)](arrete-du-27-decembre-2013-devp1326202a)
 - [Arrêté du 27 décembre 2013 (DEVP1329742A)](arrete-du-27-decembre-2013-devp1329742a)
