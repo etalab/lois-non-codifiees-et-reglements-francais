@@ -36,7 +36,6 @@
 - [Arrêté du 2 septembre 1993 (EQUA9300911A)](arrete-du-2-septembre-1993-equa9300911a)
 - [Arrêté du 2 septembre 1993 (EQUA9300912A)](arrete-du-2-septembre-1993-equa9300912a)
 - [Arrêté du 3 août 1993 (ECOM9300056A)](arrete-du-3-aout-1993-ecom9300056a)
-- [Arrêté du 3 août 1993 (SPSS9302217A)](arrete-du-3-aout-1993-spss9302217a)
 - [Arrêté du 3 décembre 1992 (EQUA9201529A)](arrete-du-3-decembre-1992-equa9201529a)
 - [Arrêté du 3 décembre 1992 (MERR9200193A)](arrete-du-3-decembre-1992-merr9200193a)
 - [Arrêté du 3 décembre 1993 (AGRA9302298A)](arrete-du-3-decembre-1993-agra9302298a)
