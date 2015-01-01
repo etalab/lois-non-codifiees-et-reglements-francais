@@ -1,9 +1,17 @@
 # Article 1
 
-La direction du personnel militaire de la marine et les directions des ressources humaines de l'armée de terre et de l'armée de l'air participent à l'élaboration de la politique de gestion du personnel militaire définie par le ministre chargé des armées et mise en œuvre par le chef d'état-major de chaque armée. Elles en assurent l'application et, à ce titre, pourvoient aux besoins en personnel militaire.
+La direction des ressources humaines de l'armée de terre, la direction du personnel militaire de la marine et la direction des ressources humaines de l'armée de l'air sont chargées d'assurer, chacune en ce qui la concerne, dans le respect des effectifs fixés et de la masse salariale définie :
 
-Elles peuvent être chargées, par le chef d'état-major dont elles relèvent, dans le cadre de ses attributions, de toute étude relative aux effectifs et aux besoins en personnel de l'armée considérée.
+1° Le recrutement et la formation du personnel militaire de carrière, servant en vertu d'un contrat, ou exerçant une activité au titre d'un engagement à servir dans la réserve opérationnelle ; à ce titre, elles ont autorité sur les centres de formation ne relevant pas d'un commandement, les écoles militaires et tout autre organisme dont la liste est fixée par arrêté ;
 
-Elles participent, en liaison avec les états-majors et la direction des ressources humaines du ministère de la défense, à l'élaboration des statuts militaires et de la réglementation qui en résulte.
+2° L'organisation des examens et des concours d'admission dans les écoles et les organismes de leur armée, y compris ceux organisés au titre de l'enseignement militaire supérieur des premier et deuxième degrés ;
 
-Elles veillent à l'application, à l'ensemble du personnel militaire de leur armée, des textes législatifs et réglementaires qui définissent les droits et les obligations de ce personnel. Elles assurent la mise en application de ces textes au personnel qu'elles administrent.
+3° La définition et la gestion des parcours professionnels et de carrière du personnel militaire, à l'exception de l'encadrement supérieur militaire ;
+
+4° La mise en œuvre des mesures relevant de la condition du personnel ;
+
+5° La gestion et l'administration du personnel militaire ;
+
+6° Sous réserve des attributions de la direction des ressources humaines du ministère de la défense et des autorités délégataires, l'animation et la coordination de la gestion et de l'administration du personnel civil employé par leur armée ;
+
+7° La mise à jour des données relatives aux droits individuels du personnel militaire.

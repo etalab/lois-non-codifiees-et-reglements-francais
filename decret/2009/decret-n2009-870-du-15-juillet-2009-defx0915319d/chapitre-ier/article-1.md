@@ -16,6 +16,6 @@ III. ― Au titre des relations internationales en matière d'armement :
 
 IV. ― Dans le cadre de la politique industrielle, il propose au ministre les mesures visant à maintenir et à développer les capacités technologiques et industrielles nécessaires à la défense, et les met en œuvre.
 
-V. ― Il est responsable de l'expression du besoin en matière de ressources humaines civiles et militaires de la direction générale de l'armement. Il participe à la définition de la politique des ressources humaines du ministère. Il est responsable de la mise en œuvre de cette politique au sein de la direction générale de l'armement.
+V. ― Il est responsable de l'expression du besoin en matière de ressources humaines civiles et militaires de la direction générale de l'armement. Il participe à la définition de la politique des ressources humaines du ministère. Il est responsable de la mise en œuvre de cette politique au sein de la direction générale de l'armement, pour le personnel militaire et civil qu'il administre et gère.
 
 VI. ― Il a autorité sur la direction générale de l'armement dont les attributions et l'organisation sont fixées par décret.
