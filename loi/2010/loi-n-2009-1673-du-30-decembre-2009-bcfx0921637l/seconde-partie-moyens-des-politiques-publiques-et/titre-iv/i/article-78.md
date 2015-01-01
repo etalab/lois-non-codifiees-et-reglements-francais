@@ -132,6 +132,8 @@ En cas de retrait d'une commune d'un établissement public de coopération inter
 
 F.-Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement public de coopération intercommunale faisant application de l'article 1609 nonies C du code général des impôts, le montant de la dotation de compensation de la réforme de la taxe professionnelle calculée conformément aux II et III du présent 1.1 et au présent IV est versé au profit de cet établissement.
 
+V.-La métropole de Lyon est substituée de plein droit à la communauté urbaine de Lyon pour l'application du présent 1.1 dans son périmètre.
+
 1.2. Dotation de compensation de la réforme de la taxe professionnelle au profit des départements.
 
 I.-Il est institué, à compter de 2011, une dotation de compensation de la réforme de la taxe professionnelle au profit des départements.
@@ -170,9 +172,39 @@ Diminuée du montant maximal de prélèvement prévu au 2 du C du III de l'artic
 
 Pour le département de Paris, cette différence est augmentée ou diminuée de la différence calculée conformément au 1 du II du 1.1 du présent article pour la ville de Paris.
 
-2. Le montant global de la dotation de compensation prévue au I est égal à la somme algébrique pour l'ensemble des départements des différences définies conformément au 1 du présent II.
+1 bis. A compter de 2015, pour chaque commune située dans les limites territoriales du département du Rhône au 31 décembre 2014, est calculée la différence entre les deux termes suivants :
 
-III.-Le montant global de la dotation de compensation est réparti entre les départements pour lesquels la différence définie au 1 du II est positive, au prorata de cette différence.
+1° La somme :
+
+-des impositions à la taxe d'habitation et aux taxes foncières émises au titre de 2010 au profit du département sur le territoire de la commune ;
+
+-des compensations d'exonérations de taxe foncière sur les propriétés bâties constatées sur le territoire de la commune et versées au département au titre de l'année 2010 ;
+
+-de la fraction du montant de la compensation relais définie au II de l'article 1640 B du code général des impôts versée au département qui est établie à due proportion des bases départementales théoriques de taxe professionnelle constatées en 2010 sur le territoire de la commune dans le total des bases départementales théoriques de taxe professionnelle constatées en 2010 dans l'ensemble du département du Rhône ;
+
+Diminuée de la fraction du montant de prélèvement prévu au 2 du C du III de l'article 85 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 et mis à la charge du département du Rhône au titre de l'année 2009, qui est établie à due proportion des bases départementales théoriques de taxe professionnelle constatées en 2010 sur le territoire de la commune dans le total des bases départementales théoriques de taxe professionnelle constatées en 2010 dans l'ensemble du département du Rhône ;
+
+2° La somme :
+
+-du produit de cotisation sur la valeur ajoutée des entreprises perçu sur le territoire de la commune, en application des articles 1586 et 1586 octies du code général des impôts qui aurait été attribué au département au titre de ces installations si les modalités d'affectation de ces impositions applicables au 1er janvier 2011 avaient été applicables au titre de l'année 2010 ;
+
+-des compensations d'exonérations de taxe foncière sur les propriétés bâties constatées sur le territoire de la commune qui auraient été versées au département au titre de l'année 2010 si les dispositions de l'article 77 applicables au 1er janvier 2011 avaient été retenues pour calculer leur montant ;
+
+-de la fraction du produit de la taxe additionnelle aux droits d'enregistrement et à la taxe de publicité foncière prévue par l'article 678 bis du même code afférent aux mutations d'immeubles et droits immobiliers qui aurait été perçu au titre de l'année 2010 par le département sur le territoire de la commune si les modalités d'affectation de cette imposition applicable au 1er janvier 2011 avaient été mises en œuvre au titre de l'année 2010 ;
+
+-des bases nettes départementales 2010 de taxe foncière sur les propriétés bâties situées sur le territoire de la commune, multipliées par le taux 2010 de référence du département défini au 2 du B du V de l'article 1640 C du code général des impôts ;
+
+-du produit départemental des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévues aux articles 1519 D, 1519 E, 1519 F et 1519 H du même code qui aurait été perçu au titre de l'année 2010 au profit du département sur le territoire de la commune, si les dispositions applicables au 1er janvier 2011 et relatives à ces impositions avaient été appliquées au titre de 2010 ;
+
+-du produit départemental de la composante de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 HA du même code qui a été perçu au titre de l'année 2011 au profit du département sur le territoire de la commune ;
+
+La différence imputable à la métropole de Lyon est obtenue en calculant la somme algébrique des différences identifiées sur chaque commune située dans les limites territoriales de la métropole de Lyon ;
+
+La différence imputable au département du Rhône à compter de 2015 est obtenue en calculant la somme algébrique des différences identifiées sur chaque commune située dans ses nouvelles limites territoriales telles qu'elles résultent de l'application de l'article L. 3611-1 du code général des collectivités territoriales à compter du 1er janvier 2015.
+
+2. Le montant global de la dotation de compensation prévue au I est égal à la somme algébrique pour l'ensemble des départements des différences définies conformément au 1 et au 1 bis du présent II.
+
+III.-Le montant global de la dotation de compensation est réparti entre les départements pour lesquels la différence définie au 1 et au 1 bis du II est positive, au prorata de cette différence.
 
 1.3. Dotation de compensation de la réforme de la taxe professionnelle au profit des régions.
 
@@ -198,9 +230,9 @@ Pour la région Ile-de-France, les produits des taxes foncières s'entendent de 
 
 -et du produit des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévus aux articles 1599 quater A et 1599 quater B du même code dont la collectivité territoriale aurait bénéficié au titre de l'année 2010 si les dispositions applicables au 1er janvier 2011 et relatives à ces impositions avaient été appliquées ;
 
-2. Le montant global de la dotation de compensation est égal à la somme algébrique, pour l'ensemble des régions, des différences définies conformément au 1 du présent II.
+2. Le montant global de la dotation de compensation est égal à la somme algébrique, pour l'ensemble des régions, des différences définies conformément au 1 et au 1 bis du présent II.
 
-III.-Le montant global de la dotation de compensation est réparti entre les régions pour lesquelles la différence définie au 1 du II est positive, au prorata de cette différence.
+III.-Le montant global de la dotation de compensation est réparti entre les régions pour lesquelles la différence définie au 1 et au 1 bis du II est positive, au prorata de cette différence.
 
 1.4. Notification aux collectivités territoriales.
 
@@ -282,21 +314,25 @@ b. Lorsqu'une commune est devenue membre au 1er janvier 2011 d'un établissement
 
 La commune perçoit un reversement au titre du présent Fonds national de garantie individuelle des ressources communales et intercommunales égal au montant des reversements perçus par la commune au titre de 2009 en vertu du 2° du II du même article 1648 A dans sa rédaction en vigueur au 31 décembre 2009.
 
+V.-La métropole de Lyon est substituée de plein droit à la communauté urbaine de Lyon pour l'application du présent 2.1 dans son périmètre.
+
 2.2. Fonds national de garantie individuelle des ressources départementales.
 
-I.-Il est créé, sous le nom de Fonds national de garantie individuelle des ressources départementales, un fonds chargé de compenser, pour chaque département, les conséquences financières de la réforme de la fiscalité locale.
+I.-Il est créé, sous le nom de Fonds national de garantie individuelle des ressources départementales, un fonds chargé de compenser, pour chaque département, ainsi que pour la métropole de Lyon les conséquences financières de la réforme de la fiscalité locale.
 
 La gestion comptable et financière de ce fonds est assurée par le ministre chargé du budget.
 
 II.-A compter de l'année 2011, les ressources fiscales des départements sont chaque année diminuées d'un prélèvement au profit du fonds ou augmentées d'un reversement des ressources de ce même fonds.
 
-III.-Pour chaque département, à l'exception du département de Paris :
+A compter de 2015, les ressources fiscales de la métropole de Lyon sont chaque année diminuées d'un prélèvement au profit du fonds ou augmentées d'un reversement des ressources de ce même fonds calculé dans les conditions prévues au III, auquel s'ajoute le versement calculé dans les conditions prévues au 2.1 du présent article.
 
--si le terme défini au 2° du 1 du II du 1.2 du présent article, augmenté de la compensation attribuée au titre de l'année 2011 au département en application du III du même 1.2, excède celui défini au 1° du 1 du II dudit 1.2, le département fait l'objet d'un prélèvement d'un montant égal à l'excédent ;
+III.-Pour chaque département, à l'exception du département de Paris, et la métropole de Lyon :
+
+-si le terme défini au 2° du 1 ou au 2° du 1 bis du II du 1.2 du présent article, augmenté de la compensation attribuée au titre de l'année 2011 au département en application du III du même 1.2, excède celui défini au 1° du 1 ou au 1° du 1 bis du II dudit 1.2, le département ou la métropole de Lyon fait l'objet d'un prélèvement d'un montant égal à l'excédent ;
 
 -dans le cas contraire, le département bénéficie d'un reversement d'un montant égal au déficit multiplié par le coefficient d'équilibrage défini au dernier alinéa du présent III.
 
-Si la somme du terme défini au 2° du 1 du II du 1.1 du présent article pour la ville de Paris, du terme défini au 2° du 1 du II du 1.2 du présent article pour le département de Paris et, le cas échéant, de la compensation attribuée au titre de l'année 2011 au département de Paris en application du III du même 1.2 excède la somme des termes définis au 1° du 1 du II des 1.1 et 1.2 du présent article, le département fait l'objet d'un prélèvement d'un montant égal à l'excédent.
+Si la somme du terme défini au 2° du 1 du II du 1.1 du présent article pour la ville de Paris, du terme défini au 2° du 1 du II du 1.2 du présent article pour le département de Paris et, le cas échéant, de la compensation attribuée au titre de l'année 2011 au département de Paris en application du III du même 1.2 excède la somme des termes définis au 1° du 1 du II des 1.1 et 1.2 du présent article, le département ou la métropole de Lyon fait l'objet d'un prélèvement d'un montant égal à l'excédent.
 
 Dans le cas contraire, le département de Paris bénéficie d'un reversement d'un montant égal au déficit multiplié par le coefficient d'équilibrage défini au dernier alinéa du présent III.
 
