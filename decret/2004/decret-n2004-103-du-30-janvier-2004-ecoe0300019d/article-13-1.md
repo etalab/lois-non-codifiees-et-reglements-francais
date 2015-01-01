@@ -1,3 +1,0 @@
-# Article 13-1
-
-Les agents contractuels de l'Etat employés par la directi on générale du Trésor et de la politique économique, qui optent, sur la base du volontariat, dans le cadre de la réorganisation de la mission de service public d'appui aux entreprises, pour un nouveau contrat de travail de droit privé proposé par Ubifrance, Agence française pour le développement international des entreprises, peuvent prétendre au versement de l'indemnité ou du pécule respectivement prévus aux articles 11 et 12 du décret n° 69-697 du 18 juin 1969 portant fixation du statut des agents contractuels de l'Etat et des établissements publics de l'Etat à caractère administratif, de nationalité française en service à l'étranger.
