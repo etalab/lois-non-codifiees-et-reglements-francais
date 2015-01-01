@@ -6,7 +6,7 @@
 - [Chapitre III : Accès à la fonction publique territoriale](chapitre-iii)
 - [Chapitre IV : Structure des carrières.](chapitre-iv)
 - [Chapitre V : Positions.](chapitre-v)
-- [Chapitre VI : Notation - Avancement - Reclassement](chapitre-vi)
+- [Chapitre VI : Evaluation ― Avancement ― Reclassement](chapitre-vi)
 - [Chapitre VII : Rémunération.](chapitre-vii)
 - [Chapitre VII bis : Action sociale et aide à la protection sociale complémentaire des agents](chapitre-vii-bis)
 - [Chapitre VIII : Discipline.](chapitre-viii)
