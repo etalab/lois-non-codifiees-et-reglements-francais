@@ -4,7 +4,7 @@ Pour l'application du 2 du I de l'article 266 sexies du code des douanes, les se
 
 20 MW pour la puissance thermique maximale des installations de combustion ;
 
-3 tonnes par heure pour la capacité des installations d'incinération d'ordures ménagères ;
+3 tonnes par heure pour la capacité des installations de traitement thermique d'ordures ménagères ;
 
 Pour les installations n'entrant pas dans les catégories précédentes :
 
@@ -20,8 +20,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Oxyde de soufre et autres composés soufrés exprimés en équivalent dioxyde de soufre </p>
+<p align="left">Oxyde de soufre et autres composés soufrés exprimés en équivalent dioxyde de soufre </p>
 </td>
 <td align="center">
 <p align="center">
@@ -30,8 +29,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Protoxyde d'azote </p>
+<p align="left">Protoxyde d'azote </p>
 </td>
 <td align="center">
 <p align="center">
@@ -40,8 +38,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Autres composés oxygénés de l'azote exprimés en équivalent dioxyde d'azote </p>
+<p align="left">Autres composés oxygénés de l'azote exprimés en équivalent dioxyde d'azote </p>
 </td>
 <td align="center">
 <p align="center">
@@ -50,8 +47,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Acide chlorhydrique </p>
+<p align="left">Acide chlorhydrique </p>
 </td>
 <td align="center">
 <p align="center">
@@ -60,8 +56,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Arsenic </p>
+<p align="left">Arsenic </p>
 </td>
 <td align="center">
 <p align="center">
@@ -70,8 +65,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Sélénium </p>
+<p align="left">Sélénium </p>
 </td>
 <td align="center">
 <p align="center">
@@ -80,8 +74,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Mercure </p>
+<p align="left">Mercure </p>
 </td>
 <td align="center">
 <p align="center">
@@ -89,9 +82,64 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Plomb </p>
+</td>
+<td>
+<p align="center">200 kg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Zinc </p>
+</td>
+<td>
+<p align="center">200 kg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chrome </p>
+</td>
+<td>
+<p align="center">100 kg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cuivre </p>
+</td>
+<td>
+<p align="center">100 kg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Nickel </p>
+</td>
+<td>
+<p align="center">50 kg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cadmium </p>
+</td>
+<td>
+<p align="center">10 kg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vanadium </p>
+</td>
+<td>
+<p align="center">10 kg </p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">
-<br/>Benzène </p>
+<p align="left">Benzène </p>
 </td>
 <td align="center">
 <p align="center">
@@ -100,8 +148,7 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Hydrocarbures aromatiques polycycliques </p>
+<p align="left">Hydrocarbures aromatiques polycycliques </p>
 </td>
 <td align="center">
 <p align="center">
@@ -110,12 +157,11 @@ Pour les installations n'entrant pas dans les catégories précédentes :
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Hydrocarbures non méthaniques, solvants ou autres composés organiques volatils </p>
+<p align="left">Hydrocarbures non méthaniques, solvants ou autres composés organiques volatils </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>150 tonnes<br/>
+<br/>150 tonnes <br/>
 </p>
 </td>
 </tr>
