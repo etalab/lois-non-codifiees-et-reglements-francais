@@ -98,6 +98,8 @@ Fournir en outre :
 
 - la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
 
+- la procédure de comptage des passagers, soumise à approbation ;
+
 - en fin d'étude du dossier : les plans de l'engin "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 
 B. - Conformité au recueil HSC :

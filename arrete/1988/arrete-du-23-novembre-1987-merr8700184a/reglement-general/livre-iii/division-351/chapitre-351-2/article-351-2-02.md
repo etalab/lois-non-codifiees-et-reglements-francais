@@ -10,7 +10,7 @@ Procédures d'essais
 
 - l'expert demande au bord d'informer le CROSS Gris-Nez de la préparation d'un essai réel depuis le bord ;
 
-- il contrôle l'emplacement des équipements (excepté le point d'activation situé en dehors de la passerelle) ;
+- il contrôle l'emplacement des équipements (y compris  le point d'activation situé en dehors de la passerelle) ;
 
 - il demande au capitaine ou au SSO d'activer en mode réel un des deux points de déclenchement prévus pour le SSAS (le déclenchement peut se faire en présence de l'expert mais exclut toute autre personne participant à la visite) ;
 
@@ -20,9 +20,11 @@ Procédures d'essais
 
 - il note le temps de réponse et la réactivité du commandant et/ou du SSO, ainsi que du CSO ;
 
+- il vérifie que le format du message est conforme à l'article 351-1.04 ;
+
 - il vérifie l'existence d'un registre de sûreté et d'un registre de maintenance des équipements de sûreté (réglage à bord, entretien et mise à l'essai) ;
 
-- il fait enregistrer, sur le registre désigné, l'essai pour la visite ISPS ou annuelle.
+- il fait enregistrer, sur le registre désigné, l'essai en référence au code ISPS A 9.4.18 et A 10.1.10  pour la visite ISPS ou annuelle.
 
 4. L'administration peut prescrire un essai réel du SSAS d'un navire sans la présence à bord d'un expert, sous la responsabilité du CSO qui veille à l'information préalable du CROSS Gris-Nez.
 

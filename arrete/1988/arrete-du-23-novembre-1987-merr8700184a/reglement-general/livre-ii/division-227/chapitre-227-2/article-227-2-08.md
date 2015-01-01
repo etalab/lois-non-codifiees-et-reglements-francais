@@ -1,41 +1,183 @@
 # Article 227-2.08
 
-Circuit d'assèchement (navires pontés)
+Critères de stabilité pour les navires pontés neufs construits après le 01/07/2014.
 
-1. Principes généraux :
+Le présent article ne s'applique qu'aux navires construits à compter du 01/07/2014.
 
-1.1. Chaque compartiment doit pouvoir être asséché par un moyen de pompage fixe entraîné mécaniquement, excepté dans les conditions énoncées au paragraphe 1.2 ci-dessous.
+1. Tous navires
 
-Le circuit d'assèchement est disposé de façon à ce que l'eau ne puisse passer de la mer à un compartiment quelconque du navire.
+Le GM initial doit être égal ou supérieur à 0,70 m.
 
-Des dispositions sont prises pour que l'eau puisse s'écouler librement vers les points d'aspiration qui sont placés aux points les plus bas des compartiments.
+Le bras de levier de redressement maximal GZmax est atteint à un angle d'inclinaison égal ou supérieur à 20°.
 
-S'il est fait usage de drains ou d'orifices pratiqués dans les pieds de cloisons, dans le but d'assurer l'écoulement de l'eau vers un autre compartiment où se trouve le point d'aspiration, un sectionnement manœuvrable sans avoir à pénétrer dans ce compartiment doit être installé.
+Cas particulier des navires ayant un rapport largeur/ creux (B/ D) ≥ à 2,5 :
 
-Lorsqu'un même circuit d'assèchement dessert plusieurs directions ou compartiments, il doit être installé une boîte de distribution équipée d'une vanne pour chaque direction desservie.
+Pour les navires ayant un rapport B/ D ≥ 2,5, et ne pouvant respecter les critères définis au paragraphe 8 ci-dessus, les critères suivants sont appliqués :
 
-Chaque aspiration est équipée d'une crépine facilement visitable et nettoyable sans démontage préalable. Le diamètre des trous des crépines ne doit pas dépasser 10 millimètres et la section nette totale ne doit pas être inférieure à deux fois celle des tuyaux d'aspiration.
+1. Le bras de levier de redressement (GZ) maximal devrait être atteint à un angle d'inclinaison au moins égal à 15 º ; et
 
-Le tuyautage d'assèchement est en acier, en cuivre ou matériau reconnu équivalent pour l'utilisation considérée ; les risques de corrosion doivent être pris en considération.
+2. L'aire sous-tendue par la courbe des bras de levier de redressement (courbe de GZ) ne devrait pas être inférieure à 0,070 mètre-radian jusqu'à un angle de 15 º lorsque le bras de levier de redressement (GZ) maximal est atteint à un angle de 15 º, et à 0,055 mètre-radian jusqu'à un angle de 30 º lorsque le bras de levier de redressement (GZ) maximal est atteint à un angle égal ou supérieur à 30 º. Lorsque le bras de levier de redressement (GZ) maximal est atteint à un angle compris entre 15 º et 30 º, l'aire sous-tendue par la courbe des bras de levier de redressement correspondante devrait être : 0,055 + 0,001 (30 º-ᵠ max) mètre-radian (ᵠ max est l'angle d'inclinaison, en degrés, auquel la courbe des bras de levier de redressement atteint son maximum).
 
-Les tuyautages d'assèchement et de ballastage sont distincts.
+2. Navires pratiquant les arts traînants ou navires munis de tauds
 
-1.2. Les compartiments de faibles volume, à l'exception du compartiment du moteur de propulsion, dont l'envahissement ne risque pas de provoquer l'immersion du livet de pont, le navire étant à son déplacement maximum tel que défini à l'article 227-2.02, paragraphe 2, n'ont pas besoin d'être raccordés aux circuits d'assèchement du navire.
+2.1. Critère du navire en transit
 
-2. Nombre et débit des pompes d'assèchement :
+L'aptitude du navire à résister aux effets combinés du vent de travers et du roulis doit être démontrée comme suit :
 
-Il est installé une pompe principale d'assèchement reliée au circuit et une pompe de secours aspirant dans le compartiment moteur.
+-le navire est soumis à la pression du vent qui s'exerce perpendiculairement à l'axe du navire et qui se traduit par un bras de levier d'inclinaison dû à un vent continu (LW1) ;
 
-La pompe principale est attelée au moteur de propulsion excepté sur les navires équipés de moteurs hors-bord qui sont équipés d'une motopompe d'assèchement autonome raccordée au circuit d'assèchement s'il existe.
+-on suppose qu'à partir de l'angle d'équilibre Ө 0 qui en résulte le navire roule au vent en formant un angle égal à Ө 1 par suite de l'action de la houle ;
 
-La pompe de secours peut être électrique ou mue par toute autre source d'énergie indépendante du moteur principal.
+-le navire est ensuite soumis à la pression de rafales de vent qui se traduit par un bras de levier d'inclinaison dû à des rafales de vent (LW2) ;
 
-Le débit de la pompe principale d'assèchement est, en mètres cubes par heure, au moins égal à la longueur du navire exprimée en mètres.
+-dans ces conditions, pour tous les cas mentionnés dans le cahier de stabilité, le rapport b/ a doit être supérieur à 1,25.
 
-Si la pompe de lavage est utilisée comme pompe d'assèchement de secours, une vanne à trois voies est disposée pour passer de l'aspiration à la mer à l'assèchement.
+Vous pouvez consulter l'image dans le fac-similé du JO
 
-Le diamètre du collecteur d'assèchement est au moins égal à 40 millimètres pour un navire de 12 mètres de longueur et à 30 millimètres pour un navire de 7 mètres au moins ; pour ceux de longueur intermédiaire, le diamètre est obtenu par interpolation linéaire. On utilise le diamètre standard le plus proche.
+n º 0297 du 24/12/2014, texte nº 15 à l'adresse suivante
 
-Si la pompe de secours est électrique, elle doit avoir un débit égal ou supérieur à la moitié de celui de la pompe principale.
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141224&numTexte=15&pageDebut=21829&pageFin=21836
 
-Nonobstant les dispositions ci-dessus, la pompe de secours des navires exploités uniquement en cinquième et en quatrième catégorie de navigation peut être une pompe à bras.
+Les angles de la figure ci-dessus sont définis comme suit :
+
+-Ө 0 est l'angle d'inclinaison dû à un vent continu ;
+
+-Ө 1 est égal à 20° ;
+
+-Ө 2 est le plus petit des angles Ө f, Ө c ou 50° où :
+
+-Ө f : angle de début d'envahissement ;
+
+-Ө c : angle de la deuxième intersection entre les courbes de bras de levier d'inclinaison dus au vent (LW2) et la courbe des GZ.
+
+Les bras de levier d'inclinaison dus au vent LW1 et LW2 sont des constantes à tous les angles d'inclinaison et doivent être calculés au moyen des formules suivantes :
+
+LW1 = P. A. Z/1000. g. Δ et LW2 = 1,5. LW1
+
+P : pression dû au vent égale à 240 Pa (3).
+
+A : aire latérale projetée de la partie du navire située au-dessus de la ligne de flottaison.
+
+Z : distance verticale depuis le centre de A jusqu'au centre de l'aire latérale du navire située sous l'eau ou approximativement jusqu'à un point situé à la moitié du tirant d'eau.
+
+Δ : déplacement du navire en tonne.
+
+g : accélération de la pesanteur (9,81 m/ s2).
+
+Pour tous les cas étudiés dans le cahier de stabilité, le franc-bord du navire doit être égal ou supérieur à 400 mm. Le franc-bord arrière du navire mesuré au niveau du tableau arrière doit être égal ou supérieur à 200 mm.
+
+2.2. Critère pour la récupération du matériel en cas de croche
+
+Lorsqu'une manœuvre est effectuée pour récupérer les engins de pêche à bord d'un navire pratiquant les arts traînants ou lorsque les engins de pêche sont remontés à l'aide d'un vire-filets ou d'un vire-casiers, la traction verticale exercée par les apparaux ne doit pas engendrer l'immersion du livet de pont. La force de traction des apparaux ainsi déduite doit être supérieure à 200 % de masse du matériel de pêche.
+
+La méthode de calcul pour démontrer l'aptitude du navire à ne pas dépasser l'angle Ө i d'immersion du livet sous l'effet des apparaux de pêche est décrite comme suit :
+
+1. La courbe des GZ est tracée en considérant le navire dans la configuration suivante :
+
+50 % des matières consommables à bord ;
+
+Matériel de pêche à bord excepté les panneaux et le chalut à l'eau ou la/ les dragues ;
+
+Pas de pontée ;
+
+Traction due aux apparaux, considérée comme un embarquement de poids.
+
+2. Le bras de levier LW dû à la traction des apparaux est égal à :
+
+LW = T x ([d x cos Ө] + [h-KG] x sin Ө])/ Δ
+
+T : traction des apparaux calculée en tonne.
+
+d : distance par rapport à l'axe du navire du point de traction.
+
+h : distance verticale par rapport à OH du point de traction.
+
+Δ : déplacement du navire en tonne.
+
+Ө : angle d'inclinaison du navire.
+
+Vous pouvez consulter l'image dans le fac-similé du JO
+
+nº 0297 du 24/12/2014, texte nº 15 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141224&numTexte=15&pageDebut=21829&pageFin=21836
+
+3. Le critère est considéré comme satisfait lorsque Ө i est inférieur à l'angle d'immersion du livet de pont.
+
+3. Critères spécifiques aux navires pratiquants les art traînants
+
+3.1. Critère en cas de croche dissymétrique
+
+Compte tenu de la force propulsive que déterminent la puissance motrice et le type de propulseur installé, et de son incidence sur la stabilité du navire, celle-ci doit en toute circonstance demeurer satisfaisante. Le calcul justificatif doit être fourni.
+
+Tel est le cas si cette force propulsive en traction sur une seule fune tirant à 45 degrés sur l'horizontale n'entraîne pas une gîte immergeant le livet de pont au milieu du navire, celui-ci se trouvant dans la situation de chargement indiquée à l'article 227-2.06 pour l'essai de stabilité.
+
+Vous pouvez consulter l'image dans le fac-similé du JO
+
+nº 0297 du 24/12/2014, texte nº 15 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141224&numTexte=15&pageDebut=21829&pageFin=21836
+
+3.2. Critère de prise en compte des effets des charges suspendues
+
+Pour les navires pratiquant les arts traînants, lorsqu'ils remontent à bord les dragues ou culs de chalut, la stabilité résiduelle résultant de l'effet des charges suspendues doit être égale ou supérieure à 0,50 m.
+
+Cette stabilité résiduelle GM2 est, en mètres, égale à :
+
+GM2 = GM1-Δ GM
+
+où :
+
+-GM1 est, en mètres, le GM initial mesuré pour le cas de chargement défini à l'article 227-2.06 en considérant la charge maximale pouvant être suspendue reposant sur le pont à la verticale du point de suspension ;
+
+-Δ GM est, en mètres, la réduction du GM correspondant à l'effet de la suspension de cette charge maximale ;
+
+-Δ GM est donné par la formule :
+
+Vous pouvez consulter l'image dans le fac-similé du JO
+
+nº 0297 du 24/12/2014, texte nº 15 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141224&numTexte=15&pageDebut=21829&pageFin=21836
+
+4. Navires équipés de vire-filets, vire-lignes ou vire-casiers
+
+La méthode de calcul pour démontrer l'aptitude du navire à ne pas dépasser l'angle Ө i d'immersion du livet sous l'effet des apparaux de pêche est décrite comme suit :
+
+1. La courbe des GZ est tracée en considérant le navire dans la configuration suivante :
+
+50 % des matières consommables à bord ;
+
+Matériel de pêche à bord ;
+
+Pas de pontée ;
+
+Traction due aux apparaux considérés comme un embarquement de poids.
+
+2. Le bras de levier LW dû à la traction des apparaux est égal à :
+
+LW = T x ([d x cos Ө] + [h-KG] x sin Ө])/ Δ
+
+T : traction des apparaux calculée en tonne.
+
+d : distance par rapport à l'axe du navire du point de traction.
+
+h : distance verticale par rapport à OH du point de traction.
+
+Δ : déplacement du navire en tonne.
+
+Ө : angle d'inclinaison du navire.
+
+Vous pouvez consulter l'image dans le fac-similé du JO
+
+nº 0297 du 24/12/2014, texte nº 15 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141224&numTexte=15&pageDebut=21829&pageFin=21836
+
+3. Le critère est considéré comme satisfait lorsque Ө i est inférieur à l'angle d'immersion du livet de pont.
+
+5. Autres navires
+
+Le franc-bord doit être égal ou supérieur à 1/ 10e de B.
+
+Le franc-bord arrière doit être supérieur à 200 mm.

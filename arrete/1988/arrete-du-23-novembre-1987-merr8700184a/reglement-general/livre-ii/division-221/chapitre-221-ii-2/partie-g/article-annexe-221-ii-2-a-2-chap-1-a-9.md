@@ -734,7 +734,7 @@ Le local où sont habituellement effectués les travaux de soudure doit pouvoir 
 
 .3 Surveiller les sources d'énergie et les circuits nécessaires au fonctionnement du dispositif afin de détecter les pertes d'énergie et les défaillances ; et
 
-.4 Avoir une interface avec les autres systèmes de protection contre l'incendie, notamment :
+.4 Le dispositif peut être agencé de manière à avoir une interface avec les autres systèmes de protection contre l'incendie, notamment :
 
 .1 Les systèmes d'appel de personnes, les dispositifs d'alarme d'incendie ou de communication avec le public ;
 

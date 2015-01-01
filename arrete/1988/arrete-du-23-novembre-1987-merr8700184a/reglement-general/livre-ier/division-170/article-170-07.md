@@ -12,7 +12,7 @@ La compagnie s'assure que les informations requises par les articles 170-3 et 17
 
 Les données à caractère personnel rassemblées conformément aux dispositions de l'article 170-4 ne sont pas conservées plus longtemps que nécessaire aux fins de la présente division.
 
-Tout navire battant pavillon français, soumis aux obligations du présent article doit disposer d'un système d'enregistrement approuvé par l'autorité compétente.
+Tout navire battant pavillon français, soumis aux obligations du présent article doit disposer d'un système d'enregistrement approuvé par l'autorité compétente. La validité de cette approbation est soumise au respect continu des critères énoncés à l'article 170-09 et à l'enregistrement des informations prescrites à l'article 170-04 identifiant le navire et son exploitation. Tout changement d'exploitation ou toute modification du système d'enregistrement doit être signalé à l'autorité compétente dans un délai de préavis de trois mois afin que ledit système fasse l'objet d'une nouvelle approbation.
 
 2. L'administration peut procéder à des contrôles sur le bon fonctionnement des systèmes d'enregistrement des informations requises par les articles 170-3 et 170-4 à la diligence du chef du centre de sécurité des navires compétent pour le port d'exploitation du navire concerné.
 

@@ -34,7 +34,9 @@ Il précise en outre :
 
 - la date prévue de mise en service ;
 
-- le nombre maximum de personnes pouvant être logées à bord (ce chiffre ne préjuge pas de l'effectif résultant de l'application des règlements).
+- le nombre maximum de personnes pouvant être logées à bord (ce chiffre ne préjuge pas de l'effectif résultant de l'application des règlements) ;
+
+- la procédure de comptage des passagers, soumise à approbation.
 
 Art. 1.02. - Stabilité.
 
@@ -420,7 +422,9 @@ Il précise en outre :
 
 - le nombre maximum de personnes pouvant être logées à bord (ce chiffre en ce qui concerne l'équipage ne préjuge pas de l'effectif résultant de l'application des règlements) ;
 
-- le nombre maximum de passagers envisagé.
+- le nombre maximum de passagers envisagé ;
+
+- la procédure de comptage des passagers, soumise à approbation.
 
 Art. 2.02. - Stabilité.
 

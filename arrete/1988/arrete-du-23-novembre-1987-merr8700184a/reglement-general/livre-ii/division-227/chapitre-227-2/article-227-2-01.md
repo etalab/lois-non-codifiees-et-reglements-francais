@@ -16,8 +16,8 @@ Le déplacement du navire en charge est égal au déplacement du navire lège au
 
 - le cas échéant, masses autres que celles des captures relevées dans les chaluts, les filets ou les dragues et ne pouvant immédiatement être rejetées à la mer ;
 
-- éventuellement, masse du vivier plein.
+- le cas échéant, masse du vivier plein.
 
-Le déplacement du navire lège doit être communiqué par le constructeur au plus tard à la mise à l'eau.
+2. Le "navire lège" désigne le navire lesté dont la construction est totalement achevée, équipé de tout le matériel nécessaire à la navigation, la propulsion et l'exploitation, à l'exclusion de tout le matériel de pêche mobile et de tout liquide autre que ceux en circuit.
 
 La condition navire lège est définie à l'article 211-2.02 de la division 211 du présent règlement.

@@ -2,6 +2,8 @@
 
 Exemptions
 
+Sous réserve de l'accord tacite de la Commission européenne 6 mois après notification de la décision de l'autorité compétente par le ministre chargé de la mer.
+
 1. L'autorité compétente peut exempter tout navire à passagers des obligations prévues par la présente division dans les conditions et selon les modalités fixées aux paragraphes ci­-dessous.
 
 Elle peut, pour des motifs justifiés, modifier ou annuler les exemptions accordées en application de l'alinéa précédent.

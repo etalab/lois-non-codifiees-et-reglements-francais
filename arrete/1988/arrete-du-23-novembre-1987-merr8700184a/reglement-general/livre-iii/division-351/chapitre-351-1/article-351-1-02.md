@@ -2,14 +2,20 @@
 
 Règles générales d'approbation
 
-1. Il est fait application des règles générales d'approbation du chapitre 310-1 de la division 310 du présent règlement.
+Le matériel d'alerte de sûreté du navire doit être conforme aux exigences et aux spécifications de l'OMI et du CEI, à savoir :
 
-2. Pour être approuvé, le matériel d'alerte de sûreté du navire doit être conforme aux exigences et aux spécifications de l'OMI, à savoir :
+(1) - Règ. XI-2/6,
 
-- résolution A.694 (17) de l'Assemblée de l'OMI ; et
+(2) - Rés. A. 694 (17) de l'OMI,
 
-- résolution MSC.136(76) (matériel installé avant le 1er juillet 2004), ou résolution MSC.147(77) (matériel installé après le 1er juillet 2004) ; et
+(3) - Rés. MSC 147 (77) de l'OMI,
 
-- circulaire MSC/Circ.1072 du Comité de la sécurité maritime ; et
+(4) - Circulaire MSC/ Circ. 1072 de l'OMI,
 
-- normes EN 60945 ou CEI 60945.
+(5) - normes EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008),
+
+ou,
+
+- normes CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008).
+
+2. Le système d'alerte de sûreté du navire devra être référencé sur la licence radioélectrique du navire au renouvellement de la licence.

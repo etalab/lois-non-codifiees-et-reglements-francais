@@ -8,7 +8,7 @@ Partie 1. - Navires étudiés suivant la division 221 et la division 223A
 
 I. - Renseignements généraux.
 
-Renseignements à fournir, en vue de déterminer en particulier les règles applicables :
+Renseignements à fournir, en vue de déterminer en particulier la réglementation applicable  :
 
 1. Nom du navire ou numéro de coque pour un navire neuf et pavillon d'origine et/ou précédent pour un navire d'occasion.
 
@@ -103,6 +103,8 @@ Fournir en outre :
 - un plan général du navire, en une ou plusieurs feuilles au format A4 ;
 
 - la liste des certificats d'approbation des équipements marins, sous forme de tableau, qui mentionne le numéro, le type, la désignation, le nom de l'organisme notifié ;
+
+- la procédure de comptage des passagers, soumise à approbation ;
 
 - en fin d'étude du dossier : les plans du navire "tel que construit" (pour les plans visés par la présente annexe et qui ont été modifiés depuis leur soumission à la CCS), si possible sous format informatique, en précisant les modifications apportées.
 

@@ -200,7 +200,7 @@ L'autorité compétente fixe les conditions limites des cas de chargement et pr�
 
 9. Cas particulier des navires ayant un rapport Largeur/Creux (B/D) > à 2,5 :
 
-Pour les navires ayant un rapport B/D ≥ 2,5, et ne pouvant respecter les critères définis au paragraphe 8 ci-dessus, les critères suivants sont appliqués :
+Pour les navires ayant un rapport B/D ≥ 2,5, et ne pouvant respecter les critères définis soit au paragraphe 8.1.3 soit au paragraphe 8.2.1  ci-dessus, les critères suivants sont appliqués :
 
 .1 Le bras de levier de redressement (GZ) maximal devrait être atteint à un angle d'inclinaison au moins égal à 15° ; et
 

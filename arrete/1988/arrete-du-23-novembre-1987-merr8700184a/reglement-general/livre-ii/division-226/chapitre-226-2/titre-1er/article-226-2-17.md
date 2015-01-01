@@ -57,3 +57,13 @@ La tonture normale d'un navire, donnée en mètres, est la suivante :
 - n'être effectué que temporairement durant les périodes de pêche et si le temps le permet.
 
 L'utilisation de grilles amovibles placées devant les sabords est considérée comme équivalente au verrouillage des sabords.
+
+9. Les sabords :
+
+. 1 Les sabords de décharge, y compris ceux installés en supplément des sabords réglementaires, ne doivent pas être équipés de moyens de fermeture verrouillables ; ils peuvent être équipés de volets battants protégeant le pont de l'envahissement. Pour améliorer la protection du pont, l'embase d'appui du volet peut être inclinée sur la verticale.
+
+. 2 Pour éviter la perte des captures à travers les sabords, ceux-ci peuvent être équipés d'une boîte parallélépipédique s'y ajustant, dont les quatre faces libres sont pourvues de trous d'un diamètre de 30 mm au moins, la superficie totale des trous étant égale ou supérieure à celle du sabord. L'obturation des sabords de décharge au moyen d'une guillotine est interdite, hormis dans le cadre du paragraphe 9.3 ci-après.
+
+. 3 En supplément des sabords réglementaires prévus au paragraphe 3, l'autorité compétente peut autoriser la mise en place au niveau du tableau arrière de sabords obturables au moyen de guillotines.
+
+. 4 Les navires existants dont les sabords ne sont pas conformes avec le présent paragraphe 9 doivent être mis en conformité avant le 1er janvier 2016.

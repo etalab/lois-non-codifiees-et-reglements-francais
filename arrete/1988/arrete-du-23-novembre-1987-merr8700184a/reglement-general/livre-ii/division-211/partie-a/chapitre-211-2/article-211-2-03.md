@@ -158,7 +158,7 @@ Lorsque des cas de chargement avec givre et glace ne satisfont pas aux présents
 
 9. Cas particulier des navires ayant un rapport largeur/creux (B/D) > à 2,5 :
 
-Pour les navires ayant un rapport B/D ≥ 2,5, et ne pouvant respecter les critères définis au paragraphe 8 ci-dessus, les critères suivants sont appliqués :
+Pour les navires ayant un rapport B/D ≥ 2,5, et ne pouvant respecter les critères définis au paragraphe 8.3.5 ci-dessus, les critères suivants sont appliqués :
 
 .1 Le bras de levier de redressement (GZ) maximal devrait être atteint à un angle d'inclinaison au moins égal à 15° ; et
 

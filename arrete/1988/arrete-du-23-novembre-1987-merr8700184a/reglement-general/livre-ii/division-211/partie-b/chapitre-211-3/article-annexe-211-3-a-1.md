@@ -70,7 +70,7 @@ A étant la section totale, en mètres carrés, des sabords de décharge de chaq
 
 2.5.2. le navire doit conserver un franc-bord résiduel d'au moins 1 m dans le cas d'avarie le plus défavorable, sans tenir compte de l'effet du volume d'eau supposée s'être accumulée sur le pont roulier endommagé, et
 
-2.5.3. les sabords de décharge doivent être situés à une hauteur de moins de 0,6 m au-dessus du pont roulier endommagé et l'extrémité inférieure des sabords doit être située à une hauteur de moins de 2 m au-dessus du pont roulier endommagé ;
+2.5.3. les sabords de décharge doivent être situés à une hauteur de moins de 0,6 m au-dessus du pont roulier endommagé et l'extrémité inférieure des sabords ne doit pas se trouver à plus de 2 cm au-dessus du pont roulier endommagé  ;
 
 2.5.4. les sabords de décharge doivent être munis de dispositifs de fermeture ou de clapets empêchant l'eau de pénétrer sur le pont roulier, tout en permettant à l'eau susceptible de s'être accumulée sur le pont roulier de s'évacuer.
 

@@ -1,21 +1,9 @@
 # Article 333-1.19
 
-Contrôles périodiques des radeaux gonflables
+Radeaux à intervalle de visite étendue jusqu'à 30 mois.
 
-1. Les radeaux de sauvetage gonflables sont contrôlés tous les ans selon les dispositions de la résolution OMI A.761(18) telle qu'amendée par la résolution MSC.55(66). Une mention de ce contrôle est portée au carnet d'entretien du radeau. Ce carnet doit être conservé à bord et présenté à toute réquisition.
+Afin d'être accepté au titre de l'article 221-III/20.8.3 et de l'article 8.8 du recueil HSC 2000 pour bénéficier d'une périodicité de visites étendues à 30 mois, les radeaux de sauvetage doivent être conformes à la circulaire MSC.1/1328 de l'OMI et faire l'objet d'une approbation par un organisme habilité tel que prévu par la division 140.
 
-2.1. Le carnet d'entretien doit comporter les informations suivantes :
+Les types de radeaux de sauvetage autorisés par un autre Etat membre de l'Union européenne, de l'Espace économique européen ou par la Turquie à bénéficier de ce régime de visite et respectant les exigences du précédent paragraphe sont acceptés à bord des navires de commerce français.
 
-- numéro de série ;
-
-- références d'approbation ;
-
-- date de fabrication ;
-
-- date de mise en service ;
-
-- poids normal de la bouteille de gaz.
-
-2.2. Sur ce document sont consignés : la date des contrôles périodiques, les constatations faites au cours de ces contrôles, les réparations effectuées, le résultat de la pesée des bouteilles de gaz, les remplacements, les essais effectués, le nom et la qualité de la personne qui aura procédé à ces opérations et son visa.
-
-3. En ce qui concerne les radeaux révisés à l'étranger, l'armateur exige de la station de contrôle un document attestant qu'elle est approuvée par le fabricant conformément à la résolution OMI A.761(18) telle qu'amendée par la résolution MSC.55(66). A défaut, le contrôle est réalisé sous la surveillance de la société de classification du navire.
+Tout document permettant d'attester les spécifications techniques et normes d'essais selon lesquelles les équipements ont été testés doit être mis à disposition de la Commission centrale de sécurité afin de s'assurer du niveau de sécurité des équipements.

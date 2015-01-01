@@ -1,8 +1,8 @@
 # Article 170-04
 
-Obligation d'enregistrement nominatif
+Obligation d'enregistrement nominatif de toute personne embarquée
 
-1. A compter du 1er janvier 2000, les informations ci-après doivent être consignées pour tous les navires à passagers qui partent d'un port français et qui effectuent des voyages de plus de 20 milles à compter du point de départ.
+1. Les informations ci-après doivent être consignées pour tous les navires à passagers qui partent d'un port français et qui effectuent des voyages de plus de 20 milles à compter du point de départ.
 
 - les noms de famille des personnes à bord,
 

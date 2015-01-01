@@ -8,9 +8,9 @@ Formation et exercices en vue d'une situation critique
 
 2.1 Tout membre de l'équipage auquel des fonctions de secours ont été assignées doit être familiarisé avec ces fonctions avant le début du voyage.
 
-2.2 A bord d'un navire effectuant un voyage au cours duquel les passagers doivent rester à bord plus de 24 h, l'appel des passagers doit avoir lieu dans les 24 h qui suivent leur embarquement. Les passagers doivent être mis au courant de l'emploi des brassières de sauvetage et des mesures à prendre en cas de situation critique.
+2.2 A bord d'un navire effectuant un voyage au cours duquel les passagers doivent rester à bord plus de 24 h, l'appel des passagers nouvellement embarqués doit avoir lieu dans les 24 h qui suivent leur embarquement, avant le départ ou dès le départ. Les passagers doivent être mis au courant de l'emploi des brassières de sauvetage et des mesures à prendre en cas de situation critique.
 
-2.3 Chaque fois que de nouveaux passagers embarquent, des informations sur la sécurité des passagers doivent être fournies immédiatement avant l'appareillage ou juste après l'appareillage. Ces informations doivent comprendre les consignes prescrites aux articles 221-III/08.2 et 221-III/08.4, et doivent être communiquées au moyen d'une annonce, dans une ou plusieurs langues susceptibles d'être comprises par les passagers. Cette annonce doit être diffusée par le dispositif de communication avec le public du navire ou par un autre moyen équivalent susceptible d'être entendu au moins par les passagers qui n'ont pas encore entendu l'annonce pendant le voyage. Les informations peuvent être incluses dans l'appel prescrit au paragraphe 2.2 s'il est procédé à l'appel dès que le navire appareille. Des cartes ou des affiches d'information ou des programmes vidéo visualisés sur des terminaux à écran installés à bord des navires peuvent être utilisés en complément mais non en remplacement de l'annonce.
+2.3 Chaque fois que de nouveaux passagers embarquent, des informations sur la sécurité des passagers doivent être fournies immédiatement avant le départ ou juste après le départ. Ces informations doivent comprendre les consignes prescrites aux articles 221-III/08.2 et 221-III/08.4, et doivent être communiquées au moyen d'une annonce, dans une ou plusieurs langues susceptibles d'être comprises par les passagers. Cette annonce doit être diffusée par le dispositif de communication avec le public du navire ou par un autre moyen équivalent susceptible d'être entendu au moins par les passagers qui n'ont pas encore entendu l'annonce pendant le voyage. Les informations peuvent être incluses dans l'appel prescrit au paragraphe 2.2. Des cartes ou des affiches d'information ou des programmes vidéo visualisés sur des terminaux à écran installés à bord des navires peuvent être utilisés en complément mais non en remplacement de l'annonce.
 
 3 Exercices
 
@@ -18,9 +18,11 @@ Formation et exercices en vue d'une situation critique
 
 3.2 Tout membre de l'équipage doit participer à un exercice d'abandon du navire et à un exercice d'incendie par mois au moins. L'équipage doit effectuer les exercices dans les 24 h qui suivent le départ d'un port si plus de 25% des membres de l'équipage n'ont pas participé, dans le mois qui précède, à ces exercices. Lorsqu'un navire entre en service pour la première fois, après la modification d'une caractéristique importante ou lorsqu'un nouvel équipage est engagé, ces exercices doivent avoir lieu avant que le navire prenne la mer. L'administration peut accepter d'autres dispositions qui soient au moins équivalentes pour les catégories de navires à bord desquels cela n'est pas possible.
 
-3.3 Exercices d'abandon du navire
+3.3 Les membres de l'équipage ayant des responsabilités liées à l'entrée dans les espaces clos ou au sauvetage doivent participer à un exercice concernant l'entrée dans les espaces clos et le sauvetage, qui doit être organisé à bord du navire au moins une fois tous les deux mois.
 
-3.3.1 Lors de chaque exercice d'abandon du navire, il faut :
+3.4 Exercices d'abandon du navire
+
+3.4.1 Lors de chaque exercice d'abandon du navire, il faut :
 
 .1 appeler les passagers et l'équipage aux postes de rassemblement au moyen du signal d'alarme prescrit à l'article 221-III/06.4.2 avant d'annoncer l'exercice au moyen du dispositif de communication avec le public ou d'un autre système de télécommunication et s'assurer qu'ils ont pris connaissance de l'ordre d'abandonner le navire ;
 
@@ -42,31 +44,31 @@ Cette disposition s'applique également aux combinaisons d'immersion. A cet effe
 
 .9 indiquer comment se servir des engins de sauvetage radioélectriques.
 
-3.3.2 Dans la mesure du possible, des embarcations de sauvetage différentes doivent être amenées conformément aux prescriptions du paragraphe 3.3.1.5 lors d'exercices successifs.
+3.4.2 Dans la mesure du possible, des embarcations de sauvetage différentes doivent être amenées conformément aux prescriptions du paragraphe 3.4.1.5 lors d'exercices successifs.
 
 Les exercices doivent permettre de s'assurer que l'équipage possède la connaissance complète et la pratique des fonctions qu'il a à remplir, et que les engins de sauvetage sont toujours prêts à être utilisés immédiatement.
 
 Ils comprennent les inspections mensuelles prescrites à l'article 221-III/20.7, ainsi qu'une instruction et un entraînement à la mise en œuvre des matériels, et plus particulièrement les engins individuels et les postes émetteurs-récepteurs radiotéléphoniques en ondes métriques portatifs SMDSM.
 
-3.3.3 Sous réserve des dispositions des paragraphes 3.3.4 et 3.3.5, chaque embarcation de sauvetage doit être mise à l'eau (1), et manœuvrée dans l'eau avec à son bord l'équipage chargé de la faire fonctionner, au moins une fois tous les trois mois au cours d'un exercice d'abandon du navire.
+3.4.3 Sous réserve des dispositions des paragraphes 3.4.4 et 3.4.5, chaque embarcation de sauvetage doit être mise à l'eau (1), et manœuvrée dans l'eau avec à son bord l'équipage chargé de la faire fonctionner, au moins une fois tous les trois mois au cours d'un exercice d'abandon du navire.
 
-3.3.4 Dans le cas d'une embarcation de sauvetage conçue pour être mise à l'eau en chute libre, au moins une fois tous les trois mois au cours d'un exercice d'abandon du navire, les membres de l'équipage doivent monter à bord de l'embarcation, s'attacher comme il convient à leurs sièges et commencer la procédure de mise à l'eau sans toutefois larguer réellement l'embarcation (c'est-à-dire que le croc de dégagement ne doit pas être actionné). L'embarcation de sauvetage doit ensuite soit être mise à l'eau en chute libre avec, à son bord, uniquement l'équipage chargé de la faire fonctionner, soit être abaissée dans l'eau au moyen des dispositifs secondaires de mise à l'eau avec ou sans l'équipage chargé de la faire fonctionner à son bord. Dans les deux cas, l'embarcation de sauvetage doit ensuite être manœuvrée dans l'eau par l'équipage chargé de la faire fonctionner. Au moins une fois tous les six mois, l'embarcation de sauvetage doit être mise à l'eau en chute libre avec, à son bord, uniquement l'équipage chargé de la faire fonctionner, sinon, une simulation de la mise à l'eau doit être effectuée conformément aux directives élaborées par l'Organisation (*).
+3.4.4 Dans le cas d'une embarcation de sauvetage conçue pour être mise à l'eau en chute libre, au moins une fois tous les trois mois au cours d'un exercice d'abandon du navire, les membres de l'équipage doivent monter à bord de l'embarcation, s'attacher comme il convient à leurs sièges et commencer la procédure de mise à l'eau sans toutefois larguer réellement l'embarcation (c'est-à-dire que le croc de dégagement ne doit pas être actionné). L'embarcation de sauvetage doit ensuite soit être mise à l'eau en chute libre avec, à son bord, uniquement l'équipage chargé de la faire fonctionner, soit être abaissée dans l'eau au moyen des dispositifs secondaires de mise à l'eau avec ou sans l'équipage chargé de la faire fonctionner à son bord. Dans les deux cas, l'embarcation de sauvetage doit ensuite être manœuvrée dans l'eau par l'équipage chargé de la faire fonctionner. Au moins une fois tous les six mois, l'embarcation de sauvetage doit être mise à l'eau en chute libre avec, à son bord, uniquement l'équipage chargé de la faire fonctionner, sinon, une simulation de la mise à l'eau doit être effectuée conformément aux directives élaborées par l'Organisation (*).
 
-3.3.5 L'administration peut autoriser les navires qui effectuent des voyages internationaux courts à ne pas procéder à la mise à l'eau des embarcations de sauvetage sur un côté si leur amarrage à quai et leur type d'exploitation interdisent la mise à l'eau des embarcations de sauvetage de ce côté. Néanmoins, toutes les embarcations de sauvetage doivent être amenées au moins une fois tous les trois mois et mises à l'eau au moins une fois par an.
+3.4.5 L'administration peut autoriser les navires qui effectuent des voyages internationaux courts à ne pas procéder à la mise à l'eau des embarcations de sauvetage sur un côté si leur amarrage à quai et leur type d'exploitation interdisent la mise à l'eau des embarcations de sauvetage de ce côté. Néanmoins, toutes les embarcations de sauvetage doivent être amenées au moins une fois tous les trois mois et mises à l'eau au moins une fois par an.
 
-3.3.6 Dans la mesure où cela est raisonnable et possible, les canots de secours, autres que les embarcations de sauvetage qui servent aussi de canots de secours, doivent être mis à l'eau chaque mois avec, à leur bord, l'équipage qui leur est affecté, et ils doivent être manœuvrés dans l'eau. Dans tous les cas, il doit être satisfait à cette prescription au moins une fois tous les trois mois.
+3.4.6 Dans la mesure où cela est raisonnable et possible, les canots de secours, autres que les embarcations de sauvetage qui servent aussi de canots de secours, doivent être mis à l'eau chaque mois avec, à leur bord, l'équipage qui leur est affecté, et ils doivent être manœuvrés dans l'eau. Dans tous les cas, il doit être satisfait à cette prescription au moins une fois tous les trois mois.
 
-3.3.7 Si les exercices de mise à l'eau des embarcations de sauvetage et des canots de secours sont effectués alors que le navire fait route, ces exercices doivent, en raison des risques que cela présente, être effectués dans des eaux abritées uniquement et sous la surveillance d'un officier ayant l'expérience de ces exercices (2).
+3.4.7 Si les exercices de mise à l'eau des embarcations de sauvetage et des canots de secours sont effectués alors que le navire fait route, ces exercices doivent, en raison des risques que cela présente, être effectués dans des eaux abritées uniquement et sous la surveillance d'un officier ayant l'expérience de ces exercices (2).
 
-3.3.8 Lorsqu'un navire est équipé de dispositifs d'évacuation en mer, il faut, lors des exercices, appliquer les procédures prescrites pour le déploiement de ces dispositifs sans aller toutefois jusqu'à les déployer réellement. Cet aspect des exercices devrait être complété par une formation régulière utilisant le matériel de formation de bord prescrit à l'article 221-III/35.4. Tout membre de l'équipage responsable de ces dispositifs doit, dans la mesure où cela est possible dans la pratique, recevoir une formation supplémentaire en participant au déploiement complet d'un système analogue dans l'eau, soit à bord d'un navire, soit à terre, à des intervalles inférieurs à deux ans et en aucun cas supérieurs à trois ans. Cette formation peut être dispensée dans le cadre des déploiements prescrits à l'article 221-III/20.8.2.
+3.4.8 Lorsqu'un navire est équipé de dispositifs d'évacuation en mer, il faut, lors des exercices, appliquer les procédures prescrites pour le déploiement de ces dispositifs sans aller toutefois jusqu'à les déployer réellement. Cet aspect des exercices devrait être complété par une formation régulière utilisant le matériel de formation de bord prescrit à l'article 221-III/35.4. Tout membre de l'équipage responsable de ces dispositifs doit, dans la mesure où cela est possible dans la pratique, recevoir une formation supplémentaire en participant au déploiement complet d'un système analogue dans l'eau, soit à bord d'un navire, soit à terre, à des intervalles inférieurs à deux ans et en aucun cas supérieurs à trois ans. Cette formation peut être dispensée dans le cadre des déploiements prescrits à l'article 221-III/20.8.2.
 
-3.3.9 L'éclairage de secours utilisé en cas de rassemblement et d'abandon doit être mis à l'épreuve lors de chaque exercice d'abandon du navire.
+3.4.9 L'éclairage de secours utilisé en cas de rassemblement et d'abandon doit être mis à l'épreuve lors de chaque exercice d'abandon du navire.
 
-3.4 Exercices d'incendie
+3.5 Exercices d'incendie
 
-3.4.1 Les exercices d'incendie devraient être prévus de telle manière qu'il soit dûment tenu compte des pratiques habituellement suivies lors des diverses situations critiques susceptibles de se produire en fonction du type de navire et de cargaison.
+3.5.1 Les exercices d'incendie devraient être prévus de telle manière qu'il soit dûment tenu compte des pratiques habituellement suivies lors des diverses situations critiques susceptibles de se produire en fonction du type de navire et de cargaison.
 
-3.4.2 Lors de chaque exercice d'incendie, il faut :
+3.5.2 Lors de chaque exercice d'incendie, il faut :
 
 .1 se rendre à son poste et faire les préparatifs en vue de l'accomplissement des tâches spécifiées sur le rôle d'appel prescrit à l'article 221-III/08 ;
 
@@ -80,7 +82,23 @@ Ils comprennent les inspections mensuelles prescrites à l'article 221-III/20.7,
 
 .6 contrôler les dispositions nécessaires en vue d'un abandon ultérieur du navire.
 
-3.4.3 Le matériel utilisé au cours des exercices doit immédiatement être remis en état de fonctionner de manière satisfaisante et il doit être remédié aussitôt que possible à toute défaillance et à tout défaut constaté au cours des exercices.
+3.5.3 Le matériel utilisé au cours des exercices doit immédiatement être remis en état de fonctionner de manière satisfaisante et il doit être remédié aussitôt que possible à toute défaillance et à tout défaut constaté au cours des exercices.
+
+3.6. Exercices concernant l'entrée dans les espaces clos et le sauvetage.
+
+3.6.1. Les exercices concernant l'entrée dans les espaces clos et le sauvetage devraient être planifiés et être effectués en toute sécurité, compte tenu des indications pertinentes fournies dans les recommandations élaborées par l'Organisation (1).
+
+3.6.2. Chaque exercice concernant l'entrée dans les espaces clos et le sauvetage doit inclure :
+
+. 1 la vérification et l'utilisation de l'équipement de protection individuelle nécessaire pour entrer ;
+
+. 2 la vérification et l'utilisation du matériel et des procédures de communication ;
+
+. 3 la vérification et l'utilisation des instruments de mesure de l'atmosphère dans les espaces clos ;
+
+. 4 la vérification et l'utilisation du matériel et des procédures de sauvetage ; et
+
+. 5 des consignes sur les soins de première urgence et les techniques de réanimation.
 
 4 Formation et consignes à bord
 
@@ -94,13 +112,15 @@ Ils comprennent les inspections mensuelles prescrites à l'article 221-III/20.7,
 
 .3 connaissances spéciales nécessaires pour utiliser les engins de sauvetage du navire par gros temps et mer forte ; et
 
-.4 fonctionnement et utilisation des dispositifs d'extinction de l'incendie.
+.4 fonctionnement et utilisation des dispositifs d'extinction de l'incendie ; et
+
+.5 Risques associés aux espaces clos et procédures de bord pour entrer en toute sécurité dans ces espaces, qui devraient tenir compte, selon qu'il convient, des indications pertinentes fournies dans les recommandations élaborées par l'Organisation (2).
 
 4.3 La formation à l'utilisation des radeaux de sauvetage sous bossoirs doit être dispensée à bord de chaque navire muni de telles installations, au moins tous les quatre mois. Chaque fois que cela est possible, celle-ci doit comprendre le gonflage et la mise à l'eau d'un radeau de sauvetage. Ce radeau peut être un radeau spécial affecté uniquement à la formation, qui ne fait pas partie du matériel de sauvetage du navire. Le radeau spécial réservé à cet usage doit porter une marque très visible.
 
 5 Mentions dans un journal de bord
 
-Les dates auxquelles les appels ont lieu et le compte rendu des exercices d'abandon du navire, des exercices d'incendie, des exercices visant l'utilisation d'autres engins de sauvetage et des séances de formation à bord doivent être consignés par écrit dans le journal de bord prescrit par l'administration. Si l'appel, l'exercice ou la séance de formation n'ont pas intégralement lieu à la date prescrite, il est fait mention dans le journal de bord des conditions et de l'ampleur de l'appel, de l'exercice ou de la séance de formation qui a eu lieu.
+Les dates auxquelles les appels ont lieu et le compte rendu des exercices d'abandon du navire, des exercices d'incendie, des exercices concernant l'entrée dans les espaces clos et le sauvetage,  des exercices visant l'utilisation d'autres engins de sauvetage et des séances de formation à bord doivent être consignés par écrit dans le journal de bord prescrit par l'administration. Si l'appel, l'exercice ou la séance de formation n'ont pas intégralement lieu à la date prescrite, il est fait mention dans le journal de bord des conditions et de l'ampleur de l'appel, de l'exercice ou de la séance de formation qui a eu lieu.
 
 Si les exercices sont effectués avec des personnes à bord d'une embarcation de sauvetage, il est recommandé d'amener puis de remonter dans un premier temps l'embarcation sans personne à bord afin de s'assurer que le dispositif fonctionne correctement. L'embarcation devrait ensuite être mise à l'eau avec à bord uniquement les personnes nécessaires à sa manœuvre.
 

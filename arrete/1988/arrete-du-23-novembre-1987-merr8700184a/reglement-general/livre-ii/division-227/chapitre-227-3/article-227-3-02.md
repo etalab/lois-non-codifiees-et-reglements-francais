@@ -16,6 +16,6 @@ Il est installé en timonerie ou au poste de conduite du navire un tableau de co
 
 - commande du nombre de tours ;
 
-- stop moteur.
+- stop moteur équipé d'un dispositif permettant d'éviter le risque de déclenchement accidentel.
 
 Les commandes à distance aboutissent à l'extérieur du compartiment moteur et sont incombustibles ; leur bon fonctionnement ne peut être altéré par une forte élévation de température.

@@ -8,4 +8,4 @@ a) Agent de l'ANFR en charge du contrôle de la station radioélectrique du navi
 
 b) Inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes ayant suivi une formation de sûreté maritime ;
 
-c) Agent d'un RSO auquel l'administration, par délégation du Ministre chargé des Transports, a délégué la visite à bord. Ce représentant est titulaire d'une attestation de formation ISPS conformément à l'arrêté du 5 décembre 2003.
+c) Expert exclusif d'une société de classification habilitée tel que défini à l'article 351-0.01.

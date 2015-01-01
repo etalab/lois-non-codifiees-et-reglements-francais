@@ -6,8 +6,6 @@ Conditions d'approbation
 
 2. Le matériel LRIT est validé par l'opérateur du réseau utilisé.
 
-3. Le matériel doit être distinct du SSAS.
-
-4. Le certificat d'approbation recouvre la conformité aux normes citées et l'attestation de bon fonctionnement délivrée par l'ASP autorisé à effectuer les essais.
+3. Le certificat d'approbation recouvre la conformité aux normes citées et l'attestation de bon fonctionnement délivrée par l'ASP autorisé à effectuer les essais.
 
 Une attestation de bon fonctionnement délivrée par un ASP autorisé à effectuer les essais par un autre État membre de l'Union européenne peut être acceptée.

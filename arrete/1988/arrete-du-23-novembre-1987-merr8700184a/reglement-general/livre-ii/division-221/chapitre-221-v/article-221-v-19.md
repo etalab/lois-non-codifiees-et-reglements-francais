@@ -14,7 +14,19 @@ Sous réserve des dispositions de la règle 221-V/1.4 :
 
 .2 être équipés du matériel ou des systèmes requis au paragraphe 2.1.6 au plus tard à la première visite postérieure au 1er juillet 2002, date à laquelle le radiogoniomètre mentionné à l'article 221-V/12 p) de la division 221 en vigueur avant le 1er juillet 2002, ne sera plus exigé ; et
 
-.3 être équipés du système requis au paragraphe 2.4 au plus tard aux dates spécifiées aux paragraphes 2.4.2 et 2.4.3.
+.3 être équipés du système requis au paragraphe 2.4 au plus tard aux dates spécifiées aux paragraphes 2.4.2 et 2.4.3 ; et
+
+.4 être équipés du système requis au paragraphe 2.2.3 de la manière indiquée ci-après :
+
+.1 les navires à passagers, quelles que soient leurs dimensions, au plus tard à la première visite (6) effectuée après le 1er janvier 2016 ;
+
+.2 les navires de charge d'une jauge brute égale ou supérieure à 3 000, au plus tard à la première visite () effectuée après le 1er janvier 2016 ;
+
+.3 les navires de charge d'une jauge brute égale ou supérieure à 500 mais inférieure à 3 000, au plus tard à la première visite (6) effectuée après le 1er janvier 2017 ; et
+
+.4 les navires de charge d'une jauge brute égale ou supérieure à 150 mais inférieure à 500, au plus tard à la première visite (6) effectuée après le 1er janvier 2018. Le système d'alarme de quart à la passerelle de navigation doit être en service lorsque le navire fait route en mer. Les dispositions du paragraphe 2.2.4 s'appliquent aussi aux navires construits avant le 1er juillet 2002.
+
+1.3. Les administrations peuvent exempter les navires de l'application des prescriptions du paragraphe 1.2.4 quand ces navires seront mis hors service de manière permanente dans les deux ans qui suivent la date d'application mentionnée dans les alinéas 1.2.4.1 à 1.2.4.4.
 
 2 Matériel et systèmes de navigation de bord
 
