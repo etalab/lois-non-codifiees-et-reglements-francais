@@ -17,7 +17,6 @@
 - [Arrêté du 2 août 2011 (ETSH1121644A)](arrete-du-2-aout-2011-etsh1121644a)
 - [Arrêté du 2 août 2011 (ETSR1122088A)](arrete-du-2-aout-2011-etsr1122088a)
 - [Arrêté du 2 avril 2003 (ECOL0300050A)](arrete-du-2-avril-2003-ecol0300050a)
-- [Arrêté du 2 décembre 2009 (MENH0925528A)](arrete-du-2-decembre-2009-menh0925528a)
 - [Arrêté du 2 décembre 2011 (AGRM1132509A)](arrete-du-2-decembre-2011-agrm1132509a)
 - [Arrêté du 2 décembre 2011 (AGRS1124684A)](arrete-du-2-decembre-2011-agrs1124684a)
 - [Arrêté du 2 décembre 2011 (AGRT1126863A)](arrete-du-2-decembre-2011-agrt1126863a)
