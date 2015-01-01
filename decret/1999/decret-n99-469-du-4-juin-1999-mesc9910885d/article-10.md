@@ -1,7 +1,5 @@
 # Article 10
 
-Lorsque le plan d'apurement signé par le débiteur et par ses créanciers comporte une demande d'aide de l'Etat, le préfet transmet le dossier à la commission. Celle-ci examine le plan d'apurement et statue sur la demande d'aide. Elle peut renvoyer le dossier au préfet pour qu'il procède à un examen complémentaire dans un délai de trois mois.
+Lorsque le plan d'apurement signé par le débiteur et par ses créanciers comporte une demande d'aide de l'Etat, le directeur général de l'Office national des anciens combattants et victimes de guerre ou l'agent qu'il aura habilité transmet le dossier au ministre chargé des rapatriés. Celui-ci examine le plan d'apurement et statue sur la demande d'aide. Il peut renvoyer le dossier au directeur général de l'Office national des anciens combattants et victimes de guerre ou à l'agent qu'il aura habilité, pour qu'il procède à un examen complémentaire dans un délai de trois mois.
 
-En cas de refus de l'aide, la commission notifie sa décision à l'intéressé et en informe le ministre chargé des rapatriés.
-
-En cas d'acceptation, la commission soumet l'octroi de l'aide à la décision du ministre chargé des rapatriés. Celui-ci notifie sa décision à l'intéressé.
+Le ministre chargé des rapatriés notifie sa décision à l'intéressé.

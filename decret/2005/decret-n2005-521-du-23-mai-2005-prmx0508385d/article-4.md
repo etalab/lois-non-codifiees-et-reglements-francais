@@ -1,0 +1,3 @@
+# Article 4
+
+Les étudiants poursuivant, dans un établissement d'enseignement supérieur public ou privé, une formation en vue d'obtenir un diplôme national conférant l'un des grades ou titres universitaires, un certificat d'études ou un diplôme visé par l'Etat ou un titre d'ingénieur créé ou reconnu par l'Etat peuvent bénéficier d'une aide à la couverture des frais réellement engagés au titre de l'hébergement, du transport, d'achats de livres et fournitures scolaires ou de matériel nécessaire à la formation et le cas échéant des frais d'inscription. Cette aide représente 50 % de ces dépenses sans toutefois dépasser la somme de 1 220 euros par an.
