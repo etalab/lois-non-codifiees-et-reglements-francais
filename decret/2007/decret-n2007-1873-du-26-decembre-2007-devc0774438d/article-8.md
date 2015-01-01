@@ -1,3 +1,0 @@
-# Article 8
-
-En dehors de la procédure de paiement de droit commun, consistant dans le paiement direct au bénéficiaire, chaque vendeur ou loueur ou installateur agréé peut demander à passer avec le directeur général de l'Agence de services et de paiement une convention aux termes de laquelle l'avance de l'aide pourra être faite par le titulaire de la convention ou par son réseau, le titulaire de la convention en obtenant ensuite le remboursement par le fonds d'aide à l'acquisition de véhicules propres. Ces conventions peuvent être passées entre le directeur général de l'Agence de services et de paiement et chaque constructeur ou importateur, ou, dans le cas des départements d'outre mer, avec le ou les représentants de chaque marque.
