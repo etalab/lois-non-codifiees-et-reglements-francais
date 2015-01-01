@@ -1,5 +1,0 @@
-# Article 4
-
-L’école est structurée en départements et, en tant que de besoin, en services. Ces départements et services sont créés, sur proposition du directeur, par le conseil d’administration, après consultation du conseil scientifique.
-
-Les règles d'organisation et de fonctionnement de ces départements et services sont fixées par le règlement intérieur de l'école.
