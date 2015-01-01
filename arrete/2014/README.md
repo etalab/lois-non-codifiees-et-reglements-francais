@@ -1664,7 +1664,6 @@
 - [ARRÊTÉ du 20 août 2014 (JUSK1420053A)](arrete-du-20-aout-2014-jusk1420053a)
 - [ARRÊTÉ du 20 août 2014 (JUSK1420054A)](arrete-du-20-aout-2014-jusk1420054a)
 - [Arrêté du 20 décembre 1996 (ECOD9650003A)](arrete-du-20-decembre-1996-ecod9650003a)
-- [Arrêté du 20 décembre 2013 (AFSS1331707A)](arrete-du-20-decembre-2013-afss1331707a)
 - [Arrêté du 20 décembre 2013 (AFSS1331756A)](arrete-du-20-decembre-2013-afss1331756a)
 - [Arrêté du 20 décembre 2013 (BUDB1326031A)](arrete-du-20-decembre-2013-budb1326031a)
 - [Arrêté du 20 décembre 2013 (BUDE1330752A)](arrete-du-20-decembre-2013-bude1330752a)
