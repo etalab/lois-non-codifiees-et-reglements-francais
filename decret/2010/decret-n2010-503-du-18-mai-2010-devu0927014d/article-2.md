@@ -1,9 +1,7 @@
 # Article 2
 
-Cet établissement est habilité sur tout le territoire du département de la Vendée :
+Conformément aux dispositions de l'article L. 321-1 du code de l'urbanisme, l'établissement est habilité à procéder à toutes acquisitions foncières et opérations immobilières et foncières de nature à faciliter l'aménagement. Il peut aussi effectuer les études et travaux nécessaires à leur accomplissement et, le cas échéant, participer à leur financement.
 
-1° A procéder à toutes acquisitions foncières et opérations immobilières et foncières de nature à faciliter l'aménagement au sens de l'article L. 300-1 du code de l'urbanisme ainsi que le développement de l'offre de logement ;
+Ces missions peuvent être réalisées par l'établissement public foncier soit pour son compte ou celui de l'Etat et de ses établissements publics, soit pour celui des collectivités territoriales, de leurs groupements, ou de leurs établissements publics en application de conventions passées avec eux. Pour les opérations passées pour le compte des collectivités territoriales, de leurs groupements, ou de leurs établissements publics, ces conventions prévoient obligatoirement le rachat des biens dans un délai déterminé et, le cas échéant, la garantie de l'emprunt souscrit.
 
-2° A procéder à la réalisation des études et travaux nécessaires à l'accomplissement des missions définies au 1° ci-dessus et, le cas échéant, à participer à leur financement.
-
-Les missions définies aux 1° et 2° ci-dessus peuvent être réalisées par l'établissement public foncier soit pour son compte ou celui de l'Etat et de ses établissements publics, soit pour le compte des collectivités territoriales et de leurs groupements, conformément à des conventions passées avec eux.
+Lorsqu'il intervient au titre de la préservation des espaces naturels et agricoles, l'Etablissement public foncier de Vendée coopère avec la société d'aménagement foncier et d'établissement rural de Poitou-Charentes et les autres organismes chargés de la préservation de ces espaces, dans le cadre de conventions.

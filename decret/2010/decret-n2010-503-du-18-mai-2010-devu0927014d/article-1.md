@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé, sous le nom d'« Etablissement public foncier de la Vendée », un établissement public de l'Etat, à caractère industriel et commercial.
+L'établissement public foncier de l'Etat dénommé Etablissement public foncier de la Vendée, est compétent sur l'ensemble du territoire du département de la Vendée.

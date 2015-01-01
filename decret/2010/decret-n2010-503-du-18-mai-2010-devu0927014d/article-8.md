@@ -1,25 +1,15 @@
 # Article 8
 
-Le conseil d'administration se réunit au moins deux fois par an.
+Le conseil d'administration est réuni et délibère conformément aux dispositions fixées à l'article R.* 321-3 du code de l'urbanisme.
 
-Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats.
+Ses procès-verbaux et délibérations sont adressés au préfet de la Vendée. Ils le sont également au contrôleur budgétaire et à l'agent comptable de l'établissement.
 
-Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
+Le président du conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.
 
-Le conseil d'administration peut également être convoqué à la demande du préfet de la Vendée.
+L'ordre du jour des séances doit être porté à la connaissance des membres du conseil, au moins dix jours francs à l'avance.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement,        le contrôleur budgétaire et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration.
+Le conseil d'administration délibère valablement lorsque la moitié au moins de ses membres participe à la séance ou est représentée. Quand, après une première convocation régulière, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise valablement sans condition de quorum après une seconde convocation à cinq jours au moins d'intervalle.
 
-Les procès-verbaux et délibérations leur sont adressés.
-
-Le préfet de la Vendée peut soumettre au conseil d'administration toute question dont l'examen lui paraît utile. Le président est tenu de l'inscrire à l'ordre du jour.
-
-Le conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.
-
-L'ordre du jour des séances doit être porté à la connaissance des membres du conseil au moins dix jours francs à l'avance.
-
-Le conseil d'administration délibère valablement lorsque la moitié au moins de ses membres participe à la séance ou est représentée. Quand, après une première convocation régulière, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise valablement sans condition de quorum après une seconde convocation.
-
-Un membre du conseil d'administration absent peut se faire représenter par un autre membre. Chaque membre du conseil d'administration ne peut représenter qu'un seul de ses collègues.
+Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la ressource fiscale prévue à l'article 1607 ter du code général des impôts.
 
 En cas de partage égal des voix, la voix du président est prépondérante.

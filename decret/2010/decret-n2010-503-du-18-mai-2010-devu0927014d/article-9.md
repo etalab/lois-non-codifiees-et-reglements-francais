@@ -1,27 +1,31 @@
 # Article 9
 
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet, notamment :
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement.
 
-1° Il détermine l'orientation de la politique à suivre et fixe le programme pluriannuel d'intervention et les tranches annuelles ;
+A cet effet, notamment :
 
-2° Il fixe le montant de la ressource fiscale prévue à l'article 1607 ter du code général des impôts ;
+1° Il définit l'orientation de la politique de l'établissement et approuve le programme pluriannuel d'intervention et les tranches annuelles ;
 
-3° Il approuve        le budget  ;
+2° Il fixe le montant de la taxe spéciale d'équipement ;
+
+3° Il approuve le budget ;
 
 4° Il autorise les emprunts ;
 
 5° Il arrête le compte financier et se prononce sur l'affectation des résultats ;
 
-6° Il approuve les conventions de mise en œuvre de l'article 2 du présent décret ;
+6° Il approuve les conventions mentionnées à l'article 2 ;
 
-7° Il détermine les conditions de recrutement du personnel placé sous l'autorité du directeur général ;
+7° Il décide des créations de filiales et des acquisitions de participation ;
 
-8° Il approuve les transactions ou autorise le directeur général à transiger dans les conditions qu'il détermine ;
+8° Il détermine les conditions de recrutement du personnel, lequel est placé sous l'autorité du directeur général ;
 
-9° Il adopte le règlement intérieur qui définit notamment les conditions de fonctionnement du bureau ;
+9° Il approuve les transactions ;
 
-10° Il fixe la domiciliation du siège.
+10° Il adopte le règlement intérieur, qui définit notamment les conditions de fonctionnement du bureau ;
 
-Il peut déléguer ses pouvoirs au bureau, à l'exception de ceux définis aux 1°, 2°, 3°, 4°, 5°, 8°, 9° et 10° ci-dessus.
+11° Il fixe la domiciliation du siège.
 
-Le directeur général, dans les limites des compétences qui lui ont été déléguées, peut, par délégation du conseil d'administration, être chargé d'exercer au nom de l'établissement les droits de préemption dont l'établissement est titulaire ou délégataire et le droit de priorité dont l'établissement est délégataire. Il rend compte de cet exercice au conseil d'administration à chacune de ses réunions.
+Dans les conditions qu'il détermine, il peut déléguer au bureau ses pouvoirs sous réserve des dispositions de l'article R.* 321-6 du code de l'urbanisme et à l'exception de ceux du 7° ci-dessus.
+
+Il peut déléguer au directeur général, dans les conditions qu'il détermine, ses pouvoirs de décision, à l'exception de ceux prévus aux 1°, 2°, 3°, 4°, 5°, 7°, 10° et 11° ci-dessus.
