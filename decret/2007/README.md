@@ -942,7 +942,6 @@
 - [Décret n° 2007-372 du 21 mars 2007 (INTD0700063D)](decret-n-2007-372-du-21-mars-2007-intd0700063d)
 - [Décret n° 2007-373 du 21 mars 2007 (INTD0700064D)](decret-n-2007-373-du-21-mars-2007-intd0700064d)
 - [Décret n° 2007-378 du 21 mars 2007 (MENS0700633D)](decret-n-2007-378-du-21-mars-2007-mens0700633d)
-- [Décret n° 2007-379 du 21 mars 2007 (MENS0700634D)](decret-n-2007-379-du-21-mars-2007-mens0700634d)
 - [Décret n° 2007-381 du 21 mars 2007 (MENS0700636D)](decret-n-2007-381-du-21-mars-2007-mens0700636d)
 - [Décret n° 2007-382 du 21 mars 2007 (MENS0700637D)](decret-n-2007-382-du-21-mars-2007-mens0700637d)
 - [Décret n° 2007-385 du 21 mars 2007 (MENS0700640D)](decret-n-2007-385-du-21-mars-2007-mens0700640d)
