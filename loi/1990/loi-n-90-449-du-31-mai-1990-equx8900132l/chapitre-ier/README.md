@@ -1,4 +1,4 @@
-# CHAPITRE Ier : Des plans départementaux d'action pour le logement des personnes défavorisées.
+# CHAPITRE Ier : Des plans locaux d'action pour le logement des personnes défavorisées.
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
