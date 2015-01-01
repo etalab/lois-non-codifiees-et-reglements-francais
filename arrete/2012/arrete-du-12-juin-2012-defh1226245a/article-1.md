@@ -1,5 +1,0 @@
-# Article 1
-
-Il est créé, conformément à l'article 20 du décret du 29 mars 2012 susvisé, un comité d'hygiène, de sécurité et des conditions de travail local dénommé CHSCT L120.
-
-Ce comité est compétent, dans le cadre de l'article 16 du décret du 29 mars 2012 susvisé, pour connaître de toutes les questions concernant les organismes ou antennes d'organisme mentionnés à l'article 3 du présent arrêté, sous réserve des dispositions fixées à l'article 4 du présent arrêté.
