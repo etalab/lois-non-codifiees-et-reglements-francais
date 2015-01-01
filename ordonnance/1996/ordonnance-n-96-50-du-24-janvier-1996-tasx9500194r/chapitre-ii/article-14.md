@@ -1,6 +1,6 @@
 # Article 14
 
-I.-Il est institué une contribution sur les revenus d'activité et de remplacement mentionnés aux articles L. 136-2 à L. 136-4 du code de la sécurité sociale                         perçus du 1er février 1996 jusqu'à l'extinction des missions prévues à l'article 2 par les personnes physiques désignées à l'article L. 136-1 du même code.
+I.-Il est institué une contribution sur les revenus d'activité et de remplacement mentionnés aux articles L. 136-2 à L. 136-4 du code de la sécurité sociale perçus du 1er février 1996 jusqu'à l'extinction des missions prévues à l'article 2 par les personnes physiques désignées à l'article L. 136-1 du même code.
 
 Cette contribution est assise sur les revenus visés et dans l es conditions prévues aux articles L. 136-2 à L. 136-4 et au III de l'article L. 136-8 du code de la sécurité sociale.
 
@@ -12,7 +12,7 @@ II.-Lorsqu'ils n'entrent pas dans le champ d'application du I, sont également s
 
 9° L'allocation mentionnée à l'article L. 262-2 du code de l'action sociale et des familles, minorée du montant correspondant à la différence entre le montant forfaitaire applicable mentionné au 2° du même article et les ressources du foyer définies au deuxième alinéa de l'article L. 262-3 du même code.
 
-III.-La contribution due sur les prestations visées aux 7°, 8° et 9° du II est précomptée par l'organisme débiteur dans les conditions prévues aux articles L. 243-2 du code de la sécurité sociale et 1031 du code rural.
+III.-La contribution due sur les prestations visées aux 7°, 8° et 9° du II est précomptée par l'organisme débiteur dans les conditions prévues à l'article L. 131-1 du code de la sécurité sociale.
 
 La contribution prévue au I est recouvrée et contrôlée dans les conditions et sous les garanties et sanctions visées à l'article L. 136-5 du code de la sécurité sociale.
 

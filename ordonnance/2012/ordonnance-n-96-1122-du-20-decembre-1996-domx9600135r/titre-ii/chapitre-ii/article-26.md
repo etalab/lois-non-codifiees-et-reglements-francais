@@ -1,23 +1,23 @@
 # Article 26
 
-I.-Les organismes nationaux mentionnés aux articles L. 221-1, L. 222-1 et L. 225-1 du code de la sécurité sociale attribuent à la caisse de sécurité sociale de Mayotte les dotations dont elle doit disposer pour couvrir ses dépenses de gestion administrative et, par imputation de leur budget d'intervention, les dotations dont elle doit disposer pour couvrir ses dépenses d'action sociale et de prévention.
+I.-Pour assurer le service des prestations des régimes définis aux 1° à 4° du II de l'article 22, les organismes nationaux mentionnés aux articles L. 221-1, L. 222-1 et L. 223-1 du code de la sécurité sociale attribuent à la caisse de sécurité sociale de Mayotte les dotations dont elle doit disposer pour couvrir les dépenses de chacun desdits régimes au titre de l'exercice, après déduction des recettes de cotisations et contributions sociales de ces mêmes régimes au titre du même exercice.
 
-II.-(Paragraphe supprimé)
+Si, pour tout ou partie des régimes, les recettes de cotisations et contributions sociales excèdent les dépenses au titre de l'exercice, la caisse de sécurité sociale de Mayotte transfère les excédents constatés au titre de ce même exercice aux organismes nationaux du régime général concernés.
 
-III.-La gestion de chacun des régimes et actions visés au II de l'article 22 ci-dessus est retracée distinctement dans les écritures comptables de la caisse de sécurité sociale.
+II.-Les organismes nationaux mentionnés au I ainsi que l'Agence centrale des organismes de sécurité sociale attribuent à la caisse de sécurité sociale de Mayotte les dotations dont elle doit disposer pour couvrir ses dépenses de gestion administrative au titre de l'exercice, après déduction des éventuelles recettes de gestion administrative au titre de ce même exercice.
 
-IV.-Les excédents de chacun de ces régimes ne peuvent être affectés ni au financement des autres régimes gérés par la caisse ni au financement de dépenses n'entrant pas dans le domaine de compétence de la caisse de sécurité sociale.
+Les dépenses de gestion administrative de la caisse s'inscrivent dans le respect des autorisations budgétaires fixées par les contrats pluriannuels de gestion mentionnés à l'article L. 227-3 du code de la sécurité sociale.
 
-La gestion commune de trésorerie des différents régimes et actions gérés par la caisse ne fait pas obstacle à l'obligation prévue à l'alinéa précédent.
+III.-Les organismes nationaux mentionnés aux articles L. 221-1, L. 222-1 et L. 223-1 du code de la sécurité sociale attribuent à la caisse de sécurité sociale de Mayotte les dotations dont elle doit disposer pour couvrir les dépenses d'action sociale et de prévention au bénéfice des ressortissants des régimes mentionnés au II de l'article 22 de la présente ordonnance.
 
-Les excédents peuvent faire l'objet de placements dans des conditions fixées par un décret en Conseil d'Etat.
+Les dépenses d'action sociale et de prévention s'inscrivent dans le respect des autorisations budgétaires fixées par les contrats pluriannuels de gestion mentionnés à l'article L. 227-3 du même code.
 
-Toutefois, le cas échéant, le résultat excédentaire de chaque exercice du régime prévu par les articles 5 à 23 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte est versé à la Caisse nationale d'assurance vieillesse des travailleurs salariés dans des conditions fixées par arrêté interministériel ;
+Les objectifs de l'action sociale et de la prévention exercée par la caisse de sécurité sociale de Mayotte en faveur des ressortissants des régimes mentionnés au II de l'article 22 de la présente ordonnance et de leur famille sont définis par les contrats pluriannuels mentionnés au même article L. 227-3.
 
-Les réserves constituées par le régime prévu à l'article 98 de la loi du 3 janvier 1985 susvisée avec les excédents de ses exercices antérieurs au 1er janvier 2003 sont versées au fonds de réserve pour les retraites institué par l'article L. 135-6 du code de la sécurité sociale.
+IV.-La gestion de chacun des régimes et actions mentionnés au II de l'article 22 est retracée distinctement dans les écritures comptables de la caisse de sécurité sociale de Mayotte.
 
-V.-A compter de l'exercice 2007, les sommes constitutives des réserves de la caisse de sécurité sociale de Mayotte constatées au titre des résultats excédentaires des années antérieures des différents risques et actions autres que le régime d'assurance vieillesse sont affectées au financement du régime d'   assurance maladie, maternité, invalidité et décès  à l'exception d'une somme affectée au financement du programme immobilier nécessaire au fonctionnement de la caisse. Les modalités d'application du présent V sont fixées par arrêté du ministre chargé de la sécurité sociale.
+V.-L'Agence centrale des organismes de sécurité sociale assure la gestion commune de la trésorerie des différents régimes et actions gérés par la caisse de sécurité sociale de Mayotte, dans les conditions fixées en application de l'article L. 225-1 du code de la sécurité sociale.
 
-VI.-A compter du 1er janvier 2008, l'Agence centrale des organismes de sécurité sociale est chargée d'assurer la gestion commune de la trésorerie des différents régimes et actions gérés par la caisse de sécurité sociale de Mayotte.
+VI.-Les articles L. 114-5, L. 114-6 et L. 114-6-1 du code de la sécurité sociale sont applicables à la caisse de sécurité sociale de Mayotte.
 
-En vue de clarifier la gestion des différents régimes et actions gérés par la caisse, l'Agence centrale des organismes de sécurité sociale assure l'individualisation de la trésorerie de chaque régime et action par un suivi permanent en prévision et en réalisation comptable ; elle établit l'état prévisionnel de la trésorerie de chaque régime et action.
+VII.-Pour l'application du présent article, la caisse de sécurité sociale de Mayotte est considérée comme un organisme de base, au sens du titre Ier du livre II du code de la sécurité sociale.

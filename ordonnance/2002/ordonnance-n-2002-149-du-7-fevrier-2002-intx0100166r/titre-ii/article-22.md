@@ -6,6 +6,6 @@ a) Les personnes bénéficiant au 31 décembre 2001 des allocations familiales v
 
 b) Les autres personnes bénéficient des prestations familiales à compter du 1er mars 2002 ; elles sont affiliées au régime des prestations familiales de Mayotte ;
 
-II. - La caisse gestionnaire du régime des prestations familiales de Mayotte rembourse aux organismes mentionnés au a du I ci-dessus les dépenses engagées au titre des allocations familiales versées aux personnes mentionnées au même a, ainsi que les frais de gestion qui s'y rapportent ;
+II. - L'organisme mentionné à l'article 19 rembourse aux organismes mentionnés au a du I ci-dessus les dépenses engagées au titre des allocations familiales versées aux personnes mentionnées au même a, ainsi que les frais de gestion qui s'y rapportent ;
 
 III. - L'allocation de logement est versée à compter du 1er janvier 2003.

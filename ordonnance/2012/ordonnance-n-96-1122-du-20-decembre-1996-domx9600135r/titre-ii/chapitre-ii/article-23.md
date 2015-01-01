@@ -6,7 +6,7 @@ I.-La caisse de sécurité sociale est administrée par un conseil de vingt memb
 
 -huit représentants des entreprises, désignés par les organisations professionnelles locales, dont quatre représentants des employeurs, deux représentants des travailleurs indépendants et deux représentants des exploitants agricoles ;
 
--quatre personnes qualifiées désignées par le représentant de l'Etat à Mayotte, dont un représentant de l'association des femmes mahoraises et un représentant des retraités.
+-quatre personnes qualifiées désignées par le représentant de l'Etat à Mayotte, dont un représentant de l'association des femmes mahoraises, un représentant des associations familiales et un représentant des retraités.
 
 Siège également avec voix consultative un représentant du personnel élu dans des conditions fixées par décret.
 

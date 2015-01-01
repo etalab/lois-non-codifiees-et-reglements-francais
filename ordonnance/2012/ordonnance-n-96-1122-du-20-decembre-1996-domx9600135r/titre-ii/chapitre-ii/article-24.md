@@ -14,7 +14,7 @@ Il est périodiquement tenu informé par le directeur de la mise en œuvre des o
 
 Le conseil délibère également sur :
 
-1° La politique d'action sanitaire et sociale menée par la caisse dans le cadre des orientations définies par les caisses nationales mentionnées aux articles L. 221-1 et L. 222-1 du code de la sécurité sociale ;
+1° La politique d'action sanitaire et sociale menée par la caisse dans le cadre des orientations définies par les caisses nationales mentionnées aux articles L. 221-1, L. 222-1 et L. 223-1 du code de la sécurité sociale ;
 
 2° Les modalités de traitement des réclamations déposées par les usagers, notamment par une commission spécifique constituée à cet effet ;
 
