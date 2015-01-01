@@ -62,6 +62,7 @@
 - [Décret n° 70-738 du 12 août 1970](decret-n-70-738-du-12-aout-1970)
 - [Décret n°2002-212 du 12 février 2002 (EQUA0101663D)](decret-n2002-212-du-12-fevrier-2002-equa0101663d)
 - [Décret n°2002-511 du 12 avril 2002 (DEFM0201373D)](decret-n2002-511-du-12-avril-2002-defm0201373d)
+- [Décret n°94-50 du 12 janvier 1994 (AGRA9302182D)](decret-n94-50-du-12-janvier-1994-agra9302182d)
 - [Décret n°2002-348 du 13 mars 2002 (FPPA0210003D)](decret-n2002-348-du-13-mars-2002-fppa0210003d)
 - [Décret n°73-278 du 13 mars 1973](decret-n73-278-du-13-mars-1973)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
