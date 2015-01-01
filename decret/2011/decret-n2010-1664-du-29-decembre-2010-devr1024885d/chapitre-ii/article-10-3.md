@@ -1,9 +1,5 @@
 # Article 10-3
 
-Le ministre chargé de l'énergie notifie au titulaire de l'agrément, par lettre recommandée avec avis de réception, le périmètre du contrôle au sein d'un plan d'actions d'économies d'énergie agréé déterminé prévu à l'article 5. Ce périmètre est défini par :
+Le ministre chargé de l'énergie notifie au premier détenteur de certificats d'économies d'énergie la liste des opérations visées par le contrôle, ou le périmètre du contrôle défini par l'intitulé et la référence d'une opération standardisée, une zone géographique correspondant à un ou plusieurs départements, une période d'engagement d'opérations d'économies d'énergie, ou une période de délivrance de certificats.
 
-- l'intitulé et la référence d'une opération standardisée d'économies d'énergie définie par l'arrêté mentionné à l'article 2 ;
-
-- une zone géographique correspondant à un ou plusieurs départements ;
-
-- une période d'engagement d'opérations standardisées d'économies d'énergie.
+Cette notification vaut mise en demeure d'adresser au ministre chargé de l'énergie, dans un délai d'un mois, pour chaque opération de l'échantillon contrôlé, les pièces justificatives fixées par arrêté.
