@@ -63,6 +63,7 @@
 - [Décret n°2000-933 du 19 septembre 2000 (ECOI0000333D)](decret-n2000-933-du-19-septembre-2000-ecoi0000333d)
 - [Décret n°2000-1029 du 20 octobre 2000 (ECOP0000926D)](decret-n2000-1029-du-20-octobre-2000-ecop0000926d)
 - [Décret n°2000-45 du 20 janvier 2000 (FPPA9910021D)](decret-n2000-45-du-20-janvier-2000-fppa9910021d)
+- [Décret n°2000-47 du 20 janvier 2000 (FPPA0010004D)](decret-n2000-47-du-20-janvier-2000-fppa0010004d)
 - [Décret n°2000-686 du 20 juillet 2000 (INTB0000189D)](decret-n2000-686-du-20-juillet-2000-intb0000189d)
 - [Décret n°2003-770 du 20 août 2003 (SOCO0310798D)](decret-n2003-770-du-20-aout-2003-soco0310798d)
 - [Décret n°2000-141 du 21 février 2000 (MESH0020488D)](decret-n2000-141-du-21-fevrier-2000-mesh0020488d)

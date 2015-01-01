@@ -1,6 +1,6 @@
 # Article 2
 
-En application des articles 11, 13 et 14 de la loi du 12 juillet 1984 susvisée, le contenu de la formation prévue à l'article 5 du décret du 24 août 1994 susvisé est arrêté par le Centre national de la fonction publique territoriale, au vu des emplois et fonctions mentionnés au titre Ier dudit décret.
+En application des articles 11,13 et 14 de la loi du 12 juillet 1984 susvisée, le contenu de la formation prévue à l'article 5 du décret du 24 août 1994 susvisé est arrêté par le Centre national de la fonction publique territoriale, au vu des emplois et fonctions mentionnés au titre Ier dudit décret.
 
 Cette formation est organisée dans les domaines suivants :
 
@@ -35,3 +35,5 @@ Initiation aux techniques et aux moyens permettant d'assurer la défense de l'ag
 Activités sportives.
 
 La formation comporte des enseignements théoriques et techniques et une formation appliquée au sein de services ayant compétence en matière de sécurité.
+
+Le contenu de la formation, dans le cadre des stages pratiques, prend en compte l'expérience professionnelle acquise préalablement à son recrutement.

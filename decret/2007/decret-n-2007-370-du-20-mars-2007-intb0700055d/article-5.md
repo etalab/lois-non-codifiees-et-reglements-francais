@@ -1,3 +1,3 @@
 # Article 5
 
-A l'issue de la période de formation, le président du Centre national de la fonction publique territoriale porte à la connaissance du maire son appréciation écrite sur le stagiaire, notamment sur les aptitudes dont il a fait preuve au cours de la formation.
+A l'issue de la période de formation, le président du Centre national de la fonction publique territoriale porte à la connaissance du préfet, du procureur de la République et de l'autorité territoriale son appréciation écrite sur le stagiaire, notamment sur les aptitudes dont il a fait preuve au cours de la formation. Ce rapport, élaboré sur la base des éléments fournis par les responsables pédagogiques désignés par le président du Centre national de la fonction publique territoriale, comporte notamment une appréciation écrite sur les compétences acquises par le stagiaire et sur les aptitudes dont il a fait preuve au cours de la formation.
