@@ -23,7 +23,6 @@
 - [Arrêté du 2 août 2012 (PROI1225048A)](arrete-du-2-aout-2012-proi1225048a)
 - [Arrêté du 2 août 2012 (TRAT1230879A)](arrete-du-2-aout-2012-trat1230879a)
 - [Arrêté du 2 avril 2012 (DEVA1205453A)](arrete-du-2-avril-2012-deva1205453a)
-- [Arrêté du 2 avril 2012 (DEVL1203200A)](arrete-du-2-avril-2012-devl1203200a)
 - [Arrêté du 2 avril 2012 (DEVP1209894A)](arrete-du-2-avril-2012-devp1209894a)
 - [Arrêté du 2 avril 2012 (DEVS1204244A)](arrete-du-2-avril-2012-devs1204244a)
 - [Arrêté du 2 avril 2012 (EFIE1208193A)](arrete-du-2-avril-2012-efie1208193a)
