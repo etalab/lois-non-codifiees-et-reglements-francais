@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé, sous le nom d'« Etablissement public foncier de Languedoc-Roussillon », un établissement public de l'Etat, à caractère industriel et commercial, doté de la personnalité morale et de l'autonomie financière.
+L'établissement public foncier de l'Etat, dénommé Etablissement public foncier de Languedoc-Roussillon, est compétent sur l'ensemble du territoire de la région Languedoc-Roussillon.

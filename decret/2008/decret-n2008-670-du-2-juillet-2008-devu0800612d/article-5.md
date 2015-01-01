@@ -1,69 +1,73 @@
 # Article 5
 
-L'établissement est administré par un conseil d'administration composé de quarante-deux membres :
+L'établissement est administré par un conseil d'administration composé de vingt-huit membres dotés chacun d'un suppléant conformément aux dispositions de l'article R.* 321-4 du code de l'urbanisme.
 
-1° Trente-deux représentants des collectivités territoriales ou de leurs groupements :
+Il est composé de :
 
-a) Dix représentants du conseil régional de Languedoc-Roussillon, désignés par son organe délibérant parmi ses membres ;
+1° Vingt-quatre représentants des collectivités territoriales ou de leurs groupements :
 
-b) Dix représentants des conseils généraux, désignés par chaque organe délibérant parmi ses membres, à raison de :
+a) Cinq représentants de la région Languedoc-Roussillon, désignés par son organe délibérant ;
 
-― deux pour le conseil général de l'Aude ;
+b) Cinq représentants des départements désignés par chaque organe délibérant, à raison de :
 
-― deux pour le conseil général du Gard ;
+- un pour le département de l'Aude ;
 
-― deux pour le conseil général de l'Hérault ;
+- un pour le département du Gard ;
 
-― deux pour le conseil général de Lozère ;
+- un pour le département de l'Hérault ;
 
-― deux pour le conseil général des Pyrénées-Orientales ;
+- un pour le département de Lozère ;
 
-c) Neuf représentants des communautés d'agglomération suivantes, désignés par chaque organe délibérant parmi ses membres, à raison de :
+- un pour le département des Pyrénées-Orientales ;
 
-― un pour la communauté d'agglomération du Bassin de Thau ;
+c) Onze représentants des communautés d'agglomération suivantes, désignés par chaque organe délibérant, à raison de :
 
-― un pour la communauté d'agglomération Béziers Méditerranée ;
+- un pour la communauté d'agglomération du Bassin de Thau ;
 
-― un pour la communauté d'agglomération du Carcassonnais ;
+- un pour la communauté d'agglomération Béziers-Méditerranée ;
 
-― un pour la communauté d'agglomération du Grand Alès en Cévennes ;
+- un pour la communauté d'agglomération du Gard Rhodanien ;
 
-― un pour la communauté d'agglomération Hérault Méditerranée ;
+- un pour la communauté d'agglomération du Carcassonnais ;
 
-― un pour la communauté d'agglomération Montpellier agglomération ;
+- un pour la communauté d'agglomération du Grand Alès en Cévennes ;
 
-― un pour la communauté d'agglomération de la Narbonnaise ;
+- un pour la communauté d'agglomération Hérault-Méditerranée ;
 
-― un pour la communauté d'agglomération Nîmes métropole ;
+- un pour la communauté d'agglomération Montpellier agglomération ;
 
-― un pour la communauté d'agglomération Perpignan Méditerranée ;
+- un pour la communauté d'agglomération de la Narbonnaise ;
 
-d) Trois représentants des autres établissements publics de coopération intercommunale à fiscalité propre, désignés dans les conditions prévues à l'article 6 ;
+- un pour la communauté d'agglomération Nîmes métropole ;
 
-2° Trois représentants des chambres consulaires, désignés par leur organe délibérant :
+- un pour la communauté d'agglomération Perpignan-Méditerranée ;
 
-― un pour la       chambre de commerce et d'industrie de région de Languedoc-Roussillon ;
+- un pour la communauté d'agglomération du Pays de l'Or ;
 
-― un pour la chambre régionale d'agriculture de Languedoc-Roussillon ;
+d) Trois représentants des autres établissements publics de coopération intercommunale à fiscalité propre et des communes non membres des établissements publics de coopération intercommunale à fiscalité propre, mentionnés au 1° du présent article, désignés par l'assemblée prévue à l'article L. 321-9 du code de l'urbanisme.
 
-― un pour la chambre régionale de métiers de Languedoc-Roussillon ;
+Cette désignation devra assurer une répartition de sièges telle que les établissements publics de coopération intercommunale à fiscalité propre disposent au moins de deux représentants au conseil d'administration ;
 
-3° Sept représentants de l'Etat :
+2° Quatre représentants de l'Etat :
 
-― le secrétaire général de la préfecture de l'Hérault, ou son représentant ;
+- un représentant désigné par le ministre chargé des collectivités territoriales ;
 
-― le préfet de l'Aude, ou son représentant ;
+- un représentant désigné par le ministre chargé de l'urbanisme ;
 
-― le préfet du Gard, ou son représentant ;
+- un représentant désigné par le ministre chargé du logement ;
 
-― le préfet de Lozère, ou son représentant ;
+- un représentant désigné par le ministre chargé du budget.
 
-― le préfet des Pyrénées-Orientales, ou son représentant ;
+Quatre personnalités socioprofessionnelles, désignées en son sein par l'organe délibérant de l'institution dont elles relèvent, assistent au conseil d'administration avec voix consultative :
 
-― le trésorier-payeur général de la région Languedoc-Roussillon, ou son représentant ;
+- un représentant de la chambre régionale de commerce et d'industrie ;
 
-― le directeur régional de l'environnement, de l'aménagement et du logement de la région Languedoc-Roussillon, ou son représentant.
+- un représentant de la chambre régionale d'agriculture ;
 
-Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la taxe spéciale d'équipement.
+- un représentant de la chambre régionale de métiers et de l'artisanat ;
 
-Le préfet de la région Languedoc-Roussillon, préfet de l'Hérault, publie par arrêté la liste nominative des membres du conseil d'administration.
+- un représentant du conseil économique, social et environnemental régional.
+
+Le préfet de la région Languedoc-Roussillon, le directeur régional de l'environnement, de l'aménagement et du logement, le contrôleur budgétaire et l'agent comptable de l'établissement assistent de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+
+Le préfet de la région Languedoc-Roussillon publie par arrêté la liste nominative des membres du conseil d'administration et procède à son installation.
