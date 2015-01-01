@@ -87,7 +87,6 @@
 - [Décret n°2000-1278 du 26 décembre 2000 (ECOI0000525D)](decret-n2000-1278-du-26-decembre-2000-ecoi0000525d)
 - [Décret n°2000-1289 du 26 décembre 2000 (MAEA0020387D)](decret-n2000-1289-du-26-decembre-2000-maea0020387d)
 - [Décret n°2000-1300 du 26 décembre 2000 (AGRP0002534D)](decret-n2000-1300-du-26-decembre-2000-agrp0002534d)
-- [Décret n°2000-1317 du 26 décembre 2000 (MESG0023148D)](decret-n2000-1317-du-26-decembre-2000-mesg0023148d)
 - [Décret n°2000-1326 du 26 décembre 2000 (MESG0023461D)](decret-n2000-1326-du-26-decembre-2000-mesg0023461d)
 - [Décret n°2000-1347 du 26 décembre 2000 (AGRP0000592D)](decret-n2000-1347-du-26-decembre-2000-agrp0000592d)
 - [Décret n°2000-1390 du 26 décembre 2000 (FPPA0010023D)](decret-n2000-1390-du-26-decembre-2000-fppa0010023d)

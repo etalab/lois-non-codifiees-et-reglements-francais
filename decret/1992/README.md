@@ -746,7 +746,6 @@
 - [Décret n°92-410 du 27 avril 1992 (TEFF9204710D)](decret-n92-410-du-27-avril-1992-teff9204710d)
 - [Décret n°92-731 du 27 juillet 1992 (MENF9202628D)](decret-n92-731-du-27-juillet-1992-menf9202628d)
 - [Décret n°92-734 du 27 juillet 1992 (INTA9200273D)](decret-n92-734-du-27-juillet-1992-inta9200273d)
-- [Décret n°92-738 du 27 juillet 1992 (SPSG9201277D)](decret-n92-738-du-27-juillet-1992-spsg9201277d)
 - [Décret n°92-836 du 27 août 1992 (BUDF9200027D)](decret-n92-836-du-27-aout-1992-budf9200027d)
 - [Décret n°92-837 du 27 août 1992 (BUDF9200025D)](decret-n92-837-du-27-aout-1992-budf9200025d)
 - [Décret n°92-887 du 27 août 1992 (SPSS9201752D)](decret-n92-887-du-27-aout-1992-spss9201752d)
