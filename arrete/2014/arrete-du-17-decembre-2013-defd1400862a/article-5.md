@@ -18,7 +18,7 @@ I. ― La sous-direction de la gestion des personnels relevant de l'administrati
 
 ― le personnel civil de l'administration centrale ;
 
-― le personnel civil en fonctions dans les organismes extérieurs de la direction générale de l'armement ;
+― le personnel civil en fonctions dans les organismes extérieurs de la direction générale de l'armement définis par arrêté du ministre de la défense ;
 
 ― le personnel militaire de l'armement relevant de la direction générale de l'armement ;
 
@@ -30,7 +30,7 @@ I. ― La sous-direction de la gestion des personnels relevant de l'administrati
 
 ― à l'article 23 du décret n° 2004-1056 du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat ;
 
-7° L'organisation des actions de formation pour le personnel civil de l'administration centrale et le personnel civil et militaire en fonctions dans les organismes extérieurs de la direction générale de l'armement, dans des conditions précisées par instruction ;
+7° L'organisation des actions de formation concernant le personnel de l'administration centrale, ainsi que le personnel civil et militaire de la direction générale de l'armement ;
 
 8° La prise en charge d'actions de formation à l'emploi pour le personnel militaire affecté au sein des organismes à caractère civil faisant partie de l'administration centrale du ministère de la défense.
 
@@ -48,8 +48,8 @@ II. ― La sous-direction de la gestion des personnels relevant de l'administrat
 
 6° Le bureau de la gestion des ressources humaines ;
 
-7° Le bureau de la formation ;
+7° Le bureau des affaires médico-administratives ;
 
-8° Le bureau de la gestion des primes et de la performance ;
+8° Le bureau de la formation ;
 
-9° Le bureau de la rémunération des personnels des organismes extérieurs de la direction générale de l'armement hors Ile-de-France.
+9° Le bureau de la gestion des primes et de la performance.

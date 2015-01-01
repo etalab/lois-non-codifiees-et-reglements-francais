@@ -1,6 +1,6 @@
 # Article 5
 
-En application de l'article 2, alinéa a, de la décision 2008/908/CE susvisée, un test de dépistage de l'encéphalopathie spongiforme bovine doit être systématiquement effectué, selon des modalités définies par instruction publiée au Bulletin officiel du ministre chargé de l'agriculture, sur tous les animaux de l'espèce bovine visés à l'annexe III, chapitre A, partie I, point 2.2, du règlement (CE) n° 999/2001 susvisé.
+En application de la décision 2009/719/ CE susvisée, un test de dépistage de l'encéphalopathie spongiforme bovine doit être systématiquement effectué, selon des modalités définies par instruction publiée au Bulletin officiel du ministre chargé de l'agriculture, sur tous les animaux de l'espèce bovine nés avant le 1er janvier 2002 et visés à l'annexe III, chapitre A, partie I, point 2.2, du règlement (CE) n° 999/2001 susvisé.
 
 Néanmoins, ce test sera réalisé sur les animaux de l'espèce bovine âgés de plus de quarante-huit mois suivants :
 
