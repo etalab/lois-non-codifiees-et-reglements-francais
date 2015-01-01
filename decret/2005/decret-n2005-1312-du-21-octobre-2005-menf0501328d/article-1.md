@@ -2,7 +2,7 @@
 
 Sont régis par le présent décret les emplois suivants :
 
-1. Directeur adjoint et secrétaire général du Centre national de documentation pédagogique (CNDP) ;
+1. Directeur adjoint et secrétaire général du    Réseau Canopé (CNDP) ;
 
 2. Directeur adjoint et secrétaire général de l'Office national d'information sur les enseignements et les professions (ONISEP) ;
 

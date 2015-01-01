@@ -8,6 +8,6 @@ La liste des établissements prévue à l'article 2 du présent arrêté est fix
 
 3. Etablissements publics de coopération scientifique mentionnés à l'article L. 344-4 du code de la recherche.
 
-4. Centre national de documentation pédagogique.
+4.    Réseau Canopé.
 
 5. Etablissement public du palais de la Découverte et de la Cité des sciences et de l'industrie.

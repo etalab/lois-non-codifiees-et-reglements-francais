@@ -18,7 +18,7 @@ Centre international d'études pédagogiques.
 
 Centre national d'enseignement à distance.
 
-Centre national de documentation pédagogique.
+Réseau Canopé.
 
 Centres régionaux de documentation pédagogique.
 

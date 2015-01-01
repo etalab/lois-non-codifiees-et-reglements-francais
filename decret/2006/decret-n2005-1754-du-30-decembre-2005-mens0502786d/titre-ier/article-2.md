@@ -2,13 +2,13 @@
 
 L'Institut contribue par ses activités d'enseignement et de recherche à :
 
-- la prévention des difficultés scolaires ;
+-la prévention des difficultés scolaires ;
 
-- la scolarisation des enfants et des adolescents qui présentent des besoins éducatifs particuliers notamment en lien avec des difficultés graves d'apprentissage ;
+-la scolarisation des enfants et des adolescents qui présentent des besoins éducatifs particuliers notamment en lien avec des difficultés graves d'apprentissage ;
 
-- l'éducation et la formation des enfants, adolescents et adultes qui présentent des besoins éducatifs particuliers en lien avec un handicap ou une maladie invalidante ;
+-l'éducation et la formation des enfants, adolescents et adultes qui présentent des besoins éducatifs particuliers en lien avec un handicap ou une maladie invalidante ;
 
-- l'enseignement aux personnes placées sous main de justice, notamment les mineurs et les jeunes détenus.
+-l'enseignement aux personnes placées sous main de justice, notamment les mineurs et les jeunes détenus.
 
 A ce titre :
 
@@ -24,7 +24,7 @@ Il assure la formation des formateurs.
 
 Il est un centre de ressources scientifiques, pédagogiques et humaines.
 
-Il contribue à l'information, à la documentation, à l'édition et à la diffusion d'outils en liaison avec le Centre national de documentation pédagogique.
+Il contribue à l'information, à la documentation, à l'édition et à la diffusion d'outils en liaison avec le    Réseau Canopé.
 
 3° Il exerce ses activités en partenariat avec les départements ministériels intéressés, les organismes de formation et de recherche, les établissements publics ainsi que les associations.
 

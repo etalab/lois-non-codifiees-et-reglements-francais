@@ -6,7 +6,7 @@ Ce comité est composé :
 
 1° De représentants du ministre de la défense, du ministre des affaires étrangères, du ministre chargé de l'éducation nationale, du ministre de l'intérieur, du ministre chargé de la culture, du ministre chargé de l'enseignement supérieur, du ministre chargé de la recherche, du ministre chargé de l'outre-mer, du ministre chargé du tourisme, du ministre chargé des anciens combattants, du ministre chargé de la jeunesse, du ministre chargé de la vie associative ;
 
-2° Du directeur de l'Institut français, de la Bibliothèque nationale de France, du musée de l'armée, du Centre national de documentation pédagogique et de l'Etablissement de communication et de production audiovisuelle de la défense, ou du représentant qu'ils désignent ;
+2° Du directeur de l'Institut français, de la Bibliothèque nationale de France, du musée de l'armée, du    Réseau Canopé et de l'Etablissement de communication et de production audiovisuelle de la défense, ou du représentant qu'ils désignent ;
 
 3° De trois représentants désignés respectivement par l'Association des maires de France, l'Association des départements de France et l'Association des régions de France ;
 

@@ -4,7 +4,7 @@ Le comité d'hygiène, de sécurité et des conditions de travail ministériel d
 
 Centre international d'études pédagogiques ;
 
-Centre national de documentation pédagogique ;
+Réseau Canopé ;
 
 Centres régionaux de documentation pédagogique ;
 

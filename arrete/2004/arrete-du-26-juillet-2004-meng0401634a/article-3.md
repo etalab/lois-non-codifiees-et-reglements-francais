@@ -38,7 +38,7 @@ Le délégué à la communication au secrétariat général ou son représentant
 
 Le directeur de l'Institut national de recherche pédagogique ou son représentant ;
 
-Le directeur général du Centre national de documentation pédagogique ou son représentant ;
+Le directeur général du    Réseau Canopé ou son représentant ;
 
 Le directeur du Centre international d'études pédagogiques ou son représentant ;
 

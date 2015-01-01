@@ -8,7 +8,7 @@ Agence nationale de la recherche ;
 
 Centre international d'études pédagogiques ;
 
-Centre national de documentation pédagogique ;
+Réseau Canopé ;
 
 Centre national de la recherche scientifique ;
 
