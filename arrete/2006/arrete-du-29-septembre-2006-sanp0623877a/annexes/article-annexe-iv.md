@@ -2,785 +2,414 @@
 
 CAHIER DES CHARGES DU DÉPISTAGE ORGANISÉ DU CANCER COLORECTAL
 
-CAHIER DES CHARGES DESTINÉ AUX STRUCTURES DE GESTION
-
-Table des matières
-
-ANNEXE IV : CAHIER DES CHARGES DU DÉPISTAGE ORGANISÉ DU CANCER COLORECTAL
-
-ANNEXE IV A : CAHIER DES CHARGES DESTINÉ AUX STRUCTURES DE GESTION
-
 TABLE DES MATIÈRES
 
-I. - CRITÈRES D'INCLUSION ET D'EXCLUSION DE LA POPULATION CIBLE
+Annexe IV-A.-Cahier des charges destiné aux structures de gestion
 
-A - Critères d'inclusion
+I. - Population cible
 
-B - Critères d'exclusion
+A.-Population à risque moyen
 
-II. - FORMATION ET INFORMATION DES PROFESSIONNELS ET DE LA POPULATION
+B.-Population à risque élevé ou très élevé
 
-III. - CONDITIONNEMENT DES TESTS
+C.-Cas particuliers
 
-IV. - STRATÉGIE D'INVITATION ET DE REMISE DES TESTS
+II. - Formation et information des professionnels et de la population
 
-V. - APPROVISIONNEMENT EN TESTS DES MÉDECINS TRAITANTS
+A.-Formation des professionnels
 
-VI. - LECTURE DES TESTS
+B.-Information
 
-VII. - ENVOI DES RÉSULTATS ET SUIVI
+III. - Conditionnement des kits de dépistage utilisant une méthode immunologique quantitative de recherche de sang dans les selles
 
-VIII. - ÉVALUATION DU PROGRAMME
+IV. - Stratégie d'invitation de remise des kits de dépistage et relances
 
-Taux de participation à la campagne
+V. - Approvisionnement en kits de dépistage
 
-Analyse de l'activité des médecins et des différents acteurs de la campagne et impact des relances
+VI. - Lecture des prélèvements biologiques
 
-Pourcentage de tests positifs
+VII. - Envoi des résultats et suivi
 
-Pourcentage de coloscopies réalisées chez les personnes ayant un test positif
+VIII. - Evaluation et suivi du programme
 
-Nombre et nature des complications
+IX. - Informations à destination de l'Etat et des organismes d'assurance maladie
 
-Résultats des coloscopies et des examens anatomo-cytopathologiques
+Annexe IV-B.-Cahier des charges destiné aux laboratoires de biologie médicale-centres de lecture des examens utilisant une méthode immunologique quantitative de détection de sang occculte dans les selles dans le cadre du programme de dépistage du cancer colorectal
 
-IX. - INFORMATIONS À DESTINATION DE L'ÉTAT ET DES ORGANISMES D'ASSURANCE MALADIE
+I.-Préambule
 
-FICHE FORMULAIRE DE COLOSCOPIE EN CAS DE RECHERCHE D'UN SAIGNEMENT OCCULTE DANS LES SELLES POSITIVE
+II.-Conditions nécessaires pour être laboratoire de biologie médicale-centre de lecture
 
-ANNEXE IV B : CAHIER DES CHARGES DESTINÉ AUX CENTRES DE LECTURE DES TESTS AU GAÏAC
+III.-Relations avec les partenaires
 
-A. - Préambule
+A.-Relations avec les médecins
 
-B. - Conditions nécessaires pour être centre de lecture
+B.-Relations avec la structure de gestion
 
-C. - Relations avec les partenaires
+C.-Relations avec les personnes dépistées
 
-1. Relations avec les médecins traitants
+IV.-Moyens
 
-2. Relations avec la structure de gestion
+V.-Aspects réglementaires, confidentialité
 
-3. Relations avec les personnes dépistées
+A.-CNIL
 
-D. - Organisation des lectures
+B.-Confidentialité
 
-E. - Moyens
+VI.-Lecture
 
-1. Personnel
+VII.-Moyens en matériel et système d'information
 
-2. Matériel
+Annexe IV-A
 
-F. - Aspects réglementaires, confidentialité
+Cahier des charges destiné aux structures de gestion
 
-1. CNIL
+I.-Population cible
 
-2. Confidentialité
+A.-Population à risque moyen
 
-I. - CRITÈRES D'INCLUSION ET D'EXCLUSION DE LA POPULATION CIBLE
+Le dépistage du cancer colorectal, par la recherche de sang occulte dans les selles, ayant fait la preuve de son efficacité en population générale, est proposé aux hommes et aux femmes de 50 à 74 ans à risque moyen de développer un cancer colorectal. Il repose sur la mise en œuvre d'une méthode immunologique quantitative de recherche de sang dans les selles sur prélèvement unique. Les personnes de la tranche d'âge concernée sont invitées à réaliser cet examen tous les deux ans.
 
-A - Critères d'inclusion
+B.-Population à risque élevé ou très élevé
 
-Le dépistage du cancer colorectal par test de détection de saignement occulte dans les selles, ayant fait la preuve de son efficacité en population générale (1), est proposé aux hommes et aux femmes de 50 à 74 ans inclus. Il repose sur la réalisation d'un test tous les deux ans. Les personnes de la tranche d'âge concernée sont invitées par la structure de gestion.
+Les personnes à risque élevé ou très élevé de développer un cancer colorectal (voir ci-dessous) se voient proposer par un médecin une autre modalité de dépistage, de diagnostic ou de surveillance selon la nature du risque et les recommandations de bonnes pratiques cliniques en vigueur (incluant notamment une coloscopie voire, en cas de risque très élevé, une consultation d'oncogénétique). Dans la mesure du possible, ces personnes ne doivent pas être invitées à participer au programme de dépistage organisé. Le niveau de risque élevé ou très élevé est établi dès lors qu'il y a :
 
-(1) En l'état actuel des connaissances, seul la recherche d'un saignement occulte dans les selles par un test au gaïac répond à cette définition.
+-antécédent personnel d'adénome ou de cancer colorectal ;
 
-B - Critères d'exclusion
+-maladies inflammatoires chroniques intestinales (rectocolite hémorragique et maladie de Crohn) ;
 
-Les sujets présentant une symptomatologie digestive d'apparition récente relèvent d'un examen à visée diagnostique incluant notamment une coloscopie. Il est rappelé que la recherche d'un saignement occulte dans les selles n'est pas un examen de diagnostic.
+-antécédent familial au premier degré d'adénome > 10 mm de diamètre survenu avant 65 ans ;
 
-Les sujets qui présentent au moins l'une des caractéristiques énumérées ci-après doivent se voir proposer une autre stratégie de dépistage, il s'agit en particulier des :
+-antécédent familial de cancer colorectal :
 
-- sujets ayant réalisé une coloscopie complète normale depuis moins de 5 ans ;
+-un parent du premier degré avant 65 ans ;
 
-- sujets ayant des antécédents personnels de cancer ou d'adénomes colorectaux ou d'une pathologie colique qui nécessite un contrôle endoscopique programmé ;
+-deux parents ou plus du premier degré quel que soit l'âge ;
 
-- sujets ayant un parent du premier degré atteint d'un cancer colorectal avant 65 ans ou au moins deux parents du premier degré atteints (conférence de consensus, ANAES, janvier 1998). Dans ces situations, une coloscopie de dépistage est recommandée à partir de 45 ans (ou cinq ans avant l'âge au diagnostic du cas index).
+-polypose adénomateuse familiale ;
 
-Enfin, les sujets présentant une pathologie grave extra-intestinale (motif éthique) et ceux chez qui le dépistage revêt un caractère momentanément inopportun - exemple : dépression (motifs éthique et d'efficacité) - ne doivent pas réaliser le test de dépistage.
+-cancer colorectal héréditaire non polyposique (HNPCC ou syndrome de Lynch).
 
-II. - FORMATION ET INFORMATION DES PROFESSIONNELS ET DE LA POPULATION
+C.-Cas particuliers
 
-La structure de gestion organise la formation des médecins traitants sur le dépistage du cancer colorectal. L'ensemble des gastro-entérologues et des médecins généralistes doit être formé. Les médecins du travail peuvent également être invités aux sessions de formation. Une formation par groupe d'une cinquantaine de médecins maximum est un préalable au démarrage d'une campagne de dépistage du cancer colorectal. Les séances de formation peuvent concerner le dépistage des trois cancers et comprendre une partie commune sur l'épidémiologie, l'intérêt et les limites du dépistage.
+Les personnes présentant une symptomatologie évocatrice de cancer colorectal, d'apparition récente, ne relèvent pas d'une action de dépistage mais d'une prise en charge adaptée au diagnostic et à l'entrée en soins.
 
-Des outils de formation élaborés au niveau national sont disponibles. Les médecins généralistes non présents aux séances de formation doivent être contactés par téléphone ou visités par un membre de la structure de gestion. L'ensemble du corps médical, et notamment les médecins du travail, seront informés. A titre d'exemple le bulletin de l'ordre départemental des médecins peut être un véhicule d'information. L'information devra aussi se faire en direction des membres des professions paramédicales, et d'une façon plus large vers l'ensemble de la population. Une attention particulière doit être portée à l'information des pharmaciens, des biologistes et des anatomopathologistes.
+Sont inéligibles pour cinq ans :
 
-III. - CONDITIONNEMENT DES TESTS
+-les personnes chez lesquelles une coloscopie totale a été réalisée.
 
-La structure de gestion définit le conditionnement des tests qui doit être conforme au Guide de bonne exécution des analyses de biologie médicale (2) (GBEA) et aux directives européennes sur le transport des produits biologiques et des échantillons diagnostic ;
+Sont inéligibles pour deux ans :
 
-Pour ce faire, les trois plaquettes du test sont insérées dans un sachet refermable à glissière en plastique, du type de celles utilisées dans la campagne de dépistage du cancer colorectal au Danemark (3). La pochette en plastique est ensuite directement insérée dans une enveloppe T pré-imprimée identifiant la campagne de dépistage du cancer colorectal, permettant le retour du test au centre de lecture par voie postale.
+-les personnes chez lesquelles ont été réalisés un coloscanner seul ou une coloscopie incomplète suivie d'un coloscanner (sous réserve d'un avis médical) ;
 
-L'empaquetage contient un message explicatif sur le dépistage fourni par la structure de gestion et des recommandations sur le mode d'utilisation des tests.
+-les personnes chez lesquelles a été réalisée une recherche de sang occulte dans les selles, par une autre modalité que la méthode immunologique quantitative de recherche de sang dans les selles.
 
-La structure de gestion édite les codes barres identifiant les personnes invitées, qu'elle leur fait parvenir directement.
+Cas particuliers :
 
-(2) Arrêtés du 2 novembre 1994 et du 26 novembre 1999 relatifs à la bonne exécution des analyses de biologie médicale.
+-les personnes ayant exprimé par écrit leur refus du dépistage proposé sont considérées comme définitivement inéligibles ;
 
-(3) Kronborg O., Fenger C., Olsen J. Jorgensen OD, Sondergaard O. Randomised Study of Screening for Colorectal Cancer with Faecal-occult­blood Test, Lancet, 1996, novembre 30 ; 48(9040) : 1467-71. Dans cette étude, l'utilisation de ce sachet n'avait pas augmenté le taux de tests positifs.
+-en cas de refus non documenté, les personnes seront réinvitées à participer deux ans après.
 
-IV. - STRATÉGIE D'INVITATION ET DE REMISE DES TESTS
+II. - Formation et information des professionnels et de la population
 
-En premier lieu, la structure de gestion s'assure de la disponibilité des fichiers des individus concernés auprès des caisses et sollicite l'obtention de l'accord de la Commission nationale de l'informatique et des libertés (CNIL).
+A.-Formation des professionnels
 
-La stratégie d'invitation implique successivement :
+Des outils de formation sont élaborés au niveau national par l'Institut national du cancer (INCa). Les structures de gestion organisent la formation et, en lien avec l'assurance maladie, l'information locale des médecins généralistes et gastro-entérologues sur le dépistage du cancer colorectal utilisant une méthode immunologique quantitative de recherche de sang dans les selles (modalités d'utilisation, performances, limites, etc.). Dans l'éventualité où d'autres professionnels de santé sont impliqués dans la remise du kit de dépistage pour la réalisation de l'examen de recherche de sang dans les selles par méthode immunologique quantitative aux personnes, ceux-ci bénéficieront d'une formation adaptée à leurs conditions d'exercice.
 
-L'information préalable de la population par lettre d'invitation individuelle :
+B.-Information
 
-La personne est personnellement invitée à retirer le test chez son médecin traitant lors d'une consultation.
+Des campagnes annuelles d'information, concernant le dépistage du cancer colorectal et l'examen de recherche de sang dans les selles par méthode immunologique quantitative, coordonnées par l'INCa, sont dirigées vers l'ensemble des professionnels de santé concernés par le dispositif et vers l'ensemble de la population au niveau national et local. Les supports d'information utilisés dans le cadre du programme doivent reprendre les documents et modèles nationaux élaborés par l'INCa et fournir une information loyale permettant une décision éclairée des personnes.
 
-La lettre d'invitation adressée par la structure de gestion est obligatoirement accompagnée d'un document d'information et d'étiquettes autocollantes (recommandé) comportant l'identification complète de la personne (numéro d'identification en code-barres, nom, prénom, date de naissance, sexe, adresse) afin que celle-ci puisse correctement identifier les plaquettes de son test et l'enveloppe les contenant. Le respect de cette condition permet au centre de lecture des tests d'adresser sans erreur les résultats aux intéressés et de saisir également correctement les éléments nécessaires à l'évaluation du programme.
+III. - Conditionnement des kits de dépistage utilisant une méthode immunologique quantitative de recherche de sang dans les selles
 
-La lettre d'invitation pourra comporter également un questionnaire sous la forme d'un coupon-réponse qui devra être retourné à la structure de gestion afin que celle-ci identifie les sujets à exclure du dépistage.
+Le conditionnement des kits de dépistage doit être conforme aux exigences de la directive 98/79/ CE transposée en droit français dans les articles R. 5221-1 et suivants du code de la santé publique.
 
-La remise du test par le médecin à l'occasion d'une consultation :
+Pour ce qui concerne les conditions sanitaires de transport vers le laboratoire de biologie médicale-centre de lecture, le Haut Conseil de santé publique, en sa séance du 11 décembre 2009, indique que l'avis du 5 juillet 2007 donné sur le transport des kits utilisant le gaïac s'applique de la même façon pour les kits de dépistage visant à l'application d'une méthode immunologique quantitative de recherche de sang dans les selles. Ces flacons contenant de la matière fécale relèvent, pour le transport, de la catégorie B visée dans la réglementation.
 
-Le médecin donne également à la personne les explications nécessaires, s'assure de sa bonne compréhension, de la bonne utilisation du test et l'informe de la conduite à tenir en cas de positivité du test. Il complète avec la personne les informations nécessaires à la lecture et à la remise des résultats.
+Les règles de transport en vigueur de ce type de prélèvement biologique prévoient notamment des types d'emballages certifiés, identifiés par la mention :  Matière biologique, catégorie B .
 
-A noter : Le médecin doit remettre le test à toute personne éligible, même si celle-ci n'a pas reçu d'invitation ou ne présente pas ses étiquettes.
+Le kit de dépistage, conçu pour être proposé sur l'ensemble du territoire national, est fourni par le prestataire sélectionné à l'issue de la procédure de marché mise en œuvre par l'assurance maladie. Le conditionnement externe contient les éléments suivants :
 
-La recherche active des exclusions pour raisons médicales :
+-un flacon de prélèvement ;
 
-La structure de gestion fournit au médecin le moyen de signaler les personnes auxquelles il a remis un test (cf. paragraphe Evaluation).
+-un dispositif d'aide au recueil des selles ;
 
-Le médecin signale à la structure de gestion les personnes de sa clientèle ne relevant pas du dépistage ainsi que de celles refusant de bénéficier du dépistage à l'aide d'un document simple permettant la saisie d'information dans le fichier de la population cible. Ce signalement a pour but d'éviter tout envoi ultérieur d'invitation ou de test ; il est nécessaire pour calculer le taux de participation et le pourcentage d'exclusions.
+-un mode d'emploi illustré du kit validé par l'Institut national du cancer-INCa ;
 
-L'envoi de relance(s) :
+-une fiche d'identification suivant le modèle élaboré sous la responsabilité de l'INCa prévoyant un emplacement pour le numéro d'affiliation à un régime de sécurité sociale (par numéro d'identifiant unique national-NIR-de la personne ou de son ouvrant droit si la personne n'est pas l'assurée, inscrit en clair et sous forme de code à barres) et, le cas échéant, un numéro d'invitation (inscrit en clair et sous forme de code à barres), les coordonnées de son médecin (et du centre de santé dans lequel il exerce éventuellement), la date de réalisation de l'examen de recherche de sang dans les selles par la méthode immunologique quantitative (date de prélèvement). Cette fiche proposera une étiquette autocollante normée, à renseigner manuellement si le patient n'est pas muni des étiquettes autocollantes accompagnant la lettre d'invitation. Cette étiquette est destinée à être collée sur le flacon de prélèvement pour identifier le prélèvement conformément aux exigences d'accréditation (exigences normatives et réglementaires en vigueur) ;
 
-Trois mois après la première invitation, la structure de gestion adresse un courrier de relance aux personnes qui n'ont pas encore répondu.
+-des emballages permettant le transport et la conservation des flacons dans les conditions de qualité et sécurité requises ;
 
-De préférence six mois après la première invitation, en l'absence d'un refus documenté de bénéficier du dépistage, la structure de gestion adresse un nouveau courrier de relance aux personnes pour lesquelles :
+-une enveloppe préremplie et préaffranchie permettant l'envoi postal du prélèvement réalisé vers un laboratoire de biologie médicale-centre de lecture compétent (le préaffranchissement de ce pli est à la charge du prestataire).
 
-- elle n'a recensé aucun test ;
+Dans les kits de dépistage livrés directement par le prestataire aux médecins, les fiches d'identification sont personnalisées : les coordonnées du médecin (et du centre de santé dans lequel il exerce le cas échéant) seront déjà renseignées suivant les informations recueillies à la commande, notamment afin de faciliter l'identification par le laboratoire de biologie médicale-centre de lecture du médecin désigné par la personne pour la réception des résultats. Sur les fiches d'identification personnalisées figureront au minimum les informations suivantes : nom, prénom et numéro d'assurance maladie du médecin, adresse et numéro du centre de santé dans lequel il exerce éventuellement. Pour les besoins d'automatisation des analyses, un code à barres pourra compléter ces informations en clair.
 
-- elle ne dispose d'aucun signalement documenté d'exclusion (coupon-réponse ou signalement du médecin).
+IV. - Stratégie d'invitation, de remise des kits de dépistage et des relances
 
-Des stratégies de remise de tests associant d'autres professionnels de santé (pharmaciens, médecins du travail, etc.) peuvent être développées localement avec l'accord de l'Agence régionale de santé concernée.
+Les invitations sont effectuées à partir d'une base de la population cible, réalisée par les structures de gestion du dépistage à l'aide des fichiers fournis par l'ensemble des régimes d'assurance maladie, et prenant en compte les informations concernant l'inéligibilité de certaines des personnes ciblées par le programme de dépistage organisé (paragraphe I), les éventuels refus de participation, les résultats de suivi des personnes dépistées et plus généralement toute information additionnelle recueillie par les structures de gestion et permettant d'en améliorer la qualité (changement d'adresse, non-enregistrement préalable dans les fichiers de l'assurance maladie, dédoublonnage, etc.). Les structures de gestion disposent d'ores et déjà d'une autorisation de la CNIL pour la réalisation de ce fichier obtenue dans le cadre de leur mission de mise en œuvre des dépistages organisés de cancers.
 
-La remise du test doit obligatoirement être accompagnée d'un document explicatif écrit.
+La stratégie d'invitation implique différentes étapes :
 
-La dernière phase postale avec envoi du test est obligatoire puisque ce test s'adresse à l'ensemble de la population générale.
+1. L'information préalable de la population cible par lettre d'invitation individuelle :
 
-Des stratégies de remise de tests associant d'autres professionnels de santé (pharmaciens, médecins du travail, etc.) peuvent être développées localement.
+Les personnes de la tranche d'âge cible du dépistage sont personnellement invitées par la structure en charge des invitations à retirer le kit de dépistage chez leur médecin traitant lors d'une consultation. Un modèle national, normé, de lettre d'invitation est fourni par l'INCa. La lettre d'invitation peut être adaptée localement de façon à prendre en compte les conditions pratiques et stratégies complémentaires de remise de kits de dépistage en œuvre au niveau loco-régional.
 
-Quel que soit le mode de remise du test, celui-ci doit obligatoirement être accompagné d'un document explicatif écrit.
+La lettre d'invitation doit au minimum comprendre :
 
-V. - APPROVISIONNEMENT EN TESTS DES MÉDECINS TRAITANTS
+-les nom, prénom, date de naissance, sexe, adresse de la personne ;
 
-La structure de gestion est responsable de l'approvisionnement en tests des médecins de sa zone géographique (département ou région selon les cas) lors du démarrage de la campagne.
+-un emplacement permettant d'informer la structure en charge des invitations et du suivi, des motifs d'inéligibilité médicale ou du refus de participer au programme, à remplir par le médecin et/ ou la personne. Les motifs d'inéligibilité médicale relatifs à sa situation ou les motifs de son refus sont cochés dans la lettre d'invitation, qui est retournée à la structure gérant la base d'invitation et de suivi pour enregistrement. Les refus mentionnés oralement (par téléphone ou oralement auprès du médecin) doivent être, autant que possible, confirmés par un document écrit comprenant : nom, prénom, date et signature de la personne. Ce refus est enregistré par la structure de gestion, et un courrier spécifique mentionnant les conséquences possibles de ce refus est adressé à la personne concernée ;
 
-Les réapprovisionnements des médecins seront assurés par la structure de gestion; cependant si l'organisation locale rend cette modalité plus pertinente, le réapprovisionnement peut être effectué par le laboratoire "centre de lecture".
+-la mention de la CNIL, loi n° 78-17 du 6.01.78 concernant le droit d'accès et de rectification des informations personnelles contenues dans le fichier de la structure gérant la base d'invitation et de suivi.
 
-VI. - LECTURE DES TESTS
+La lettre d'invitation est obligatoirement accompagnée :
 
-La personne effectue le test, l'identifie avec la fiche et les étiquettes, l'insère dans la pochette plastique et l'envoie dans une enveloppe pré-affranchie (type enveloppe T), adressée au centre de lecture avec lequel la structure de gestion travaille.
+-du dépliant national d'information sur le dépistage élaboré par l'INCa, permettant une décision éclairée de la personne ;
 
-Le centre de lecture :
+-d'étiquettes autocollantes :
 
-- transmet quotidiennement les résultats des tests positifs à la structure de gestion qui doit être organisée pour assurer le suivi des positifs ;
+-dont une au moins comportant le numéro d'affiliation à un régime de sécurité sociale de la personne (par numéro d'identifiant unique national-NIR-de la personne ou de son ouvrant droit) et, le cas échéant, un numéro d'invitation, sous la forme de codes à barres (conformes aux normes en vigueur), destinée à être apposée sur la fiche d'identification contenue dans le kit ;
 
-- envoie à la structure de gestion, à un rythme au minimum hebdomadaire, les résultats de tous les tests réalisés ainsi que les taux de positivité par tranche d'âge, sous forme de fichier informatique par disquette ou par tout autre moyen électronique sécurisé.
+-dont une au moins comportant le nom et le prénom, le numéro d'affiliation à un régime de sécurité sociale de la personne (par numéro d'identifiant unique national-NIR-de la personne ou de son ouvrant droit), sous la forme de code-barres, à compléter par la date du prélèvement et à apposer sur le flacon de prélèvement.
 
-VII. - ENVOI DES RÉSULTATS ET SUIVI
+2. La remise du kit de dépistage par le médecin traitant à l'occasion d'une consultation :
 
-Les résultats des tests validés et signés par le biologiste sont envoyés à la personne dépistée ainsi qu'au médecin traitant désigné par la personne. En cas de test positif, le médecin est informé dans les plus brefs délais, dans la mesure du possible le jour même de la lecture du test. Les courriers types sont fournis par la structure de gestion au centre de lecture.
+Le médecin évalue le niveau de risque de son patient en fonction de son histoire personnelle et familiale et remet un kit à toute personne de la tranche d'âge de sa patientèle ne présentant pas de motif d'inéligibilité pour le programme de dépistage.
 
-La structure de gestion doit s'enquérir auprès du médecin traitant de la réalisation d'une coloscopie pour les patients ayant un test positif. Cette information est utilisée pour mettre à jour le fichier des personnes invitées.
+Le médecin informe de l'intérêt et des limites de ce dépistage, des suites éventuelles et de la conduite à tenir en cas de résultat positif. Il s'assure de la bonne compréhension de la personne concernant l'utilisation du kit de dépistage et de l'envoi du flacon au laboratoire de biologie médicale-centre de lecture à l'aide de l'enveloppe préaffranchie fournie. En cas de risque élevé, le médecin propose des modalités alternatives de dépistage, de diagnostic ou de surveillance, adaptées à chaque niveau de risque (voir chapitre IB) en orientant vers un gastro-entérologue ou, le cas échéant, vers une consultation d'oncogénétique.
 
-Par ailleurs les gastro-entérologues doivent envoyer à la structure de gestion le résultat des coloscopies réalisées à la suite d'un test positif ; une fiche formulaire de coloscopie (avec compte-rendu anatomo-cytopapathologique) est fournie par la structure de gestion à cet effet (cf. annexe). Ces résultats permettent à la structure de gestion de calculer le nombre de cancers et d'adénomes dépistés, le nombre de faux positifs ainsi que la survenue de complications.
+Si la personne dispose d'une lettre d'invitation, le médecin s'assure de l'identification correcte de la personne sur la fiche d'identification contenue dans le kit de dépistage (étiquette autocollante préremplie, fournie avec la lettre d'invitation) et sur le flacon de prélèvement (étiquette autocollante fournie avec la lettre d'invitation, complétée par la date de prélèvement), de sa propre identification en tant que médecin sur la fiche d'identification.
 
-La structure de gestion programme automatiquement une invitation pour la vague de dépistage suivante dans les délais prévus par le programme, en excluant pour cinq ans les patients ayant eu une coloscopie.
+Si la démarche est initiée par le médecin et que la personne ne dispose pas de lettre d'invitation, le médecin s'assure de l'identification complète de la personne (y compris le numéro d'affiliation à un régime de sécurité sociale) sur la fiche d'identification et sur l'étiquette autocollante vierge qu'elle contient (nom, prénom et date de prélèvement), de l'identification du prélèvement par apposition de cette étiquette complétée, de sa propre identification en tant que médecin sur la fiche d'identification.
 
-La structure de gestion informera le corps médical du résultat global de chaque campagne de dépistage.
+3. Les stratégies complémentaires de remise de kit de dépistage :
 
-VIII. - ÉVALUATION DU PROGRAMME
+Le développement local de stratégies complémentaires de remise des kits de dépistage est encouragé avec l'accord de l'agence régionale de santé (ARS) concernée. Dans ces cas, l'Institut de veille sanitaire (InVS) doit en être informé pour en tenir compte lors de sa mission d'évaluation ainsi que l'Institut national du cancer (INCa) pour son information concernant les dispositifs complémentaires mis en place dans le cadre du programme. Quel que soit le mode de remise du kit de dépistage, il doit obligatoirement être accompagné :
 
-La structure de gestion s'assure de la traçabilité des tests : à chaque remise de test, le médecin remplit une fiche issue d'un carnet ou y colle une étiquette code-barres permettant d'identifier le sujet. Cette fiche est jointe au test et son double est gardé par le médecin. Périodiquement, le médecin envoie le carnet à la structure de gestion, ce qui permet à cette dernière d'évaluer la participation médicale et d'assurer la traçabilité des tests remis.
+-du dépliant national d'information sur le dépistage, fourni par l'INCa, portant sur l'histoire naturelle de la maladie, l'importance de la consultation d'un médecin, les bénéfices et limites du dépistage, la signification et les conséquences d'un résultat positif ainsi que les risques de la coloscopie. Cette information doit permettre une décision éclairée de la personne.
 
-La structure de gestion calcule les indicateurs de qualité du programme nécessaires au pilotage local, ceci nécessite le recueil des résultats des examens complémentaires réalisés.
+Lorsque le kit de dépistage est remis par un autre professionnel de santé que le médecin traitant, celui-ci s'assure de la bonne compréhension de la personne concernant l'utilisation du kit, de l'identification complète de la personne (y compris le numéro d'affiliation à un régime de sécurité sociale) sur la fiche d'identification, et sur l'étiquette autocollante vierge qu'elle contient (nom, prénom et date de prélèvement), de l'identification du prélèvement par apposition de cette étiquette complétée, de l'identification d'un médecin sur la fiche d'identification (pour le retour des résultats).
 
-La structure de gestion recueille au minimum les données permettant le calcul par l'InVS des indicateurs d'impact, de qualité et d'efficacité du programme suivant.
+L'envoi de relance (s) :
 
-Taux de participation à la campagne :
+Les modèles de courriers de relance, définis par l'INCa, comportent des explications sur les avantages et les inconvénients du dépistage et un coupon-réponse permettant à la structure de gestion d'enregistrer les éventuels motifs d'inéligibilité, ou bien le refus.
 
-C'est le rapport du nombre de personnes dépistées sur la population cible concernée.
+Au maximum cinq mois après la première invitation et en l'absence de refus documenté ou d'information sur l'inéligibilité de la personne, un premier courrier de relance est adressé aux personnes qui n'ont pas encore réalisé l'examen de dépistage.
 
-Taux de participation = Nombre de personnes dépistées/Nombre de personnes cibles du département - Nombre d'exclusions médicales
+Neuf à dix mois après la première invitation (sans dépasser un délai de douze mois), un second courrier de relance est envoyé aux personnes qui :
 
-Le calcul de ce taux ainsi que son interprétation sont précisés ci-après (cf. encadré) :
+-n'ont pas encore réalisé d'examen de dépistage ou pour lesquelles l'information n'est pas disponible ;
 
-Taux de participation à la campagne de dépistage
+-n'ont signalé aucun motif d'inéligibilité ou de refus.
 
-(source : InVS)
+V. - Approvisionnement en kits de dépistage
 
-Le taux de participation à la campagne sera utilisé dans le cadre de la communication auprès des partenaires. Ce taux de participation est le seul permettant de réaliser des comparaisons entre départements.
+L'approvisionnement en kits de dépistage est assuré par un prestataire unique sélectionné dans le cadre du programme de dépistage national.
 
-1. Les personnes dépistées:
+Deux modes de commande et d'acheminement des kits de dépistage sont prévus :
 
-Le nombre de personnes dépistées diffère du nombre de tests réalisés. Une même personne peut avoir pratiqué plusieurs tests la même année (ex. : test non analysable). Sont également inclus les personnes non sollicitées répondant aux critères d'inclusion qui ont réalisé un test.
+-les médecins disposant d'un code d'accès peuvent commander directement les kits de dépistage via un formulaire en ligne que leur proposera l'assurance maladie sur leur espace professionnel ;
 
-2. La population cible :
+-les structures de gestion peuvent commander les kits de dépistage suivant les modalités prévues entre l'assurance maladie et le prestataire responsable de la livraison des kits. Lors de la première commande passée par une structure de gestion, les modalités prévues pour la réception des résultats des examens seront indiquées (moyen électronique sécurisé). Les structures de gestion sont chargées d'approvisionner les médecins ne recourant pas à la commande directe à l'assurance maladie ou n'y ayant pas accès ainsi que les professionnels de santé impliqués dans des stratégies complémentaires.
 
-Il s'agit des personnes âgées de 50 à 74 ans estimées d'après les projections de l'INSEE issues des données du recensement. Cette population théorique a l'avantage d'être estimée de la même manière pour tous les départements. Les données actuelles disponibles sont issues des données du recensement de 1999.
+VI. - Lecture des prélèvements biologiques
 
-3. Les exclusions médicales :
+Le laboratoire de biologie médicale-centre de lecture vérifie, lors de la phase préanalytique, la tranche d'âge d'éligibilité, l'intégrité du prélèvement, la date de péremption du kit de dépistage, la date du prélèvement, l'identification du prélèvement et sa correspondance avec la fiche d'identification.
 
-Le pourcentage de personnes exclues du dépistage sera calculé (cf. paragraphe "Critères d'inclusion et d'exclusion de la population cible"). Il est recommandé de faire une recherche active des exclusions médicales et notamment des coloscopies faites dans les cinq ans afin de repérer le plus grand nombre possible de personnes non concernées par le dépistage organisé. L'information sur les exclusions médicales est transmise soit par le médecin soit par la personne elle-même. Le taux de participation sera énoncé accompagné du pourcentage d'exclusions médicales.
+VII. - Envoi des résultats et suivi
 
-Analyse de l'activité des médecins et des différents acteurs de la campagne et impact des relances.
+Les résultats de l'examen sont adressés aux personnes, aux médecins traitants identifiés et aux structures de gestion concernées conformément aux normes, au cadre légal en vigueur sur les données de santé à caractère personnel et aux autorisations délivrées par la Commission nationale de l'informatique et des libertés (CNIL).
 
-Pourcentage de tests positifs :
+Envoi des résultats :
 
-Le pourcentage de test positif doit se situer entre 1 et 3 % pour les tests au gaïac. Il est à interpréter en fonction de la tranche d'âge et du sexe.
+Le laboratoire de biologie médicale-centre de lecture envoie le compte rendu du résultat de l'examen de biologie médicale, positif, négatif ou non analysable, validé et signé par un biologiste médical à la personne concernée et au médecin mentionné sur la fiche d'identification, dans les 24 heures après la lecture. Le modèle de compte rendu est validé par l'INCa.
 
-Pourcentage de coloscopies réalisées chez les personnes ayant un test positif :
+Pour une personne ayant un résultat non analysable, un compte rendu spécifique est adressé par le laboratoire de biologie médicale-centre de lecture pour l'informer des raisons pour lesquelles le prélèvement n'a pas pu être lu, et un nouveau kit de dépistage est adressé par le laboratoire de biologie médicale-centre de lecture à la personne concernée.
+
+Le laboratoire de biologie médicale-centre de lecture transfère les résultats et les informations dont il dispose concernant les personnes aux structures de gestion dans les 48 heures (sauf en cas de positivité, cf. Annexe IV-B, paragraphe C2) après l'examen de biologie médicale selon un format électronique prédéfini par l'INCa et sécurisé. De plus, en cas de retour de courrier indiquant que  la personne n'habite pas l'adresse indiquée  (NPAI), et en particulier dans le cas d'un résultat positif, le laboratoire de biologie médicale-centre de lecture en informe la structure de gestion.
+
+Les informations transférées à ces dernières comprennent, au minimum, le numéro de département de résidence de la personne, ses nom patronymique, prénom, sexe, date de naissance, adresse, le numéro identifiant le prélèvement au laboratoire de biologie médicale-centre de lecture (préfixé du numéro du laboratoire de biologie médicale-centre de lecture, numéro du lot ...), l'identifiant de l'automate, la date de lecture du prélèvement, la valeur seuil fixée pour la lecture, la valeur du résultat en pourcentage d'hémoglobine par microgramme de selle, le résultat de l'examen de biologie médicale (exprimé en positif, négatif ou non analysable), les motifs des non analysables, l'identifiant du médecin désigné pour la réception des résultats, la date d'envoi du résultat au médecin et la date d'envoi du résultat au patient.
+
+Les résultats des examens de diagnostic sont nécessaires à l'évaluation locale et nationale du programme et permettent à la structure de gestion, à l'InVS et à l'INCa d'établir les statistiques concernant : le nombre de cancers, d'adénomes, leur topographie, les aspects macroscopiques et anatomo-cytopathologique, le nombre de faux positifs ainsi que la survenue de complications. Pour ce faire, lorsque les personnes ont un résultat positif, la structure de gestion doit assurer un suivi et s'enquérir de la réalisation d'une coloscopie auprès du médecin choisi comme destinataire des résultats de l'examen de biologie médicale, des gastro-entérologues ou des personnes elles-mêmes.
+
+Les gastro-entérologues et les anatomo-cytopathologistes envoient le résultat des examens réalisés aux structures de gestion concernées sur la fiche de coloscopie établie par l'INCa, à laquelle est joint le compte rendu anatomo-cytopathologique standard défini par l'INCa.
+
+Pour les personnes ayant un résultat négatif, une invitation est automatiquement programmée par la structure de gestion pour la vague de dépistage suivante dans les délais prévus par le programme.
+
+Des courriers de relance, pour le suivi des personnes ayant un résultat positif a priori non exploré (modèles définis au niveau national par l'INCa), doivent être adressés aux médecins et à la personne. Il est nécessaire de prendre l'avis du médecin, s'il est identifié, avant d'avoir un contact direct avec elle. L'ensemble des courriers de relance et des contacts réalisés (poste, téléphone ...) doivent faire l'objet d'une traçabilité par la structure de gestion.
+
+Le cas particulier d'une personne ayant un résultat positif alors qu'elle a réalisé récemment une coloscopie conduit habituellement à la préconisation d'une nouvelle coloscopie. Le délai de programmation de l'exploration digestive est apprécié par le médecin en lien avec le gastro-entérologue. Les autres cas particuliers doivent être gérés entre la structure de gestion et le médecin traitant.
+
+Un courrier de relance est adressé à la personne un an après l'envoi du résultat positif. Ce courrier informe clairement et explicitement la personne qu'il s'agit du dernier contact. Le but est de s'assurer que tous les éléments ont bien été portés à la connaissance de la personne concernant la fréquence des lésions coliques en cas de résultat positif. Ce courrier doit faire l'objet d'une traçabilité dans la structure de gestion, comportant la date d'expédition.
+
+En cas de résultat positif, les personnes sont considérées comme  perdues de vue  au bout de deux ans si aucun contact n'a été possible avec elles, en dépit des modalités de relance utilisées, par la voie du médecin traitant, par courrier ou par téléphone, et qu'aucune donnée de suivi n'a pu être obtenue. Après un dernier courrier de rappel, ces personnes sont considérées par la suite comme non éligibles au dépistage.
+
+Les personnes avec lesquelles un contact direct ou indirect a été possible et qui ont été informées du résultat positif mais qui n'ont pas réalisé de coloscopie seront considérées comme non éligibles au dépistage, au bout de deux ans et après un courrier ultime de rappel.
+
+L'information sur le refus de coloscopie doit faire l'objet d'une recherche active afin d'éviter les relances inutiles. La notification de ce refus à la structure de gestion peut être effectuée par le médecin ou le patient. Ce refus doit être autant que possible documenté (les refus exprimés oralement, par téléphone par exemple, doivent être confirmés par un document écrit) et être enregistré par la structure de gestion.
+
+Si le refus n'est pas clairement exprimé, ces personnes sont considérées comme indécises et le médecin traitant doit rester mobilisé pour les inciter à réaliser une coloscopie. Pour ces dernières personnes, le rôle de la structure de gestion cesse après avoir envoyé un dernier courrier de rappel comprenant l'information sur un résultat positif et sur la nécessité de réaliser une coloscopie en raison du risque important de lésion colique.
+
+La structure de gestion informe tous les ans le corps médical du résultat global du programme de dépistage et envoie les résultats en termes de participation et de résultats positifs aux médecins identifiés sur la fiche d'identification.
+
+VIII. - Evaluation et suivi du programme
+
+Dans le cadre de l'assurance qualité du programme de dépistage, la production des référentiels pour l'amélioration de la qualité est élaborée au niveau national par l'INCa. L'INCa peut être amené à financer des projets de recherche, d'évaluation et d'étude concernant l'évolution et l'amélioration du dispositif en place.
+
+La structure de gestion s'assure du recueil des résultats des examens complémentaires réalisés, fournit les informations nécessaires au calcul des indicateurs de qualité du programme national et réalise les analyses nécessaires au pilotage local, notamment celui de l'ARS.
+
+L'InVS et l'INCa ont accès aux données individuelles anonymisées recueillies par les structures de gestion pour le suivi, l'évaluation et le pilotage du dispositif et par les laboratoires de biologie médicale-centres de lecture en cas d'étude spécifique.
+
+L'InVS produit les indicateurs nécessaires à l'évaluation du programme prévus dans le guide  Dépistage organisé du cancer colorectal : guide du format des données et définitions des indicateurs de l'évaluation du programme national , disponible sur son site.
+
+Le taux de participation à la campagne de dépistage (source InVS) :
+
+Le taux de participation calculé par l'InVS est utilisé dans le cadre de la communication auprès des partenaires. Ce taux de participation est le seul permettant de réaliser des comparaisons entre départements.
+
+Le guide européen d'assurance qualité pour le dépistage et le diagnostic du cancer colorectal recommande un taux de participation de niveau acceptable de 45 % et un niveau souhaitable de 60 %.
+
+Taux de résultats positifs :
+
+Le seuil de positivité est fixé par la sélection de la sensibilité et la spécificité de l'examen de recherche de sang dans les selles par méthode immunologique quantitative. La spécificité doit être élevée afin de limiter le nombre de coloscopies inutiles. Le taux de résultats positifs est à interpréter en fonction de la tranche d'âge et du sexe.
+
+Pourcentage de coloscopies réalisées chez les personnes ayant un résultat positif et étant éligibles pour la coloscopie :
 
 Un pourcentage de 90 % doit être visé.
 
 Nombre et nature des complications :
 
-Il s'agit des complications graves survenues dans les suites des coloscopies, et directement imputables à cet examen : hémorragies, perforations, etc.
+Il s'agit des complications graves survenues dans les suites des coloscopies et directement imputables à cet examen : hémorragies, perforations, décès.
 
 Résultats des coloscopies et des examens anatomo-cytopathologiques :
 
-Ils sont envoyés par les gastro-entérologues et permettent de connaître les caractéristiques des cancers et des adénomes dépistés ainsi que le nombre de faux positifs.
-
-Les structures de gestion envoient annuellement à l'InVS les données selon un format d'extraction qui permettra la production des indicateurs d'impact, de qualité et d'efficacité du programme. Ces indicateurs sont considérés comme définitifs, une fois la validation effectuée par l'InVS dans le cadre de l'évaluation annuelle du programme. Les indicateurs sont utilisés par les instances nationales (direction générale de la santé, assurance maladie, Institut national du cancer) pour le pilotage du programme de dépistage du cancer colo-rectal.
-
-IX. - INFORMATIONS À DESTINATION DE L'ÉTAT ET DES ORGANISMES D'ASSURANCE MALADIE
-
-Les représentants de l'Etat (DDASS, DRASS) et de l'assurance maladie (URCAM...) dans la région reçoivent périodiquement de la structure de gestion :
-
-- les données agrégées pour le calcul des indicateurs d'activité du département ;
-
-- complétées une fois par an par la liste des indicateurs financiers et des informations concernant l'organisation du programme.
-
-Ces informations seront remontées par les structures de gestion dans le cadre des rapports annuels d'activité et de financements (RAF).
-
-La périodicité des remontées d'information est précisée dans le tableau ci-dessous :
-
-<table>
-<tbody>
-<tr>
-<td width="151">
-<p align="center">INFORMATIONS<br/>concernant l'année</p>
-</td>
-<td width="378">
-<p align="center">NATURE DE L'INFORMATION<br/>à retourner par les SG aux caisses d'assurance maladie et aux DRASS</p>
-</td>
-<td width="151">
-<p align="center">PÉRIODICITÉ (4)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p align="center">N + 1</p>
-</td>
-<td valign="top" width="378">
-<p align="left">Eléments relatifs au budget prévisionnel (cf. annexe II du présent arrêté relative à la transmission des éléments administratifs et financiers par la structure de gestion).</p>
-</td>
-<td valign="top" width="151">
-<p align="center">Annuelle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="151">
-<p align="center">N §</p>
-</td>
-<td valign="top" width="378">
-<p align="left">Suivi de l'activité de dépistage (cf. ci-après).</p>
-</td>
-<td valign="top" width="151">
-<p align="center">Semestrielle</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p align="left">Etat de consommation des crédits.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">Annuelle, à la fin du premier semestre</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="151">
-<p align="center">N - 1</p>
-</td>
-<td valign="top" width="378">
-<p align="left">Evaluation globale (indicateurs d'évaluation et de pilotage départemental).</p>
-</td>
-<td valign="top" width="151">
-<p align="center">Annuelle</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p align="left">Comptes annuels des structures de gestion en exécution et rapport annuel financier.</p>
-</td>
-<td valign="top" width="151">
-<p align="center">Annuelle</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="680">
-<p align="left">§ : Année N = année calendaire en cours.</p>
-<p align="left">(4) La structure de gestion devra transmettre les données à remontée périodique dans le mois qui suit la période considérée, c'est-à-dire avant le 31 janvier et/ou le 31 juillet de l'année considérée.</p>
-</td>
-</tr>
-</tbody>
-</table>
+Ils sont systématiquement envoyés à la structure de gestion par les gastro-entérologues, les médecins traitants et les anatomo-cytopathologistes, selon les formats et modalités définies par l'INCa, et permettent de connaître les caractéristiques des cancers et des adénomes dépistés et de déterminer le nombre de résultats faussement positifs.
 
-Les indicateurs d'activité de dépistage sont précisés ci-après :
+Les structures de gestion envoient annuellement à l'InVS les données anonymisées selon un format d'extraction informatique sécurisé. Ces données permettent la production des indicateurs d'impact, de qualité et d'efficacité du programme. Ces indicateurs sont considérés comme définitifs une fois la validation effectuée par l'InVS dans le cadre de l'évaluation annuelle du programme. Les indicateurs sont utilisés par les instances nationales, ministère chargé de la santé, caisses nationales d'assurance maladie, l'INCa, pour le pilotage du programme de dépistage du cancer colorectal.
 
-- nombre de personnes invitées par classes d'âge et par caisses d'assurance maladie : ce nombre est calculé sur l'année N ;
+IX. - Informations à destination de l'Etat et des organismes d'assurance maladie
 
-- nombre de personnes dépistées ;
+Les représentants de l'Etat (directeur général de l'ARS) et de l'assurance maladie (directeur coordonnateur régional de la gestion du risque du régime général) de la région reçoivent annuellement de la structure de gestion :
 
-- nombre de personnes recensées dans les fichiers d'invitation ;
+-les données agrégées pour le calcul des indicateurs d'activité du département ;
 
-- nombre d'invitations initiales envoyées ;
+-la liste des indicateurs financiers et des informations concernant l'organisation du programme.
 
-- nombre de relances postales avec tests envoyées ;
+Ces informations sont transmises par les structures de gestion dans le cadre des rapports annuels d'activité et de financement (RAF).
 
-- nombre de tests lus.
+Les indicateurs d'activité de dépistage précisés ci-après sont envoyés aux instances de pilotage national, en particulier l'assurance maladie et l'INCa :
 
-Les représentants de l'Etat et de l'assurance maladie dans la région (DRASS, URCAM...) sont également destinataires des informations et éléments suivants produits par les structures de gestion, à savoir :
+-nombre de personnes invitées par classes d'âge, par sexe et par régimes d'assurance maladie : ce nombre est calculé sur l'année N-1 (N étant l'année calendaire en cours) ;
 
-- les informations concernant l'année N transmises à l'InVS ;
+-nombre de personnes dépistées ;
 
-- le rapport annuel d'activité ; celui-ci devra en particulier mentionner les actions de sensibilisation et d'information réalisées auprès des médecins et de la population ainsi que la formation au dépistage reçue par les praticiens.
+-nombre de personnes recensées dans les fichiers d'invitation ;
 
-La fiche formulaire n'est pas reproduite.
+-nombre d'invitations initiales envoyées ;
 
-CAHIER DES CHARGES DESTINÉ AUX CENTRES DE LECTURE DES TESTS AU GAÏAC
+-nombre de prélèvements biologiques lus ;
 
-A. - Préambule
+-nombre de résultats positifs ;
 
-Les principes du dépistage du cancer colorectal en France tels qu'ils sont définis dans les recommandations de l'Agence nationale d'accréditation et d'évaluation en santé, impliquent la lecture centralisée des tests au gaïac de recherche de sang occulte dans les selles, par du personnel formé. Ceci est nécessaire pour une lecture de qualité, avec un taux de tests positifs inférieur au seuil acceptable.
+-nombre d'exclusions ;
 
-Ce cahier des charges définit les conditions que doit remplir un laboratoire d'analyses biologiques pour être centre de lecture, en termes de missions, moyens, contrôle de qualité.
+-nombre de refus documentés.
 
-B. - Conditions nécessaires pour être centre de lecture
+Les représentants de l'Etat et de l'assurance maladie dans la région (directeur général de l'ARS, directeur coordonnateur régional de la gestion du risque du régime général) et l'INCA sont également destinataires des informations et des éléments suivants produits par les structures de gestion, à savoir :
 
-Ne pourront être centres de lecture des tests au gaïac, dans le cadre du dépistage organisé du cancer colorectal, que les structures placées sous la responsabilité d'un biologiste et autorisées à exercer comme laboratoire d'analyse de biologie médicale.
+-les informations agrégées concernant l'année N-1 transmises à l'InVS et validées par celui-ci ;
 
-Disposant d'un personnel formé à la lecture des tests au gaïac :
+-le rapport annuel d'activité ; celui-ci doit en particulier mentionner les actions de sensibilisation et d'information réalisées auprès des médecins et de la population ainsi que la formation au dépistage reçue par les praticiens.
 
-- l'expérience a montré que seule la formation du personnel permet de s'assurer d'une lecture de qualité, avec un taux de positivité des tests compris entre 1 % et 4 % ;
+Les structures de gestion et les laboratoires de biologie médicale-centres de lecture transmettent dans les meilleurs délais les informations demandées en réponse aux enquêtes et études menées par l'InVS et/ ou l'INCa.
 
-- cette formation se déroule dans un centre de lecture reconnu formateur ;
+Annexe IV-B
 
-- le centre formateur est un centre de lecture des tests au gaïac ayant une expérience importante et un taux de tests positifs de 1 % à 4 % pour la tranche d'âge 50-74 ans. La durée de la formation est d'une demi-journée pour le biologiste responsable du laboratoire ; elle est de 1 à 2 jours pour les techniciens de laboratoire, permettant la lecture de plusieurs centaines de tests au gaïac. Les modalités de formation sont précisées en fiche technique n° 1.
+Cahier des charges destiné aux laboratoires de biologie médicale-centres de lecture des examens utilisant une méthode immunologique quantitative de détection de sang occulte dans les selles dans le cadre du programme de dépistage organisé du cancer colorectal
 
-Effectuant un contrôle de qualité interne :
+I.-Préambule
 
-- contrôle du déroulement des différentes phases de l'examen : vérification de l'identification de l'échantillon, de la date de péremption du test, du délai entre prélèvement et examen qui doit être inférieur à 15 jours, de la qualité du buvard, de la quantité du dépôt de selles, des différentes phases de la lecture ;
+Ce cahier des charges définit les conditions que doit remplir un laboratoire de biologie médicale pour la réalisation d'examens de recherche de sang dans les selles par méthode immunologique quantitative, en termes de missions, moyens, contrôle de qualité. L'examen de recherche de sang dans les selles par méthode immunologique quantitative comporte un prélèvement biologique unique, lu par un automate ayant un seuil paramétrable pour la sensibilité (Se) et la spécificité (Sp). Sont attendues : une valeur positive prédictive (VPP) d'au moins 8 à 10 % pour les cancers et une VPP ≥ 40 % pour les cancers et les adénomes avancés. Le choix du seuil détermine le pourcentage de résultats positifs et donc le nombre de personnes devant effectuer une coloscopie. Le pourcentage de résultats positifs doit se situer entre 3 et 6 %. Le paramétrage du seuil des automates pourra évoluer en fonction des résultats et des demandes du ministère chargé de la santé.
 
-- contrôle de qualité interne statistique : essentiellement contrôle du taux de positivité, hebdomadaire, en fonction de l'âge, du sexe, et de la zone géographique de provenance du sujet (fiche technique n° 2). Ces résultats sont adressés chaque semaine à la structure de gestion du programme de dépistage. Si le taux de positivité est supérieur à 3 %, des analyses plus fines, par âge, sont effectuées ; dans le cas où un technicien serait responsable de la dérive, une nouvelle formation doit lui être proposée. Un taux de positivité supérieur à 5 % pendant 3 mois consécutifs peut amener à la rupture de la convention avec la structure de gestion et les organismes d'assurance maladie.
+Il est à noter que plus de huit millions de personnes sont invitées annuellement sur tout le territoire, départements d'outre-mer compris. Le taux de participation acceptable recommandé au niveau européen est de 45 %, et le taux souhaitable est de 60 %.
 
-Effectuant la lecture des tests selon les modalités décrites dans le chapitre traitant de l'organisation des lectures, avec en particulier double lecture simultanée par deux techniciens de laboratoire formés (fiches techniques n<sup>os</sup> 3 et 4) ;
+II.-Conditions nécessaires pour être laboratoire de biologie médicale-centre de lecture
 
-S'engageant à ce que les délais entre la réception des tests et l'envoi des résultats soient au plus égaux à 2 jours ouvrés ;
+Le nombre de centres de lecture est limité (de l'ordre de deux à cinq) afin d'optimiser l'utilisation des automates.
 
-Ayant obtenu l'accord de La Poste pour le stockage et l'acheminement des prélèvements ;
+Dans le cadre du dépistage organisé du cancer colorectal, ne pourront être laboratoires de biologie médicale-centres de lecture d'examens de recherche de sang dans les selles fondés sur une méthode immunologique quantitative que les structures autorisées à exercer comme laboratoires de biologie médicale et retenues à l'issue de la procédure de marché mise en œuvre par l'assurance maladie. Chaque laboratoire de biologie médicale-centre de lecture doit :
 
-Ayant passé convention avec l'assurance maladie et la structure de gestion.
+-être un laboratoire de biologie médicale entré dans la démarche d'accréditation auprès du COFRAC ou dans une démarche équivalente auprès d'un organisme reconnu équivalent par l'European Accreditation (EA), ou accrédité par l'organisme d'accréditation reconnu pour chaque pays par l'European Accreditation (EA) selon la norme NF EN ISO 15189 ;
 
-C. - Relations avec les partenaires
+-être en capacité de vérifier l'identification univoque des échantillons biologiques, la date de péremption des kits de dépistage, le délai entre le prélèvement et l'analyse (< 7 jours), ces actions étant tracées ;
 
-1. Relations avec les médecins traitants
+-s'engager à ce que les délais entre la réception des échantillons biologiques et l'envoi des résultats soient au plus égaux à deux jours ouvrés.
 
-Le centre de lecture s'occupe du test depuis sa réception jusqu'à l'envoi des résultats. Selon accord local avec la structure de gestion, il peut, au démarrage de la campagne de dépistage, approvisionner en tests les médecins traitants de sa zone géographique ; le réapprovisionnement ultérieur des médecins en fonction de leurs besoins peut être effectué par la structure de gestion ou par le centre de lecture, si l'organisation locale rend cette modalité plus pertinente.
+III.-Relations avec les partenaires
 
-Le centre de lecture adresse les résultats de chaque patient au médecin traitant désigné sur la fiche d'identification du test; l'envoi de ces résultats peut éventuellement être groupé, pour les cas négatifs.
+A.-Relations avec les médecins
 
-En cas de résultat positif, le centre de lecture en informe immédiatement le médecin, par courrier ou mail sécurisé.
+Le laboratoire de biologie médicale-centre de lecture gère l'échantillon biologique et le document d'identification annexé, depuis leur réception jusqu'à l'envoi des résultats. En cas de résultat positif, le laboratoire de biologie médicale-centre de lecture en informe immédiatement le médecin désigné sur la fiche d'identification puis la personne.
 
-2. Relations avec la structure de gestion
+B.-Relations avec la structure de gestion
 
-La structure de gestion définit le conditionnement des tests qui doit être conforme au Guide de bonne exécution des analyses de biologie médicale (5) (GBEA) et aux Directives européennes sur le transport des produits biologiques et des échantillons diagnostic ;
+Le laboratoire de biologie médicale-centre de lecture transfère, par mode électronique sécurisé (CSV/ XML), les résultats et les informations dont il dispose concernant les personnes ayant réalisé un prélèvement aux structures de gestion, dans les 48 heures ouvrées après la lecture du prélèvement, selon un format électronique sécurisé prédéfini par l'INCa et selon le cadre légal en vigueur (autorisation CNIL spécifique).
 
-L'empaquetage contient un message sur le dépistage, fourni par la structure de gestion, et des recommandations sur le mode d'utilisation des tests (notamment recommandation de ne pas faire le test en période menstruelle ou après prise de vitamine C).
+Le laboratoire de biologie médicale-centre de lecture transmet les résultats positifs à la structure de gestion, qui doit être organisée pour en assurer le suivi, en même temps qu'au médecin désigné.
 
-La structure de gestion édite les codes-barres identifiant les personnes invitées, qu'elle leur fait parvenir directement.
+C.-Relations avec les personnes dépistées
 
-Le centre de lecture transmet en temps réel les résultats des tests positifs à la structure de gestion qui doit être équipée pour assurer le suivi des positifs.
+Le laboratoire de biologie médicale-centre de lecture envoie le résultat de l'examen aux intéressés, après envoi à leur médecin lorsque le résultat est positif.
 
-Le centre de lecture envoie à la structure de gestion, à un rythme au moins hebdomadaire, les résultats des tests négatifs réalisés ainsi que les taux de positivité par tranche d'âge, par disquette ou tout autre moyen électronique sécurisé.
+Si le prélèvement est non analysable par manque d'identification, le laboratoire de biologie médicale-centre de lecture doit mettre en œuvre tous les moyens dont il dispose (médecin traitant, structure en charge des invitations, structure de gestion) pour essayer de retrouver, dans la mesure du possible, les références de la personne.
 
-(5) Arrêtés du 2 novembre 1994 et du 26 novembre 1999 relatifs à la bonne exécution des analyses de biologie médicale.
+En cas de prélèvement non analysable, un nouveau kit de dépistage est adressé à la personne par le laboratoire de biologie médicale-centre de lecture.
 
-3. Relations avec les personnes dépistées
+IV.-Moyens
 
-La personne dépistée adresse au centre de lecture le test identifié par code-barres dans son enveloppe pré-adressée.
+L'organisation du laboratoire de biologie médicale doit permettre de réaliser l'examen au minimum cinq jours sur sept tout au long de l'année.
 
-Le centre de lecture envoie les résultats du test aux intéressés, de préférence après l'envoi à leur médecin.
+Le personnel doit être formé à l'utilisation des automates de lecture des prélèvements selon la méthode immunologique quantitative.
 
-En cas de test non analysable, il prévient la structure de gestion, indiquant la raison pour laquelle le test est non analysable. La structure de gestion réédite les codes-barres identifiant le sujet et lui envoie un nouveau test en précisant bien la raison pour laquelle les tests furent "Non Analysables" (NA).
+V.-Aspects réglementaires, confidentialité
 
-D. - Organisation des lectures
+A.-CNIL
 
-Un ensemble de critères préalables doit être réuni pour obtenir une lecture exacte et reproductible :
+Le laboratoire de biologie médicale-centre de lecture doit solliciter l'accord de la CNIL pour la constitution de ses fichiers et pour l'échange de données du laboratoire vers la structure de gestion.
 
-Vérification de l'identification des échantillons :
+B.-Confidentialité
 
-Un technicien prend en charge toute la réalisation et le contrôle du test :
+Le personnel du laboratoire de biologie médicale-centre de lecture est astreint au secret professionnel.
 
-- il extrait de l'enveloppe T retour : la fiche d'identification et le sachet en plastique contenant les tests. Il numérote la fiche. Il est possible de recourir à un numéro formé par la date et un numéro séquentiel dans la journée ;
+VI.-Lecture
 
-- avant de distribuer le réactif sur les plaquettes, il compare le code-barres identifiant du sujet sur la fiche, les plaquettes et les données d'identification manuscrites.
+Le laboratoire de biologie médicale-centre de lecture doit contrôler régulièrement les éléments suivants :
 
-Vérification de la qualité du buvard :
+-le respect des délais entre la date de l'examen de biologie médicale et le rendu des résultats ;
 
-- celle-ci est effectuée après vérification de la date de péremption notée sur chaque test et du délai de réception après réalisation du prélèvement qui doit être inférieur à 15 jours ;
+-le calibrage quotidien et les performances des automates avant le passage de la première série de flacons de prélèvement ;
 
-- si le buvard blanc crème est teinté de bleu sur tout ou partie, sa conservation a été défectueuse. Le test ne peut être effectué. Il est codé NA, non analysable.
+-la conservation des réactifs, la gestion des déchets, le contrôle de qualité interne et externe.
 
-Vérification de la quantité du dépôt de selles :
+Plus généralement, le laboratoire de biologie médicale-centre de lecture se conforme aux exigences d'accréditation pour les trois étapes préanalytique, analytique et postanalytique.
 
-Le dépôt de selles dépend, pour beaucoup, de la qualité de la notice de recommandations accompagnant les tests au gaïac et des explications lors de la remise du test. Si les dépôts sont trop importants, un excès d'humidité peut fausser la lecture. Le test ne doit alors pas être lu et doit être codé NA comme précédemment.
+Un échantillon biologique est dit non analysable (NA) dans l'un des cas suivants :
 
-Lecture :
+-date de péremption figurant sur le flacon dépassée ;
 
-- la lecture des tests doit se faire le jour-même de la réception de l'échantillon par le laboratoire, sans séjour au réfrigérateur. Cette lecture doit se faire dans des conditions d'éclairage satisfaisantes, en lumière naturelle ou équivalente (paillasse sous fenêtre ou éclairage en tube fluorescent dit "lumière du jour") ;
+-délai entre réalisation du prélèvement et réalisation de l'analyse supérieur ou égal à sept jours ;
 
-- la sécurité de la lecture est assurée par la double lecture simultanée par deux techniciens de laboratoire diplômés conformément à la législation sur les laboratoires d'analyse de biologie médicale ; cette lecture s'effectue sur une paillasse permettant de révéler les plaquettes à une minute, après l'ajout du réactif ;
+-absence de date de prélèvement indiquée ;
 
-- les définitions d'un test positif et celles d'un test non analysable se trouvent en fiche technique n° 5 ;
+-identification impossible de la personne (par exemple code-barres illisible ou absence d'identification) ;
 
-- les résultats sont inscrits sur la feuille de paillasse et sur la fiche identification qui sera ensuite numérisée.
+-valeurs aberrantes.
 
-E. - Moyens
+VII.-Moyens en matériel et système d'information
 
-1. Personnel
+Le système d'information doit permettre le transfert interopérable sécurisé des données, selon les normes en vigueur applicables aux laboratoires de biologie médicale.
 
-Le personnel qualifié et formé doit être en nombre suffisant pour réaliser les examens en double lecture 5 jours sur 7. Il s'agit de techniciens ayant suivi la formation décrite en fiche technique n° 1.
+Dans le cadre des transferts d'informations du laboratoire de biologie médicale-centre de lecture vers la structure de gestion, le laboratoire doit se conformer à la norme d'échange élaborée par l'INCa et les normes d'échanges en vigueur concernant les données de santé à caractère personnel.
 
-2. Matériel
+Le système d'information permet l'intégration des éléments d'identification manuscrits éventuellement portés sur la fiche d'identification comme sur les flacons de prélèvement des kits de dépistage et des dates de réalisation des prélèvements figurant sur les prélèvements. Afin que le laboratoire de biologie médicale-centre de lecture puisse réaliser une lecture automatisée avec reconnaissance optique des caractères, les documents accompagnant les échantillons biologiques pour identifier les personnes et leur médecin devront être calibrés et comporter des repères.
 
-Ces moyens doivent répondre aux normes en vigueur pour les laboratoires d'analyse de biologie médicale ; à titre indicatif, ces moyens sont listés en fiche technique n° 6.
-
-Les moyens informatiques sont décrits, à titre indicatif, en fiche technique n° 7.
-
-F. - Aspects réglementaires, confidentialité
-
-1. CNIL
-
-Le centre de lecture doit solliciter l'accord de la CNIL pour la constitution de ses fichiers et pour le transfert de données à la structure de gestion.
-
-2. Confidentialité
-
-Le personnel du centre de lecture est astreint au secret professionnel.
-
-FICHE TECHNIQUE N° 1
-
-Formation à la lecture des tests au gaïac
-
-Objet : acquérir les bases médicales, épidémiologiques, techniques pour intégrer la lecture des tests au gaïac dans une campagne de dépistage du CCR.
-
-Durée : 1 à 2 jours selon le volume de tests disponibles sur le site.
-
-Nombre de tests à lire : 400 à 500 "personnes" dépistées minimum.
-
-Composition du groupe : 1 ou 2 stagiaires futurs lecteurs du test accompagnés du responsable du laboratoire, ce dernier pendant au moins une séance.
-
-Les personnes dyschromatopsiques ne peuvent prétendre assurer ces lectures (dépistage par test d'Ishihara dans le cadre de la médecine du travail).
-
-Formateurs : Un médecin épidémiologiste, un biologiste, deux techniciens-lecteurs.
-
-Intervention du médecin épidémiologiste (1 h) :
-
-- définition d'un test de dépistage de masse efficace, épidémiologie succincte du CCR, statistiques françaises, résultats des campagnes européennes ;
-
-- les polypes coliques : facteurs de risque, classification des CCR, les examens complémentaires.
-
-Intervention du biologiste (2 h) :
-
-- rappel du fonctionnement du test, modalités de recueil, de conservation et d'envoi ;
-
-- contrôle de la qualité des tests, des dépôts, des saisies ;
-
-- nécessité du dépistage d'une dyschromatopsie (test d'Ishihara) ;
-
-- règles de lecture en série ;
-
-- procédure opératoire détaillée.
-
-Intervention des techniciens :
-
-- démonstration de la révélation et de la lecture en série devant les stagiaires (une centaine de sujets) ;
-
-- lecture par les stagiaires, sous le contrôle des techniciens, de plusieurs centaines de tests ;
-
-- discussion générale formateurs-stagiaires, évaluation.
-
-FICHE TECHNIQUE N° 2
-
-Contrôles de qualité
-
-Contrôle de qualité interne statistique (CQIS) :
-
-Le CQIS inclus dans le logiciel de gestion du CLH permet de connaître :
-
-- les pourcentages de tests positifs (P) (incluant les liserés) cumulés par semaine, mois, par sexe, âge voire zone géographique ;
-
-- les pourcentages de tests positifs par technicien, par jour et cumulés par semaine ;
-
-- le nombre de tests ininterprétables, entraînant un nouvel envoi de tests et, parmi ceux-ci, le nombre de tests ré-adressés au CLH.
-
-Responsabilisation des techniciens:
-
-Le processus est conçu de telle manière que la lecture des plages soit réalisée en double par les deux techniciens au même instant.
-
-En prenant en charge les tests, dès leur arrivée jusqu'à l'ordre d'édition, le technicien est fortement responsabilisé et maîtrise toutes les informations qui détermineront la qualité du résultat.
-
-Le traitement et le suivi global par le technicien diversifient les tâches et renforcent fortement la qualité.
-
-FICHE TECHNIQUE N° 3
-
-Schéma général synoptique
-
-(sans saisie manuelle des identifications avec code barre nominatif)
-
-(fiche non reproduite)
-
-FICHE TECHNIQUE N° 4
-
-Déroulement opératoire
-
-Les tests au gaïac sont expédiés par le sujet volontaire vers le centre de lecture dans une enveloppe T.
-
-A J0 :
-
-Au service courrier :
-
-- réception, tri et rangement des enveloppes T comportant un signe distinctif de la campagne contre le cancer colorectal et du département d'origine dans une boîte prévue à cet effet ;
-
-- ouverture des enveloppes T.
-
-Au laboratoire, sur paillasse individuelle :
-
-- extraction de chaque enveloppe T de la fiche identification et du sachet plastique contenant les tests ;
-
-- vérification des identifications manuscrites portées sur les 3 plaquettes de tests en conformité avec celles de la fiche identification et du code-barres ;
-
-- ouverture des tests sur paillasse individuelle avec emplacements prévus ;
-
-- distribution du réactif, sans réhydratation avec chronométrage à 1 minute.
-
-Lecture :
-
-- dans la minute, lecture des tests au gaïac par les deux techniciens simultanément ;
-
-- report des résultats sur la fiche de paillasse et sur chaque fiche identification : positif, négatif, non analysables (NA), non pratiqués.
-
-Dans salle d'exploitation informatique :
-
-- numérisation des fiches identification ;
-
-- contrôle des positifs par rapprochement d'un listing édité en fin de numérisation avec les fiches ;
-
-- identification portant les résultats manuscrits ;
-
-- après vérification de la conformité des résultats, édition des feuilles de résultats ;
-
-- édition de 2 feuilles de résultats, l'une pour le sujet, l'autre pour le médecin. Ces feuilles sont à double en-tête : logo de la campagne et du laboratoire.
-
-- signature par le responsable du laboratoire.
-
-Nota. - La tâche des techniciens commence à la réception des envelloppes T et se termine avec la demande d'édition des résultats.
-
-A J + 1 :
-
-Au service courrier :
-
-- mise sous enveloppe à fenêtre et affranchissement automatique.
-
-FICHE TECHNIQUE N° 5
-
-Lecture
-
-Tous les opérateurs doivent bénéficier d'un dépistage préalable d'une dyschromatopsie éventuelle (test d'Ishihara, réalisé dans le cadre de la médecine du travail).
-
-La lecture des tests doit se faire le jour même de la réception, sans séjour au réfrigérateur, en lumière naturelle directe ou équivalente.
-
-La sécurité de la lecture est assurée par la double lecture simultanée par deux techniciens sur une paillasse à 1 minute.
-
-Pour chacune des six plages du test :
-
-Définition d'une plage positive :
-
-Une plage positive est définie par une couleur bleue circonscrite à la partie centrale du dépôt de selles ou diffusant du centre vers la périphérie.
-
-Codage : sous forme de fraction :
-
-- numérateur = nombre de plages positives ;
-
-- dénominateur = nombre de plages remplies.
-
-Exemples : 2 p/6, 2 p/4.
-
-Une seule plage constitue un test positif.
-
-Nota. - Un liseré, c'est-à-dire une coloration bleue, même faible, ne se situant qu'à la périphérie, dans la zone de séparation du dépôt et du buvard sec, le centre du dépôt ne présentant aucune trace de bleu, est un "liseré" qui doit être considéré comme positif.
-
-Définition d'un test non analysable (NA) :
-
-- date de péremption dépassée ;
-
-- délai entre réalisation et réception du test supérieur à 15 jours ;
-
-- dépôt trop important ;
-
-- excès d'humidité du buvard ;
-
-- buvard teinté de bleu en tout ou partie ;
-
-- nombre de plages inférieur à six, toutes les plages étant négatives.
-
-Dans tous ces cas, un nouveau test doit être adressé à la personne, avec l'explication des raisons pour lesquelles le test était non analysable.
-
-Les résultats sont inscrits sur la fiche identification et numérisés.
-
-FICHE TECHNIQUE N° 6
-
-Moyens nécessaires
-
-Personnel :
-
-Les calculs ont été effectués avec une organisation permettant l'examen simultané des tests de 20 personnes, modalité qui permet une optimisation du rendement. Ils sont donnés à titre indicatif.
-
-ESTIMATION TEMPS-HOMME NÉCESSAIRE
-
-AU TRAITEMENT DE 100 PERSONNES
-
-Réception et préparation des tests :
-
-- extraction du sachet plastique contenant les tests et de la fiche identification ;
-
-- vérification de la totalité des identifications et items ;
-
-- numérotation par date + numéro laboratoire de la fiche identification.
-
-Lecture :
-
-- ouverture des tests au gaïac pour 20 personnes = 60 plaquettes ;
-
-- déclenchement du chronomètre ;
-
-- distribution du réactif : 1 goutte sur les 120 dépôts et témoins + et - ;
-
-- lecture en double au bout de 1 minute ;
-
-- relevé des positifs, négatifs, et NA sur fiche de paillasse "20 personnes" ;
-
-- report des résultats sur les fiches identification ;
-
-- identification du technicien par un numéro.
-
-Numérisation :
-
-- numérisation des fiches identification ;
-
-- vérification des positifs par rapprochement entre la fiche d'identification et la liste ;
-
-- édition des résultats ;
-
-Total pour 100 personnes : 3 h 20.
-
-Traitement de 210 personnes environ par jour pour 7 heures de travail quotidien.
-
-Personnel nécessaire pour 120 000 personnes testées annuellement.
-
-Volume quotidien moyen :
-
-Pour faciliter les calculs, 200 jours ont été retenus, juillet et août étant de faible production.
-
-120 000/200 = 600 tests par jour.
-
-Préparation, lecture, numérisation :
-
-- biologiste(s) ;
-
-- techniciens ;
-
-- secrétaires.
-
-Il faut prévoir la souplesse nécessaire pour absorber des fluctuations d'arrivage allant de 1 à 6.
-
-Exploitation, édition, expédition :
-
-- temps de secrétariat.
-
-Contrôle, contacts extérieurs, signature :
-
-- 1 chef de laboratoire, biologiste.
-
-Moyens en matériel :
-
-Laboratoire :
-
-Le matériel décrit est donné à titre indicatif :
-
-- 4 tables paillasses sèches pour poste de lecture en lumière naturelle ou équivalente ;
-
-- 4 planches en laminé avec dessin pour emplacements de tests (la mise en place de 20 emplacements est recommandée, car elle permet une optimisation du rendement de la lecture) ;
-
-- 2 hottes extractives d'odeur ;
-
-- climatisation ;
-
-- rangement divers ;
-
-- containers ;
-
-- sièges de laboratoire ;
-
-- moyens de stockage des déchets.
-
-Salle de numérisation et exploitation (facultatif) :
-
-- 2 scanners ;
-
-- 4 sièges ;
-
-- 1 système informatique avec logiciel de gestion pour 600 à 700 dossiers/jour ; 700 × 2 = 1 400 feuilles de résultats ;
-
-- archivage en ligne des 120 000 × 20 ans de résultats ;
-
-- 1 système de mise sous enveloppe automatique ;
-
-- 1 système d'affranchissement automatique ;
-
-- bureaux et tables pour employés de bureau ;
-
-- bureau et meubles pour chef de labo ;
-
-- fax et internet.
-
-FICHE TECHNIQUE N° 7
-
-Moyens en matériel, système d'information
-
-Système d'information permettant le transfert des données sécurisé, selon les normes applicables aux laboratoires d'analyse médicale.
-
-A titre indicatif, un programme informatique fonctionnant est décrit ci-dessous :
-
-Déroulement :
-
-- le programme prévoit, signale ou interdit les doublons suivant le cahier des charges ;
-
-- les fiches identifications sont identifiées par le code-barres patient, la date du test et le numéro du test en sus de l'identification du bénéficiaire ;
-
-- le lot de fiches identification est scanné pour l'enregistrement des résultats ainsi que des données administratives (bénéficiaire, médecin). Un listing contrôlé par le laboratoire permet les corrections a posteriori. Si la numérisation est correcte, les lettres sont éditées (bénéficiaire, médecin).
-
-Menu principal de l'application :
-
-- numérisation des résultats ;
-
-- vérification du récapitulatif du fichier de sortie et corrections ;
-
-- traitement d'un lot ;
-
-- édition des résultats ;
-
-- archivage.
+Les fiches  résultat  du laboratoire comprennent, au minimum, le numéro de l'automate, la valeur du seuil fixé pour la lecture, le numéro identifiant l'échantillon biologique dans le laboratoire de biologie médicale-centre de lecture (préfixé du numéro du centre de lecture, le numéro de lot), la date de péremption, la date du prélèvement, la date de la lecture, la valeur du résultat en proportion d'hémoglobine par microgramme de selle, le résultat exprimé en positif, négatif ou non analysable, les motifs des non analysables, la date d'envoi du résultat à la personne et son médecin en sus de leurs identifiants (personne et médecin).
