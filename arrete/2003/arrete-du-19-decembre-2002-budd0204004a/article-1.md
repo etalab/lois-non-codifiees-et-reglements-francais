@@ -549,9 +549,9 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td>Centre-Loire autre que Sancerre.  <br/>
+<td>Centre-Loire autre que Sancerre. <br/>
 </td>
-<td align="center"> 2204 21 17 8 <br/>
+<td align="center">2204 21 17 8 <br/>
 </td>
 </tr>
 <tr>
@@ -563,10 +563,10 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="6" valign="top">
-<p align="left">Vins blancs produits dans la Communauté, en<br/>récipients d'une contenance n'excédant 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants, du Vinho<br/>Verde et des vins d'Alsace, de Bordeaux, de Bourgogne,<br/>du Val de Loire, de Mosel, du Palatinat, de Hesse rhénane,<br/>de Tokaj, du Latium, de Toscane, du Trentin, du Haut-Adige,<br/>du Frioul, de Vénétie, de Penedés, de la Rioja et de Valencia).</p>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins blancs produits dans l'Union européenne, en récipients d'une contenance n'excédant pas 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants, du Vinho Verde et des vins d'Alsace, de Bordeaux, de Bourgogne, du Val de Loire, de Moselle, du Palatinat, de Hesse rhénane, de Tokaj, du Latium, de Toscane, du Trentin, du Haut-Adige, du Frioul, de Vénétie, de Penedés, de la Rioja et de Valencia). </p>
 </td>
-<td align="left" rowspan="6" valign="top">
+<td align="left" rowspan="8" valign="top">
 <p align="center">2204 21 38</p>
 </td>
 <td align="left" valign="top">
@@ -601,6 +601,15 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
+<td>Sud-Ouest. </td>
+<td>2204 21 38 6</td>
+</tr>
+<tr>
+<td>Autres Vallée du Rhône blancs. </td>
+<td>2204 21 38 7 <br/>
+</td>
+</tr>
+<tr>
 <td>
 <p align="left">Autres AOP blancs français.</p>
 </td>
@@ -610,7 +619,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Autres AOP blancs produits dans la Communauté.</p>
+<p align="left">Autres AOP blancs produits dans l'Union européenne. </p>
 </td>
 <td>
 <p align="center">2204 21 38 9</p>
@@ -819,13 +828,13 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="5" valign="top">
-<p align="left">Vins du Côtes du Rhône, en récipients d'une<br/>contenance n'excédant pas 2 litres, ayant un<br/>titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et des vins blancs).</p>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins de la Vallée du Rhône, en récipients d'une contenance n'excédant pas 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants et des vins blancs). </p>
 <br/>
 <br/>
 <br/>
 </td>
-<td align="left" rowspan="5" valign="top">
+<td align="left" rowspan="9" valign="top">
 <p align="center">2204 21 46</p>
 <br/>
 <br/>
@@ -848,7 +857,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">AOP locales septentrionales (Côtes-Rôtie, Cornas, Crozes-Hermitage, Hermitage, Saint-Joseph).</p>
+<p align="left">AOP locales septentrionales (Côtes-Rôtie, Cornas, Crozes-Hermitage, Hermitage, Saint-Joseph). </p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 46 3</p>
@@ -871,10 +880,31 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="9" valign="top">
-<p align="left">Vins du Languedoc-Roussillon, en récipients<br/>d'une contenance n'excédant pas 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et des vins blancs).</p>
+<td>Ventoux. </td>
+<td>2204 21 46 6 <br/>
 </td>
-<td align="left" rowspan="9" valign="top">
+</tr>
+<tr>
+<td>Grignan les Adhémar. <br/>
+</td>
+<td>2204 21 46 7</td>
+</tr>
+<tr>
+<td>Luberon. </td>
+<td>2204 21 46 8 <br/>
+</td>
+</tr>
+<tr>
+<td>Costières de Nîmes. <br/>
+</td>
+<td>2204 21 46 9 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins du Languedoc-Roussillon, en récipients d'une contenance n'excédant pas 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants et des vins blancs). </p>
+</td>
+<td align="left" rowspan="8" valign="top">
 <p align="center">2204 21 47</p>
 </td>
 <td align="left" valign="top">
@@ -889,7 +919,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <p align="left">Corbières.</p>
 </td>
 <td>
-<p align="center">2204 21 47 </p>
+<p align="center">2204 21 47 2</p>
 </td>
 </tr>
 <tr>
@@ -922,14 +952,6 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 <td>
 <p align="center">2204 21 47 6</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Costières de Nîmes.</p>
-</td>
-<td>
-<p align="center">2204 21 47 7</p>
 </td>
 </tr>
 <tr>
@@ -1019,14 +1041,14 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="9" valign="top">
-<p align="left">Vins produits dans la Communauté, en récipients<br/>d'une contenance n'excédant pas 2 litres, ayant<br/>un titre alcoométrique volumique acquis n'excédant<br/>pas 15 % vol, avec AOP (à l'exclusion des vins<br/>mousseux, des vins pétillants, des vins blancs et<br/>des vins de Bordeaux, de Bourgogne, du Beaujolais,<br/>des Côtes-du-Rhône, du Languedoc-Roussillon,<br/>du Val de Loire, du Piémont, de Toscane, du<br/>Trentin, du Haut-Adige, de Vénétie, du Dão,<br/>de la Barraida, du Douro, de Navarra, de Penedés,<br/>de la Rioja et de Valdepeñas).</p>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Vins produits dans l'Union européenne, en récipients d'une contenance n'excédant pas 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants, des vins blancs et des vins de Bordeaux, de Bourgogne, du Beaujolais, de la Vallée du Rhône, du Languedoc-Roussillon, du Val de Loire, du Piémont, de Toscane, du Trentin, du Haut-Adige, de Vénétie, du Dão, de la Barraida, du Douro, de Navarra, de Penedés, de la Rioja et de Valdepeñas). </p>
 </td>
-<td align="left" rowspan="9" valign="top">
+<td align="left" rowspan="7" valign="top">
 <p align="center">2204 21 78</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Provence rouge (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux Varois en Provence, Bandol et autres AOP).</p>
+<p align="left">Provence rouge (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux varois en Provence, Bandol et autres AOP). </p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 78 1</p>
@@ -1034,7 +1056,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Provence rosé (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux Varois en Provence, Bandol et autres AOP).</p>
+<p align="left">Provence rosé (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux varois en Provence, Bandol et autres AOP).</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 21 78 2</p>
@@ -1042,11 +1064,9 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Ventoux.</p>
+<p align="left">Alsace (Pinot noir rouges et rosés).</p>
 </td>
-<td>
-<p align="center">2204 21 78 3</p>
-</td>
+<td>2204 21 78 3</td>
 </tr>
 <tr>
 <td>
@@ -1065,32 +1085,12 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Alsace (Pinot noir rouges et rosés).</p>
-</td>
-<td>
-<p align="center">2204 21 78 6</p>
-</td>
+<td>Sud-Ouest. </td>
+<td>2204 21 78 6</td>
 </tr>
 <tr>
 <td>
-<p align="left">Grignan les Adhémar.</p>
-</td>
-<td>
-<p align="center">2204 21 78 7</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Luberon.</p>
-</td>
-<td>
-<p align="center">2204 21 78 8</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Autres AOP rouges et rosés.</p>
+<p align="left">Autres AOP rouges et rosés produits dans l'Union européenne. </p>
 </td>
 <td>
 <p align="center">2204 21 78 9</p>
@@ -1687,10 +1687,10 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="6" valign="top">
-<p align="left">Vins blancs produits dans la Communauté, en<br/>récipients d'une contenance excédant 2 litres,<br/>ayant un titre alcoométrique volumique acquis<br/>n'excédant pas 15 % vol, avec AOP (à l'exclusion<br/>des vins mousseux, des vins pétillants et<br/>des vins de Tokaj, de Bordeaux, de Bourgogne<br/>et du Val de Loire).</p>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins blancs produits dans l'Union européenne, en récipients d'une contenance excédant 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants et des vins de Tokaj, de Bordeaux, de Bourgogne et du Val de Loire). </p>
 </td>
-<td align="left" rowspan="6" valign="top">
+<td align="left" rowspan="8" valign="top">
 <p align="center">2204 29 18</p>
 </td>
 <td align="left" valign="top">
@@ -1717,6 +1717,15 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <td>
 <p align="center">2204 29 18 5</p>
 </td>
+</tr>
+<tr>
+<td>Sud-Ouest. </td>
+<td>2204 29 18 6 <br/>
+</td>
+</tr>
+<tr>
+<td>Autres Vallée du Rhône blancs. </td>
+<td>2204 29 18 7</td>
 </tr>
 <tr>
 <td>Autres AOP blancs français.</td>
@@ -1949,14 +1958,14 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="5" valign="top">
-<p align="left">Vins des Côtes du Rhône, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP<br/>(à l'exclusion. des vins mousseux, des vins pétillants<br/>et des vins blancs). </p>
+<td align="left" rowspan="9" valign="top">
+<p align="left">Vins de la Vallée du Rhône, en récipients d'une contenance excédant 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants et des vins blancs). </p>
 <br/>
 <br/>
 <br/>
 <br/>
 </td>
-<td align="left" rowspan="5" valign="top">
+<td align="left" rowspan="9" valign="top">
 <p align="center">2204 29 46 </p>
 <br/>
 <br/>
@@ -1996,17 +2005,34 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td>
-<p align="left">Côtes du Rhône (régionaux). </p>
+<p align="left">Côtes-du-Rhône (régionaux). </p>
 </td>
 <td>
 <p align="center">2204 29 46 5 </p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="9" valign="top">
-<p align="left">Vins du Languedoc-Roussillon, en récipients d'une<br/>contenance excédant 2 litres, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP<br/>(à l'exclusion des vins mousseux, des vins pétillants<br/>et des vins blancs). </p>
+<td>Ventoux. </td>
+<td>2204 29 46 6</td>
+</tr>
+<tr>
+<td>Grignan les Adhémar. </td>
+<td>2204 29 46 7 </td>
+</tr>
+<tr>
+<td>Luberon. </td>
+<td>2204 29 46 8 <br/>
 </td>
-<td align="left" rowspan="9" valign="top">
+</tr>
+<tr>
+<td>Costières de Nîmes. </td>
+<td>2204 29 46 9</td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">Vins du Languedoc-Roussillon, en récipients d'une contenance excédant 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol, avec AOP (à l'exclusion des vins mousseux, des vins pétillants et des vins blancs). </p>
+</td>
+<td align="left" rowspan="8" valign="top">
 <p align="center">2204 29 47 </p>
 </td>
 <td align="left" valign="top">
@@ -2054,14 +2080,6 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 <td>
 <p align="center">2204 29 47 6 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Costières de Nîmes. </p>
-</td>
-<td>
-<p align="center">2204 29 47 7 </p>
 </td>
 </tr>
 <tr>
@@ -2151,9 +2169,8 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="8" valign="top">
-<p align="left">Vins produits dans la Communauté, en récipients<br/>d'une contenance excédant 2 litres, ayant un titre<br/>alcoométrique volumique acquis n'excédant pas<br/>15 % vol (à l'exclusion des vins mousseux, des vins pétillants, des vins blancs et des vins de Bordeaux, de Bourgogne, du Beaujolais, des Côtes-du-Rhône, du Languedoc-Roussillon<br/>et du Val de Loire). </p>
-<br/>
+<td align="left" rowspan="6" valign="top">
+<p align="left">Vins produits dans l'Union européenne, en récipients d'une contenance excédant 2 l, ayant un titre alcoométrique volumique acquis n'excédant pas 15 % vol (à l'exclusion des vins mousseux, des vins pétillants, des vins blancs et des vins de Bordeaux, de Bourgogne, du Beaujolais, de la Vallée du Rhône, du Languedoc-Roussillon et du Val de Loire). </p>
 <br/>
 <br/>
 <br/>
@@ -2161,7 +2178,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 <br/>
 </td>
-<td align="left" rowspan="8" valign="top">
+<td align="left" rowspan="6" valign="top">
 <p align="center">2204 29 58 </p>
 <br/>
 <br/>
@@ -2172,7 +2189,7 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Provence rouge (Côtes de Provence, Coteaux d'Aix­en-Provence, Coteaux Varois en Provence, Bandol et autres AOP). </p>
+<p align="left">Provence rouge (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux varois en Provence, Bandol et autres AOP). </p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 29 58 1 </p>
@@ -2180,18 +2197,10 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Provence rosé (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux Varois en Provence, Bandol et autres AOP). </p>
+<p align="left">Provence rosé (Côtes de Provence, Coteaux d'Aix-en-Provence, Coteaux varois en Provence, Bandol et autres AOP).</p>
 </td>
 <td align="left" valign="top">
 <p align="center">2204 29 58 2 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Ventoux. </p>
-</td>
-<td>
-<p align="center">2204 29 58 3 </p>
 </td>
 </tr>
 <tr>
@@ -2211,24 +2220,12 @@ Lorsque les produits devant faire l'objet de la déclaration d'échanges de bien
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Grignan les Adhémar. </p>
-</td>
-<td>
-<p align="center">2204 29 58 7 </p>
-</td>
+<td>Sud-Ouest. </td>
+<td>2204 29 58 6</td>
 </tr>
 <tr>
 <td>
-<p align="left">Luberon. </p>
-</td>
-<td>
-<p align="center">2204 29 58 8 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Autres AOP rouges et rosés. </p>
+<p align="left">Autres AOP rouges et rosés produits dans l'Union européenne. </p>
 </td>
 <td>
 <p align="center">2204 29 58 9 </p>
