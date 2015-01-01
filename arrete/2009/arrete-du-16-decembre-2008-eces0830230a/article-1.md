@@ -14,10 +14,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction régionale d'Aquitaine<br/>(supprimé à compter du 1er septembre 2013) </p>
+<br/>
+<p align="left">Direction régionale d'Alsace<br/>(ajouté à compter du 1er juin 2013) </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du service statistique<br/>(supprimé à compter du 1er septembre 2013) </p>
+<br/>
+<p align="left">Chef du service statistique<br/>(ajouté à compter du 1er juin 2013) </p>
 </td>
 </tr>
 <tr>
@@ -30,10 +32,19 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Direction régionale d'Alsace<br/>(ajouté à compter du 1er juin 2013) </p>
+<p align="left">Direction régionale d'Aquitaine<br/>(supprimé à compter du 1er septembre 2013) </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Chef du service statistique<br/>(ajouté à compter du 1er juin 2013) </p>
+<p align="left">Chef du service statistique<br/>(supprimé à compter du 1er septembre 2013) </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction régionale d'Aquitaine<br/>(ajouté à compter du 1er janvier 2015) </p>
+</td>
+<td>
+<p>Chef du service études et diffusion</p>
+<p align="left">(ajouté à compter du 1er janvier 2015) </p>
 </td>
 </tr>
 <tr>
@@ -232,8 +243,8 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td> Direction régionale de Provence-Alpes-Côte d'Azur</td>
-<td> Chef du service administration des ressources</td>
+<td>Direction régionale de Provence-Alpes-Côte d'Azur</td>
+<td>Chef du service administration des ressources</td>
 </tr>
 <tr>
 <td align="left" valign="top">
