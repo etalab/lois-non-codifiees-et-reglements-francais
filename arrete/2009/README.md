@@ -329,7 +329,6 @@
 - [Arrêté du 6 février 2009 (SJSG0824493A)](arrete-du-6-fevrier-2009-sjsg0824493a)
 - [Arrêté du 6 janvier 2009 (DEFH0831433A)](arrete-du-6-janvier-2009-defh0831433a)
 - [Arrêté du 6 janvier 2009 (IOCA0820592A)](arrete-du-6-janvier-2009-ioca0820592a)
-- [Arrêté du 6 juillet 2009 (AGRE0911632A)](arrete-du-6-juillet-2009-agre0911632a)
 - [Arrêté du 6 juillet 2009 (AGRE0915152A)](arrete-du-6-juillet-2009-agre0915152a)
 - [Arrêté du 6 juillet 2009 (DEFL0915919A)](arrete-du-6-juillet-2009-defl0915919a)
 - [Arrêté du 6 juillet 2009 (DEVA0915215A)](arrete-du-6-juillet-2009-deva0915215a)
