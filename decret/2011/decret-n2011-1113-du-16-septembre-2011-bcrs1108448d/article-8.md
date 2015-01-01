@@ -1,0 +1,3 @@
+# Article 8
+
+La période de cinq années mentionnée au premier alinéa du 4 du VI de l'article 34 de la loi du 30 décembre 2008 susvisée est décomptée de date à date à partir du premier jour du mois au titre duquel est appliquée pour la dernière fois l'exonération prévue à l'article L. 131-4-2 code de la sécurité sociale afférente à l'emploi transféré en zone de restructuration de la défense, ou celle prévue aux articles 12 et 13 de la loi du 14 novembre 1996 susvisée ou à partir de la date du versement de la prime d'aménagement du territoire jusqu'à la date du transfert de l'emploi dans une des zones définies à l'article 1er du présent décret.
