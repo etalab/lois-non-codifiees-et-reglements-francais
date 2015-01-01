@@ -4,7 +4,7 @@ Définitions
 
 Aux fins de la présente division, on entend par :
 
-1. "Code IMSBC" désigne le code maritime international des cargaisons solides en vrac, que le comité de la sécurité maritime de l'Organisation maritime internationale a adopté par la résolution MSC.268(85), et tel qu'il a été amendé par la résolution MSC.318(89) (amendement 01-11).
+1. "Code IMSBC" désigne le code maritime international des cargaisons solides en vrac, que le comité de la sécurité maritime de l'Organisation maritime internationale a adopté par la résolution MSC.268(85), et tel qu'il a été amendé par les résolutions MSC.318 (89) (amendement 01-11) et MSC.354 (92) (amendement 02-13).
 
 2. "Code IMDG" désigne le code maritime international des marchandises dangereuses tel que défini à l'article 411-1.04.1 de la division 411 du présent règlement.
 

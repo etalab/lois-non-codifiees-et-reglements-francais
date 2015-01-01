@@ -1,20 +1,20 @@
 # Article Annexe 411-2.A.2
 
-Cahier des charges des laboratoires agréés pour effectuer le classement du CHARBON , ACTIF (n° ONU 1362) et du CHARBON (n° ONU 1361) conformément aux recommandations relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères
+Cahier des charges des laboratoires agréés pour effectuer le classement du CHARBON, ACTIF (n° ONU 1362) et du CHARBON (n° ONU 1361) conformément aux recommandations relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères
 
-1 - Objet
+1-Objet
 
 Le Code IMDG prévoit que, pour le transport du CHARBON (ONU 1361) et du CHARBON, ACTIF (ONU 1362) par voie maritime, ses dispositions ne doivent pas s'appliquer à un envoi de charbon qui a subi avec succès l'essai d'échauffement spontané conformément aux Recommandations des Nations Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.3.1.3.3), et qui est accompagné du certificat correspondant délivré par un laboratoire reconnu par l'autorité compétente, attestant qu'un personnel formé du laboratoire en question a correctement prélevé l'échantillon sur l'envoi qui doit être chargé et que l'épreuve a été subie comme il convenait et avec succès.
 
-La présente annexe, élaborée en tenant compte des dispositions pertinentes de la norme EN 45001, spécifie les exigences à satisfaire par les laboratoires agréés en France, par le ministre chargé du transport maritime de matières dangereuses, pour effectuer ces opérations réglementaires. Il constitue le cahier des charges de ces laboratoires.
+La présente annexe, élaborée en tenant compte des dispositions pertinentes de   la norme EN ISO/CEI 17025, spécifie les exigences à satisfaire par les laboratoires agréés en France, par le ministre chargé du transport maritime de matières dangereuses, pour effectuer ces opérations réglementaires. Il constitue le cahier des charges de ces laboratoires.
 
 Tout laboratoire désirant être agréé (ou renouveler sa reconnaissance) devra déposer auprès de la mission Transport de matières dangereuses un dossier justificatif, montrant l'aptitude du laboratoire à respecter les exigences mentionnées dans le présent cahier des charges. La liste des éléments que doit contenir le dossier figure in fine.
 
 La mission Transport de matières dangereuses se réserve le droit de procéder à des visites dans les locaux du laboratoire pour vérifier le bien fondé du contenu du dossier et le respect des exigences spécifiées par le présent document.
 
-Nota : Dans la suite du présent document, le terme "essai d'échauffement spontané" désigne l'essai d'échauffement spontané, tel que décrit dans les recommandations des Nations-Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.3.1.3.3).
+Nota : Dans la suite du présent document, le terme " essai d'échauffement spontané " désigne l'essai d'échauffement spontané, tel que décrit dans les recommandations des Nations-Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.3.1.3.3).
 
-2 - Statut du laboratoire
+2-Statut du laboratoire
 
 2.1 Identité du laboratoire d'essais
 
@@ -32,7 +32,7 @@ La rémunération du personnel chargé d'effectuer les essais ne doit dépendre 
 
 Toutes les parties intéressées doivent avoir accès aux services du laboratoire d'essais. Les procédures selon lesquelles le laboratoire opère doivent être gérées de façon non discriminatoire.
 
-3 - Gestion et organisation
+3-Gestion et organisation
 
 Le laboratoire d'essais doit être compétent pour réaliser l'essai d'échauffement spontané et être organisé de façon que chaque membre du personnel soit informé de l'étendue et des limites de ses responsabilités.
 
@@ -42,7 +42,7 @@ Le laboratoire d'essais doit avoir un responsable technique connaissant la régl
 
 Un document décrivant la l'organisation du laboratoire d'essais doit être disponible et tenu à jour.
 
-4 - Personnel
+4-Personnel
 
 Le laboratoire d'essais doit disposer d'un personnel en nombre suffisant pour couvrir l'ensemble des besoins résultant de l'exercice de l'essai d'échauffement spontané et de la délivrance du certificat correspondant.
 
@@ -52,7 +52,7 @@ Le laboratoire d'essais doit pourvoir, en tant que de besoin, à la formation de
 
 Un document nominatif décrivant la répartition des fonctions et tâches du personnel engagé dans l'essai d'échauffement spontané doit être disponible et tenu à jour. Il sera complété par les pièces justificatives, tenues elles aussi à jour, témoignant de la qualification du personnel vis-à-vis de ses fonctions et tâches dans le cadre de la réalisation de l'essai.
 
-5 - Moyens techniques
+5-Moyens techniques
 
 5.1 Locaux
 
@@ -88,13 +88,13 @@ Les étalons de référence des équipements d'essai et de mesure, détenus par 
 
 Dans le cas exceptionnel où le laboratoire d'essais est amené à utiliser en son sein un équipement provenant de l'extérieur, il doit faire en sorte que la qualité et l'utilisation de cet équipement soient assurées conformément aux exigences du présent document.
 
-6 - Procédures de travail
+6-Procédures de travail
 
 6.1 Méthodes d'essais, modes opératoires et autres procédures
 
 Le laboratoire d'essais doit disposer de procédures écrites sur l'utilisation et le fonctionnement de tout le matériel concerné, sur la manipulation et la préparation du charbon soumis à l'essai, ainsi que sur les techniques propres à cet essai. Toutes ces procédures, ainsi que les normes, manuels et données de référence utiles aux travaux du laboratoire d'essais, doivent être tenus à jour et d'un accès facile pour le personnel concerné.
 
-L'essai doit faire l'objet d'une méthode et/ou d'un mode opératoire. Cette méthode et/ou mode opératoire doit répondre aux conditions des prescriptions réglementaires déjà mentionnées et être mise à la disposition des personnes effectuant l'essai.
+L'essai doit faire l'objet d'une méthode et/ ou d'un mode opératoire. Cette méthode et/ ou mode opératoire doit répondre aux conditions des prescriptions réglementaires déjà mentionnées et être mise à la disposition des personnes effectuant l'essai.
 
 Tous les calculs et les transferts de données doivent être soumis à des contrôles appropriés. Lorsque les résultats sont obtenus par des techniques informatiques de traitement des données, la fiabilité et la stabilité du système doivent être telles que l'exactitude des résultats ne soit pas affectée. Le système doit pouvoir détecter d'éventuelles défaillances au cours de l'exécution du programme et déclencher l'action appropriée.
 
@@ -124,7 +124,7 @@ f) des dispositions satisfaisantes concernant le retour d'information et les act
 
 Si l'épreuve est subie avec succès, le laboratoire d'essais délivre un certificat qui doit contenir les mentions suivantes :
 
-a) nom et adresse du laboratoire d'essais, et lieu des examens et/ou épreuves si celui-ci est différent ;
+a) nom et adresse du laboratoire d'essais, et lieu des examens et/ ou épreuves si celui-ci est différent ;
 
 b) numéro d'identification unique du certificat,
 
@@ -178,44 +178,44 @@ Le personnel du laboratoire d'essais, doit être tenu au secret professionnel su
 
 Eléments à fournir dans le dossier de demande d'agrément
 
-* Au titre du paragraphe 2 - Statut du laboratoire d'essais :
+* Au titre du paragraphe 2-Statut du laboratoire d'essais :
 
-- Nom du laboratoire d'essais ou de l'entreprise dans laquelle se situe le laboratoire d'essais, adresse, téléphone, télécopie,
+-Nom du laboratoire d'essais ou de l'entreprise dans laquelle se situe le laboratoire d'essais, adresse, téléphone, télécopie,
 
-- Statut, structure juridique du laboratoire d'essais (ou de l'entreprise, ou de l'organisme suivant les cas),
+-Statut, structure juridique du laboratoire d'essais (ou de l'entreprise, ou de l'organisme suivant les cas),
 
-- Place du laboratoire d'essais au sein de l'entreprise ou de l'organisme.
+-Place du laboratoire d'essais au sein de l'entreprise ou de l'organisme.
 
-* Au titre du paragraphe 3 - Gestion et organisation :
+* Au titre du paragraphe 3-Gestion et organisation :
 
-- Document, prévu dans ce paragraphe, décrivant l'organisation du laboratoire d'essais,
+-Document, prévu dans ce paragraphe, décrivant l'organisation du laboratoire d'essais,
 
-- Organigrammes et schémas éventuellement complémentaires pour une bonne compréhension de l'organisation,
+-Organigrammes et schémas éventuellement complémentaires pour une bonne compréhension de l'organisation,
 
-- Nom, qualité et qualification du responsable technique du laboratoire d'essais.
+-Nom, qualité et qualification du responsable technique du laboratoire d'essais.
 
-* Au titre du paragraphe 4 - Personnel :
+* Au titre du paragraphe 4-Personnel :
 
-- Document nominatif, prévu dans ce paragraphe, décrivant la répartition des fonctions et tâches du personnel ;
+-Document nominatif, prévu dans ce paragraphe, décrivant la répartition des fonctions et tâches du personnel ;
 
-- Adéquation de celles-ci avec les besoins résultant de l'essai ;
+-Adéquation de celles-ci avec les besoins résultant de l'essai ;
 
-- Mode de désignation et de formation du personnel, permettant de justifier sa qualification vis-à-vis de ses fonctions et tâches relatives à l'essai.
+-Mode de désignation et de formation du personnel, permettant de justifier sa qualification vis-à-vis de ses fonctions et tâches relatives à l'essai.
 
-* Au titre du paragraphe 5 - Moyens techniques :
+* Au titre du paragraphe 5-Moyens techniques :
 
-- Inventaire des locaux prévus pour la réalisation de l'essai, avec indication de leurs protections particulières (point 5. 1) ;
+-Inventaire des locaux prévus pour la réalisation de l'essai, avec indication de leurs protections particulières (point 5.1) ;
 
-- Liste, avec situation, des équipements utilisés pour l'essai, en précisant ceux considérés comme nécessitant un enregistrement de leur maintenance et de leurs vérifications (point 5.2).
+-Liste, avec situation, des équipements utilisés pour l'essai, en précisant ceux considérés comme nécessitant un enregistrement de leur maintenance et de leurs vérifications (point 5.2).
 
-* Au titre du paragraphe 6 - Procédures de travail :
+* Au titre du paragraphe 6-Procédures de travail :
 
-- Recueil des méthodes d'essais, des modes opératoires et des autres procédures visés dans ce paragraphe (point 6. 1) ;
+-Recueil des méthodes d'essais, des modes opératoires et des autres procédures visés dans ce paragraphe (point 6.1) ;
 
-- Manuel qualité (point 6.2) (Celui-ci, s'il ne peut être envoyé par courrier, sera systématiquement demandé lors de la visite dans les locaux du laboratoire) ;
+-Manuel qualité (point 6.2) (Celui-ci, s'il ne peut être envoyé par courrier, sera systématiquement demandé lors de la visite dans les locaux du laboratoire) ;
 
-- Système d'enregistrements mis en place (point 6.4) ;
+-Système d'enregistrements mis en place (point 6.4) ;
 
-- Système d'identification des échantillons et envois retenu et règles adoptées pour leur protection (point 6.5) ;
+-Système d'identification des échantillons et envois retenu et règles adoptées pour leur protection (point 6.5) ;
 
-- Autres laboratoires d'essais à qui peuvent être confiés des examens ou épreuves à titre accidentel ou occasionnel (point 6.6)
+-Autres laboratoires d'essais à qui peuvent être confiés des examens ou épreuves à titre accidentel ou occasionnel (point 6.6)
