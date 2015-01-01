@@ -2,7 +2,7 @@
 
 I. ― Le financement du régime d'assurance maladie, maternité, invalidité et décès de Mayotte prévu à l'article 19 est assuré par une contribution sociale assise :
 
-1° Sur l'ensemble des rémunérations et des revenus d'activité définis à l'article 28-1, qui sont perçus par les salariés et les travailleurs indépendants agricoles et non agricoles ;
+1° Sur l'ensemble des rémunérations et des revenus d'activité définis à l'article 28-1, qui sont perçus par les salariés et les travailleurs indépendants non agricoles ;
 
 2° Sur les pensions, allocations de retraite ou d'invalidité, allocations chômage ainsi que sur tous les autres revenus de remplacement, sous réserve des exonérations accordées aux titulaires de ces revenus dont les ressources sont insuffisantes ; la définition et les modalités de ces exonérations sont fixées par décret ;
 
