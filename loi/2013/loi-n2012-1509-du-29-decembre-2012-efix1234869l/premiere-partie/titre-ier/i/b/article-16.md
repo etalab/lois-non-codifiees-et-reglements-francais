@@ -28,4 +28,16 @@ I.-A modifié les dispositions suivantes :
 > >
 > >
 > >
-> > III.-Le II entre en vigueur au 1er janvier 2013.
+> > C. - La métropole de Lyon est substituée de plein droit à la communauté urbaine de Lyon pour l'application du présent II.
+> >
+> >
+> >
+> >
+> > III. - A. - Les A et B du II entrent en vigueur le 1er janvier 2013.
+> >
+> >
+> >
+> >
+> > B. - Le C du II entre en vigueur le 1er janvier 2015.
+
+> >
