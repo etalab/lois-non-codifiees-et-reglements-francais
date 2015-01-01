@@ -82,7 +82,7 @@ Le ministre chargé de l'économie est l'ordonnateur principal de ce compte, qui
 
 Ce compte comporte quatre sections.
 
-La première section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à des Etats émergents en vue de faciliter la réalisation de projets d'infrastructure.
+La première section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à des Etats étrangers en vue de faciliter la vente de biens et services concourant au développement du commerce extérieur de la France.
 
 La deuxième section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à des Etats étrangers pour consolidation de dette envers la France.
 
@@ -110,9 +110,9 @@ Le ministre chargé du budget est l'ordonnateur principal de ce compte, qui repr
 
 Ce compte retrace :
 
-1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
+1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ainsi qu'à la société TV5 Monde ;
 
-2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 527,3 millions d'euros en 2014.
+2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 517,0 millions d'euros en 2015.
 
 Les frais d'assiette et de recouvrement sont calculés conformément au XI de l'article 1647 du code général des impôts.
 
@@ -124,7 +124,7 @@ Le solde est versé lors des opérations de répartition des recettes arrêtées
 
 Les versements ne peuvent avoir pour effet de porter les avances effectuées pendant l'année civile à un montant supérieur aux recettes effectives du compte.
 
-3. Si les encaissements de contribution à l'audiovisuel public nets en 2014 sont inférieurs à 3 023,8 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
+3. Si les encaissements de contribution à l'audiovisuel public nets en 2015 sont inférieurs à 3 149,8 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
 
 VII.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
