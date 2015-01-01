@@ -1,5 +1,5 @@
 # Article 2
 
-La commission établit son règlement intérieur. Celui-ci fixe notamment les modalités selon lesquelles elle examine les demandes d'aide prévues à l'article 1er (2°) du décret du 6 février 1986 susvisé, les règles de quorum et de vote de ses membres, les modalités selon lesquelles elle peut constituer des sous-commissions, nommer des rapporteurs et entendre toute personne dont elle estime l'avis nécessaire.
+Les vacations sont destinées à indemniser les fonctions de commissaires enquêteurs telles qu'elles sont définies par le code de l'expropriation pour cause d'utilité publique.
 
-Le règlement intérieur est soumis pour approbation au ministre de la culture.
+Le préfet fixe le nombre de vacations sur la base du nombre d'heures que le commissaire enquêteur déclare avoir consacrées à l'enquête, en tenant compte des difficultés de l'enquête ainsi que de la nature et de la qualité du travail fourni par celui-ci. Le nombre de vacations peut être modulé, dans le cas d'une commission d'enquête, entre les membres de la commission.

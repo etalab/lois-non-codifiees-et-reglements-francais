@@ -1,5 +1,5 @@
 # Article 3
 
-En cas de partage des voix, le président de la commission a voix prépondérante.
+Le montant de la vacation horaire, hors taxe sur la valeur ajoutée, est fixée à 38,10 Euros.
 
-Le secrétariat de la commission est assuré par le Centre national du cinéma et de l'image animée.
+Lorsque l'enquête préalable et l'enquête parcellaire sont exécutées simultanément ou consécutivement, le montant de la vacation afférente à l'enquête parcellaire est réduit de moitié.

@@ -2,7 +2,7 @@
 
 Le préfet engage la procédure d'expropriation, après information des ministres chargés des mines, de la sécurité civile et du budget.
 
-Pour l'application des dispositions du premier alinéa de l'article 95 du code minier, le dossier soumis à l'enquête publique prévu par le II de l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique est complété par une analyse des risques décrivant les phénomènes miniers auxquels les biens sont exposés et permettant d'apprécier l'importance ainsi que la gravité de la menace qu'ils présentent pour la sécurité des personnes, au regard notamment des critères suivants :
+Pour l'application des dispositions du premier alinéa de l'article 95 du code minier, le dossier soumis à l'enquête publique prévu par l'article R. 112-5 du code de l'expropriation pour cause d'utilité publique est complété par une analyse des risques décrivant les phénomènes miniers auxquels les biens sont exposés et permettant d'apprécier l'importance ainsi que la gravité de la menace qu'ils présentent pour la sécurité des personnes, au regard notamment des critères suivants :
 
 a) Les circonstances de temps et de lieu dans lesquelles le phénomène minier est susceptible de se produire ;
 

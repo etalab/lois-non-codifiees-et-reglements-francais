@@ -10,7 +10,7 @@ La demande est accompagnée d'un dossier comprenant :
 
 3° Une évaluation des incidences sur l'environnement lorsque le code de l'environnement la requiert ;
 
-4° Les pièces prévues au I de l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique ;
+4° Les pièces prévues à  l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique ;
 
 5° Les pièces attestant le refus d'accès au réseau public de transport ou de distribution d'électricité opposé au demandeur, ou, en cas d'absence de réponse du gestionnaire du réseau public de transport ou de distribution concerné au demandeur dans un délai de trois mois, la preuve du dépôt de la demande.
 

@@ -12,4 +12,4 @@ Les observations des intéressés sur la constitution de l'association sont éga
 
 Après avoir clos et signé les registres d'enquête, le commissaire enquêteur les transmet immédiatement au préfet, avec un rapport contenant des conclusions motivées et précisant si elles sont favorables ou non à la constitution de l'association ainsi que le dossier de l'enquête. Ces opérations doivent être terminées dans le délai d'un mois à compter de la clôture de cette enquête.
 
-La copie du rapport du commissaire enquêteur est déposée en mairie et communiquée aux personnes intéressées dans les conditions fixées aux articles R. 11-11 et R. 11-12 du code de l'expropriation pour cause d'utilité publique.
+La copie du rapport du commissaire enquêteur est déposée en mairie et communiquée aux personnes intéressées dans les conditions fixées aux articles R. 112-21 et R. 112-24 du code de l'expropriation pour cause d'utilité publique.
