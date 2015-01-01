@@ -1,5 +1,7 @@
 # Article 3
 
+La préadmission, commune aux premier et second concours, comprend des épreuves d'exercices physiques dont la nature, les modalités et le barème sont fixés par l'arrêté du 18 octobre 2012 susvisé (coefficient 3). Ces épreuves comportent un parcours d'habileté motrice et un test d'endurance cardio-respiratoire.
+
 Les épreuves écrites distinctes d'admissibilité sont définies comme suit :
 
 Au titre du premier concours, une composition portant :

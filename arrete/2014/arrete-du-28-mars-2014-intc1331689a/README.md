@@ -2,7 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Admissibilité aux premier et second concours](chapitre-ier)
-- [Chapitre II : Admission aux premier et second concours](chapitre-ii)
+- [Chapitre II : Préadmission et admission aux premier et second concours](chapitre-ii)
 - [Chapitre III : Dispositions communes aux jurys de concours](chapitre-iii)
 - [Chapitre IV : Dispositions diverses](chapitre-iv)
 - [Annexes](annexes)
