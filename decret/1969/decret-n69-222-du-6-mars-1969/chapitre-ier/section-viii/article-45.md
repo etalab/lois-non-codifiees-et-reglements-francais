@@ -1,5 +1,3 @@
 # Article 45
 
-Le concours interne est ouvert aux fonctionnaires et agents publics de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale à la date de clôture des inscriptions.
-
-Les intéressés doivent justifier de quatre ans au moins de services publics au 1er janvier de l'année du concours.
+Le nombre total de nominations susceptibles d'être prononcées au titre du 4° de l'article 43 et du 4° de l'article 44 ne peut excéder deux cinquièmes du nombre des nominations prononcées en application des 1°, 2° et 3° des articles 43 et 44, des détachements de longue durée et des intégrations directes.

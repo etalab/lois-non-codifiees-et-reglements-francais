@@ -52,6 +52,8 @@ Secrétaires d'administration et de contrôle du développement durable.
 
 Secrétaires de documentation du ministère de la culture.
 
+Secrétaires des systèmes d'information et de communication du ministère des affaires étrangères
+
 Techniciens d'art.
 
 Techniciens de formation et de recherche du ministère de l'agriculture.
