@@ -450,7 +450,6 @@
 - [Décret n°95-1021 du 15 septembre 1995 (SANG9502119D)](decret-n95-1021-du-15-septembre-1995-sang9502119d)
 - [Décret n°95-158 du 15 février 1995 (SPSS9500079D)](decret-n95-158-du-15-fevrier-1995-spss9500079d)
 - [Décret n°95-159 du 15 février 1995 (SPSS9500084D)](decret-n95-159-du-15-fevrier-1995-spss9500084d)
-- [Décret n°95-161 du 15 février 1995 (JUSC9520000D)](decret-n95-161-du-15-fevrier-1995-jusc9520000d)
 - [Décret n°95-162 du 15 février 1995 (JUSC9520098D)](decret-n95-162-du-15-fevrier-1995-jusc9520098d)
 - [Décret n°95-163 du 15 février 1995 (SPSS9403982D)](decret-n95-163-du-15-fevrier-1995-spss9403982d)
 - [Décret n°95-164 du 15 février 1995 (SPSS9403984D)](decret-n95-164-du-15-fevrier-1995-spss9403984d)
