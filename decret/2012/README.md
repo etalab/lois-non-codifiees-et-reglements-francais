@@ -367,6 +367,7 @@
 - [Décret n°2012-350 du 12 mars 2012 (JUST1131760D)](decret-n2012-350-du-12-mars-2012-just1131760d)
 - [Décret n°2012-352 du 12 mars 2012 (DEVL1130126D)](decret-n2012-352-du-12-mars-2012-devl1130126d)
 - [Décret n°2012-353 du 12 mars 2012 (DEVL1130102D)](decret-n2012-353-du-12-mars-2012-devl1130102d)
+- [Décret n°2012-40 du 12 janvier 2012 (MAEG1129478D)](decret-n2012-40-du-12-janvier-2012-maeg1129478d)
 - [Décret n°2012-469 du 12 avril 2012 (MAEF1209452D)](decret-n2012-469-du-12-avril-2012-maef1209452d)
 - [Décret n°2012-475 du 12 avril 2012 (DEVP1127438D)](decret-n2012-475-du-12-avril-2012-devp1127438d)
 - [Décret n°2012-477 du 12 avril 2012 (ETSS1202905D)](decret-n2012-477-du-12-avril-2012-etss1202905d)
