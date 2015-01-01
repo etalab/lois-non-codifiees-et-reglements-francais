@@ -8,11 +8,17 @@ Les dispositions du code de l'action sociale et des familles entrent en vigueur 
 
 Jusqu'à cette date, les dispositions correspondantes des articles L. 540-1, L. 542-1, L. 542-2, L. 542-3, L. 542-8, L. 542-9, L. 548-2, L. 548-3 et L. 548-4 demeurent en vigueur dans leur rédaction antérieure à la présente ordonnance ;
 
-3° Les articles L. 146-3 à L. 146-13 du livre Ier et le chapitre Ier bis du titre IV du livre II entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2016 ;
+3° A l'exception de l'article L. 146-8, les articles L. 146-3 à L. 146-13 du livre Ier et le chapitre Ier bis du titre IV du livre II entrent en vigueur à une date fixée par décret et au plus tard le 1er janvier 2016 ;
 
-Jusqu'à la date mentionnée au premier alinéa, les articles L. 545-1 à L. 545-4, dans leur rédaction antérieure à la présente ordonnance, demeurent en vigueur et l'article L. 545-1, dans cette même rédaction est complété par une phrase ainsi rédigée : « En 2012 et pour les exercices suivants, la Caisse nationale de solidarité pour l'autonomie verse le concours prévu au b du III de l'article L. 14-10-5 pour l'installation et le fonctionnement des maisons départementales des personnes handicapées pour le financement du service commun prévu au présent article. » ;
+Jusqu'à la date mentionnée au premier alinéa, les articles L. 545-1 à L. 545-4, dans leur rédaction antérieure à la présente ordonnance, demeurent en vigueur et l'article L. 545-1, dans cette même rédaction est complété par une phrase ainsi rédigée : " En 2012 et pour les exercices suivants, la Caisse nationale de solidarité pour l'autonomie verse le concours prévu au b du III de l'article L. 14-10-5 pour l'installation et le fonctionnement des maisons départementales des personnes handicapées pour le financement du service commun prévu au présent article. " ;
 
 Une évaluation du fonctionnement du service commun mentionné à l'article L. 545-1, dans sa rédaction antérieure à la présente ordonnance, est réalisée au plus tard le 30 juin 2015 ;
+
+3° bis La commission prévue à l'article L. 545-2 dans sa rédaction antérieure à la présente ordonnance est compétente pour instruire les droits à la prestation de compensation dans les conditions prévues au titre IV du livre V du code de l'action sociale et des familles.
+
+Les décisions prises par cette commission peuvent faire l'objet d'un recours devant le tribunal de grande instance.
+
+Jusqu'à la date prévue au 3°, la référence à l'article L. 146-9 est remplacée par la référence à l'article L. 545-2 tel que maintenu en vigueur par ce même 3°.
 
 4° Les dispositions des articles L. 226-10 et L. 226-11 et le chapitre VIII du titre IV du livre II entrent en vigueur le 1er janvier 2014. Jusqu'à cette date, les dispositions correspondantes des articles L. 542-1, L. 548-2, L. 548-3 et L. 548-4 demeurent en vigueur dans leur rédaction antérieure à la présente ordonnance ;
 
