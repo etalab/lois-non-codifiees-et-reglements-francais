@@ -2596,7 +2596,6 @@
 - [Arrêté du 28 mars 2006 (BUDL0600030A)](arrete-du-28-mars-2006-budl0600030a)
 - [Arrêté du 28 octobre 2008 (ECEP0812023A)](arrete-du-28-octobre-2008-ecep0812023a)
 - [Arrêté du 28 octobre 2009 (ESRS0920573A)](arrete-du-28-octobre-2009-esrs0920573a)
-- [Arrêté du 28 octobre 2010 (DEVP1022585A)](arrete-du-28-octobre-2010-devp1022585a)
 - [Arrêté du 28 octobre 2010 (DEVT1025159A)](arrete-du-28-octobre-2010-devt1025159a)
 - [Arrêté du 28 octobre 2010 (ECEC1024630A)](arrete-du-28-octobre-2010-ecec1024630a)
 - [Arrêté du 28 octobre 2010 (ECET1026415A)](arrete-du-28-octobre-2010-ecet1026415a)
