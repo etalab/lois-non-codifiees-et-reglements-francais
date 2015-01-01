@@ -94,7 +94,6 @@
 - [Décret n°79-432 du 25 mai 1979](decret-n79-432-du-25-mai-1979)
 - [Décret n°79-1127 du 26 décembre 1979](decret-n79-1127-du-26-decembre-1979)
 - [Décret n°79-1012 du 27 novembre 1979](decret-n79-1012-du-27-novembre-1979)
-- [Décret n°79-1135 du 27 décembre 1979](decret-n79-1135-du-27-decembre-1979)
 - [Décret n°79-156 du 27 février 1979](decret-n79-156-du-27-fevrier-1979)
 - [Décret n°79-185 du 27 février 1979](decret-n79-185-du-27-fevrier-1979)
 - [Décret n°79-211 du 27 février 1979](decret-n79-211-du-27-fevrier-1979)
