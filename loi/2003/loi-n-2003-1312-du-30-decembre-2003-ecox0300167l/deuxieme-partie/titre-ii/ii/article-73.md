@@ -2,6 +2,8 @@
 
 A. - I. - Il est créé une taxe dont le produit est affecté, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Centre technique interprofessionnel des fruits et légumes. Le produit ainsi affecté permet de financer les missions dévolues à cet organisme par la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels, et notamment les actions de certification, de recherche et d'expérimentation dans le secteur des fruits et légumes.
 
+Le plafond mentionné au premier alinéa du présent I porte sur les encaissements réalisés sur la base du chiffre d'affaires des redevables au titre de l'année du fait générateur.
+
 Les opérations financées au moyen du produit de cette taxe font l'objet d'une comptabilité distincte tenue par le centre technique.
 
 II. - La taxe est due par les personnes assurant la production ou le commerce de gros de plantes aromatiques à usage culinaire, de fruits et légumes frais, secs ou séchés, à l'exception des pommes de terre de conservation ou des bananes, lorsque ces produits ne sont pas destinés à subir un processus industriel de longue conservation de nature à leur conférer la qualification de fruits et légumes transformés ou de boissons alcooliques.

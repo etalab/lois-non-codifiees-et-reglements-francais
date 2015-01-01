@@ -10,17 +10,22 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">A. ― IMPOSITION<br/>ou ressource affectée <br/>
+<p align="center">A. ― IMPOSITION ou ressource affectée <br/>
 </p>
 </td>
 <td align="left" valign="top">
-<p align="center">B. ― PERSONNE<br/>affectataire <br/>
+<p align="center">B. ― PERSONNE affectataire <br/>
 </p>
 </td>
 <td align="left" valign="top">
 <p align="center">C. ― PLAFOND<br/>ou montant<br/>
 </p>
 </td>
+</tr>
+<tr>
+<td>Article L. 342-21 du code de la construction et de l'habitation</td>
+<td>Agence nationale de contrôle du logement social</td>
+<td>15 000</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -41,7 +46,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Agence de financement des infrastructures de transport de France (AFITF) <br/>
 </td>
 <td align="left" valign="top">
-<br/>610 000 <br/>
+<br/>561 000 <br/>
 </td>
 </tr>
 <tr>
@@ -63,8 +68,18 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Agence nationale de l'habitat (ANAH) <br/>
 </td>
 <td align="left" valign="top">
-<br/>21 000 <br/>
+<br/>61 000 <br/>
 </td>
+</tr>
+<tr>
+<td>1° de l'article L. 342-21 du code de la construction et de l'habitation</td>
+<td>Agence nationale de contrôle du logement social</td>
+<td>7 000 </td>
+</tr>
+<tr>
+<td>2° de l'article L. 342-21 du code de la construction et de l'habitation </td>
+<td>Agence nationale de contrôle du logement social </td>
+<td>12 300 </td>
 </tr>
 <tr>
 <td>
@@ -83,7 +98,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Agence nationale pour la gestion des déchets radioactifs (ANDRA) <br/>
 </td>
 <td align="left" valign="top">
-<br/>120 000 <br/>
+<br/>100 000 <br/>
 </td>
 </tr>
 <tr>
@@ -109,9 +124,11 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </td>
 </tr>
 <tr>
-<td>Article 1628 ter du code général des impôts</td>
+<td>
+<p align="left">Article 1628 ter du code général des impôts</p>
+</td>
 <td>Agence nationale des titres sécurisés</td>
-<td>4 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -120,8 +137,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <td align="left" valign="top">
 <br/>ANTS <br/>
 </td>
-<td align="left" valign="top">
-<br/>96 750<br/>
+<td align="left" valign="top">118 750<br/>
 </td>
 </tr>
 <tr>
@@ -147,29 +163,45 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 </td>
 </tr>
 <tr>
-<td>Article 1605 nonies du code général des impôts </td>
+<td>
+<p align="left">Article 1605 nonies du code général des impôts </p>
+</td>
 <td>Agence de services et de paiement </td>
 <td>12 000</td>
 </tr>
 <tr>
-<td>Article L. 612-20 du code monétaire et financier <br/>
-</td>
-<td>Autorité de contrôle prudentiel et de résolution (ACPR)</td>
-<td>205 000 </td>
+<td>Article L. 253-8-2 du code rural et de la pêche maritime </td>
+<td>Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail </td>
+<td>4 200 </td>
 </tr>
 <tr>
-<td>Articles L. 621-5-3 et suivants du code monétaire et financier <br/>
+<td>Article L. 341-6 du code forestier </td>
+<td>Agence de services et de paiement </td>
+<td>18 000 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Article L. 612-20 du code monétaire et financier <br/>
+</p>
+</td>
+<td>Autorité de contrôle prudentiel et de résolution (ACPR)</td>
+<td>195 000 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Articles L. 621-5-3 et suivants du code monétaire et financier <br/>
+</p>
 </td>
 <td>Autorité des marchés financiers (AMF) <br/>
 </td>
-<td>95 000 </td>
+<td>74 000 </td>
 </tr>
 <tr>
 <td>Article L. 2132-13 du code des transports </td>
 <td>
 <br/>Autorité de régulation des activités ferroviaires (ARAF)</td>
 <td>
-<br/>0 <br/>
+<br/>11 000 <br/>
 </td>
 </tr>
 <tr>
@@ -191,7 +223,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Caisse de garantie du logement locatif social</p>
 </td>
 <td>
-<p align="left">120 000</p>
+<p align="left">45 000</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +245,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre d'étude et de recherche de l'industrie du béton (CERIB) ; Centre technique de matériaux naturels de construction (CTMNC) <br/>
 </td>
 <td align="left" valign="top">
-<br/>15 000<br/>
+<br/>14 500<br/>
 </td>
 </tr>
 <tr>
@@ -224,7 +256,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre national pour le développement du sport (CNDS) <br/>
 </td>
 <td align="left" valign="top">
-<br/>31 000 <br/>
+<br/>34 600 <br/>
 </td>
 </tr>
 <tr>
@@ -235,7 +267,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>CNDS <br/>
 </td>
 <td align="left" valign="top">
-<br/>176 300 <br/>
+<br/>170 500 <br/>
 </td>
 </tr>
 <tr>
@@ -285,7 +317,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Centre national de la chanson, des variétés et du jazz (CNV) <br/>
 </td>
 <td align="left" valign="top">
-<br/>29 000 <br/>
+<br/>30 000 <br/>
 </td>
 </tr>
 <tr>
@@ -296,7 +328,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Chambres d'agriculture</p>
 </td>
 <td>
-<p align="left">297 000 </p>
+<p align="left">292 000 </p>
 </td>
 </tr>
 <tr>
@@ -318,7 +350,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Chambres de commerce et d'industrie</p>
 </td>
 <td>
-<p align="left">719 000 </p>
+<p align="left">506 117</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +361,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Chambres de métiers et de l'artisanat</p>
 </td>
 <td align="left" valign="top">
-<p align="left">245 000 </p>
+<p align="left">244 009 </p>
 </td>
 </tr>
 <tr>
@@ -378,10 +410,10 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>E de l'article 71 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) <br/>
 </td>
 <td align="left" valign="top">
-<br/>Centres techniques industriels de la mécanique (CETIM, Centre technique de l'industrie du décolletage, Centre technique industriel de la construction métallique, Centre technique des industries aérauliques et thermiques, Institut de soudure) <br/>
+<br/>Centres techniques industriels de la mécanique (CETIM, Centre technique des industries mécaniques et du décolletage, Centre technique industriel de la construction métallique, Centre technique des industries aérauliques et thermiques, Institut de soudure) <br/>
 </td>
 <td align="left" valign="top">
-<br/>70 000</td>
+<br/>70 500</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -391,8 +423,74 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Centre technique interprofessionnel des fruits et légumes </p>
 </td>
 <td align="left" valign="top">
-<p align="left">17 000 </p>
+<p align="left">4 500 </p>
 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Lorraine </td>
+<td>25 300 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Normandie </td>
+<td>22 100 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de l'Ouest Rhône-Alpes </td>
+<td>30 600 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Provence-Alpes-Côte d'Azur </td>
+<td>83 700 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de la région Ile-de-France </td>
+<td>125 200 </td>
+</tr>
+<tr>
+<td>
+<br/>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier des Hauts-de-Seine </td>
+<td>27 100 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier des Yvelines </td>
+<td>23 700 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier du Val-d'Oise </td>
+<td>19 600 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Poitou-Charentes </td>
+<td>12 100 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Languedoc-Roussillon </td>
+<td>31 800 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Bretagne </td>
+<td>21 700 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier de Vendée </td>
+<td>7 700 </td>
+</tr>
+<tr>
+<td>Articles 1607 ter du code général des impôts et L. 321-1 du code de l'urbanisme </td>
+<td>Etablissement public foncier Nord - Pas-de-Calais </td>
+<td>80 200 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -402,7 +500,12 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Etablissement public de sécurité ferroviaire (EPSF) <br/>
 </td>
 <td align="left" valign="top">
-<br/>15 800</td>
+<br/>10 500</td>
+</tr>
+<tr>
+<td>Article 1601 B du code général des impôts </td>
+<td>Fonds d'assurance formation des chefs d'entreprise inscrits au répertoire des métiers mentionné au III de l'article 8 de l'ordonnance n° 2003-1213 du 18 décembre 2003 </td>
+<td>54 000 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -423,7 +526,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Fonds de solidarité pour le développement (FSD)</p>
 </td>
 <td align="left" valign="top">
-<p align="left">100 000</p>
+<p align="left">140 000</p>
 </td>
 </tr>
 <tr>
@@ -453,6 +556,16 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <td align="left" valign="top">
 <br/>22 000 <br/>
 </td>
+</tr>
+<tr>
+<td>Article L. 236-2 du code rural et de la pêche maritime </td>
+<td>FranceAgriMer </td>
+<td>2 000 </td>
+</tr>
+<tr>
+<td>Articles L. 236-2-2 et L. 251-17-2 du code rural et de la pêche maritime </td>
+<td>FranceAgriMer </td>
+<td>2 000 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -506,7 +619,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Médiateur national de l'énergie <br/>
 </td>
 <td align="left" valign="top">
-<br/>7 000 <br/>
+<br/>6 860 <br/>
 </td>
 </tr>
 <tr>
@@ -583,7 +696,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <p align="left">Office national de la chasse et de la faune sauvage</p>
 </td>
 <td>
-<p align="left">69 000 </p>
+<p align="left">67 620 </p>
 </td>
 </tr>
 <tr>
@@ -594,7 +707,7 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Société du Grand Paris (SGP) <br/>
 </td>
 <td align="left" valign="top">
-<br/>350 000 <br/>
+<br/>375 000 <br/>
 </td>
 </tr>
 <tr>
@@ -627,14 +740,14 @@ I. ― Le produit des ressources et impositions instituées par les dispositions
 <br/>Voies navigables de France (VNF) <br/>
 </td>
 <td align="left" valign="top">
-<br/>142 600 <br/>
+<br/>139 748 <br/>
 </td>
 </tr>
 <tr>
 <td>Article 1609 quatervicies A du code général des impôts <br/>
 </td>
 <td>Personnes publiques ou privées exploitant des aérodromes </td>
-<td>49 000 </td>
+<td>48 000 </td>
 </tr>
 </tbody>
 </table>

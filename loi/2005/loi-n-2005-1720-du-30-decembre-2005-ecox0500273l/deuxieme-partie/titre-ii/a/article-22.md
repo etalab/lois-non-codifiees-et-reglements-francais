@@ -4,7 +4,7 @@ I.-Il est créé un fonds de solidarité pour le développement dont l'objet est
 
 Ce fonds est géré par l'Agence française de développement, selon des modalités fixées par décret.
 
-Une fraction de 15 % du produit de la taxe prévue à l'article 235 ter ZD du code général des impôts est affectée à ce fonds, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+Une fraction de 25 % du produit de la taxe prévue à l'article 235 ter ZD du code général des impôts est affectée à ce fonds, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
 
 II. Paragraphe modificateur
 

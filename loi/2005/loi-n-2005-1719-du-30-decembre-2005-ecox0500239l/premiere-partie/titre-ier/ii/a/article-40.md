@@ -8,267 +8,273 @@ A compter de 2006, le montant de la compensation servant au calcul de la fractio
 
 Jusqu'à la connaissance des montants définitifs des quantités de carburants et des droits à compensation susmentionnés, ces fractions de tarifs, exprimées en euros par hectolitre, sont fixées provisoirement comme suit :
 
-<div>
+<div align="center">
+
+<br/>
+
 <table>
 <tbody>
 <tr>
-<th>RÉGION <br/>
+<th>
+<br/>RÉGION<br/>
 </th>
 <th>
-<br/>GAZOLE <br/>
+<br/>GAZOLE<br/>
 </th>
 <th>
-<br/>SUPERCARBURANT <br/>
-<br/>sans plomb <br/>
+<br/>SUPERCARBURANT SANS PLOMB<br/>
 </th>
 </tr>
 <tr>
-<td align="center">
-<br/>Alsace <br/>
+<td>
+<br/>Alsace<br/>
 </td>
-<td align="center">
-<br/>4,76 <br/>
+<td align="center" valign="middle">
+<br/>5,30<br/>
 </td>
-<td align="center">
-<br/>6,72 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Aquitaine <br/>
-</td>
-<td align="center">
-<br/>4,42 <br/>
-</td>
-<td align="center">
-<br/>6,25 <br/>
+<td align="center" valign="middle">
+<br/>7,50<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Auvergne <br/>
+<td>
+<br/>Aquitaine<br/>
 </td>
-<td align="center">
-<br/>5,76 <br/>
+<td align="center" valign="middle">
+<br/>4,81<br/>
 </td>
-<td align="center">
-<br/>8,14 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bourgogne <br/>
-</td>
-<td align="center">
-<br/>4,14 <br/>
-</td>
-<td align="center">
-<br/>5,85 <br/>
+<td align="center" valign="middle">
+<br/>6,81<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bretagne <br/>
+<td>
+<br/>Auvergne<br/>
 </td>
-<td align="center">
-<br/>4,83 <br/>
+<td align="center" valign="middle">
+<br/>6,17<br/>
 </td>
-<td align="center">
-<br/>6,85 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Centre <br/>
-</td>
-<td align="center">
-<br/>4,30 <br/>
-</td>
-<td align="center">
-<br/>6,07 <br/>
+<td align="center" valign="middle">
+<br/>8,73<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Champagne-Ardenne <br/>
+<td>
+<br/>Bourgogne<br/>
 </td>
-<td align="center">
-<br/>4,85 <br/>
+<td align="center" valign="middle">
+<br/>4,32<br/>
 </td>
-<td align="center">
-<br/>6,85 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Corse <br/>
-</td>
-<td align="center">
-<br/>9,72 <br/>
-</td>
-<td align="center">
-<br/>13,75 <br/>
+<td align="center" valign="middle">
+<br/>6,13<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Franche-Comté <br/>
+<td>
+<br/>Bretagne<br/>
 </td>
-<td align="center">
-<br/>5,90 <br/>
+<td align="center" valign="middle">
+<br/>5,09<br/>
 </td>
-<td align="center">
-<br/>8,36 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Ile-de-France <br/>
-</td>
-<td align="center">
-<br/>12,10 <br/>
-</td>
-<td align="center">
-<br/>17,10 <br/>
+<td align="center" valign="middle">
+<br/>7,20<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Languedoc-Roussillon <br/>
+<td>
+<br/>Centre<br/>
 </td>
-<td align="center">
-<br/>4,15 <br/>
+<td align="center" valign="middle">
+<br/>4,56<br/>
 </td>
-<td align="center">
-<br/>5,86 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Limousin <br/>
-</td>
-<td align="center">
-<br/>8,01 <br/>
-</td>
-<td align="center">
-<br/>11,31 <br/>
+<td align="center" valign="middle">
+<br/>6,45<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lorraine <br/>
+<td>
+<br/>Champagne-Ardenne<br/>
 </td>
-<td align="center">
-<br/>7,27 <br/>
+<td align="center" valign="middle">
+<br/>5,06<br/>
 </td>
-<td align="center">
-<br/>10,30 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Midi-Pyrénées <br/>
-</td>
-<td align="center">
-<br/>4,70 <br/>
-</td>
-<td align="center">
-<br/>6,66 <br/>
+<td align="center" valign="middle">
+<br/>7,17<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nord-Pas-de-Calais <br/>
+<td>
+<br/>Corse<br/>
 </td>
-<td align="center">
-<br/>6,80 <br/>
+<td align="center" valign="middle">
+<br/>9,87<br/>
 </td>
-<td align="center">
-<br/>9,61 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Basse-Normandie <br/>
-</td>
-<td align="center">
-<br/>5,12 <br/>
-</td>
-<td align="center">
-<br/>7,23 <br/>
+<td align="center" valign="middle">
+<br/>13,95<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Haute-Normandie <br/>
+<td>
+<br/>Franche-Comté<br/>
 </td>
-<td align="center">
-<br/>5,05 <br/>
+<td align="center" valign="middle">
+<br/>6,09<br/>
 </td>
-<td align="center">
-<br/>7,13 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pays de la Loire <br/>
-</td>
-<td align="center">
-<br/>3,99 <br/>
-</td>
-<td align="center">
-<br/>5,64 <br/>
+<td align="center" valign="middle">
+<br/>8,60<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Picardie <br/>
+<td>
+<br/>Ile-de-France<br/>
 </td>
-<td align="center">
-<br/>5,34 <br/>
+<td align="center" valign="middle">
+<br/>12,55<br/>
 </td>
-<td align="center">
-<br/>7,54 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Poitou-Charentes <br/>
-</td>
-<td align="center">
-<br/>4,21 <br/>
-</td>
-<td align="center">
-<br/>5,96 <br/>
+<td align="center" valign="middle">
+<br/>17,75<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Provence-Alpes-Côte d'Azur <br/>
+<td>
+<br/>Languedoc-Roussillon<br/>
 </td>
-<td align="center">
-<br/>3,95 <br/>
+<td align="center" valign="middle">
+<br/>4,55<br/>
 </td>
-<td align="center">
-<br/>5,58 <br/>
+<td align="center" valign="middle">
+<br/>6,45<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rhône-Alpes <br/>
+<td>
+<br/>Limousin<br/>
 </td>
-<td align="center">
-<br/>4,16 <br/>
+<td align="center" valign="middle">
+<br/>8,88<br/>
 </td>
-<td align="center">
-<br/>5,87 </td>
+<td align="center" valign="middle">
+<br/>12,57<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Lorraine<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7,70<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10,90<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Midi-Pyrénées<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5,22<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7,39<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Nord - Pas-de-Calais<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7,24<br/>
+</td>
+<td align="center" valign="middle">
+<br/>10,23<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Basse-Normandie<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5,38<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7,62<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Haute-Normandie<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5,48<br/>
+</td>
+<td align="center" valign="middle">
+<br/>7,76<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Pays de la Loire<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4,24<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5,99<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Picardie<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5,75<br/>
+</td>
+<td align="center" valign="middle">
+<br/>8,14<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Poitou-Charentes<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4,42<br/>
+</td>
+<td align="center" valign="middle">
+<br/>6,24<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Provence-Alpes-Côte d'Azur<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4,14<br/>
+</td>
+<td align="center" valign="middle">
+<br/>5,85<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Rhône-Alpes<br/>
+</td>
+<td align="center" valign="middle">
+<br/>4,53<br/>
+</td>
+<td align="center" valign="middle">
+<br/>6,42<br/>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
 
-<div align="center">
-
+<br/>
+<p>
+<br/>
+</p>
+<br/>
 <p align="left">II.-Pour les régions d'outre-mer, la compensation financière des transferts de compétences prévue au II de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée est attribuée à compter de 2006 sous forme de dotation générale de décentralisation. A compter de 2006, le montant de cette compensation est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité. </p>
 <p align="left">III.-Pour la collectivité territoriale de Corse, la compensation financière de la suppression de la taxe différentielle sur les véhicules à moteur est attribuée à compter de 2006 sous forme de dotation générale de décentralisation. </p>
 <p align="left">IV.-Paragraphe modificateur. </p>
