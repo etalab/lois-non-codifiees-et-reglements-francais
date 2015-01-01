@@ -1,3 +1,0 @@
-# Article 13
-
-A compter de l'entrée en vigueur du présent décret et jusqu'au prochain renouvellement général des instances représentatives du personnel de la fonction publique et au plus tard jusqu'au 1er janvier 2015, la délégation de pouvoir accordée, en application des dispositions du décret du 6 novembre 1995 et du décret du 23 décembre 2006 susvisés, aux préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police, à l'exception des secrétariats généraux pour l'administration de la police de Paris et de Versailles, s'applique, dans les mêmes conditions, au profit des préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration du ministère de l'intérieur.

@@ -1,5 +1,0 @@
-# Article 1
-
-Le classement du parc naturel régional des Pyrénées catalanes est renouvelé pour une durée de douze ans à compter de la date de publication du présent décret sur les territoires des communes suivantes, situées dans le département des Pyrénées-Orientales :
-
-Angoustrine-Villeneuve-des-Escaldes, Ayguatébia-Talau, Bolquère, Bourg-Madame, Campôme, Canaveilles, Casteil, Catllar, Caudiès-de-Conflent, Conat, Corneilla-de-Conflent, Dorres, Egat, Enveitg, Err, Escaro, Estavar, Eyne, Fillols, Fontpédrouse, Fontrabiouse, Font-Romeu-Odeillo-Via, Formiguères, Fuilla, Jujols, La Cabanasse, La Llagonne, Latour-de-Carol, Les Angles, Llo, Mantet, Matemale, Molitg-les-Bains, Mont-Louis, Mosset, Nahuja, Nohèdes, Nyer, Olette, Oreilla, Osséja, Palau-de-Cerdagne, Planés, Porta, Porté-Puymorens, Puyvalador, Py, Railleu, Réal, Ria-Sirach, Sahorre, Saillagouse, Saint-Pierre-dels-Forcats, Sainte-Léocadie, Sansa, Sauto, Serdinya, Souanyas, Taurinya, Targassonne, Thuès-entre-Valls, Ur, Urbanya, Valcebollère, Vernet-les-Bains, Villefranche-de-Conflent.

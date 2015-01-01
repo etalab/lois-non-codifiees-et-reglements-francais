@@ -1,3 +1,0 @@
-# Article 9
-
-Lorsque l'application des règles énoncées aux articles 12,13 et 14 du décret du 3 avril 1985 susvisé, dans leur rédaction issue du présent décret, aboutit, à périmètre équivalent, à l'attribution de contingents de crédit de temps syndical utilisables sous forme d'autorisations d'absence ou de décharges d'activité de service, inférieurs aux facilités en temps contingentées accordées aux organisations syndicales en application des dispositions en vigueur à la date de publication du présent décret, un arrêté de l'autorité territoriale peut décider, pour une durée maximale d'un an, le maintien des droits à un niveau au plus égal à celui de l'année précédente.

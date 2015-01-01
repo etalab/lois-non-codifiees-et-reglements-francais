@@ -1,3 +1,0 @@
-# Article 1
-
-Les infirmiers de bloc opératoire et les puéricultrices qui, préalablement à leur reclassement au 9e échelon prononcé en application de l'article 31 du décret du 29 septembre 2010 susvisé, étaient classés au 7e échelon de la classe supérieure du corps des infirmiers de bloc opératoire ou du corps des puéricultrices régis par le décret du 30 novembre 1988 susvisé, sont reclassés, à la date d'entrée en vigueur du présent décret, en prenant en compte l'ancienneté d'échelon qu'ils avaient acquise dans cet échelon à la date d'entrée en vigueur du décret du 29 septembre 2010, dans la limite de quatre ans.

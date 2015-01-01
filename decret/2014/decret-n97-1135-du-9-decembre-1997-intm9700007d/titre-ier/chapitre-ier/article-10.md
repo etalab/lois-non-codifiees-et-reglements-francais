@@ -1,5 +1,0 @@
-# Article 10
-
-L'autorisation de jeux est incessible.
-
-Sans préjudice des sanctions pénales, la constatation par les autorités compétentes de l'existence d'une convention secrète ou d'une contre-lettre ayant pour objet soit de contrevenir aux prescriptions des lois, règlements, arrêtés ou instructions relatifs à la réglementation des jeux dans les cercles, soit de les éluder, entraîne le retrait de l'autorisation.

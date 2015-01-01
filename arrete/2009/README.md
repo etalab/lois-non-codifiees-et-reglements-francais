@@ -986,7 +986,6 @@
 - [Arrêté du 14 août 2009 (DEVA0918068A)](arrete-du-14-aout-2009-deva0918068a)
 - [Arrêté du 14 août 2009 (DEVA0918069A)](arrete-du-14-aout-2009-deva0918069a)
 - [Arrêté du 14 août 2009 (DEVA0918070A)](arrete-du-14-aout-2009-deva0918070a)
-- [Arrêté du 14 août 2009 (DEVU0911892A)](arrete-du-14-aout-2009-devu0911892a)
 - [Arrêté du 14 août 2009 (DEVU0913982A)](arrete-du-14-aout-2009-devu0913982a)
 - [Arrêté du 14 août 2009 (IMIK0917269A)](arrete-du-14-aout-2009-imik0917269a)
 - [Arrêté du 14 avril 2009 (IOCD0820014A)](arrete-du-14-avril-2009-iocd0820014a)

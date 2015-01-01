@@ -1,3 +1,0 @@
-# Article 4
-
-Un comité d'orientation stratégique, placé auprès du ministre chargé du budget, lui propose les orientations relatives à la conception et à la mise en oeuvre des systèmes d'information budgétaire, financière et comptable de l'Etat et en suit l'exécution. Un arrêté du ministre chargé du budget désigne les membres de ce comité, composé de directeurs d'administration centrale du ministère chargé du budget, de représentants des ministères utilisateurs et du ministre chargé de la réforme de l'Etat, ainsi que de personnalités qualifiées. Son président est désigné par le ministre. Le directeur du service à compétence nationale est membre de droit du comité.

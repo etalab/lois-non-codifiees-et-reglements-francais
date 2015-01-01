@@ -1,3 +1,0 @@
-# Titre Ier : DISPOSITIONS MODIFIANT LE CODE DE PROCÉDURE CIVILE
-
-- [Article 1](article-1.md)

@@ -1025,7 +1025,6 @@
 - [Décret n°2012-942 du 1er août 2012 (INTB1220465D)](decret-n2012-942-du-1er-aout-2012-intb1220465d)
 - [Décret n°2013-118 du 1er février 2013 (AGRG1231951D)](decret-n2013-118-du-1er-fevrier-2013-agrg1231951d)
 - [Décret n°2013-186 du 1er mars 2013 (BUDW1237501D)](decret-n2013-186-du-1er-mars-2013-budw1237501d)
-- [Décret n°2013-571 du 1er juillet 2013 (AFSR1243550D)](decret-n2013-571-du-1er-juillet-2013-afsr1243550d)
 - [Décret n°2013-572 du 1er juillet 2013 (AFSR1311336D)](decret-n2013-572-du-1er-juillet-2013-afsr1311336d)
 - [Décret n°2013-703 du 1er août 2013 (EFIE1311049D)](decret-n2013-703-du-1er-aout-2013-efie1311049d)
 - [Décret n°2013-704 du 1er août 2013 (EFIE1311047D)](decret-n2013-704-du-1er-aout-2013-efie1311047d)

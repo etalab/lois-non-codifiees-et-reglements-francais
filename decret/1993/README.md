@@ -484,7 +484,6 @@
 - [Décret n°93-232 du 22 février 1993 (JUSD9330006D)](decret-n93-232-du-22-fevrier-1993-jusd9330006d)
 - [Décret n°93-233 du 22 février 1993 (JUSC9320076D)](decret-n93-233-du-22-fevrier-1993-jusc9320076d)
 - [Décret n°93-234 du 22 février 1993 (ECOT9394185D)](decret-n93-234-du-22-fevrier-1993-ecot9394185d)
-- [Décret n°93-236 du 22 février 1993 (LOGC9300085D)](decret-n93-236-du-22-fevrier-1993-logc9300085d)
 - [Décret n°93-238 du 22 février 1993 (TEFE9300213D)](decret-n93-238-du-22-fevrier-1993-tefe9300213d)
 - [Décret n°93-239 du 22 février 1993 (TEFE9300214D)](decret-n93-239-du-22-fevrier-1993-tefe9300214d)
 - [Décret n°93-240 du 22 février 1993 (BUDF9200032D)](decret-n93-240-du-22-fevrier-1993-budf9200032d)

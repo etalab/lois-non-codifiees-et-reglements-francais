@@ -1,7 +1,0 @@
-# Article 4
-
-I. - En application des articles L. 99 et L. 152 du livre des procédures fiscales, la direction des services fiscaux du département dont relève l'entreprise lui ayant demandé, dans le cadre de la procédure prévue au 4° de l'article L. 80 B précité, si elle constitue une jeune entreprise innovante au sens de l'article 44 sexies-0 A du code général des impôts, informe l'organisme de recouvrement des cotisations de sécurité sociale et d'allocations familiales dont relève l'entreprise des suites données à cette demande.
-
-L'entreprise informe l'organisme de recouvrement des cotisations de sécurité sociale et d'allocations familiales dont elle relève de toute modification de la situation de fait décrite dans la demande visée au premier alinéa remettant en cause la qualité de jeune entreprise innovante au sens de l'article 44 sexies-0 A précité.
-
-II. - En cas de contrôle effectué en application de l'article L. 243-7 du code de la sécurité sociale ou, pour le régime agricole, de l'article L. 724-7 du code rural, l'organisme chargé du recouvrement des cotisations de sécurité sociale et d'allocations familiales peut demander à la direction des services fiscaux du département dont relève l'entreprise, qui répond dans un délai de six mois suivant la saisine, si elle constitue une jeune entreprise au sens de l'article 44 sexies-0 A du code général des impôts au titre d'un ou de plusieurs exercices donnés.

@@ -1,7 +1,0 @@
-# Article 1
-
-Des inspecteurs généraux en service extraordinaire peuvent être nommés auprès de l'inspection générale des finances, de l'inspection générale de l'administration et de l'inspection générale des affaires sociales par décret du Premier ministre, sur proposition du ou des ministres ayant autorité sur l'inspection générale concernée, pour une durée ne pouvant excéder cinq ans non renouvelable. Un renouvellement exceptionnel d'une durée maximale de cinq ans peut toutefois intervenir si l'inspecteur général en service extraordinaire intéressé est susceptible de liquider ses droits à pension pendant cette période de prolongation.
-
-Les candidatures aux fonctions d'inspecteur général en service extraordinaire sont présentées par le chef du service de l'inspection concernée. Elles sont préalablement soumises à l'avis, pour l'inspection générale de l'administration et pour l'inspection générale des affaires sociales, d'un comité de sélection propre à chaque inspection. Ce comité de sélection est présidé par le chef de l'inspection concernée et comporte, en outre, au moins deux membres issus de cette inspection. Les membres du comité de sélection sont désignés par arrêté du ou des ministres ayant autorité sur l'inspection concernée, sur proposition du chef de cette inspection.
-
-Les inspecteurs généraux en service extraordinaire cessent leurs fonctions lorsqu'ils atteignent la limite d'âge qui leur est applicable dans le corps ou le cadre d'emplois auquel ils appartiennent.

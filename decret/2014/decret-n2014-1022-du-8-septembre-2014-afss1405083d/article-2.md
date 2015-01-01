@@ -1,5 +1,0 @@
-# Article 2
-
-Les demandes de fixation de prix présentées par les entreprises en application de l'article R. 163-14-1 du code de la sécurité sociale pour les allergènes préparés spécialement pour un seul individu déjà pris en charge au titre de l'assurance maladie sont transmises, selon les modalités fixées par ce même article, dans un délai maximal de six mois suivant la publication du présent décret.
-
-A titre transitoire et dérogatoire, pour la première mise en œuvre des dispositions de l'article R. 163-14-1 du même code, les décisions relatives à la fixation du prix de vente au public des allergènes préparés spécialement pour un seul individu déjà pris en charge au titre de l'assurance maladie sont prises, communiquées à l'entreprise concernée et publiées au Journal officiel dans un délai maximal de cent quatre-vingts jours suivant la réception des demandes mentionnées au précédent alinéa. Le cas échéant, ce délai peut faire l'objet d'une suspension dans les conditions prévues au V de l'article R. 163-14-1 précité.

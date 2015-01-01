@@ -1,3 +1,0 @@
-# Article 12
-
-Pour l'application à Mayotte de dispositions réglementaires autres que celles mentionnées par le présent décret, les références aux dispositions de l'ordonnance n° 2000-373 du 26 avril 2000 relatives aux conditions d'entrée et de séjour des étrangers à Mayotte, au décret n° 2001-635 du 17 juillet 2001 pris pour l'application de cette ordonnance et au décret n° 2010-1435 du 19 novembre 2010 relatif à l'entrée et au séjour des citoyens de l'Union européenne mentionnées à l'article 13 de l'ordonnance n° 2000-373 du 26 avril 2000 et des membres de leur famille à Mayotte sont remplacées par les références aux dispositions du code de l'entrée et du séjour des étrangers et du droit d'asile correspondantes.

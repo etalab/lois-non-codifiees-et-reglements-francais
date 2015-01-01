@@ -299,7 +299,6 @@
 - [Arrêté du 29 juin 2006 (ECOZ0600106A)](arrete-du-29-juin-2006-ecoz0600106a)
 - [Arrêté du 29 juin 2006 (FPPA0600069A)](arrete-du-29-juin-2006-fppa0600069a)
 - [Arrêté du 29 juin 2006 (FPPA0600070A)](arrete-du-29-juin-2006-fppa0600070a)
-- [Arrêté du 29 juin 2006 (SANH0622688A)](arrete-du-29-juin-2006-sanh0622688a)
 - [Arrêté du 29 novembre 2006 (DEFK0601597A)](arrete-du-29-novembre-2006-defk0601597a)
 - [Arrêté du 29 novembre 2006 (SANP0625050A)](arrete-du-29-novembre-2006-sanp0625050a)
 - [Arrêté du 29 septembre 2006 (AGRE0602152A)](arrete-du-29-septembre-2006-agre0602152a)

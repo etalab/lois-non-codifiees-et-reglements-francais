@@ -1,3 +1,0 @@
-# Article 31
-
-Jusqu'à leur prochain renouvellement, les commissions administratives paritaires compétentes, pour les membres du corps des sages-femmes régi par le décret n° 89-611 du 1er septembre 1989 portant statut particulier des sages-femmes de la fonction publique hospitalière et pour les membres du corps des directeurs d'écoles de sages-femmes régi par le décret n° 90-949 du 26 octobre 1990 portant statut particulier des directeurs d'école de sages-femmes de la fonction publique hospitalière, dont le mandat des membres est maintenu, demeurent compétentes pour les membres du corps des sages-femmes des hôpitaux régis par le présent décret.

@@ -1,3 +1,0 @@
-# Chapitre VII : Formalités douanières
-
-- [Article 12](article-12.md)

@@ -1,3 +1,0 @@
-# Article 34
-
-Les membres du corps d'infirmiers civils de soins généraux du ministère de la défense régis par le décret du 19 décembre 2005 susvisé et intégrés dans le présent corps en application de l'article 28 qui, à la date d'entrée en vigueur du présent décret, remplissaient les conditions requises pour bénéficier d'une promotion au grade supérieur ou auraient rempli ces conditions au cours de la période de trois ans suivant cette date, sont réputés remplir, pendant cette même période, les conditions requises pour être promus dans le deuxième grade du corps des infirmiers civils en soins généraux et spécialisés du ministère de la défense, prévues au 1° de l'article 21.

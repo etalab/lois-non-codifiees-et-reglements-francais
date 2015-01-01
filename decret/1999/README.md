@@ -398,7 +398,6 @@
 - [Décret n°99-956 du 17 novembre 1999 (ECOX9900132D)](decret-n99-956-du-17-novembre-1999-ecox9900132d)
 - [Décret n°99-376 du 17 mai 1999 (ECOT9951811D)](decret-n99-376-du-17-mai-1999-ecot9951811d)
 - [Décret n°99-378 du 17 mai 1999 (MENF9900618D)](decret-n99-378-du-17-mai-1999-menf9900618d)
-- [Décret n°93-399 du 18 mars 1993 (INTB9300129D)](decret-n93-399-du-18-mars-1993-intb9300129d)
 - [Décret n°99-106 du 18 février 1999 (MESF9811350D)](decret-n99-106-du-18-fevrier-1999-mesf9811350d)
 - [Décret n°99-107 du 18 février 1999 (MESF9811351D)](decret-n99-107-du-18-fevrier-1999-mesf9811351d)
 - [Décret n°99-109 du 18 février 1999 (MESF9811353D)](decret-n99-109-du-18-fevrier-1999-mesf9811353d)

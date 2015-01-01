@@ -1,5 +1,0 @@
-# Article 25
-
-I.-Les concours de recrutement ouverts dans le corps régi par le décret n° 90-949 du 26 octobre 1990 portant statut particulier des directeurs d'école de sages-femmes de la fonction publique hospitalière dont les arrêtés d'ouverture ont été publiés avant la date d'entrée en vigueur du présent décret demeurent régis par les dispositions applicables à la date de publication de ces arrêtés.
-
-II.-Les lauréats des concours d'accès mentionnés au I dont la nomination n'a pas été prononcée dans ce corps avant l'entrée en vigueur du présent décret peuvent être nommés en qualité de stagiaire dans le second grade du corps des sages-femmes des hôpitaux régi par le présent décret, conformément au classement qu'ils auraient eu s'ils avaient été nommés dans le corps des directeurs d'école de sages-femmes régi par le décret n° 90-949 du 26 octobre 1990 portant statut particulier des directeurs d'école de sages-femmes de la fonction publique hospitalière puis reclassés dans le corps des sages-femmes des hôpitaux selon le tableau de correspondance figurant à l'article 23.

@@ -1,3 +1,0 @@
-# Article 21
-
-Dans le délai d'un mois à compter de la délivrance de l'autorisation mentionnée à l'article 2 de l'ordonnance du 20 mars 2014 susvisée, le représentant de l'Etat dans le département fournit aux services de l'Etat mentionnés à l'article R. 331-9 du code de l'urbanisme un exemplaire du formulaire de demande d'autorisation, le formulaire de déclaration des éléments nécessaires au calcul des impositions accompagné de ses pièces jointes, une copie de la décision, précisant, pour chaque commune concernée, les numéros affectés dans les conditions de l'article 16 ainsi que la référence du secteur de la taxe d'aménagement, déterminé en application de l'article L. 331-14 du même code, dans lequel se situe le projet.

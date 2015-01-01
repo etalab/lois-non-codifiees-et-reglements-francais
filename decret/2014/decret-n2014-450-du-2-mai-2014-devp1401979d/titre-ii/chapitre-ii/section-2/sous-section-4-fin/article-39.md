@@ -1,3 +1,0 @@
-# Article 39
-
-Lorsque l'autorisation mentionnée à l'article 10 de l'ordonnance du 20 mars 2014 susvisée porte dérogation au titre du 4° de l'article L. 411-2 du code de l'environnement, sa délivrance par le représentant de l'Etat dans le département n'intervient qu'après avis conforme sur cette dérogation du ministre chargé de l'environnement, dans les cas où celui-ci aurait été compétent en application de l'article R. 411-8 du même code. Le ministre dispose d'un délai de deux mois pour donner son avis. Ce délai court à partir du jour où il a été saisi par le représentant de l'Etat dans le département. Cet avis est réputé favorable au-delà de ce délai.

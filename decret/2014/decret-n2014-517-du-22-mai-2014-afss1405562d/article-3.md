@@ -1,3 +1,0 @@
-# Article 3
-
-Les organismes mentionnés au I de l'article L. 862-4 du code de la sécurité sociale détenant un contrat conclu en application du II de l'article L. 380-3-1 du même code avec un travailleur mentionné au I du même article transmettent à l'organisme mentionné à l'article L. 221-1 du même code ou aux caisses primaires d'assurance maladie du département de résidence informations nécessaires à son affiliation au régime général en application des dispositions de l'article L. 380-1 du même code, afin de garantir la continuité de sa couverture d'assurance maladie, selon des modalités précisées par arrêté.

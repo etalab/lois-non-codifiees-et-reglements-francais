@@ -1,3 +1,0 @@
-# Article 19
-
-Les personnes exerçant les fonctions mentionnées aux articles R. 1222-17, R. 1222-20, R. 1222-23, R. 1222-24, R. 1222-28, R. 1222-29 et R. 1222-31 du code de la santé publique telles qu'elles sont, le cas échéant, définies par les dispositions en vigueur antérieurement à la publication du présent décret et qui sont en fonction à la date de publication des arrêtés prévus par les articles précités sans pouvoir justifier des conditions de diplômes, de formation ou d'expérience fixées par ces arrêtés, disposent d'une durée fixée par chacun de ces arrêtés et au plus de trois ans à compter de leur publication pour remplir les conditions ainsi définies.

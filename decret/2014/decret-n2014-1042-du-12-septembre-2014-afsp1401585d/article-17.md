@@ -1,3 +1,0 @@
-# Article 17
-
-Les groupements de coopération sanitaire, régulièrement autorisés sur le fondement du 2° de l'article L. 6133-1 du code de la santé publique et dans le cadre de l'expérimentation prévue à l'article L. 6133-5 du même code dans leur version antérieure à l'entrée en vigueur de la loi n° 2009-879 du 21 juillet 2009 modifiée portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires, sont soumis aux dispositions de la section 4, chapitre Ier, titre II, du livre II du code de la santé publique, jusqu'au terme prévu par la convention constitutive du groupement.

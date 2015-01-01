@@ -1,3 +1,0 @@
-# Article 1
-
-Le montant de la partie des ressources provenant de la fraction de la participation des employeurs à l'effort de construction consacrée par priorité au logement des travailleurs immigrés et de leur famille, qui reste gérée par l'Agence nationale pour la participation des employeurs à l'effort de construction jusqu'au 1er janvier 2011, pour le financement exclusif du soutien à la consolidation financière des organismes agréés visés à l'article L. 365-1 du code de la construction et de l'habitation dans sa rédaction antérieure à l'entrée en vigueur de la loi du 25 mars 2009 susvisée et des actions d'accompagnement et de professionnalisation des fédérations professionnelles regroupant ces organismes, est fixé à vingt millions d'euros.

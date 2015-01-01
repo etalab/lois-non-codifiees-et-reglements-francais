@@ -1,4 +1,0 @@
-# Décret n° 97-1135 du 9 décembre 1997 fixant les règles relatives à l'installation et au fonctionnement des cercles en Polynésie française
-
-- [TITRE Ier : LES ÉTABLISSEMENTS DE JEUX](titre-ier)
-- [TITRE III : CONTRÔLE DES ÉTABLISSEMENTS ET EXPLOITANTS DE JEUX.](titre-iii)
