@@ -1,8 +1,8 @@
 # Article 4
 
-I.-Le plan départemental est établi pour une durée maximale de six ans. Il est révisé selon les modalités prévues pour son élaboration.
+I.-Le plan local est établi pour une durée maximale de six ans. Il est révisé selon les modalités prévues pour son élaboration.
 
-II.-Le plan départemental est fondé sur une évaluation des besoins des personnes mentionnées à l'article 2 de la présente loi dépourvues de logement ou mal logées, quelle que soit la forme de leur habitat, notamment celles, énumérées aux a à e de l'article L. 441-1 du code de la construction et de l'habitation, auxquelles priorité doit être donnée pour l'attribution de logements. Il évalue également les besoins des personnes dont la difficulté d'accès ou de maintien dans un logement provient de difficultés financières ou du cumul de difficultés financières et de difficultés d'insertion sociale. Il prend également en compte les besoins des personnes victimes de violences au sein de leur couple ou de leur famille, menacées de mariage forcé ou contraintes de quitter leur logement après des menaces de violence ou des violences effectivement subies. Ces situations sont prises en compte sans que la circonstance que les personnes concernées bénéficient d'un contrat de location au titre du logement occupé par le couple ou qu'elles en soient propriétaires puisse y faire obstacle.
+II.-Le plan local est fondé sur une évaluation des besoins des personnes mentionnées à l'article 2 de la présente loi dépourvues de logement ou mal logées, quelle que soit la forme de leur habitat, notamment celles, énumérées aux a à e de l'article L. 441-1 du code de la construction et de l'habitation, auxquelles priorité doit être donnée pour l'attribution de logements. Il évalue également les besoins des personnes dont la difficulté d'accès ou de maintien dans un logement provient de difficultés financières ou du cumul de difficultés financières et de difficultés d'insertion sociale. Il prend également en compte les besoins des personnes victimes de violences au sein de leur couple ou de leur famille, menacées de mariage forcé ou contraintes de quitter leur logement après des menaces de violence ou des violences effectivement subies. Ces situations sont prises en compte sans que la circonstance que les personnes concernées bénéficient d'un contrat de location au titre du logement occupé par le couple ou qu'elles en soient propriétaires puisse y faire obstacle.
 
 Cette évaluation est territorialisée et tient notamment compte du périmètre des établissements publics de coopération intercommunale compétents en matière d'habitat.
 
@@ -32,4 +32,4 @@ IV.-Le plan fixe, de manière territorialisée, en tenant compte des programmes 
 
 10° La lutte contre la précarité énergétique.
 
-Le plan départemental précise, pour chacun de ces points, la ou les collectivités ou leurs groupements chargés de leur mise en œuvre dans le respect de leurs compétences respectives, telles que définies par le code général des collectivités territoriales.
+Le plan local précise, pour chacun de ces points, la ou les collectivités ou leurs groupements chargés de leur mise en œuvre dans le respect de leurs compétences respectives, telles que définies par le code général des collectivités territoriales.

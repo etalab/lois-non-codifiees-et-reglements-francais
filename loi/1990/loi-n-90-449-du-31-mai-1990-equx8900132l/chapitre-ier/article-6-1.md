@@ -1,6 +1,6 @@
 # Article 6-1
 
-Le règlement intérieur du fonds de solidarité pour le logement définit les conditions d'octroi des aides conformément aux priorités définies au III de l'article 4, ainsi que les modalités de fonctionnement et de gestion du fonds. Le règlement intérieur est élaboré et adopté par le conseil général après avis du comité responsable du plan départemental d'action pour le logement et l'hébergement des personnes défavorisées prévu à l'article 3.
+Le règlement intérieur du fonds de solidarité pour le logement définit les conditions d'octroi des aides conformément aux priorités définies au III de l'article 4, ainsi que les modalités de fonctionnement et de gestion du fonds. Le règlement intérieur est élaboré et adopté par le conseil général après avis du comité responsable du plan local d'action pour le logement et l'hébergement des personnes défavorisées prévu à l'article 3.
 
 Les conditions d'octroi des aides du fonds de solidarité ne peuvent reposer sur d'autres éléments que le niveau de patrimoine ou de ressources des personnes et l'importance et la nature des difficultés qu'elles rencontrent. Le décret en Conseil d'Etat prévu à l'article 8 détermine la nature des ressources prises en compte.
 

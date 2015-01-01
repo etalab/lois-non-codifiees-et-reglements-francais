@@ -7,3 +7,5 @@ Pour exercer leurs missions, les services déconcentrés des administrations civ
 - circonscription départementale ;
 
 - circonscription d'arrondissement.
+
+L'évolution des limites des collectivités territoriales est sans incidence sur les circonscriptions administratives de l'Etat.

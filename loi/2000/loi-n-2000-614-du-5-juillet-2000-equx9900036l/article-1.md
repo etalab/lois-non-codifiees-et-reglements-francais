@@ -16,8 +16,14 @@ III. - Le schéma départemental est élaboré par le représentant de l'Etat da
 
 Le schéma départemental est révisé selon la même procédure au moins tous les six ans à compter de sa publication.
 
+III bis.-Le schéma qui s'applique sur les territoires du département du Rhône et de la métropole de Lyon est dénommé  "   schéma départemental-métropolitain ". Il est élaboré par le représentant de l'Etat dans le département, le président du conseil général et le président du conseil de la métropole de Lyon selon la procédure prévue au III du présent article.
+
+Le schéma élaboré avant la création de la métropole de Lyon par le représentant de l'Etat dans le département et le président du conseil général demeure applicable jusqu'à l'approbation du schéma mentionné à l'alinéa précédent ou au plus tard jusqu'à sa révision .
+
 IV. - Dans chaque département, une commission consultative, comprenant notamment des représentants des communes concernées, des représentants des gens du voyage et des associations intervenant auprès des gens du voyage, est associée à l'élaboration et à la mise en oeuvre du schéma. Elle est présidée conjointement par le représentant de l'Etat dans le département et par le président du conseil général ou par leurs représentants.
 
 La commission consultative établit chaque année un bilan d'application du schéma. Elle peut désigner un médiateur chargé d'examiner les difficultés rencontrées dans la mise en oeuvre de ce schéma et de formuler des propositions de règlement de ces difficultés. Le médiateur rend compte à la commission de ses activités.
+
+IV bis.-La commission consultative du département du Rhône est compétente également sur le territoire de la métropole de Lyon. Elle est dénommée  "   commission consultative départementale-métropolitaine ". Elle est présidée par le représentant de l'Etat dans le département, le président du conseil général du Rhône et le président du conseil de la métropole de Lyon ou par leurs représentants.
 
 V. - Le représentant de l'Etat dans la région coordonne les travaux d'élaboration des schémas départementaux. Il s'assure de la cohérence de leur contenu et de leurs dates de publication. Il réunit à cet effet une commission constituée des représentants de l'Etat dans les départements, du président du conseil régional et des présidents des conseils généraux, ou de leurs représentants.
