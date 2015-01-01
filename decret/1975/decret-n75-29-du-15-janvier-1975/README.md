@@ -4,4 +4,3 @@
 - [Titre II : Organisation administrative](titre-ii)
 - [Titre III : Organisation financière](titre-iii)
 - [Titre IV : Choix des personnels enseignants](titre-iv)
-- [Titre V : Dispositions transitoires et finales](titre-v)

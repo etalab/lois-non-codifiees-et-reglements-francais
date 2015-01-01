@@ -4,4 +4,4 @@ Le budget est exécutoire au 1er janvier de l'exercice s'il a été régulièrem
 
 Si le budget n'est pas exécutoire au 1er janvier de l'exercice, les opérations de recettes et de dépenses sont effectuées temporairement sur la base de 80 % des prévisions budgétaires définitives de l'exercice précédent, déduction faite, le cas échéant, des crédits affectés à des dépenses non renouvelables.
 
-Si le budget n'est pas exécutoire au 1er mars de l'exercice, il est arrêté par le ministre chargé de l'enseignement supérieur.
+Si le budget n'est pas exécutoire au 1er mars de l'exercice, il est arrêté par le recteur d'académie.
