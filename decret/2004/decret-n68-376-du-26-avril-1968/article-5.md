@@ -1,14 +1,18 @@
 # Article 5
 
-L'établissement public est administré par un conseil de quarante-trois membres :
+L'établissement public est administré par un conseil d'administration de quarante-trois membres, dotés chacun d'un suppléant conformément aux dispositions de l'article R. * 321-4 du code de l'urbanisme.
 
-1° Vingt-quatre représentants des collectivités territoriales désignés par leur organe délibérant, parmi ses membres :
+Il est composé de :
 
--quatre pour la région Basse-Normandie ;
+1° Trente-neuf représentants des collectivités territoriales ou de leurs groupements :
 
--cinq pour la région Haute-Normandie ;
+a) Quatre représentants de la région Basse-Normandie désignés par son organe délibérant ;
 
--six pour le département de la Seine-Maritime ;
+b) Cinq représentants de la région Haute-Normandie désignés par son organe délibérant ;
+
+c) Quatorze représentants des départements désignés par chaque organe délibérant, à raison de :
+
+-cinq pour le département de la Seine-Maritime ;
 
 -trois pour le département de l'Eure ;
 
@@ -16,9 +20,9 @@ L'établissement public est administré par un conseil de quarante-trois membres
 
 -un pour le département de l'Orne ;
 
--deux pour le département de la Manche ;
+-deux pour le département de la Manche.
 
-2° Neuf représentants des établissements publics de coopération intercommunale compétents en matière d'aménagement de l'espace, désignés par leur organe délibérant, parmi ses membres :
+d) Onze représentants des établissements publics de coopération intercommunale à fiscalité propre suivants, désignés par leur organe délibérant, à raison de :
 
 -deux pour l'agglomération de Rouen ;
 
@@ -32,16 +36,42 @@ L'établissement public est administré par un conseil de quarante-trois membres
 
 -un pour l'agglomération d'Alençon ;
 
-3° Dix représentants des milieux professionnels intéressés, désignés par les organismes consulaires :
+-un pour l'agglomération de Dieppe ;
 
--trois par la       chambre de commerce et d'industrie de région de Haute-Normandie ;
+-un pour l'agglomération de Saint-Lô.
 
--deux par la       chambre de commerce et d'industrie de région de Basse-Normandie ;
+e) Cinq représentants des autres établissements publics de coopération intercommunale à fiscalité propre et des communes non membres des établissements publics de coopération intercommunale à fiscalité propre, mentionnés au 1° du présent article, élus dans les conditions fixées à l'article 5-1 du présent décret, à raison d'un représentant par département.
 
--trois par la chambre régionale d'agriculture de Normandie ;
+Cette désignation devra assurer une répartition de sièges telle que les établissements publics de coopération intercommunale à fiscalité propre disposent au moins de deux représentants au conseil d'administration.
 
--un par la chambre régionale de métiers de Haute-Normandie ;
+2° Quatre représentants de l'Etat :
 
--un par la chambre régionale de métiers de Basse-Normandie.
+-un représentant désigné par le ministre chargé des collectivités territoriales ;
 
-Le préfet de la région de Haute-Normandie, préfet de la Seine-Maritime, constate par arrêté publié au recueil des actes administratifs de la préfecture la composition du conseil d'administration.
+-un représentant désigné par le ministre chargé de l'urbanisme ;
+
+-un représentant désigné par le ministre chargé du logement ;
+
+-un représentant désigné par le ministre chargé du budget.
+
+Huit personnalités socioprofessionnelles, désignées en son sein par l'organe délibérant de l'institution dont elles relèvent, assistent au conseil d'administration avec voix consultative :
+
+-un représentant de la chambre de commerce et d'industrie de la région Haute-Normandie ;
+
+-un représentant de la chambre de commerce et d'industrie de la région Basse-Normandie ;
+
+-deux représentants de la chambre régionale d'agriculture de Normandie ;
+
+-un représentant de la chambre de métiers et de l'artisanat de la région Haute-Normandie ;
+
+-un représentant de la chambre de métiers et de l'artisanat de la région Basse-Normandie ;
+
+-un représentant du conseil économique, social et environnemental régional de Haute-Normandie ;
+
+-un représentant du conseil économique, social et environnemental régional de Basse-Normandie.
+
+Un représentant des parcs naturels régionaux de la Haute-Normandie et de la Basse-Normandie, désigné par ceux-ci, assiste également au conseil d'administration avec voix consultative.
+
+Le préfet chargé du contrôle de l'établissement, le directeur régional de l'environnement, de l'aménagement et du logement de la région Haute-Normandie, le directeur régional de l'environnement, de l'aménagement et du logement de la région Basse-Normandie, le contrôleur budgétaire et l'agent comptable de l'établissement assistent également de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+
+Le préfet chargé du contrôle de l'établissement publie par arrêté la liste nominative des membres du conseil d'administration et procède à son installation.

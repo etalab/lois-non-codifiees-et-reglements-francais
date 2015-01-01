@@ -1,23 +1,13 @@
 # Article 11
 
-Le bureau est chargé de régler les affaires qui lui sont renvoyées par le conseil d'administration.
+Le bureau comprend, outre le président du conseil d'administration et les sept vice-présidents, des membres élus par le conseil d'administration représentant chaque établissement public de coopération intercommunale à fiscalité propre désigné directement au conseil d'administration et un représentant de l'Etat désigné par les membres de ce collège en leur sein.
 
-Le bureau comprend, outre le président du conseil d'administration et les sept vice-présidents, des membres élus par le conseil d'administration représentant :
+Le bureau règle les affaires qui lui sont renvoyées par le conseil d'administration dans la limite des délégations qui lui sont accordées.
 
-1° Chaque établissement public de coopération intercommunale ;
+Les procès-verbaux et délibérations de ses réunions sont adressés au préfet chargé du contrôle de l'établissement, au contrôleur budgétaire et à l'agent comptable de l'établissement.
 
-2° Chaque chambre de commerce et d'industrie de région ;
+Le préfet chargé du contrôle de l'établissement peut soumettre au bureau toute question dont l'examen lui paraît utile. Le président est tenu de l'inscrire à l'ordre du jour de la réunion du bureau la plus proche.
 
-3° La chambre régionale d'agriculture de Normandie ;
+Le préfet chargé du contrôle de l'établissement, le directeur régional de l'environnement, de l'aménagement et du logement de la région Haute-Normandie, le directeur régional de l'environnement, de l'aménagement et du logement de la région Basse-Normandie, le contrôleur budgétaire et l'agent comptable de l'établissement assistent de droit aux réunions du bureau et y sont entendus chaque fois qu'ils le demandent.
 
-4° Conjointement les deux chambres régionales de métiers.
-
-Le président du conseil d'administration de l'établissement préside le bureau. Il convoque les réunions et en fixe l'ordre du jour.
-
-Le bureau délibère dans les conditions énoncées aux trois derniers alinéas de l'article 9.
-
-Le préfet de la région Haute-Normandie, le préfet de la région Basse-Normandie et les préfets de l'Eure, de la Manche et de l'Orne assistent de droit aux réunions et y sont entendus chaque fois qu'ils le demandent. Ils peuvent se faire représenter.
-
-Les directeurs régionaux de l'environnement, de l'aménagement et du logement (1) de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'alimentation, de l'agriculture et de la forêt de Haute-Normandie et de Basse-Normandie, les directeurs régionaux de l'environnement de Haute-Normandie et de Basse-Normandie, le directeur général de l'établissement,        le contrôleur budgétaire de l'Etat et l'agent comptable ont accès aux réunions du bureau.
-
-Le bureau peut inviter toute personne dont l'audition lui paraît utile.
+Le président du bureau peut inviter toute personne dont l'audition lui paraît utile.
