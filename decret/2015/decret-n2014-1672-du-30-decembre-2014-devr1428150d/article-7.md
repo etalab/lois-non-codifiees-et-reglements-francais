@@ -1,0 +1,3 @@
+# Article 7
+
+En dehors de la procédure de paiement de droit commun consistant à verser les aides directement à leur bénéficiaire, les vendeurs ou loueurs de véhicules peuvent conclure avec l'Agence de services et de paiement une convention aux termes de laquelle ils s'engagent à avancer le montant des aides versées pour en obtenir ensuite le remboursement par le dispositif d'aide à l'acquisition et à la location de véhicules peu polluants. Ces conventions sont signées entre le directeur général de l'Agence de services et de paiement et chaque constructeur, concessionnaire, loueur ou agent de marque ou tout professionnel de l'automobile habilité à faire du commerce de véhicules.

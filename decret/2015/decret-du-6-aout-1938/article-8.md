@@ -1,0 +1,9 @@
+# Article 8
+
+En cas d'appel sous les drapeaux, l'agent commissionné bénéficie des avantages prévus par le règlement particulier de la société nationale.
+
+Pendant la période du service militaire et en cas d'appel sous les drapeaux, l'agent confirmé et l'agent à l'essai ou leurs ayants droit bénéficient des avantages prévus, dans ce cas, par le règlement particulier de la société nationale en ce qui concerne le risque-maladie et l'assurance-maternité, sous réserve, pour l'agent à l'essai, des dispositions de l'article 2 du présent décret. Ils bénéficient, en outre, des avantages prévus à l'article 22, paragraphe 2, du décret-loi du 28 octobre 1935 sur les assurances sociales en ce qui concerne les risques invalidité et décès.
+
+L'agent confirmé et l'agent à l'essai qui, à leur retour dans leurs foyers, ne sont pas réintégrés dans le cadre permanent de la société nationale et passant sous le régime général des assurances sociales, bénéficient des dispositions de l'article 22, paragraphe 3, dudit décret-loi ; s'ils remplissent les conditions prévues à cet article, les trimestres civils de présence à la société nationale, dans le cadre permanent, avec une rémunération totale annuelle inférieure ou égale aux chiffres-limites visés à l'article 1er du présent décret étant supposés avoir donné lieu à la retenue visée à l'article 7.
+
+L'agent confirmé et l'agent à l'essai, qui sont réintégrés, à leur retour dans leurs foyers, ou postérieurement, dans le cadre permanent de la société nationale, bénéficient pour toute maladie ou tout accident et tout accouchement survenant après leur réintégration des avantages prévus par le règlement particulier de la société nationale, dès l'instant qu'à la date de leur réintégration ils justifient, compte tenu de la durée du service militaire, des conditions prévues à l'article 2, paragraphe 1er.

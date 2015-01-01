@@ -74,7 +74,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau de la réglementation et des statuts de la direction générale de l'armement ;
 
-- chef du bureau personnel civil à la division ressources humaines de l'état-major des armées ;
+- chef du bureau de la cohérence réglementaire et des référentiels à la sous-direction de l'ingénierie des processus de ressources humaines de la direction des ressources humaines du ministère de la défense ;
 
 - chef du bureau de la prospective, de la veille et des études internationales à la direction des ressources humaines du ministère de la défense ;
 
@@ -128,6 +128,6 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - sous-directeur administratif de l'atelier industriel de l'aéronautique de Clermont-Ferrand ;
 
-- sous-directeur régional sud-ouest du centre de prestations de proximité des ressources humaines de la direction générale de l'armement ;
+- chef du bureau de l'accompagnement social et des restructurations à la sous-direction de la mobilité et du recrutement de la direction des ressources humaines de la direction générale de l'armement ;
 
 - chef de la division gestion administrative et paie du centre ministériel de gestion de Rennes.

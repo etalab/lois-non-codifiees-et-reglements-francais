@@ -1,0 +1,3 @@
+# Article 3
+
+La métropole Rennes Métropole est constituée, à la date de sa création et sans préjudice des évolutions ultérieures de son périmètre, des communes suivantes : Acigné, Bécherel, Betton, Bourgbarré, Brécé, Bruz, Cesson-Sévigné, Chantepie, Chartres-de-Bretagne, Chavagne, Chevaigné, Cintré, Clayes, Corps-Nuds, Gévezé, La Chapelle-Chaussée, La Chapelle-des-Fougeretz, La Chapelle-Thouarault, Laillé, Langan, Le Rheu, Le Verger, L'Hermitage, Miniac-sous-Bécherel, Montgermont, Mordelles, Nouvoitou, Noyal-Châtillon-sur-Seiche, Orgères, Pacé, Parthenay-de-Bretagne, Pont-Péan, Rennes, Romillé, Saint-Armel, Saint-Erblon, Saint-Gilles, Saint-Grégoire, Saint-Jacques-de-la-Lande, Saint-Sulpice-la-Forêt, Thorigné-Fouillard, Vern-sur-Seiche, Vezin-le-Coquet.

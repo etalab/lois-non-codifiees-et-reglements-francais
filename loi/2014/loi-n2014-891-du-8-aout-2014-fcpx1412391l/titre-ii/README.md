@@ -2,6 +2,7 @@
 
 - [Article 12](article-12.md)
 - [Article 17](article-17.md)
+- [Article 20](article-20.md)
 - [Article 23](article-23.md)
 - [Article 26](article-26.md)
 - [Article 27](article-27.md)

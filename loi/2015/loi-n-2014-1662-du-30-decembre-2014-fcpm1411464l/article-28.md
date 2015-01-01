@@ -1,0 +1,9 @@
+# Article 28
+
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance les mesures relevant du domaine de la loi, à l'exception de celles intervenant en matière répressive :
+
+1° Nécessaires à la transposition de la directive 2014/65/ UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/ CE et la directive 2011/61/ UE, ainsi que les mesures d'adaptation et d'harmonisation liées à cette directive, notamment les mesures tendant à la protection des investisseurs par le renforcement de la transparence et de l'intégrité des marchés financiers ;
+
+2° Complétant et adaptant les dispositions du code monétaire et financier et, le cas échéant, d'autres codes et lois pour assurer leur mise en conformité avec celles du règlement (UE) n° 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) n° 648/2012 ;
+
+3° Permettant, d'une part, de rendre applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, avec les adaptations nécessaires, les dispositions du règlement (UE) n° 600/2014 du Parlement européen et du Conseil du 15 mai 2014 précité, et du règlement (UE) n° 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux ainsi que les dispositions du code monétaire et financier et, le cas échéant, d'autres codes et lois relatives aux marchés d'instruments financiers, notamment celles résultant des dispositions prises en application du 1° du présent article, pour celles qui relèvent de la compétence de l'Etat et, d'autre part, de procéder aux adaptations nécessaires de ces dispositions en ce qui concerne les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon.

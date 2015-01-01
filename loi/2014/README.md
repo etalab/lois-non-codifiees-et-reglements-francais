@@ -13,6 +13,7 @@
 - [LOI n°2014-173 du 21 février 2014 (VILX1315170L)](loi-n2014-173-du-21-fevrier-2014-vilx1315170l)
 - [LOI n°2014-366 du 24 mars 2014 (ETLX1313501L)](loi-n2014-366-du-24-mars-2014-etlx1313501l)
 - [LOI n°2014-40 du 20 janvier 2014 (AFSX1322587L)](loi-n2014-40-du-20-janvier-2014-afsx1322587l)
+- [LOI n°2014-58 du 27 janvier 2014 (RDFX1306287L)](loi-n2014-58-du-27-janvier-2014-rdfx1306287l)
 - [LOI n°2014-626 du 18 juin 2014 (ERNX1317571L)](loi-n2014-626-du-18-juin-2014-ernx1317571l)
 - [LOI n°2014-640 du 20 juin 2014 (JUSX1405215L)](loi-n2014-640-du-20-juin-2014-jusx1405215l)
 - [LOI n°2014-855 du 31 juillet 2014 (FCPX1410823L)](loi-n2014-855-du-31-juillet-2014-fcpx1410823l)

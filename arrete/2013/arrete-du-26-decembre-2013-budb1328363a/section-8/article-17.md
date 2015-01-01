@@ -4,13 +4,13 @@ Au regard de la qualité du contrôle interne budgétaire, les décisions d'enga
 
 I. ― Les décisions d'engagement sont soumises au visa au dessus d'un seuil fixé :
 
-a) A 400 000 € toutes taxes comprises pour les dépenses des titres 3, 5, 6 et 7 du programme 137, de la mission  Solidarité, insertion et égalité des chances  ainsi que des programmes 163, 219 et 411 de la mission  Sport, jeunesse et vie associative  ;
+a) A 400 000 € toutes taxes comprises pour les dépenses des titres 3,5,6 et 7 du programme 137, de la mission Solidarité, insertion et égalité des chances ainsi que des programmes 163,219 et 411 de la mission Sport, jeunesse et vie associative ;
 
-b) A 500 000 € toutes taxes comprises pour les dépenses des titres 3, 5, 6 et 7 des programmes 106, 124, 157 et 304 de la mission  Solidarité, insertion et égalité des chances , des programmes 183 et 204 de la mission  Santé  ainsi que des programmes 147 et 177 de la mission  Egalité des territoires, logement et ville  ;
+b) A 500 000 € toutes taxes comprises pour les dépenses des titres 3,5,6 et 7 des programmes 106,124,157 et 304 de la mission Solidarité, insertion et égalité des chances, des programmes 183 et 204 de la mission Santé ainsi que du programme 177 de la mission Egalité des territoires, logement et ville ;
 
-c) A 2 000 000 € toutes taxes comprises pour les dépenses des titres 3, 5 et 7 des programmes 102, 103, 111, 155 et 412 de la mission  Travail-emploi  et des programmes 787, 788 et 789 de la mission  Financement national du développement et de la modernisation de l'apprentissage  ;
+c) A 2 000 000 € toutes taxes comprises pour les dépenses des titres 3,5 et 7 des programmes 102,103,111,155 et 412 de la mission Travail-emploi et des programmes 787,788 et 789 de la mission Financement national du développement et de la modernisation de l'apprentissage ;
 
-d) A 1 000 000 € toutes taxes comprises pour les dépenses des titres 6 des programmes 102, 103, 111, 155 et 412 de la mission  Travail-emploi  et des programmes 787, 788 et 789 de la mission  Financement national du développement et de la modernisation de l'apprentissage  ;
+d) A 1 000 000 € toutes taxes comprises pour les dépenses des titres 6 des programmes 102,103,111,155 et 412 de la mission Travail-emploi et des programmes 787,788 et 789 de la mission Financement national du développement et de la modernisation de l'apprentissage ;
 
 e) Par dérogation aux dispositions ci-dessus, les transactions et les contrats de partenariat public-privé sont visées dès le premier euro.
 

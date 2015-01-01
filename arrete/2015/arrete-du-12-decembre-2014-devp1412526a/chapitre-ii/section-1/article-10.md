@@ -1,0 +1,3 @@
+# Article 10
+
+La présence dans l'installation de matières dangereuses ou combustibles est limitée aux nécessités de l'exploitation. L'exploitant identifie sur une liste les produits dangereux, leur nature, la quantité maximale détenue, les risques de ces produits dangereux, grâce aux fiches de données de sécurité et sur un plan leur localisation sur le site. Ces documents sont disponibles sur le site. Les récipients portent en caractères lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la législation relative à l'étiquetage des substances, préparations et mélanges dangereux.

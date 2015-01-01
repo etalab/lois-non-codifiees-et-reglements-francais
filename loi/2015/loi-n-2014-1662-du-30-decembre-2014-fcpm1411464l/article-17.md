@@ -1,0 +1,3 @@
+# Article 17
+
+Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance les mesures relevant du domaine de la loi permettant, d'une part, de rendre applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, avec les adaptations nécessaires, les dispositions du code monétaire et financier relatives aux missions, aux règles de fonctionnement et aux pouvoirs de l'Autorité des marchés financiers et de l'Autorité de contrôle prudentiel et de résolution et, d'autre part, de procéder aux adaptations nécessaires de ces dispositions en ce qui concerne les collectivités de Saint-Barthélemy et de Saint-Pierre-et-Miquelon.

@@ -1,0 +1,3 @@
+# Article 2
+
+Sont autorisés à concourir les candidats réunissant les conditions fixées par l'article 4 du décret n° 2008-940 du 12 septembre 2008 modifié portant statut particulier du corps des officiers des armes de l'armée de terre et satisfaisant aux conditions d'aptitude définies par l'arrêté du 23 décembre 2009 relatif aux conditions médicales et physiques d'aptitude exigées des candidats aux concours d'admission dans les écoles militaires d'élèves officiers de carrière de l'armée de terre et des candidats pour un recrutement au choix dans le corps des officiers des armes de l'armée de terre.

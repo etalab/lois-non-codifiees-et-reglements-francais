@@ -18,7 +18,7 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau des cabinets à la sous-direction des bureaux des cabinets ;
 
-- sous-directeur régional du centre de prestations de proximité des ressources humaines à Istres ;
+- sous-directeur régional Sud-Ouest du centre de prestations de proximité des ressources humaines de la direction générale de l'armement ;
 
 - chef du bureau des marchés et conventions au contrôle budgétaire et comptable ministériel ;
 

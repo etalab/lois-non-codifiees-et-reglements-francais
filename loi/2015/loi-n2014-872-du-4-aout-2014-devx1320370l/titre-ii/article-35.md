@@ -1,0 +1,3 @@
+# Article 35
+
+La convention prévue à l'article L. 2162-1 du code des transports est négociée et conclue dans le cadre d'une commission mixte paritaire composée de représentants des employeurs et de représentants des organisations syndicales représentatives des salariés de l'ensemble des entreprises entrant dans le champ d'application du même article. Pour l'application du présent article et de l'article L. 2232-6 du code du travail, la représentativité des organisations syndicales de salariés est appréciée selon les modalités prévues à l'article L. 2122-5 du même code, en retenant les résultats des dernières élections survenues dans ces entreprises.

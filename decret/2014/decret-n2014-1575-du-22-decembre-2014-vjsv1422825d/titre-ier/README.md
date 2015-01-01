@@ -5,3 +5,4 @@
 - [Chapitre III : Dispositions applicables à la Guadeloupe](chapitre-iii)
 - [Chapitre IV : Dispositions particulières applicables à Mayotte](chapitre-iv)
 - [Chapitre V : Dispositions applicables à Saint-Martin](chapitre-v)
+- [Chapitre VI : Dispositions applicables à la Polynésie française](chapitre-vi)

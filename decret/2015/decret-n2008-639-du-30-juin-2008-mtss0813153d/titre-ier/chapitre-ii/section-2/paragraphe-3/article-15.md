@@ -1,0 +1,11 @@
+# Article 15
+
+I. ― Lorsqu'il est procédé à la liquidation de la pension d'ancienneté, le montant de celle-ci ne peut être inférieur à un montant minimal défini au IV ci-dessous. Toutefois, lorsque la pension est calculée sur un grade à service discontinu, le minimum de la pension d'ancienneté est égal à 90 % du traitement fixe, de la part de prime de fin d'année et de la prime de travail soumise à retenue pour la retraite d'un agent en début de carrière appartenant au grade dont il est fait état pour le calcul de la pension.
+
+II. ― Lorsqu'il est procédé à la liquidation de la pension de réforme visée à l'article 2, le montant de celle-ci ne peut être inférieur au minimum défini au IV ci-dessous, réduit dans le rapport à vingt-cinq ans de la durée des services valables pour la retraite et des bénéfices de campagne, ce rapport ne pouvant être supérieur à l'unité, ni descendre au-dessous de 1/5.
+
+En outre, lorsque l'agent, au moment de sa réforme présente une invalidité réduisant d'au moins des deux tiers sa capacité de travail ou de gain, au sens de l'article R. 341-2 du code de la sécurité sociale, le montant de la pension liquidée ne peut être inférieur à 50 % de la rémunération de base mentionnée à l'article 14.
+
+III. ― Les agents pour lesquels le droit à la retraite normale est ouvert à l'âge de cinquante ans dans les conditions de l'article 1er et les agents du service commercial des trains bénéficient, lorsqu'ils comptent au moins cinquante ans d'âge et vingt années de services valables pour la retraite et remplissent au point de vue de l'inaptitude les conditions prévues à l'article 2, d'une pension de réforme liquidée sur la base de vingt-cinq années de services valables pour la retraite. Dans ce cas, le minimum de cette pension de réforme est le minimum de pension d'ancienneté sans réduction.
+
+IV. ― Le montant du minimum de pension est égal à 3 367,02 € par trimestre à compter du 1er juillet 2008 et à 3 379,38 € par trimestre à compter du 1er décembre 2008. Ces montants sont révisés pour tenir compte d'éventuelles augmentations générales de salaire intervenant au deuxième semestre de l'année 2008. A compter du 1er janvier 2009, le montant du minimum de pension est revalorisé dans les conditions définies à l'article 30.

@@ -1,0 +1,5 @@
+# Article 14
+
+Pour le calcul de la dotation de compensation métropolitaine prévue à l'article L. 3663-6 du code général des collectivités territoriales, le produit de la taxe sur les conventions d'assurance attribué au département du Rhône avant la création de la métropole de Lyon, en application du I de l'article 53 de la loi de finances pour 2005 susvisée, est réparti entre la métropole de Lyon et le département du Rhône selon une clef définie par la commission locale, créée par l'article 38 de la loi du 27 janvier 2014 susvisée dans les conditions fixées à l'article L. 3663-3 du code général des collectivités territoriales, en tenant compte du nombre des interventions effectuées par le service départemental d'incendie et de secours sur le territoire de chacune des deux collectivités territoriales.
+
+A défaut d'accord de la commission, ce produit est réparti en fonction des dépenses réelles par habitant du service départemental d'incendie et de secours constatées en 2013 sur le territoire de chacune des deux collectivités territoriales.

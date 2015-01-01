@@ -4,7 +4,7 @@ Lorsque la réalisation d'une opération d'aménagement ou d'équipements public
 
 Lorsque la réalisation d'une opération d'aménagement ou d'équipements publics déclarés d'utilité publique rend nécessaire la démolition de locaux édifiés sans droit ni titre sur un terrain dont l'expropriation est poursuivie et affectés à l'exploitation d'établissements à usage professionnel, la personne publique à l'initiative de l'opération ou son concessionnaire peut verser aux exploitants une aide financière liée aux conséquences de l'opération si les conditions fixées aux 1° à 4° du II de l'article 1er sont remplies.
 
-Nonobstant les dispositions de l'article L. 13-14 du code de l'expropriation pour cause d'utilité publique, l'indemnisation du propriétaire foncier est effectuée à la valeur du terrain sans qu'il soit tenu compte de la valeur des locaux visés aux deux premiers alinéas du présent article.
+Nonobstant les dispositions de l'article L. 322-1 du code de l'expropriation pour cause d'utilité publique, l'indemnisation du propriétaire foncier est effectuée à la valeur du terrain sans qu'il soit tenu compte de la valeur des locaux visés aux deux premiers alinéas du présent article.
 
 Le relogement des occupants et des exploitants est assuré par la personne publique à l'initiative de l'opération ou par son concessionnaire, conformément au sixième alinéa des I et II de l'article 1er.
 

@@ -1,0 +1,3 @@
+# Article 9
+
+L'exploitant récapitule dans une notice, disponible sur site, les mesures mises en œuvre pour réduire l'impact sur l'environnement des opérations de transport, entreposage, manipulation ou transvasement de déchets (circulation, envol de poussières, bruit, etc.) conformément aux chapitres V, VI et VII du présent arrêté. Y sont également précisées les modalités d'approvisionnement et d'expédition (itinéraires, horaires, matériels de transport utilisés, limitation des vitesses sur le site en fonction des conditions météorologiques, etc.) ainsi que les techniques d'exploitation et aménagements.

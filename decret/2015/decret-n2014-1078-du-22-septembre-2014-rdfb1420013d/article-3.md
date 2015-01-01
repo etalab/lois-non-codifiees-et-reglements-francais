@@ -1,0 +1,3 @@
+# Article 3
+
+La métropole Toulouse Métropole est constituée, à la date de sa création et sans préjudice des évolutions ultérieures de son périmètre, des communes suivantes : Aigrefeuille, Aucamville, Aussonne, Balma, Beaupuy, Beauzelle, Blagnac, Brax, Bruguières, Castelginest, Colomiers, Cornebarrieu, Cugnaux, Drémil-Lafage, Fenouillet, Flourens, Fonbeauzard, Gagnac-sur-Garonne, Gratentour, Launaguet, Lespinasse, L'Union, Mondonville, Mons, Montrabé, Mondouzil, Pibrac, Pin-Balma, Quint-Fonsegrives, Saint-Alban, Saint-Jean, Saint-Jory, Saint-Orens-de-Gameville, Seilh, Toulouse, Tournefeuille, Villeneuve-Tolosane.

@@ -1,0 +1,3 @@
+# Article 11
+
+Les produits de la pêche sont exclusivement débarqués à La Réunion, à Port-des-Galets (Le Port). Néanmoins, ils peuvent l'être dans d'autres ports dans le cas de pêcheries exploratoires, après accord de la DPMA, suite à une demande faite par l'armement lors du dépôt du projet de pêcherie exploratoire visé à l'article 4 du présent arrêté. Ils sont manipulés, préparés et conditionnés dans le respect des conditions requises par les dispositions réglementaires en vigueur dans l'Union européenne. Ils sont entreposés de façon séparée et doivent porter la mention « SIOFA » sur l'emballage et les documents d'accompagnement.

@@ -8,6 +8,8 @@
 - [Article 36, annexe](article-36-annexe.md)
 - [Article 37, annexe](article-37-annexe.md)
 - [Article 41, annexe](article-41-annexe.md)
+- [Article 42, annexe](article-42-annexe.md)
 - [Article 43-1](article-43-1.md)
 - [Article 43-2](article-43-2.md)
 - [Article 43-3](article-43-3.md)
+- [Article 43, annexe](article-43-annexe.md)

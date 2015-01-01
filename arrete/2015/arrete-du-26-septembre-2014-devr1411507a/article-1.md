@@ -1,0 +1,7 @@
+# Article 1
+
+I.-Conformément à l'article 22 du décret du 1er décembre 2011 susvisé, les gestionnaires de réseaux publics d'électricité, les propriétaires des lignes directes mentionnées à l'article L. 343-1 du code de l'énergie et les responsables des ouvrages visés par l'article 24 du décret précité sont tenus d'informer les autorités publiques précisées à l'article 5 du présent arrêté de tout accident survenu sur un ouvrage électrique dont ils assurent l'exploitation ainsi que de tout autre événement affectant la sécurité de l'exploitation ou la continuité du service.
+
+Les articles 2 et 3 du présent arrêté précisent la nature des accidents et autres événements concernés. L'article 4 précise les éléments d'analyse de l'accident ou de l'événement à faire figurer dans le compte rendu complémentaire de ces faits à établir conformément à la dernière phrase du premier alinéa de l'article 22 du décret susmentionné. L'article 5 précise les autorités publiques à qui sont adressés les déclarations ainsi que les comptes rendus complémentaires.
+
+II.-Le respect des obligations rappelées au I est sans préjudice des déclarations, le cas échéant, des dommages causés aux réseaux sensibles (réseaux souterrains, aériens ou subaquatiques de transport ou de distribution) conformément à l'article R. 554-31 du code de l'environnement et des accidents du travail en application du code de la sécurité sociale.

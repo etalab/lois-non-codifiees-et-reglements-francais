@@ -1,0 +1,3 @@
+# Article 25
+
+Sans préjudice des dispositions prévues au deuxie alinéa de l'article L. 4139-13 du code de la défense, les officiers logisticiens des essences ne pouvant pas bénéficier d'une pension de retraite dans les conditions fixées par les dispositions du II de l'article L. 24 du code des pensions civiles et militaires de retraite peuvent déposer une demande de démission. Dans ce cas, le ministre de la défense est tenu d'agréer une demande de démission dès lors que le nombre total des demandes de démission ne représente pas un nombre au moins égal à 5 %, arrondi à l'unité supérieure, du nombre des nominations effectuées chaque année au premier grade du corps.

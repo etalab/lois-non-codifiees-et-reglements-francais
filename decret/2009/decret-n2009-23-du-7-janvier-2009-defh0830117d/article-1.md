@@ -5,245 +5,220 @@ L'échelonnement indiciaire applicable aux militaires du rang de la brigade de s
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> GRADE <br/>
-</p>
-</td>
-<td>
-<p align="center"> ÉCHELON </p>
-</td>
-<td>
-<p align="center"> INDICE BRUT </p>
-</td>
+<th>
+<br/>GRADE <br/>
+</th>
+<th>
+<br/>ÉCHELON <br/>
+</th>
+<th>
+<br/>INDICE BRUT <br/>
+</th>
 </tr>
 <tr>
 <td align="left" rowspan="12" valign="top">
-<br/>Caporal-chef. <br/>
+<br/>Caporal-chef <br/>
 </td>
 <td align="left" valign="top">
-<br/>Echelon exceptionnel (1) <br/>
+<p align="center">Echelon exceptionnel (1) </p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<br/>440 </p>
+<p align="center">440 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>11e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>399 </p>
+<td align="center" valign="middle">
+<br/>399 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>10e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>380 </p>
+<td align="center" valign="middle">
+<br/>380 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>9e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>367 </p>
+<td align="center" valign="middle">
+<br/>367 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>8e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>361 </p>
+<td align="center" valign="middle">
+<br/>361 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>7e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>359 </p>
+<td align="center" valign="middle">
+<br/>359 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>6e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>353 </p>
+<td align="center" valign="middle">
+<br/>353 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>5e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>335 </p>
+<td align="center" valign="middle">
+<br/>335 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>4e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>328 </p>
+<td align="center" valign="middle">
+<br/>328 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>3e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>327 </p>
+<td align="center" valign="middle">
+<br/>328 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>2e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>320 </p>
+<td align="center" valign="middle">
+<br/>327 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>1er échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>310 </p>
+<td align="center" valign="middle">
+<br/>327 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="6" valign="top">
-<br/>Caporal. <br/>
+<br/>Caporal <br/>
 </td>
 <td align="left" valign="top">
-<br/>6e échelon <br/>
+<p align="center">6e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<br/>350 </p>
+<p align="center">350 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>5e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>339 </p>
+<td align="center" valign="middle">
+<br/>339 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>4e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>331 </p>
+<td align="center" valign="middle">
+<br/>331 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>3e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>325 </p>
+<td align="center" valign="middle">
+<br/>327 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>2e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>319 </p>
+<td align="center" valign="middle">
+<br/>327 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>1er échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>309 </p>
+<td align="center" valign="middle">
+<br/>326 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" rowspan="6" valign="top">
-<br/>Soldat. <br/>
+<br/>Soldat <br/>
 </td>
 <td align="left" valign="top">
-<br/>6e échelon <br/>
+<p align="center">6e échelon </p>
 </td>
 <td align="left" valign="top">
-<p align="center">
-<br/>347 </p>
+<p align="center">347 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>5e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>329 </p>
+<td align="center" valign="middle">
+<br/>329 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>4e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>321 </p>
+<td align="center" valign="middle">
+<br/>328 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>3e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>314 </p>
+<td align="center" valign="middle">
+<br/>327 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>2e échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>312 </p>
+<td align="center" valign="middle">
+<br/>326 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
+<td align="center" valign="middle">
 <br/>1er échelon <br/>
 </td>
-<td align="left">
-<p align="center">
-<br/>308</p>
+<td align="center" valign="middle">
+<br/>326<br/>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<p align="left">(1) Echelon exceptionnel attribué dans les conditions prévues par le décret n° 2008-961 susvisé. </p>
+<p align="left">(1) Les échelons exceptionnels sont attribués dans les conditions prévues par le décret n° 2008-961 du 12 septembre 2008 modifié.</p>
 </td>
 </tr>
 </tbody>

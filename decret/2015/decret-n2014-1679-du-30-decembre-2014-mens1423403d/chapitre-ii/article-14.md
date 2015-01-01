@@ -1,0 +1,3 @@
+# Article 14
+
+CentraleSupélec peut, avec d'autres établissements publics d'enseignement supérieur ou de recherche, créer un ou plusieurs services interétablissements. Les établissements intéressés concluent une convention prévoyant l'organisation et les modalités de gestion de ce service. Cette convention mentionne les missions dévolues au service, l'établissement auquel il est rattaché ainsi que les droits et obligations des établissements contractants. Elle précise en outre les conditions de nomination du directeur de ce service, la durée de son mandat ainsi que, le cas échéant, la composition, les attributions et les modalités de fonctionnement de l'instance consultative qui assiste le directeur.

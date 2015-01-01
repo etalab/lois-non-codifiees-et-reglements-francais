@@ -1,0 +1,7 @@
+# Article 39
+
+Par dérogation aux dispositions du code du travail relatives à la durée des mandats, des élections professionnelles anticipées sont organisées au sein de chaque établissement public composant le groupe public ferroviaire dans un délai d'un an à compter de la constitution du groupe public ferroviaire.
+
+A compter du 1er janvier 2015 et jusqu'à la proclamation des résultats des élections professionnelles, la représentativité des organisations syndicales au niveau du groupe public ferroviaire est mesurée conformément aux articles L. 2122-1 à L. 2122-3 du code du travail, en additionnant les suffrages exprimés au premier tour des dernières élections des membres titulaires des comités d'entreprise et d'établissement de la Société nationale des chemins de fer français et de Réseau ferré de France. A partir du 1er janvier 2015, par dérogation aux deux premiers alinéas de l'article L. 2143-5, les organisations syndicales représentatives au niveau du groupe public ferroviaire désignent des délégués syndicaux centraux. A cette même date, il est mis fin au mandat des délégués syndicaux centraux désignés auprès de la Société nationale des chemins de fer français et de Réseau ferré de France.
+
+Les mandats des représentants du personnel en cours au moment de la constitution du groupe public ferroviaire subsistent à compter de la constitution du groupe public ferroviaire au sein de chaque établissement public industriel et commercial jusqu'à la proclamation des résultats des élections anticipées mentionnées au premier alinéa du présent article.

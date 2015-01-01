@@ -1,0 +1,3 @@
+# Article 34
+
+A titre transitoire, les salariés de la SNCF, de SNCF Réseau et de SNCF Mobilités conservent leur régime de durée du travail jusqu'à la publication de l'arrêté d'extension de la convention collective du transport ferroviaire ou de l'arrêté d'extension de l'accord relatif à l'organisation et à l'aménagement du temps de travail dans le transport ferroviaire, et au plus tard jusqu'au 1er juillet 2016. Pendant cette période, les organisations syndicales de salariés représentatives du groupe public ferroviaire peuvent négocier un accord collectif relatif à la durée du travail applicable aux salariés de la SNCF, de SNCF Réseau et de SNCF Mobilités.

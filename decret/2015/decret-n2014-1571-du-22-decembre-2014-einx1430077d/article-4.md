@@ -1,0 +1,5 @@
+# Article 4
+
+L'agence exerce ses missions en coordination et complémentarité avec le réseau international des ministères chargés de l'économie et des finances. Nonobstant les missions qu'ils exercent en propre, et en tant que de besoin, les services économiques à l'étranger peuvent être mobilisés par Business France pour réaliser des missions relevant de l'attractivité et pour appuyer ses actions relevant du soutien au développement international des entreprises.
+
+Les modalités de coopération entre les services à l'étranger du ministère chargé de l'économie et Business France sont précisées dans une annexe à la convention mentionnée à l'article 2 du présent décret. Là où Business France ne dispose pas de bureau, la convention établit les conditions dans lesquelles les moyens mis en œuvre par le réseau à l'étranger du ministère chargé de l'économie peuvent être complétés par ceux de Business France, notamment par l'affectation, auprès des services économiques, de personnel ou par la prise en charge de certaines dépenses de fonctionnement nécessaires à la réalisation des objectifs fixés.

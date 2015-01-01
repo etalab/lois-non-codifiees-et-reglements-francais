@@ -1,0 +1,3 @@
+# Article 8
+
+Dans le respect des résolutions nos 61/105 et 64/72 de l'Assemblée générale des Nations unies, adoptées respectivement le 8 décembre 2006 et le 4 décembre 2009, et de manière à limiter l'impact néfaste des activités de pêche en eaux profondes sur l'environnement marin, les mesures liées à la découverte d'EMV dans la zone d'application du présent arrêté sont prévues à l'annexe VII. Toute notification de rencontre significative d'EMV s'effectue auprès du CROSS RU qui alertera la DPMA ainsi que le MNHN. En cas de confirmation avérée de présence significative d'EMV par le MNHN, la DPMA ferme provisoirement le secteur à toute activité de pêche en eaux profondes.

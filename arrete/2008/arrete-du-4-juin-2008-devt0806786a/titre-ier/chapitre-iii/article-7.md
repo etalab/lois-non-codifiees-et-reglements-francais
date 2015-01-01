@@ -12,4 +12,4 @@ _Obligations générales_. ― Les personnes pénétrant ou se trouvant dans la 
 
 ― ne pas gêner, entraver ou neutraliser le fonctionnement normal de l'inspection-filtrage, notamment en ne respectant pas ou en contestant les consignes affichées ou les instructions données par le personnel chargé de procéder aux visites de sûreté.
 
-Les fonctionnaires et agents de l'Etat chargés d'exercer habituellement les missions de police, de sécurité et de secours mentionnés au II de l'article R. 321-34 du code des ports maritimes et les inspecteurs et contrôleurs de l'inspection du travail mentionnés à l'article R. 321-35 du même code ne sont soumis qu'à un contrôle documentaire.
+Les fonctionnaires et agents de l'Etat chargés d'exercer habituellement les missions de police, de sécurité et de secours mentionnés au 2° de l'article R. 5332-37 du code des transports et les inspecteurs et contrôleurs de l'inspection du travail mentionnés à l'article R. 5332-38 du même code ne sont soumis qu'à un contrôle documentaire.

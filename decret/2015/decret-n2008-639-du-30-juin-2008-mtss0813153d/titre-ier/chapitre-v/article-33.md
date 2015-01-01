@@ -1,0 +1,13 @@
+# Article 33
+
+Les agents bénéficiaires du présent règlement ont droit, en ce qui concerne l'assurance vieillesse, dans les conditions définies par les dispositions du chapitre 3 du titre VII du livre Ier du code de la sécurité sociale, à la garantie des avantages dont ils auraient bénéficié s'ils avaient été bénéficiaires du régime général de sécurité sociale.
+
+Par dérogation aux dispositions prévues à l'article D. 173-2 du code de la sécurité sociale, les périodes pendant lesquelles un ancien agent a perçu une pension d'invalidité servie dans les conditions précisées à l'article 34 sont prises en compte comme périodes assimilées pour le calcul de la pension de vieillesse.
+
+Aux avantages prévus au premier alinéa s'ajoute, pour les agents quittant la SNCF sans avoir acquis de droit à pension, un avantage de retraite complémentaire déterminé, selon le niveau occupé par les intéressés, en fonction des règles d'attribution et de calcul en vigueur respectivement dans le régime défini par l'accord national interprofessionnel de retraite complémentaire du 8 décembre 1961 (ARRCO) et dans le régime défini par la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 (AGIRC).
+
+Par ailleurs, tout agent qui quitte la SNCF sans bénéficier d'un droit à pension de retraite au titre du régime spécial a droit au remboursement de ses cotisations antérieures sous déduction, d'une part, des cotisations qui auraient été dues au régime général de sécurité sociale s'il en avait relevé, d'autre part, des cotisations qui auraient été destinées à garantir à l'intéressé l'avantage de retraite complémentaire défini au troisième alinéa du présent article. Lorsque le montant des cotisations ainsi déterminé excède le montant de celles qu'il a effectivement acquittées au régime spécial, l'intéressé est tenu de verser le surplus de cotisation dont il aurait été redevable.
+
+La SNCF reçoit de la caisse le remboursement de ses cotisations patronales, déduction faite des cotisations patronales d'assurance vieillesse du régime général de sécurité sociale et des régimes complémentaires de retraite qui auraient été dues à la caisse pour garantir à l'agent le bénéfice des règles de coordination avec le régime général de sécurité sociale et l'avantage de retraite complémentaire défini au troisième alinéa du présent article. Si les cotisations à déduire excèdent le montant des cotisations patronales remboursables, la SNCF verse le différentiel à la caisse.
+
+Le montant des cotisations à prendre en compte au titre des deux alinéas précédents est revalorisé sur la base des règles applicables dans le régime.

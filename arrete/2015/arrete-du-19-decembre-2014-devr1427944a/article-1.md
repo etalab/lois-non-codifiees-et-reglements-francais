@@ -1,0 +1,5 @@
+# Article 1
+
+Lorsque le suivi d'une formation continue est nécessaire pour satisfaire les exigences de compétences, le responsable technique d'une entreprise candidate à l'obtention d'un signe de qualité mentionné au I de l'article 2 du décret n° 2014-812 du 16 juillet 2014 susvisé doit avoir suivi avec succès une formation respectant le cahier des charges défini par le présent arrêté, auprès d'un organisme de formation agréé par un organisme ayant passé une convention avec l'Etat conformément au II du même article, ci-après dénommé « organisme de contrôle de la formation ». La liste des organismes de contrôle de la formation est tenue à jour sur les sites internet du ministère chargé de l'énergie et du ministère chargé de la construction.
+
+Le cahier des charges est spécifique pour chacune des huit catégories de travaux définies au I de l'article 46 AX de l'annexe 3 du code général des impôts et précise les exigences relatives aux objectifs de la formation, à l'architecture de la formation, à la plate-forme technique associée, le cas échéant, aux modalités de contrôle des connaissances des stagiaires et à la reconnaissance des compétences des formateurs.

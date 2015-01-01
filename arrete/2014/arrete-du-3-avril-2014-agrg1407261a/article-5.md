@@ -1,0 +1,5 @@
+# Article 5
+
+Autocontrôles.
+
+Les responsables des activités mentionnées à l'article 1er doivent procéder à des autocontrôles réguliers afin de vérifier la conformité des installations et du fonctionnement de leurs établissements aux dispositions du présent arrêté et de ses annexes. Les résultats de ces autocontrôles font l'objet d'un enregistrement. La nature et la fréquence de ces autocontrôles sont adaptées à la nature et la taille de l'activité ainsi qu'aux espèces concernées, selon les modalités décrites soit par une analyse de risques relative au bien-être des animaux conduite par le responsable de l'établissement et approuvée par l'agent de contrôle lors de son inspection, soit par un guide de bonnes pratiques validé pour l'activité concernée. Tout dysfonctionnement, anomalie ou non-conformité identifié doit faire l'objet de mesures correctives dans les meilleurs délais. Les enregistrements des résultats des autocontrôles et des mesures correctives et, le cas échéant, l'analyse de risques sont tenus à la disposition des agents de contrôle.

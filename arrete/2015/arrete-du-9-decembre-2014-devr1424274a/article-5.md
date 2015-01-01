@@ -1,0 +1,5 @@
+# Article 5
+
+Lorsque l'analyse coûts-avantages conduit dans l'analyse économique et financière à un total des avantages escomptés supérieur à celui des coûts escomptés et qu'il n'existe pas de raisons impérieuses de droit, de propriété ou d'ordre financier l'en empêchant, l'exploitant met en œuvre la solution de valorisation de la chaleur fatale à travers un réseau de chaleur ou de froid dans les conditions ressortant de l'analyse coût-avantages. En cas de modification notable d'un des paramètres relatif au contenu de l'analyse coûts-avantages listés dans le tableau en annexe avant la mise en œuvre du raccordement, l'exploitant met à jour l'analyse coûts-avantages et la transmet au préfet.
+
+Lorsqu'il existe une exemption fondée sur les raisons impérieuses de droit, de propriété ou d'ordre financier, celle-ci est expressément prévue par l'arrêté d'autorisation mentionné à l'article R. 512-28 du code de l'environnement. Le préfet informe le directeur général de l'énergie et du climat de sa décision motivée dans le mois suivant l'adoption de celle-ci, pour notification à la Commission européenne.

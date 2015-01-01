@@ -1,0 +1,3 @@
+# Article 16
+
+Lorsqu'un compteur à usage industriel lourd de classe D, légalement fabriqué ou commercialisé dans un autre Etat membre de l'Union Européenne, dans un autre Etat partie à l'accord sur l'Espace économique européen, en Turquie ou dans un Etat ayant conclu un accord de reconnaissance à cet effet dans le cadre de l'Organisation internationale de métrologie légale, fait l'objet d'une demande de vérification primitive, les essais et, le cas échéant, les vérifications partielles effectués dans cet Etat sont acceptés s'ils présentent des garanties équivalentes aux essais ou vérifications prescrits en France et si leurs résultats sont mis à la disposition de l'organisme chargé de la vérification primitive.

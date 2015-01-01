@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsqu'un agent de la société nationale cesse d'appartenir au cadre permanent et passe au régime général des assurances sociales, les dispositions de l'article 15 du décret-loi du 28 octobre 1935 lui sont, éventuellement, applicables ; les trimestres civils entiers ou partiels de présence dans le cadre permanent, avec une rémunération totale annuelle inférieure ou égale aux chiffres limites visés à l'article 1er du présent décret, qui se trouvent compris dans la période définie à l'article 15, paragraphe 5, dudit décret-loi, sont supposés, pour la détermination des droits de l'intéressé, avoir donné lieu à la retenue qu'il aurait subie sur son salaire sous le régime des assurances sociales s'il avait été soumis à ce régime pour la totalité des risques.

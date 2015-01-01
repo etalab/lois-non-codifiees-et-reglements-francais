@@ -1,0 +1,3 @@
+# Article 7
+
+Les données à caractère personnel et informations collectées sont conservées à compter de l'enregistrement des soutiens. Elles sont détruites à l'issue d'un délai de deux mois à compter de la publication au Journal officiel de la décision du Conseil constitutionnel déclarant si la proposition de loi a obtenu le soutien d'au moins un dixième des électeurs inscrits sur les listes électorales. Par dérogation, elles sont détruites sans délai après décision définitive de la formation prévue à l'article 45-4 de l'ordonnance du 7 novembre 1958 susvisée, faisant droit à une réclamation en ce sens, ou décision du Conseil constitutionnel faisant droit à un recours en ce sens.

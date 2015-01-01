@@ -1,0 +1,3 @@
+# Article 9
+
+Tout projet de pêcherie exploratoire fait l'objet d'une étude d'impact préalable, visant notamment à prévenir les impacts néfastes significatifs de l'activité de pêche sur les EMV. Cette étude comporte un projet de notification, un plan de recherche et un plan de collecte des données, ces documents étant transmis au MNHN pour examen. Au plus tard deux mois après réception de l'étude d'impact, le MNHN transmet à la DPMA un avis sur le projet de pêche concerné. La DPMA dispose alors de deux mois pour autoriser ou non le projet de pêche. Les éléments constitutifs de l'étude d'impact sont détaillés à l'annexe VIII.

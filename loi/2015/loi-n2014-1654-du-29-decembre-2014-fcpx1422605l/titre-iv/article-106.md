@@ -1,0 +1,3 @@
+# Article 106
+
+Le Gouvernement remet au Parlement, avant le 1er octobre 2015, un rapport relatif aux financements publics de la sûreté nucléaire, de la radioprotection et de la transparence nucléaire. Ce rapport regroupe l'ensemble des moyens budgétaires et fiscaux qu'il est prévu de consacrer à la sûreté nucléaire, à la radioprotection et à la transparence nucléaire. Il comporte une présentation, en coûts complets, des budgets prévisionnels de l'Autorité de sûreté nucléaire et de l'Institut de radioprotection et de sûreté nucléaire, des données relatives à l'exécution pour l'année échue, ainsi que l'avis rendu par l'Autorité de sûreté nucléaire en application de l'article L. 592-14 du code de l'environnement.

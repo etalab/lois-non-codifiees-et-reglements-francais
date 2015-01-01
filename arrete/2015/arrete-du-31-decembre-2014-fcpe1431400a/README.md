@@ -1,0 +1,10 @@
+# Arrêté du 31 décembre 2014 fixant l'assignation des dépenses et des recettes de certains ordonnateurs principaux délégués de l'Etat sur des comptables principaux des services déconcentrés de la direction générale des finances publiques
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Annexe A](annexe-a)
+- [Annexe B](annexe-b)
