@@ -2,7 +2,7 @@
 
 Les prestations sociales servies aux assurés par le régime spécial de sécurité sociale de la Régie autonome des transports parisiens sont les suivantes :
 
-a) Les prestations familiales, conformément aux dispositions légales et réglementaires ;
+a) (Abrogé) ;
 
 b) Les prestations vieillesse, conformément aux dispositions du règlement des retraites ;
 
