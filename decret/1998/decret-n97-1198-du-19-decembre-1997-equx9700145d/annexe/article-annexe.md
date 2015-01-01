@@ -1062,6 +1062,23 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 </tbody>
 </table>
 
+Code des transports :
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="justify">
+<br/>Refus d'inscription ou de renouvellement d'inscription des voitures de transports avec chauffeur <br/>
+</td>
+<td align="center">
+<br/>Article R. 3122-2 </td>
+</tr>
+</tbody>
+</table>
+
 _Mesure prise par le ministre chargé de l'urbanisme_
 
 Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomètre expert et code des devoirs professionnels

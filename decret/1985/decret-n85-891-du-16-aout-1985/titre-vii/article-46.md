@@ -25,3 +25,9 @@ c) D'omettre de retirer cette signalétique ou de l'occulter si le véhicule est
 d) De ne pas mentionner le nom ou le sigle de l'entreprise de transport dans un endroit apparent sur les véhicules affectés à des services de transport public routier collectif de personnes ;
 
 e) Le fait d'exécuter un service de transport public routier de personnes sans avoir à bord du véhicule les documents de contrôle prévus au b du B du I de l'article 45.
+
+III. - Est puni de l'amende prévue pour les contraventions de la cinquième classe :
+
+a) Le fait, pour un conducteur de véhicule de moins de dix places exécutant des services occasionnels, de contrevenir aux dispositions des 2° ou 3° du II de l'article L. 3120-2 du code des transports ;
+
+b) Le fait, pour un exploitant de véhicules de moins de dix places exécutant des services occasionnels ou pour l'intermédiaire auquel il a recours, de contrevenir aux dispositions du III de l'article L. 3120-2 du même code.
