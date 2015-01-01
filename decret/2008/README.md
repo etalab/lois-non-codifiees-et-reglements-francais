@@ -72,7 +72,6 @@
 - [Décret n°2008-210 du 3 mars 2008 (SJSP0766088D)](decret-n2008-210-du-3-mars-2008-sjsp0766088d)
 - [Décret n°2008-211 du 3 mars 2008 (SJSS0771631D)](decret-n2008-211-du-3-mars-2008-sjss0771631d)
 - [Décret n°2008-307 du 3 avril 2008 (IOCA0808390D)](decret-n2008-307-du-3-avril-2008-ioca0808390d)
-- [Décret n°2008-309 du 3 avril 2008 (BCFP0806741D)](decret-n2008-309-du-3-avril-2008-bcfp0806741d)
 - [Décret n°2008-310 du 3 avril 2008 (BCFP0806742D)](decret-n2008-310-du-3-avril-2008-bcfp0806742d)
 - [Décret n°2008-526 du 3 juin 2008 (SJSS0806292D)](decret-n2008-526-du-3-juin-2008-sjss0806292d)
 - [Décret n°2008-7 du 3 janvier 2008 (IOCA0772341D)](decret-n2008-7-du-3-janvier-2008-ioca0772341d)
