@@ -1,11 +1,5 @@
 # Article 7
 
-Le conseil d'administration élit parmi ses membres un président et huit vice-présidents désignés au titre des collectivités territoriales représentées au conseil d'administration :
+Le conseil d'administration élit parmi ses membres, pour une durée de six ans, un président, issu du collège des représentants des collectivités territoriales, et un vice-président issu du collège des représentants des collectivités territoriales, des établissements publics de coopération intercommunale à fiscalité propre et des communes non membres de ces établissements.
 
-- deux pour la région Lorraine ;
-
-- deux pour chacun des départements de Meurthe-et-Moselle et de la Moselle ;
-
-- un pour chacun des départements de la Meuse et des Vosges.
-
-Les vice-présidents suppléent le président en cas d'absence ou d'empêchement, dans l'ordre fixé par le conseil d'administration.
+Le vice-président supplée le président en cas d'absence ou d'empêchement.

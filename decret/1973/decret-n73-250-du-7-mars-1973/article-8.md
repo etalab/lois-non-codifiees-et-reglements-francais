@@ -1,11 +1,15 @@
 # Article 8
 
-Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats. Le conseil peut également être convoqué à la demande du préfet de région. Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
+Le conseil d'administration est réuni et délibère dans les conditions fixées à l'article R. * 321-3 du code de l'urbanisme.
 
-Le préfet de la région Lorraine, préfet de la Moselle, et les préfets de Meurthe-et-Moselle, de la Meuse et des Vosges assistent de droit aux séances du conseil et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les séances leur sont adressés. Ils peuvent se faire représenter.
+Ses procès-verbaux et délibérations sont adressés au préfet de la région Lorraine. Ils le sont également au contrôleur budgétaire et à l'agent comptable de l'établissement.
 
-Le préfet de région peut faire inscrire à l'ordre du jour du conseil d'administration toute question dont l'examen lui paraît utile.
+Le président du conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement de Lorraine, le directeur régional de l'alimentation, de l'agriculture et de la forêt de Lorraine, le directeur régional de l'environnement de Lorraine,        le contrôleur budgétaire de l'Etat et l'agent comptable ont accès aux séances du conseil et y sont entendus chaque fois qu'ils le demandent. Les procès-verbaux et délibérations de toutes les séances leur sont adressés.
+L'ordre du jour des séances doit être porté à la connaissance des membres du conseil au moins dix jours francs à l'avance.
 
-Le conseil peut inviter toute personne dont l'audition lui paraît utile.
+Le conseil d'administration délibère valablement lorsque la moitié des membres au moins participent à la séance ou sont représentés. Quand, après une première convocation régulièrement faite, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise valablement sans condition de quorum après seconde convocation à cinq jours au moins d'intervalle.
+
+Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la ressource fiscale prévue à l'article 1607 ter du code général des impôts.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
