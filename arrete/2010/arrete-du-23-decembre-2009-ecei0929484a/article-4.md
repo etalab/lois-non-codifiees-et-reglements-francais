@@ -2,9 +2,9 @@
 
 Le montant de la garantie financière est égal au cumul, arrondi à la centaine d'euros supérieure, des sommes correspondant aux pourcentages du volume d'affaire défini à l'article 3 fixés comme suit :
 
-a) Voyage à forfait vendu directement au consommateur final ou par l'intermédiaire d'un bon mentionné au V de l'article L. 211-1 du code du tourisme : 10 % ;
+a) Voyage à forfait vendu directement au consommateur final ou par l'intermédiaire d'un bon mentionné au V de l'article L. 211-1 du code du tourisme : 20 % ;
 
-b) Autres prestations relevant de l'article L. 211-1 du code du tourisme vendues au consommateur final (toutes prestations à l'exception de celles mentionnées aux a et c du présent article) : 3 % ;
+b) Autres prestations relevant de l'article L. 211-1 du code du tourisme vendues au consommateur final (toutes prestations à l'exception de celles mentionnées aux a et c du présent article) : 6 % ;
 
 c) Titres de transports (hors forfait) : 0 %.
 

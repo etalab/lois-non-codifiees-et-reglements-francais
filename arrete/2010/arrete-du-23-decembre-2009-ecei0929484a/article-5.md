@@ -1,6 +1,6 @@
 # Article 5
 
-Le montant minimum de la garantie financière ne peut être inférieur à 100 000 euros, à l'exception des opérateurs énumérés ci-après pour lesquels le montant est fixé comme suit :
+Le montant minimum de la garantie financière ne peut être inférieur à 200 000 euros, à l'exception des opérateurs énumérés ci-après pour lesquels le montant est fixé comme suit :
 
 ― associations ou organismes sans but lucratif et organismes locaux de tourisme : 30 000 euros ;
 
