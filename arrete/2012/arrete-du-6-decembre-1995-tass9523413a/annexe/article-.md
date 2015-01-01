@@ -68,27 +68,43 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </td>
 </tr>
 <tr>
-<td>40.1ZB</td>
-<td>Agents statutaires : entreprises non nationalisées. </td>
+<td>
+<p align="left">40.1ZB</p>
+</td>
+<td>
+<p align="left">Agents statutaires : entreprises non nationalisées. </p>
+</td>
 </tr>
 <tr>
-<td>40.1ZC</td>
-<td>Agents temporaires : entreprises nationalisées. </td>
+<td>
+<p align="left">40.1ZC</p>
+</td>
+<td>
+<p align="left">Agents temporaires : entreprises nationalisées. </p>
+</td>
 </tr>
 <tr>
-<td>40.1ZD</td>
-<td>Agents temporaires : entreprises non nationalisées. </td>
+<td>
+<p align="left">40.1ZD</p>
+</td>
+<td>
+<p align="left">Agents temporaires : entreprises non nationalisées. </p>
+</td>
 </tr>
 <tr>
-<td>40.1ZE</td>
-<td>Agents statutaires des industries électriques et gazières. </td>
+<td>
+<p align="left">40.1ZE</p>
+</td>
+<td>
+<p align="left">Agents statutaires des industries électriques et gazières. </p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>40.1ZF</p>
+<p align="left">40.1ZF</p>
 </td>
 <td valign="top" width="550">
-<p>Salariés non statutaires des industries électriques et gazières.</p>
+<p align="left">Salariés non statutaires des industries électriques et gazières.</p>
 </td>
 </tr>
 <tr>
@@ -342,14 +358,6 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td valign="top" width="130">
-<p>92.6CC</p>
-</td>
-<td valign="top" width="550">
-<p>Cadets de golf. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="130">
 <p>92.6CG</p>
 </td>
 <td valign="top" width="550">
@@ -366,7 +374,7 @@ ACTIVITÉS VISÉES AU I DE L'ARTICLE D. 242-6-10 DU CODE DE LA SÉCURITÉ SOCIAL
 </tr>
 <tr>
 <td colspan="2">
-<p align="left">(1) Y compris les crèches, garderies, centres aérés et de loisirs..., à l'exclusion des structures et colonies de vacances visées au numéro de risque 55. 2E.</p>
+<p align="left">(1) Y compris les crèches, garderies, centres aérés et de loisirs..., à l'exclusion des structures et colonies de vacances visées au numéro de risque 55.2E.</p>
 </td>
 </tr>
 </tbody>

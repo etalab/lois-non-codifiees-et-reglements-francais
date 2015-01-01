@@ -12,7 +12,7 @@ Les catégories de travailleurs visées au dernier alinéa de l'article D. 242-6
 
 5° Accueil à domicile, à titre onéreux, d'enfants pour le compte de particuliers et de personnes âgées ou d'adultes handicapés sur leur propre demande ou pour le compte de particuliers ;
 
-6° Cadets de golf ;
+6° Abrogé
 
 7° Toute personne occupée exclusivement au service de particuliers : employés de maison (femme de ménage, lingère, couturière, blanchisseuse à la journée, chauffeur de maître, etc.) ;
 
