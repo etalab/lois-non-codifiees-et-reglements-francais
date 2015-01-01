@@ -38,7 +38,9 @@ Ces documents sont relatifs aux politiques suivantes :
 
 17° Politique du tourisme ;
 
-18° Politique immobilière de l'Etat.
+18° Politique immobilière de l'Etat ;
+
+19° Politique maritime de la France.
 
 Le document relatif à la politique mentionnée au 2° comporte également :
 

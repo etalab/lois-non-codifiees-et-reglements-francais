@@ -10,7 +10,7 @@ Les parties ayant comparu devant la juridiction supprimée sont informées par l
 
 Les archives et les minutes du greffe du tribunal aux armées supprimé sont transférées au greffe des juridictions de droit commun spécialisées en matière militaire ayant leur siège à Paris. Les frais de transfert de ces archives et minutes sont pris sur le crédit ouvert à cet effet au budget du ministère de la justice.
 
-III. ― Les articles 1er et 2 de la présente loi entrent en vigueur le 1er janvier 2015 et sont applicables aux procédures en cours dans les conditions suivantes :
+III. ― Les articles 1er et 2 de la présente loi entrent en vigueur le 1er janvier 2017 et sont applicables aux procédures en cours dans les conditions suivantes :
 
 En matière civile, la juridiction de proximité demeure compétente pour connaître des procédures en cours jusqu'au premier jour du septième mois suivant la date fixée au premier alinéa du présent III, date à compter de laquelle ces procédures sont transférées en l'état au tribunal d'instance. Dans les matières dont la connaissance est transférée par l'effet de la présente loi au tribunal d'instance, les convocations et assignations données aux parties peuvent être délivrées avant la date fixée au même premier alinéa pour une comparution postérieure à cette date devant le tribunal d'instance.
 

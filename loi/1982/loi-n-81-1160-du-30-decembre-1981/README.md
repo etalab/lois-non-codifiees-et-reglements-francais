@@ -18,7 +18,6 @@
 - [Article 93](article-93.md)
 - [Article 94](article-94.md)
 - [Article 100](article-100.md)
-- [Article 106](article-106.md)
 - [Article 108](article-108.md)
 - [Article 110](article-110.md)
 - [Article 116](article-116.md)

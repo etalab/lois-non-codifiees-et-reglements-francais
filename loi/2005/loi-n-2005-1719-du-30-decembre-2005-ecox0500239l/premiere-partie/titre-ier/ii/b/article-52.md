@@ -6,7 +6,7 @@ L'ordonnateur principal de ce compte est le ministre chargé de l'agriculture.
 
 Ce compte retrace :
 
-1° En recettes : une fraction égale à 85 % du produit de la taxe sur le chiffre d'affaires des exploitants agricoles prévue à l'article 302 bis MB du code général des impôts ;
+1° En recettes : le produit de la taxe sur le chiffre d'affaires des exploitants agricoles prévue à l'article 302 bis MB du code général des impôts ;
 
 2° En dépenses : des dépenses relatives au développement agricole et rural.
 

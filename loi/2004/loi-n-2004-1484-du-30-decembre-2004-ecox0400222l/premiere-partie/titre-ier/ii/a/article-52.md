@@ -32,7 +32,7 @@ En 2006, en 2007 et en 2008 la participation des familles prévue au deuxième a
 
 A compter de 2006, le montant de la compensation servant au calcul de la fraction de taux mentionnée au premier alinéa du présent III est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
 
-A compter de 2008, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2014, la fraction de tarif de la taxe intérieure de consommation sur les produits énergétiques est fixée à 1,737 € par hectolitre s'agissant des supercarburants sans plomb et 1,229 € par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
+A compter de 2008, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2015, la fraction de tarif de la taxe intérieure de consommation sur les produits énergétiques est fixée à 1,739 € par hectolitre s'agissant des supercarburants sans plomb et 1,230 € par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
 
 Le niveau définitif de la fraction mentionnée au premier alinéa du présent III est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
 
@@ -42,7 +42,9 @@ a) D'une part, le droit à compensation de ce département, augmenté, d'une par
 
 b) D'autre part, le montant de la compensation de l'ensemble des départements calculé selon les modalités prévues aux deuxième et quatrième alinéas du présent III.
 
-En 2014, ces pourcentages sont fixés comme suit :
+A compter de 2015, la métropole de Lyon et le département du Rhône reçoivent un produit de taxe résultant de l'application, à la part des produits de la taxe sur les conventions d'assurance et de la taxe intérieure de consommation sur les produits énergétiques reçu par le département du Rhône avant la création de la métropole de Lyon, d'une clé de répartition correspondant à 69,690 10 % pour la métropole de Lyon et à 30,309 90 % pour le département du Rhône.
+
+En 2015, ces pourcentages sont fixés comme suit :
 
 <table>
 <tbody>
@@ -55,811 +57,820 @@ En 2014, ces pourcentages sont fixés comme suit :
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Ain <br/>
 </td>
-<td align="center">
-<br/>1,066 940 <br/>
+<td align="left">
+<br/>1,066 861 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Aisne <br/>
 </td>
-<td align="center">
-<br/>0,964 047 <br/>
+<td align="left">
+<br/>0,963 624 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Allier <br/>
 </td>
-<td align="center">
-<br/>0,765 229 <br/>
+<td align="left">
+<br/>0,765 115 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Alpes-de-Haute-Provence <br/>
 </td>
-<td align="center">
-<br/>0,553 723 <br/>
+<td align="left">
+<br/>0,553 803 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Hautes-Alpes <br/>
 </td>
-<td align="center">
-<br/>0,413 335 <br/>
+<td align="left">
+<br/>0,414 604 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Alpes-Maritimes <br/>
 </td>
-<td align="center">
-<br/>1,591 414 <br/>
+<td align="left">
+<br/>1,591 287 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Ardèche <br/>
 </td>
-<td align="center">
-<br/>0,750 049 <br/>
+<td align="left">
+<br/>0,749 858 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Ardennes <br/>
 </td>
-<td align="center">
-<br/>0,655 751 <br/>
+<td align="left">
+<br/>0,655 599 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Ariège <br/>
 </td>
-<td align="center">
-<br/>0,394 983 <br/>
+<td align="left">
+<br/>0,395 014 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Aube <br/>
 </td>
-<td align="center">
-<br/>0,722 425 <br/>
+<td align="left">
+<br/>0,722 242 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Aude <br/>
 </td>
-<td align="center">
-<br/>0,735 698 <br/>
+<td align="left">
+<br/>0,735 703 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Aveyron <br/>
 </td>
-<td align="center">
-<br/>0,768 224 <br/>
+<td align="left">
+<br/>0,768 272 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Bouches-du-Rhône <br/>
 </td>
-<td align="center">
-<br/>2,297 506 <br/>
+<td align="left">
+<br/>2,297 397 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Calvados <br/>
 </td>
-<td align="center">
-<br/>1,118 302 <br/>
+<td align="left">
+<br/>1,118 000 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Cantal <br/>
 </td>
-<td align="center">
-<br/>0,577 205 <br/>
+<td align="left">
+<br/>0,577 363 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Charente <br/>
 </td>
-<td align="center">
-<br/>0,622 605 <br/>
+<td align="left">
+<br/>0,622 547 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Charente-Maritime <br/>
 </td>
-<td align="center">
-<br/>1,016 754 <br/>
+<td align="left">
+<br/>1,017 298 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Cher <br/>
 </td>
-<td align="center">
-<br/>0,641 183 <br/>
+<td align="left">
+<br/>0,641 231 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Corrèze <br/>
 </td>
-<td align="center">
-<br/>0,744 852 <br/>
+<td align="left">
+<br/>0,744 668 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Corse-du-Sud <br/>
 </td>
-<td align="center">
-<br/>0,219 420 <br/>
+<td align="left">
+<br/>0,219 442 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haute-Corse <br/>
 </td>
-<td align="center">
-<br/>0,208 378 <br/>
+<td align="left">
+<br/>0,207 262 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Côte-d'Or <br/>
 </td>
-<td align="center">
-<br/>1,121 025 <br/>
+<td align="left">
+<br/>1,121 210 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Côtes-d'Armor <br/>
 </td>
-<td align="center">
-<br/>0,912 904 <br/>
+<td align="left">
+<br/>0,912 791 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Creuse <br/>
 </td>
-<td align="center">
-<br/>0,427 748 <br/>
+<td align="left">
+<br/>0,427 644 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Dordogne <br/>
 </td>
-<td align="center">
-<br/>0,770 325 <br/>
+<td align="left">
+<br/>0,770 640 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Doubs <br/>
 </td>
-<td align="center">
-<br/>0,859 092 <br/>
+<td align="left">
+<br/>0,859 150 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Drôme <br/>
 </td>
-<td align="center">
-<br/>0,825 405 <br/>
+<td align="left">
+<br/>0,825 368 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Eure <br/>
 </td>
-<td align="center">
-<br/>0,968 359 <br/>
+<td align="left">
+<br/>0,968 481 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Eure-et-Loir <br/>
 </td>
-<td align="center">
-<br/>0,839 489 <br/>
+<td align="left">
+<br/>0,838 347 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Finistère <br/>
 </td>
-<td align="center">
-<br/>1,038 722 <br/>
+<td align="left">
+<br/>1,038 698 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Gard <br/>
 </td>
-<td align="center">
-<br/>1,065 915 <br/>
+<td align="left">
+<br/>1,066 122 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haute-Garonne <br/>
 </td>
-<td align="center">
-<br/>1,638 920 <br/>
+<td align="left">
+<br/>1,639 546 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Gers <br/>
 </td>
-<td align="center">
-<br/>0,461 833 <br/>
+<td align="left">
+<br/>0,463 218 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Gironde <br/>
 </td>
-<td align="center">
-<br/>1,780 844 <br/>
+<td align="left">
+<br/>1,780 811 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Hérault <br/>
 </td>
-<td align="center">
-<br/>1,283 754 <br/>
+<td align="left">
+<br/>1,283 814 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Ille-et-Vilaine <br/>
 </td>
-<td align="center">
-<br/>1,181 404 <br/>
+<td align="left">
+<br/>1,181 734 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Indre <br/>
 </td>
-<td align="center">
-<br/>0,591 400 <br/>
+<td align="left">
+<br/>0,592 572 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Indre-et-Loire <br/>
 </td>
-<td align="center">
-<br/>0,964 455 <br/>
+<td align="left">
+<br/>0,964 346 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Isère <br/>
 </td>
-<td align="center">
-<br/>1,808 513 <br/>
+<td align="left">
+<br/>1,808 490 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Jura <br/>
 </td>
-<td align="center">
-<br/>0,702 737 <br/>
+<td align="left">
+<br/>0,701 685 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Landes <br/>
 </td>
-<td align="center">
-<br/>0,736 887 <br/>
+<td align="left">
+<br/>0,737 071 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Loir-et-Cher <br/>
 </td>
-<td align="center">
-<br/>0,602 647 <br/>
+<td align="left">
+<br/>0,602 914 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Loire <br/>
 </td>
-<td align="center">
-<br/>1,098 730 <br/>
+<td align="left">
+<br/>1,098 584 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haute-Loire <br/>
 </td>
-<td align="center">
-<br/>0,599 475 <br/>
+<td align="left">
+<br/>0,599 650 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Loire-Atlantique <br/>
 </td>
-<td align="center">
-<br/>1,519 493 <br/>
+<td align="left">
+<br/>1,519 489 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Loiret <br/>
 </td>
-<td align="center">
-<br/>1,083 743 <br/>
+<td align="left">
+<br/>1,083 509 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Lot <br/>
 </td>
-<td align="center">
-<br/>0,610 367 <br/>
+<td align="left">
+<br/>0,610 226 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Lot-et-Garonne <br/>
 </td>
-<td align="center">
-<br/>0,522 124 <br/>
+<td align="left">
+<br/>0,522 192 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Lozère <br/>
 </td>
-<td align="center">
-<br/>0,412 065 <br/>
+<td align="left">
+<br/>0,412 035 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Maine-et-Loire <br/>
 </td>
-<td align="center">
-<br/>1,164 865 <br/>
+<td align="left">
+<br/>1,164 795 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Manche <br/>
 </td>
-<td align="center">
-<br/>0,958 984 <br/>
+<td align="left">
+<br/>0,959 108 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Marne <br/>
 </td>
-<td align="center">
-<br/>0,920 959 <br/>
+<td align="left">
+<br/>0,920 943 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haute-Marne <br/>
 </td>
-<td align="center">
-<br/>0,592 352 <br/>
+<td align="left">
+<br/>0,592 215 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Mayenne <br/>
 </td>
-<td align="center">
-<br/>0,541 839 <br/>
+<td align="left">
+<br/>0,541 925 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Meurthe-et-Moselle <br/>
 </td>
-<td align="center">
-<br/>1,040 663 <br/>
+<td align="left">
+<br/>1,041 645 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Meuse <br/>
 </td>
-<td align="center">
-<br/>0,540 467 <br/>
+<td align="left">
+<br/>0,540 523 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Morbihan <br/>
 </td>
-<td align="center">
-<br/>0,918 051 <br/>
+<td align="left">
+<br/>0,917 942 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Moselle <br/>
 </td>
-<td align="center">
-<br/>1,549 443 <br/>
+<td align="left">
+<br/>1,549 259 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Nièvre <br/>
 </td>
-<td align="center">
-<br/>0,620 573 <br/>
+<td align="left">
+<br/>0,620 672 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Nord <br/>
 </td>
-<td align="center">
-<br/>3,069 194 <br/>
+<td align="left">
+<br/>3,069 701 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Oise <br/>
 </td>
-<td align="center">
-<br/>1,107 476 <br/>
+<td align="left">
+<br/>1,107 528 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Orne <br/>
 </td>
-<td align="center">
-<br/>0,693 397 <br/>
+<td align="left">
+<br/>0,693 279 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Pas-de-Calais <br/>
 </td>
-<td align="center">
-<br/>2,176 402 <br/>
+<td align="left">
+<br/>2,176 248 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Puy-de-Dôme <br/>
 </td>
-<td align="center">
-<br/>1,414 027 <br/>
+<td align="left">
+<br/>1,414 447 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Pyrénées-Atlantiques <br/>
 </td>
-<td align="center">
-<br/>0,964 218 <br/>
+<td align="left">
+<br/>0,964 480 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Hautes-Pyrénées <br/>
 </td>
-<td align="center">
-<br/>0,577 331 <br/>
+<td align="left">
+<br/>0,577 407 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Pyrénées-Orientales <br/>
 </td>
-<td align="center">
-<br/>0,688 209 <br/>
+<td align="left">
+<br/>0,688 361 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Bas-Rhin <br/>
 </td>
-<td align="center">
-<br/>1,353 439 <br/>
+<td align="left">
+<br/>1,353 190 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haut-Rhin <br/>
 </td>
-<td align="center">
-<br/>0,904 528 <br/>
+<td align="left">
+<br/>0,905 403 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Rhône <br/>
 </td>
-<td align="center">
-<br/>1,984 843 <br/>
+<td align="left">
+<br/>0,601 470 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
+<br/>Métropole de Lyon <br/>
+</td>
+<td align="left">
+<br/>1,382 930 <br/>
+</td>
+</tr>
+<tr>
+<td align="left">
 <br/>Haute-Saône <br/>
 </td>
-<td align="center">
-<br/>0,455 570 <br/>
+<td align="left">
+<br/>0,455 516 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Saône-et-Loire <br/>
 </td>
-<td align="center">
-<br/>1,029 891 <br/>
+<td align="left">
+<br/>1,029 625 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Sarthe <br/>
 </td>
-<td align="center">
-<br/>1,039 547 <br/>
+<td align="left">
+<br/>1,039 359 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Savoie <br/>
 </td>
-<td align="center">
-<br/>1,140 514 <br/>
+<td align="left">
+<br/>1,140 856 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haute-Savoie <br/>
 </td>
-<td align="center">
-<br/>1,274 950 <br/>
+<td align="left">
+<br/>1,274 662 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Paris <br/>
 </td>
-<td align="center">
-<br/>2,393 877 <br/>
+<td align="left">
+<br/>2,393 231 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Seine-Maritime <br/>
 </td>
-<td align="center">
-<br/>1,699 633 <br/>
+<td align="left">
+<br/>1,699 261 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Seine-et-Marne <br/>
 </td>
-<td align="center">
-<br/>1,886 662 <br/>
+<td align="left">
+<br/>1,886 385 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Yvelines <br/>
 </td>
-<td align="center">
-<br/>1,733 008 <br/>
+<td align="left">
+<br/>1,732 540 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Deux-Sèvres <br/>
 </td>
-<td align="center">
-<br/>0,646 372 <br/>
+<td align="left">
+<br/>0,646 545 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Somme <br/>
 </td>
-<td align="center">
-<br/>1,069 210 <br/>
+<td align="left">
+<br/>1,069 374 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Tarn <br/>
 </td>
-<td align="center">
-<br/>0,666 881 <br/>
+<td align="left">
+<br/>0,668 169 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Tarn-et-Garonne <br/>
 </td>
-<td align="center">
-<br/>0,436 796 <br/>
+<td align="left">
+<br/>0,436 747 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Var <br/>
 </td>
-<td align="center">
-<br/>1,335 986 <br/>
+<td align="left">
+<br/>1,335 834 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Vaucluse <br/>
 </td>
-<td align="center">
-<br/>0,736 573 <br/>
+<td align="left">
+<br/>0,736 502 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Vendée <br/>
 </td>
-<td align="center">
-<br/>0,931 697 <br/>
+<td align="left">
+<br/>0,931 608 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Vienne <br/>
 </td>
-<td align="center">
-<br/>0,669 770 <br/>
+<td align="left">
+<br/>0,669 612 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Haute-Vienne <br/>
 </td>
-<td align="center">
-<br/>0,611 363 <br/>
+<td align="left">
+<br/>0,611 244 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Vosges <br/>
 </td>
-<td align="center">
-<br/>0,745 245 <br/>
+<td align="left">
+<br/>0,745 090 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Yonne <br/>
 </td>
-<td align="center">
-<br/>0,760 301 <br/>
+<td align="left">
+<br/>0,760 212 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Territoire de Belfort <br/>
 </td>
-<td align="center">
-<br/>0,220 456 <br/>
+<td align="left">
+<br/>0,220 513 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Essonne <br/>
 </td>
-<td align="center">
-<br/>1,513 161 <br/>
+<td align="left">
+<br/>1,512 753 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Hauts-de-Seine <br/>
 </td>
-<td align="center">
-<br/>1,980 110 <br/>
+<td align="left">
+<br/>1,980 646 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Seine-Saint-Denis <br/>
 </td>
-<td align="center">
-<br/>1,913 035 <br/>
+<td align="left">
+<br/>1,912 518 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Val-de-Marne <br/>
 </td>
-<td align="center">
-<br/>1,514 081 <br/>
+<td align="left">
+<br/>1,513 694 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Val-d'Oise <br/>
 </td>
-<td align="center">
-<br/>1,576 059 <br/>
+<td align="left">
+<br/>1,575 681 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Guadeloupe <br/>
 </td>
-<td align="center">
-<br/>0,693 234 <br/>
+<td align="left">
+<br/>0,693 080 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Martinique <br/>
 </td>
-<td align="center">
-<br/>0,514 741 <br/>
+<td align="left">
+<br/>0,514 958 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Guyane <br/>
 </td>
-<td align="center">
-<br/>0,332 515 <br/>
+<td align="left">
+<br/>0,332 069 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>La Réunion <br/>
 </td>
-<td align="center">
-<br/>1,441 106 <br/>
+<td align="left">
+<br/>1,440 717 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left">
 <br/>Total <br/>
 </td>
-<td align="center">
-<br/>100</td>
+<td align="left">
+<br/>100<br/>
+</td>
 </tr>
 </tbody>
 </table>

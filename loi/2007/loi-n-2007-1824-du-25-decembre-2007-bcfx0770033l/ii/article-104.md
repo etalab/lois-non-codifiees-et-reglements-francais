@@ -14,7 +14,7 @@ Les charges mentionnées au présent 1° sont déterminées dans les conditions 
 
 2° a. Le solde visé au b du 1° donne lieu à prélèvement à due concurrence sur la dotation générale de décentralisation de la région de la Guadeloupe, prévue par l'article L. 1614-4 du même code.
 
-b. Le solde final visé au c du 1° donne lieu à  prélèvement à due concurrence sur la dotation générale de décentralisation du département de la Guadeloupe, prévue par le même article L. 1614-4.
+b. Le solde final visé au c du 1° donne lieu à prélèvement à due concurrence sur la dotation générale de décentralisation du département de la Guadeloupe, prévue par le même article L. 1614-4.
 
 3° La dotation globale de compensation visée au 1° est abondée :
 
@@ -67,6 +67,8 @@ b. Le solde visé au c du 1° donne lieu à un abondement à due concurrence sur
 ― et du montant de dotation globale de construction et d'équipement scolaire, calculé au profit de la collectivité de Saint-Barthélemy en 2008, en application de l'article L. 6264-5 du même code.
 
 Le montant de la dotation globale de compensation, après abondements, fait l'objet d'un titre de perception émis chaque année par le préfet de la région Guadeloupe durant le mois de janvier de l'année considérée, pour paiement au plus tard six mois après son émission. Par exception, pour la récupération du trop-versé en 2008, il est émis deux titres de perception, l'un en 2009, l'autre en 2010, portant chacun sur un montant de 2 814 129 €.
+
+A compter de 2015, ce titre de perception porte sur un montant de 5 773 499 €, sous réserve d'ajustements opérés en loi de finances sur le montant de la dotation globale de compensation. Il appartient à la collectivité de Saint-Barthélemy de procéder au paiement annuel de cette somme à l'Etat.
 
 4° Le montant de la dotation globale de compensation calculé au profit de Saint-Barthélemy, le montant du prélèvement opéré sur la dotation générale de décentralisation de la région de la Guadeloupe et le montant de l'abondement de la dotation générale de décentralisation du département de la Guadeloupe sont fixés par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget, après avis de la commission consultative d'évaluation des charges de Saint-Barthélemy.
 

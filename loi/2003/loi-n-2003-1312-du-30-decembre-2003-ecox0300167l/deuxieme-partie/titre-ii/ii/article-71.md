@@ -390,17 +390,19 @@ XII.-Lorsqu'il ne s'agit pas de produits importés, les réclamations contentieu
 
 E.-I.-Il est institué une taxe pour le développement des industries des secteurs d'activités suivants :
 
-1° Mécanique ;
+1° Mécanique et décolletage ;
 
 2° Matériels et consommables de soudage ;
 
-3° Décolletage ;
+3° (Abrogé) ;
 
 4° Construction métallique ;
 
 5° Matériels aérauliques et thermiques.
 
-Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, aux centres techniques industriels couvrant ces secteurs, qui sont respectivement le Centre technique des industries mécaniques, l'Institut de la soudure, le Centre technique de l'industrie du décolletage, le Centre technique industriel de la construction métallique et le Centre technique des industries aérauliques et thermiques.
+Le produit de cette taxe est affecté, dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée, aux centres techniques industriels couvrant ces secteurs, qui sont respectivement le Centre technique des industries mécaniques, le Centre technique des industries mécaniques et du décolletage, l'Institut de la soudure, le Centre technique industriel de la construction métallique et le Centre technique des industries aérauliques et thermiques.
+
+Pour le secteur d'activité de la mécanique et du décolletage, le produit de la taxe, dont le taux est mentionné au 1° du VII du présent E, est affecté à hauteur de 97 % au Centre technique des industries mécaniques et à hauteur de 3 % au Centre technique des industries mécaniques et du décolletage.
 
 Elle a pour objet de financer les missions dévolues à ces organismes par la loi n° 48-1228 du 22 juillet 1948 fixant le statut juridique des centres techniques industriels.
 
@@ -424,9 +426,9 @@ c) Soit en lui faisant apposer des griffes ou des marques dont elles ont la joui
 
 III.-La taxe est assise sur le chiffre d'affaires hors taxes réalisé au titre des ventes, exportations, mises en location ou autres prestations de services et des opérations à façon portant sur les produits mentionnés au premier alinéa du II.
 
-Pour les produits et prestations des secteurs de la mécanique, des matériels et consommables de soudage, et du décolletage nécessitant l'utilisation de produits métallurgiques, tels que définis par la classification française des produits, dont le coût d'achat excède la moitié du chiffre d'affaires réalisé avec ces produits et prestations, la taxe est assise sur un montant représentant 60 % de ce chiffre d'affaires.
+Pour les produits et prestations des secteurs de la mécanique et du décolletage et des matériels et consommables de soudage nécessitant l'utilisation de produits métallurgiques, tels que définis par la classification française des produits, dont le coût d'achat excède la moitié du chiffre d'affaires réalisé avec ces produits et prestations, la taxe est assise sur un montant représentant 60 % de ce chiffre d'affaires.
 
-IV.-Les ventes de produits, les prestations de service et les opérations à façon du secteur de la mécanique lorsqu'elles sont réalisées par des entreprises qui utilisent les services de moins de dix personnes sont exonérées de la taxe.
+IV.-Les ventes de produits, les prestations de service et les opérations à façon du secteur de la mécanique et du décolletage réalisées par des entreprises qui utilisent les services de moins de dix personnes sont exonérées de la taxe.
 
 Sont considérées comme utilisant les services de moins de dix personnes les entreprises qui n'ont pas atteint ce seuil pendant au moins quatre-vingt-dix jours, consécutifs ou non, au cours de chaque semestre.
 
@@ -442,9 +444,9 @@ La circonstance qu'un produit ou une prestation qui est pris en compte pour le c
 
 VII.-Le taux de la taxe est fixé comme suit :
 
-1° Pour les produits des secteurs de la mécanique : 0,1 % ;
+1° Pour les produits du secteur de la mécanique et du décolletage : 0,1 % ;
 
-2° Pour les matériels et consommables de soudage et les produits du décolletage : 0,112 % ;
+2° Pour les matériels et consommables de soudage : 0,1 % ;
 
 3° Pour les produits du secteur de la construction métallique : 0,3 % ;
 
@@ -460,7 +462,7 @@ Le paiement de la taxe intervient au moment du dépôt de la déclaration. Cette
 
 L'ensemble des opérations liées au recouvrement de la taxe et au versement de son produit aux centres techniques fait l'objet d'une comptabilité distincte tenue par le Comité de coordination des centres de recherche en mécanique.
 
-Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
+Lorsque la déclaration prévue au VIII est déposée sans le paiement correspondant, le comité adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le directeur du centre technique concerné, ou, s'agissant du secteur de la mécanique et du décolletage, par le directeur de l'un ou l'autre des deux centres techniques ou leur représentant dûment habilité, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
 Le recouvrement de ce titre est effectué par les comptables du Trésor, selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
 
@@ -472,21 +474,21 @@ Un prélèvement représentant les frais de perception est effectué au profit d
 
 La taxe n'est pas mise en recouvrement lorsque son montant semestriel est inférieur ou égal à 40 euros.
 
-Le produit de la taxe est versé semestriellement aux centres techniques mentionnés au I. La part revenant à chaque centre est égale à la quote-part du produit de la taxe correspondant au chiffre d'affaires réalisé par le secteur intéressé.
+Le produit de la taxe est versé semestriellement aux centres techniques mentionnés au I. La part revenant à chaque centre est égale à la quote-part du produit de la taxe correspondant au chiffre d'affaires réalisé par le secteur intéressé. Dans le cas du secteur de la mécanique et du décolletage, la clef de répartition du produit de la taxe au Centre technique des industries mécaniques et au Centre technique des industries mécaniques et du décolletage est précisée au même I.
 
 IX.-Chacun des centres techniques mentionnés au I contrôle les déclarations mentionnées au VIII. A cette fin, leur directeur ou les agents qu'il a dûment habilités peuvent demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à ces déclarations sous les garanties du secret professionnel tel qu'il est défini à l'article L. 103 du livre des procédures fiscales.
 
 Lorsque les agents mentionnés ci-dessus constatent une insuffisance, une inexactitude ou une omission dans les éléments servant de base au calcul de la taxe, les rectifications correspondantes sont notifiées au redevable, qui dispose d'un délai de trente jours à compter de la date de réception de la notification pour présenter ses observations. Une réponse motivée à ces observations est adressée au redevable. Les droits notifiés sont assortis d'une majoration de 10 % exclusive de tout intérêt de retard.
 
-Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du centre technique concerné. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
+Lorsque le redevable n'a pas déposé la déclaration prévue au VIII, une lettre de mise en demeure avec accusé de réception lui est adressée par le directeur du centre technique concerné ou, s'agissant du secteur de la mécanique et du décolletage, par le directeur de l'un ou l'autre des deux centres techniques ou leur représentant dûment habilité. A défaut de régularisation dans un délai de trente jours à compter du jour de la réception de cette mise en demeure, les agents chargés du contrôle procèdent à la taxation d'office. A cette fin, ils peuvent fixer la base d'imposition notamment par référence au chiffre d'affaires réalisé par une ou plusieurs entreprises comparables. Les droits notifiés sont assortis d'une majoration de 40 %.
 
-Le directeur du centre technique concerné émet un titre de perception selon les modalités prévues au sixième alinéa du VIII comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
+Le directeur du centre technique concerné ou, s'agissant du secteur de la mécanique et du décolletage, le directeur de l'un ou l'autre des deux centres techniques ou leur représentant dûment habilité émet un titre de perception selon les modalités prévues au sixième alinéa du VIII comprenant les droits réclamés en application des deux alinéas précédents et le montant des majorations applicables trente jours après la date de réception par le redevable de la réponse à ses observations ou, en l'absence d'observations de la part du redevable, trente jours après la date de la notification de rectifications ou, en cas de taxation d'office, trente jours après la date de notification des droits.
 
 Le recouvrement s'effectue alors dans les conditions prévues au septième alinéa du VIII.
 
 Le droit de reprise des centres techniques mentionnés au I s'exerce jusqu'au 31 décembre de la troisième année qui suit celle au cours de laquelle la taxe est devenue exigible.
 
-X.-Les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur de chacun des centres techniques industriels mentionnés au I. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
+X.-Les réclamations contentieuses relatives à l'assiette de la taxe sont traitées par le directeur de chacun des centres techniques industriels ou, s'agissant du secteur de la mécanique et du décolletage, par le directeur de l'un ou l'autre des deux centres techniques ou leur représentant dûment habilité, mentionnés au I. Elles sont présentées, instruites et jugées selon les règles applicables aux taxes sur le chiffre d'affaires.
 
 F.-I.-Il est institué une taxe pour le développement des industries des matériaux de construction regroupant les industries du béton, de la terre cuite et des roches ornementales et de construction.
 

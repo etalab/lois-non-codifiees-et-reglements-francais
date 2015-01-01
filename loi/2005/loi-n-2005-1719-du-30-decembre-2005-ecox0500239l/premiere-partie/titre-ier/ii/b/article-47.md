@@ -22,13 +22,13 @@ c) Des versements opérés au profit du budget général ;
 
 d) Des versements opérés au profit du budget annexe " Contrôle et exploitation aériens ".
 
-Les produits de cessions de biens immeubles de l'Etat et des droits à caractère immobilier mentionnés au a du 1° sont affectés à son désendettement à hauteur d'un minimum de 15 %, porté à 20 % en 2012,25 % en 2013 et 30 % en 2014.
+Les produits de cessions de biens immeubles de l'Etat et des droits à caractère immobilier mentionnés au a du 1° sont affectés à son désendettement à hauteur d'un minimum de 15 %, porté à 20 % en 2012,25 % en 2013 et 30 % à partir de 2014.
 
 La contribution au désendettement de l'Etat ne s'applique pas :
 
--aux produits de cession des immeubles domaniaux occupés par le ministère de la défense, jusqu'au 31 décembre 2014 ;
+-aux produits de cession des immeubles domaniaux occupés par le ministère de la défense, jusqu'au 31 décembre 2019 ;
 
--aux produits de cession des immeubles domaniaux situés à l'étranger, jusqu'à la même date ;
+-aux produits de cession des immeubles domaniaux situés à l'étranger et occupés par le ministère des affaires étrangères et du développement international, jusqu'au 31 décembre 2017, au-delà d'une contribution au désendettement au moins égale à 25 millions d'euros par an en 2015, 2016 et 2017 ;
 
 -aux produits de cession des biens affectés ou mis à disposition des établissements publics à caractère scientifique, culturel et professionnel et des établissements publics administratifs mentionnés au II de l'article L. 711-9 du code de l'éducation ayant demandé à bénéficier de la dévolution de leur patrimoine immobilier par une délibération de leur conseil d'administration ;
 

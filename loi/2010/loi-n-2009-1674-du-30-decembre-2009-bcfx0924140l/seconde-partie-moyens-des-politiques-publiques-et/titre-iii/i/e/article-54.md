@@ -5,7 +5,7 @@ I.-A modifié les dispositions suivantes :
 > -Code général des impôts, CGI.
 > > Sct. Sous-section XII : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel, Art. 1635 bis P
 
-II.-Le I s'applique aux appels interjetés à compter du 1er janvier 2011 à la condition que le fonds mentionné au I ait été créé et jusqu'au 31 décembre 2023.
+II.-(Abrogé)
 
 III.-Les transferts de biens mobiliers et immobiliers, droits et obligations résultant de l'application de la réforme de la représentation devant les cours d'appel sont exonérés des droits d'enregistrement, de la taxe de publicité foncière et de la contribution prévue à l'article 879 du code général des impôts.
 
