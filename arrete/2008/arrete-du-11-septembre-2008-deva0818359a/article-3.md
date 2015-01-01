@@ -12,7 +12,7 @@ La direction des opérations (DSNA/DO) est chargée d'assurer l'écoulement sûr
 
 - de recueillir, réaliser, éditer et diffuser l'information aéronautique.
 
-Elle est composée d'un échelon central, des services de la navigation aérienne de la région parisienne, de quatre centres en route de la navigation aérienne (CRNA) et de dix services de navigation aérienne (SNA).
+Elle est composée d'un échelon central, des services de la navigation aérienne de la région parisienne, des services de la navigation aérienne du grand sud-ouest, de trois centres en route de la navigation aérienne (CRNA) et de neuf services de navigation aérienne (SNA).
 
 1° L'échelon central de la direction des opérations de la DSNA comprend :
 
@@ -20,7 +20,7 @@ Elle est composée d'un échelon central, des services de la navigation aérienn
 
 - trois départements techniques : le département sécurité et performances, le département espace, le département systèmes, infrastructures et programmation technique ;
 
-- un département administration ;
+-un département administration ;
 
 - deux services spécialisés : le service de l'information aéronautique et le centre d'exploitation des systèmes de la navigation aérienne centraux.
 
@@ -118,4 +118,42 @@ Ils participent aux travaux des comités de gestion (CRG) de l'espace aérien.
 
 4° Les services de la navigation aérienne de la région parisienne (SNA/RP) regroupent les organismes de Roissy Le Bourget, Orly Aviation générale de la région parisienne et du CRNA Nord.
 
-5° Le service de l'aviation civile à Saint-Pierre-et-Miquelon (DSNA/SPM) est l'entité de la DSNA chargée de la mise en œuvre de la politique de l'aviation civile dans l'archipel de Saint-Pierre-et-Miquelon, des services d'exploitation aéroportuaire, des services de la navigation aérienne et dans le cadre d'une convention entre la direction des services de la navigation aérienne et de la direction de la sécurité de l'aviation civile, des prestations de surveillance de l'ensemble des activités aériennes.
+5° les services de la navigation aérienne du grand sud-ouest (SNA/ GSO) regroupent le CRNA sud-ouest, le SNA sud-ouest et les deux services spécialisés : le service de l'information aéronautique et le centre d'exploitation des systèmes de la navigation aérienne centraux.
+
+a) Le service de l'information aéronautique (DO/ SIA) est chargé d'assurer le service d'information aéronautique tel qu'il est défini à l'annexe 15 de la convention du 7 décembre 1944. Il assure :
+
+- le recueil, la synthèse, l'édition et la diffusion des renseignements aéronautiques nécessaires ;
+
+- l'élaboration d'informations de référence ;
+
+- l'alimentation et l'entretien de la base de données géo-référencées ;
+
+- la conception et l'entretien des supports d'information pour les organismes opérationnels ;
+
+- la réalisation et l'entretien du portail d'accès de services sur l'internet pour l'aviation générale et l'évolution du site de l'information aéronautique ;
+
+- l'édition et la diffusion pour le compte de la direction générale de l'aviation civile des textes réglementaires dans le domaine de la navigation aérienne ;
+
+- l'élaboration des procédures satellitaires ;
+
+- la coopération internationale dans ses domaines de compétence ;
+
+- la coordination des activités relatives à l'information aéronautique au sein de la direction des opérations ;
+
+- les relations avec les usagers ;
+
+b) Le centre d'exploitation des systèmes de la navigation aérienne centraux (DO/CESNAC) est chargé d'assurer la mise en œuvre, l'exploitation et le suivi des systèmes et des réseaux à caractère national permettant d'assurer les services de la circulation aérienne.
+
+Il assure :
+
+- le support d'exploitation des systèmes de dépôt et de traitement initial des plans de vol, la gestion des données d'environnement de la circulation aérienne, la gestion des données de régulation, le traitement des données de redevances aéronautiques, la gestion et le traitement des archives des plans de vol ;
+
+- l'administration du réseau du service fixe des télécommunications aéronautiques (RSFTA/CIDIN) et la gestion de l'acheminement des messages, l'administration nationale du réseau opérationnel de la navigation aérienne (RENAR), l'administration des réseaux bureautiques et de la plate-forme INTERNAT du site de Bordeaux, la gestion d'éventuels contrats au niveau européen dans l'administration de réseaux ;
+
+- le support d'exploitation des systèmes de traitement de données et des serveurs d'informations de la navigation aérienne, principalement dans les domaines radar, liaisons de données air-sol, météorologie, aides aux pilotes dans la préparation des vols, informations aéronautiques.
+
+Il peut être chargé de l'évolution des systèmes, des serveurs d'information et des réseaux dont il a en charge l'exploitation.
+
+Il participe à la coopération internationale dans ces domaines.
+
+6° Le service de l'aviation civile à Saint-Pierre-et-Miquelon (DSNA/SPM) est l'entité de la DSNA chargée de la mise en œuvre de la politique de l'aviation civile dans l'archipel de Saint-Pierre-et-Miquelon, des services d'exploitation aéroportuaire, des services de la navigation aérienne et dans le cadre d'une convention entre la direction des services de la navigation aérienne et de la direction de la sécurité de l'aviation civile, des prestations de surveillance de l'ensemble des activités aériennes.
