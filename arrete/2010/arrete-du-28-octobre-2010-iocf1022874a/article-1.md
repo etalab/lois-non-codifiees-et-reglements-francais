@@ -14,10 +14,10 @@ Les montants des remboursements dus par les bénéficiaires des prestations exé
 </tr>
 <tr>
 <td>
-<p align="center"> Mise à disposition d'agents</p>
+<p align="center">Mise à disposition d'agents</p>
 </td>
 <td colspan="2">
-<p align="center"> (Effectifs) x (taux horaire) x (nombre d'heures) x coefficient multiplicateur</p>
+<p align="center">(Effectifs) x (taux horaire) x (nombre d'heures) x coefficient multiplicateur (1)</p>
 </td>
 </tr>
 <tr>
@@ -30,12 +30,10 @@ Les montants des remboursements dus par les bénéficiaires des prestations exé
 </tr>
 <tr>
 <td align="left" rowspan="6" valign="top">
-<p align="center"> Mise à disposition de véhicules</p>
+<p align="center">Mise à disposition de véhicules</p>
+<p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+</p>
 </td>
 <td>
 <p align="left">Vedette fluviale ou maritime :</p>
@@ -86,7 +84,7 @@ Les montants des remboursements dus par les bénéficiaires des prestations exé
 </tr>
 <tr>
 <td>
-<p align="center"> Moyens aéroportés</p>
+<p align="center">Moyens aéroportés</p>
 </td>
 <td colspan="2">
 <p align="center">3 190 € par heure de vol</p>
@@ -145,3 +143,5 @@ Les montants des remboursements dus par les bénéficiaires des prestations exé
 </tr>
 </tbody>
 </table>
+
+(1) sauf pour les manifestations à but non lucratif auxquelles le coefficient multiplicateur ne s'applique pas.

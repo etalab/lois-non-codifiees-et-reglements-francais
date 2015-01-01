@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des postes difficiles et très difficiles, en application de l'article 4 du décret n° 2010-1102 du 21 septembre 2010 susvisé, est fixée comme suit à compter du 1er septembre 2014 :
+La liste des postes difficiles et très difficiles, en application de l'article 4 du décret n° 2010-1102 du 21 septembre 2010 susvisé, est fixée comme suit à compter du 1er janvier 2015 :
 
 Direction générale de la police nationale (DGPN)
 
@@ -38,17 +38,17 @@ Cabinet du directeur général de la police nationale (CAB-DGPN)
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
+<td>
+<p align="center">TD</p>
 </td>
-<td align="left" valign="middle">
-<br/>Conseiller, chef du pôle ressources humaines<br/>
+<td>
+<p align="left">Conseiller social du directeur général de la police nationale</p>
 </td>
-<td align="left" valign="middle">
-<br/>PARIS<br/>
+<td>
+<p align="left">PARIS</p>
 </td>
-<td align="center" valign="middle">
-<br/>75<br/>
+<td>
+<p align="center">75</p>
 </td>
 </tr>
 </tbody>
@@ -839,17 +839,17 @@ Direction de l'ordre public et de la circulation (DOPC)
 </th>
 </tr>
 <tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
+<td>
+<p align="center">TD</p>
 </td>
-<td valign="middle">
-<br/>Adjoint au sous-directeur régional de la circulation et de la sécurité routières<br/>
+<td>
+<p align="left">Adjoint au sous-directeur de l'ordre public de l'agglomération parisienne</p>
 </td>
-<td align="left" valign="middle">
-<br/>PARIS<br/>
+<td>
+<p align="left">PARIS</p>
 </td>
-<td align="center" valign="middle">
-<br/>75<br/>
+<td>
+<p align="center">75</p>
 </td>
 </tr>
 <tr>
@@ -860,7 +860,8 @@ Direction de l'ordre public et de la circulation (DOPC)
 <br/>Chef de la division de protection des institutions<br/>
 </td>
 <td align="left" valign="middle">
-<br/>PARIS<br/>
+<p>PARIS<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>75<br/>
@@ -874,7 +875,8 @@ Direction de l'ordre public et de la circulation (DOPC)
 <br/>Chef du 1er district<br/>
 </td>
 <td align="left" valign="middle">
-<br/>PARIS<br/>
+<p>PARIS<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>75<br/>
@@ -1080,14 +1082,10 @@ Direction du renseignement (DR)
 <td align="center" valign="middle">
 <br/>D<br/>
 </td>
-<td align="left" valign="middle">
-<br/>Chef de la section "lutte antiterroriste" <br/>
+<td align="left" valign="middle">Adjoint au sous-directeur chargé de la sécurité intérieure, chef de la section "lutte antiterroriste"</td>
+<td align="left" valign="middle">PARIS<br/>
 </td>
-<td align="left" valign="middle">
-<br/>PARIS<br/>
-</td>
-<td align="center" valign="middle">
-<br/>75<br/>
+<td align="center" valign="middle">75<br/>
 </td>
 </tr>
 </tbody>
@@ -1172,34 +1170,6 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental, chef de district et commissaire central - coordonnateur zonal de la zone de défense Sud<br/>
-</td>
-<td align="left" valign="middle">
-<br/>MARSEILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>13<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
-</td>
-<td align="left" valign="middle">
-<br/>MARSEILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>13<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
 <br/>Chef d'état-major<br/>
 </td>
 <td align="left" valign="middle">
@@ -1252,17 +1222,75 @@ Direction centrale de la sécurité publique (DCSP)
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
+<td align="left" valign="top">
+<p align="center">TD</p>
 </td>
-<td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
+<td align="left" valign="top">
+<p align="left">Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense Sud</p>
 </td>
-<td align="left" valign="middle">
-<br/>MARSEILLE<br/>
+<td align="left" valign="top">
+<p align="left">MARSEILLE</p>
 </td>
-<td align="center" valign="middle">
-<br/>13<br/>
+<td align="left" valign="top">
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>Directeur départemental adjoint de la sécurité publique</td>
+<td>
+<p align="left">MARSEILLE</p>
+</td>
+<td>
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>A la CSP, chef du commissariat divisionnaire Nord</td>
+<td>
+<p align="left">MARSEILLE</p>
+</td>
+<td>
+<p align="center">13 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>A la CSP, chef du commissariat divisionnaire Centre</td>
+<td>
+<p align="left">MARSEILLE</p>
+</td>
+<td>
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>A la CSP, chef du commissariat divisionnaire Sud</td>
+<td>MARSEILLE</td>
+<td>
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>Chef de district et commissaire central</td>
+<td>
+<p align="left">MARSEILLE</p>
+</td>
+<td>
+<p align="center">13</p>
 </td>
 </tr>
 <tr>
@@ -1270,38 +1298,11 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Au service de sécurité de proximité - chef du commissariat divisionnaire nord<br/>
+<br/>Chef de circonscription<br/>
 </td>
 <td align="left" valign="middle">
-<br/>MARSEILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>13<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Au service de sécurité de proximité - chef du commissariat divisionnaire centre<br/>
-</td>
-<td align="left" valign="middle">
-<br/>MARSEILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>13<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Au service de sécurité de proximité - chef du commissariat divisionnaire sud<br/>
-</td>
-<td align="left" valign="middle">
-<br/>MARSEILLE<br/>
+<p>AUBAGNE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>13<br/>
@@ -1315,21 +1316,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef de circonscription<br/>
 </td>
 <td align="left" valign="middle">
-<br/>AUBAGNE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>13<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Chef de circonscription<br/>
-</td>
-<td align="left" valign="middle">
-<br/>VERNON<br/>
+<p>VERNON<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>27<br/>
@@ -1343,7 +1331,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental et commissaire central<br/>
 </td>
 <td align="left" valign="middle">
-<br/>CHARTRES<br/>
+<p>CHARTRES<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>28<br/>
@@ -1357,7 +1346,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental adjoint et chef de circonscription<br/>
 </td>
 <td align="left" valign="middle">
-<br/>DREUX<br/>
+<p>DREUX<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>28<br/>
@@ -1371,7 +1361,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental et commissaire central<br/>
 </td>
 <td align="left" valign="middle">
-<br/>NÎMES<br/>
+<p>NÎMES<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>30<br/>
@@ -1385,7 +1376,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental adjoint et commissaire central adjoint<br/>
 </td>
 <td align="left" valign="middle">
-<br/>NÎMES<br/>
+<p>NÎMES<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>30<br/>
@@ -1399,7 +1391,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef de la sûreté départementale<br/>
 </td>
 <td align="left" valign="middle">
-<br/>NÎMES<br/>
+<p>NÎMES<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>30<br/>
@@ -1413,7 +1406,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef du service de sécurité de proximité<br/>
 </td>
 <td align="left" valign="middle">
-<br/>NÎMES<br/>
+<p>NÎMES<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>30<br/>
@@ -1427,7 +1421,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental et commissaire central<br/>
 </td>
 <td align="left" valign="middle">
-<br/>TOULOUSE<br/>
+<p>TOULOUSE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>31<br/>
@@ -1441,7 +1436,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental adjoint et commissaire central adjoint<br/>
 </td>
 <td align="left" valign="middle">
-<br/>TOULOUSE<br/>
+<p>TOULOUSE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>31<br/>
@@ -1455,7 +1451,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef de la sûreté départementale<br/>
 </td>
 <td align="left" valign="middle">
-<br/>TOULOUSE<br/>
+<p>TOULOUSE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>31<br/>
@@ -1469,7 +1466,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef du service de l'ordre public<br/>
 </td>
 <td align="left" valign="middle">
-<br/>TOULOUSE<br/>
+<p>TOULOUSE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>31<br/>
@@ -1483,7 +1481,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef du service de sécurité de proximité<br/>
 </td>
 <td align="left" valign="middle">
-<br/>TOULOUSE<br/>
+<p>TOULOUSE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>31<br/>
@@ -1494,24 +1493,11 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la division de Lille - Lille agglomération<br/>
-</td>
-<td align="left" valign="middle">
-<br/>LILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>59<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
 <br/>Chef de la division de Roubaix - Lille agglomération<br/>
 </td>
 <td align="left" valign="middle">
-<br/>LILLE<br/>
+<p>LILLE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>59<br/>
@@ -1525,10 +1511,54 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Chef de la division de Tourcoing - Lille agglomération<br/>
 </td>
 <td align="left" valign="middle">
-<br/>LILLE<br/>
+<p>LILLE<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>59<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="left">Commissaire central, Lille agglomération<br/>
+</p>
+</td>
+<td>
+<p align="left">LILLE</p>
+</td>
+<td>
+<p align="center">59</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">D</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense Nord, Lille DDSP</p>
+</td>
+<td align="left" valign="top">
+<p align="left">LILLE</p>
+</td>
+<td align="left" valign="top">
+<p align="center">59</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">D</p>
+</td>
+<td>
+<p align="left">Directeur départemental adjoint de la sécurité publique, Lille DDSP</p>
+</td>
+<td>
+<p align="left">LILLE</p>
+</td>
+<td>
+<p align="center">59</p>
 </td>
 </tr>
 <tr>
@@ -1539,7 +1569,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Directeur départemental et commissaire central<br/>
 </td>
 <td align="left" valign="middle">
-<br/>BEAUVAIS<br/>
+<p>BEAUVAIS<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>60<br/>
@@ -1553,7 +1584,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>Commissaire central<br/>
 </td>
 <td align="left" valign="middle">
-<br/>CREIL<br/>
+<p>CREIL<br/>
+</p>
 </td>
 <td align="center" valign="middle">
 <br/>60<br/>
@@ -1756,17 +1788,116 @@ Direction centrale de la sécurité publique (DCSP)
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
+<td align="left" valign="top">
+<p align="center">TD</p>
 </td>
-<td valign="middle">
-<br/>Chef de circonscription<br/>
+<td align="left" valign="top">
+<p align="left">Commissaire central, Conflans-Sainte-Honorine agglomération</p>
 </td>
-<td align="left" valign="middle">
-<br/>CONFLANS-SAINTE-HONORINE<br/>
+<td align="left" valign="top">
+<p align="left">CONFLANS-SAINTE-<br/>HONORINE</p>
 </td>
-<td align="center" valign="middle">
-<br/>78<br/>
+<td align="left" valign="top">
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="left">Chef du service de sécurité de proximité, Conflans-Sainte-Honorine agglomération</p>
+</td>
+<td>
+<p align="left">CONFLANS-SAINTE-<br/>HONORINE</p>
+</td>
+<td>
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="left">Commissaire central, Elancourt agglomération</p>
+</td>
+<td>
+<p align="left">ELANCOURT</p>
+</td>
+<td>
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">D</p>
+</td>
+<td>
+<p align="left">Chef de la sûreté urbaine, Elancourt agglomération</p>
+</td>
+<td>
+<p align="left">ELANCOURT</p>
+</td>
+<td>
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">D</p>
+</td>
+<td>
+<p align="left">Chef du service de sécurité de proximité, Elancourt agglomération</p>
+</td>
+<td>
+<p align="left">ELANCOURT</p>
+</td>
+<td>
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="left">Commissaire central<br/>
+</p>
+</td>
+<td>
+<p align="left">LES MUREAUX</p>
+</td>
+<td>
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="left">Commissaire central</p>
+</td>
+<td>
+<p align="left">MANTES-LA-JOLIE</p>
+</td>
+<td>
+<p align="center">78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>
+<p align="left">Commissaire central, Sartrouville agglomération</p>
+</td>
+<td>
+<p align="left">SARTROUVILLE</p>
+</td>
+<td>
+<p align="center">78</p>
 </td>
 </tr>
 <tr>
@@ -1774,13 +1905,15 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
-<br/>ELANCOURT<br/>
+<p>AMIENS<br/>
+</p>
 </td>
 <td align="center" valign="middle">
-<br/>78<br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
@@ -1788,13 +1921,15 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Directeur départemental adjoint et commissaire central adjoint<br/>
+</p>
 </td>
 <td align="left" valign="middle">
-<br/>LES MUREAUX<br/>
+<p>AMIENS<br/>
+</p>
 </td>
 <td align="center" valign="middle">
-<br/>78<br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
@@ -1802,49 +1937,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
-</td>
-<td align="left" valign="middle">
-<br/>MANTES-LA-JOLIE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>78<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Chef de circonscription<br/>
-</td>
-<td align="left" valign="middle">
-<br/>POISSY<br/>
-</td>
-<td align="center" valign="middle">
-<br/>78<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Chef de circonscription<br/>
-</td>
-<td align="left" valign="middle">
-<br/>SARTROUVILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>78<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AMIENS<br/>
@@ -1858,7 +1952,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
+<p>Chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AMIENS<br/>
@@ -1872,35 +1967,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
-</td>
-<td align="left" valign="middle">
-<br/>AMIENS<br/>
-</td>
-<td align="center" valign="middle">
-<br/>80<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
-</td>
-<td align="left" valign="middle">
-<br/>AMIENS<br/>
-</td>
-<td align="center" valign="middle">
-<br/>80<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>EVRY<br/>
@@ -1914,7 +1982,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CORBEIL<br/>
@@ -1928,7 +1997,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>JUVISY-SUR-ORGE<br/>
@@ -1942,7 +2012,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MASSY<br/>
@@ -1956,7 +2027,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>SAINTE-GENEVIÈVE-DES BOIS<br/>
@@ -1970,7 +2042,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CERGY-PONTOISE<br/>
@@ -1984,7 +2057,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
+<p>Chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CERGY-PONTOISE<br/>
@@ -1998,7 +2072,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté urbaine<br/>
+<p>Chef de la sûreté urbaine<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CERGY-PONTOISE<br/>
@@ -2012,7 +2087,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ARGENTEUIL<br/>
@@ -2026,7 +2102,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
+<p>Chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ARGENTEUIL<br/>
@@ -2040,7 +2117,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté urbaine<br/>
+<p>Chef de la sûreté urbaine<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ARGENTEUIL<br/>
@@ -2054,7 +2132,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ERMONT<br/>
@@ -2068,7 +2147,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>GARGES-LES-GONESSE<br/>
@@ -2082,7 +2162,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>GONESSE<br/>
@@ -2096,7 +2177,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>SARCELLES<br/>
@@ -2110,7 +2192,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>POINTE-A-PITRE<br/>
@@ -2124,7 +2207,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
+<p>Directeur départemental adjoint et commissaire central adjoint<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>POINTE-A-PITRE<br/>
@@ -2138,7 +2222,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>POINTE-A-PITRE<br/>
@@ -2152,7 +2237,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>FORT-DE-FRANCE<br/>
@@ -2166,7 +2252,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint, commissaire central adjoint et chef du service de sécurité de proximité<br/>
+<p>Directeur départemental adjoint, commissaire central adjoint et chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>FORT-DE-FRANCE<br/>
@@ -2180,7 +2267,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>FORT-DE-FRANCE<br/>
@@ -2194,7 +2282,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CAYENNE<br/>
@@ -2208,7 +2297,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
+<p>Directeur départemental adjoint et commissaire central adjoint<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CAYENNE<br/>
@@ -2222,7 +2312,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AJACCIO<br/>
@@ -2236,7 +2327,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>BASTIA<br/>
@@ -2250,7 +2342,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>SAINT-QUENTIN<br/>
@@ -2264,7 +2357,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CANNES<br/>
@@ -2278,7 +2372,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et chef de circonscription<br/>
+<p>Chef de district et chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ARLES<br/>
@@ -2292,7 +2387,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ISTRES<br/>
@@ -2306,7 +2402,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MARIGNANE<br/>
@@ -2320,7 +2417,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Au service de nuit<br/>
+<p>Au service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MARSEILLE<br/>
@@ -2334,7 +2432,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Au service de nuit<br/>
+<p>Au service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MARSEILLE<br/>
@@ -2348,7 +2447,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Adjoint au chef de la sûreté départementale<br/>
+<p>Adjoint au chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MARSEILLE<br/>
@@ -2362,7 +2462,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MARTIGUES<br/>
@@ -2376,7 +2477,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>VITROLLES<br/>
@@ -2390,7 +2492,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>ROMANS<br/>
@@ -2404,7 +2507,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>VALENCE<br/>
@@ -2418,7 +2522,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint, commissaire central adjoint et chef du service de sécurité de proximité<br/>
+<p>Directeur départemental adjoint, commissaire central adjoint et chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>VALENCE<br/>
@@ -2432,7 +2537,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>VALENCE<br/>
@@ -2446,7 +2552,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Commissaire central<br/>
+<p>Commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>BEZIERS<br/>
@@ -2460,7 +2567,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MONTPELLIER<br/>
@@ -2474,7 +2582,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
+<p>Directeur départemental adjoint et commissaire central adjoint<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MONTPELLIER<br/>
@@ -2488,7 +2597,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MONTPELLIER<br/>
@@ -2502,7 +2612,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
+<p>Chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MONTPELLIER<br/>
@@ -2516,7 +2627,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>GRENOBLE<br/>
@@ -2530,7 +2642,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
+<p>Directeur départemental adjoint et commissaire central adjoint<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>GRENOBLE<br/>
@@ -2544,7 +2657,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>GRENOBLE<br/>
@@ -2558,7 +2672,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
+<p>Chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>GRENOBLE<br/>
@@ -2572,7 +2687,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central - Lille DDSP - coordonnateur zonal de la zone de défense Nord<br/>
+<p>Chef d'état-major - Lille DDSP<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LILLE<br/>
@@ -2586,7 +2702,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint - Lille DDSP<br/>
+<p>Chef du service départemental du renseignement territorial - Lille DDSP<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LILLE<br/>
@@ -2600,7 +2717,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef d'état-major - Lille DDSP<br/>
+<p>Chef du service de nuit - Lille DDSP<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LILLE<br/>
@@ -2614,7 +2732,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service départemental du renseignement territorial - Lille DDSP<br/>
+<p>Chef de la sûreté départementale - Lille DDSP<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LILLE<br/>
@@ -2628,7 +2747,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de nuit - Lille DDSP<br/>
+<p>Chef de la sûreté urbaine - Lille agglomération<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LILLE<br/>
@@ -2642,35 +2762,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale - Lille DDSP<br/>
-</td>
-<td align="left" valign="middle">
-<br/>LILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>59<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>D<br/>
-</td>
-<td valign="middle">
-<br/>Chef de la sûreté urbaine - Lille agglomération<br/>
-</td>
-<td align="left" valign="middle">
-<br/>LILLE<br/>
-</td>
-<td align="center" valign="middle">
-<br/>59<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>D<br/>
-</td>
-<td valign="middle">
-<br/>Commissaire central<br/>
+<p>Commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CALAIS<br/>
@@ -2684,13 +2777,14 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>PERPIGNAN<br/>
 </td>
 <td align="center" valign="middle">
-<br/>066<br/>
+<br/>66<br/>
 </td>
 </tr>
 <tr>
@@ -2698,7 +2792,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central - coordonnateur zonal de la zone de défense Sud-Est<br/>
+<p>Directeur départemental et commissaire central - coordonnateur zonal de la zone de défense Sud-Est<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2712,7 +2807,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint, commissaire central adjoint et chef du service de sécurité de proximité<br/>
+<p>Directeur départemental adjoint, commissaire central adjoint et chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2726,7 +2822,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service départemental du renseignement territorial<br/>
+<p>Chef du service départemental du renseignement territorial<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2740,7 +2837,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de nuit<br/>
+<p>Chef du service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2754,7 +2852,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2768,7 +2867,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Adjoint au chef de la sûreté départementale<br/>
+<p>Adjoint au chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2782,7 +2882,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Adjoint au chef de division Centre, chef du commissariat de Vénissieux<br/>
+<p>Adjoint au chef de division Centre, chef du commissariat de Vénissieux<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2796,7 +2897,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du commissariat divisionnaire Est et du commissariat de Villeurbanne<br/>
+<p>Chef du commissariat divisionnaire Est et du commissariat de Villeurbanne<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2810,7 +2912,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Adjoint au chef de la division Est, chef du commissariat de Vaulx-en-Velin<br/>
+<p>Adjoint au chef de la division Est, chef du commissariat de Vaulx-en-Velin<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LYON<br/>
@@ -2824,7 +2927,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MELUN<br/>
@@ -2838,7 +2942,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de nuit<br/>
+<p>Chef du service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>MELUN<br/>
@@ -2852,7 +2957,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>LAGNY<br/>
@@ -2866,7 +2972,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>VILLEPARISIS<br/>
@@ -2880,7 +2987,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de nuit<br/>
+<p>Chef du service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>VERSAILLES<br/>
@@ -2894,35 +3002,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
-</td>
-<td align="left" valign="middle">
-<br/>GUYANCOURT<br/>
-</td>
-<td align="center" valign="middle">
-<br/>78<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>D<br/>
-</td>
-<td valign="middle">
-<br/>Chef de circonscription<br/>
-</td>
-<td align="left" valign="middle">
-<br/>TRAPPES<br/>
-</td>
-<td align="center" valign="middle">
-<br/>78<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>D<br/>
-</td>
-<td valign="middle">
-<br/>Chef de district et commissaire central<br/>
+<p>Chef de district et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>FREJUS<br/>
@@ -2936,7 +3017,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental et commissaire central<br/>
+<p>Directeur départemental et commissaire central<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AVIGNON<br/>
@@ -2950,7 +3032,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Directeur départemental adjoint et commissaire central adjoint<br/>
+<p>Directeur départemental adjoint et commissaire central adjoint<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AVIGNON<br/>
@@ -2964,7 +3047,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de la sûreté départementale<br/>
+<p>Chef de la sûreté départementale<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AVIGNON<br/>
@@ -2978,7 +3062,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de sécurité de proximité<br/>
+<p>Chef du service de sécurité de proximité<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>AVIGNON<br/>
@@ -2992,7 +3077,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CARPENTRAS<br/>
@@ -3006,7 +3092,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de nuit<br/>
+<p>Chef du service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>EVRY<br/>
@@ -3020,7 +3107,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
+<p>Chef de circonscription<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>DRAVEIL<br/>
@@ -3034,7 +3122,8 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>D<br/>
 </td>
 <td valign="middle">
-<br/>Chef du service de nuit<br/>
+<p>Chef du service de nuit<br/>
+</p>
 </td>
 <td align="left" valign="middle">
 <br/>CERGY-PONTOISE<br/>

@@ -489,7 +489,6 @@
 - [Arrêté du 27 mars 1987 (ASES8700505A)](arrete-du-27-mars-1987-ases8700505a)
 - [Arrêté du 27 mars 1987 (ECOC8710025A)](arrete-du-27-mars-1987-ecoc8710025a)
 - [Arrêté du 27 mars 1987 (ECOC8710026A)](arrete-du-27-mars-1987-ecoc8710026a)
-- [Arrêté du 27 mars 1987 (ECOC8710027A)](arrete-du-27-mars-1987-ecoc8710027a)
 - [Arrêté du 27 mars 1987 (ECOC8710028A)](arrete-du-27-mars-1987-ecoc8710028a)
 - [Arrêté du 27 mars 1987 (ECOC8710029A)](arrete-du-27-mars-1987-ecoc8710029a)
 - [Arrêté du 27 mars 1987 (INTG8700115A)](arrete-du-27-mars-1987-intg8700115a)

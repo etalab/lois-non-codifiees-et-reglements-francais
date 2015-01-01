@@ -28,9 +28,11 @@ c) Les commissions sont coanimées par un représentant de l'administration, mem
 
 Les organisations syndicales siégeant au comité proposent, en début de mandat du président du comité, les coanimateurs de la parité syndicale pour chaque commission.
 
-Les coanimateurs représentant le personnel sont désignés dans le respect de la représentation tournante entre organisations syndicales.
-
 Si un renouvellement doit intervenir en cours de mandat, la désignation d'un représentant pour la période restant à courir s'effectue au sein de la même organisation syndicale, sur proposition de celle-ci.
+
+Toutes facilités sont accordées aux coanimateurs de la parité syndicale pour l'exercice de leur mandat.
+
+Les coanimateurs des commissions thématiques permanentes sont nommés par arrêté du ministre chargé de la fonction publique.
 
 Les réunions des commissions permanentes font l'objet d'un compte rendu synthétique communiqué à leurs membres et à ceux du comité.
 
