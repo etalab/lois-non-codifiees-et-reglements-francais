@@ -130,4 +130,3 @@
 - [Décret n°2011-616 du 30 mai 2011 (BCRW1025336D)](decret-n2011-616-du-30-mai-2011-bcrw1025336d)
 - [Décret n°2011-628 du 1er juin 2011 (VILV1030268D)](decret-n2011-628-du-1er-juin-2011-vilv1030268d)
 - [Décret n°2011-931 du 1er août 2011 (ETSJ1113053D)](decret-n2011-931-du-1er-aout-2011-etsj1113053d)
-- [Décret n°2011-933 du 1er août 2011 (ETSR1114720D)](decret-n2011-933-du-1er-aout-2011-etsr1114720d)

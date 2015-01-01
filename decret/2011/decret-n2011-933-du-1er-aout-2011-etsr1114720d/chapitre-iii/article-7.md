@@ -1,3 +1,0 @@
-# Article 7
-
-Les agents exerçant leurs fonctions dans un service d'administration centrale              placé sous l'autorité conjointe des ministres chargés du travail, de l'emploi et de la formation professionnelle et d'un ou de plusieurs des ministres chargé de la santé, de la jeunesse, de la vie associative, des solidarités, de la cohésion sociale, de la ville et des sports et appartenant à un corps relevant de l'autorité conjointe de plusieurs ou de l'ensemble de ces ministres, sont électeurs pour la constitution du comité technique ministériel et du comité technique d'administration centrale du département ministériel assurant leur rémunération.
