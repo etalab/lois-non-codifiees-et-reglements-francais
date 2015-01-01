@@ -998,7 +998,6 @@
 - [Décret n°2008-88 du 28 janvier 2008 (BCFS0769172D)](decret-n2008-88-du-28-janvier-2008-bcfs0769172d)
 - [Décret n°2008-501 du 28 mai 2008 (MAEF0811380D)](decret-n2008-501-du-28-mai-2008-maef0811380d)
 - [Décret n°2008-502 du 28 mai 2008 (DEVE0804163D)](decret-n2008-502-du-28-mai-2008-deve0804163d)
-- [Décret n°2008-503 du 28 mai 2008 (ESRS0809083D)](decret-n2008-503-du-28-mai-2008-esrs0809083d)
 - [Décret n°2008-504 du 28 mai 2008 (ESRS0807912D)](decret-n2008-504-du-28-mai-2008-esrs0807912d)
 - [Décret n°2008-510 du 28 mai 2008 (ESRR0810665D)](decret-n2008-510-du-28-mai-2008-esrr0810665d)
 - [Décret n°2008-1010 du 29 septembre 2008 (ECED0812167D)](decret-n2008-1010-du-29-septembre-2008-eced0812167d)
