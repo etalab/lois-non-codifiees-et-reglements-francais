@@ -14,6 +14,6 @@ Pour les embarcations semi-rigides et pneumatiques, la longueur à prendre en co
 
 "Embarcation semi-rigide" : embarcation pneumatique dont la partie inférieure de la coque est constituée d'un élément rigide et dont la forme et la flottabilité (en partie au moins) de la partie supérieure (coque gonflable) sont obtenues par gonflage.
 
-"Embarcation pneumatique" : structure flottante (coque) dont la forme et la flottabilité sont obtenues, totalement ou partiellement, par gonflage.
+Embarcation pneumatique : embarcation dont la totalité de la résistance structurelle est assurée par le gonflage d'une enveloppe étanche.
 
 "Véhicule nautique à moteur" : engin dont la longueur de coque est inférieure à 4 m, équipé d'un moteur à combustion interne qui entraîne une turbine constituant sa principale source de propulsion, et conçu pour être manœuvré par une ou plusieurs personnes assises, debout ou agenouillées sur la coque.
