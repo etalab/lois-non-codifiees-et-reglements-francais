@@ -1,11 +1,21 @@
 # Article 19
 
-Le préfet de région est chargé du contrôle de l'établissement.
+Les ressources de l'établissement comprennent :
 
-Les délibérations du conseil d'administration et celles prises par le bureau par délégation du conseil sont adressées au préfet de région. Elles ne sont exécutoires qu'après approbation expresse ou si, dans le délai de un mois suivant leur réception par le préfet de région, elles n'ont donné lieu à aucune observation de sa part.
+1° Toute ressource fiscale spécifique, autorisée par la loi ;
 
-Toutefois, les délibérations du conseil d'administration ou du bureau et les décisions du directeur général ou de son adjoint relatives à l'exercice du droit de préemption ou de priorité sont exécutoires de plein droit, dès leur transmission au préfet de région, si l'exercice par l'établissement du droit de préemption ou de priorité est prévu dans une convention avec une collectivité ou un groupement des collectivités préalablement approuvée par le préfet de région.
+2° Les dotations, subventions, avances, fonds de concours ou participations apportés par l'Union européenne, l'Etat, les collectivités territoriales, leurs établissements publics, les sociétés nationales ainsi que toute personne publique ou privée intéressée ;
 
-Lorsque l'exercice par l'établissement du droit de préemption ou de priorité n'est pas prévu par une de ces conventions, l'absence de rejet ou d'approbation expresse des délibérations ou décisions susmentionnées, par le préfet de région, dans le délai de dix jours après réception, vaut approbation tacite ;
+3° Le produit des emprunts ;
 
-Par dérogation aux dispositions du deuxième alinéa du présent article, les délibérations du conseil d'administration relatives aux acquisitions faites dans le cadre de l'article 5 sont exécutoires de plein droit dès lors que ces acquisitions portent sur la majorité des parts ou actions et sont inférieures à un seuil fixé par arrêté des ministres chargés de l'économie, du budget et de l'urbanisme. Lorsque ces acquisitions ou prises de participations sont supérieures au seuil précité, les délibérations du conseil d'administration ne sont exécutoires qu'après approbation par arrêté conjoint des ministres chargés de l'économie, du budget et de l'urbanisme. Les délibérations du conseil d'administration relatives aux acquisitions faites dans le cadre de l'article 5, portant sur la minorité des parts ou actions, restent soumises à l'approbation du préfet de région dans les conditions prévues au deuxième alinéa du présent article.
+4° Les subventions obtenues au lieu et place des collectivités territoriales, établissements publics et sociétés intéressés en exécution des conventions passées avec ceux-ci ;
+
+5° Le produit de la vente des biens meubles et immeubles ;
+
+6° Les revenus de ses biens meubles et immeubles ;
+
+7° Les dons et legs ;
+
+8° Les rémunérations de prestations de service et les remboursements d'avances et de préfinancements divers consentis par l'établissement ;
+
+9° Toutes les ressources autorisées par les lois et règlements.

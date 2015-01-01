@@ -1,7 +1,5 @@
 # Article 9
 
-Le conseil d'administration élit parmi ses membres un président et des vice-présidents.
+Le conseil d'administration élit parmi ses membres, pour une durée de six ans, un président issu du collège des représentants du conseil régional, et deux vice-présidents.
 
-Le président est choisi parmi les membres représentant le conseil régional.
-
-Les vice-présidents suppléent, dans l'ordre de leur nomination, le président en cas d'absence ou d'empêchement.
+Les vice-présidents suppléent, dans l'ordre de leur élection, le président en cas d'absence ou d'empêchement.
