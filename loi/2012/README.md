@@ -11,5 +11,6 @@
 - [LOI n°2012-304 du 6 mars 2012 (IOCX1104583L)](loi-n2012-304-du-6-mars-2012-iocx1104583l)
 - [LOI n°2012-347 du 12 mars 2012 (MFPF1116839L)](loi-n2012-347-du-12-mars-2012-mfpf1116839l)
 - [LOI n°2012-354 du 14 mars 2012 (BCRX1203230L)](loi-n2012-354-du-14-mars-2012-bcrx1203230l)
+- [LOI n°2012-409 du 27 mars 2012 (JUSX1128281L)](loi-n2012-409-du-27-mars-2012-jusx1128281l)
 - [LOI n°2012-77 du 24 janvier 2012 (DEVX1119035L)](loi-n2012-77-du-24-janvier-2012-devx1119035l)
 - [LOI n°2012-958 du 16 août 2012 (EFIX1227267L)](loi-n2012-958-du-16-aout-2012-efix1227267l)

@@ -1,6 +1,6 @@
 # Article 13
 
-Les avoués près les cours d'appel en exercice à la date de la publication de la présente loi ont droit à une indemnité au titre du préjudice correspondant à la perte du droit de présentation, fixée par le juge de l'expropriation dans les conditions définies par les articles L. 13-1 à L. 13-25 du code de l'expropriation pour cause d'utilité publique.
+Les avoués près les cours d'appel en exercice à la date de la publication de la présente loi ont droit à une indemnité au titre du préjudice correspondant à la perte du droit de présentation, fixée par le juge de l'expropriation dans les conditions définies par les articles L. 311-5 à L. 311-9 du code de l'expropriation pour cause d'utilité publique.
 
 Le juge détermine l'indemnité allouée aux avoués exerçant au sein d'une société dont ils détiennent des parts en industrie afin d'assurer la réparation du préjudice qu'ils subissent du fait de la présente loi.
 

@@ -4,4 +4,4 @@ Les sommes représentant le prix des parties communes cédées se divisent de pl
 
 La part du prix revenant à chaque copropriétaire lui est remise directement par le syndic et ce, nonobstant l'existence de toute sûreté grevant son lot.
 
-Les présentes dispositions ne dérogent pas à celles de l'article L. 12-3 du code de l'expropriation pour cause d'utilité publique.
+Les présentes dispositions ne dérogent pas à celles de l'article L. 222-3 du code de l'expropriation pour cause d'utilité publique.
