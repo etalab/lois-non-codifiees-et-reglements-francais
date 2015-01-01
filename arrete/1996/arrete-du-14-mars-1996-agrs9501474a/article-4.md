@@ -1,7 +1,5 @@
 # Article 4
 
-Les éléments constituant le marquage de conformité sont les suivants :
+Le marquage de conformité est constitué de la référence de l'attestation d'examen de type. Cette référence est constituée d'un signe identifiant l'organisme habilité et d'une suite de caractères.
 
-"Conformes aux dispositions du décret n° 96-216 du 14 mars 1996 relatif aux électrificateurs de clôture."
-
-Ces éléments doivent avoir la même dimension verticale, qui ne peut pas être inférieure à cinq millimètres.
+Les éléments de ce marquage doivent avoir sensiblement la même dimension verticale qui ne peut pas être inférieure à cinq millimètres.
