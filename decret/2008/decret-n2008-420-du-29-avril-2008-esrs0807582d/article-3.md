@@ -34,8 +34,6 @@ Le Conseil national du droit est composé :
 
 ― le président de la Chambre nationale des huissiers de justice ;
 
-― le président de la Chambre nationale des avoués près les cours d'appel ;
-
 ― le président du Conseil national des greffiers des tribunaux de commerce ;
 
 ― le président du Conseil national des administrateurs judiciaires et des mandataires judiciaires ;
