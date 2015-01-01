@@ -88,7 +88,6 @@
 - [Décret n°99-336 du 3 mai 1999 (ECOT9926237D)](decret-n99-336-du-3-mai-1999-ecot9926237d)
 - [Décret n°99-337 du 3 mai 1999 (ECOF9900013D)](decret-n99-337-du-3-mai-1999-ecof9900013d)
 - [Décret n°99-355 du 3 mai 1999 (ECOF9900008D)](decret-n99-355-du-3-mai-1999-ecof9900008d)
-- [Décret n°2000-986 du 4 octobre 2000 (MESR0010968D)](decret-n2000-986-du-4-octobre-2000-mesr0010968d)
 - [Décret n°99-144 du 4 mars 1999 (MESP9824093D)](decret-n99-144-du-4-mars-1999-mesp9824093d)
 - [Décret n°99-145 du 4 mars 1999 (MESP9824088D)](decret-n99-145-du-4-mars-1999-mesp9824088d)
 - [Décret n°99-146 du 4 mars 1999 (MESP9824095D)](decret-n99-146-du-4-mars-1999-mesp9824095d)
