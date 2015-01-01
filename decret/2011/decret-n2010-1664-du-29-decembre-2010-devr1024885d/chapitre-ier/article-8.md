@@ -1,5 +1,7 @@
 # Article 8
 
-La liste des programmes d'information, de formation et d'innovation en faveur de la maîtrise de la demande énergétique éligibles susceptibles de faire l'objet d'une délivrance de certificats d'économies d'énergie est fixée par arrêté du ministre chargé de l'énergie.
+Le volume des certificats d'économies d'énergie délivrés dans le cadre des programmes définis à l'article L. 221-7 du code de l'énergie, à l'exception des programmes de lutte contre la précarité énergétique, ne peut excéder :
 
-Pour la période visée à l'article 1er du décret n° 2010-1663 du 29 décembre 2010 susvisé, le volume des certificats d'économies d'énergie délivrés dans le cadre de ces programmes ne peut excéder 33 milliards de kilowattheures d'énergie finale cumulée actualisés.
+33 milliards de kilowattheures d'énergie finale cumulée actualisés (cumac) pour la période comprise entre le 1er janvier 2011 et le 31 décembre 2014 ;
+
+140 milliards de kilowattheures d'énergie finale cumulée actualisés (cumac) pour la période comprise entre le 1er janvier 2015 et le 31 décembre 2017.

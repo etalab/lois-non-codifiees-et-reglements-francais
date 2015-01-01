@@ -91,7 +91,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Approbation des modalités de contrôle du système destiné à mesurer la proportion d'emballages éliminés mis en place par chaque producteur. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et de l'agriculture. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 543-64 </p>
+<p>Article R. 543-64
+</p>
 </td>
 </tr>
 <tr>
@@ -672,10 +673,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation provisoire de mise à disposition sur le marché d'un produit biocide contenant une nouvelle substance active biocide en cours d'examen  </p>
+<p>Autorisation provisoire de mise à disposition sur le marché d'un produit biocide contenant une nouvelle substance active biocide en cours d'examen </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 522-4  </p>
+<p>Article R. 522-4 </p>
 </td>
 </tr>
 <tr>
@@ -684,10 +685,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation nationale de mise à disposition sur le marché et de renouvellement d'autorisation nationale d'un produit biocide  </p>
+<p>Autorisation nationale de mise à disposition sur le marché et de renouvellement d'autorisation nationale d'un produit biocide </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 522-6 et R. 522-7  </p>
+<p>Articles R. 522-6 et R. 522-7 </p>
 </td>
 </tr>
 <tr>
@@ -699,7 +700,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <p>Autorisation nationale de mise à disposition sur le marché par reconnaissance mutuelle (simultanée ou séquentielle) </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 522-9, R. 522-10 et R. 522-11  </p>
+<p>Articles R. 522-9, R. 522-10 et R. 522-11 </p>
 </td>
 </tr>
 <tr>
@@ -708,10 +709,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification administrative)  </p>
+<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification administrative) </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 522-12  </p>
+<p>Articles R. 522-12 </p>
 </td>
 </tr>
 <tr>
@@ -720,10 +721,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification mineure)  </p>
+<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification mineure) </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 522-13 à R. 522-15  </p>
+<p>Articles R. 522-13 à R. 522-15 </p>
 </td>
 </tr>
 <tr>
@@ -732,10 +733,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification majeure)  </p>
+<p>Modification d'autorisation nationale de mise à disposition sur le marché d'un produit biocide (modification majeure) </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 522-16 à R. 522-18  </p>
+<p>Articles R. 522-16 à R. 522-18 </p>
 </td>
 </tr>
 <tr>
@@ -747,7 +748,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <p>Autorisation simplifiée de mise à disposition sur le marché d'un produit biocide </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 522-20  </p>
+<p>Article R. 522-20 </p>
 </td>
 </tr>
 <tr>
@@ -756,7 +757,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation de mise à disposition sur le marché de produits biocides identiques  </p>
+<p>Autorisation de mise à disposition sur le marché de produits biocides identiques </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 522-21 </p>
@@ -764,8 +765,10 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 </tr>
 <tr>
 <td/>
-<td>Autorisation d'expériences ou d'essais sur des produits biocides ou des substances actives biocides  </td>
-<td>Articles R. 522-23 et R. 522-24  </td>
+<td>
+<p align="left">Autorisation d'expériences ou d'essais sur des produits biocides ou des substances actives biocides </p>
+</td>
+<td>Articles R. 522-23 et R. 522-24 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -773,7 +776,7 @@ II.-Décisions administratives individuelles prises par le ministre chargé de l
 <br/>
 </td>
 <td valign="top" width="378">
-<p>Autorisation de commerce parallèle  </p>
+<p>Autorisation de commerce parallèle </p>
 </td>
 <td valign="top" width="227">
 <p>Article R. 522-26 </p>
@@ -933,6 +936,7 @@ Agrément et retrait d'agrément des écoorganismes et des systèmes individuels
 
 V.-Code rural et de la pêche maritime :
 
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -941,6 +945,107 @@ V.-Code rural et de la pêche maritime :
 </td>
 <td valign="top" width="342">
 <p align="left">Articles R. 258-6, R. 258-8 et R. 258-9<br/>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+VI.-Code de l'énergie :
+
+<div align="left">
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Mises en demeure d'acquérir des certificats d'économies d'énergie. </p>
+</td>
+<td align="left" valign="middle">
+<br/>Article L. 221-3 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Décisions relatives aux versements libératoires et aux pénalités. </p>
+</td>
+<td align="left" valign="middle">
+<br/>Article L. 221-4 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+VII.-Décret n° 2014-1668 du 29 décembre 2014 :
+
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>1 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Décisions relatives aux délégations d'obligations d'économies d'énergie. </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Article 6 du décret n° 2014-1668 du 29 décembre 2014 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>2 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Mises en demeure de respecter les articles 8 à 11, établissement d'office des déclarations et prononcé des amendes. </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Article 12 du décret n° 2014-1668 du 29 décembre 2014 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>3 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Fixation des obligations d'économies d'énergie. </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Article 13 du décret n° 2014-1668 du 29 décembre 2014 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">
+<br/>4 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Annulation des certificats d'économies d'énergie en fin de période. </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">
+<br/>Article 14 du décret n° 2014-1668 du 29 décembre 2014<br/>
 </p>
 </td>
 </tr>
