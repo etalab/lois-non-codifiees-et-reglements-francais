@@ -99,4 +99,4 @@ A modifié les dispositions suivantes :
 
 VI.-A.-Le présent article s'applique aux cotisations et aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2015.
 
-B.-Par dérogation au A du présent VI, le quatrième alinéa du 9° et le 12° du I s'appliquent aux cotisations et aux contributions de sécurité sociale dues au titre des périodes courant à compter d'une date fixée par décret et, au plus tard, à compter du 1er janvier 2016.
+B.-(Abrogé).
