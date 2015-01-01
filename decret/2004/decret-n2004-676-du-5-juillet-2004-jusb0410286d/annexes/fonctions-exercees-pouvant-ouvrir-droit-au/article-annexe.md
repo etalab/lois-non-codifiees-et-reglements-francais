@@ -38,6 +38,8 @@ Tribunaux de grande instance
 
 2. Procureur de la République.
 
+2 bis. Procureur de la République financier.
+
 3. Magistrat chargé d'un secrétariat général
 
 Tribunaux de première instance
