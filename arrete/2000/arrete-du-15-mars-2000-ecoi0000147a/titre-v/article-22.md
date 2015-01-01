@@ -8,7 +8,7 @@ Paragraphe 1.L'intervalle maximal entre deux requalifications périodiques est f
 
 -cinq ans pour les récipients ou tuyauteries contenant un fluide toxique ou très toxique, ou un fluide corrosif vis-à-vis des parois de l'équipement sous pression ;
 
--cinq ans pour les bouteilles pour appareils respiratoires utilisées pour la plongée subaquatique dont l'inspection périodique a été effectuée au moins annuellement dans les conditions définies par une décision du     ministre chargé de la sécurité industrielle prise après avis de la Commission centrale des appareils à pression ainsi que pour les récipients mobiles en matériaux autres que métalliques ayant fait l'objet des essais de contrôle du vieillissement mentionnés au premier tiret de l'article 10 (§ 3) ci-avant ;
+-cinq ans pour les bouteilles pour appareils respiratoires utilisées pour la plongée subaquatique dont l'inspection périodique a été effectuée au moins annuellement dans les conditions définies par la circulaire TIV 864-1 de la Fédération française d'études et de sports sous-marins, par la circulaire 595/A du Syndicat national des entrepreneurs de travaux immergés ou par une décision du ministre chargé de la sécurité industrielle prise après avis de la Commission centrale des appareils à pression ainsi que pour les récipients mobiles en matériaux autres que métalliques ayant fait l'objet des essais de contrôle du vieillissement mentionnés au premier tiret de l'article 10 (§ 3) ci-avant ;
 
 -à l'occasion du premier rechargement effectué plus de cinq ans après la requalification précédente pour les extincteurs soumis à une pression de plus de 30 bar, sans que ce délai entre deux requalifications périodiques puisse excéder dix ans ;
 

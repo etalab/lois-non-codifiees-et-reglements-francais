@@ -2,7 +2,7 @@
 
 EXIGENCES ESSENTIELLES DE SÉCURITÉ APPLICABLES AUX ÉQUIPEMENTS SOUS PRESSION NUCLÉAIRES DE CATÉGORIES I À IV ET DE NIVEAU N2 ET À CERTAINES TUYAUTERIES DE CATÉGORIE I OU II ET DE NIVEAU N1
 
-Les exigences essentielles de sécurité applicables aux équipements sous pression nucléaires de catégories I à IV et de niveau N2, aux tuyauteries du circuit primaire principal des chaudières nucléaires à eau de DN inférieure ou égale à 50 et aux autres tuyauteries de catégorie I ou II et de niveau N1 de DN inférieure ou égale à 100 sont les exigences mentionnées à l'annexe 1 du décret du 13 décembre 1999 susvisé, précisées et complétées comme suit.
+Les exigences essentielles de sécurité applicables aux équipements sous pression nucléaires de catégories I à IV et de niveau N2, aux tuyauteries du circuit primaire principal des chaudières nucléaires à eau de DN inférieure ou égale à 50 et aux autres tuyauteries de catégorie I ou II et de niveau N1 de DN inférieure ou égale à 100 ainsi que les accessoires sous pression de même DN qui leur sont raccordés sont les exigences mentionnées à l'annexe 1 du décret du 13 décembre 1999 susvisé, précisées et complétées comme suit.
 
 1. Préliminaire et généralités
 

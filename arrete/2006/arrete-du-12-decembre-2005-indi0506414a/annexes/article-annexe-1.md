@@ -2,7 +2,7 @@
 
 EXIGENCES ESSENTIELLES DE SÉCURITÉ APPLICABLES AUX ÉQUIPEMENTS SOUS PRESSION NUCLÉAIRES DE CATÉGORIES I À IV ET DE NIVEAU N1 HORMIS CERTAINES TUYAUTERIES
 
-Les exigences essentielles de sécurité applicables aux équipements sous pression nucléaires de catégories I à IV et de niveau N1, hormis les tuyauteries du circuit primaire principal des chaudières nucléaires à eau de dimension nominale DN inférieure ou égale à 50 et les autres tuyauteries de DN inférieure ou égale à 100, sont les exigences mentionnées à l'annexe 1 du décret du 13 décembre 1999 susvisé, précisées et complétées comme suit.
+Les exigences essentielles de sécurité applicables aux équipements sous pression nucléaires de catégories I à IV et de niveau N1, hormis les tuyauteries du circuit primaire principal des chaudières nucléaires à eau de dimension nominale DN inférieure ou égale à 50 et les autres tuyauteries de DN inférieure ou égale à 100 ainsi que les accessoires sous pression de même DN qui leur sont raccordés, sont les exigences mentionnées à l'annexe 1 du décret du 13 décembre 1999 susvisé, précisées et complétées comme suit.
 
 1. Préliminaire et généralités
 
@@ -88,7 +88,7 @@ L'essai de pression hydrostatique, ou l'essai de résistance effectué avec un f
 
 3.7. Marquage et étiquetage
 
-Les règles relatives au marquage fixées par le décret du 13 décembre 1999 susvisé s'appliquent à l'exception des règles relatives au marquage  CE .
+Les règles relatives au marquage fixées par le décret du 13 décembre 1999 susvisé s'appliquent à l'exception des règles relatives au marquage CE .
 
 3.8. Instructions de service
 

@@ -8,7 +8,7 @@ Ils doivent être maintenus constamment en bon état et être vérifiés aussi s
 
 Paragraphe 2. Les générateurs de vapeur doivent être munis de tous les dispositifs de régulation et accessoires de sécurité nécessaires à leur fonctionnement dans de bonnes conditions de sécurité.
 
-Ceux qui sont destinés à être exploités sans présence humaine permanente doivent respecter les prescriptions de toute norme, code ou cahier des charges reconnu par le     ministre chargé de la sécurité industrielle lorsque la notice d'instructions établie par le fabricant pour le générateur tel qu'il est mis sur le marché ne prévoit pas explicitement ce mode d'exploitation.
+Ceux qui sont destinés à être exploités sans présence humaine permanente doivent respecter les prescriptions de toute norme, code ou cahier des charges reconnu par le ministre chargé de la sécurité industrielle lorsque la notice d'instructions établie par le fabricant pour le générateur tel qu'il est mis sur le marché ne prévoit pas explicitement ce mode d'exploitation.
 
 Paragraphe 3. Pour les appareils à couvercle amovible à fermeture rapide, les dispositifs de sécurité interdisant l'ouverture des parties amovibles tant que subsiste de la pression à l'intérieur de l'équipement sous pression ou la mise sous pression de celui-ci si la partie amovible est mal assujettie doivent être maintenus constamment en bon état et vérifiés aussi souvent que nécessaire.
 
@@ -22,6 +22,8 @@ Les mesures nécessaires doivent être prises pour que l'échappement du fluide 
 
 Les conditions de leur installation ne doivent pas faire obstacle à leur fonctionnement, à leur surveillance ou à leur maintenance.
 
-Paragraphe 6.L'exploitant doit disposer du personnel nécessaire à l'exploitation, à la surveillance et à la maintenance des équipements sous pression. Il doit fournir à ce personnel tous les documents utiles à l'accomplissement de ces tâches.
+Paragraphe 6. L'exploitant doit disposer du personnel nécessaire à l'exploitation, à la surveillance et à la maintenance des équipements sous pression. Il doit fournir à ce personnel tous les documents utiles à l'accomplissement de ces tâches.
 
 Paragraphe 7. En cas de chômage des installations, l'exploitant prend toutes les dispositions de conservation nécessaires au maintien en bon état de marche des équipements sous pression et assure les opérations de surveillance correspondantes.A défaut, la remise en service est subordonnée au résultat favorable d'une requalification périodique des équipements sous pression concernés.
+
+Paragraphe 8. La pose de système d'obturation de fuites en marche peut être effectuée dans le cadre d'un guide approuvé par le ministre chargé de la sécurité industrielle, après avis de la Commission centrale des appareils à pression.
