@@ -12,9 +12,9 @@ Le nombre de trimestres correspondant est arrondi à l'entier supérieur. Le plu
 
 Le coefficient de minoration n'est pas applicable :
 
-a) Aux assurés handicapés dont l'incapacité permanente est au moins égale à 80 % ni aux assurés mis à la retraite d'office à la suite d'une invalidité ;
+a) Aux assurés handicapés dont l'incapacité permanente est au moins égale à 50 % dans les conditions prévues à l'article D. 821-1 du code de la sécurité sociale ni aux assurés mis en inactivité suite à une invalidité ;
 
-b) Aux pensions de réversion lorsque la liquidation de la pension dont l'assuré aurait pu bénéficier intervient après son décès en activité ni aux pensions pour inaptitude au travail ;
+b) Aux pensions de réversion, lorsque la liquidation de la pension dont l'agent aurait pu bénéficier intervient après son décès en activité ;
 
 c) Aux assurés âgés d'au moins soixante-cinq ans qui bénéficient d'un nombre minimum de trimestres, fixé par le décret prévu au septième alinéa du I de l'article L. 14 du code des pensions civiles et militaires de retraite, au titre de la majoration de durée d'assurance prévue au IV de l'article 92 ou qui, pendant une durée et dans des conditions fixées par le même décret, ont apporté une aide effective à leur enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
 

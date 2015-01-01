@@ -5,3 +5,4 @@
 - [Décret n°70-354 du 21 avril 1970](decret-n70-354-du-21-avril-1970)
 - [Décret n°2010-1617 du 23 décembre 2010 (DEVU1001283D)](decret-n2010-1617-du-23-decembre-2010-devu1001283d)
 - [Décret n°2007-1056 du 28 juin 2007 (BCFB0755397D)](decret-n2007-1056-du-28-juin-2007-bcfb0755397d)
+- [Décret n°2008-639 du 30 juin 2008 (MTSS0813153D)](decret-n2008-639-du-30-juin-2008-mtss0813153d)

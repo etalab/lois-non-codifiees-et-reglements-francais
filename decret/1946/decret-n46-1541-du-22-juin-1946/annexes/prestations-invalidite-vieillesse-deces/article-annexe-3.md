@@ -178,7 +178,7 @@ Le nombre de trimestres correspondant est arrondi à l'entier supérieur. Le plu
 
 Le coefficient de minoration n'est pas applicable :
 
-a) Aux agents handicapés dont l'incapacité permanente est au moins égale à 80 % ni aux agents mis en inactivité suite à une invalidité ;
+a) Aux agents handicapés dont l'incapacité permanente est au moins égale à 50 % dans les conditions prévues à l'article D. 821-1 du code de la sécurité sociale ni aux agents mis en inactivité suite à une invalidité ;
 
 b) Aux pensions de réversion lorsque la liquidation de la pension dont l'agent aurait pu bénéficier intervient après son décès en activité ;
 
@@ -353,7 +353,7 @@ Article 17
 
 Salariés en situation de handicap
 
-I.-La condition d'âge de soixante ans fixée au 1° de l'article 16 est abaissée, dans les conditions fixées au second alinéa du présent article, pour les agents en situation de handicap qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 80 %, une durée d'assurance minimale telle que définie au III de l'article 10, tout ou partie de cette durée ayant donné lieu à versement de cotisations.
+I.-La condition d'âge de soixante ans fixée au 1° de l'article 16 est abaissée, dans les conditions fixées au second alinéa du présent article, pour les agents en situation de handicap qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 50 %, une durée d'assurance minimale telle que définie au III de l'article 10, tout ou partie de cette durée ayant donné lieu à versement de cotisations.
 
 Sous réserve des dispositions transitoires du I de l'article 45, la condition d'âge fixée au 1° de l'article 16 est abaissée conformément au tableau ci après :
 
@@ -435,9 +435,11 @@ Sous réserve des dispositions transitoires du I de l'article 45, la condition d
 </tbody>
 </table>
 
-II.-Une majoration de pension est accordée aux agents en situation de handicap mentionnés au I en fonction du nombre de trimestres cotisés alors que l'agent était atteint d'une incapacité au moins égale à 80 %. La majoration de pension est égale à un tiers que multiplie le rapport entre le nombre de trimestres pris en compte pour la liquidation tel que défini au deuxième alinéa de l'article 9 ci-dessus réduit des bonifications éventuelles alors que l'agent était atteint d'une incapacité permanente égale au moins à 80 % et le nombre de trimestres admissibles en liquidation tel que défini au deuxième alinéa de l'article 9 ci-dessus. Ce nombre est arrondi, le cas échéant, au centième le plus proche.
+II.-Une majoration de pension est accordée aux agents en situation de handicap mentionnés au I en fonction du nombre de trimestres cotisés alors que l'agent était atteint d'une incapacité au moins égale à 50 %. La majoration de pension est égale à un tiers que multiplie le rapport entre le nombre de trimestres pris en compte pour la liquidation tel que défini au deuxième alinéa de l'article 9 ci-dessus réduit des bonifications éventuelles alors que l'agent était atteint d'une incapacité permanente égale au moins à 50 % et le nombre de trimestres admissibles en liquidation tel que défini au deuxième alinéa de l'article 9 ci-dessus. Ce nombre est arrondi, le cas échéant, au centième le plus proche.
 
 La pension ainsi majorée ne peut excéder celle qui aurait été obtenue par application du pourcentage maximum mentionné au quatrième alinéa de l'article 9 ci-dessus. Elle ne peut non plus excéder, majoration pour enfants comprise, le salaire de référence tel que déterminé à l'article 18 suivant.
+
+III.-Pour bénéficier des dispositions du présent article, l'agent handicapé produit, à l'appui de sa demande, les pièces justifiant de la décision relative à son taux d'incapacité permanente. La liste des pièces justificatives et documents permettant d'attester du taux d'incapacité requis ou d'une situation équivalente du point de vue de l'impact des altérations fonctionnelles de la personne concernée est fixée par l'arrêté mentionné à l'article D. 351-1-6 du code de la sécurité sociale.
 
 Article 17-1
 
@@ -868,7 +870,7 @@ Article 45
 
 Dispositions transitoires
 
-I.- La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 de la présente annexe est fixée à 151 trimestres pour les agents remplissant les conditions définies à l'article 16 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les agents remplissant les conditions définies à l'article 16 de la présente annexe postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2018.
+I.-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au quatrième alinéa de l'article 9 de la présente annexe est fixée à 151 trimestres pour les agents remplissant les conditions définies à l'article 16 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les agents remplissant les conditions définies à l'article 16 de la présente annexe postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée de 166 trimestres au 1er juillet 2018.
 
 A compter du 1er juillet 2019, elle est fixée à :
 

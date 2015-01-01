@@ -22,9 +22,11 @@ Le nombre de trimestres pris en compte pour ce calcul est égal :
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur. Le plus petit des deux nombres de trimestres résultant des dispositions du 1° et du 2° ci-dessus est pris en considération.
 
-Le coefficient de minoration n'est pas applicable aux assurés handicapés dont l'incapacité permanente est au moins égale à 80 % ni aux assurés mis à la retraite d'office par suite d'une invalidité.
+Le coefficient de minoration n'est pas applicable :
 
-Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont l'agent aurait pu bénéficier intervient après son décès en activité.
+a) Aux assurés handicapés dont l'incapacité permanente est au moins égale à 50 % dans les conditions prévues à l'article D. 821-1 du code de la sécurité sociale ni aux assurés mis en inactivité suite à une invalidité ;
+
+b) Aux pensions de réversion, lorsque la liquidation de la pension dont l'agent aurait pu bénéficier intervient après son décès en activité.
 
 III.-Lorsque la durée d'assurance définie au IV ci-après est supérieure au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de pension mentionné au I ci-dessus, sans être inférieure à cent soixante trimestres, et que l'assuré a atteint l'âge mentionné au 5° du I de l'article 6, un coefficient de majoration s'applique au montant de la pension calculée en application du I du présent article.
 
