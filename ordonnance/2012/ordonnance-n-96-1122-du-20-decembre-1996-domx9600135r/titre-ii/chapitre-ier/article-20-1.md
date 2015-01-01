@@ -20,7 +20,7 @@ L'   assurance maladie, maternité, invalidité et décès  comporte également 
 
 7° ter Le versement aux ayants droit d'un capital en cas de décès de l'assuré salarié ;
 
-7° quater L'attribution aux femmes exerçant une profession artisanale, commerciale ou libérale, exploitantes agricoles d'une allocation forfaitaire ou d'indemnités journalières forfaitaires à l'occasion de leurs maternités ;
+7° quater L'attribution aux femmes exerçant une profession artisanale, commerciale ou libérale, d'une allocation forfaitaire ou d'indemnités journalières forfaitaires à l'occasion de leurs maternités ;
 
 7° quinquies L'attribution aux assurés relevant d'une profession artisanale ou commerciale d'indemnités journalières en cas d'incapacité physique médicalement constatée de continuer ou de reprendre son travail ;
 

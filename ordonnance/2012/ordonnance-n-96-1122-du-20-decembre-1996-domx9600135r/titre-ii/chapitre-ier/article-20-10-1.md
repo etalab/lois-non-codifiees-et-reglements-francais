@@ -15,5 +15,3 @@ Les prestations leur sont servies dans les conditions suivantes :
 III. ― Un décret détermine les modalités d'application du présent article, et notamment le montant de l'allocation prévue au premier alinéa, les montants et les durées d'attribution de l'indemnité journalière prévue au deuxième alinéa, notamment lorsque l'accouchement a lieu plus de six semaines avant la date initialement prévue et exige l'hospitalisation postnatale de l'enfant.
 
 Les montants des prestations sont revalorisés dans les mêmes conditions que celles fixées pour le plafond des cotisations de sécurité sociale prévu au troisième alinéa du I de l'article 28-1.
-
-IV. ― Est considérée comme exploitante agricole pour l'application du présent article toute femme mettant en valeur, en qualité de chef d'exploitation, une exploitation évaluée en surface pondérée et dont l'importance est au moins égale à un minimum fixé par décret. Ce décret fixe également les critères d'équivalence utilisés pour le calcul de cette surface pondérée, compte tenu de la nature des productions végétales et animales.
