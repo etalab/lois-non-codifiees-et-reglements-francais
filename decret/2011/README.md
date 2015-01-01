@@ -100,6 +100,7 @@
 - [Décret n°2011-205 du 23 février 2011 (EFIT1032814D)](decret-n2011-205-du-23-fevrier-2011-efit1032814d)
 - [Décret n°2011-980 du 23 août 2011 (JUSK1108043D)](decret-n2011-980-du-23-aout-2011-jusk1108043d)
 - [Décret n°2011-1345 du 24 octobre 2011 (AGRT1122289D)](decret-n2011-1345-du-24-octobre-2011-agrt1122289d)
+- [Décret n°2011-1353 du 24 octobre 2011 (AGRT1122290D)](decret-n2011-1353-du-24-octobre-2011-agrt1122290d)
 - [Décret n°2011-1360 du 24 octobre 2011 (AGRT1112853D)](decret-n2011-1360-du-24-octobre-2011-agrt1112853d)
 - [Décret n°2011-1361 du 24 octobre 2011 (AGRT1114812D)](decret-n2011-1361-du-24-octobre-2011-agrt1114812d)
 - [Décret n°2011-1366 du 24 octobre 2011 (AGRT1122285D)](decret-n2011-1366-du-24-octobre-2011-agrt1122285d)
