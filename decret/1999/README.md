@@ -247,7 +247,6 @@
 - [Décret n°99-92 du 11 février 1999 (INTB9900017D)](decret-n99-92-du-11-fevrier-1999-intb9900017d)
 - [Décret n°99-361 du 11 mai 1999 (AGRS9900791D)](decret-n99-361-du-11-mai-1999-agrs9900791d)
 - [Décret n°99-364 du 11 mai 1999 (MESA9920720D)](decret-n99-364-du-11-mai-1999-mesa9920720d)
-- [Décret n°84-846 du 12 septembre 1984](decret-n84-846-du-12-septembre-1984)
 - [Décret n°97-1146 du 12 décembre 1997 (EQUA9701563D)](decret-n97-1146-du-12-decembre-1997-equa9701563d)
 - [Décret n°99-116 du 12 février 1999 (ECOI9801003D)](decret-n99-116-du-12-fevrier-1999-ecoi9801003d)
 - [Décret n°99-182 du 12 mars 1999 (PRMX9903467D)](decret-n99-182-du-12-mars-1999-prmx9903467d)
