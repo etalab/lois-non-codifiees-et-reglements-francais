@@ -1,3 +1,3 @@
 # Article 28
 
-La dotation due au titre de chaque année donne lieu au versement d'une provision initiale versée en début d'année et ajustée en fonction de l'évolution du nombre des admissions à l'aide juridictionnelle. Elle est liquidée en fin d'année sur la base du nombre des missions achevées.
+La dotation due au titre de chaque année donne lieu au versement d'une provision initiale, versée en début d'année et ajustée en fonction de l'évolution du nombre des admissions à l'aide juridictionnelle et du montant de la dotation affectée au barreau par le Conseil national des barreaux en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques. Elle est liquidée en fin d'année sur la base du nombre des missions achevées, après déduction des sommes perçues au titre du même deuxième alinéa.
