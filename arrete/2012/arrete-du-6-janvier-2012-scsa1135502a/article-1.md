@@ -8,7 +8,7 @@ où :
 
 T est le tarif ;
 
-TR est le tarif de référence. Il est égal à quinze fois le montant brut horaire du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année au titre de laquelle la rémunération est due ;
+TR est le tarif de référence. Il est égal à 142,95 € ;
 
 A est le taux mentionné dans le tableau 1A annexé au présent arrêté ;
 

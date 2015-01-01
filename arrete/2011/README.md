@@ -2570,7 +2570,6 @@
 - [Arrêté du 29 décembre 2010 (DEVA1033563A)](arrete-du-29-decembre-2010-deva1033563a)
 - [Arrêté du 29 décembre 2010 (DEVL1030773A)](arrete-du-29-decembre-2010-devl1030773a)
 - [Arrêté du 29 décembre 2010 (DEVL1030782A)](arrete-du-29-decembre-2010-devl1030782a)
-- [Arrêté du 29 décembre 2010 (DEVR1032056A)](arrete-du-29-decembre-2010-devr1032056a)
 - [Arrêté du 29 décembre 2010 (ETSH1101095A)](arrete-du-29-decembre-2010-etsh1101095a)
 - [Arrêté du 29 décembre 2010 (ETSS1033755A)](arrete-du-29-decembre-2010-etss1033755a)
 - [Arrêté du 29 décembre 2010 (ETSS1033822A)](arrete-du-29-decembre-2010-etss1033822a)

@@ -12,85 +12,101 @@ Tp représente le taux de participation personnelle ; son montant est calculé s
 
 Rp est égal à la différence entre les ressources du bénéficiaire appréciées dans les conditions prévues à l'article R. 351-17-4 et un montant forfaitaire défini au II ci-après ; Rp ne peut être inférieur à zéro.
 
-II.-Pour l'application de l'article R. 351-17-4, le forfait visé au I est déterminé, pour chaque composition familiale, d'après la formule suivante :
+II.-Pour l'application de l'article R. 351-17-4, le forfait R0 mentionné au I, servant au calcul du paramètre Rp, est fixé selon le tableau suivant :
 
-R0 = R1-R2,
-
-où R1 et R2, sont respectivement un pourcentage du montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et un pourcentage de la base mensuelle de calcul des allocations familiales visée à l'article L. 551-1 du code de la sécurité sociale. Ces pourcentages sont donnés par le tableau ci-dessous :
+<div>
+<br/>
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">BENEFICIAIRE </p>
+<th>
+<br/>FOYER <br/>
+</th>
+<th>
+<br/>MONTANT <br/>
+<br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Personne seule sans personne à charge <br/>
 </td>
-<td>
-<p align="center">R1 du montant forfaitaire </p>
-<p align="center">(en pourcentage) </p>
-</td>
-<td>
-<p align="center">R2 de la BMAF </p>
-<p align="center">(en pourcentage) </p>
+<td align="center" valign="middle">
+<br/>4 544 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Personne isolée sans personne à charge </p>
+<td align="left" valign="middle">
+<br/>Couple sans personne à charge <br/>
 </td>
-<td>
-<p align="center">88</p>
-</td>
-<td>
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>6 508 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Couple sans personne à charge </p>
+<td align="left" valign="middle">
+<br/>Personne seule ou couple ayant :<br/>
 </td>
-<td>
-<p align="center">126</p>
+<td align="center" valign="middle"/>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>-une personne à charge <br/>
 </td>
-<td>
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>7 762<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Personne isolée ou couple avec une personne à charge </p>
+<td align="left" valign="middle">
+<br/>-deux personnes à charge <br/>
 </td>
-<td>
-<p align="center">150,3</p>
-</td>
-<td>
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>7 938<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Personne isolée ou couple avec deux personnes à charge </p>
+<td align="left" valign="middle">
+<br/>-trois personnes à charge <br/>
 </td>
-<td>
-<p align="center">180,3 </p>
-</td>
-<td>
-<p align="center">32 </p>
+<td align="center" valign="middle">
+<br/>8 242<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Majoration par personne à charge supplémentaire </p>
+<td align="left" valign="middle">
+<br/>-quatre personnes à charge <br/>
 </td>
-<td>
-<p align="center">40 </p>
+<td align="center" valign="middle">
+<br/>8 547<br/>
 </td>
-<td>
-<p align="center">41 </p>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>-cinq personnes à charge <br/>
+</td>
+<td align="center" valign="middle">
+<br/>8 851<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>-six personnes à charge <br/>
+</td>
+<td align="center" valign="middle">
+<br/>9 156<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>-par personne à charge supplémentaire <br/>
+</td>
+<td align="center" valign="middle">
+<br/>304<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles et le montant de la base mensuelle des allocations familiales sont ceux en vigueur au 1er janvier de l'année civile de référence définie à l'article R. 351-5 du code de la construction et de l'habitation.
-
-Le résultat, multiplié par douze, est arrondi à l'euro le plus proche et affecté d'un abattement calculé suivant les règles applicables en matière d'imposition aux traitements et salaires prévues au deuxième alinéa du 3° de l'article 83 du code général des impôts.
+</div>
