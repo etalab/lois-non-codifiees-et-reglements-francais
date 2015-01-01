@@ -1,0 +1,11 @@
+# Article 315-67
+
+I.-Constitue un dispositif de traitement automatisé, au sens de l'article L. 451-4 du code monétaire et financier, tout algorithme informatique de négociation d'instruments financiers sur un marché réglementé ou sur un système multilatéral de négociation qui détermine automatiquement les paramètres des ordres tels que l'opportunité et le moment de leur émission, les conditions de prix ou de quantité ainsi que la façon dont ils seront gérés après leur émission, sans intervention humaine ou avec une intervention humaine limitée, à l'exclusion des systèmes utilisés pour se conformer à l'article L. 533-18 du code monétaire et financier.
+
+II.-Le prestataire de services d'investissement recourant à un ou plusieurs dispositifs de traitement automatisé, qui émet des ordres sur des titres de sociétés dont le siège social est localisé en France, notifie leur utilisation à l'AMF dans le mois qui suit leur mise en fonctionnement. La notification mentionne le marché réglementé ou le système multilatéral de négociation vers lequel les ordres sont transmis.
+
+Le prestataire de services d'investissement se dote de procédures et d'une organisation interne permettant de conserver pendant une durée de cinq ans l'algorithme de négociation, la traçabilité de chaque transaction et de chaque ordre émis par celui-ci, y compris ses caractéristiques, les modifications et l'annulation dont il a pu faire l'objet. Il tient l'ensemble de ces informations à la disposition de l'AMF.
+
+Lorsqu'un prestataire de services d'investissement fournit à ses clients un service de réception et de transmission d'ordres ou d'exécution d'ordres via internet au travers d'un outil doté d'une fonctionnalité définie au premier alinéa du II, il procède à la notification en lieu et place de ses clients et se dote de procédures et d'une organisation qui répondent aux exigences énoncées à l'alinéa précédent.
+
+III.-Les dispositions du présent article sont applicables à toute personne recourant à un ou plusieurs dispositifs de traitement automatisé. S'agissant des personnes non résidentes, ces dispositions ne sont applicables que si les ordres sont transmis sur un marché réglementé ou un système multilatéral de négociation situé en France.

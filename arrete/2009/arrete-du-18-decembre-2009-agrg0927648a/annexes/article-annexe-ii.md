@@ -20,15 +20,11 @@ e) Lot d'oiseaux : un ensemble d'oiseaux de même espèce et de même âge.
 articles R. 231-13 à R. 231-15 du code rural et de la pêche maritime
 , et notamment de l'obligation de déclaration, est soumis aux conditions définies ci-après :
 
--le producteur est détenteur, dans un ou plusieurs établissement (s), d'un effectif total de volailles présentes inférieur à 250 animaux adultes ;
-
 -le producteur respecte les dispositions sanitaires de la présente annexe et les règles de commercialisation prévues à l'article 9.
 
 Section II
 
-Dispositions générales d'hygiène applicables
-
-à la production d'œufs et aux opérations connexes
+Dispositions générales d'hygiène applicables à la production d'œufs et aux opérations connexes
 
 Chapitre 1er
 
