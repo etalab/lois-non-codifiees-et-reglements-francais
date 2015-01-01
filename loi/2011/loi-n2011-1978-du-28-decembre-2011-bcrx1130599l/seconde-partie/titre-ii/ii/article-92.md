@@ -16,6 +16,6 @@ II. ― Le Gouvernement transmet au Parlement, avant le dépôt du projet de loi
 
 5° Un rapport sur la mise en œuvre de la politique nationale en faveur des personnes handicapées ;
 
-6° Un rapport faisant état de la mise en œuvre du  revenu de solidarité active, du produit des ressources qui lui sont  affectées et de l'équilibre financier du Fonds national des solidarités  actives ;
+6° Un rapport faisant état de la mise en œuvre du revenu de solidarité active, du produit des ressources qui lui sont affectées et de l'équilibre financier du Fonds national des solidarités actives ;
 
-7° Un rapport détaillé sur l'évolution des zones urbaines sensibles et des zones franches urbaines.
+7° Un rapport détaillé sur l'évolution des quartiers prioritaires de la politique de la ville et des zones franches urbaines-territoires entrepreneurs.
