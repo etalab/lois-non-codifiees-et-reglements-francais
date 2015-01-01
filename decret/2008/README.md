@@ -953,7 +953,6 @@
 - [Décret n°2008-862 du 27 août 2008 (MENH0809609D)](decret-n2008-862-du-27-aout-2008-menh0809609d)
 - [Décret n°2008-863 du 27 août 2008 (SJSH0812717D)](decret-n2008-863-du-27-aout-2008-sjsh0812717d)
 - [Décret n°2008-499 du 27 mai 2008 (IOCB0773214D)](decret-n2008-499-du-27-mai-2008-iocb0773214d)
-- [Décret n°2008-500 du 27 mai 2008 (IOCB0806695D)](decret-n2008-500-du-27-mai-2008-iocb0806695d)
 - [Décret n°2008-1094 du 28 octobre 2008 (BCFB0815182D)](decret-n2008-1094-du-28-octobre-2008-bcfb0815182d)
 - [Décret n°2008-1095 du 28 octobre 2008 (DEVS0771878D)](decret-n2008-1095-du-28-octobre-2008-devs0771878d)
 - [Décret n°2008-1096 du 28 octobre 2008 (DEVA0810981D)](decret-n2008-1096-du-28-octobre-2008-deva0810981d)
