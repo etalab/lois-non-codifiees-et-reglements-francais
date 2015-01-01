@@ -14,7 +14,7 @@ I.-Pour les personnels administratifs de catégories A, B et C, les commissions 
 
 II.-Par dérogation au premier alinéa de l'article 3 du décret du 28 mai 1982 susvisé, les actes soumis à l'avis des commissions administratives paritaires locales placées auprès des préfets de région, du préfet de Corse et des représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie et ne comportant pas une appréciation des mérites respectifs des agents peuvent être pris par les autorités suivantes :
 
-1° Les préfets de zone de défense et de sécurité pour les personnels en fonctions dans les services du ressort de la zone de défense et de sécurité et, en outre-mer, les préfets auprès desquels sont placés les services administratifs et technique de la police pour les personnels en fonctions dans les services de la police nationale ;
+1° Les préfets de zone de défense et de sécurité pour les personnels en fonctions dans les services du ressort de la zone de défense et de sécurité et, en outre-mer, les préfets auprès desquels sont placés les secrétariats généraux pour l'administration de la police pour les personnels en fonctions dans les services de la police nationale ;
 
 2° Les commandants de région de gendarmerie, commandant la zone de défense et de sécurité, pour les personnels en fonction dans les services de la gendarmerie nationale de leur ressort ;
 

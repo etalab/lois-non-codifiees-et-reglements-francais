@@ -20,7 +20,7 @@ III.-Par dérogation au premier alinéa de l'article 3 du décret du 28 mai 1982
 
 3° Les préfets des départements d'outre-mer ainsi que les représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie pour les personnels en fonction dans leur ressort ;
 
-4° Les chefs des services administratifs et techniques de la police pour les personnels en fonction dans leurs services ;
+4° Les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police pour les personnels en fonction dans leurs services ;
 
 5° Le commandant de région de gendarmerie, commandant la zone de défense et de sécurité de Paris, pour les personnels en fonction dans les services de la gendarmerie nationale de son ressort ;
 

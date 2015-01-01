@@ -24,7 +24,7 @@ III. - En ce qui concerne l'affectation aux emplois pour les corps et emplois fi
 
 3° Au préfet de la région Ile-de-France, préfet de Paris, pour les personnels en fonction dans ses services ;
 
-4° Aux préfets de zone de défense et de sécurité et aux préfets sous l'autorité desquels sont placés les services administratifs et techniques de la police pour les personnels en fonction dans leurs services et les services de police nationale de leur zones de compétence ;
+4° Aux préfets de zone de défense et de sécurité et aux préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police pour les personnels en fonction dans leurs services et les services de police nationale de leur zones de compétence ;
 
 5° (abrogé)
 
@@ -42,7 +42,7 @@ IV. - En ce qui concerne les autres actes mentionnés par arrêté, selon la nat
 
 3° Aux préfets de région, au préfet de Corse, au préfet de la région Ile-de-France, préfet de Paris et au représentant de l'Etat en Nouvelle-Calédonie pour les personnels en fonctions dans les services implantés, respectivement, dans la région, en Corse, en Ile-de-France et en Nouvelle-Calédonie.
 
-4° Aux préfets de zone de défense et de sécurité pour les personnels en fonctions dans les services implantés dans le ressort de la zone de défense et de sécurité et aux préfets sous l'autorité desquels sont placés les services administratifs et techniques de la police pour les personnels en fonctions dans leurs services ;
+4° Aux préfets de zone de défense et de sécurité pour les personnels en fonctions dans les services implantés dans le ressort de la zone de défense et de sécurité et aux préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police pour les personnels en fonctions dans leurs services ;
 
 5° Aux commandants de formations administratives de la gendarmerie nationale pour les personnels en fonctions dans leurs services ;
 
