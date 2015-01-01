@@ -5,10 +5,10 @@
 <tbody>
 <tr>
 <td>
-<p align="center"> EMPLOI OU FONCTION</p>
+<p align="center">EMPLOI OU FONCTION</p>
 </td>
 <td>
-<p align="center"> COMMISSION PERMANENTE COMPÉTENTE AU SEIN<br/>de chaque assemblée</p>
+<p align="center">COMMISSION PERMANENTE COMPÉTENTE AU SEIN<br/>de chaque assemblée</p>
 </td>
 </tr>
 <tr>
@@ -434,8 +434,16 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Président du conseil de surveillance de la SNCF </p>
+</td>
+<td>
+<p align="left">Commission compétente en matière de transports </p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">Président du conseil d'administration de Réseau ferré de France</p>
+<p align="left">Président du directoire de la SNCF</p>
 </td>
 <td align="center">
 <p align="left">Commission compétente en matière de transports</p>
@@ -443,8 +451,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Président du conseil d'administration de la Société nationale des chemins de fer français <br/>
-</p>
+<p align="left">Président délégué du directoire de la SNCF</p>
 </td>
 <td align="center">
 <p align="left">Commission compétente en matière de transports<br/>
