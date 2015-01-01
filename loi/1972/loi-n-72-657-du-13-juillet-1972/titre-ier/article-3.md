@@ -10,7 +10,7 @@ La surface de vente des magasins de commerce de détail prise en compte pour le 
 
 La surface de vente à retenir pour le calcul de la taxe est celle existant au 31 décembre de l'année précédant l'année d'imposition pour les établissements existant à cette date.
 
-Les établissements situés à l'intérieur des zones urbaines sensibles bénéficient d'une franchise de 1 500 euros sur le montant de la taxe dont ils sont redevables.
+Les établissements situés à l'intérieur des quartiers prioritaires de la politique de la ville bénéficient d'une franchise de 1 500 euros sur le montant de la taxe dont ils sont redevables.
 
 Si ces établissements, à l'exception de ceux dont l'activité principale est la vente ou la réparation de véhicules automobiles, ont également une activité de vente au détail de carburants, l'assiette de la taxe comprend en outre une surface calculée forfaitairement en fonction du nombre de position de ravitaillement dans la limite de 70 mètres carrés par position de ravitaillement. Le décret prévu à l'article 20 fixe la surface forfaitaire par emplacement à un montant compris entre 35 et 70 mètres carrés.
 
@@ -34,10 +34,12 @@ A l'exclusion des établissements dont l'activité principale est la vente ou la
 
 ― ou l'établissement et une installation de distribution au détail de carburants sont contrôlés directement ou indirectement par une même personne.
 
-Un décret prévoira, par rapport aux taux ci-dessus, des réductions pour les professions dont l'exercice à titre principal  requiert des superficies de vente anormalement élevées ou, en fonction de leur chiffre d'affaires au mètre carré, pour les établissements dont la surface des locaux de vente destinés à la vente au détail est comprise entre 400 et 600 mètres carrés. Le montant de la taxe est majoré de 30 % pour les établissements dont la superficie est supérieure à 5 000 mètres carrés et dont le chiffre d'affaires annuel hors taxes est supérieur à 3 000 euros par mètre carré.
+Un décret prévoira, par rapport aux taux ci-dessus, des réductions pour les professions dont l'exercice à titre principal requiert des superficies de vente anormalement élevées ou, en fonction de leur chiffre d'affaires au mètre carré, pour les établissements dont la surface des locaux de vente destinés à la vente au détail est comprise entre 400 et 600 mètres carrés. Le montant de la taxe est majoré de 30 % pour les établissements dont la superficie est supérieure à 5 000 mètres carrés et dont le chiffre d'affaires annuel hors taxes est supérieur à 3 000 euros par mètre carré.
 
 La taxe ne s'applique pas aux établissements dont le chiffre d'affaires annuel est inférieur à 460 000 euros.
 
 Les dispositions prévues à l'article L. 651-5 du code de la sécurité sociale sont applicables pour la détermination du chiffre d'affaires imposable.
 
 Les mêmes taxes frappent les coopératives de consommation et celles d'entreprises privées ou nationalisées et d'entreprises publiques.
+
+Le montant de la taxe calculé selon le présent article et avant application de la modulation prévue au cinquième alinéa du 1.2.4.1 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010 est majoré de 50 % pour les établissements dont la surface de vente excède 2 500 mètres carrés. Le produit de cette majoration est affecté au budget de l'Etat.

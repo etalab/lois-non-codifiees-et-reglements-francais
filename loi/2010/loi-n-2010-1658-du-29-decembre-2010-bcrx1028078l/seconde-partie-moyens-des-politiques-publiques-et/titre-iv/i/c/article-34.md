@@ -16,6 +16,8 @@ III.-La valeur locative des propriétés bâties mentionnées au I est obtenue p
 
 IV.-A.-Il est constitué, dans chaque département, un ou plusieurs secteurs d'évaluation qui regroupent les communes ou sections cadastrales de communes qui, dans le département, présentent un marché locatif homogène.
 
+Pour l'application des dispositions du présent article, le territoire de la métropole de Lyon est, avec le territoire du département du Rhône, assimilé au territoire d'un département.
+
 B.-Les tarifs par mètre carré sont déterminés sur la base des loyers moyens constatés dans chaque secteur d'évaluation par catégorie de propriétés à la date de référence mentionnée au I pour l'entrée en vigueur de la révision et au second alinéa du X pour les années suivantes.
 
 A défaut, lorsque les loyers sont en nombre insuffisant ou ne peuvent être retenus, ces tarifs sont déterminés par comparaison avec les tarifs fixés pour les autres catégories de locaux du même sous-groupe du même secteur d'évaluation.
@@ -58,19 +60,27 @@ S'il y a accord entre les commissions communales et intercommunales consultées 
 
 4. En cas de désaccord persistant pendant plus d'un mois après réception des avis mentionnés au premier alinéa du 3 entre la commission départementale des valeurs locatives des locaux professionnels et l'une des commissions communales et intercommunales consultées, ou lorsque la décision prévue au second alinéa du même 3 n'est pas conforme aux projets approuvés par les commissions communales et intercommunales consultées, l'administration fiscale saisit sans délai la commission départementale des impôts directs locaux.
 
+5. Les projets de délimitation des secteurs d'évaluation et des tarifs élaborés par la commission des valeurs locatives des locaux professionnels du département du Rhône ou, le cas échéant, les avant-projets définis par l'administration fiscale conservent leurs effets sur le territoire de la métropole de Lyon.
+
 B. ― Lorsqu'elle est saisie en application du 4 du A, la commission départementale des impôts directs locaux statue dans un délai de trente jours. A défaut de décision dans ce délai, les secteurs d'évaluation, les tarifs et les coefficients de localisation sont arrêtés par le représentant de l'Etat dans le département.
 
 Ces décisions sont publiées et notifiées dans des conditions fixées par décret en Conseil d'Etat.
 
 C. ― Les modalités d'application des A et B sont fixées par décret en Conseil d'Etat.
 
-Création des commissions départementales es valeurs locatives des locaux professionnels
+Création des commissions départementales des valeurs locatives des locaux professionnels
 
 VIII.-Il est institué dans chaque département une commission départementale des valeurs locatives des locaux professionnels comprenant deux représentants de l'administration fiscale, dix représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre, ainsi que neuf représentants des contribuables désignés par le représentant de l'Etat dans le département.
 
 Les représentants de l'administration fiscale participent aux travaux de la commission avec voix consultative.
 
-Pour le département de Paris, les représentants des élus locaux sont dix membres en exercice du conseil de Paris. Pour les autres départements, ces représentants comprennent deux membres en exercice du conseil général, quatre maires en exercice et quatre représentants en exercice des établissements publics de coopération intercommunale à fiscalité propre. Le président de la commission est élu parmi les représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre. Il a voix prépondérante en cas de partage égal.
+Pour le département de Paris, les représentants des élus locaux sont dix membres en exercice du conseil de Paris.
+
+La commission départementale des valeurs locatives des locaux professionnels du département du Rhône est compétente pour le département du Rhône et le territoire de la métropole de Lyon. Elle est dénommée commission départementale des valeurs locatives des locaux professionnels du département du Rhône et de la métropole de Lyon. Au sein de cette commission, à compter du 1er janvier de l'année d'intégration des résultats de la révision des valeurs locatives des locaux professionnels dans les bases des impôts directs locaux, les représentants des élus locaux sont : un membre en exercice du conseil général et trois membres du conseil de la métropole, deux maires en exercice représentant les communes du département du Rhône et deux maires en exercice représentant les communes situées sur le territoire de la métropole de Lyon et deux représentants en exercice des établissements publics de coopération intercommunale à fiscalité propre.
+
+Pour les autres départements, ces représentants comprennent deux membres en exercice du conseil général, quatre maires en exercice et quatre représentants en exercice des établissements publics de coopération intercommunale à fiscalité propre.
+
+Le président de la commission est élu parmi les représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre. Il a voix prépondérante en cas de partage égal.
 
 Les modalités d'application du présent VIII sont fixées par décret en Conseil d'Etat.
 
@@ -78,23 +88,29 @@ Création des commissions départementales es impôts directs locaux
 
 IX.-Il est institué dans chaque département une commission départementale des impôts directs locaux présidée par le président du tribunal administratif territorialement compétent ou un membre de ce tribunal délégué par lui. Cette commission comprend trois représentants de l'administration fiscale, six représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre, ainsi que cinq représentants des contribuables désignés par le représentant de l'Etat dans le département.
 
-Pour le département de Paris, les représentants des élus locaux sont six membres en exercice du conseil de Paris. Pour les autres départements, ces représentants comprennent un membre en exercice du conseil général, trois maires en exercice et deux représentants en exercice des établissements publics de coopération intercommunale à fiscalité propre.
+Pour le département de Paris, les représentants des élus locaux sont six membres en exercice du conseil de Paris.
+
+La commission départementale des impôts directs locaux du département du Rhône est compétente pour le département du Rhône et le territoire de la métropole de Lyon. Elle est dénommée commission départementale des impôts directs locaux du département du Rhône et de la métropole de Lyon. A compter du 1er janvier 2015, les représentants des élus locaux au sein de cette commission sont : un membre en exercice du conseil général, deux membres en exercice du conseil de la métropole de Lyon, un maire en exercice représentant les communes du département du Rhône, un maire en exercice représentant les communes situées sur le territoire de la métropole de Lyon et un représentant en exercice des établissements publics de coopération intercommunale à fiscalité propre.
+
+Pour les autres départements, ces représentants comprennent un membre en exercice du conseil général, trois maires en exercice et deux représentants en exercice des établissements publics de coopération intercommunale à fiscalité propre.
 
 Les modalités d'application du présent IX sont fixées par décret en Conseil d'Etat.
 
 Dispositif de mise à jour permanente
 
-X.-Les tarifs de chaque catégorie dans chaque secteur d'évaluation sont mis à jour par l'administration fiscale à partir de l'évolution des loyers constatés dans les déclarations prévues à l'article 1498 bis du code général des impôts chaque année à compter de l'année qui suit celle de la prise en compte des résultats de la révision pour l'établissement des bases. Lorsque ces loyers sont en nombre insuffisant ou ne peuvent, compte tenu de leur montant par rapport au montant du loyer moyen du secteur d'évaluation, être retenus, ces tarifs sont mis à jour dans les conditions prévues au second alinéa du XIII. Ces tarifs sont publiés et notifiés dans des conditions fixées par décret en Conseil d'Etat.
+X.-Les tarifs de chaque catégorie dans chaque secteur d'évaluation sont mis à jour par l'administration fiscale à partir de l'évolution des loyers constatés dans les déclarations prévues à l'article 1498 bis du code général des impôts chaque année à compter de l'année qui suit celle de la prise en compte des résultats de la révision pour l'établissement des bases. Lorsque ces loyers sont en nombre insuffisant ou ne peuvent, compte tenu de leur montant par rapport au montant du loyer moyen du secteur d'évaluation, être retenus, ces tarifs sont mis à jour dans les conditions prévues au deuxième alinéa ou, pour les propriétés situées sur le territoire de la métropole de Lyon, au troisième alinéa du XIII. Ces tarifs sont publiés et notifiés dans des conditions fixées par décret en Conseil d'Etat.
 
 Lorsque de nouveaux tarifs sont créés, ils sont établis conformément aux modalités fixées au B du IV à la date de référence du 1er janvier de l'année précédant celle de la création du tarif et arrêtés conformément au VII du présent article. La date de référence retenue pour l'évaluation par appréciation directe de nouveaux locaux relevant de la méthode définie au VI est le 1er janvier de l'année de création du local.
 
-XI.-La commission départementale des valeurs locatives des locaux professionnels prévue au VIII peut modifier chaque année l'application des coefficients de localisation mentionnés au B du IV, après avis des commissions communales ou intercommunales des impôts directs prévues aux articles 1650 et 1650 A du code général des impôts. Les décisions de la commission sont publiées et notifiées dans des conditions fixées par décret en Conseil d'Etat et doivent être transmises à l'administration fiscale avant le 31 décembre de l'année précédant celle de leur prise en compte pour l'établissement des bases. Ces modifications pourront intervenir à compter des impositions établies au titre de l'année 2016.
+XI.-La commission départementale des valeurs locatives des locaux professionnels prévue au VIII peut modifier chaque année l'application des coefficients de localisation mentionnés au B du IV, après avis des commissions communales ou intercommunales des impôts directs prévues aux articles 1650 et 1650 A du code général des impôts. Les décisions de la commission sont publiées et notifiées dans des conditions fixées par décret en Conseil d'Etat et doivent être transmises à l'administration fiscale avant le 31 décembre de l'année précédant celle de leur prise en compte pour l'établissement des bases. Ces modifications pourront intervenir à compter des impositions établies au titre de l'année 2017.
 
 XII.-Il est procédé à la délimitation des secteurs d'évaluation dans les conditions mentionnées au VII l'année qui suit le renouvellement général des conseils municipaux et au plus tôt quatre ans après la prise en compte des résultats de la révision pour l'établissement des bases prévue par le présent article.
 
 XIII.-La valeur locative des propriétés bâties mentionnées au I est mise à jour chaque année par application du tarif par mètre carré, déterminé conformément au X, à la surface pondérée du local définie au V.
 
 La valeur locative des propriétés bâties mentionnées au I évaluées par la voie d'appréciation directe prévue au VI du présent article et des immeubles relevant des articles 1500 et 1501 du code général des impôts est mise à jour, chaque année, par application d'un coefficient égal à celui de l'évolution, au niveau départemental, des loyers constatés dans les déclarations prévues à l'article 1498 bis du même code pour les locaux professionnels relevant des catégories qui regroupent le plus grand nombre de locaux et qui, ensemble, représentent au total plus de la moitié des locaux du département.
+
+La valeur locative des propriétés bâties mentionnées au deuxième alinéa situées sur le territoire de la métropole de Lyon est mise à jour par application d'un coefficient égal à celui de l'évolution des loyers constatés dans les déclarations prévues à l'article 1498 bis du même code pour les locaux professionnels relevant des catégories qui regroupent le plus grand nombre de locaux et qui, ensemble, représentent au total plus de la moitié des locaux du département du Rhône et de la métropole de Lyon.
 
 Voies de recours
 
@@ -104,7 +120,7 @@ XV.-Les décisions prises en application du VII autres que celles portant sur le
 
 Intégration des résultats de la révision des valeurs locatives des locaux professionnels dans les bases
 
-XVI.-Les résultats de la révision des valeurs locatives des locaux mentionnée au I sont pris en compte pour l'établissement des bases de l'année 2015.
+XVI.-Les résultats de la révision des valeurs locatives des locaux mentionnée au I sont pris en compte pour l'établissement des bases de l'année 2016.
 
 Pour l'application du premier alinéa, la valeur locative des propriétés bâties mentionnées au I du présent article est corrigée d'un coefficient égal au rapport entre :
 
@@ -127,7 +143,7 @@ A modifié les dispositions suivantes :
 > -Code général des impôts, CGI.
 > > Art. 1406, Art. 1496, Art. 1498 bis, Art. 1650 A, Art. 1729 C
 
-B.-Le 2° du A s'applique à compter du 1er janvier 2015, le 3° du A à compter du 1er janvier 2014 et le 4° du A pour l'exercice des compétences des commissions à compter du 1er janvier 2012.
+B.-Le 2° du A s'applique à compter du 1er janvier 2016, le 3° du A à compter du 1er janvier 2014 et le 4° du A pour l'exercice des compétences des commissions à compter du 1er janvier 2012.
 
 XIX A.-Livre des procédures fiscales
 
@@ -143,15 +159,15 @@ XXI.-Avant le 30 septembre 2011, le Gouvernement présente au Parlement un rappo
 
 Les propriétaires, dans ces départements, de locaux mentionnés au I souscrivent une déclaration précisant la nature, la destination, l'utilisation, les caractéristiques physiques, la situation et la consistance de chacune de leurs propriétés, ainsi que le montant annuel du loyer exigible au 1er janvier 2011. L'article 1729 C du code général des impôts est applicable à cette déclaration. Les modalités d'application du présent XXI sont fixées par arrêté des ministres chargés de l'économie et du budget.
 
-XXII.-A.-Des exonérations partielles d'impôts directs locaux sont accordées au titre des années 2015 à 2018 lorsque la différence entre la cotisation établie au titre de l'année 2015 et la cotisation qui aurait été établie au titre de cette même année sans application du XVI du présent article est supérieure à 200 € et à 10 % du second terme de cette différence.
+XXII.-A.-Des exonérations partielles d'impôts directs locaux sont accordées au titre des années 2016 à 2019 lorsque la différence entre la cotisation établie au titre de l'année 2016 et la cotisation qui aurait été établie au titre de cette même année sans application du XVI du présent article est supérieure à 200 € et à 10 % du second terme de cette différence.
 
-Pour chaque impôt, l'exonération est égale à quatre cinquièmes de la différence définie au premier alinéa du présent A pour les impositions établies au titre de l'année 2015, puis réduite d'un cinquième de cette différence chaque année.
+Pour chaque impôt, l'exonération est égale à quatre cinquièmes de la différence définie au premier alinéa du présent A pour les impositions établies au titre de l'année 2016, puis réduite d'un cinquième de cette différence chaque année.
 
 L'exonération cesse d'être accordée à compter de l'année qui suit celle au cours de laquelle la propriété ou fraction de propriété fait l'objet d'un des changements mentionnés au I de l'article 1406 du code général des impôts.
 
-B.-Les impôts directs locaux établis au titre des années 2015 à 2018 sont majorés lorsque la différence entre la cotisation qui aurait été établie au titre de l'année 2015 sans application du XVI du présent article et la cotisation établie au titre de cette même année est supérieure à 200 € et à 10 % du second terme de cette différence.
+B.-Les impôts directs locaux établis au titre des années 2016 à 2019 sont majorés lorsque la différence entre la cotisation qui aurait été établie au titre de l'année 2016 sans application du XVI du présent article et la cotisation établie au titre de cette même année est supérieure à 200 € et à 10 % du second terme de cette différence.
 
-Pour chaque impôt, la majoration est égale à quatre cinquièmes de la différence définie au premier alinéa du présent B pour les impositions établies au titre de l'année 2015, puis réduite d'un cinquième de cette différence chaque année.
+Pour chaque impôt, la majoration est égale à quatre cinquièmes de la différence définie au premier alinéa du présent B pour les impositions établies au titre de l'année 2016, puis réduite d'un cinquième de cette différence chaque année.
 
 Cette majoration est supprimée à compter de l'année qui suit celle au cours de laquelle la propriété ou fraction de propriété fait l'objet d'un des changements mentionnés au I de l'article 1406 du code général des impôts.
 
@@ -180,6 +196,6 @@ XX.-A abrogé les dispositions suivantes :
 
 > -Loi n° 90-669 du 30 juillet 1990
 
-> Art. 1, Sct. TITRE Ier : MODALITÉS D'ÉVALUATION DES PROPRIÉTÉS BÂTIES, Sct. CHAPITRE Ier : Dispositions générales., Art. 2, Art. 3, Art. 4, Sct. CHAPITRE II : Dispositions applicables à la révision., Art. 5, Art. 6, Art. 7, Sct. CHAPITRE III : Procédure d'évaluation., Art. 8, Art. 10, Art. 11, Art. 12, Sct. TITRE II : MODALITÉS D'ÉVALUATION DES PROPRIÉTÉS NON BÂTIES, Sct. CHAPITRE Ier : Dispositions générales., Art. 13, Art. 14, Art. 15, Art. 16, Sct. CHAPITRE II : Dispositions applicables à la révision.,  Art. 17 , Art. 18 , Art. 19, Art. 20,  Art. 21 , Art. 22, Art. 23, Sct. CHAPITRE III : Procédure d'évaluation., Art. 24, Art. 25, Art. 26, Art. 27, Art. 28, Sct. TITRE III : DISPOSITIONS COMMUNES., Art. 29, Art. 30, Art. 31, Art. 32, Art. 33,  Art. 34 , Sct. TITRE IV : DISPOSITIONS APPLICABLES ENTRE DEUX RÉVISIONS GÉNÉRALES,  Sct. CHAPITRE Ier : Propriétés bâties., Art. 35, Sct. CHAPITRE II : Propriétés non bâties., Art. 36, Art. 37, Art. 38,  Art. 39 , Art. 40 , Sct. CHAPITRE III : Dispositions communes., Art. 41,  Art. 42 , Sct. TITRE V : MISE EN OEUVRE DE LA RÉVISION, Sct. CHAPITRE Ier : Composition du comité de délimitation des secteurs d'évaluation, de la commission départementale des évaluations cadastrales et de la commission départementale des impôts directs locaux.,  Art. 43 , Art. 44, Art. 45, Sct. CHAPITRE II : Dispositions applicables l'année de l'entrée en vigueur des résultats de la prochaine révision et dispositions diverses., Art. 46, Art. 47 , Art. 48, Art. 49, Art. 50, Art. 51, Art. 52, Art. 53, Art. 54, Art. 55, Art. 56, Art. 57, Art. 58, Art. 59, Art. 60
+> Art. 1, Sct. TITRE Ier : MODALITÉS D'ÉVALUATION DES PROPRIÉTÉS BÂTIES, Sct. CHAPITRE Ier : Dispositions générales., Art. 2, Art. 3, Art. 4, Sct. CHAPITRE II : Dispositions applicables à la révision., Art. 5, Art. 6, Art. 7, Sct. CHAPITRE III : Procédure d'évaluation., Art. 8, Art. 10, Art. 11, Art. 12, Sct. TITRE II : MODALITÉS D'ÉVALUATION DES PROPRIÉTÉS NON BÂTIES, Sct. CHAPITRE Ier : Dispositions générales., Art. 13, Art. 14, Art. 15, Art. 16, Sct. CHAPITRE II : Dispositions applicables à la révision., Art. 17 , Art. 18, Art. 19, Art. 20, Art. 21, Art. 22, Art. 23, Sct. CHAPITRE III : Procédure d'évaluation., Art. 24, Art. 25, Art. 26, Art. 27, Art. 28, Sct. TITRE III : DISPOSITIONS COMMUNES., Art. 29, Art. 30, Art. 31, Art. 32, Art. 33, Art. 34, Sct. TITRE IV : DISPOSITIONS APPLICABLES ENTRE DEUX RÉVISIONS GÉNÉRALES, Sct. CHAPITRE Ier : Propriétés bâties., Art. 35, Sct. CHAPITRE II : Propriétés non bâties., Art. 36, Art. 37, Art. 38, Art. 39 , Art. 40, Sct. CHAPITRE III : Dispositions communes., Art. 41, Art. 42, Sct. TITRE V : MISE EN OEUVRE DE LA RÉVISION, Sct. CHAPITRE Ier : Composition du comité de délimitation des secteurs d'évaluation, de la commission départementale des évaluations cadastrales et de la commission départementale des impôts directs locaux., Art. 43, Art. 44, Art. 45, Sct. CHAPITRE II : Dispositions applicables l'année de l'entrée en vigueur des résultats de la prochaine révision et dispositions diverses., Art. 46, Art. 47 , Art. 48, Art. 49, Art. 50, Art. 51, Art. 52, Art. 53, Art. 54, Art. 55, Art. 56, Art. 57, Art. 58, Art. 59, Art. 60
 
 > <div/>
