@@ -8,4 +8,6 @@ La liste des établissements publics de l'Etat mentionnée au second alinéa du 
 
 3° Voies navigables de France ;
 
-4° La Régie autonome des transports parisiens.
+4° La Régie autonome des transports parisiens ;
+
+5° Les établissements publics de santé.
