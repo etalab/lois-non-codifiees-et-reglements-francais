@@ -88,9 +88,9 @@ Le directeur de l'Ecole nationale de l'aviation civile (ENAC).
 
 Le directeur de l'Ecole nationale d'application des géosciences (ENAG).
 
-Le directeur de l'Ecole des ponts - ParisTech (ENPC).
+Le directeur de l'Ecole des ponts-ParisTech (ENPC).
 
-Les directeurs des écoles des affaires maritimes - centre de formation et de documentation des affaires maritimes.
+Les directeurs des écoles des affaires maritimes-centre de formation et de documentation des affaires maritimes.
 
 Le directeur de l'Ecole nationale supérieure des sciences géographiques (ENSG).
 
@@ -120,13 +120,13 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'aéroport de Bâle-Mulhouse ;
 
-― l'Agence de financement des infrastructures  de transport de France (AFITF) ;
+― l'Agence de financement des infrastructures de transport de France (AFITF) ;
 
 ― l'Agence foncière et technique de la région parisienne (AFTRP) ;
 
 ― les agences de l'eau (Adour-Garonne, Artois-Picardie, Loire-Bretagne, Rhin-Meuse, Rhône-Méditerranée et Corse, Seine-Normandie) ;
 
-― les agences pour la mise en valeur des espaces urbains de la zone dite  des 50 pas géométriques  (Guadeloupe, Martinique) ;
+― les agences pour la mise en valeur des espaces urbains de la zone dite des 50 pas géométriques (Guadeloupe, Martinique) ;
 
 ― l'Agence nationale de l'habitat (Anah) ;
 
@@ -134,7 +134,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Agence nationale pour la gestion des déchets radioactifs (ANDRA) ;
 
-― l'Agence nationale pour la participation des employeurs à l'effort de construction (ANPEEC) ;
+― l'Agence nationale de contrôle du logement social ;
 
 ― l'Agence nationale pour la rénovation urbaine (ANRU) ;
 
@@ -166,7 +166,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Etablissement public de sécurité ferroviaire (EPSF) ;
 
-― les grands ports maritimes (Bordeaux, Dunkerque, Le Havre, Marseille, Nantes - Saint-Nazaire, La Rochelle, Rouen) ;
+― les grands ports maritimes (Bordeaux, Dunkerque, Le Havre, Marseille, Nantes-Saint-Nazaire, La Rochelle, Rouen) ;
 
 ― IFP Energies nouvelles ;
 

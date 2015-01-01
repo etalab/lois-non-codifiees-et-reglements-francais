@@ -136,7 +136,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Agence nationale pour la gestion des déchets radioactifs (ANDRA) ;
 
-― l'Agence nationale pour la participation des employeurs à l'effort de construction (ANPEEC) ;
+― l'Agence nationale de contrôle du logement social ;
 
 ― l'Agence nationale pour la rénovation urbaine (ANRU) ;
 
@@ -174,7 +174,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Institut français de recherche pour l'exploitation de la mer (IFREMER) ;
 
-― l'     Institut national de l'information géographique et forestière ;
+― l'Institut national de l'information géographique et forestière ;
 
 ― l'Institut national de l'environnement industriel et des risques (INERIS) ;
 

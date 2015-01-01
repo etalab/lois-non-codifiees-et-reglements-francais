@@ -12,7 +12,7 @@ La liste des emplois de direction d'établissements publics nationaux mentionné
 
 -le directeur général de l'Agence nationale pour les chèques vacances ;
 
--le directeur général de l'Agence nationale pour la participation des employeurs à l'effort de construction ;
+-le directeur général de l'            Agence nationale de contrôle du logement social  ;
 
 -le directeur général de la caisse de garantie du logement locatif social ;
 
@@ -60,7 +60,7 @@ La liste des emplois de direction d'établissements publics nationaux mentionné
 
 -le directeur général de l'Etablissement public foncier de Provence-Alpes-Côte d'Azur ;
 
--le directeur général de l'  Institut national de l'information géographique et forestière ;
+-le directeur général de l'Institut national de l'information géographique et forestière ;
 
 -le directeur général de l'Institut national de recherche sur les transports et leur sécurité ;
 

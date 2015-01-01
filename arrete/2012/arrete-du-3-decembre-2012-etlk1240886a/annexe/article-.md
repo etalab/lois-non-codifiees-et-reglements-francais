@@ -84,9 +84,9 @@ Le directeur de l'Ecole nationale de l'aviation civile (ENAC).
 
 Le directeur de l'Ecole nationale d'application des géosciences (ENAG).
 
-Le directeur de l'Ecole des ponts - ParisTech (ENPC).
+Le directeur de l'Ecole des ponts-ParisTech (ENPC).
 
-Les directeurs des écoles des affaires maritimes - centre de formation et de documentation des affaires maritimes.
+Les directeurs des écoles des affaires maritimes-centre de formation et de documentation des affaires maritimes.
 
 Le directeur de l'Ecole nationale supérieure des sciences géographiques (ENSG).
 
@@ -130,7 +130,7 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Agence nationale pour la gestion des déchets radioactifs (ANDRA) ;
 
-― l'Agence nationale pour la participation des employeurs à l'effort de construction (ANPEEC) ;
+― l'Agence nationale de contrôle du logement social ;
 
 ― l'Agence nationale pour la rénovation urbaine (ANRU) ;
 
@@ -158,11 +158,11 @@ Les directeurs d'établissements publics sous tutelle du ministère, dont :
 
 ― l'Etablissement public national d'aménagement et de restructuration des espaces commerciaux et artisanaux (EPARECA) ;
 
-― les établissements publics fonciers : Bretagne, Hauts-de-Seine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord - Pas-de-Calais, Normandie, Ouest Rhône-Alpes (EPORA), Poitou-Charentes, Provence-Alpes-Côte d'Azur, Val-d'Oise, Vendée, Yvelines) ;
+― les établissements publics fonciers : Bretagne, Hauts-de-Seine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord-Pas-de-Calais, Normandie, Ouest Rhône-Alpes (EPORA), Poitou-Charentes, Provence-Alpes-Côte d'Azur, Val-d'Oise, Vendée, Yvelines) ;
 
 ― l'Etablissement public de sécurité ferroviaire (EPSF) ;
 
-― les grands ports maritimes : Bordeaux, Dunkerque, Le Havre, Marseille, Nantes - Saint-Nazaire, La Rochelle, Rouen ;
+― les grands ports maritimes : Bordeaux, Dunkerque, Le Havre, Marseille, Nantes-Saint-Nazaire, La Rochelle, Rouen ;
 
 ― IFP Energies nouvelles ;
 

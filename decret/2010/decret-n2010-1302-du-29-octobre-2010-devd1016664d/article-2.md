@@ -40,7 +40,7 @@ Le directeur général de l'Agence nationale de l'habitat ;
 
 Le délégué général de l'Union sociale pour l'habitat ;
 
-Le directeur général de l'Agence nationale pour la participation des employeurs à l'effort de construction ;
+Le directeur général de l'            Agence nationale de contrôle du logement social  ;
 
 Le directeur général de l'Agence nationale d'information sur le logement,
 

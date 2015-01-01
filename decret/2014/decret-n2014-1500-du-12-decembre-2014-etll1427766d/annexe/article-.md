@@ -1,7 +1,5 @@
 # Article 
 
-ANNEXE
-
 Article 1er
 
 Forme
@@ -14,9 +12,9 @@ Elle est régie :
 
 2° Par les dispositions non contraires :
 
-- de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, notamment de son titre II bis ;
+-de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, notamment de son titre II bis ;
 
-- du livre II du code de commerce (parties législative et réglementaire), notamment les articles L. 231-1 à L. 231-8 du code de commerce en ce qui concerne la variabilité du capital social ;
+-du livre II du code de commerce (parties législative et réglementaire), notamment les articles L. 231-1 à L. 231-8 du code de commerce en ce qui concerne la variabilité du capital social ;
 
 3° Ainsi que par les présents statuts.
 
@@ -46,43 +44,43 @@ L'UESL a pour objet de :
 
 5° Veiller à :
 
-- la bonne application, dans les sociétés, mentionnées aux articles L. 422-2, L. 422-3 et L. 481-1 du code de la construction et de l'habitation dont les organismes collecteurs sont actionnaires de référence au sens de l'article L. 422-2-1 du code de la construction et de l'habitation, de la politique nationale de l'habitat et de rénovation urbaine définie dans les conventions conclues par l'Etat avec l'union regroupant les fédérations d'organismes d'habitations à loyer modéré ;
+-la bonne application, dans les sociétés, mentionnées aux articles L. 422-2, L. 422-3 et L. 481-1 du code de la construction et de l'habitation dont les organismes collecteurs sont actionnaires de référence au sens de l'article L. 422-2-1 du code de la construction et de l'habitation, de la politique nationale de l'habitat et de rénovation urbaine définie dans les conventions conclues par l'Etat avec l'union regroupant les fédérations d'organismes d'habitations à loyer modéré ;
 
-- permettre le regroupement des actions de ces mêmes sociétés détenues par les associés collecteurs sans pouvoir organiser de concentration nationale ;
+-permettre le regroupement des actions de ces mêmes sociétés détenues par les associés collecteurs sans pouvoir organiser de concentration nationale ;
 
-- donner des consignes de vote sur les décisions prises en assemblée des actionnaires ou des administrateurs de ces mêmes sociétés lorsqu'elles portent sur des opérations liées à leur capital ;
+-donner des consignes de vote sur les décisions prises en assemblée des actionnaires ou des administrateurs de ces mêmes sociétés lorsqu'elles portent sur des opérations liées à leur capital ;
 
-- assurer le respect des principes qu'elle fixe en matière de déontologie et de rémunération des dirigeants dans les organismes contrôlés par les associés collecteurs ou par elle-même ainsi que dans les groupements d'intérêt économique ou toute autre structure de coopération comprenant l'UESL ou un associé collecteur ;
+-assurer le respect des principes qu'elle fixe en matière de déontologie et de rémunération des dirigeants dans les organismes contrôlés par les associés collecteurs ou par elle-même ainsi que dans les groupements d'intérêt économique ou toute autre structure de coopération comprenant l'UESL ou un associé collecteur ;
 
-- l'équilibre entre les ressources et les emplois et la liquidité des associés collecteurs et des fonds mentionnés à l'article L. 313-20 du code de la construction et de l'habitation ;
+-l'équilibre entre les ressources et les emplois et la liquidité des associés collecteurs et des fonds mentionnés à l'article L. 313-20 du code de la construction et de l'habitation ;
 
 6° Assurer :
 
-- la coopération entre associés ;
+-la coopération entre associés ;
 
-- la coordination des tâches de collecte ;
+-la coordination des tâches de collecte ;
 
-- l'harmonisation des modalités d'emploi des fonds issus de la participation des employeurs à l'effort de construction ;
+-l'harmonisation des modalités d'emploi des fonds issus de la participation des employeurs à l'effort de construction ;
 
-- en liaison avec l'Agence nationale d'information sur le logement et les associations départementales d'information sur le logement qui ont signé une convention avec l'Etat, l'information sur le logement des salariés ;
+-en liaison avec l'Agence nationale d'information sur le logement et les associations départementales d'information sur le logement qui ont signé une convention avec l'Etat, l'information sur le logement des salariés ;
 
-- le suivi et l'évaluation de la gestion et l'amélioration de la performance des associés collecteurs et de leurs filiales, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations à loyer modéré ainsi que dans les groupements d'intérêt économique ou toute autre structure de coopération comprenant l'UESL ou un associé collecteur ;
+-le suivi et l'évaluation de la gestion et l'amélioration de la performance des associés collecteurs et de leurs filiales, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations à loyer modéré ainsi que dans les groupements d'intérêt économique ou toute autre structure de coopération comprenant l'UESL ou un associé collecteur ;
 
-- l'animation de la politique de gestion des risques des associés collecteurs, des associations visées aux articles L. 313-33 et L. 313-34 du code de la construction et de l'habitation, et des filiales des associés collecteurs, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations à loyer modéré ainsi que celles des groupements d'intérêt économique ou toute autre structure de coopération comprenant l'UESL ou un associé collecteur ;
+-l'animation de la politique de gestion des risques des associés collecteurs, des associations visées aux articles L. 313-33 et L. 313-34 du code de la construction et de l'habitation, et des filiales des associés collecteurs, à l'exception de celles d'entre ces sociétés qui ont le statut d'organisme d'habitations à loyer modéré ainsi que celles des groupements d'intérêt économique ou toute autre structure de coopération comprenant l'UESL ou un associé collecteur ;
 
-- la cohérence des interventions et de l'organisation territoriale des associés collecteurs et de leurs filiales. A cette fin, l'UESL approuve les fusions entre ses associés collecteurs ;
+-la cohérence des interventions et de l'organisation territoriale des associés collecteurs et de leurs filiales. A cette fin, l'UESL approuve les fusions entre ses associés collecteurs ;
 
-- l'animation du réseau des associés collecteurs associés dont elle assure à ce titre un suivi financier et comptable ;
+-l'animation du réseau des associés collecteurs associés dont elle assure à ce titre un suivi financier et comptable ;
 
 7° Elaborer, dans l'intérêt commun et pour la mise en œuvre de ses missions définies au présent article, des directives qui s'imposent aux associés collecteurs ainsi qu'à leurs filiales, dans les conditions fixées à l'article L. 313-19 du code de la construction et de l'habitation.
 
 8° Donner, en considération des intérêts communs qu'elle représente et des objectifs des politiques d'emploi des ressources issues de la participation des employeurs à l'effort de construction, un avis conforme préalablement aux opérations par lesquelles les associés collecteurs :
 
-- constituent, cèdent ou transforment des créances ou accordent des subventions avec les fonds issus de la participation des employeurs à l'effort de construction, dans des conditions qui dérogent aux directives mentionnées au 7° ;
+-constituent, cèdent ou transforment des créances ou accordent des subventions avec les fonds issus de la participation des employeurs à l'effort de construction, dans des conditions qui dérogent aux directives mentionnées au 7° ;
 
-- convertissent ou transforment en titres ou subventions des créances constituées avec les fonds de même provenance ;
+-convertissent ou transforment en titres ou subventions des créances constituées avec les fonds de même provenance ;
 
-- prennent ou cèdent des participations financées avec les fonds de même provenance ;
+-prennent ou cèdent des participations financées avec les fonds de même provenance ;
 
 Le règlement intérieur précise les conditions de présentation et d'instruction de la demande d'avis conforme préalable ainsi que le délai dans lequel cet avis est rendu.
 
@@ -120,21 +118,21 @@ Chaque associé collecteur apporte sa contribution, le cas échéant sans contre
 
 L'UESL fixe le montant des contributions sous la forme :
 
-- de versements ;
+-de versements ;
 
-- de transferts ou nantissements de créances constituées avec des fonds issus de la participation des employeurs à l'effort de construction ;
+-de transferts ou nantissements de créances constituées avec des fonds issus de la participation des employeurs à l'effort de construction ;
 
-- d'inscriptions, au bilan de ces associés, de dettes dont le paiement à l'UESL est garanti par les actifs des associés, issus de cette participation.
+-d'inscriptions, au bilan de ces associés, de dettes dont le paiement à l'UESL est garanti par les actifs des associés, issus de cette participation.
 
 Chaque fonds peut également être alimenté par toutes ressources de l'UESL.
 
 Sont retracées dans une comptabilité distincte, respectivement :
 
-- les opérations de chacun des fonds ;
+-les opérations de chacun des fonds ;
 
-- au sein du fonds d'intervention, les opérations relatives à chacune des politiques d'emploi mentionnées au 3° de l'article L. 313-19 du code de la construction et de l'habitation ;
+-au sein du fonds d'intervention, les opérations relatives à chacune des politiques d'emploi mentionnées au 3° de l'article L. 313-19 du code de la construction et de l'habitation ;
 
-- au sein du fonds de garantie universelle des risques locatifs, les opérations mentionnées aux premiers et second alinéas de l'article 5.3 des présents statuts.
+-au sein du fonds de garantie universelle des risques locatifs, les opérations mentionnées aux premiers et second alinéas de l'article 5.3 des présents statuts.
 
 Les règles de gestion et de fonctionnement du fonds d'interventions sociales et du fonds de garantie universelle des risques locatifs sont fixées par décret en Conseil d'Etat, pris en application de l'article L. 313-20 du code de la construction et de l'habitation après avis de l'UESL.
 
@@ -148,7 +146,7 @@ Le fonds d'interventions sociales finance les actions mentionnées au c de l'art
 
 Il peut notamment garantir les loyers et charges dus aux propriétaires des logements par des organismes mentionnés à l'article L. 365-4 du code de la construction et d'habitation exerçant des activités d'intermédiation locative et de gestion locative sociale, lorsque ces organismes sous-louent lesdits logements à des personnes éprouvant des difficultés particulières au sens du II de l'article L. 301-1 du code de la construction et de l'habitation.
 
-Il est alimenté notamment par l'ensemble des actifs, passifs, droits et obligations transférés par l'Agence nationale pour la participation des employeurs à l'effort de construction (ANPEEC) à l'UESL au titre de son activité de programmation de la fraction de la participation consacrée par priorité au logement des travailleurs immigrés et de leur famille, en application du premier alinéa du II de l'article 8 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion.
+Il est alimenté notamment par l'ensemble des actifs, passifs, droits et obligations transférés par l'Agence nationale de contrôle du logement social à l'UESL au titre de son activité de programmation de la fraction de la participation consacrée par priorité au logement des travailleurs immigrés et de leur famille, en application du premier alinéa du II de l'article 8 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion.
 
 5.3. Fonds de garantie universelle des risques locatifs
 
@@ -186,7 +184,7 @@ Afin d'exercer les missions prévues à l'article 3 des présents statuts, l'UES
 
 Article 7
 
-Siège social - Durée
+Siège social-Durée
 
 Le siège social est fixé à Paris (75014), 66, avenue du Maine. Il peut être transféré dans les conditions définies à l'article L. 225-36 du code de commerce.
 
@@ -198,9 +196,9 @@ Associés
 
 L'UESL a pour seuls associés :
 
-- à titre obligatoire, chaque organisme collecteur agréé aux fins de participer à la collecte des sommes définies à l'article L. 313-1 du code de la construction et de l'habitation et ayant le statut d'association à caractère professionnel ou interprofessionnel ;
+-à titre obligatoire, chaque organisme collecteur agréé aux fins de participer à la collecte des sommes définies à l'article L. 313-1 du code de la construction et de l'habitation et ayant le statut d'association à caractère professionnel ou interprofessionnel ;
 
-- sur sa demande, toute organisation interprofessionnelle et représentative au plan national de salariés ou d'entreprises assujetties au versement de la participation des employeurs à l'effort de construction.
+-sur sa demande, toute organisation interprofessionnelle et représentative au plan national de salariés ou d'entreprises assujetties au versement de la participation des employeurs à l'effort de construction.
 
 Tout associé collecteur qui perd, pour quelque raison que ce soit, l'agrément de collecte prévu par le code de la construction et de l'habitation, ainsi que tout associé qui perd son caractère de syndicat représentatif, perd de ce seul fait immédiatement la qualité d'associé de l'UESL.
 
@@ -274,21 +272,21 @@ Le conseil d'administration comporte cinq représentants permanents au plus dés
 
 1° Au titre des organisations d'employeurs représentatives au plan national :
 
-- quatre représentants permanents désignés par le Mouvement des entreprises de France, si celui-ci est associé de l'UESL ;
+-quatre représentants permanents désignés par le Mouvement des entreprises de France, si celui-ci est associé de l'UESL ;
 
-- un représentant permanent désigné par la Confédération générale des petites et moyennes entreprises, si celle-ci est associée de l'UESL ;
+-un représentant permanent désigné par la Confédération générale des petites et moyennes entreprises, si celle-ci est associée de l'UESL ;
 
 2° Au titre des organisations syndicales de salariés représentatives au plan national :
 
-- un représentant permanent désigné par la Confédération française démocratique du travail, si celle-ci est associée de l'UESL ;
+-un représentant permanent désigné par la Confédération française démocratique du travail, si celle-ci est associée de l'UESL ;
 
-- un représentant permanent désigné par la Confédération française de l'encadrement-Confédération générale des cadres, si celle-ci est associée de l'UESL ;
+-un représentant permanent désigné par la Confédération française de l'encadrement-Confédération générale des cadres, si celle-ci est associée de l'UESL ;
 
-- un représentant permanent désigné par la Confédération française des travailleurs chrétiens, si celle-ci est associée de l'UESL ;
+-un représentant permanent désigné par la Confédération française des travailleurs chrétiens, si celle-ci est associée de l'UESL ;
 
-- un représentant permanent désigné par la Confédération générale du travail, si celle-ci est associée de l'UESL ;
+-un représentant permanent désigné par la Confédération générale du travail, si celle-ci est associée de l'UESL ;
 
-- un représentant permanent désigné par la Confédération générale du travail-Force ouvrière, si celle-ci est associée de l'UESL.
+-un représentant permanent désigné par la Confédération générale du travail-Force ouvrière, si celle-ci est associée de l'UESL.
 
 Les représentants permanents titulaires et suppléants sont désignés pour un mandat de trois ans au plus, renouvelable. Le renouvellement des mandats des représentants permanents doit être express et faire l'objet d'une communication auprès de l'UESL. Ils peuvent à tout moment être remplacés pour la durée restant à courir du mandat par l'organisation d'employeurs associée ou de salariés associée qui les a désignés. Le mandat des représentants permanents titulaires et suppléants au sein du conseil d'administration de l'UESL est incompatible avec un mandat de président ou de vice-président du conseil d'administration qui serait exercé au sein d'un organisme collecteur agréé.
 
@@ -350,63 +348,63 @@ Il se saisit de toute question intéressant la bonne marche de l'UESL et règle 
 
 Le conseil d'administration, sur la base de dossiers préparés par le directeur général :
 
-- approuve :
+-approuve :
 
-- les conventions visées par l'article L. 313-3 du code de la construction et de l'habitation ;
+-les conventions visées par l'article L. 313-3 du code de la construction et de l'habitation ;
 
-- les fusions entre ses associés collecteurs ;
+-les fusions entre ses associés collecteurs ;
 
-- arrête :
+-arrête :
 
-- le budget dont il suit l'exécution ;
+-le budget dont il suit l'exécution ;
 
-- les comptes annuels de l'UESL soumis à l'approbation de l'assemblée générale ;
+-les comptes annuels de l'UESL soumis à l'approbation de l'assemblée générale ;
 
-- les comptes combinés établis en application de l'article L. 313-19 du code de la construction ;
+-les comptes combinés établis en application de l'article L. 313-19 du code de la construction ;
 
-- les directives prévues au 7° de l'article 3 des présents statuts ;
+-les directives prévues au 7° de l'article 3 des présents statuts ;
 
-- présente à l'assemblée générale les comptes annuels et les comptes combinés établis en application de l'article L. 313-19 du code de la construction ;
+-présente à l'assemblée générale les comptes annuels et les comptes combinés établis en application de l'article L. 313-19 du code de la construction ;
 
-- détermine les orientations concernant la gestion des fonds de l'UESL ;
+-détermine les orientations concernant la gestion des fonds de l'UESL ;
 
-- fixe :
+-fixe :
 
-- les contributions des associés collecteurs aux frais de fonctionnement de l'UESL prévues à l'article 33 des présents statuts ;
+-les contributions des associés collecteurs aux frais de fonctionnement de l'UESL prévues à l'article 33 des présents statuts ;
 
-- les contributions des associés collecteurs aux fonds définis par l'article 5 des présents statuts ;
+-les contributions des associés collecteurs aux fonds définis par l'article 5 des présents statuts ;
 
-- répartit le montant du défraiement déterminé annuellement par l'assemblée générale entre les organisations interprofessionnelles d'employeurs et de salariés associées, dans les conditions prévues par l'article 24 des présents statuts ;
+-répartit le montant du défraiement déterminé annuellement par l'assemblée générale entre les organisations interprofessionnelles d'employeurs et de salariés associées, dans les conditions prévues par l'article 24 des présents statuts ;
 
-- procède aux opérations liées à la variabilité du capital ;
+-procède aux opérations liées à la variabilité du capital ;
 
-- autorise :
+-autorise :
 
-- les emprunts de l'UESL ;
+-les emprunts de l'UESL ;
 
-- la cession d'immeubles par nature, la cession totale ou partielle des participations, la constitution de sûretés, les cautions et les avals ;
+-la cession d'immeubles par nature, la cession totale ou partielle des participations, la constitution de sûretés, les cautions et les avals ;
 
-- la constitution par l'UESL de structures de coopération ainsi que la participation de l'UESL à de telles structures, en application du 9° de l'article 3 des présents statuts ;
+-la constitution par l'UESL de structures de coopération ainsi que la participation de l'UESL à de telles structures, en application du 9° de l'article 3 des présents statuts ;
 
-- l'acquisition ou la cession par l'UESL de titres de sociétés, en application du 9° de l'article 3 des présents statuts ;
+-l'acquisition ou la cession par l'UESL de titres de sociétés, en application du 9° de l'article 3 des présents statuts ;
 
-- le principe des opérations de trésorerie réalisées avec les associés collecteurs et les associations mentionnées aux articles L. 313-33 et L. 313-34 du code de la construction et de l'habitation, en application du 10° de l'article 3 des présents statuts ;
+-le principe des opérations de trésorerie réalisées avec les associés collecteurs et les associations mentionnées aux articles L. 313-33 et L. 313-34 du code de la construction et de l'habitation, en application du 10° de l'article 3 des présents statuts ;
 
-- délivre :
+-délivre :
 
-- les avis conformes préalables prévus au 8° de l'article 3 des présents statuts ;
+-les avis conformes préalables prévus au 8° de l'article 3 des présents statuts ;
 
-- l'avis prévu par l'article L. 342-16 du code de la construction et de l'habitation, portant sur les mesures de sanction prévues à l'encontre d'un organisme collecteur associé de l'UESL ;
+-l'avis prévu par l'article L. 342-16 du code de la construction et de l'habitation, portant sur les mesures de sanction prévues à l'encontre d'un organisme collecteur associé de l'UESL ;
 
-- propose, dans un délai d'un mois suivant la dissolution ou la liquidation d'un associé collecteur, l'associé collecteur auquel sera attribué l'actif net dégagé par la liquidation ou la situation active et passive ainsi que l'ensemble des droits et obligations de l'organisme dissout ou liquidé ;
+-propose, dans un délai d'un mois suivant la dissolution ou la liquidation d'un associé collecteur, l'associé collecteur auquel sera attribué l'actif net dégagé par la liquidation ou la situation active et passive ainsi que l'ensemble des droits et obligations de l'organisme dissout ou liquidé ;
 
-- peut décider, sur proposition du directeur général et avis d'un des comités qui lui sont rattachés, d'exiger de l'un de ses associés collecteurs la révocation de son directeur général, en application du 12° de l'article 3 des présents statuts ;
+-peut décider, sur proposition du directeur général et avis d'un des comités qui lui sont rattachés, d'exiger de l'un de ses associés collecteurs la révocation de son directeur général, en application du 12° de l'article 3 des présents statuts ;
 
-- convoque l'assemblée générale, dont il fixe l'ordre du jour ;
+-convoque l'assemblée générale, dont il fixe l'ordre du jour ;
 
-- élit son président et son vice-président ;
+-élit son président et son vice-président ;
 
-- nomme et révoque le directeur général, dont il fixe la rémunération.
+-nomme et révoque le directeur général, dont il fixe la rémunération.
 
 Le conseil d'administration peut instaurer des comités qui lui sont rattachés et dont les modalités d'organisation sont fixées par le règlement intérieur de l'UESL mentionné à l'article 39 des présents statuts.
 
@@ -468,27 +466,27 @@ Le directeur général engage l'UESL même par les actes qui ne relèvent pas de
 
 Le directeur général assure la gestion courante de l'UESL ainsi que de son personnel, sur lequel il a autorité. Le directeur général est notamment chargé de :
 
-- mettre en œuvre les orientations et les délibérations prises par le conseil d'administration ;
+-mettre en œuvre les orientations et les délibérations prises par le conseil d'administration ;
 
-- fixer les objectifs applicables aux associés collecteurs mentionnés au 3° de l'article 3 des présents statuts ;
+-fixer les objectifs applicables aux associés collecteurs mentionnés au 3° de l'article 3 des présents statuts ;
 
-- veiller à l'application des avis et des directives émis par le conseil d'administration ;
+-veiller à l'application des avis et des directives émis par le conseil d'administration ;
 
-- préparer le budget et les comptes annuels de l'UESL ;
+-préparer le budget et les comptes annuels de l'UESL ;
 
-- dresser, à la clôture de chaque exercice, l'inventaire des divers éléments de l'actif et du passif, qu'il présente au conseil d'administration ;
+-dresser, à la clôture de chaque exercice, l'inventaire des divers éléments de l'actif et du passif, qu'il présente au conseil d'administration ;
 
-- proposer au conseil d'administration des orientations concernant la gestion des fonds de l'UESL, et notamment les diverses contributions appelées aux associés collecteurs ;
+-proposer au conseil d'administration des orientations concernant la gestion des fonds de l'UESL, et notamment les diverses contributions appelées aux associés collecteurs ;
 
-- présenter au conseil d'administration :
+-présenter au conseil d'administration :
 
-- l'état d'avancement du budget trois fois par an, assorti de propositions de mesures correctrices en cas de décalage important par rapport aux prévisions ;
+-l'état d'avancement du budget trois fois par an, assorti de propositions de mesures correctrices en cas de décalage important par rapport aux prévisions ;
 
-- le cadrage financier qui détermine les orientations de l'utilisation des ressources de la participation des employeurs à l'effort de construction par les associés collecteurs ;
+-le cadrage financier qui détermine les orientations de l'utilisation des ressources de la participation des employeurs à l'effort de construction par les associés collecteurs ;
 
-- l'état d'exécution de la convention mentionnée à l'article L. 313-3 du code de la construction et de l'habitation ;
+-l'état d'exécution de la convention mentionnée à l'article L. 313-3 du code de la construction et de l'habitation ;
 
-- la mise en œuvre des directives mentionnées au dernier alinéa du 7° de l'article L. 313-19 du code de la construction et de l'habitation.
+-la mise en œuvre des directives mentionnées au dernier alinéa du 7° de l'article L. 313-19 du code de la construction et de l'habitation.
 
 Le directeur général a la faculté de consentir des délégations de pouvoir sur autorisation du conseil d'administration, qui en fixe les limites.
 
@@ -560,21 +558,21 @@ L'exercice social commence le 1er janvier et finit le 31 décembre de chaque ann
 
 Article 31
 
-Comptabilité - inventaire - comptes annuels
+Comptabilité-inventaire-comptes annuels
 
 Il est tenu une comptabilité régulière des opérations sociales conformément aux lois et usages du commerce.
 
 Sont retracées dans des comptabilités distinctes :
 
-- les opérations du fonds d'intervention prévu à l'article 5.1 des présents statuts et, au sein de ce fonds, les opérations de chacune des politiques d'emploi mentionnées à l'article 3 des présents statuts ;
+-les opérations du fonds d'intervention prévu à l'article 5.1 des présents statuts et, au sein de ce fonds, les opérations de chacune des politiques d'emploi mentionnées à l'article 3 des présents statuts ;
 
-- les opérations du fonds d'interventions sociales prévu à l'article 5.2 des présents statuts ;
+-les opérations du fonds d'interventions sociales prévu à l'article 5.2 des présents statuts ;
 
-- les opérations du fonds de garantie universelle des risques locatifs prévu à l'article 5.3 des présents statuts ;
+-les opérations du fonds de garantie universelle des risques locatifs prévu à l'article 5.3 des présents statuts ;
 
-- les opérations réalisées avec les associés collecteurs en application du 9° de l'article 3 des présents statuts ;
+-les opérations réalisées avec les associés collecteurs en application du 9° de l'article 3 des présents statuts ;
 
-- les opérations réalisées avec des tiers non associés en application du 9° de l'article 3 des présents statuts.
+-les opérations réalisées avec des tiers non associés en application du 9° de l'article 3 des présents statuts.
 
 Article 32
 
@@ -604,13 +602,13 @@ Les commissaires du Gouvernement peuvent, dans un délai de quinze jours suivant
 
 Dans le même délai, ils peuvent opposer conjointement leur veto :
 
-- aux délibérations non compatibles avec le respect de l'équilibre entre les emplois et les ressources des fonds issus de la participation des employeurs à l'effort de construction ou avec l'atteinte des fins mentionnées à l'article L. 313-19 du code de la construction et de l'habitation ;
+-aux délibérations non compatibles avec le respect de l'équilibre entre les emplois et les ressources des fonds issus de la participation des employeurs à l'effort de construction ou avec l'atteinte des fins mentionnées à l'article L. 313-19 du code de la construction et de l'habitation ;
 
-- aux délibérations compromettant le remboursement des emprunts souscrits par l'UESL ;
+-aux délibérations compromettant le remboursement des emprunts souscrits par l'UESL ;
 
-- aux délibérations fixant pour l'UESL un budget manifestement surévalué au regard de ses missions ;
+-aux délibérations fixant pour l'UESL un budget manifestement surévalué au regard de ses missions ;
 
-- aux délibérations non conformes à la réglementation ou à la convention mentionnée à l'article L. 313-3 du code de la construction et de l'habitation.
+-aux délibérations non conformes à la réglementation ou à la convention mentionnée à l'article L. 313-3 du code de la construction et de l'habitation.
 
 Article 35
 
@@ -618,9 +616,9 @@ Contrôle
 
 L'UESL est soumise :
 
-- au contrôle de la Cour des comptes, en application de l'article L. 111-8-2 du code des juridictions financières, dans les conditions prévues à l'article L. 143-3 du même code ;
+-au contrôle de la Cour des comptes, en application de l'article L. 111-8-2 du code des juridictions financières, dans les conditions prévues à l'article L. 143-3 du même code ;
 
-- au contrôle de l'Agence nationale de contrôle du logement social (ANCOLS) prévue à l'article L. 342-1 du code de la construction et de l'habitation.
+-au contrôle de l'Agence nationale de contrôle du logement social (ANCOLS) prévue à l'article L. 342-1 du code de la construction et de l'habitation.
 
 Article 36
 
@@ -648,21 +646,21 @@ Un règlement intérieur est adopté en assemblée générale ordinaire des asso
 
 Il a pour objet d'apporter des précisions par rapport aux dispositions prévues par les présents statuts relatives notamment :
 
-- aux modalités de fonctionnement du conseil d'administration ;
+-aux modalités de fonctionnement du conseil d'administration ;
 
-- aux modalités de fonctionnement des comités mentionnés à l'article 20 des présents statuts ;
+-aux modalités de fonctionnement des comités mentionnés à l'article 20 des présents statuts ;
 
-- aux modalités de désignation et de fonctionnement d'une commission des associés collecteurs ;
+-aux modalités de désignation et de fonctionnement d'une commission des associés collecteurs ;
 
-- aux modalités d'organisation de réunions du réseau Action Logement ;
+-aux modalités d'organisation de réunions du réseau Action Logement ;
 
-- aux conditions de présentation et d'instruction de la demande d'avis conforme préalable mentionnées au 8° de l'article 3 des présents statuts ;
+-aux conditions de présentation et d'instruction de la demande d'avis conforme préalable mentionnées au 8° de l'article 3 des présents statuts ;
 
-- aux modalités d'avertissement et de sanctions mentionnés au 7° de l'article 6 des présents statuts.
+-aux modalités d'avertissement et de sanctions mentionnés au 7° de l'article 6 des présents statuts.
 
 Article 40
 
-Dissolution - liquidation
+Dissolution-liquidation
 
 Les règles applicables à ce titre sont celles prévues par le code de commerce et le code civil.
 

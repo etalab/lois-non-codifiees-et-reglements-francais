@@ -138,7 +138,7 @@ L'Agence nationale pour la garantie des droits des mineurs (ANGDM).
 
 L'Agence nationale pour la gestion des déchets radioactifs (ANDRA).
 
-L'Agence nationale pour la participation des employeurs à l'effort de construction (ANPEEC).
+L'Agence nationale de contrôle du logement social.
 
 L'Agence nationale pour la rénovation urbaine (ANRU).
 
@@ -174,7 +174,7 @@ IFP Energies nouvelles.
 
 L'Institut français de recherche pour l'exploitation de la mer (IFREMER).
 
-L'     Institut national de l'information géographique et forestière.
+L'Institut national de l'information géographique et forestière.
 
 L'Institut national de l'environnement industriel et des risques (INERIS).
 
