@@ -1,15 +1,9 @@
 # Article Annexe IV
 
-Liste des départements dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base majoré de 0,23 €, soit 4,27 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base majoré de 0,35 €, soit 4,45 € hors taxe la ligne
 
-07 Ardèche.
+02 Aisne.
 
-08 Ardennes.
+60 Oise.
 
-26 Drôme.
-
-38 Isère.
-
-69 Rhône.
-
-89 Yonne.
+80 Somme.

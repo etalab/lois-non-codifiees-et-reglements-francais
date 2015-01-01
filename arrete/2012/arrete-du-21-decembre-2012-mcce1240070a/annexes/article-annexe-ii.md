@@ -1,31 +1,27 @@
 # Article Annexe II
 
-Liste des départements dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base minoré de 0,04 €, soit 4 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base majoré de 0,05 €, soit 4,15 €  hors taxe la ligne
 
-16 Charente.
+01 Ain.
 
-17 Charente-Maritime.
+06 Alpes-Maritimes.
 
-25 Doubs.
+10 Aube.
 
-30 Gard.
+18 Cher.
 
-48 Lozère.
+28 Eure-et-Loir.
 
-54 Meurthe-et-Moselle.
+36 Indre.
 
-55 Meuse.
+37 Indre-et-Loire.
 
-86 Vienne.
+41 Loir-et-Cher.
 
-70 Haute-Saône.
+42 Loire.
 
-79 Deux-Sèvres.
+45 Loiret.
 
-88 Vosges.
+51 Marne.
 
-90 Territoire de Belfort.
-
-972 Martinique.
-
-973 Guyane.
+52 Haute-Marne.

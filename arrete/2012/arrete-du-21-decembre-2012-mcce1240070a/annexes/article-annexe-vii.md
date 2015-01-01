@@ -1,7 +1,11 @@
 # Article Annexe VII
 
-Liste des départements dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base majoré de 1,08 €, soit 5,12 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base majoré de 1,14 €, soit 5,24 € hors taxe la ligne
 
-77 Seine-et-Marne.
+59 Nord.
 
-91 Essonne.
+62 Pas-de-Calais.
+
+78 Yvelines.
+
+95 Val-d'Oise.

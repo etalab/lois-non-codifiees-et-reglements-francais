@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2014 est égal au tarif de base, soit 4,04 € hors taxe la ligne
+Liste des départements et collectivités d'outre-mer dans lesquels le tarif des annonces légales en 2015 est égal au tarif de base, soit 4,10 € hors taxe la ligne
 
 03 Allier.
 
@@ -20,6 +20,10 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 15 Cantal.
 
+16 Charente.
+
+17 Charente-Maritime.
+
 19 Corrèze.
 
 2A Corse-du-Sud.
@@ -34,7 +38,11 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 23 Creuse.
 
+25 Doubs.
+
 29 Finistère.
+
+30 Gard.
 
 31 Haute-Garonne.
 
@@ -58,11 +66,17 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 47 Lot-et-Garonne.
 
+48 Lozère.
+
 49 Maine-et-Loire.
 
 50 Manche.
 
 53 Mayenne.
+
+54 Meurthe-et-Moselle.
+
+55 Meuse.
 
 56 Morbihan.
 
@@ -84,6 +98,8 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 68 Haut-Rhin.
 
+70 Haute-Saône.
+
 71 Saône-et-Loire.
 
 72 Sarthe.
@@ -91,6 +107,8 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 73 Savoie.
 
 74 Haute-Savoie.
+
+79 Deux-Sèvres.
 
 81 Tarn.
 
@@ -102,9 +120,19 @@ Liste des départements et collectivités d'outre-mer dans lesquels le tarif des
 
 85 Vendée.
 
+86 Vienne.
+
 87 Haute-Vienne.
 
+88 Vosges.
+
+90 Territoire de Belfort.
+
 971 Guadeloupe.
+
+972 Martinique.
+
+973 Guyane.
 
 97-7 Collectivité d'outre-mer de Saint-Barthélemy.
 
