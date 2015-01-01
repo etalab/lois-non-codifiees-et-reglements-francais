@@ -1,0 +1,7 @@
+# Article 12-1
+
+<div align="left">I.-Peuvent accéder au choix à l'échelon spécial mentionné aux articles 8  et 27, après inscription sur un tableau d'avancement, les agents  exerçant leurs fonctions dans les communes de plus de 10 000 habitants  ainsi que dans les établissements publics locaux assimilés à une commune  de plus de 10 000 habitants dans les conditions fixées par le décret n°  2000-954 du 22 septembre 2000 relatif aux règles d'assimilation des  établissements publics locaux aux collectivités territoriales pour la  création de certains grades de fonctionnaires territoriaux, et  justifiant d'au moins quatre ans d'ancienneté dans le 9e échelon du  grade de brigadier-chef principal, ou d'au moins quatre ans d'ancienneté  dans le 7e échelon du grade de chef de police. <br/>
+<br/>II.-Le nombre maximum d'agents susceptibles de bénéficier de l'échelon spécial est fixé ainsi qu'il suit : <br/>
+<br/>1°  Pour les communes et établissements publics locaux assimilés dont la  population est comprise entre 10 000 et 19 999 habitants : 1 agent ; <br/>
+<br/>2°  Pour les communes et établissements publics locaux assimilés dont la  population est comprise entre 20 000 et 39 999 habitants : 2 agents ; <br/>
+<br/>3°  Pour les communes et établissements publics locaux assimilés dont la  population est au moins égale à 40 000 habitants : 1 agent pour 10  agents de catégorie C du cadre d'emplois des agents de police  municipale. </div>

@@ -4,20 +4,35 @@ I. ― Le cadre d'emplois des agents de police municipale comprend, à titre tra
 
 Les chefs de police municipale sont chargés des missions mentionnées aux deux premiers alinéas de l'article 2 et, lorsqu'il n'existe pas d'emploi de directeur de police municipale ou de chef de service de police municipale, de l'encadrement des gardiens, des brigadiers et des brigadiers-chefs principaux.
 
-II. ― Le grade de chef de police municipale comprend 7 échelons. La durée maximale et la durée minimale du temps passé dans chacun des échelons sont fixées ainsi qu'il suit :
-
-<div align="center">
+II. ― Le grade de chef de police municipale comprend 7 échelons et un échelon spécial. La durée maximale et la durée minimale du temps passé dans chacun des échelons sont fixées ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="2"> ÉCHELONS </td>
-<td align="center" colspan="2">DURÉE  <br/>
-</td>
+<th rowspan="2">ÉCHELONS <br/>
+</th>
+<th colspan="2">
+<br/>DURÉES <br/>
+</th>
 </tr>
 <tr>
-<td align="center"> Maximale </td>
-<td align="center"> Minimale </td>
+<th>
+<br/>Maximale <br/>
+</th>
+<th>
+<br/>Minimale <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Echelon spécial <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
+<td align="center">
+<br/>― <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -93,16 +108,12 @@ II. ― Le grade de chef de police municipale comprend 7 échelons. La durée ma
 <br/>2 ans 3 mois <br/>
 </td>
 <td align="center">
-<br/>1 an 9 mois <br/>
-</td>
+<br/>1 an 9 mois</td>
 </tr>
 </tbody>
 </table>
-
+<div align="center">
+<p align="left">III. ― Supprimé. </p>
+<p align="left">IV. ― Supprimé. </p>
+<p align="left">V. ― Les chefs de police municipale cités à titre posthume à l'ordre de la Nation en application de l'article L. 412-55 du code des communes sont promus par l'autorité investie du pouvoir de nomination au grade de chef de service de police municipale de classe normale. Les dispositions du dernier alinéa de l'article 25 et celles de l'article 26 leur sont applicables.</p>
 </div>
-
-III. ― Supprimé.
-
-IV. ― Supprimé.
-
-V. ― Les chefs de police municipale cités à titre posthume à l'ordre de la Nation en application de l'article L. 412-55 du code des communes sont promus par l'autorité investie du pouvoir de nomination au grade de chef de service de police municipale de classe normale. Les dispositions du dernier alinéa de l'article 25 et celles de l'article 26 leur sont applicables.
