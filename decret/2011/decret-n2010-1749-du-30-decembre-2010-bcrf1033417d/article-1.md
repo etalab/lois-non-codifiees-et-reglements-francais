@@ -15,18 +15,10 @@ Le taux de la cotisation prévue au 2° de l'article L. 61 du code des pensions 
 </tr>
 <tr>
 <td align="center">
-<br/>2014 <br/>
-</td>
-<td align="center">
-<br/>9,14 % <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>2015 <br/>
 </td>
 <td align="center">
-<br/>9,46 % <br/>
+<br/>9,54 % <br/>
 </td>
 </tr>
 <tr>
@@ -34,7 +26,7 @@ Le taux de la cotisation prévue au 2° de l'article L. 61 du code des pensions 
 <br/>2016 <br/>
 </td>
 <td align="center">
-<br/>9,78 % <br/>
+<br/>9,94 % <br/>
 </td>
 </tr>
 <tr>
@@ -42,7 +34,7 @@ Le taux de la cotisation prévue au 2° de l'article L. 61 du code des pensions 
 <br/>2017 <br/>
 </td>
 <td align="center">
-<br/>10,05 % <br/>
+<br/>10,29 % <br/>
 </td>
 </tr>
 <tr>
@@ -50,7 +42,7 @@ Le taux de la cotisation prévue au 2° de l'article L. 61 du code des pensions 
 <br/>2018 <br/>
 </td>
 <td align="center">
-<br/>10,32 % <br/>
+<br/>10,56 % <br/>
 </td>
 </tr>
 <tr>
@@ -58,15 +50,16 @@ Le taux de la cotisation prévue au 2° de l'article L. 61 du code des pensions 
 <br/>2019 <br/>
 </td>
 <td align="center">
-<br/>10,59 % <br/>
+<br/>10,83 % <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>A compter de 2020 <br/>
+<p align="center">
+<br/>A compter de 2020 </p>
 </td>
 <td align="center">
-<br/>10,86 %</td>
+<br/>11,10 %</td>
 </tr>
 </tbody>
 </table>

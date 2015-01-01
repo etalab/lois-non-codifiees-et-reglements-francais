@@ -10,11 +10,11 @@ Le taux de la retenue prévue au II de l'article 3 du décret du 7 février 2007
 
 II.-Le taux de la contribution sur les traitements prévue au I de l'article 5 du décret du 7 février 2007 relatif à la Caisse nationale de retraites des agents des collectivités locales est fixé à :
 
-a) 30,40 % pour l'année 2014 ;
+a) 30,50 % pour l'année 2015 ;
 
-b) 30,45 % pour l'année 2015 ;
+b) 30,60 % pour l'année 2016 ;
 
-c) 30,50 % à compter de l'année 2016.
+c) 30,65 % à compter de l'année 2017.
 
 Le taux de la contribution supplémentaire prévue au III de l'article 5 du décret du 7 février 2007 relatif à la Caisse nationale de retraites des agents des collectivités locales est fixé à 1,2 % à compter du 1er janvier 1991, à 2,4 % à compter du 1er janvier 1996 et à 3,6 % à compter du 1er janvier 2001.
 
