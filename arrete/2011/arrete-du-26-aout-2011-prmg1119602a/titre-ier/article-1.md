@@ -4,8 +4,10 @@ Il est créé auprès du Premier ministre un comité technique ministériel ayan
 
 En outre, le comité technique ministériel est compétent pour les questions communes à tout ou partie des établissements publics administratifs suivants :
 
-1° Institut des hautes études de défense nationale ;
+1° Ecole nationale d'administration ;
 
-2° Institut national des hautes études de la sécurité et de la justice.
+2° Institut des hautes études de défense nationale ;
 
-Il est également compétent pour les questions communes aux services du Premier ministre et aux deux établissements publics.
+3° Institut national des hautes études de la sécurité et de la justice.
+
+Il est également compétent pour les questions communes aux services du Premier ministre et aux trois établissements publics.
