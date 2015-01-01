@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé, sous le nom d'« Etablissement public foncier de Bretagne », un établissement public de l'Etat, à caractère industriel et commercial, doté de la personnalité morale et de l'autonomie financière.
+L'établissement public foncier de l'Etat, dénommé Etablissement public foncier de Bretagne, est compétent sur l'ensemble du territoire de la région de la Bretagne.

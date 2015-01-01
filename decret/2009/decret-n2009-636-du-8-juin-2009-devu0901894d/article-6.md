@@ -1,63 +1,71 @@
 # Article 6
 
-I. ― L'établissement public est administré par un conseil d'administration composé de quarante-sept membres :
+L'établissement est administré par un conseil d'administration de quarante-six membres, dotés chacun d'un suppléant conformément aux dispositions de l'article R.* 321-4 du code de l'urbanisme.
 
-1° Quarante et un représentants des collectivités territoriales ou de leurs groupements désignés, en leur sein, par leur organe délibérant :
+Il est composé de :
 
-a) Douze représentants du conseil régional de Bretagne, désignés par son organe délibérant parmi ses membres ;
+1° Quarante-deux représentants des collectivités territoriales ou de leurs groupements :
 
-b) Douze représentants des conseils généraux, désignés par chaque organe délibérant parmi ses membres, à raison de :
+a) Douze représentants de la région de la Bretagne désignés par son organe délibérant ;
 
-― trois pour le conseil général des Côtes-d'Armor ;
+b) Douze représentants des départements désignés par chaque organe délibérant, à raison de :
 
-― trois pour le conseil général du Finistère ;
+- trois pour le département des Côtes-d'Armor ;
 
-― trois pour le conseil général d'Ille-et-Vilaine ;
+- trois pour le département du Finistère ;
 
-― trois pour le conseil général du Morbihan ;
+- trois pour le département d'Ille-et-Vilaine ;
 
-c) Deux représentants de la communauté urbaine de Brest Métropole Océane, désignés par son organe délibérant parmi ses membres ;
+- trois pour le département du Morbihan ;
 
-d) Dix représentants des communautés d'agglomération, désignés par chaque organe délibérant parmi ses membres, à raison de :
+c) Deux représentants de la communauté urbaine de Brest Métropole Océane désignés par son organe délibérant ;
 
-― un pour la communauté d'agglomération de Lannion-Trégor agglomération ;
+d) Onze représentants des communautés d'agglomération suivantes désignés par chaque organe délibérant, à raison de :
 
-― un pour la communauté d'agglomération Morlaix Communauté ;
+- un pour la communauté d'agglomération de Concarneau-Cornouaille ;
 
-― un pour la communauté d'agglomération du Pays de Lorient ;
+- un pour la communauté d'agglomération de Lannion-Trégor agglomération ;
 
-― un pour la communauté d'agglomération du Pays de Saint-Malo ;
+- un pour la communauté d'agglomération Morlaix Communauté ;
 
-― un pour la communauté d'agglomération du Pays de Vannes Agglomération ;
+- un pour la communauté d'agglomération de Lorient Agglomération ;
 
-― un pour la communauté d'agglomération du Pays de Vitré Communauté ;
+- un pour la communauté d'agglomération de Saint-Malo Agglomération ;
 
-― un pour la communauté d'agglomération de Quimper Communauté ;
+- un pour la communauté d'agglomération de Vannes Agglomération ;
 
-― deux pour la communauté d'agglomération de Rennes Métropole ;
+- un pour la communauté d'agglomération de Vitré Communauté ;
 
-― un pour la communauté d'agglomération de Saint-Brieuc ;
+- un pour la communauté d'agglomération de Quimper Communauté ;
 
-e) Cinq représentants des communautés de communes, désignés dans les conditions prévues à l'article 7 ;
+- deux pour la communauté d'agglomération de Rennes Métropole ;
 
-2° Trois représentants des chambres consulaires régionales désignés par leur organe délibérant :
+- un pour la communauté d'agglomération de Saint-Brieuc Agglomération ;
 
-― un pour la       chambre de commerce et d'industrie de région ;
+e) Cinq représentants des autres établissements publics de coopération intercommunale à fiscalité propre et des communes non membres des établissements publics de coopération intercommunale à fiscalité propre, mentionnés au 1° du présent article, désignés par l'assemblée prévue à l'article L. 321-9 du code de l'urbanisme.
 
-― un pour la chambre régionale d'agriculture ;
+Cette désignation devra assurer une répartition de sièges telle que les établissements publics de coopération intercommunale à fiscalité propre disposent au moins de deux représentants au conseil d'administration ;
 
-― un pour la chambre régionale des métiers.
+2° Quatre représentants de l'Etat :
 
-3° Trois représentants de l'Etat :
+- un représentant désigné par le ministre chargé des collectivités territoriales ;
 
-― le secrétaire général pour les affaires régionales de Bretagne ou son représentant ;
+- un représentant désigné par le ministre chargé de l'urbanisme ;
 
-― le trésorier-payeur général de la région Bretagne ou son représentant ;
+- un représentant désigné par le ministre chargé du logement ;
 
-― le directeur régional de l'équipement de la région Bretagne ou son représentant.
+- un représentant désigné par le ministre chargé du budget.
 
-Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la taxe spéciale d'équipement.
+Quatre personnalités socioprofessionnelles, désignées en son sein par l'organe délibérant de l'institution dont elles relèvent, assistent au conseil d'administration avec voix consultative :
 
-Le préfet de la région Bretagne, préfet d'Ille-et-Vilaine, constate par arrêté publié au recueil des actes administratifs de la préfecture la composition nominative du conseil d'administration et procède à l'installation de ce conseil.
+- un représentant de la chambre régionale de commerce et d'industrie ;
 
-II. ― Il est créé un comité d'utilisateurs dont l'avis est requis par le conseil d'administration dans les conditions définies par lui. Ce comité est composé de représentants des communes du territoire couvert par l'établissement public, non représentées au conseil d'administration, ainsi que de personnalités qualifiées. Il mène les concertations et diffuse les informations nécessaires au bon fonctionnement de l'établissement public.
+- un représentant de la chambre régionale d'agriculture ;
+
+- un représentant de la chambre régionale de métiers et de l'artisanat ;
+
+- un représentant du conseil économique, social et environnemental régional.
+
+Le préfet de la région Bretagne, le directeur régional de l'environnement, de l'aménagement et du logement, le contrôleur budgétaire et l'agent comptable de l'établissement assistent également de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+
+Le préfet de la région Bretagne publie par arrêté la liste nominative des membres du conseil d'administration et procède à son installation.

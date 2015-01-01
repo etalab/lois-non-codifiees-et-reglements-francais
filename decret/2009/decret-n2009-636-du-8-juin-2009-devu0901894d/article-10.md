@@ -1,27 +1,15 @@
 # Article 10
 
-Le conseil d'administration se réunit au moins deux fois par an.
+Le conseil d'administration est réuni et délibère conformément aux dispositions de l'article R.* 321-3 du code de l'urbanisme.
 
-Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats.
+Ses procès-verbaux et délibérations sont adressés au préfet de la région Bretagne. Ils le sont également au contrôleur budgétaire et à l'agent comptable de l'établissement.
 
-Le conseil d'administration peut également être convoqué à la demande du préfet de la région Bretagne, préfet d'Ille-et-Vilaine.
+Le président du conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.
 
-Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
+L'ordre du jour des séances doit être porté à la connaissance des membres du conseil, au moins dix jours francs à l'avance.
 
-Le préfet de la région Bretagne, préfet d'Ille-et-Vilaine, assiste de droit aux séances du conseil d'administration et y est entendu chaque fois qu'il le demande.
+Le conseil d'administration délibère valablement lorsque la moitié au moins de ses membres participe à la séance ou est représentée. Quand, après une première convocation régulière, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise valablement sans condition de quorum après une seconde convocation à cinq jours au moins d'intervalle.
 
-Le représentant         du contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la ressource fiscale prévue à l'article 1607 ter du code général des impôts.
 
-Les procès-verbaux et délibérations leur sont adressés.
-
-Le préfet de la région Bretagne, préfet d'Ille-et-Vilaine, peut faire inscrire à l'ordre du jour du conseil d'administration toute question dont l'examen lui paraît utile.
-
-Le conseil d'administration peut inviter toute personne dont l'audition lui paraît utile.
-
-L'ordre du jour des séances doit être porté à la connaissance des membres du conseil, au moins dix jours à l'avance.
-
-Le conseil d'administration délibère valablement lorsque la moitié au moins de ses membres participe à la séance ou sont représentés. Quand, après une première convocation régulière, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise valablement sans condition de quorum après seconde convocation sur le même ordre du jour et dans les mêmes conditions.
-
-Un membre du conseil d'administration absent peut se faire représenter par un autre membre. Chaque membre du conseil d'administration ne peut représenter qu'un seul de ses collègues.
-
-Les décisions sont prises à la majorité absolue des suffrages exprimés. En cas de partage égal des voix, la voix du président est prépondérante.
+En cas de partage égal des voix, la voix du président est prépondérante.
