@@ -1,6 +1,6 @@
 # Article 5
 
-Les candidats aux deux concours peuvent demander à subir une, deux ou trois épreuves facultatives, affectées chacune du coefficient 1, à raison d'une épreuve dans chacun des groupes suivants :
+Les candidats aux trois concours peuvent demander à subir une, deux ou trois épreuves facultatives, affectées chacune du coefficient 1, à raison d'une épreuve dans chacun des groupes suivants :
 
 1° Une épreuve orale de langue étrangère, choisie avant la clôture des inscriptions, parmi les langues suivantes : allemand, anglais, arabe, espagnol, italien, mandarin, portugais et russe, à l'exclusion de celle déjà choisie à l'épreuve d'admission (durée : quinze minutes après une préparation de quinze minutes) ;
 

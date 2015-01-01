@@ -1,147 +1,118 @@
 # Article Annexe II
 
-PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTÉGRATION)
+plafonds de ressources annuelles imposables prévus à l'article R. 331-12 du code de la construction et de l'habitation (CCH) applicables aux logements mentionnés au II de l'article R. 331-1 du CCH (plan d'intégration)
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">CATÉGORIE DE MÉNAGES </p>
+<th>
+<br/>CATÉGORIE DE MÉNAGES <br/>
+</th>
+<th>
+<br/>PARIS ET COMMUNES LIMITROPHES <br/>(en euros) <br/>
+</th>
+<th>ILE-DE-FRANCE HORS PARIS <br/>et communes limitrophes <br/>(en euros) <br/>
+</th>
+<th>
+<br/>AUTRES RÉGIONS <br/>(en euros) <br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">PARIS <br/>et communes limitrophes <br/>(en euros)</p>
+<td align="left">
+<br/>12 722 <br/>
 </td>
-<td>
-<p align="center">ÎLE-DE-FRANCE <br/>hors Paris <br/>et communes limitrophes <br/>(en euros) </p>
+<td align="left">
+<br/>12 722 <br/>
 </td>
-<td>
-<p align="center">AUTRES RÉGIONS <br/>(en euros) </p>
+<td align="left">
+<br/>11 058 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>1 </p>
+<td align="left">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">
-<br/>12 662 </p>
+<td align="left">
+<br/>20 740 <br/>
 </td>
-<td>
-<p align="center">
-<br/>12 662 </p>
+<td align="left">
+<br/>20 740 <br/>
 </td>
-<td>
-<p align="center">
-<br/>11 006 </p>
+<td align="left">
+<br/>16 112 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>2 </p>
+<td align="left">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">
-<br/>20 643 </p>
+<td align="left">
+<br/>27 186 <br/>
 </td>
-<td>
-<p align="center">
-<br/>20 643 </p>
+<td align="left">
+<br/>24 929 <br/>
 </td>
-<td>
-<p align="center">
-<br/>16 037 </p>
+<td align="left">
+<br/>19 374 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>3 </p>
+<td align="left">
+<br/>4 <br/>
 </td>
-<td>
-<p align="center">
-<br/>27 059 </p>
+<td align="left">
+<br/>29 757 <br/>
 </td>
-<td>
-<p align="center">
-<br/>24 812 </p>
+<td align="left">
+<br/>27 373 <br/>
 </td>
-<td>
-<p align="center">
-<br/>19 283 </p>
+<td align="left">
+<br/>21 558 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>4 </p>
+<td align="left">
+<br/>5 <br/>
 </td>
-<td>
-<p align="center">
-<br/>29 618 </p>
+<td align="left">
+<br/>35 399 <br/>
 </td>
-<td>
-<p align="center">
-<br/>27 245 </p>
+<td align="left">
+<br/>32 407 <br/>
 </td>
-<td>
-<p align="center">
-<br/>21 457 </p>
+<td align="left">
+<br/>25 223 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>5 </p>
+<td align="left">
+<br/>6 <br/>
 </td>
-<td>
-<p align="center">
-<br/>35 233 </p>
+<td align="left">
+<br/>39 836 <br/>
 </td>
-<td>
-<p align="center">
-<br/>32 255 </p>
+<td align="left">
+<br/>36 466 <br/>
 </td>
-<td>
-<p align="center">
-<br/>25 105 </p>
+<td align="left">
+<br/>28 425 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>6 </p>
+<td align="left">
+<br/>Par personne supplémentaire <br/>
 </td>
-<td>
-<p align="center">
-<br/>39 650 </p>
+<td align="left">
+<br/>4 438 <br/>
 </td>
-<td>
-<p align="center">
-<br/>36 295 </p>
+<td align="left">
+<br/>4 062 <br/>
 </td>
-<td>
-<p align="center">
-<br/>28 292 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Par personne supplémentaire </p>
-</td>
-<td>
-<p align="center">
-<br/>4 417 </p>
-</td>
-<td>
-<p align="center">
-<br/>4 043 </p>
-</td>
-<td>
-<p align="center">
-<br/>3 155</p>
+<td align="left">
+<br/>3 170<br/>
 </td>
 </tr>
 </tbody>

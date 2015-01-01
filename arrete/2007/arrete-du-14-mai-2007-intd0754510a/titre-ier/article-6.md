@@ -8,7 +8,7 @@ Le dossier comprend les pièces suivantes, en double exemplaire :
 
 1° La copie de la délibération par laquelle le conseil municipal ou l'assemblée délibérante a émis un avis de principe favorable à l'ouverture d'un établissement de jeux dans la commune (art. L. 1411-4 du code général des collectivités territoriales) ;
 
-2° La demande d'autorisation précisant les jeux demandés, leurs horaires limites d'ouverture, le nombre de tables de jeux et les minimums des mises, ainsi que les prévisions initiales d'exploitation hebdomadaire des jeux, accompagnée du plan d'implantation des tables de jeux, des machines à sous et des jeux sous forme électronique ;
+2° La demande d'autorisation précisant les jeux demandés, leurs horaires limites d'ouverture, le nombre de tables sollicitées et installées pour chaque type de jeu de table exploité, les minimums des mises, le nombre de machines à sous installées, les jeux sous forme électronique, ainsi que les prévisions initiales d'exploitation hebdomadaire des jeux, accompagnée du plan d'implantation des tables de jeux, des machines à sous et des jeux sous forme électronique ;
 
 3° Pour les demandes d'ouverture, une étude d'impact économique montrant l'existence d'une demande de jeux non satisfaite et permettant de mesurer les conséquences de l'ouverture d'un nouvel établissement de jeux sur les casinos voisins existants, ainsi qu'un bilan prévisionnel d'activité sur 5 ans montrant la viabilité économique du projet ;
 
@@ -32,4 +32,6 @@ En cas de personne physique demanderesse, une fiche d'état civil accompagnée d
 
 12° Le cas échéant, la copie de la délibération du conseil municipal adoptée après l'enquête ;
 
-13° L'avis motivé du préfet sur la suite à réserver à la demande, accompagné des pièces relatives au déroulement de l'appel d'offres.
+13° L'avis motivé du préfet sur la suite à réserver à la demande, accompagné des pièces relatives au déroulement de l'appel d'offres ;
+
+14° Pour les demandes d'ouverture de casinos, l'avis motivé du préfet de région.

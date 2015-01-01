@@ -84,13 +84,13 @@ Un bonus est gagné par le joueur lorsque la valeur des deux premières cartes d
 <tbody>
 <tr>
 <td>
-<p align="center"> COMBINAISONS gagnantes</p>
+<p align="center">COMBINAISONS<br/>gagnantes</p>
 </td>
 <td>
-<p align="center"> TABLE<br/>de paiement A</p>
+<p align="center">TABLE<br/>de paiement A</p>
 </td>
 <td>
-<p align="center"> TABLE<br/>de paiement B</p>
+<p align="center">TABLE<br/>de paiement B</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ Un bonus est gagné par le joueur lorsque la valeur des deux premières cartes d
 </tr>
 <tr>
 <td align="center">
-<p>Paire totalisant 20</p>
+<p>Paire de même couleur totalisant 20 </p>
 </td>
 <td align="center">
 <br/>19 pour 1<br/>

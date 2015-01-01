@@ -6,7 +6,7 @@ Les mises des joueurs, exclusivement représentées par des jetons, doivent êtr
 
 Le minimum des mises est fixé par l'arrêté d'autorisation.
 
-Il ne saurait être inférieur à 1 Euros.
+Il ne saurait être inférieur à 1 euro.
 
 Les dispositions du dernier alinéa de l'article 53 sont applicables au jeu du stud poker de casino.
 

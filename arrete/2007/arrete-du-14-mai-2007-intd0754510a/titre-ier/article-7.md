@@ -4,7 +4,7 @@ Demandes de renouvellement d'autorisation de jeux en cours de concession et dema
 
 Pour les demandes de renouvellement d'autorisation de jeux en cours de concession, ainsi que pour les demandes de transfert d'implantation géographique, le dossier à transmettre doit comporter les pièces suivantes, en double exemplaire :
 
-1° La demande de renouvellement précisant les jeux demandés, leurs horaires d'ouverture, le nombre de tables de jeux et les minimums des mises, ainsi que, pour la demande de transfert géographique, la localisation dans la commune du nouvel immeuble d'implantation ;
+1° La demande de renouvellement précisant les jeux demandés, leurs horaires d'ouverture, le nombre de tables sollicitées et installées pour chaque type de jeu de table exploité, les minimums des mises, le nombre de machines à sous installées, les jeux sous forme électronique, ainsi que, pour la demande de transfert géographique, la localisation dans la commune du nouvel immeuble d'implantation ;
 
 2° L'avis du conseil municipal sur la demande de renouvellement ou de transfert ;
 

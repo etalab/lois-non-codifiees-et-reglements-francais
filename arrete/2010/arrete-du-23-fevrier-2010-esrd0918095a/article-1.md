@@ -14,6 +14,6 @@ Université d'Angers, université des Antilles-Guyane, université d'Artois, uni
 
 Institut national polytechnique de Toulouse, Institut polytechnique de Grenoble, Institut national des sciences appliquées de Lyon, université de technologie de Compiègne, université de technologie en sciences des organisations et de la décision de Paris-Dauphine.
 
-Ecole normale supérieure, Ecole normale supérieure de Cachan, Ecole normale supérieure de Lyon.
+Ecole normale supérieure, Ecole normale supérieure de Cachan, Ecole normale supérieure de Lyon, CentraleSupélec.
 
 Ecole des hautes études en sciences sociales, Ecole nationale supérieure d'arts et métiers.

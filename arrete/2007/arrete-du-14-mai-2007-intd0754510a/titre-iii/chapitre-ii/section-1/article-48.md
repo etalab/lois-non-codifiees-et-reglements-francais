@@ -4,7 +4,7 @@ Interruption des séances.
 
 Aucune somme ne doit être laissée dans les caisses des tables de jeux entre les séances. L'encaisse est comptée et les inscriptions réglementaires faites au carnet d'avances toutes les fois que la partie est interrompue.
 
-Néanmoins, quand il s'agit d'une interruption momentanée en cours de séance, ces opérations peuvent être remplacées par le dépôt de la totalité de l'encaisse : à la boule, dans une boîte spéciale pour chaque tableau, disposée comme il est dit à l'article précédent, munie d'un couvercle composé d'un grillage ou d'une plaque de verre et fermant à clé et, au vingt-trois, dans la caisse décrite à l'article précédent.
+Néanmoins, quand il s'agit d'une interruption momentanée en cours de séance, ces opérations peuvent être remplacées par le dépôt de la totalité de l'encaisse :  à la boule et à la roue de la chance, dans une boîte spéciale pour chaque tableau, disposée comme il est dit à l'article précédent, munie d'un couvercle composé d'un grillage ou d'une plaque de verre et fermant à clé et, au vingt-trois, dans la caisse décrite à l'article précédent.
 
 L'unique clé reste entre les mains du directeur responsable, d'un membre du comité de direction ou du chef de partie ou du chef de table chargé de fermer les boîtes ou les caisses au moment où la partie s'interrompt et de les ouvrir lorsqu'elle reprend.
 

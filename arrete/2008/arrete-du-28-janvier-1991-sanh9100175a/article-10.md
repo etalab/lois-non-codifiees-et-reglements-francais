@@ -12,13 +12,13 @@ A. - Pour tous les candidats :
 décret n° 81-317 du 7 avril 1981
 modifié fixant les conditions dans lesquelles certaines mères de famille bénéficient d'une dispense de diplôme pour se présenter à divers concours ;
 
-3° Pour les candidats au concours interne, un état des services civils accomplis établi sur un imprimé fourni au candidat par l'autorité investie du pouvoir de nomination ;
+3° Pour les candidats aux concours interne et troisième concours, un état des services civils accomplis établi sur un imprimé fourni au candidat par l'autorité investie du pouvoir de nomination ;
 
 4° Pour les candidats admissibles :
 
 a) Pour le concours externe, un curriculum vitae faisant apparaître le cursus universitaire et/ ou professionnel du candidat ;
 
-b) Pour le concours interne, le dossier RAEP établi par le candidat (annexe XVIII) à partir d'un imprimé fourni par le Centre national de gestion.
+b) Pour les concours interne et troisième concours, le dossier RAEP établi par le candidat (annexe XVIII) à partir d'un imprimé fourni par le Centre national de gestion.
 
 B. - Les candidats déclarés admis à l'issue des épreuves fournissent au Centre national de gestion :
 

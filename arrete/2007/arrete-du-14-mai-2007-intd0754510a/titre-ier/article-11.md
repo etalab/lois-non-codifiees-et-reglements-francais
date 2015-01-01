@@ -6,4 +6,4 @@ L'arrêté d'autorisation de jeux du ministre de l'intérieur est notifié au di
 
 Le ministre adresse au préfet, pour information, ampliation de l'autorisation. Le préfet en adresse ampliation au maire.
 
-Une ampliation est également adressée par le ministre de l'intérieur au ministre chargé du budget, qui la transmet au   directeur départemental ou, le cas échéant, régional des finances publiques du département concerné.
+Une ampliation est également adressée par le ministre de l'intérieur au ministre chargé du budget.

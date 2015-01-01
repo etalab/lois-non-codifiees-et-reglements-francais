@@ -32,7 +32,7 @@ Le directeur responsable est tenu d'afficher, de manière visible, à l'entrée 
 
 Par ailleurs, le directeur responsable est tenu d'apposer :
 
-Dans les salles de jeux où sont exploités les jeux de la boule et du vingt-trois :
+Dans les salles de jeux où sont exploités les jeux de la boule, du vingt-trois et de la roue de la chance :
 
 A. - Une affiche :
 
@@ -40,11 +40,53 @@ A. - Une affiche :
 
 Les mises ne peuvent être représentées que par des jetons ou plaques fournis par l'établissement.
 
-Le change des espèces contre des jetons ou des plaques à la boule et au vingt-trois peut être effectué aux tables de jeux par les soins du croupier.
+Le change des espèces contre des jetons ou des plaques à la boule, au vingt-trois et à la roue de la chance peut être effectué aux tables de jeux par les soins du croupier.
 
 2° Reproduisant les dispositions suivantes :
 
 "Fonctionnement du jeu de la boule.
+
+Fonctionnement du jeu de la roue de la chance.
+
+Les mises ne peuvent être représentées que par des jetons ou plaques fournis par l'établissement. Le dispositif se compose d'une roue, en position verticale, et d'une table de jeu où les joueurs disposent leur mise. Au maximum, douze joueurs peuvent jouer simultanément au jeu de la roue de la chance.
+
+La roue se compose de cinquante-deux cases réparties en sept groupes de couleurs différentes. Un marqueur fixe placé au dessus de la roue permet de déterminer la case gagnante après plusieurs rotations de la roue.
+
+La table de jeu détermine le rapport de paiement des gains par groupe de couleur en fonction des mises engagées. Elle reprend les sept segments de couleurs différentes de la roue et attribue pour chacune d'elles, un rapport de paiement allant de un pour un à cinquante pour un :
+
+- rapport de un pour un pour la couleur orange ;
+
+- rapport de trois pour un pour la couleur verte ;
+
+- rapport de cinq pour un pour la couleur bleue ;
+
+- rapport de dix pour un pour la couleur rouge ;
+
+- rapport de vingt pour un pour la couleur violette ;
+
+- rapport de cinquante pour un pour la couleur blanche ou noire.
+
+Le croupier chargé de la manœuvre de l'appareil doit obligatoirement actionner chaque fois le cylindre dans un sens opposé au précédent en annonçant : "faites vos jeux". La roue doit effectuer au moins trois tours pour que le résultat soit réputé valide. Toute obstruction de la roue pendant sa rotation annule le tirage.
+
+Les joueurs placent les mises sur le ou les segment (s) de couleur en respectant les mises minimales et maximales de chaque couleur. Tant que la force centrifuge permet à la roue d'assurer une rotation suffisante, les joueurs peuvent continuer à miser, mais dès que le mouvement de la roue commence à se ralentir, le croupier annonce "rien ne va plus". Dès lors, aucun enjeu ne peut plus être placé sur le tableau.
+
+Dans tous les cas, le joueur gagnant conserve sa mise. Le maximum des mises s'applique à chaque joueur considéré isolément soit :
+
+100 fois la mise pour la couleur orange ;
+
+50 fois la mise pour la couleur verte ;
+
+25 fois la mise pour la couleur bleue ;
+
+12 fois la mise pour la couleur rouge ;
+
+10 fois la mise pour la couleur violette ;
+
+5 fois la mise pour la couleur blanche ou noire.
+
+Le minimum des mises est fixé par l'arrêté d'autorisation. Toutefois, le directeur responsable a la faculté d'augmenter à l'ouverture des tableaux le minimum fixé par l'arrêté d'autorisation. Aucune modification ne peut intervenir en cours de partie. Le nouveau minimum ne peut être modifié avant la séance du lendemain.
+
+Le maximum des mises est fixé par l'établissement à l'ouverture des tableaux et ne peut ensuite varier avant la séance du lendemain.
 
 Les seuls appareils autorisés sont les appareils de boule à neuf numéros. Il ne peut être fait usage que des deux combinaisons suivantes :
 
@@ -166,7 +208,13 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 a) Reproduisant les dispositions des articles 55-18-1, 55-18-2 et 55-18-3 du présent arrêté concernant le jeu du hold'em poker de casino ;
 
-b) Reproduisant les dispositions des articles 55-19, 55-19-1 et 55-19-2 du présent arrêté concernant le jeu de la bataille.
+b) Reproduisant les dispositions des articles 55-19, 55-19-1 et 55-19-2 du présent arrêté concernant le jeu de la bataille ;
+
+c) Reproduisant les dispositions des articles 55-20 et 55-20-1 du présent arrêté concernant le jeu de l'ultimate hold'em poker ;
+
+d) Reproduisant les dispositions des articles 55-21 et 55-21-1 du présent arrêté concernant le jeu du poker trois cartes ;
+
+e) Reproduisant les dispositions des articles 55-22, 55-22-1, 55-22-2 du présent arrêté concernant le jeu du rampo.
 
 7 quater. Reproduisant les dispositions des articles 57 et suivants du présent arrêté concernant le jeu du Texas hold'em poker.
 

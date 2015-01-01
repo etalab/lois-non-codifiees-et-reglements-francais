@@ -1,147 +1,119 @@
 # Article Annexe I
 
-PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1°) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (NOTAMMENT PLUS
+PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1O) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (NOTAMMENT PLUS)
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">CATÉGORIE DE MÉNAGES </p>
+<th>
+<br/>CATÉGORIE DE MÉNAGES<br/>
+</th>
+<th>
+<br/>PARIS ET COMMUNES LIMITROPHES <br/>(en euros)<br/>
+</th>
+<th>
+<br/>ILE-DE-FRANCE HORS PARIS <br/>et communes limitrophes <br/>(en euros)<br/>
+</th>
+<th>
+<br/>AUTRES RÉGIONS <br/>(en euros)<br/>
+</th>
+</tr>
+<tr>
+<td align="left">
+<br/>1<br/>
 </td>
-<td>
-<p align="center">PARIS <br/>et communes limitrophes <br/>(en euros)</p>
+<td align="left">
+<br/>23 127<br/>
 </td>
-<td>
-<p align="center">ÎLE-DE-FRANCE <br/>hors Paris <br/>et communes limitrophes <br/>(en euros) </p>
+<td align="left">
+<br/>23 127<br/>
 </td>
-<td>
-<p align="center">AUTRES RÉGIONS <br/>(en euros)</p>
+<td align="left">
+<br/>20 107<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>1 </p>
+<td align="left">
+<br/>2<br/>
 </td>
-<td>
-<p align="center">
-<br/>23 019 </p>
+<td align="left">
+<br/>34 565<br/>
 </td>
-<td>
-<p align="center">
-<br/>23 019 </p>
+<td align="left">
+<br/>34 565<br/>
 </td>
-<td>
-<p align="center">
-<br/>20 013 </p>
+<td align="left">
+<br/>26 851<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>2 </p>
+<td align="left">
+<br/>3<br/>
 </td>
-<td>
-<p align="center">
-<br/>34 403 </p>
+<td align="left">
+<br/>45 311<br/>
 </td>
-<td>
-<p align="center">
-<br/>34 403 </p>
+<td align="left">
+<br/>41 550<br/>
 </td>
-<td>
-<p align="center">
-<br/>26 725 </p>
+<td align="left">
+<br/>32 291<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>3 </p>
+<td align="left">
+<br/>4<br/>
 </td>
-<td>
-<p align="center">
-<br/>45 099 </p>
+<td align="left">
+<br/>54 098<br/>
 </td>
-<td>
-<p align="center">
-<br/>41 356 </p>
+<td align="left">
+<br/>49 769<br/>
 </td>
-<td>
-<p align="center">
-<br/>32 140 </p>
+<td align="left">
+<br/>38 982<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>4 </p>
+<td align="left">
+<br/>5<br/>
 </td>
-<td>
-<p align="center">
-<br/>53 845 </p>
+<td align="left">
+<br/>64 365<br/>
 </td>
-<td>
-<p align="center">
-<br/>49 536 </p>
+<td align="left">
+<br/>58 917<br/>
 </td>
-<td>
-<p align="center">
-<br/>38 800 </p>
+<td align="left">
+<br/>45 858<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>5 </p>
+<td align="left">
+<br/>6<br/>
 </td>
-<td>
-<p align="center">
-<br/>64 064 </p>
+<td align="left">
+<br/>72 429<br/>
 </td>
-<td>
-<p align="center">
-<br/>58 641 </p>
+<td align="left">
+<br/>66 300<br/>
 </td>
-<td>
-<p align="center">
-<br/>45 643 </p>
+<td align="left">
+<br/>51 682<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>6 </p>
+<td align="left">
+<br/>Par personne supplémentaire<br/>
 </td>
-<td>
-<p align="center">
-<br/>72 090 </p>
+<td align="left">
+<br/>8 070<br/>
 </td>
-<td>
-<p align="center">
-<br/>65 990 </p>
+<td align="left">
+<br/>7 388<br/>
 </td>
-<td>
-<p align="center">
-<br/>51 440 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<br/>Par personne supplémentaire </p>
-</td>
-<td>
-<p align="center">
-<br/>8 032 </p>
-</td>
-<td>
-<p align="center">
-<br/>7 353 </p>
-</td>
-<td>
-<p align="center">
-<br/>5 738 </p>
+<td align="left">
+<br/>5 765<br/>
 </td>
 </tr>
 </tbody>

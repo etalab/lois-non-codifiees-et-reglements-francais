@@ -6,21 +6,20 @@
 <tbody>
 <tr>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center"> NOMBRE </p>
+<p align="center">NOMBRE </p>
 <p align="center">d'emplois</p>
 </td>
 <td>
-<p align="center"> NOMBRE </p>
+<p align="center">NOMBRE </p>
 <p align="center">de points par emploi</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Premier président<br/>
+<p>Premier président<br/>
 </p>
 </td>
 <td align="center">
@@ -32,8 +31,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Procureur général<br/>
+<p>Procureur général<br/>
 </p>
 </td>
 <td align="center">
@@ -45,8 +43,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Président de chambre<br/>
+<p>Président de chambre<br/>
 </p>
 </td>
 <td align="center">
@@ -58,8 +55,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Premier avocat général<br/>
+<p>Premier avocat général<br/>
 </p>
 </td>
 <td align="center">
@@ -71,8 +67,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Président de chambre chargé de la direction du service de documentation et d'études<br/>
+<p>Président de chambre chargé de la direction du service de documentation et d'études<br/>
 </p>
 </td>
 <td align="center">
@@ -84,8 +79,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Doyen de chambre<br/>
+<p>Doyen de chambre<br/>
 </p>
 </td>
 <td align="center">
@@ -97,8 +91,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Doyen de section<br/>
+<p>Doyen de section<br/>
 </p>
 </td>
 <td align="center">
@@ -110,8 +103,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Magistrat chargé d'un secrétariat général<br/>
+<p>Magistrat chargé d'un secrétariat général<br/>
 </p>
 </td>
 <td align="center">
@@ -134,21 +126,20 @@ Cours d'appel<br/>
 <tbody>
 <tr>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center"> NOMBRE </p>
+<p align="center">NOMBRE </p>
 <p align="center">d'emplois</p>
 </td>
 <td>
-<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">NOMBRE DE POINTS </p>
 <p align="center">par emploi</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Premier président et procureur général : cour d'appel de Paris <br/>
+<p>Premier président et procureur général : cour d'appel de Paris <br/>
 </p>
 </td>
 <td align="center">
@@ -160,8 +151,7 @@ Cours d'appel<br/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Premier président et procureur général : cours d'appel d'Aix-en-Provence, Douai, Lyon, Rennes et Versailles<br/>
+<p>Premier président et procureur général : cours d'appel d'Aix-en-Provence, Douai, Lyon, Rennes et Versailles<br/>
 </p>
 </td>
 <td align="center">
@@ -173,8 +163,7 @@ Cours d'appel<br/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Premier président et procureur général : cours d'appel d'Amiens, Bordeaux, Colmar, Grenoble, Montpellier, Nîmes, Rouen et Toulouse <br/>
+<p>Premier président et procureur général : cours d'appel d'Amiens, Bordeaux, Colmar, Grenoble, Montpellier, Nîmes, Rouen et Toulouse <br/>
 </p>
 </td>
 <td align="center">
@@ -186,8 +175,7 @@ Cours d'appel<br/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Premier président et procureur général : cours d'appel d'Agen, Angers, Basse-Terre, Bastia, Besançon, Bourges, Caen, Chambéry, Dijon, <br/>Fort-de-France, Limoges, Metz, Nancy, Nouméa, Orléans, Papeete, Pau, Poitiers, Reims, Riom, Saint-Denis de La Réunion et Cayenne<br/>
+<p>Premier président et procureur général : cours d'appel d'Agen, Angers, Basse-Terre, Bastia, Besançon, Bourges, Caen, Chambéry, Dijon, <br/>Fort-de-France, Limoges, Metz, Nancy, Nouméa, Orléans, Papeete, Pau, Poitiers, Reims, Riom, Saint-Denis de La Réunion et Cayenne<br/>
 </p>
 </td>
 <td align="center">
@@ -199,8 +187,7 @@ Cours d'appel<br/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Magistrat chargé d'un secrétariat général : cours d'appel de Paris et Versailles <br/>
+<p>Magistrat chargé d'un secrétariat général : cours d'appel de Paris et Versailles <br/>
 </p>
 </td>
 <td align="center">
@@ -221,22 +208,21 @@ Tribunal supérieur d'appel<br/>
 <tbody>
 <tr>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI<br/>
+<p align="center">DÉSIGNATION DE L'EMPLOI<br/>
 </p>
 </td>
 <td>
-<p align="center"> NOMBRE </p>
+<p align="center">NOMBRE </p>
 <p align="center">d'emplois</p>
 </td>
 <td>
-<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">NOMBRE DE POINTS </p>
 <p align="center">par emploi</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Président et procureur de la République : Saint-Pierre-et-Miquelon <br/>
+<p>Président et procureur de la République : Saint-Pierre-et-Miquelon <br/>
 </p>
 </td>
 <td align="center">
@@ -251,88 +237,78 @@ Tribunal supérieur d'appel<br/>
 
 <br/>
 <p align="center">Tribunaux de grande instance et tribunaux de première instance</p>
-<br/>
-
+<div align="center">
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> DESIGNATION DE L'EMPLOI</p>
-</td>
-<td>
-<p align="center"> NOMBRE D'EMPLOIS</p>
-</td>
-<td>
-<p align="center"> NOMBRE DE POINTS PAR EMPLOI</p>
-</td>
+<th>DÉSIGNATION DE L'EMPLOI<br/>
+</th>
+<th>
+<br/>NOMBRE D'EMPLOIS<br/>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+<br/>par emploi<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Président et procureur de la République : tribunal de grande instance de Paris<br/>
-</p>
+<td>
+<br/>Président, procureur de la République et procureur de la République financier : tribunal de grande instance de Paris<br/>
 </td>
-<td align="center">
-<br/>2<br/>
+<td align="center" valign="middle">
+<br/>3<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>160<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Président et procureur de la République : tribunaux de grande instance de Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille, <br/>Nanterre, Pontoise, Toulouse et Versailles<br/>
-</p>
+<td valign="middle">
+<br/>Président et procureur de la République : tribunaux de grande instance de Bobigny, Bordeaux, Créteil, Evry, Lille, Lyon, Marseille, Nanterre, Pontoise, Toulouse et Versailles<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>22<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>120<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Président et procureur de la République : tribunaux de grande instance de : Aix-en-Provence, Amiens, Angers, Avignon, Béthune, <br/>Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, <br/>Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, <br/>Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes<br/>
-</p>
+<td valign="middle">
+<br/>Président et procureur de la République : tribunaux de grande instance d'Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>84<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>100<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
-<br/>Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance de : Agen, Albertville, <br/>Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, <br/>Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Coutances, Douai, <br/>Dunkerque, Epinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa,<br/>Papeete, Pau, Périgueux, Privas, Quimper, Reims, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines,<br/>Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne<br/>
-</p>
+<td valign="middle">
+<br/>Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance d'Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Epinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Reims, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>114<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>80<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td align="left" valign="middle">
 <br/>Magistrat chargé d'un secrétariat général : tribunal de grande instance de Paris<br/>
-</p>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>2<br/>
 </td>
-<td align="center">
+<td align="center" valign="middle">
 <br/>80<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
 
 <br/>
 <br/>
@@ -343,13 +319,13 @@ Tribunal supérieur d'appel<br/>
 <tbody>
 <tr>
 <td>
-<p align="center"> DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center"> NOMBRE<br/>d'emplois</p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 <td>
-<p align="center"> NOMBRE<br/>de points par emploi</p>
+<p align="center">NOMBRE<br/>de points par emploi</p>
 </td>
 </tr>
 <tr>

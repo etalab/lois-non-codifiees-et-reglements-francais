@@ -1,6 +1,6 @@
 # Chapitre II : Règles applicables aux jeux de contrepartie.
 
-- [Section 1 : Règles spéciales à la boule et au vingt-trois.](section-1)
+- [Section 1 : Règles spéciales à la boule, au vingt-trois et à la roue de la chance.](section-1)
 - [Section 2 : Règles spéciales communes aux jeux de contrepartie.](section-2)
 - [Section 3 : Règles particulières applicables à la roulette.](section-3)
 - [Section 4 : Règles particulières applicables au trente-et-quarante.](section-4)
@@ -12,6 +12,9 @@
 - [Section 10 : Règles applicables au stud poker de casino.](section-10)
 - [Section 11 : Règles applicables au hold'em poker de casino.](section-11)
 - [Section 12 : Règles particulières applicables à la bataille.](section-12)
+- [Section 13 : Règles particulières applicables à l'ultimate hold'em poker.](section-13)
+- [Section 14 : Règles applicables au poker trois cartes.](section-14)
+- [Section 15 : Règles particulières applicables au rampo.](section-15)
 - [Article 42](article-42.md)
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)

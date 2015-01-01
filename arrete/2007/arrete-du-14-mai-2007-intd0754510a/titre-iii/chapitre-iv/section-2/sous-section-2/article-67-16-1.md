@@ -4,13 +4,13 @@ Dispositions particulières du black jack électronique.
 
 Un membre du comité de direction valide les opérations d'ouverture de la séance.
 
-De même, à l'issue de la séance de jeu et après l'annonce préalable des trois dernières mains, le membre du comité de direction valide la fermeture informatique de la session et le caissier procède à la comptée dans les conditions définies à l'article 67-6 du présent arrêté.
+De même, à l'issue de la séance de jeu et après l'annonce préalable des trois dernières mains, le membre du comité de direction valide la fermeture informatique de la session et le caissier procède à la comptée dans les conditions définies à l'article 67-5 du présent arrêté.
 
 La partie débute en présence au minimum d'un joueur. Les joueurs participent au jeu au moyen exclusif du poste correspondant à la place qu'ils ont choisie.
 
 Seuls les joueurs assis peuvent participer.
 
-Chaque joueur ne peut jouer que sur un seul poste et dispose d'une seule main.
+Chaque joueur ne peut jouer que sur un seul poste.
 
 Le nombre de joueurs ne peut excéder le nombre de postes déterminés et proposés par le casino.
 

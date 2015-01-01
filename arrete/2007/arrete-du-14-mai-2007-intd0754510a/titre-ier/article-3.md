@@ -2,7 +2,7 @@
 
 Procédure de désignation d'un exploitant de casino.
 
-Pour la désignation de l'exploitant d'un casino, les communes qui entrent dans le champ de la loi du 15 juin 1907 susvisée sont soumises, en cas d'ouverture et de réouverture d'un casino ainsi que lors du renouvellement du cahier des charges, aux dispositions des articles L. 1411-1 et suivants du code général des collectivités territoriales.
+Pour la désignation de l'exploitant d'un casino, les communes qui entrent dans le champ de l'article L. 321-1 du code de la sécurité intérieure susvisée sont soumises, en cas d'ouverture et de réouverture d'un casino ainsi que lors du renouvellement du cahier des charges, aux dispositions des articles L. 1411-1 et suivants du code général des collectivités territoriales.
 
 1. Avis de l'assemblée délibérante :
 

@@ -7,85 +7,109 @@ Le montant minimum de l'avance de la caisse mise à la disposition de chaque che
 <table>
 <tbody>
 <tr>
-<td colspan="12" width="695">
-<p align="center">MONTANT DE L'AVANCE EN JETONS (NOMBRE DE FOIS LA MISE MINIMUM PRATIQUÉE)</p>
+<td align="center" colspan="16" valign="bottom">
+<p align="center">MONTANT DE L'AVANCE EN JETONS <br/>
+<br/>(nombre de fois la mise minimum pratiquée) </p>
 </td>
 </tr>
 <tr>
-<td width="65">
-<p align="center">Roulette</p>
+<td align="center">
+<br/>Roulette <br/>
 </td>
-<td width="54">
-<p align="center">Trente-et-quarante</p>
+<td align="center">
+<br/>Trente et quarante <br/>
 </td>
-<td width="72">
-<p align="center">Roulette <br/>américaine</p>
+<td align="center">
+<br/>Roulette américaine <br/>
 </td>
-<td width="55">
-<p align="center">Blackjack</p>
+<td align="center">
+<br/>Black-Jack <br/>
 </td>
-<td width="53">
-<p align="center">Craps</p>
+<td align="center">
+<br/>Craps <br/>
 </td>
-<td width="54">
-<p align="center">Roulette <br/>anglaise</p>
+<td align="center">
+<br/>Roulette anglaise <br/>
 </td>
-<td width="53">
-<p align="center">Punto <br/>Banco</p>
+<td align="center">
+<br/>Punto banco <br/>
 </td>
-<td width="53">
-<p align="center">Stud <br/>Poker</p>
+<td align="center">
+<br/>Stud poker <br/>
 </td>
-<td width="54">
-<p align="center">Hold'em <br/>Poker</p>
+<td align="center">
+<br/>Hold'em Poker <br/>
 </td>
-<td width="53">
-<p align="center">Boule</p>
+<td align="center">
+<br/>Boule <br/>
 </td>
-<td width="52">
-<p align="center">23</p>
+<td align="center">
+<br/>Vingt-trois <br/>
 </td>
-<td width="54">
-<p align="center">Bataille</p>
+<td align="center">
+<br/>Bataille <br/>
+</td>
+<td align="center">
+<br/>Roue de la chance <br/>
+</td>
+<td align="center">
+<br/>Ultimate hold'empoker <br/>
+</td>
+<td align="center">
+<br/>Poker trois cartes <br/>
+</td>
+<td align="center">
+<br/>Rampo <br/>
 </td>
 </tr>
 <tr>
-<td width="65">
-<p align="center">15 000</p>
+<td align="center">
+<br/>15000 <br/>
 </td>
-<td width="54">
-<p align="center">20 000</p>
+<td align="center">
+<br/>20000 <br/>
 </td>
-<td width="72">
-<p align="center">15 000</p>
+<td align="center">
+<br/>15000 <br/>
 </td>
-<td width="55">
-<p align="center">3 000</p>
+<td align="center">
+<br/>3000 <br/>
 </td>
-<td width="53">
-<p align="center">15 000</p>
+<td align="center">
+<br/>15000 <br/>
 </td>
-<td width="54">
-<p align="center">15 000</p>
+<td align="center">
+<br/>15000 <br/>
 </td>
-<td width="53">
-<p align="center">3 000</p>
+<td align="center">
+<br/>3000 <br/>
 </td>
-<td width="53">
-<p align="center">3 000</p>
+<td align="center">
+<br/>3000 <br/>
 </td>
-<td width="54">
-<p align="center">3 000</p>
+<td align="center">
+<br/>3000 <br/>
 </td>
-<td width="53">
-<p align="center">4 000</p>
+<td align="center">
+<br/>4000 <br/>
 </td>
-<td width="52">
-<p align="center">10 000</p>
+<td align="center">
+<br/>10000 <br/>
 </td>
-<td width="54">
-<p align="center">3 000</p>
+<td align="center">
+<br/>3000 <br/>
 </td>
+<td align="center">
+<br/>5000 <br/>
+</td>
+<td align="center">
+<br/>5000 <br/>
+</td>
+<td align="center">
+<br/>3000 <br/>
+</td>
+<td align="center">
+<br/>15000</td>
 </tr>
 </tbody>
 </table>

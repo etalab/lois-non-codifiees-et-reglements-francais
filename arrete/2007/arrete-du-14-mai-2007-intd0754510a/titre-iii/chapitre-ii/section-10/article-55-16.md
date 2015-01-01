@@ -36,7 +36,7 @@ Aucune personne debout ne peut miser sur la main d'un joueur assis.
 
 Préalablement au mélange des cartes, les employés de la table vérifient que toutes les mises sont conformes, correctement placées et que leur montant, par joueur, est compris entre le minimum et le maximum autorisés à la table.
 
-Les mises, exclusivement représentées par des plaques ou jetons ne peuvent être placées, modifiées ou retirées après le " rien ne va plus ". Aucun enjeu sur annonce n'est toléré.
+Les mises, exclusivement représentées par des plaques ou jetons ne peuvent être placées, modifiées ou retirées après le "rien ne va plus". Aucun enjeu sur annonce n'est toléré.
 
 Le croupier distribue une carte pour chaque main, face cachée, à partir de sa gauche et suivant le sens des aiguilles d'une montre. A l'issue de ce premier tour, il se donne une carte. Il effectue quatre autres tours, toujours dans le même ordre, en distribuant une carte à chaque main et une à lui-même.
 
@@ -88,7 +88,7 @@ Achat de carte :
 
 Pour améliorer son jeu, le joueur peut décider d'acheter une carte, pour le montant de sa mise initiale.
 
-Pour cela, en même temps qu'il " relance ", le joueur place la carte dont il veut se défausser sur la " bande de paiement ", espace du tapis entre le croupier et le joueur, souvent matérialisé par une bande en demi-lune (portant l'inscription : la banque joue avec as/roi ou mieux), la mise étant placée sur la carte. Dès cet instant, le joueur ne peut plus toucher ses cartes.
+Pour cela, en même temps qu'il "relance", le joueur place la carte dont il veut se défausser sur la "bande de paiement", espace du tapis entre le croupier et le joueur, souvent matérialisé par une bande en demi-lune (portant l'inscription : la banque joue avec as/roi ou mieux), la mise étant placée sur la carte. Dès cet instant, le joueur ne peut plus toucher ses cartes.
 
 Le croupier, dans l'ordre de distribution, distribue au joueur une carte ouverte, qu'il place devant la carte défaussée, avant de ramasser celle-ci ainsi que la mise. Le joueur ne touche à aucun moment la carte achetée.
 
@@ -96,15 +96,15 @@ A noter que l'achat d'une carte entraîne la perte du bénéfice du bonus dont l
 
 La comparaison du jeu du croupier avec le jeu des joueurs et le paiement s'effectuent ensuite selon les règles habituelles du jeu du stud poker de casino.
 
-Le barème de paiement des combinaisons gagnantes demeure celui prévu à l'article 57-17 de l'arrêté du 23 décembre 1959.
+Le barème de paiement des combinaisons gagnantes demeure celui prévu à l'article 55-17 de l'arrêté du 14 mai 2007.
 
 Bonus :
 
-Le bonus permet au joueur, moyennant une mise supplémentaire, de percevoir un gain en plus du paiement de sa relance gagnante, à condition d'avoir dans son jeu une combinaison au moins égale à la " couleur ". Ce gain lui est acquis même si le croupier n'est pas qualifié. Le paiement du bonus s'effectue selon un barème affiché, après, le cas échéant, le paiement de la relance, le croupier annonçant " bonus payé ".
+Le bonus permet au joueur, moyennant une mise supplémentaire, de percevoir un gain en plus du paiement de sa relance gagnante, à condition d'avoir dans son jeu une combinaison au moins égale à la "couleur". Ce gain lui est acquis même si le croupier n'est pas qualifié. Le paiement du bonus s'effectue selon un barème affiché, après, le cas échéant, le paiement de la relance, le croupier annonçant "bonus payé".
 
 Il en résulte que si le croupier est qualifié et que le joueur a une main inférieure, il ne perçoit pas le bonus et perd sa mise.
 
-Le bonus doit être joué avant la fin de la donne. Dans la pratique, le joueur mise sur le bonus en même temps qu'il place sa mise initiale. Le montant de la mise pour y participer est égal à 1/5 du minimum pratiqué (0,20 Euros, 2 x 0,20 Euros, 1 Euros, 2 Euros, 4 Euros...).
+Le bonus doit être joué avant la fin de la donne. Dans la pratique, le joueur mise sur le bonus en même temps qu'il place sa mise initiale. Le montant de la mise pour y participer est égal à 1/5 du minimum pratiqué (0,20 euro, 2 x 0,20 euro, 1 euro, 2 euros, 4 euros...).
 
 Le barème de paiement du bonus est le suivant :
 

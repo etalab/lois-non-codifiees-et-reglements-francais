@@ -1,3 +1,0 @@
-# Article 5
-
-Le directeur de la prévention de la pollution et des risques du ministère de l'écologie, du développement et de l'aménagement durables, le directeur du budget, le directeur général des impôts, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le directeur général des entreprises, le directeur général de la comptabilité publique du ministère de l'économie, des finances et de l'emploi, le directeur des libertés publiques et des affaires juridiques du ministère de l'intérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
