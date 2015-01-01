@@ -23,6 +23,7 @@
 - [Arrêté du 2 juillet 2008 (ECEI0811204A)](arrete-du-2-juillet-2008-ecei0811204a)
 - [Arrêté du 2 juillet 2008 (MENE0760301A)](arrete-du-2-juillet-2008-mene0760301a)
 - [Arrêté du 2 juin 2008 (DEVE0813708A)](arrete-du-2-juin-2008-deve0813708a)
+- [Arrêté du 2 juin 2008 (DEVT0809756A)](arrete-du-2-juin-2008-devt0809756a)
 - [Arrêté du 2 juin 2008 (DEVT0813163A)](arrete-du-2-juin-2008-devt0813163a)
 - [Arrêté du 2 juin 2008 (DEVT0813164A)](arrete-du-2-juin-2008-devt0813164a)
 - [Arrêté du 2 octobre 2008 (DEVE0822499A)](arrete-du-2-octobre-2008-deve0822499a)

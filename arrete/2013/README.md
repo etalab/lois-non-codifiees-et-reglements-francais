@@ -276,6 +276,7 @@
 - [Arrêté du 24 décembre 2013 (EFIT1330705A)](arrete-du-24-decembre-2013-efit1330705a)
 - [Arrêté du 24 janvier 2013 (EFIE1239637A)](arrete-du-24-janvier-2013-efie1239637a)
 - [Arrêté du 24 octobre 2012 (TRAA1238086A)](arrete-du-24-octobre-2012-traa1238086a)
+- [Arrêté du 24 octobre 2012 (TRAT1237436A)](arrete-du-24-octobre-2012-trat1237436a)
 - [Arrêté du 24 mai 2013 (ETSD1313216A)](arrete-du-24-mai-2013-etsd1313216a)
 - [Arrêté du 25 avril 2013 (DEFD1311326A)](arrete-du-25-avril-2013-defd1311326a)
 - [Arrêté du 25 avril 2013 (DEVK1302865A)](arrete-du-25-avril-2013-devk1302865a)

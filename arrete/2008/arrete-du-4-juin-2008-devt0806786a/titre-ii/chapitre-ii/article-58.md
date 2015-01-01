@@ -2,15 +2,15 @@
 
 _Titre de circulation de personne, temporaire de courte durée_. ― I.-Par dérogation à l'article 54 du présent arrêté, lorsque la durée de l'accès à la zone d'accès restreint est inférieure ou égale à 24 heures, la demande de titre de circulation temporaire de personne peut être faite par la personne pour laquelle le titre est demandé. Celle-ci :
 
-― s'il s'agit d'une personne mentionné au IV de l'article R. 321-34 du code des ports maritimes, justifie le motif de son entrée en zone d'accès restreint et indique le nom et la fonction de la personne à la demande de laquelle elle est amenée à pénétrer dans la zone d'accès restreint ;
+― s'il s'agit d'une personne mentionné au 4° de l'article R. 5332-37 du code des transports, justifie le motif de son entrée en zone d'accès restreint et indique le nom et la fonction de la personne à la demande de laquelle elle est amenée à pénétrer dans la zone d'accès restreint ;
 
-― s'il s'agit d'une personne mentionnée au VII de l'article R. 321-34 du code des ports maritimes, fournit une attestation de l'organisation syndicale la désignant pour la représenter.
+― s'il s'agit d'une personne mentionnée au 7° de l'article R. 5332-37 du code des transports, fournit une attestation de l'organisation syndicale la désignant pour la représenter.
 
 La personne à laquelle est remis le titre de circulation temporaire dépose une pièce d'identité lors de cette remise.
 
-II.-Les personnes mentionnées au III de l'article R. 321-34 du code des ports maritimes peuvent, pour une durée maximale égale à celle de l'escale, disposer d'un titre de circulation de personne temporaire de courte durée, dans la limite de sept jours. La demande en est formulée par l'armateur qui indique le navire concerné, fournit la liste des personnes pour lesquelles la demande est faite, et justifie pour chacune leur relation professionnelle avec le navire.
+II. ― Les personnes mentionnées au 3° de l'article R. 5332-37 du code des transports peuvent, pour une durée maximale égale à celle de l'escale, disposer d'un titre de circulation de personne temporaire de courte durée, dans la limite de sept jours. La demande en est formulée par l'armateur qui indique le navire concerné, fournit la liste des personnes pour lesquelles la demande est faite, et justifie pour chacune leur relation professionnelle avec le navire.
 
-III.-L'exploitant de l'installation portuaire tient une liste des titres de circulation temporaires de personne de courte durée. Cette liste comprend pour chaque titre les informations suivantes :
+III. ― L'exploitant de l'installation portuaire tient une liste des titres de circulation temporaires de personne de courte durée. Cette liste comprend pour chaque titre les informations suivantes :
 
 ― identité du bénéficiaire (nom, prénoms) ;
 

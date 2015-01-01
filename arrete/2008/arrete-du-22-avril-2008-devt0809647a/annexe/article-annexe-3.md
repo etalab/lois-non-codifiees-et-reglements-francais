@@ -94,27 +94,27 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 <tbody>
 <tr>
 <td colspan="6" width="680">
-<p align="center">2.1. Tableau d'enregistrement des modifications ou compléments au plan de sûreté du port de xx,<br/>apportés par l'agent de sûreté du port et approuvés par le préfet</p>
+<p align="center">2.1. Tableau d'enregistrement des modifications ou compléments au plan de sûreté du port de xx, <br/>apportés par l'agent de sûreté du port et approuvés par le préfet </p>
 </td>
 </tr>
 <tr>
 <td width="91">
-<p align="center">NUMERO<br/>de la modification ou du complément</p>
+<p align="center">NUMERO <br/>de la modification ou du complément </p>
 </td>
 <td width="91">
-<p align="center">DATE <br/>de la modification ou du complément</p>
+<p align="center">DATE <br/>de la modification ou du complément </p>
 </td>
 <td width="136">
-<p align="center">DISPOSITIONS<br/>avant modification ou complément</p>
+<p align="center">DISPOSITIONS <br/>avant modification ou complément </p>
 </td>
 <td width="136">
-<p align="center">DISPOSITIONS<br/>après modification ou complément</p>
+<p align="center">DISPOSITIONS <br/>après modification ou complément </p>
 </td>
 <td width="91">
-<p align="center">VISA<br/>de l'agent de sûreté portuaire (date et signature)</p>
+<p align="center">VISA <br/>de l'agent de sûreté portuaire (date et signature) </p>
 </td>
 <td width="136">
-<p align="center">DÉCISION <br/>du préfet de prescrire une nouvelle approbation : résumé de la motivation (date et signature)</p>
+<p align="center">DÉCISION <br/>du préfet de prescrire une nouvelle approbation : résumé de la motivation (date et signature) </p>
 </td>
 </tr>
 <tr>
@@ -196,51 +196,40 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 
 2.3.1. Au niveau du port
 
-- Autorité portuaire ;
+-Autorité portuaire ;
 
-- Concessionnaire (éventuellement)
+-Concessionnaire (éventuellement)
 
-- Noms de l'agent de sûreté du port (ASP) et de son ou ses suppléants et coordonnées où ils peuvent être joints ;
+-Noms de l'agent de sûreté du port (ASP) et de son ou ses suppléants et coordonnées où ils peuvent être joints ;
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="113">
-<p>ASP et<br/>ASP suppléants</p>
+<p>ASP et <br/>ASP suppléants </p>
 </td>
 <td valign="top" width="113">
-<p align="center">NOM<br/>Prénoms</p>
+<p align="center">NOM <br/>Prénoms </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>prof.</p>
+<p align="center">Téléph. <br/>prof. </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>mobile</p>
+<p align="center">Téléph. <br/>mobile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>domicile</p>
+<p align="center">Téléph. <br/>domicile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Fax</p>
+<p align="center">Fax </p>
 </td>
 <td valign="top" width="151">
-<p align="center">Adresse électronique</p>
+<p align="center">Adresse électronique </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>ASIP</p>
-</td>
-<td valign="top" width="113"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>Suppléant</p>
+<p>ASIP </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -251,7 +240,18 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Suppléant</p>
+<p>Suppléant </p>
+</td>
+<td valign="top" width="113"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p>Suppléant </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -274,28 +274,28 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tbody>
 </table>
 
--Nom du correspondant sûreté du concessionnaire (s'il v a lieu) et coordonnées où il peut être Joint;
+-Nom du correspondant sûreté du concessionnaire (s'il v a lieu) et coordonnées où il peut être Joint ;
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="113">
-<p>Correspondant<br/>sûreté du<br/>concessionnaire</p>
+<p>Correspondant <br/>sûreté du <br/>concessionnaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">NOM<br/>Prénoms</p>
+<p align="center">NOM <br/>Prénoms </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>prof.</p>
+<p align="center">Téléph. <br/>prof. </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>mobile</p>
+<p align="center">Téléph. <br/>mobile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>domicile</p>
+<p align="center">Téléph. <br/>domicile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Fax</p>
+<p align="center">Fax </p>
 </td>
 <td valign="top" width="151">
 <p align="center">Adresse électronique</p>
@@ -310,41 +310,30 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 <tbody>
 <tr>
 <td valign="top" width="113">
-<p>Fonction</p>
+<p>Fonction </p>
 </td>
 <td valign="top" width="113">
-<p align="center">NOM<br/>Prénoms</p>
+<p align="center">NOM <br/>Prénoms </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>prof.</p>
+<p align="center">Téléph. <br/>prof. </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>mobile</p>
+<p align="center">Téléph. <br/>mobile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téleph.<br/>domicile</p>
+<p align="center">Téleph. <br/>domicile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Fax</p>
+<p align="center">Fax </p>
 </td>
 <td valign="top" width="151">
-<p align="center">Adresse électronique</p>
+<p align="center">Adresse électronique </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Responsable de</p>
-</td>
-<td valign="top" width="113"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>PC sûreté</p>
+<p>Responsable de </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -355,8 +344,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Poste de contrôle</p>
-<p>accès 1</p>
+<p>PC sûreté </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -367,7 +355,19 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Poste de contrôle</p>
+<p>Poste de contrôle </p>
+<p>accès 1 </p>
+</td>
+<td valign="top" width="113"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p>Poste de contrôle </p>
 <p>accès 2</p>
 </td>
 <td valign="top" width="113"/>
@@ -413,51 +413,39 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tbody>
 </table>
 
-- Liste des personnes ressources en matière de sûreté et coordonnées où elles peuvent être jointes (listes indicatives) :
+-Liste des personnes ressources en matière de sûreté et coordonnées où elles peuvent être jointes (listes indicatives) :
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="95">
-<p>Fonction</p>
+<p>Fonction </p>
 </td>
 <td valign="top" width="95">
-<p align="center">NOM<br/>Prénoms</p>
+<p align="center">NOM <br/>Prénoms </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>prof.</p>
+<p align="center">Téléph. <br/>prof. </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>mobile</p>
+<p align="center">Téléph. <br/>mobile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>domicile</p>
+<p align="center">Téléph. <br/>domicile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Fax</p>
+<p align="center">Fax </p>
 </td>
 <td valign="top" width="95">
-<p align="center">Adresse<br/>électronique</p>
+<p align="center">Adresse <br/>électronique </p>
 </td>
 <td valign="top" width="95">
-<p align="center">Adresse électronique</p>
+<p align="center">Adresse électronique </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Capitainerie, AIPPP</p>
-</td>
-<td valign="top" width="95"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="95"/>
-<td valign="top" width="95"/>
-</tr>
-<tr>
-<td valign="top" width="95">
-<p>Direction du port (autorité portuaire)</p>
+<p>Capitainerie, AIPPP </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -469,7 +457,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Direction de l'exploitation du port</p>
+<p>Direction du port (autorité portuaire) </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -481,7 +469,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Préfecture(spécifier le service)</p>
+<p>Direction de l'exploitation du port </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -493,7 +481,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Préfecture maritime (spécifier le service)</p>
+<p>Préfecture (spécifier le service) </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -505,7 +493,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Police aux Frontières</p>
+<p>Préfecture maritime (spécifier le service) </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -517,7 +505,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Police (Sécurité publique)</p>
+<p>Police aux Frontières </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -529,7 +517,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Gendarmerie</p>
+<p>Police (Sécurité publique) </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -541,7 +529,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Douanes</p>
+<p>Gendarmerie </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -553,7 +541,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Affaires maritimes</p>
+<p>Douanes </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -565,7 +553,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Service d'incendie et de secours</p>
+<p>Affaires maritimes </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -577,7 +565,19 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="95">
-<p>Sécurité civile</p>
+<p>Service d'incendie et de secours </p>
+</td>
+<td valign="top" width="95"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="95"/>
+<td valign="top" width="95"/>
+</tr>
+<tr>
+<td valign="top" width="95">
+<p>Sécurité civile </p>
 </td>
 <td valign="top" width="95"/>
 <td valign="top" width="76"/>
@@ -630,52 +630,41 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tbody>
 </table>
 
-2.3.2. Au niveau de chaque installation portuaire : Noms de l'agent de sûreté de l'installation portuaire (ASIP) et de son ou ses suppléants et coordonnées où ils peuvent être joints 24h/24h)
+2.3.2. Au niveau de chaque installation portuaire : Noms de l'agent de sûreté de l'installation portuaire (ASIP) et de son ou ses suppléants et coordonnées où ils peuvent être joints 24h/ 24h)
 
 <table>
 <tbody>
 <tr>
 <td colspan="7" valign="top" width="151">
-<p>Installation portuaire (numéro, nom)</p>
+<p>Installation portuaire (numéro, nom) </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>ASIP et ASIP suppléants</p>
+<p>ASIP et ASIP suppléants </p>
 </td>
 <td valign="top" width="113">
-<p align="center">NOM<br/>Prénoms</p>
+<p align="center">NOM <br/>Prénoms </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>prof.</p>
+<p align="center">Téléph. <br/>prof. </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Téléph.<br/>mobile</p>
+<p align="center">Téléph. <br/>mobile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Teleph.<br/>domicile</p>
+<p align="center">Teleph. <br/>domicile </p>
 </td>
 <td valign="top" width="76">
-<p align="center">Fax</p>
+<p align="center">Fax </p>
 </td>
 <td valign="top" width="151">
-<p align="center">Adresse électronique iquectroniquetroniqueAdressea</p>
+<p align="center">Adresse électronique iquectroniquetroniqueAdressea </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>ASIP</p>
-</td>
-<td valign="top" width="113"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="76"/>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="113">
-<p>Suppléant</p>
+<p>ASIP </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -686,7 +675,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Suppléant</p>
+<p>Suppléant </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -697,7 +686,18 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="113">
-<p>Suppléant</p>
+<p>Suppléant </p>
+</td>
+<td valign="top" width="113"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="76"/>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p>Suppléant </p>
 </td>
 <td valign="top" width="113"/>
 <td valign="top" width="76"/>
@@ -711,31 +711,31 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 
 2.4. Liste de diffusion du plan de sûreté portuaire
 
-2.4.1. Volume 1 - Confidentiel Sûreté - (ce volume comprend le plan de sûreté portuaire dans son métier)
+2.4.1. Volume 1-Confidentiel Sûreté-(ce volume comprend le plan de sûreté portuaire dans son métier)
 
 <table>
 <tbody>
 <tr>
 <td width="115">
-<p align="center">NOM PRENOMS</p>
+<p align="center">NOM PRENOMS </p>
 </td>
 <td width="68">
-<p align="center">DATE <br/>de naissance</p>
+<p align="center">DATE <br/>de naissance </p>
 </td>
 <td width="137">
-<p align="center">QUALITE</p>
+<p align="center">QUALITE </p>
 </td>
 <td width="59">
-<p align="center">NUMERO<br/>d'exemplaire</p>
+<p align="center">NUMERO <br/>d'exemplaire </p>
 </td>
 <td width="54">
-<p align="center">DATE<br/>de remise</p>
+<p align="center">DATE <br/>de remise </p>
 </td>
 <td width="113">
-<p align="center">SIGNATURE</p>
+<p align="center">SIGNATURE </p>
 </td>
 <td width="51">
-<p align="center">DATE<br/>de restitution</p>
+<p align="center">DATE <br/>de restitution </p>
 </td>
 <td width="83">
 <p align="center">SIGNATURE</p>
@@ -911,7 +911,7 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tr>
 <tr>
 <td valign="top" width="115">
-<p>.</p>
+<p>. </p>
 </td>
 <td valign="top" width="68"/>
 <td valign="top" width="137"/>
@@ -924,34 +924,34 @@ Si le port ou une partie du port est désigné point d'importance vitale au titr
 </tbody>
 </table>
 
-2.4.2. Volume 2 - Distribution limitée - : Ce volume ne reprend que les informations, listées au point 11 du plan de sûreté portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté. L'identification des risques n'y figure pas.
+2.4.2. Volume 2-Distribution limitée-: Ce volume ne reprend que les informations, listées au point 11 du plan de sûreté portuaire, communicables aux personnes chargées d'effectuer les visites de sûreté. L'identification des risques n'y figure pas.
 
 <table>
 <tbody>
 <tr>
 <td width="114">
-<p align="center">NOM PRENOMS</p>
+<p align="center">NOM PRENOMS </p>
 </td>
 <td width="68">
-<p align="center">DATE <br/>de naissance</p>
+<p align="center">DATE <br/>de naissance </p>
 </td>
 <td width="137">
-<p align="center">QUALITE</p>
+<p align="center">QUALITE </p>
 </td>
 <td width="59">
-<p align="center">NUMERO<br/>d'exemplaire</p>
+<p align="center">NUMERO <br/>d'exemplaire </p>
 </td>
 <td width="55">
-<p align="center">DATE<br/>de remise</p>
+<p align="center">DATE <br/>de remise </p>
 </td>
 <td width="114">
-<p align="center">SIGNATURE</p>
+<p align="center">SIGNATURE </p>
 </td>
 <td width="51">
-<p align="center">DATE<br/>de restitution</p>
+<p align="center">DATE <br/>de restitution </p>
 </td>
 <td width="83">
-<p align="center">SIGNATURE</p>
+<p align="center">SIGNATURE </p>
 </td>
 </tr>
 <tr>
@@ -1175,7 +1175,7 @@ Si le port ou une partie du port est désigné point d'importance vitale, décri
 
 5. Protection des plans d'eau
 
--Coordination des mesures opérationnelles de protection des plans d'eau entre le préfet de département, le préfet maritime, l'autorité investie du pouvoir de police portuaire, l'autorité portuaire et les exploitants d'installations portuaires. Dans les ports figurant dans la liste fixée par l'arrêté mentionné à l'article R. 321-48 du code des ports maritimes les modalités de coordination des services de l'Etat sont définies par un arrêté conjoint du préfet maritime et du préfet du département ;
+-Coordination des mesures opérationnelles de protection des plans d'eau entre le préfet de département, le préfet maritime, l'autorité investie du pouvoir de police portuaire, l'autorité portuaire et les exploitants d'installations portuaires. Dans les ports figurant dans la liste fixée par l'arrêté mentionné à l'article R. 5332-51 du code des transports les modalités de coordination des services de l'Etat sont définies par un arrêté conjoint du préfet maritime et du préfet du département ;
 
 -Limitations des circulations sur les plans d'eau, lorsqu'elles existent, en fonction des niveaux de sûreté ;
 
@@ -1211,7 +1211,7 @@ Identification de chaque ZAR avec les informations suivantes :
 
 -Catégories de personnel et d'activités concernés ;
 
--Flux d'entrée et nombre de titres de circulation selon les catégories définies à l'article R. 321-34 du code des ports maritimes ;
+-Flux d'entrée et nombre de titres de circulation selon les catégories définies à l'article R. 5332-37 du code des transports ;
 
 -Schéma de circulation. Il sera prêté une attention particulière aux circulations entre les ZAR extérieures aux installations portuaires et les ZAR situées dans une installation portuaire auxquelles elles donnent, le cas échéant, accès.
 
@@ -1259,7 +1259,7 @@ Pour chaque ZAR, préciser les informations ci-dessous. Si certaines catégories
 
 6.5. Zones non librement accessibles
 
-Il peut exister au sein du port des zones non librement accessibles au public qui ne sont pas des ZAR telles que définies aux articles R. 321-31 et R. 321-32 du code des ports maritimes et où ne sont pas applicables les articles R. 321-33 à R. 321-47 du code des ports maritimes.
+Il peut exister au sein du port des zones non librement accessibles au public qui ne sont pas des ZAR telles que définies aux articles R. 5332-34 et R. 5332-35 du code des transports et où ne sont pas applicables les articles R. 5332-36 à R. 5332-50 du code des transports.
 
 Le plan de sûreté portuaire les décrit (plan, clôtures, accès), détaille leurs règles de fonctionnement (contrôles d'accès, circulation) et les articulations avec les règles de sûreté du port et des ZAR adjacentes, en démontrant que la sûreté du port dans son ensemble et de chaque installation portuaire adjacente n'est pas dégradée, quel que soit le niveau de sûreté.
 
@@ -1311,7 +1311,7 @@ Le plan de sûreté portuaire traitera au minimum chacun des points suivants :
 
 -Contrôle de l'état des matériels de protection, de surveillance, de contrôle et de communication (préciser procédures et périodicité d'entretien et enregistrement) ;
 
--Création et tenue à jour d'un registre de sûreté comprenant une liste chronologique de tous événements liés à la sûreté : formation, incidents de sûreté, exercices et entraînements de sûreté accomplis, changements de niveau, mise en œuvre et de suivi des mesures correctives, etc.Y sont également annexées les déclarations de sûreté remplies par l'agent de sûreté portuaire et le capitaine ou l'agent de sûreté du navire. La durée de conservation du registre de sûreté est au moins égale à la durée de validité du plan majorée de deux ans ;
+-Création et tenue à jour d'un registre de sûreté comprenant une liste chronologique de tous événements liés à la sûreté : formation, incidents de sûreté, exercices et entraînements de sûreté accomplis, changements de niveau, mise en œuvre et de suivi des mesures correctives, etc. Y sont également annexées les déclarations de sûreté remplies par l'agent de sûreté portuaire et le capitaine ou l'agent de sûreté du navire. La durée de conservation du registre de sûreté est au moins égale à la durée de validité du plan majorée de deux ans ;
 
 -Procédure d'analyse de chaque incident de sûreté et, le cas échéant, de mise en œuvre et de suivi des mesures correctives ;
 

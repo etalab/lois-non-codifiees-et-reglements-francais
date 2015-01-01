@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des ports mentionnée à l'article R. 321-15 du code des ports maritimes est la suivante :
+La liste des ports mentionnée à l'article R. 5332-18 du code des transports est la suivante :
 
 <table>
 <tbody>
@@ -188,7 +188,7 @@ La liste des ports mentionnée à l'article R. 321-15 du code des ports maritime
 <p>Haute-Corse. </p>
 </td>
 <td valign="top" width="339">
-<p>Bastia.</p>
+<p>Bastia. </p>
 <p>L'Ile-Rousse. </p>
 <p>Calvi. </p>
 </td>

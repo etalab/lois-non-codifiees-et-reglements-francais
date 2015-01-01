@@ -1,8 +1,8 @@
 # Article 3
 
-La formation des auxiliaires de surveillance mentionnés à l'article R. 303-7 du code des ports maritimes porte sur les éléments suivants :
+La formation des auxiliaires de surveillance mentionnés à l'article R. 5331-14 du code des transports porte sur les éléments suivants :
 
-a) Module « police portuaire » :
+a) Module " police portuaire " :
 
 ― police administrative et police judiciaire (contraventions de grande voirie et contraventions judiciaires, aspects théoriques) ;
 
@@ -22,7 +22,7 @@ a) Module « police portuaire » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 35 heures.
 
-b) Module « police de l'exploitation » :
+b) Module " police de l'exploitation " :
 
 ― le fonctionnement de la place portuaire ;
 
@@ -36,7 +36,7 @@ b) Module « police de l'exploitation » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 14 heures.
 
-c) Module « conservation du domaine public portuaire » :
+c) Module " conservation du domaine public portuaire " :
 
 ― constatation de l'infraction : repérer et identifier les atteintes aux ouvrages ;
 

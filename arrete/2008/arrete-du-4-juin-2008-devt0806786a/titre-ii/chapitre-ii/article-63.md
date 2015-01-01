@@ -1,8 +1,8 @@
 # Article 63
 
-_Informations figurant sur le titre de circulation national_. ― Le titre de circulation national mentionné à l'article R. 321-35 du code des ports maritimes porte au recto les informations suivantes :
+_Informations figurant sur le titre de circulation national_. ― Le titre de circulation national mentionné à l'article R. 5332-38 du code des transports porte au recto les informations suivantes :
 
-― mention "Titre national" ;
+― mention " Titre national " ;
 
 ― date de fin de validité du titre ;
 

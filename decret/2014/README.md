@@ -862,7 +862,6 @@
 - [Décret n°2014-378 du 28 mars 2014 (INTA1402932D)](decret-n2014-378-du-28-mars-2014-inta1402932d)
 - [Décret n°2014-381 du 28 mars 2014 (DEFD1327360D)](decret-n2014-381-du-28-mars-2014-defd1327360d)
 - [Décret n°2014-382 du 28 mars 2014 (MCCE1330362D)](decret-n2014-382-du-28-mars-2014-mcce1330362d)
-- [Décret n°2014-383 du 28 mars 2014 (TRAT1315180D)](decret-n2014-383-du-28-mars-2014-trat1315180d)
 - [Décret n°2014-62 du 28 janvier 2014 (EXTD1326666D)](decret-n2014-62-du-28-janvier-2014-extd1326666d)
 - [DÉCRET n°2014-845 du 28 juillet 2014 (PRMX1413437D)](decret-n2014-845-du-28-juillet-2014-prmx1413437d)
 - [DÉCRET n°2014-846 du 28 juillet 2014 (DEVL1411349D)](decret-n2014-846-du-28-juillet-2014-devl1411349d)

@@ -6,4 +6,4 @@ Les prix des produits pétroliers et gaziers comprennent les éléments de fisca
 
 Chaque modification de ces éléments de fiscalité est immédiatement répercutée dans les prix de vente au détail par un arrêté préfectoral modificatif.
 
-De même, les prix des produits pétroliers et gaziers comprennent le montant de la redevance perçue par l'établissement public du port autonome en application de l'article R. 212-13 du code des ports maritimes et la contribution au titre des certificats d'économie d'énergie issue du décret n° 2010-1664 du 29 décembre 2010 applicable jusqu'au 31 décembre 2014, à l'exception des bouteilles de gaz de pétrole liquéfié qui ne sont pas assujetties à cette contribution.
+De même, les prix des produits pétroliers et gaziers comprennent le montant de la redevance perçue par l'établissement public du port autonome en application de l'article R. 5321-30 du code des transports et la contribution au titre des certificats d'économie d'énergie issue du décret n° 2010-1664 du 29 décembre 2010 applicable jusqu'au 31 décembre 2014, à l'exception des bouteilles de gaz de pétrole liquéfié qui ne sont pas assujetties à cette contribution.

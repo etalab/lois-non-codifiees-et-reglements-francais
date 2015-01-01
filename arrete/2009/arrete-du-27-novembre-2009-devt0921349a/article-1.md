@@ -1,8 +1,8 @@
 # Article 1
 
-La formation des surveillants de port exerçant leurs fonctions dans les ports de plaisance mentionnés à l'article R. 303-5 du code des ports maritimes porte sur les éléments suivants :
+La formation des surveillants de port exerçant leurs fonctions dans les ports de plaisance mentionnés à l'article R. 5331-12 du code des transports porte sur les éléments suivants :
 
-a) Module « police portuaire » :
+a) Module " police portuaire " :
 
 ― police administrative et police judiciaire (contraventions de grande voirie et contraventions judiciaires, aspects théoriques) ;
 
@@ -34,7 +34,7 @@ a) Module « police portuaire » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 35 heures.
 
-b) Module « navigation et savoir-faire marins » :
+b) Module " navigation et savoir-faire marins " :
 
 ― réglementation de la vitesse dans le port ;
 
@@ -60,7 +60,7 @@ b) Module « navigation et savoir-faire marins » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 7 heures.
 
-c) Module « conservation du domaine public portuaire » :
+c) Module " conservation du domaine public portuaire " :
 
 ― constatation de l'infraction : repérer et identifier les atteintes aux ouvrages ;
 
@@ -72,7 +72,7 @@ c) Module « conservation du domaine public portuaire » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 7 heures.
 
-d) Module « météorologie » :
+d) Module " météorologie " :
 
 ― connaissance des principaux phénomènes météorologiques ;
 
@@ -84,7 +84,7 @@ d) Module « météorologie » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 7 heures.
 
-e) Module « prévention et lutte contre les sinistres et accidents » :
+e) Module " prévention et lutte contre les sinistres et accidents " :
 
 ― techniques d'intervention sur une voie d'eau, utilisation des pompes d'assèchement ;
 
@@ -98,9 +98,9 @@ e) Module « prévention et lutte contre les sinistres et accidents » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 14 heures.
 
-f) Module « secourisme » :
+f) Module " secourisme " :
 
-― formation « Prévention et secours civiques de niveau 1 » (PSC 1).
+― formation " Prévention et secours civiques de niveau 1 " (PSC 1).
 
 La durée des enseignements dispensés dans le cadre de ce module est de 10 heures.
 

@@ -1,8 +1,8 @@
 # Article 2
 
-La formation des surveillants de port exerçant leurs fonctions dans un port ou un bassin dont l'activité exclusive n'est pas la plaisance mentionnés à l'article R. 303-6 du code des ports maritimes porte sur, outre les éléments mentionnés à l'article 1er, les éléments suivants :
+La formation des surveillants de port exerçant leurs fonctions dans un port ou un bassin dont l'activité exclusive n'est pas la plaisance mentionnés à l'article R. 5331-13 du code des transports porte sur, outre les éléments mentionnés à l'article 1er, les éléments suivants :
 
-a) Module « navires de commerce et de pêche » :
+a) Module " navires de commerce et de pêche " :
 
 ― caractéristiques du navire (jauges brute et nette, déplacements à pleine charge, longueur hors-tout, largeur maximale, tirant d'eau, tirant d'air) ;
 
@@ -14,7 +14,7 @@ a) Module « navires de commerce et de pêche » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 7 heures.
 
-b) Module « fonctionnement de la place portuaire » :
+b) Module " fonctionnement de la place portuaire " :
 
 ― les services technico-nautiques (remorquage, lamanage, pilotage) ;
 
@@ -22,9 +22,9 @@ b) Module « fonctionnement de la place portuaire » :
 
 ― le fonctionnement de la conférence de placement.
 
-La durée des enseignements dispensés dans le cadre de ce module est de 3, 5 heures.
+La durée des enseignements dispensés dans le cadre de ce module est de 3,5 heures.
 
-c) Module « gestion de l'escale » :
+c) Module " gestion de l'escale " :
 
 ― les formalités déclaratives à l'entrée ;
 
@@ -36,15 +36,15 @@ c) Module « gestion de l'escale » :
 
 La durée des enseignements dispensés dans le cadre de ce module est de 14 heures.
 
-d) Module « réglementation des matières dangereuses » :
+d) Module " réglementation des matières dangereuses " :
 
 ― les classes de matières dangereuses ;
 
 ― les règles de non-voisinage sur les quais.
 
-La durée des enseignements dispensés dans le cadre de ce module est de 3, 5 heures.
+La durée des enseignements dispensés dans le cadre de ce module est de 3,5 heures.
 
-e) Module « ports de pêche » :
+e) Module " ports de pêche " :
 
 ― caractéristiques et typologie des navires de pêche ;
 

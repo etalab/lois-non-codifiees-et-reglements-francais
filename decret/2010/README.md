@@ -107,7 +107,6 @@
 - [Décret n°2010-455 du 4 mai 2010 (DEVP0922126D)](decret-n2010-455-du-4-mai-2010-devp0922126d)
 - [Décret n°2010-456 du 4 mai 2010 (DEVP1005517D)](decret-n2010-456-du-4-mai-2010-devp1005517d)
 - [Décret n°2010-457 du 4 mai 2010 (SASP1001923D)](decret-n2010-457-du-4-mai-2010-sasp1001923d)
-- [Décret n°2009-1360 du 5 novembre 2009 (DEVT0906408D)](decret-n2009-1360-du-5-novembre-2009-devt0906408d)
 - [Décret n°2010-1172 du 5 octobre 2010 (DEVP1010666D)](decret-n2010-1172-du-5-octobre-2010-devp1010666d)
 - [Décret n°2010-1173 du 5 octobre 2010 (DEVP1009379D)](decret-n2010-1173-du-5-octobre-2010-devp1009379d)
 - [Décret n°2010-1174 du 5 octobre 2010 (DEVA1014450D)](decret-n2010-1174-du-5-octobre-2010-deva1014450d)

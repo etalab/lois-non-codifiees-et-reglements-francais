@@ -1,6 +1,6 @@
 # Article 1
 
-Les conventions de terminal mentionnées à l'article R. 105-1 du code des ports maritimes comportent obligatoirement des dispositions relatives aux points suivants :
+Les conventions de terminal mentionnées à l'article R. 5312-83 du code des transports comportent obligatoirement des dispositions relatives aux points suivants :
 
 1. Le type de trafic traité sur le terminal ;
 
@@ -30,7 +30,7 @@ Les conventions de terminal mentionnées à l'article R. 105-1 du code des ports
 
 14. Les modalités de règlements des litiges ;
 
-15. Les indicateurs de suivi mentionné à l'article R. 105-2 du code des ports maritimes.
+15. Les indicateurs de suivi mentionné à l'article R. 5312-84 du code des transports
 
 Les conventions de terminal mentionnent, le cas échéant, les objectifs de trafic fixés à l'opérateur ainsi que les pénalités en cas de manquement à ces objectifs.
 
