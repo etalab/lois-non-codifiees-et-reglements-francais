@@ -62,8 +62,8 @@ Groupe unique
 
 Sous-groupe unique : adjoints administratifs principaux de 1re classe, permanenciers auxiliaires de régulation médicale chefs, adjoints administratifs principaux de 2e classe, permanenciers auxiliaires de régulation médicale principaux, adjoints administratifs de 1re classe, permanenciers auxiliaires de régulation médicale, adjoints administratifs de 2e classe, agents administratifs de Mayotte.
 
-CAP n° 10 : Personnels sages-femmes
+CAP n° 10 : personnels sages-femmes
 
 Groupe unique
 
-Sous-groupe unique : directeurs d'écoles préparant au certificat-cadre de sages-femmes, directeurs d'écoles préparant au diplôme d'Etat de sages-femmes, sages-femmes cadres supérieurs, sages-femmes cadres, sages-femmes de classe supérieure, sages-femmes de classe normale.
+Sous-groupe unique : sages-femmes des hôpitaux du deuxième grade, sages-femmes des hôpitaux du premier grade.
