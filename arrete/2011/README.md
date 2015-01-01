@@ -2221,7 +2221,6 @@
 - [Arrêté du 25 novembre 2011 (AGRG1132072A)](arrete-du-25-novembre-2011-agrg1132072a)
 - [Arrêté du 25 novembre 2011 (AGRG1132074A)](arrete-du-25-novembre-2011-agrg1132074a)
 - [Arrêté du 25 novembre 2011 (AGRG1132076A)](arrete-du-25-novembre-2011-agrg1132076a)
-- [Arrêté du 25 novembre 2011 (DEVR1132132A)](arrete-du-25-novembre-2011-devr1132132a)
 - [Arrêté du 25 novembre 2011 (INDR1132115A)](arrete-du-25-novembre-2011-indr1132115a)
 - [Arrêté du 25 novembre 2011 (INDR1132119A)](arrete-du-25-novembre-2011-indr1132119a)
 - [Arrêté du 25 novembre 2011 (IOCC1130849A)](arrete-du-25-novembre-2011-iocc1130849a)
