@@ -6,14 +6,14 @@
 <tbody>
 <tr>
 <td>
-<p align="center"> OBJET DE LA DEMANDE</p>
+<p align="center">OBJET DE LA DEMANDE</p>
 </td>
 <td>
-<p align="center"> DISPOSITIONS APPLICABLES <br clear="none"/>
+<p align="center">DISPOSITIONS APPLICABLES <br clear="none"/>
 </p>
 </td>
 <td>
-<p align="center"> DÉLAI À L'EXPIRATION <br clear="none"/>duquel la décision est acquise, lorsqu'il est différent du délai de deux mois </p>
+<p align="center">DÉLAI À L'EXPIRATION <br clear="none"/>duquel la décision est acquise, lorsqu'il est différent du délai de deux mois </p>
 </td>
 </tr>
 <tr>
@@ -149,35 +149,6 @@ Article R. 543-162
 <br clear="none"/>
 </td>
 <td align="center">18 mois <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3" valign="middle">Code rural et de la pêche maritime <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td>Transfert des antériorités d'un producteur ou d'une réserve d'organisations de producteurs ou de navires n'appartenant pas à une organisation de producteurs ou de la réserve nationale <br clear="none"/>
-</td>
-<td valign="middle">
-Articles L. 921-4 et L. 921-5
-<br clear="none"/>Articles 1er et 5 de l'arrêté du 26 décembre 2006 <br clear="none"/>
-</td>
-<td align="center" valign="middle"/>
-</tr>
-<tr>
-<td valign="middle">Réallocation des quotas et sous-quotas non affectés et demandes d'échanges de quotas ou sous-quotas entre organisation de producteurs, groupement de navires ou navires n'appartenant pas à une organisation de producteurs <br clear="none"/>
-</td>
-<td>Articles L. 921-4 et L. 921-5 <br clear="none"/>
-</td>
-<td align="center" valign="middle"/>
-</tr>
-<tr>
-<td valign="middle">Autorisations de pêche d'espèces soumises ou non à un total autorisé de captures ou à des quotas de captures délivrées sous le contrôle de l'autorité administrative par des organisations de producteurs ou par le comité national ou par les comités régionaux des pêches maritimes et des élevages marins (autorisations déléguées à des organismes de droit privé) <br clear="none"/>
-</td>
-<td>5e alinéa de l'article L. 921-2
-<br clear="none"/>
-</td>
-<td align="center">1 an <br clear="none"/>
 </td>
 </tr>
 <tr>

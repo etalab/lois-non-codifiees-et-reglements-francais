@@ -1,6 +1,5 @@
 # 1987
 
-- [Décret n°87-368 du 1 juin 1987 (MERP8700020D)](decret-n87-368-du-1-juin-1987-merp8700020d)
 - [Décret n°87-473 du 1 juillet 1987 (PRMJ8760043D)](decret-n87-473-du-1-juillet-1987-prmj8760043d)
 - [Décret n°87-477 du 1 juillet 1987 (EQUC8700173D)](decret-n87-477-du-1-juillet-1987-equc8700173d)
 - [Décret n°87-482 du 1 juillet 1987 (ASEH8700988D)](decret-n87-482-du-1-juillet-1987-aseh8700988d)
@@ -177,7 +176,6 @@
 - [Décret n°87-688 du 18 août 1987 (AGRX8798368D)](decret-n87-688-du-18-aout-1987-agrx8798368d)
 - [Décret n°87-123 du 19 février 1987 (MAEJ8730009D)](decret-n87-123-du-19-fevrier-1987-maej8730009d)
 - [Décret n°87-124 du 19 février 1987 (MAEJ8730005D)](decret-n87-124-du-19-fevrier-1987-maej8730005d)
-- [Décret n°87-182 du 19 mars 1987 (MERP8700010D)](decret-n87-182-du-19-mars-1987-merp8700010d)
 - [Décret n°87-195 du 19 mars 1987 (ASED8703205D)](decret-n87-195-du-19-mars-1987-ased8703205d)
 - [Décret n°87-428 du 19 juin 1987](decret-n87-428-du-19-juin-1987)
 - [Décret n°87-435 du 19 juin 1987 (INTA8720013D)](decret-n87-435-du-19-juin-1987-inta8720013d)

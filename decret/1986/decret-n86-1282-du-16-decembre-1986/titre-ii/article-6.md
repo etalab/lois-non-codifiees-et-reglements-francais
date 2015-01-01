@@ -1,5 +1,0 @@
-# Article 6
-
-La demande d'extension est présentée par l'organisation de producteurs qui précise, d'une part, les raisons pour lesquelles l'activité des non-adhérents est de nature à compromettre les disciplines qui résultent de l'application des règles énoncées à l'article 5 et, d'autre part, si la mesure est demandée à titre préventif pour la durée totale de la campagne de pêche ou pour une durée plus limitée en réponse à de graves perturbations du marché caractérisées par un déséquilibre important et imprévu portant, notamment, sur le volume des apports ou des retraits ou sur le niveau des prix ; elle indique celles des règles dont l'extension est sollicitée, la zone géographique et les espèces concernées par cette extension ainsi que la durée pour laquelle celle-ci est demandée. Elle peut porter en outre sur l'assujettissement des non-adhérents au paiement d'une quote-part de la cotisation exigée des adhérents.
-
-La demande d'extension est adressée au préfet de la région du ressort de laquelle dépend le siège social de l'organisation de producteurs.

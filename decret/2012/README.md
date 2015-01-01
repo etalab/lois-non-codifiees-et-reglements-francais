@@ -550,7 +550,6 @@
 - [Décret n°2012-529 du 19 avril 2012 (ETSS1201796D)](decret-n2012-529-du-19-avril-2012-etss1201796d)
 - [Décret n°2012-530 du 19 avril 2012 (ETST1131010D)](decret-n2012-530-du-19-avril-2012-etst1131010d)
 - [Décret n°2012-531 du 19 avril 2012 (ETSP1208865D)](decret-n2012-531-du-19-avril-2012-etsp1208865d)
-- [Décret n°2012-64 du 19 janvier 2012 (AGRM1128943D)](decret-n2012-64-du-19-janvier-2012-agrm1128943d)
 - [Décret n°2012-891 du 19 juillet 2012 (PRMX1229717D)](decret-n2012-891-du-19-juillet-2012-prmx1229717d)
 - [Décret n°2012-892 du 19 juillet 2012 (HANX1228107D)](decret-n2012-892-du-19-juillet-2012-hanx1228107d)
 - [Décret n°2012-893 du 19 juillet 2012 (AGLX1228627D)](decret-n2012-893-du-19-juillet-2012-aglx1228627d)

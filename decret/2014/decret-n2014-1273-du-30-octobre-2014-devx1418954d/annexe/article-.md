@@ -6,14 +6,14 @@ Liste des demandes
 <tbody>
 <tr>
 <td>
-<p align="center"> OBJET DE LA DEMANDE <br clear="none"/>
+<p align="center">OBJET DE LA DEMANDE <br clear="none"/>
 </p>
 </td>
 <td>
-<p align="center"> DISPOSITIONS APPLICABLES </p>
+<p align="center">DISPOSITIONS APPLICABLES </p>
 </td>
 <td>
-<p align="center"> DÉLAI À L'EXPIRATION DUQUEL <br clear="none"/>la décision est acquise, lorsqu'il est différent du délai de deux mois <br clear="none"/>
+<p align="center">DÉLAI À L'EXPIRATION DUQUEL <br clear="none"/>la décision est acquise, lorsqu'il est différent du délai de deux mois <br clear="none"/>
 </p>
 </td>
 </tr>
@@ -817,47 +817,6 @@ Articles R. 321-6 et R. 321-15
 </td>
 <td align="left">4 mois <br clear="none"/>
 </td>
-</tr>
-<tr>
-<td align="center" colspan="3" valign="middle">Code rural et de la pêche maritime <br clear="none"/>
-</td>
-</tr>
-<tr>
-<td>Autorisations d'exercer des activités de pêche pendant des périodes, dans des zones, pour des espèces ou groupe d'espèces, avec des engins et des volumes déterminés (autorisations de pêche contingentées) <br clear="none"/>
-</td>
-<td align="left">2e alinéa de l'article L. 921-1
-<br clear="none"/>
-Article L. 981-4
-<br clear="none"/>
-</td>
-<td align="left"/>
-</tr>
-<tr>
-<td>Délivrance d'autorisations de pêche prises après avis conforme d'un organisme supranational ou d'un Etat tiers dans le respect du traité sur le fonctionnement de l'Union européenne et dans le respect des engagements internationaux de la France <br clear="none"/>
-</td>
-<td align="left">2e alinéa de l'article L. 921-1 <br clear="none"/>
-Article L. 911-3
-<br clear="none"/>
-</td>
-<td align="left"/>
-</tr>
-<tr>
-<td>Permis de mise en exploitation des navires avant la construction, l'importation, la modification de la capacité de pêche ou la délivrance d'une autorisation générale d'activité de pêche maritime à l'issue d'une période d'inactivité de plus de six mois (immatriculation d'un navire en pêche professionnelle) <br clear="none"/>
-</td>
-<td align="left">
-Article L. 921-7
-<br clear="none"/>
-</td>
-<td align="left"/>
-</tr>
-<tr>
-<td>Autorisations d'exercer des activités de pêche pendant des périodes, dans des zones, pour des espèces ou groupe d'espèces, avec des engins ou des volumes déterminés ou non dans les eaux maritimes placées sous souveraineté ou juridiction française pour des navires battant pavillon étranger. <br clear="none"/>
-</td>
-<td align="left">
-Articles L. 921-9 et L. 954-2
-<br clear="none"/>
-</td>
-<td align="left"/>
 </tr>
 <tr>
 <td align="center" colspan="3" valign="middle">Code de la santé publique <br clear="none"/>

@@ -1,6 +1,0 @@
-# PARTIE I : DISPOSITIONS COMMUNES
-
-- [CHAPITRE 1ER : ACCES AUX ZONES ECONOMIQUES EXCLUSIVES](chapitre-1er)
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [CHAPITRE 2 : RETRAIT DES LICENCES DE PECHE](chapitre-2)

@@ -628,7 +628,6 @@
 - [Décret n°98-1054 du 24 novembre 1998 (JUSB9810355D)](decret-n98-1054-du-24-novembre-1998-jusb9810355d)
 - [Décret n°98-1058 du 24 novembre 1998 (DEFP9802041D)](decret-n98-1058-du-24-novembre-1998-defp9802041d)
 - [Décret n°98-1059 du 24 novembre 1998 (DEFP9802042D)](decret-n98-1059-du-24-novembre-1998-defp9802042d)
-- [Décret n°98-1060 du 24 novembre 1998 (AGRM9801121D)](decret-n98-1060-du-24-novembre-1998-agrm9801121d)
 - [Décret n°98-1078 du 24 novembre 1998 (MESH9823024D)](decret-n98-1078-du-24-novembre-1998-mesh9823024d)
 - [Décret n°98-1185 du 24 décembre 1998 (MEST9811156D)](decret-n98-1185-du-24-decembre-1998-mest9811156d)
 - [Décret n°98-1186 du 24 décembre 1998 (MEST9811155D)](decret-n98-1186-du-24-decembre-1998-mest9811155d)

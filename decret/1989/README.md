@@ -157,7 +157,6 @@
 - [Décret n°89-170 du 14 mars 1989 (BUDF8910016D)](decret-n89-170-du-14-mars-1989-budf8910016d)
 - [Décret n°89-172 du 14 mars 1989 (MAEJ8930018D)](decret-n89-172-du-14-mars-1989-maej8930018d)
 - [Décret n°89-175 du 14 mars 1989 (SPSA8900068D)](decret-n89-175-du-14-mars-1989-spsa8900068d)
-- [Décret n°89-247 du 14 avril 1989 (MERP8900020D)](decret-n89-247-du-14-avril-1989-merp8900020d)
 - [Décret n°89-392 du 14 juin 1989 (TEFE8903496D)](decret-n89-392-du-14-juin-1989-tefe8903496d)
 - [Décret n°89-397 du 14 juin 1989 (MAEJ8930053D)](decret-n89-397-du-14-juin-1989-maej8930053d)
 - [Décret n°89-398 du 14 juin 1989 (MAEJ8930055D)](decret-n89-398-du-14-juin-1989-maej8930055d)

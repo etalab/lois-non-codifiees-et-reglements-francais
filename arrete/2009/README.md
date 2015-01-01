@@ -13,7 +13,6 @@
 - [Arrêté du 2 décembre 2008 (ECEI0823746A)](arrete-du-2-decembre-2008-ecei0823746a)
 - [Arrêté du 2 décembre 2008 (SJSP0828522Z)](arrete-du-2-decembre-2008-sjsp0828522z)
 - [Arrêté du 2 décembre 2009 (AGRG0923955A)](arrete-du-2-decembre-2009-agrg0923955a)
-- [Arrêté du 2 décembre 2009 (AGRM0914820A)](arrete-du-2-decembre-2009-agrm0914820a)
 - [Arrêté du 2 décembre 2009 (AGRT0927225A)](arrete-du-2-decembre-2009-agrt0927225a)
 - [Arrêté du 2 décembre 2009 (DEFD0928921A)](arrete-du-2-decembre-2009-defd0928921a)
 - [Arrêté du 2 décembre 2009 (DEFD0928954A)](arrete-du-2-decembre-2009-defd0928954a)

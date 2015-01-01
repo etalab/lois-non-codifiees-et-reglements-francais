@@ -105,7 +105,6 @@
 - [Décret n°83-328 du 21 avril 1983](decret-n83-328-du-21-avril-1983)
 - [Décret n°83-927 du 21 octobre 1983](decret-n83-927-du-21-octobre-1983)
 - [Décret n°83-227 du 22 mars 1983](decret-n83-227-du-22-mars-1983)
-- [Décret n°83-228 du 22 mars 1983](decret-n83-228-du-22-mars-1983)
 - [Décret n°83-513 du 22 juin 1983](decret-n83-513-du-22-juin-1983)
 - [Décret n°83-670 du 22 juillet 1983](decret-n83-670-du-22-juillet-1983)
 - [Décret n°83-840 du 22 septembre 1983](decret-n83-840-du-22-septembre-1983)

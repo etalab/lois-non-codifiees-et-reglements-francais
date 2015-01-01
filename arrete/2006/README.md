@@ -169,7 +169,6 @@
 - [Arrêté du 17 novembre 2006 (EQUP0601913A)](arrete-du-17-novembre-2006-equp0601913a)
 - [Arrêté du 17 novembre 2006 (SANH0624661A)](arrete-du-17-novembre-2006-sanh0624661a)
 - [Arrêté du 18 décembre 2006 (AGRM0602475A)](arrete-du-18-decembre-2006-agrm0602475a)
-- [Arrêté du 18 décembre 2006 (AGRM0602477A)](arrete-du-18-decembre-2006-agrm0602477a)
 - [Arrêté du 18 décembre 2006 (MENH0602994A)](arrete-du-18-decembre-2006-menh0602994a)
 - [Arrêté du 18 juillet 2006 (AGRG0601441A)](arrete-du-18-juillet-2006-agrg0601441a)
 - [Arrêté du 18 juillet 2006 (INTE0600604A)](arrete-du-18-juillet-2006-inte0600604a)
