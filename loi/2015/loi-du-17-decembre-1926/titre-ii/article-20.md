@@ -1,5 +1,0 @@
-# Article 20
-
-Lorsque le capitaine d'un navire battant pavillon français a connaissance d'un crime, d'un délit ou de leur tentative et de toute contravention commis à bord du navire, il effectue, afin d'en conserver les preuves et d'en rechercher les auteurs, tous les actes utiles en exerçant au besoin les pouvoirs mentionnés aux articles 54,60,61,62 et au premier alinéa de l'article 75 du code de procédure pénale. Les articles 55,56,59,66 et les trois premiers alinéas de l'article 76 du même code sont applicables. Les pouvoirs d'enquête de flagrance visés au présent article s'appliquent aux crimes flagrants et aux délits flagrants lorsque la loi prévoit une peine d'emprisonnement. Le capitaine en informe sans délai l'autorité administrative en indiquant la position du navire ainsi que le lieu, la date et l'heure prévus de la prochaine escale. L'autorité administrative en informe sans délai le procureur de la République, qui peut ordonner le déroutement du navire.
-
-Les constatations et les diligences du capitaine sont inscrites au livre de discipline.
