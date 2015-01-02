@@ -1,8 +1,46 @@
 # Article 3
 
-1. Le nombre total de permis d'accès à la baie de Granville pouvant être délivrés chaque année est fixé à 738. Ils se répartissent comme suit :
+1. Le nombre total de permis d'accès à la baie de Granville pouvant être délivrés chaque année est fixé à 627. Ils se répartissent comme suit :
 
-Vous pouvez consulter le tableau dans le JO n° 303 du 30/12/2005 texte numéro 105
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DÉLIVRANCE <br/>
+</th>
+<th>
+<br/>PRÉFET <br/>
+<br/>de Bretagne <br/>
+</th>
+<th>
+<br/>PRÉFET <br/>
+<br/>de Haute-Normandie <br/>
+</th>
+</tr>
+<tr>
+<td>
+<br/>Permis d'accès définis au paragraphe 4 a, premier alinéa, de l'article 2 de l'accord <br/>
+</td>
+<td align="center" valign="middle">
+<br/>331 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>214 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>Permis d'activité définis au paragraphe 4 a, second alinéa, de l'article 2 de l'accord <br/>
+</td>
+<td align="center" valign="middle">
+<br/>29 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>53<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 2. Le permis d'accès à la baie de Granville est attribué à un navire, à la demande de son armateur.
 
@@ -21,6 +59,8 @@ d) Dans le cas où un navire disposant d'un permis d'accès à la baie de Granvi
 5. Les droits d'accès à la zone C définis au paragraphe 5, alinéas c, d et e, de l'échange de notes entre le Gouvernement de la République française et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif aux conditions de pêche dans certaines zones du secteur de la baie de Granville, au nombre de 35, se répartissent comme suit :
 
 Vous pouvez consulter le tableau dans le JO n° 303 du 30/12/2005 texte numéro 105
+
+4
 
 1. Une commission consultative d'attribution des permis d'accès à la baie de Granville (CCA) est instituée par arrêté préfectoral dans chacune des deux régions concernées, Bretagne et Basse-Normandie. Elle est présidée par le directeur régional des affaires maritimes, par délégation du préfet de région.
 
