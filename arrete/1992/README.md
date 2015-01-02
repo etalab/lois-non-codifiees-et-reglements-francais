@@ -587,7 +587,6 @@
 - [Arrêté du 18 mai 1992 (PTTR9200233A)](arrete-du-18-mai-1992-pttr9200233a)
 - [Arrêté du 18 mai 1992 (TEFF9204812A)](arrete-du-18-mai-1992-teff9204812a)
 - [Arrêté du 19 août 1992 (FPPA9200015A)](arrete-du-19-aout-1992-fppa9200015a)
-- [Arrêté du 19 août 1992 (SPSS9202147A)](arrete-du-19-aout-1992-spss9202147a)
 - [Arrêté du 19 décembre 1991 (MCCB9100756A)](arrete-du-19-decembre-1991-mccb9100756a)
 - [Arrêté du 19 février 1988 (INTB8800114A)](arrete-du-19-fevrier-1988-intb8800114a)
 - [Arrêté du 19 février 1988 (PTTP8800173A)](arrete-du-19-fevrier-1988-pttp8800173a)
