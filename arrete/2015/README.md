@@ -86,6 +86,7 @@
 - [ARRÊTÉ du 18 décembre 2014 (DEVA1427453A)](arrete-du-18-decembre-2014-deva1427453a)
 - [ARRÊTÉ du 18 décembre 2014 (EINC1426800A)](arrete-du-18-decembre-2014-einc1426800a)
 - [ARRÊTÉ du 18 mars 2015 (MENH1500506A)](arrete-du-18-mars-2015-menh1500506a)
+- [Arrêté du 19 août 1992 (SPSS9202147A)](arrete-du-19-aout-1992-spss9202147a)
 - [ARRÊTÉ du 19 décembre 2014 (DEVM1426580A)](arrete-du-19-decembre-2014-devm1426580a)
 - [ARRÊTÉ du 19 décembre 2014 (DEVR1427944A)](arrete-du-19-decembre-2014-devr1427944a)
 - [ARRÊTÉ du 19 décembre 2014 (FCPD1430505A)](arrete-du-19-decembre-2014-fcpd1430505a)
