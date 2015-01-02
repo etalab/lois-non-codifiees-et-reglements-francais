@@ -198,4 +198,8 @@
 - [DÉCRET n°2014-1750 du 30 décembre 2014 (VJSV1430720D)](decret-n2014-1750-du-30-decembre-2014-vjsv1430720d)
 - [DÉCRET n°2014-1751 du 30 décembre 2014 (VJSV1431031D)](decret-n2014-1751-du-30-decembre-2014-vjsv1431031d)
 - [DÉCRET n°2014-1752 du 30 décembre 2014 (OMEO1328074D)](decret-n2014-1752-du-30-decembre-2014-omeo1328074d)
+- [DÉCRET n°2014-1756 du 31 décembre 2014 (DEFH1430290D)](decret-n2014-1756-du-31-decembre-2014-defh1430290d)
+- [DÉCRET n°2014-1757 du 31 décembre 2014 (AFSS1430219D)](decret-n2014-1757-du-31-decembre-2014-afss1430219d)
+- [DÉCRET n°2014-1758 du 31 décembre 2014 (EINI1428691D)](decret-n2014-1758-du-31-decembre-2014-eini1428691d)
+- [DÉCRET n°2014-1759 du 31 décembre 2014 (MCCE1417528D)](decret-n2014-1759-du-31-decembre-2014-mcce1417528d)
 - [DÉCRET n°2014-1432 du 1er décembre 2014 (EINI1424749D)](decret-n2014-1432-du-1er-decembre-2014-eini1424749d)
