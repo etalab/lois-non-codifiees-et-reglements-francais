@@ -1,0 +1,3 @@
+# Article 5
+
+Les ordres de payer et de recouvrer émis par les ordonnateurs secondaires des services du Premier ministre, du ministère des finances et des comptes publics, du ministère des affaires sociales, de la santé et des droits des femmes, du ministère de l'économie, de l'industrie et du numérique, du ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social, du ministère de la culture et de la communication, du ministère de la décentralisation et de la fonction publique et du ministère de la ville, de la jeunesse et des sports sont assignés sur les comptables principaux de l'Etat désignés à l'annexe E.
