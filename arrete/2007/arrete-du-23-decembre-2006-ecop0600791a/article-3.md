@@ -1,8 +1,16 @@
 # Article 3
 
-Elle assure sur la circonscription régionale de l'Ile-de-France :
+La direction nationale d'interventions domaniales assure sur la circonscription régionale de l'Ile-de-France :
 
-a) Les opérations mentionnées aux articles R. 171 et R. 174 du code du domaine de l'Etat ;
+a) Les opérations mentionnées aux articles
+R. 1212-19
+,
+R. 1212-22
+,
+R. 3221-1
+et
+R. 3221-3
+du code général de la propriété des personnes publiques ;
 
 b) La préparation et la réalisation des locations et des aliénations des objets mobiliers et matériels de l'Etat, autres que celles mentionnées au d de l'article 2 ;
 

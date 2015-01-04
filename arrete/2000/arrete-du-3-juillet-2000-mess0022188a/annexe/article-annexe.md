@@ -1232,6 +1232,8 @@ SA CRICERAM puis RSA LE RUBIS, Route nationale 85, 38560 Jarrie : de 1983 à 199
 
 SAVIEM puis RVI, Avenue Ferdinand-Janvier, 07100 Annonay : de 1962 à 1993 ;
 
+SECEMAEU de 1965 à 1966, UGINE KUHLMANN de 1967 à 1971, UGINE ACIERS de 1972 à 1985, UGINES SAVOIE de 1986 à 1996, Avenue Paul Girod, 73400 Ugine
+
 Silisol/Omerin, division Silisol SAS, 8, rue Bossuet, puis 11, allée du Couchant, ZI du Bevey, 42100 Saint-Etienne : de 1960 à 1996 ;
 
 SITUB, rue Gustave-Eiffel, 69360 Saint-Symphorien-d'Ozon : de 1993 à 1996 ;
