@@ -1,6 +1,6 @@
 # Article 
 
-**ANNEXE I**
+ANNEXE I
 
 1. Propriétés
 
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en EMAG <br/>
+<p align="left">Teneur en EMAG <br/>
 </p>
 </td>
 <td align="center">
@@ -42,11 +42,11 @@
 </tr>
 <tr>
 <td align="center">
-<p>Masse volumique à 15° C <br/>
+<p align="left">Masse volumique à 15 °C <br/>
 </p>
 </td>
 <td align="center">
-<br/>kg/m ³ <br/>
+<br/>kg/m³ <br/>
 </td>
 <td align="center">
 <br/>860 <br/>
@@ -57,11 +57,11 @@
 </tr>
 <tr>
 <td align="center">
-<p>Viscosité à 40° C <br/>
+<p align="left">Viscosité à 40 °C <br/>
 </p>
 </td>
 <td align="center">
-<br/>mm ²/s <br/>
+<br/>mm²/s <br/>
 </td>
 <td align="center">
 <br/>3,50 <br/>
@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Point éclair<br/>
+<p align="left">Point éclair<br/>
 </p>
 </td>
 <td align="center">
@@ -87,7 +87,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en soufre <br/>
+<p align="left">Teneur en soufre <br/>
 </p>
 </td>
 <td align="center">
@@ -102,7 +102,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Indice de cétane <br/>
+<p align="left">Indice de cétane <br/>
 </p>
 </td>
 <td align="center">
@@ -117,7 +117,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en cendres sulfatées <br/>
+<p align="left">Teneur en cendres sulfatées <br/>
 </p>
 </td>
 <td align="center">
@@ -132,7 +132,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en eau <br/>
+<p align="left">Teneur en eau <br/>
 </p>
 </td>
 <td align="center">
@@ -147,7 +147,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Contamination totale <br/>
+<p align="left">Contamination totale <br/>
 </p>
 </td>
 <td align="center">
@@ -162,7 +162,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Corrosion à la lame de cuivre (3 h à 50° C) <br/>
+<p align="left">Corrosion à la lame de cuivre (3 h à 50 °C) <br/>
 </p>
 </td>
 <td align="center">
@@ -177,7 +177,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Stabilité à l'oxydation (à 110° C) <br/>
+<p align="left">Stabilité à l'oxydation (à 110 °C) <br/>
 </p>
 </td>
 <td align="center">
@@ -192,7 +192,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Indice d'acide <br/>
+<p align="left">Indice d'acide <br/>
 </p>
 </td>
 <td align="center">
@@ -207,7 +207,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Indice d'iode <br/>
+<p align="left">Indice d'iode <br/>
 </p>
 </td>
 <td align="center">
@@ -222,7 +222,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en ester méthylique d'acide linolénique <br/>
+<p align="left">Teneur en ester méthylique d'acide linolénique <br/>
 </p>
 </td>
 <td align="center">
@@ -237,7 +237,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Esters méthyliques polyinsaturés (≥ 4 doubles liaisons) <br/>
+<p align="left">Esters méthyliques polyinsaturés (≥ 4 doubles liaisons) <br/>
 </p>
 </td>
 <td align="center">
@@ -252,7 +252,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en méthanol <br/>
+<p align="left">Teneur en méthanol <br/>
 </p>
 </td>
 <td align="center">
@@ -267,7 +267,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en monoglycérides <br/>
+<p align="left">Teneur en monoglycérides <br/>
 </p>
 </td>
 <td align="center">
@@ -282,7 +282,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en diglycérides <br/>
+<p align="left">Teneur en diglycérides <br/>
 </p>
 </td>
 <td align="center">
@@ -297,7 +297,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en triglycérides <br/>
+<p align="left">Teneur en triglycérides <br/>
 </p>
 </td>
 <td align="center">
@@ -312,7 +312,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Glycérol libre <br/>
+<p align="left">Glycérol libre <br/>
 </p>
 </td>
 <td align="center">
@@ -327,7 +327,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Glycérol total <br/>
+<p align="left">Glycérol total <br/>
 </p>
 </td>
 <td align="center">
@@ -342,7 +342,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Métaux groupe I (Na + K) <br/>
+<p align="left">Métaux groupe I (Na + K) <br/>
 </p>
 </td>
 <td align="center">
@@ -357,7 +357,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Métaux groupe II (Ca + Mg) <br/>
+<p align="left">Métaux groupe II (Ca + Mg) <br/>
 </p>
 </td>
 <td align="center">
@@ -372,7 +372,7 @@
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en phosphore <br/>
+<p align="left">Teneur en phosphore <br/>
 </p>
 </td>
 <td align="center">
@@ -400,8 +400,6 @@ Les esters méthyliques d'acides gras doivent être additivés dès leur product
 
 Les esters méthyliques d'acides gras doivent respecter les caractéristiques fixées au tableau suivant, sans utilisation d'additif améliorant leurs propriétés à froid.
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -426,7 +424,7 @@ Les esters méthyliques d'acides gras doivent respecter les caractéristiques fi
 </tr>
 <tr>
 <td align="center">
-<p>Température limite de filtrabilité (TLF)<br/>
+<p align="left">Température limite de filtrabilité (TLF)<br/>
 </p>
 </td>
 <td align="center">
@@ -436,12 +434,12 @@ Les esters méthyliques d'acides gras doivent respecter les caractéristiques fi
 <br/>0<br/>
 </td>
 <td align="center">
-<br/>― 5<br/>
+<br/>- 5<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p>Point de trouble<br/>
+<p align="left">Point de trouble<br/>
 </p>
 </td>
 <td align="center">
@@ -456,7 +454,7 @@ Les esters méthyliques d'acides gras doivent respecter les caractéristiques fi
 </tr>
 <tr>
 <td align="center">
-<p>Teneur en monoglycérides<br/>
+<p align="left">Teneur en monoglycérides<br/>
 </p>
 </td>
 <td align="center">
@@ -469,9 +467,19 @@ Les esters méthyliques d'acides gras doivent respecter les caractéristiques fi
 <br/>0,70<br/>
 </td>
 </tr>
+<tr>
+<td>Teneur en esters saturés </td>
+<td>
+<p align="center"> % (m/ m), max</p>
+</td>
+<td>
+<p align="center"> 30</p>
+</td>
+<td>
+<p align="center"> 16</p>
+</td>
+</tr>
 </tbody>
 </table>
 
-<p>Les esters méthyliques d'acides gras incorporés dans un gazole de qualité hiver doivent respecter les caractéristiques de tenue au froid de saison hiver.</p>
-
-</div>
+Les esters méthyliques d'acides gras incorporés dans un gazole de qualité hiver doivent respecter les caractéristiques de tenue au froid de saison hiver.
