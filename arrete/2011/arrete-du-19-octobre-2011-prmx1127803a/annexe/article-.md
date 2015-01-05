@@ -100,4 +100,22 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 -fermeture de l'unité d'ingénierie d'Oloron-Sainte-Marie de la direction départementale des territoires et de la mer des Pyrénées-Atlantiques ;
 
--fermeture des antennes de Châtillon-sur-Seine, Saulieu, Is-sur-Tille et Auxonne de la direction départementale des territoires de la Côte-d'Or.
+-fermeture des antennes de Châtillon-sur-Seine, Saulieu, Is-sur-Tille et Auxonne de la direction départementale des territoires de la Côte-d'Or ;
+
+- fermeture de la délégation territoriale de Caussade de la direction départementale des territoires de Tarn-et-Garonne ;
+
+- fermeture des antennes de Bourg-en-Bresse et de Trévoux et réorganisation des antennes d'Ambérieu-en-Bugey et de Bellegarde-sur-Valserine de la direction départementale des territoires de l'Ain ;
+
+- fermeture du centre de proximité de Mamers, fermeture des antennes territoriales du Nord Sarthe à Fresnay-sur-Sarthe, du Perche sarthois à La Ferté-Bernard, du val de Loir à Château-du-Loir, et de la vallée de la Sarthe à Sablé-sur-Sarthe de la direction départementale des territoires de la Sarthe ;
+
+- fermeture de l'unité territoriale d'Aix-les-Bains de la direction départementale des territoires de la Savoie ;
+
+- fermeture des subdivisions du Genevois-Faucigny-Mont Blanc et d'Annecy de la direction départementale des territoires de la Haute-Savoie ;
+
+- restructuration des sites d'Angers, de Cholet, de Saumur, et de Segré de la direction départementale des territoires de Maine-et-Loire ;
+
+- réorganisation des implantations territoriales d'Auray, Muzillac, Locminé, Ploërmel, Hennebont, Le Faouët et Lorient de la direction départementale des territoires et de la mer du Morbihan ;
+
+- fermeture des sites de Quintin et de Loudéac et restructuration des sites de Dinan, Guingamp, Lannion, Paimpol et Rostrenen de la direction départementale des territoires et de la mer des Côtes-d'Armor ;
+
+- fermeture des antennes d'Argentat et d'Egletons de la direction départementale des territoires de la Corrèze.
