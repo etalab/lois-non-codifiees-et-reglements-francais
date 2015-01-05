@@ -8,7 +8,7 @@ Il assure la conduite des opérations d'armement sur la base du besoin opératio
 
 III. ― Au titre des relations internationales en matière d'armement :
 
-1° Il propose et met en œuvre les orientations en matière de coopération d'armement au plan européen ainsi qu'au plan international ;
+1° Il élabore et conduit les plans de coopération et les programmes menés en coopération, en matière d'armement et de recherche et technologie, au plan européen ainsi qu'au plan international. En matière d'armement, il mène les dialogues bilatéraux et conduit les relations avec l'industrie ;
 
 2° Il propose et met en œuvre les orientations en matière d'exportation d'armement ;
 

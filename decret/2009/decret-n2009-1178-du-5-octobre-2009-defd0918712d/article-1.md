@@ -12,28 +12,32 @@ I. ― L'administration centrale du ministère de la défense est composée :
 
 5° Du secrétariat général pour l'administration ;
 
-6° De directions et services.
+6° De directions générales,  directions et services.
 
-II. ― Les directions et services mentionnés au 6° du I sont :
+II. ― Les directions générales mentionnées au 6° du I sont :
 
-1° La délégation aux affaires stratégiques ;
+1° La direction générale des relations internationales et de la stratégie ;
 
 2° La direction générale des systèmes d'information et de communication ;
 
-3° La délégation à l'information et à la communication de la défense ;
+3° La direction générale de la sécurité extérieure ;
 
-4° Le bureau des officiers généraux ;
+III. ― Les directions et services mentionnés au 6° du I sont :
 
-5° La sous-direction des bureaux des cabinets ;
+1° La délégation à l'information et à la communication de la défense ;
 
-6° La direction générale de la sécurité extérieure et la direction de la protection et de la sécurité de la défense ;
+2° Le bureau des officiers généraux ;
 
-7° La direction centrale du service de santé des armées, pour l'exercice des attributions du ministre de la défense relatives à la contribution du service de santé des armées à la politique de santé publique.
+3° La sous-direction des bureaux des cabinets ;
 
-III. ― En matière d'inspections, de contrôle, d'audits, d'études, de conseil et d'évaluation, le ministre de la défense a autorité sur le contrôle général des armées pour l'assister dans la direction du ministère.
+4° La direction de la protection et de la sécurité de la défense ;
+
+5° La direction centrale du service de santé des armées, pour l'exercice des attributions du ministre de la défense relatives à la contribution du service de santé des armées à la politique de santé publique.
+
+IV. ― En matière d'inspections, de contrôle, d'audits, d'études, de conseil et d'évaluation, le ministre de la défense a autorité sur le contrôle général des armées pour l'assister dans la direction du ministère.
 
 Dans leur domaine d'attribution, le chef d'état-major des armées, le délégué général pour l'armement, le secrétaire général pour l'administration peuvent proposer au ministre de faire exécuter des enquêtes par le contrôle général des armées.
 
 En outre, le ministre a autorité sur les inspecteurs généraux des armées et l'inspecteur général du service de santé des armées.
 
-IV. ― Le ministre a autorité sur la direction générale de la gendarmerie nationale pour l'exercice des missions relevant de ses attributions.
+V. ― Le ministre a autorité sur la direction générale de la gendarmerie nationale pour l'exercice des missions relevant de ses attributions.

@@ -1,6 +1,6 @@
 # Article 3
 
-Outre les organismes cités au 1°, au 2°, au 3° et au 5° du II de l'article 1er du présent décret, les organismes à caractère civil faisant partie de l'administration centrale du ministère de la défense sont :
+Outre les organismes                      cités au 1° et au 2° du II et au 1° et au 3° du III de l'article 1er du présent décret, les organismes à caractère civil faisant partie de l'administration centrale du ministère de la défense sont :
 
 I. ― La direction générale de l'armement, sous l'autorité du délégué général pour l'armement.
 

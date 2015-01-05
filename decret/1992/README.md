@@ -440,7 +440,6 @@
 - [Décret n°92-46 du 16 janvier 1992 (BUDZ9200002D)](decret-n92-46-du-16-janvier-1992-budz9200002d)
 - [Décret n°92-50 du 16 janvier 1992 (SPSS9102840D)](decret-n92-50-du-16-janvier-1992-spss9102840d)
 - [Décret n°92-522 du 16 juin 1992 (DEFD9201507D)](decret-n92-522-du-16-juin-1992-defd9201507d)
-- [Décret n°92-524 du 16 juin 1992 (DEFD9201509D)](decret-n92-524-du-16-juin-1992-defd9201509d)
 - [Décret n°92-531 du 16 juin 1992 (EQUP9200579D)](decret-n92-531-du-16-juin-1992-equp9200579d)
 - [Décret n°92-535 du 16 juin 1992 (LOGC9200012D)](decret-n92-535-du-16-juin-1992-logc9200012d)
 - [Décret n°92-674 du 16 juillet 1992 (AGRE9201180D)](decret-n92-674-du-16-juillet-1992-agre9201180d)

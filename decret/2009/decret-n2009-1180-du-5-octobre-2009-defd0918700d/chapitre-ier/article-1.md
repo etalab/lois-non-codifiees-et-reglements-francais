@@ -28,13 +28,15 @@ II. ― En matière de réalisation d'équipement des forces :
 
 III. ― Au titre des relations et de la coopération internationales en matière d'armement :
 
-1° Propose au ministre de la défense les actions techniques ou industrielles à entreprendre sur le plan international et en assure l'exécution ;
+1° Propose au ministre de la défense les actions techniques ou industrielles à entreprendre sur le plan international, notamment en tenant compte des orientations fixées par le directeur général des relations internationales et de la stratégie,  et en assure l'exécution ;
 
 2° Assure l'exécution des engagements internationaux en matière d'armement et signe les actes correspondants ;
 
-3° Propose au ministre de la défense les affectations aux postes d'attaché de défense issus de la direction générale de l'armement et est consulté pour celles relevant des armées ;
+3° Propose au ministre de la défense les affectations aux postes d'attaché de défense adjoint  issus de la direction générale de l'armement ;
 
-4° Signe les décisions de certification des entreprises souhaitant être destinataires des produits liés à la défense transférés au titre des licences générales des autres Etats membres de l'Union européenne.
+4° Signe les décisions de certification des entreprises souhaitant être destinataires des produits liés à la défense transférés au titre des licences générales des autres Etats membres de l'Union européenne ;
+
+5° Propose et met en œuvre les actions de coopération en matière d'armement et les plans de soutien aux exportations de défense.
 
 IV. ― Dans le cadre de la politique industrielle :
 

@@ -1,6 +1,6 @@
 # Article 2
 
-Outre les organismes cités au 4° et au 6° du II et au III de l'article 1er du présent décret, les organismes militaires faisant partie de l'administration centrale du ministère de la défense sont :
+Outre les organismes                    cités au 3° du II, au 2° et au 4° du III et au IV de l'article 1er, les organismes militaires faisant partie de l'administration centrale du ministère de la défense sont :
 
 I. ― Les états-majors :
 
@@ -52,4 +52,4 @@ III. ― Le service de la poste interarmées, service à compétence nationale, 
 
 IV. ― Le bureau enquêtes accidents défense transports terrestres, le bureau enquêtes accidents défense mer et le bureau enquêtes accidents défense air, services à compétence nationale, placés respectivement auprès des officiers généraux de l'armée de terre, de la marine nationale et de l'armée de l'air, inspecteurs généraux des armées.
 
-V. - La direction de la sécurité aéronautique d'Etat, service à compétence nationale placée auprès du ministre de la défense.
+V.-La direction de la sécurité aéronautique d'Etat, service à compétence nationale placée auprès du ministre de la défense.

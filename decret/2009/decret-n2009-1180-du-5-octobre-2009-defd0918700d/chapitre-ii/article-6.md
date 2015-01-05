@@ -2,13 +2,13 @@
 
 La direction du développement international :
 
-I. ― Assure le soutien aux exportations de défense. A ce titre, elle :
+I. ― Assure le soutien aux exportations de défense et la mise en œuvre de la coopération internationale en matière d'armement. A ce titre, elle :
 
 1° Elabore les orientations en matière d'exportation d'armement ;
 
 2° Conduit, en ce qui concerne le ministère de la défense, les négociations liées aux exportations en matière d'armement ;
 
-3° Propose et met en œuvre toute action propre à développer les exportations de matériels d'armement et des services qui leur sont associés ;
+3° Propose et met en œuvre toute action propre à développer les exportations de matériels d'armement et des services qui leur sont associés ainsi que les coopérations en matière d'armement  ;
 
 4° Oriente l'action des organismes d'assistance à l'exportation d'armement, notamment en matière de soutien et de formation ;
 
