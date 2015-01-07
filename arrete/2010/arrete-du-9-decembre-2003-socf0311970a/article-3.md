@@ -1,13 +1,11 @@
 # Article 3
 
-Le titre professionnel de serveur (se) en restauration est composé des quatre unités constitutives dont la liste suit :
+Le titre professionnel de serveur (se) en restauration est composé des trois unités constitutives suivantes :
 
 1. Réaliser les travaux préalables au service en restauration ;
 
-2. Accueillir la clientèle au bar ou en salle, conseiller et prendre des commandes en tenant compte des spécificités des personnes ;
+2. Accueillir, conseiller le client et prendre sa commande en français et en anglais ;
 
-3. Réaliser le service à table en restauration et procéder à l'encaissement ;
+3. Réaliser le service en restauration.
 
-4. Préparer et servir un buffet ou un banquet.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
