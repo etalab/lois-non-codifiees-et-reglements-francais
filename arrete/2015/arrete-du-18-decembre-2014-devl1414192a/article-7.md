@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsque dans sa demande, le bénéficiaire de la dérogation a déclaré vouloir mettre à disposition ses données d'inventaire, il doit mettre ses données d'observation d'espèces à disposition des directions régionales de l'environnement, de l'aménagement et du logement et du Muséum national d'histoire naturelle dans les conditions définies par le système d'information sur la nature et les paysages, notamment en ce qui concerne les règles de dépôt, de formats de données et de fichiers applicables aux métadonnées et données élémentaires d'échange relatives aux occurrences d'observation d'espèces.
