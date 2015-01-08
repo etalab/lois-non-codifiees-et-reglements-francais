@@ -1248,7 +1248,6 @@
 - [Arrêté du 16 mars 2012 (ETSD1221111A)](arrete-du-16-mars-2012-etsd1221111a)
 - [Arrêté du 16 mars 2012 (ETSD1221115A)](arrete-du-16-mars-2012-etsd1221115a)
 - [Arrêté du 16 mars 2012 (TRAT1205168A)](arrete-du-16-mars-2012-trat1205168a)
-- [Arrêté du 16 novembre 2009 (BCFB0923748A)](arrete-du-16-novembre-2009-bcfb0923748a)
 - [Arrêté du 16 novembre 2009 (DEFA0927216A)](arrete-du-16-novembre-2009-defa0927216a)
 - [Arrêté du 16 novembre 2011 (IOCE1131940A)](arrete-du-16-novembre-2011-ioce1131940a)
 - [Arrêté du 16 novembre 2011 (MFPF1120309A)](arrete-du-16-novembre-2011-mfpf1120309a)
