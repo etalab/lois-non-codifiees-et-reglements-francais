@@ -1874,7 +1874,6 @@
 - [Arrêté du 22 avril 2010 (ECED1012242A)](arrete-du-22-avril-2010-eced1012242a)
 - [Arrêté du 22 avril 2010 (ECED1012247A)](arrete-du-22-avril-2010-eced1012247a)
 - [Arrêté du 22 avril 2010 (MTSS1011120A)](arrete-du-22-avril-2010-mtss1011120a)
-- [Arrêté du 22 décembre 2003 (SOCF0312096A)](arrete-du-22-decembre-2003-socf0312096a)
 - [Arrêté du 22 décembre 2003 (SOCF0312099A)](arrete-du-22-decembre-2003-socf0312099a)
 - [Arrêté du 22 décembre 2009 (AGRG0927498A)](arrete-du-22-decembre-2009-agrg0927498a)
 - [Arrêté du 22 décembre 2009 (AGRS0931312A)](arrete-du-22-decembre-2009-agrs0931312a)
