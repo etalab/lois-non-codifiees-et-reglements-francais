@@ -605,7 +605,6 @@
 - [Décret n°99-965 du 26 novembre 1999 (MENF9901996D)](decret-n99-965-du-26-novembre-1999-menf9901996d)
 - [Décret n°99-966 du 26 novembre 1999 (MENF9901990D)](decret-n99-966-du-26-novembre-1999-menf9901990d)
 - [Décret n°99-412 du 26 mai 1999 (JUSF9950038D)](decret-n99-412-du-26-mai-1999-jusf9950038d)
-- [Décret n°99-416 du 26 mai 1999 (ECOZ9900007D)](decret-n99-416-du-26-mai-1999-ecoz9900007d)
 - [Décret n°99-430 du 26 mai 1999 (DEFP9901402D)](decret-n99-430-du-26-mai-1999-defp9901402d)
 - [Décret n°99-446 du 26 mai 1999 (ATEP9970004D)](decret-n99-446-du-26-mai-1999-atep9970004d)
 - [Décret n°89-524 du 27 juillet 1989 (DOMP8900020D)](decret-n89-524-du-27-juillet-1989-domp8900020d)
