@@ -6,8 +6,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Calvados" ;
 
-― "Calvados Domfrontais" ;
-
 ― "Calvados Pays d'Auge" ;
 
 ― "Cornouaille" ;
