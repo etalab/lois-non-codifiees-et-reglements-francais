@@ -4,7 +4,7 @@ La sous-direction de la justice pénale générale comprend quatre bureaux :
 
 ― le bureau de la législation pénale générale ;
 
-― le bureau de la politique d'action publique générale ;
+― le bureau de la politique pénale générale ;
 
 ― le bureau de la police judiciaire ;
 

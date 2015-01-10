@@ -1,11 +1,17 @@
 # Article 11
 
-La mission de suivi personnalisé des carrières de l'encadrement est chargée de recenser et d'identifier les compétences des agents qui exercent ou sont appelés à exercer des fonctions de responsabilité au sein des services déconcentrés de la protection judiciaire de la jeunesse.
+Le bureau de la politique et de la gestion des emplois fonctionnels propose et met en œuvre le recrutement et la gestion de ces emplois ainsi que les actes de gestion collective et individuelle des personnels détachés sur ces emplois relevant de la direction de la protection judiciaire de la jeunesse et affectés en services déconcentrés.
 
-Elle participe à la définition des référentiels des emplois et des métiers de direction et d'encadrement en lien avec le bureau de la gestion prévisionnelle des effectifs, des emplois et des compétences.
+Il identifie et valorise les ressources humaines nécessaires aux emplois fonctionnels.
 
-Elle propose des projets professionnels adaptés pouvant comporter la mise en œuvre de bilans de compétence ou des formations d'adaptation.
+Il pilote la revue de cadres avec le recensement et l'identification des compétences des agents qui exercent ou sont appelés à exercer des fonctions de responsabilité au sein de la protection judiciaire de la jeunesse. Il procède à ce titre à la constitution et à la gestion de viviers de compétences.
 
-Elle développe des programmes favorisant la mobilité interne et externe.
+Il organise le conseil de carrière des personnels d'encadrement et les accompagne dans leurs projets d'évolution professionnelle et de mobilité.
 
-Elle est associée au processus interne de désignation des personnels visés ci-dessus.
+Il contribue à la définition des plans de formation ainsi qu'à la construction de parcours de professionnalisation de l'encadrement.
+
+Il anime le réseau des conseillers mobilité carrière au sein de la direction de la protection judiciaire de la jeunesse.
+
+Il participe à la définition des référentiels des emplois et des métiers de direction et d'encadrement en lien avec le bureau de la gestion prévisionnelle des emplois, des compétences et des crédits de personnels.
+
+Il réalise des études de gestion prévisionnelle relatives au recrutement et à la carrière de ces personnels.
