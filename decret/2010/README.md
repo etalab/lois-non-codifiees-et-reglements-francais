@@ -83,7 +83,6 @@
 - [Décret n°2010-447 du 3 mai 2010 (DEVE1000293D)](decret-n2010-447-du-3-mai-2010-deve1000293d)
 - [Décret n°2010-450 du 3 mai 2010 (SASH0927595D)](decret-n2010-450-du-3-mai-2010-sash0927595d)
 - [Décret n°2010-451 du 3 mai 2010 (SASH1008433D)](decret-n2010-451-du-3-mai-2010-sash1008433d)
-- [Décret n°2010-453 du 3 mai 2010 (AGRT1004246D)](decret-n2010-453-du-3-mai-2010-agrt1004246d)
 - [Décret n°2010-116 du 4 février 2010 (PRMX0928388D)](decret-n2010-116-du-4-fevrier-2010-prmx0928388d)
 - [Décret n°2010-1170 du 4 octobre 2010 (SASH1017771D)](decret-n2010-1170-du-4-octobre-2010-sash1017771d)
 - [Décret n°2010-1171 du 4 octobre 2010 (DEFH1020893D)](decret-n2010-1171-du-4-octobre-2010-defh1020893d)
