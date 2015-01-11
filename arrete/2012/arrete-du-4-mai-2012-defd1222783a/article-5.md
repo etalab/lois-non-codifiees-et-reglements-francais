@@ -1,29 +1,33 @@
 # Article 5
 
-I. ― La sous-direction ressources est chargée :
+I.-La sous-direction  "    ressources-management " est chargée :
 
-1° De proposer et de mettre en œuvre l'organisation interne de la direction interarmées ;
+1° Au titre de l'organisation et des ressources humaines :
 
-2° D'établir la programmation du budget opérationnel de programme qui lui est confié en relation avec le responsable de programme dont elle relève ;
+a) De proposer et de mettre en œuvre l'organisation interne de la direction interarmées ;
 
-3° D'assurer, pour l'unité opérationnelle de programme dont elle a la charge :
+b) De contribuer à l'administration et à la gestion des ressources humaines civiles et militaires ainsi qu'à la gestion prévisionnelle des emplois, des effectifs et des compétences, sous réserve des attributions de la direction des ressources humaines du ministère de la défense et des directions gestionnaires de personnel militaire ;
 
-a) La programmation budgétaire ;
+c) D'assurer la chancellerie du personnel de la direction interarmées ;
 
-b) La répartition, la mise à disposition des crédits correspondants ainsi que le suivi de leur consommation ;
+2° Au titre du management :
 
-4° De mettre en œuvre le contrôle de gestion ;
+a) De traiter les questions relatives à l'infrastructure intéressant la direction interarmées ;
 
-5° D'administrer les ressources humaines et de contribuer à la gestion prévisionnelle des emplois, des effectifs et des compétences, sous réserve des attributions des directions de ressources humaines et de personnel des armées et de celles de la direction des ressources humaines du ministère de la défense ;
+b) De participer à la mise au point des instructions et protocoles relatifs au soutien réalisé par les armées ou par d'autres organismes du ministère de la défense au profit de la direction interarmées ;
 
-6° De participer à la mise au point des instructions et protocoles relatifs au soutien réalisé par les armées ou par d'autres organismes du ministère de la défense au profit de la direction interarmées ;
+c) De décliner et de mettre en œuvre les politiques ministérielles en matière :
 
-7° De traiter les questions relatives à l'infrastructure intéressant la directions interarmées ;
+-de santé et de sécurité au travail ;
 
-8° D'assurer le contrôle interne budgétaire et le contrôle interne comptable ainsi que la comptabilité auxiliaire des immobilisations de la direction interarmées.
+-d'environnement ;
 
-II. ― La sous-direction ressources comprend :
+d) De s'assurer de la mise en œuvre des directives relatives à la sécurité des installations. Elle définit, en outre, les modalités d'établissement des décisions d'habilitation " confidentiel défense " et " secret défense " au sein de la direction interarmées.
 
-1° Le bureau organisation/ressources humaines ;
+II.-La sous-direction " ressources-management " comprend :
 
-2° Le bureau budget/finances/comptabilité.
+1° Le bureau " organisation-ressources humaines " ;
+
+2° Le bureau " chancellerie " ;
+
+3° Le bureau " management ".

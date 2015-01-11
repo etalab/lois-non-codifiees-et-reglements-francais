@@ -8,10 +8,8 @@ I. ― La sous-direction stratégie est chargée, pour ce qui concerne la direct
 
 3° De s'assurer, au travers d'un dispositif de contrôle interne, de la maîtrise des risques liés aux activités.
 
-II. ― La sous-direction stratégie comprend :
+II.-La sous-direction " stratégie " comprend :
 
-1° Le bureau maîtrise capacitaire ;
+1° Le bureau " prospective et maîtrise capacitaire " ;
 
-2° Le bureau pilotage de la performance ;
-
-3° Le bureau maîtrise des risques.
+2° Le bureau " performance-risques ".

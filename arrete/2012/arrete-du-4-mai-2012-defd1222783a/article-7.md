@@ -14,6 +14,4 @@ II. ― La sous-direction sécurité des systèmes d'information est composée :
 
 2° Du bureau assistance conseil expertise ;
 
-3° Du bureau conduite des réseaux de chiffrement ;
-
-4° Du bureau assistance aux homologations de la sécurité des systèmes d'information.
+3° Du bureau conduite des réseaux de chiffrement.

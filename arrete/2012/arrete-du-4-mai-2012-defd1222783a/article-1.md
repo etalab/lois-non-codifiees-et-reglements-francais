@@ -2,36 +2,36 @@
 
 Pour l'exercice de ses attributions fixées par les articles R. 3233-10 à R. 3233-18 du code de la défense susvisé, la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense comprend :
 
-I. ― Une direction centrale composée :
+I.-Une direction centrale composée de :
 
-1° De quatre sous-directions :
+a) La sous-direction  "    stratégie " ;
 
-a) La sous-direction stratégie ;
+b) La sous-direction " ressources-management " ;
 
-b) La sous-direction ressources ;
+c) La sous-direction " clients " ;
 
-c) La sous-direction clients ;
+d) La sous-direction " sécurité des systèmes d'information " ;
 
-d) La sous-direction sécurité des systèmes d'information ;
+e) La sous-direction " achats-finances ".
 
-2° De trois services centraux :
+Les attributions et l'organisation de la direction centrale sont fixées dans le présent arrêté. Son fonctionnement est précisé par instruction.
 
-a) Le service central opérations-exploitation ;
+II.-Des organismes extérieurs :
 
-b) Le service central marchés ;
+1° Relevant directement du directeur central :
 
-c) Le service central ingénierie.
+a) Le service de " conduite opérations-exploitation " ;
 
-Les attributions et l'organisation de la direction centrale sont fixées dans le présent arrêté, son fonctionnement est précisé par instruction.
+b) Le service " ingénierie-conception-opérateur " ;
 
-II. ― Des organismes extérieurs :
+2° Relevant du directeur central :
 
-1° Relevant de la direction centrale, les directions interarmées des réseaux d'infrastructure et des systèmes d'information locales, en métropole, en outre-mer et à l'étranger ;
+Les directions interarmées des réseaux d'infrastructure et des systèmes d'information locales, situées en métropole, en outre-mer et à l'étranger.
 
-2° Relevant des directions locales, les centres interarmées des réseaux d'infrastructure et des systèmes d'information ;
+Relèvent de ces directions :
 
-3° Relevant de la direction interarmées des réseaux d'infrastructure et des systèmes d'information d'Ile-de-France, le 8e régiment de transmissions ;
+-les centres interarmées des réseaux d'infrastructure et des systèmes d'information ;
 
-4° Relevant de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de Rennes, le centre national de soutien opérationnel.
+-les centres nationaux.
 
 Les attributions, l'organisation et le fonctionnement des organismes extérieurs sont fixés par instruction.
