@@ -1,12 +1,12 @@
 # Article 3
 
-Sont soumis à l'autorisation prévue par l'article 83 du code minier :
+Sont soumis à l'autorisation prévue par l'article L. 162-3 du code minier :
 
 1° L'ouverture de travaux d'exploitation de mines de substances mentionnées à l'article 2 du code minier ainsi que des haldes et terrils non soumis au régime prévu par l'article 130 du code minier ;
 
 2° L'ouverture de travaux de recherches de mines, lorsqu'il est prévu que les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ou entraînent la dissolution de certaines couches du sous-sol, ou doivent être effectués, sauf en ce qui concerne le département de la Guyane, sur des terrains humides ou des marais ;
 
-3° L'ouverture de travaux de recherches et d'exploitation des gîtes géothermiques mentionnés à l'article 3 du code minier ;
+3° L'ouverture de travaux de recherches et d'exploitation des gîtes géothermiques mentionnés à l'article L. 112-1 du code minier, à l'exception de l'ouverture de travaux d'exploitation des gîtes géothermiques de minime importance ;
 
 4° L'ouverture de travaux de création et d'aménagement de cavités de stockage souterrain mentionnées à l'article 3-1 du code minier ;
 

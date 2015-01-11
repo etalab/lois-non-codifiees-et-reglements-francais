@@ -1,5 +1,11 @@
 # Article 1
 
-Les gîtes géothermiques sont dits à haute ou à basse température selon que la température de leurs eaux, mesurée en surface au cours des essais du forage d'exploration, est soit supérieure, soit inférieure ou égale à 150 degrés C.
+Au sens du présent décret :
 
-Les modalités des essais sont fixées par le préfet sur proposition du chef du service indépartemental de l'industrie et des mines.
+1° Le puits canadien, ou puits provençal, est un échangeur géothermique utilisant l'air comme fluide caloporteur, dans le but de chauffer ou de refroidir un bâtiment, un ouvrage ou un équipement ;
+
+2° Les géostructures thermiques sont des éléments de structure enterrés d'un bâtiment, d'un ouvrage ou d'un équipement, équipés de tubes échangeurs de chaleur dès leur construction. La circulation d'un fluide caloporteur dans les tubes permet l'échange de l'énergie thermique avec le terrain, dans le but de chauffer ou de rafraîchir un bâtiment, un ouvrage ou un équipement ou d'y produire l'eau chaude sanitaire ;
+
+3° Un échangeur géothermique ouvert est un échangeur géothermique dont le fluide caloporteur circule en circuit ouvert avec les aquifères du sous-sol ;
+
+4° Un échangeur géothermique fermé est un échangeur géothermique horizontal, vertical ou hybride fonctionnant en circuit fermé. Un fluide caloporteur circule à l'intérieur des tubes, pour prélever ou restituer l'énergie du sous-sol par conduction.

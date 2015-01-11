@@ -1,3 +1,5 @@
 # Article 11
 
-Sous réserve des dispositions de l'article 12 ci-après, le chef du service interdépartemental de l'industrie et des mines recueille l'avis des services civils et militaires intéressés et leur transmet à cet effet un exemplaire de la demande dès la mise à l'enquête. L'avis est réputé favorable s'il n'a pas été émis dans le mois qui suit l'envoi dudit exemplaire de la demande.
+Le préfet de département soumet la demande d'autorisation de recherches ou de permis d'exploitation à une enquête publique dans les conditions prévues respectivement par les articles L. 124-6 et L. 134-10 du code minier.
+
+Lorsque le demandeur présente simultanément la demande d'autorisation de recherches ou de permis d'exploitation et la demande d'autorisation d'ouverture des travaux prévue à l'article 6 du décret n° 2006-649 du 2 juin 2006 dans les conditions prévues par l'article 9 du présent décret, une enquête publique unique est organisée.

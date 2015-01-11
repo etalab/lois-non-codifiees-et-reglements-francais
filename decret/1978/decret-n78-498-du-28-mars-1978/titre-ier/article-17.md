@@ -1,5 +1,7 @@
 # Article 17
 
-Par exception aux dispositions de la présente section et par application de l'article 102 du code minier, sont considérées comme exploitations géothermiques à basse température de minime importance et dispensées de l'autorisation de recherches et du permis d'exploitation prévus aux articles 98 et 99 du code minier, les prélèvements de chaleur souterraine dont le débit calorifique maximal possible calculé par référence à une température de 20 degrés C est inférieur à 200 thermies par heure et dont la profondeur est inférieure à 100 mètres.
+L'autorisation de recherches ou le permis d'exploitation peut être retiré dans les cas et conditions prévus aux articles L. 173-5 et L. 173-6 du code minier.
 
-Les exploitations de minime importance doivent être déclarées au chef du service interdépartemental de l'industrie et des mines par leur installateur selon les modalités prévues pour les déclarations de fouilles en application de l'article 131 du code minier. La déclaration est faite, au plus tard un mois avant la mise en service, par lettre recommandée avec demande d'avis de réception. Elle tient lieu de la déclaration prévue à l'article 131 du code minier.
+Le préfet qui a reçu la demande de titre adresse au titulaire une mise en demeure lui fixant un délai qui ne peut être inférieur à deux mois pour satisfaire à ses obligations ou présenter ses explications, et lui rappelant les sanctions encourues.
+
+Si à l'expiration du délai prévu ci-dessus, la mise en demeure est restée sans effet, le chef du service déconcentré chargé des mines transmet ses propositions au préfet, qui statue. La décision est notifiée, affichée et publiée dans les formes prévues pour l'institution du titre.

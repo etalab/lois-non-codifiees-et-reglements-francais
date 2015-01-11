@@ -17,7 +17,9 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté conjoint des ministres chargés de l'énergie et de l'environnement. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">R. 214-148 </p>
+<p align="left">
+R. 214-148
+</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +30,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés marins protégés au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce. Décisions conjointes du ministre chargé de la protection de la nature et du ministre chargé des pêches maritimes. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 411-9 </p>
+<p>Article R. 411-9
+</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +65,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Nomination des membres des comités directeurs des réserves nationales de chasse et de faune sauvage, lorsque la réserve s'étend en zone de chasse maritime. Décision conjointe du ministre chargé de la chasse et du ministre chargé de la mer. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 422-93 </p>
+<p>Article R. 422-93
+</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +77,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Désignation des organismes agréés prévus à l'article L. 522-13 pour recevoir les informations relatives aux produits biocides mis sur le marché. Arrêté conjoint des ministres chargés du travail, de l'agriculture, de l'environnement et de la santé. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 522-44 </p>
+<p>Article R. 522-44
+</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +87,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Délivrance et retrait de l'agrément des organismes ou entreprises prenant en charge les emballages usagés de leurs cocontractants. Décision conjointe des ministres chargés de l'environnement, de l'économie, de l'industrie, de l'agriculture et des collectivités territoriales. </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 543-58 et R. 543-62 </p>
+<p>Articles R. 543-58 et R. 543-62
+</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +107,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Agrément des organismes chargés de délivrer aux opérateurs une attestation de capacité concernant les équipements frigorifiques et climatiques. Arrêté conjoint des ministres chargés de l'environnement et de l'industrie </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 543-108 </p>
+<p>Article R. 543-108
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +117,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Agrément des organismes coordonnateurs mentionnés aux articles R. 543-181 et R. 543-188. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td width="227">
-<p>Articles R. 543-182 et R. 543-189 </p>
+<p>Articles R. 543-182 et R. 543-189
+</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +127,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Approbation des systèmes individuels d'enlèvement et de traitement des déchets d'équipements électriques et électroniques ménagers mis en place par les producteurs. Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités locales. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 543-191 </p>
+<p>Article R. 543-191
+</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +147,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p align="left">Arrêté conjoint des ministres chargés de l'environnement et de l'industrie </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 543-233 </p>
+<p align="left">Article R. 543-233
+</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +158,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 543-234 </p>
+<p align="left">Article R. 543-234
+</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +169,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article R. 543-235 <br/>
+<p align="left">Article R. 543-235
+<br/>
 </p>
 </td>
 </tr>
@@ -168,7 +180,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Homologation des objets bruyants ou des dispositifs d'insonorisation faisant l'objet d'une première mise sur le marché. Arrêté du ministre chargé de l'environnement et, le cas échéant, du ministre ou des ministres compétents. </p>
 </td>
 <td valign="top" width="227">
-<p>Article R. 571-10 </p>
+<p>Article R. 571-10
+</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +190,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Délivrance et retrait de l'agrément des organismes chargés de mesurer les caractéristiques acoustiques des objets bruyants et des dispositifs d'insonorisation. Arrêté du ministre de l'environnement et, le cas échéant, du ou des ministres compétents. </p>
 </td>
 <td valign="top" width="227">
-<p>Articles R. 571-18 et R. 571-22 </p>
+<p>Articles R. 571-18 et R. 571-22
+</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +201,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p align="left">Décision conjointe du ministre de la défense et du ministre en charge de l'environnement. </p>
 </td>
 <td align="left" valign="top">
-<p>Article R. 521-1 </p>
+<p>Article R. 521-1
+</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +218,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté des ministres chargés de l'environnement et de l'industrie. </p>
 </td>
 <td align="left" valign="top">
-<p>Article R. 521-59 </p>
+<p>Article R. 521-59
+</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +229,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <p>Arrêté des ministres chargés de l'environnement et de l'industrie. </p>
 </td>
 <td align="left" valign="top">
-<p>Article R. 521-60 </p>
+<p>Article R. 521-60
+</p>
 </td>
 </tr>
 <tr>
@@ -225,13 +242,15 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <td/>
 <td>Approbation et retrait d'approbation des systèmes individuels chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <p>Arrêté conjoint des ministres chargés de l'environnement et de l'industrie. </p>
 </td>
-<td>Article R. 543-266 </td>
+<td>Article R. 543-266
+</td>
 </tr>
 <tr>
 <td/>
 <td>Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. </p>
 </td>
-<td>Article R. 543-267 <br/>
+<td>Article R. 543-267
+<br/>
 </td>
 </tr>
 <tr>
@@ -240,7 +259,8 @@ I.-Décisions administratives individuelles prises par le ministre chargé de l'
 <br/>Agrément et retrait d'agrément des organismes coordonnateurs chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel. <p>Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. <br/>
 </p>
 </td>
-<td>Article R. 543-268<br/>
+<td>Article R. 543-268
+<br/>
 </td>
 </tr>
 </tbody>
@@ -952,6 +972,24 @@ V.-Code rural et de la pêche maritime :
 </table>
 </div>
 
+VI.-Décret n° 2006-649 du 2 juin 2006  modifié relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains :
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td>
+<br/>Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l'article L. 161-1 du code minier <br/>
+</td>
+<td align="center">
+<br/>Article 22-8<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
 VI.-Code de l'énergie :
 
 <div align="left">
@@ -962,8 +1000,7 @@ VI.-Code de l'énergie :
 <br/>1 <br/>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Mises en demeure d'acquérir des certificats d'économies d'énergie. </p>
+<p>Mises en demeure d'acquérir des certificats d'économies d'énergie. </p>
 </td>
 <td align="left" valign="middle">
 <br/>Article L. 221-3 <br/>
@@ -974,8 +1011,7 @@ VI.-Code de l'énergie :
 <br/>2 <br/>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Décisions relatives aux versements libératoires et aux pénalités. </p>
+<p>Décisions relatives aux versements libératoires et aux pénalités. </p>
 </td>
 <td align="left" valign="middle">
 <br/>Article L. 221-4 <br/>
@@ -991,61 +1027,49 @@ VII.-Décret n° 2014-1668 du 29 décembre 2014 :
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="left">
-<br/>1 </p>
+<p>1 </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Décisions relatives aux délégations d'obligations d'économies d'énergie. </p>
+<p>Décisions relatives aux délégations d'obligations d'économies d'énergie. </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Article 6 du décret n° 2014-1668 du 29 décembre 2014 <br/>
+<p>Article 6 du décret n° 2014-1668 du 29 décembre 2014 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">
-<br/>2 </p>
+<p>2 </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Mises en demeure de respecter les articles 8 à 11, établissement d'office des déclarations et prononcé des amendes. </p>
+<p>Mises en demeure de respecter les articles 8 à 11, établissement d'office des déclarations et prononcé des amendes. </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Article 12 du décret n° 2014-1668 du 29 décembre 2014 <br/>
+<p>Article 12 du décret n° 2014-1668 du 29 décembre 2014 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">
-<br/>3 </p>
+<p>3 </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Fixation des obligations d'économies d'énergie. </p>
+<p>Fixation des obligations d'économies d'énergie. </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Article 13 du décret n° 2014-1668 du 29 décembre 2014 <br/>
+<p>Article 13 du décret n° 2014-1668 du 29 décembre 2014 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">
-<br/>4 </p>
+<p>4 </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Annulation des certificats d'économies d'énergie en fin de période. </p>
+<p>Annulation des certificats d'économies d'énergie en fin de période. </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">
-<br/>Article 14 du décret n° 2014-1668 du 29 décembre 2014<br/>
+<p>Article 14 du décret n° 2014-1668 du 29 décembre 2014<br/>
 </p>
 </td>
 </tr>

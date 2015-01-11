@@ -1,7 +1,11 @@
 # Article 7
 
-Sous réserve des dispositions de l'article 12 ci-après, la demande d'autorisation de recherches ou la demande de permis d'exploitation est accompagnée de l'étude d'impact définie à l'article 2 du décret du 12 octobre 1977 pour les forages dont l'emplacement et la profondeur sont déterminés à la date de la demande.
+Lorsque la demande d'autorisation de recherches porte sur l'intérieur d'un périmètre, elle précise :
 
-Pour les autres forages, l'étude d'impact est présentée avec la déclaration d'ouverture des travaux.
+1° ses limites, sa superficie, les départements et les communes intéressés ;
 
-L'étude d'impact inclut les renseignements mentionnés aux 6° et 7° de l'article 3 du présent décret et les complète en tant que de besoin.
+2° le programme de recherches envisagé en indiquant notamment le nombre maximal de forages et l'horizon géologique dans lequel doivent s'effectuer les captages et, le cas échéant, les réinjections ;
+
+3° l'effort financier minimal qui sera consacré à l'exécution de ces recherches et qui pourra être indexé.
+
+Il est en outre annexé un mémoire justifiant les limites de ce périmètre, compte tenu notamment de la constitution géologique de la région, et fournissant, le cas échéant, des renseignements sur les travaux déjà effectués et leurs résultats.

@@ -1,13 +1,17 @@
 # Article 15
 
-I. - Les demandes d'extension des autorisations de recherches et des permis d'exploitation sont présentées et instruites et la décision est prise, notifiée, affichée et publiée comme il est dit aux articles 3 à 14 du présent décret. L'enquête a lieu seulement dans les départements et communes intéressés par l'extension.
+Le chef du service déconcentré chargé des mines établit un rapport et donne un avis sur la demande d'autorisation de recherches ou de permis d'exploitation et les résultats de l'enquête. Lorsque des demandes concurrentes ont été formées dans les conditions prévues par l'article 12 du présent décret, les critères de sélection des demandes portent sur la bonne exploitation de la ressource du gîte géothermique, l'efficacité énergétique des procédés mis en œuvre ainsi que sur les considérations économiques et de coût de mise à disposition de l'énergie ainsi produite.
 
-II. - Les demandes de prolongation ou de fusion de permis d'exploitation, les demandes en autorisation de mutation ou d'amodiation et les demandes en acceptation de renonciation à des autorisations de recherches et à des permis d'exploitation doivent contenir les indications, engagements et documents définis aux articles 3 à 6 nécessaires à leur instruction.
+Le préfet de département statue par un arrêté qui est notifié au demandeur.
 
-Les demandes en autorisation de mutation sont signées par le cédant et le cessionnaire et doivent être déposées dans les six mois qui suivent la signature de l'acte, lequel doit avoir été passé sous la condition suspensive de cette autorisation. Une copie de l'acte de cession est annexée à la demande.
+Le silence gardé pendant plus de dix-huit mois par le préfet sur une demande d'autorisation de recherches ou une demande de permis d'exploitation de gîtes géothermiques à basse température ainsi que sur une demande d'extension d'une autorisation de recherches ou une demande d'extension de permis d'exploitation vaut décision de rejet.
 
-Les demandes ne sont pas soumises à enquête. Elles sont présentées et instruites comme il est dit aux articles 8, 11, 13 et 14.
+Le silence gardé pendant plus d'un an par le préfet sur une demande de mutation d'une autorisation de recherches ou une demande de renonciation à autorisation de recherches ainsi que sur une demande de prolongation du permis d'exploitation, une demande de fusion de permis d'exploitation, une demande de mutation de permis d'exploitation, une demande d'amodiation de permis d'exploitation ou une demande de renonciation au permis d'exploitation vaut décision de rejet.
 
-L'administration peut subordonner l'acceptation de la renonciation à l'exécution de certains travaux.
+L'arrêté est pris dans les quatre mois qui suivent la clôture de l'enquête publique ou, dans le cas visé par l'article 12 ci-dessus, dans les quatre mois qui suivent le dépôt de la demande complétée s'il y a lieu.
 
-La décision est prise, notifiée, affichée et publiée dans les formes prévues pour l'institution du titre.
+Le délai de quatre mois est porté à six mois s'il y a demande en concurrence.
+
+Un extrait de l'arrêté est, par les soins du préfet et aux frais du demandeur, affiché à la préfecture et dans les mairies des communes intéressées et inséré au recueil des actes administratifs du département ainsi que dans un journal diffusé dans tout le département.
+
+L'arrêté peut comporter toutes dispositions concernant le bon usage du gîte et protégeant les intérêts mentionnés à l'article L. 161-1 du code minier.

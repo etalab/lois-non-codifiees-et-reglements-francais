@@ -1,11 +1,11 @@
 # Article 4
 
-Lorsque la demande d'autorisation de recherches porte sur des forages dont l'emplacement est déterminé, elle précise :
+L'instruction des demandes de permis exclusifs de recherches, de permis d'exploitation et de concessions de gîtes géothermiques à haute température, la modification et le retrait de ces titres sont régis par les dispositions du décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain.
 
-1° l'emplacement, l'utilisation, la profondeur et les autres caractéristiques de chacun des forages ;
+Pour les permis exclusifs de recherches, il est fait application des dispositions spécifiques au permis M au sens de l'article L. 142-3 du code minier et prévues au décret n° 2006-648 du 2 juin 2006 relatif aux titres miniers et aux titres de stockage souterrain.
 
-2° l'horizon géologique dans lequel doivent s'effectuer les captages et, le cas échéant, les réinjections ;
+Pour les autorisations de recherches à défaut du consentement du propriétaire du sol, il est fait application des dispositions du décret du 14 août 1923.
 
-3° le débit calorifique dont l'extraction est envisagée et, le cas échéant, les débits instantanés maximaux et les volumes journaliers maximaux d'eau qui doivent circuler dans les forages ainsi que l'utilisation de l'eau et de la chaleur.
+Si le titulaire d'un titre minier de recherches de gîtes géothermiques à haute ou basse température découvre un gîte géothermique à basse ou à haute température situé dans le même réservoir géologique que le gîte géothermique recherché ou si ces deux gîtes sont connectés par l'intermédiaire de connexions hydrauliques, il peut disposer de ce gîte géothermique sous réserve des droits des tiers et sans en avoir l'exclusivité. Il doit en informer au préalable l'autorité administrative qui lui a délivré le titre de recherches.
 
-Il est en outre annexé un mémoire justifiant les éléments mentionnés aux 1° et 2° ci-dessus, compte tenu notamment de la constitution géologique de la région et fournissant, le cas échéant, des renseignements sur les travaux déjà effectués et leurs résultats.
+Le détenteur d'un titre minier de géothermie à haute température qui souhaite disposer d'un droit d'exclusivité pour des gîtes géothermiques à basse température doit déposer une demande de titre minier de géothermie à basse température.

@@ -1,5 +1,9 @@
 # Article 8
 
-La demande d'autorisation de recherches ou de permis d'exploitation est adressée au préfet en quatre exemplaires, plus autant d'exemplaires qu'il y a de communes sur tout ou partie du territoire desquelles porte le périmètre de recherches ou le volume d'exploitation. Le préfet les transmet au chef du service interdépartemental de l'industrie et des mines, qui les fait rectifier ou compléter s'il y a lieu, et peut exiger, le cas échéant, la production des exemplaires supplémentaires utiles à l'instruction.
+La demande de permis d'exploitation précise :
 
-La demande est enregistrée par le préfet sur le registre spécial ouvert pour l'inscription des demandes de titres miniers de toute nature. Récépissé en est donné au pétitionnaire.
+1° la puissance thermique pour lequel le titre est demandé ;
+
+2° le volume d'exploitation sollicité ;
+
+3° l'emplacement des forages à exploiter, pour ceux d'entre eux dont la localisation est déjà déterminée, ainsi que l'utilisation, la profondeur et les autres caractéristiques de ces forages.
