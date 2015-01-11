@@ -1,9 +1,11 @@
 # Article 6
 
-La demande de permis d'exploitation précise :
+Lorsque la demande d'autorisation de recherches porte sur des forages dont l'emplacement est déterminé, elle précise :
 
-1° le débit calorifique pour lequel le titre est demandé ;
+1° l'emplacement, l'utilisation, la profondeur et les autres caractéristiques de chacun des forages ;
 
-2° le volume d'exploitation sollicité ;
+2° l'horizon géologique dans lequel doivent s'effectuer les captages et, le cas échéant, les réinjections ;
 
-3° l'emplacement des forages à exploiter, pour ceux d'entre eux dont la localisation est déjà déterminée, ainsi que l'utilisation, la profondeur et les autres caractéristiques de ces forages.
+3° la puissance thermique dont l'extraction est envisagée et, le cas échéant, les débits instantanés maximaux et les volumes journaliers maximaux d'eau qui doivent circuler dans les forages ainsi que l'utilisation de l'eau et de la chaleur.
+
+Il est en outre annexé un mémoire justifiant les éléments mentionnés aux 1° et 2° ci-dessus, compte tenu notamment de la constitution géologique de la région et fournissant, le cas échéant, des renseignements sur les travaux déjà effectués et leurs résultats.

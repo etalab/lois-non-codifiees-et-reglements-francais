@@ -1,0 +1,5 @@
+# Article 27
+
+Les exploitations de gîtes géothermiques de minime importance réalisées avant l'entrée en vigueur du présent décret, qui répondent aux conditions mentionnées au II de l'article 3 du décret n° 78-498 du 28 mars 1978 issu de la rédaction du présent décret, peuvent se poursuivre si elles font l'objet d'une autorisation ou d'une déclaration conformément aux articles L. 162-3, L. 162-10 ou L. 411-1 du code minier et sont répertoriées dans la base nationale de données du sous-sol tenue par le bureau de recherches géologiques et minières (BRGM).
+
+Les exploitants d'un gîte géothermique de minime importance mis en fonctionnement avant l'entrée en vigueur du présent décret, qui n'est pas répertorié dans la base nationale de données du sous-sol, disposent d'un délai d'un an après l'entrée en vigueur du présent décret pour régulariser leur situation. La déclaration d'exploitation d'un site géothermique existant est effectuée par l'exploitant et mentionne notamment la localisation et les caractéristiques de l'activité géothermique. Un téléservice dédié à l'accomplissement des procédures relatives à la géothermie de minime importance est mis en place.

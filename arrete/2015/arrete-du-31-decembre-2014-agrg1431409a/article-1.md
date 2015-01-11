@@ -1,0 +1,3 @@
+# Article 1
+
+Le schéma régional de maîtrise des dangers sanitaires mentionné à l'article L. 201-12 du code rural et de la pêche maritime susvisé est élaboré par l'association sanitaire régionale. En complément des mesures réglementaires et des actions portées par l'Etat dans les domaines animal et végétal, il décrit les orientations et directives en matière de prévention de surveillance et de lutte contre les dangers sanitaires qu'il désigne. Le schéma régional de maîtrise des dangers sanitaires en synergie avec les mesures réglementaires et actions portées par l'Etat constitue la stratégie sanitaire régionale.
