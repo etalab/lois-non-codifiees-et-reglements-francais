@@ -226,129 +226,182 @@ Une inaptitude à la norme M est prononcée pour des pathologies considérées c
 <table>
 <tbody>
 <tr>
-<th>VECTEUR<br/>
+<th>
+<br/>AÉRONEF <br/>
 </th>
-<th>CATÉGORIE DE PERSONNEL<br/>
+<th>
+<br/>CATÉGORIE DE PERSONNEL <br/>
 </th>
-<th>VISITE MÉDICALE <br/>classe<br/>
+<th>
+<br/>VISITE MÉDICALE <br/>
+<br/>(classe) <br/>
 </th>
-<th>NORMES COMPLÉMENTAIRES<br/>
+<th>
+<br/>NORMES COMPLÉMENTAIRES <br/>
 </th>
-<th>VALIDITÉ <br/>(mois)<br/>
+<th>
+<br/>VALIDITÉ <br/>
+<br/>(mois) <br/>
 </th>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="middle">Avion de transport<br/>
+<td align="left" rowspan="3" valign="middle">
+<br/>Avion de transport <br/>
 </td>
-<td align="left" valign="top">Pilote<br/>
+<td align="center" valign="middle">
+<br/>Pilote <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">1</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>1 <br/>
 </td>
-<td align="left" valign="top">
-<p align="center">M si voltige ou vrilles</p>
+<td align="left" rowspan="3" valign="middle"/>
+<td align="center" valign="middle">
+<br/>12 <br/>
+<br/>(6 après 60 ans) <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Mécanicien navigant <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>12 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Ingénieur et expérimentateur <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="3" valign="middle">
+<br/>Avion muni <br/>
+<br/>de siège éjectable <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Pilote/ parachutiste <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>1 <br/>
 </td>
 <td align="center" rowspan="3" valign="middle">
-<p align="center">12</p>
+<br/>A, M <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Mécanicien navigant<br/>
+<td align="center" valign="middle">
+<br/>Mécanicien navigant <br/>
 </td>
-<td align="center" valign="middle">1<br/>
-</td>
-<td align="left" valign="middle"/>
-</tr>
-<tr>
-<td align="left" valign="middle">Ingénieur et expérimentateur<br/>
-</td>
-<td align="center" valign="middle">2<br/>
-</td>
-<td align="left" valign="middle"/>
-</tr>
-<tr>
-<td align="left" rowspan="3" valign="middle">Avion muni de siège éjectable<br/>
-</td>
-<td align="left" valign="top">Pilote<br/>
-</td>
-<td align="left" valign="top">
-<p align="center">1</p>
-</td>
-<td align="center" rowspan="3" valign="middle">A, M<br/>
-</td>
-<td align="center" rowspan="3" valign="middle">6<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Parachutiste<br/>
+<td align="center" valign="middle">
+<br/>Ingénieur et expérimentateur <br/>
 </td>
-<td align="center" valign="middle">1<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">Ingénieur et expérimentateur<br/>
-</td>
-<td align="center" valign="middle">2<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="2" valign="middle">Avion léger<br/>
+<td align="left" rowspan="3" valign="middle">
+<br/>Avions légers <br/>
 </td>
-<td align="left" valign="middle">Pilote<br/>
+<td align="center" valign="middle">
+<br/>Pilote <br/>
 </td>
-<td align="center" valign="middle">1<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>1 <br/>
 </td>
-<td align="center" rowspan="2" valign="middle">M<br/>
+<td align="center" rowspan="3" valign="middle">
+<br/>M si voltige ou vrille <br/>
 </td>
-<td align="center" rowspan="2" valign="middle">6<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">Ingénieur et expérimentateur<br/>
-</td>
-<td align="center" valign="middle">2<br/>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="3" valign="middle">Hélicoptère<br/>
-</td>
-<td align="left" valign="middle">Pilote<br/>
-</td>
-<td align="center" valign="middle">1<br/>
-</td>
-<td align="center" rowspan="3" valign="middle">H<br/>
-</td>
-<td align="center" rowspan="3" valign="middle">6<br/>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Mécanicien navigant<br/>
+<td align="center" valign="middle">
+<br/>Mécanicien navigant <br/>
 </td>
-<td align="center" valign="middle">1<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">Ingénieur et expérimentateur<br/>
-</td>
-<td align="center" valign="middle">2<br/>
+<td align="center" rowspan="2" valign="middle">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">Parachute (hors siège éjectable)<br/>
+<td align="center" valign="middle">
+<br/>Ingénieur et expérimentateur <br/>
 </td>
-<td align="left" valign="middle">Parachutiste<br/>
-</td>
-<td align="center" valign="middle">1<br/>
-</td>
-<td align="center" valign="middle">H<br/>
-</td>
-<td align="center" valign="middle">6<br/>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" colspan="5" valign="middle">
-<p align="left">Précisions :<br/>- "pilote" = pilote d'essais expérimental, d'essais ou de réceptions (la norme M est exigée sur avion de transport en cas d'activité aérienne comprenant vrilles et figures de voltige) ;<br/>- "mécanicien navigant" = mécanicien navigant d'essais ou de réceptions ;<br/>- "ingénieur" = ingénieur navigant d'essais ;<br/>- "expérimentateur" = expérimentateur navigant d'essais ;<br/>- "parachutisme" = parachutiste d'essais ou de réceptions.</p>
+<td align="left" rowspan="3" valign="middle">
+<br/>Hélicoptère <br/>
 </td>
+<td align="center" valign="middle">
+<br/>Pilote <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<br/>H <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Mécanicien navigant <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>12 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Ingénieur et expérimentateur <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Parachute <br/>
+<br/>(hors siège éjectable) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Parachutiste <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>H <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 <br/>
+</td>
+</tr>
+<tr>
+<td align="justify" colspan="5">
+<br/>Précisions :<br/>
+<br/>-“ pilote ” = pilote d'essais expérimental, d'essais ou de réceptions ;<br/>
+<br/>-“ mécanicien navigant ” = mécanicien navigant d'essais ou de réceptions ;<br/>
+<br/>-“ ingénieur ” = ingénieur navigant d'essais ;<br/>
+<br/>-“ expérimentateur ” = expérimentateur navigant d'essais ;<br/>
+<br/>-“ parachutiste ” = parachutiste d'essais ou de réceptions.</td>
 </tr>
 </tbody>
 </table>
