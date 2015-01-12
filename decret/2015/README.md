@@ -35,6 +35,7 @@
 - [DÉCRET n°2014-1157 du 9 octobre 2014 (AFSS1422131D)](decret-n2014-1157-du-9-octobre-2014-afss1422131d)
 - [DÉCRET n°2014-1158 du 9 octobre 2014 (ETST1415145D)](decret-n2014-1158-du-9-octobre-2014-etst1415145d)
 - [DÉCRET n°2014-1159 du 9 octobre 2014 (ETST1415156D)](decret-n2014-1159-du-9-octobre-2014-etst1415156d)
+- [DÉCRET n°2015-19 du 9 janvier 2015 (FCPE1420666D)](decret-n2015-19-du-9-janvier-2015-fcpe1420666d)
 - [DÉCRET n°2014-1347 du 10 novembre 2014 (AFSH1413257D)](decret-n2014-1347-du-10-novembre-2014-afsh1413257d)
 - [DÉCRET n°2014-1483 du 10 décembre 2014 (MAEM1414286D)](decret-n2014-1483-du-10-decembre-2014-maem1414286d)
 - [Décret n°2014-607 du 10 juin 2014 (JUSB1405851D)](decret-n2014-607-du-10-juin-2014-jusb1405851d)
