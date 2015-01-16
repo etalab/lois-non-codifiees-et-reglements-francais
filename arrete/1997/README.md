@@ -165,7 +165,6 @@
 - [Arrêté du 6 février 1997 (MCCB9600629A)](arrete-du-6-fevrier-1997-mccb9600629a)
 - [Arrêté du 6 février 1997 (TASG9720469A)](arrete-du-6-fevrier-1997-tasg9720469a)
 - [Arrêté du 6 janvier 1997 (ACVI9630015A)](arrete-du-6-janvier-1997-acvi9630015a)
-- [Arrêté du 6 janvier 1997 (BUDL9600171A)](arrete-du-6-janvier-1997-budl9600171a)
 - [Arrêté du 6 janvier 1997 (ECOT9620058A)](arrete-du-6-janvier-1997-ecot9620058a)
 - [Arrêté du 6 janvier 1997 (MENH9603457A)](arrete-du-6-janvier-1997-menh9603457a)
 - [Arrêté du 6 janvier 1997 (TASP9720072A)](arrete-du-6-janvier-1997-tasp9720072a)

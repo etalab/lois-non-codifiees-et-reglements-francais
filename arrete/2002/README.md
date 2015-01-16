@@ -335,7 +335,6 @@
 - [Arrêté du 15 mars 2002 (AGRG0200524A)](arrete-du-15-mars-2002-agrg0200524a)
 - [Arrêté du 15 mars 2002 (EQUA0200605A)](arrete-du-15-mars-2002-equa0200605a)
 - [Arrêté du 15 mars 2002 (MENP0200658A)](arrete-du-15-mars-2002-menp0200658a)
-- [Arrêté du 15 novembre 2000 (ECOL0000156A)](arrete-du-15-novembre-2000-ecol0000156a)
 - [Arrêté du 16 août 2002 (MENS0201513A)](arrete-du-16-aout-2002-mens0201513a)
 - [Arrêté du 16 août 2002 (MENS0201514A)](arrete-du-16-aout-2002-mens0201514a)
 - [Arrêté du 16 avril 2002 (EQUP0200012A)](arrete-du-16-avril-2002-equp0200012a)
