@@ -12,6 +12,4 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Domfront" ;
 
-― "Pays d'Auge" ;
-
-― "Pommeau de Normandie".
+― "Pays d'Auge".
