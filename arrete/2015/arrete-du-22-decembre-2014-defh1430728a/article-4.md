@@ -14,7 +14,7 @@ b) Représentants du personnel : quatre membres titulaires et quatre membres sup
 
 - un siège de titulaire et un siège de suppléant pour la Fédération des établissements et arsenaux de l'Etat (FEAE-CFDT) ;
 
-- un siège de titulaire et un siège de suppléant pour la Fédération nationale des travailleurs de l'Etat (FNTE-CGT) ;
+- un siège de titulaire et un siège de suppléant pour le Syndicat national unifié de l'encadrement civil de la défense - Défense CGC (SNUEC - Défense CGC) ;
 
 - un siège de titulaire et un siège de suppléant pour l'Union nationale des syndicats autonomes défense (UNSA défense) ;
 
