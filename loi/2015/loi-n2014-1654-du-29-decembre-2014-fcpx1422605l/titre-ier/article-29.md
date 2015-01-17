@@ -46,7 +46,7 @@ La répartition du montant de cette part est ainsi fixée :
 </tr>
 <tr>
 <td align="left">
-<br/>Centre </td>
+<br/>Centre - Val de Loire </td>
 <td align="left">
 <br/>4,161 95 </td>
 </tr>
@@ -191,12 +191,12 @@ A compter de 2015, cette fraction de tarif est fixée à :
 
 Pour une année donnée, si la part du produit de la taxe intérieure de consommation sur les produits énergétiques obtenue dans les conditions définies au présent B représente un montant annuel inférieur au montant de la part du produit de la taxe intérieure de consommation sur les produits énergétiques défini au deuxième alinéa du A, la différence fait l'objet d'une attribution d'une part correspondante du produit de la taxe intérieure de consommation sur les produits énergétiques revenant à l'Etat.
 
-C du I et II. - A modifié les dispositions suivantes :
+C du I et II.-A modifié les dispositions suivantes :
 
-> - LOI n° 2013-1278 du 29 décembre 2013
-> > Art. 40
+> -LOI n° 2013-1278 du 29 décembre 2013
+> > Art. 40A
 
-A modifié les dispositions suivantes :
+modifié les dispositions suivantes :
 
-> - Code du travail
+> -Code du travail
 > > Art. L6241-2

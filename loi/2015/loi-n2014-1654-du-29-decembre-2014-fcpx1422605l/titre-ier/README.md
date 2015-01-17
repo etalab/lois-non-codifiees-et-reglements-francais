@@ -1,4 +1,4 @@
-# Titre Ier : AUTORISATIONS BUDGÉTAIRES POUR 2015 CRÉDITS ET DÉCOUVERTS  I. - CRÉDITS DES MISSIONS
+# Titre Ier : DISPOSITIONS RELATIVES AUX RESSOURCES
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

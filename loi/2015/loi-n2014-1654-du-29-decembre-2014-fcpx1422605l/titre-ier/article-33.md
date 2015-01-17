@@ -2,9 +2,9 @@
 
 I.-Par dérogation au 2 du III de l'article 1600 du code général des impôts, une somme de 500 millions d'euros, imputable sur le produit attendu de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises, est affectée au budget général de l'Etat.
 
-I. - A modifié les dispositions suivantes :
+I.-A modifié les dispositions suivantes :
 
-> - Code général des impôts, CGI.
+> -Code général des impôts, CGI.
 > > Art. 1600
 
 III.-Il est opéré, en 2015, au profit du fonds de financement des chambres de commerce et d'industrie de région mentionné au 2 du III de l'article 1600 du code général des impôts, un prélèvement de 500 millions d'euros sur les chambres de commerce et d'industrie, à l'exception des régions où il n'existe qu'une seule chambre de commerce et d'industrie territoriale, dénommée chambre de commerce et d'industrie de région.
@@ -267,7 +267,7 @@ Ce prélèvement est réparti conformément au tableau suivant :
 <br/>CCIR <br/>
 </td>
 <td align="left">
-<br/>Centre <br/>
+<br/>Centre-Val de Loire <br/>
 </td>
 <td align="left">
 <br/>2 702 524 <br/>
