@@ -1,3 +1,0 @@
-# Article 1
-
-Les établissements de crédit ayant passé une convention avec l'Etat les habilitant à distribuer les avances remboursables ne portant pas intérêt destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements, mentionnées aux articles R. 319-1 et suivants du code de la construction et de l'habitation, doivent conclure une convention conforme à la convention type annexée au présent arrêté, avec l'organisme mentionné à l'article R. 319-12 qui a reçu l'autorisation du ministre chargé de l'environnement, du ministre chargé de l'économie, du ministre chargé du logement et du ministre chargé du budget, d'assurer la gestion et le suivi des crédits d'impôt dus au titre de l'« éco-prêt à taux zéro ».
