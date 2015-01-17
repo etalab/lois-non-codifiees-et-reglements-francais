@@ -12,7 +12,7 @@ En 2015, cette fraction de tarif est fixée à :
 
 1° 0,67 € par hectolitre, s'agissant des supercarburants sans plomb ;
 
-2° 0,48 € par hectolitre, s'agissant du gazole présentant un point d'éclair inférieur à 120 °C.
+2° 0,48 € par hectolitre, s'agissant du gazole présentant un point d'éclair inférieur à 120° C.
 
 Pour 2015, la répartition des produits mentionnés au 2° du I sur le fondement du nombre d'apprentis connu au 31 décembre 2012 est fixée comme suit :
 
@@ -56,7 +56,7 @@ Pour 2015, la répartition des produits mentionnés au 2° du I sur le fondement
 </tr>
 <tr>
 <td>
-<br/>Centre</td>
+<br/>Centre - Val de Loire</td>
 <td align="left">
 <br/>4,700 74</td>
 </tr>
@@ -110,7 +110,7 @@ Pour 2015, la répartition des produits mentionnés au 2° du I sur le fondement
 </tr>
 <tr>
 <td>
-<br/>Nord - Pas-de-Calais</td>
+<br/>Nord-Pas-de-Calais</td>
 <td align="left">
 <br/>5,098 89</td>
 </tr>
