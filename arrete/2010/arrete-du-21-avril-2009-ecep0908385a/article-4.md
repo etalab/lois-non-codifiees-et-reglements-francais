@@ -28,7 +28,7 @@ Il surveille l'adéquation des ressources et des emplois des fonds d'épargne ce
 
 Il assure le suivi du financement du logement social et des structures chargées de sa régulation et de son contrôle. A ce titre, il exerce, pour le compte du ministre chargé de l'économie et conjointement avec les services du ministre chargé du logement, l'autorité sur la mission interministérielle d'inspection du logement social ainsi que la tutelle sur la caisse de garantie du logement locatif social.
 
-Il représente le ministère dans les organismes chargés de mettre en œuvre la politique de financement du logement social, notamment la société de gestion du fonds de garantie à l'accession sociale, l'Agence nationale de l'habitat, l'            Agence nationale de contrôle du logement social  et l'Agence nationale de la rénovation urbaine. Il suit les relations financières entre l'Etat et le Crédit foncier de France. Il représente l'Etat actionnaire auprès de la société d'économie mixte Adoma.
+Il représente le ministère dans les organismes chargés de mettre en œuvre la politique de financement du logement social, notamment la société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation, l'Agence nationale de l'habitat, l' Agence nationale de contrôle du logement social et l'Agence nationale de la rénovation urbaine. Il suit les relations financières entre l'Etat et le Crédit foncier de France. Il représente l'Etat actionnaire auprès de la société d'économie mixte Adoma.
 
 Il assure le suivi financier des collectivités locales.
 

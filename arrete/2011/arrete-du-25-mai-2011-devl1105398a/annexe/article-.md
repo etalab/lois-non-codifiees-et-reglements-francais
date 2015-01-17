@@ -4,7 +4,7 @@ CONVENTION CONCLUE ENTRE LA SGFGAS ET LES ÉTABLISSEMENTS DE CRÉDIT RELATIVE AU
 
 Entre :
 
-La Société de gestion du fonds de garantie de l'accession sociale à la propriété, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de Ricolfis, directeur général (ci-après dénommée la SGFGAS), d'une part,
+La              société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation, société anonyme au capital de 825 015 €, dont le siège social est 13, rue Auber, 75009 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro B 390 818 235, représentée par M. François de Ricolfis, directeur général (ci-après dénommée la SGFGAS), d'une part,
 
 Et
 
@@ -252,13 +252,9 @@ En application du quatrième alinéa du II de l'article 244 quater V du code gé
 
 Fait à Paris, le........
 
-Pour la Société de gestion
+Pour la
 
-du fonds de garantie
-
-de l'accession sociale
-
-à la propriété :
+société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation :
 
 F. de Ricolfis
 

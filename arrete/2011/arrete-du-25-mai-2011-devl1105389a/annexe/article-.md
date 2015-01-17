@@ -16,9 +16,9 @@ Vu les articles L. 31-10-1 et suivants, R. 31-10-1 et suivants et R. 312-3-1 à 
 
 Vu la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011, et notamment son article 90 relatif au prêt ne portant pas intérêt consenti pour financer la primo-accession à la propriété ;
 
-Vu la convention conclue entre l'Etat et la Société de gestion du fonds de garantie de l'accession sociale à la propriété, approuvée par l'arrêté du 25 mai 2011 ;
+Vu la convention conclue entre l'Etat et la              société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation, approuvée par l'arrêté du 25 mai 2011 ;
 
-Vu l'arrêté du 25 mai 2011 approuvant la convention type à conclure entre l'établissement de crédit et la Société de gestion du fonds de garantie de l'accession sociale à la propriété relative au prêt ne portant pas intérêt consenti pour financer la primo-accession à la propriété ;
+Vu l'arrêté du 25 mai 2011 approuvant la convention type à conclure entre l'établissement de crédit et la              société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation relative au prêt ne portant pas intérêt consenti pour financer la primo-accession à la propriété ;
 
 Vu l'arrêté du 25 mai 2011 approuvant la présente convention type,
 
