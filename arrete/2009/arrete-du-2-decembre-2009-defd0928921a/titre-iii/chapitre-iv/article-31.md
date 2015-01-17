@@ -10,7 +10,7 @@ La sous-direction de la propriété intellectuelle et des affaires générales :
 
 4. Conduit et prépare, pour le directeur, les décisions en matière de gestion des ressources humaines ainsi que celles relatives aux questions d'ordre social ;
 
-4-1. Elabore, conjointement avec l'état-major des armées, le programme de formation des futurs attachés de défense ;
+4-1. (Abrogé).
 
 5. Coordonne les actions de la direction sur les questions relatives à la santé et à la sécurité au travail ainsi que sur les questions de sécurité de défense et de sécurité des systèmes d'information ;
 

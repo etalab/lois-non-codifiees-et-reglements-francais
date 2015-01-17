@@ -1,3 +1,11 @@
 # Article 35
 
-Le service du soutien aux exportations de défense est constitué de trois sous-directions à compétence géographique.
+Les sous-directions à compétence géographique sont :
+
+- la sous-direction Europe occidentale et Amérique du Nord ;
+
+- la sous-direction Europe centrale et orientale et Amérique du Sud ;
+
+- la sous-direction Afrique et Moyen-Orient ;
+
+- la sous-direction Asie-Pacifique.

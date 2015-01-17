@@ -1,9 +1,7 @@
 # Article 24
 
-La sous-direction des petites et moyennes entreprises comprend trois bureaux :
+La sous-direction des petites et moyennes entreprises comprend deux bureaux :
 
-1. Le bureau de l'accompagnement des PME ;
+1. Le bureau de l'accompagnement des PME et des PME stratégiques ;
 
-2. Le bureau du développement des PME et de l'action régionale ;
-
-3. Le bureau des PME stratégiques.
+2. Le bureau du développement des PME et de l'action régionale.

@@ -1,10 +1,10 @@
 # Article 17
 
-Le service d'architecture des systèmes de forces :
+Le service de préparation des systèmes futurs et d'architecture :
 
-1. Anime les actions de la direction générale de l'armement en matière de prospective technologique et opérationnelle ;
+1. Anime les actions de la direction générale de l'armement en matière de préparation de l'avenir dans les domaines techniques et opérationnels ;
 
-2. Participe, en liaison avec les organismes concernés, à l'élaboration du plan prospectif et des plans qui en découlent ;
+2. Participe, en liaison avec les organismes compétents du ministère de la défense, à la gouvernance ministérielle en matière de prospective de défense ;
 
 3. Propose au délégué général pour l'armement les orientations pour la conduite des études amont ;
 

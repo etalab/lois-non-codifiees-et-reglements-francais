@@ -10,7 +10,7 @@ La sous-direction des plans et des programmes :
 
 4. Elabore les budgets des programmes et opérations dont la direction générale de l'armement est responsable ;
 
-5. Est responsable et anime, avec les responsables des budgets opérationnels de programme de la direction générale de l'armement les travaux de programmation, d'élaboration, de gestion et d'exécution budgétaire, en fait la synthèse et propose les mesures d'adaptation nécessaires ;
+5. Conduit et anime, avec les responsables des budgets opérationnels de programme de la direction générale de l'armement les travaux de programmation, d'élaboration, de gestion et d'exécution budgétaire, en fait la synthèse et propose les mesures d'adaptation nécessaires ;
 
 6. Contrôle les éléments de décision fournis par les directions et services de la direction générale de l'armement concernant le lancement et le déroulement des opérations d'armement ;
 

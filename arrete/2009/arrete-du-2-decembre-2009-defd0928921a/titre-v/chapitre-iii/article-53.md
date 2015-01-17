@@ -6,7 +6,7 @@ La sous-direction du soutien à la production :
 
 2. Assure la mise en œuvre de la politique de la direction générale de l'armement en matière de protection de l'environnement ;
 
-3. Conduit et prépare, pour le directeur, les décisions en matière de gestion des ressources humaines ainsi que celles relatives aux questions d'ordre social ;
+3. (Abrogé).
 
 4. Coordonne les actions de la direction sur les questions relatives à la santé et à la sécurité au travail ainsi que sur les questions de sécurité de défense et de sécurité des systèmes d'information ;
 

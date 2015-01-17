@@ -1,4 +1,0 @@
-# CHAPITRE III : LA SOUS DIRECTION DE LA COOPERATION ET DU DEVELOPPEMENT EUROPEEN
-
-- [Article 29](article-29.md)
-- [Article 30](article-30.md)
