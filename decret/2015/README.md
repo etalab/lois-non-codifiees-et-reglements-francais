@@ -52,6 +52,7 @@
 - [DÉCRET n°2015-26 du 14 janvier 2015 (INTD1430748D)](decret-n2015-26-du-14-janvier-2015-intd1430748d)
 - [DÉCRET n°2014-1190 du 15 octobre 2014 (FCPT1414214D)](decret-n2014-1190-du-15-octobre-2014-fcpt1414214d)
 - [DÉCRET n°2014-1515 du 15 décembre 2014 (AGRT1424449D)](decret-n2014-1515-du-15-decembre-2014-agrt1424449d)
+- [DÉCRET n°2015-28 du 15 janvier 2015 (ETLL1430341D)](decret-n2015-28-du-15-janvier-2015-etll1430341d)
 - [DÉCRET n°2014-1057 du 16 septembre 2014 (RDFZ1403319D)](decret-n2014-1057-du-16-septembre-2014-rdfz1403319d)
 - [DÉCRET n°2014-1058 du 16 septembre 2014 (RDFZ1403502D)](decret-n2014-1058-du-16-septembre-2014-rdfz1403502d)
 - [DÉCRET n°2014-1519 du 16 décembre 2014 (MENS1427379D)](decret-n2014-1519-du-16-decembre-2014-mens1427379d)
