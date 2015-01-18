@@ -10,8 +10,6 @@ A abrogé les dispositions suivantes :
 > >
 > > Le titre Ier du livre VI du code électoral, dans sa rédaction en vigueur à la date de publication de la présente loi organique, est applicable à l'élection des conseillers généraux prévue en mars 2011.
 
-Toutefois, par dérogation à l'article LO 457, le mandat des conseillers généraux élus en mars 2011 expire en mars 2014.
+Toutefois, par dérogation à l'article LO 457, le mandat des conseillers généraux élus en mars 2011 expire en mars 2015.
 
-Lors du renouvellement intégral prévu en mars 2014, le nombre de conseillers généraux est porté à vingt-trois.
-
-> >
+Lors du renouvellement intégral prévu en mars 2015, le nombre de conseillers généraux est porté à vingt-trois.
