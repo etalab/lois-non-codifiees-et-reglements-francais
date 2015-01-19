@@ -1,0 +1,3 @@
+# Article 11
+
+En vue de la formation prévue aux articles 1er, 6 et 8 du présent arrêté, un module de formation dit de tronc commun aux deux domaines d'activité des techniciens sanitaires et de sécurité sanitaire est défini dans les programmes de formation dispensés par l'Ecole des hautes études en santé publique et, le cas échéant, par l'Agence nationale de sécurité du médicament et des produits de santé. Ce module de formation d'une durée de cinq jours est organisé par l'Ecole des hautes études en santé publique en partenariat avec l'agence nationale de sécurité du médicament et des produits de santé.
