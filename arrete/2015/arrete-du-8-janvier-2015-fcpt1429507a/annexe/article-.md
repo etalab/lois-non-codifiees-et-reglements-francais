@@ -1009,262 +1009,266 @@ INDEMNITÉS SUPPLÉMENTAIRES MENSUELLES EN EUROS
 </td>
 </tr>
 <tr>
-<td align="left">Rwanda<br/>
+<td>
+<p align="left">Russie (Ekaterinbourg) </p>
 </td>
-<td align="center">1 248,63 €<br/>
+<td>
+<p align="center">1 248,63 €</p>
 </td>
 </tr>
 <tr>
-<td align="left">São Tomé et Príncipe<br/>
+<td align="left">
+<p align="left">Rwanda<br/>
+</p>
 </td>
-<td align="center">1 380,06 €<br/>
+<td align="center">1 380,06 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Saõ Tomé-et-Principe <br/>
+</p>
+</td>
+<td align="center">
+<p align="center">2 132,31 €<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left">Sénégal<br/>
 </td>
-<td align="center">2 132,31 €<br/>
+<td align="center">1 193,98 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left">Serbie<br/>
 </td>
-<td align="center">1 193,98 €<br/>
+<td align="center">1 106,16 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left">Seychelles (îles)<br/>
 </td>
-<td align="center">1 106,16 €<br/>
+<td align="center">1 008,80 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left">Sierra Leone<br/>
 </td>
-<td align="center">1 008,80 €<br/>
+<td align="center">2 274,66 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left">Singapour<br/>
 </td>
-<td align="center">2 274,66 €<br/>
+<td align="center">2 102,60 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left">Slovaquie<br/>
 </td>
-<td align="center">2 102,60 €<br/>
+<td align="center">909,04 €<br/>
 </td>
 </tr>
 <tr>
 <td align="left">Slovénie<br/>
 </td>
-<td align="center">909,04 €<br/>
-</td>
+<td align="center">979,06 €</td>
 </tr>
 <tr>
-<td align="left">Somalie<br/>
+<td align="left">
+<p align="left">Somalie<br/>
+</p>
 </td>
-<td align="center">979,06 €<br/>
-</td>
+<td align="center">1 967,25 €</td>
 </tr>
 <tr>
 <td align="left">Soudan<br/>
 </td>
-<td align="center">1 967,25 €<br/>
-</td>
+<td align="center">2 512,45 €</td>
 </tr>
 <tr>
 <td align="left">Soudan du Sud<br/>
 </td>
-<td align="center">2 512,45 €<br/>
-</td>
+<td align="center">2 646,01 €</td>
 </tr>
 <tr>
 <td align="left">Sri Lanka<br/>
 </td>
-<td align="center">2 646,01 €<br/>
+<td align="center">1 210,33 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Sainte Hélène-Tristan da Cunha<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">1 364,26 €<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">Sainte Hélène-Tristan da Cunha<br/>
+<td align="left">
+<p align="left">Sainte-Lucie<br/>
+</p>
 </td>
-<td align="center">1 210,33 €<br/>
-</td>
+<td align="center">1 299,70 €</td>
 </tr>
 <tr>
-<td align="left">Sainte-Lucie<br/>
+<td align="left">
+<p align="left">Saint-Kitts-et-Nevis<br/>
+</p>
 </td>
-<td align="center">1 364,26 €<br/>
-</td>
+<td align="center">1 240,62 €</td>
 </tr>
 <tr>
-<td align="left">Saint-Kitts-et-Nevis<br/>
+<td align="left">
+<p align="left">Saint Siège<br/>
+</p>
 </td>
-<td align="center">1 299,70 €<br/>
-</td>
+<td align="center">1 135,25 €</td>
 </tr>
 <tr>
-<td align="left">Saint-Siège<br/>
+<td align="left">
+<p align="left">Saint-Vincent-et-les-Grenadines </p>
 </td>
-<td align="center">1 240,62 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Saint-Vincent-et-les-Grenadines<br/>
-</td>
-<td align="center">1 135,25 €<br/>
-</td>
+<td align="center">1 345,23 €</td>
 </tr>
 <tr>
 <td align="left">Suède<br/>
 </td>
-<td align="center">1 345,23 €<br/>
-</td>
+<td align="center">1 294,62 €</td>
 </tr>
 <tr>
 <td align="left">Suisse<br/>
-</td>
-<td align="center">1 294,62 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Surinam<br/>
 </td>
 <td align="center">1 773,31 €<br/>
 </td>
 </tr>
 <tr>
-<td align="left">Swaziland<br/>
+<td align="left">
+<p align="left">Suriname</p>
 </td>
-<td align="center">1 212,92 €<br/>
+<td align="center">1 212,92 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Swaziland</p>
+</td>
+<td align="center">839,32 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Syrie</p>
+</td>
+<td align="center">1 426,09 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Tadjikistan</p>
+</td>
+<td align="center">1 648,67 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Taïwan</p>
+</td>
+<td align="center">
+<p align="center">1 294,43 €</p>
 </td>
 </tr>
 <tr>
-<td align="left">Syrie<br/>
+<td align="left">
+<p align="left">Tanzanie</p>
 </td>
-<td align="center">839,32 €<br/>
-</td>
+<td align="center">1 350,80 €</td>
 </tr>
 <tr>
-<td align="left">Tadjikistan<br/>
+<td align="left">Tchad <br/>
 </td>
-<td align="center">1 426,09 €<br/>
-</td>
+<td align="center">1 857,65 €</td>
 </tr>
 <tr>
-<td align="left">Taïwan<br/>
+<td align="left">
+<p align="left">Thaïlande</p>
 </td>
-<td align="center">1 648,67 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Tanzanie<br/>
-</td>
-<td align="center">1 294,43 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Tchad<br/>
-</td>
-<td align="center">1 350,80 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Thaïlande<br/>
-</td>
-<td align="center">1 857,65 €<br/>
-</td>
+<td align="center">1 384,51 €</td>
 </tr>
 <tr>
 <td align="left">Timor oriental<br/>
-</td>
-<td align="center">1 384,51 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Togo<br/>
 </td>
 <td align="center">2 938,09 €<br/>
 </td>
 </tr>
 <tr>
-<td align="left">Trinité-et-Tobago<br/>
+<td align="left">Togo <br/>
 </td>
-<td align="center">1 200,69 €<br/>
+<td align="center">1 200,69 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Trinité-et-Tobago</p>
+</td>
+<td align="center">1 439,49 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Tunisie</p>
+</td>
+<td align="center">650,71 €</td>
+</tr>
+<tr>
+<td align="left">Turkmenistan <br/>
+</td>
+<td align="center">2 240,17 €</td>
+</tr>
+<tr>
+<td align="left">Turquie (autres villes) <br/>
+</td>
+<td align="center">924,31 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Turquie (Istanbul) </p>
+</td>
+<td align="center">1 226,56 €</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">UKraine</p>
+</td>
+<td align="center">1 077,69 €</td>
+</tr>
+<tr>
+<td align="left">Uruguay </td>
+<td align="center">
+<p align="center">1 753,04 €</p>
 </td>
 </tr>
 <tr>
-<td align="left">Tunisie<br/>
+<td align="left">
+<p align="left">Vanuatu et autres Etats du Pacifique</p>
 </td>
-<td align="center">1 439,49 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Turkménistan<br/>
-</td>
-<td align="center">650,71 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Turquie (autres villes)<br/>
-</td>
-<td align="center">2 240,17 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Turquie (Istanbul)<br/>
-</td>
-<td align="center">924,31 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Ukraine<br/>
-</td>
-<td align="center">1 226,56 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Uruguay<br/>
-</td>
-<td align="center">1 753,04 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Vanuatu et autres Etats du Pacifique<br/>
-</td>
-<td align="center">1 077,69 €<br/>
-</td>
+<td align="center">1 392,00 €</td>
 </tr>
 <tr>
 <td align="left">Venezuela<br/>
 </td>
-<td align="center">1 392,00 €<br/>
-</td>
+<td align="center">3 325,64 €</td>
 </tr>
 <tr>
 <td align="left">Vietnam<br/>
 </td>
-<td align="center">3 325,64 €<br/>
-</td>
+<td align="center">1 417,62 €</td>
 </tr>
 <tr>
 <td align="left">Yémen<br/>
 </td>
-<td align="center">1 417,62 €<br/>
-</td>
-</tr>
-<tr>
-<td align="left">Yémen (Aden)<br/>
-</td>
-<td align="center">2 065,72 €<br/>
-</td>
+<td align="center">2 065,72 €</td>
 </tr>
 <tr>
 <td align="left">Zambie<br/>
 </td>
-<td align="center">1 184,53 €<br/>
-</td>
+<td align="center">1 184,53 €</td>
 </tr>
 <tr>
 <td align="left">Zimbabwe<br/>
