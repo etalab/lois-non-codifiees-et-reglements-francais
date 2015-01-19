@@ -53,6 +53,7 @@
 - [Arrêté du 6 décembre 2013 (JUSF1330629A)](arrete-du-6-decembre-2013-jusf1330629a)
 - [Arrêté du 6 décembre 2013 (JUSF1330632A)](arrete-du-6-decembre-2013-jusf1330632a)
 - [Arrêté du 6 décembre 2013 (PROL1326145A)](arrete-du-6-decembre-2013-prol1326145a)
+- [Arrêté du 6 juillet 1994 (SPSG9402108A)](arrete-du-6-juillet-1994-spsg9402108a)
 - [Arrêté du 6 juin 2013 (DEFD1310302A)](arrete-du-6-juin-2013-defd1310302a)
 - [Arrêté du 6 juin 2013 (DEFD1310305A)](arrete-du-6-juin-2013-defd1310305a)
 - [Arrêté du 6 juin 2013 (INTE1313989A)](arrete-du-6-juin-2013-inte1313989a)
