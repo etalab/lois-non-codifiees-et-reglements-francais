@@ -1,0 +1,5 @@
+# Article 28
+
+Par dérogation au II de l'article 5 du décret n° 90-89 du 24 janvier 1990, à l'article 6-2 du décret n° 90-90 du 24 janvier 1990 et à l'article 10-2 du décret du 3 août 1992, dans leur rédaction en vigueur antérieurement aux modifications introduites par le présent décret, les candidats ayant subi avec succès les épreuves d'un des concours organisés au titre des sessions 2012, 2013 et 2014 peuvent être titularisés nonobstant l'absence de détention du certificat de compétences en langues de l'enseignement supérieur ou du certificat de compétences en informatique et internet.
+
+Les agents mentionnés au premier alinéa du présent article qui ne détiennent pas le certificat de compétences en langues de l'enseignement supérieur ou le certificat en informatique et internet à la date de leur titularisation sont tenus de suivre, dans un délai de trois ans à compter de cette date, les actions de formation mises en œuvre en vue de la préparation de ces qualifications et de se présenter aux certifications correspondantes.

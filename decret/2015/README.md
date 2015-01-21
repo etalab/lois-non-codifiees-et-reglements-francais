@@ -75,6 +75,7 @@
 - [DÉCRET n°2014-1546 du 19 décembre 2014 (DEVR1420466D)](decret-n2014-1546-du-19-decembre-2014-devr1420466d)
 - [DÉCRET n°2014-1551 du 19 décembre 2014 (FCPE1425422D)](decret-n2014-1551-du-19-decembre-2014-fcpe1425422d)
 - [DÉCRET n°2014-911 du 19 août 2014 (JUSB1403332D)](decret-n2014-911-du-19-aout-2014-jusb1403332d)
+- [DÉCRET n°2015-36 du 19 janvier 2015 (AGRS1419720D)](decret-n2015-36-du-19-janvier-2015-agrs1419720d)
 - [DÉCRET n°2014-1386 du 20 novembre 2014 (ETSD1406912D)](decret-n2014-1386-du-20-novembre-2014-etsd1406912d)
 - [DÉCRET n°2014-953 du 20 août 2014 (AFSS1409804D)](decret-n2014-953-du-20-aout-2014-afss1409804d)
 - [DÉCRET n°2014-1390 du 21 novembre 2014 (ETSD1418594D)](decret-n2014-1390-du-21-novembre-2014-etsd1418594d)
