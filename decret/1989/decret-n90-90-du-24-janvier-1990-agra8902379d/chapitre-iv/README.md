@@ -1,4 +1,4 @@
-# CHAPITRE IV : Avancement, mutation, reclassement.
+# CHAPITRE IV : Avancement, notation, mutation, reclassement.
 
 - [Article 18](article-18.md)
 - [Article 19](article-19.md)

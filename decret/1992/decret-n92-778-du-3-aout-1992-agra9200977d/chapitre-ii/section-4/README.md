@@ -1,4 +1,4 @@
-# Section 4 : Dispositions communes au certificat d'aptitude au professorat de l'enseignement du second degré agricole, au certificat d'aptitude au professorat de l'enseignement technique agricole et au cycle préparatoire.
+# Section 4 : Dispositions communes au certificat d'aptitude au professorat de l'enseignement du second degré agricole et au certificat d'aptitude au professorat de l'enseignement technique agricole.
 
 - [Article 17](article-17.md)
 - [Article 19](article-19.md)
