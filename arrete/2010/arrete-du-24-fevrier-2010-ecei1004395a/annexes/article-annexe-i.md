@@ -10,7 +10,7 @@ AU SENS DE L'ARTICLE 2 DU DÉCRET DU 22 FÉVRIER 2010 SUSVISÉ
 
 a) Modèles réduits fidèles et détaillés ;
 
-b) Coffrets d'assemblage de modèles réduits fidèles et détaillés ;
+b) Coffrets d'assemblage de modèles réduits détaillés ;
 
 c) Poupées folkloriques et décoratives et autres articles similaires ;
 
@@ -20,7 +20,7 @@ e) Reproductions d'armes à feu réelles.
 
 3. Equipements sportifs, y compris les patins à roulettes, les patins en ligne et les planches à roulettes destinés aux enfants pesant plus de 20 kg ;
 
-4. Bicyclettes ayant une hauteur de selle maximale supérieure à 435 mm, distance mesurée à la verticale entre le sol et la surface supérieure de la selle, la selle se trouvant en position horizontale, et la tige de la selle étant réglée au niveau d'insertion minimum ;
+4. Bicyclettes ayant une hauteur de selle maximale supérieure à 435 mm, distance mesurée à la verticale entre le sol et la surface supérieure de la selle, la selle se trouvant en position horizontale et la tige de la selle étant réglée au niveau d'insertion minimum ;
 
 5. Trottinettes et autres moyens de transport conçus pour le sport ou qui sont destinés à être utilisés à des fins de déplacement sur les voies publiques ;
 
@@ -32,7 +32,7 @@ e) Reproductions d'armes à feu réelles.
 
 9. Armes et pistolets à air comprimé, à l'exception des armes à eau et des pistolets à eau, et arcs à flèches d'une longueur supérieure à 120 cm ;
 
-10. Artifices de divertissement, y compris les amorces à percussion, à l'exception de celles conçues spécialement pour des jouets ;
+10. Artifices de divertissement, y compris les amorces à percussion qui ne sont pas spécialement conçues pour des jouets ;
 
 11. Produits et jeux comprenant des projectiles à pointe acérée, tels que les jeux de fléchettes à pointe métallique ;
 

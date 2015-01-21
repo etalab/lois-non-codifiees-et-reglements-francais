@@ -678,11 +678,11 @@ On entend par :
 
 - "ensemble cosmétique", un jouet dont l'objet est d'aider l'enfant à apprendre à fabriquer des produits tels que substances parfumantes, savons, crèmes, shampoings, mousses pour le bain, vernis, rouge à lèvres, autre maquillage, dentifrice et adjuvants ;
 
-- "jeu gustatif", un jouet pouvant comporter l'utilisation d'ingrédients alimentaires tels qu'édulcorants, liquides, poudres et arômes, permettant aux enfants de confectionner des friandises ou d'autres préparations culinaires.
+- "jeu gustatif", un jouet pouvant comporter l'utilisation d'ingrédients alimentaires tels qu'édulcorants, liquides, poudres et arômes, permettant aux enfants de confectionner des friandises ou des préparations culinaires.
 
 VI. - Limites de migration des éléments chimiques entrant dans la composition des jouets en application du 10 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
-Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé, les jouets ou composants de jouets accessibles durant leur utilisation dans les conditions prévues à l'article 3 du décret du 22 février 2010 susvisé ne dépassent pas les limites de migration suivantes.
+Sans préjudice des autres dispositions des 3 et 4 de la partie III Propriétés chimiques de l'annexe I du décret du 22 février 2010 susvisé, les jouets ou composants de jouets accessibles durant leur utilisation dans les conditions prévues à l'article 3 du décret du 22 février 2010 susvisé ne dépassent pas les limites de migration suivantes.
 
 <table>
 <tbody>
