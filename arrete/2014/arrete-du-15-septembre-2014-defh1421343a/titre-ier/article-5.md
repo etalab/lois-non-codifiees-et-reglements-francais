@@ -1,6 +1,6 @@
 # Article 5
 
-Les membres du jury des concours organisés au titre du 2° a et c de l'article 5 du décret du 12 septembre 2008 susvisé sont nommés chaque année par arrêté du ministre de la défense (chef d'état-major de l'armée de terre) :
+Les membres du jury des concours organisés au titre du 2° a de l'article 5 du décret du 12 septembre 2008 susvisé ainsi que du 2 de l'article 4 du décret du 5 décembre 2014 susvisé sont nommés par arrêté du ministre de la défense.
 
 Le jury se compose de cinq membres et comprend :
 

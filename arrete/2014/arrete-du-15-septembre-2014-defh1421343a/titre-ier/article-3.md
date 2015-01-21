@@ -1,6 +1,6 @@
 # Article 3
 
-Trois concours sur épreuves sont ouverts au titre du 2° a et c de l'article 5 du décret du 12 septembre 2008 susvisé :
+Trois concours sur épreuves sont ouverts au titre du 2° a de l'article 5 du décret du 12 septembre 2008 susvisé ainsi que du 2 de l'article 4 du décret du 5 décembre 2014 susvisé.
 
 -un concours sciences (SI) ;
 
