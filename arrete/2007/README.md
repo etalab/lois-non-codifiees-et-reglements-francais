@@ -67,7 +67,6 @@
 - [Arrêté du 3 juillet 2007 (ESRS0758265A)](arrete-du-3-juillet-2007-esrs0758265a)
 - [Arrêté du 3 juillet 2007 (SJSG0761632A)](arrete-du-3-juillet-2007-sjsg0761632a)
 - [Arrêté du 3 juillet 2007 (SJSG0761635A)](arrete-du-3-juillet-2007-sjsg0761635a)
-- [Arrêté du 3 mars 2006 (EQUA0501901A)](arrete-du-3-mars-2006-equa0501901a)
 - [Arrêté du 3 octobre 2007 (ECED0765365A)](arrete-du-3-octobre-2007-eced0765365a)
 - [Arrêté du 3 octobre 2007 (IOCC0766653A)](arrete-du-3-octobre-2007-iocc0766653a)
 - [Arrêté du 3 mai 2007 (EQUT0751960A)](arrete-du-3-mai-2007-equt0751960a)
