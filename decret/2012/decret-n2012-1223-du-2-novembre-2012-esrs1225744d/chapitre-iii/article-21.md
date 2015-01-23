@@ -1,6 +1,6 @@
 # Article 21
 
-Les conditions d'exercice du droit de suffrage, d'éligibilité, le déroulement et les conditions de régularité du scrutin et les modalités de recours contre les élections sont régis par le décret du 18 janvier 1985 susvisé sous réserve des dispositions ci-après.
+Les conditions d'exercice du droit de suffrage, d'éligibilité, le déroulement et les conditions de régularité du scrutin et les modalités de recours contre les élections sont régis par      les articles D. 719-7 à D. 719-40 du code de l'éducation  sous réserve des dispositions ci-après.
 
 I. ― Pour chaque membre élu du conseil d'administration, du conseil scientifique et du conseil des études et de la vie à l'école, un suppléant est désigné dans les mêmes conditions que le membre titulaire.
 

@@ -14,9 +14,9 @@ C. ― Le président de la Fondation arts et métiers.
 
 A. ― Neuf représentants des personnels enseignants, enseignants-chercheurs et chercheurs, répartis dans les trois collèges ci-dessous :
 
-a) Quatre représentants du collège des professeurs des universités et personnels assimilés au sens de l'article 3 du décret du 18 janvier 1985 susvisé ;
+a) Quatre représentants du collège des professeurs des universités et personnels assimilés au sens de          l' article D. 719-4 du code de l'éducation  ;
 
-b) Trois représentants du collège des maîtres de conférences et personnels assimilés au sens de l'article 3 du décret du 18 janvier 1985 susvisé ;
+b) Trois représentants du collège des maîtres de conférences et personnels assimilés au sens de          l' article D. 719-4 du code de l'éducation  ;
 
 c) Deux représentants du collège des autres personnels enseignants.
 

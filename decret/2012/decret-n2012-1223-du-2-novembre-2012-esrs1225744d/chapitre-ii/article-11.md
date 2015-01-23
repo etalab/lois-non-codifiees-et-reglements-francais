@@ -14,4 +14,4 @@ D. ― Le président de la Société des ingénieurs arts et métiers.
 
 2° De personnalités extérieures qualifiées, françaises ou étrangères, désignées par le directeur général en raison de leurs compétences pédagogiques.
 
-3° Majoritairement de représentants élus des personnels d'enseignement et de recherche, des personnels ingénieurs, administratifs, techniques, ouvriers et de service, des usagers dont au moins deux représentants des professeurs des universités et personnels assimilés au sens de l'article 3 du décret du 18 janvier 1985 susvisé et deux représentants des autres enseignants-chercheurs.
+3° Majoritairement de représentants élus des personnels d'enseignement et de recherche, des personnels ingénieurs, administratifs, techniques, ouvriers et de service, des usagers dont au moins deux représentants des professeurs des universités et personnels assimilés au sens de          l' article D. 719-4 du code de l'éducation  et deux représentants des autres enseignants-chercheurs.

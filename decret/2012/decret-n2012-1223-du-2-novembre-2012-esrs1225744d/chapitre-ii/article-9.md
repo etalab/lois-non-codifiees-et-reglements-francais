@@ -16,4 +16,4 @@ D. ― Le président de la Fondation arts et métiers.
 
 3° De représentants d'institutions partenaires, choisis par le directeur général après avis des autres membres du conseil scientifique.
 
-4° D'au minimum un tiers de représentants élus des personnels d'enseignement et de recherche, des ingénieurs et personnels techniques de recherche, des usagers dont une majorité inscrite en formation doctorale à l'ENSAM. Les représentants des professeurs des universités et personnels assimilés au sens de l'article 3 du décret du 18 janvier 1985 susvisé constituent au moins un quart des représentants élus. Il en est de même pour les représentants élus des autres enseignants-chercheurs.
+4° D'au minimum un tiers de représentants élus des personnels d'enseignement et de recherche, des ingénieurs et personnels techniques de recherche, des usagers dont une majorité inscrite en formation doctorale à l'ENSAM. Les représentants des professeurs des universités et personnels assimilés au sens de          l' article D. 719-4 du code de l'éducation  constituent au moins un quart des représentants élus. Il en est de même pour les représentants élus des autres enseignants-chercheurs.
