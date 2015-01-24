@@ -84,6 +84,7 @@
 - [DÉCRET n°2015-42 du 20 janvier 2015 (MCCB1426263D)](decret-n2015-42-du-20-janvier-2015-mccb1426263d)
 - [DÉCRET n°2014-1390 du 21 novembre 2014 (ETSD1418594D)](decret-n2014-1390-du-21-novembre-2014-etsd1418594d)
 - [DÉCRET n°2014-1391 du 21 novembre 2014 (EINI1424752D)](decret-n2014-1391-du-21-novembre-2014-eini1424752d)
+- [DÉCRET n°2015-44 du 21 janvier 2015 (INTV1425985D)](decret-n2015-44-du-21-janvier-2015-intv1425985d)
 - [Décret n°70-354 du 21 avril 1970](decret-n70-354-du-21-avril-1970)
 - [DÉCRET n°2014-1077 du 22 septembre 2014 (RDFB1420012D)](decret-n2014-1077-du-22-septembre-2014-rdfb1420012d)
 - [DÉCRET n°2014-1078 du 22 septembre 2014 (RDFB1420013D)](decret-n2014-1078-du-22-septembre-2014-rdfb1420013d)
