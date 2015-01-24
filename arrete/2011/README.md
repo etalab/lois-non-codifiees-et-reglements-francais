@@ -1676,7 +1676,6 @@
 - [Arrêté du 20 septembre 2010 (JUSF1023312A)](arrete-du-20-septembre-2010-jusf1023312a)
 - [Arrêté du 20 septembre 2011 (AGRM1124798A)](arrete-du-20-septembre-2011-agrm1124798a)
 - [Arrêté du 20 septembre 2011 (BCRP1125111A)](arrete-du-20-septembre-2011-bcrp1125111a)
-- [Arrêté du 20 septembre 2011 (DEFH1125490A)](arrete-du-20-septembre-2011-defh1125490a)
 - [Arrêté du 20 septembre 2011 (DEVK1116580A)](arrete-du-20-septembre-2011-devk1116580a)
 - [Arrêté du 20 septembre 2011 (EFIS1120653A)](arrete-du-20-septembre-2011-efis1120653a)
 - [Arrêté du 20 septembre 2011 (ETSD1123445A)](arrete-du-20-septembre-2011-etsd1123445a)
