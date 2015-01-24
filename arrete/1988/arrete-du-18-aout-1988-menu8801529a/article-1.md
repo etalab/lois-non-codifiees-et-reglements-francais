@@ -32,4 +32,8 @@ Radiologie et imagerie médicale ;
 
 Anatomie et cytologie pathologiques ;
 
-Biophysique et médecine nucléaire.
+Biophysique et médecine nucléaire ;
+
+Bactériologie-virologie ; hygiène hospitalière ;
+
+Parasitologie et mycologie.

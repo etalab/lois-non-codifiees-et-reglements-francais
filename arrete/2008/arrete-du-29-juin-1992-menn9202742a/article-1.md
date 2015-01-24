@@ -9,59 +9,57 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">SECTION</p>
 </td>
 <td align="center" rowspan="2">
-<p align="center">
-<br/>SOUS-SECTION</p>
+<p align="center">SOUS-SECTION</p>
 </td>
 <td align="center" rowspan="2">
 <p align="center">TITRE</p>
 </td>
 <td align="center" rowspan="2">
-<p align="center">TYPE</p>
+<p align="center">TYPE </p>
 </td>
 <td align="center" colspan="2">
 <p align="center">PREMIER<br/>collège</p>
 </td>
 <td align="center" colspan="2">
-<p align="center">
-<br/> DEUXIÈME<br/>collège</p>
+<p align="center">DEUXIÈME<br/>collège</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Elus </p>
+<p align="center">Elus</p>
 </td>
 <td>
-<p align="center">Nommés </p>
+<p align="center">Nommés</p>
 </td>
 <td>
-<p align="center">Elus </p>
+<p align="center">Elus</p>
 </td>
 <td>
-<p align="center">Nommés </p>
+<p align="center">Nommés</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">42 <br/>
+<p align="center">42</p>
+</td>
+<td/>
+<td>Morphologie et morphogenèse : </td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01 <br/>
 </p>
 </td>
-<td/>
-<td>
-<p align="left">Morphologie et morphogenèse : <br/>
-</p>
+<td>Anatomie <br/>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
-<td/>
-<td>01 </td>
-<td>Anatomie </td>
 <td>
-<p align="center">Mixte </p>
+<p align="center">Mixte</p>
 </td>
 <td>
 <p align="center">4</p>
@@ -73,7 +71,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <p align="center">4</p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 </tr>
 <tr>
@@ -82,7 +80,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Cytologie et histologie <br/>
+<br/>Histologie, embryologie et cytogénétique <br/>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -201,7 +199,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>Biochimie et biologie moléculaire <br/>
 </td>
 <td align="center">
-<br/>Biologique <br/>
+<br/>Mixte <br/>
 </td>
 <td align="center">
 <br/>6 <br/>
