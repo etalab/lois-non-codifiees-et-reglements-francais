@@ -32,7 +32,6 @@
 - [Arrêté du 3 août 2001 (INTE0100480A)](arrete-du-3-aout-2001-inte0100480a)
 - [Arrêté du 3 décembre 2001 (JUSA0100339A)](arrete-du-3-decembre-2001-jusa0100339a)
 - [Arrêté du 3 janvier 2001 (ECOC0000140A)](arrete-du-3-janvier-2001-ecoc0000140a)
-- [Arrêté du 3 janvier 2001 (FPPA0110001A)](arrete-du-3-janvier-2001-fppa0110001a)
 - [Arrêté du 3 juillet 2001 (ECOI0100342A)](arrete-du-3-juillet-2001-ecoi0100342a)
 - [Arrêté du 3 septembre 2001 (INTB0100521A)](arrete-du-3-septembre-2001-intb0100521a)
 - [Arrêté du 3 mai 2001 (EQUU0100505A)](arrete-du-3-mai-2001-equu0100505a)

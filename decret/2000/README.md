@@ -89,7 +89,6 @@
 - [Décret n°2000-1300 du 26 décembre 2000 (AGRP0002534D)](decret-n2000-1300-du-26-decembre-2000-agrp0002534d)
 - [Décret n°2000-1326 du 26 décembre 2000 (MESG0023461D)](decret-n2000-1326-du-26-decembre-2000-mesg0023461d)
 - [Décret n°2000-1347 du 26 décembre 2000 (AGRP0000592D)](decret-n2000-1347-du-26-decembre-2000-agrp0000592d)
-- [Décret n°2000-1390 du 26 décembre 2000 (FPPA0010023D)](decret-n2000-1390-du-26-decembre-2000-fppa0010023d)
 - [Décret n°2000-572 du 26 juin 2000 (EQUP0000216D)](decret-n2000-572-du-26-juin-2000-equp0000216d)
 - [Décret n°95-462 du 26 avril 1995 (MCCX9400163D)](decret-n95-462-du-26-avril-1995-mccx9400163d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
