@@ -7,3 +7,4 @@
 - [ORDONNANCE n°2015-25 du 14 janvier 2015 (MENJ1428789R)](ordonnance-n2015-25-du-14-janvier-2015-menj1428789r)
 - [ORDONNANCE n°2014-1543 du 19 décembre 2014 (RDFX1426430R)](ordonnance-n2014-1543-du-19-decembre-2014-rdfx1426430r)
 - [ORDONNANCE n°2014-1555 du 22 décembre 2014 (MAEX1428225R)](ordonnance-n2014-1555-du-22-decembre-2014-maex1428225r)
+- [ORDONNANCE n°2015-50 du 23 janvier 2015 (RDFB1429689R)](ordonnance-n2015-50-du-23-janvier-2015-rdfb1429689r)
