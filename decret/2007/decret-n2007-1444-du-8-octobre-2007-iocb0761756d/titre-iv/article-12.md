@@ -1,5 +1,5 @@
 # Article 12
 
-Les administrateurs de la ville de Paris satisfont à l'obligation de mobilité instituée par le décret du 16 juillet 2004 susvisé dans les conditions fixées par ledit décret.
+Les administrateurs de la ville de Paris satisfont à l'obligation de mobilité instituée par le décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration dans les conditions fixées par le chapitre Ier dudit décret.
 
-Toutefois, les administrateurs de la ville de Paris astreints à la mobilité ne pourront satisfaire à cette obligation en exerçant des fonctions dans un cabinet ministériel ou au cabinet du maire de Paris ; de même, ils ne peuvent satisfaire à cette obligation en exerçant des fonctions auprès des établissements publics relevant de la commune ou du département de Paris.
+Toutefois, ils ne peuvent satisfaire à cette obligation en exerçant des fonctions au cabinet du maire de Paris.
