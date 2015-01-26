@@ -1018,7 +1018,6 @@
 - [Arrêté du 13 décembre 2011 (IOCC1125956A)](arrete-du-13-decembre-2011-iocc1125956a)
 - [Arrêté du 13 décembre 2011 (IOCC1126023A)](arrete-du-13-decembre-2011-iocc1126023a)
 - [Arrêté du 13 décembre 2011 (MAEA1125853A)](arrete-du-13-decembre-2011-maea1125853a)
-- [Arrêté du 13 décembre 2011 (MENH1133303A)](arrete-du-13-decembre-2011-menh1133303a)
 - [Arrêté du 13 janvier 2011 (AGRT1031886A)](arrete-du-13-janvier-2011-agrt1031886a)
 - [Arrêté du 13 janvier 2011 (EFIC1030151A)](arrete-du-13-janvier-2011-efic1030151a)
 - [Arrêté du 13 janvier 2011 (JUSC1022402A)](arrete-du-13-janvier-2011-jusc1022402a)
