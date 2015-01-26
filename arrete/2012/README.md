@@ -2803,7 +2803,6 @@
 - [Arrêté du 31 janvier 2012 (SPOF1200175A)](arrete-du-31-janvier-2012-spof1200175a)
 - [Arrêté du 31 janvier 2012 (TRAT1131773A)](arrete-du-31-janvier-2012-trat1131773a)
 - [Arrêté du 31 juillet 2003 (SOCF0311191A)](arrete-du-31-juillet-2003-socf0311191a)
-- [Arrêté du 31 juillet 2012 (AFSZ1230582A)](arrete-du-31-juillet-2012-afsz1230582a)
 - [Arrêté du 31 juillet 2012 (AGRG1231268A)](arrete-du-31-juillet-2012-agrg1231268a)
 - [Arrêté du 31 juillet 2012 (AGRT1200668A)](arrete-du-31-juillet-2012-agrt1200668a)
 - [Arrêté du 31 juillet 2012 (AGRT1229257A)](arrete-du-31-juillet-2012-agrt1229257a)
