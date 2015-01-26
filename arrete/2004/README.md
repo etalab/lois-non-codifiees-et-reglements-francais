@@ -699,7 +699,6 @@
 - [Arrêté du 29 décembre 2003 (BUDL0300166A)](arrete-du-29-decembre-2003-budl0300166a)
 - [Arrêté du 29 décembre 2003 (INTB0300775A)](arrete-du-29-decembre-2003-intb0300775a)
 - [Arrêté du 29 décembre 2003 (PRMX0307051A)](arrete-du-29-decembre-2003-prmx0307051a)
-- [Arrêté du 29 décembre 2003 (PRMX0307052A)](arrete-du-29-decembre-2003-prmx0307052a)
 - [Arrêté du 29 décembre 2003 (PRMX0307053A)](arrete-du-29-decembre-2003-prmx0307053a)
 - [Arrêté du 29 janvier 2004 (BUDD0470003A)](arrete-du-29-janvier-2004-budd0470003a)
 - [Arrêté du 29 juillet 1992 (COMA9200025A)](arrete-du-29-juillet-1992-coma9200025a)
