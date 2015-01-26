@@ -5,183 +5,214 @@ Dans la limite des crédits ouverts à cet effet, le montant maximal de l'envelo
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="151">
-<p align="center">Election</p>
+<th colspan="2">
+<br/>ÉLECTION <br/>
+</th>
+<th>
+<br/>PAR CENTAINE <p>d'électeurs et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR COMMUNE <p>et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR CANDIDAT, <p>binôme de candidats </p>
+<p>ou liste de candidats </p>
+<p>et par tour <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td colspan="2" valign="middle">
+<br/>Présidentielle <br/>
 </td>
-<td width="151">
-<p align="center">Par centaine d'électeurs et par tour</p>
+<td align="center" valign="middle">
+<br/>1,20 € <br/>
 </td>
-<td width="151">
-<p align="center">Par commune et par tour</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>6,10 € <br/>
 </td>
-<td width="151">
-<p align="center">Par candidat ou liste de candidats et par tour</p>
+<td align="center" valign="middle">
+<br/>362,41 € <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="151">
-<p>Présidentielle</p>
+<td colspan="2" valign="middle">
+<br/>Législatives <br/>
 </td>
-<td width="151">
-<p align="center">1,20 €</p>
+<td align="center" valign="middle">
+<br/>2,00 € <br/>
 </td>
-<td rowspan="3" width="151">
-<p align="center">6,10 €</p>
-</td>
-<td width="151">
-<p align="center">362,41 € </p>
+<td align="center" valign="middle">
+<br/>312,19 € <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="151">
-<p>Législatives</p>
+<td colspan="2" valign="middle">
+<br/>Départementales <br/>
 </td>
-<td width="151">
-<p align="center">2,00 € </p>
+<td align="center" valign="middle">
+<br/>1,00 € <br/>
 </td>
-<td width="151">
-<p align="center">312,19 € </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="151">
-<p>Cantonales</p>
-</td>
-<td width="151">
-<p align="center">1,00 € </p>
-</td>
-<td width="151">
-<p align="center">52,47 € </p>
+<td align="center" valign="middle">
+<br/>52,47 € <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="151">
-<p>Municipales</p>
+<td rowspan="2" valign="middle">
+<br/>Municipales <br/>
 </td>
-<td>Communes de 1 000 habitants et plus <br/>
+<td valign="middle">
+<br/>Communes de 1 000 habitants et plus <br/>
 </td>
-<td rowspan="2" width="151">
-<p align="center">1,80 € </p>
+<td align="center" rowspan="2" valign="middle">
+<br/>1,80 € <br/>
 </td>
-<td rowspan="2" width="151">
-<p align="center">9,50 €</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>9,50 € <br/>
 </td>
-<td width="151">
-<p align="center">5,92 € </p>
-</td>
-</tr>
-<tr>
-<td>Communes de moins de 1 000 habitants <br/>
-</td>
-<td align="center"> 2,00 € </td>
-</tr>
-<tr>
-<td colspan="2" width="151">
-<p align="center">Election</p>
-</td>
-<td width="151">
-<p align="center">Par électeur et par tour</p>
-</td>
-<td width="151">
-<p align="center">Par commune et par tour</p>
-</td>
-<td width="151">
-<p align="center">Par candidat ou liste de candidats et par tour</p>
+<td align="center" valign="middle">
+<br/>5,92 € <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="151">
-<p>Sénatoriales</p>
+<td valign="middle">
+<br/>Communes de moins de 1 000 habitants <br/>
 </td>
-<td width="151">
-<p align="center">1,25 € </p>
+<td align="center" valign="middle">
+<br/>2,00 € <br/>
 </td>
-<td width="151">
-<p align="center">6,10 €</p>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÉLECTION <br/>
+</th>
+<th>
+<br/>PAR ÉLECTEUR <p>et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR COMMUNE <p>et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR CANDIDAT <p>ou liste de candidats et par tour <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<br/>Sénatoriales <br/>
 </td>
-<td width="151">
-<p align="center">405,36 €  </p>
+<td align="center">
+<br/>1,25 € <br/>
+</td>
+<td align="center">
+<br/>6,10 € <br/>
+</td>
+<td align="center">
+<br/>405,36 € <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÉLECTION <br/>
+</th>
+<th>
+<br/>PAR CENTAINE <p>d'électeurs et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR COMMUNE <p>et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR DÉPARTEMENT <p>ou circonscription <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<br/>Européennes <br/>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<br/>1,75 € <br/>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<br/>6,10 € <br/>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<br/>3 000,00 € <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="151">
-<p align="center">Election</p>
-</td>
-<td width="151">
-<p align="center">Par centaine d'électeurs et par tour</p>
-</td>
-<td width="151">
-<p align="center">Par commune et par tour</p>
-</td>
-<td width="151">
-<p align="center">Par département ou circonscription</p>
+<td>
+<br/>Régionales et assemblée de Corse <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="151">
-<p>Européennes</p>
+<td>
+<br/>Référendum national <br/>
 </td>
-<td rowspan="3" width="151">
-<p align="center">1,75 € </p>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÉLECTIONS TERRITORIALES OUTRE-MER <br/>
+</th>
+<th>
+<br/>PAR CENTAINE d'électeurs et par tour <br/>
+</th>
+<th>
+<br/>PAR COMMUNE <p>et par tour <br/>
+</p>
+</th>
+<th>
+<br/>PAR TERRITOIRE <p>ou circonscription <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<br/>Elections provinciales Nouvelle-Calédonie <br/>
 </td>
-<td rowspan="3" width="151">
-<p align="center">6,10 €</p>
+<td align="center">
+<br/>1,84 €<br/>
 </td>
-<td rowspan="3" width="151">
-<p align="center">3 000,00 € </p>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>3 000,00 € <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="151">
-<p>Régionales et Assemblée de Corse</p>
+<td>
+<br/>Assemblée territoriales outre-mer <br/>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="151">
-<p>Référendum national</p>
+<td align="center">
+<br/>1,75 € <br/>
 </td>
-</tr>
-<tr>
-<td colspan="2" width="151">
-<p align="center">Elections territoriales outre-mer</p>
+<td align="center">
+<br/>6,10 € <br/>
 </td>
-<td width="151">
-<p align="center">Par centaine d'électeurs et par tour</p>
-</td>
-<td width="151">
-<p align="center">Par commune et par tour</p>
-</td>
-<td width="151">
-<p align="center">Par territoire ou circonscription</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="151">
-<p>Elections provinciales Nouvelle-Calédonie</p>
-</td>
-<td width="151">
-<p align="center">1,84 € </p>
-</td>
-<td width="151">
-<br/>
-<br/>
-</td>
-<td width="151">
-<p align="center">3 000,00 € </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="151">
-<p>Assemblées territoriales d'outre-mer</p>
-</td>
-<td width="151">
-<p align="center">1,75 € </p>
-</td>
-<td width="151">
-<p align="center">6,10 €</p>
-</td>
-<td width="151">
-<p align="center">3 000,00 €</p>
+<td align="center">
+<br/>3 000,00 €<br/>
 </td>
 </tr>
 </tbody>

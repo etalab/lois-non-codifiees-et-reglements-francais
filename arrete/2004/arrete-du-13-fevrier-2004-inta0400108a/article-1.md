@@ -5,94 +5,95 @@ Le montant maximal de l'indemnité pour travaux supplémentaires susceptible d'�
 <table>
 <tbody>
 <tr>
-<td width="302">
-<p align="center">ÉLECTION</p>
+<th>ÉLECTION <br/>
+</th>
+<th>
+<p align="center">
+<br/>MONTANT PLAFOND <br/>
+<br/>par agent </p>
+</th>
+<th>
+<br/>MONTANT PLAFOND MAJORÉ <br/>
+</th>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Présidentielle <br/>
 </td>
-<td width="189">
-<p align="center">MONTANT PLAFOND PAR AGENT</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>630 € <br/>
 </td>
-<td width="189">
-<p align="center">MONTANT PLAFOND MAJORÉ</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>945 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Présidentielle</p>
-</td>
-<td rowspan="2" valign="top" width="189">
-<p align="center">630 €</p>
-</td>
-<td rowspan="2" valign="top" width="189">
-<p align="center">945 €</p>
+<td valign="middle">
+<br/>Législatives <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Législatives</p>
+<td valign="middle">
+<br/>Départementales <br/>
+</td>
+<td align="center" valign="middle">
+<br/>580 € <br/>
+</td>
+<td align="center" valign="middle">
+<br/>870 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Cantonales/départementales </p>
+<td valign="middle">
+<br/>Municipales <br/>
 </td>
-<td valign="top" width="189">
-<p align="center">580 €</p>
+<td align="center" valign="middle">
+<br/>1 160 € <br/>
 </td>
-<td valign="top" width="189">
-<p align="center">870 €</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Municipales </p>
-</td>
-<td valign="top" width="189">
-<p align="center">1 160 €</p>
-</td>
-<td valign="top" width="189">
-<p align="center">1 740 €</p>
+<td align="center" valign="middle">
+<br/>1 740 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Sénatoriales</p>
+<td valign="middle">
+<br/>Sénatoriales <br/>
 </td>
-<td valign="top" width="189">
-<p align="center">380 €</p>
+<td align="center" valign="middle">
+<br/>380 € <br/>
 </td>
-<td valign="top" width="189">
-<p align="center">570 €</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Européennes </p>
-</td>
-<td rowspan="5" width="189">
-<p align="center">540 €</p>
-</td>
-<td rowspan="5" width="189">
-<p align="center">810 €</p>
+<td align="center" valign="middle">
+<br/>570 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Régionales et assemblée de Corse </p>
+<td valign="middle">
+<br/>Européennes <br/>
+</td>
+<td align="center" rowspan="5" valign="middle">
+<br/>540 € <br/>
+</td>
+<td align="center" rowspan="5" valign="middle">
+<br/>810 € <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Référendum national </p>
+<td valign="middle">
+<br/>Régionales et Assemblée de Corse <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Elections provinciales Nouvelle-Calédonie </p>
+<td valign="middle">
+<br/>Référendum national <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>Assemblées territoriales d'outre-mer </p>
+<td valign="middle">
+<br/>Elections provinciales Nouvelle-Calédonie <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Assemblée territoriales outre-mer<br/>
 </td>
 </tr>
 </tbody>
