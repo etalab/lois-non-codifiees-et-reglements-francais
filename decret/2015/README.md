@@ -124,6 +124,8 @@
 - [DÉCRET n°2014-1604 du 23 décembre 2014 (RDFB1427950D)](decret-n2014-1604-du-23-decembre-2014-rdfb1427950d)
 - [DÉCRET n°2014-1605 du 23 décembre 2014 (RDFB1427952D)](decret-n2014-1605-du-23-decembre-2014-rdfb1427952d)
 - [DÉCRET n°2014-1606 du 23 décembre 2014 (RDFB1427955D)](decret-n2014-1606-du-23-decembre-2014-rdfb1427955d)
+- [DÉCRET n°2015-53 du 23 janvier 2015 (INTA1500331D)](decret-n2015-53-du-23-janvier-2015-inta1500331d)
+- [DÉCRET n°2015-54 du 23 janvier 2015 (RDFF1425987D)](decret-n2015-54-du-23-janvier-2015-rdff1425987d)
 - [DÉCRET n°2014-1240 du 24 octobre 2014 (ETSD1418587D)](decret-n2014-1240-du-24-octobre-2014-etsd1418587d)
 - [DÉCRET n°2014-1242 du 24 octobre 2014 (OMEO1415242D)](decret-n2014-1242-du-24-octobre-2014-omeo1415242d)
 - [DÉCRET n°2014-1576 du 24 décembre 2014 (PRMD1422750D)](decret-n2014-1576-du-24-decembre-2014-prmd1422750d)
