@@ -142,6 +142,7 @@
 - [DÉCRET n°2014-1637 du 26 décembre 2014 (FCPS1426156D)](decret-n2014-1637-du-26-decembre-2014-fcps1426156d)
 - [DÉCRET n°2014-1648 du 26 décembre 2014 (ETLL1423395D)](decret-n2014-1648-du-26-decembre-2014-etll1423395d)
 - [DÉCRET n°2014-1651 du 26 décembre 2014 (MCCB1422429D)](decret-n2014-1651-du-26-decembre-2014-mccb1422429d)
+- [DÉCRET n°2015-55 du 26 janvier 2015 (PRMX1502211D)](decret-n2015-55-du-26-janvier-2015-prmx1502211d)
 - [DÉCRET n°2014-1413 du 27 novembre 2014 (AFSS1424665D)](decret-n2014-1413-du-27-novembre-2014-afss1424665d)
 - [DÉCRET n°2014-712 du 27 juin 2014 (AFSS1409984D)](decret-n2014-712-du-27-juin-2014-afss1409984d)
 - [Décret n°2007-1056 du 28 juin 2007 (BCFB0755397D)](decret-n2007-1056-du-28-juin-2007-bcfb0755397d)
