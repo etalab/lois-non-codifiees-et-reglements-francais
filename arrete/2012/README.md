@@ -971,7 +971,6 @@
 - [Arrêté du 13 décembre 2011 (ESRH1129883A)](arrete-du-13-decembre-2011-esrh1129883a)
 - [Arrêté du 13 décembre 2012 (AGRG1242187A)](arrete-du-13-decembre-2012-agrg1242187a)
 - [Arrêté du 13 décembre 2012 (AGRT1242170A)](arrete-du-13-decembre-2012-agrt1242170a)
-- [Arrêté du 13 décembre 2012 (DEVA1242039A)](arrete-du-13-decembre-2012-deva1242039a)
 - [Arrêté du 13 décembre 2012 (DEVK1239239A)](arrete-du-13-decembre-2012-devk1239239a)
 - [Arrêté du 13 décembre 2012 (DEVK1239240A)](arrete-du-13-decembre-2012-devk1239240a)
 - [Arrêté du 13 décembre 2012 (DEVK1239241A)](arrete-du-13-decembre-2012-devk1239241a)
