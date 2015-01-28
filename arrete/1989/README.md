@@ -4,7 +4,6 @@
 - [Arrêté du 1 avril 1989 (TEFT8903327A)](arrete-du-1-avril-1989-teft8903327a)
 - [Arrêté du 1 décembre 1989 (BUDR8905054A)](arrete-du-1-decembre-1989-budr8905054a)
 - [Arrêté du 1 décembre 1989 (BUDR8905055A)](arrete-du-1-decembre-1989-budr8905055a)
-- [Arrêté du 1 décembre 1989 (MAEA8920398A)](arrete-du-1-decembre-1989-maea8920398a)
 - [Arrêté du 1 décembre 1989 (SPSS8902616A)](arrete-du-1-decembre-1989-spss8902616a)
 - [Arrêté du 1 février 1989 (BUDR8905008A)](arrete-du-1-fevrier-1989-budr8905008a)
 - [Arrêté du 1 février 1989 (EQUC8900105A)](arrete-du-1-fevrier-1989-equc8900105a)
