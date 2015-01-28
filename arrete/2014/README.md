@@ -81,7 +81,6 @@
 - [ARRÊTÉ du 2 septembre 2014 (INTK1420703A)](arrete-du-2-septembre-2014-intk1420703a)
 - [ARRÊTÉ du 2 septembre 2014 (MENH1417303A)](arrete-du-2-septembre-2014-menh1417303a)
 - [Arrêté du 2 mai 2014 (DEFH1406277A)](arrete-du-2-mai-2014-defh1406277a)
-- [Arrêté du 2 mai 2014 (DEVA1409420A)](arrete-du-2-mai-2014-deva1409420a)
 - [Arrêté du 2 mai 2014 (DEVD1307987A)](arrete-du-2-mai-2014-devd1307987a)
 - [Arrêté du 2 mai 2014 (INTA1410278A)](arrete-du-2-mai-2014-inta1410278a)
 - [Arrêté du 2 mai 2014 (INTJ1409419A)](arrete-du-2-mai-2014-intj1409419a)
