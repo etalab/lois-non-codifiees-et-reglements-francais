@@ -16,4 +16,4 @@ Le secrétariat général commun au ministère de l'économie, de l'industrie et
 
 ― la délégation à l'encadrement supérieur.
 
-Le secrétaire général dispose, en outre, d'un cabinet ; la gestion des ressources communes des différentes composantes du secrétariat général lui est rattachée. Sont également placés auprès du secrétaire général un coordonnateur ministériel à l'intelligence économique et une mission « Parlement européen ».
+Le secrétaire général dispose, en outre, d'un cabinet ; la gestion des ressources communes des différentes composantes du secrétariat général lui est rattachée. Sont également directement placés auprès du secrétaire général un coordonnateur ministériel à l'intelligence économique, une mission " Parlement européen " ainsi qu'une mission ministérielle des achats dirigée par le responsable des achats des ministères économiques et financiers.

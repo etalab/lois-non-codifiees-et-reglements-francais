@@ -2,11 +2,9 @@
 
 I. ― La sous-direction des ressources humaines ministérielles élabore pour les ministères, en concertation avec les directions et services, les orientations générales de la gestion des ressources humaines, notamment en ce qui concerne le recrutement, la formation professionnelle, la gestion prévisionnelle des effectifs, des emplois et des compétences, la mobilité professionnelle, l'accompagnement social des réformes, le recrutement et l'insertion professionnelle des personnes handicapées et la paye. Elle coordonne les travaux y afférents. Elle assure une mission de veille, de diffusion de l'information et de mutualisation des bonnes pratiques dans le domaine des ressources humaines. Elle définit les principes et coordonne les mesures mises en œuvre pour l'accompagnement social des réformes. Elle assure une mission de conseil juridique en matière de personnel et traite, pour les agents des ministères, de tout contentieux administratif relatif à leur gestion, à l'exclusion des contentieux de pensions de l'Etat, et de toute question relative à la déontologie, sous réserve, le cas échéant, des attributions du Conseil général de l'économie, de l'industrie, de l'énergie et des technologies et de l'inspection générale des finances. Dans ses domaines de compétence, elle représente les ministères dans les instances interministérielles.
 
-Un délégué ministériel au handicap, chargé d'animer et développer la politique ministérielle dans ce domaine, est directement rattaché au sous-directeur.
-
 II.-La sous-direction comprend :
 
-Le bureau  "    affaires juridiques, statutaires et indemnitaires "
+Le bureau " affaires juridiques, statutaires et indemnitaires "
 
 Il est chargé de coordonner la conception et la mise en œuvre des textes statutaires et indemnitaires concernant les agents des ministères. Il instruit les contentieux et assure une mission de conseil juridique. Il traite les affaires soumises à la commission de recours du Conseil supérieur de la fonction publique de l'Etat ainsi que toute question relative à la déontologie.
 
