@@ -23,7 +23,7 @@ Les responsables des programmes du ministère de la défense sont désignés con
 </p>
 </td>
 <td align="left">
-<p align="left">Directeur chargé des affaires stratégiques.<br/>
+<p align="left">Directeur général des relations internationales et de la stratégie.<br/>
 </p>
 </td>
 </tr>
@@ -55,14 +55,6 @@ Les responsables des programmes du ministère de la défense sont désignés con
 <td align="left" valign="top">
 <p align="left">Secrétaire général pour l'administration.<br/>
 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">402. Excellence technologique des industries de défense.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">Coresponsables :<br/>- chef d'état-major des armées ;<br/>- délégué général pour l'armement.</p>
 </td>
 </tr>
 <tr>
