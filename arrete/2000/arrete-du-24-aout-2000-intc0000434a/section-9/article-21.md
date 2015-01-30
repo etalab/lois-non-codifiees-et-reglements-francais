@@ -1,3 +1,3 @@
 # Article 21
 
-Ils peuvent bénéficier également de mesures de soutien psychologique.
+Les adjoints de sécurité peuvent bénéficier de mesures de soutien psychologique.

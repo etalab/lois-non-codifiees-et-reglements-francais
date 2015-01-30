@@ -1,3 +1,3 @@
 # Article 5
 
-Le préfet et, à Paris, le préfet de police, ainsi que le représentant de l'Etat en Nouvelle-Calédonie et en Polynésie française, agréent les candidatures proposées par la commission de sélection. Ces candidatures sont valables un an.
+L'autorité compétente en application de l'article R. 411-9 du code de la sécurité intérieure agrée les candidatures proposées par la commission de sélection. Cet agrément est valable deux ans. Une prolongation d'un an peut être accordée par l'administration.

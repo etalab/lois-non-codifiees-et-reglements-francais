@@ -4,7 +4,7 @@ Les cadets de la République, option police nationale, suivent une formation sp�
 
 Pendant cette période, ils seront également formés à exercer les fonctions d'adjoint de sécurité.
 
-Durant les douze semaines de formation initiale, les élèves adjoints de sécurité suivent des enseignements dispensés selon l'architecture suivante (cf. annexe II "Programme de la scolarité des adjoints de sécurité”) :
+Durant les douze semaines de formation initiale, les élèves adjoints de sécurité suivent des enseignements dispensés selon l'architecture suivante (cf. annexe III "Programme de la scolarité des adjoints de sécurité”) :
 
 -des fondamentaux relatifs au droit pénal général, aux techniques d'intervention et au secourisme ;
 
