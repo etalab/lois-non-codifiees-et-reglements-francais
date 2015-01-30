@@ -2750,7 +2750,6 @@
 - [Arrêté du 28 janvier 2014 (DEVA1402539A)](arrete-du-28-janvier-2014-deva1402539a)
 - [Arrêté du 28 janvier 2014 (EFIT1402187A)](arrete-du-28-janvier-2014-efit1402187a)
 - [Arrêté du 28 janvier 2014 (INTE1403326A)](arrete-du-28-janvier-2014-inte1403326a)
-- [Arrêté du 28 janvier 2014 (JUSC1402323A)](arrete-du-28-janvier-2014-jusc1402323a)
 - [Arrêté du 28 janvier 2014 (SPOF1403464A)](arrete-du-28-janvier-2014-spof1403464a)
 - [Arrêté du 28 janvier 2014 (SPOF1403483A)](arrete-du-28-janvier-2014-spof1403483a)
 - [Arrêté du 28 janvier 2014 (SPOF1403488A)](arrete-du-28-janvier-2014-spof1403488a)
