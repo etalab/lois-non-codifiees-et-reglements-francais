@@ -24,7 +24,7 @@ h) L'inspection de l'armement.
 
 II. ― Le secrétariat général pour l'administration, sous l'autorité du secrétaire général pour l'administration.
 
-Celui-ci a autorité sur les organismes suivants :
+Celui-ci exerce les attributions prévues à l'article 2 du décret n° 2009-870 du 15 juillet 2009 susvisé et  a autorité sur les organismes suivants :
 
 a) La direction des affaires financières ;
 
