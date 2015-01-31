@@ -90,6 +90,7 @@
 - [Décret n°2002-252 du 22 février 2002 (RECR0200060D)](decret-n2002-252-du-22-fevrier-2002-recr0200060d)
 - [Décret n°2005-1017 du 22 août 2005 (AGRA0501047D)](decret-n2005-1017-du-22-aout-2005-agra0501047d)
 - [Décret n°2005-1441 du 22 novembre 2005 (DEFP0501442D)](decret-n2005-1441-du-22-novembre-2005-defp0501442d)
+- [Décret n°2005-1621 du 22 décembre 2005 (INTX0500303D)](decret-n2005-1621-du-22-decembre-2005-intx0500303d)
 - [Décret n°2004-1419 du 23 décembre 2004 (SANS0424266D)](decret-n2004-1419-du-23-decembre-2004-sans0424266d)
 - [Décret n°2004-1439 du 23 décembre 2004 (INTC0400345D)](decret-n2004-1439-du-23-decembre-2004-intc0400345d)
 - [Décret n°2005-1465 du 23 novembre 2005 (ECOP0500895D)](decret-n2005-1465-du-23-novembre-2005-ecop0500895d)

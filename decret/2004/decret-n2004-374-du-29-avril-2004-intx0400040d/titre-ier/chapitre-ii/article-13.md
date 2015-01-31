@@ -2,7 +2,7 @@
 
 Le préfet de département est assisté dans l'exercice de ses fonctions :
 
-1° D'un secrétaire général ;
+1° D'un secrétaire général ou, dans les départements dont la liste est fixée par décret, d'un préfet, secrétaire général ;
 
 2° D'un directeur de cabinet ;
 
