@@ -78,8 +78,6 @@ Chambéry - Aix-les-Bains.
 
 Deauville - Saint-Gatien.
 
-Grenoble-Isère.
-
 La Rochelle - Ile-de-Ré.
 
 Limoges-Bellegarde.
@@ -115,6 +113,8 @@ Chavenay-Villepreux.
 Etampes-Mondésir.
 
 Figari-Sud - Corse (à compter du 1er janvier 2013).
+
+Grenoble-Isère (à compter du 16 octobre 2014).
 
 Grenoble-Le Versoud.
 
