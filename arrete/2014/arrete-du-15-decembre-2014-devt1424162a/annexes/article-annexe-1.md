@@ -8,7 +8,7 @@ Aux fins des présentes dispositions :
 
 Par ADN, on entend l'accord européen relatif au transport international des marchandises dangereuses par les voies de navigation intérieures (ADN).
 
-Par arrêté TMD, on entend l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par les voies terrestres (dit  arrêté TMD ).
+Par arrêté TMD, on entend l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par les voies terrestres (dit arrêté TMD ).
 
 Par convention MARPOL, on entend la convention internationale de 1973 pour la prévention de la pollution par les navires et son protocole de 1978, en vigueur.
 
@@ -50,7 +50,7 @@ III. - Classification
 
 Le bateau est classé par une société de classification reconnue selon une norme au moins équivalente à la norme du Bureau Veritas suivante :
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0298 du 26/12/2014, texte nº 12
+Vous pouvez consulter l'image à l'adresse suivante : http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141226&numTexte=12&pageDebut=22247&pageFin=22254
 
 Suivant l'assujettissement de la cargaison, la notation Containers vessel peut être exigée par la société de classification reconnue pour délivrer l'attestation de conformité prévue à l'article 5.
 
@@ -210,7 +210,7 @@ Le bateau est ensuite soumis à la pression de rafales de vent qui se traduit pa
 
 Dans ces conditions, le rapport b/a doit être égal ou supérieur à 1, où a et b sont les aires représentées sur la figure ci-dessous.
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0298 du 26/12/2014, texte nº 12
+Vous pouvez consulter l'image à l'adresse suivante : http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141226&numTexte=12&pageDebut=22247&pageFin=22254
 
 Les valeurs des paramètres à utiliser sont ceux de l'annexe A3 de la division 211 du règlement annexé à l'arrêté du 23 novembre 1987, à l'exception des valeurs de pression de vent P et l'angle de roulis Θ1 définis comme suit :
 
@@ -220,7 +220,7 @@ P = 300 Pa
 
 V bis. - Dispositions applicables pour le parcours Nord (1) aux bateaux en service avant le 15 décembre 2014
 
-Pour le parcours Nord (1), les bateaux, en service avant le [date de signature de l'arrêté], ne sont pas soumis aux dispositions 4 à 10 du paragraphe V ci-dessus lorsqu'ils respectent chacune des conditions suivantes :
+Pour le parcours Nord (1), les bateaux, en service avant le 15 décembre 2014, ne sont pas soumis aux dispositions 4 à 10 du paragraphe V ci-dessus lorsqu'ils respectent chacune des conditions suivantes :
 
 - avoir bénéficié d'une autorisation de navigation en mer en application de l'arrêté du 10 janvier 2007 modifié susvisé ;
 

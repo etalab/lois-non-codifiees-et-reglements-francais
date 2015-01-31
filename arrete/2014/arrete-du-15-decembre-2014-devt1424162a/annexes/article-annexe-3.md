@@ -10,7 +10,7 @@ N° ENI (numéro européen unique d'identification) :
 
 Longueur hors tout : Franc-bord : Distance de sécurité :
 
-La présente attestation de conformité établit que le bateau sus mentionné a été dûment surveillé et visité conformément aux dispositions de l'arrêté du [date de signature] relatif à la navigation de bateaux fluviaux en mer pour la desserte portuaire (NOR : TRAT1331256A).
+La présente attestation de conformité établit que le bateau susmentionné a été dûment surveillé et visité conformément aux dispositions de l'arrêté du 15 décembre 2014 relatif à la navigation de bateaux porte-conteneurs fluviaux en mer pour la desserte de Port 2000 et des quais en Seine à Honfleur (NOR : DEVT1424162A).
 
 Il a été constaté que le bateau satisfait aux dispositions annexées à l'arrêté sus mentionné pour :
 
@@ -134,7 +134,7 @@ Numéro du certificat d'agrément RVBR/certificat communautaire : , délivré pa
 
 Numéro du certificat d'agrément ADN : , délivré par le
 
-Les dispositions contenues dans l'annexe à l'arrêté du [date de signature] sont respectées ;
+Les dispositions contenues dans l'annexe à l'arrêté du 15 décembre 2014 sont respectées ;
 
 Le bateau sus mentionné est à jour de ses visites et dispose de certificats de sécurité valides.
 

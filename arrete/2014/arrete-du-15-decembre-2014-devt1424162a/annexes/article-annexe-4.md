@@ -2,7 +2,7 @@
 
 MODÈLE DE LETTRE D'ENGAGEMENT
 
-Je soussigné, propriétaire du bateau/ représentant du propriétaire du bateau, m'engage, en application de l'article 9 de l'arrêté du [date de signature] relatif à la navigation des bateaux fluviaux en mer pour la desserte de Port 2000 et des quais en Seine à Honfleur :
+Je soussigné, ......, propriétaire du bateau/représentant du propriétaire du bateau ....., m'engage, en application de l'article 9 de l'arrêté du 15 décembre 2014 relatif à la navigation des bateaux fluviaux en mer pour la desserte de Port 2000 et des quais en Seine à Honfleur :
 
 -à ne pas effectuer, dans le cadre de l'autorisation visée à l'article 1er de l'arrêté susvisé, d'autre parcours en mer que :
 
@@ -20,7 +20,7 @@ Je soussigné, propriétaire du bateau/ représentant du propriétaire du bateau
 
 -à consigner sur le registre des voyages en mer, après chaque voyage en mer, tout événement d'embarquement d'eau décrit en annexe 1, paragraphe V, alinéa 5, qui a effectivement eu lieu lors du voyage ;
 
--à m'informer ou à veiller à ce que le conducteur du bateau s'informe, en application de l'article 8 de l'arrêté du [date de signature], des conditions de vague, de vent et de visibilité avant d'entrer dans la zone exposée ;
+- à m'informer ou à veiller à ce que le conducteur du bateau s'informe, en application de l'article 8 de l'arrêté du 15 décembre 2014, des conditions de vague, de vent et de visibilité avant d'entrer dans la zone exposée ;
 
 -à m'assurer que le conducteur du bateau informe les autorités investies du pouvoir de police portuaire correspondantes au trajet de son intention de transit sur l'un des parcours en mer autorisés lorsque la vitesse moyenne du vent est supérieure à 21 nœuds.
 
