@@ -1,6 +1,6 @@
 # Article 41
 
-Les sanctions disciplinaires applicables aux usagers mentionnés au c  de l'article 2 ci-dessus sont :
+Les sanctions disciplinaires applicables aux usagers mentionnés au c du 2° de l'article R. 712-10 du code de l'éducation sont :
 
 1° Le blâme ;
 
