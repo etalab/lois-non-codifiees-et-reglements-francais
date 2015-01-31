@@ -716,7 +716,9 @@ Alsthom groupe mécanique de Provence (GMP), puis Alsthom Atlantique, puis Alsth
 
 SAFT (Société des ateliers et fonderies de Tamaris) puis AHL (Aciéries du haut-Languedoc) puis AFT (Aciéries et fonderies de Tamaris), 212, rue de Pressensé, 30319 Alès : De 1949 à 1996 ;
 
-SITUB, ZA de Berthet, 219, avenue de l'Hermitage, 30200 Bagnols-sur-Cèze : de 1994 à 1996.
+SITUB, ZA de Berthet, 219, avenue de l'Hermitage, 30200 Bagnols-sur-Cèze : de 1994 à 1996 ;
+
+Etablissement Jean Richard DUCROS, 12, montée du Silhol, 30100 Alès. Avenue de Croupillac, 30100 Alès.  De 1965 à 1997.
 
 Limousin
 
@@ -749,8 +751,6 @@ SNIFI/EFI, Les Quarres, BP 44, 57130 Ancy-sur-Moselle, de 1966 à 1992.
 Société Construction Maintenance industrielle (CMI), 1, rue du général-Mangin, 57000 Metz : de 1970 à 1979 ;
 
 Société lorraine des anciens établissements De Dietrich et compagnie de Lunéville, de 1948 à 1964, puis CIMT, de 1964 à 1970, puis Trailor, 9, avenue de la Libération, 54300 Lunéville, de 1970 à 1992 ;
-
-Solvay et Cie puis Solvay, usine de Dombasle, Rue Gabriel-Péri, BP n° 1, 54110 Dombasle-sur-Meurthe : De 1966 à 1990 ;
 
 Vosgisol, 57, rue Chanzy, 88500 Mirecourt : de 1973 à 1984 ;
 
@@ -1030,7 +1030,9 @@ SA Fichet Bauche, 80460 Oust-Marest : De 1969 à 1977 ;
 
 SA GEB, 1, allée des Coquelicots, 60440 Nanteuil-le-Haudouin, de 1986 à 1996 ;
 
-Sitel/Delle-CGE/unelecAlsthom-CGE/Unelec SA/Unelec-GE-GEC/GE-power Controls France, route de Guise, 2100 Harly et 02322 Saint-Quentin : de 1937 à 1996 ;
+Sitel/ Delle-CGE/ Unelec/ Alsthom,1572, route de Guise, 02100 Harly, Route de Guise, 02 Saint-Quentin-Harly, Route de Guise, 02101 Saint-Quentin, Route de Guise BP 26,02101 Saint-Quentin, Route de Guise BP 642,02322 Saint-Quentin, De 1937 à 1987 ;
+
+GEC-Unelec SA/ Power Controls France/ GE Power Controls France, 1572, route de Guise, 02100 Harly, Route de Guise, 02 Saint-Quentin-Harly, Route de Guise, 02101 Saint-Quentin, Route de Guise BP 26,02101 Saint-Quentin, Route de Guise, BP 642,02322 Saint-Quentin, De 1988 à 1996
 
 Société Cape Contracts/SOCAP, 1, rampe Saint-Prix, 02100 Saint-Quentin : de 1990 à 1997 ;
 

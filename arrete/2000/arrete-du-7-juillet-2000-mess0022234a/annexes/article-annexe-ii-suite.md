@@ -516,7 +516,7 @@ Entreprise de services industriels et maritimes (ESIM) :
 
 Entreprise de soudure et de chaudronnerie (ESC), 6, boulevard Charpentier, 13003 Marseille : de 1981 à 1983, puis 3, boulevard Bernabo, 13015 Marseille : de 1983 à 1984.
 
-Entreprise DIMEA/SARL Constructions métaniques DIMEO 80, route de Marseille, 83000 Toulon puis 305, boulevard de Léry, 83140 Six-Fours. Depuis 1963
+Entreprise DI MEO/SARL Constructions mécaniques DI MEO, 80, route de Marseille, 83000 Toulon, puis 305, boulevard de Léry, 83140 Six-Fours. De 1963 à 2005.
 
 Entreprise générale de travaux maritimes, Société nouvelle Besson et fils, 54, rue de la Joliette, 13002 Marseille : de 1948 à 1975.
 
