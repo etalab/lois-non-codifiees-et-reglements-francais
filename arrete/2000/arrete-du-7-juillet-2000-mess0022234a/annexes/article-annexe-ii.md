@@ -738,7 +738,7 @@ SAF Soudure autogène française, puis SIL Société industrielle lorientaise, 1
 
 SA MCTI, avenue Salvador-Allende, BP 26, puis, rue Archimède, ZAC du Parco, BP 26, 56701 Hennebont Cedex : de 1989 à 2010.
 
-SA Pech'Alu/Pêche Alu International : - parc d'activités Kermassonnet, 56700 Kervignac : depuis 1991.
+SA Pech'Alu/Pêche Alu International, parc d'activités Kermassonnet, 56700 KERVIGNAC : De 1991 à 2001
 
 SA Guezennec participations (ex-SA Dourmap et Cie) :
 
@@ -1138,7 +1138,9 @@ EMRI (Etudes, maintenance, réalisations industrielles), rue du Maréchal-Foch, 
 
 Etablissement G. Buquet et Cie, quai Sadi-Carnot, 76400 Fécamp, depuis 1959.
 
-Etablissement Lacmil, 76290 Montivilliers, puis 81, rue des Motteaux, 76620 Le Havre : depuis 1959.
+Etablissement Lacmil (Les ateliers de constructions et de mécanique industrielle de la Lézarde), 76290 Montivilliers
+
+puis 81, rue des Motteaux, 76620 Le Havre : De 1970 à 2004.
 
 Etablissement Lebourgeois, 130, rue Marceau, 76600 Le Havre, et rue des Briquetiers, 76600 Le Havre : depuis 1956.
 
@@ -1159,8 +1161,6 @@ Forges et chantiers de la Méditerranée/ACHDBAN (atelier chantier du Havre Dubi
 - 76600 Le Havre : de 1946 à 1999.
 
 Fouré Lagadec, 76600 Le Havre : depuis 1922 à 1993.
-
-Fouré Lagagec, site de Lillebonne ZI de la Darse, 76170 Lillebonne De 1970 à 1993.
 
 GAD SAD (Glacière d'alimentation dieppoise - Société des ateliers Dechamps)/GAD SA/SO.NO.GAD (Société nouvelle du groupement d'ateliers dieppois), cour de Dakar, et 2 bis, rue d'Ecosse, 76200 Dieppe : depuis 1975
 
@@ -1514,7 +1514,7 @@ CEGELEC/ALSTOM 24, route de Fort-Mardyck, BP 4, Le Triangle, 59430 Saint-Pol-sur
 
 CFEM-Comenord/CFEM, avant-port Ouest, 59820 Gravelines : de 1974 à 1986.
 
-Chambre de commerce, outillage public du port de Calais 24, boulevard des Alliés, BP 199, 62104 Calais Cedex De 1950 à 1996.
+Chambre de commerce, outillage public du port de Calais 24, boulevard des Alliés, BP 199, 62104 Calais Cedex De 1950 à 2001.
 
 Chantier fluvial Leroy et Compagnie :
 
