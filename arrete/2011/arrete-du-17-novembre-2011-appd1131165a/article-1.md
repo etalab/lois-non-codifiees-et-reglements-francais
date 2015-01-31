@@ -491,8 +491,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="left" valign="top">5 ans<br/>
 </td>
-<td align="left" valign="top">Cyrus productions<br/>
-</td>
+<td align="left" valign="top">Cyrus formations</td>
 </tr>
 <tr>
 <td align="left" valign="top">III<br/>

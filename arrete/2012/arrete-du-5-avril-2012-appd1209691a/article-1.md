@@ -172,7 +172,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <p align="center">3 ans</p>
 </td>
 <td valign="top" width="263">
-<p>C3 consultants</p>
+<p>CREDER, Centre de recherche et d'études pour le développement économique et social régional-MACC1</p>
 </td>
 </tr>
 <tr>
@@ -2246,7 +2246,6 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td valign="top" width="263">
 <p>Groupe ISEE</p>
-<br/>
 </td>
 </tr>
 <tr>
