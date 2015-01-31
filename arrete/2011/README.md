@@ -1530,7 +1530,6 @@
 - [Arrêté du 19 décembre 2011 (ETST1135105A)](arrete-du-19-decembre-2011-etst1135105a)
 - [Arrêté du 19 décembre 2011 (IOCE1135003A)](arrete-du-19-decembre-2011-ioce1135003a)
 - [Arrêté du 19 décembre 2011 (MAEA1132668A)](arrete-du-19-decembre-2011-maea1132668a)
-- [Arrêté du 19 février 2010 (BCFL1006070A)](arrete-du-19-fevrier-2010-bcfl1006070a)
 - [Arrêté du 19 janvier 2011 (AGRG1101753A)](arrete-du-19-janvier-2011-agrg1101753a)
 - [Arrêté du 19 janvier 2011 (DEVT1031084A)](arrete-du-19-janvier-2011-devt1031084a)
 - [Arrêté du 19 janvier 2011 (ETSG1100774A)](arrete-du-19-janvier-2011-etsg1100774a)
