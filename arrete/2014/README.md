@@ -2057,7 +2057,6 @@
 - [ARRÊTÉ du 23 décembre 2014 (PRMX1430378A)](arrete-du-23-decembre-2014-prmx1430378a)
 - [Arrêté du 23 janvier 2014 (AFSR1402148A)](arrete-du-23-janvier-2014-afsr1402148a)
 - [Arrêté du 23 janvier 2014 (AGRT1400662A)](arrete-du-23-janvier-2014-agrt1400662a)
-- [Arrêté du 23 janvier 2014 (BUDD1401340A)](arrete-du-23-janvier-2014-budd1401340a)
 - [Arrêté du 23 janvier 2014 (DEVA1127938A)](arrete-du-23-janvier-2014-deva1127938a)
 - [Arrêté du 23 janvier 2014 (EFIC1327076A)](arrete-du-23-janvier-2014-efic1327076a)
 - [Arrêté du 23 janvier 2014 (INTA1402179A)](arrete-du-23-janvier-2014-inta1402179a)
