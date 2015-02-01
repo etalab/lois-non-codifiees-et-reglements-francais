@@ -376,15 +376,7 @@ Secteur travail
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p>DIRECCTE Limousin</p>
-</td>
-<td width="340">
-<p>Secrétaire général</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="middle">
+<td rowspan="2" valign="top" width="340">
 <p>DIRECCTE Centre</p>
 </td>
 <td width="340">
