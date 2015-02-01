@@ -18,7 +18,7 @@ Pour les gros bovins destinés à la chaîne alimentaire, par carcasse de gros b
 
 En région dorsale, au niveau de la hanche, de l'aloyau et du milieu de train de côtes ;
 
-En région latérale, à l'aplomb de la pointe de la hanche et au niveau du gros bout de poitrine et sur le pourtour de la région anogénitale et de la queue.
+En région latérale, à la limite verticale du peaucier de flanc (Cutaneus tronci) et au niveau du gros bout de poitrine et sur le pourtour de la région anogénitale et de la queue.
 
 Sont interdits :
 
