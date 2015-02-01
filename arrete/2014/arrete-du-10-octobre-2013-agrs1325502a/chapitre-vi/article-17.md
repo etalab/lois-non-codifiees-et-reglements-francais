@@ -1,24 +1,26 @@
 # Article 17
 
-La demande d'inscription sur la liste d'aptitude s'effectue chaque année à compter du 1er avril au moyen d'un formulaire préétabli téléchargeable exclusivement sur le site www.msa.fr.
+La demande d'inscription sur la liste d'aptitude s'effectue chaque année à compter du 1er février au moyen d'un formulaire préétabli téléchargeable exclusivement sur le site www.msa.fr.
 
 Le dépôt des candidatures s'effectue soit :
 
-1° Par voie postale, sous pli recommandé, en deux exemplaires, auprès du secrétariat de la commission située au 78, rue de Varenne, 75349 Paris 07 SP, au plus tard le 30 avril (le cachet de la poste faisant foi) ;
+1° Par voie postale, sous pli recommandé, en deux exemplaires, auprès du secrétariat de la commission située au 78, rue de Varenne, 75349 Paris 07 SP, jusqu'au dernier jour du mois de février (le cachet de la poste faisant foi) ;
 
-2° Par courrier électronique, au plus tard le premier jour ouvré suivant le 5 mai, à l'adresse électronique suivante : liste-aptitudeAD-msa@agriculture.gouv.fr.
+2° Par courrier électronique, au plus tard le premier jour ouvré suivant le 5 mars, à l'adresse électronique suivante : liste-aptitudeAD-msa@agriculture.gouv.fr.
 
 Chaque demande d'inscription comporte les pièces suivantes :
 
-― un formulaire de candidature ;
+- un formulaire de candidature ;
 
-― un relevé de carrière précisant le niveau d'emploi ;
+- un relevé de carrière précisant l'ensemble du parcours professionnel institutionnel ;
 
-― une lettre de motivation ;
+- la copie des attestations de réussite au cycle "certificat d'études spécialisées en comptabilité et analyse financière" (CESCAF), au cycle "agents de direction de centres informatiques" (ADCI), du titre d'ancien élève ou du certificat d'études spécialisées des métiers de dirigeants (CESDIR) ou du cycle de perfectionnement ;
 
-― un curriculum vitae comportant notamment le descriptif des réalisations professionnelles probantes.
+- une lettre de motivation ;
 
-Le candidat peut en outre joindre tout document qu'il juge utile permettant d'attester son parcours professionnel.
+- un curriculum vitae comportant notamment le descriptif des réalisations professionnelles probantes ;
+
+- les pièces justificatives permettant d'attester de son parcours professionnel, notamment des durées d'emploi et des responsabilités d'encadrement.
 
 Le candidat indique dans sa demande la liste d'emplois sur laquelle il sollicite son inscription.
 

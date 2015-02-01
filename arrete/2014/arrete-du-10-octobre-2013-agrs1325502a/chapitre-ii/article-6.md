@@ -2,7 +2,7 @@
 
 Peuvent demander leur inscription sur la liste B :
 
-1° Les cadres sous convention collective nationale des organismes de sécurité sociale qui justifient :
+1° Les cadres sous convention collective nationale des organismes de sécurité sociale ou exerçant dans un organisme de sécurité sociale qui justifient :
 
 a) D'une expérience professionnelle minimale de quinze ans, dont cinq ans au moins dans un ou plusieurs organismes visés à l'article R. 123-45 du code de la sécurité sociale ou dans un établissement public habilité à recruter du personnel régi par les conventions collectives nationales des organismes de sécurité sociale ;
 
