@@ -361,7 +361,6 @@
 - [Décret n°2010-480 du 11 mai 2010 (MTSS1005825D)](decret-n2010-480-du-11-mai-2010-mtss1005825d)
 - [Décret n°2010-484 du 11 mai 2010 (MCCB1000882D)](decret-n2010-484-du-11-mai-2010-mccb1000882d)
 - [Décret n°2002-1161 du 12 septembre 2002 (AGRB0201501D)](decret-n2002-1161-du-12-septembre-2002-agrb0201501d)
-- [Décret n°2010-1201 du 12 octobre 2010 (DEVT1020892D)](decret-n2010-1201-du-12-octobre-2010-devt1020892d)
 - [Décret n°2010-1202 du 12 octobre 2010 (JUSD1025798D)](decret-n2010-1202-du-12-octobre-2010-jusd1025798d)
 - [Décret n°2010-1206 du 12 octobre 2010 (MTSC1018730D)](decret-n2010-1206-du-12-octobre-2010-mtsc1018730d)
 - [Décret n°2010-1207 du 12 octobre 2010 (SASP1011528D)](decret-n2010-1207-du-12-octobre-2010-sasp1011528d)
