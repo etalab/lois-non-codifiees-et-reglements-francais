@@ -1,0 +1,3 @@
+# Article 4
+
+L'Etablissement public foncier d'Ile-de-France peut bénéficier des subventions de l'Agence nationale de l'habitat pour les opérations de portage de lots d'habitation d'une copropriété en difficulté comprise dans le périmètre de l'opération mentionnée à l'article 1er du présent décret. Les modalités de financement et les contreparties sociales exigées pour le financement de ces opérations sont fixées par le conseil d'administration de l'Agence nationale de l'habitat. L'aide accordée peut être assortie de dérogations aux règles d'occupation des locaux définies à l'article R. 321-20 du code de la construction et de l'habitation.
