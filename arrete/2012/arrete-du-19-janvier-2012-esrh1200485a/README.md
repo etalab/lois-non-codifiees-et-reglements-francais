@@ -1,6 +1,0 @@
-# Arrêté du 19 janvier 2012 fixant la liste des organisations syndicales habilitées à désigner des représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail ministériel du ministère de l'enseignement supérieur et de la recherche
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)

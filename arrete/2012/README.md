@@ -1492,7 +1492,6 @@
 - [Arrêté du 19 janvier 2012 (DEVD1200812A)](arrete-du-19-janvier-2012-devd1200812a)
 - [Arrêté du 19 janvier 2012 (DEVD1200820A)](arrete-du-19-janvier-2012-devd1200820a)
 - [Arrêté du 19 janvier 2012 (DEVK1131564A)](arrete-du-19-janvier-2012-devk1131564a)
-- [Arrêté du 19 janvier 2012 (ESRH1200485A)](arrete-du-19-janvier-2012-esrh1200485a)
 - [Arrêté du 19 janvier 2012 (JUSB1201523A)](arrete-du-19-janvier-2012-jusb1201523a)
 - [Arrêté du 19 janvier 2012 (MCCB1130198A)](arrete-du-19-janvier-2012-mccb1130198a)
 - [Arrêté du 19 janvier 2012 (MENE1201843A)](arrete-du-19-janvier-2012-mene1201843a)
