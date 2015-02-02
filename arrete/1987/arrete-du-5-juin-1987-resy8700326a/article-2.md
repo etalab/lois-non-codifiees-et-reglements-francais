@@ -49,10 +49,10 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p>Directeurs de recherche de classe exceptionnelle</p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">2</p>
 </td>
 <td>
 <pre> </pre>
@@ -75,10 +75,10 @@ La composition des commissions administratives paritaires visées à l'article 1
 <p align="center">2</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">6</p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">6</p>
 </td>
 </tr>
 <tr>
@@ -313,7 +313,7 @@ La composition des commissions administratives paritaires visées à l'article 1
 <pre> </pre>
 </td>
 <td>
-<p>Adjoints techniques principaux de 1re classe</p>
+<p>Adjoints techniques principaux de la recherche de 1re classe </p>
 </td>
 <td>
 <p align="center">1</p>
@@ -323,31 +323,20 @@ La composition des commissions administratives paritaires visées à l'article 1
 </td>
 <td rowspan="4">
 <pre> </pre>
-<p align="center">5</p>
+<p align="center">4</p>
 <pre> </pre>
 <pre> </pre>
 </td>
 <td rowspan="4">
-<pre> </pre>
-<p align="center">5</p>
-<pre> </pre>
+<div align="center">
+<pre> 4 </pre>
+</div>
 <pre> </pre>
 </td>
 </tr>
 <tr>
 <td>
-<p>Adjoints techniques principaux de 2<sup>e</sup> classe</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Adjoints techniques de 1re classe</p>
+<p>Adjoints techniques principaux de la recherche de 2e classe </p>
 </td>
 <td>
 <p align="center">1</p>
@@ -358,7 +347,18 @@ La composition des commissions administratives paritaires visées à l'article 1
 </tr>
 <tr>
 <td>
-<p>Adjoints techniques de 2<sup>e</sup> classe</p>
+<p>Adjoints techniques de la recherche de 1re classe </p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adjoints techniques de la recherche de 2e classe </p>
 </td>
 <td>
 <p align="center">1</p>

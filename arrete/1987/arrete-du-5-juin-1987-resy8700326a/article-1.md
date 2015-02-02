@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du directeur général de l'Institut de recherche pour le développement :
+En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du président de l'Institut de recherche pour le développement :
 
 Commission n° 1 : directeurs de recherche ;
 

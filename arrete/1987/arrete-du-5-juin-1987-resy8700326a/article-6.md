@@ -4,9 +4,9 @@ Le vote a lieu exclusivement par correspondance, dans les conditions définies c
 
 1° Les bulletins de vote et les enveloppes nécessaires sont adressés en temps utile aux agents intéressés, par les soins de l'administration de l'institut ;
 
-2° L'électeur insère son bulletin dans une enveloppe (dite enveloppe n° 1) qui ne doit porter aucune indication permettant d'en déterminer l'origine. Il place ensuite cette enveloppe cachetée dans une deuxième enveloppe (dite enveloppe n° 2) portant mention de la nature du scrutin, et sur laquelle il inscrit ses nom, prénoms et grade et le numéro de la commission administrative paritaire; il y appose sa signature.
+2° L'électeur insère son bulletin dans une enveloppe (dite enveloppe n° 1) qui ne doit porter aucune indication permettant d'en déterminer l'origine. Il place ensuite cette enveloppe dans une deuxième enveloppe (dite enveloppe n° 2) portant mention de la nature du scrutin, et sur laquelle il inscrit ses nom, prénoms et grade et le numéro de la commission administrative paritaire; il y appose sa signature.
 
-Ce pli également cacheté est adressé au délégué aux élections et doit parvenir à celui-ci au plus tard avant l'heure de clôture du scrutin.
+Ce pli cacheté est adressé au délégué aux élections et doit parvenir à celui-ci au plus tard avant l'heure de clôture du scrutin.
 
 Les plis parvenus après cette date sont renvoyés avec l'indication de la date d'arrivée.
 
