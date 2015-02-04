@@ -30,7 +30,6 @@
 - [Arrêté du 2 février 1998 (ATEP9870017A)](arrete-du-2-fevrier-1998-atep9870017a)
 - [Arrêté du 2 février 1998 (EQUA9800212A)](arrete-du-2-fevrier-1998-equa9800212a)
 - [Arrêté du 2 janvier 1998 (ECOT9720043A)](arrete-du-2-janvier-1998-ecot9720043a)
-- [Arrêté du 2 juillet 1997 (EQUT9700987A)](arrete-du-2-juillet-1997-equt9700987a)
 - [Arrêté du 2 juillet 1998 (AGRG9801226A)](arrete-du-2-juillet-1998-agrg9801226a)
 - [Arrêté du 2 juillet 1998 (ECOS9850041A)](arrete-du-2-juillet-1998-ecos9850041a)
 - [Arrêté du 2 juillet 1998 (ECOS9850042A)](arrete-du-2-juillet-1998-ecos9850042a)

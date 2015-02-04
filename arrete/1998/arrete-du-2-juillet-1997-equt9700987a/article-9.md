@@ -1,7 +1,0 @@
-# Article 9
-
-Les dispositions du présent arrêté s'appliquent à compter du 1er mars 1998.
-
-Toutefois, les dispositions des articles 2 et 3 ne s'appliquent aux petits trains routiers touristiques réceptionnés conformément aux dispositions de l'arrêté du 14 février 1986 susvisé qu'à compter du 1er janvier 2000. A cette date, sauf réception complémentaire visant à s'assurer que les véhicules répondent aux prescriptions du présent arrêté en ce qui concerne le freinage et les dispositifs d'attelage, ces petits trains routiers touristiques sont considérés comme des ensembles de catégorie I et les autorisations de circulation qui leur ont été délivrées sont annulées lorsque l'itinéraire comporte une ou des pentes supérieures à 5 %.
-
-Par dérogation aux dispositions de l'alinéa précédent et jusqu'au 1er janvier 2005, les petits trains routiers touristiques réceptionnés conformément aux dispositions de l'arrêté du 14 février 1986 susvisé peuvent être autorisés à circuler sur des itinéraires dont la pente maximale est supérieure à 5 % sans excéder 10 % lorsque leurs essais de freinage lors de la visite technique satisfont aux exigences du point 8 du paragraphe II de l'annexe II a du présent arrêté prévues pour les petits trains routiers touristiques de catégories II, III et IV.
