@@ -1,6 +1,6 @@
 # Article 37
 
-I.-Les fonctionnaires qui ont été mis à la retraite dans les conditions prévues à l'article 36 ci-dessus bénéficient d'une rente viagère d'invalidité cumulable avec la pension rémunérant les services prévus à l'article précédent.
+I.-Les fonctionnaires qui ont été mis à la retraite dans les conditions prévues à l'article 36 ci-dessus bénéficient d'une rente viagère d'invalidité cumulable, selon les modalités définies au troisième alinéa du I de l'article 34, avec la pension rémunérant les services prévus à l'article précédent.
 
 Le bénéfice de cette rente viagère d'invalidité est attribuable si la radiation des cadres ou le décès en activité interviennent avant que le fonctionnaire ait atteint la limite d'âge sous réserve de l'application des articles 1er-1 à 1er-3 de la loi du 13 septembre 1984 susvisée et sont imputables à des blessures ou des maladies survenues dans l'exercice des fonctions ou à l'occasion de l'exercice des fonctions, ou résultant de l'une des autres circonstances énumérées à l'article 36 ci-dessus.
 
@@ -12,6 +12,4 @@ III.-Le taux d'invalidité est déterminé compte tenu du barème indicatif pré
 
 Dans le cas d'aggravation d'infirmités préexistantes, le taux d'invalidité à retenir pour le calcul de la rente d'invalidité prévue au I du présent article est apprécié par rapport à la validité restante du fonctionnaire.
 
-IV.-Le montant total de la pension assortie de la rente d'invalidité ne peut être supérieur au traitement visé à l'article 17 et revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale. La rente d'invalidité est liquidée, concédée payée et revalorisée dans les mêmes conditions que la pension prévue à l'article 36.
-
-V.-Si le montant total de la pension éventuellement assortie d'accessoires est supérieur au traitement servant au calcul de la pension, le montant de chaque élément est réduit à due proportion afin que leur total n'excède pas le dernier traitement mentionné à l'article 17 revalorisé dans les conditions prévues à l'article L. 341-6 du code de la sécurité sociale.
+IV.- La rente d'invalidité est liquidée, concédée payée et revalorisée dans les mêmes conditions que la pension prévue à l'article 36.

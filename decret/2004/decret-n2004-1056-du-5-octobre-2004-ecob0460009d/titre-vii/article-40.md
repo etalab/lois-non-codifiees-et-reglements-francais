@@ -1,6 +1,6 @@
 # Article 40
 
-La pension est définitivement acquise et ne peut être révisée, ou supprimée à l'initiative du fonds spécial ou sur demande de l'intéressé que dans les conditions suivantes :
+Sous réserve des dispositions prévues au b de l'article 29, la pension est définitivement acquise et ne peut être révisée, ou supprimée à l'initiative du fonds spécial ou sur demande de l'intéressé que dans les conditions suivantes :
 
 1° A tout moment en cas d'erreur matérielle ;
 

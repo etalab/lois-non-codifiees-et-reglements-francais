@@ -1,5 +1,9 @@
 # Article 44
 
-Lorsqu'il existe une pluralité d'ayants cause de lits différents, la pension définie aux I et II de l'article 40 est divisée en parts égales entre les lits représentés par le conjoint survivant ou l'ex-conjoint divorcé ayant droit à pension ou par un ou plusieurs orphelins âgés de moins de vingt et un ans. Les enfants naturels sont assimilés à des orphelins légitimes ; ceux nés de la même mère représentent un seul lit. S'il existe des enfants nés du conjoint survivant ou divorcé, chacun d'eux a droit à la pension de 10 % dans les conditions prévues aux I, II et III de l'article 42. En cas de pluralité d'orphelins âgés de moins de vingt et un ans d'un même lit non représenté par le conjoint survivant ou divorcé, il leur est fait application du premier alinéa du IV de l'article 42.
+La pension définie à l'article 40 est ainsi répartie :
 
-Si un lit cesse d'être représenté, sa part accroît celle du ou des autres lits.
+a) A la date du décès du fonctionnaire, les conjoints survivants ou divorcés ayant droit à pension se partagent la part de la pension de réversion correspondant au rapport entre le nombre de conjoints survivants ou divorcés et le nombre total de lits représentés. Cette part est répartie entre les conjoints au prorata de la durée respective de chaque mariage. La durée de chaque mariage est déterminée de date à date et arrondie au nombre de mois inférieur.
+
+Un lit est représenté soit par le conjoint survivant ou divorcé, soit par les orphelins de fonctionnaires dont l'autre parent n'a pas ou plus droit à pension ;
+
+b) La différence entre la fraction de la pension prévue à l'article 40 et les pensions versées aux conjoints survivants ou divorcés du fonctionnaire en application du a est répartie également entre les orphelins ayant droit à la pension prévue à l'article 42 qui représentent un lit.

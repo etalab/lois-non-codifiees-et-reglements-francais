@@ -1,6 +1,6 @@
 # Article 62
 
-I. - La pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent être révisées ou supprimées à l'initiative de la Caisse nationale de retraites des agents des collectivités locales ou sur demande de l'intéressé que dans les conditions suivantes :
+I. - Sous réserve des dispositions prévues au b de l'article 44, la pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent être révisées ou supprimées à l'initiative de la Caisse nationale de retraites des agents des collectivités locales ou sur demande de l'intéressé que dans les conditions suivantes :
 
 - à tout moment en cas d'erreur matérielle ;
 
