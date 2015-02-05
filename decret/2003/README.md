@@ -134,7 +134,6 @@
 - [Décret du 8 décembre 2003 (AGRP0301987D)](decret-du-8-decembre-2003-agrp0301987d)
 - [Décret du 8 décembre 2003 (AGRP0301988D)](decret-du-8-decembre-2003-agrp0301988d)
 - [Décret n°2003-1164 du 8 décembre 2003 (PRMX0300202D)](decret-n2003-1164-du-8-decembre-2003-prmx0300202d)
-- [Décret n°2003-1168 du 8 décembre 2003 (MENA0302496D)](decret-n2003-1168-du-8-decembre-2003-mena0302496d)
 - [Décret n°2003-1170 du 8 décembre 2003 (FPPX0300198D)](decret-n2003-1170-du-8-decembre-2003-fppx0300198d)
 - [Décret n°2003-1171 du 8 décembre 2003 (DOMX0300189D)](decret-n2003-1171-du-8-decembre-2003-domx0300189d)
 - [Décret n°2003-1172 du 8 décembre 2003 (DOMX0300166D)](decret-n2003-1172-du-8-decembre-2003-domx0300166d)
