@@ -98,6 +98,7 @@
 - [Décret n°2011-1617 du 23 novembre 2011 (AGRT1127602D)](decret-n2011-1617-du-23-novembre-2011-agrt1127602d)
 - [Décret n°2011-1618 du 23 novembre 2011 (AGRT1122636D)](decret-n2011-1618-du-23-novembre-2011-agrt1122636d)
 - [Décret n°2011-1619 du 23 novembre 2011 (AGRT1127061D)](decret-n2011-1619-du-23-novembre-2011-agrt1127061d)
+- [Décret n°2011-1621 du 23 novembre 2011 (AGRT1127369D)](decret-n2011-1621-du-23-novembre-2011-agrt1127369d)
 - [Décret n°2011-1622 du 23 novembre 2011 (AGRT1127371D)](decret-n2011-1622-du-23-novembre-2011-agrt1127371d)
 - [Décret n°2011-205 du 23 février 2011 (EFIT1032814D)](decret-n2011-205-du-23-fevrier-2011-efit1032814d)
 - [Décret n°2011-980 du 23 août 2011 (JUSK1108043D)](decret-n2011-980-du-23-aout-2011-jusk1108043d)
