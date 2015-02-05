@@ -6,4 +6,4 @@ Il peut faire appel, en tant que de besoin, aux services des autres ministères.
 
 Il dispose de personnels mis à disposition par les ministères ou les établissements publics de l'Etat. Il peut également recourir à un nombre limité de contractuels.
 
-La gestion administrative et budgétaire est rattachée au secrétariat général du Gouvernement.
+La gestion administrative et budgétaire est rattachée au ministère des affaires étrangères.
