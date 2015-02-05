@@ -12,7 +12,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Adjoint au chef de la mission de l'action régionale en charge du pilotage du réseau des DIRECCTE pour les actions de développement économique à la direction générale de la compétitivité, de l'industrie et des services. <br/>
+<p align="left">Adjoint au chef de la mission de l'action régionale en charge du pilotage du réseau des DIRECCTE pour les actions de développement économique à la direction générale de la compétitivité, de l'industrie et des services. (Supprimé le 1er décembre 2014)<br/>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Chargé de mission auprès du secrétaire général de la direction générale des entreprises (Ajouté le 1er janvier 2015) </td>
+<td>Chargé de mission auprès du secrétaire général de la direction générale des entreprises (Ajouté le 1er janvier 2015) (Supprimé le 23 janvier 2015)</td>
 </tr>
 <tr>
 <td>Secrétaire général de l'Ecole nationale supérieure des mines d'Albi-Carmaux (Ajouté le 1er avril 2015) </td>
@@ -62,7 +62,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service climat-énergie de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine. </p>
+<p align="left">Chef du service climat-énergie de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine. (Supprimé le 1er octobre 2014)</p>
 </td>
 </tr>
 <tr>
@@ -157,6 +157,15 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées (Ajouté le 1er juin 2014) (Supprimé le 1er avril 2015)</td>
+</tr>
+<tr>
+<td>Chef du bureau du pilotage des corps techniques à la direction générale des entreprises (Ajouté le 1er décembre 2014)</td>
+</tr>
+<tr>
+<td>Chef du bureau d'analyse des risques et pollutions industriels (BARPI) à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes (Ajouté le 1er octobre 2014)</td>
+</tr>
+<tr>
+<td>Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine (Ajouté le 1er septembre 2014) (supprimé le 1er octobre 2014)</td>
 </tr>
 </tbody>
 </table>

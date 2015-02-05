@@ -48,7 +48,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Alsace. (Supprimé le 4 novembre 2014)  </p>
+<p align="left">Secrétaire général de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Alsace. (Supprimé le 4 novembre 2014) </p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </td>
 </tr>
 <tr>
-<td>Chef de cabinet du collège de l'Autorité de sûreté nucléaire (Ajouté le 1er septembre 2014)  <br/>
+<td>Chef de cabinet du collège de l'Autorité de sûreté nucléaire (Ajouté le 1er septembre 2014) <br/>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Délégué interrégional de la mission interministérielle d'inspection du logement social de Marseille. <br/>
+<p align="left">Délégué interrégional de la mission interministérielle d'inspection du logement social de Marseille. (Supprimé à compter du 1er janvier 2015) <br/>
 </p>
 </td>
 </tr>
@@ -288,7 +288,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne.  (Supprimé le 1er décembre 2014) </p>
+<p align="left">Chef de l'unité territoriale du Finistère à la direction régionale de l'environnement, de l'aménagement et du logement de Bretagne. (Supprimé le 1er décembre 2014) </p>
 </td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef du service risques, énergie, mines et déchets à la direction de l'environnement, de l'aménagement et du logement de Guyane. <br/>
+<p align="left">Chef du service risques, énergie, mines et déchets à la direction de l'environnement, de l'aménagement et du logement de Guyane. (Supprimé à compter du 1er janvier 2013)<br/>
 </p>
 </td>
 </tr>
@@ -480,7 +480,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Chef de l'unité territoriale de Valenciennes à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais. <br/>
+<p align="left">Chef de l'unité territoriale de Valenciennes à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais. (Supprimé à compter du 15 août 2014)<br/>
 </p>
 </td>
 </tr>
@@ -610,7 +610,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 </tr>
 <tr>
 <td>
-<p align="left">Chargé de mission auprès du secrétaire général de la direction générale de la compétitivité, de l'industrie et des services. (Ajouté le 13 septembre 2013) (Supprimé le 5 mai 2014)</p>
+<p align="left">Chargé de mission auprès du secrétaire général de la direction générale de la compétitivité, de l'industrie et des services. (Ajouté le 13 septembre 2013) (Supprimé le 5 mai 2014) (supprimé à compter du 1er octobre 2014)</p>
 </td>
 </tr>
 <tr>
@@ -622,6 +622,30 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, à compt
 <td>
 <p align="left">Chef de service de la métrologie légale à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Haute-Normandie. (Ajouté le 1er mars 2014) (Supprimé le 1er septembre 2014)</p>
 </td>
+</tr>
+<tr>
+<td>Chef de l'unité territoriale du Hainaut-Cambrésis-Douaisis à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais (Ajouté le 1er septembre 2014)</td>
+</tr>
+<tr>
+<td>Chef du bureau du pilotage de l'action territoriale à la sous-direction de l'action territoriale et du développement économique à la direction générale des entreprises (Ajouté le 1er janvier 2015)</td>
+</tr>
+<tr>
+<td>Délégué territorial de l'Agence nationale de contrôle du logement social à Marseille (Ajouté le 4 janvier 2015)</td>
+</tr>
+<tr>
+<td>Chef du bureau de l'appui méthodologique au développement économique territorial à la sous-direction de l'action territoriale et du développement économique à la direction générale des entreprises (Ajouté le 16 septembre 2014)</td>
+</tr>
+<tr>
+<td>Chef du bureau département de la sécurité nucléaire au secrétariat général du ministère de l'écologie, du développement durable et de l'énergie (Ajouté le 1er janvier 2015)</td>
+</tr>
+<tr>
+<td>Chef de l'unité territoriale de l'Ain à la direction régionale de l'environnement, de l'aménagement et du logement Rhône-Alpes (Ajouté le 1er janvier 2015)</td>
+</tr>
+<tr>
+<td>Chef du bureau des expositions des travailleurs et du public à la direction des rayonnements ionisants et de la santé à l'autorité de sûreté nucléaire (Ajouté le 1er janvier 2015)</td>
+</tr>
+<tr>
+<td>Chef du bureau matériaux à la sous-direction chimie, matériaux et éco-industries à la direction générale des entreprises<br/>(Ajouté le 1er octobre 2014)</td>
 </tr>
 </tbody>
 </table>
