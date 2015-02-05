@@ -4,4 +4,6 @@ Pour l'application de l'article 21-2 du code civil, tout déclarant doit justifi
 
 Un arrêté du ministre chargé des naturalisations définit les diplômes permettant de justifier d'un niveau égal ou supérieur au niveau requis.
 
-A défaut d'un tel diplôme, le déclarant peut justifier de la possession du niveau requis par la production d'une attestation délivrée soit par un organisme reconnu par l'Etat comme apte à assurer une formation "français langue d'intégration", soit à l'issue d'un test linguistique certifié ou reconnu au niveau international et figurant sur une liste fixée par un arrêté du ministre chargé des naturalisations.
+A défaut d'un tel diplôme, le déclarant peut justifier de la possession du niveau requis par la production d'une attestation délivrée soit par un organisme reconnu par l'Etat comme apte à assurer une formation "français langue d'intégration", soit à l'issue d'un test linguistique certifié ou reconnu au niveau international, comportant des épreuves distinctes permettant une évaluation du niveau de compréhension du déclarant et, par un entretien, celle de son niveau d'expression orale, et figurant sur une liste fixée par un arrêté du ministre chargé des naturalisations.
+
+L'inscription d'un test linguistique sur la liste mentionnée à l'alinéa précédent est valable pour une période de trois ans renouvelable. Les conditions d'inscription sont fixées par un arrêté du ministre chargé des naturalisations.
