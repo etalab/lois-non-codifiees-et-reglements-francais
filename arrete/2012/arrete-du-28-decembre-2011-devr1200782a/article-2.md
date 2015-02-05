@@ -455,13 +455,13 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">29,69</p>
 </td>
 <td valign="top" width="75">
-<p align="center">supprimé</p>
+<p align="center">Supprimé</p>
 </td>
 <td valign="top" width="75">
-<p align="center">supprimé</p>
+<p align="center">Supprimé</p>
 </td>
 <td valign="top" width="75">
-<p align="center">supprimé</p>
+<p align="center">Supprimé</p>
 </td>
 <td valign="top" width="75">
 <p align="center">15,21</p>
@@ -480,45 +480,140 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <td align="center" valign="top">
 <p align="center">1er octobre 2013 -<br/>31 décembre 2013 </p>
 </td>
-<td align="center" valign="top">0,020 </td>
-<td align="center" valign="top">0,044 </td>
-<td align="center" valign="top">29,10 </td>
-<td align="center" valign="top">supprimé</td>
-<td align="center" valign="top">supprimé</td>
-<td align="center" valign="top">supprimé</td>
-<td align="center" valign="top">14,54 </td>
-<td align="center" valign="top">13,81 </td>
-<td align="center" valign="top">7,55 </td>
+<td align="center" valign="top">
+<p align="center">0,020 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">0,044 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">29,10 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="center" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="center" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="center" valign="top">
+<p align="center">14,54 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">13,81 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">7,55 </p>
+</td>
 </tr>
 <tr>
 <td align="center" valign="top">
 <p align="center">12</p>
 </td>
-<td align="center" valign="top">1er janvier 2014 -<br/>31 mars 2014</td>
-<td align="center" valign="top">0,020 </td>
-<td align="center" valign="top">0</td>
-<td align="center" valign="top">28,51 </td>
-<td align="center" valign="top">supprimé</td>
-<td align="center" valign="top">supprimé</td>
-<td align="center" valign="top">supprimé</td>
-<td align="center" valign="top">14,54 </td>
-<td align="center" valign="top">13,81 </td>
-<td align="center" valign="top">7,36</td>
+<td align="center" valign="top">
+<p align="center">1er janvier 2014 -<br/>31 mars 2014</p>
+</td>
+<td align="center" valign="top">
+<p align="center">0,020 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">0</p>
+</td>
+<td align="center" valign="top">
+<p align="center">28,51 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="center" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="center" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="center" valign="top">
+<p align="center">14,54 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">13,81 </p>
+</td>
+<td align="center" valign="top">
+<p align="center">7,36</p>
+</td>
 </tr>
 <tr>
-<td align="center"> 13</td>
-<td align="center">1er avril 2014 -<p>30 juin 2014</p>
+<td align="left" valign="top">
+<p align="center">13</p>
 </td>
-<td align="center"> 0,020</td>
-<td align="center"> 0,026</td>
-<td align="center"> 27,94</td>
-<td align="center"> supprimé</td>
-<td align="center"> supprimé</td>
-<td align="center">supprimé <br/>
+<td align="left" valign="top">
+<p align="center">1er avril 2014 - </p>
+<p align="center">30 juin 2014</p>
 </td>
-<td align="center">14,16 </td>
-<td align="center">13,45 </td>
-<td align="center"> 7,17</td>
+<td align="left" valign="top">
+<p align="center">0,020</p>
+</td>
+<td align="left" valign="top">
+<p align="center">0,026</p>
+</td>
+<td align="left" valign="top">
+<p align="center">27,94</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Supprimé <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">14,16 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">13,45 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">7,17</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">14</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1er juillet 2014 -<br/>30 septembre 2014 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">0,020 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">0,015 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">27,38 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Supprimé</p>
+</td>
+<td align="left" valign="top">
+<p align="center">13,95 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">13,25 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">6,98</p>
+</td>
 </tr>
 </tbody>
 </table>
