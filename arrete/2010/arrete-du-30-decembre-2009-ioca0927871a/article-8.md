@@ -1,9 +1,0 @@
-# Article 8
-
-Pour les personnels en fonctions au sein des greffes des tribunaux administratifs et des cours administratives d'appel, sont délégués au vice-président du Conseil d'Etat, les congés prévus aux 6°, 6° ter et 7° de l'article 34 de la loi du 11 janvier 1984 susvisée (sauf en cas de refus), les congés pris en application des décrets du 20 mars 1978 et du 26 novembre 1996 susvisés ainsi que les décisions répertoriées au 3 de l'article 3 et aux 1, 15 et 16 de l'article 4.
-
-Pour les personnels placés sous leur autorité, et sous réserve de l'alinéa précédent, sont délégués aux président des cours administratives d'appel et des tribunaux administratifs les congés prévus au 6 bis de l'article 34 de la loi du 11 janvier 1984 susvisée (sauf en cas de refus) ainsi que les décisions répertoriées aux 4 à 6 bis de l'article 3 et aux 4 à 14 et 17 de l'article 4.
-
-Sous réserve des deux alinéas précédents, pour les personnels en fonctions au sein des greffes des tribunaux administratifs et des cours administratives d'appel de leur ressort, à l'exception de la région Ile-de-France, les décisions répertoriées à l'article 3 relèvent de la compétence des préfets de région, du préfet de Corse et des représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie.
-
-Sous réserve des deux premiers alinéas du présent article, pour les personnels en fonctions au sein des greffes des tribunaux administratifs et des cours administratives d'appel de leur ressort, sont déléguées aux préfets des départements de Seine-et-Marne, des Yvelines, de l'Essonne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise, les décisions répertoriées à l'article 3, à l'exception des mutations à l'intérieur du ressort de la commission administrative paritaire locale présidée par le préfet de la région Ile-de-France, préfet de Paris, et des décisions répertoriées aux 20 et 25 à 26 bis de l'article 3.

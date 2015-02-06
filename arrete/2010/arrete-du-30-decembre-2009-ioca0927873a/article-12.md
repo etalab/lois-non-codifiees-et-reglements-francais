@@ -1,3 +1,0 @@
-# Article 12
-
-Le vice-président du Conseil d'Etat, le secrétaire général du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, le secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire, les préfets, les représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie, les commandants de région de gendarmerie, les chefs de formation administrative de la gendarmerie nationale et les présidents des tribunaux administratifs et des cours administratives d'appel sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
