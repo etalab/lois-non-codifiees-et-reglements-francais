@@ -284,7 +284,6 @@
 - [Arrêté du 11 décembre 2007 (MLVV0769673A)](arrete-du-11-decembre-2007-mlvv0769673a)
 - [Arrêté du 11 janvier 2007 (MCCL0700031A)](arrete-du-11-janvier-2007-mccl0700031a)
 - [Arrêté du 11 janvier 2007 (SANP0720202A)](arrete-du-11-janvier-2007-sanp0720202a)
-- [Arrêté du 11 juillet 2007 (BCFB0758452A)](arrete-du-11-juillet-2007-bcfb0758452a)
 - [Arrêté du 11 juillet 2007 (DEFD0760135A)](arrete-du-11-juillet-2007-defd0760135a)
 - [Arrêté du 11 juillet 2007 (DEVL0758061A)](arrete-du-11-juillet-2007-devl0758061a)
 - [Arrêté du 11 juillet 2007 (MCCB0759170A)](arrete-du-11-juillet-2007-mccb0759170a)
