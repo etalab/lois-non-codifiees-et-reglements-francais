@@ -32,6 +32,10 @@ Stud-book du cheval corse.
 
 Stud-book du cheval Auvergne.
 
+Stud-book du cheval de sport anglo-normand.
+
+Stud-book du cheval miniature français.
+
 Livre généalogique des races étrangères de chevaux de selle
 
 Registre français du cheval Akhal-Téké de pur sang.
