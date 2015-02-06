@@ -14,4 +14,6 @@ Les inspecteurs de l'armement sont désignés parmi les ingénieurs généraux d
 
 L'inspecteur de l'armement pour les poudres et explosifs exerce, au nom du ministre de la défense, en matière de substances explosives, les attributions que la réglementation confie à ce dernier. Un arrêté du ministre précise ces missions spécifiques.
 
-L'un des inspecteurs de l'armement est chargé des missions relatives à la sécurité nucléaire qui sont précisées par arrêté.
+Les missions relatives à la sécurité nucléaire et à la sécurité du domaine biologique et chimique de la direction générale de l'armement sont respectivement confiées à un ou plusieurs des inspecteurs de l'armement.
+
+Ces missions sont précisées par arrêté.
