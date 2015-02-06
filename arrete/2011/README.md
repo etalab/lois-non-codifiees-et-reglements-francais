@@ -2078,7 +2078,6 @@
 - [Arrêté du 24 janvier 2011 (DEVK1031694A)](arrete-du-24-janvier-2011-devk1031694a)
 - [Arrêté du 24 janvier 2011 (DEVL1105612A)](arrete-du-24-janvier-2011-devl1105612a)
 - [Arrêté du 24 janvier 2011 (DEVP1102251A)](arrete-du-24-janvier-2011-devp1102251a)
-- [Arrêté du 24 janvier 2011 (DEVT1101545A)](arrete-du-24-janvier-2011-devt1101545a)
 - [Arrêté du 24 janvier 2011 (EFIE1100474A)](arrete-du-24-janvier-2011-efie1100474a)
 - [Arrêté du 24 janvier 2011 (MAEA1030857A)](arrete-du-24-janvier-2011-maea1030857a)
 - [Arrêté du 24 janvier 2011 (MCCD1102252A)](arrete-du-24-janvier-2011-mccd1102252a)
