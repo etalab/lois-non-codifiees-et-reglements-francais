@@ -1,5 +1,9 @@
 # Article 4
 
-Tous les chèques-vacances destinés à la destruction doivent être conjointement convoyés du lieu de stockage au lieu de broyage par le directeur général de l'Agence nationale pour les chèques-vacances et l'agent comptable.
+Sont également détruits par broyage tous les chèques-vacances, y compris les e-chèques-vacances :
 
-La destruction des chèques-vacances remboursés doit annuellement faire l'objet d'un procès-verbal de broyage cosigné par le directeur général de l'Agence nationale pour les chèques-vacances et l'agent comptable, permettant l'identification des chèques détruits.
+- non utilisés à l'issue de leur période de validité ayant fait l'objet d'un échange à leurs bénéficiaires selon les conditions prévues au deuxième alinéa de l'article L. 411-12 du code du tourisme ;
+
+- remboursés dans les conditions définies au dernier alinéa de l'article L. 411-12 du code du tourisme ;
+
+- détériorés lors de leur émission et faisant l'objet d'une gâche entreposée dans les locaux de l'Agence nationale pour les chèques-vacances.

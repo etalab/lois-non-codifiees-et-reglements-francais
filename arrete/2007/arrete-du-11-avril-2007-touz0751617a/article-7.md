@@ -1,3 +1,3 @@
 # Article 7
 
-Les dispositions de l'arrêté du 11 janvier 1991 sont abrogées.
+Les chèques-vacances remboursés, échangés ou détériorés font immédiatement l'objet d'une annulation par perforation, dans l'attente de leur destruction.
