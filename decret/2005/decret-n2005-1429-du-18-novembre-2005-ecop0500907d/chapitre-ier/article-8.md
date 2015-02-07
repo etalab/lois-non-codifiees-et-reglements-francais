@@ -1,7 +1,5 @@
 # Article 8
 
-Le contrôleur budgétaire et comptable ministériel peut déléguer sa signature au chef du département du contrôle budgétaire et au chef du département comptable sauf pour les attributions qui lui sont confiées par l'article 7.
+Le contrôleur budgétaire et comptable ministériel peut donner délégation au chef du département comptable pour signer tous les actes relatifs à l'exercice de ses fonctions de comptable public. Le chef du département comptable peut donner délégation pour signer tous les actes pour lesquels il a lui-même reçu délégation aux agents placés sous son autorité et dans la limite de leurs attributions.
 
-Ces derniers peuvent déléguer leur signature aux agents placés sous leur autorité pour signer tous actes à l'exception du visa du document annuel de programmation budgétaire initiale prévu à l'article 5 du décret du 27 janvier 2005. La mise en oeuvre de ces délégations fait obstacle à l'application des dispositions de l'article 16 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
-
-Les délégations entrent en vigueur le lendemain de la publication au Journal officiel de la République française des décisions désignant les titulaires des délégations et précisant les matières qui en font l'objet. Les délégations peuvent être abrogées à tout moment par un acte contraire. Elles prennent fin en même temps que les fonctions de celui qui les a données.
+Le contrôleur budgétaire et comptable ministériel peut donner délégation, en matière de contrôle budgétaire, dans les conditions prévues à l'article 89 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.

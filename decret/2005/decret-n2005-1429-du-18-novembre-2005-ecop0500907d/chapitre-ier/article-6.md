@@ -1,3 +1,3 @@
 # Article 6
 
-Il coordonne l'action des autorités chargées du contrôle financier auprès des services déconcentrés du ministère auprès duquel il est placé et des comptables publics assignataires des ordres de dépenses et de recettes émis par les ordonnateurs secondaires de ce ministère.
+Outre les missions qui lui sont confiées en qualité de comptable public par l'article 80 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et celles qui lui sont confiées en matière de contrôle budgétaire par l'article 88 du même décret, le contrôleur budgétaire et comptable ministériel coordonne l'action des autorités chargées du contrôle budgétaire auprès des services déconcentrés du ministère auprès duquel il est placé et des comptables publics assignataires des ordres de dépenses et de recettes émis par les ordonnateurs secondaires de ce ministère.
