@@ -34,7 +34,7 @@ Lorsque la demande de visa de long séjour émane d'un étranger entré réguli�
 
 Par dérogation aux dispositions qui précèdent, les étrangers titulaires d'un titre de séjour ou du document de circulation délivré aux mineurs en application du deuxième alinéa de l'article 12 sont admis en Polynésie française au seul vu de la présentation de ce titre et d'un document de voyage.
 
-L'accès en Polynésie française peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public ou qui fait l'objet soit d'une interdiction du territoire, soit d'un arrêté d'expulsion.
+L'accès en Polynésie française peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public ou qui fait l'objet soit d'une interdiction judiciaire du territoire, soit d'un arrêté d'expulsion, soit d'une interdiction administrative du territoire.
 
 Tout refus d'entrée doit faire l'objet d'une décision écrite, prise par une autorité administrative définie par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'outre-mer, spécialement motivée d'après les éléments de l'espèce, dont le double est remis à l'intéressé.
 

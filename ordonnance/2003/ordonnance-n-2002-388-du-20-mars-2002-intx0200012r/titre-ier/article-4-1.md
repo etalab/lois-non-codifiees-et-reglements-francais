@@ -1,0 +1,5 @@
+# Article 4-1
+
+L'étranger qui fait l'objet d'une interdiction administrative du territoire en application des articles L. 214-1 à L. 214-3, L. 214-5 et L. 214-6 du code de l'entrée et du séjour des étrangers et du droit d'asile et qui s'apprête à accéder en Nouvelle-Calédonie peut faire l'objet d'un refus d'entrée, dans les conditions prévues à l'article 4.
+
+Lorsque l'étranger qui fait l'objet d'une interdiction administrative du territoire est présent sur le territoire de la Nouvelle-Calédonie, il peut être d'office reconduit à la frontière, le cas échéant à l'expiration du délai prévu à l'article L. 214-3 du code de l'entrée et du séjour des étrangers et du droit d'asile. Les articles 38, 39, 40, 41 et 50 sont applicables à la reconduite à la frontière des étrangers faisant l'objet d'une interdiction administrative du territoire. L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi ainsi que l'assignation à résidence est le ministre de l'intérieur. Le présent alinéa n'est pas applicable à l'étranger mineur.
