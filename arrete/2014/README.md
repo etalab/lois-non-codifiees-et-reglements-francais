@@ -2284,7 +2284,6 @@
 - [ARRÊTÉ du 24 novembre 2014 (DEVR1412294A)](arrete-du-24-novembre-2014-devr1412294a)
 - [ARRÊTÉ du 24 novembre 2014 (DEVT1425981A)](arrete-du-24-novembre-2014-devt1425981a)
 - [ARRÊTÉ du 24 novembre 2014 (EINA1426265A)](arrete-du-24-novembre-2014-eina1426265a)
-- [ARRÊTÉ du 24 novembre 2014 (VJSV1427709A)](arrete-du-24-novembre-2014-vjsv1427709a)
 - [ARRÊTÉ du 24 octobre 2014 (AFSH1425419A)](arrete-du-24-octobre-2014-afsh1425419a)
 - [ARRÊTÉ du 24 octobre 2014 (AGRG1425413A)](arrete-du-24-octobre-2014-agrg1425413a)
 - [ARRÊTÉ du 24 octobre 2014 (AGRG1425421A)](arrete-du-24-octobre-2014-agrg1425421a)
