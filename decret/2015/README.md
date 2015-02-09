@@ -69,6 +69,7 @@
 - [DÉCRET n°2015-20 du 12 janvier 2015 (AFSS1427074D)](decret-n2015-20-du-12-janvier-2015-afss1427074d)
 - [DÉCRET n°2015-21 du 12 janvier 2015 (AFSS1427521D)](decret-n2015-21-du-12-janvier-2015-afss1427521d)
 - [DÉCRET n°2015-23 du 12 janvier 2015 (EINC1331912D)](decret-n2015-23-du-12-janvier-2015-einc1331912d)
+- [Décret n°2006-1593 du 13 décembre 2006 (AGRX0600109D)](decret-n2006-1593-du-13-decembre-2006-agrx0600109d)
 - [DÉCRET n°2014-1357 du 13 novembre 2014 (FCPT1418886D)](decret-n2014-1357-du-13-novembre-2014-fcpt1418886d)
 - [DÉCRET n°2015-22 du 13 janvier 2015 (AFSR1427643D)](decret-n2015-22-du-13-janvier-2015-afsr1427643d)
 - [DÉCRET n°2015-27 du 13 janvier 2015 (AGRT1414015D)](decret-n2015-27-du-13-janvier-2015-agrt1414015d)
