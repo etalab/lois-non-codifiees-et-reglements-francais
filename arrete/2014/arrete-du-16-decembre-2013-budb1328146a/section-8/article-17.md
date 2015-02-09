@@ -12,11 +12,11 @@ c) A 1 000 000 euros pour les dépenses d'intervention ;
 
 d) Par dérogation aux dispositions ci-dessus, les décisions d'attribution de subvention pour charges de service public, les transactions et les contrats de partenariats publics privés sont visés dès le premier euro.
 
-II. - Les actes suivants sont soumis à avis préalable :
+II. ― Les actes suivants sont soumis à avis préalable :
 
 a) Les notifications de subvention pour charges de service public adressées à l'opérateur de l'Etat par le ministère de tutelle ;
 
-b) Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur au seuil mentionné au I (a) du présent article ;
+b) Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article ;
 
 c) Les propositions de transaction dès le premier euro.
 

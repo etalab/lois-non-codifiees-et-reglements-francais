@@ -12,7 +12,7 @@ Groupe III : Alsace, Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Co
 
 I. ― Les décisions d'engagement suivantes sont soumises au visa au-dessus d'un seuil fixé comme suit :
 
-a) Les dépenses de fonctionnement des services à :
+a) Les dépenses de fonctionnement des services, à l'exception des baux domaniaux, à :
 
 500 000 euros dans la région du groupe I ;
 
@@ -46,7 +46,7 @@ II. ― Les actes suivants sont soumis à avis préalable :
 
 a) Les notifications de subvention pour charges de service public adressées à l'opérateur de l'Etat par le ministère de tutelle ;
 
-b) Les marchés à bons de commande dont le montant prévisionnel est supérieur au seuil mentionné au I (a) du présent article ;
+b) Les marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article ;
 
 c) Les propositions de transaction.
 

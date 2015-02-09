@@ -14,7 +14,7 @@ b) Au cadre de gestion relatif aux conditions et modalités de recrutement et de
 
 a) Les autorisations de recrutement avec ou sans concours fixant le nombre de postes ouverts et de tirages sur listes complémentaires accompagnées des annexes financières associées ;
 
-b) Les contrats de recrutements de personnels non titulaires d'une durée égale ou supérieure à un an, leurs annexes et avenants ;
+b) Les contrats de recrutements de personnels non titulaires d'une durée égale ou supérieure à un an, leurs annexes et avenants. Ces actes sont soumis au visa du contrôleur budgétaire et comptable ministériel y compris ceux relevant des ordonnateurs mentionnés à l'article 88-II du décret du 7 novembre 2012 susvisé et confiés par délégation au directeur des ressources humaines des ministères sociaux ;
 
 c) Les contrats de recrutement des membres et autres collaborateurs des cabinets ministériels, leurs annexes et avenants.
 

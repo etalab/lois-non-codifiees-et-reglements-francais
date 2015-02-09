@@ -2,7 +2,7 @@
 
 Le contrôleur budgétaire et comptable ministériel donne un avis sur le caractère soutenable de la programmation validée par le responsable de la fonction financière ministérielle pour chacun des programmes en application des dispositions de l'article 93 du décret du 7 novembre 2012 susvisé.
 
-L'avis est rendu sur la base de documents qui lui sont transmis au plus tard le 15 février sauf dérogatoire accordée par le contrôleur budgétaire et comptable ministériel, notamment :
+L'avis est rendu sur la base de documents qui lui sont transmis au plus tard le 15 février sauf dérogation accordée par le contrôleur budgétaire et comptable ministériel, notamment :
 
 1° Le document prévisionnel de gestion des emplois et des crédits de personnel pour le titre 2 ;
 

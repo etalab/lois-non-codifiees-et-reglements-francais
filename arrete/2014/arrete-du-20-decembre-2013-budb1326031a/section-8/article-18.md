@@ -42,7 +42,7 @@ II. ― Les actes suivants sont soumis à avis préalable :
 
 a) Les notifications de subvention pour charges de service public adressées à l'opérateur de l'Etat par le ministère de tutelle ;
 
-b) Les marchés à bons de commande dont le montant prévisionnel est supérieur au seuil mentionné au I, a du présent article ;
+b) Les marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article ;
 
 c) Les propositions de transaction.
 

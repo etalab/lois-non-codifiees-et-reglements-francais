@@ -14,7 +14,7 @@ Groupe II :
 
 ― sous-directeur des ressources humaines des greffes à la direction des services judiciaires ;
 
-― sous-directeur de l'organisation et du fonctionnement des juridictions à la direction des services judiciaires ;
+―  sous-directeur des finances, de l'immobilier et de la performance à la direction des services judiciaires ;
 
 ― sous-directeur de l'organisation et du fonctionnement des services déconcentrés à la direction de l'administration pénitentiaire ;
 
@@ -28,7 +28,7 @@ Groupe III :
 
 ― sous-directeur des affaires juridiques générales et du contentieux au secrétariat général ;
 
-― sous-directeur de la performance et des méthodes à la direction des services judiciaires ;
+― sous-directeur de l'organisation judiciaire et de l'innovation à la direction des services judiciaires  ;
 
 ― sous-directeur du droit civil à la direction des affaires civiles et du sceau ;
 

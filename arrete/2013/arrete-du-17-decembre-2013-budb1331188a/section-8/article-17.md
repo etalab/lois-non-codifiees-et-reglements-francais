@@ -12,7 +12,7 @@ c) à 150 000 euros pour les dépenses d'intervention ;
 
 d) à 500 000 euros pour les dépenses d'opérations financières ;
 
-e) Par exception aux dispositions ci-dessus, à 50 000 euros pour les dépenses spécifiques de frais de justice du programme 166 « Justice judiciaire » ;
+e) Par exception aux dispositions ci-dessus, à 50 000 euros pour les dépenses spécifiques de frais de justice du programme 166 " Justice judiciaire " ;
 
 f) Par dérogation aux dispositions ci-dessus, les décisions d'attribution de subvention pour charges de service public, les transactions et les contrats de partenariats publics-privés sont visés dès le premier euro.
 
@@ -20,7 +20,7 @@ II. ― Les actes suivants sont soumis à avis préalable :
 
 g) Les notifications de subvention pour charges de service public adressées à l'opérateur de l'Etat par le ministère de tutelle ;
 
-h) Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur au seuil mentionné au I (a) du présent article ;
+h) Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article ;
 
 i) Les propositions de transaction dès le premier euro.
 

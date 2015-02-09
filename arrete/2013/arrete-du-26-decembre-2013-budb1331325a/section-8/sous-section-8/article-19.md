@@ -6,7 +6,7 @@ Pour l'application de cet article, les régions sont classées en trois groupes 
 
 Groupe I : Ile-de-France ;
 
-Groupe II : Aquitaine, Bretagne, Centre, Languedoc-Roussillon, Lorraine, Midi-Pyrénées, Nord - Pas-de-Calais, Pays de la Loire, Provence-Alpes-Côte d'Azur, Rhône-Alpes ;
+Groupe II : Aquitaine, Bretagne, Centre, Languedoc-Roussillon, Lorraine, Midi-Pyrénées, Nord-Pas-de-Calais, Pays de la Loire, Provence-Alpes-Côte d'Azur, Rhône-Alpes ;
 
 Groupe III : Alsace, Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Haute-Normandie, Limousin, Picardie, Poitou-Charentes, les régions et autres collectivités des outre-mer.
 
@@ -42,7 +42,7 @@ II. ― Les actes suivants sont soumis à avis préalable :
 
 a) Les notifications de subvention pour charges de service public et les notifications de dotation en fonds propres adressées aux opérateurs par les services déconcentrés des ministères chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche ; ces notifications font l'objet d'un avis préalable sur liste ;
 
-b) Les marchés à bons de commande dont le montant prévisionnel est supérieur au seuil mentionné au I (a) du présent article ;
+b) Les marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article ;
 
 c) Les propositions de transaction.
 

@@ -30,7 +30,7 @@ d) Par dérogation aux dispositions du I, les décisions d'engagement suivantes 
 
 ― à 3 000 000 d'euros pour les subventions aux mutuelles au titre des rentes mutualistes.
 
-II. ― Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur au seuil mentionné au I (a) du présent article et les marchés à bons de commandes ne comportant pas de plafond sont transmis pour avis au contrôleur budgétaire et comptable ministériel.
+II. ― Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article et les marchés à bons de commandes ne comportant pas de plafond sont transmis pour avis au contrôleur budgétaire et comptable ministériel.
 
 III. ― Les affectations d'un montant supérieur à 50 M€ font l'objet d'un visa, à l'exception de celles approuvées dans le cadre du COFIN.
 

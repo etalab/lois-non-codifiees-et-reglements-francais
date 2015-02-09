@@ -12,7 +12,7 @@ c) A 250 000 euros pour les dépenses d'intervention ;
 
 d) A 250 000 euros pour les dépenses d'opérations financières ;
 
-e) Par exception aux dispositions ci-dessus, à 1 000 000 euros pour les dépenses des programmes 793 et 794 du compte d'affectation spéciale « Financement des aides aux collectivités pour l'électrification rurale » ;
+e) Par exception aux dispositions ci-dessus, à 1 000 000 euros pour les dépenses des programmes 793 et 794 du compte d'affectation spéciale "Financement des aides aux collectivités pour l'électrification rurale" ;
 
 f) Par dérogation aux dispositions ci-dessus, les décisions d'attribution de subvention pour charges de service public, les transactions et les contrats de partenariats publics privés sont visés dès le premier euro.
 
@@ -20,12 +20,12 @@ II. ― Les actes suivants sont soumis à avis préalable :
 
 a) Les notifications de subvention pour charges de service public adressées à l'opérateur de l'Etat par le ministère de tutelle ;
 
-b) Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur ou égal au seuil mentionné au I, a du présent article ;
+b) Les accords-cadres et marchés à bons de commande dont le montant prévisionnel est supérieur aux seuils mentionnés au I du présent article ;
 
 c) Les propositions de transaction dès le premier euro.
 
 III. ― Les décisions d'affectation de crédits sont soumises au visa à partir d'un seuil fixé à 1 000 000 euros.
 
-IV. ― Dès lors que l'acte initial a été visé par le contrôleur budgétaire, les affectations et engagements complémentaires sont visés à l'exception des révisions de prix qui résultent des clauses du contrat. Par exception, les affectations complémentaires imputées sur le programme 203 « Infrastructures et services de transport » sont visées à partir d'un seuil fixé à 1 000 000 euros.
+IV. ― Dès lors que l'acte initial a été visé par le contrôleur budgétaire, les affectations et engagements complémentaires sont visés à l'exception des révisions de prix qui résultent des clauses du contrat. Par exception, les affectations complémentaires imputées sur le programme 203  Infrastructures et services de transport  sont visées à partir d'un seuil fixé à 1 000 000 euros.
 
 V. ― Le retrait d'affectation d'autorisations d'engagement et le retrait d'engagement donnent lieu à visa lorsque le montant du retrait est supérieur ou égal à 10 % de l'affectation ou de l'engagement considéré et que l'acte initial a été soumis au visa du contrôleur budgétaire.
