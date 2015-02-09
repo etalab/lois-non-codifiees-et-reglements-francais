@@ -3,7 +3,6 @@
 - [Arrêté du 2 août 2005 (SANH0522482A)](arrete-du-2-aout-2005-sanh0522482a)
 - [Arrêté du 2 août 2005 (SANH0522492A)](arrete-du-2-aout-2005-sanh0522492a)
 - [Arrêté du 2 avril 2008 (AGRF0806333A)](arrete-du-2-avril-2008-agrf0806333a)
-- [Arrêté du 2 décembre 2008 (AGRS0826977A)](arrete-du-2-decembre-2008-agrs0826977a)
 - [Arrêté du 2 décembre 2008 (AGRS0827230A)](arrete-du-2-decembre-2008-agrs0827230a)
 - [Arrêté du 2 décembre 2008 (BCFR0829439A)](arrete-du-2-decembre-2008-bcfr0829439a)
 - [Arrêté du 2 décembre 2008 (BCFS0828152A)](arrete-du-2-decembre-2008-bcfs0828152a)
