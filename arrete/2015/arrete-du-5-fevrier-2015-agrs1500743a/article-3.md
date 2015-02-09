@@ -1,0 +1,5 @@
+# Article 3
+
+Dans les limites des plafonds institués par le décret n° 2008-368 du 17 avril 2008 et par l'arrêté du 17 avril 2008 susvisés, les modalités de mise en œuvre des primes et indemnités mentionnées à l'article 1er, la modulation de leurs montants et leurs conditions d'octroi sont fixées par décision du directeur général dans le cadre de l'enveloppe budgétaire fixée par le conseil d'administration de l'établissement.
+
+Ces modulations et conditions d'octroi tiennent compte, selon les primes et indemnités concernées, des contraintes subies par les personnels à raison de la restructuration et notamment des critères de composition familiale, du bénéfice d'une concession de logement par nécessité absolue de service ou d'une convention d'occupation précaire avec astreinte, d'éloignement ou de changement de résidence familiale ainsi que, éventuellement, de leur ancienneté. Pour chacune des opérations de restructuration, le directeur général fixe les périodes d'octroi des primes et indemnités visées à l'article 1er du présent arrêté.
