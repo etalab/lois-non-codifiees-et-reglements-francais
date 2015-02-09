@@ -1,3 +1,0 @@
-# Article 29
-
-Le diplôme délivré à un étudiant inscrit, à la date de création du Centre international d'études supérieures en sciences agronomiques, au Centre national d'études agronomiques des régions chaudes, à l'Ecole nationale supérieure agronomique de Montpellier ou à la section des industries agroalimentaires des régions chaudes de l'Ecole nationale supérieure des industries agricoles et alimentaires l'est au titre du Centre international d'études supérieures en sciences agronomiques. Toutefois, les étudiants qui en font la demande peuvent recevoir, au lieu et place de ce diplôme, celui de l'établissement dans lequel ils étaient antérieurement inscrits.
