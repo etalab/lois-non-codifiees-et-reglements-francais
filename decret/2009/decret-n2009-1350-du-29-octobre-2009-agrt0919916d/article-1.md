@@ -4,10 +4,6 @@ Sont homologués les cahiers des charges, annexés au présent décret, des appe
 
 ― "Marc d'Alsace" suivie de la dénomination "Gewurztraminer" ;
 
-― "Calvados" ;
-
-― "Calvados Pays d'Auge" ;
-
 ― "Cornouaille" ;
 
 ― "Domfront" ;
