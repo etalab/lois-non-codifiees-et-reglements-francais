@@ -54,7 +54,6 @@
 - [Décret n°2005-919 du 2 août 2005 (SANH0520460D)](decret-n2005-919-du-2-aout-2005-sanh0520460d)
 - [Décret n°2005-924 du 2 août 2005 (SANH0520641D)](decret-n2005-924-du-2-aout-2005-sanh0520641d)
 - [Décret n°2005-925 du 2 août 2005 (SANH0520643D)](decret-n2005-925-du-2-aout-2005-sanh0520643d)
-- [Décret n°95-110 du 2 février 1995 (MCCK9400557D)](decret-n95-110-du-2-fevrier-1995-mcck9400557d)
 - [Décret n°2003-852 du 3 septembre 2003 (MCCB0300517D)](decret-n2003-852-du-3-septembre-2003-mccb0300517d)
 - [Décret n°2004-1326 du 3 décembre 2004 (MENS0402682D)](decret-n2004-1326-du-3-decembre-2004-mens0402682d)
 - [Décret n°2004-1328 du 3 décembre 2004 (SANS0424030D)](decret-n2004-1328-du-3-decembre-2004-sans0424030d)
