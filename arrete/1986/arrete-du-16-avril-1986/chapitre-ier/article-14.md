@@ -1,23 +1,39 @@
 # Article 14
 
-Troubles psychiques.
+Troubles mentaux et du comportement, addictions.
 
-A l'entrée dans la profession de marin, certains troubles psychiques sont incompatibles avec la navigation, notamment :
+I. - A l'entrée dans la profession de marin, et pour les gens de mer, certains troubles mentaux et du comportement sont incompatibles avec la navigation, notamment :
 
-- les états psychopathiques avérés ;
+- les démences ;
 
-- les schizophrénies, les psychoses paranoiaques ou hallucinatoires ;
+- les schizophrénies, les troubles délirants, les troubles psychotiques ;
 
-- les psychoses maniaco-dépressives et les autres états dépressifs en cours d'évolution ;
+- les psychoses maniaco-dépressives et les autres troubles de l'humeur en cours d'évolution ;
 
-- les états névrotiques structurés tels les névroses d'angoisse, traumatique, hystérique, phobique, obsessionnelle et hypocondriaque ;
+- les troubles névrotiques notamment anxieux, anxieux phobique, obsessionnel compulsif, post-traumatique et dissociatif ;
 
-- les personnalités pathologiques ;
+- les troubles de la personnalité ;
 
-- les états d'arriération intellectuelle moyenne et profonde, les déficits intellectuels acquis ;
+- les troubles envahissants du développement, les déficiences mentales ;
 
-- les états d'assuétude toxicophiliques, y compris alcooliques ;
+- les troubles mentaux et du comportement liés à l'utilisation de substances psychoactives.
 
-- le recours, qui ne peut être systématique, à des tests de dépistage, est justifié si les activités de l'intéressé comportent des risques pour lui-même ou pour des tiers.
+Les mêmes troubles psychiques reconnus en cours de vie professionnelle font l'objet d'une évaluation spécialisée qui tiendra compte, en particulier, des conditions de vie et de travail à bord, de l'adaptation au milieu, du genre de navigation pratiquée et des implications thérapeutiques éventuelles. Le médecin des gens de mer devra s'entourer de tous les éléments d'appréciation. A l'issue de cette évaluation, l'aptitude à la navigation pourra être renouvelée.
 
-Les mêmes troubles psychiques reconnus en cours de carrière feront l'objet d'une évaluation spécialisée qui tiendra compte, en particulier, des conditions de vie et de travail à bord, de l'adaptation au milieu, du genre de navigation pratiquée et des implications thérapeutiques éventuelles. Le spécialiste devra s'entourer de tous les éléments d'appréciation. A l'issue de cette évaluation, le marin pourra être autorisé à poursuivre l'exercice de sa profession.
+II. - Une recherche biologique de substances psychoactives est réalisée :
+
+- chez tous les candidats à l'entrée dans la profession de marin et, pour les gens de mer, lors de leur visite initiale ;
+
+- chez tous les gens de mer appelés à occuper des fonctions à bord qui nécessitent un haut niveau de vigilance permanent et notamment les postes de sécurité et de sûreté suivants :
+
+- postes de commandement et de conduite des navires ;
+
+- agents de sûreté et de protection ;
+
+- lorsque l'examen médical relève certains éléments pouvant faire évoquer une consommation de substances psychoactives ;
+
+- lorsque les gens de mer sont partie prenante dans un événement survenu à bord pouvant faire évoquer une consommation de substances psychoactives et ayant donné lieu à un rapport circonstancié établi par le capitaine à l'attention du médecin des gens de mer.
+
+Un test positif est de nature à remettre en cause l'aptitude à la navigation et l'aptitude à assurer un poste de sécurité ou de sûreté à bord.
+
+L'addiction à une substance psychoactive, y compris l'alcool, et ses implications en termes de vigilance et de maîtrise du comportement sont incompatibles avec la navigation.
