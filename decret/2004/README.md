@@ -326,7 +326,6 @@
 - [Décret n°2004-813 du 14 août 2004 (INTD0400055D)](decret-n2004-813-du-14-aout-2004-intd0400055d)
 - [Décret n°2004-814 du 14 août 2004 (MAEF0410016D)](decret-n2004-814-du-14-aout-2004-maef0410016d)
 - [Décret n°71-750 du 14 septembre 1971](decret-n71-750-du-14-septembre-1971)
-- [Décret n°98-35 du 14 janvier 1998 (MCCK9700704D)](decret-n98-35-du-14-janvier-1998-mcck9700704d)
 - [Décret n°2004-1092 du 15 octobre 2004 (INTA0400274D)](decret-n2004-1092-du-15-octobre-2004-inta0400274d)
 - [Décret n°2004-1093 du 15 octobre 2004 (SOCF0411898D)](decret-n2004-1093-du-15-octobre-2004-socf0411898d)
 - [Décret n°2004-1096 du 15 octobre 2004 (SOCF0411900D)](decret-n2004-1096-du-15-octobre-2004-socf0411900d)

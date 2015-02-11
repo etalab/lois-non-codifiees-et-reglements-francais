@@ -192,7 +192,6 @@
 - [Décret n°2013-996 du 8 novembre 2013 (DEVP1323226D)](decret-n2013-996-du-8-novembre-2013-devp1323226d)
 - [Décret n°2013-997 du 8 novembre 2013 (DEVP1323241D)](decret-n2013-997-du-8-novembre-2013-devp1323241d)
 - [Décret n°2013-998 du 8 novembre 2013 (DEVP1323246D)](decret-n2013-998-du-8-novembre-2013-devp1323246d)
-- [Décret n°2013-999 du 8 novembre 2013 (MCCK1318288D)](decret-n2013-999-du-8-novembre-2013-mcck1318288d)
 - [Décret n°2012-1250 du 9 novembre 2012 (AGRT1230752D)](decret-n2012-1250-du-9-novembre-2012-agrt1230752d)
 - [Décret n°2012-32 du 9 janvier 2012 (PRMG1120637D)](decret-n2012-32-du-9-janvier-2012-prmg1120637d)
 - [Décret n°2013-1134 du 9 décembre 2013 (JUSD1327778D)](decret-n2013-1134-du-9-decembre-2013-jusd1327778d)

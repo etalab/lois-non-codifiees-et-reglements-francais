@@ -617,8 +617,6 @@
 - [Arrêté du 21 janvier 1997 (ECOT9713908A)](arrete-du-21-janvier-1997-ecot9713908a)
 - [Arrêté du 21 janvier 1997 (TASO9710127A)](arrete-du-21-janvier-1997-taso9710127a)
 - [Arrêté du 21 mars 1997 (ECOT9710299A)](arrete-du-21-mars-1997-ecot9710299a)
-- [Arrêté du 21 mars 1997 (MCCK9600705A)](arrete-du-21-mars-1997-mcck9600705a)
-- [Arrêté du 21 mars 1997 (MCCK9600706A)](arrete-du-21-mars-1997-mcck9600706a)
 - [Arrêté du 21 novembre 1997 (DEFD9702137A)](arrete-du-21-novembre-1997-defd9702137a)
 - [Arrêté du 21 novembre 1997 (DEFF9702117A)](arrete-du-21-novembre-1997-deff9702117a)
 - [Arrêté du 21 novembre 1997 (ECOE9700013A)](arrete-du-21-novembre-1997-ecoe9700013a)

@@ -395,7 +395,6 @@
 - [Arrêté du 24 mai 1988 (PRMG8805034A)](arrete-du-24-mai-1988-prmg8805034a)
 - [Arrêté du 25 août 1988 (ECOC8800040A)](arrete-du-25-aout-1988-ecoc8800040a)
 - [Arrêté du 25 avril 1988 (ASET8803358A)](arrete-du-25-avril-1988-aset8803358a)
-- [Arrêté du 25 avril 1988 (MCCK8800270A)](arrete-du-25-avril-1988-mcck8800270a)
 - [Arrêté du 25 février 1988 (ASEA8800348A)](arrete-du-25-fevrier-1988-asea8800348a)
 - [Arrêté du 25 février 1988 (ECOX8810151A)](arrete-du-25-fevrier-1988-ecox8810151a)
 - [Arrêté du 25 février 1988 (TRSA8800167A)](arrete-du-25-fevrier-1988-trsa8800167a)

@@ -1,3 +1,0 @@
-# Article 32-1
-
-Pour l'application de l'article 50-2 du décret du 24 février 1999 susvisé, les entreprises de production qui disposent d'un compte ouvert à leur nom au Centre national de la cinématographie, conformément à l'article 6 du décret n° 95-110 du 2 février 1995 relatif au soutien financier à la production, à la préparation et à la distribution d'œuvres audiovisuelles, ont la faculté d'investir les sommes inscrites sur ce compte pour la préparation de la réalisation d'œuvres cinématographiques de longue durée appartenant au genre de l'animation, dans les conditions prévues aux articles 32-2 à 32-6.

@@ -471,7 +471,6 @@
 - [Décret n°2001-984 du 29 octobre 2001 (MESH0123425D)](decret-n2001-984-du-29-octobre-2001-mesh0123425d)
 - [Décret n°2001-985 du 29 octobre 2001 (MESH0123428D)](decret-n2001-985-du-29-octobre-2001-mesh0123428d)
 - [Décret n°2001-986 du 29 octobre 2001 (MESH0123426D)](decret-n2001-986-du-29-octobre-2001-mesh0123426d)
-- [Décret n°2001-988 du 29 octobre 2001 (MCCK0100457D)](decret-n2001-988-du-29-octobre-2001-mcck0100457d)
 - [Décret n°97-1254 du 29 décembre 1997 (INTM9700014D)](decret-n97-1254-du-29-decembre-1997-intm9700014d)
 - [Décret n°2000-459 du 29 mai 2000 (PRMX0004135D)](decret-n2000-459-du-29-mai-2000-prmx0004135d)
 - [Décret n°2001-1019 du 30 octobre 2001 (DEFP0101992D)](decret-n2001-1019-du-30-octobre-2001-defp0101992d)

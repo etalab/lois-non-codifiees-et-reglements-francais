@@ -7,7 +7,6 @@
 - [Arrêté du 1 juin 1987 (ECOC8700048A)](arrete-du-1-juin-1987-ecoc8700048a)
 - [Arrêté du 1 juin 1987 (ECOP8700201A)](arrete-du-1-juin-1987-ecop8700201a)
 - [Arrêté du 1 juin 1987 (ECOT8750030A)](arrete-du-1-juin-1987-ecot8750030a)
-- [Arrêté du 1 juin 1987 (MCCK8700257A)](arrete-du-1-juin-1987-mcck8700257a)
 - [Arrêté du 1 juin 1987 (RESP8700318A)](arrete-du-1-juin-1987-resp8700318a)
 - [Arrêté du 1 octobre 1987 (BUDB8730096A)](arrete-du-1-octobre-1987-budb8730096a)
 - [Arrêté du 1 octobre 1987 (BUDB8730097A)](arrete-du-1-octobre-1987-budb8730097a)

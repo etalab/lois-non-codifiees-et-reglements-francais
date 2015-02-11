@@ -1,3 +1,0 @@
-# Article 124
-
-Le montant des allocations est calculé par application d'un taux au produit de la taxe sur le prix des entrées aux séances organisées dans les établissements de spectacle à l'occasion de la représentation commerciale du programme dont la ou les oeuvres cinématographiques de courte durée constituent l'un des éléments. Ce calcul est effectué pendant une durée de cinq années à compter de la première représentation commerciale du programme. Le taux est fixé par arrêté conjoint du ministre chargé de la culture, du ministre chargé de l'économie et des finances et du ministre chargé du budget.
