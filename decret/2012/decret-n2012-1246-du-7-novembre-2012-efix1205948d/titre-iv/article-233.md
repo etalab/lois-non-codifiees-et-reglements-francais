@@ -1,6 +1,6 @@
 # Article 233
 
-Dans l'attente de la mise en œuvre des dispositions des articles 3 et 7 du décret du 15 mai 2007 susvisé, les dépenses de personnel sont liquidées et payées, sans engagement ni ordonnancement préalable, par les comptables publics désignés par arrêté du ministre chargé du budget, dans les conditions suivantes :
+Les dépenses de personnel sont liquidées et payées, sans engagement ni ordonnancement préalable, par les comptables publics désignés par arrêté du ministre chargé du budget, dans les conditions suivantes :
 
 1° L'ordonnateur atteste du service fait en communiquant au comptable assignataire les bases de calcul nécessaires à la liquidation et à la mise en paiement des rémunérations des agents ainsi qu'à la détermination des retenues à opérer sur celles-ci ;
 
