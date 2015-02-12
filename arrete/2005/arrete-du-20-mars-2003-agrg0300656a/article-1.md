@@ -1,3 +1,0 @@
-# Article 1
-
-Le présent arrêté fixe les conditions sanitaires régissant les échanges intracommunautaires, les importations et les exportations de certains produits contenant ou préparés à partir de matières animales destinés à l'alimentation et à la fabrication d'aliments des animaux d'élevage, ou à d'autres usages. Sont exclues du champ du présent arrêté les conditions sanitaires régissant les échanges intracommunautaires, les importations et les exportations de certains produits contenant ou préparés à partir de matières animales destinés à l'alimentation et à la fabrication d'aliments des animaux familiers.
