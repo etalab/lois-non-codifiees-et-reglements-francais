@@ -1,3 +1,0 @@
-# TITRE III : DISPOSITIONS COMPLÉMENTAIRES RELATIVES AU TRANSPORT DES PRODUITS ALTÉRABLES OU NON STABLES À TEMPÉRATURE AMBIANTE.
-
-- [Chapitre III : Maîtrise des températures au cours du transport.](chapitre-iii)

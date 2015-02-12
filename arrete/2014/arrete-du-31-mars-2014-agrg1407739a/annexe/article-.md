@@ -4,11 +4,17 @@
 <tbody>
 <tr>
 <td align="center" rowspan="2">RÉGIONS</td>
-<td align="center" colspan="2">ORGANISMES RECONNUS OVS</td>
+<td align="center" colspan="2">
+<p align="center">ORGANISMES RECONNUS OVS</p>
+</td>
 </tr>
 <tr>
-<td align="center">Domaine végétal</td>
-<td align="center">Domaine animal</td>
+<td align="center">
+<p align="center">Domaine végétal</p>
+</td>
+<td align="center">
+<p align="center">Domaine animal</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -301,10 +307,10 @@
 <p align="left">Rhône-Alpes</p>
 </td>
 <td align="center">
-<p align="left">Aucun</p>
+<p align="left">FREDON Rhône-Alpes</p>
 </td>
 <td align="center">
-<p align="left">FRGDS Rhône-Alpes </p>
+<p align="left">FRGDS Rhône-Alpes</p>
 </td>
 </tr>
 <tr>
