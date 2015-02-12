@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'un élève majeur, ou, s'il est mineur, ses responsables légaux, a saisi la maison départementale des personnes handicapées d'une première demande d'élaboration d'un projet personnalisé de scolarisation, les informations relatives à sa situation scolaire peuvent être recueillies au moyen du document intitulé « guide d'évaluation des besoins de compensation en matière de scolarisation » (GEVA-Sco première demande) annexé au présent arrêté. A la demande de l'élève handicapé majeur ou, s'il est mineur, de ses responsables légaux, ce document est renseigné par l'équipe éducative.
