@@ -100,7 +100,6 @@
 - [Décret n°2012-657 du 4 mai 2012 (ETSD1126872D)](decret-n2012-657-du-4-mai-2012-etsd1126872d)
 - [Décret n°2012-658 du 4 mai 2012 (ETSD1205036D)](decret-n2012-658-du-4-mai-2012-etsd1205036d)
 - [Décret n°2012-659 du 4 mai 2012 (ETSH1220707D)](decret-n2012-659-du-4-mai-2012-etsh1220707d)
-- [Décret n°2012-660 du 4 mai 2012 (ETSD1207029D)](decret-n2012-660-du-4-mai-2012-etsd1207029d)
 - [Décret n°2012-661 du 4 mai 2012 (ETSD1205311D)](decret-n2012-661-du-4-mai-2012-etsd1205311d)
 - [Décret n°2012-662 du 4 mai 2012 (MENE1220999D)](decret-n2012-662-du-4-mai-2012-mene1220999d)
 - [Décret n°2012-663 du 4 mai 2012 (BCRE1121305D)](decret-n2012-663-du-4-mai-2012-bcre1121305d)
