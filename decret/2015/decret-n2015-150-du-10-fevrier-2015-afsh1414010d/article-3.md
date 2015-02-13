@@ -1,0 +1,3 @@
+# Article 3
+
+A titre transitoire, les praticiens qui exercent au jour de l'entrée en vigueur du présent décret dans les établissements, les laboratoires et les organismes mentionnés à l'article L. 2142-1 du code de la santé publique qui ne satisfont pas aux conditions mentionnées aux 2° et 3° du I de l'article R. 2142-10 ou au 2° du I de l'article R. 2142-11 figurant à l'article 1er du présent décret, disposent d'un délai de trois ans à compter de l'entrée en vigueur du présent décret, pour se conformer aux conditions mentionnées aux articles R. 2142-10 et R. 2142-11 institués par le présent décret. Durant cette période, ils sont réputés compétents pour l'exercice des activités mentionnées à ces mêmes articles.
