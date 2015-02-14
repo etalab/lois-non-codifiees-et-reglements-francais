@@ -20,9 +20,9 @@ b) Définit des programmes de recherches, menés en son sein ou confiés à d'au
 
 c) Contribue à la formation en radioprotection des professionnels de santé et des personnes professionnellement exposées ;
 
-d) Apporte un appui technique à la direction générale de la sûreté nucléaire et de la radioprotection, au délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense et aux autorités et services de l'Etat qui en font la demande ;
+d) Apporte un appui technique à la direction générale de la sûreté nucléaire et de la radioprotection, au délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense et aux autorités et services de l'Etat qui en font la demande ;
 
-e) Propose à la direction générale de la sûreté nucléaire et de la radioprotection ou au délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense, en cas d'incident ou d'accident impliquant des sources de rayonnements ionisants, des mesures d'ordre technique, sanitaire et médical propres à assurer la protection de la population, des travailleurs et de l'environnement et à rétablir la sécurité des installations ;
+e) Propose à la direction générale de la sûreté nucléaire et de la radioprotection ou au délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense, en cas d'incident ou d'accident impliquant des sources de rayonnements ionisants, des mesures d'ordre technique, sanitaire et médical propres à assurer la protection de la population, des travailleurs et de l'environnement et à rétablir la sécurité des installations ;
 
 f) Participe à la veille permanente en matière de radioprotection, notamment en concourant à la surveillance radiologique de l'environnement et en assurant la gestion et l'exploitation des données dosimétriques concernant les travailleurs exposés aux rayonnements ionisants et la gestion de l'inventaire des sources de rayonnements ionisants.
 

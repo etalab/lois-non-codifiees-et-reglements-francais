@@ -20,9 +20,9 @@ g) Un membre sur proposition du ministre chargé du travail ;
 
 h) Un membre sur proposition du ministre chargé du budget ;
 
-i) Le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
+i) Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense ;
 
-j)  Le chef de la mission de sûreté nucléaire et de radioprotection.
+j) Le chef de la mission de sûreté nucléaire et de radioprotection.
 
 2° Six personnalités qualifiées choisies en raison de leur compétence dans les domaines d'activité de l'établissement, au nombre desquelles figure un député ou un sénateur membre de l'Office parlementaire d'évaluation des choix scientifiques et technologiques et proposé par cet office ;
 

@@ -18,11 +18,11 @@ Ce comité comprend, sous la présidence du Premier ministre, ou d'un ministre a
 
 -le directeur général de l'énergie et du climat ;
 
--le            directeur général des entreprises ;
+-le directeur général des entreprises ;
 
 -le directeur du budget ;
 
--le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
+-le                délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense ;
 
 -le directeur général de la recherche et de l'innovation ;
 

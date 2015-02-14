@@ -2,7 +2,7 @@
 
 Il est institué un comité d'orientation auprès de la direction de l'expertise nucléaire de défense, qui comprend :
 
-1° Le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ou son représentant ;
+1° Le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense ou son représentant ;
 
 2° Le chef d'état-major des armées ou son représentant ;
 

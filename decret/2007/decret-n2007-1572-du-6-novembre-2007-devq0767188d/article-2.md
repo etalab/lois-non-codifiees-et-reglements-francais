@@ -4,7 +4,7 @@ Outre des agents affectés à l'Autorité de sûreté nucléaire ou mis à sa di
 
 a) Des membres de corps d'inspection et de contrôle, désignés après accord du chef de corps ou du directeur des services auxquels ils sont rattachés ;
 
-b) Des agents placés sous l'autorité du délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense ;
+b) Des agents placés sous l'autorité du délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense ;
 
 c) Des agents de l'institut de radioprotection et de sûreté nucléaire, désignés après accord du directeur général de l'établissement public ;
 

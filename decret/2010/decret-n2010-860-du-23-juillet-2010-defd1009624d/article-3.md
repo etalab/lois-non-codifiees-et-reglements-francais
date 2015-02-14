@@ -20,7 +20,7 @@ II. - Sont destinataires des informations et des données à caractère personne
 
 8° Les agents habilités du département de suivi des centres d'expérimentations nucléaires, dans le cadre du recueil des informations à caractère nucléaire pour les données mentionnées aux a, b, c, d, g, h, j, k, l, m, n et o du 1° de l'article 2 ;
 
-9° Les agents habilités des services du délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense, dans le cadre du recueil des données à caractère nucléaire pour les données mentionnées aux a, b, c, d, g, h, j, k, l, m, n et o du 1° de l'article 2 ;
+9° Les agents habilités des services du délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense, dans le cadre du recueil des données à caractère nucléaire pour les données mentionnées aux a, b, c, d, g, h, j, k, l, m, n et o du 1° de l'article 2 ;
 
 10° Les agents habilités du service des archives médicales hospitalières des armées, pour le récolement des données médicales pour les données mentionnées aux a, b, c, d, g, h, j, k et m du 1° de l'article 2 ;
 
