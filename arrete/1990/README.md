@@ -371,7 +371,6 @@
 - [Arrêté du 16 février 1990 (LOGC9000024A)](arrete-du-16-fevrier-1990-logc9000024a)
 - [Arrêté du 16 février 1990 (LOGC9000025A)](arrete-du-16-fevrier-1990-logc9000025a)
 - [Arrêté du 16 février 1990 (SPSN9000383A)](arrete-du-16-fevrier-1990-spsn9000383a)
-- [Arrêté du 16 janvier 1990 (MENK9070011A)](arrete-du-16-janvier-1990-menk9070011a)
 - [Arrêté du 16 janvier 1990 (PRME9061065A)](arrete-du-16-janvier-1990-prme9061065a)
 - [Arrêté du 16 janvier 1990 (SPSP9000215A)](arrete-du-16-janvier-1990-spsp9000215a)
 - [Arrêté du 16 juillet 1990 (AGRG9001602A)](arrete-du-16-juillet-1990-agrg9001602a)

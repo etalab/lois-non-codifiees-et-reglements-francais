@@ -881,6 +881,23 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Asparaginase issue d'une souche génétiquement modifiée de Bacillus subtilis (CK) porteuse du gène codant une asparaginase de Pyrococcus furiosus.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Produits céréaliers (à l'exception du pain de tradition française) y compris les céréales pour petit déjeuner, produits frits à base de pommes de terre, extraits de levure. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Utilisation pour la préparation d'aliments contenant de la L-asparaginase et des hydrates de carbone, cuits à des températures supérieures à 120° C afin de diminuer les niveaux de L-asparagine (principal précurseur de la formation d'acrylamide). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Aspartyl protéase d'Aspergillus oryzae (n° IF 04 177/777) contenant le gène codant pour la protéase de Rhizomucor mieihei.</p>
 </td>
 <td align="left" valign="top">
@@ -967,6 +984,23 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Bêta galactosidase BbgIV issue d'une souche génétiquement modifiée d'Escherichia coli (BgIA MCB3) porteuse du gène codant une bêta galactosidase BbgIV de Bifidobactérium bifidum.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Galacto-oligosaccharides.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513).</p>
 </td>
 <td align="left" valign="top">
@@ -1019,7 +1053,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Beta galactosidase issue d'une souche non génétiquement modifiée de Kluyveromyces lactis (XJ).</p>
+<p align="left">Bêta galactosidase issue d'une souche non génétiquement modifiée de Kluyveromyces lactis (XJ).</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Enzymes. </p>
@@ -1343,11 +1377,10 @@
 <p align="left">Enzymes. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Brasserie. Industrie de l'alcool. <br/>
-<br/>Amidonnerie, production de sirop de glucose. <br/>
-<br/>Panification (à l'exception du pain de tradition française) et panification spéciale. <br/>
-<br/>Biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
-<br/>
+<p align="left">Brasserie. Industrie de l'alcool. </p>
+<p>Amidonnerie, production de sirop de glucose. </p>
+<p>Panification (à l'exception du pain de tradition française) et panification spéciale. </p>
+<p>Biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Hydrolyse de la cellulose. </p>
@@ -1408,6 +1441,25 @@
 <td align="left" valign="top">
 <p align="left">Teneur techniquement inévitable. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Cellulase issue d'une souche de Trichoderma reesei autoclonée (E2DD2).</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Amidonnerie, production de sirop de glucose. <br/>
+<br/>Brasserie. <br/>
+<br/>Industrie de l'alcool potable. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse de la cellulose. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
 </td>
 </tr>
 <tr>
@@ -1610,6 +1662,24 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Endo-bêta-glucanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF 624B-1) porteuse du gène codant une bêta glucanase de Bacillus subtilis. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Brasserie. <br/>
+<br/>Industrie de l'alcool potable. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">Endo-bêta-glucanase issue d'une souche non génétiquement modifiée de Geosmithia emersonii (BWW1016.2).<br/>
 </p>
 </td>
@@ -1620,7 +1690,6 @@
 <p align="left">Brasserie. </p>
 <p align="left">Industrie de l'alcool.</p>
 <p align="left">Amidonnerie, production de sirop de glucose.</p>
-<br/>
 </td>
 <td align="left" valign="top">
 <p align="left">Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.<br/>
@@ -4191,6 +4260,40 @@
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Xylanase issue d'une souche génétiquement modifiée de Bacillus licheniformis (CE) porteuse d'un gène codant une xylanase de de Bacillus licheniformis. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des hémicelluloses.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Xylanase issue d'une souche génétiquement modifiée de Bacillus subtilis (CF307) autoclonée. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Enzymes.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Hydrolyse des liaisons osidiques des hémicelluloses. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">Xylanase issue d'une souche génétiquement modifiée de Trichoderma logibrachiatum (CBS-114044) porteuse du gène muté codant une xylanase de Thermopolyspora flexuosa (synonyme antérieur de Nonomuraea flexuosa).<br/>
 </p>
 </td>
@@ -4219,8 +4322,8 @@
 </td>
 <td align="left" valign="top">
 <p align="left">Brasserie. </p>
-<p>Industrie de l'alcool. </p>
-<p>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
+<p align="left">Industrie de l'alcool. </p>
+<p align="left">Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Hydrolyse des liaisons osidiques des hémicelluloses. </p>

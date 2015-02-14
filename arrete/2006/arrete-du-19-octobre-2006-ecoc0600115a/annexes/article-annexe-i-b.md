@@ -1530,1085 +1530,1083 @@ Auxiliaires technologiques autorisés jusqu'au 30 juin 2015
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Formol (solution aqueuse de formaldéhyde à 30 %).</p>
+<p align="left">Gaz rares non radioactifs.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers (activation des terres).</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Formaldéhyde ≤ 400 g/t de betteraves.</p>
+<p align="left">Fractionnement.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="152">
-<p>Gaz rares non radioactifs.</p>
-</td>
-<td valign="top" width="122">
-<p>Divers (activation des terres).</p>
-</td>
-<td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
-</td>
-<td valign="top" width="174">
-<p>Fractionnement.</p>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
-</td>
-<td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
-</td>
-</tr>
-<tr>
-<td>Gel de silice</td>
-<td>Agent de clarification </td>
-<td>Jus de légumes </td>
 <td>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Gel de silice</p>
 </td>
 <td>
-<p>Dose techniquement inévitable.</p>
-</td>
-</tr>
-<tr>
-<td>Gélatine alimentaire </td>
-<td>Agent de clarification </td>
-<td>Jus de légumes</td>
-<td>
-<p align="center">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Agent de clarification </p>
 </td>
 <td>
-<p>Dose techniquement inévitable.</p>
+<p align="left">Jus de légumes </p>
+</td>
+<td>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+</td>
+<td>
+<p align="left">Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Gélatine alimentaire </p>
+</td>
+<td>
+<p align="left">Agent de clarification </p>
+</td>
+<td>
+<p align="left">Jus de légumes</p>
+</td>
+<td>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+</td>
+<td>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Gibbérellines issues de cultures de Fusarium moniliformis ou Giberella fugikuroï.</p>
+<p align="left">Gibbérellines issues de cultures de Fusarium moniliformis ou Giberella fugikuroï.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Malt.</p>
+<p align="left">Malt.</p>
 </td>
 <td valign="top" width="174">
-<p>Cultures donnant une teneur en gibbérellines ≥ 85 % (exprimée en gibbérelline A3 ). Peuvent être additionnées de substances propres à l'alimentation. Mises en vente que dans des récipients hermétiques portant étiquette mentionnant destination pour le maltage, leur teneur en %, nature des produits ajoutés.</p>
+<p align="left">Cultures donnant une teneur en gibbérellines ≥ 85 % (exprimée en gibbérelline A3 ). Peuvent être additionnées de substances propres à l'alimentation. Mises en vente que dans des récipients hermétiques portant étiquette mentionnant destination pour le maltage, leur teneur en %, nature des produits ajoutés.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Glutaraldéhyde (en solution aqueuse titrant au maximum 50 % de glutaraldéhyde).</p>
+<p align="left">Glutaraldéhyde (en solution aqueuse titrant au maximum 50 % de glutaraldéhyde).</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Glutaraldéhyde ≤ 250 g/t de betteraves.</p>
+<p align="left">Glutaraldéhyde ≤ 250 g/t de betteraves.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Huiles acides de poisson.</p>
+<p align="left">Huiles acides de poisson.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Huiles acides diverses (dégras).</p>
+<p align="left">Huiles acides diverses (dégras).</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Huiles acides végétales.</p>
+<p align="left">Huiles acides végétales.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Huiles de ricin.</p>
+<p align="left">Huiles de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Huiles minérales.</p>
+<p align="left">Huiles minérales.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de démoulage.</p>
+<p align="left">Agent de démoulage.</p>
 </td>
 <td valign="top" width="114">
-<p>Produits de confiserie.</p>
+<p align="left">Produits de confiserie.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose strictement nécessaire.</p>
+<p align="left">Dose strictement nécessaire.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Huiles minérales.</p>
+<p align="left">Huiles minérales.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Hydrate d'hydrazine (en solution aqueuse à 16 %).</p>
+<p align="left">Hydrate d'hydrazine (en solution aqueuse à 16 %).</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>≤ 10 g/t de betteraves (dose exprimée en hydrazine).</p>
+<p align="left">≤ 10 g/t de betteraves (dose exprimée en hydrazine).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Hydroxyde de calcium.</p>
+<p align="left">Hydroxyde de calcium.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent d'alcalinisation.</p>
+<p align="left">Agent d'alcalinisation.</p>
 </td>
 <td valign="top" width="114">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td valign="top" width="174">
-<p>Régulation de la composition de l'eau et en particulier du pH.</p>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Régulation de la composition de l'eau et en particulier du pH.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Hydroxyde de sodium.</p>
+<p align="left">Hydroxyde de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) blanc cristallisé.</p>
+<p align="left">Sucre (mi-) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose strictement nécessaire.</p>
+<p align="left">Dose strictement nécessaire.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Hypochlorite de sodium.</p>
+<p align="left">Hypochlorite de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Boyaux d'enrobage.</p>
+<p align="left">Boyaux d'enrobage.</p>
 </td>
 <td valign="top" width="174">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Hypochlorite de sodium.</p>
+<p align="left">Hypochlorite de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Agents décolorants.</p>
+<p align="left">Agents décolorants.</p>
 </td>
 <td valign="top" width="114">
-<p>Noix.</p>
+<p align="left">Noix.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le traitement (blanchiment) des coques.</p>
+<p align="left">Pour le traitement (blanchiment) des coques.</p>
 </td>
 <td valign="top" width="118">
-<p>Aucune dose résiduelle dans l'amande.</p>
+<p align="left">Aucune dose résiduelle dans l'amande.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Isobutanol (ou 2-butanol).</p>
+<p align="left">Isobutanol (ou 2-butanol).</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Diluant pour introduire des amorces en cristallisation.</p>
+<p align="left">Diluant pour introduire des amorces en cristallisation.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Isopropanol (ou 2-propanol).</p>
+<p align="left">Isopropanol (ou 2-propanol).</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Diluant pour introduire des amorces en cristallisation.</p>
+<p align="left">Diluant pour introduire des amorces en cristallisation.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Kaolin.</p>
+<p align="left">Kaolin.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de clarification.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td valign="top" width="114">
-<p>Cidres et poirés.</p>
+<p align="left">Cidres et poirés.</p>
 </td>
 <td valign="top" width="174">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Lauryl sulfate de sodium.</p>
+<p align="left">Lauryl sulfate de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers (activation des terres).</p>
+<p align="left">Divers (activation des terres).</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Fractionnement.</p>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Fractionnement.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>40 mg/kg.</p>
+<p align="left">40 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Manganèse.</p>
+<p align="left">Manganèse.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Hydrogénation.</p>
+<p align="left">Hydrogénation.</p>
 </td>
 <td valign="top" width="118">
-<p>0,05 mg/kg.</p>
+<p align="left">0,05 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Métabisulfite de sodium.</p>
+<p align="left">Métabisulfite de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Boyaux d'enrobage.</p>
+<p align="left">Boyaux d'enrobage.</p>
 </td>
 <td valign="top" width="174">
-<p>Traitement des boyaux servant d'enveloppe aux produits de charcuterie.</p>
+<p align="left">Traitement des boyaux servant d'enveloppe aux produits de charcuterie.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneur résiduelle exprimée en SO<sub>2</sub>&lt;10 mg/kg de boyau.</p>
+<p align="left">Teneur résiduelle exprimée en SO<sub>2</sub>&lt;10 mg/kg de boyau.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Méthylate de sodium.</p>
+<p align="left">Méthylate de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Interestérification.</p>
+<p align="left">Interestérification.</p>
 </td>
 <td valign="top" width="118">
-<p>50 mg/kg.</p>
+<p align="left">50 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Molybdène.</p>
+<p align="left">Molybdène.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Hydrogénation.</p>
+<p align="left">Hydrogénation.</p>
 </td>
 <td valign="top" width="118">
-<p>0,05 mg/kg.</p>
+<p align="left">0,05 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Monensine (sel sodique de polyéther de l'acide mono- carboxylique de formule C<sub>36</sub>H<sub>61</sub>O<sub>11</sub>Na) produit par Streptomyces cinnamonensis.</p>
+<p align="left">Monensine (sel sodique de polyéther de l'acide mono- carboxylique de formule C<sub>36</sub>H<sub>61</sub>O<sub>11</sub>Na) produit par Streptomyces cinnamonensis.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Alcool éthylique d'origine agricole.</p>
+<p align="left">Alcool éthylique d'origine agricole.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose max. = 0,5 mg/kg.</p>
-<p>Autorisé dans les fermentations destinées à la production d'alcool éthylique. L'utilisation ne doit être qu'intermittente et de courte durée, et doit se limiter aux cas où la flore bactérienne est &gt; 10<sup>5</sup> germes/ml.</p>
+<p align="left">Dose max. = 0,5 mg/kg.</p>
+<p align="left">Autorisé dans les fermentations destinées à la production d'alcool éthylique. L'utilisation ne doit être qu'intermittente et de courte durée, et doit se limiter aux cas où la flore bactérienne est &gt; 10<sup>5</sup> germes/ml.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Monensine (sel sodique de polyéther de l'acide mono- carboxylique de formule C<sub>36</sub>H<sub>61</sub>O<sub>11</sub>Na) produit par Streptomyces cinnamonensis.</p>
+<p align="left">Monensine (sel sodique de polyéther de l'acide mono- carboxylique de formule C<sub>36</sub>H<sub>61</sub>O<sub>11</sub>Na) produit par Streptomyces cinnamonensis.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>A la dose maximale de 1 mg.kg<sup>-1</sup>, incorporée en phase de diffusion.</p>
+<p align="left">A la dose maximale de 1 mg.kg<sup>-1</sup>, incorporée en phase de diffusion.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Mono et diglycérides d'acides gras.</p>
+<p align="left">Mono et diglycérides d'acides gras.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose strictement nécessaire.</p>
-</td>
-<td valign="top" width="118"/>
-</tr>
-<tr>
-<td valign="top" width="152">
-<p>Monoéthanolamine diluée.</p>
-</td>
-<td valign="top" width="122">
-<p>Agent d'épluchage.</p>
-</td>
-<td valign="top" width="114">
-<p>Fruits et légumes destinés à la conserve et à la congélation.</p>
-</td>
-<td valign="top" width="174">
-<p>Bain à 8 % au maximum, température ≤ 95 <sup>o</sup>C, immersion 10 min au maximum. Rinçage à l'eau potable.</p>
+<p align="left">Dose strictement nécessaire.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Monolaurate de sorbitane polyoxyéthyléné.</p>
+<p align="left">Monoéthanolamine diluée.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent d'épluchage.</p>
+<p align="left">Agent d'épluchage.</p>
 </td>
 <td valign="top" width="114">
-<p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
+<p align="left">Fruits et légumes destinés à la conserve et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>1,2 % au maximum dans le bain. Rinçage à l'eau potable.</p>
+<p align="left">Bain à 8 % au maximum, température ≤ 95 <sup>o</sup>C, immersion 10 min au maximum. Rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>100 mg/kg de produit fini au maximum, exprimé en monoéthanolamine.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Mono-oléate de sorbitane.</p>
+<p align="left">Monolaurate de sorbitane polyoxyéthyléné.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Agent d'épluchage.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">1,2 % au maximum dans le bain. Rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">100 mg/kg de produit fini au maximum, exprimé en monoéthanolamine.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>N, N'-éthylène bis-stéaramide.</p>
+<p align="left">Mono-oléate de sorbitane.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>N-diméthyldithiocarbamate de sodium.</p>
+<p align="left">N, N'-éthylène bis-stéaramide.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>≤ 25 g/tonne de betteraves (dose exprimée en substance active) addition possible de 1,8,3,6-di­ endomé-thylène 1,3,6,8-tétraazo­ tricyclododécane, éthylène-diamine, cyano-dithio-imidocarbonate de sodium, sulfites et carbonate de sodium.</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Nickel.</p>
+<p align="left">N-diméthyldithiocarbamate de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Hydrogénation.</p>
+<p align="left">≤ 25 g/tonne de betteraves (dose exprimée en substance active) addition possible de 1,8,3,6-di­ endomé-thylène 1,3,6,8-tétraazo­ tricyclododécane, éthylène-diamine, cyano-dithio-imidocarbonate de sodium, sulfites et carbonate de sodium.</p>
 </td>
 <td valign="top" width="118">
-<p>0,2 mg/kg.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>N-méthyldithiocarbamate de sodium et de potassium.</p>
+<p align="left">Nickel.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>≤ 25 g/tonne de betteraves (dose exprimée en substance active) addition possible de 1,8,3,6-di­ endomé-thylène 1,3,6,8-tétraazo­ tricyclododécane, éthylène-diamine, cyano-dithio-imidocarbonate de sodium, sulfites et carbonate de sodium.</p>
+<p align="left">Hydrogénation.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">0,2 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>N-N'-éthylène bis-dithiocarbamate de sodium.</p>
+<p align="left">N-méthyldithiocarbamate de sodium et de potassium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>≤ 25 g/tonne de betteraves (dose exprimée en substance active) addition possible de 1,8,3,6-di­ endomé-thylène 1,3,6,8-tétraazo­ tricyclododécane, éthylène-diamine, cyano-dithio-imidocarbonate de sodium, sulfites et carbonate de sodium.</p>
+<p align="left">≤ 25 g/tonne de betteraves (dose exprimée en substance active) addition possible de 1,8,3,6-di­ endomé-thylène 1,3,6,8-tétraazo­ tricyclododécane, éthylène-diamine, cyano-dithio-imidocarbonate de sodium, sulfites et carbonate de sodium.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Noir animal.</p>
+<p align="left">N-N'-éthylène bis-dithiocarbamate de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de décoloration.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Beurre de cacao.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Raffinage : démucilation par centrifugeuse, neutralisation, décoloration par barattage, désodorisation sous vide par vapeur surchauffée.</p>
+<p align="left">≤ 25 g/tonne de betteraves (dose exprimée en substance active) addition possible de 1,8,3,6-di­ endomé-thylène 1,3,6,8-tétraazo­ tricyclododécane, éthylène-diamine, cyano-dithio-imidocarbonate de sodium, sulfites et carbonate de sodium.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Orthophosphate diammonique, solution aqueuse.</p>
+<p align="left">Noir animal.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent d'épluchage.</p>
+<p align="left">Agent de décoloration.</p>
 </td>
 <td valign="top" width="114">
-<p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
+<p align="left">Beurre de cacao.</p>
 </td>
 <td valign="top" width="174">
-<p>Bain à 5 % au maximum, température ≤ 90 <sup>o</sup>C, immersion 10 min au maximum. Rinçage à l'eau potable.</p>
+<p align="left">Raffinage : démucilation par centrifugeuse, neutralisation, décoloration par barattage, désodorisation sous vide par vapeur surchauffée.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Ovalbumine.</p>
+<p align="left">Orthophosphate diammonique, solution aqueuse.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de clarification.</p>
+<p align="left">Agent d'épluchage.</p>
 </td>
 <td valign="top" width="114">
-<p>Hydromels.</p>
+<p align="left">Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Collage.</p>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Bain à 5 % au maximum, température ≤ 90 <sup>o</sup>C, immersion 10 min au maximum. Rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène et d'oxyde de (copolymères d') propylène condensés sur l'huile de ricin.</p>
+<p align="left">Ovalbumine.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousses.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Hydromels.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Collage.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde de calcium.</p>
+<p align="left">Oxyde d'éthylène et d'oxyde de (copolymères d') propylène condensés sur l'huile de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Antimousses.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose strictement nécessaire.</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde de propylène condensé sur le polypropylène glycol.</p>
+<p align="left">Oxyde de calcium.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Flageolets destinés à la conserverie et à la congélation.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Dose strictement nécessaire.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde de propylène condensé sur le polypropylène glycol.</p>
+<p align="left">Oxyde de propylène condensé sur le polypropylène glycol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Petits pois destinés à la conserverie et à la congélation.</p>
+<p align="left">Flageolets destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange) 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur l'éthylène diamine.</p>
+<p align="left">Oxyde de propylène condensé sur le polypropylène glycol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Petits pois destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange) 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le sorbitol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur l'éthylène diamine.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le butanol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le sorbitol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur les alcools gras C<sub>8</sub> à C<sub>18</sub>.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le butanol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le glycérol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur les alcools gras C<sub>8</sub> à C<sub>18</sub>.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le pentaérythritol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le glycérol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le triméthylolpropane.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le pentaérythritol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le glucose.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le triméthylolpropane.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le fructose.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le glucose.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') condensés sur le saccharose.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le fructose.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le butanol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') condensés sur le saccharose.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur les alcools gras C<sub>8</sub> à C<sub>18</sub>.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le butanol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le glycérol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur les alcools gras C<sub>8</sub> à C<sub>18</sub>.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur l'éthylène diamine.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le glycérol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le sorbitol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur l'éthylène diamine.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le pentaérythritol.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le sorbitol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le fructose.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le pentaérythritol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur l'huile de ricin.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le fructose.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le triméthylolpropane.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur l'huile de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le glucose.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le triméthylolpropane.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le saccharose.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le glucose.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur le saccharose.</p>
+</td>
+<td valign="top" width="122">
+<p align="left">Antimousse.</p>
+</td>
+<td valign="top" width="114">
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
+</td>
+<td valign="top" width="174">
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+</td>
+<td valign="top" width="118">
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -2634,891 +2632,894 @@ Auxiliaires technologiques autorisés jusqu'au 30 juin 2015
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur l'huile de ricin.</p>
+<p align="left">Oxyde d'éthylène/de propylène (copolymères d') estérifiés et condensés sur l'huile de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène condensé sur le polypropylène glycol.</p>
+<p align="left">Oxyde d'éthylène condensé sur le polypropylène glycol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Flageolets destinés à la conserverie et à la congélation.</p>
+<p align="left">Flageolets destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Oxyde d'éthylène condensé sur le polypropylène glycol.</p>
+<p align="left">Oxyde d'éthylène condensé sur le polypropylène glycol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Petits pois destinés à la conserverie et à la congélation.</p>
+<p align="left">Petits pois destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Palladium.</p>
+<p align="left">Palladium.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Hydrogénation.</p>
+<p align="left">Hydrogénation.</p>
 </td>
 <td valign="top" width="118">
-<p>0,2 mg/kg.</p>
+<p align="left">0,2 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Phosphate bicalcique.</p>
+<p align="left">Phosphate bicalcique.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Hydromels.</p>
+<p align="left">Hydromels.</p>
 </td>
 <td valign="top" width="174">
-<p>Favoriser la fermentation. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Favoriser la fermentation. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Phosphate d'ammoniaque.</p>
+<p align="left">Phosphate d'ammoniaque.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Hydromels.</p>
+<p align="left">Hydromels.</p>
 </td>
 <td valign="top" width="174">
-<p>Favoriser la fermentation. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Favoriser la fermentation. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Phosphate diammonique.</p>
+<p align="left">Phosphate diammonique.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Cidres et poirés.</p>
+<p align="left">Cidres et poirés.</p>
 </td>
 <td valign="top" width="174">
-<p>Dans les moûts pour favoriser la fermentation 0,3 g/l.</p>
+<p align="left">Dans les moûts pour favoriser la fermentation 0,3 g/l.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Platine.</p>
+<p align="left">Platine.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Hydrogénation.</p>
+<p align="left">Hydrogénation.</p>
 </td>
 <td valign="top" width="118">
-<p>0,2 mg/kg.</p>
+<p align="left">0,2 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polycondensat d'épichlorhydrine et de diméthylamine.</p>
+<p align="left">Polycondensat d'épichlorhydrine et de diméthylamine.</p>
 </td>
 <td valign="top" width="122">
-<p>Floculant et coagulant.</p>
+<p align="left">Floculant et coagulant.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>≤ 3,75 g/m<sup>3</sup> de jus sucré.</p>
+<p align="left">≤ 3,75 g/m<sup>3</sup> de jus sucré.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols (PM compris entre 200 et 9500).</p>
+<p align="left">Polyéthylène glycols (PM compris entre 200 et 9500).</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols condensés sur le glycérol.</p>
+<p align="left">Polyéthylène glycols condensés sur le glycérol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols condensés sur l'huile de ricin.</p>
+<p align="left">Polyéthylène glycols condensés sur l'huile de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés et condensés sur les acides gras alimentaires.</p>
+<p align="left">Polyéthylène glycols estérifiés et condensés sur les acides gras alimentaires.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1% de l'antimousse) silice, hexylène glycol (≤ 1,5%), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1% de l'antimousse) silice, hexylène glycol (≤ 1,5%), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés et condensés sur les acides gras du tall-oil.</p>
+<p align="left">Polyéthylène glycols estérifiés et condensés sur les acides gras du tall-oil.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés et condensés sur les acides gras du tall-oil.</p>
+<p align="left">Polyéthylène glycols estérifiés et condensés sur les acides gras du tall-oil.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés et condensés sur les huiles acides.</p>
+<p align="left">Polyéthylène glycols estérifiés et condensés sur les huiles acides.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés et condensés sur l'huile de ricin.</p>
+<p align="left">Polyéthylène glycols estérifiés et condensés sur l'huile de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés par les acides gras alimentaires.</p>
+<p align="left">Polyéthylène glycols estérifiés par les acides gras alimentaires.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés par les acides gras du tall-oil.</p>
+<p align="left">Polyéthylène glycols estérifiés par les acides gras du tall-oil.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés par les huiles acides.</p>
+<p align="left">Polyéthylène glycols estérifiés par les huiles acides.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyéthylène glycols estérifiés par l'huile de ricin.</p>
+<p align="left">Polyéthylène glycols estérifiés par l'huile de ricin.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi-) bIanc cristallisé.</p>
+<p align="left">Sucre (mi-) bIanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5%), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polymères de l'acide acrylique ou de l'acrylate de sodium.</p>
+<p align="left">Polymères de l'acide acrylique ou de l'acrylate de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Antitartre.</p>
+<p align="left">Antitartre.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>≤ 10 g/m<sup>3</sup> de jus sucré.</p>
+<p align="left">≤ 10 g/m<sup>3</sup> de jus sucré.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneur résiduelle ≤ 1 mg/kg de sucre.</p>
+<p align="left">Teneur résiduelle ≤ 1 mg/kg de sucre.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polypropylène glycol estérifié par un acide gras alimentaire.</p>
+<p align="left">Polypropylène glycol estérifié par un acide gras alimentaire.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Flageolets destinés à la conserverie et à la congélation.</p>
+<p align="left">Flageolets destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polypropylène glycol estérifié par un acide gras alimentaire.</p>
+<p align="left">Polypropylène glycol estérifié par un acide gras alimentaire.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Petits pois destinés à la conserverie et à la congélation.</p>
+<p align="left">Petits pois destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polypropylène glycols (PM compris entre 1200 et 2500).</p>
+<p align="left">Polypropylène glycols (PM compris entre 1200 et 2500).</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl­ phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polypropylène glycols condensés sur le glycérol.</p>
+<p align="left">Polypropylène glycols condensés sur le glycérol.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol ( ≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol ( ≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polysorbates 60, 65 et 80.</p>
+<p align="left">Polysorbates 60, 65 et 80.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Polyvinylpolypyrolidone (PVPP).</p>
+<p align="left">Polyvinylpolypyrolidone (PVPP).</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de clarification.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td valign="top" width="114">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td valign="top" width="174">
-<p>Obtenu par polymérisation sans adjuvant ou solvant organique. Le solvant utilisé est composé d'acide acétique à 3 % d'éthanol et de picoline dans un rapport 95/5/0,24. Taux de matières extractibles &lt; 50 ppm. Cendres totales de la fraction solubilisée &lt; 5 %. Dose max. d'utilisation = 50 g/hl.</p>
+<p align="left">Obtenu par polymérisation sans adjuvant ou solvant organique. Le solvant utilisé est composé d'acide acétique à 3 % d'éthanol et de picoline dans un rapport 95/5/0,24. Taux de matières extractibles &lt; 50 ppm. Cendres totales de la fraction solubilisée &lt; 5 %. Dose max. d'utilisation = 50 g/hl.</p>
 </td>
 <td valign="top" width="118">
-<p>≤ 1 mg/l au moment de la commercialisation.</p>
+<p align="left">≤ 1 mg/l au moment de la commercialisation.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Résine anionique polystyrénique dont la réticulation est assurée par du divinylbenzène fortement basique avec des groupements triméthylammonium fixés sur les noyaux benzéniques des styrènes.</p>
+<p align="left">Résine anionique polystyrénique dont la réticulation est assurée par du divinylbenzène fortement basique avec des groupements triméthylammonium fixés sur les noyaux benzéniques des styrènes.</p>
 </td>
 <td valign="top" width="122">
-<p>Résines échangeuses d'ions.</p>
+<p align="left">Résines échangeuses d'ions.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre.</p>
+<p align="left">Sucre.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose strictement nécessaire.</p>
+<p align="left">Dose strictement nécessaire.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Résine anionique polystyrénique réticulée, chlorométhylée puis aminée par de la diméthylamine, triméthylamine, diéthylène-triamine, ou diméthyléthanolamine.</p>
+<p align="left">Résine anionique polystyrénique réticulée, chlorométhylée puis aminée par de la diméthylamine, triméthylamine, diéthylène-triamine, ou diméthyléthanolamine.</p>
 </td>
 <td valign="top" width="122">
-<p>Résines échangeuses d'ions.</p>
+<p align="left">Résines échangeuses d'ions.</p>
 </td>
 <td valign="top" width="114">
-<p>Lactose hydrolysé.</p>
+<p align="left">Lactose hydrolysé.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour l'obtention de lactose hydrolysé.</p>
+<p align="left">Pour l'obtention de lactose hydrolysé.</p>
 </td>
 <td valign="top" width="118">
-<p>Résidus des constituants de la résine ≤ 1 mg/l de lactose hydrolysé.</p>
+<p align="left">Résidus des constituants de la résine ≤ 1 mg/l de lactose hydrolysé.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Résine cationique copolymère sulfoné de styrène et de divinyl benzène.</p>
+<p align="left">Résine cationique copolymère sulfoné de styrène et de divinyl benzène.</p>
 </td>
 <td valign="top" width="122">
-<p>Résines échangeuses d'ions.</p>
+<p align="left">Résines échangeuses d'ions.</p>
 </td>
 <td valign="top" width="114">
-<p>Lactose hydrolysé.</p>
+<p align="left">Lactose hydrolysé.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour l'obtention de lactose hydrolysé. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Pour l'obtention de lactose hydrolysé. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Résidus des constituants de la résine ≤ 1 mg/l de lactose hydrolysé.</p>
+<p align="left">Résidus des constituants de la résine ≤ 1 mg/l de lactose hydrolysé.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Résines anioniques fortement basiques (résine polystyrénique dont la réticulation est assurée par du divinylbenzène fortement basique avec des groupements ammonium quaternaires).</p>
+<p align="left">Résines anioniques fortement basiques (résine polystyrénique dont la réticulation est assurée par du divinylbenzène fortement basique avec des groupements ammonium quaternaires).</p>
 </td>
 <td valign="top" width="122">
-<p>Résines échangeuses d'ions.</p>
+<p align="left">Résines échangeuses d'ions.</p>
 </td>
 <td valign="top" width="114">
-<p>Spiritueux.</p>
+<p align="left">Spiritueux.</p>
 </td>
 <td valign="top" width="174">
-<p>A l'exception des eaux de vie AOC.</p>
+<p align="left">A l'exception des eaux de vie AOC.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneur résiduelle maximale en constituants de la résine = 1 mg/l.</p>
+<p align="left">Teneur résiduelle maximale en constituants de la résine = 1 mg/l.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Résines cationiques autorisées pour le traitement des eaux.</p>
+<p align="left">Résines cationiques autorisées pour le traitement des eaux.</p>
 </td>
 <td valign="top" width="122">
-<p>Résines échangeuses d'ions.</p>
+<p align="left">Résines échangeuses d'ions.</p>
 </td>
 <td valign="top" width="114">
-<p>Spiritueux.</p>
+<p align="left">Spiritueux.</p>
 </td>
 <td valign="top" width="174">
-<p>A l'exception des eaux de vie AOC.</p>
+<p align="left">A l'exception des eaux de vie AOC.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneur résiduelle maximale en constituants de la résine = 1 mg/l.</p>
+<p align="left">Teneur résiduelle maximale en constituants de la résine = 1 mg/l.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Silicates de sodium.</p>
+<p align="left">Silicates de sodium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Raffinage.</p>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Raffinage.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Doses résiduelles maximales :</p>
-<p>Savons ≤ 50 mg/kg ;</p>
-<p>Eau ≤ 2 000 mg/kg ;</p>
-<p>Matières insolubles dans l'éther de pétrole ≤ 500 mg/kg ;</p>
-<p>Eau ≤ 2 000 mg/kg ;</p>
-<p>Solvants ≤ 50 mg/kg.</p>
+<p align="left">Doses résiduelles maximales :</p>
+<p align="left">Savons ≤ 50 mg/kg ;</p>
+<p align="left">Eau ≤ 2 000 mg/kg ;</p>
+<p align="left">Matières insolubles dans l'éther de pétrole ≤ 500 mg/kg ;</p>
+<p align="left">Eau ≤ 2 000 mg/kg ;</p>
+<p align="left">Solvants ≤ 50 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sodium métal.</p>
+<p align="left">Sodium métal.</p>
 </td>
 <td valign="top" width="122">
-<p>Catalyseur.</p>
+<p align="left">Catalyseur.</p>
 </td>
 <td valign="top" width="114">
-<p>Graisses et huiles alimentaires (sauf beurre).</p>
+<p align="left">Graisses et huiles alimentaires (sauf beurre).</p>
 </td>
 <td valign="top" width="174">
-<p>Interestérification.</p>
+<p align="left">Interestérification.</p>
 </td>
 <td valign="top" width="118">
-<p>50 mg/kg.</p>
+<p align="left">50 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Soude en mélange avec bipolyphosphate de sodium, carbonate de sodium, additionnées ou non de dodécylbenzène sulfonate de sodium et d'huile de vaseline.</p>
+<p align="left">Soude en mélange avec bipolyphosphate de sodium, carbonate de sodium, additionnées ou non de dodécylbenzène sulfonate de sodium et d'huile de vaseline.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent d'épluchage.</p>
+<p align="left">Agent d'épluchage.</p>
 </td>
 <td valign="top" width="114">
-<p>Tubercules, racines et fruits frais.</p>
+<p align="left">Tubercules, racines et fruits frais.</p>
 </td>
 <td valign="top" width="174">
-<p>5 % de dodécylbenzène sulfonate de sodium au maximum, 5 % d'huile de vaseline au maximum, mélange d'adjuvant incorporé au bain de soude à 10 g/l au maximum.</p>
+<p align="left">5 % de dodécylbenzène sulfonate de sodium au maximum, 5 % d'huile de vaseline au maximum, mélange d'adjuvant incorporé au bain de soude à 10 g/l au maximum.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneur résiduelle du mélange sur les produits traités &lt; 5 mg/kg, exprimés en tripolyphosphates.</p>
+<p align="left">Teneur résiduelle du mélange sur les produits traités &lt; 5 mg/kg, exprimés en tripolyphosphates.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Stéarate de sorbitol oxyéthyléné.</p>
+<p align="left">Stéarate de sorbitol oxyéthyléné.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Flageolets destinés à la conserverie et à la congélation.</p>
+<p align="left">Flageolets destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Stéarate de sorbitol oxyéthyléné.</p>
+<p align="left">Stéarate de sorbitol oxyéthyléné.</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Petits pois destinés à la conserverie et à la congélation.</p>
+<p align="left">Petits pois destinés à la conserverie et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
+<p align="left">Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
+<p align="left">Teneurs résiduelles (seules ou en mélange) &lt; 5 mg/kg dans le produit fini.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Substances autorisées par la réglementation en vigueur pour le traitement des eaux.</p>
+<p align="left">Substances autorisées par la réglementation en vigueur pour le traitement des eaux.</p>
 </td>
 <td valign="top" width="122">
-<p>Résines échangeuses d'ions.</p>
+<p align="left">Résines échangeuses d'ions.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Dose strictement nécessaire.</p>
+<p align="left">Dose strictement nécessaire.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sucroglycérides (E 474).</p>
+<p align="left">Sucroglycérides (E 474).</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Suintine (graisse de laine).</p>
+<p align="left">Suintine (graisse de laine).</p>
 </td>
 <td valign="top" width="122">
-<p>Antimousse.</p>
+<p align="left">Antimousse.</p>
 </td>
 <td valign="top" width="114">
-<p>Sucre (mi -) blanc cristallisé.</p>
+<p align="left">Sucre (mi -) blanc cristallisé.</p>
 </td>
 <td valign="top" width="174">
-<p>Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
+<p align="left">Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide mono stéarylphosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %).</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sulfate d'ammonium.</p>
+<p align="left">Sulfate d'ammonium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Cidres et poirés.</p>
+<p align="left">Cidres et poirés.</p>
 </td>
 <td valign="top" width="174">
-<p>Dans les moûts pour favoriser la fermentation. 0,3 g/I.</p>
+<p align="left">Dans les moûts pour favoriser la fermentation. 0,3 g/I.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sulfate de calcium.</p>
+<p align="left">Sulfate de calcium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td valign="top" width="174">
-<p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sulfate de magnésium.</p>
+<p align="left">Sulfate de magnésium.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td valign="top" width="174">
-<p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sulfate de zinc.</p>
+<p align="left">Sulfate de zinc.</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td valign="top" width="174">
-<p>Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Régulation de la composition de l'eau et en particulier du pH. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sulfates d'alcool gras.</p>
+<p align="left">Sulfates d'alcool gras.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent d'épluchage.</p>
+<p align="left">Agent d'épluchage.</p>
 </td>
 <td valign="top" width="114">
-<p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
+<p align="left">Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>1,2 % au maximum dans le bain. Rinçage à l'eau potable.</p>
+<p align="left">1,2 % au maximum dans le bain. Rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>100 mg/kg de produit fini au max., exprimé e n monoéthanolamine.</p>
+<p align="left">100 mg/kg de produit fini au max., exprimé e n monoéthanolamine.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Sulfites (E221 à E224, E226 à E 228).</p>
+<p align="left">Sulfites (E221 à E224, E226 à E 228).</p>
 </td>
 <td valign="top" width="122">
-<p>Divers.</p>
+<p align="left">Divers.</p>
 </td>
 <td valign="top" width="114">
-<p>Boyaux d'enrobage.</p>
+<p align="left">Boyaux d'enrobage.</p>
 </td>
 <td valign="top" width="174">
-<p>Pour les vessies et boyaux destinés à être séchés.</p>
+<p align="left">Pour les vessies et boyaux destinés à être séchés.</p>
 </td>
 <td valign="top" width="118">
-<p>&lt; 10 mg/kg.</p>
+<p align="left">&lt; 10 mg/kg.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Tanins.</p>
+<p align="left">Tanins.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de clarification.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td valign="top" width="114">
-<p>Bières.</p>
+<p align="left">Bières.</p>
 </td>
 <td valign="top" width="174">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Tanins.</p>
+<p align="left">Tanins.</p>
 </td>
 <td>
-<p>Agent de clarification.</p>
-</td>
-<td>Jus de légumes </td>
-<td>
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td>
-<p>Dose techniquement inévitable.</p>
+<p align="left">Jus de légumes </p>
+</td>
+<td>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+</td>
+<td>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Tanins.</p>
+<p align="left">Tanins.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de clarification.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td valign="top" width="114">
-<p>Cidres et poirés.</p>
+<p align="left">Cidres et poirés.</p>
 </td>
 <td valign="top" width="174">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Tanins.</p>
+<p align="left">Tanins.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent de clarification.</p>
+<p align="left">Agent de clarification.</p>
 </td>
 <td valign="top" width="114">
-<p>Hydromels.</p>
+<p align="left">Hydromels.</p>
 </td>
 <td valign="top" width="174">
-<p>Collage. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
+<p align="left">Collage. A la dose strictement nécessaire pour obtenir l'effet recherché.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="152">
-<p>Urée diluée.</p>
+<p align="left">Urée diluée.</p>
 </td>
 <td valign="top" width="122">
-<p>Agent d'épluchage.</p>
+<p align="left">Agent d'épluchage.</p>
 </td>
 <td valign="top" width="114">
-<p>Légumes racines, pommes de terre et fruits destinés à la mise en conserve et à la congélation.</p>
+<p align="left">Légumes racines, pommes de terre et fruits destinés à la mise en conserve et à la congélation.</p>
 </td>
 <td valign="top" width="174">
-<p>Immersion dans un bain d'urée à 3% maximum porté à une température au plus égale à 92 °C. Cette opération doit être suivie d'un rinçage à l'eau potable.</p>
+<p align="left">Immersion dans un bain d'urée à 3% maximum porté à une température au plus égale à 92 °C. Cette opération doit être suivie d'un rinçage à l'eau potable.</p>
 </td>
 <td valign="top" width="118">
-<p>Dose techniquement inévitable.</p>
+<p align="left">Dose techniquement inévitable.</p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>

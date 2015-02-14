@@ -1327,6 +1327,24 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Mélanges de copolymères d'oxyde d'éthylène et d'oxyde de propylène condensés sur glycérol (PM &gt; 5 000 g/mol), condensés sur des acides gras du "tall oil", condensés sur l'huile de colza et les acides gras du "tall oil". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Antimousse. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pommes de terre blanchies réfrigérées ou cuites sous vide. Frites réfrigérées ou surgelées. Chips. <br/>
+<br/>Flocons déshydratés. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 0.36 kg/T de pommes de terre pour la fabrication de frites et de 0.05 kg/T de pommes de terre pour la fabrication des flocons deshydratés. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p align="left">Mélange de polystyrène et de polyvinylpyrrolidone réticulée obtenu par un procédé spécial et contenant au plus 8 mg de styrène par kg. </p>
 </td>
 <td align="left" valign="top">
@@ -1337,6 +1355,23 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </td>
 <td align="left" valign="top">
 <p align="left">50 à 150 g par hectolitre selon la turbidité des bières traitées. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Mélange de sucre et de polyéthylène glycol (PEG 300 à 9 000 daltons). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Autre auxiliaire. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sucre (mi-) blanc cristallisé. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Diluant des amorces de cristallisation à la teneur maximale de 25 g/m<sup>3</sup> de liqueur. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Teneur résiduelle techniquement inévitable. </p>
@@ -1382,7 +1417,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg. <br/>
+<p>≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg. <br/>
 </p>
 </td>
 </tr>
@@ -1428,6 +1463,23 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <td align="left" valign="top">
 <p>Dose techniquement inévitable. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Oxyde d'éthylène condensé sur les alcools gras C9 à C11. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Antimousse. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sel alimentaire minéral.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 22 mg/T de saumure extraite de mine de sel gemme avant évaporation. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle inférieure à 1 mg/kg. </p>
 </td>
 </tr>
 <tr>
@@ -1803,6 +1855,57 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Solution aqueuse de formaldéhyde à 30 %. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de décontamination des produits d'origine végétale.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Sucre cristallisé. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 120 g de formaldéhyde par tonne de betterave.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1 mg de formaldéhyde/kg de sucre.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de décontamination des produits d'origine végétale.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Petits pois et haricots verts destinés à l'appertisation.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose maximale de 500 mg d'acide peracétique/L d'eau de lavage. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de décontamination des produits d'origine végétale.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Amidon, fécule et dérivés.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Traitement du lait d'amidon à la dose maximale de 1000 g d'acide peracétique par tonne de matière sèche de produit fini amylacé. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique. <br/>
 </p>
 </td>
@@ -1831,7 +1934,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <p align="left">Agent de décontamination des produits d'origine végétale.</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Epinards blanchis destinés à la congélation</p>
+<p align="left">Epinards blanchis destinés à la congélation.</p>
 </td>
 <td align="left" valign="top">
 <p align="left">A la dose maximale de 75 mg/l d'acide peracétique d'une solution en équilibre dans les eaux de refroidissement après blanchiment. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable. </p>
