@@ -1,0 +1,15 @@
+# Article 3
+
+Les organismes ou antennes d'organisme relevant du champ de compétence du comité d'hygiène, de sécurité et des conditions de travail créé en application de l'article 1er du présent arrêté sont les suivants :
+
+- base aérienne 722 (BA 722), Saintes ;
+
+- groupement de soutien de la base de défense de Rochefort-Saintes-Cognac, antenne de Saintes ;
+
+- direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense de Bordeaux, centre interarmées des réseaux d'infrastructure et des systèmes d'information de Cognac, détachement des systèmes d'information et de communication de Saintes ;
+
+- pôle ministériel d'action sociale de Bordeaux, échelon social de proximité de Saintes ;
+
+- établissement du service d'infrastructure de la défense de Bordeaux, unité de soutien de l'infrastructure de la défense de Rochefort, antenne de Saintes ;
+
+- centre médical des armées de Rochefort, antenne médicale de Saintes.
