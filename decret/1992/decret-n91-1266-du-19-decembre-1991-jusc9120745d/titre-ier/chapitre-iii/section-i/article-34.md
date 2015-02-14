@@ -18,11 +18,11 @@ Le requérant doit joindre à cette demande :
 
 8° Lorsque l'aide juridictionnelle est demandée dans les litiges transfrontaliers en application de l'article 3-1 de la loi du 10 juillet 1991, les pièces et documents sous le couvert desquels il est autorisé à résider dans un Etat membre de l'Union européenne, ainsi qu'une justification de son domicile ou du caractère habituel de cette résidence, et le cas échéant, copie de tout contrat d'assurance ou acte relatif à un autre système de protection permettant la prise en charge des frais de procédure ;
 
-9° La justification de l'assurance de protection juridique ou du système de protection dont il a déclaré le bénéfice par la production de tout document approprié ainsi que la décision de prise en charge ou de non-prise en charge notifiée, selon le cas, par l'assureur à la suite de la déclaration de sinistre faite en application de l'article L. 113-2 du code des assurances, ou par l'employeur, précisant le montant des plafonds de garantie et de remboursement des frais, émoluments et honoraires couverts.
+9° S'il a déclaré disposer d'un contrat d'assurance de protection juridique ou d'un autre système de protection en application du a de l'article 33, l'attestation de non-prise en charge délivrée selon le cas par l'employeur ou l'assureur, lorsque ce dernier ne prend pas en charge le litige ou le différend. En cas de prise en charge partielle des frais de procédure, le requérant doit joindre la justification fournie par l'employeur ou l'assureur précisant le montant des plafonds de garantie et de remboursement des frais, émoluments et honoraires couverts.
 
 Si le requérant bénéficie de l'allocation de solidarité aux personnes âgées ou du revenu de solidarité active et que pour ce dernier, ses ressources n'excèdent pas le montant forfaitaire visé au 2° de l'article L. 262-2 du code de l'action sociale et des familles, la déclaration de ressources prévue au 1° du présent article est remplacée par tout document justifiant de la perception de la prestation.
 
-La décision de l'assureur est établie selon un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie, de l'industrie et de l'emploi.
+L'attestation de non-prise en charge de l'assureur est établie selon un modèle fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie, de l'industrie et de l'emploi.
 
 10° Le cas échéant, la justification de versement du montant de la pension alimentaire ;
 
