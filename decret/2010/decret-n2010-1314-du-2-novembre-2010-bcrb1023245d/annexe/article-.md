@@ -24,7 +24,7 @@ Elles veillent de plus à maintenir l'attractivité des épreuves françaises pa
 
 3. Conditions d'attribution et de répartition des récompenses
 
-Elles établissent les conditions d'attribution et de répartition des subventions pour prix de courses prévues dans leurs budgets et assurent le versement des allocations et primes de courses aux propriétaires et éleveurs de chevaux placés dans les courses aux fins de soutien au secteur de l'élevage.
+Elles établissent les conditions d'attribution et de répartition des subventions pour prix de courses prévues dans leurs budgets et assurent le versement des allocations et primes de courses aux propriétaires, éleveurs et, lorsque le code des courses de leur spécialité le prévoit, aux entraîneurs de chevaux placés dans les courses aux fins de soutien au secteur de l'élevage.
 
 Les conditions d'attribution et de répartition de ces subventions ont pour objet de favoriser l'amélioration de la race chevaline.
 
