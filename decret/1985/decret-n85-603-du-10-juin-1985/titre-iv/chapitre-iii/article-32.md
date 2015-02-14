@@ -4,8 +4,6 @@ Les représentants du personnel au sein des comités d'hygiène, de sécurité e
 
 A cet effet, l'autorité territoriale auprès de laquelle le comité est constitué établit la liste des organisations syndicales habilitées à désigner des représentants du personnel ainsi que le nombre de sièges auxquelles elles ont droit, proportionnellement au nombre de voix obtenues lors de l'élection des représentants du personnel dans les comités techniques. En cas de listes communes à plusieurs organisations syndicales lors des élections aux comités techniques, les suffrages sont répartis entre les organisations syndicales conformément au III de l'article 21 du décret du 30 mai 1985 susvisé.
 
-L'autorité territoriale fixe également le délai imparti pour la désignation des représentants du personnel.
-
 Les représentants du personnel doivent satisfaire aux conditions d'éligibilité au comité technique.
 
 Les opérations de désignation des représentants du personnel doivent être achevées dans le délai d'un mois suivant la date des élections des représentants du personnel au comité technique.
