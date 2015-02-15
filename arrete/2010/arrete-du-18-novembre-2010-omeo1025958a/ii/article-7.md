@@ -2,7 +2,7 @@
 
 Le montant global maximum de l'allocation complémentaire de mobilité est fixé à 7 500 €.
 
-Cette allocation, versée mensuellement et durant une période maximale de trois années, est destinée à compléter les ressources financières du bénéficiaire. Cette mesure doit s'inscrire dans la programmation définie chaque année par le représentant de l'Etat de la collectivité de départ, et après consultation des collectivités territoriales chargées de la formation professionnelle.
+Cette allocation, versée mensuellement et durant une période maximale de deux années, et de trois années pour les formations de la filière sanitaire, est destinée à compléter les ressources financières du bénéficiaire. Cette mesure doit s'inscrire dans la programmation définie chaque année par le représentant de l'Etat de la collectivité de départ, et après consultation des collectivités territoriales chargées de la formation professionnelle.
 
 L'attribution d'une allocation complémentaire de mobilité ne peut en aucun cas donner lieu à un montant total des ressources financières mensuelles du bénéficiaire supérieur à 700 € au titre de salaires, indemnités, rémunérations, aides financières versés par l'Etat, les collectivités territoriales, les organismes sociaux ou les entreprises. Toutefois, les aides sociales au logement ne sont pas comprises dans ce plafond de 700 €. Pour les salariés en contrat en alternance, le plafond des ressources est porté au SMIC net.
 

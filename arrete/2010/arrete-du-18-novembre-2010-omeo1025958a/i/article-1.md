@@ -1,113 +1,145 @@
 # Article 1
 
-<div>
-<br/>Le montant de l'aide prévue à l'article 2 du décret n° 2010-1424 du 18 novembre 2010 susvisé est fixé comme indiqué au tableau ci-dessous :<br/>
-<div align="center">
+Le montant de l'aide prévue à l'article 2 du décret n° 2010-1424 du 18 novembre 2010 susvisé est fixé comme indiqué au tableau ci-dessous :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>COLLECTIVITÉ</th>
-<th colspan="3">
-<br/>MONTANT D'AIDE DANS LA LIMITE<br/>des frais exposés</th>
-</tr>
-<tr>
-<th/>
-<th>
-<br/>Aide simple</th>
+<th>COLLECTIVITÉ <br/>
+</th>
 <th colspan="2">
-<br/>Aide majorée</th>
+<br/>MONTANT D'AIDE DANS LA LIMITE DES FRAIS EXPOSÉS <br/>
+</th>
 </tr>
 <tr>
+<td align="left"/>
 <td align="center">
-<br/>Guadeloupe</td>
+<br/>Aide simple <br/>
+</td>
 <td align="center">
-<br/>170 €</td>
-<td align="center">
-<br/>270 €</td>
+<br/>Aide majorée <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Guadeloupe <br/>
+</td>
 <td align="center">
-<br/>Martinique</td>
+<br/>85 € <br/>
+</td>
 <td align="center">
-<br/>170 €</td>
-<td align="center">
-<br/>270 €</td>
+<br/>270 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Martinique <br/>
+</td>
 <td align="center">
-<br/>Guyane</td>
+<br/>85 € <br/>
+</td>
 <td align="center">
-<br/>180 €</td>
-<td align="center">
-<br/>300 €</td>
+<br/>270 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Guyane <br/>
+</td>
 <td align="center">
-<br/>La Réunion</td>
+<br/>90 € <br/>
+</td>
 <td align="center">
-<br/>220 €</td>
-<td align="center">
-<br/>360 €</td>
+<br/>300 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>La Réunion <br/>
+</td>
 <td align="center">
-<br/>Saint-Pierre-et-Miquelon</td>
+<br/>110 € <br/>
+</td>
 <td align="center">
-<br/>290 €</td>
-<td align="center">
-<br/>480 €</td>
+<br/>360 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Mayotte <br/>
+</td>
 <td align="center">
-<br/>Mayotte</td>
+<br/>135 € <br/>
+</td>
 <td align="center">
-<br/>270 €</td>
-<td align="center">
-<br/>440 €</td>
+<br/>440 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Saint-Barthélemy <br/>
+</td>
 <td align="center">
-<br/>Iles Wallis et Futuna</td>
+<br/>85 € <br/>
+</td>
 <td align="center">
-<br/>340 €</td>
-<td align="center">
-<br/>560 €</td>
+<br/>270 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Saint-Martin <br/>
+</td>
 <td align="center">
-<br/>Polynésie française</td>
+<br/>85 € <br/>
+</td>
 <td align="center">
-<br/>340 €</td>
-<td align="center">
-<br/>560 €</td>
+<br/>270 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Saint-Pierre-et-Miquelon <br/>
+</td>
 <td align="center">
-<br/>Nouvelle-Calédonie</td>
+<br/>145 € <br/>
+</td>
 <td align="center">
-<br/>320 €</td>
-<td align="center">
-<br/>530 €</td>
+<br/>480 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Iles Wallis et Futuna <br/>
+</td>
 <td align="center">
-<br/>Saint-Barthélemy</td>
+<br/>170 € <br/>
+</td>
 <td align="center">
-<br/>170 €</td>
-<td align="center">
-<br/>270 €</td>
+<br/>560 € <br/>
+</td>
 </tr>
 <tr>
+<td align="left">
+<br/>Polynésie française <br/>
+</td>
 <td align="center">
-<br/>Saint-Martin</td>
+<br/>170 € <br/>
+</td>
 <td align="center">
-<br/>170 €</td>
-<td align="center">
-<br/>270 €</td>
+<br/>560 € <br/>
+</td>
 </tr>
+<tr>
+<td align="left">
+<br/>Nouvelle-Calédonie <br/>
+</td>
+<td align="center">
+<br/>160 € <br/>
+</td>
+<td align="center">
+<br/>530 € <br/>
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
