@@ -21,6 +21,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Aisne (02)</td>
+<td>Maison forestière de Pré Gueux </td>
+<td>Coyolles </td>
+<td>B45, B46</td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Allier (3)</p>
 </td>
@@ -102,6 +108,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Ardennes (08) </td>
+<td>Chalet des Agaces </td>
+<td>Nouzonville</td>
+<td>C75 en partie, C76 en partie afin de constituer une superficie permettant un usage normal du bien </td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Aube (10)</p>
 </td>
@@ -130,6 +142,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td>A106 en partie, A107 en partie dans limite de la route forestière </td>
 </tr>
 <tr>
+<td>Aube (10) </td>
+<td>Maison forestière de Graviliers </td>
+<td>Champignol-lez-Mondeville </td>
+<td>H7, H6 </td>
+</tr>
+<tr>
 <td align="left">Calvados (14) </td>
 <td align="left">Maison forestière de la Belle Loge <br/>
 </td>
@@ -143,6 +161,36 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td>Chezal-Benoît </td>
 <td>A72, A73 en partie et A74 en partie dans la limite du parking attenant au local ONF <br/>
 </td>
+</tr>
+<tr>
+<td>Cher (18) </td>
+<td>Garage des Loges de Méry </td>
+<td>Méry-ès-Bois </td>
+<td>AP48, AP47 en partie afin de constituer une superficie permettant un usage normal du bien</td>
+</tr>
+<tr>
+<td>Côte-d'Or (21)</td>
+<td>Maison forestière de Bagnot </td>
+<td>Argilly </td>
+<td>F15, F16 en partie afin de constituer une superficie permettant un usage normal du bien </td>
+</tr>
+<tr>
+<td>Drôme (26)</td>
+<td>Garage Teston </td>
+<td>Bouvante </td>
+<td>AI20, AI21, AI111</td>
+</tr>
+<tr>
+<td>Drôme (26)</td>
+<td>Maison forestière des Eygaziers</td>
+<td>Bouvante</td>
+<td>AI67 en partie afin de constituer une superficie permettant un usage normal du bien</td>
+</tr>
+<tr>
+<td>Drôme (26) </td>
+<td>Maison forestière de la Réserve </td>
+<td>Bouvante</td>
+<td>AI67 en partie afin de constituer une superficie permettant un usage normal du bien</td>
 </tr>
 <tr>
 <td align="left">Finistère (29) </td>
@@ -314,6 +362,18 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td>ZD6, A183, A184, A178 en partie dans la limite d'un usage normal du bien </td>
 </tr>
 <tr>
+<td>Lozère (48)</td>
+<td>Atelier de Roquedols </td>
+<td>Meyrueis</td>
+<td>G949</td>
+</tr>
+<tr>
+<td>Lozère (48)</td>
+<td>Maison forestière de Roquedols</td>
+<td>Meyrueis</td>
+<td>G951</td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Haute-Marne (52)</p>
 </td>
@@ -396,10 +456,28 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">AZ55 en partie dans la limite du jardin attenant </td>
 </tr>
 <tr>
+<td>Meurthe-et-Moselle (54) </td>
+<td>Bâtiment n° 720 - Gymnase</td>
+<td>Velaine-en-Haye</td>
+<td>AK 89</td>
+</tr>
+<tr>
+<td>Meurthe-et-Moselle (54)</td>
+<td>Maison forestière Marie Chanois</td>
+<td>Maron</td>
+<td>AN 16 en partie, AN 17, AN 18</td>
+</tr>
+<tr>
 <td align="left">Meuse (55) </td>
 <td align="left">Maison forestière de Ravigny </td>
 <td align="left">Souilly </td>
-<td align="left">C20 et C21 en partie dans la limite d'un usage normal du bien </td>
+<td align="left">C21, C20 en partie dans la limite d'un usage normal du bien</td>
+</tr>
+<tr>
+<td>Meuse (55) </td>
+<td>Maison forestière du Breuil</td>
+<td>Gremilly</td>
+<td>C7, C18 en partie afin de constituer une superficie permettant un usage normal du bien</td>
 </tr>
 <tr>
 <td align="left" valign="top" width="113">
@@ -544,6 +622,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">A208 en partie et A209 en partie dans la limite du jardin attenant, A210 et A211 </td>
 </tr>
 <tr>
+<td>Nord (59) </td>
+<td>Maison forestière de Cataine </td>
+<td>Hasnon </td>
+<td>AL01 en partie afin de constituer une superficie permettant un usage normal du bien </td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Oise (60)</p>
 </td>
@@ -580,6 +664,18 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td>Maison forestière du Magasin </td>
 <td>La Neuville en Hez </td>
 <td>B445, B444 en partie dans la limite d'un usage normal du bien </td>
+</tr>
+<tr>
+<td>Oise (60) </td>
+<td>Maison forestière du Pont de Berne </td>
+<td>Compiègne </td>
+<td>E16, E15 en partie afin de constituer une superficie permettant un usage normal du bien </td>
+</tr>
+<tr>
+<td>Oise (60) </td>
+<td>Maison forestière de la Faisanderie 2</td>
+<td>Compiègne </td>
+<td>E127, E128 en partie afin de constituer une superficie permettant un usage normal du bien </td>
 </tr>
 <tr>
 <td align="left" valign="top" width="113">
@@ -716,8 +812,14 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Section 23 parcelle 2 en partie dans la limite du jardin attenant </td>
 </tr>
 <tr>
+<td>Bas-Rhin (67) </td>
+<td>Maison forestière de la Mésange</td>
+<td>Niederbronn-les-Bains</td>
+<td>Section 31, 316, 317</td>
+</tr>
+<tr>
 <td align="left">Haut-Rhin (68) </td>
-<td align="left">Maison forestière Le Chant des oiseaux </td>
+<td>Maison forestière Le Chant des oiseaux </td>
 <td align="left">Habsheim </td>
 <td align="left">Section 28 parcelle 6 en partie dans la limite du jardin attenant </td>
 </tr>
@@ -811,6 +913,24 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Seine-Maritime (76)</td>
+<td>Maison forestière de l'Ermitage</td>
+<td>Richemont</td>
+<td>Section A, AA 0018 en partie afin de constituer une superficie permettant un usage normal du bien</td>
+</tr>
+<tr>
+<td>Seine-Maritime (76)</td>
+<td>Maison forestière des Hautes Avesnes</td>
+<td>La Feuillie</td>
+<td>H226, H227, H225 en partie afin de constituer une superficie permettant un usage normal du bien </td>
+</tr>
+<tr>
+<td>Seine-Maritime (76) </td>
+<td>Maison forestière de la Bouillarderie </td>
+<td>Millebosc</td>
+<td>Section B, 443 en partie afin de constituer une superficie permettant un usage normal du bien</td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Yvelines (78)</p>
 </td>
@@ -881,6 +1001,24 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 </td>
 </tr>
 <tr>
+<td>Yvelines (78)</td>
+<td>Maison forestière<br/>du Butard N° 1 </td>
+<td>La Celle-Saint-Cloud</td>
+<td>AK0018, AK0019</td>
+</tr>
+<tr>
+<td>Yvelines (78) </td>
+<td>Maison forestière<br/>du Butard N° 2</td>
+<td>La Celle-Saint-Cloud</td>
+<td>AK0020, AK0021</td>
+</tr>
+<tr>
+<td>Yvelines (78)</td>
+<td>Pavillon du Butard</td>
+<td>La Celle-Saint-Cloud</td>
+<td>AK17</td>
+</tr>
+<tr>
 <td align="left" valign="top" width="113">
 <p>Deux-Sèvres (79)</p>
 </td>
@@ -913,6 +1051,12 @@ DU CODE GÉNÉRAL DE LA PROPRIÉTÉ DES PERSONNES PUBLIQUES
 <td align="left">Maison forestière Perilhac </td>
 <td align="left">Castelnau-Montmiral </td>
 <td align="left">AZ58 en partie pour restitution de surface à la forêt domaniale </td>
+</tr>
+<tr>
+<td>Tarn (81) </td>
+<td>Maison forestière du Pas de Castelnau </td>
+<td>Castelnau-de-Montmiral </td>
+<td>BD0033</td>
 </tr>
 <tr>
 <td align="left">Vosges (88) </td>
