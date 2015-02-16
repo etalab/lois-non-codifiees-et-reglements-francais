@@ -22,7 +22,7 @@ En application du 6° de l'article L. 6241-10 du code du travail, peuvent béné
 
 -l'association Course en cours, située chez Renault SAS, 13, avenue Paul-Langevin, 92060 Le Plessis-Robinson ;
 
--l'association Crée ton avenir ! ! !, située 120, rue Jean-Jaurès, 92300 Levallois-Perret ;
+-l'association Crée ton avenir ! ! !, située 6, rue Duchefdelaville, 75013 Paris ;
 
 -l'association Enactus, située immeuble Le Palatin, 3, cours du Triangle, 92939 La Défense Cedex ;
 
@@ -42,4 +42,16 @@ En application du 6° de l'article L. 6241-10 du code du travail, peuvent béné
 
 -l'association Passeport avenir, située 45, boulevard Vincent-Auriol, 75013 Paris ;
 
--l'Office national d'information sur les enseignements et les professions (ONISEP), établissement public sous tutelle du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, situé 12, mail Barthélemy-Thimonnier, 77185 Lognes.
+-l'Office national d'information sur les enseignements et les professions (ONISEP), établissement public sous tutelle du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, situé 12, mail Barthélemy-Thimonnier, 77185 Lognes ;
+
+-l'association C. Génial, Fondation pour la culture scientifique et technique, située au 292, rue Saint-Martin, CNAM, case 610,75003 Paris ;
+
+-la fondation Association pour le développement d'épreuves éducatives sur l'écomobilité (AD3E), située à l'ENS Cachan, 61, avenue du Président-Wilson, 94235 Cachan Cedex ;
+
+-l'Association pour le développement des relations école-entreprise (ADREE), située au 55, avenue Bosquet, 75007 Paris ;
+
+-l'association Elles bougent, située au 562, avenue du Parc-de-l'Ile, 92029 Nanterre Cedex ;
+
+-la fondation Un avenir ensemble, située à la grande chancellerie de la Légion d'honneur, 1, rue de Solférino, 75007 Paris ;
+
+-l'association Energie jeunes, située au 12, rue de Lord-Byron, 75008 Paris.
