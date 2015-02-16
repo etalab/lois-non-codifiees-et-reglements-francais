@@ -1,5 +1,0 @@
-# Article 12
-
-Les eaux-de-vie pour lesquelles est revendiquée l'appellation d'origine réglementée " Eau-de-vie de cidre de Bretagne " ne peuvent être déclarées après l'élaboration, offertes au public, expédiées, mises en vente ou vendues sans que, dans la comptabilité matière, dans les documents d'accompagnement et les documents commerciaux, sur les étiquettes, récipients quelconques et sur tout support publicitaire, l'appellation d'origine susvisée soit accompagnée de la mention " Appellation réglementée " en caractères très apparents.
-
-L'emploi de toute indication ou de tout signe susceptible de faire croire à l'acheteur qu'une eau-de-vie a droit à l'appellation d'origine réglementée " Eau-de-vie de cidre de Bretagne " alors qu'elle ne répond pas à toutes les conditions prévues par le présent décret sera poursuivi conformément à la législation générale sur la répression des fraudes et sur la protection des appellations d'origine sans préjudice des sanctions d'ordre fiscal la répression, s'il y a lieu.

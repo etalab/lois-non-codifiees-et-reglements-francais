@@ -49,7 +49,6 @@
 - [Décret n°2007-1567 du 2 novembre 2007 (BCFL0757031D)](decret-n2007-1567-du-2-novembre-2007-bcfl0757031d)
 - [Décret n°2007-500 du 2 avril 2007 (DEFX0600226D)](decret-n2007-500-du-2-avril-2007-defx0600226d)
 - [Décret n°95-239 du 2 mars 1995 (MCCB9400697D)](decret-n95-239-du-2-mars-1995-mccb9400697d)
-- [Décret du 2 mai 2007 (AGRP0700686D)](decret-du-2-mai-2007-agrp0700686d)
 - [Décret n°2007-649 du 2 mai 2007 (PRMX0710192D)](decret-n2007-649-du-2-mai-2007-prmx0710192d)
 - [Décret n°2007-658 du 2 mai 2007 (FPPA0750560D)](decret-n2007-658-du-2-mai-2007-fppa0750560d)
 - [Décret n°2007-662 du 2 mai 2007 (DOMB0752412D)](decret-n2007-662-du-2-mai-2007-domb0752412d)
