@@ -28,7 +28,7 @@ b) Les informations relatives au titre :
 
 - date d'expiration ;
 
-- mention, avec la date, de la perte, du vol, de la destruction, de l'annulation ou du retrait ;
+- mention, avec la date, de l'invalidation du passeport et de son motif (perte, vol, retrait, interdiction de sortie du territoire, autre motif), de la restitution du passeport à l'administration, de sa destruction ;
 
 - mentions des justificatifs présentés à l'appui de la demande de passeport ;
 

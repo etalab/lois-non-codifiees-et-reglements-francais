@@ -2,7 +2,7 @@
 
 Les données à caractère personnel contenues dans le système de gestion informatisée ne peuvent faire l'objet d'aucune interconnexion avec un autre fichier ni d'aucune cession à des tiers.
 
-Le système de gestion informatisée transmet au système d'information Schengen les informations relatives aux numéros des cartes nationales d'identité perdues ou volées et au pays émetteur de ces titres.
+Le système de gestion informatisée transmet au système d'information Schengen les informations relatives aux numéros des cartes nationales d'identité perdues, volées ou invalidées et au pays émetteur de ces titres.
 
 La lecture de la carte nationale d'identité à l'aide de procédés optiques ne peut être utilisée pour accéder à tout autre fichier ou pour y mettre en mémoire des informations mentionnées sur la carte. Toutefois, la lecture à l'aide de procédés optiques peut être utilisée pour :
 

@@ -1,6 +1,6 @@
 # Article 11
 
-Le présent décret est applicable sur l'ensemble du territoire de la République dans sa rédaction résultant du décret n° 2013-745 du 14 août 2013, sous réserve des dispositions suivantes :
+Le présent décret est applicable sur l'ensemble du territoire de la République dans sa rédaction résultant du décret n° 2015-174 du 13 février 2015 portant amélioration des échanges d'information dans le cadre de la lutte contre le terrorisme, sous réserve des dispositions suivantes :
 
 1° Abrogé ;
 
