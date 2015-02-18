@@ -1,5 +1,0 @@
-# Article 5
-
-A défaut de signature au 1er juillet 2010 de la convention prévue à l'article 4, la consistance du service ou de la partie de service à transférer, le nombre et la nature des emplois transférés, déterminés selon les deuxième et quatrième alinéas de l'article 3, ainsi que les modalités de transfert du parc sont fixés par arrêté conjoint du ministre chargé des transports et du ministre chargé des collectivités territoriales, après avis motivé d'une commission nationale de conciliation, placée auprès d'eux et comprenant un nombre égal de représentants de l'Etat et de représentants des catégories de collectivités territoriales intéressées. La commission est présidée par un conseiller d'Etat. En Corse et dans les départements et régions d'outre-mer, à défaut d'accord sur la ou les collectivités bénéficiaires du transfert, une partie de service et un nombre d'emplois déterminés selon les deuxième et quatrième alinéas de l'article 3 sont transférés à chaque collectivité.
-
-Dans les cas visés au premier alinéa, la date d'effet du transfert du parc est fixée au 1er janvier 2011.
