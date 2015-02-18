@@ -6,4 +6,6 @@ a) Des ordres de recouvrer émis par la ministre de l'écologie, du développeme
 
 b) Des ordres de recouvrer émis par les ordonnateurs principaux habilités sur les programmes " Sécurité et éducation routières " et " Radars " ;
 
-c) Des ordres de recouvrer émis par les autorités administratives indépendantes relevant des programmes du ministère de l'écologie, du développement durable et de l'énergie et du ministère de l'égalité des territoires et du logement.
+c) Des ordres de recouvrer émis par les autorités administratives indépendantes relevant des programmes du ministère de l'écologie, du développement durable et de l'énergie et du ministère de l'égalité des territoires et du logement ;
+
+d) Des recettes perçues au titre des frais d'inscription au registre mentionné à l'article L. 3122-3 du code des transports.

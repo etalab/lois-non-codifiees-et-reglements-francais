@@ -1,13 +1,11 @@
 # Article 2
 
-La commission mentionnée à l'article 1er est composée, à part égale, de représentants des personnels navigants et de représentants de l'administration.
+La commission mentionnée à l'article 1er est composée, à part égale, de représentants des personnels navigants et de représentants de l'administration comme suit :
 
-La représentation du personnel est assurée :
+1° La représentation du personnel est assurée :
 
-1° Par les représentants du personnel navigant, titulaires et suppléants, au  comité technique local de la base d'avions de la sécurité civile ;
+-par les représentants du personnel navigant, titulaires et suppléants, du collège de la commission consultative paritaire créée par l'arrêté du 18 juillet 2014 susvisé compétent à l'égard des personnels navigants de la base d'avions ;
 
-2° Par deux membres titulaires et deux membres suppléants représentant les personnels navigants désignés dans les conditions fixées aux articles 8 et 11, second alinéa, du décret du 28 mai 1982 susvisé et aux dispositions de l'arrêté du 29 janvier 1991 susvisé. A cette fin, sont pris en compte les résultats des dernières élections organisées pour déterminer la représentation des personnels navigants au  comité technique local.
+-par un membre titulaire et un membre suppléant, représentant les personnels navigants, désignés par les organisations syndicales proportionnellement au nombre de voix obtenues lors de l'élection des représentants du personnel au sein du collège de la commission consultative paritaire créée par l'arrêté du 18 juillet 2014 susvisé compétent à l'égard des personnels navigants de la base d'avions ;
 
-Outre le président et son suppléant, la représentation de l'administration comprend au moins un titulaire d'un brevet de pilote professionnel d'avion.
-
-En cas de partage des voix, lors des votes, le président, ou son suppléant, a voix prépondérante.
+2° Outre le président et son suppléant, la représentation de l'administration comprend au moins un titulaire d'un brevet de pilote professionnel.
