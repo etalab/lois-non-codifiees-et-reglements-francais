@@ -116,6 +116,7 @@
 - [DÉCRET n°2014-1058 du 16 septembre 2014 (RDFZ1403502D)](decret-n2014-1058-du-16-septembre-2014-rdfz1403502d)
 - [DÉCRET n°2014-1519 du 16 décembre 2014 (MENS1427379D)](decret-n2014-1519-du-16-decembre-2014-mens1427379d)
 - [DÉCRET n°2014-1526 du 16 décembre 2014 (RDFB1419090D)](decret-n2014-1526-du-16-decembre-2014-rdfb1419090d)
+- [DÉCRET n°2015-178 du 16 février 2015 (AGRT1503185D)](decret-n2015-178-du-16-fevrier-2015-agrt1503185d)
 - [DÉCRET n°2015-34 du 16 janvier 2015 (FCPE1407579D)](decret-n2015-34-du-16-janvier-2015-fcpe1407579d)
 - [Décret n°2014-501 du 16 mai 2014 (RDFB1401728D)](decret-n2014-501-du-16-mai-2014-rdfb1401728d)
 - [Décret n°2014-502 du 16 mai 2014 (RDFB1401734D)](decret-n2014-502-du-16-mai-2014-rdfb1401734d)

@@ -1,0 +1,3 @@
+# Titre VI : DISPOSITIONS RELATIVES AU CODE DU CINÉMA ET DE L'IMAGE ANIMÉE
+
+- [Article 18](article-18.md)

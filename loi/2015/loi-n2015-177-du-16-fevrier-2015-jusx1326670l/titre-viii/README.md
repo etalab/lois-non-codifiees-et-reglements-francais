@@ -1,0 +1,3 @@
+# Titre VIII : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE
+
+- [Article 24](article-24.md)
