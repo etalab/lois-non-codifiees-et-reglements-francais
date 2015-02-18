@@ -125,6 +125,7 @@
 - [Décret n°2011-288 du 18 mars 2011 (ETSS1033112D)](decret-n2011-288-du-18-mars-2011-etss1033112d)
 - [DÉCRET n°2014-1538 du 18 décembre 2014 (AFSS1426109D)](decret-n2014-1538-du-18-decembre-2014-afss1426109d)
 - [DÉCRET n°2014-1540 du 18 décembre 2014 (INTD1416708D)](decret-n2014-1540-du-18-decembre-2014-intd1416708d)
+- [DÉCRET n°2014-1542 du 18 décembre 2014 (AGRT1413499D)](decret-n2014-1542-du-18-decembre-2014-agrt1413499d)
 - [Décret n°93-398 du 18 mars 1993 (INTB9300128D)](decret-n93-398-du-18-mars-1993-intb9300128d)
 - [Décret n°93-399 du 18 mars 1993 (INTB9300129D)](decret-n93-399-du-18-mars-1993-intb9300129d)
 - [DÉCRET n°2014-1070 du 19 septembre 2014 (RDFZ1406598D)](decret-n2014-1070-du-19-septembre-2014-rdfz1406598d)
