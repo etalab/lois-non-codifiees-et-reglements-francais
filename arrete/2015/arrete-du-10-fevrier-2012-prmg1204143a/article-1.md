@@ -6,6 +6,8 @@ Il est créé auprès du Premier ministre un comité d'hygiène, de sécurité e
 
 2° Des questions communes à tout ou partie des établissements publics administratifs suivants :
 
+Conseil national des communes "Compagnon de la Libération" ;
+
 Ecole nationale d'administration ;
 
 Institut des hautes études de défense nationale ;

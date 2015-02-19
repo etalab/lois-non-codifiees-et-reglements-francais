@@ -8,6 +8,8 @@ En outre, le comité technique ministériel est compétent pour les questions co
 
 2° Institut des hautes études de défense nationale ;
 
-3° Institut national des hautes études de la sécurité et de la justice.
+3° Institut national des hautes études de la sécurité et de la justice ;*
 
-Il est également compétent pour les questions communes aux services du Premier ministre et aux trois établissements publics.
+4° Conseil national des communes  "   Compagnon de la Libération " .
+
+Il est également compétent pour les questions communes aux services du Premier ministre et aux quatre établissements publics.
