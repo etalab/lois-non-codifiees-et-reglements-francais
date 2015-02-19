@@ -1,238 +1,368 @@
 # Article Annexe
 
-**DEMANDE POUR SE PRÉSENTER À L'EXAMEN PROFESSIONNEL D'ATTACHÉ D'ADMINISTRATION HOSPITALIÈRE DE LA FONCTION PUBLIQUE HOSPITALIÈRE**
+DOSSIER " RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE (RAEP) "
 
-Intitulé complet de l'examen professionnel auquel vous souhaitez vous présenter :
+Le dossier " RAEP " permet au candidat de valoriser les différentes étapes de sa carrière professionnelle ainsi que l'expérience professionnelle acquise dans l'exercice de ses fonctions antérieures au concours.
 
-Attention, vérifiez avec précision le libellé de l'examen professionnel.
+Le dossier " RAEP ", établi par le candidat, comporte des informations suffisamment précises pour que le jury puisse faire le lien entre l'activité rapportée par le candidat et le poste mis au concours.
 
-1. Identification du lauréat
+1. Identification du candidat
 
-Monsieur Madame Mademoiselle
+Monsieur □ Madame □
 
-Nom de naissance :
+Nom d'usage :
 
-Nom d'épouse :
+Nom d'époux ou d'épouse :
 
 Premier prénom : Autres prénoms :
 
+Date de naissance :
+
+Commune de naissance : Département de naissance :
+
+ou pays de naissance :
+
+Nationalité : française □ ressortissant européen □
+
 Adresse :
 
-Code postal :
-
-Commune :
+Code postal : Commune :
 
 Pays de résidence :
 
-Tél. domicile : Tél. mobile : Tél. travail :
+Tél. domicile (facultatif) : Tél. mobile (facultatif) :
 
-Courriel :
+Tél. travail :
 
-Date de naissance :
+Courriel professionnel :
 
-Nationalité : française ressortissant européen autre
+Courriel personnel (facultatif) :
 
-Commune de naissance : Département de naissance ou pays de naissance :
+Je, soussigné (e) (prénom, nom)
 
-Je, soussigné(e) (prénom, nom)
+atteste que toutes les informations données dans le présent document sont exactes et reconnais être informé (e) du fait que toutes fausses déclarations de ma part entraîneraient l'annulation de toute décision favorable prise à mon égard dans le cadre de la présente procédure.
 
-atteste que toutes les informations données dans le présent document sont exactes et reconnais être informé(e) du fait que toutes fausses déclarations de ma part entraîneraient l'annulation de toute décision favorable prise à mon égard dans le cadre de la présente procédure.
-
-La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique au présent dossier. Elle garantit aux personnes concernées un droit d'accès et de rectification pour les données les concernant hormis celles qu'elles ont-elles mêmes introduites concernant leur expérience professionnelle.
+La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique au présent dossier. Elle garantit aux personnes concernées un droit d'accès et de rectification pour les données les concernant, hormis celles qu'elles ont elles-mêmes introduites concernant leur expérience professionnelle.
 
 A, le
 
 Signature
 
-(signature du candidat précédée de la mention
-
-"Lu et approuvé")
+(signature de l'agent précédée de la mention lu et approuvé)
 
 2. Renseignements concernant votre expérience professionnelle
 
-Votre parcours professionnel :
+A.-Parcours professionnel
 
-<div align="center">
+Fonction actuelle (joindre relevé de situation)
 
 <table>
 <tbody>
 <tr>
-<th>NOM ET ADRESSE<br/>de l'employeur<br/>ainsi que le type d'activité<br/>de l'établissement<br/>
+<th>
+<br/>NOM ET ADRESSE <p>de l'employeur ainsi </p>
+<p>que type d'activité </p>
+<p>de l'établissement <br/>
+</p>
 </th>
-<th>PÉRIODE D'EMPLOI<br/>(duau) <br/>
+<th>
+<br/>PÉRIODE <p>(du... au...) <br/>
+</p>
 </th>
-<th>TEMPS PLEIN<br/>ou % temps partiel<br/>
+<th>
+<br/>CATÉGORIE/ CORPS/ <p>cadre d'emploi/ métier <br/>
+</p>
 </th>
-<th>DÉCRIVEZ VOS FONCTIONS<br/>(indiquez aussi si c'est à titre<br/>salarié, bénévole...)<br/>
+<th>
+<br/>TEMPS PLEIN <p>ou % temps </p>
+<p>partiel <br/>
+</p>
+</th>
+<th>
+<br/>PRINCIPALES <p>activités ou fonctions exercées <br/>
+</p>
+</th>
+<th>
+<br/>PRINCIPALES <p>compétences/ connaissances/ savoir-faire développés <br/>
+</p>
 </th>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
 </tr>
 </tbody>
 </table>
 
-</div>
+Fonctions antérieures (joindre justificatifs)
 
-Votre situation actuelle :
+<table>
+<tbody>
+<tr>
+<th>
+<br/>NOM (S) ET ADRESSE (S) <p>de (s) l'employeur (s) ainsi que type (s) d'activité (s) de (s) l'établissement (s) <br/>
+</p>
+</th>
+<th>
+<br/>PÉRIODE <p>(du... au...) <br/>
+</p>
+</th>
+<th>
+<br/>CATÉGORIE/ CORPS/ <p>cadre d'emploi/ métier <br/>
+</p>
+</th>
+<th>
+<br/>TEMPS PLEIN <p>ou % temps </p>
+<p>partiel <br/>
+</p>
+</th>
+<th>
+<br/>PRINCIPALES <p>activités ou fonctions exercées <br/>
+</p>
+</th>
+<th>
+<br/>PRINCIPALES <p>compétences/ savoir-faire/ connaissances développés <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+</tbody>
+</table>
 
-Dernier emploi occupé ou dernière fonction/métier :
+B.-Formations en lien avec parcours professionnel et/ ou projet professionnel (joindre justificatifs)
 
-(fournir la fiche de poste détaillée)
+Inscrire les formations supérieures à deux jours.
 
-Justificatifs à produire :
+Souligner les formations qui vous semblent en lien avec la fonction recherchée.
 
-Descriptifs détaillés :
+<table>
+<tbody>
+<tr>
+<th>
+<br/>PÉRIODE (DU... AU...) <p>et durée totale <br/>
+</p>
+</th>
+<th>
+<br/>DOMAINE/ SPÉCIALITÉ/ THÈME <br/>
+</th>
+<th>
+<br/>DURÉE TOTALE <p>de la formation (dont heures de théorie/ stage) <br/>
+</p>
+</th>
+<th>
+<br/>ORGANISME <p>de formation <br/>
+</p>
+</th>
+<th>
+<br/>INTITULÉ ET DATE <p>du diplôme obtenu <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+<td align="left"/>
+</tr>
+</tbody>
+</table>
 
-― de l'emploi tenu ;
+C.-Acquis professionnels
 
-― du domaine d'activité ;
-
-― du positionnement de l'emploi au sein de l'organisme employeur ;
-
-― du niveau de qualification nécessaire ;
-
-― des principales fonctions attachées à cet emploi ;
-
-Copie du contrat de travail ;
-
-Pour les périodes d'activité relevant du droit français, un certificat de l'employeur délivré dans les conditions prévues à l'article L. 122-16 du code du travail :
-
-― précisant les périodes d'emploi en année, mois et jours ;
-
-― précisant le % de temps travaillé pour chaque emploi ;
-
-― identification et signature de l'employeur ;
-
-Tout document établi par un organisme habilité attestant de la réalité de l'exercice effectif d'une activité salariée ou non salariée dans la profession pendant la période considérée (activité bénévole incluse) ;
-
-Traduction en français (traducteur assermenté).
-
-3. Renseignements concernant votre niveau de formation
-
-Fiche 1 : Diplômes
-
-(remplir une fiche pour le diplôme le plus élevé
-
-à titre universitaire ou supérieur)
-
-Intitulé du diplôme (veuillez fournir copie du programme des études suivies indiquant le contenu et les volumes horaires) :
-
-Date d'obtention du diplôme :
-
-Pays et adresse de l'organisme ayant délivré le diplôme (faculté, école, autres) :
-
-Durée totale de la formation :
-
-Dont :
-
-Heures de théorie et type de modules enseignés :
-
-Heures et types de stage :
-
-Fiche 2 : Diplômes
-
-(remplir une fiche par le diplôme
-
-ou certificat professionnel le plus élevé)
-
-Intitulé du diplôme (veuillez fournir copie du programme des études suivies indiquant le contenu et les volumes horaires) :
-
-Date d'obtention du diplôme :
-
-Pays et adresse de l'organisme ayant délivré le diplôme (faculté, école, autres) :
-
-Durée totale de la formation :
-
-Dont :
-
-Heures de théorie et type de modules enseignés :
-
-Heures et types de stage :
+Eléments qui, selon vous, constituent des acquis professionnels pour exercer dans le corps pour lequel vous postulez.

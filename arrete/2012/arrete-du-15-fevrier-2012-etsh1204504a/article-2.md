@@ -20,6 +20,6 @@ Le jury, commun aux trois concours, est nommé par arrêté du directeur génér
 
 Il pourra être fait appel, en cas de nécessité, à des fonctionnaires en retraite. Des correcteurs ou des examinateurs spécialisés nommés par le directeur général du Centre national de gestion peuvent être adjoints au jury. Ces correcteurs et ces examinateurs peuvent délibérer avec le jury avec voix consultative pour l'attribution des notes aux épreuves auxquelles ils ont participé.
 
-La présidence du jury est exercée par le directeur général de l'offre de soins. En cas d'absence ou d'empêchement de celui-ci, le directeur général du Centre national de gestion désigne le président du jury parmi les membres du jury.
+Le président du jury est désigné par le directeur général du Centre national de gestion parmi les membres du jury.
 
 Le secrétariat du jury est assuré par le Centre national de gestion.

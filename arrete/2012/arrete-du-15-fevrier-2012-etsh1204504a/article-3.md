@@ -26,17 +26,15 @@ Pour le 3° de l'épreuve d'admissibilité, le choix du candidat est exprimé av
 
 B. - Epreuves orales d'admission
 
-1° Un entretien avec le jury visant à apprécier la personnalité du candidat, son potentiel et sa motivation à exercer les fonctions d'attaché d'administration hospitalière, qui se décompose comme suit :
+1° Un entretien avec le jury visant à apprécier la personnalité du candidat, son potentiel et sa motivation à exercer les fonctions d'attaché d'administration hospitalière (durée : trente minutes, coefficient 4) qui se décompose comme suit :
 
-- d'une part :
-
-- le commentaire d'un texte portant sur les problèmes sanitaires, sociaux et médico-sociaux contemporains d'actualité (durée maximale : quinze minutes après une préparation de quinze minutes ; coefficient 2) ;
+- d'une part, le commentaire d'un texte portant sur les problèmes sanitaires, sociaux et médico-sociaux contemporains d'actualité (durée maximale : quinze minutes après une préparation de quinze minutes) ;
 
 - d'autre part :
 
-- pour les candidats au concours externe : un échange sur son parcours universitaire et/ou professionnel ainsi que ses motivations. Pour ce faire, le jury dispose du curriculum vitae du candidat faisant apparaître son cursus universitaire et/ou professionnel (durée maximale : quinze minutes, dont cinq minutes au plus de présentation par le candidat ; coefficient 2) ;
+- pour les candidats au concours externe : un échange sur son parcours universitaire et/ou professionnel ainsi que ses motivations. Pour ce faire, le jury dispose du curriculum vitae du candidat faisant apparaître son cursus universitaire et/ou professionnel (durée maximale : quinze minutes, dont cinq minutes au plus de présentation par le candidat) ;
 
-- pour les candidats au concours interne ou au troisième concours : un échange sur son parcours et ses acquis professionnels. Pour ce faire, le jury dispose du dossier constitué par le candidat en vue de la reconnaissance des acquis de l'expérience professionnelle (dossier RAEP fixé à l'annexe V) (durée maximale : quinze minutes, dont cinq minutes au plus de présentation par le candidat ; coefficient 2).
+- pour les candidats au concours interne ou au troisième concours : un échange sur son parcours et ses acquis professionnels. A l'appui de cet échange, le jury dispose du dossier constitué par le candidat en vue de la reconnaissance des acquis de l'expérience professionnelle, dont le modèle figure à l'annexe V du présent arrêté (durée maximale : quinze minutes, dont cinq minutes au plus de présentation par le candidat). Seul l'entretien avec le jury donne lieu à notation. Le dossier de RAEP n'est pas noté.
 
 2° Une interrogation portant, au choix du candidat exprimé avant la clôture des inscriptions au concours, sur l'une des matières à option (programme fixé à l'annexe I) énumérées au 3° du A, à l'exception de celle qu'il a choisie pour la troisième épreuve écrite d'admissibilité (durée : quinze minutes, après une préparation de quinze minutes ; coefficient 2).
 

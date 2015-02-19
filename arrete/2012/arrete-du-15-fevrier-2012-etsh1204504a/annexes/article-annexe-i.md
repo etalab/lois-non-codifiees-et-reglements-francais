@@ -6,7 +6,7 @@ PROGRAMME DE LA TROISIÈME ÉPREUVE ÉCRITE D'ADMISSIBILITÉ ET DE LA DEUXIÈME 
 
 Ce programme est commun aux trois concours.
 
-Droit hospitalier
+DROIT HOSPITALIER
 
 Introduction
 
@@ -16,71 +16,71 @@ L'établissement public de santé dans son environnement économique.
 
 Notions d'organisation hospitalière dans les principaux pays européens.
 
-I. ― Organisation hospitalière française
+I.-Organisation hospitalière française
 
 1.1. Les missions de service public :
 
-― le champ des missions ;
+-le champ des missions ;
 
-― les acteurs de santé attributaires d'une mission de service public ;
+-les acteurs de santé attributaires d'une mission de service public ;
 
-― les missions de service public et l'organisation régionale de l'offre de soins ;
+-les missions de service public et l'organisation régionale de l'offre de soins ;
 
-― les attributions des missions de service public et ses effets.
+-les attributions des missions de service public et ses effets.
 
 1.2. Les moyens mis en place :
 
-― territoires de santé et planification sanitaire ;
+-les territoires de santé et la planification sanitaire ;
 
-― le régime des autorisations ;
+-le régime des autorisations ;
 
-― organes de concertation et de coopération interhospitalière ;
+-les organes de concertation et de coopération interhospitalière ;
 
-― l'instrumentation juridique traditionnelle : syndicats interhospitaliers ; communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ; groupements de coopération sanitaire (GCS) ; communauté hospitalière de territoire (CHT) ;
+-l'instrumentation juridique traditionnelle : communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ; groupements de coopération sanitaire (GCS) ; communauté hospitalière de territoire (CHT) ;
 
-― l'évaluation des soins : la Haute Autorité de santé (HAS), le développement professionnel continu (DPC), la certification des établissements de santé, l'accréditation des médecins.
+-l'évaluation des soins : la Haute Autorité de santé (HAS), le développement professionnel continu (DPC), la certification des établissements de santé, l'accréditation des médecins.
 
-II. ― L'organisation de l'établissement public de santé
+II.-L'organisation de l'établissement public de santé
 
-L'organisation administrative :
+2.1. L'organisation administrative :
 
-― le statut juridique de l'établissement public de santé (EPS) ;
+-le statut juridique de l'établissement public de santé (EPS) ;
 
-― création, transformation, suppression des EPS ;
+-création, transformation, suppression des EPS ;
 
-― la gouvernance hospitalière ;
+-les principes de l'organisation interne ;
 
-― les organes de décision à l'EPS : directoire, directeur, conseil de surveillance ;
+-les organes de décision à l'EPS ;
 
-― les instances consultatives.
+-les instances.
 
-L'organisation médicale :
+2.2. L'organisation médicale :
 
-― pôles d'activité, services, unités fonctionnelles ;
+-les pôles et leurs structures internes ;
 
-― la contractualisation interne ;
+-la contractualisation interne ;
 
-― les contrôles et la tutelle exercés par l'Etat et par les agences régionales de santé.
+-les contrôles et la tutelle exercés par l'Etat et par les agences régionales de santé.
 
-III. ― Les statuts des personnels
+III.-Les statuts des personnels
 
 3.1. Le personnel médical :
 
-― la démographie médicale hospitalière ;
+-la démographie médicale hospitalière ;
 
-― les praticiens exerçant à temps plein ou à temps partiel ;
+-les praticiens exerçant à temps plein ou à temps partiel ;
 
-― les personnels hospitalo-universitaires ;
+-les personnels hospitalo-universitaires ;
 
-― les praticiens attachés ;
+-les praticiens attachés ;
 
-― les internes ;
+-les internes ;
 
-― les études médicales à l'hôpital ;
+-les études médicales à l'hôpital ;
 
-― les consultants ;
+-les consultants ;
 
-― les sages-femmes.
+-les sages-femmes.
 
 3.2. Le personnel non médical :
 
@@ -88,63 +88,73 @@ La démographie des personnels hospitaliers non médicaux.
 
 3.2.1. Les règles générales :
 
-― droits et obligations des fonctionnaires hospitaliers (titre IV) ;
+-les droits et obligations des fonctionnaires hospitaliers (titres Ier et IV) ;
 
-― le Conseil supérieur de la fonction publique hospitalière ;
+-le Conseil supérieur de la fonction publique hospitalière ;
 
-― la formation continue.
+-les outils de la formation des personnels.
 
 3.2.2. Notions sur les statuts particuliers :
 
-― les personnels administratifs dont les personnels de direction ;
+-les personnels administratifs dont les personnels de direction ;
 
-― les personnels techniques et ouvriers ;
+-les personnels techniques et ouvriers ;
 
-― les personnels des services de soins, médicotechniques et de rééducation dont les directeurs des soins ;
+-les personnels des services de soins, médico-techniques et de rééducation et les directeurs des soins ;
 
-― les personnels socio-éducatifs ;
+-les personnels socio-éducatifs ;
 
-― les psychologues.
+-les psychologues.
 
-IV. ― Le statut du malade et l'éthique dans le monde hospitalier
+IV.-Le statut du malade et l'éthique dans le monde hospitalier
 
-4.1. Le malade hospitalisé en hôpital général et en psychiatrie :
+4.1. Le malade hospitalisé :
 
-― la loi du 4 mars 2002 ;
+-la charte du malade hospitalisé : le cadre de la loi du 4 mars 2002 ;
 
-― la charte du malade hospitalisé ;
+-l'éthique en milieu hospitalier ;
 
-― l'éthique en milieu hospitalier ;
+-le Comité national d'éthique ;
 
-― le Comité national d'éthique ;
+-le respect du secret médical et sa protection en EPS ;
 
-― le Comité de protection des personnes ;
+-les règles spécifiques à la santé mentale et ses évolutions récentes ;
 
-― les prélèvements d'organes.
+-les prélèvements d'organes.
 
 4.2. Le malade non hospitalisé :
 
-― les consultations externes.
+-les consultations externes.
 
-V. ― Le fonctionnement économique et financier
+V.-Le fonctionnement économique et financier
 
-5.1. Gestion financière :
+5.1. Les modalités d'allocation des ressources :
 
-― la tarification à l'activité (T2A) : ses principes, son champ d'application, ses modalités de mise en œuvre ;
+-la tarification à l'activité : T2A (principes, champs d'application et modalités de mise en œuvre) ;
 
-― les autres sources de financement ; l'état prévisionnel des recettes et des dépenses (EPRD), le plan global de financement prévisionnel (PGFP), le plan prévisionnel d'investissement (PPI) ;
+-les autres sources de financement des activités sanitaires des EPS (MIGAC, DAF, produits des tarifications journalières, forfait journalier, autres recettes ...) ;
 
-― la procédure budgétaire ;
+-le financement des activités sociales et médico-sociales gérées par les EPS ;
 
-― le régime comptable des EPS.
+-le régime comptable des EPS ;
+
+-la séparation de l'ordonnateur et du comptable ;
+
+-la procédure et les documents budgétaires des EPS :
+
+-le financement des investissements : le plan global de financement pluriannuel (PGFP) ;
+
+-l'annualité budgétaire : l'état prévisionnel des recettes et des dépenses (EPRD) et ses annexes ;
+
+-les équilibres financiers : tableau de financement, capacité d'autofinancement (CAF), fonds de roulement (FDR), besoin en fonds de roulement (BFR) et trésorerie.
 
 5.2. Gestion économique :
 
-― l'achat public ;
+-le comptable matière ;
 
-― le rôle de l'ordonnateur et du comptable.
+-l'achat public.
 
-VI. ― La responsabilité des établissements publics de santé
+VI.-La responsabilité des établissements publics de santé
 
 Responsabilité des établissements.
 
@@ -152,13 +162,13 @@ Responsabilité des personnels hospitaliers.
 
 Principes généraux de la responsabilité administrative du secteur hospitalier :
 
-― problème de compétence ;
+-problème de compétence ;
 
-― fondements de la responsabilité ;
+-fondements de la responsabilité ;
 
-― évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
+-évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
 
-― l'indemnisation des malades, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
+-l'indemnisation des malades, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
 
 Droit public
 

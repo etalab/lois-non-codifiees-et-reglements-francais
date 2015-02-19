@@ -6,7 +6,7 @@ Le jury du concours est arrêté par le directeur général du Centre national d
 
 ― le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 
-― un conseiller général des établissements de santé désigné par le chef de l'inspection générale des affaires sociales ;
+― un membre de l'inspection générale des affaires sociales ;
 
 ― un membre du personnel de direction régi soit par le décret n° 2005-921 du 2 août 2005 modifié, soit par le décret n° 2001-1343 du 28 décembre 2001, désigné par le directeur général du Centre national de gestion ;
 
@@ -16,6 +16,6 @@ En cas ce nécessité, il peut être fait appel à des fonctionnaires en retrait
 
 Des correcteurs peuvent être désignés par le directeur général du Centre national de gestion pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour l'attribution de notes aux épreuves qu'ils ont corrigées.
 
-La présidence du jury est exercée par le directeur général de l'offre de soins. En cas d'absence ou d'empêchement de celui-ci, le directeur général du Centre national de gestion désigne le président du jury parmi les membres du jury.
+Le président du jury est désigné par le directeur général du Centre national de gestion parmi les membres du jury.
 
 Le secrétariat est assuré par le Centre national de gestion.
