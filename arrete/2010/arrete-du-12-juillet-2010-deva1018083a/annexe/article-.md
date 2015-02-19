@@ -72,4 +72,8 @@ Jusqu'au 30 juin 2019 :
 
 Saint-Denis de La Réunion-Diégo-Suarez (Madagascar) ;
 
-Saint-Denis de La Réunion-Praslin (Seychelles)
+Saint-Denis de La Réunion-Praslin (Seychelles).
+
+Jusqu'au 29 février 2020 :
+
+Saint-Pierre de La Réunion-Rodrigues (Maurice).
