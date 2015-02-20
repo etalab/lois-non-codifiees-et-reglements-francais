@@ -1,0 +1,5 @@
+# Article 4
+
+A l'issue de l'épreuve d'admission, le jury établit, par ordre de mérite, la liste des candidats admis ainsi que, le cas échéant, une liste complémentaire.
+
+Si plusieurs candidats ont obtenu le même nombre de points, la priorité est accordée à celui qui a obtenu la note la plus élevée à l'épreuve d'entretien.
