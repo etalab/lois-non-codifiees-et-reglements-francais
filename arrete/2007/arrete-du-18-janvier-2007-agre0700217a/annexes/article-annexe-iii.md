@@ -84,10 +84,10 @@ Référentiel de formation et d'évaluation
 </tr>
 <tr>
 <td valign="top" width="359">
-<p align="left">L'amélioration génétique.</p>
+<p align="left">L'amélioration génétique et génomique.</p>
 </td>
 <td valign="top" width="359">
-<p align="left">Exposer les objectifs et les principes de l'amélioration génétique.</p>
+<p align="left">Exposer les objectifs et les principes de l'amélioration génétique et notamment la sélection génomique.</p>
 <p align="left">Interpréter et utiliser les documents techniques relatifs aux reproducteurs.</p>
 </td>
 </tr>
@@ -96,9 +96,9 @@ Référentiel de formation et d'évaluation
 <p align="left">L'insémination artificielle. Le geste opératoire. Les règles de sécurité.</p>
 </td>
 <td valign="top" width="359">
-<p align="left">Manipuler et, si nécessaire, décongeler la semence dans le respect des règles techniques et dans le respect des règles d'hygiène et de sécurité. </p>
+<p align="left">Manipuler et, si nécessaire, décongeler la semence dans le respect des règles techniques y compris la semence sexée et dans le respect des règles d'hygiène et de sécurité. </p>
 <p align="left">Mettre en place la semence dans le respect du bien-être animal, des règles d'hygiène et de sécurité. </p>
-<p align="left">Mettre en place les traitements de maîtrise des cycles dans le respect des règles d'hygiène et de sécurité.</p>
+<p align="left">Mettre en place les traitements de maîtrise des cycles dans le respect des règles d'hygiène, de sécurité et des protocoles en vigueur et de sécurité.</p>
 </td>
 </tr>
 <tr>
