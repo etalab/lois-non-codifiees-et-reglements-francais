@@ -1086,7 +1086,6 @@
 - [Arrêté du 14 décembre 2011 (JUSB1133462A)](arrete-du-14-decembre-2011-jusb1133462a)
 - [Arrêté du 14 décembre 2011 (JUSC1132391A)](arrete-du-14-decembre-2011-jusc1132391a)
 - [Arrêté du 14 décembre 2011 (MCCK1122912A)](arrete-du-14-decembre-2011-mcck1122912a)
-- [Arrêté du 14 décembre 2011 (MENF1129812A)](arrete-du-14-decembre-2011-menf1129812a)
 - [Arrêté du 14 décembre 2011 (MENF1129816A)](arrete-du-14-decembre-2011-menf1129816a)
 - [Arrêté du 14 décembre 2011 (MENF1129818A)](arrete-du-14-decembre-2011-menf1129818a)
 - [Arrêté du 14 décembre 2011 (MENF1129820A)](arrete-du-14-decembre-2011-menf1129820a)
