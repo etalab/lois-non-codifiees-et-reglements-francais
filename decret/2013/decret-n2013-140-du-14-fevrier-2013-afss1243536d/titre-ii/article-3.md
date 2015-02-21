@@ -16,9 +16,15 @@ a) Au deuxième alinéa, dans sa rédaction issue du décret du 30 décembre 201
 
 b) Au dernier alinéa, les mots : " ou si la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 241-5 du code de l'action sociale et des familles leur reconnaît, compte tenu de leur handicap, une restriction substantielle et durable pour l'accès à l'emploi " sont supprimés ;
 
-6° A l'article D. 755-19, il est ajouté un alinéa ainsi rédigé :
+6° L'article D. 755-19 est ainsi rédigé :
 
-" Toutefois, lorsqu'en cours de droit, dans les cas prévus au dernier alinéa de l'article L. 755-21, le logement ne répond plus aux conditions mentionnées à l'alinéa précédent, l'allocation de logement est maintenue pour une durée d'un an, à condition que la surface habitable globale soit au moins égale à treize mètres carrés pour un ménage sans enfant ou deux personnes, augmentée de six mètres carrés par personne en plus dans la limite de cinquante-quatre mètres carrés pour neuf personnes et plus. " ;
+Pour ouvrir droit à l'allocation, le logement doit répondre aux conditions suivantes :
+
+1° Remplir les caractéristiques de logement décent telles que définies par le décret n° 2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement décent pris pour l'application des premier et deuxième alinéas de l'article 6 de la loi n° 89-462 du 6 juillet 1989 modifiée tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 ;
+
+2° Présenter une surface habitable globale au moins égale à seize mètres carrés pour un ménage sans enfant ou deux personnes, augmentée de neuf mètres carrés par personne en plus dans la limite de soixante-dix mètres carrés pour huit personnes et plus.
+
+Toutefois, lorsqu'en cours de droit, le logement, du fait de l'arrivée au foyer d'un enfant à charge, d'un conjoint, concubin ou partenaire lié par un pacte civil de solidarité, d'un ascendant à charge ou d'un collatéral de deuxième ou de troisième degré, ne répond plus aux conditions mentionnées à l'alinéa précédent, l'allocation de logement est maintenue pour une durée d'un an, à condition que la surface habitable globale soit au moins égale à treize mètres carrés pour un ménage sans enfant ou deux personnes, augmentée de six mètres carrés par personne en plus dans la limite de cinquante-quatre mètres carrés pour neuf personnes et plus ;
 
 7° Après le premier alinéa de l'article D. 755-24, sont insérés neuf alinéas ainsi rédigés :
 
@@ -56,7 +62,11 @@ b) Après le troisième alinéa, il est inséré un alinéa ainsi rédigé :
 
 c) Le quatrième alinéa n'est pas applicable ;
 
-9° Au dernier alinéa de l'article D. 755-30, la référence à l'article L. 331-1 est remplacée par la référence à l'article L. 334-1 ;
+9° L'article D. 755-30 est ainsi modifié :
+
+a) Au troisième alinéa, les mots : "des dérogations prévues aux articles D. 542-2 et D. 755-37" sont remplacés par les mots : "du maintien de l'allocation prévu au dernier alinéa de l'article D. 755-19" ;
+
+b) Au dernier alinéa, la référence à l'article L. 331-1 est remplacée par la référence à l'article L. 334-1 ;
 
 10° Le dernier alinéa de l'article D. 755-31 est ainsi modifié :
 

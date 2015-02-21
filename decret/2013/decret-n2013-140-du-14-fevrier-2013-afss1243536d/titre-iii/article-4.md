@@ -1,6 +1,6 @@
 # Article 4
 
-Les dispositions des articles R. 831-1 à R. 835-1 du code de la sécurité sociale sont applicables à Mayotte ainsi que, pour les besoins de cette application, les dispositions du code de la sécurité sociale auxquelles ces dispositions renvoient, sous réserve des adaptations suivantes :
+Les dispositions des articles R. 831-1 à R. 831-17 et R. 831-20 à R. 835-1 du code de la sécurité sociale sont applicables à Mayotte ainsi que, pour les besoins de cette application, les dispositions du code de la sécurité sociale auxquelles ces dispositions renvoient, sous réserve des adaptations suivantes :
 
 1° Pour l'application de l'article R. 532-8, les mots : " salaire minimum de croissance horaire " sont remplacés par les mots : " salaire minimum interprofessionnel garanti prévu à l'article L. 141-1 du code du travail à Mayotte " ;
 
@@ -16,7 +16,9 @@ b) Au deuxième alinéa, les mots : " par l'article L. 161-17-2 " sont remplacé
 
 5° Pour l'application de l'article R. 532-7 :
 
-a) Les références aux articles L. 5122-1, L. 5422-1, L. 5422-3 et L. 5422-20 du code du travail sont remplacées respectivement par les références aux articles L. 321-14, L. 327-5, L. 327-7 et L. 327-19 du code du travail applicable à Mayotte ;
+a) Les références aux articles L. 5122-1,
+L. 5422-1, L. 5422-3 et L. 5422-20 du code du travail sont remplacées respectivement par les références aux articles L. 321-14,
+L. 327-5, L. 327-7 et L. 327-19 du code du travail applicable à Mayotte ;
 
 b) Le deuxième alinéa est supprimé ;
 
@@ -35,6 +37,14 @@ b) Les deuxième à quatrième alinéas ne sont pas applicables ;
 7° bis A l'article R. 831-16, la référence à l'article L. 331-1 est remplacée par la référence à l'article L. 334-1 ;
 
 7° ter Au I de l'article R. 831-21-5, la référence à l'article L. 331-1 est remplacée par la référence à l'article L. 334-1 ;
+
+7° quater L'article R. 832-2 est ainsi rédigé :
+
+La condition de superficie prévue à l'article R. 831-13-1 du code de la sécurité sociale est réputée remplie en ce qui concerne les personnes qui occupent un logement aménagé de manière à constituer une unité d'habitation autonome et situé dans un foyer doté de services collectifs.
+
+Les personnes résidant dans une maison de retraite ou hébergées dans les unités et centres de long séjour relevant de l'article L. 6111-1 du code de la santé publique doivent disposer d'une chambre d'au moins 9 mètres carrés pour une personne seule et de 16 mètres carrés pour deux personnes. Le droit à l'allocation de logement n'est pas ouvert si la chambre est occupée par plus de deux personnes. Les personnes ou les ménages bénéficiaires de l'allocation de logement et qui s'en trouveraient exclus par application des présentes normes continueront à en bénéficier, pour le même local, dans la limite des dérogations qui leur avaient été accordées avant le 1er juillet 1978.
+
+Les caractéristiques des locaux affectés aux personnes hébergées en application des articles L. 441-1 à L. 443-10 du code de l'action sociale et des familles sont celles qui sont fixées par les articles R. 831-13 et R. 831-13-1 du code de la sécurité sociale et sont compatibles avec les contraintes liées à l'âge ou au handicap de ces personnes.
 
 8° Au deuxième alinéa de l'article R. 834-1-1, les mots : " des articles L. 1111-2, L. 1111-3 et L. 1251-54 du code du travail " sont remplacés par les mots : " des articles L. 011-4 et L. 011-5 du code du travail applicable à Mayotte " ;
 
