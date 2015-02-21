@@ -1523,7 +1523,6 @@
 - [Arrêté du 19 juillet 2012 (PROG1230166A)](arrete-du-19-juillet-2012-prog1230166a)
 - [Arrêté du 19 juillet 2012 (PROG1230168A)](arrete-du-19-juillet-2012-prog1230168a)
 - [Arrêté du 19 juillet 2012 (PROG1230169A)](arrete-du-19-juillet-2012-prog1230169a)
-- [Arrêté du 19 juin 2012 (AFSR1222927A)](arrete-du-19-juin-2012-afsr1222927a)
 - [Arrêté du 19 juin 2012 (BUDE1225974A)](arrete-du-19-juin-2012-bude1225974a)
 - [Arrêté du 19 juin 2012 (BUDE1225977A)](arrete-du-19-juin-2012-bude1225977a)
 - [Arrêté du 19 juin 2012 (BUDE1225986A)](arrete-du-19-juin-2012-bude1225986a)
