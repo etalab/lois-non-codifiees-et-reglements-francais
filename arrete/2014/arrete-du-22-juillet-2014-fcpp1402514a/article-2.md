@@ -10,19 +10,19 @@ Sous-directeur de la gestion des personnels et des parcours professionnels.
 
 2. Direction générale du Trésor
 
-a) Sous-directeur du diagnostic et des prévisions.
+a) Sous-directeur du diagnostic et des prévisions ;
 
-b) Sous-directeur des politiques macroéconomiques.
+b) Sous-directeur des politiques macroéconomiques ;
 
-c) Sous-directeur du financement des entreprises et du marché financier.
+c) Sous-directeur du financement des entreprises et du marché financier ;
 
-d) Sous-directeur des affaires financières multilatérales et du développement.
+d) Sous-directeur des affaires financières multilatérales et du développement ;
 
-e) Sous-directeur de la politique commerciale et de l'investissement.
+e) Sous-directeur de la politique commerciale et de l'investissement ;
 
-f) Sous-directeur, responsable du pôle de la dette et de la trésorerie de l'Etat, avec titre de directeur général adjoint du service à compétence nationale Agence France Trésor.
+f) Sous-directeur, responsable du pôle de la dette et de la trésorerie de l'Etat, avec titre de directeur général adjoint du service à compétence nationale Agence France Trésor ;
 
-g) Sous-directeur "services, aéronautique et défense" à l'Agence des participations de l'Etat.
+g) Sous-directeur, directeur de participations "énergie" à l'Agence des participations de l'Etat.
 
 3. Direction du budget
 
@@ -38,31 +38,35 @@ e) Sous-directeur, en charge de la 8e sous-direction.
 
 4. Direction générale des finances publiques
 
-a) Sous-directeur du contentieux des impôts des particuliers.
+a) Sous-directeur des particuliers ;
 
-b) Sous-directeur des particuliers.
+b) Sous-directeur des missions foncières, de la fiscalité du patrimoine et des statistiques ;
 
-c) Sous-directeur des missions foncières, de la fiscalité du patrimoine et des statistiques.
+c) Sous-directeur de la fiscalité des personnes ;
 
-d) Sous-directeur des dépenses de l'Etat et des opérateurs.
+d) Sous-directeur des prospectives et relations internationales ;
 
-e) Sous-directeur de la fiscalité des transactions.
+e) Sous-directeur de la gestion comptable et financière des collectivités locales ;
 
-5. Direction générale de la compétitivité, de l'industrie et des services
+f) Sous-directeur de la stratégie, du pilotage et du contrôle de gestion.
 
-a) Sous-directeur de la réglementation et des affaires européennes et multilatérales.
+5. Direction générale des entreprises
 
-b) Sous-directeur des filières des matériels de transport, de l'énergie et des éco-industries.
+a) Sous-directeur de la prospective, des études et de l'évaluation économiques ;
 
-c) Sous-directeur de l'industrie de santé, de la chimie et des nouveaux matériaux.
+b) Sous-directeur de l'innovation et de l'entrepreneuriat ;
 
-d) Sous-directeur du tourisme.
+c) Sous-directeur des communications électroniques et des postes ;
 
-e) Sous-directeur de l'innovation, de la compétitivité et du développement des PME.
+d) Sous-directeur de la chimie, des matériaux et des éco-industries ;
 
-f) Sous-directeur des affaires juridiques et du droit des entreprises.
+e) Sous-directeur des matériels de transport, de la mécanique et de l'énergie ;
 
-g) Sous-directeur de la prospective, des études économiques et de l'évaluation.
+f) Sous-directeur du commerce, de l'artisanat et de la restauration ;
+
+g) Sous-directeur du tourisme ;
+
+h) Sous-directeur du droit des entreprises.
 
 6. Direction générale de la concurrence, de la consommation et de la répression des fraudes
 
@@ -112,29 +116,31 @@ g) Sous-directeur du cadre de vie.
 
 2. Direction générale du Trésor
 
-a) Sous-directeur des affaires européennes.
+a) Sous-directeur des affaires européennes ;
 
-b) Sous-directeur des finances publiques.
+b) Sous-directeur des finances publiques ;
 
-c) Sous-directeur des politiques sociales et de l'emploi.
+c) Sous-directeur des politiques sociales et de l'emploi ;
 
-d) Sous-directeur des politiques sectorielles.
+d) Sous-directeur des politiques sectorielles ;
 
-e) Sous-directeur des banques et des financements d'intérêt général.
+e) Sous-directeur des banques et des financements d'intérêt général ;
 
-f) Sous-directeur des assurances.
+f) Sous-directeur des assurances ;
 
-g) Sous-directeur du financement international des entreprises.
+g) Sous-directeur du financement international des entreprises ;
 
-h) Sous-directeur des relations économiques bilatérales.
+h) Sous-directeur des relations économiques bilatérales ;
 
-i) Sous-directeur de la gestion et du pilotage des moyens, avec titre de secrétaire général adjoint.
+i) Sous-directeur de la gestion et du pilotage des moyens, avec titre de secrétaire général adjoint ;
 
-j) Sous-directeur "transports et audiovisuel" à l'Agence des participations de l'Etat.
+j) Sous-directeur, directeur de l'Agence de gestion du réseau international des finances (RESINTER) ;
 
-k) Sous-directeur "énergie" à l'Agence des participations de l'Etat.
+k) Sous-directeur, directeur de participations "transports" à l'Agence des participations de l'Etat ;
 
-l) Sous-directeur, directeur de l'Agence de gestion du réseau international des finances (RESINTER).
+l) Sous-directeur, directeur de participation "services et finances" à l'Agence des participations de l'Etat ;
+
+m) Sous-directeur, directeur de participations "industrie" à l'Agence des participations de l'Etat.
 
 3. Direction du budget
 
@@ -146,63 +152,65 @@ c) Sous-directeur, en charge de la 7e sous-direction.
 
 4. Direction générale des finances publiques
 
-a) Sous-directeur, directeur du service à compétence nationale "Cap numérique".
+a) Sous-directeur, directeur du service à compétence nationale "Cap numérique" ;
 
-b) Sous-directeur du contrôle fiscal.
+b) Sous-directeur du contrôle fiscal ;
 
-c) Sous-directeur du contentieux des impôts des professionnels.
+c) Sous-directeur du contentieux des impôts des professionnels ;
 
-d) Sous-directeur des professionnels et de l'action en recouvrement.
+d) Sous-directeur des professionnels et de l'action en recouvrement ;
 
-e) Sous-directeur de la gestion comptable et financière des collectivités locales.
+e) Sous-directeur du Conseil fiscal, financier et économique ;
 
-f) Sous-directeur du Conseil fiscal, financier et économique.
+f) Sous-directeur de la comptabilité de l'Etat ;
 
-g) Sous-directeur de la comptabilité de l'Etat.
+g) Sous-directeur, responsable du département des retraites et de l'accueil au service des retraites de l'Etat ;
 
-h) Sous-directeur, responsable du département des retraites et de l'accueil au service des retraites de l'Etat.
+h) Sous-directeur, responsable du département du programme de modernisation au service des retraites de l'Etat ;
 
-i) Sous-directeur, responsable du département du programme de modernisation au service des retraites de l'Etat.
+i) Sous-directeur de l'encadrement et des relations sociales ;
 
-j) Sous-directeur de l'encadrement et des relations sociales.
+j) Sous-directeur de la gestion des personnels et des parcours professionnels ;
 
-k) Sous-directeur de la gestion des personnels et des parcours professionnels.
+k) Sous-directeur de la gestion du budget et de l'immobilier ;
 
-l) Sous-directeur de la stratégie, du pilotage et du contrôle de gestion.
+l) Sous-directeur des études et du développement ;
 
-m) Sous-directeur de la gestion du budget et de l'immobilier.
+m) Sous-directeur de la production ;
 
-n) Sous-directeur des études et du développement.
+n) Sous-directeur de la fiscalité directe des entreprises ;
 
-o) Sous-directeur de la production.
+o) Sous-directeur du contentieux des impôts des particuliers ;
 
-p) Sous-directeur de la fiscalité directe des entreprises.
+p) Sous-directeur des dépenses de l'Etat et des opérateurs ;
 
-q) Sous-directeur de la fiscalité des personnes.
+q) Sous-directeur de la fiscalité des transactions.
 
-r) Sous-directeur des prospectives et relations internationales.
+5. Direction générale des entreprises
 
-5. Direction générale de la compétitivité, de l'industrie et des services
+a) Sous-directeur de l'action territoriale et du développement économique ;
 
-a) Sous-directeur des affaires budgétaires et financières et des moyens généraux.
+b) Sous-directeur de la réindustrialisation et des restructurations d'entreprises ;
 
-b) Sous-directeur des réseaux et des usages des technologies de l'information et de la communication.
+c) Sous-directeur de l'Europe et de l'international ;
 
-c) Sous-directeur de l'électronique et du logiciel.
+d) Sous-directeur des chambres consulaires ;
 
-d) Sous-directeur de la mode, du luxe, des biens de consommation et du design.
+e) Sous-directeur de la normalisation, de la réglementation des produits et de la métrologie ;
 
-e) Sous-directeur en charge du service à compétence nationale "service des biens à double usage".
+f) Sous-directeur de l'électronique et du logiciel ;
 
-f) Sous-directeur du commerce, de l'artisanat et des professions libérales.
+g) Sous-directeur des réseaux et des usages numériques ;
 
-g) Sous-directeur des activités postales et des services aux entreprises.
+h) Sous-directeur des affaires financières et des moyens ;
 
-h) Sous-directeur de la qualité, de la normalisation, de la métrologie et de la propriété industrielle.
+i) Sous-directeur des ressources humaines et de la communication ;
 
-i) Sous-directeur des chambres consulaires.
+j) Sous-directeur, chef du service à compétence nationale Services des biens à double usage ;
 
-j) Sous-directeur de l'Europe et des partenariats internationaux.
+k) Sous-directeur des entreprises de services et des professions libérales ;
+
+l) Sous-directeur des industries de santé et des biens de consommation.
 
 6. Direction générale de la concurrence, de la consommation et de la répression des fraudes
 

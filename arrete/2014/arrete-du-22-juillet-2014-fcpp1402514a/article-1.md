@@ -10,19 +10,23 @@ Chef du service des affaires financières et immobilières
 
 2. Direction générale du Trésor
 
-a) Chef du service des politiques macroéconomiques et des affaires européennes.
+a) Chef du service des politiques macroéconomiques et des affaires européennes ;
 
-b) Chef du service des politiques publiques.
+b) Chef du service des politiques publiques ;
 
-c) Chef du service du financement de l'économie.
+c) Chef du service du financement de l'économie ;
 
-d) Chef du service des affaires multilatérales et du développement.
+d) Chef du service des affaires multilatérales et du développement ;
 
-e) Chef du service des affaires bilatérales et de l'internationalisation des entreprises.
+e) Chef du service des affaires bilatérales et de l'internationalisation des entreprises ;
 
-f) Chef de service, secrétaire général.
+f) Chef de service, secrétaire général ;
 
-g) Chef de service, directeur général du service à compétence nationale Agence France Trésor.
+g) Chef de service, directeur général du service à compétence nationale Agence France Trésor ;
+
+h) Chef de service, directeur général adjoint du service à compétence nationale Agence des participations de l'Etat ;
+
+i) Chef de service, directeur du service à compétence nationale Service de pilotage du dispositif de sortie des emprunts à risque.
 
 3. Direction du budget
 
@@ -46,15 +50,17 @@ g) Chef du service "stratégie, pilotage, budget".
 
 h) Chef du service des systèmes d'information.
 
-5. Direction générale de la compétitivité, de l'industrie et des services
+5. Direction générale des entreprises
 
-a) Chef du service des technologies de l'information et de la communication.
+a) Chef du service de l'action territoriale, européenne et internationale ;
 
-b) Chef du service de l'industrie.
+b) Chef du service de la compétitivité, de l'innovation et du développement des entreprises ;
 
-c) Chef du service "tourisme, commerce, artisanat et services".
+c) Chef du service de l'économie numérique ;
 
-d) Chef du service de la compétitivité et du développement des PME.
+d) Chef du service de l'industrie ;
+
+e) Chef du service du tourisme, du commerce, de l'artisanat et des services.
 
 6. Direction générale de la concurrence, de la consommation et de la répression des fraudes
 
@@ -90,7 +96,7 @@ a) Chef de service, directeur du service des retraites de l'Etat.
 
 b) Chef du service France Domaine.
 
-3. Direction générale de la compétitivité, de l'industrie et des services
+3. Direction générale des entreprises
 
 Chef du service, secrétaire général.
 
