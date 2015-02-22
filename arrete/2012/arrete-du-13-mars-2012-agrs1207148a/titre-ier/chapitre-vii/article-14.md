@@ -1,3 +1,0 @@
-# Article 14
-
-Il est créé auprès de chaque directeur régional de l'alimentation, de l'agriculture et de la forêt et auprès du directeur régional et interdépartemental de l'alimentation, de l'agriculture et de la forêt d'Ile-de-France, conformément à l'article 34 du décret du 28 mai 1982 susvisé, un comité d'hygiène, de sécurité et des conditions de travail régional de l'enseignement agricole. Ce comité est compétent pour connaître, dans le cadre du titre IV du même décret, de toutes les questions communes spécifiques concernant tout ou partie des établissements publics locaux d'enseignement et de formation professionnelle agricoles implantés dans une même région.

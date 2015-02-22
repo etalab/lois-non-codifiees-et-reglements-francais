@@ -1,3 +1,0 @@
-# Article 10
-
-Il est créé auprès de chaque directeur de l'alimentation, de l'agriculture et de la forêt de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de La Réunion, conformément à l'article 34 du décret du 28 mai 1982 susvisé, un comité d'hygiène, de sécurité et des conditions de travail de proximité ayant compétence pour connaître, dans le cadre du titre IV du même décret, de toutes les questions concernant les services déconcentrés du ministère chargé de l'agriculture et les établissements publics d'enseignement et de formation professionnelle agricoles implantés dans le département.

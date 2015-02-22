@@ -1018,7 +1018,6 @@
 - [Arrêté du 13 juin 2012 (JUSD1225929A)](arrete-du-13-juin-2012-jusd1225929a)
 - [Arrêté du 13 juin 2012 (TRAT1225371A)](arrete-du-13-juin-2012-trat1225371a)
 - [Arrêté du 13 mars 2006 (SANP0621113A)](arrete-du-13-mars-2006-sanp0621113a)
-- [Arrêté du 13 mars 2012 (AGRS1207148A)](arrete-du-13-mars-2012-agrs1207148a)
 - [Arrêté du 13 mars 2012 (DEVA1207561A)](arrete-du-13-mars-2012-deva1207561a)
 - [Arrêté du 13 mars 2012 (EFIK1200035A)](arrete-du-13-mars-2012-efik1200035a)
 - [Arrêté du 13 mars 2012 (ESRH1201542A)](arrete-du-13-mars-2012-esrh1201542a)
