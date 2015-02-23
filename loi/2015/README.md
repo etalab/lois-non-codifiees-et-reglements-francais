@@ -9,4 +9,5 @@
 - [LOI n°2014-872 du 4 août 2014 (DEVX1320370L)](loi-n2014-872-du-4-aout-2014-devx1320370l)
 - [LOI n°2015-136 du 9 février 2015 (DEVX1402671L)](loi-n2015-136-du-9-fevrier-2015-devx1402671l)
 - [LOI n°2015-177 du 16 février 2015 (JUSX1326670L)](loi-n2015-177-du-16-fevrier-2015-jusx1326670l)
+- [LOI n°2015-195 du 20 février 2015 (MCCB1421649L)](loi-n2015-195-du-20-fevrier-2015-mccb1421649l)
 - [LOI n°2015-29 du 16 janvier 2015 (INTX1412841L)](loi-n2015-29-du-16-janvier-2015-intx1412841l)
