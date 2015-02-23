@@ -471,7 +471,6 @@
 - [Décret n°97-1187 du 19 décembre 1997 (JUSX9700135D)](decret-n97-1187-du-19-decembre-1997-jusx9700135d)
 - [Décret n°97-1191 du 19 décembre 1997 (INTX9700137D)](decret-n97-1191-du-19-decembre-1997-intx9700137d)
 - [Décret n°97-1194 du 19 décembre 1997 (ECOX9700149D)](decret-n97-1194-du-19-decembre-1997-ecox9700149d)
-- [Décret n°97-1198 du 19 décembre 1997 (EQUX9700145D)](decret-n97-1198-du-19-decembre-1997-equx9700145d)
 - [Décret n°97-1200 du 19 décembre 1997 (MCCX9700144D)](decret-n97-1200-du-19-decembre-1997-mccx9700144d)
 - [Décret n°97-1206 du 19 décembre 1997 (FPPX9700130D)](decret-n97-1206-du-19-decembre-1997-fppx9700130d)
 - [Décret n°97-1207 du 19 décembre 1997 (FPPX9700147D)](decret-n97-1207-du-19-decembre-1997-fppx9700147d)
