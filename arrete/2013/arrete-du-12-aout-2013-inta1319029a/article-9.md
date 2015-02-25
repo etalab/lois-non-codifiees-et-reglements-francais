@@ -2,7 +2,7 @@
 
 La sous-direction des polices administratives est chargée de proposer, préparer et mettre en œuvre les législations relatives :
 
-a) A l'éloignement des étrangers pour des motifs d'ordre public relevant de la compétence du ministre ;
+a) A l'éloignement des étrangers pour des motifs d'ordre public et à leur interdiction du territoire ;
 
 b) Aux casinos et cercles de jeux ;
 

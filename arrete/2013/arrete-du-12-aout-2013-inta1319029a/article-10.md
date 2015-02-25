@@ -8,7 +8,7 @@ Elle est chargée de l'application et de l'évolution de la législation concern
 
 Elle veille à l'application du principe de laïcité et des législations relatives à l'exercice du culte ; elle assure les relations de l'Etat avec les cultes.
 
-Elle suit les affaires cultuelles, notamment l'application du régime concordataire dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Elle est chargée de préparer les textes législatifs et règlementaires relatifs aux titres d'identité et de voyage délivrés aux Français. Elle en suit l'application.
+Elle suit les affaires cultuelles, notamment l'application du régime concordataire dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Elle est chargée de préparer les textes législatifs et règlementaires relatifs aux titres d'identité et de voyage délivrés aux Français et à l'interdiction de sortie du territoire. Elle en suit l'application.
 
 Elle prépare les décisions individuelles relevant de la compétence du ministre dans les activités ci-dessus énumérées.
 
