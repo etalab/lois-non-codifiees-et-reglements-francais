@@ -35,3 +35,5 @@ Le titulaire du brevet fédéral de moniteur délivré par la Fédération fran�
 Le titulaire du diplôme d'accompagnateur de moyenne montagne assorti du certificat de qualification complémentaire (CQC) "VTT en milieu montagnard" obtient de droit les dix UC du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités du cyclisme", mention "VTT".
 
 Le titulaire du diplôme de guide de haute montagne assorti du certificat de qualification complémentaire (CQC) "VTT en milieu montagnard" obtient de droit les dix UC du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités du cyclisme", mention "VTT".
+
+Le titulaire du diplôme d'accompagnateur de moyenne montagne du brevet d'Etat d'alpinisme, du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme, du diplôme d'Etat d'alpinisme accompagnateur en moyenne montagne ou du diplôme d'Etat d'alpinisme guide de haute montagne, obtient de droit les UC1, 2, 3, 4, 5 et 6 du brevet professionnel de la jeunesse de l'éducation populaire et du sport spécialité "activités du cyclisme", mention "VTT".
