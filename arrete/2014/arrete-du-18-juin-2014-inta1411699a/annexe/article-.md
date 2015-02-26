@@ -12,6 +12,8 @@ A compter du 1er septembre 2014 :
 
 - Aisne (02), Oise (60) et les sous-préfectures de Saint-Quentin (02), de Soissons (02) et de Senlis (60) ;
 
+- la sous-préfecture de Palaiseau (91) ;
+
 - Meurthe-et-Moselle (54), Meuse (55) et Vosges (88).
 
 A compter du 1er octobre 2014 :
@@ -21,6 +23,8 @@ A compter du 1er octobre 2014 :
 A compter du 1er novembre 2014 :
 
 - Ain (01), Drôme (26), Isère (38), Rhône (69), Savoie (73), Haute-Savoie (74) et les sous-préfectures de Vienne (38), de la Tour du Pin (38) et de Tournon-sur-Rhône (07) ;
+
+- la préfecture de Nanterre (92) et la sous-préfecture d'Antony (92) ;
 
 - Doubs (25), Jura (39) et Haute-Saône (70).
 
@@ -47,5 +51,13 @@ A compter du 1er janvier 2015 :
 - Corrèze (19), Haute-Vienne (87).
 
 A compter du 1er avril 2015 :
+
+- Cantal (15), Allier (03) et Puy-de-Dôme (63) ;
+
+- Calvados (14) et Manche (50) ;
+
+- Eure (27), Seine-Maritime (76) et la sous-préfecture du Havre (76) ;
+
+- les sous-préfectures de Meaux (77) et de Torcy (77) ;
 
 - Charente-Maritime (17), Deux-Sèvres (79) et Vienne (86).

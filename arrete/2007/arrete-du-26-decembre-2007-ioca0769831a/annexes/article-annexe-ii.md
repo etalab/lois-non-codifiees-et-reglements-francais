@@ -1218,6 +1218,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
 <p align="center">2</p>
@@ -1722,8 +1723,10 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </td>
 </tr>
 <tr>
-<td>987 Polynésie française </td>
-<td align="center">1</td>
+<td>
+<p align="left">987 Polynésie française </p>
+</td>
+<td align="center">2</td>
 <td align="center">30 <br/>
 </td>
 </tr>
