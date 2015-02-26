@@ -33,7 +33,33 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="5">
+<td align="left" valign="top">
+<p align="left">Secrétariat général. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chargé de mission préfiguration de la juridiction administrative spécialisée du stationnement. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">Direction de la modernisation et de l'action territoriale. </td>
+<td>
+<p align="left">Chef de projet réforme de l'administration territoriale de l'Etat. </p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>Chargé de mission modernisation de l'action publique. </td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td align="left" rowspan="6">
 <br/>Direction des libertés publiques et des affaires juridiques. <br/>
 </td>
 <td align="left">
@@ -73,6 +99,14 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 <td align="center">
 <br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chef du bureau des établissements de jeux. </p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -155,8 +189,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left" rowspan="5">
-<br/>Direction de l'évaluation de la performance et des affaires financières et immobilières. <br/>
-</td>
+<br/>Direction de l'évaluation de la performance et des affaires financières et immobilières. </td>
 <td align="left">
 <br/>Chef du bureau de la gestion des sites de l'administration centrale. <br/>
 </td>
@@ -181,9 +214,7 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Adjoint au chef du bureau de la synthèse budgétaire. <br/>
-</td>
+<td align="left">Chef du bureau des ressources mutualisées.</td>
 <td align="center">
 <br/>30 <br/>
 </td>
@@ -335,10 +366,9 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left">
-<br/>Chef de la division de l'organisation des concours et examens professionnels. <br/>
+<p align="left">Chef de la division de l'organisation des concours et examens professionnels.</p>
 </td>
-<td align="center">
-<br/>50 <br/>
+<td align="center">50 <br/>
 </td>
 </tr>
 <tr>
@@ -350,11 +380,10 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Chef de la mission d'appui, de synthèse et de coordination. <br/>
-</td>
+<td align="left">Chef du bureau du pilotage des structures de soutien.</td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30 <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -401,10 +430,9 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </tr>
 <tr>
 <td align="left">
-<br/>Chef de la mission contentieux, légistique et fonction publique. <br/>
+<p align="left">Adjoint au chef du bureau du droit public et des affaires institutionnelles.</p>
 </td>
-<td align="center">
-<br/>30 <br/>
+<td align="center">30 <br/>
 </td>
 </tr>
 <tr>
@@ -457,11 +485,11 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3">
+<td align="left" rowspan="5">
 <br/>Délégation à la sécurité et à la circulation routières. <br/>
 </td>
 <td align="left">
-<br/>Chef du bureau du permis de conduire. <br/>
+<p align="left">Chef du bureau du permis de conduire.</p>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -481,6 +509,22 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 </td>
 <td align="center">
 <br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chef du bureau de la législation et de la réglementation.</p>
+</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Adjoint au chef du département de contrôle automatisé. </p>
+</td>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
