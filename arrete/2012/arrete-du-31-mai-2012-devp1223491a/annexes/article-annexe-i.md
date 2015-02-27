@@ -1,105 +1,127 @@
 # Article Annexe I
 
-1110 Très toxiques (fabrication industrielle de substances et préparations).
+Les installations visées à l'article 1er du présent arrêté sont les installations  relevant des rubriques de la nomenclature des installations classées suivantes :
 
-1115 Dichlorure de carbonyle ou phosgène (fabrication industrielle de).
+Pour le seuil de l'autorisation :
 
-1130 Toxiques (fabrication industrielle de substances et préparations).
+2345
 
-1135 Ammoniac (fabrication industrielle de l').
+2540
 
-1137 Chlore (fabrication industrielle de).
+2670
 
-1140-1 Formaldéhyde de concentration supérieure ou égale à 90 % (fabrication industrielle de).
+3110 A l'exclusion des installations de combustion de gaz naturel, de gaz de pétrole liquéfié et de biogaz qui ne sont pas soumises aux garanties financières.
 
-1150 Substances et mélanges particuliers (fabrication industrielle ou à base de).
+3120
 
-1158-A Diisocyanate de diphénylméthane (MDI) (fabrication industrielle de).
+3130
 
-1171 Dangereux pour l'environnement (fabrication industrielle de substances ou préparations).
+3140
 
-1174 Organohalogénés, organophosphorés, organostanniques (fabrication industrielle de composés).
+3210
 
-1200-1 Comburants (fabrication de substances et préparations).
+3220
 
-1211 Peroxydes organiques (fabrication des).
+3230-a
 
-1310 Produits explosifs (fabrication, chargement, encartouchage, conditionnement de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur).
+3230-b
 
-1313 Produits explosifs (tri ou destruction de matières, objets et munitions et engins hors des lieux de découverte).
+3230-c
 
-1320 Substances et préparations explosibles (fabrication de).
+3240
 
-1410 Gaz inflammables (fabrication industrielle de).
+3250-a
 
-1415 Hydrogène (fabrication industrielle de l').
+3250-b
 
-1417 Acétylène (fabrication de l').
+3260
 
-1419-A Oxyde d'éthylène ou de propylène (fabrication industrielle de l').
+3310-a
 
-1431 Liquides inflammables (fabrication industrielle de).
+3330 Lorsque l'installation consomme du fioul domestique et des fiouls lourds. A l'exclusion des installations qui consomment exclusivement des combustibles gazeux (gaz naturel, gaz de biomasse) et de l'électricité.
 
-1450-1 Solides facilement inflammables, à l'exclusion des substances visées explicitement par d'autres rubriques (fabrication industrielle).
+3340
 
-1523-A.1 Fabrication industrielle de soufre et mélanges à teneur en soufre supérieure à 70 % (fabrication industrielle, fusion, distillation, emploi, stockage).
+3350
 
-1523-A.2 Transformation ou distillation de soufre et mélanges à teneur en soufre supérieure à 70 % (fabrication industrielle, fusion, distillation, emploi, stockage). La quantité totale susceptible d'être présente dans l'installation étant supérieure ou égale à 2,5 t.
+3410-a
 
-1610 Acide chlorhydrique, acide formique à plus de 50 % en poids d'acide, acide nitrique à moins de 70 %, acide phosphorique, acide sulfurique, monoxyde d'azote, dioxyde d'azote à moins de 1 %, dioxyde de souffre à moins de 20 %, anhydride phosphorique (fabrication industrielle d').
+3410-b
 
-1612-A Acide chlorosulfurique, oléums (fabrication industrielle d').
+3410-c
 
-1630-A Soude ou potasse caustique (fabrication industrielle de).
+3410-d
 
-1631 Carbonate de sodium ou carbonate de potassium (fabrication industrielle du).
+3410-e
 
-2345 Utilisation de solvants pour le nettoyage à sec et le traitement de textiles ou vêtements.
+3410-f
 
-2430 Préparation de la pâte à papier.
+3410-g
 
-2525 Fusion de matières minérales, y compris pour la production de fibres minérales, lorsque la capacité de production est supérieure à 20 t/ j.
+3410-h Lorsque la capacité de production est supérieure ou égale à 140 t/ j.
 
-2531 Travail chimique du verre et du cristal.
+3410-i Lorsque la capacité de production est supérieure ou égale à 140 t/ j.
 
-2540 Lavoirs à houille, minerais ou résidus métallurgiques.
+3410-j Lorsque la quantité de matière est supérieure ou égale à 20 t/ j.
 
-2541 Agglomération de houille, charbon de bois, minerai de fer, fabrication de graphite artificiel et grillage ou frittage de minerai métallique, y compris de minerai sulfuré.
+3410-k Lorsque la capacité de production est supérieure ou égale à 60 t/ j.
 
-2542 Coke (fabrication du).
+3420-a
 
-2545 Acier, fer, fonte, ferro-alliages (fabrication d').
+3420-b
 
-2546 Traitement des minerais non ferreux, élaboration et affinage des métaux et alliages non ferreux (à l'échelle industrielle).
+3420-c
 
-2610 Engrais simples ou composés à base de phosphore, d'azote ou de potassium (fabrication industrielle par transformation chimique d').
+3420-d
 
-2620 Sulfurés (ateliers de fabrication de composés organiques).
+3420-e Lorsque la capacité de production est supérieure ou égale à 75t/ j.
 
-2670 Accumulateurs et piles (fabrication d') contenant du plomb, du cadmium ou du mercure.
+3430
 
-2711 Installations de transit, regroupement ou tri de déchets d'équipements électriques ou électroniques.
+3440
 
-2712 Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, pour une surface supérieure à 1 ha.
+3450 A l'exclusion des procédés de transformation biologique.
 
-2713 Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710, 2711 et 2712.
+3460
 
-2714 Installation de transit, regroupement ou tri de déchets non dangereux de papiers/ cartons, plastiques, caoutchouc, textiles, bois, à l'exclusion des activités visées aux rubriques 2710 et 2711.
+3510
 
-2716 Installation de transit, regroupement ou tri de déchets non dangereux non inertes, à l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719.
+3520
 
-2717 Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712 et 2719.
+3610-a
 
-2718 Installation de transit, regroupement ou tri de déchets dangereux ou de déchets contenant les substances ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712, 2717 et 2719.
+3610-b
 
-2770 Installation de traitement thermique de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement.
+3620
 
-2771 Installation de traitement thermique de déchets non dangereux.
+3630
 
-2782 Installations mettant en œuvre d'autres traitements biologiques de déchets non dangereux que ceux mentionnés aux rubriques 2780 et 2781, à l'exclusion des installations réglementées au titre d'une autre législation.
+3670 A l'exclusion des installations d'offset et à l'exclusion des installations qui sont également classées 2940-2 et 2940-3.
 
-2790 Installation de traitement de déchets dangereux ou de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2720, 2760 et 2770.
+3680
 
-2791 Installation de traitement de déchets non dangereux, à l'exclusion des installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782.
+Pour le seuil de l'autorisation et de l'enregistrement :
 
-2795 Installation de lavage de fûts, conteneurs et citernes de transport de matières alimentaires, de matières dangereuses au sens de
+2711
+
+2714
+
+2716
+
+2717
+
+2718
+
+2770
+
+2771
+
+2782
+
+2790
+
+2791
+
+2793
+
+2795
