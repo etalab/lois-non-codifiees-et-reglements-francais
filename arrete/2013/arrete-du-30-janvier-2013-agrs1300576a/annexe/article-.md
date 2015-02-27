@@ -1,6 +1,6 @@
 # Article 
 
-PROGRAMME DES CONCOURS ET DE L'EXAMEN PROFESSIONNEL
+PROGRAMME DU CONCOURS RÉSERVÉ
 
 Notions de base dans les domaines suivants :
 
@@ -18,7 +18,7 @@ Institutions communautaires.
 
 Directives, règlements.
 
-La PAC (politique agricole commune).
+La PAC (Politique agricole commune).
 
 Filières de production agricoles et alimentaires.
 

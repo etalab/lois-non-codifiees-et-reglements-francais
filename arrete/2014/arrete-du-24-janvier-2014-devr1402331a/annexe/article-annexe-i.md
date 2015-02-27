@@ -13,411 +13,535 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 <tr>
 <td align="center">FR000000000000171<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF TAC de Brennilis<br/>
+<td align="center">
+<p align="left">EDF TAC de Brennilis<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000174<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF TAC de Dirinon<br/>
+<td align="center">
+<p align="left">EDF TAC de Dirinon<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000441<br/>
 </td>
-<td align="center">RGEB (REGIE GAZ ― ELECTRICITE BONNEVILLE)<br/>
+<td align="center">
+<p align="left">RGEB (REGIE GAZ ― ELECTRICITE BONNEVILLE)<br/>
+</p>
 </td>
-<td align="center">Centrale production de Bonneville<br/>
-</td>
-</tr>
-<tr>
-<td align="center">FR000000000000451<br/>
-</td>
-<td align="center">Electricité de France <br/>
-</td>
-<td align="center">EDF ― Site de Production Thermique EDF de BLENOD<br/>
+<td align="center">
+<p align="left">Centrale production de Bonneville<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000522<br/>
 </td>
-<td align="center">EDF <br/>
+<td align="center">
+<p align="left">EDF <br/>
+</p>
 </td>
-<td align="center">Centrale EDF de la Maxe<br/>
+<td align="center">
+<p align="left">Centrale EDF de la Maxe<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000560<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF ― UP de Cordemais<br/>
+<td align="center">
+<p align="left">EDF ― UP de Cordemais<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000000587<br/>
+<td align="center">
+<p align="center">FR000000000000587<br/>
+</p>
 </td>
-<td align="center">E.ON<br/>
+<td align="center">
+<p align="left">E. ON France Power SAS</p>
 </td>
-<td align="center">E.ON ― Centrale de PROVENCE<br/>
+<td align="center">
+<p align="left">E. ON-centrale de PROVENCE</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000590<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF CETAC ARRIGHI<br/>
+<td align="center">
+<p align="left">EDF CETAC ARRIGHI<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000630<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF Centrale de Martigues<br/>
+<td align="center">
+<p align="left">EDF Centrale de Martigues<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000653<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF CPT VITRY<br/>
+<td align="center">
+<p align="left">EDF CPT VITRY<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000694<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">CPT de Porcheville<br/>
+<td align="center">
+<p align="left">CPT de Porcheville<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000737<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF ― CETAC Site Gennevilliers<br/>
+<td align="center">
+<p align="left">EDF ― CETAC Site Gennevilliers<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td>FR000000000000791</td>
 <td>
-<p align="center">Electricité de France </p>
+<p align="left">Electricité de France </p>
 </td>
 <td>
-<p align="center">EDF Centrale d'ARAMON</p>
+<p align="left">EDF Centrale d'ARAMON</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000868<br/>
 </td>
-<td align="center">SERC<br/>
+<td align="center">
+<p align="left">SERC<br/>
+</p>
 </td>
-<td align="center">SERC ― CENTRALE THERMIQUE ― Travers de la Bouyssière<br/>
+<td align="center">
+<p align="left">SERC ― CENTRALE THERMIQUE ― Travers de la Bouyssière<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000892<br/>
 </td>
-<td align="center">EDF SEI <br/>
+<td align="center">
+<p align="left">EDF SEI <br/>
+</p>
 </td>
-<td align="center">EDF Dégrad-des-Cannes<br/>
+<td align="center">
+<p align="left">EDF Dégrad-des-Cannes<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000893<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">EDF Kourou<br/>
+<td align="center">
+<p align="left">EDF Kourou<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000905<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF Centre de Production Thermique de BOUCHAIN<br/>
-</td>
-</tr>
-<tr>
-<td align="center">FR000000000000923<br/>
-</td>
-<td align="center">E.ON<br/>
-</td>
-<td align="center">E.ON ― Centrale d'HORNAING<br/>
+<td align="center">
+<p align="left">EDF Centre de Production Thermique de BOUCHAIN<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000000988<br/>
 </td>
-<td align="center">GDF SUEZ Thermique France<br/>
+<td align="center">
+<p align="left">GDF SUEZ Thermique France<br/>
+</p>
 </td>
-<td align="center">GDF SUEZ Thermique France ― Centrale de Dunkerque (DK6)<br/>
+<td align="center">
+<p align="left">GDF SUEZ Thermique France ― Centrale de Dunkerque (DK6)<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001017<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">EDF - Centrale thermique du PORT (Ouest)<br/>
+<td align="center">
+<p align="left">EDF - Centrale thermique du PORT (Ouest)<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001018<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">EDF TAC Port Est<br/>
+<td align="center">
+<p align="left">EDF TAC Port Est<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001040<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">EDF Corse Centrale du Vazzio<br/>
+<td align="center">
+<p align="left">EDF Corse Centrale du Vazzio<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001041<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">EDF SEI Centrale de Lucciana<br/>
+<td align="center">
+<p align="left">EDF SEI Centrale de Lucciana<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001108<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">CENTRALE DE JARRY SUD<br/>
+<td align="center">
+<p align="left">CENTRALE DE JARRY SUD<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001109<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">CENTRALE DE SAINT-BARTHÉLEMY<br/>
+<td align="center">
+<p align="left">CENTRALE DE SAINT-BARTHÉLEMY<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001110<br/>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">EDF SEI<br/>
+</p>
 </td>
-<td align="center">CENTRALE DE SAINT-MARTIN<br/>
+<td align="center">
+<p align="left">CENTRALE DE SAINT-MARTIN<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001111<br/>
 </td>
-<td align="center">SCITE<br/>
+<td align="center">
+<p align="left">SCITE<br/>
+</p>
 </td>
-<td align="center">ENERGIES ANTILLES<br/>
-</td>
-</tr>
-<tr>
-<td align="center">FR000000000001112<br/>
-</td>
-<td align="center">EDF SEI<br/>
-</td>
-<td align="center">CENTRALE DE JARRY NORD<br/>
+<td align="center">
+<p align="left">ENERGIES ANTILLES<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001113<br/>
 </td>
-<td align="center">EDF SEI <br/>
+<td align="center">
+<p align="left">EDF SEI <br/>
+</p>
 </td>
-<td align="center">EDF ― Saint-Martin 2<br/>
+<td align="center">
+<p align="left">EDF ― Saint-Martin 2<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001114<br/>
 </td>
-<td align="center">EDF SEI<br/>
-<br/>
+<td align="center">
+<p align="left">EDF SEI</p>
 </td>
-<td align="center">EDF Pointe des Carrières<br/>
+<td align="center">
+<p align="left">EDF Pointe des Carrières<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000001116<br/>
+<td align="center">
+<p align="center">FR000000000001133</p>
 </td>
-<td align="center">EDF SEI<br/>
+<td align="center">
+<p align="left">E. ON France POWER SAS</p>
 </td>
-<td align="center">EDF SEI centrale de BELLEFONTAINE</td>
-</tr>
-<tr>
-<td align="center">FR000000000001133<br/>
-</td>
-<td align="center">E.ON <br/>
-</td>
-<td align="center">E.ON Centrale EMILE HUCHET<br/>
+<td align="center">
+<p align="left">E. ON-centrale Emile HUCHET</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001149<br/>
 </td>
-<td align="center">GDF SUEZ Thermique France<br/>
+<td align="center">
+<p align="left">GDF SUEZ Thermique France<br/>
+</p>
 </td>
-<td align="center">GDF Suez Thermique France ― Centrale de Fos-sur-Mer CYCOFOS<br/>
+<td align="center">
+<p align="left">GDF Suez Thermique France ― Centrale de Fos-sur-Mer CYCOFOS<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001150<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF ― CETAC site Vaires-sur-Marne<br/>
+<td align="center">
+<p align="left">EDF ― CETAC site Vaires-sur-Marne<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001151<br/>
 </td>
-<td align="center">POWEO PONT-SUR-SAMBRE PRODUCTION<br/>
+<td align="center">
+<p align="left">POWEO PONT-SUR-SAMBRE PRODUCTION<br/>
+</p>
 </td>
-<td align="center">POWEO PONT-SUR-SAMBRE PRODUCTION<br/>
+<td align="center">
+<p align="left">POWEO PONT-SUR-SAMBRE PRODUCTION<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001158<br/>
 </td>
-<td align="center">GDF SUEZ THERMIQUE<br/>
+<td align="center">
+<p align="left">GDF SUEZ THERMIQUE<br/>
+</p>
 </td>
-<td align="center">Centrale électrique SPEM<br/>
+<td align="center">
+<p align="left">Centrale électrique SPEM<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001159<br/>
 </td>
-<td align="center">GDF SUEZ THERMIQUE France<br/>
+<td align="center">
+<p align="left">GDF SUEZ THERMIQUE France<br/>
+</p>
 </td>
-<td align="center">GDF Suez Thermique France ― Centrale de Fos-sur-Mer COMBIGOLFE<br/>
+<td align="center">
+<p align="left">GDF Suez Thermique France ― Centrale de Fos-sur-Mer COMBIGOLFE<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001165<br/>
 </td>
-<td align="center">Electricité de France <br/>
+<td align="center">
+<p align="left">Electricité de France <br/>
+</p>
 </td>
-<td align="center">EDF ― CETAC Site Montereau<br/>
+<td align="center">
+<p align="left">EDF ― CETAC Site Montereau<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR000000000001166<br/>
 </td>
-<td align="center">3CB<br/>
+<td align="center">
+<p align="left">3CB<br/>
+</p>
 </td>
-<td align="center">3CB<br/>
+<td align="center">
+<p align="left">3CB<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">Fr-new-05802143<br/>
 </td>
-<td align="center">EDF<br/>
+<td align="center">
+<p align="left">EDF<br/>
+</p>
 </td>
-<td align="center">EDF UNITÉ DE PRODUCTION THERMIQUE DU HAVRE<br/>
+<td align="center">
+<p align="left">EDF UNITÉ DE PRODUCTION THERMIQUE DU HAVRE<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR-New-06208313<br/>
 </td>
-<td align="center">TOUL POWER SAS<br/>
+<td align="center">
+<p align="left">TOUL POWER SAS<br/>
+</p>
 </td>
-<td align="center">TOUL POWER SAS, centrale électrique de Toul</td>
+<td align="center">
+<p align="left">TOUL POWER SAS, centrale électrique de Toul</p>
+</td>
 </tr>
 <tr>
 <td align="center">FR-New-06900399 <br/>
 </td>
 <td align="center">
-<p align="center">ALBIOMA CARAÏBES<br/>
-<br/>
-</p>
+<p align="left">ALBIOMA CARAÏBES</p>
 </td>
 <td align="center">
-<p align="center">ALBIOMA CARAÏBES</p>
+<p align="left">ALBIOMA CARAÏBES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> FR-new6900563</p>
+<p align="center">FR-new6900563</p>
 </td>
 <td>
-<p align="center"> EDF PEI</p>
+<p align="left">EDF PEI</p>
 </td>
 <td>
-<p align="center"> EDF PEI centrale de Pointe Jarry</p>
+<p align="left">EDF PEI centrale de Pointe Jarry</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> FR-New-06900568</p>
+<p align="center">FR-New-06900568</p>
 </td>
 <td>
-<p align="center">  EDF PEI</p>
+<p align="left">EDF PEI</p>
 </td>
 <td>
-<p align="center"> EDF PEI centrale de Bellefontaine</p>
+<p align="left">EDF PEI centrale de Bellefontaine</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR-new-07004716<br/>
 </td>
-<td align="center">Compagnie IBM France<br/>
+<td align="center">
+<p align="left">Compagnie IBM France<br/>
+</p>
 </td>
-<td align="center">Centre Informatique IBM de Seclin<br/>
+<td align="center">
+<p align="left">Centre Informatique IBM de Seclin<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR-new-07101355 <br/>
 </td>
-<td align="center">EDF PEI<br/>
+<td align="center">
+<p align="left">EDF PEI<br/>
+</p>
 </td>
-<td align="center">EDF PEI centrale de Port Est<br/>
+<td align="center">
+<p align="left">EDF PEI centrale de Port Est<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">FR-new-07300368<br/>
 </td>
-<td align="center">EDF PEI </td>
-<td align="center">EDF PEI centrale de Haute-Corse</td>
+<td align="center">
+<p align="left">EDF PEI </p>
+</td>
+<td align="center">
+<p align="left">EDF PEI centrale de Haute-Corse</p>
+</td>
 </tr>
 <tr>
 <td align="center">FR-new-07404411<br/>
 </td>
-<td align="center">GLOBAL SWITCH<br/>
+<td align="center">
+<p align="left">GLOBAL SWITCH<br/>
+</p>
 </td>
-<td align="center">GLOBAL SWITCH<br/>
+<td align="center">
+<p align="left">GLOBAL SWITCH<br/>
+</p>
 </td>
 </tr>
 <tr>
 <td>FR-new40000003</td>
 <td>
-<p align="center">Electricité de Mayotte </p>
+<p align="left">Electricité de Mayotte </p>
 </td>
 <td>
-<p align="center">EDM Centrale de Badamiers</p>
+<p align="left">EDM Centrale de Badamiers</p>
 </td>
 </tr>
 <tr>
 <td>FR-new40000024</td>
 <td>
-<p align="center">Electricité de Mayotte </p>
+<p align="left">Electricité de Mayotte </p>
 </td>
 <td>
-<p align="center">EDM Centrale de Longoni</p>
+<p align="left">EDM Centrale de Longoni</p>
 </td>
 </tr>
 </tbody>

@@ -4,86 +4,42 @@
 <tbody>
 <tr>
 <td>
-<p align="center">
-<b>IDENTIFIANT</b>
-</p>
+<p align="center">IDENTIFIANT</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>NOM DE L'EXPLOITANT </b>
-</p>
-<p align="center">
-<b/>
-</p>
+<p align="center">NOM DE L'EXPLOITANT</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>NOM DE L'INSTALLATION </b>
-</p>
-<p align="center">
-<b/>
-</p>
+<p align="center">NOM DE L'INSTALLATION </p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2013</b>
-</p>
+<p align="center">2013</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2014</b>
-</p>
+<p align="center">2014</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2015</b>
-</p>
+<p align="center">2015</p>
 </td>
 <td>
-<p align="center">
-<b>2016</b>
-</p>
+<p align="center">2016</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2017</b>
-</p>
+<p align="center">2017</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2018</b>
-</p>
+<p align="center">2018</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2019</b>
-</p>
+<p align="center">2019</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>2020</b>
-</p>
+<p align="center">2020</p>
 </td>
 <td>
-<p align="center">
-<b>
-<br/>TOTAL </b>
-</p>
-<p align="center">
-<b>des quotas</b>
-</p>
-<p align="center">
-<b>sur la période</b>
-</p>
+<p align="center">TOTAL </p>
+<p align="center">des quotas</p>
+<p align="center">sur la période</p>
 </td>
 </tr>
 <tr>
@@ -241,11 +197,11 @@
 </td>
 <td>
 <p align="center">
-<br/>ARKEMA France - usine de Chauny</p>
+<br/>ARKEMA France-Usine de Chauny</p>
 </td>
 <td>
 <p align="center">
-<br/>ARKEMA usine de Chauny</p>
+<br/>ARKEMA Usine de Chauny </p>
 </td>
 <td>
 <p align="center">
@@ -257,31 +213,31 @@
 </td>
 <td>
 <p align="center">
-<br/>62 622</p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>61 470</p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>60 305</p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>59 129</p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>57 939</p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>56 744</p>
+<br/>0</p>
 </td>
 <td>
 <p align="center">
-<br/>486 860</p>
+<br/>128 651</p>
 </td>
 </tr>
 <tr>
@@ -1789,11 +1745,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Bonduelle Conserve International</p>
+<br/>BONDUELLE EUROPE LONG LIFE</p>
 </td>
 <td>
 <p align="center">
-<br/>BCI ESTREES-MONS</p>
+<br/>BONDUELLE EUROPE LONG LIFE ESTREES-MONS </p>
 </td>
 <td>
 <p align="center">
@@ -2183,51 +2139,40 @@
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>FR000000000000065</p>
+<p align="center">FR000000000000065</p>
 </td>
 <td>
-<p align="center">
-<br/>Creil Energie</p>
+<p align="center">Creil Energie </p>
 </td>
 <td>
-<p align="center">
-<br/>Creil Energie, Chaufferie de la ZUP "Les Martinets" </p>
+<p align="center">Creil Energie, Chaufferie de la Zup "Les Martinets" </p>
 </td>
 <td>
-<p align="center">
-<br/>4 308 </p>
+<p align="center">4 054</p>
 </td>
 <td>
-<p align="center">
-<br/>3 629 </p>
-</td>
-<td>
-<p align="center">
-<br/>0</p>
-</td>
-<td>
-<p align="center">
-<br/>0 </p>
+<p align="center">3 629 </p>
 </td>
 <td>
 <p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0 </p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>7 937</p>
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">7 683</p>
 </td>
 </tr>
 <tr>
@@ -3487,11 +3432,11 @@
 </td>
 <td>
 <p align="center">
-<br/>TIGF</p>
+<br/>TRANSPORT ET INFRASTRUCTURES GAZ France </p>
 </td>
 <td>
 <p align="center">
-<br/>TIGF - station de compression de MONT</p>
+<br/>TRANSPORT ET INFRASTRUCTURES GAZ France Station de Compression de Mont </p>
 </td>
 <td>
 <p align="center">
@@ -3837,11 +3782,11 @@
 </td>
 <td>
 <p align="center">
-<br/>DALKIA FRANCE SAS </p>
+<br/>DALKIA </p>
 </td>
 <td>
 <p align="center">
-<br/>DALKIA FRANCE SAS - usine POLYREY</p>
+<br/>DALKIA-usine POLYREY</p>
 </td>
 <td>
 <p align="center">
@@ -5478,52 +5423,40 @@
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>FR000000000000150</p>
+<p align="center">FR000000000000150</p>
 </td>
 <td>
-<p align="center">
-<br/>DALKIA France </p>
+<p align="center">DALKIA </p>
 </td>
 <td>
-<p align="center">
-<br/>Chaufferie urbaine du Banlay (NEVERS)</p>
+<p align="center">Chaufferie urbaine du Banlay (NEVERS)</p>
 </td>
 <td>
-<p align="center">
-<br/>4 426 </p>
+<p align="center">4 426 </p>
 </td>
 <td>
-<p align="center">
-<br/>3 961 </p>
+<p align="center">3 961 </p>
 </td>
 <td>
-<p align="center">
-<br/>3 509 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>3 071 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>2 647 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>2 237 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>1 840 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>1 458 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>23 149</p>
+<p align="center">8 387</p>
 </td>
 </tr>
 <tr>
@@ -5879,11 +5812,11 @@
 </td>
 <td>
 <p align="center">
-<br/>DALKIA France</p>
+<br/>DALKIA </p>
 </td>
 <td>
 <p align="center">
-<br/>Chaufferie urbaine de la ZUP de Quetigny</p>
+<br/>Chaufferie Urbaine de la ZUP de Quetigny </p>
 </td>
 <td>
 <p align="center">
@@ -6493,29 +6426,29 @@
 </td>
 <td>
 <p align="center">
-<br/>16 628</p>
+<br/>25 304</p>
 </td>
 <td>
-<p align="center">14 548</p>
-</td>
-<td>
-<p align="center">
-<br/>12 533</p>
+<p align="center">24 839</p>
 </td>
 <td>
 <p align="center">
-<br/>10 582</p>
+<br/>24 368</p>
 </td>
 <td>
 <p align="center">
-<br/>8 695</p>
+<br/>23 893</p>
 </td>
 <td>
 <p align="center">
-<br/>6 879</p>
+<br/>23 412</p>
 </td>
 <td>
-<p align="center">125 551</p>
+<p align="center">
+<br/>22 930</p>
+</td>
+<td>
+<p align="center">200 432</p>
 </td>
 </tr>
 <tr>
@@ -7468,11 +7401,11 @@
 </td>
 <td>
 <p align="center">
-<br/>BOUYER LEROUX STRUCTURE</p>
+<br/>BOUYER LEROUX STRUCTURE </p>
 </td>
 <td>
 <p align="center">
-<br/>BOUYER LEROUX STRUCTURE SA POMEL site de Vergonghéon</p>
+<br/>BOUYER LEROUX STRUCTURE SA site de Vergonghéon </p>
 </td>
 <td>
 <p align="center">
@@ -7563,52 +7496,40 @@
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>FR000000000000206</p>
+<p align="center">FR000000000000206</p>
 </td>
 <td>
-<p align="center">
-<br/>IDEX Energies</p>
+<p align="center">IDEX Énergies </p>
 </td>
 <td>
-<p align="center">
-<br/>IDEX - TRELLEBORG INDUSTRIE SA Clermont-Ferrand</p>
+<p align="center">IDEX-TRELLEBORG INDUSTRIE SA. Clermont-Ferrand </p>
 </td>
 <td>
-<p align="center">
-<br/>5 325 </p>
+<p align="center">5 325 </p>
 </td>
 <td>
-<p align="center">
-<br/>4 766 </p>
+<p align="center">4 766 </p>
 </td>
 <td>
-<p align="center">
-<br/>4 222 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>3 695 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>3 185 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>2 692 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>2 214 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>1 754 </p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>27 853</p>
+<p align="center">10 091</p>
 </td>
 </tr>
 <tr>
@@ -7663,52 +7584,40 @@
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>FR000000000000208</p>
+<p align="center">FR000000000000208</p>
 </td>
 <td>
-<p align="center">
-<br/>MFPM La Combaude</p>
+<p>MFP Michelin La Combaude </p>
 </td>
 <td>
-<p align="center">
-<br/>MFPM MICHELIN site de LA COMBAUDE</p>
+<p>MFP Michelin LA Combaude</p>
 </td>
 <td>
-<p align="center">
-<br/>10 901 </p>
+<p align="center">10 901 </p>
 </td>
 <td>
-<p align="center">
-<br/>10 239 </p>
+<p align="center">10 239 </p>
 </td>
 <td>
-<p align="center">
-<br/>9 593 </p>
+<p align="center">11 821</p>
 </td>
 <td>
-<p align="center">
-<br/>8 959 </p>
+<p align="center">11 602</p>
 </td>
 <td>
-<p align="center">
-<br/>8 344 </p>
+<p align="center">11 383 </p>
 </td>
 <td>
-<p align="center">
-<br/>7 742 </p>
+<p align="center">11 160 </p>
 </td>
 <td>
-<p align="center">
-<br/>7 156 </p>
+<p align="center">10 936</p>
 </td>
 <td>
-<p align="center">
-<br/>6 589 </p>
+<p align="center">10 711 </p>
 </td>
 <td>
-<p align="center">
-<br/>69 523</p>
+<p align="center">88 753</p>
 </td>
 </tr>
 <tr>
@@ -7871,7 +7780,7 @@
 </td>
 <td>
 <p align="center">
-<br/>PAPETERIE DE LA BANQUE DE FRANCE LONGUES VIC-LE-COMTE</p>
+<br/>PAPETERIE DE LA BANQUE DE FRANCE site de VIC LE COMTE</p>
 </td>
 <td>
 <p align="center">
@@ -10211,11 +10120,11 @@
 </td>
 <td>
 <p align="center">
-<br/>Jérôme MOINARD (directeur de l'usine de Sandouville)</p>
+<br/>SNC Renault (Sandouville) </p>
 </td>
 <td>
 <p align="center">
-<br/>SNC Renault Sandouville</p>
+<br/>Usine Renault de Sandouville </p>
 </td>
 <td>
 <p align="center">
@@ -10227,31 +10136,30 @@
 </td>
 <td>
 <p align="center">
-<br/>12 592 </p>
+<br/>19 164</p>
 </td>
 <td>
 <p align="center">
-<br/>11 017 </p>
+<br/>18 811 </p>
 </td>
 <td>
 <p align="center">
-<br/>9 492 </p>
+<br/>18 455</p>
+</td>
+<td>
+<p align="center">18 094</p>
 </td>
 <td>
 <p align="center">
-<br/>8 015 </p>
+<br/>17 730</p>
 </td>
 <td>
 <p align="center">
-<br/>6 585 </p>
+<br/>17 365</p>
 </td>
 <td>
 <p align="center">
-<br/>5 209 </p>
-</td>
-<td>
-<p align="center">
-<br/>83 012</p>
+<br/>139 721</p>
 </td>
 </tr>
 <tr>
@@ -10261,11 +10169,11 @@
 </td>
 <td>
 <p align="center">
-<br/>M. Philippe NOTTEZ (directeur de l'usine de Cléon)</p>
+<br/>SNC Renault (CLEON) </p>
 </td>
 <td>
 <p align="center">
-<br/>Usine Renault de Cléon</p>
+<br/>Usine Renault de Cléon </p>
 </td>
 <td>
 <p align="center">
@@ -10276,32 +10184,29 @@
 <br/>16 275 </p>
 </td>
 <td>
-<p align="center">
-<br/>14 416 </p>
+<p align="center">24 358</p>
+</td>
+<td>
+<p align="center">24 403</p>
+</td>
+<td>
+<p align="center">24 424</p>
 </td>
 <td>
 <p align="center">
-<br/>12 614 </p>
+<br/>24 430</p>
 </td>
 <td>
 <p align="center">
-<br/>10 866 </p>
+<br/>24 411</p>
 </td>
 <td>
 <p align="center">
-<br/>9 175 </p>
+<br/>24 369</p>
 </td>
 <td>
 <p align="center">
-<br/>7 539 </p>
-</td>
-<td>
-<p align="center">
-<br/>5 965 </p>
-</td>
-<td>
-<p align="center">
-<br/>95 036</p>
+<br/>180 856</p>
 </td>
 </tr>
 <tr>
@@ -10711,7 +10616,7 @@
 </td>
 <td>
 <p align="center">
-<br/>Dalkia France</p>
+<br/>DALKIA </p>
 </td>
 <td>
 <p align="center">
@@ -11811,7 +11716,7 @@
 </td>
 <td>
 <p align="center">
-<br/>Dalkia France</p>
+<br/>DALKIA </p>
 </td>
 <td>
 <p align="center">
@@ -12111,11 +12016,11 @@
 </td>
 <td>
 <p align="center">
-<br/>DALKIA France</p>
+<br/>DALKIA </p>
 </td>
 <td>
 <p align="center">
-<br/>Chaufferie urbaine Dalkia de Montbéliard</p>
+<br/>Chaufferie Urbaine Dalkia de Montbéliard</p>
 </td>
 <td>
 <p align="center">
@@ -12227,31 +12132,30 @@
 </td>
 <td>
 <p align="center">
-<br/>51 464 </p>
+<br/>78 321</p>
 </td>
 <td>
 <p align="center">
-<br/>45 028 </p>
+<br/>76 880</p>
 </td>
 <td>
 <p align="center">
-<br/>38 791 </p>
+<br/>75 423</p>
+</td>
+<td>
+<p align="center">73 953</p>
 </td>
 <td>
 <p align="center">
-<br/>32 754 </p>
+<br/>72 463</p>
 </td>
 <td>
 <p align="center">
-<br/>26 913 </p>
+<br/>70 969</p>
 </td>
 <td>
 <p align="center">
-<br/>21 291 </p>
-</td>
-<td>
-<p align="center">
-<br/>339 270</p>
+<br/>571 038</p>
 </td>
 </tr>
 <tr>
@@ -12611,11 +12515,11 @@
 </td>
 <td>
 <p align="center">
-<br/>PEUGEOT CITROEN AUTOMOBILES SA VESOUL</p>
+<br/>Peugeot Citroën Automobiles SA VESOUL </p>
 </td>
 <td>
 <p align="center">
-<br/>PEUGEOT CITROEN AUTOMOBILES SA VESOUL</p>
+<br/>Peugeot Citroën Automobiles SA VESOUL </p>
 </td>
 <td>
 <p align="center">
@@ -12627,31 +12531,31 @@
 </td>
 <td>
 <p align="center">
-<br/>7 597 </p>
+<br/>11 564</p>
 </td>
 <td>
 <p align="center">
-<br/>6 648 </p>
+<br/>11 351</p>
 </td>
 <td>
 <p align="center">
-<br/>5 727 </p>
+<br/>11 136</p>
 </td>
 <td>
 <p align="center">
-<br/>4 836 </p>
+<br/>10 918</p>
 </td>
 <td>
 <p align="center">
-<br/>3 973 </p>
+<br/>10 698</p>
 </td>
 <td>
 <p align="center">
-<br/>3 143 </p>
+<br/>10 478</p>
 </td>
 <td>
 <p align="center">
-<br/>50 088</p>
+<br/>84 309</p>
 </td>
 </tr>
 <tr>
@@ -13211,11 +13115,11 @@
 </td>
 <td>
 <p align="center">
-<br/>DALKIA France</p>
+<br/>DALKIA</p>
 </td>
 <td>
 <p align="center">
-<br/>DALKIA - ARKEMA BALAN</p>
+<br/>DALKIA-ARKEMA BALAN </p>
 </td>
 <td>
 <p align="center">
@@ -13361,11 +13265,11 @@
 </td>
 <td>
 <p align="center">
-<br/>DALKIA France</p>
+<br/>DALKIA </p>
 </td>
 <td>
 <p align="center">
-<br/>DALKIA-LA REYSSOUZE</p>
+<br/>DALKIA-LA REYSSOUZE </p>
 </td>
 <td>
 <p align="center">
@@ -13515,43 +13419,42 @@
 </td>
 <td>
 <p align="center">
-<br/>Wienerberger - usine de Pont-de-Vaux</p>
+<br/>Wienerberger - Usine de Pont-de-Vaux</p>
 </td>
 <td>
 <p align="center">
-<br/>20 534 </p>
+<br/>20 535</p>
 </td>
 <td>
 <p align="center">
-<br/>20 178 </p>
+<br/>28 947</p>
 </td>
 <td>
 <p align="center">
-<br/>19 817 </p>
+<br/>28 430</p>
 </td>
 <td>
 <p align="center">
-<br/>19 453 </p>
+<br/>27 907</p>
 </td>
 <td>
 <p align="center">
-<br/>19 084 </p>
+<br/>27 378</p>
+</td>
+<td>
+<p align="center">26 844</p>
 </td>
 <td>
 <p align="center">
-<br/>18 712 </p>
+<br/>26 303</p>
 </td>
 <td>
 <p align="center">
-<br/>18 335 </p>
+<br/>25 762</p>
 </td>
 <td>
 <p align="center">
-<br/>17 957 </p>
-</td>
-<td>
-<p align="center">
-<br/>154 070</p>
+<br/>212 106</p>
 </td>
 </tr>
 <tr>
@@ -14006,101 +13909,78 @@
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>FR000000000000365</p>
+<p align="center">FR000000000000365</p>
 </td>
 <td>
-<p align="center">
-<br/>STORENGY </p>
+<p align="center">STORENGY </p>
 </td>
 <td>
-<p align="center">
-<br/>Stockage Souterrain de TERSANNE</p>
+<p align="center">Stockage Souterrain de TERSANNE</p>
 </td>
 <td>
-<p align="center">
-<br/>3 849 </p>
+<p align="center">3 849 </p>
 </td>
 <td>
-<p align="center">
-<br/>3 445 </p>
+<p align="center">3 445 </p>
 </td>
 <td>
 <p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>0 </p>
+<p align="center">0 </p>
 </td>
 <td>
-<p align="center">
-<br/>0</p>
+<p align="center">0</p>
 </td>
 <td>
-<p align="center">
-<br/>7 294</p>
+<p align="center">7 294</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>FR000000000000366</p>
+<p align="center">FR000000000000366</p>
 </td>
 <td>
-<p align="center">
-<br/>RHODIA OPERATIONS</p>
+<p align="center">RHODIA OPERATIONS</p>
 </td>
 <td>
-<p align="center">
-<br/>RHODIA OPERATIONS SITE DE VALENCE</p>
+<p align="center">RHODIA OPERATIONS SITE DE VALENCE</p>
 </td>
 <td>
-<p align="center">
-<br/>18 029 </p>
+<p align="center">18 029 </p>
 </td>
 <td>
-<p align="center">
-<br/>17 716 </p>
+<p align="center">17 716 </p>
 </td>
 <td>
-<p align="center">
-<br/>17 398 </p>
+<p align="center">17 398 </p>
 </td>
 <td>
-<p align="center">
-<br/>17 079 </p>
+<p align="center">17 079 </p>
 </td>
 <td>
-<p align="center">
-<br/>16 755 </p>
+<p align="center">16 755 </p>
 </td>
 <td>
-<p align="center">
-<br/>16 429 </p>
+<p align="center">16 429 </p>
 </td>
 <td>
-<p align="center">
-<br/>16 097 </p>
+<p align="center">16 097 </p>
 </td>
 <td>
-<p align="center">
-<br/>15 766 </p>
+<p align="center">15 766 </p>
 </td>
 <td>
-<p align="center">
-<br/>135 269</p>
+<p align="center">135 269</p>
 </td>
 </tr>
 </tbody>

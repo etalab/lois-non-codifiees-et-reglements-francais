@@ -10,7 +10,7 @@
 <p align="center">NOM DE L'EXPLOITANT</p>
 </td>
 <td>
-<p align="center">NOM DE L'INTALLATION</p>
+<p align="center">NOM DE L'INSTALLATION</p>
 </td>
 <td>2013</td>
 <td>2014</td>
@@ -22,3342 +22,9015 @@
 <td>2020</td>
 <td>
 <p align="center">TOTAL</p>
-<p align="center">des quotas </p>
+<p align="center">des quotas</p>
 <p align="center">sur la période</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>FR000000000000367<br/>
+<td align="center">FR-new-05100850<br/>
 </td>
 <td align="center">
-<br/>OMNIUM THERMIQUE DES GRANDS ENSEMBLES (OMNITHERM)<br/>
+<br/>Lafarge Plâtres<br/>
 </td>
 <td align="center">
-<br/>OMNITHERM-ZUP DE VALENCE<br/>
+<br/>Lafarge Plâtres - usine d'Auneuil<br/>
 </td>
 <td align="center">
-<br/>16 610 <br/>
+<br/>29 648 <br/>
 </td>
 <td align="center">
-<br/>13 742 <br/>
+<br/>36 417<br/>
 </td>
 <td align="center">
-<br/>11 935 <br/>
+<br/>35 766<br/>
 </td>
 <td align="center">
-<br/>10 447 <br/>
+<br/>35 108 <br/>
 </td>
 <td align="center">
-<br/>9 004 <br/>
+<br/>34 443</td>
+<td align="center">
+<br/>33 771</td>
+<td align="center">33 091</td>
+<td align="center">
+<br/>32 409<br/>
 </td>
 <td align="center">
-<br/>7 609 <br/>
-</td>
-<td align="center">
-<br/>6 259 <br/>
-</td>
-<td align="center">
-<br/>4 957 <br/>
-</td>
-<td align="center">
-<br/>80 563<br/>
-</td>
+<br/>270 653</td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000368<br/>
+<br/>FR-new-05101027<br/>
 </td>
 <td align="center">
-<br/>SA VICAT<br/>
+<br/>SCICA PULPOSEC<br/>
 </td>
 <td align="center">
-<br/>VICAT usine de Montalieu<br/>
+<br/>SCICA PULPOSEC<br/>
 </td>
 <td align="center">
-<br/>953 756 <br/>
+<br/>22 001 <br/>
 </td>
 <td align="center">
-<br/>937 190 <br/>
+<br/>21 619 <br/>
 </td>
 <td align="center">
-<br/>920 430 <br/>
+<br/>21 232 <br/>
 </td>
 <td align="center">
-<br/>903 494 <br/>
+<br/>20 842 <br/>
 </td>
 <td align="center">
-<br/>886 376 <br/>
-</td>
-<td align="center">
-<br/>869 092 <br/>
-</td>
-<td align="center">
-<br/>851 592 <br/>
-</td>
-<td align="center">
-<br/>834 031 <br/>
-</td>
-<td align="center">
-<br/>7 155 961<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000370<br/>
-</td>
-<td align="center">
-<br/>Arjowiggins Rives SAS<br/>
-</td>
-<td align="center">
-<br/>Arjowiggins Rives SAS usine de Charavines<br/>
-</td>
-<td align="center">
-<br/>4 618 <br/>
-</td>
-<td align="center">
-<br/>4 538 <br/>
-</td>
-<td align="center">
-<br/>4 457 <br/>
-</td>
-<td align="center">
-<br/>4 375 <br/>
-</td>
-<td align="center">
-<br/>4 292 <br/>
-</td>
-<td align="center">
-<br/>4 208 <br/>
-</td>
-<td align="center">
-<br/>4 124 <br/>
-</td>
-<td align="center">
-<br/>4 039 <br/>
-</td>
-<td align="center">
-<br/>34 651<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000375<br/>
-</td>
-<td align="center">
-<br/>CATERPILLAR France SAS<br/>
-</td>
-<td align="center">
-<br/>CATERPILLAR France SAS <br/>
-</td>
-<td align="center">
-<br/>7 616 <br/>
-</td>
-<td align="center">
-<br/>7 484 <br/>
-</td>
-<td align="center">
-<br/>7 350 <br/>
-</td>
-<td align="center">
-<br/>7 215 <br/>
-</td>
-<td align="center">
-<br/>7 078 <br/>
-</td>
-<td align="center">
-<br/>6 940 <br/>
-</td>
-<td align="center">
-<br/>6 800 <br/>
-</td>
-<td align="center">
-<br/>6 660 <br/>
-</td>
-<td align="center">
-<br/>57 143<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000376<br/>
-</td>
-<td align="center">
-<br/>GRTgaz Région Rhône Méditerranée<br/>
-</td>
-<td align="center">
-<br/>GRTgaz station de compression d'Entre-Deux-Guiers<br/>
-</td>
-<td align="center">
-<br/>39 <br/>
-</td>
-<td align="center">
-<br/>34 <br/>
-</td>
-<td align="center">
-<br/>31 <br/>
-</td>
-<td align="center">
-<br/>27 <br/>
-</td>
-<td align="center">
-<br/>23 <br/>
-</td>
-<td align="center">
-<br/>20 <br/>
-</td>
-<td align="center">
-<br/>16 <br/>
-</td>
-<td align="center">
-<br/>12 <br/>
-</td>
-<td align="center">
-<br/>202<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000378<br/>
-</td>
-<td align="center">
-<br/>Compagnie de chauffage<br/>
-</td>
-<td align="center">
-<br/>Chaufferie de la Villeneuve<br/>
-</td>
-<td align="center">
-<br/>40 919 <br/>
-</td>
-<td align="center">
-<br/>34 367 <br/>
-</td>
-<td align="center">
-<br/>28 446 <br/>
-</td>
-<td align="center">
-<br/>24 840 <br/>
-</td>
-<td align="center">
-<br/>21 399 <br/>
-</td>
-<td align="center">
-<br/>18 069 <br/>
-</td>
-<td align="center">
-<br/>14 847 <br/>
-</td>
-<td align="center">
-<br/>11 745 <br/>
-</td>
-<td align="center">
-<br/>194 632<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000379<br/>
-</td>
-<td align="center">
-<br/>Commissariat à l'énergie atomique et aux énergies alternatives<br/>
-</td>
-<td align="center">
-<br/>Chaufferie du CEA<br/>
-</td>
-<td align="center">
-<br/>1 716 <br/>
-</td>
-<td align="center">
-<br/>1 536 <br/>
-</td>
-<td align="center">
-<br/>1 360 <br/>
-</td>
-<td align="center">
-<br/>1 190 <br/>
-</td>
-<td align="center">
-<br/>1 025 <br/>
-</td>
-<td align="center">
-<br/>866 <br/>
-</td>
-<td align="center">
-<br/>711 <br/>
-</td>
-<td align="center">
-<br/>563 <br/>
-</td>
-<td align="center">
-<br/>8 967<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000380<br/>
-</td>
-<td align="center">
-<br/>Compagnie de chauffage<br/>
-</td>
-<td align="center">
-<br/>Chaufferie de la Poterne<br/>
-</td>
-<td align="center">
-<br/>50 147 <br/>
-</td>
-<td align="center">
-<br/>42 050 <br/>
-</td>
-<td align="center">
-<br/>34 748 <br/>
-</td>
-<td align="center">
-<br/>29 278 <br/>
-</td>
-<td align="center">
-<br/>25 237 <br/>
-</td>
-<td align="center">
-<br/>21 327 <br/>
-</td>
-<td align="center">
-<br/>17 543 <br/>
-</td>
-<td align="center">
-<br/>13 896 <br/>
-</td>
-<td align="center">
-<br/>234 226<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000382<br/>
-</td>
-<td align="center">
-<br/>Compagnie de chauffage<br/>
-</td>
-<td align="center">
-<br/>Chaufferie de VAUCANSON<br/>
-</td>
-<td align="center">
-<br/>609 <br/>
-</td>
-<td align="center">
-<br/>546 <br/>
-</td>
-<td align="center">
-<br/>483 <br/>
-</td>
-<td align="center">
-<br/>422 <br/>
-</td>
-<td align="center">
-<br/>364 <br/>
-</td>
-<td align="center">
-<br/>308 <br/>
-</td>
-<td align="center">
-<br/>253 <br/>
-</td>
-<td align="center">
-<br/>200 <br/>
-</td>
-<td align="center">
-<br/>3 185<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000383<br/>
-</td>
-<td align="center">
-<br/>ARKEMA France<br/>
-</td>
-<td align="center">
-<br/>ARKEMA FRANCE JARRIE<br/>
-</td>
-<td align="center">
-<br/>34 467 <br/>
-</td>
-<td align="center">
-<br/>33 868 <br/>
-</td>
-<td align="center">
-<br/>33 262 <br/>
-</td>
-<td align="center">
-<br/>32 650 <br/>
-</td>
-<td align="center">
-<br/>32 032 <br/>
-</td>
-<td align="center">
-<br/>31 407 <br/>
-</td>
-<td align="center">
-<br/>30 774 <br/>
-</td>
-<td align="center">
-<br/>30 140 <br/>
-</td>
-<td align="center">
-<br/>258 600<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000385<br/>
-</td>
-<td align="center">
-<br/>Rhodia opérations<br/>
-</td>
-<td align="center">
-<br/>Rhodia opérations établissement du Pont-de-Claix<br/>
-</td>
-<td align="center">
-<br/>243 146 <br/>
-</td>
-<td align="center">
-<br/>238 915 <br/>
-</td>
-<td align="center">
-<br/>234 685 <br/>
-</td>
-<td align="center">
-<br/>230 454 <br/>
-</td>
-<td align="center">
-<br/>226 223 <br/>
-</td>
-<td align="center">
-<br/>221 992 <br/>
-</td>
-<td align="center">
-<br/>217 762 <br/>
-</td>
-<td align="center">
-<br/>213 531 <br/>
-</td>
-<td align="center">
-<br/>1 826 708<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000387<br/>
-</td>
-<td align="center">
-<br/>AHLSTROM LabelPack usine de La Gère<br/>
-</td>
-<td align="center">
-<br/>AHLSTROM LabelPack usine de La Gère<br/>
-</td>
-<td align="center">
-<br/>46 050 <br/>
-</td>
-<td align="center">
-<br/>45 251 <br/>
-</td>
-<td align="center">
-<br/>44 441 <br/>
-</td>
-<td align="center">
-<br/>43 624 <br/>
-</td>
-<td align="center">
-<br/>42 797 <br/>
-</td>
-<td align="center">
-<br/>41 962 <br/>
-</td>
-<td align="center">
-<br/>41 117 <br/>
-</td>
-<td align="center">
-<br/>40 269 <br/>
-</td>
-<td align="center">
-<br/>345 511<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000389<br/>
-</td>
-<td align="center">
-<br/>SA VICAT<br/>
-</td>
-<td align="center">
-<br/>VICAT - Saint-Egrève<br/>
-</td>
-<td align="center">
-<br/>264 657 <br/>
-</td>
-<td align="center">
-<br/>260 060 <br/>
-</td>
-<td align="center">
-<br/>255 409 <br/>
-</td>
-<td align="center">
-<br/>250 710 <br/>
-</td>
-<td align="center">
-<br/>245 960 <br/>
-</td>
-<td align="center">
-<br/>241 163 <br/>
-</td>
-<td align="center">
-<br/>236 307 <br/>
-</td>
-<td align="center">
-<br/>231 435 <br/>
-</td>
-<td align="center">
-<br/>1 985 701<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000390<br/>
-</td>
-<td align="center">
-<br/>EUROFLOAT<br/>
-</td>
-<td align="center">
-<br/>EUROFLOAT<br/>
-</td>
-<td align="center">
-<br/>94 237 <br/>
-</td>
-<td align="center">
-<br/>92 600 <br/>
-</td>
-<td align="center">
-<br/>90 944 <br/>
-</td>
-<td align="center">
-<br/>89 271 <br/>
-</td>
-<td align="center">
-<br/>87 580 <br/>
-</td>
-<td align="center">
-<br/>85 872 <br/>
-</td>
-<td align="center">
-<br/>84 143 <br/>
-</td>
-<td align="center">
-<br/>82 408 <br/>
-</td>
-<td align="center">
-<br/>707 055<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000391<br/>
-</td>
-<td align="center">
-<br/>ECL<br/>
-</td>
-<td align="center">
-<br/>EUROPEENNE DES CHAUX ET LIANTS<br/>
-</td>
-<td align="center">
-<br/>75 146 <br/>
-</td>
-<td align="center">
-<br/>73 841 <br/>
-</td>
-<td align="center">
-<br/>72 520 <br/>
-</td>
-<td align="center">
-<br/>71 186 <br/>
-</td>
-<td align="center">
-<br/>69 837 <br/>
-</td>
-<td align="center">
-<br/>68 476 <br/>
-</td>
-<td align="center">
-<br/>67 097 <br/>
-</td>
-<td align="center">
-<br/>65 713 <br/>
-</td>
-<td align="center">
-<br/>563 816<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000392<br/>
-</td>
-<td align="center">
-<br/>Compagnie de chauffage<br/>
-</td>
-<td align="center">
-<br/>Chaufferie de l'Ile-d'Amour<br/>
-</td>
-<td align="center">
-<br/>4 154 <br/>
-</td>
-<td align="center">
-<br/>3 491 <br/>
-</td>
-<td align="center">
-<br/>2 951 <br/>
-</td>
-<td align="center">
-<br/>2 583 <br/>
-</td>
-<td align="center">
-<br/>2 224 <br/>
-</td>
-<td align="center">
-<br/>1 879 <br/>
-</td>
-<td align="center">
-<br/>1 544 <br/>
-</td>
-<td align="center">
-<br/>1 221 <br/>
-</td>
-<td align="center">
-<br/>20 047<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000393<br/>
-</td>
-<td align="center">
-<br/>AHLSTROM Brignoud<br/>
-</td>
-<td align="center">
-<br/>AHLSTROM Brignoud<br/>
-</td>
-<td align="center">
-<br/>8 295 <br/>
-</td>
-<td align="center">
-<br/>8 151 <br/>
-</td>
-<td align="center">
-<br/>8 005 <br/>
-</td>
-<td align="center">
-<br/>7 858 <br/>
-</td>
-<td align="center">
-<br/>7 709 <br/>
-</td>
-<td align="center">
-<br/>7 559 <br/>
-</td>
-<td align="center">
-<br/>7 407 <br/>
-</td>
-<td align="center">
-<br/>7 254 <br/>
-</td>
-<td align="center">
-<br/>62 238<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000395<br/>
-</td>
-<td align="center">
-<br/>SA VICAT<br/>
-</td>
-<td align="center">
-<br/>VICAT-PAPETERIE VIZILLE<br/>
-</td>
-<td align="center">
-<br/>8 712 <br/>
-</td>
-<td align="center">
-<br/>8 560 <br/>
-</td>
-<td align="center">
-<br/>8 407 <br/>
-</td>
-<td align="center">
-<br/>8 253 <br/>
-</td>
-<td align="center">
-<br/>8 096 <br/>
-</td>
-<td align="center">
-<br/>7 938 <br/>
-</td>
-<td align="center">
-<br/>7 779 <br/>
-</td>
-<td align="center">
-<br/>7 618 <br/>
-</td>
-<td align="center">
-<br/>65 363<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000397<br/>
-</td>
-<td align="center">
-<br/>Aubert &amp; Duval usine de Firminy<br/>
-</td>
-<td align="center">
-<br/>Aubert &amp; Duval usine de Firminy<br/>
-</td>
-<td align="center">
-<br/>21 146 <br/>
-</td>
-<td align="center">
-<br/>20 778 <br/>
-</td>
-<td align="center">
-<br/>20 408 <br/>
-</td>
-<td align="center">
-<br/>20 032 <br/>
-</td>
-<td align="center">
-<br/>19 652 <br/>
-</td>
-<td align="center">
-<br/>19 269 <br/>
-</td>
-<td align="center">
-<br/>18 881 <br/>
-</td>
-<td align="center">
-<br/>18 492 <br/>
-</td>
-<td align="center">
-<br/>158 658<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000399<br/>
-</td>
-<td align="center">
-<br/>Industeel France site de Châteauneuf<br/>
-</td>
-<td align="center">
-<br/>Industeel France site de Châteauneuf<br/>
-</td>
-<td align="center">
-<br/>48 472 <br/>
-</td>
-<td align="center">
-<br/>47 630 <br/>
-</td>
-<td align="center">
-<br/>46 778 <br/>
-</td>
-<td align="center">
-<br/>45 918 <br/>
-</td>
-<td align="center">
-<br/>45 048 <br/>
-</td>
-<td align="center">
-<br/>44 169 <br/>
-</td>
-<td align="center">
-<br/>43 280 <br/>
-</td>
-<td align="center">
-<br/>42 387 <br/>
-</td>
-<td align="center">
-<br/>363 682<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000402<br/>
-</td>
-<td align="center">
-<br/>DELIPAPIER<br/>
-</td>
-<td align="center">
-<br/>DELIPAPIER<br/>
-</td>
-<td align="center">
-<br/>9 399 <br/>
-</td>
-<td align="center">
-<br/>9 236 <br/>
-</td>
-<td align="center">
-<br/>9 071 <br/>
-</td>
-<td align="center">
-<br/>8 904 <br/>
-</td>
-<td align="center">
-<br/>8 735 <br/>
-</td>
-<td align="center">
-<br/>8 564 <br/>
-</td>
-<td align="center">
-<br/>8 392 <br/>
-</td>
-<td align="center">
-<br/>8 219 <br/>
-</td>
-<td align="center">
-<br/>70 520<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000403<br/>
-</td>
-<td align="center">
-<br/>Pierre-Alexandre ANSTETT<br/>
-</td>
-<td align="center">
-<br/>Usine Michelin de Roanne<br/>
-</td>
-<td align="center">
-<br/>12 144 <br/>
-</td>
-<td align="center">
-<br/>11 933 <br/>
-</td>
-<td align="center">
-<br/>11 720 <br/>
-</td>
-<td align="center">
-<br/>11 504 <br/>
-</td>
-<td align="center">
-<br/>11 286 <br/>
-</td>
-<td align="center">
-<br/>11 066 <br/>
-</td>
-<td align="center">
-<br/>10 843 <br/>
-</td>
-<td align="center">
-<br/>10 620 <br/>
-</td>
-<td align="center">
-<br/>91 116<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000405<br/>
-</td>
-<td align="center">STELVIA<br/>
-</td>
-<td align="center">Chaufferie urbaine du quartier de Montreynaud</td>
-<td align="center">
-<br/>5 471 <br/>
-</td>
-<td align="center">
-<br/>4 856 <br/>
-</td>
-<td align="center">
-<br/>4 301 <br/>
-</td>
-<td align="center">
-<br/>3 763 <br/>
-</td>
-<td align="center">
-<br/>3 242 <br/>
-</td>
-<td align="center">
-<br/>2 738 <br/>
-</td>
-<td align="center">
-<br/>2 249 <br/>
-</td>
-<td align="center">
-<br/>1 780 <br/>
-</td>
-<td align="center">
-<br/>28 400<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000406<br/>
-</td>
-<td align="center">
-<br/>VERALLIA SAINT-GOBAIN EMBALLAGE<br/>
-</td>
-<td align="center">
-<br/>VERALLIA - SAINT-GOBAIN EMBALLAGE<br/>
-</td>
-<td align="center">
-<br/>79 163 <br/>
-</td>
-<td align="center">
-<br/>77 788 <br/>
-</td>
-<td align="center">
-<br/>76 397 <br/>
-</td>
-<td align="center">
-<br/>74 991 <br/>
-</td>
-<td align="center">
-<br/>73 571 <br/>
-</td>
-<td align="center">
-<br/>72 135 <br/>
-</td>
-<td align="center">
-<br/>70 683 <br/>
-</td>
-<td align="center">
-<br/>69 225 <br/>
-</td>
-<td align="center">
-<br/>593 953<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000407<br/>
-</td>
-<td align="center">
-<br/>OI Manufacturing France<br/>
-</td>
-<td align="center">
-<br/>OI Manufacturing Veauche<br/>
-</td>
-<td align="center">
-<br/>60 186 <br/>
-</td>
-<td align="center">
-<br/>59 141 <br/>
-</td>
-<td align="center">
-<br/>58 083 <br/>
-</td>
-<td align="center">
-<br/>57 014 <br/>
-</td>
-<td align="center">
-<br/>55 934 <br/>
-</td>
-<td align="center">
-<br/>54 844 <br/>
-</td>
-<td align="center">
-<br/>53 739 <br/>
-</td>
-<td align="center">
-<br/>52 631 <br/>
-</td>
-<td align="center">
-<br/>451 572<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000408<br/>
-</td>
-<td align="center">
-<br/>ELVYA<br/>
-</td>
-<td align="center">
-<br/>Chaufferie de Bron Parilly<br/>
-</td>
-<td align="center">
-<br/>6 066 <br/>
-</td>
-<td align="center">
-<br/>5 428 <br/>
-</td>
-<td align="center">
-<br/>4 809 <br/>
-</td>
-<td align="center">
-<br/>4 209 <br/>
-</td>
-<td align="center">
-<br/>3 628 <br/>
-</td>
-<td align="center">
-<br/>3 066 <br/>
-</td>
-<td align="center">
-<br/>2 522 <br/>
-</td>
-<td align="center">
-<br/>1 998 <br/>
-</td>
-<td align="center">
-<br/>31 726<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000409<br/>
-</td>
-<td align="center">
-<br/>CENTRE HOSPITALIER LE VINATIER<br/>
-</td>
-<td align="center">
-<br/>CENTRE HOSPITALIER LE VINATIER<br/>
-</td>
-<td align="center">
-<br/>5 187 <br/>
-</td>
-<td align="center">
-<br/>4 642 <br/>
-</td>
-<td align="center">
-<br/>4 113 <br/>
-</td>
-<td align="center">
-<br/>3 600 <br/>
-</td>
-<td align="center">
-<br/>3 103 <br/>
-</td>
-<td align="center">
-<br/>2 622 <br/>
-</td>
-<td align="center">
-<br/>2 157 <br/>
-</td>
-<td align="center">
-<br/>1 708 <br/>
-</td>
-<td align="center">
-<br/>27 132<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000410<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments - usine de Val-d'Azergues<br/>
-</td>
-<td align="center">
-<br/>260 093 <br/>
-</td>
-<td align="center">
-<br/>255 576 <br/>
-</td>
-<td align="center">
-<br/>251 005 <br/>
-</td>
-<td align="center">
-<br/>246 386 <br/>
-</td>
-<td align="center">
-<br/>241 718 <br/>
-</td>
-<td align="center">
-<br/>237 005 <br/>
-</td>
-<td align="center">
-<br/>232 233 <br/>
-</td>
-<td align="center">
-<br/>227 444 <br/>
-</td>
-<td align="center">
-<br/>1 951 460<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000411<br/>
-</td>
-<td align="center">
-<br/>RHODIA SILICA<br/>
-</td>
-<td align="center">
-<br/>RHODIA SILICA<br/>
-</td>
-<td align="center">
-<br/>105 896 <br/>
-</td>
-<td align="center">
-<br/>104 056 <br/>
-</td>
-<td align="center">
-<br/>102 196 <br/>
-</td>
-<td align="center">
-<br/>100 316 <br/>
-</td>
-<td align="center">
-<br/>98 415 <br/>
-</td>
-<td align="center">
-<br/>96 496 <br/>
-</td>
-<td align="center">
-<br/>94 552 <br/>
-</td>
-<td align="center">
-<br/>92 603 <br/>
-</td>
-<td align="center">
-<br/>794 530<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000413<br/>
-</td>
-<td align="center">
-<br/>Sanofi Pasteur<br/>
-</td>
-<td align="center">
-<br/>Sanofi Pasteur Marcy-l'Etoile<br/>
-</td>
-<td align="center">
-<br/>28 142 <br/>
-</td>
-<td align="center">
-<br/>27 653 <br/>
-</td>
-<td align="center">
-<br/>27 159 <br/>
-</td>
-<td align="center">
-<br/>26 659 <br/>
-</td>
-<td align="center">
-<br/>26 154 <br/>
-</td>
-<td align="center">
-<br/>25 644 <br/>
-</td>
-<td align="center">
-<br/>25 128 <br/>
-</td>
-<td align="center">
-<br/>24 609 <br/>
-</td>
-<td align="center">
-<br/>211 148<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000414<br/>
-</td>
-<td align="center">
-<br/>Sanofi Chimie<br/>
-</td>
-<td align="center">
-<br/>Sanofi Aventis Chimie Neuville-sur-Saône<br/>
-</td>
-<td align="center">
-<br/>11 283 <br/>
-</td>
-<td align="center">
-<br/>11 087 <br/>
-</td>
-<td align="center">
-<br/>10 889 <br/>
-</td>
-<td align="center">
-<br/>10 689 <br/>
-</td>
-<td align="center">
-<br/>10 486 <br/>
-</td>
-<td align="center">
-<br/>10 282 <br/>
-</td>
-<td align="center">
-<br/>10 075 <br/>
-</td>
-<td align="center">
-<br/>9 867 <br/>
-</td>
-<td align="center">
-<br/>84 658<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000415<br/>
-</td>
-<td align="center">
-<br/>Arkema<br/>
-</td>
-<td align="center">
-<br/>Arkema<br/>
-</td>
-<td align="center">
-<br/>40 007 <br/>
-</td>
-<td align="center">
-<br/>39 311 <br/>
-</td>
-<td align="center">
-<br/>38 608 <br/>
-</td>
-<td align="center">
-<br/>37 898 <br/>
-</td>
-<td align="center">
-<br/>37 180 <br/>
-</td>
-<td align="center">
-<br/>36 455 <br/>
-</td>
-<td align="center">
-<br/>35 720 <br/>
-</td>
-<td align="center">
-<br/>34 985 <br/>
-</td>
-<td align="center">
-<br/>300 164<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000416<br/>
-</td>
-<td align="center">
-<br/>IMERYS TOITURE<br/>
-</td>
-<td align="center">
-<br/>IMERYS TOITURE site de Quincieux<br/>
-</td>
-<td align="center">
-<br/>17 532 <br/>
-</td>
-<td align="center">
-<br/>17 228 <br/>
-</td>
-<td align="center">
-<br/>16 921 <br/>
-</td>
-<td align="center">
-<br/>16 609 <br/>
-</td>
-<td align="center">
-<br/>16 294 <br/>
-</td>
-<td align="center">
-<br/>15 976 <br/>
-</td>
-<td align="center">
-<br/>15 655 <br/>
-</td>
-<td align="center">
-<br/>15 332 <br/>
-</td>
-<td align="center">
-<br/>131 547<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000417<br/>
-</td>
-<td align="center">
-<br/>ALFI<br/>
-</td>
-<td align="center">
-<br/>ALFI<br/>
-</td>
-<td align="center">
-<br/>78 327 <br/>
-</td>
-<td align="center">
-<br/>76 966 <br/>
-</td>
-<td align="center">
-<br/>75 590 <br/>
-</td>
-<td align="center">
-<br/>74 199 <br/>
-</td>
-<td align="center">
-<br/>72 793 <br/>
-</td>
-<td align="center">
-<br/>71 374 <br/>
-</td>
-<td align="center">
-<br/>69 937 <br/>
-</td>
-<td align="center">
-<br/>68 495 <br/>
-</td>
-<td align="center">
-<br/>587 681<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000418<br/>
-</td>
-<td align="center">
-<br/>Rhodia Operations<br/>
-</td>
-<td align="center">
-<br/>Rhodia Opérations usine de Saint-Fons<br/>
-</td>
-<td align="center">
-<br/>111 546 <br/>
-</td>
-<td align="center">
-<br/>109 608 <br/>
-</td>
-<td align="center">
-<br/>107 648 <br/>
-</td>
-<td align="center">
-<br/>105 667 <br/>
-</td>
-<td align="center">
-<br/>103 665 <br/>
-</td>
-<td align="center">
-<br/>101 644 <br/>
-</td>
-<td align="center">
-<br/>99 597 <br/>
-</td>
-<td align="center">
-<br/>97 543 <br/>
-</td>
-<td align="center">
-<br/>836 918<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000419<br/>
-</td>
-<td align="center">
-<br/>IMERYS TC SAS<br/>
-</td>
-<td align="center">
-<br/>IMERYS TC site de Sainte-Foy-l'Argentière<br/>
-</td>
-<td align="center">
-<br/>35 434 <br/>
-</td>
-<td align="center">
-<br/>34 819 <br/>
-</td>
-<td align="center">
-<br/>34 195 <br/>
-</td>
-<td align="center">
-<br/>33 567 <br/>
-</td>
-<td align="center">
-<br/>32 930 <br/>
-</td>
-<td align="center">
-<br/>32 289 <br/>
-</td>
-<td align="center">
-<br/>31 639 <br/>
-</td>
-<td align="center">
-<br/>30 986 <br/>
-</td>
-<td align="center">
-<br/>265 859<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000422<br/>
-</td>
-<td align="center">
-<br/>COFELY GDF SUEZ<br/>
-</td>
-<td align="center">
-<br/>COFELY Sud-Est - VAULX-EN-VELIN<br/>
-</td>
-<td align="center">
-<br/>30 154 <br/>
-</td>
-<td align="center">
-<br/>24 807 <br/>
+<br/>20 447 <br/>
 </td>
 <td align="center">
 <br/>20 048 <br/>
 </td>
 <td align="center">
-<br/>17 389 <br/>
+<br/>19 645 <br/>
 </td>
 <td align="center">
-<br/>14 989 <br/>
+<br/>19 239 <br/>
 </td>
 <td align="center">
-<br/>12 667 <br/>
-</td>
-<td align="center">
-<br/>10 419 <br/>
-</td>
-<td align="center">
-<br/>8 253 <br/>
-</td>
-<td align="center">
-<br/>138 726<br/>
+<br/>165 073<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000423<br/>
+<br/>FR-new-05101048<br/>
 </td>
 <td align="center">
-<br/>Carrière et Chaux Balthazard &amp; Cotte<br/>
+<br/>SOCIETE LAITIERE DE CLERMONT <br/>
 </td>
 <td align="center">
-<br/>CCBC usine de la Buisse<br/>
+<br/>SOCIETE LAITIERE DE CLERMONT<br/>
 </td>
 <td align="center">
-<br/>78 552 <br/>
+<br/>3 644 <br/>
 </td>
 <td align="center">
-<br/>77 188 <br/>
+<br/>3 261 <br/>
 </td>
 <td align="center">
-<br/>75 807 <br/>
+<br/>2 888 <br/>
 </td>
 <td align="center">
-<br/>74 413 <br/>
+<br/>2 527 <br/>
 </td>
 <td align="center">
-<br/>73 003 <br/>
+<br/>2 177 <br/>
 </td>
 <td align="center">
-<br/>71 579 <br/>
-</td>
-<td align="center">
-<br/>70 138 <br/>
-</td>
-<td align="center">
-<br/>68 692 <br/>
-</td>
-<td align="center">
-<br/>589 372<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000424<br/>
-</td>
-<td align="center">
-<br/>SOCIETE D'EXPLOITATION DE CHAUFFAGE DE VENISSIEUX (SECV)<br/>
-</td>
-<td align="center">
-<br/>SECV-MINGUETTES<br/>
-</td>
-<td align="center">
-<br/>29 768 <br/>
-</td>
-<td align="center">
-<br/>26 612 <br/>
-</td>
-<td align="center">
-<br/>23 575 <br/>
-</td>
-<td align="center">
-<br/>20 635 <br/>
-</td>
-<td align="center">
-<br/>17 786 <br/>
-</td>
-<td align="center">
-<br/>15 031 <br/>
-</td>
-<td align="center">
-<br/>12 364 <br/>
-</td>
-<td align="center">
-<br/>9 793 <br/>
-</td>
-<td align="center">
-<br/>155 564<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000425<br/>
-</td>
-<td align="center">
-<br/>Société thermique de La Doua<br/>
-</td>
-<td align="center">
-<br/>Société thermique de La Doua<br/>
-</td>
-<td align="center">
-<br/>8 246 <br/>
-</td>
-<td align="center">
-<br/>7 380 <br/>
-</td>
-<td align="center">
-<br/>6 537 <br/>
-</td>
-<td align="center">
-<br/>5 719 <br/>
-</td>
-<td align="center">
-<br/>4 926 <br/>
-</td>
-<td align="center">
-<br/>4 160 <br/>
-</td>
-<td align="center">
-<br/>3 418 <br/>
-</td>
-<td align="center">
-<br/>2 704 <br/>
-</td>
-<td align="center">
-<br/>43 090<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000427<br/>
-</td>
-<td align="center">
-<br/>Total raffinage France<br/>
-</td>
-<td align="center">
-<br/>Total raffinerie de Feyzin<br/>
-</td>
-<td align="center">
-<br/>926 881 <br/>
-</td>
-<td align="center">
-<br/>910 783 <br/>
-</td>
-<td align="center">
-<br/>894 495 <br/>
-</td>
-<td align="center">
-<br/>878 037 <br/>
-</td>
-<td align="center">
-<br/>861 400 <br/>
-</td>
-<td align="center">
-<br/>844 603 <br/>
-</td>
-<td align="center">
-<br/>827 596 <br/>
-</td>
-<td align="center">
-<br/>810 531 <br/>
-</td>
-<td align="center">
-<br/>6 954 326<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000428<br/>
-</td>
-<td align="center">
-<br/>COFELY GDF SUEZ<br/>
-</td>
-<td align="center">
-<br/>Chaufferie des semailles à Rillieux-la-Pape COFELY<br/>
-</td>
-<td align="center">
-<br/>5 263 <br/>
-</td>
-<td align="center">
-<br/>4 710 <br/>
-</td>
-<td align="center">
-<br/>4 172 <br/>
-</td>
-<td align="center">
-<br/>3 651 <br/>
-</td>
-<td align="center">
-<br/>3 144 <br/>
-</td>
-<td align="center">
-<br/>2 655 <br/>
-</td>
-<td align="center">
-<br/>2 182 <br/>
-</td>
-<td align="center">
-<br/>1 726 <br/>
-</td>
-<td align="center">
-<br/>27 503<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000429<br/>
-</td>
-<td align="center">
-<br/>AEROPORTS DE LYON<br/>
-</td>
-<td align="center">
-<br/>Aéroport de Lyon - Saint-Exupéry<br/>
-</td>
-<td align="center">
-<br/>4 034 <br/>
-</td>
-<td align="center">
-<br/>3 610 <br/>
-</td>
-<td align="center">
-<br/>3 199 <br/>
-</td>
-<td align="center">
-<br/>2 800 <br/>
-</td>
-<td align="center">
-<br/>2 413 <br/>
-</td>
-<td align="center">
-<br/>2 040 <br/>
-</td>
-<td align="center">
-<br/>1 677 <br/>
-</td>
-<td align="center">
-<br/>1 329 <br/>
-</td>
-<td align="center">
-<br/>21 102<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000430<br/>
-</td>
-<td align="center">
-<br/>HOPITAL EDOUARD-HERRIOT<br/>
-</td>
-<td align="center">
-<br/>Hôpital Edouard-Herriot<br/>
-</td>
-<td align="center">
-<br/>5 408 <br/>
-</td>
-<td align="center">
-<br/>4 840 <br/>
-</td>
-<td align="center">
-<br/>4 287 <br/>
-</td>
-<td align="center">
-<br/>3 751 <br/>
-</td>
-<td align="center">
-<br/>3 231 <br/>
-</td>
-<td align="center">
-<br/>2 728 <br/>
-</td>
-<td align="center">
-<br/>2 242 <br/>
-</td>
-<td align="center">
-<br/>1 773 <br/>
-</td>
-<td align="center">
-<br/>28 260<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000431<br/>
-</td>
-<td align="center">
-<br/>ELVYA<br/>
-</td>
-<td align="center">
-<br/>ELVYA-Chaufferie LAFAYETTE<br/>
-</td>
-<td align="center">
-<br/>28 826 <br/>
-</td>
-<td align="center">
-<br/>25 797 <br/>
-</td>
-<td align="center">
-<br/>22 853 <br/>
-</td>
-<td align="center">
-<br/>20 003 <br/>
-</td>
-<td align="center">
-<br/>17 242 <br/>
-</td>
-<td align="center">
-<br/>14 571 <br/>
-</td>
-<td align="center">
-<br/>11 986 <br/>
-</td>
-<td align="center">
-<br/>9 493 <br/>
-</td>
-<td align="center">
-<br/>150 771<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000432<br/>
-</td>
-<td align="center">
-<br/>ELYDE (ENERGIE LYON DUCHERE ENVIRONNEMENT)<br/>
-</td>
-<td align="center">
-<br/>ELYDE-LA-DUCHERE<br/>
-</td>
-<td align="center">
-<br/>12 400 <br/>
-</td>
-<td align="center">
-<br/>10 285 <br/>
-</td>
-<td align="center">
-<br/>9 090 <br/>
-</td>
-<td align="center">
-<br/>7 953 <br/>
-</td>
-<td align="center">
-<br/>6 851 <br/>
-</td>
-<td align="center">
-<br/>5 785 <br/>
-</td>
-<td align="center">
-<br/>4 753 <br/>
-</td>
-<td align="center">
-<br/>3 761 <br/>
-</td>
-<td align="center">
-<br/>60 878<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000433<br/>
-</td>
-<td align="center">
-<br/>Société chambérienne de distribution de chaleur (SCDC)<br/>
-</td>
-<td align="center">
-<br/>SCDC Bassens CHAMBERY<br/>
+<br/>1 838 <br/>
 </td>
 <td align="center">
 <br/>1 510 <br/>
 </td>
 <td align="center">
-<br/>1 260 <br/>
+<br/>1 195 <br/>
 </td>
 <td align="center">
-<br/>1 034 <br/>
-</td>
-<td align="center">
-<br/>880 <br/>
-</td>
-<td align="center">
-<br/>758 <br/>
-</td>
-<td align="center">
-<br/>640 <br/>
-</td>
-<td align="center">
-<br/>526 <br/>
-</td>
-<td align="center">
-<br/>416 <br/>
-</td>
-<td align="center">
-<br/>7 024<br/>
+<br/>19 040<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000434<br/>
+<br/>FR-new-05101072<br/>
 </td>
 <td align="center">
-<br/>OCV CHAMBERY France<br/>
+<br/>REGEAL <br/>
 </td>
 <td align="center">
-<br/>OCV CHAMBERY France<br/>
+<br/>REGEAL AFFIMET<br/>
 </td>
 <td align="center">
-<br/>34 902 <br/>
+<br/>22 216 <br/>
 </td>
 <td align="center">
-<br/>34 296 <br/>
+<br/>21 829 <br/>
 </td>
 <td align="center">
-<br/>33 683 <br/>
+<br/>21 439 <br/>
 </td>
 <td align="center">
-<br/>33 063 <br/>
+<br/>21 044 <br/>
 </td>
 <td align="center">
-<br/>32 437 <br/>
+<br/>20 646 <br/>
 </td>
 <td align="center">
-<br/>31 804 <br/>
+<br/>20 243 <br/>
 </td>
 <td align="center">
-<br/>31 164 <br/>
+<br/>19 836 <br/>
 </td>
 <td align="center">
-<br/>30 521 <br/>
+<br/>19 426 <br/>
 </td>
 <td align="center">
-<br/>261 870<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000435<br/>
-</td>
-<td align="center">
-<br/>Société chambérienne de distribution de chaleur<br/>
-</td>
-<td align="center">
-<br/>SCDC Croix-Rouge Chambéry<br/>
-</td>
-<td align="center">
-<br/>9 046 <br/>
-</td>
-<td align="center">
-<br/>8 096 <br/>
-</td>
-<td align="center">
-<br/>7 171 <br/>
-</td>
-<td align="center">
-<br/>6 277 <br/>
-</td>
-<td align="center">
-<br/>5 411 <br/>
-</td>
-<td align="center">
-<br/>4 572 <br/>
-</td>
-<td align="center">
-<br/>3 762 <br/>
-</td>
-<td align="center">
-<br/>2 979 <br/>
-</td>
-<td align="center">
-<br/>47 314<br/>
+<br/>166 679<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000436<br/>
+<br/>FR-new-05101524<br/>
 </td>
 <td align="center">
-<br/>Société chambérienne de distribution de chaleur (SCDC)<br/>
+<br/>NORFOND<br/>
 </td>
 <td align="center">
-<br/>SCDC BISSY CHAMBERY<br/>
+<br/>NORFOND<br/>
 </td>
 <td align="center">
-<br/>25 457 <br/>
+<br/>36 479 <br/>
 </td>
 <td align="center">
-<br/>22 782 <br/>
+<br/>35 845 <br/>
 </td>
 <td align="center">
-<br/>20 182 <br/>
+<br/>35 204 <br/>
 </td>
 <td align="center">
-<br/>17 665 <br/>
+<br/>34 557 <br/>
 </td>
 <td align="center">
-<br/>15 227 <br/>
+<br/>33 901 <br/>
 </td>
 <td align="center">
-<br/>12 868 <br/>
+<br/>33 241 <br/>
 </td>
 <td align="center">
-<br/>10 584 <br/>
+<br/>32 571 <br/>
 </td>
 <td align="center">
-<br/>8 383 <br/>
+<br/>31 900 <br/>
 </td>
 <td align="center">
-<br/>133 148<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000437<br/>
-</td>
-<td align="center">
-<br/>ARKEMA France<br/>
-</td>
-<td align="center">
-<br/>ARKEMA usine de La Chambre <br/>
-</td>
-<td align="center">
-<br/>49 979 <br/>
-</td>
-<td align="center">
-<br/>49 111 <br/>
-</td>
-<td align="center">
-<br/>48 232 <br/>
-</td>
-<td align="center">
-<br/>47 345 <br/>
-</td>
-<td align="center">
-<br/>46 448 <br/>
-</td>
-<td align="center">
-<br/>45 543 <br/>
-</td>
-<td align="center">
-<br/>44 625 <br/>
-</td>
-<td align="center">
-<br/>43 706 <br/>
-</td>
-<td align="center">
-<br/>374 989<br/>
+<br/>273 698<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000438<br/>
+<br/>FR-new-05102147<br/>
 </td>
 <td align="center">
-<br/>Jean Goulet<br/>
+<br/>Sica pulpe de Haute-Picardie<br/>
 </td>
 <td align="center">
-<br/>Cascades SAS<br/>
+<br/>SICA PULPE HAUTE-PICARDIE<br/>
 </td>
 <td align="center">
-<br/>35 567 <br/>
+<br/>17 572 <br/>
 </td>
 <td align="center">
-<br/>34 949 <br/>
+<br/>17 267 <br/>
 </td>
 <td align="center">
-<br/>34 324 <br/>
+<br/>16 958 <br/>
 </td>
 <td align="center">
-<br/>33 693 <br/>
+<br/>16 646 <br/>
 </td>
 <td align="center">
-<br/>33 055 <br/>
+<br/>16 331 <br/>
 </td>
 <td align="center">
-<br/>32 410 <br/>
+<br/>16 012 <br/>
 </td>
 <td align="center">
-<br/>31 757 <br/>
+<br/>15 690 <br/>
 </td>
 <td align="center">
-<br/>31 103 <br/>
+<br/>15 366 <br/>
 </td>
 <td align="center">
-<br/>266 858<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000439<br/>
-</td>
-<td align="center">
-<br/>UGITECH<br/>
-</td>
-<td align="center">
-<br/>UGITECH SA site d'Ugine<br/>
-</td>
-<td align="center">
-<br/>62 632 <br/>
-</td>
-<td align="center">
-<br/>61 544 <br/>
-</td>
-<td align="center">
-<br/>60 443 <br/>
-</td>
-<td align="center">
-<br/>59 331 <br/>
-</td>
-<td align="center">
-<br/>58 207 <br/>
-</td>
-<td align="center">
-<br/>57 071 <br/>
-</td>
-<td align="center">
-<br/>55 923 <br/>
-</td>
-<td align="center">
-<br/>54 770 <br/>
-</td>
-<td align="center">
-<br/>469 921<br/>
+<br/>131 842<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000440<br/>
+<br/>FR-new-05102507<br/>
 </td>
 <td align="center">
-<br/>ANNECY BIO CHALEUR<br/>
+<br/>SCICA ROYE DESHYDRATATION<br/>
 </td>
 <td align="center">
-<br/>ANNECY BIO CHALEUR<br/>
+<br/>SCICA ROYE DESHYDRADATION<br/>
 </td>
 <td align="center">
-<br/>6 605 <br/>
+<br/>19 633 <br/>
 </td>
 <td align="center">
-<br/>5 842 <br/>
+<br/>19 292 <br/>
 </td>
 <td align="center">
-<br/>5 176 <br/>
+<br/>18 947 <br/>
 </td>
 <td align="center">
-<br/>4 528 <br/>
+<br/>18 598 <br/>
 </td>
 <td align="center">
-<br/>3 900 <br/>
+<br/>18 246 <br/>
 </td>
 <td align="center">
-<br/>3 294 <br/>
+<br/>17 891 <br/>
 </td>
 <td align="center">
-<br/>2 706 <br/>
+<br/>17 530 <br/>
 </td>
 <td align="center">
-<br/>2 141 <br/>
+<br/>17 169 <br/>
 </td>
 <td align="center">
-<br/>34 192<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000443<br/>
-</td>
-<td align="center">
-<br/>Papeteries du Léman<br/>
-</td>
-<td align="center">
-<br/>Papeteries du Léman<br/>
-</td>
-<td align="center">
-<br/>13 552 <br/>
-</td>
-<td align="center">
-<br/>13 316 <br/>
-</td>
-<td align="center">
-<br/>13 078 <br/>
-</td>
-<td align="center">
-<br/>12 837 <br/>
-</td>
-<td align="center">
-<br/>12 594 <br/>
-</td>
-<td align="center">
-<br/>12 349 <br/>
-</td>
-<td align="center">
-<br/>12 100 <br/>
-</td>
-<td align="center">
-<br/>11 851 <br/>
-</td>
-<td align="center">
-<br/>101 677<br/>
+<br/>147 306<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000445<br/>
+<br/>FR-new-05200027<br/>
 </td>
 <td align="center">
-<br/>DALKIA France<br/>
+<br/>CONSERVERIE DE BERGERAC SAS<br/>
 </td>
 <td align="center">
-<br/>DALKIA - Chaufferie SEYNOD<br/>
+<br/>CONSERVERIE DE BERGERAC SAS<br/>
 </td>
 <td align="center">
-<br/>2 629 <br/>
-</td>
-<td align="center">
-<br/>2 169 <br/>
-</td>
-<td align="center">
-<br/>1 758 <br/>
-</td>
-<td align="center">
-<br/>1 521 <br/>
-</td>
-<td align="center">
-<br/>1 310 <br/>
-</td>
-<td align="center">
-<br/>1 106 <br/>
-</td>
-<td align="center">
-<br/>909 <br/>
-</td>
-<td align="center">
-<br/>719 <br/>
-</td>
-<td align="center">
-<br/>12 121<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000448<br/>
-</td>
-<td align="center">
-<br/>GIE OSIRIS<br/>
-</td>
-<td align="center">
-<br/>GIE OSIRIS<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000449<br/>
-</td>
-<td align="center">
-<br/>BACCARAT SA</td>
-<td align="center">
-<br/>BACCARAT SA<br/>
-</td>
-<td align="center">
-<br/>13 434 <br/>
-</td>
-<td align="center">
-<br/>13 201 <br/>
-</td>
-<td align="center">
-<br/>12 965 <br/>
-</td>
-<td align="center">
-<br/>12 726 <br/>
-</td>
-<td align="center">
-<br/>12 485 <br/>
-</td>
-<td align="center">
-<br/>12 242 <br/>
-</td>
-<td align="center">
-<br/>11 995 <br/>
-</td>
-<td align="center">
-<br/>11 748 <br/>
-</td>
-<td align="center">
-<br/>100 796<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000450<br/>
-</td>
-<td align="center">
-<br/>Pierre MONFLIER (directeur de SOVAB)<br/>
-</td>
-<td align="center">
-<br/>Société des véhicules automobiles de Batilly (SOVAB) <br/>
-</td>
-<td align="center">
-<br/>22 020 <br/>
-</td>
-<td align="center">
-<br/>19 706 <br/>
-</td>
-<td align="center">
-<br/>17 454 <br/>
-</td>
-<td align="center">
-<br/>15 272 <br/>
-</td>
-<td align="center">
-<br/>13 156 <br/>
-</td>
-<td align="center">
-<br/>11 108 <br/>
-</td>
-<td align="center">
-<br/>9 128 <br/>
-</td>
-<td align="center">
-<br/>7 221 <br/>
-</td>
-<td align="center">
-<br/>115 065<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000453<br/>
-</td>
-<td align="center">
-<br/>Brasserie Champigneulles SAS<br/>
-</td>
-<td align="center">
-<br/>Brasserie Champigneulles SAS<br/>
-</td>
-<td align="center">
-<br/>8 419 <br/>
-</td>
-<td align="center">
-<br/>7 535 <br/>
-</td>
-<td align="center">
-<br/>6 673 <br/>
-</td>
-<td align="center">
-<br/>5 840 <br/>
-</td>
-<td align="center">
-<br/>5 030 <br/>
-</td>
-<td align="center">
-<br/>4 248 <br/>
-</td>
-<td align="center">
-<br/>3 490 <br/>
-</td>
-<td align="center">
-<br/>2 761 <br/>
-</td>
-<td align="center">
-<br/>43 996<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000454<br/>
-</td>
-<td align="center">
-<br/>Centrale de cogénération Solvay Energy Services - Site de Solvay Dombasle<br/>
-</td>
-<td align="center">
-<br/>COFELY Cogénération Solvay<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000455<br/>
-</td>
-<td align="center">
-<br/>SOLVAY CARBONATE France<br/>
-</td>
-<td align="center">
-<br/>SOLVAY CARBONATE France<br/>
-</td>
-<td align="center">
-<br/>601 855 <br/>
-</td>
-<td align="center">
-<br/>591 401 <br/>
-</td>
-<td align="center">
-<br/>580 824 <br/>
-</td>
-<td align="center">
-<br/>570 137 <br/>
-</td>
-<td align="center">
-<br/>559 335 <br/>
-</td>
-<td align="center">
-<br/>548 428 <br/>
-</td>
-<td align="center">
-<br/>537 385 <br/>
-</td>
-<td align="center">
-<br/>526 303 <br/>
-</td>
-<td align="center">
-<br/>4 515 668<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000456<br/>
-</td>
-<td align="center">
-<br/>DELIPAPIER SAS<br/>
-</td>
-<td align="center">
-<br/>DELIPAPIER SAS<br/>
-</td>
-<td align="center">
-<br/>36 827 <br/>
-</td>
-<td align="center">
-<br/>36 133 <br/>
-</td>
-<td align="center">
-<br/>35 432 <br/>
-</td>
-<td align="center">
-<br/>34 727 <br/>
-</td>
-<td align="center">
-<br/>34 017 <br/>
-</td>
-<td align="center">
-<br/>33 303 <br/>
-</td>
-<td align="center">
-<br/>32 583 <br/>
-</td>
-<td align="center">
-<br/>31 863 <br/>
-</td>
-<td align="center">
-<br/>274 885<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000457<br/>
-</td>
-<td align="center">
-<br/>NOVACARB<br/>
-</td>
-<td align="center">
-<br/>Cogénération NOVACOGE de la Madeliene<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000458<br/>
-</td>
-<td align="center">
-<br/>NOVACARB<br/>
-</td>
-<td align="center">
-<br/>Usine NovaCarb de La Madeleine<br/>
-</td>
-<td align="center">
-<br/>470 077 <br/>
-</td>
-<td align="center">
-<br/>461 912 <br/>
-</td>
-<td align="center">
-<br/>453 651 <br/>
-</td>
-<td align="center">
-<br/>445 305 <br/>
-</td>
-<td align="center">
-<br/>436 867 <br/>
-</td>
-<td align="center">
-<br/>428 349 <br/>
-</td>
-<td align="center">
-<br/>419 723 <br/>
-</td>
-<td align="center">
-<br/>411 068 <br/>
-</td>
-<td align="center">
-<br/>3 526 952<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000459<br/>
-</td>
-<td align="center">
-<br/>PERFORMANCE FIBERS<br/>
-</td>
-<td align="center">
-<br/>Longlaville Performance Fibers<br/>
-</td>
-<td align="center">
-<br/>17 790 <br/>
-</td>
-<td align="center">
-<br/>17 481 <br/>
-</td>
-<td align="center">
-<br/>17 168 <br/>
-</td>
-<td align="center">
-<br/>16 853 <br/>
-</td>
-<td align="center">
-<br/>16 533 <br/>
-</td>
-<td align="center">
-<br/>16 211 <br/>
-</td>
-<td align="center">
-<br/>15 884 <br/>
-</td>
-<td align="center">
-<br/>15 557 <br/>
-</td>
-<td align="center">
-<br/>133 477<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000462<br/>
-</td>
-<td align="center">
-<br/>NANCY ENERGIE<br/>
-</td>
-<td align="center">
-<br/>Chaufferie Urbaine Nancy Energie<br/>
-</td>
-<td align="center">
-<br/>10 929 <br/>
-</td>
-<td align="center">
-<br/>9 780 <br/>
-</td>
-<td align="center">
-<br/>8 665 <br/>
-</td>
-<td align="center">
-<br/>7 583 <br/>
-</td>
-<td align="center">
-<br/>6 537 <br/>
-</td>
-<td align="center">
-<br/>5 524 <br/>
-</td>
-<td align="center">
-<br/>4 544 <br/>
+<br/>4 022 <br/>
 </td>
 <td align="center">
 <br/>3 599 <br/>
 </td>
 <td align="center">
-<br/>57 161<br/>
+<br/>3 188 <br/>
+</td>
+<td align="center">
+<br/>2 789 <br/>
+</td>
+<td align="center">
+<br/>2 402 <br/>
+</td>
+<td align="center">
+<br/>2 029 <br/>
+</td>
+<td align="center">
+<br/>1 667 <br/>
+</td>
+<td align="center">
+<br/>1 319 <br/>
+</td>
+<td align="center">
+<br/>21 015<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000465<br/>
+<br/>FR-new-05200249<br/>
 </td>
 <td align="center">
-<br/>SAM Neuves Maisons<br/>
+<br/>FORESA France<br/>
 </td>
 <td align="center">
-<br/>SAM NEUVES MAISONS<br/>
+<br/>FORESA FRANCE<br/>
 </td>
 <td align="center">
-<br/>116 982 <br/>
+<br/>7 756 <br/>
 </td>
 <td align="center">
-<br/>114 950 <br/>
+<br/>7 622 <br/>
 </td>
 <td align="center">
-<br/>112 894 <br/>
+<br/>7 485 <br/>
 </td>
 <td align="center">
-<br/>110 816 <br/>
+<br/>7 347 <br/>
 </td>
 <td align="center">
-<br/>108 717 <br/>
+<br/>7 207 <br/>
 </td>
 <td align="center">
-<br/>106 597 <br/>
+<br/>7 067 <br/>
 </td>
 <td align="center">
-<br/>104 451 <br/>
+<br/>6 925 <br/>
 </td>
 <td align="center">
-<br/>102 296 <br/>
+<br/>6 782 <br/>
 </td>
 <td align="center">
-<br/>877 703<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000466<br/>
-</td>
-<td align="center">
-<br/>Saint-Gobain PAM <br/>
-</td>
-<td align="center">
-<br/>Saint-Gobain PAM usine de Pont-à-Mousson<br/>
-</td>
-<td align="center">
-<br/>536 931 <br/>
-</td>
-<td align="center">
-<br/>904 243 <br/>
-</td>
-<td align="center">
-<br/>888 071</td>
-<td align="center">
-<br/>871 731 <br/>
-</td>
-<td align="center">
-<br/>855 215</td>
-<td align="center">
-<br/>838 539<br/>
-</td>
-<td align="center">821 654<br/>
-</td>
-<td align="center">
-<br/>804 711</td>
-<td align="center">
-<br/>
-<p>6 521 095</p>
-<br/>
+<br/>58 191<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000468<br/>
+<br/>FR-new-05200350<br/>
 </td>
 <td align="center">
-<br/>SEEV<br/>
+<br/>UNION INVIVO<br/>
 </td>
 <td align="center">
-<br/>SEEV VANDŒUVRE <br/>
+<br/>Union Invivo côté Fleuve<br/>
 </td>
 <td align="center">
-<br/>11 375 <br/>
+<br/>1 490 <br/>
 </td>
 <td align="center">
-<br/>10 180 <br/>
+<br/>1 334 <br/>
 </td>
 <td align="center">
-<br/>9 016 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>7 889 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>6 796 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>5 738 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>4 715 <br/>
+<br/>0</td>
+<td align="center">
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>3 730 <br/>
-</td>
-<td align="center">
-<br/>59 439<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000470<br/>
-</td>
-<td align="center">
-<br/>Kimberly Clark SAS<br/>
-</td>
-<td align="center">
-<br/>Kimberly Clark SAS<br/>
-</td>
-<td align="center">
-<br/>36 493 <br/>
-</td>
-<td align="center">
-<br/>35 596 <br/>
-</td>
-<td align="center">
-<br/>34 699 <br/>
-</td>
-<td align="center">
-<br/>33 807 <br/>
-</td>
-<td align="center">
-<br/>32 916 <br/>
-</td>
-<td align="center">
-<br/>32 029 <br/>
-</td>
-<td align="center">
-<br/>31 144 <br/>
-</td>
-<td align="center">
-<br/>30 267 <br/>
-</td>
-<td align="center">
-<br/>266 951<br/>
+<br/>2 824<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000471<br/>
+<br/>FR-new-05200353<br/>
 </td>
 <td align="center">
-<br/>SA VICAT<br/>
+<br/>UNION INVIVO<br/>
 </td>
 <td align="center">
-<br/>VICAT usine de Xeuilley<br/>
+<br/>Union Invivo côté terre<br/>
 </td>
 <td align="center">
-<br/>314 218 <br/>
+<br/>2 800 <br/>
 </td>
 <td align="center">
-<br/>308 760 <br/>
+<br/>2 506 <br/>
 </td>
 <td align="center">
-<br/>303 238 <br/>
+<br/>2 220 <br/>
 </td>
 <td align="center">
-<br/>297 659 <br/>
+<br/>1 942 <br/>
 </td>
 <td align="center">
-<br/>292 019 <br/>
+<br/>1 673 <br/>
 </td>
 <td align="center">
-<br/>286 324 <br/>
+<br/>1 412 <br/>
 </td>
 <td align="center">
-<br/>280 560 <br/>
+<br/>1 161 <br/>
 </td>
 <td align="center">
-<br/>274 774 <br/>
+<br/>918 <br/>
 </td>
 <td align="center">
-<br/>2 357 552<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000473<br/>
-</td>
-<td align="center">
-<br/>SARL René Jean MARCHAL<br/>
-</td>
-<td align="center">
-<br/>SARL René Jean MARCHAL<br/>
-</td>
-<td align="center">
-<br/>3 996 <br/>
-</td>
-<td align="center">
-<br/>3 577 <br/>
-</td>
-<td align="center">
-<br/>3 168 <br/>
-</td>
-<td align="center">
-<br/>2 772 <br/>
-</td>
-<td align="center">
-<br/>2 387 <br/>
-</td>
-<td align="center">
-<br/>2 016 <br/>
-</td>
-<td align="center">
-<br/>1 657 <br/>
-</td>
-<td align="center">
-<br/>1 311 <br/>
-</td>
-<td align="center">
-<br/>20 884<br/>
+<br/>14 632<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000474<br/>
+<p align="center">FR-new-05200768<br/>
+</p>
 </td>
 <td align="center">
-<br/>Carrières et fours à Chaux-de-Dugny<br/>
+<p align="center">BME-BORDELAISE DE MATERIAUX ENROBES </p>
 </td>
 <td align="center">
-<br/>Carrières et fours à Chaux-de-Dugny<br/>
+<p align="center">BME-BORDELAISE DE MATERIAUX ENROBES </p>
 </td>
 <td align="center">
-<br/>404 084 <br/>
+<br/>2 510 <br/>
 </td>
 <td align="center">
-<br/>397 066 <br/>
+<br/>2 246 <br/>
 </td>
 <td align="center">
-<br/>389 965 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>382 790 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>375 537 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>368 214 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>360 800 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>353 360 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>3 031 816<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000475<br/>
-</td>
-<td align="center">
-<br/>MUNKSJO LABELPACK <br/>
-</td>
-<td align="center">
-<br/>MUNKSJO LABELPACK - usine de Stenay<br/>
-</td>
-<td align="center">
-<br/>52 189 <br/>
-</td>
-<td align="center">
-<br/>51 282 <br/>
-</td>
-<td align="center">
-<br/>50 365 <br/>
-</td>
-<td align="center">
-<br/>49 439 <br/>
-</td>
-<td align="center">
-<br/>48 502 <br/>
-</td>
-<td align="center">
-<br/>47 556 <br/>
-</td>
-<td align="center">
-<br/>46 599 <br/>
-</td>
-<td align="center">
-<br/>45 638 <br/>
-</td>
-<td align="center">
-<br/>391 570<br/>
+<br/>4 756<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000476<br/>
+<br/>FR-new-05201222<br/>
 </td>
 <td align="center">
-<br/>LACTOSERUM France<br/>
+<br/>SINIAT<br/>
 </td>
 <td align="center">
-<br/>LACTOSERUM France<br/>
+<br/>SINIAT- Usine de Saint-Loubès</td>
+<td align="center">
+<br/>22 897 <br/>
+</td>
+<td align="center">27 214</td>
+<td align="center">26 728</td>
+<td align="center">26 236</td>
+<td align="center">25 739</td>
+<td align="center">
+<br/>25 237<br/>
 </td>
 <td align="center">
-<br/>28 605</td>
-<td align="center">
-<br/>33 649</td>
-<td align="center">33 048<br/>
+<br/>24 729<br/>
 </td>
 <td align="center">
-<br/>32 440<br/>
+<br/>24 219<br/>
 </td>
 <td align="center">
-<br/>31 825</td>
+<br/>202 999</td>
+</tr>
+<tr>
 <td align="center">
-<br/>31 204</td>
-<td align="center">
-<br/>30 576<br/>
+<br/>FR-new-05201262<br/>
 </td>
 <td align="center">
-<br/>29 946</td>
+<br/>EADS ASTRIUM SPACE TRANSPORTATION<br/>
+</td>
 <td align="center">
-<p>251</p>
-<p>293</p>
+<br/>EADS ASTRIUM SPACE TRANSPORTATION<br/>
+</td>
+<td align="center">
+<br/>1 981 <br/>
+</td>
+<td align="center">
+<br/>1 772 <br/>
+</td>
+<td align="center">
+<br/>1 570 <br/>
+</td>
+<td align="center">
+<br/>1 373 <br/>
+</td>
+<td align="center">
+<br/>1 184 <br/>
+</td>
+<td align="center">
+<br/>999 <br/>
+</td>
+<td align="center">
+<br/>821 <br/>
+</td>
+<td align="center">
+<br/>650 <br/>
+</td>
+<td align="center">
+<br/>10 350<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000479<br/>
+<br/>FR-new-05201459<br/>
 </td>
 <td align="center">
-<br/>COFELY GDF SUEZ<br/>
+<br/>MAISADOUR - HAUT MAUCO<br/>
 </td>
 <td align="center">
-<br/>COFELY - CHAUFFERIE FAREBERSVILLER<br/>
+<br/>MAISADOUR - Begaar<br/>
 </td>
 <td align="center">
-<br/>7 857 <br/>
+<br/>3 152 <br/>
 </td>
 <td align="center">
-<br/>7 031 <br/>
+<br/>2 821 <br/>
 </td>
 <td align="center">
-<br/>6 228 <br/>
+<br/>2 498 <br/>
 </td>
 <td align="center">
-<br/>5 452 <br/>
+<br/>2 186 <br/>
 </td>
 <td align="center">
-<br/>4 699 <br/>
+<br/>1 883 <br/>
 </td>
 <td align="center">
-<br/>3 972 <br/>
+<br/>1 590 <br/>
 </td>
 <td align="center">
-<br/>3 267 <br/>
+<br/>1 306 <br/>
 </td>
 <td align="center">
-<br/>2 587 <br/>
+<br/>1 034 <br/>
 </td>
 <td align="center">
-<br/>41 093<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000480<br/>
-</td>
-<td align="center">
-<br/>COFELY GDF SUEZ<br/>
-</td>
-<td align="center">
-<br/>
-<p align="left">COFELY -chaufferie du Holweg -Forbach</p>
-</td>
-<td align="center">
-<br/>17 115 <br/>
-</td>
-<td align="center">
-<br/>7 659<br/>
-</td>
-<td align="center">
-<br/>6 784</td>
-<td align="center">
-<br/>5 935</td>
-<td align="center">
-<br/>5 113<br/>
-</td>
-<td align="center">
-<br/>4 317<br/>
-</td>
-<td align="center">
-<br/>3 548</td>
-<td align="center">
-<br/>2 806<br/>
-</td>
-<td align="center">
-<br/>53 277<br/>
+<br/>16 470<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000481<br/>
+<br/>FR-new-05201587<br/>
 </td>
 <td align="center">
-<br/>Arcelor Mittal Gandrange<br/>
+<br/>MAISADOUR - HAUT MAUCO<br/>
 </td>
 <td align="center">
-<br/>Arcelor Mittal Gandrange<br/>
+<br/>MAISADOUR - Haut Mauco<br/>
 </td>
 <td align="center">
-<br/>32 006 <br/>
+<br/>5 161 <br/>
 </td>
 <td align="center">
-<br/>31 450 <br/>
+<br/>4 617 <br/>
 </td>
 <td align="center">
-<br/>30 888 <br/>
+<br/>4 091 <br/>
 </td>
 <td align="center">
-<br/>30 320 <br/>
+<br/>3 578 <br/>
 </td>
 <td align="center">
-<br/>29 745 <br/>
+<br/>3 083 <br/>
 </td>
 <td align="center">
-<br/>29 165 <br/>
+<br/>2 602 <br/>
 </td>
 <td align="center">
-<br/>28 578 <br/>
+<br/>2 139 <br/>
 </td>
 <td align="center">
-<br/>27 989 <br/>
+<br/>1 692 <br/>
 </td>
 <td align="center">
-<br/>240 141<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000482<br/>
-</td>
-<td align="center">
-<br/>ASCO INDUSTRIES SAS</td>
-<td align="center">
-<br/>ASCO INDUSTRIES SAS Usine d'Hagondange<br/>
-</td>
-<td align="center">
-<br/>64 689 <br/>
-</td>
-<td align="center">
-<br/>63 565 <br/>
-</td>
-<td align="center">
-<br/>62 429 <br/>
-</td>
-<td align="center">
-<br/>61 280 <br/>
-</td>
-<td align="center">
-<br/>60 118 <br/>
-</td>
-<td align="center">
-<br/>58 946 <br/>
-</td>
-<td align="center">
-<br/>57 759 <br/>
-</td>
-<td align="center">
-<br/>56 568 <br/>
-</td>
-<td align="center">
-<br/>485 354<br/>
+<br/>26 963<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000483<br/>
+<br/>FR-new-05201630<br/>
 </td>
 <td align="center">
-<br/>Smart France SAS<br/>
+<br/>AGRALIA - Saint-Paul-les-DAX<br/>
 </td>
 <td align="center">
-<br/>Smart France SAS<br/>
+<br/>AGRALIA Laluque <br/>
 </td>
 <td align="center">
-<br/>6 165 <br/>
+<br/>1 754 <br/>
 </td>
 <td align="center">
-<br/>5 518 <br/>
+<br/>1 570 <br/>
 </td>
 <td align="center">
-<br/>4 888 <br/>
+<br/>1 390 <br/>
 </td>
 <td align="center">
-<br/>4 277 <br/>
+<br/>1 216 <br/>
 </td>
 <td align="center">
-<br/>3 684 <br/>
+<br/>1 048 <br/>
 </td>
 <td align="center">
-<br/>3 111 <br/>
+<br/>885 <br/>
 </td>
 <td align="center">
-<br/>2 556 <br/>
+<br/>727 <br/>
 </td>
 <td align="center">
-<br/>2 021 <br/>
+<br/>575 <br/>
 </td>
 <td align="center">
-<br/>32 220<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000485<br/>
-</td>
-<td align="center">
-<br/>ArcelorMittal Atlantique et Lorraine - Site de Florange<br/>
-</td>
-<td align="center">
-<br/>ArcelorMittal Atlantique et Lorraine - Site de Florange</td>
-<td align="center">
-<br/>569 761 <br/>
-</td>
-<td align="center">
-<br/>559 866 <br/>
-</td>
-<td align="center">
-<br/>549 853 <br/>
-</td>
-<td align="center">
-<br/>539 736 <br/>
-</td>
-<td align="center">
-<br/>529 510 <br/>
-</td>
-<td align="center">
-<br/>519 185 <br/>
-</td>
-<td align="center">
-<br/>508 730 <br/>
-</td>
-<td align="center">
-<br/>498 240 <br/>
-</td>
-<td align="center">
-<br/>4 274 881<br/>
+<br/>9 165<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000486<br/>
+<br/>FR-new-05201765<br/>
 </td>
 <td align="center">
-<br/>Holcim France Héming<br/>
+<br/>SOLEVAL France</td>
+<td align="center">
+<br/>SOLEVAL FRANCE<br/>
 </td>
 <td align="center">
-<br/>Holcim France Héming<br/>
+<br/>6 955 <br/>
 </td>
 <td align="center">
-<br/>502 513 <br/>
+<br/>6 224 <br/>
 </td>
 <td align="center">
-<br/>493 785 <br/>
+<br/>5 513 <br/>
 </td>
 <td align="center">
-<br/>484 954 <br/>
+<br/>4 824 <br/>
 </td>
 <td align="center">
-<br/>476 031 <br/>
+<br/>4 156 <br/>
 </td>
 <td align="center">
-<br/>467 012 <br/>
+<br/>3 509 <br/>
 </td>
 <td align="center">
-<br/>457 905 <br/>
+<br/>2 883 <br/>
 </td>
 <td align="center">
-<br/>448 685 <br/>
+<br/>2 281 <br/>
 </td>
 <td align="center">
-<br/>439 433 <br/>
-</td>
-<td align="center">
-<br/>3 770 318<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000487<br/>
-</td>
-<td align="center">
-<br/>UEM<br/>
-</td>
-<td align="center">
-<br/>UEM Centrale de Metz Est<br/>
-</td>
-<td align="center">
-<br/>22 685 <br/>
-</td>
-<td align="center">
-<br/>18 737 <br/>
-</td>
-<td align="center">
-<br/>15 210 <br/>
-</td>
-<td align="center">
-<br/>12 095 <br/>
-</td>
-<td align="center">
-<br/>9 375 <br/>
-</td>
-<td align="center">
-<br/>7 487<br/>
-</td>
-<td align="center">
-<br/>6 151 <br/>
-</td>
-<td align="center">
-<br/>4 866 <br/>
-</td>
-<td align="center">
-<br/>96 606<br/>
+<br/>36 345<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000488<br/>
+<br/>FR-new-05201917<br/>
 </td>
 <td align="center">
-<br/>UEM<br/>
+<br/>MAISADOUR - HAUT MAUCO<br/>
 </td>
 <td align="center">
-<br/>UEM Centrale de Chambière<br/>
+<br/>MAISADOUR - Saint-Vincent-de-Tyrosse<br/>
 </td>
 <td align="center">
-<br/>73 220 <br/>
+<br/>1 970 <br/>
 </td>
 <td align="center">
-<br/>62 062 <br/>
+<br/>1 764 <br/>
 </td>
 <td align="center">
-<br/>52 005 <br/>
+<br/>1 562 <br/>
 </td>
 <td align="center">
-<br/>43 024 <br/>
+<br/>1 366 <br/>
 </td>
 <td align="center">
-<br/>35 069 <br/>
+<br/>1 178 <br/>
 </td>
 <td align="center">
-<br/>29 528 <br/>
+<br/>994 <br/>
 </td>
 <td align="center">
-<br/>25 076 <br/>
+<br/>816 <br/>
 </td>
 <td align="center">
-<br/>20 780 <br/>
+<br/>646 <br/>
 </td>
 <td align="center">
-<br/>340 764<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000490<br/>
-</td>
-<td align="center">
-<br/>URSA France<br/>
-</td>
-<td align="center">
-<br/>URSA France<br/>
-</td>
-<td align="center">
-<br/>4 217 <br/>
-</td>
-<td align="center">
-<br/>4 118 <br/>
-</td>
-<td align="center">
-<br/>4 019 <br/>
-</td>
-<td align="center">
-<br/>3 921 <br/>
-</td>
-<td align="center">
-<br/>3 822 <br/>
-</td>
-<td align="center">
-<br/>3 724 <br/>
-</td>
-<td align="center">
-<br/>3 625 <br/>
-</td>
-<td align="center">
-<br/>3 528 <br/>
-</td>
-<td align="center">
-<br/>30 974<br/>
+<br/>10 296<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000491<br/>
+<br/>FR-new-05201951<br/>
 </td>
 <td align="center">
-<br/>ARKEMA usine de Carling Saint-Avold<br/>
+<br/>EURALIS CEREALES<br/>
 </td>
 <td align="center">
-<br/>ARKEMA<br/>
+<br/>EURALIS CEREALES SOLFERINO<br/>
 </td>
 <td align="center">
-<br/>199 774 <br/>
+<br/>1 597 <br/>
 </td>
 <td align="center">
-<br/>196 304 <br/>
+<br/>1 429 <br/>
 </td>
 <td align="center">
-<br/>192 793 <br/>
+<br/>1 266 <br/>
 </td>
 <td align="center">
-<br/>189 246 <br/>
+<br/>1 108 <br/>
 </td>
 <td align="center">
-<br/>185 661 <br/>
+<br/>954 <br/>
 </td>
 <td align="center">
-<br/>182 040 <br/>
+<br/>806 <br/>
 </td>
 <td align="center">
-<br/>178 375 <br/>
+<br/>662 <br/>
 </td>
 <td align="center">
-<br/>174 696 <br/>
+<br/>523 <br/>
 </td>
 <td align="center">
-<br/>1 498 889<br/>
+<br/>8 345<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000494<br/>
+<br/>FR-new-05202173<br/>
 </td>
 <td align="center">
-<br/>DALKIA France<br/>
+<br/>SOBEGI<br/>
 </td>
 <td align="center">
-<br/>Hôpital Bel-Air Thionville<br/>
+<br/>SOBEGI<br/>
 </td>
 <td align="center">
-<br/>3 566 <br/>
+<br/>12 979 <br/>
 </td>
 <td align="center">
-<br/>3 191 <br/>
+<br/>12 754 <br/>
 </td>
 <td align="center">
-<br/>2 827 <br/>
+<br/>12 526 <br/>
 </td>
 <td align="center">
-<br/>2 475 <br/>
+<br/>12 295 <br/>
 </td>
 <td align="center">
-<br/>2 133 <br/>
+<br/>12 062 <br/>
+</td>
+<td align="center">
+<br/>11 827 <br/>
+</td>
+<td align="center">
+<br/>11 589 <br/>
+</td>
+<td align="center">
+<br/>11 350 <br/>
+</td>
+<td align="center">
+<br/>97 382<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05202348<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE LUR BERRI<br/>
+</td>
+<td align="center">
+<br/>LUR BERRI site SEMENCES AICIRITS<br/>
+</td>
+<td align="center">
+<br/>1 281 <br/>
+</td>
+<td align="center">
+<br/>1 147 <br/>
+</td>
+<td align="center">
+<br/>1 015 <br/>
+</td>
+<td align="center">
+<br/>889 <br/>
+</td>
+<td align="center">
+<br/>766 <br/>
+</td>
+<td align="center">
+<br/>646 <br/>
+</td>
+<td align="center">
+<br/>531 <br/>
+</td>
+<td align="center">
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>6 695<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05202367<br/>
+</td>
+<td align="center">
+<br/>LACADEE S.A.<br/>
+</td>
+<td align="center">
+<br/>LACADEE SA<br/>
 </td>
 <td align="center">
 <br/>1 802 <br/>
 </td>
 <td align="center">
-<br/>1 483 <br/>
+<br/>1 613 <br/>
 </td>
 <td align="center">
-<br/>1 174 <br/>
+<br/>1 428 <br/>
 </td>
 <td align="center">
-<br/>18 651<br/>
+<br/>1 249 <br/>
+</td>
+<td align="center">
+<br/>1 077 <br/>
+</td>
+<td align="center">
+<br/>909 <br/>
+</td>
+<td align="center">
+<br/>747 <br/>
+</td>
+<td align="center">
+<br/>591 <br/>
+</td>
+<td align="center">
+<br/>9 416<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000495<br/>
+<br/>FR-new-05202516<br/>
+</td>
+<td align="center">
+<br/>MAISICA DE BAYONNE<br/>
+</td>
+<td align="center">
+<br/>MAISICA DE BAYONNE<br/>
+</td>
+<td align="center">
+<br/>2 564 <br/>
+</td>
+<td align="center">
+<br/>2 295 <br/>
+</td>
+<td align="center">
+<br/>2 032 <br/>
+</td>
+<td align="center">
+<br/>1 778 <br/>
+</td>
+<td align="center">
+<br/>1 532 <br/>
+</td>
+<td align="center">
+<br/>1 294 <br/>
+</td>
+<td align="center">
+<br/>1 063 <br/>
+</td>
+<td align="center">
+<br/>841 <br/>
+</td>
+<td align="center">
+<br/>13 399<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05202532<br/>
+</td>
+<td align="center">
+<br/>SAS LB<br/>
+</td>
+<td align="center">
+<br/>LUR BERRI SILO DE CAME<br/>
+</td>
+<td align="center">
+<br/>1 925 <br/>
+</td>
+<td align="center">
+<br/>1 723 <br/>
+</td>
+<td align="center">
+<br/>1 527 <br/>
+</td>
+<td align="center">
+<br/>1 335 <br/>
+</td>
+<td align="center">
+<br/>1 150 <br/>
+</td>
+<td align="center">
+<br/>972 <br/>
+</td>
+<td align="center">
+<br/>798 <br/>
+</td>
+<td align="center">
+<br/>631 <br/>
+</td>
+<td align="center">
+<br/>10 061<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05202635<br/>
+</td>
+<td align="center">
+<br/>EURALIS CEREALES<br/>
+</td>
+<td align="center">
+<br/>EURALIS CEREALES LESCAR<br/>
+</td>
+<td align="center">
+<br/>3 037 <br/>
+</td>
+<td align="center">
+<br/>2 717 <br/>
+</td>
+<td align="center">
+<br/>2 406 <br/>
+</td>
+<td align="center">
+<br/>2 106 <br/>
+</td>
+<td align="center">
+<br/>1 814 <br/>
+</td>
+<td align="center">
+<br/>1 532 <br/>
+</td>
+<td align="center">
+<br/>1 258 <br/>
+</td>
+<td align="center">
+<br/>996 <br/>
+</td>
+<td align="center">
+<br/>15 866<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05202636<br/>
+</td>
+<td align="center">
+<br/>Euralis Coop<br/>
+</td>
+<td align="center">
+<br/>Euralis Coop Semences<br/>
+</td>
+<td align="center">
+<br/>1 699 <br/>
+</td>
+<td align="center">
+<br/>1 521 <br/>
+</td>
+<td align="center">
+<br/>1 346 <br/>
+</td>
+<td align="center">
+<br/>1 179 <br/>
+</td>
+<td align="center">
+<br/>1 015 <br/>
+</td>
+<td align="center">
+<br/>857 <br/>
+</td>
+<td align="center">
+<br/>705 <br/>
+</td>
+<td align="center">
+<br/>557 <br/>
+</td>
+<td align="center">
+<br/>8 879<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05202760<br/>
+</td>
+<td align="center">
+<br/>YARA FRANCE usine de PARDIES<br/>
+</td>
+<td align="center">
+<br/>YARA FRANCE usine de Pardies<br/>
+</td>
+<td align="center">
+<br/>40 728 <br/>
+</td>
+<td align="center">
+<br/>40 021 <br/>
+</td>
+<td align="center">
+<br/>39 305 <br/>
+</td>
+<td align="center">
+<br/>38 582 <br/>
+</td>
+<td align="center">
+<br/>37 851 <br/>
+</td>
+<td align="center">
+<br/>37 113 <br/>
+</td>
+<td align="center">
+<br/>36 366 <br/>
+</td>
+<td align="center">
+<br/>35 616 <br/>
+</td>
+<td align="center">
+<br/>305 582<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05205103<br/>
+</td>
+<td align="center">
+<br/>ARKEMA FRANCE<br/>
+</td>
+<td align="center">
+<br/>Pétrochimie- Carbochimie Organique - Lacq<br/>
+</td>
+<td align="center">
+<br/>47 388 <br/>
+</td>
+<td align="center">
+<br/>46 566 <br/>
+</td>
+<td align="center">
+<br/>45 733 <br/>
+</td>
+<td align="center">
+<br/>44 891 <br/>
+</td>
+<td align="center">
+<br/>44 040 <br/>
+</td>
+<td align="center">
+<br/>43 182 <br/>
+</td>
+<td align="center">
+<br/>42 312 <br/>
+</td>
+<td align="center">
+<br/>41 440 <br/>
+</td>
+<td align="center">
+<br/>355 552<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05205559<br/>
+</td>
+<td align="center">
+<br/>STEICO CASTELJALOUX<br/>
+</td>
+<td align="center">
+<br/>STEICO<br/>
+</td>
+<td align="center">
+<br/>12 223 <br/>
+</td>
+<td align="center">
+<br/>12 010 <br/>
+</td>
+<td align="center">
+<br/>11 796 <br/>
+</td>
+<td align="center">
+<br/>11 579 <br/>
+</td>
+<td align="center">
+<br/>11 359 <br/>
+</td>
+<td align="center">
+<br/>11 138 <br/>
+</td>
+<td align="center">
+<br/>10 914 <br/>
+</td>
+<td align="center">
+<br/>10 688 <br/>
+</td>
+<td align="center">
+<br/>91 707<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05206638<br/>
+</td>
+<td align="center">
+<br/>SCA de LAMOUTHE<br/>
+</td>
+<td align="center">
+<br/>SCA de LAMOUTHE<br/>
+</td>
+<td align="center">
+<br/>921 <br/>
+</td>
+<td align="center">
+<br/>824 <br/>
+</td>
+<td align="center">
+<p>0</p>
+</td>
+<td align="center">
+<p>0</p>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">0<br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>1 745<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05207519<br/>
+</td>
+<td align="center">
+<br/>Abengoa Bioenergy France<br/>
+</td>
+<td align="center">
+<br/>Abengoa Bioenergy France<br/>
+</td>
+<td align="center">
+<br/>100 544 <br/>
+</td>
+<td align="center">
+<br/>96 532 <br/>
+</td>
+<td align="center">
+<br/>92 577 <br/>
+</td>
+<td align="center">
+<br/>88 689 <br/>
+</td>
+<td align="center">
+<br/>84 865 <br/>
+</td>
+<td align="center">
+<br/>81 109 <br/>
+</td>
+<td align="center">
+<br/>77 414 <br/>
+</td>
+<td align="center">
+<br/>73 802 <br/>
+</td>
+<td align="center">
+<br/>695 532<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05207945<br/>
+</td>
+<td align="center">
+<br/>EUROVIA GPI<br/>
+</td>
+<td align="center">
+<br/>TSM 25 SENIOR<br/>
+</td>
+<td align="center">
+<br/>994 <br/>
+</td>
+<td align="center">
+<br/>890 <br/>
+</td>
+<td align="center">
+<br/>788 <br/>
+</td>
+<td align="center">
+<br/>690 <br/>
+</td>
+<td align="center">
+<br/>594 <br/>
+</td>
+<td align="center">
+<br/>501 <br/>
+</td>
+<td align="center">
+<br/>413 <br/>
+</td>
+<td align="center">
+<br/>327 <br/>
+</td>
+<td align="center">
+<br/>5 197<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05208848<br/>
+</td>
+<td align="center">
+<br/>DALKIA <br/>
+</td>
+<td align="center">DALKIA </td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05209054<br/>
+</td>
+<td align="center">
+<br/>APPIA Grands Travaux<br/>
+</td>
+<td align="center">
+<br/>APPIA Grands Travaux - centrale d'enrobage mobile<br/>
+</td>
+<td align="center">
+<br/>2 134 <br/>
+</td>
+<td align="center">
+<br/>1 910 <br/>
+</td>
+<td align="center">
+<br/>1 691 <br/>
+</td>
+<td align="center">
+<br/>1 480 <br/>
+</td>
+<td align="center">
+<br/>1 275 <br/>
+</td>
+<td align="center">
+<br/>1 076 <br/>
+</td>
+<td align="center">
+<br/>885 <br/>
+</td>
+<td align="center">
+<br/>700 <br/>
+</td>
+<td align="center">
+<br/>11 151<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05209268<br/>
+</td>
+<td align="center">
+<br/>EUROVIA GPI<br/>
+</td>
+<td align="center">
+<br/>TSM 25 MAJOR<br/>
+</td>
+<td align="center">
+<br/>2 052 <br/>
+</td>
+<td align="center">
+<br/>1 836 <br/>
+</td>
+<td align="center">
+<br/>1 627 <br/>
+</td>
+<td align="center">
+<br/>1 424 <br/>
+</td>
+<td align="center">
+<br/>1 225 <br/>
+</td>
+<td align="center">
+<br/>1 036 <br/>
+</td>
+<td align="center">
+<br/>850 <br/>
+</td>
+<td align="center">
+<br/>674 <br/>
+</td>
+<td align="center">
+<br/>10 724<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05209657<br/>
+</td>
+<td align="center">
+<br/>Entreprise Malet - Grands Chantiers - PE 17<br/>
+</td>
+<td align="center">
+<br/>Entreprise Malet - Grands Chantiers - PE 17<br/>
+</td>
+<td align="center">
+<br/>1 458 <br/>
+</td>
+<td align="center">
+<br/>1 305 <br/>
+</td>
+<td align="center">
+<br/>1 156 <br/>
+</td>
+<td align="center">
+<br/>1 010 <br/>
+</td>
+<td align="center">
+<br/>871 <br/>
+</td>
+<td align="center">
+<br/>736 <br/>
+</td>
+<td align="center">
+<br/>605 <br/>
+</td>
+<td align="center">
+<br/>478 <br/>
+</td>
+<td align="center">
+<br/>7 619<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05209846<br/>
+</td>
+<td align="center">
+<br/>EUROVIA GPI<br/>
+</td>
+<td align="center">
+<br/>RF 500<br/>
+</td>
+<td align="center">
+<br/>1 077 <br/>
+</td>
+<td align="center">
+<br/>965 <br/>
+</td>
+<td align="center">
+<br/>854 <br/>
+</td>
+<td align="center">
+<br/>748 <br/>
+</td>
+<td align="center">
+<br/>644 <br/>
+</td>
+<td align="center">
+<br/>544 <br/>
+</td>
+<td align="center">
+<br/>447 <br/>
+</td>
+<td align="center">
+<br/>353 <br/>
+</td>
+<td align="center">
+<br/>5 632<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05300552<br/>
+</td>
+<td align="center">
+<br/>LNUF BAYEUX<br/>
+</td>
+<td align="center">
+<br/>SOCIETE LNUF BAYEUX<br/>
+</td>
+<td align="center">
+<br/>3 327 <br/>
+</td>
+<td align="center">
+<br/>2 977 <br/>
+</td>
+<td align="center">
+<br/>2 637 <br/>
+</td>
+<td align="center">
+<br/>2 308 <br/>
+</td>
+<td align="center">
+<br/>1 988 <br/>
+</td>
+<td align="center">
+<br/>1 679 <br/>
+</td>
+<td align="center">
+<br/>1 379 <br/>
+</td>
+<td align="center">
+<br/>1 091 <br/>
+</td>
+<td align="center">
+<br/>17 386<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05302774<br/>
+</td>
+<td align="center">
+<br/>BOLAIDOR (SOCIETE LAITIERE DU BOCAGE ORNAIS)<br/>
+</td>
+<td align="center">
+<br/>BOLAIDOR<br/>
+</td>
+<td align="center">
+<br/>18 805 <br/>
+</td>
+<td align="center">20 782</td>
+<td align="center">
+<br/>20 315<br/>
+</td>
+<td align="center">
+<br/>19 849<br/>
+</td>
+<td align="center">
+<br/>19 382<br/>
+</td>
+<td align="center">
+<br/>18 914</td>
+<td align="center">18 446</td>
+<td align="center">
+<br/>17 980</td>
+<td align="center">
+<br/>154 473</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05401050<br/>
+</td>
+<td align="center">
+<br/>KRONOSPAN SAS</td>
+<td align="center">
+<br/>KRONOSPAN AUXERRE</td>
+<td align="center">
+<br/>14 574 <br/>
+</td>
+<td align="center">
+<br/>14 320 <br/>
+</td>
+<td align="center">
+<br/>14 064 <br/>
+</td>
+<td align="center">
+<br/>13 806 <br/>
+</td>
+<td align="center">
+<br/>13 544 <br/>
+</td>
+<td align="center">
+<br/>13 280 <br/>
+</td>
+<td align="center">
+<br/>13 012 <br/>
+</td>
+<td align="center">
+<br/>12 744 <br/>
+</td>
+<td align="center">
+<br/>109 344<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-25300038<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE BOURGOGNE DU SUD<br/>
+</td>
+<td align="center">
+<br/>Coopérative Bourgogne du Sud site de Saint-Marcel-Epervans<br/>
+</td>
+<td align="center">
+<br/>653 <br/>
+</td>
+<td align="center">
+<br/>585 <br/>
+</td>
+<td align="center">
+<br/>518 <br/>
+</td>
+<td align="center">
+<br/>453 <br/>
+</td>
+<td align="center">
+<br/>390 <br/>
+</td>
+<td align="center">
+<br/>330 <br/>
+</td>
+<td align="center">
+<br/>271 <br/>
+</td>
+<td align="center">
+<br/>214 <br/>
+</td>
+<td align="center">
+<br/>3 414<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05401144<br/>
+</td>
+<td align="center">
+<br/>APERAM STAINLESS France<br/>
+</td>
+<td align="center">
+<br/>APERAM STAINLESS France<br/>
+</td>
+<td align="center">
+<br/>60 556 <br/>
+</td>
+<td align="center">
+<br/>59 504 <br/>
+</td>
+<td align="center">
+<br/>58 439 <br/>
+</td>
+<td align="center">
+<br/>57 365 <br/>
+</td>
+<td align="center">
+<br/>56 278 <br/>
+</td>
+<td align="center">
+<br/>55 180 <br/>
+</td>
+<td align="center">
+<br/>54 069 <br/>
+</td>
+<td align="center">
+<br/>52 954 <br/>
+</td>
+<td align="center">
+<br/>454 345<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05401169<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE BOURGOGNE DU SUD<br/>
+</td>
+<td align="center">
+<br/>Coopérative Bourgogne du Sud site de Chalon-sur-Saône<br/>
+</td>
+<td align="center">
+<br/>1 377 <br/>
+</td>
+<td align="center">
+<br/>1 232 <br/>
+</td>
+<td align="center">
+<br/>1 092 <br/>
+</td>
+<td align="center">
+<br/>955 <br/>
+</td>
+<td align="center">
+<br/>823 <br/>
+</td>
+<td align="center">
+<br/>695 <br/>
+</td>
+<td align="center">
+<br/>571 <br/>
+</td>
+<td align="center">
+<br/>452 <br/>
+</td>
+<td align="center">
+<br/>7 197<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05401357<br/>
+</td>
+<td align="center">
+<br/>VALLOUREC BEARING TUBES<br/>
+</td>
+<td align="center">
+<br/>VALLOUREC BEARING TUBES<br/>
+</td>
+<td align="center">
+<br/>18 470 <br/>
+</td>
+<td align="center">
+<br/>18 149 <br/>
+</td>
+<td align="center">
+<br/>17 824 <br/>
+</td>
+<td align="center">
+<br/>17 496 <br/>
+</td>
+<td align="center">
+<br/>17 165 <br/>
+</td>
+<td align="center">
+<br/>16 830 <br/>
+</td>
+<td align="center">
+<br/>16 491 <br/>
+</td>
+<td align="center">
+<br/>16 151 <br/>
+</td>
+<td align="center">
+<br/>138 576<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05401578<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>2 219 <br/>
+</td>
+<td align="center">
+<br/>1 986 <br/>
+</td>
+<td align="center">
+<br/>1 759 <br/>
+</td>
+<td align="center">
+<br/>1 539 <br/>
+</td>
+<td align="center">
+<br/>1 326 <br/>
+</td>
+<td align="center">
+<br/>1 119 <br/>
+</td>
+<td align="center">
+<br/>920 <br/>
+</td>
+<td align="center">
+<br/>728 <br/>
+</td>
+<td align="center">
+<br/>11 596<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05500263<br/>
+</td>
+<td align="center">
+<br/>COOPERL ARC ATLANTIQUE<br/>
+</td>
+<td align="center">
+<br/>Cooperl Arc Atlantique site de Plestan <br/>
+</td>
+<td align="center">
+<br/>2 586 <br/>
+</td>
+<td align="center">
+<br/>2 314 <br/>
+</td>
+<td align="center">
+<br/>2 050 <br/>
+</td>
+<td align="center">
+<br/>1 794 <br/>
+</td>
+<td align="center">
+<br/>1 545 <br/>
+</td>
+<td align="center">
+<br/>1 305 <br/>
+</td>
+<td align="center">
+<br/>1 073 <br/>
+</td>
+<td align="center">
+<br/>849 <br/>
+</td>
+<td align="center">
+<br/>13 516<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05500976<br/>
+</td>
+<td align="center">
+<br/>SAS UCLAB INDUSTRIE<br/>
+</td>
+<td align="center">
+<br/>SAS UCLAB INDUSTRIE<br/>
+</td>
+<td align="center">
+<br/>12 407 <br/>
+</td>
+<td align="center">
+<br/>12 442</td>
+<td align="center">
+<br/>11 953<br/>
+</td>
+<td align="center">
+<br/>11 474</td>
+<td align="center">
+<br/>11 002</td>
+<td align="center">
+<br/>10 536<br/>
+</td>
+<td align="center">
+<br/>10 079 <br/>
+</td>
+<td align="center">9 631<br/>
+</td>
+<td align="center">89 524<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05501399<br/>
+</td>
+<td align="center">
+<br/>COOPEDOM<br/>
+</td>
+<td align="center">
+<br/>COOPEDOM<br/>
+</td>
+<td align="center">
+<br/>14 396 <br/>
+</td>
+<td align="center">
+<br/>12 883 <br/>
+</td>
+<td align="center">
+<br/>11 411 <br/>
+</td>
+<td align="center">
+<br/>9 984 <br/>
+</td>
+<td align="center">
+<br/>8 601 <br/>
+</td>
+<td align="center">
+<br/>7 262 <br/>
+</td>
+<td align="center">
+<br/>5 967 <br/>
+</td>
+<td align="center">
+<br/>4 721 <br/>
+</td>
+<td align="center">
+<br/>75 225<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05501574<br/>
+</td>
+<td align="center">
+<br/>SOCIETE LAITIERE DE VITRE <br/>
+</td>
+<td align="center">
+<br/>SOCIETE LAITIERE DE VITRE<br/>
+</td>
+<td align="center">
+<br/>7 586 <br/>
+</td>
+<td align="center">
+<br/>6 789 <br/>
+</td>
+<td align="center">
+<br/>6 014 <br/>
+</td>
+<td align="center">
+<br/>5 262 <br/>
+</td>
+<td align="center">
+<br/>4 532 <br/>
+</td>
+<td align="center">
+<br/>3 827 <br/>
+</td>
+<td align="center">
+<br/>3 145 <br/>
+</td>
+<td align="center">
+<br/>2 488 <br/>
+</td>
+<td align="center">
+<br/>39 643<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05503400<br/>
+</td>
+<td align="center">
+<br/>COOPERL ARC ATLANTIQUE<br/>
+</td>
+<td align="center">
+<br/>COOPERL Arc Atlantique, site de Montreuil <br/>
+</td>
+<td align="center">
+<br/>1 921 <br/>
+</td>
+<td align="center">
+<br/>1 718 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>3 639<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05516997<br/>
+</td>
+<td align="center">
+<br/>ALIOUEST<br/>
+</td>
+<td align="center">
+<br/>ALIOUEST<br/>
+</td>
+<td align="center">
+<br/>2 915 <br/>
+</td>
+<td align="center">
+<br/>2 608 <br/>
+</td>
+<td align="center">
+<br/>2 310 <br/>
+</td>
+<td align="center">
+<br/>2 021 <br/>
+</td>
+<td align="center">
+<br/>1 741 <br/>
+</td>
+<td align="center">
+<br/>1 470 <br/>
+</td>
+<td align="center">
+<br/>1 208 <br/>
+</td>
+<td align="center">
+<br/>956 <br/>
+</td>
+<td align="center">
+<br/>15 229<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05600041<br/>
+</td>
+<td align="center">
+<br/>Peugeot Citroën Mécanique de l'Est SNC<br/>
+</td>
+<td align="center">
+<br/>Peugeot Citroën site de Dompierre-sur-Besbre<br/>
+</td>
+<td align="center">
+<br/>45 007 <br/>
+</td>
+<td align="center">
+<br/>44 226 <br/>
+</td>
+<td align="center">
+<br/>43 435 <br/>
+</td>
+<td align="center">
+<br/>42 636 <br/>
+</td>
+<td align="center">
+<br/>41 828 <br/>
+</td>
+<td align="center">
+<br/>41 012 <br/>
+</td>
+<td align="center">
+<br/>40 186 <br/>
+</td>
+<td align="center">
+<br/>39 358 <br/>
+</td>
+<td align="center">
+<br/>337 688<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05600302<br/>
+</td>
+<td align="center">
+<br/>Groupe MARAZZI France<br/>
+</td>
+<td align="center">
+<br/>Groupe MARAZZI site de Paulhaguet</td>
+<td align="center">
+<br/>11 654 <br/>
+</td>
+<td align="center">
+<br/>11 452 <br/>
+</td>
+<td align="center">
+<br/>11 247 <br/>
+</td>
+<td align="center">
+<br/>11 040 <br/>
+</td>
+<td align="center">
+<br/>10 831 <br/>
+</td>
+<td align="center">
+<br/>10 620 <br/>
+</td>
+<td align="center">
+<br/>10 406 <br/>
+</td>
+<td align="center">
+<br/>10 191 <br/>
+</td>
+<td align="center">
+<br/>87 441<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05600354<br/>
+</td>
+<td align="center">
+<br/>LIMAGRAIN SCA<br/>
+</td>
+<td align="center">
+<br/>LIMAGRAIN USINE<br/>
+</td>
+<td align="center">
+<br/>3 337 <br/>
+</td>
+<td align="center">
+<br/>2 986 <br/>
+</td>
+<td align="center">
+<br/>2 645 <br/>
+</td>
+<td align="center">
+<br/>2 314 <br/>
+</td>
+<td align="center">
+<br/>1 995 <br/>
+</td>
+<td align="center">
+<br/>1 683 <br/>
+</td>
+<td align="center">
+<br/>1 383 <br/>
+</td>
+<td align="center">
+<br/>1 095 <br/>
+</td>
+<td align="center">
+<br/>17 438<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05600370<br/>
+</td>
+<td align="center">
+<br/>INTERFORGE<br/>
+</td>
+<td align="center">
+<br/>INTERFORGE<br/>
+</td>
+<td align="center">
+<br/>8 464 <br/>
+</td>
+<td align="center">
+<br/>7 575 <br/>
+</td>
+<td align="center">
+<br/>6 710 <br/>
+</td>
+<td align="center">
+<br/>5 871 <br/>
+</td>
+<td align="center">
+<br/>5 057 <br/>
+</td>
+<td align="center">
+<br/>4 270 <br/>
+</td>
+<td align="center">
+<br/>3 508 <br/>
+</td>
+<td align="center">
+<br/>2 776 <br/>
+</td>
+<td align="center">
+<br/>44 231<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05600372<br/>
+</td>
+<td align="center">
+<br/>Constellium France usine d'Issoire<br/>
+</td>
+<td align="center">
+<br/>Constellium France usine d'Issoire<br/>
+</td>
+<td align="center">
+<br/>47 980 <br/>
+</td>
+<td align="center">
+<br/>47 146 <br/>
+</td>
+<td align="center">
+<br/>46 303 <br/>
+</td>
+<td align="center">
+<br/>45 451 <br/>
+</td>
+<td align="center">
+<br/>44 590 <br/>
+</td>
+<td align="center">
+<br/>43 721 <br/>
+</td>
+<td align="center">
+<br/>42 840 <br/>
+</td>
+<td align="center">
+<br/>41 957 <br/>
+</td>
+<td align="center">
+<br/>359 988<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05600419<br/>
+</td>
+<td align="center">
+<br/>Rockwool France SAS<br/>
+</td>
+<td align="center">Rockwool France site de St-Eloy -les-Mines</td>
+<td align="center">
+<br/>90 502 <br/>
+</td>
+<td align="center">
+<br/>88 920 <br/>
+</td>
+<td align="center">
+<br/>87 318 <br/>
+</td>
+<td align="center">
+<br/>85 702 <br/>
+</td>
+<td align="center">
+<br/>84 067 <br/>
+</td>
+<td align="center">
+<br/>82 419 <br/>
+</td>
+<td align="center">
+<br/>80 748 <br/>
+</td>
+<td align="center">
+<br/>79 075 <br/>
+</td>
+<td align="center">
+<br/>678 751<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05601491<br/>
+</td>
+<td align="center">
+<br/>LIMAGRAIN SCA<br/>
+</td>
+<td align="center">
+<br/>LIMAGRAIN - EX MAICENTRE ancienne usine<br/>
+</td>
+<td align="center">
+<br/>1 762 <br/>
+</td>
+<td align="center">
+<br/>1 577 <br/>
+</td>
+<td align="center">
+<br/>1 397 <br/>
+</td>
+<td align="center">
+<br/>1 222 <br/>
+</td>
+<td align="center">
+<br/>1 052 <br/>
+</td>
+<td align="center">
+<br/>889 <br/>
+</td>
+<td align="center">
+<br/>731 <br/>
+</td>
+<td align="center">
+<br/>578 <br/>
+</td>
+<td align="center">
+<br/>9 208<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05602388<br/>
+</td>
+<td align="center">
+<br/>COLAS RHONE ALPES AUVERGNE</td>
+<td align="center">
+<br/>COLAS RHONE ALPES AUVERGNE (POSTE TSM28)</td>
+<td align="center">
+<br/>1 578 <br/>
+</td>
+<td align="center">
+<br/>1 412 <br/>
+</td>
+<td align="center">
+<br/>1 250 <br/>
+</td>
+<td align="center">
+<br/>1 093 <br/>
+</td>
+<td align="center">
+<br/>943 <br/>
+</td>
+<td align="center">
+<br/>796 <br/>
+</td>
+<td align="center">
+<br/>653 <br/>
+</td>
+<td align="center">
+<br/>518 <br/>
+</td>
+<td align="center">
+<br/>8 243<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05602422<br/>
+</td>
+<td align="center">
+<br/>EFFAGE<br/>
+</td>
+<td align="center">
+<br/>Centrale d'enrobage MI707</td>
+<td align="center">
+<br/>2 351 <br/>
+</td>
+<td align="center">
+<br/>2 104 <br/>
+</td>
+<td align="center">
+<br/>1 863 <br/>
+</td>
+<td align="center">
+<br/>1 630 <br/>
+</td>
+<td align="center">
+<br/>1 404 <br/>
+</td>
+<td align="center">
+<br/>1 186 <br/>
+</td>
+<td align="center">
+<br/>974 <br/>
+</td>
+<td align="center">
+<br/>771 <br/>
+</td>
+<td align="center">
+<br/>12 283<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701177<br/>
+</td>
+<td align="center">
+<br/>Luzeal<br/>
+</td>
+<td align="center">
+<br/>Luzeal - site de PAUVRES<br/>
+</td>
+<td align="center">
+<br/>54 729 <br/>
+</td>
+<td align="center">
+<br/>49 692 <br/>
+</td>
+<td align="center">
+<br/>44 785 <br/>
+</td>
+<td align="center">
+<br/>40 022 <br/>
+</td>
+<td align="center">
+<br/>35 399 <br/>
+</td>
+<td align="center">
+<br/>30 919 <br/>
+</td>
+<td align="center">
+<br/>26 579 <br/>
+</td>
+<td align="center">
+<br/>22 394 <br/>
+</td>
+<td align="center">
+<br/>304 519<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701253<br/>
+</td>
+<td align="center">
+<br/>SAINT-GOBAIN PAM<br/>
+</td>
+<td align="center">
+<br/>Saint-Gobain PAM - usine de Bayard<br/>
+</td>
+<td align="center">
+<br/>21 302 <br/>
+</td>
+<td align="center">
+<br/>20 932 <br/>
+</td>
+<td align="center">
+<br/>20 557 <br/>
+</td>
+<td align="center">
+<br/>20 179 <br/>
+</td>
+<td align="center">
+<br/>19 796 <br/>
+</td>
+<td align="center">
+<br/>19 410 <br/>
+</td>
+<td align="center">
+<br/>19 020 <br/>
+</td>
+<td align="center">
+<br/>18 627 <br/>
+</td>
+<td align="center">
+<br/>159 823<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701445<br/>
+</td>
+<td align="center">
+<br/>Luzeal<br/>
+</td>
+<td align="center">
+<br/>Luzeal - site de Lavannes<br/>
+</td>
+<td align="center">
+<br/>7 910 <br/>
+</td>
+<td align="center">
+<br/>7 079 <br/>
+</td>
+<td align="center">
+<br/>6 270 <br/>
+</td>
+<td align="center">
+<br/>5 486 <br/>
+</td>
+<td align="center">
+<br/>4 726 <br/>
+</td>
+<td align="center">
+<br/>3 991 <br/>
+</td>
+<td align="center">
+<br/>3 279 <br/>
+</td>
+<td align="center">
+<br/>2 594 <br/>
+</td>
+<td align="center">
+<br/>41 335<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701451<br/>
+</td>
+<td align="center">
+<br/>Luzeal<br/>
+</td>
+<td align="center">
+<br/>Luzeal - site de Pontfaverger<br/>
+</td>
+<td align="center">
+<br/>27 206 <br/>
+</td>
+<td align="center">
+<br/>24 870 <br/>
+</td>
+<td align="center">
+<br/>22 592 <br/>
+</td>
+<td align="center">
+<br/>20 380 <br/>
+</td>
+<td align="center">
+<br/>18 231 <br/>
+</td>
+<td align="center">
+<br/>16 147 <br/>
+</td>
+<td align="center">
+<br/>14 127 <br/>
+</td>
+<td align="center">
+<br/>12 177 <br/>
+</td>
+<td align="center">
+<br/>155 730<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701497<br/>
+</td>
+<td align="center">
+<br/>Luzeal<br/>
+</td>
+<td align="center">
+<br/>Luzeal - site de Sept-Saulx<br/>
+</td>
+<td align="center">
+<br/>12 407 <br/>
+</td>
+<td align="center">
+<br/>11 423 <br/>
+</td>
+<td align="center">
+<br/>10 461 <br/>
+</td>
+<td align="center">
+<br/>9 527 <br/>
+</td>
+<td align="center">
+<br/>8 619 <br/>
+</td>
+<td align="center">
+<br/>7 738 <br/>
+</td>
+<td align="center">
+<br/>6 881 <br/>
+</td>
+<td align="center">
+<br/>6 055 <br/>
+</td>
+<td align="center">
+<br/>73 111<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701507<br/>
+</td>
+<td align="center">
+<br/>APM DESHY<br/>
+</td>
+<td align="center">
+<br/>APM DESHY site d'Allemanche<br/>
+</td>
+<td align="center">
+<br/>19 410 <br/>
+</td>
+<td align="center">
+<br/>18 100 <br/>
+</td>
+<td align="center">
+<br/>16 819 <br/>
+</td>
+<td align="center">
+<br/>15 572 <br/>
+</td>
+<td align="center">
+<br/>14 357 <br/>
+</td>
+<td align="center">
+<br/>13 175 <br/>
+</td>
+<td align="center">
+<br/>12 024 <br/>
+</td>
+<td align="center">
+<br/>10 911 <br/>
+</td>
+<td align="center">
+<br/>120 368<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701539<br/>
+</td>
+<td align="center">
+<br/>APM DESHY<br/>
+</td>
+<td align="center">
+<br/>APM DESHY site de Montépreux<br/>
+</td>
+<td align="center">
+<br/>17 831 <br/>
+</td>
+<td align="center">
+<br/>16 586 <br/>
+</td>
+<td align="center">
+<br/>15 368 <br/>
+</td>
+<td align="center">
+<br/>14 184 <br/>
+</td>
+<td align="center">
+<br/>13 030 <br/>
+</td>
+<td align="center">
+<br/>11 908 <br/>
+</td>
+<td align="center">
+<br/>10 816 <br/>
+</td>
+<td align="center">
+<br/>9 761 <br/>
+</td>
+<td align="center">
+<br/>109 484<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701542<br/>
+</td>
+<td align="center">
+<br/>MANUFACTORY EVER GRES SAS - MEG<br/>
+</td>
+<td align="center">
+<br/>MANUFACTORY EVER GRES SAS - MEG<br/>
+</td>
+<td align="center">
+<br/>11 219 <br/>
+</td>
+<td align="center">
+<br/>11 025 <br/>
+</td>
+<td align="center">
+<br/>10 828 <br/>
+</td>
+<td align="center">
+<br/>10 628 <br/>
+</td>
+<td align="center">
+<br/>10 427 <br/>
+</td>
+<td align="center">
+<br/>10 224 <br/>
+</td>
+<td align="center">
+<br/>10 017 <br/>
+</td>
+<td align="center">
+<br/>9 810 <br/>
+</td>
+<td align="center">
+<br/>84 178<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701544<br/>
+</td>
+<td align="center">
+<br/>APM DESHY<br/>
+</td>
+<td align="center">
+<br/>APM DESHY site de PLEURS<br/>
+</td>
+<td align="center">
+<br/>15 042 <br/>
+</td>
+<td align="center">
+<br/>14 074 <br/>
+</td>
+<td align="center">
+<br/>13 127 <br/>
+</td>
+<td align="center">
+<br/>12 204 <br/>
+</td>
+<td align="center">
+<br/>11 305 <br/>
+</td>
+<td align="center">
+<br/>10 429 <br/>
+</td>
+<td align="center">
+<br/>9 576 <br/>
+</td>
+<td align="center">
+<br/>8 751 <br/>
+</td>
+<td align="center">
+<br/>94 508<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701671<br/>
+</td>
+<td align="center">
+<br/>APM DESHY<br/>
+</td>
+<td align="center">
+<br/>APM DESHY site d'Aulnay-aux-Planches<br/>
+</td>
+<td align="center">
+<br/>19 022 <br/>
+</td>
+<td align="center">
+<br/>17 659 <br/>
+</td>
+<td align="center">
+<br/>16 327 <br/>
+</td>
+<td align="center">
+<br/>15 031 <br/>
+</td>
+<td align="center">
+<br/>13 769 <br/>
+</td>
+<td align="center">
+<br/>12 543 <br/>
+</td>
+<td align="center">
+<br/>11 351 <br/>
+</td>
+<td align="center">
+<br/>10 197 <br/>
+</td>
+<td align="center">
+<br/>115 899<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701706<br/>
+</td>
+<td align="center">
+<br/>Société coopérative agricole de déshydratation SUNDESHY<br/>
+</td>
+<td align="center">
+<br/>SUNDESHY - site de Francheville<br/>
+</td>
+<td align="center">
+<br/>38 825 <br/>
+</td>
+<td align="center">
+<br/>35 712 <br/>
+</td>
+<td align="center">
+<br/>32 675 <br/>
+</td>
+<td align="center">
+<br/>29 722 <br/>
+</td>
+<td align="center">
+<br/>26 852 <br/>
+</td>
+<td align="center">
+<br/>24 066 <br/>
+</td>
+<td align="center">
+<br/>21 361 <br/>
+</td>
+<td align="center">
+<br/>18 750 <br/>
+</td>
+<td align="center">
+<br/>227 963<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701721<br/>
+</td>
+<td align="center">
+<br/>Société coopérative agricole de déshydratation SUNDESHY<br/>
+</td>
+<td align="center">
+<br/>SUNDESHY - site de NOIRLIEU<br/>
+</td>
+<td align="center">
+<br/>10 975 <br/>
+</td>
+<td align="center">
+<br/>9 822 <br/>
+</td>
+<td align="center">
+<br/>8 699 <br/>
+</td>
+<td align="center">
+<br/>7 611 <br/>
+</td>
+<td align="center">
+<br/>6 557 <br/>
+</td>
+<td align="center">
+<br/>5 536 <br/>
+</td>
+<td align="center">
+<br/>4 550 <br/>
+</td>
+<td align="center">
+<br/>3 599 <br/>
+</td>
+<td align="center">
+<br/>57 349<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701733<br/>
+</td>
+<td align="center">
+<br/>VIVESCIA<br/>
+</td>
+<td align="center">
+<br/>VIVESCIA-site de PRINGY <br/>
+</td>
+<td align="center">
+<br/>2 281 <br/>
+</td>
+<td align="center">
+<br/>2 042 <br/>
+</td>
+<td align="center">
+<br/>1 809 <br/>
+</td>
+<td align="center">
+<br/>1 582 <br/>
+</td>
+<td align="center">
+<br/>1 363 <br/>
+</td>
+<td align="center">
+<br/>1 151 <br/>
+</td>
+<td align="center">
+<br/>945 <br/>
+</td>
+<td align="center">
+<br/>749 <br/>
+</td>
+<td align="center">
+<br/>11 922<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701735<br/>
+</td>
+<td align="center">
+<br/>Luzeal<br/>
+</td>
+<td align="center">
+<br/>Luzeal - site de Recy<br/>
+</td>
+<td align="center">
+<br/>30 016 <br/>
+</td>
+<td align="center">
+<br/>27 800 <br/>
+</td>
+<td align="center">
+<br/>25 636 <br/>
+</td>
+<td align="center">
+<br/>23 531 <br/>
+</td>
+<td align="center">
+<br/>21 483 <br/>
+</td>
+<td align="center">
+<br/>19 494 <br/>
+</td>
+<td align="center">
+<br/>17 558 <br/>
+</td>
+<td align="center">
+<br/>15 688 <br/>
+</td>
+<td align="center">
+<br/>181 206<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701751<br/>
+</td>
+<td align="center">
+<br/>Luzeal<br/>
+</td>
+<td align="center">
+<br/>Luzeal - site de Saint-Rémy-sur-Bussy<br/>
+</td>
+<td align="center">
+<br/>24 947 <br/>
+</td>
+<td align="center">
+<br/>22 734 <br/>
+</td>
+<td align="center">
+<br/>20 578 <br/>
+</td>
+<td align="center">
+<br/>18 484 <br/>
+</td>
+<td align="center">
+<br/>16 452 <br/>
+</td>
+<td align="center">
+<br/>14 481 <br/>
+</td>
+<td align="center">
+<br/>12 571 <br/>
+</td>
+<td align="center">
+<br/>10 728 <br/>
+</td>
+<td align="center">
+<br/>140 975<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701760<br/>
+</td>
+<td align="center">
+<br/>Société coopérative agricole de déshydratation SUNDESHY<br/>
+</td>
+<td align="center">
+<br/>SUNDESHY - site de SOUDRON<br/>
+</td>
+<td align="center">
+<br/>17 192 <br/>
+</td>
+<td align="center">
+<br/>15 753 <br/>
+</td>
+<td align="center">
+<br/>14 351 <br/>
+</td>
+<td align="center">
+<br/>12 988 <br/>
+</td>
+<td align="center">
+<br/>11 664 <br/>
+</td>
+<td align="center">
+<br/>10 379 <br/>
+</td>
+<td align="center">
+<br/>9 133 <br/>
+</td>
+<td align="center">
+<br/>7 931 <br/>
+</td>
+<td align="center">
+<br/>99 391<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701765<br/>
+</td>
+<td align="center">
+<br/>PRODEVA<br/>
+</td>
+<td align="center">
+<br/>PRODEVA<br/>
+</td>
+<td align="center">
+<br/>13 175 <br/>
+</td>
+<td align="center">
+<br/>12 067 <br/>
+</td>
+<td align="center">
+<br/>10 985 <br/>
+</td>
+<td align="center">
+<br/>9 935 <br/>
+</td>
+<td align="center">
+<br/>8 914 <br/>
+</td>
+<td align="center">
+<br/>7 924 <br/>
+</td>
+<td align="center">
+<br/>6 964 <br/>
+</td>
+<td align="center">
+<br/>6 038 <br/>
+</td>
+<td align="center">
+<br/>76 002<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701783<br/>
+</td>
+<td align="center">
+<br/>MALTEUROP site de Vitry-le-François<br/>
+</td>
+<td align="center">
+<br/>MALTEUROP<br/>
+</td>
+<td align="center">
+<br/>16 921 <br/>
+</td>
+<td align="center">
+<br/>16 627 <br/>
+</td>
+<td align="center">
+<br/>16 330 <br/>
+</td>
+<td align="center">
+<br/>16 029 <br/>
+</td>
+<td align="center">
+<br/>15 726 <br/>
+</td>
+<td align="center">
+<br/>15 419 <br/>
+</td>
+<td align="center">
+<br/>15 108 <br/>
+</td>
+<td align="center">
+<br/>14 797 <br/>
+</td>
+<td align="center">
+<br/>126 957<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701908<br/>
+</td>
+<td align="center">
+<br/>CAPDEA<br/>
+</td>
+<td align="center">
+<br/>CAPDEA<br/>
+</td>
+<td align="center">
+<br/>15 651 <br/>
+</td>
+<td align="center">
+<br/>14 419 <br/>
+</td>
+<td align="center">
+<br/>13 216 <br/>
+</td>
+<td align="center">
+<br/>12 047 <br/>
+</td>
+<td align="center">
+<br/>10 910 <br/>
+</td>
+<td align="center">
+<br/>9 806 <br/>
+</td>
+<td align="center">
+<br/>8 736 <br/>
+</td>
+<td align="center">
+<br/>7 701 <br/>
+</td>
+<td align="center">
+<br/>92 486<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05701910<br/>
+</td>
+<td align="center">
+<br/>CAPDEA<br/>
+</td>
+<td align="center">
+<br/>CAPDEA<br/>
+</td>
+<td align="center">
+<br/>13 241 <br/>
+</td>
+<td align="center">
+<br/>12 220 <br/>
+</td>
+<td align="center">
+<br/>11 224 <br/>
+</td>
+<td align="center">
+<br/>10 255 <br/>
+</td>
+<td align="center">
+<br/>9 312 <br/>
+</td>
+<td align="center">
+<br/>8 397 <br/>
+</td>
+<td align="center">
+<br/>7 509 <br/>
+</td>
+<td align="center">
+<br/>6 650 <br/>
+</td>
+<td align="center">
+<br/>78 808<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05702038<br/>
+</td>
+<td align="center">
+<br/>MALTERIES SOUFFLET - SOUFFLET AGRICULTURE<br/>
+</td>
+<td align="center">
+<br/>SOUFFLET NOGENT PORT<br/>
+</td>
+<td align="center">
+<br/>20 044 <br/>
+</td>
+<td align="center">
+<br/>19 696 <br/>
+</td>
+<td align="center">
+<br/>19 344 <br/>
+</td>
+<td align="center">
+<br/>18 988 <br/>
+</td>
+<td align="center">
+<br/>18 628 <br/>
+</td>
+<td align="center">
+<br/>18 265 <br/>
+</td>
+<td align="center">
+<br/>17 897 <br/>
+</td>
+<td align="center">
+<br/>17 528 <br/>
+</td>
+<td align="center">
+<br/>150 390<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05702355<br/>
+</td>
+<td align="center">
+<br/>UNILIN sas<br/>
+</td>
+<td align="center">
+<br/>UNILIN Bazeilles<br/>
+</td>
+<td align="center">
+<br/>163 389 <br/>
+</td>
+<td align="center">
+<br/>160 551 <br/>
+</td>
+<td align="center">
+<br/>157 680 <br/>
+</td>
+<td align="center">
+<br/>154 778 <br/>
+</td>
+<td align="center">
+<br/>151 846 <br/>
+</td>
+<td align="center">
+<br/>148 885 <br/>
+</td>
+<td align="center">
+<br/>145 887 <br/>
+</td>
+<td align="center">
+<br/>142 879 <br/>
+</td>
+<td align="center">
+<br/>1 225 895<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05702543<br/>
+</td>
+<td align="center">
+<br/>CAPDEA<br/>
+</td>
+<td align="center">
+<br/>CAPDEA<br/>
+</td>
+<td align="center">
+<br/>30 712 <br/>
+</td>
+<td align="center">
+<br/>28 494 <br/>
+</td>
+<td align="center">
+<br/>26 327 <br/>
+</td>
+<td align="center">
+<br/>24 217 <br/>
+</td>
+<td align="center">
+<br/>22 165 <br/>
+</td>
+<td align="center">
+<br/>20 171 <br/>
+</td>
+<td align="center">
+<br/>18 232 <br/>
+</td>
+<td align="center">
+<br/>16 356 <br/>
+</td>
+<td align="center">
+<br/>186 674<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05702595<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole de déshydratation d'Arcis-sur-Aube<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole de déshydratation d'Arcis-sur-Aube<br/>
+</td>
+<td align="center">
+<br/>28 466 <br/>
+</td>
+<td align="center">
+<br/>26 526 <br/>
+</td>
+<td align="center">
+<br/>24 629 <br/>
+</td>
+<td align="center">
+<br/>22 782 <br/>
+</td>
+<td align="center">
+<br/>20 982 <br/>
+</td>
+<td align="center">
+<br/>19 232 <br/>
+</td>
+<td align="center">
+<br/>17 528 <br/>
+</td>
+<td align="center">
+<br/>15 881 <br/>
+</td>
+<td align="center">
+<br/>176 026<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05702992<br/>
+</td>
+<td align="center">
+<br/>Cristanol<br/>
+</td>
+<td align="center">
+<br/>Cristanol<br/>
+</td>
+<td align="center">
+<br/>117 376 <br/>
+</td>
+<td align="center">
+<br/>115 337 <br/>
+</td>
+<td align="center">
+<br/>113 274 <br/>
+</td>
+<td align="center">
+<br/>111 190 <br/>
+</td>
+<td align="center">
+<br/>109 084 <br/>
+</td>
+<td align="center">
+<br/>106 956 <br/>
+</td>
+<td align="center">
+<br/>104 803 <br/>
+</td>
+<td align="center">
+<br/>102 641 <br/>
+</td>
+<td align="center">
+<br/>880 661<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05800066<br/>
+</td>
+<td align="center">
+<br/>SANOFI PASTEUR SA<br/>
+</td>
+<td align="center">
+<br/>SANOFI PASTEUR Val-de-Reuil<br/>
+</td>
+<td align="center">
+<br/>9 631 <br/>
+</td>
+<td align="center">
+<br/>9 465 <br/>
+</td>
+<td align="center">
+<br/>9 295 <br/>
+</td>
+<td align="center">
+<br/>9 124 <br/>
+</td>
+<td align="center">
+<br/>8 952 <br/>
+</td>
+<td align="center">
+<br/>8 777 <br/>
+</td>
+<td align="center">
+<br/>8 600 <br/>
+</td>
+<td align="center">
+<br/>8 423 <br/>
+</td>
+<td align="center">
+<br/>72 267<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05800291<br/>
+</td>
+<td align="center">
+<br/>Usines coopératives de déshydratation du Vexin<br/>
+</td>
+<td align="center">
+<br/>UCDV<br/>
+</td>
+<td align="center">
+<br/>28 354 <br/>
+</td>
+<td align="center">
+<br/>27 116 <br/>
+</td>
+<td align="center">
+<br/>25 896 <br/>
+</td>
+<td align="center">
+<br/>24 700 <br/>
+</td>
+<td align="center">
+<br/>23 527 <br/>
+</td>
+<td align="center">
+<br/>22 375 <br/>
+</td>
+<td align="center">
+<br/>21 245 <br/>
+</td>
+<td align="center">
+<br/>20 144 <br/>
+</td>
+<td align="center">
+<br/>193 357<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05800316<br/>
+</td>
+<td align="center">
+<br/>AIR LIQUIDE HYDROGENE SA<br/>
+</td>
+<td align="center">
+<br/>AIR LIQUIDE HYDROGENE <br/>
+</td>
+<td align="center">
+<br/>233 058 <br/>
+</td>
+<td align="center">
+<br/>229 010 <br/>
+</td>
+<td align="center">
+<br/>224 914 <br/>
+</td>
+<td align="center">
+<br/>220 776 <br/>
+</td>
+<td align="center">
+<br/>216 593 <br/>
+</td>
+<td align="center">
+<br/>212 369 <br/>
+</td>
+<td align="center">
+<br/>208 093 <br/>
+</td>
+<td align="center">
+<br/>203 802 <br/>
+</td>
+<td align="center">
+<br/>1 748 615<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05800571<br/>
+</td>
+<td align="center">
+<br/>V&amp;M France tuberie de Deville<br/>
+</td>
+<td align="center">
+<br/>V&amp;M France tuberie de Deville<br/>
+</td>
+<td align="center">
+<br/>38 638 <br/>
+</td>
+<td align="center">
+<br/>37 967 <br/>
+</td>
+<td align="center">
+<br/>37 288 <br/>
+</td>
+<td align="center">
+<br/>36 602 <br/>
+</td>
+<td align="center">
+<br/>35 909 <br/>
+</td>
+<td align="center">
+<br/>35 208 <br/>
+</td>
+<td align="center">
+<br/>34 500 <br/>
+</td>
+<td align="center">
+<br/>33 788 <br/>
+</td>
+<td align="center">
+<br/>289 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05801045<br/>
+</td>
+<td align="center">
+<br/>SICA de DESHYDRATATION de FONTAINE-LE-DUN<br/>
+</td>
+<td align="center">
+<br/>SICA de DESHYDRATATION de FONTAINE-LE-DUN<br/>
+</td>
+<td align="center">
+<br/>9 866 <br/>
+</td>
+<td align="center">
+<br/>9 694 <br/>
+</td>
+<td align="center">
+<br/>9 521 <br/>
+</td>
+<td align="center">
+<br/>9 346 <br/>
+</td>
+<td align="center">
+<br/>9 169 <br/>
+</td>
+<td align="center">
+<br/>8 990 <br/>
+</td>
+<td align="center">
+<br/>8 809 <br/>
+</td>
+<td align="center">
+<br/>8 627 <br/>
+</td>
+<td align="center">
+<br/>74 022<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05801240<br/>
+</td>
+<td align="center">
+<br/>Linex Panneaux SAS<br/>
+</td>
+<td align="center">
+<br/>Linex Panneaux SAS<br/>
+</td>
+<td align="center">
+<br/>41 093 <br/>
+</td>
+<td align="center">
+<br/>40 379 <br/>
+</td>
+<td align="center">
+<br/>39 657 <br/>
+</td>
+<td align="center">
+<br/>38 928 <br/>
+</td>
+<td align="center">
+<br/>38 190 <br/>
+</td>
+<td align="center">
+<br/>37 445 <br/>
+</td>
+<td align="center">
+<br/>36 692 <br/>
+</td>
+<td align="center">
+<br/>35 935 <br/>
+</td>
+<td align="center">
+<br/>308 319<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05805324<br/>
+</td>
+<td align="center">
+<br/>BOREALIS CHIMIE SAS<br/>
+</td>
+<td align="center">
+<br/>Atelier d'acide nitrique N7<br/>
+</td>
+<td align="center">
+<br/>89 428 <br/>
+</td>
+<td align="center">
+<br/>43 938<br/>
+</td>
+<td align="center">
+<br/>43 152<br/>
+</td>
+<td align="center">
+<br/>42 358<br/>
+</td>
+<td align="center">
+<br/>41 556<br/>
+</td>
+<td align="center">
+<br/>40 745<br/>
+</td>
+<td align="center">
+<br/>39 925<br/>
+</td>
+<td align="center">
+<br/>39 102<br/>
+</td>
+<td align="center">
+<br/>670 976<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05805325<br/>
+</td>
+<td align="center">
+<br/>BOREALIS CHIMIE SAS<br/>
+</td>
+<td align="center">
+<br/>Atelier de fabrication d'ammoniac AM2<br/>
+</td>
+<td align="center">
+<br/>267 828 <br/>
+</td>
+<td align="center">
+<br/>263 176 <br/>
+</td>
+<td align="center">
+<br/>258 470 <br/>
+</td>
+<td align="center">
+<br/>253 714 <br/>
+</td>
+<td align="center">
+<br/>248 907 <br/>
+</td>
+<td align="center">
+<br/>244 053 <br/>
+</td>
+<td align="center">
+<br/>239 139 <br/>
+</td>
+<td align="center">
+<br/>234 208 <br/>
+</td>
+<td align="center">
+<br/>2 009 495<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05805327<br/>
+</td>
+<td align="center">
+<br/>BOREALIS CHIMIE SAS<br/>
+</td>
+<td align="center">
+<br/>Atelier d'acide nitrique N8<br/>
+</td>
+<td align="center">
+<br/>68 904 <br/>
+</td>
+<td align="center">
+<br/>135 414 <br/>
+</td>
+<td align="center">132 993</td>
+<td align="center">
+<br/>130 546<br/>
+</td>
+<td align="center">128 072</td>
+<td align="center">125 575</td>
+<td align="center">
+<br/>123 046<br/>
+</td>
+<td align="center">120 509</td>
+<td align="center">965 059</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05900536<br/>
+</td>
+<td align="center">
+<br/>ARMSTRONG BUILDING PRODUCTS SAS<br/>
+</td>
+<td align="center">
+<br/>ARMSTRONG BUILDING PRODUCTS SAS</td>
+<td align="center">
+<br/>42 769 <br/>
+</td>
+<td align="center">
+<br/>39 992 <br/>
+</td>
+<td align="center">
+<br/>37 278 <br/>
+</td>
+<td align="center">
+<br/>34 631 <br/>
+</td>
+<td align="center">
+<br/>32 053 <br/>
+</td>
+<td align="center">
+<br/>29 541 <br/>
+</td>
+<td align="center">
+<br/>27 096 <br/>
+</td>
+<td align="center">
+<br/>24 727 <br/>
+</td>
+<td align="center">
+<br/>268 087<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904909<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-SOLEXIS<br/>
+</td>
+<td align="center">
+<br/>12 489 <br/>
+</td>
+<td align="center">
+<br/>12 271 <br/>
+</td>
+<td align="center">
+<br/>12 052 <br/>
+</td>
+<td align="center">
+<br/>11 830 <br/>
+</td>
+<td align="center">
+<br/>11 606 <br/>
+</td>
+<td align="center">
+<br/>11 380 <br/>
+</td>
+<td align="center">
+<br/>11 150 <br/>
+</td>
+<td align="center">
+<br/>10 921 <br/>
+</td>
+<td align="center">
+<br/>93 699<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904910<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-SOLVIN<br/>
+</td>
+<td align="center">
+<br/>96 653 <br/>
+</td>
+<td align="center">
+<br/>94 974 <br/>
+</td>
+<td align="center">
+<br/>93 275 <br/>
+</td>
+<td align="center">
+<br/>91 559 <br/>
+</td>
+<td align="center">
+<br/>89 825 <br/>
+</td>
+<td align="center">
+<br/>88 072 <br/>
+</td>
+<td align="center">
+<br/>86 299 <br/>
+</td>
+<td align="center">
+<br/>84 520 <br/>
+</td>
+<td align="center">
+<br/>725 177<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904912<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-EDS1<br/>
+</td>
+<td align="center">
+<br/>156 347 <br/>
+</td>
+<td align="center">
+<br/>153 596 <br/>
+</td>
+<td align="center">
+<br/>150 818 <br/>
+</td>
+<td align="center">
+<br/>148 018 <br/>
+</td>
+<td align="center">
+<br/>145 195 <br/>
+</td>
+<td align="center">
+<br/>142 346 <br/>
+</td>
+<td align="center">
+<br/>139 463 <br/>
+</td>
+<td align="center">
+<br/>136 569 <br/>
+</td>
+<td align="center">
+<br/>1 172 352<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904913<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-SFF<br/>
+</td>
+<td align="center">
+<br/>11 858 <br/>
+</td>
+<td align="center">
+<br/>11 653 <br/>
+</td>
+<td align="center">
+<br/>11 444 <br/>
+</td>
+<td align="center">
+<br/>11 234 <br/>
+</td>
+<td align="center">
+<br/>11 021 <br/>
+</td>
+<td align="center">
+<br/>10 806 <br/>
+</td>
+<td align="center">
+<br/>10 588 <br/>
+</td>
+<td align="center">
+<br/>10 370 <br/>
+</td>
+<td align="center">
+<br/>88 974<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904914<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-Specialty Polymers 1<br/>
+</td>
+<td align="center">
+<br/>13 471 <br/>
+</td>
+<td align="center">
+<br/>13 238 <br/>
+</td>
+<td align="center">
+<br/>13 001 <br/>
+</td>
+<td align="center">
+<br/>12 762 <br/>
+</td>
+<td align="center">
+<br/>12 520 <br/>
+</td>
+<td align="center">
+<br/>12 276 <br/>
+</td>
+<td align="center">
+<br/>12 028 <br/>
+</td>
+<td align="center">
+<br/>11 780 <br/>
+</td>
+<td align="center">
+<br/>101 076<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904915<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-Specialty Polymers 2<br/>
+</td>
+<td align="center">
+<br/>6 691 <br/>
+</td>
+<td align="center">
+<br/>6 575 <br/>
+</td>
+<td align="center">
+<br/>6 458 <br/>
+</td>
+<td align="center">
+<br/>6 339 <br/>
+</td>
+<td align="center">
+<br/>6 219 <br/>
+</td>
+<td align="center">
+<br/>6 097 <br/>
+</td>
+<td align="center">
+<br/>5 975 <br/>
+</td>
+<td align="center">
+<br/>5 851 <br/>
+</td>
+<td align="center">
+<br/>50 205<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05904916<br/>
+</td>
+<td align="center">
+<br/>Solvay Electrolyse France<br/>
+</td>
+<td align="center">
+<br/>SLV-Ta-POC<br/>
+</td>
+<td align="center">
+<br/>38 549 <br/>
+</td>
+<td align="center">
+<br/>37 879 <br/>
+</td>
+<td align="center">
+<br/>37 202 <br/>
+</td>
+<td align="center">
+<br/>36 517 <br/>
+</td>
+<td align="center">
+<br/>35 825 <br/>
+</td>
+<td align="center">
+<br/>35 126 <br/>
+</td>
+<td align="center">
+<br/>34 419 <br/>
+</td>
+<td align="center">
+<br/>33 710 <br/>
+</td>
+<td align="center">
+<br/>289 227<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06101980<br/>
+</td>
+<td align="center">
+<br/>FERROPEM<br/>
+</td>
+<td align="center">
+<br/>Société FERROPEM usine d'ANGLEFORT<br/>
+</td>
+<td align="center">
+<br/>149 478 <br/>
+</td>
+<td align="center">
+<br/>146 883 <br/>
+</td>
+<td align="center">
+<br/>144 256 <br/>
+</td>
+<td align="center">
+<br/>141 602 <br/>
+</td>
+<td align="center">
+<br/>138 919 <br/>
+</td>
+<td align="center">
+<br/>136 209 <br/>
+</td>
+<td align="center">
+<br/>133 467 <br/>
+</td>
+<td align="center">
+<br/>130 714 <br/>
+</td>
+<td align="center">
+<br/>1 121 528<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06101999<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>1 167 <br/>
+</td>
+<td align="center">
+<br/>1 045 <br/>
+</td>
+<td align="center">
+<br/>925 <br/>
+</td>
+<td align="center">
+<br/>810 <br/>
+</td>
+<td align="center">
+<br/>697 <br/>
+</td>
+<td align="center">
+<br/>589 <br/>
+</td>
+<td align="center">
+<br/>484 <br/>
+</td>
+<td align="center">
+<br/>383 <br/>
+</td>
+<td align="center">
+<br/>6 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06102195<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>1 788 <br/>
+</td>
+<td align="center">
+<br/>1 601 <br/>
+</td>
+<td align="center">
+<br/>1 417 <br/>
+</td>
+<td align="center">
+<br/>1 240 <br/>
+</td>
+<td align="center">
+<br/>1 068 <br/>
+</td>
+<td align="center">
+<br/>902 <br/>
+</td>
+<td align="center">
+<br/>742 <br/>
+</td>
+<td align="center">
+<br/>586 <br/>
+</td>
+<td align="center">
+<br/>9 344<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06102212<br/>
+</td>
+<td align="center">
+<br/>ETS BERNARD<br/>
+</td>
+<td align="center">
+<br/>ETS BERNARD<br/>
+</td>
+<td align="center">
+<br/>1 076 <br/>
+</td>
+<td align="center">
+<br/>962 <br/>
+</td>
+<td align="center">
+<br/>852 <br/>
+</td>
+<td align="center">
+<br/>746 <br/>
+</td>
+<td align="center">
+<br/>642 <br/>
+</td>
+<td align="center">
+<br/>543 <br/>
+</td>
+<td align="center">
+<br/>446 <br/>
+</td>
+<td align="center">
+<br/>353 <br/>
+</td>
+<td align="center">
+<br/>5 620<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06102291<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>2 797 <br/>
+</td>
+<td align="center">
+<br/>2 503 <br/>
+</td>
+<td align="center">
+<br/>2 217 <br/>
+</td>
+<td align="center">
+<br/>1 940 <br/>
+</td>
+<td align="center">
+<br/>1 672 <br/>
+</td>
+<td align="center">
+<br/>1 411 <br/>
+</td>
+<td align="center">
+<br/>1 160 <br/>
+</td>
+<td align="center">
+<br/>918 <br/>
+</td>
+<td align="center">
+<br/>14 618<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06102436<br/>
+</td>
+<td align="center">
+<br/>Kerneos<br/>
+</td>
+<td align="center">
+<br/>Kerneos Aluminate technologies usine du Teil<br/>
+</td>
+<td align="center">
+<br/>37 773 <br/>
+</td>
+<td align="center">
+<br/>37 117 <br/>
+</td>
+<td align="center">
+<br/>36 453 <br/>
+</td>
+<td align="center">
+<br/>35 782 <br/>
+</td>
+<td align="center">
+<br/>35 104 <br/>
+</td>
+<td align="center">
+<br/>34 420 <br/>
+</td>
+<td align="center">
+<br/>33 727 <br/>
+</td>
+<td align="center">
+<br/>33 031 <br/>
+</td>
+<td align="center">
+<br/>283 407<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06102870<br/>
+</td>
+<td align="center">
+<br/>WINOA<br/>
+</td>
+<td align="center">
+<br/>WINOA<br/>
+</td>
+<td align="center">
+<br/>29 019 <br/>
+</td>
+<td align="center">
+<br/>28 515 <br/>
+</td>
+<td align="center">
+<br/>28 005 <br/>
+</td>
+<td align="center">
+<br/>27 490 <br/>
+</td>
+<td align="center">
+<br/>26 969 <br/>
+</td>
+<td align="center">
+<br/>26 443 <br/>
+</td>
+<td align="center">
+<br/>25 910 <br/>
+</td>
+<td align="center">
+<br/>25 376 <br/>
+</td>
+<td align="center">
+<br/>217 727<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06102997<br/>
+</td>
+<td align="center">
+<br/>FERROPEM<br/>
+</td>
+<td align="center">
+<br/>Société FERROPEM usine des CLAVAUX<br/>
+</td>
+<td align="center">
+<br/>146 157 <br/>
+</td>
+<td align="center">
+<br/>143 618 <br/>
+</td>
+<td align="center">
+<br/>141 049 <br/>
+</td>
+<td align="center">
+<br/>138 454 <br/>
+</td>
+<td align="center">
+<br/>135 831 <br/>
+</td>
+<td align="center">
+<br/>133 182 <br/>
+</td>
+<td align="center">
+<br/>130 501 <br/>
+</td>
+<td align="center">
+<br/>127 810 <br/>
+</td>
+<td align="center">
+<br/>1 096 602<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103134<br/>
+</td>
+<td align="center">
+<br/>SA VICAT<br/>
+</td>
+<td align="center">
+<br/>Usine de La Pérelle<br/>
+</td>
+<td align="center">
+<br/>41 225 <br/>
+</td>
+<td align="center">
+<br/>40 509 <br/>
+</td>
+<td align="center">
+<br/>39 785 <br/>
+</td>
+<td align="center">
+<br/>39 052 <br/>
+</td>
+<td align="center">
+<br/>38 313 <br/>
+</td>
+<td align="center">
+<br/>37 566 <br/>
+</td>
+<td align="center">
+<br/>36 810 <br/>
+</td>
+<td align="center">
+<br/>36 050 <br/>
+</td>
+<td align="center">
+<br/>309 310<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103271<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE DAUPHINOISE<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE DAUPHINOISE<br/>
+</td>
+<td align="center">
+<br/>1 280 <br/>
+</td>
+<td align="center">
+<br/>1 146 <br/>
+</td>
+<td align="center">
+<br/>1 015 <br/>
+</td>
+<td align="center">
+<br/>889 <br/>
+</td>
+<td align="center">
+<br/>765 <br/>
+</td>
+<td align="center">
+<br/>646 <br/>
+</td>
+<td align="center">
+<br/>531 <br/>
+</td>
+<td align="center">
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>6 692<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103386<br/>
+</td>
+<td align="center">
+<br/>Centre hospitalier de Roanne<br/>
+</td>
+<td align="center">
+<br/>Hôpital de Roanne<br/>
+</td>
+<td align="center">
+<br/>3 878 <br/>
+</td>
+<td align="center">
+<br/>3 471 <br/>
+</td>
+<td align="center">
+<br/>3 074 <br/>
+</td>
+<td align="center">
+<br/>2 691 <br/>
+</td>
+<td align="center">
+<br/>2 319 <br/>
+</td>
+<td align="center">
+<br/>1 960 <br/>
+</td>
+<td align="center">
+<br/>1 612 <br/>
+</td>
+<td align="center">
+<br/>1 277 <br/>
+</td>
+<td align="center">
+<br/>20 282<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103481<br/>
+</td>
+<td align="center">
+<br/>Thermal Ceramics de France<br/>
+</td>
+<td align="center">
+<br/>Thermal Ceramics France ; site de Saint-Marcellin-en-Forez<br/>
+</td>
+<td align="center">
+<br/>1 077 <br/>
+</td>
+<td align="center">
+<br/>1 058 <br/>
+</td>
+<td align="center">
+<br/>1 039 <br/>
+</td>
+<td align="center">
+<br/>1 020 <br/>
+</td>
+<td align="center">
+<br/>1 001 <br/>
+</td>
+<td align="center">
+<br/>981 <br/>
+</td>
+<td align="center">
+<br/>961 <br/>
+</td>
+<td align="center">
+<br/>941 <br/>
+</td>
+<td align="center">
+<br/>8 078<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103488<br/>
+</td>
+<td align="center">
+<br/>CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE<br/>
+</td>
+<td align="center">
+<br/>CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE<br/>
+</td>
+<td align="center">
+<br/>7 777 <br/>
+</td>
+<td align="center">
+<br/>6 960 <br/>
+</td>
+<td align="center">
+<br/>6 166 <br/>
+</td>
+<td align="center">
+<br/>5 397 <br/>
+</td>
+<td align="center">
+<br/>4 652 <br/>
+</td>
+<td align="center">
+<br/>3 930 <br/>
+</td>
+<td align="center">
+<br/>3 233 <br/>
+</td>
+<td align="center">
+<br/>2 561 <br/>
+</td>
+<td align="center">
+<br/>40 676<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103721<br/>
+</td>
+<td align="center">
+<br/>Rhodia Opérations<br/>
+</td>
+<td align="center">
+<br/>Rhodia Belle Etoile Engineering Plastics<br/>
+</td>
+<td align="center">
+<br/>9 744 <br/>
+</td>
+<td align="center">
+<br/>9 575 <br/>
+</td>
+<td align="center">
+<br/>9 403 <br/>
+</td>
+<td align="center">
+<br/>9 230 <br/>
+</td>
+<td align="center">
+<br/>9 056 <br/>
+</td>
+<td align="center">
+<br/>8 879 <br/>
+</td>
+<td align="center">
+<br/>8 700 <br/>
+</td>
+<td align="center">
+<br/>8 521 <br/>
+</td>
+<td align="center">
+<br/>73 108<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103724<br/>
+</td>
+<td align="center">
+<br/>KEM ONE <br/>
+</td>
+<td align="center">
+<br/>KEM ONE usine de Saint-Fons<br/>
+</td>
+<td align="center">
+<br/>15 753 <br/>
+</td>
+<td align="center">
+<br/>15 479 <br/>
+</td>
+<td align="center">
+<br/>15 202 <br/>
+</td>
+<td align="center">
+<br/>14 923 <br/>
+</td>
+<td align="center">
+<br/>14 640 <br/>
+</td>
+<td align="center">
+<br/>14 354 <br/>
+</td>
+<td align="center">
+<br/>14 066 <br/>
+</td>
+<td align="center">
+<br/>13 775 <br/>
+</td>
+<td align="center">
+<br/>118 192<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103725<br/>
+</td>
+<td align="center">
+<br/>Rhodia Opérations <br/>
+</td>
+<td align="center">
+<br/>Rhodia Belle Etoile - Polyamide &amp; Intermediates <br/>
+</td>
+<td align="center">
+<br/>67 668 <br/>
+</td>
+<td align="center">
+<br/>66 492 <br/>
+</td>
+<td align="center">
+<br/>65 303 <br/>
+</td>
+<td align="center">
+<br/>64 102 <br/>
+</td>
+<td align="center">
+<br/>62 887 <br/>
+</td>
+<td align="center">
+<br/>61 661 <br/>
+</td>
+<td align="center">
+<br/>60 419 <br/>
+</td>
+<td align="center">
+<br/>59 173 <br/>
+</td>
+<td align="center">
+<br/>507 705<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103727<br/>
+</td>
+<td align="center">
+<br/>BLUESTAR SILICONES SAS France<br/>
+</td>
+<td align="center">
+<br/>BLUESTAR SILICONES site de Saint-Fons<br/>
+</td>
+<td align="center">
+<br/>17 394 <br/>
+</td>
+<td align="center">
+<br/>17 091 <br/>
+</td>
+<td align="center">
+<br/>16 786 <br/>
+</td>
+<td align="center">
+<br/>16 476 <br/>
+</td>
+<td align="center">
+<br/>16 165 <br/>
+</td>
+<td align="center">
+<br/>15 849 <br/>
+</td>
+<td align="center">
+<br/>15 530 <br/>
+</td>
+<td align="center">
+<br/>15 210 <br/>
+</td>
+<td align="center">
+<br/>130 501<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103857<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>Coopérative agricole Terre d'alliances<br/>
+</td>
+<td align="center">
+<br/>1 736 <br/>
+</td>
+<td align="center">
+<br/>1 553 <br/>
+</td>
+<td align="center">
+<br/>1 376 <br/>
+</td>
+<td align="center">
+<br/>1 204 <br/>
+</td>
+<td align="center">
+<br/>1 037 <br/>
+</td>
+<td align="center">
+<br/>876 <br/>
+</td>
+<td align="center">
+<br/>720 <br/>
+</td>
+<td align="center">
+<br/>570 <br/>
+</td>
+<td align="center">
+<br/>9 072<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06103875<br/>
+</td>
+<td align="center">
+<br/>TEINTURE ET IMPRESSION DE LYON<br/>
+</td>
+<td align="center">
+<br/>TEINTURE ET IMPRESSION DE LYON<br/>
+</td>
+<td align="center">
+<br/>3 928 <br/>
+</td>
+<td align="center">
+<br/>3 859 <br/>
+</td>
+<td align="center">
+<br/>3 790 <br/>
+</td>
+<td align="center">
+<br/>3 720 <br/>
+</td>
+<td align="center">
+<br/>3 650 <br/>
+</td>
+<td align="center">
+<br/>3 579 <br/>
+</td>
+<td align="center">
+<br/>3 506 <br/>
+</td>
+<td align="center">
+<br/>3 434 <br/>
+</td>
+<td align="center">
+<br/>29 466<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104367<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE - Usine de CHAMBERY<br/>
+</td>
+<td align="center">
+<br/>35 012 <br/>
+</td>
+<td align="center">
+<br/>43 005<br/>
+</td>
+<td align="center">
+<br/>42 235</td>
+<td align="center">
+<br/>41 458<br/>
+</td>
+<td align="center">
+<br/>40 673<br/>
+</td>
+<td align="center">
+<br/>39 880<br/>
+</td>
+<td align="center">39 077<br/>
+</td>
+<td align="center">
+<br/>38 271<br/>
+</td>
+<td align="center">
+<br/>319 611<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104426<br/>
+</td>
+<td align="center">
+<br/>FERROPEM<br/>
+</td>
+<td align="center">
+<br/>Société FERROPEM usine de MONTRICHER<br/>
+</td>
+<td align="center">
+<br/>118 721 <br/>
+</td>
+<td align="center">
+<br/>116 659 <br/>
+</td>
+<td align="center">
+<br/>114 573 <br/>
+</td>
+<td align="center">
+<br/>112 465 <br/>
+</td>
+<td align="center">
+<br/>110 333 <br/>
+</td>
+<td align="center">
+<br/>108 182 <br/>
+</td>
+<td align="center">
+<br/>106 003 <br/>
+</td>
+<td align="center">
+<br/>103 818 <br/>
+</td>
+<td align="center">
+<br/>890 754<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104438<br/>
+</td>
+<td align="center">
+<br/>FERROPEM<br/>
+</td>
+<td align="center">
+<br/>Société FERROPEM usine de CHÂTEAU-FEUILLET<br/>
+</td>
+<td align="center">
+<br/>156 962 <br/>
+</td>
+<td align="center">
+<br/>154 236 <br/>
+</td>
+<td align="center">
+<br/>151 477 <br/>
+</td>
+<td align="center">
+<br/>148 691 <br/>
+</td>
+<td align="center">
+<br/>145 873 <br/>
+</td>
+<td align="center">
+<br/>143 029 <br/>
+</td>
+<td align="center">
+<br/>140 149 <br/>
+</td>
+<td align="center">
+<br/>137 259 <br/>
+</td>
+<td align="center">
+<br/>1 177 676<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104466<br/>
+</td>
+<td align="center">
+<br/>TRIMET France<br/>
+</td>
+<td align="center">
+<br/>TRIMET France<br/>
+</td>
+<td align="center">
+<br/>228 769 <br/>
+</td>
+<td align="center">
+<br/>224 795 <br/>
+</td>
+<td align="center">
+<br/>220 775 <br/>
+</td>
+<td align="center">
+<br/>216 713 <br/>
+</td>
+<td align="center">
+<br/>212 607 <br/>
+</td>
+<td align="center">
+<br/>208 461 <br/>
+</td>
+<td align="center">
+<br/>204 263 <br/>
+</td>
+<td align="center">
+<br/>200 051 <br/>
+</td>
+<td align="center">
+<br/>1 716 434<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104828<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE DAUPHINOISE<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE DAUPHINOISE<br/>
+</td>
+<td align="center">
+<br/>710 <br/>
+</td>
+<td align="center">
+<br/>635 <br/>
+</td>
+<td align="center">
+<br/>562 <br/>
+</td>
+<td align="center">
+<br/>492 <br/>
+</td>
+<td align="center">
+<br/>424 <br/>
+</td>
+<td align="center">
+<br/>358 <br/>
+</td>
+<td align="center">
+<br/>294 <br/>
+</td>
+<td align="center">
+<br/>232 <br/>
+</td>
+<td align="center">
+<br/>3 707<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104898<br/>
+</td>
+<td align="center">
+<br/>CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE<br/>
+</td>
+<td align="center">
+<br/>CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE<br/>
+</td>
+<td align="center">
+<br/>3 298 <br/>
+</td>
+<td align="center">
+<br/>2 951 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>6 249</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06104971<br/>
+</td>
+<td align="center">
+<br/>UNIFRAX France<br/>
+</td>
+<td align="center">
+<br/>UNIFRAX France<br/>
+</td>
+<td align="center">
+<br/>1 007 <br/>
+</td>
+<td align="center">
+<br/>989 <br/>
+</td>
+<td align="center">
+<br/>971 <br/>
+</td>
+<td align="center">
+<br/>954 <br/>
+</td>
+<td align="center">
+<br/>936 <br/>
+</td>
+<td align="center">
+<br/>917 <br/>
+</td>
+<td align="center">
+<br/>899 <br/>
+</td>
+<td align="center">
+<br/>881 <br/>
+</td>
+<td align="center">
+<br/>7 554<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06105222<br/>
+</td>
+<td align="center">
+<br/>BLUESTAR SILICONES France<br/>
+</td>
+<td align="center">
+<br/>BLUESTAR SILICONES site de Roussillon<br/>
+</td>
+<td align="center">
+<br/>86 019 <br/>
+</td>
+<td align="center">
+<br/>84 525 <br/>
+</td>
+<td align="center">
+<br/>83 013 <br/>
+</td>
+<td align="center">
+<br/>81 485 <br/>
+</td>
+<td align="center">
+<br/>79 941 <br/>
+</td>
+<td align="center">
+<br/>78 383 <br/>
+</td>
+<td align="center">
+<br/>76 805 <br/>
+</td>
+<td align="center">
+<br/>75 220 <br/>
+</td>
+<td align="center">
+<br/>645 391<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06105223<br/>
+</td>
+<td align="center">
+<br/>Jean-Franck FRAOLINI<br/>
+</td>
+<td align="center">
+<br/>ADISSEO<br/>
+</td>
+<td align="center">
+<br/>60 382 <br/>
+</td>
+<td align="center">
+<br/>59 333 <br/>
+</td>
+<td align="center">
+<br/>58 272 <br/>
+</td>
+<td align="center">
+<br/>57 200 <br/>
+</td>
+<td align="center">
+<br/>56 116 <br/>
+</td>
+<td align="center">
+<br/>55 022 <br/>
+</td>
+<td align="center">
+<br/>53 914 <br/>
+</td>
+<td align="center">
+<br/>52 802 <br/>
+</td>
+<td align="center">
+<br/>453 041<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06105225<br/>
+</td>
+<td align="center">
+<br/>ADISSEO France SAS</td>
+<td align="center">
+<br/>ADISSEO (Amont méthionine)<br/>
+</td>
+<td align="center">
+<br/>49 221 <br/>
+</td>
+<td align="center">
+<br/>48 366 <br/>
+</td>
+<td align="center">
+<br/>47 500 <br/>
+</td>
+<td align="center">
+<br/>46 627 <br/>
+</td>
+<td align="center">
+<br/>45 743 <br/>
+</td>
+<td align="center">
+<br/>44 851 <br/>
+</td>
+<td align="center">
+<br/>43 948 <br/>
+</td>
+<td align="center">
+<br/>43 042 <br/>
+</td>
+<td align="center">
+<br/>369 298<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06105226<br/>
+</td>
+<td align="center">
+<br/>Jean-Franck FRAOLINI<br/>
+</td>
+<td align="center">
+<br/>ADISSEO<br/>
+</td>
+<td align="center">
+<br/>47 023 <br/>
+</td>
+<td align="center">
+<br/>46 008 <br/>
+</td>
+<td align="center">
+<br/>44 987 <br/>
+</td>
+<td align="center">
+<br/>43 966 <br/>
+</td>
+<td align="center">
+<br/>42 944 <br/>
+</td>
+<td align="center">
+<br/>41 921 <br/>
+</td>
+<td align="center">
+<br/>40 896 <br/>
+</td>
+<td align="center">
+<br/>39 873 <br/>
+</td>
+<td align="center">
+<br/>347 618<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06106986<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE DAUPHINOISE<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE DAUPHINOISE<br/>
+</td>
+<td align="center">
+<br/>1 210 <br/>
+</td>
+<td align="center">
+<br/>1 083 <br/>
+</td>
+<td align="center">
+<br/>959 <br/>
+</td>
+<td align="center">
+<br/>839 <br/>
+</td>
+<td align="center">
+<br/>723 <br/>
+</td>
+<td align="center">
+<br/>610 <br/>
+</td>
+<td align="center">
+<br/>502 <br/>
+</td>
+<td align="center">
+<br/>397 <br/>
+</td>
+<td align="center">
+<br/>6 323<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06108774<br/>
+</td>
+<td align="center">
+<br/>RHODIA OPERATIONS <br/>
+</td>
+<td align="center">
+<br/>RHODIA OPERATIONS ROUSSILLON<br/>
+</td>
+<td align="center">
+<br/>82 528 <br/>
+</td>
+<td align="center">
+<br/>81 095 <br/>
+</td>
+<td align="center">
+<br/>79 645 <br/>
+</td>
+<td align="center">
+<br/>78 178 <br/>
+</td>
+<td align="center">
+<br/>76 696 <br/>
+</td>
+<td align="center">
+<br/>75 201 <br/>
+</td>
+<td align="center">
+<br/>73 688 <br/>
+</td>
+<td align="center">
+<br/>72 168 <br/>
+</td>
+<td align="center">
+<br/>619 199<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">FR-new-06110901</p>
+</td>
+<td>
+<p align="center">Drôme Energie Services</p>
+</td>
+<td>
+<p align="center">Drôme Energie Services </p>
+</td>
+<td>
+<p align="center">19 089</p>
+</td>
+<td>
+<p align="center">17 083</p>
+</td>
+<td>
+<p align="center">15 133</p>
+</td>
+<td>
+<p align="center">13 246</p>
+</td>
+<td>
+<p align="center">11 418</p>
+</td>
+<td>
+<p align="center">9 649</p>
+</td>
+<td>
+<p align="center">7 937</p>
+</td>
+<td>
+<p align="center">6 286</p>
+</td>
+<td>
+<p align="center">99 841</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06110996<br/>
+</td>
+<td align="center">
+<br/>Entreprise Malet - Grands Chantiers - PE 15<br/>
+</td>
+<td align="center">
+<br/>Entreprise Malet - Grands Chantiers - PE 15<br/>
+</td>
+<td align="center">
+<br/>1 995 <br/>
+</td>
+<td align="center">
+<br/>1 786 <br/>
+</td>
+<td align="center">
+<br/>1 581 <br/>
+</td>
+<td align="center">
+<br/>1 385 <br/>
+</td>
+<td align="center">
+<br/>1 192 <br/>
+</td>
+<td align="center">
+<br/>1 007 <br/>
+</td>
+<td align="center">
+<br/>827 <br/>
+</td>
+<td align="center">
+<br/>654 <br/>
+</td>
+<td align="center">
+<br/>10 427<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Fr-new-06111198<br/>
+</td>
+<td align="center">
+<br/>COLAS MIDI MEDITERRANEE</td>
+<td align="center">
+<br/>COLAS MIDI MEDITERRANEE (POSTE ASTEC 300)<br/>
+</td>
+<td align="center">
+<br/>1 228 <br/>
+</td>
+<td align="center">
+<br/>1 100 <br/>
+</td>
+<td align="center">
+<br/>974 <br/>
+</td>
+<td align="center">
+<br/>852 <br/>
+</td>
+<td align="center">
+<br/>734 <br/>
+</td>
+<td align="center">
+<br/>619 <br/>
+</td>
+<td align="center">
+<br/>509 <br/>
+</td>
+<td align="center">
+<br/>403 <br/>
+</td>
+<td align="center">
+<br/>6 419<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06111616<br/>
+</td>
+<td align="center">
+<br/>GIE FERA69<br/>
+</td>
+<td align="center">
+<br/>FERA69<br/>
+</td>
+<td align="center">
+<br/>2 498 <br/>
+</td>
+<td align="center">
+<br/>2 236 <br/>
+</td>
+<td align="center">
+<br/>1 981 <br/>
+</td>
+<td align="center">
+<br/>1 733 <br/>
+</td>
+<td align="center">
+<br/>1 493 <br/>
+</td>
+<td align="center">
+<br/>1 260 <br/>
+</td>
+<td align="center">
+<br/>1 035 <br/>
+</td>
+<td align="center">
+<br/>820 <br/>
+</td>
+<td align="center">
+<br/>13 056<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06200196<br/>
+</td>
+<td align="center">
+<br/>NANCY ENROBES<br/>
+</td>
+<td align="center">
+<br/>NANCY ENROBES<br/>
+</td>
+<td align="center">
+<br/>1 442 <br/>
+</td>
+<td align="center">
+<br/>1 291 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>2 733<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06200199<br/>
+</td>
+<td align="center">
+<br/>SAINT-GOBAIN PAM<br/>
+</td>
+<td align="center">
+<br/>Saint-Gobain PAM - usine de Foug<br/>
+</td>
+<td align="center">
+<br/>23 468 <br/>
+</td>
+<td align="center">
+<br/>36 765</td>
+<td align="center">
+<br/>36 107 <br/>
+</td>
+<td align="center">
+<br/>35 443 <br/>
+</td>
+<td align="center">
+<br/>34 771 <br/>
+</td>
+<td align="center">
+<br/>34 093 <br/>
+</td>
+<td align="center">
+<br/>33 407 <br/>
+</td>
+<td align="center">
+<br/>32 718</td>
+<td align="center">
+<br/>266 772</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06200776<br/>
+</td>
+<td align="center">
+<br/>ArcelorMittal Construction France - Site de Contrisson 1</td>
+<td align="center">
+<br/>ArcelorMittal Construction France - Site de Contrisson 1</td>
+<td align="center">
+<br/>12 057 <br/>
+</td>
+<td align="center">
+<br/>10 791 <br/>
+</td>
+<td align="center">
+<br/>9 557 <br/>
+</td>
+<td align="center">
+<br/>8 362 <br/>
+</td>
+<td align="center">
+<br/>7 204 <br/>
+</td>
+<td align="center">
+<br/>6 084 <br/>
+</td>
+<td align="center">
+<br/>4 998 <br/>
+</td>
+<td align="center">
+<br/>3 955 <br/>
+</td>
+<td align="center">
+<br/>63 008<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06201019<br/>
+</td>
+<td align="center">
+<br/>GROUPE France CERAM<br/>
+</td>
+<td align="center">
+<br/>FORBACH CERAMICS<br/>
+</td>
+<td align="center">
+<br/>9 647 <br/>
+</td>
+<td align="center">
+<br/>9 479 <br/>
+</td>
+<td align="center">
+<br/>9 309 <br/>
+</td>
+<td align="center">
+<br/>9 139 <br/>
+</td>
+<td align="center">
+<br/>8 965 <br/>
+</td>
+<td align="center">
+<br/>8 790 <br/>
+</td>
+<td align="center">
+<br/>8 614 <br/>
+</td>
+<td align="center">
+<br/>8 436 <br/>
+</td>
+<td align="center">
+<br/>72 379<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06201358<br/>
+</td>
+<td align="center">
+<br/>Tata Steel France Rail SA<br/>
+</td>
+<td align="center">
+<br/>Tata Steel France Rail SA<br/>
+</td>
+<td align="center">
+<br/>32 995 <br/>
+</td>
+<td align="center">
+<br/>32 422 <br/>
+</td>
+<td align="center">
+<br/>31 842 <br/>
+</td>
+<td align="center">
+<br/>31 256 <br/>
+</td>
+<td align="center">
+<br/>30 664 <br/>
+</td>
+<td align="center">
+<br/>30 066 <br/>
+</td>
+<td align="center">
+<br/>29 461 <br/>
+</td>
+<td align="center">
+<br/>28 853 <br/>
+</td>
+<td align="center">
+<br/>247 559<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06201470<br/>
+</td>
+<td align="center">
+<br/>EFECTIS France<br/>
+</td>
+<td align="center">
+<br/>Efectis France <br/>
+</td>
+<td align="center">
+<br/>416 <br/>
+</td>
+<td align="center">
+<br/>371 <br/>
+</td>
+<td align="center">
+<br/>329 <br/>
+</td>
+<td align="center">
+<br/>287 <br/>
+</td>
+<td align="center">
+<br/>249 <br/>
+</td>
+<td align="center">
+<br/>209 <br/>
+</td>
+<td align="center">
+<br/>173 <br/>
+</td>
+<td align="center">
+<br/>136 <br/>
+</td>
+<td align="center">
+<br/>2 170<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06201682<br/>
+</td>
+<td align="center">
+<br/>DEPALOR SAS<br/>
+</td>
+<td align="center">
+<br/>DEPALOR SAS<br/>
+</td>
+<td align="center">
+<br/>34 733 <br/>
+</td>
+<td align="center">
+<br/>34 130 <br/>
+</td>
+<td align="center">
+<br/>33 519 <br/>
+</td>
+<td align="center">
+<br/>32 903 <br/>
+</td>
+<td align="center">
+<br/>32 279 <br/>
+</td>
+<td align="center">
+<br/>31 650 <br/>
+</td>
+<td align="center">
+<br/>31 012 <br/>
+</td>
+<td align="center">
+<br/>30 372 <br/>
+</td>
+<td align="center">
+<br/>260 598<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06201762<br/>
+</td>
+<td align="center">
+<br/>TOTAL PETROCHEMICALS France<br/>
+</td>
+<td align="center">
+<br/>TOTAL PETROCHEMICALS France - usine de Carling Saint-Avold - atelier Polyéthylène<br/>
+</td>
+<td align="center">
+<br/>7 264 <br/>
+</td>
+<td align="center">
+<br/>7 138 <br/>
+</td>
+<td align="center">
+<br/>7 010 <br/>
+</td>
+<td align="center">
+<br/>6 882 <br/>
+</td>
+<td align="center">
+<br/>6 751 <br/>
+</td>
+<td align="center">
+<br/>6 620 <br/>
+</td>
+<td align="center">
+<br/>6 487 <br/>
+</td>
+<td align="center">
+<br/>6 353 <br/>
+</td>
+<td align="center">
+<br/>54 505<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06203291<br/>
+</td>
+<td align="center">
+<br/>SNF SAS<br/>
+</td>
+<td align="center">
+<br/>SNF SAS<br/>
+</td>
+<td align="center">
+<br/>31 044 <br/>
+</td>
+<td align="center">
+<br/>27 782 <br/>
+</td>
+<td align="center">
+<br/>24 608 <br/>
+</td>
+<td align="center">
+<br/>21 530 <br/>
+</td>
+<td align="center">
+<br/>18 547 <br/>
+</td>
+<td align="center">
+<br/>15 661 <br/>
+</td>
+<td align="center">
+<br/>12 869 <br/>
+</td>
+<td align="center">
+<br/>10 180 <br/>
+</td>
+<td align="center">
+<br/>162 221<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06204558<br/>
+</td>
+<td align="center">
+<br/>ARCELOR MITTAL<br/>
+</td>
+<td align="center">
+<br/>ARCELOR MITTAL<br/>
+</td>
+<td align="center">
+<br/>6 457 <br/>
+</td>
+<td align="center">
+<br/>5 779 <br/>
+</td>
+<td align="center">
+<br/>5 118 <br/>
+</td>
+<td align="center">
+<br/>4 478 <br/>
+</td>
+<td align="center">
+<br/>3 858 <br/>
+</td>
+<td align="center">
+<br/>3 257 <br/>
+</td>
+<td align="center">
+<br/>2 677 <br/>
+</td>
+<td align="center">
+<br/>2 117 <br/>
+</td>
+<td align="center">
+<br/>33 741<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06207572<br/>
+</td>
+<td align="center">
+<br/>Ineos Polymers Sarralbe SAS<br/>
+</td>
+<td align="center">
+<br/>Ineos Polymers Sarralbe <br/>
+</td>
+<td align="center">
+<br/>101 203 <br/>
+</td>
+<td align="center">
+<br/>99 445 <br/>
+</td>
+<td align="center">
+<br/>97 667 <br/>
+</td>
+<td align="center">
+<br/>95 869 <br/>
+</td>
+<td align="center">
+<br/>94 053 <br/>
+</td>
+<td align="center">
+<br/>92 219 <br/>
+</td>
+<td align="center">
+<br/>90 362 <br/>
+</td>
+<td align="center">
+<br/>88 499 <br/>
+</td>
+<td align="center">
+<br/>759 317<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06207805<br/>
+</td>
+<td align="center">
+<br/>MONDELANGE INDUSTRIES</td>
+<td align="center">
+<br/>MONDELANGE INDUSTRIES<br/>
+</td>
+<td align="center">
+<br/>4 000 <br/>
+</td>
+<td align="center">
+<br/>3 579 <br/>
+</td>
+<td align="center">
+<br/>3 171 <br/>
+</td>
+<td align="center">
+<br/>2 775 <br/>
+</td>
+<td align="center">
+<br/>2 390 <br/>
+</td>
+<td align="center">
+<br/>2 018 <br/>
+</td>
+<td align="center">
+<br/>1 658 <br/>
+</td>
+<td align="center">
+<br/>1 312 <br/>
+</td>
+<td align="center">
+<br/>20 903<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06208919<br/>
+</td>
+<td align="center">
+<br/>COLAS EST <br/>
+</td>
+<td align="center">
+<br/>COLAS EST - Poste mobile TSM25XLM-R n° 2<br/>
+</td>
+<td align="center">
+<br/>1 605 <br/>
+</td>
+<td align="center">
+<br/>1 436 <br/>
+</td>
+<td align="center">
+<br/>1 272 <br/>
+</td>
+<td align="center">
+<br/>1 113 <br/>
+</td>
+<td align="center">
+<br/>959 <br/>
+</td>
+<td align="center">
+<br/>809 <br/>
+</td>
+<td align="center">
+<br/>665 <br/>
+</td>
+<td align="center">
+<br/>526 <br/>
+</td>
+<td align="center">
+<br/>8 385<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06209168<br/>
+</td>
+<td align="center">
+<br/>COLAS EST</td>
+<td align="center">
+<br/>COLAS EST - poste mobile TSM25XLM-R n° 1</td>
+<td align="center">
+<br/>1 914 <br/>
+</td>
+<td align="center">
+<br/>1 712 <br/>
+</td>
+<td align="center">
+<br/>1 517 <br/>
+</td>
+<td align="center">
+<br/>1 328 <br/>
+</td>
+<td align="center">
+<br/>1 142 <br/>
+</td>
+<td align="center">
+<br/>966 <br/>
+</td>
+<td align="center">
+<br/>793 <br/>
+</td>
+<td align="center">
+<br/>628 <br/>
+</td>
+<td align="center">
+<br/>10 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06300918<br/>
+</td>
+<td align="center">
+<br/>YARA France<br/>
+</td>
+<td align="center">
+<br/>YARA France - usine de Montoir<br/>
+</td>
+<td align="center">
+<br/>90 465 <br/>
+</td>
+<td align="center">
+<br/>88 894 <br/>
+</td>
+<td align="center">
+<br/>87 304 <br/>
+</td>
+<td align="center">
+<br/>85 698 <br/>
+</td>
+<td align="center">
+<br/>84 074 <br/>
+</td>
+<td align="center">
+<br/>82 435 <br/>
+</td>
+<td align="center">
+<br/>80 775 <br/>
+</td>
+<td align="center">
+<br/>79 109 <br/>
+</td>
+<td align="center">
+<br/>678 754<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06300919<br/>
+</td>
+<td align="center">
+<br/>Hutchinson<br/>
+</td>
+<td align="center">
+<br/>HUTCHINSON SNC<br/>
+</td>
+<td align="center">
+<br/>1 509 <br/>
+</td>
+<td align="center">
+<br/>1 350 <br/>
+</td>
+<td align="center">0</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>2 859</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06301125<br/>
+</td>
+<td align="center">
+<br/>SOFIVO<br/>
+</td>
+<td align="center">
+<br/>SOFIVO<br/>
+</td>
+<td align="center">
+<br/>6 623<br/>
+</td>
+<td align="center">
+<br/>6 995<br/>
+</td>
+<td align="center">
+<br/>6 870</td>
+<td align="center">
+<br/>6 744<br/>
+</td>
+<td align="center">
+<br/>6 616<br/>
+</td>
+<td align="center">
+<br/>6 487<br/>
+</td>
+<td align="center">6 656</td>
+<td align="center">
+<br/>6 225<br/>
+</td>
+<td align="center">
+<br/>52 916</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06301359<br/>
+</td>
+<td align="center">
+<br/>SOCIETE INDUSTRIELLE DE SAINT-FLORENT-LE-VIEIL<br/>
+</td>
+<td align="center">
+<br/>SOCIETE INDUSTRIELLE DE SAINT-FLORENT-LE-VIEIL<br/>
+</td>
+<td align="center">
+<br/>9 897 <br/>
+</td>
+<td align="center">
+<br/>9 516 <br/>
+</td>
+<td align="center">
+<br/>9 141 <br/>
+</td>
+<td align="center">
+<br/>8 773 <br/>
+</td>
+<td align="center">
+<br/>8 409 <br/>
+</td>
+<td align="center">
+<br/>8 051 <br/>
+</td>
+<td align="center">
+<br/>7 700 <br/>
+</td>
+<td align="center">
+<br/>7 356 <br/>
+</td>
+<td align="center">
+<br/>68 843<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06302858<br/>
+</td>
+<td align="center">
+<br/>KERVALIS<br/>
+</td>
+<td align="center">
+<br/>KERVALIS<br/>
+</td>
+<td align="center">
+<br/>11 589 <br/>
+</td>
+<td align="center">
+<br/>10 371 <br/>
+</td>
+<td align="center">
+<br/>9 186 <br/>
+</td>
+<td align="center">
+<br/>8 037 <br/>
+</td>
+<td align="center">
+<br/>6 924 <br/>
+</td>
+<td align="center">
+<br/>5 847 <br/>
+</td>
+<td align="center">
+<br/>4 804 <br/>
+</td>
+<td align="center">
+<br/>3 800 <br/>
+</td>
+<td align="center">
+<br/>60 558<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06400277<br/>
+</td>
+<td align="center">
+<br/>SONITHERM<br/>
+</td>
+<td align="center">
+<br/>SONITHERM<br/>
+</td>
+<td align="center">
+<br/>320 <br/>
+</td>
+<td align="center">
+<br/>287 <br/>
+</td>
+<td align="center">
+<br/>255 <br/>
+</td>
+<td align="center">
+<br/>223 <br/>
+</td>
+<td align="center">
+<br/>193 <br/>
+</td>
+<td align="center">
+<br/>162 <br/>
+</td>
+<td align="center">
+<br/>133 <br/>
+</td>
+<td align="center">
+<br/>106 <br/>
+</td>
+<td align="center">
+<br/>1 679<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06400533<br/>
+</td>
+<td align="center">
+<br/>SINIAT<br/>
+</td>
+<td align="center">
+<br/>SINIAT - Usine de Carpentras<br/>
+</td>
+<td align="center">
+<br/>24 528 <br/>
+</td>
+<td align="center">
+<br/>30 128</td>
+<td align="center">
+<br/>29 589</td>
+<td align="center">
+<br/>29 045</td>
+<td align="center">
+<br/>28 495<br/>
+</td>
+<td align="center">
+<br/>27 939</td>
+<td align="center">
+<br/>37 377</td>
+<td align="center">
+<br/>26 812</td>
+<td align="center">
+<br/>223 213</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06400928<br/>
+</td>
+<td align="center">
+<br/>APPRYL<br/>
+</td>
+<td align="center">
+<br/>APPRYL<br/>
+</td>
+<td align="center">
+<br/>20 394 <br/>
+</td>
+<td align="center">
+<br/>20 040 <br/>
+</td>
+<td align="center">
+<br/>19 681 <br/>
+</td>
+<td align="center">
+<br/>19 319 <br/>
+</td>
+<td align="center">
+<br/>18 953 <br/>
+</td>
+<td align="center">
+<br/>18 584 <br/>
+</td>
+<td align="center">
+<br/>18 209 <br/>
+</td>
+<td align="center">
+<br/>17 834 <br/>
+</td>
+<td align="center">
+<br/>153 014<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06400942<br/>
+</td>
+<td align="center">
+<br/>KEM ONE <br/>
+</td>
+<td align="center">
+<br/>KEM ONE LAVERA<br/>
+</td>
+<td align="center">
+<br/>175 393 <br/>
+</td>
+<td align="center">
+<br/>172 346 <br/>
+</td>
+<td align="center">
+<br/>169 264 <br/>
+</td>
+<td align="center">
+<br/>166 150 <br/>
+</td>
+<td align="center">
+<br/>163 001 <br/>
+</td>
+<td align="center">
+<br/>159 823 <br/>
+</td>
+<td align="center">
+<br/>156 604 <br/>
+</td>
+<td align="center">
+<br/>153 376 <br/>
+</td>
+<td align="center">
+<br/>1 315 957<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06400956 <br/>
+</td>
+<td align="center">
+<br/>OXOCHIMIE<br/>
+</td>
+<td align="center">
+<br/>OXOCHIMIE<br/>
+</td>
+<td align="center">
+<br/>94 339 <br/>
+</td>
+<td align="center">
+<br/>92 700 <br/>
+</td>
+<td align="center">
+<br/>91 042 <br/>
+</td>
+<td align="center">
+<br/>89 367 <br/>
+</td>
+<td align="center">
+<br/>87 674 <br/>
+</td>
+<td align="center">
+<br/>85 964 <br/>
+</td>
+<td align="center">
+<br/>84 234 <br/>
+</td>
+<td align="center">
+<br/>82 497 <br/>
+</td>
+<td align="center">
+<br/>707 817<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06400982<br/>
+</td>
+<td align="center">
+<br/>KEM ONE</td>
+<td align="center">
+<br/>KEM ONE</td>
+<td align="center">
+<br/>69 189 <br/>
+</td>
+<td align="center">
+<br/>67 988 <br/>
+</td>
+<td align="center">
+<br/>66 771 <br/>
+</td>
+<td align="center">
+<br/>65 543 <br/>
+</td>
+<td align="center">
+<br/>64 301 <br/>
+</td>
+<td align="center">
+<br/>63 047 <br/>
+</td>
+<td align="center">
+<br/>61 777 <br/>
+</td>
+<td align="center">
+<br/>60 504 <br/>
+</td>
+<td align="center">
+<br/>519 120<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06401040<br/>
+</td>
+<td align="center">
+<br/>Kerneos<br/>
+</td>
+<td align="center">
+<br/>Kerneos usine de Fos-sur-Mer<br/>
+</td>
+<td align="center">
+<br/>165 443 <br/>
+</td>
+<td align="center">
+<br/>162 569 <br/>
+</td>
+<td align="center">
+<br/>159 662 <br/>
+</td>
+<td align="center">
+<br/>156 724 <br/>
+</td>
+<td align="center">
+<br/>153 755 <br/>
+</td>
+<td align="center">
+<br/>150 757 <br/>
+</td>
+<td align="center">
+<br/>147 721 <br/>
+</td>
+<td align="center">
+<br/>144 675 <br/>
+</td>
+<td align="center">
+<br/>1 241 306<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06401076<br/>
+</td>
+<td align="center">
+<br/>KRONOSPAN SAS<br/>
+</td>
+<td align="center">
+<br/>KRONOSPAN TORCY</td>
+<td align="center">
+<br/>33 753 <br/>
+</td>
+<td align="center">
+<br/>33 167 <br/>
+</td>
+<td align="center">
+<br/>32 574 <br/>
+</td>
+<td align="center">
+<br/>31 974 <br/>
+</td>
+<td align="center">
+<br/>31 369 <br/>
+</td>
+<td align="center">
+<br/>30 757 <br/>
+</td>
+<td align="center">
+<br/>30 137 <br/>
+</td>
+<td align="center">
+<br/>29 516 <br/>
+</td>
+<td align="center">
+<br/>253 247<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06401643<br/>
+</td>
+<td align="center">
+<br/>SINIAT<br/>
+</td>
+<td align="center">
+<br/>SINIAT - Usine de Mazans <br/>
+</td>
+<td align="center">
+<br/>7 228 <br/>
+</td>
+<td align="center">8 979</td>
+<td align="center">
+<br/>8 819<br/>
+</td>
+<td align="center">
+<br/>8 656<br/>
+</td>
+<td align="center">
+<br/>8 492<br/>
+</td>
+<td align="center">
+<br/>8 327<br/>
+</td>
+<td align="center">8 159<br/>
+</td>
+<td align="center">
+<br/>7 991</td>
+<td align="center">
+<br/>66 651<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06402095<br/>
+</td>
+<td align="center">
+<br/>PROVENCE ENROBES<br/>
+</td>
+<td align="center">
+<br/>PROVENCE ENROBES<br/>
+</td>
+<td align="center">
+<br/>2 312 <br/>
+</td>
+<td align="center">
+<br/>2 069 <br/>
+</td>
+<td align="center">
+<br/>1 832 <br/>
+</td>
+<td align="center">
+<br/>1 603 <br/>
+</td>
+<td align="center">
+<br/>1 381 <br/>
+</td>
+<td align="center">
+<br/>1 166 <br/>
+</td>
+<td align="center">
+<br/>958 <br/>
+</td>
+<td align="center">
+<br/>757 <br/>
+</td>
+<td align="center">
+<br/>12 078<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06404835<br/>
+</td>
+<td align="center">
+<br/>Frederic DESPREAUX<br/>
+</td>
+<td align="center">
+<br/>Air Liquide Hydrogène<br/>
+</td>
+<td align="center">
+<br/>134 448 <br/>
+</td>
+<td align="center">
+<br/>132 113 <br/>
+</td>
+<td align="center">
+<br/>129 750 <br/>
+</td>
+<td align="center">
+<br/>127 363 <br/>
+</td>
+<td align="center">
+<br/>124 950 <br/>
+</td>
+<td align="center">
+<br/>122 513 <br/>
+</td>
+<td align="center">
+<br/>120 046 <br/>
+</td>
+<td align="center">
+<br/>117 571 <br/>
+</td>
+<td align="center">
+<br/>1 008 754<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06410379a<br/>
+</td>
+<td align="center">
+<br/>INEOS Chemicals Lavéra SAS<br/>
+</td>
+<td align="center">
+<br/>Usine chimique de Lavéra LPG<br/>
+</td>
+<td align="center">
+<br/>153 501 <br/>
+</td>
+<td align="center">
+<br/>150 835 <br/>
+</td>
+<td align="center">
+<br/>148 138 <br/>
+</td>
+<td align="center">
+<br/>145 412 <br/>
+</td>
+<td align="center">
+<br/>142 657 <br/>
+</td>
+<td align="center">
+<br/>139 876 <br/>
+</td>
+<td align="center">
+<br/>137 059 <br/>
+</td>
+<td align="center">
+<br/>134 233 <br/>
+</td>
+<td align="center">
+<br/>1 151 711<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06410379b<br/>
+</td>
+<td align="center">
+<br/>INEOS Chemicals Lavéra SAS<br/>
+</td>
+<td align="center">
+<br/>Usine chimique de Lavéra LPP<br/>
+</td>
+<td align="center">
+<br/>23 735 <br/>
+</td>
+<td align="center">
+<br/>23 323 <br/>
+</td>
+<td align="center">
+<br/>22 906 <br/>
+</td>
+<td align="center">
+<br/>22 484 <br/>
+</td>
+<td align="center">
+<br/>22 058 <br/>
+</td>
+<td align="center">
+<br/>21 628 <br/>
+</td>
+<td align="center">
+<br/>21 192 <br/>
+</td>
+<td align="center">
+<br/>20 755 <br/>
+</td>
+<td align="center">
+<br/>178 081<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06500377<br/>
+</td>
+<td align="center">
+<br/>Société d'intérêt collectif agricole<br/>
+</td>
+<td align="center">
+<br/>SICA gâtinaise de déshydratation<br/>
+</td>
+<td align="center">
+<br/>7 793 <br/>
+</td>
+<td align="center">
+<br/>7 658 <br/>
+</td>
+<td align="center">
+<br/>7 521 <br/>
+</td>
+<td align="center">
+<br/>7 383 <br/>
+</td>
+<td align="center">
+<br/>7 243 <br/>
+</td>
+<td align="center">
+<br/>7 102 <br/>
+</td>
+<td align="center">
+<br/>6 959 <br/>
+</td>
+<td align="center">
+<br/>6 815 <br/>
+</td>
+<td align="center">
+<br/>58 474<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06501028<br/>
+</td>
+<td align="center">
+<br/>V&amp;B Fliesen GmbH<br/>
+</td>
+<td align="center">
+<br/>V&amp;B Fliesen GmbH<br/>
+</td>
+<td align="center">
+<br/>24 860 <br/>
+</td>
+<td align="center">
+<br/>24 359 <br/>
+</td>
+<td align="center">
+<br/>23 857 <br/>
+</td>
+<td align="center">
+<br/>23 351 <br/>
+</td>
+<td align="center">
+<br/>22 844 <br/>
+</td>
+<td align="center">
+<br/>22 335 <br/>
+</td>
+<td align="center">
+<br/>21 823 <br/>
+</td>
+<td align="center">
+<br/>21 311 <br/>
+</td>
+<td align="center">
+<br/>184 740<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06501167a<br/>
+</td>
+<td align="center">
+<br/>BOREALIS CHIMIE SAS<br/>
+</td>
+<td align="center">
+<br/>Atelier acide nitrique Grandpuits<br/>
+</td>
+<td align="center">
+<br/>96 604 <br/>
+</td>
+<td align="center">
+<br/>94 926 <br/>
+</td>
+<td align="center">
+<br/>93 228 <br/>
+</td>
+<td align="center">
+<br/>91 513 <br/>
+</td>
+<td align="center">
+<br/>89 779 <br/>
+</td>
+<td align="center">
+<br/>88 028 <br/>
+</td>
+<td align="center">
+<br/>86 256 <br/>
+</td>
+<td align="center">
+<br/>84 477 <br/>
+</td>
+<td align="center">
+<br/>724 811<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06501167b<br/>
+</td>
+<td align="center">
+<br/>BOREALIS CHIMIE SAS<br/>
+</td>
+<td align="center">
+<br/>Atelier ammoniac Grandpuits<br/>
+</td>
+<td align="center">
+<br/>630 258 <br/>
+</td>
+<td align="center">
+<br/>619 311 <br/>
+</td>
+<td align="center">
+<br/>608 236 <br/>
+</td>
+<td align="center">
+<br/>597 044 <br/>
+</td>
+<td align="center">
+<br/>585 733 <br/>
+</td>
+<td align="center">
+<br/>574 311 <br/>
+</td>
+<td align="center">
+<br/>562 747 <br/>
+</td>
+<td align="center">
+<br/>551 142 <br/>
+</td>
+<td align="center">
+<br/>4 728 782<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06508159<br/>
+</td>
+<td align="center">
+<br/>KNAUF Plâtres<br/>
+</td>
+<td align="center">
+<br/>KNAUF Plâtres &amp; Cie<br/>
+</td>
+<td align="center">
+<br/>33 086 <br/>
+</td>
+<td align="center">
+<br/>40 641<br/>
+</td>
+<td align="center">39 914<br/>
+</td>
+<td align="center">
+<br/>39 180</td>
+<td align="center">
+<br/>38 437</td>
+<td align="center">
+<br/>37 688</td>
+<td align="center">36 929</td>
+<td align="center">
+<br/>36 167<br/>
+</td>
+<td align="center">
+<br/>302 042</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06502229<br/>
+</td>
+<td align="center">
+<br/>SINIAT<br/>
+</td>
+<td align="center">
+<br/>SINIAT<br/>
+</td>
+<td align="center">
+<br/>17 050 <br/>
+</td>
+<td align="center">
+<br/>20 943<br/>
+</td>
+<td align="center">
+<br/>20 568<br/>
+</td>
+<td align="center">
+<br/>20 190<br/>
+</td>
+<td align="center">
+<br/>19 807<br/>
+</td>
+<td align="center">
+<br/>19 421<br/>
+</td>
+<td align="center">
+<br/>19 030</td>
+<td align="center">
+<br/>18 638</td>
+<td align="center">
+<br/>155 647</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06505584<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE - usine de CORMEILLES<br/>
+</td>
+<td align="center">
+<br/>17 544 <br/>
+</td>
+<td align="center">
+<br/>23 029<br/>
+</td>
+<td align="center">
+<br/>22 617</td>
+<td align="center">
+<br/>22 201</td>
+<td align="center">21 780<br/>
+</td>
+<td align="center">
+<br/>21 356</td>
+<td align="center">
+<br/>20 926<br/>
+</td>
+<td align="center">
+<br/>20 494</td>
+<td align="center">
+<br/>169 947<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06505700<br/>
+</td>
+<td align="center">
+<br/>ALTERNAE<br/>
+</td>
+<td align="center">
+<br/>Société ALTERNAE silo de GENICOURT</td>
+<td align="center">
+<br/>1 036 <br/>
+</td>
+<td align="center">
+<br/>927 <br/>
+</td>
+<td align="center">
+<br/>822 <br/>
+</td>
+<td align="center">
+<br/>719 <br/>
+</td>
+<td align="center">
+<br/>619 <br/>
+</td>
+<td align="center">
+<br/>523 <br/>
+</td>
+<td align="center">
+<br/>429 <br/>
+</td>
+<td align="center">
+<br/>340 <br/>
+</td>
+<td align="center">
+<br/>5 415<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06506349<br/>
+</td>
+<td align="center">
+<br/>PEUGEOT CITROEN AULNAY SNC<br/>
+</td>
+<td align="center">
+<br/>PEUGEOT CITROEN AULNAY SNC<br/>
+</td>
+<td align="center">
+<br/>21 662 <br/>
+</td>
+<td align="center">
+<br/>19 386 <br/>
+</td>
+<td align="center">
+<br/>17 171 <br/>
+</td>
+<td align="center">
+<br/>15 023 <br/>
+</td>
+<td align="center">
+<br/>12 942 <br/>
+</td>
+<td align="center">
+<br/>10 928 <br/>
+</td>
+<td align="center">
+<br/>8 980 <br/>
+</td>
+<td align="center">
+<br/>7 103 <br/>
+</td>
+<td align="center">
+<br/>113 195<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06506463<br/>
+</td>
+<td align="center">
+<br/>SMAG<br/>
+</td>
+<td align="center">
+<br/>SMAG Chaufferie centrale d'appoint <br/>
+</td>
+<td align="center">
+<br/>10 953 <br/>
+</td>
+<td align="center">
+<br/>9 802 <br/>
+</td>
+<td align="center">
+<br/>8 681 <br/>
+</td>
+<td align="center">
+<br/>7 596 <br/>
+</td>
+<td align="center">
+<br/>6 544 <br/>
+</td>
+<td align="center">
+<br/>5 525 <br/>
+</td>
+<td align="center">
+<br/>4 540 <br/>
+</td>
+<td align="center">
+<br/>3 592 <br/>
+</td>
+<td align="center">
+<br/>57 233<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06506473<br/>
+</td>
+<td align="center">
+<br/>SPME<br/>
+</td>
+<td align="center">
+<br/>SPME<br/>
+</td>
+<td align="center">
+<br/>3 408 <br/>
+</td>
+<td align="center">
+<br/>3 051 <br/>
+</td>
+<td align="center">
+<br/>2 702 <br/>
+</td>
+<td align="center">
+<br/>2 365 <br/>
+</td>
+<td align="center">
+<br/>2 037 <br/>
+</td>
+<td align="center">
+<br/>1 719 <br/>
+</td>
+<td align="center">
+<br/>1 413 <br/>
+</td>
+<td align="center">
+<br/>1 118 <br/>
+</td>
+<td align="center">
+<br/>17 813<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06506519<br/>
+</td>
+<td align="center">
+<br/>SEMGEMA<br/>
+</td>
+<td align="center">
+<br/>SEMGEMA chaufferie des Juilliottes<br/>
+</td>
+<td align="center">
+<br/>8 723 <br/>
+</td>
+<td align="center">
+<br/>7 806 <br/>
+</td>
+<td align="center">
+<br/>6 914 <br/>
+</td>
+<td align="center">
+<br/>6 049 <br/>
+</td>
+<td align="center">
+<br/>5 211 <br/>
+</td>
+<td align="center">
+<br/>4 401 <br/>
+</td>
+<td align="center">
+<br/>3 616 <br/>
+</td>
+<td align="center">
+<br/>2 861 <br/>
+</td>
+<td align="center">
+<br/>45 581<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06506673<br/>
+</td>
+<td align="center">
+<br/>CENTRE HOSPITALIER VICTOR-DUPOUY<br/>
+</td>
+<td align="center">
+<br/>chaufferie du CENTRE HOSPITALIER VICTOR-DUPOUY<br/>
+</td>
+<td align="center">
+<br/>2 236 <br/>
+</td>
+<td align="center">
+<br/>1 974 <br/>
+</td>
+<td align="center">
+<br/>1 749 <br/>
+</td>
+<td align="center">
+<br/>1 530 <br/>
+</td>
+<td align="center">
+<br/>1 318 <br/>
+</td>
+<td align="center">
+<br/>1 112 <br/>
+</td>
+<td align="center">
+<br/>914 <br/>
+</td>
+<td align="center">
+<br/>724 <br/>
+</td>
+<td align="center">
+<br/>11 557<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06600079<br/>
+</td>
+<td align="center">ARTERRIS </td>
+<td align="center">
+<p align="center">LOUDES ARTERRIS CASTELNAUDARY <br/>
+</p>
+</td>
+<td align="center">
+<br/>768 <br/>
+</td>
+<td align="center">
+<br/>688 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>1 456<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06600541<br/>
+</td>
+<td align="center">
+<br/>SAS PAREFEUILLE PROVENCE<br/>
+</td>
+<td align="center">
+<br/>PAREFEUILLE SAS<br/>
+</td>
+<td align="center">
+<br/>14 468 <br/>
+</td>
+<td align="center">
+<br/>14 217 <br/>
+</td>
+<td align="center">
+<br/>13 963 <br/>
+</td>
+<td align="center">
+<br/>13 705 <br/>
+</td>
+<td align="center">
+<br/>13 446 <br/>
+</td>
+<td align="center">
+<br/>13 183 <br/>
+</td>
+<td align="center">
+<br/>12 918 <br/>
+</td>
+<td align="center">
+<br/>12 651 <br/>
+</td>
+<td align="center">
+<br/>108 551<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06600563<br/>
+</td>
+<td align="center">
+<br/>FERROPEM<br/>
+</td>
+<td align="center">
+<br/>Société FERROPEM usine de LAUDUN<br/>
+</td>
+<td align="center">
+<br/>152 281 <br/>
+</td>
+<td align="center">
+<br/>149 637 <br/>
+</td>
+<td align="center">
+<br/>146 960 <br/>
+</td>
+<td align="center">
+<br/>144 257 <br/>
+</td>
+<td align="center">
+<br/>141 523 <br/>
+</td>
+<td align="center">
+<br/>138 763 <br/>
+</td>
+<td align="center">
+<br/>135 969 <br/>
+</td>
+<td align="center">
+<br/>133 166 <br/>
+</td>
+<td align="center">
+<br/>1 142 556<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06600885<br/>
+</td>
+<td align="center">
+<br/>SEM (Société des Enrobés Méditerranéens)<br/>
+</td>
+<td align="center">
+<br/>Centrale d'enrobage à chaud<br/>
+</td>
+<td align="center">
+<br/>3 934 <br/>
+</td>
+<td align="center">
+<br/>3 521 <br/>
+</td>
+<td align="center">
+<br/>3 117 <br/>
+</td>
+<td align="center">
+<br/>2 728 <br/>
+</td>
+<td align="center">
+<br/>2 351 <br/>
+</td>
+<td align="center">
+<br/>1 984 <br/>
+</td>
+<td align="center">
+<br/>1 631 <br/>
+</td>
+<td align="center">
+<br/>1 290 <br/>
+</td>
+<td align="center">
+<br/>20 556<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06601577<br/>
+</td>
+<td align="center">
+<br/>Axens<br/>
+</td>
+<td align="center">
+<br/>Usine Axens<br/>
+</td>
+<td align="center">
+<br/>26 614 <br/>
+</td>
+<td align="center">
+<br/>26 152 <br/>
+</td>
+<td align="center">
+<br/>25 684 <br/>
+</td>
+<td align="center">
+<br/>25 212 <br/>
+</td>
+<td align="center">
+<br/>24 733 <br/>
+</td>
+<td align="center">
+<br/>24 252 <br/>
+</td>
+<td align="center">
+<br/>23 763 <br/>
+</td>
+<td align="center">
+<br/>23 273 <br/>
+</td>
+<td align="center">
+<br/>199 683<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700361<br/>
+</td>
+<td align="center">
+<br/>NMLK <br/>
+</td>
+<td align="center">
+<br/>NMLK <br/>
+</td>
+<td align="center">
+<br/>23 608 <br/>
+</td>
+<td align="center">
+<br/>23 199 <br/>
+</td>
+<td align="center">
+<br/>22 783 <br/>
+</td>
+<td align="center">
+<br/>22 364 <br/>
+</td>
+<td align="center">
+<br/>21 940 <br/>
+</td>
+<td align="center">
+<br/>21 513 <br/>
+</td>
+<td align="center">
+<br/>21 080 <br/>
+</td>
+<td align="center">
+<br/>20 645 <br/>
+</td>
+<td align="center">
+<br/>177 132<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700371<br/>
+</td>
+<td align="center">
+<br/>Société de construction et d'exploitation de silo au Port Rhénan de Neuf-Brisach<br/>
+</td>
+<td align="center">
+<br/>SICA SILO NEUF BRISACH<br/>
+</td>
+<td align="center">
+<br/>970 <br/>
+</td>
+<td align="center">
+<br/>868 <br/>
+</td>
+<td align="center">
+<br/>769 <br/>
+</td>
+<td align="center">
+<br/>672 <br/>
+</td>
+<td align="center">
+<br/>579 <br/>
+</td>
+<td align="center">
+<br/>490 <br/>
+</td>
+<td align="center">
+<br/>402 <br/>
+</td>
+<td align="center">
+<br/>318 <br/>
+</td>
+<td align="center">
+<br/>5 068<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700463<br/>
+</td>
+<td align="center">
+<br/>PUNCH POWERGLIDE STRASBOURG<br/>
+</td>
+<td align="center">
+<br/>PUNCH POWERGLIDE STRASBOURG</td>
+<td align="center">
+<br/>74 <br/>
+</td>
+<td align="center">
+<br/>65 <br/>
+</td>
+<td align="center">
+<br/>58 <br/>
+</td>
+<td align="center">
+<br/>51 <br/>
+</td>
+<td align="center">
+<br/>44 <br/>
+</td>
+<td align="center">
+<br/>38 <br/>
+</td>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>23 <br/>
+</td>
+<td align="center">
+<br/>383<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700464<br/>
+</td>
+<td align="center">
+<br/>Lafarge Plâtres<br/>
+</td>
+<td align="center">
+<br/>Lafarge Plâtres - Usine de Ottmarsheim<br/>
+</td>
+<td align="center">
+<br/>15 867 <br/>
+</td>
+<td align="center">
+<br/>19 489<br/>
+</td>
+<td align="center">
+<br/>19 141<br/>
+</td>
+<td align="center">
+<br/>18 789</td>
+<td align="center">
+<br/>18 433</td>
+<td align="center">
+<br/>18 073</td>
+<td align="center">
+<br/>17 709</td>
+<td align="center">
+<br/>17 344</td>
+<td align="center">
+<br/>144 845<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700469<br/>
+</td>
+<td align="center">
+<br/>CONSTELLIUM France<br/>
+</td>
+<td align="center">
+<br/>CONSTELLIUM France<br/>
+</td>
+<td align="center">
+<br/>104 544 <br/>
+</td>
+<td align="center">
+<br/>102 728 <br/>
+</td>
+<td align="center">
+<br/>100 890 <br/>
+</td>
+<td align="center">
+<br/>99 035 <br/>
+</td>
+<td align="center">
+<br/>97 159 <br/>
+</td>
+<td align="center">
+<br/>95 263 <br/>
+</td>
+<td align="center">
+<br/>93 346 <br/>
+</td>
+<td align="center">
+<br/>91 420 <br/>
+</td>
+<td align="center">
+<br/>784 385<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700471<br/>
+</td>
+<td align="center">
+<br/>BOREALIS PEC RHIN SAS<br/>
+</td>
+<td align="center">
+<br/>BOREALIS PEC RHIN SAS<br/>
+</td>
+<td align="center">
+<br/>481 571 <br/>
+</td>
+<td align="center">
+<br/>473 207 <br/>
+</td>
+<td align="center">
+<br/>464 744 <br/>
+</td>
+<td align="center">
+<br/>456 193 <br/>
+</td>
+<td align="center">
+<br/>447 549 <br/>
+</td>
+<td align="center">
+<br/>438 822 <br/>
+</td>
+<td align="center">
+<br/>429 987 <br/>
+</td>
+<td align="center">
+<br/>421 119 <br/>
+</td>
+<td align="center">
+<br/>3 613 192<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700481<br/>
+</td>
+<td align="center">
+<br/>COOPERATIVE AGRICOLE DE CEREALES<br/>
+</td>
+<td align="center">
+<br/>CAC OTTMARSHEIM<br/>
+</td>
+<td align="center">
+<br/>5 436 <br/>
+</td>
+<td align="center">
+<br/>4 864 <br/>
+</td>
+<td align="center">
+<br/>4 309 <br/>
+</td>
+<td align="center">
+<br/>3 770 <br/>
+</td>
+<td align="center">
+<br/>3 248 <br/>
+</td>
+<td align="center">
+<br/>2 742 <br/>
+</td>
+<td align="center">
+<br/>2 253 <br/>
+</td>
+<td align="center">
+<br/>1 782 <br/>
+</td>
+<td align="center">
+<br/>28 404<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700483<br/>
+</td>
+<td align="center">
+<br/>COMPTOIR AGRICOLE<br/>
+</td>
+<td align="center">
+<br/>COMPTOIR AGRICOLE Erstein<br/>
+</td>
+<td align="center">
+<br/>798 <br/>
+</td>
+<td align="center">
+<br/>713 <br/>
+</td>
+<td align="center">
+<br/>632 <br/>
+</td>
+<td align="center">
+<br/>553 <br/>
+</td>
+<td align="center">
+<br/>477 <br/>
+</td>
+<td align="center">
+<br/>402 <br/>
+</td>
+<td align="center">
+<br/>331 <br/>
+</td>
+<td align="center">
+<br/>261 <br/>
+</td>
+<td align="center">
+<br/>4 167<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700485<br/>
+</td>
+<td align="center">
+<br/>COMPTOIR AGRICOLE<br/>
+</td>
+<td align="center">
+<br/>CAH Seltz<br/>
+</td>
+<td align="center">
+<br/>3 715 <br/>
+</td>
+<td align="center">
+<br/>3 325 <br/>
+</td>
+<td align="center">
+<br/>2 945 <br/>
+</td>
+<td align="center">
+<br/>2 576 <br/>
+</td>
+<td align="center">
+<br/>2 219 <br/>
+</td>
+<td align="center">
+<br/>1 874 <br/>
+</td>
+<td align="center">
+<br/>1 540 <br/>
+</td>
+<td align="center">
+<br/>1 218 <br/>
+</td>
+<td align="center">
+<br/>19 412<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700496<br/>
+</td>
+<td align="center">
+<br/>COMPTOIR AGRICOLE<br/>
+</td>
+<td align="center">
+<br/>Comptoir Agricole Hochfelden<br/>
+</td>
+<td align="center">
+<br/>1 322 <br/>
+</td>
+<td align="center">
+<br/>1 183 <br/>
+</td>
+<td align="center">
+<br/>1 048 <br/>
+</td>
+<td align="center">
+<br/>917 <br/>
+</td>
+<td align="center">
+<br/>790 <br/>
+</td>
+<td align="center">
+<br/>667 <br/>
+</td>
+<td align="center">
+<br/>548 <br/>
+</td>
+<td align="center">
+<br/>434 <br/>
+</td>
+<td align="center">
+<br/>6 909<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700533<br/>
+</td>
+<td align="center">
+<br/>ARMBRUSTER FRERES SA<br/>
+</td>
+<td align="center">
+<br/>ARMBRUSTER Ottmarsheim<br/>
+</td>
+<td align="center">
+<br/>2 617 <br/>
+</td>
+<td align="center">
+<br/>2 342 <br/>
+</td>
+<td align="center">
+<br/>2 074 <br/>
+</td>
+<td align="center">
+<br/>1 815 <br/>
+</td>
+<td align="center">
+<br/>1 564 <br/>
+</td>
+<td align="center">
+<br/>1 320 <br/>
+</td>
+<td align="center">
+<br/>1 085 <br/>
+</td>
+<td align="center">
+<br/>858 <br/>
+</td>
+<td align="center">
+<br/>13 675<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700555<br/>
+</td>
+<td align="center">
+<br/>Société Alsacienne de Recyclage de Matériaux<br/>
+</td>
+<td align="center">
+<br/>SARM <br/>
+</td>
+<td align="center">
+<br/>1 449 <br/>
+</td>
+<td align="center">
+<br/>1 297 <br/>
+</td>
+<td align="center">
+<br/>1 148 <br/>
+</td>
+<td align="center">
+<br/>1 005 <br/>
+</td>
+<td align="center">
+<br/>866 <br/>
+</td>
+<td align="center">
+<br/>731 <br/>
+</td>
+<td align="center">
+<br/>600 <br/>
+</td>
+<td align="center">
+<br/>475 <br/>
+</td>
+<td align="center">
+<br/>7 571<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700574<br/>
+</td>
+<td align="center">
+<br/>UNION INVIVO<br/>
+</td>
+<td align="center">
+<br/>UNION INVIVO - SILO D'OTTMARSHEIM<br/>
+</td>
+<td align="center">
+<br/>1 917 <br/>
+</td>
+<td align="center">
+<br/>1 717 <br/>
+</td>
+<td align="center">
+<br/>1 520 <br/>
+</td>
+<td align="center">
+<br/>1 330 <br/>
+</td>
+<td align="center">
+<br/>1 146 <br/>
+</td>
+<td align="center">
+<br/>967 <br/>
+</td>
+<td align="center">
+<br/>795 <br/>
+</td>
+<td align="center">
+<br/>629 <br/>
+</td>
+<td align="center">
+<br/>10 021<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700593<br/>
+</td>
+<td align="center">
+<br/>GUSTAVE MULLER SAS<br/>
+</td>
+<td align="center">
+<br/>GUSTAVE MULLER - site d'OTTMARSHEIM<br/>
+</td>
+<td align="center">
+<br/>2 856 <br/>
+</td>
+<td align="center">
+<br/>2 556 <br/>
+</td>
+<td align="center">
+<br/>2 264 <br/>
+</td>
+<td align="center">
+<br/>1 981 <br/>
+</td>
+<td align="center">
+<br/>1 707 <br/>
+</td>
+<td align="center">
+<br/>1 441 <br/>
+</td>
+<td align="center">
+<br/>1 183 <br/>
+</td>
+<td align="center">
+<br/>936 <br/>
+</td>
+<td align="center">
+<br/>14 924<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700653<br/>
+</td>
+<td align="center">
+<br/>CRISTAL France SAS <br/>
+</td>
+<td align="center">
+<br/>CRISTAL France SAS <br/>
+</td>
+<td align="center">
+<br/>30 330 <br/>
+</td>
+<td align="center">
+<br/>29 805 <br/>
+</td>
+<td align="center">
+<br/>29 271 <br/>
+</td>
+<td align="center">
+<br/>28 732 <br/>
+</td>
+<td align="center">
+<br/>28 189 <br/>
+</td>
+<td align="center">
+<br/>27 639 <br/>
+</td>
+<td align="center">
+<br/>27 082 <br/>
+</td>
+<td align="center">
+<br/>26 524 <br/>
+</td>
+<td align="center">
+<br/>227 572<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700695<br/>
+</td>
+<td align="center">
+<br/>GUSTAVE MULLER SAS<br/>
+</td>
+<td align="center">
+<br/>GUSTAVE MULLER - site de VOLGELSHEIM<br/>
+</td>
+<td align="center">
+<br/>1 303 <br/>
+</td>
+<td align="center">
+<br/>1 165 <br/>
+</td>
+<td align="center">
+<br/>1 033 <br/>
+</td>
+<td align="center">
+<br/>904 <br/>
+</td>
+<td align="center">
+<br/>778 <br/>
+</td>
+<td align="center">
+<br/>657 <br/>
+</td>
+<td align="center">
+<br/>540 <br/>
+</td>
+<td align="center">
+<br/>427 <br/>
+</td>
+<td align="center">
+<br/>6 807<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06700795<br/>
+</td>
+<td align="center">
+<br/>Thermal Ceramics de France SAS<br/>
+</td>
+<td align="center">
+<br/>Thermal Ceramics de France ; usine de Wissembourg<br/>
+</td>
+<td align="center">
+<br/>17 830 <br/>
+</td>
+<td align="center">
+<br/>16 122 <br/>
+</td>
+<td align="center">
+<br/>14 457 <br/>
+</td>
+<td align="center">
+<br/>12 842 <br/>
+</td>
+<td align="center">
+<br/>11 277 <br/>
+</td>
+<td align="center">
+<br/>9 760 <br/>
+</td>
+<td align="center">
+<br/>8 291 <br/>
+</td>
+<td align="center">
+<br/>6 876 <br/>
+</td>
+<td align="center">
+<br/>97 455<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06701230<br/>
+</td>
+<td align="center">
+<br/>COMPTOIR AGRICOLE<br/>
+</td>
+<td align="center">
+<br/>CA Strasbourg<br/>
+</td>
+<td align="center">
+<br/>5 404 <br/>
+</td>
+<td align="center">
+<br/>4 836 <br/>
+</td>
+<td align="center">
+<br/>4 283 <br/>
+</td>
+<td align="center">
+<br/>3 748 <br/>
+</td>
+<td align="center">
+<br/>3 229 <br/>
+</td>
+<td align="center">
+<br/>2 726 <br/>
+</td>
+<td align="center">
+<br/>2 240 <br/>
+</td>
+<td align="center">
+<br/>1 772 <br/>
+</td>
+<td align="center">
+<br/>28 238<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06702200<br/>
+</td>
+<td align="center">
+<br/>Linde France SA <br/>
+</td>
+<td align="center">
+<br/>Linde France SA <br/>
+</td>
+<td align="center">
+<br/>109 343 <br/>
+</td>
+<td align="center">
+<br/>107 444 <br/>
+</td>
+<td align="center">
+<br/>105 523 <br/>
+</td>
+<td align="center">
+<br/>103 581 <br/>
+</td>
+<td align="center">
+<br/>101 619 <br/>
+</td>
+<td align="center">
+<br/>99 637 <br/>
+</td>
+<td align="center">
+<br/>97 631 <br/>
+</td>
+<td align="center">
+<br/>95 618 <br/>
+</td>
+<td align="center">
+<br/>820 396<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06702293<br/>
+</td>
+<td align="center">
+<br/>ARMBRUSTER FRERES SA<br/>
+</td>
+<td align="center">
+<br/>ARMBRUSTER Strasbourg<br/>
+</td>
+<td align="center">
+<br/>1 961 <br/>
+</td>
+<td align="center">
+<br/>1 755 <br/>
+</td>
+<td align="center">
+<br/>1 554 <br/>
+</td>
+<td align="center">
+<br/>1 360 <br/>
+</td>
+<td align="center">
+<br/>1 171 <br/>
+</td>
+<td align="center">
+<br/>990 <br/>
+</td>
+<td align="center">
+<br/>813 <br/>
+</td>
+<td align="center">
+<br/>643 <br/>
+</td>
+<td align="center">
+<br/>10 247<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06703047<br/>
+</td>
+<td align="center">
+<br/>COMPTOIR AGRICOLE<br/>
+</td>
+<td align="center">
+<br/>CAH Marckolsheim<br/>
+</td>
+<td align="center">
+<br/>1 742 <br/>
+</td>
+<td align="center">
+<br/>1 559 <br/>
+</td>
+<td align="center">
+<br/>1 381 <br/>
+</td>
+<td align="center">
+<br/>1 208 <br/>
+</td>
+<td align="center">
+<br/>1 041 <br/>
+</td>
+<td align="center">
+<br/>879 <br/>
+</td>
+<td align="center">
+<br/>722 <br/>
+</td>
+<td align="center">
+<br/>571 <br/>
+</td>
+<td align="center">
+<br/>9 103<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06802181<br/>
+</td>
+<td align="center">
+<br/>Aubert et Duval site de Pamiers<br/>
+</td>
+<td align="center">
+<br/>Aubert et Duval site de Pamiers<br/>
+</td>
+<td align="center">
+<br/>13 145 <br/>
+</td>
+<td align="center">
+<br/>11 764 <br/>
+</td>
+<td align="center">
+<br/>10 420 <br/>
+</td>
+<td align="center">
+<br/>9 117 <br/>
+</td>
+<td align="center">
+<br/>7 854 <br/>
+</td>
+<td align="center">
+<br/>6 631 <br/>
+</td>
+<td align="center">
+<br/>5 449 <br/>
+</td>
+<td align="center">
+<br/>4 310 <br/>
+</td>
+<td align="center">
+<br/>68 690<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06802208<br/>
+</td>
+<td align="center">
+<br/>VIVADOUR<br/>
+</td>
+<td align="center">
+<br/>VIVADOUR BARCELONNE-DU-GERS<br/>
+</td>
+<td align="center">
+<br/>2 106 <br/>
+</td>
+<td align="center">
+<br/>1 885 <br/>
+</td>
+<td align="center">
+<br/>1 669 <br/>
+</td>
+<td align="center">
+<br/>1 461 <br/>
+</td>
+<td align="center">
+<br/>1 258 <br/>
+</td>
+<td align="center">
+<br/>1 063 <br/>
+</td>
+<td align="center">
+<br/>873 <br/>
+</td>
+<td align="center">
+<br/>691 <br/>
+</td>
+<td align="center">
+<br/>11 006<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06802209<br/>
+</td>
+<td align="center">
+<br/>VIVADOUR<br/>
+</td>
+<td align="center">
+<br/>VIVADOUR LE HOUGA<br/>
+</td>
+<td align="center">
+<br/>1 555 <br/>
+</td>
+<td align="center">
+<br/>1 392 <br/>
+</td>
+<td align="center">
+<br/>1 234 <br/>
+</td>
+<td align="center">
+<br/>1 079 <br/>
+</td>
+<td align="center">
+<br/>930 <br/>
+</td>
+<td align="center">
+<br/>785 <br/>
+</td>
+<td align="center">
+<br/>645 <br/>
+</td>
+<td align="center">
+<br/>510 <br/>
+</td>
+<td align="center">
+<br/>8 130<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06802217<br/>
+</td>
+<td align="center">
+<br/>EURALIS CEREALES<br/>
+</td>
+<td align="center">
+<br/>EURALIS CEREALES BARCELONNE-DU-GERS<br/>
+</td>
+<td align="center">
+<br/>2 043 <br/>
+</td>
+<td align="center">
+<br/>1 829 <br/>
+</td>
+<td align="center">
+<br/>1 619 <br/>
+</td>
+<td align="center">
+<br/>1 417 <br/>
+</td>
+<td align="center">
+<br/>1 220 <br/>
+</td>
+<td align="center">
+<br/>1 031 <br/>
+</td>
+<td align="center">
+<br/>847 <br/>
+</td>
+<td align="center">
+<br/>670 <br/>
+</td>
+<td align="center">
+<br/>10 676<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06803365<br/>
+</td>
+<td align="center">
+<br/>VIVADOUR<br/>
+</td>
+<td align="center">
+<br/>VIVADOUR usine Semences rue de la Menoue 32400 RISCLE<br/>
+</td>
+<td align="center">
+<br/>972 <br/>
+</td>
+<td align="center">
+<br/>870 <br/>
+</td>
+<td align="center">
+<br/>771 <br/>
+</td>
+<td align="center">
+<br/>674 <br/>
+</td>
+<td align="center">
+<br/>581 <br/>
+</td>
+<td align="center">
+<br/>491 <br/>
+</td>
+<td align="center">
+<br/>403 <br/>
+</td>
+<td align="center">
+<br/>319 <br/>
+</td>
+<td align="center">
+<br/>5 081<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06803473<br/>
+</td>
+<td align="center">
+<br/>Airforge<br/>
+</td>
+<td align="center">
+<br/>Airforge<br/>
+</td>
+<td align="center">
+<br/>2 759 <br/>
+</td>
+<td align="center">
+<br/>2 470 <br/>
+</td>
+<td align="center">
+<br/>2 187 <br/>
+</td>
+<td align="center">
+<br/>1 914 <br/>
+</td>
+<td align="center">
+<br/>1 649 <br/>
+</td>
+<td align="center">
+<br/>1 392 <br/>
+</td>
+<td align="center">
+<br/>1 144 <br/>
+</td>
+<td align="center">
+<br/>905 <br/>
+</td>
+<td align="center">
+<br/>14 420<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-06803481<br/>
+</td>
+<td align="center">
+<br/>RAGT Semences SAS<br/>
+</td>
+<td align="center">
+<br/>RAGT SEMENCES site LES MOLINIERES<br/>
+</td>
+<td align="center">
+<br/>1 586 <br/>
+</td>
+<td align="center">
+<br/>1 419 <br/>
+</td>
+<td align="center">
+<br/>1 257 <br/>
+</td>
+<td align="center">
+<br/>1 099 <br/>
+</td>
+<td align="center">
+<br/>947 <br/>
+</td>
+<td align="center">
+<br/>799 <br/>
+</td>
+<td align="center">
+<br/>657 <br/>
+</td>
+<td align="center">
+<br/>519 <br/>
+</td>
+<td align="center">
+<br/>8 283<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000438<br/>
+</td>
+<td align="center">
+<br/>GTS Industries<br/>
+</td>
+<td align="center">
+<br/>GTS Industries<br/>
+</td>
+<td align="center">
+<br/>75 948 <br/>
+</td>
+<td align="center">
+<br/>74 629 <br/>
+</td>
+<td align="center">
+<br/>73 295 <br/>
+</td>
+<td align="center">
+<br/>71 946 <br/>
+</td>
+<td align="center">
+<br/>70 583 <br/>
+</td>
+<td align="center">
+<br/>69 207 <br/>
+</td>
+<td align="center">
+<br/>67 813 <br/>
+</td>
+<td align="center">
+<br/>66 415 <br/>
+</td>
+<td align="center">
+<br/>569 836<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000508<br/>
+</td>
+<td align="center">
+<br/>COMILOG DUNKERQUE<br/>
+</td>
+<td align="center">
+<br/>COMILOG DUNKERQUE<br/>
+</td>
+<td align="center">
+<br/>93 832 <br/>
+</td>
+<td align="center">
+<br/>92 202 <br/>
+</td>
+<td align="center">
+<br/>90 553 <br/>
+</td>
+<td align="center">
+<br/>88 887 <br/>
+</td>
+<td align="center">
+<br/>87 203 <br/>
+</td>
+<td align="center">
+<br/>85 503 <br/>
+</td>
+<td align="center">
+<br/>83 781 <br/>
+</td>
+<td align="center">
+<br/>82 053 <br/>
+</td>
+<td align="center">
+<br/>704 014<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000510<br/>
+</td>
+<td align="center">
+<br/>CMP DUNKERQUE<br/>
+</td>
+<td align="center">
+<br/>CMP DUNKERQUE<br/>
+</td>
+<td align="center">
+<br/>290 <br/>
+</td>
+<td align="center">
+<br/>261 <br/>
+</td>
+<td align="center">
+<br/>230 <br/>
+</td>
+<td align="center">
+<br/>202 <br/>
+</td>
+<td align="center">
+<br/>173 <br/>
+</td>
+<td align="center">
+<br/>147 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+<td align="center">
+<br/>95 <br/>
+</td>
+<td align="center">
+<br/>1 518<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000631<br/>
+</td>
+<td align="center">
+<br/>Vam Drilling Aulnoye<br/>
+</td>
+<td align="center">
+<br/>Vam Drilling Aulnoye<br/>
+</td>
+<td align="center">
+<br/>8 733 <br/>
+</td>
+<td align="center">
+<br/>8 582 <br/>
+</td>
+<td align="center">
+<br/>8 428 <br/>
+</td>
+<td align="center">
+<br/>8 273 <br/>
+</td>
+<td align="center">
+<br/>8 116 <br/>
+</td>
+<td align="center">
+<br/>7 958 <br/>
+</td>
+<td align="center">
+<br/>7 798 <br/>
+</td>
+<td align="center">
+<br/>7 637 <br/>
+</td>
+<td align="center">
+<br/>65 525<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000632<br/>
+</td>
+<td align="center">
+<br/>V&amp;M France tuberie de Saint-Saulve<br/>
+</td>
+<td align="center">
+<br/>V&amp;M tuberie de Saint-Saulve<br/>
+</td>
+<td align="center">
+<br/>50 301 <br/>
+</td>
+<td align="center">
+<br/>49 427 <br/>
+</td>
+<td align="center">
+<br/>48 543 <br/>
+</td>
+<td align="center">
+<br/>47 650 <br/>
+</td>
+<td align="center">
+<br/>46 747 <br/>
+</td>
+<td align="center">
+<br/>45 836 <br/>
+</td>
+<td align="center">
+<br/>44 913 <br/>
+</td>
+<td align="center">
+<br/>43 987 <br/>
+</td>
+<td align="center">
+<br/>377 404<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000633<br/>
+</td>
+<td align="center">
+<br/>V&amp;M France tuberie d'Aulnoye<br/>
+</td>
+<td align="center">
+<br/>V&amp;M France tuberie d'Aulnoye<br/>
+</td>
+<td align="center">
+<br/>38 631 <br/>
+</td>
+<td align="center">
+<br/>37 960 <br/>
+</td>
+<td align="center">
+<br/>37 281 <br/>
+</td>
+<td align="center">
+<br/>36 595 <br/>
+</td>
+<td align="center">
+<br/>35 902 <br/>
+</td>
+<td align="center">
+<br/>35 202 <br/>
+</td>
+<td align="center">
+<br/>34 493 <br/>
+</td>
+<td align="center">
+<br/>33 782 <br/>
+</td>
+<td align="center">
+<br/>289 846<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000635<br/>
+</td>
+<td align="center">
+<br/>Befesa Valera SAS<br/>
+</td>
+<td align="center">
+<br/>Befesa Valera<br/>
+</td>
+<td align="center">
+<br/>50 033 <br/>
+</td>
+<td align="center">
+<br/>49 164 <br/>
+</td>
+<td align="center">
+<br/>48 285 <br/>
+</td>
+<td align="center">
+<br/>47 396 <br/>
+</td>
+<td align="center">
+<br/>46 499 <br/>
+</td>
+<td align="center">
+<br/>45 592 <br/>
+</td>
+<td align="center">
+<br/>44 674 <br/>
+</td>
+<td align="center">
+<br/>43 752 <br/>
+</td>
+<td align="center">
+<br/>375 395<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000683<br/>
+</td>
+<td align="center">
+<br/>Aluminium Dunkerque SA<br/>
+</td>
+<td align="center">
+<br/>Aluminium Dunkerque SA<br/>
+</td>
+<td align="center">
+<br/>424 719 <br/>
+</td>
+<td align="center">
+<br/>417 341 <br/>
+</td>
+<td align="center">
+<br/>409 878 <br/>
+</td>
+<td align="center">
+<br/>402 336 <br/>
+</td>
+<td align="center">
+<br/>394 714 <br/>
+</td>
+<td align="center">
+<br/>387 017 <br/>
+</td>
+<td align="center">
+<br/>379 224 <br/>
+</td>
+<td align="center">
+<br/>371 404 <br/>
+</td>
+<td align="center">
+<br/>3 186 633<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000688<br/>
+</td>
+<td align="center">
+<br/>FORGITAL-DEMBIERMONT<br/>
+</td>
+<td align="center">
+<br/>FORGITAL-DEMBIERMONT<br/>
+</td>
+<td align="center">
+<br/>12 106 <br/>
+</td>
+<td align="center">
+<br/>10 834 <br/>
+</td>
+<td align="center">
+<br/>9 596 <br/>
+</td>
+<td align="center">
+<br/>8 395 <br/>
+</td>
+<td align="center">
+<br/>7 233 <br/>
+</td>
+<td align="center">
+<br/>6 107 <br/>
+</td>
+<td align="center">
+<br/>5 018 <br/>
+</td>
+<td align="center">
+<br/>3 970 <br/>
+</td>
+<td align="center">
+<br/>63 259<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000720<br/>
+</td>
+<td align="center">
+<br/>Glencore Manganèse France<br/>
+</td>
+<td align="center">
+<br/>Glencore Manganèse France<br/>
+</td>
+<td align="center">
+<br/>176 069 <br/>
+</td>
+<td align="center">
+<br/>173 011 <br/>
+</td>
+<td align="center">
+<br/>169 917 <br/>
+</td>
+<td align="center">
+<br/>166 790 <br/>
+</td>
+<td align="center">
+<br/>163 631 <br/>
+</td>
+<td align="center">
+<br/>160 439 <br/>
+</td>
+<td align="center">
+<br/>157 209 <br/>
+</td>
+<td align="center">
+<br/>153 967 <br/>
+</td>
+<td align="center">
+<br/>1 321 033<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000750<br/>
+</td>
+<td align="center">
+<br/>RECYTECH SA<br/>
+</td>
+<td align="center">
+<br/>RECYTECH SA<br/>
+</td>
+<td align="center">
+<br/>48 668 <br/>
+</td>
+<td align="center">
+<br/>47 822 <br/>
+</td>
+<td align="center">
+<br/>46 967 <br/>
+</td>
+<td align="center">
+<br/>46 104 <br/>
+</td>
+<td align="center">
+<br/>45 230 <br/>
+</td>
+<td align="center">
+<br/>44 348 <br/>
+</td>
+<td align="center">
+<br/>43 455 <br/>
+</td>
+<td align="center">
+<br/>42 558 <br/>
+</td>
+<td align="center">
+<br/>365 152<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000766<br/>
+</td>
+<td align="center">
+<br/>POLYCHIM INDUSTRIE<br/>
+</td>
+<td align="center">
+<br/>POLYCHIM INDUSTRIE<br/>
+</td>
+<td align="center">
+<br/>2 903 <br/>
+</td>
+<td align="center">
+<br/>2 853 <br/>
+</td>
+<td align="center">
+<br/>2 802 <br/>
+</td>
+<td align="center">
+<br/>2 750 <br/>
+</td>
+<td align="center">
+<br/>2 699 <br/>
+</td>
+<td align="center">
+<br/>2 646 <br/>
+</td>
+<td align="center">
+<br/>2 593 <br/>
+</td>
+<td align="center">
+<br/>2 539 <br/>
+</td>
+<td align="center">
+<br/>21 785<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000778<br/>
+</td>
+<td align="center">
+<br/>MAXAM TAN SAS<br/>
+</td>
+<td align="center">
+<br/>ACIDE NITRIQUE 5 - MAXAM TAN SAS<br/>
+</td>
+<td align="center">
+<br/>36 310 <br/>
+</td>
+<td align="center">
+<br/>35 679 <br/>
+</td>
+<td align="center">
+<br/>35 041 <br/>
+</td>
+<td align="center">
+<br/>34 396 <br/>
+</td>
+<td align="center">
+<br/>33 745 <br/>
+</td>
+<td align="center">
+<br/>33 087 <br/>
+</td>
+<td align="center">
+<br/>32 420 <br/>
+</td>
+<td align="center">
+<br/>31 752 <br/>
+</td>
+<td align="center">
+<br/>272 430<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000824<br/>
+</td>
+<td align="center">
+<br/>APERAM STAINLESS France<br/>
+</td>
+<td align="center">
+<br/>APERAM STAINLESS France<br/>
+</td>
+<td align="center">
+<br/>38 853 <br/>
+</td>
+<td align="center">
+<br/>38 178 <br/>
+</td>
+<td align="center">
+<br/>37 495 <br/>
+</td>
+<td align="center">
+<br/>36 805 <br/>
+</td>
+<td align="center">
+<br/>36 108 <br/>
+</td>
+<td align="center">
+<br/>35 404 <br/>
+</td>
+<td align="center">
+<br/>34 691 <br/>
+</td>
+<td align="center">
+<br/>33 976 <br/>
+</td>
+<td align="center">
+<br/>291 510<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000832<br/>
+</td>
+<td align="center">
+<br/>Maubeuge Construction Automobile</td>
+<td align="center">
+<br/>Maubeuge Construction Automobile<br/>
+</td>
+<td align="center">
+<br/>27 759 <br/>
+</td>
+<td align="center">
+<br/>24 843 <br/>
+</td>
+<td align="center">
+<br/>33 486<br/>
+</td>
+<td align="center">
+<br/>32 870<br/>
+</td>
+<td align="center">
+<br/>32 247<br/>
+</td>
+<td align="center">
+<br/>31 619<br/>
+</td>
+<td align="center">
+<br/>30 982<br/>
+</td>
+<td align="center">
+<br/>30 343<br/>
+</td>
+<td align="center">244 149</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000866<br/>
+</td>
+<td align="center">
+<br/>LEROUX SAS<br/>
+</td>
+<td align="center">
+<br/>LEROUX SAS<br/>
+</td>
+<td align="center">
+<br/>9 383 <br/>
+</td>
+<td align="center">
+<br/>8 397 <br/>
+</td>
+<td align="center">
+<br/>7 437 <br/>
+</td>
+<td align="center">
+<br/>6 508 <br/>
+</td>
+<td align="center">
+<br/>5 605 <br/>
+</td>
+<td align="center">
+<br/>4 733 <br/>
+</td>
+<td align="center">
+<br/>3 890 <br/>
+</td>
+<td align="center">
+<br/>3 077 <br/>
+</td>
+<td align="center">
+<br/>49 030<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000873<br/>
+</td>
+<td align="center">
+<br/>CHEMINEES PHILIPPE<br/>
+</td>
+<td align="center">
+<br/>CHEMINEES PHILIPPE<br/>
+</td>
+<td align="center">
+<br/>19 573 <br/>
+</td>
+<td align="center">
+<br/>19 233 <br/>
+</td>
+<td align="center">
+<br/>18 890 <br/>
+</td>
+<td align="center">
+<br/>18 542 <br/>
+</td>
+<td align="center">
+<br/>18 191 <br/>
+</td>
+<td align="center">
+<br/>17 837 <br/>
+</td>
+<td align="center">
+<br/>17 477 <br/>
+</td>
+<td align="center">
+<br/>17 116 <br/>
+</td>
+<td align="center">
+<br/>146 859<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000922<br/>
+</td>
+<td align="center">
+<br/>TIOXIDE EUROPE SAS<br/>
+</td>
+<td align="center">
+<br/>Tioxide Europe SAS<br/>
+</td>
+<td align="center">
+<br/>165 055 <br/>
+</td>
+<td align="center">
+<br/>162 189 <br/>
+</td>
+<td align="center">
+<br/>159 288 <br/>
+</td>
+<td align="center">
+<br/>156 358 <br/>
+</td>
+<td align="center">
+<br/>153 395 <br/>
+</td>
+<td align="center">
+<br/>150 403 <br/>
+</td>
+<td align="center">
+<br/>147 375 <br/>
+</td>
+<td align="center">
+<br/>144 336 <br/>
+</td>
+<td align="center">
+<br/>1 238 399<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000962<br/>
+</td>
+<td align="center">
+<br/>Kerneos<br/>
+</td>
+<td align="center">
+<br/>Kerneos usine de Dunkerque<br/>
+</td>
+<td align="center">
+<br/>201 563 <br/>
+</td>
+<td align="center">
+<br/>198 062 <br/>
+</td>
+<td align="center">
+<br/>194 520 <br/>
+</td>
+<td align="center">
+<br/>190 941 <br/>
+</td>
+<td align="center">
+<br/>187 323 <br/>
+</td>
+<td align="center">
+<br/>183 671 <br/>
+</td>
+<td align="center">
+<br/>179 972 <br/>
+</td>
+<td align="center">
+<br/>176 261 <br/>
+</td>
+<td align="center">
+<br/>1 512 313<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07000973<br/>
+</td>
+<td align="center">
+<br/>SODECA<br/>
+</td>
+<td align="center">
+<br/>SODECA<br/>
+</td>
+<td align="center">
+<br/>19 252 <br/>
+</td>
+<td align="center">
+<br/>18 918 <br/>
+</td>
+<td align="center">
+<br/>18 579 <br/>
+</td>
+<td align="center">
+<br/>18 237 <br/>
+</td>
+<td align="center">
+<br/>17 892 <br/>
+</td>
+<td align="center">
+<br/>17 543 <br/>
+</td>
+<td align="center">
+<br/>17 190 <br/>
+</td>
+<td align="center">
+<br/>16 835 <br/>
+</td>
+<td align="center">
+<br/>144 446<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07001047<br/>
+</td>
+<td align="center">
+<br/>CEREC</td>
+<td align="center">
+<br/>CEREC<br/>
+</td>
+<td align="center">
+<br/>5 030 <br/>
+</td>
+<td align="center">
+<br/>4 502 <br/>
+</td>
+<td align="center">
+<br/>3 988 <br/>
+</td>
+<td align="center">
+<br/>3 489 <br/>
+</td>
+<td align="center">
+<br/>3 005 <br/>
+</td>
+<td align="center">
+<br/>2 538 <br/>
+</td>
+<td align="center">
+<br/>2 086 <br/>
+</td>
+<td align="center">
+<br/>1 650 <br/>
+</td>
+<td align="center">
+<br/>26 288<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07001051<br/>
+</td>
+<td align="center">
+<br/>Sica pulpes Boiry<br/>
+</td>
+<td align="center">
+<br/>Sica pulpes de Boiry<br/>
+</td>
+<td align="center">
+<br/>26 401 <br/>
+</td>
+<td align="center">
+<br/>25 943 <br/>
+</td>
+<td align="center">
+<br/>25 479 <br/>
+</td>
+<td align="center">
+<br/>25 010 <br/>
+</td>
+<td align="center">
+<br/>24 536 <br/>
+</td>
+<td align="center">
+<br/>24 057 <br/>
+</td>
+<td align="center">
+<br/>23 573 <br/>
+</td>
+<td align="center">
+<br/>23 087 <br/>
+</td>
+<td align="center">
+<br/>198 086<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07001055<br/>
+</td>
+<td align="center">
+<br/>SEVELNORD<br/>
+</td>
+<td align="center">
+<br/>Société Européenne de Véhicules légers du Nord <br/>
+</td>
+<td align="center">
+<br/>16 336 <br/>
+</td>
+<td align="center">
+<br/>26 086<br/>
+</td>
+<td align="center">
+<br/>35 164<br/>
+</td>
+<td align="center">
+<p align="center">34 517<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">33 863<br/>
+</p>
+</td>
+<td align="center">
+<p align="center">33 203<br/>
+</p>
+</td>
+<td align="center">32 534</td>
+<td align="center">31 863</td>
+<td align="center">243 566</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07001067<br/>
 </td>
 <td align="center">
 <br/>AKERS<br/>
@@ -3366,6349 +9039,1256 @@
 <br/>AKERS France<br/>
 </td>
 <td align="center">
-<br/>28 722 <br/>
+<br/>6 085 <br/>
 </td>
 <td align="center">
-<br/>28 224 <br/>
+<br/>5 980 <br/>
 </td>
 <td align="center">
-<br/>27 719 <br/>
+<br/>5 873 <br/>
 </td>
 <td align="center">
-<br/>27 209 <br/>
+<br/>5 765 <br/>
 </td>
 <td align="center">
-<br/>26 694 <br/>
-</td>
-<td align="center">
-<br/>26 172 <br/>
-</td>
-<td align="center">
-<br/>25 646 <br/>
-</td>
-<td align="center">
-<br/>25 117 <br/>
-</td>
-<td align="center">
-<br/>215 503<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000496<br/>
-</td>
-<td align="center">
-<br/>SOUCHE PARTICIPATION<br/>
-</td>
-<td align="center">
-<br/>SOUCHE PARTICIPATION<br/>
-</td>
-<td align="center">
-<br/>25 486 <br/>
-</td>
-<td align="center">
-<br/>25 044 <br/>
-</td>
-<td align="center">
-<br/>24 596 <br/>
-</td>
-<td align="center">
-<br/>24 143 <br/>
-</td>
-<td align="center">
-<br/>23 686 <br/>
-</td>
-<td align="center">
-<br/>23 224 <br/>
-</td>
-<td align="center">
-<br/>22 757 <br/>
-</td>
-<td align="center">
-<br/>22 287 <br/>
-</td>
-<td align="center">
-<br/>191 223<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000497<br/>
-</td>
-<td align="center">
-<br/>MUNKSJO ARCHES SAS<br/>
-</td>
-<td align="center">
-<br/>MUNKSJO ARCHES SAS<br/>
-</td>
-<td align="center">
-<br/>23 737 <br/>
-</td>
-<td align="center">
-<br/>23 107 <br/>
-</td>
-<td align="center">
-<br/>22 481 <br/>
-</td>
-<td align="center">
-<br/>21 856 <br/>
-</td>
-<td align="center">
-<br/>21 238 <br/>
-</td>
-<td align="center">
-<br/>20 622 <br/>
-</td>
-<td align="center">
-<br/>20 009 <br/>
-</td>
-<td align="center">
-<br/>19 404 <br/>
-</td>
-<td align="center">
-<br/>172 454<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000498<br/>
-</td>
-<td align="center">
-<br/>MARCILLAT CORCIEUX<br/>
-</td>
-<td align="center">
-<br/>SOCIETE MARCILLAT CORCIEUX<br/>
-</td>
-<td align="center">
-<br/>5 442 <br/>
-</td>
-<td align="center">
-<br/>4 871 <br/>
-</td>
-<td align="center">
-<br/>4 314 <br/>
-</td>
-<td align="center">
-<br/>3 774 <br/>
-</td>
-<td align="center">
-<br/>3 251 <br/>
-</td>
-<td align="center">
-<br/>2 745 <br/>
-</td>
-<td align="center">
-<br/>2 256 <br/>
-</td>
-<td align="center">
-<br/>1 785 <br/>
-</td>
-<td align="center">
-<br/>28 438<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000500<br/>
-</td>
-<td align="center">UPM FRANCE</td>
-<td align="center">
-<br/>UPM France - Ets PAPETERIES DE DOCELLES<br/>
-</td>
-<td align="center">
-<br/>39 645 <br/>
-</td>
-<td align="center">
-<br/>38 957 <br/>
-</td>
-<td align="center">
-<br/>38 260 <br/>
-</td>
-<td align="center">
-<br/>37 556 <br/>
-</td>
-<td align="center">
-<br/>36 844 <br/>
-</td>
-<td align="center">
-<br/>36 126 <br/>
-</td>
-<td align="center">
-<br/>35 399 <br/>
-</td>
-<td align="center">
-<br/>34 669 <br/>
-</td>
-<td align="center">
-<br/>297 456<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000501<br/>
-</td>
-<td align="center">
-<br/>PAPETERIES DE CLAIREFONTAINE<br/>
-</td>
-<td align="center">
-<br/>PAPETERIES DE CLAIREFONTAINE<br/>
-</td>
-<td align="center">
-<br/>49 662 <br/>
-</td>
-<td align="center">
-<br/>48 626 <br/>
-</td>
-<td align="center">
-<br/>47 584 <br/>
-</td>
-<td align="center">
-<br/>46 542 <br/>
-</td>
-<td align="center">
-<br/>45 494 <br/>
-</td>
-<td align="center">
-<br/>44 447 <br/>
-</td>
-<td align="center">
-<br/>43 393 <br/>
-</td>
-<td align="center">
-<br/>42 344 <br/>
-</td>
-<td align="center">
-<br/>368 092<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000502<br/>
-</td>
-<td align="center">
-<br/>OI Manufacturing France<br/>
-</td>
-<td align="center">
-<br/>OI Manufacturing Gironcourt<br/>
-</td>
-<td align="center">
-<br/>54 557 <br/>
-</td>
-<td align="center">
-<br/>53 610 <br/>
-</td>
-<td align="center">
-<br/>52 651 <br/>
-</td>
-<td align="center">
-<br/>51 682 <br/>
-</td>
-<td align="center">
-<br/>50 703 <br/>
-</td>
-<td align="center">
-<br/>49 714 <br/>
-</td>
-<td align="center">
-<br/>48 713 <br/>
-</td>
-<td align="center">
-<br/>47 709 <br/>
-</td>
-<td align="center">
-<br/>409 339<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000503<br/>
-</td>
-<td align="center">
-<br/>NORSKE SKOG GOLBEY SAS<br/>
-</td>
-<td align="center">
-<br/>NORSKE SKOG GOLBEY SAS<br/>
-</td>
-<td align="center">
-<br/>177 237 <br/>
-</td>
-<td align="center">
-<br/>174 158 <br/>
-</td>
-<td align="center">
-<br/>171 044 <br/>
-</td>
-<td align="center">
-<br/>167 896 <br/>
-</td>
-<td align="center">
-<br/>164 715 <br/>
-</td>
-<td align="center">
-<br/>161 503 <br/>
-</td>
-<td align="center">
-<br/>158 251 <br/>
-</td>
-<td align="center">
-<br/>154 988 <br/>
-</td>
-<td align="center">
-<br/>1 329 792<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000504<br/>
-</td>
-<td align="center">
-<br/>NOVATISSUE SAS<br/>
-</td>
-<td align="center">
-<br/>NOVATISSUE SAS<br/>
-</td>
-<td align="center">
-<br/>15 118 <br/>
-</td>
-<td align="center">
-<br/>14 856 <br/>
-</td>
-<td align="center">
-<br/>14 591 <br/>
-</td>
-<td align="center">
-<br/>14 322 <br/>
-</td>
-<td align="center">
-<br/>14 051 <br/>
-</td>
-<td align="center">
-<br/>13 776 <br/>
-</td>
-<td align="center">
-<br/>13 499 <br/>
-</td>
-<td align="center">
-<br/>13 221 <br/>
-</td>
-<td align="center">
-<br/>113 434<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000505<br/>
-</td>
-<td align="center">
-<br/>EGGER Panneaux et Décors<br/>
-</td>
-<td align="center">
-<br/>EGGER Panneaux et Décors 88<br/>
-</td>
-<td align="center">
-<br/>48 139 <br/>
-</td>
-<td align="center">
-<br/>47 303 <br/>
-</td>
-<td align="center">
-<br/>46 457 <br/>
-</td>
-<td align="center">
-<br/>45 602 <br/>
-</td>
-<td align="center">
-<br/>44 738 <br/>
-</td>
-<td align="center">
-<br/>43 866 <br/>
-</td>
-<td align="center">
-<br/>42 983 <br/>
-</td>
-<td align="center">
-<br/>42 096 <br/>
-</td>
-<td align="center">
-<br/>361 184<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000507<br/>
-</td>
-<td align="center">
-<br/>PAPETERIE DE RAON <br/>
-</td>
-<td align="center">
-<br/>PAPETERIE DE RAON<br/>
-</td>
-<td align="center">
-<br/>19 393 <br/>
-</td>
-<td align="center">
-<br/>19 054 <br/>
-</td>
-<td align="center">
-<br/>18 714 <br/>
-</td>
-<td align="center">
-<br/>18 370 <br/>
-</td>
-<td align="center">
-<br/>18 022 <br/>
-</td>
-<td align="center">
-<br/>17 671 <br/>
-</td>
-<td align="center">
-<br/>17 314 <br/>
-</td>
-<td align="center">
-<br/>16 959 <br/>
-</td>
-<td align="center">
-<br/>145 497<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000508<br/>
-</td>
-<td align="center">
-<br/>PAPETERIE DES CHATELLES <br/>
-</td>
-<td align="center">
-<br/>PAPETERIE DES CHATELLES <br/>
-</td>
-<td align="center">
-<br/>12 561 <br/>
-</td>
-<td align="center">
-<br/>12 343 <br/>
-</td>
-<td align="center">
-<br/>12 123 <br/>
-</td>
-<td align="center">
-<br/>11 900 <br/>
-</td>
-<td align="center">
-<br/>11 674 <br/>
-</td>
-<td align="center">
-<br/>11 447 <br/>
-</td>
-<td align="center">
-<br/>11 216 <br/>
-</td>
-<td align="center">
-<br/>10 985 <br/>
-</td>
-<td align="center">
-<br/>94 249<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000509<br/>
-</td>
-<td align="center">
-<br/>DALKIA France<br/>
-</td>
-<td align="center">
-<br/>Dalkia Chaufferie ZUP Kellermann<br/>
-</td>
-<td align="center">
-<br/>4 112 <br/>
-</td>
-<td align="center">
-<br/>3 434 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>7 546<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000511<br/>
-</td>
-<td align="center">
-<br/>Viskase<br/>
-</td>
-<td align="center">
-<br/>Viskase<br/>
-</td>
-<td align="center">
-<br/>6 838 <br/>
-</td>
-<td align="center">
-<br/>6 119 <br/>
-</td>
-<td align="center">
-<br/>5 420 <br/>
-</td>
-<td align="center">
-<br/>4 742 <br/>
-</td>
-<td align="center">
-<br/>4 085 <br/>
-</td>
-<td align="center">
-<br/>3 449 <br/>
-</td>
-<td align="center">
-<br/>2 834 <br/>
-</td>
-<td align="center">
-<br/>2 242 <br/>
-</td>
-<td align="center">
-<br/>35 729<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000512<br/>
-</td>
-<td align="center">
-<br/>COFELY GDF SUEZ<br/>
-</td>
-<td align="center">
-<br/>COFELY EPINAL<br/>
-</td>
-<td align="center">
-<br/>15 077 <br/>
-</td>
-<td align="center">
-<br/>12 692 <br/>
-</td>
-<td align="center">
-<br/>10 750 <br/>
-</td>
-<td align="center">
-<br/>9 410 <br/>
-</td>
-<td align="center">
-<br/>8 110 <br/>
-</td>
-<td align="center">
-<br/>6 854 <br/>
-</td>
-<td align="center">
-<br/>5 638 <br/>
-</td>
-<td align="center">
-<br/>4 466 <br/>
-</td>
-<td align="center">
-<br/>72 997<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000513<br/>
-</td>
-<td align="center">
-<br/>GRTgaz Région Nord-Est<br/>
-</td>
-<td align="center">
-<br/>GRTgaz station de compression de Morelmaison<br/>
-</td>
-<td align="center">
-<br/>72 671 <br/>
-</td>
-<td align="center">
-<br/>65 035 <br/>
-</td>
-<td align="center">
-<br/>57 605 <br/>
-</td>
-<td align="center">
-<br/>50 401 <br/>
-</td>
-<td align="center">
-<br/>43 418 <br/>
-</td>
-<td align="center">
-<br/>36 661 <br/>
-</td>
-<td align="center">
-<br/>30 123 <br/>
-</td>
-<td align="center">
-<br/>23 830 <br/>
-</td>
-<td align="center">
-<br/>379 744<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000515<br/>
-</td>
-<td align="center">
-<br/>SOLEVAL Nord-Est<br/>
-</td>
-<td align="center">
-<br/>SOLEVAL Nord-Est<br/>
-</td>
-<td align="center">
-<br/>7 800 <br/>
-</td>
-<td align="center">
-<br/>6 980 <br/>
-</td>
-<td align="center">
-<br/>6 183 <br/>
-</td>
-<td align="center">
-<br/>5 409 <br/>
-</td>
-<td align="center">
-<br/>4 660 <br/>
-</td>
-<td align="center">
-<br/>3 934 <br/>
-</td>
-<td align="center">
-<br/>3 233 <br/>
-</td>
-<td align="center">
-<br/>2 558 <br/>
-</td>
-<td align="center">
-<br/>40 757<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000516<br/>
-</td>
-<td align="center">
-<br/>NOVATISSUE <br/>
-</td>
-<td align="center">
-<br/>COMPAGNIE DE COGENERATION DE LA VOLOGNE<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000517<br/>
-</td>
-<td align="center">
-<br/>AGC INTERPANE Glass France SAS<br/>
-</td>
-<td align="center">
-<br/>AGC INTERPANE Glass France SAS<br/>
-</td>
-<td align="center">
-<br/>124 923 <br/>
-</td>
-<td align="center">
-<br/>122 753 <br/>
-</td>
-<td align="center">
-<br/>120 558 <br/>
-</td>
-<td align="center">
-<br/>118 340 <br/>
-</td>
-<td align="center">
-<br/>116 098 <br/>
-</td>
-<td align="center">
-<br/>113 834 <br/>
-</td>
-<td align="center">
-<br/>111 541 <br/>
-</td>
-<td align="center">
-<br/>109 242 <br/>
-</td>
-<td align="center">
-<br/>937 289<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000519<br/>
-</td>
-<td align="center">
-<br/>Société des Fours à Chaux-de-Sorcy<br/>
-</td>
-<td align="center">
-<br/>Société des Fours à Chaux-de-Sorcy<br/>
-</td>
-<td align="center">
-<br/>302 812 <br/>
-</td>
-<td align="center">
-<br/>297 552 <br/>
-</td>
-<td align="center">
-<br/>292 231 <br/>
-</td>
-<td align="center">
-<br/>286 854 <br/>
-</td>
-<td align="center">
-<br/>281 419 <br/>
-</td>
-<td align="center">
-<br/>275 931 <br/>
-</td>
-<td align="center">
-<br/>270 375 <br/>
-</td>
-<td align="center">
-<br/>264 800 <br/>
-</td>
-<td align="center">
-<br/>2 271 974<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000521<br/>
-</td>
-<td align="center">
-<br/>SODEVAR<br/>
-</td>
-<td align="center">
-<br/>DALKIA - SODEVAR Puits-Vouters<br/>
-</td>
-<td align="center">
-<br/>10 061 <br/>
-</td>
-<td align="center">
-<br/>9 004 <br/>
-</td>
-<td align="center">
-<br/>7 976 <br/>
-</td>
-<td align="center">
-<br/>6 981 <br/>
-</td>
-<td align="center">
-<br/>6 018 <br/>
-</td>
-<td align="center">
-<br/>5 085 <br/>
-</td>
-<td align="center">
-<br/>4 183 <br/>
-</td>
-<td align="center">
-<br/>3 313 <br/>
-</td>
-<td align="center">
-<br/>52 621<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000523<br/>
-</td>
-<td align="center">
-<br/>PAPETERIES DES VOSGES<br/>
-</td>
-<td align="center">
-<br/>PAPETERIES DES VOSGES<br/>
-</td>
-<td align="center">
-<br/>13 729 <br/>
-</td>
-<td align="center">
-<br/>13 490 <br/>
-</td>
-<td align="center">
-<br/>13 249 <br/>
-</td>
-<td align="center">
-<br/>13 006 <br/>
-</td>
-<td align="center">
-<br/>12 759 <br/>
-</td>
-<td align="center">
-<br/>12 510 <br/>
-</td>
-<td align="center">
-<br/>12 258 <br/>
-</td>
-<td align="center">
-<br/>12 005 <br/>
-</td>
-<td align="center">
-<br/>103 006<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000524<br/>
-</td>
-<td align="center">
-<br/>COGESTAR 2<br/>
-</td>
-<td align="center">
-<br/>COGESTAR 2 chaufferie et cogénération sur le site de Continental<br/>
-</td>
-<td align="center">
-<br/>20 561 <br/>
-</td>
-<td align="center">
-<br/>20 203 <br/>
-</td>
-<td align="center">
-<br/>19 845 <br/>
-</td>
-<td align="center">
-<br/>19 488 <br/>
-</td>
-<td align="center">
-<br/>19 130 <br/>
-</td>
-<td align="center">
-<br/>18 772 <br/>
-</td>
-<td align="center">
-<br/>18 414 <br/>
-</td>
-<td align="center">
-<br/>18 057 <br/>
-</td>
-<td align="center">
-<br/>154 470<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000525<br/>
-</td>
-<td align="center">
-<br/>DALKIA France<br/>
-</td>
-<td align="center">
-<br/>Centrale de production de vapeur Ebange<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000527<br/>
-</td>
-<td align="center">
-<br/>TOTAL PETROCHEMICALS France<br/>
-</td>
-<td align="center">
-<br/>TOTAL PETROCHEMICALS France - Usine de Carling Saint-Avold<br/>
-</td>
-<td align="center">
-<br/>450 334 <br/>
-</td>
-<td align="center">
-<p>442</p>
-<p>512</p>
-</td>
-<td align="center">
-<p>434</p>
-<p>598</p>
-</td>
-<td align="center">
-<br/>426 602</td>
-<td align="center">
-<br/>418 467</td>
-<td align="center">
-<br/>410 358</td>
-<td align="center">
-<br/>402 095</td>
-<td align="center">393 804</td>
-<td align="center">
-<br/>3 378 770</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000529<br/>
-</td>
-<td align="center">
-<br/>MFPM CHOLET<br/>
-</td>
-<td align="center">
-<br/>Usine MICHELIN de Cholet<br/>
-</td>
-<td align="center">
-<br/>20 209 <br/>
-</td>
-<td align="center">
-<br/>19 858 <br/>
-</td>
-<td align="center">
-<br/>19 503 <br/>
-</td>
-<td align="center">
-<br/>19 144 <br/>
-</td>
-<td align="center">
-<br/>18 781 <br/>
-</td>
-<td align="center">
-<br/>18 415 <br/>
-</td>
-<td align="center">
-<br/>18 044 <br/>
-</td>
-<td align="center">
-<br/>17 672 <br/>
-</td>
-<td align="center">
-<br/>151 626<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000530<br/>
-</td>
-<td align="center">
-<br/>MFPM La Roche-sur-Yon<br/>
-</td>
-<td align="center">
-<br/>Usine MICHELIN de La Roche-sur-Yon<br/>
-</td>
-<td align="center">
-<br/>12 269 <br/>
-</td>
-<td align="center">
-<br/>12 055 <br/>
-</td>
-<td align="center">
-<br/>11 840 <br/>
-</td>
-<td align="center">
-<br/>11 622 <br/>
-</td>
-<td align="center">
-<br/>11 402 <br/>
-</td>
-<td align="center">
-<br/>11 180 <br/>
-</td>
-<td align="center">
-<br/>10 954 <br/>
-</td>
-<td align="center">
-<br/>10 729 <br/>
-</td>
-<td align="center">
-<br/>92 051<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000531<br/>
-</td>
-<td align="center">
-<br/>LTR INDUSTRIES<br/>
-</td>
-<td align="center">
-<br/>LTR INDUSTRIES<br/>
-</td>
-<td align="center">
-<br/>54 844 <br/>
-</td>
-<td align="center">
-<br/>49 083 <br/>
-</td>
-<td align="center">
-<br/>43 474 <br/>
-</td>
-<td align="center">
-<br/>38 037 <br/>
-</td>
-<td align="center">
-<br/>32 767 <br/>
-</td>
-<td align="center">
-<br/>27 668 <br/>
-</td>
-<td align="center">
-<br/>22 735 <br/>
-</td>
-<td align="center">
-<br/>17 985 <br/>
-</td>
-<td align="center">
-<br/>286 593<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000532<br/>
-</td>
-<td align="center">
-<br/>LAITERIE DE MONTAIGU SAS SABOURIN<br/>
-</td>
-<td align="center">
-<br/>LAITERIE DE MONTAIGU<br/>
-</td>
-<td align="center">
-<br/>8 602 <br/>
-</td>
-<td align="center">
-<br/>8 250 <br/>
-</td>
-<td align="center">
-<br/>7 904 <br/>
-</td>
-<td align="center">
-<br/>7 564 <br/>
-</td>
-<td align="center">
-<br/>7 229 <br/>
-</td>
-<td align="center">
-<br/>6 901 <br/>
-</td>
-<td align="center">
-<br/>6 577 <br/>
-</td>
-<td align="center">
-<br/>6 262 <br/>
-</td>
-<td align="center">
-<br/>59 289<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000533<br/>
-</td>
-<td align="center">
-<br/>Laiterie du Val-d'Ancenis<br/>
-</td>
-<td align="center">
-<br/>SAS Laiterie du Val-d'Ancenis<br/>
-</td>
-<td align="center">
-<br/>20 554 <br/>
-</td>
-<td align="center">
-<br/>19 684 <br/>
-</td>
-<td align="center">
-<br/>18 829 <br/>
-</td>
-<td align="center">
-<br/>17 988 <br/>
-</td>
-<td align="center">
-<br/>17 162 <br/>
-</td>
-<td align="center">
-<br/>16 352 <br/>
-</td>
-<td align="center">
-<br/>15 557 <br/>
-</td>
-<td align="center">
-<br/>14 780 <br/>
-</td>
-<td align="center">
-<br/>140 906<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000534<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments - usine de Saint-Pierre-La-Cour<br/>
-</td>
-<td align="center">
-<br/>915 015 <br/>
-</td>
-<td align="center">
-<br/>899 122 <br/>
-</td>
-<td align="center">
-<br/>883 042 <br/>
-</td>
-<td align="center">
-<br/>866 795 <br/>
-</td>
-<td align="center">
-<br/>850 372 <br/>
-</td>
-<td align="center">
-<br/>833 790 <br/>
-</td>
-<td align="center">
-<br/>817 001 <br/>
-</td>
-<td align="center">
-<br/>800 153 <br/>
-</td>
-<td align="center">
-<br/>6 865 290<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000536<br/>
-</td>
-<td align="center">
-<br/>HUHTAMAKI LA ROCHELLE SAS<br/>
-</td>
-<td align="center">
-<br/>KEYES EMBALLAGES <br/>
-</td>
-<td align="center">
-<br/>11 735 <br/>
-</td>
-<td align="center">
-<br/>10 588 <br/>
-</td>
-<td align="center">
-<br/>9 471 <br/>
-</td>
-<td align="center">
-<br/>8 387 <br/>
-</td>
-<td align="center">
-<br/>7 335 <br/>
-</td>
-<td align="center">
-<br/>6 316 <br/>
-</td>
-<td align="center">
-<br/>5 331 <br/>
-</td>
-<td align="center">
-<br/>4 381 <br/>
-</td>
-<td align="center">
-<br/>63 544<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000538<br/>
-</td>
-<td align="center">
-<br/>AIRBUS OPERATIONS SAS<br/>
-</td>
-<td align="center">
-<br/>Airbus opérations SAS - établissement de NANTES<br/>
-</td>
-<td align="center">
-<br/>17 635 <br/>
-</td>
-<td align="center">
-<br/>17 329 <br/>
-</td>
-<td align="center">
-<br/>17 020 <br/>
-</td>
-<td align="center">
-<br/>16 706 <br/>
-</td>
-<td align="center">
-<br/>16 390 <br/>
-</td>
-<td align="center">
-<br/>16 070 <br/>
-</td>
-<td align="center">
-<br/>15 746 <br/>
-</td>
-<td align="center">
-<br/>15 421 <br/>
-</td>
-<td align="center">
-<br/>132 317<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000539<br/>
-</td>
-<td align="center">
-<br/>ELENGY<br/>
-</td>
-<td align="center">
-<br/>Terminal méthanier de Montoir-de-Bretagne<br/>
-</td>
-<td align="center">
-<br/>9 647 <br/>
-</td>
-<td align="center">
-<br/>27 117</td>
-<td align="center">
-<br/>24 018</td>
-<td align="center">
-<br/>21 015</td>
-<td align="center">
-<br/>18 103</td>
-<td align="center">
-<br/>15 286</td>
-<td align="center">
-<br/>12 560</td>
-<td align="center">
-<br/>9 936<br/>
-</td>
-<td align="center">
-<br/>137 682<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000540<br/>
-</td>
-<td align="center">
-<br/>SARVAL OUEST<br/>
-</td>
-<td align="center">
-<br/>SARVAL OUEST<br/>
-</td>
-<td align="center">
-<br/>18 649 <br/>
-</td>
-<td align="center">
-<br/>16 689 <br/>
-</td>
-<td align="center">
-<br/>14 782 <br/>
-</td>
-<td align="center">
-<br/>12 934 <br/>
-</td>
-<td align="center">
-<br/>11 142 <br/>
-</td>
-<td align="center">
-<br/>9 408 <br/>
-</td>
-<td align="center">
-<br/>7 731 <br/>
-</td>
-<td align="center">
-<br/>6 115 <br/>
-</td>
-<td align="center">
-<br/>97 450<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000542<br/>
-</td>
-<td align="center">
-<br/>Herbignac Cheese Ingredients<br/>
-</td>
-<td align="center">
-<br/>Herbignac Cheese Ingredients<br/>
-</td>
-<td align="center">
-<br/>15 444 <br/>
-</td>
-<td align="center">
-<br/>17 054</td>
-<td align="center">
-<br/>16 510</td>
-<td align="center">
-<br/>15 972<br/>
-</td>
-<td align="center">
-<br/>15 439</td>
-<td align="center">
-<br/>14 913<br/>
-</td>
-<td align="center">
-<br/>14 391</td>
-<td align="center">13 878</td>
-<td align="center">
-<br/>123 601<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000543<br/>
-</td>
-<td align="center">
-<br/>SOCIETE LAITIERE DE MAYENNE <br/>
-</td>
-<td align="center">
-<br/>SOCIETE LAITIERE DE MAYENNE<br/>
-</td>
-<td align="center">
-<br/>28 036 <br/>
-</td>
-<td align="center">
-<br/>32 565<br/>
-</td>
-<td align="center">
-<br/>31 983<br/>
-</td>
-<td align="center">
-<br/>31 394</td>
-<td align="center">
-<br/>30 799</td>
-<td align="center">
-<br/>30 199</td>
-<td align="center">29 591</td>
-<td align="center">
-<br/>28 981<br/>
-</td>
-<td align="center">243 548</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000544<br/>
-</td>
-<td align="center">
-<br/>STE FROMAGERE DE BOUVRON<br/>
-</td>
-<td align="center">
-<br/>STE FROMAGERE DE BOUVRON<br/>
-</td>
-<td align="center">
-<br/>7 483 <br/>
-</td>
-<td align="center">
-<br/>6 697 <br/>
-</td>
-<td align="center">
-<br/>5 932 <br/>
-</td>
-<td align="center">
-<br/>5 190 <br/>
-</td>
-<td align="center">
-<br/>4 471 <br/>
-</td>
-<td align="center">
-<br/>3 775 <br/>
-</td>
-<td align="center">
-<br/>3 102 <br/>
-</td>
-<td align="center">
-<br/>2 454 <br/>
-</td>
-<td align="center">
-<br/>39 104<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000545<br/>
-</td>
-<td align="center">
-<br/>SOCIETE FROMAGERE DE CHARCHIGNE<br/>
-</td>
-<td align="center">
-<br/>SOCIETE FROMAGERE DE CHARCHIGNE<br/>
-</td>
-<td align="center">
-<br/>5 324 <br/>
-</td>
-<td align="center">
-<br/>4 765 <br/>
-</td>
-<td align="center">
-<br/>4 220 <br/>
-</td>
-<td align="center">
-<br/>3 693 <br/>
-</td>
-<td align="center">
-<br/>3 181 <br/>
-</td>
-<td align="center">
-<br/>2 686 <br/>
-</td>
-<td align="center">
-<br/>2 207 <br/>
-</td>
-<td align="center">
-<br/>1 746 <br/>
-</td>
-<td align="center">
-<br/>27 822<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000549<br/>
-</td>
-<td align="center">
-<br/>Arjowiggins Papiers Couchés<br/>
-</td>
-<td align="center">
-<br/>Arjowiggins Papiers Couchés - usine de Bessé-sur-Braye<br/>
-</td>
-<td align="center">
-<br/>92 858 <br/>
-</td>
-<td align="center">
-<br/>91 245 <br/>
-</td>
-<td align="center">
-<br/>89 613 <br/>
-</td>
-<td align="center">
-<br/>87 965 <br/>
-</td>
-<td align="center">
-<br/>86 298 <br/>
-</td>
-<td align="center">
-<br/>84 615 <br/>
-</td>
-<td align="center">
-<br/>82 911 <br/>
-</td>
-<td align="center">
-<br/>81 202 <br/>
-</td>
-<td align="center">
-<br/>696 707<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000550<br/>
-</td>
-<td align="center">
-<br/>ERENA<br/>
-</td>
-<td align="center">
-<br/>Centrale Thermique Beaulieu Malakoff<br/>
-</td>
-<td align="center">
-<br/>3 148 <br/>
-</td>
-<td align="center">
-<br/>2 817 <br/>
-</td>
-<td align="center">
-<br/>2 496 <br/>
-</td>
-<td align="center">
-<br/>2 183 <br/>
-</td>
-<td align="center">
-<br/>1 881 <br/>
-</td>
-<td align="center">
-<br/>1 588 <br/>
-</td>
-<td align="center">
-<br/>1 305 <br/>
-</td>
-<td align="center">
-<br/>1 032 <br/>
-</td>
-<td align="center">
-<br/>16 450<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000551<br/>
-</td>
-<td align="center">
-<br/>DALKIA France<br/>
-</td>
-<td align="center">
-<br/>DALKIA CENTRE HOSPITALIER<br/>
-</td>
-<td align="center">
-<br/>2 406 <br/>
-</td>
-<td align="center">
-<br/>2 153 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>4 559<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000552<br/>
-</td>
-<td align="center">
-<br/>DALKIA France<br/>
-</td>
-<td align="center">
-<br/>DALKIA ZUP d' ALLONES<br/>
-</td>
-<td align="center">
-<br/>577 <br/>
-</td>
-<td align="center">
-<br/>477 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>1 054<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000553<br/>
-</td>
-<td align="center">
-<br/>SOCIETE THERMIQUE DE LAVAL SAINT NICOLAS (STLN)<br/>
-</td>
-<td align="center">
-<br/>SOCIETE THERMIQUE DE LAVAL SAINT NICOLAS (STLN)<br/>
-</td>
-<td align="center">
-<br/>6 183 <br/>
-</td>
-<td align="center">
-<br/>5 533 <br/>
-</td>
-<td align="center">
-<br/>4 902 <br/>
-</td>
-<td align="center">
-<br/>4 291 <br/>
-</td>
-<td align="center">
-<br/>3 698 <br/>
-</td>
-<td align="center">
-<br/>3 125 <br/>
-</td>
-<td align="center">
-<br/>2 571 <br/>
-</td>
-<td align="center">
-<br/>2 037 <br/>
-</td>
-<td align="center">
-<br/>32 340<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000554<br/>
-</td>
-<td align="center">
-<br/>SIFDDA CENTRE SAS<br/>
-</td>
-<td align="center">
-<br/>SIFDDA CENTRE SAS<br/>
-</td>
-<td align="center">
-<br/>20 634 <br/>
-</td>
-<td align="center">
-<br/>18 466 <br/>
-</td>
-<td align="center">
-<br/>16 356 <br/>
-</td>
-<td align="center">
-<br/>14 311 <br/>
-</td>
-<td align="center">
-<br/>12 328 <br/>
-</td>
-<td align="center">
-<br/>10 410 <br/>
-</td>
-<td align="center">
-<br/>8 554 <br/>
-</td>
-<td align="center">
-<br/>6 767 <br/>
-</td>
-<td align="center">
-<br/>107 826<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000555<br/>
-</td>
-<td align="center">
-<br/>ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre</td>
-<td align="center">
-<br/>ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre</td>
-<td align="center">
-<br/>33 045 <br/>
-</td>
-<td align="center">
-<br/>32 471 <br/>
-</td>
-<td align="center">
-<br/>31 890 <br/>
-</td>
-<td align="center">
-<br/>31 303 <br/>
-</td>
-<td align="center">
-<br/>30 710 <br/>
-</td>
-<td align="center">
-<br/>30 111 <br/>
-</td>
-<td align="center">
-<br/>29 505 <br/>
-</td>
-<td align="center">
-<br/>28 896 <br/>
-</td>
-<td align="center">
-<br/>247 931<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000556<br/>
-</td>
-<td align="center">
-<br/>SOCCRAM<br/>
-</td>
-<td align="center">
-<br/>SOCCRAM chaufferie des Sablons (LE MANS)<br/>
-</td>
-<td align="center">
-<br/>15 111 <br/>
-</td>
-<td align="center">
-<br/>13 524 <br/>
-</td>
-<td align="center">
-<br/>11 980 <br/>
-</td>
-<td align="center">
-<br/>10 486 <br/>
-</td>
-<td align="center">
-<br/>9 039 <br/>
-</td>
-<td align="center">
-<br/>7 638 <br/>
-</td>
-<td align="center">
-<br/>6 283 <br/>
-</td>
-<td align="center">
-<br/>4 977 <br/>
-</td>
-<td align="center">
-<br/>79 038<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000557<br/>
-</td>
-<td align="center">
-<br/>SOCCRAM<br/>
-</td>
-<td align="center">
-<br/>SOCCRAM chaufferie de la Roseraie (Angers)<br/>
-</td>
-<td align="center">
-<br/>3 906 <br/>
-</td>
-<td align="center">
-<br/>3 182 <br/>
-</td>
-<td align="center">
-<br/>2 743 <br/>
-</td>
-<td align="center">
-<br/>2 400 <br/>
-</td>
-<td align="center">
-<br/>2 068 <br/>
-</td>
-<td align="center">
-<br/>1 746 <br/>
-</td>
-<td align="center">
-<br/>1 434 <br/>
-</td>
-<td align="center">
-<br/>1 135 <br/>
-</td>
-<td align="center">
-<br/>18 614<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000558<br/>
-</td>
-<td align="center">
-<br/>Marcel BROUILLER (directeur de l'usine ACI Le Mans)<br/>
-</td>
-<td align="center">
-<br/>ACI Le Mans<br/>
-</td>
-<td align="center">
-<br/>22 941 <br/>
-</td>
-<td align="center">
-<br/>20 869 <br/>
-</td>
-<td align="center">
-<br/>18 850 <br/>
-</td>
-<td align="center">
-<br/>16 888 <br/>
-</td>
-<td align="center">
-<br/>14 984 <br/>
-</td>
-<td align="center">
-<br/>13 140 <br/>
-</td>
-<td align="center">
-<br/>11 351 <br/>
-</td>
-<td align="center">
-<br/>9 628 <br/>
-</td>
-<td align="center">
-<br/>128 651<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000559<br/>
-</td>
-<td align="center">
-<br/>TOTAL RAFFINAGE FRANCE <br/>
-</td>
-<td align="center">
-<br/>TOTAL RAFFINAGE FRANCE <br/>
-</td>
-<td align="center">
-<br/>1 124 155 <br/>
-</td>
-<td align="center">
-<br/>1 104 629 <br/>
-</td>
-<td align="center">
-<br/>1 084 874 <br/>
-</td>
-<td align="center">
-<br/>1 064 913 <br/>
-</td>
-<td align="center">
-<br/>1 044 737 <br/>
-</td>
-<td align="center">
-<br/>1 024 365 <br/>
-</td>
-<td align="center">
-<br/>1 003 738 <br/>
-</td>
-<td align="center">
-<br/>983 040 <br/>
-</td>
-<td align="center">
-<br/>8 434 451<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000561<br/>
-</td>
-<td align="center">
-<br/>DS SMITH PACKAGING <br/>
-</td>
-<td align="center">
-<br/>DS SMITH PACKAGING Papeterie de Nantes <br/>
-</td>
-<td align="center">
-<br/>12 269 <br/>
-</td>
-<td align="center">
-<br/>12 056 <br/>
-</td>
-<td align="center">
-<br/>11 839 <br/>
-</td>
-<td align="center">
-<br/>11 622 <br/>
-</td>
-<td align="center">
-<br/>11 402 <br/>
-</td>
-<td align="center">
-<br/>11 180 <br/>
-</td>
-<td align="center">
-<br/>10 954 <br/>
-</td>
-<td align="center">
-<br/>10 729 <br/>
-</td>
-<td align="center">
-<br/>92 051<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000562<br/>
-</td>
-<td align="center">
-<br/>ARJOWIGGINS LE BOURRAY SAS<br/>
-</td>
-<td align="center">
-<br/>ARJOWIGGINS LE BOURRAY SAS<br/>
-</td>
-<td align="center">
-<br/>34 950 <br/>
-</td>
-<td align="center">
-<br/>34 342 <br/>
-</td>
-<td align="center">
-<br/>33 728 <br/>
-</td>
-<td align="center">
-<br/>33 108 <br/>
-</td>
-<td align="center">
-<br/>32 480 <br/>
-</td>
-<td align="center">
-<br/>31 847 <br/>
-</td>
-<td align="center">
-<br/>31 206 <br/>
-</td>
-<td align="center">
-<br/>30 562 <br/>
-</td>
-<td align="center">
-<br/>262 223<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000563<br/>
-</td>
-<td align="center">
-<br/>SOCIETE NANTAISE DE DISTRIBUTION DE CHALEUR (NADIC)<br/>
-</td>
-<td align="center">
-<br/>NADIC<br/>
-</td>
-<td align="center">
-<br/>7 129 <br/>
-</td>
-<td align="center">
-<br/>6 380 <br/>
-</td>
-<td align="center">
-<br/>5 651 <br/>
-</td>
-<td align="center">
-<br/>4 947 <br/>
-</td>
-<td align="center">
-<br/>4 264 <br/>
-</td>
-<td align="center">
-<br/>3 604 <br/>
-</td>
-<td align="center">
-<br/>2 964 <br/>
-</td>
-<td align="center">
-<br/>2 347 <br/>
-</td>
-<td align="center">
-<br/>37 286<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000564<br/>
-</td>
-<td align="center">
-<br/>LHOIST France <br/>
-</td>
-<td align="center">
-<br/>Chaux et Dolomie Françaises usine de Neau<br/>
-</td>
-<td align="center">
-<br/>241 904 <br/>
-</td>
-<td align="center">
-<br/>237 685 <br/>
-</td>
-<td align="center">
-<br/>233 417 <br/>
-</td>
-<td align="center">
-<br/>229 105 <br/>
-</td>
-<td align="center">
-<br/>224 749 <br/>
-</td>
-<td align="center">
-<br/>220 350 <br/>
-</td>
-<td align="center">
-<br/>215 896 <br/>
-</td>
-<td align="center">
-<br/>211 430 <br/>
-</td>
-<td align="center">
-<br/>1 814 536<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000565<br/>
-</td>
-<td align="center">
-<br/>SOCIETE CELIA-LAITERIE DE CRAON<br/>
-</td>
-<td align="center">
-<br/>SOCIETE CELIA-LAITERIE DE CRAON<br/>
-</td>
-<td align="center">
-<br/>14 464 <br/>
-</td>
-<td align="center">
-<br/>13 784 <br/>
-</td>
-<td align="center">
-<br/>13 115 <br/>
-</td>
-<td align="center">
-<br/>12 459 <br/>
-</td>
-<td align="center">
-<br/>11 817 <br/>
-</td>
-<td align="center">
-<br/>11 189 <br/>
-</td>
-<td align="center">
-<br/>10 573 <br/>
-</td>
-<td align="center">
-<br/>9 973 <br/>
-</td>
-<td align="center">
-<br/>97 374<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000567<br/>
-</td>
-<td align="center">
-<br/>Bruno Baril<br/>
-</td>
-<td align="center">
-<br/>ALLARD EMBALLAGES<br/>
-</td>
-<td align="center">
-<br/>13 506 <br/>
-</td>
-<td align="center">
-<br/>13 272 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>9 465</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000568<br/>
-</td>
-<td align="center">
-<br/>CARGILL France SAS<br/>
-</td>
-<td align="center">
-<br/>Cargill Saint-Nazaire<br/>
-</td>
-<td align="center">
-<br/>22 777 <br/>
-</td>
-<td align="center">
-<br/>22 165 <br/>
-</td>
-<td align="center">
-<br/>21 559 <br/>
-</td>
-<td align="center">
-<br/>20 955 <br/>
-</td>
-<td align="center">
-<br/>20 357 <br/>
-</td>
-<td align="center">
-<br/>19 761 <br/>
-</td>
-<td align="center">
-<br/>19 168 <br/>
-</td>
-<td align="center">
-<br/>18 582 <br/>
-</td>
-<td align="center">
-<br/>165 324<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000571<br/>
-</td>
-<td align="center">
-<br/>GDF SUEZ THERMIQUE France <br/>
-</td>
-<td align="center">
-<br/>GDF SUEZ THERMIQUE France <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000576<br/>
-</td>
-<td align="center">
-<br/>BOUYER LEROUX<br/>
-</td>
-<td align="center">
-<br/>BOUYER LEROUX usines Saint-Martin-des-Fontaines <br/>
-</td>
-<td align="center">
-<br/>32 924 <br/>
-</td>
-<td align="center">
-<br/>32 352 <br/>
-</td>
-<td align="center">
-<br/>31 774 <br/>
-</td>
-<td align="center">
-<br/>31 190 <br/>
-</td>
-<td align="center">
-<br/>30 598 <br/>
-</td>
-<td align="center">
-<br/>30 002 <br/>
-</td>
-<td align="center">
-<br/>29 397 <br/>
-</td>
-<td align="center">
-<br/>28 792 <br/>
-</td>
-<td align="center">
-<br/>247 029<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000579<br/>
-</td>
-<td align="center">
-<br/>BOUYER LEROUX STRUCTURE<br/>
-</td>
-<td align="center">
-<br/>BOUYER LEROUX STRUCTURE site de La Boissière-du-Doré <br/>
-</td>
-<td align="center">
-<br/>7 276 <br/>
-</td>
-<td align="center">
-<br/>7 149 <br/>
-</td>
-<td align="center">
-<br/>7 021 <br/>
-</td>
-<td align="center">
-<br/>6 893 <br/>
-</td>
-<td align="center">
-<br/>6 762 <br/>
-</td>
-<td align="center">
-<br/>6 630 <br/>
-</td>
-<td align="center">
-<br/>6 496 <br/>
-</td>
-<td align="center">
-<br/>6 363 <br/>
-</td>
-<td align="center">
-<br/>54 590<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000580<br/>
-</td>
-<td align="center">
-<br/>SERRES LES 3 MOULINS<br/>
-</td>
-<td align="center">
-<br/>SCEA SERRES LES 3 MOULINS<br/>
-</td>
-<td align="center">
-<br/>4 534 <br/>
-</td>
-<td align="center">
-<br/>4 057 <br/>
-</td>
-<td align="center">
-<br/>3 594 <br/>
-</td>
-<td align="center">
-<br/>3 144 <br/>
-</td>
-<td align="center">
-<br/>2 708 <br/>
-</td>
-<td align="center">
-<br/>2 287 <br/>
-</td>
-<td align="center">
-<br/>1 879 <br/>
-</td>
-<td align="center">
-<br/>1 486 <br/>
-</td>
-<td align="center">
-<br/>23 689<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000581<br/>
-</td>
-<td align="center">
-<br/>BOUYER LEROUX<br/>
-</td>
-<td align="center">
-<br/>BOUYER LEROUX usine La Séguinière<br/>
-</td>
-<td align="center">
-<br/>38 929 <br/>
-</td>
-<td align="center">
-<br/>38 252 <br/>
-</td>
-<td align="center">
-<br/>37 569 <br/>
-</td>
-<td align="center">
-<br/>36 877 <br/>
-</td>
-<td align="center">
-<br/>36 178 <br/>
-</td>
-<td align="center">
-<br/>35 473 <br/>
-</td>
-<td align="center">
-<br/>34 759 <br/>
-</td>
-<td align="center">
-<br/>34 042 <br/>
-</td>
-<td align="center">
-<br/>292 079<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000582<br/>
-</td>
-<td align="center">
-<br/>SCB Chez COFELY<br/>
-</td>
-<td align="center">
-<br/>SOCIETE DE COGENERATION DU BOURRAY<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000583<br/>
-</td>
-<td align="center">
-<br/>PIGEON CHAUX SA<br/>
-</td>
-<td align="center">
-<br/>PIGEON CHAUX VAIGES<br/>
-</td>
-<td align="center">
-<br/>47 755 <br/>
-</td>
-<td align="center">
-<br/>46 925 <br/>
-</td>
-<td align="center">
-<br/>46 086 <br/>
-</td>
-<td align="center">
-<br/>45 238 <br/>
-</td>
-<td align="center">
-<br/>44 381 <br/>
-</td>
-<td align="center">
-<br/>43 515 <br/>
-</td>
-<td align="center">
-<br/>42 639 <br/>
-</td>
-<td align="center">
-<br/>41 760 <br/>
-</td>
-<td align="center">
-<br/>358 299<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000584<br/>
-</td>
-<td align="center">
-<br/>ALTEO GARDANNE<br/>
-</td>
-<td align="center">
-<br/>ALTEO GARDANNE<br/>
-</td>
-<td align="center">
-<br/>274 104 <br/>
-</td>
-<td align="center">
-<br/>269 343 <br/>
-</td>
-<td align="center">
-<br/>264 526 <br/>
-</td>
-<td align="center">
-<br/>259 658 <br/>
-</td>
-<td align="center">
-<br/>254 740 <br/>
-</td>
-<td align="center">
-<br/>249 772 <br/>
-</td>
-<td align="center">
-<br/>244 742 <br/>
-</td>
-<td align="center">
-<br/>239 696 <br/>
-</td>
-<td align="center">
-<br/>2 056 581<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000585<br/>
-</td>
-<td align="center">
-<br/>CEA CADARACHE<br/>
-</td>
-<td align="center">
-<br/>CEA CADARACHE<br/>
-</td>
-<td align="center">
-<br/>10 328 <br/>
-</td>
-<td align="center">
-<br/>9 243 <br/>
-</td>
-<td align="center">
-<br/>8 187 <br/>
-</td>
-<td align="center">
-<br/>7 163 <br/>
-</td>
-<td align="center">
-<br/>6 171 <br/>
-</td>
-<td align="center">
-<br/>5 211 <br/>
-</td>
-<td align="center">
-<br/>4 281 <br/>
-</td>
-<td align="center">
-<br/>3 387 <br/>
-</td>
-<td align="center">
-<br/>53 971<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000586<br/>
-</td>
-<td align="center">
-<br/>APEE<br/>
-</td>
-<td align="center">
-<br/>Aix - ZUP d'Encagnane<br/>
-</td>
-<td align="center">
-<br/>7 882 <br/>
-</td>
-<td align="center">
-<br/>7 054 <br/>
-</td>
-<td align="center">
-<br/>6 247 <br/>
-</td>
-<td align="center">
-<br/>5 466 <br/>
-</td>
-<td align="center">
-<br/>4 709 <br/>
-</td>
-<td align="center">
-<br/>3 976 <br/>
-</td>
-<td align="center">
-<br/>3 268 <br/>
-</td>
-<td align="center">
-<br/>2 584 <br/>
-</td>
-<td align="center">
-<br/>41 186<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000588<br/>
-</td>
-<td align="center">
-<br/>SOCIETE GARDANNAISE DE COGENERATION<br/>
-</td>
-<td align="center">
-<br/>SOCIETE GARDANNAISE DE COGENERATION<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000589<br/>
-</td>
-<td align="center">
-<br/>Lfoundry Rousset SAS<br/>
-</td>
-<td align="center">
-<br/>Lfoundry Rousset SAS<br/>
-</td>
-<td align="center">
-<br/>6 895 <br/>
-</td>
-<td align="center">
-<br/>6 775 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>13 670</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000591<br/>
-</td>
-<td align="center">
-<br/>COGE VITRY<br/>
-</td>
-<td align="center">
-<br/>COGE VITRY<br/>
-</td>
-<td align="center">
-<br/>170 713 <br/>
-</td>
-<td align="center">
-<br/>152 772 <br/>
-</td>
-<td align="center">
-<br/>135 339 <br/>
-</td>
-<td align="center">
-<br/>118 459 <br/>
-</td>
-<td align="center">
-<br/>102 109 <br/>
-</td>
-<td align="center">
-<br/>86 289 <br/>
-</td>
-<td align="center">
-<br/>70 979 <br/>
-</td>
-<td align="center">
-<br/>56 220 <br/>
-</td>
-<td align="center">
-<br/>892 880<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000592<br/>
-</td>
-<td align="center">
-<br/>CPCU<br/>
-</td>
-<td align="center">
-<br/>CPCU - Saint-Ouen III<br/>
-</td>
-<td align="center">
-<br/>127 694 <br/>
-</td>
-<td align="center">
-<br/>114 274 <br/>
-</td>
-<td align="center">
-<br/>101 235 <br/>
-</td>
-<td align="center">
-<br/>88 608 <br/>
-</td>
-<td align="center">
-<br/>76 378 <br/>
-</td>
-<td align="center">
-<br/>64 545 <br/>
-</td>
-<td align="center">
-<br/>53 093 <br/>
-</td>
-<td align="center">
-<br/>42 053 <br/>
-</td>
-<td align="center">
-<br/>667 880<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000593<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments - usine de Contes<br/>
-</td>
-<td align="center">
-<br/>245 941 <br/>
-</td>
-<td align="center">
-<br/>241 669 <br/>
-</td>
-<td align="center">
-<br/>237 347 <br/>
-</td>
-<td align="center">
-<br/>232 980 <br/>
-</td>
-<td align="center">
-<br/>228 566 <br/>
-</td>
-<td align="center">
-<br/>224 109 <br/>
-</td>
-<td align="center">
-<br/>219 596 <br/>
-</td>
-<td align="center">
-<br/>215 068 <br/>
-</td>
-<td align="center">
-<br/>1 845 276<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000594<br/>
-</td>
-<td align="center">
-<br/>DALKIA France<br/>
-</td>
-<td align="center">
-<br/>DALKIA-ex COMETHERM-Chaufferie Saint-Augustin<br/>
-</td>
-<td align="center">
-<br/>6 378 <br/>
-</td>
-<td align="center">
-<br/>5 707 <br/>
-</td>
-<td align="center">
-<br/>5 055 <br/>
-</td>
-<td align="center">
-<br/>4 423 <br/>
-</td>
-<td align="center">
-<br/>3 810 <br/>
-</td>
-<td align="center">
-<br/>3 217 <br/>
-</td>
-<td align="center">
-<br/>2 644 <br/>
-</td>
-<td align="center">
-<br/>2 091 <br/>
-</td>
-<td align="center">
-<br/>33 325<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000595<br/>
-</td>
-<td align="center">
-<br/>SA VICAT<br/>
-</td>
-<td align="center">
-<br/>CIMENTERIE VICAT - Grave-de-Peille<br/>
-</td>
-<td align="center">
-<br/>588 146 <br/>
-</td>
-<td align="center">
-<br/>577 931 <br/>
-</td>
-<td align="center">
-<br/>567 595 <br/>
-</td>
-<td align="center">
-<br/>557 151 <br/>
-</td>
-<td align="center">
-<br/>546 596 <br/>
-</td>
-<td align="center">
-<br/>535 936 <br/>
-</td>
-<td align="center">
-<br/>525 145 <br/>
-</td>
-<td align="center">
-<br/>514 317 <br/>
-</td>
-<td align="center">
-<br/>4 412 817<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000596<br/>
-</td>
-<td align="center">
-<br/>ISOVER<br/>
-</td>
-<td align="center">
-<br/>SAINT-GOBAIN ISOVER<br/>
-</td>
-<td align="center">
-<br/>23 338 <br/>
-</td>
-<td align="center">
-<br/>22 778 <br/>
-</td>
-<td align="center">
-<br/>22 218 <br/>
-</td>
-<td align="center">
-<br/>21 661 <br/>
-</td>
-<td align="center">
-<br/>21 104 <br/>
-</td>
-<td align="center">
-<br/>20 550 <br/>
-</td>
-<td align="center">
-<br/>19 995 <br/>
-</td>
-<td align="center">
-<br/>19 445 <br/>
-</td>
-<td align="center">
-<br/>171 089<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000597<br/>
-</td>
-<td align="center">
-<br/>Smurfit Kappa Papier récyclé France<br/>
-</td>
-<td align="center">
-<br/>Smurfit Kappa Papier recyclé France - papeterie Alfa d'Avignon<br/>
-</td>
-<td align="center">
-<br/>20 579 <br/>
-</td>
-<td align="center">
-<br/>20 223 <br/>
-</td>
-<td align="center">
-<br/>19 860 <br/>
-</td>
-<td align="center">
-<br/>19 495 <br/>
-</td>
-<td align="center">
-<br/>19 126 <br/>
-</td>
-<td align="center">
-<br/>18 753 <br/>
-</td>
-<td align="center">
-<br/>18 376 <br/>
-</td>
-<td align="center">
-<br/>17 996 <br/>
-</td>
-<td align="center">
-<br/>154 408<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000598<br/>
-</td>
-<td align="center">
-<br/>CAMPBELL France SAS<br/>
-</td>
-<td align="center">
-<br/>CAMPBELL France SAS<br/>
-</td>
-<td align="center">
-<br/>7 946 <br/>
-</td>
-<td align="center">
-<br/>7 112 <br/>
-</td>
-<td align="center">
-<br/>6 298 <br/>
-</td>
-<td align="center">
-<br/>5 511 <br/>
-</td>
-<td align="center">
-<br/>4 748 <br/>
-</td>
-<td align="center">
-<br/>4 008 <br/>
-</td>
-<td align="center">
-<br/>3 294 <br/>
-</td>
-<td align="center">
-<br/>2 606 <br/>
-</td>
-<td align="center">
-<br/>41 523<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000599<br/>
-</td>
-<td align="center">
-<br/>PAPETERIE DE GROMELLE<br/>
-</td>
-<td align="center">
-<br/>PAPETERIE DE GROMELLE<br/>
-</td>
-<td align="center">
-<br/>3 379 <br/>
-</td>
-<td align="center">
-<br/>3 320 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>6 699</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000602<br/>
-</td>
-<td align="center">
-<br/>Saint Louis Sucre<br/>
-</td>
-<td align="center">
-<br/>Saint Louis Sucre-Marseille<br/>
-</td>
-<td align="center">
-<br/>31 298 <br/>
-</td>
-<td align="center">
-<br/>30 755 <br/>
-</td>
-<td align="center">
-<br/>30 205 <br/>
-</td>
-<td align="center">
-<br/>29 649 <br/>
-</td>
-<td align="center">
-<br/>29 087 <br/>
-</td>
-<td align="center">
-<br/>28 520 <br/>
-</td>
-<td align="center">
-<br/>27 946 <br/>
-</td>
-<td align="center">
-<br/>27 369 <br/>
-</td>
-<td align="center">
-<br/>234 829<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000603<br/>
-</td>
-<td align="center">
-<br/>HEINEKEN ENTREPRISE<br/>
-</td>
-<td align="center">
-<br/>BRASSERIE HEINEKEN Marseille<br/>
-</td>
-<td align="center">
-<br/>4 038 <br/>
-</td>
-<td align="center">
-<br/>3 614 <br/>
-</td>
-<td align="center">
-<br/>3 201 <br/>
-</td>
-<td align="center">
-<br/>2 801 <br/>
-</td>
-<td align="center">
-<br/>2 413 <br/>
-</td>
-<td align="center">
-<br/>2 037 <br/>
-</td>
-<td align="center">
-<br/>1 674 <br/>
-</td>
-<td align="center">
-<br/>1 324 <br/>
-</td>
-<td align="center">
-<br/>21 102<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000604<br/>
-</td>
-<td align="center">
-<br/>ARKEMA SA<br/>
-</td>
-<td align="center">
-<br/>ARKEMA usine de Marseille<br/>
-</td>
-<td align="center">
-<br/>91 076 <br/>
-</td>
-<td align="center">
-<br/>89 493 <br/>
-</td>
-<td align="center">
-<br/>87 893 <br/>
-</td>
-<td align="center">
-<br/>86 276 <br/>
-</td>
-<td align="center">
-<br/>84 641 <br/>
-</td>
-<td align="center">
-<br/>82 990 <br/>
-</td>
-<td align="center">
-<br/>81 320 <br/>
-</td>
-<td align="center">
-<br/>79 643 <br/>
-</td>
-<td align="center">
-<br/>683 332<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000606<br/>
-</td>
-<td align="center">
-<br/>AP-HM <br/>
-</td>
-<td align="center">
-<br/>Hôpital Timone<br/>
-</td>
-<td align="center">
-<br/>8 075 <br/>
-</td>
-<td align="center">
-<br/>7 227 <br/>
-</td>
-<td align="center">
-<br/>6 401 <br/>
-</td>
-<td align="center">
-<br/>5 601 <br/>
-</td>
-<td align="center">
-<br/>4 825 <br/>
-</td>
-<td align="center">
-<br/>4 074 <br/>
-</td>
-<td align="center">
-<br/>3 348 <br/>
-</td>
-<td align="center">
-<br/>2 648 <br/>
-</td>
-<td align="center">
-<br/>42 199<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000607<br/>
-</td>
-<td align="center">
-<br/>AP-HM <br/>
-</td>
-<td align="center">
-<br/>Hôpital Sainte-Marguerite<br/>
-</td>
-<td align="center">
-<br/>2 424 <br/>
-</td>
-<td align="center">
-<br/>2 170 <br/>
-</td>
-<td align="center">
-<br/>1 921 <br/>
-</td>
-<td align="center">
-<br/>1 681 <br/>
-</td>
-<td align="center">
-<br/>1 448 <br/>
-</td>
-<td align="center">
-<br/>1 222 <br/>
-</td>
-<td align="center">
-<br/>1 005 <br/>
-</td>
-<td align="center">
-<br/>795 <br/>
-</td>
-<td align="center">
-<br/>12 666<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000608<br/>
-</td>
-<td align="center">
-<br/>KEM ONE <br/>
-</td>
-<td align="center">
-<br/>KEM ONE SAINT-AUBAN<br/>
-</td>
-<td align="center">
-<br/>12 838 <br/>
-</td>
-<td align="center">
-<br/>12 615 <br/>
-</td>
-<td align="center">
-<br/>12 389 <br/>
-</td>
-<td align="center">
-<br/>12 161 <br/>
-</td>
-<td align="center">
-<br/>11 931 <br/>
-</td>
-<td align="center">
-<br/>11 698 <br/>
-</td>
-<td align="center">
-<br/>11 463 <br/>
-</td>
-<td align="center">
-<br/>11 226 <br/>
-</td>
-<td align="center">
-<br/>96 321<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000609<br/>
-</td>
-<td align="center">
-<br/>STORENGY Pôle Salins<br/>
-</td>
-<td align="center">
-<br/>GEOMETHANE Stockage souterrain de Manosque<br/>
-</td>
-<td align="center">
-<br/>2 704 <br/>
-</td>
-<td align="center">
-<br/>2 420 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>5 124<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000610<br/>
-</td>
-<td align="center">
-<br/>Fibre Excellence Tarascon<br/>
-</td>
-<td align="center">
-<br/>Fibre Excellence Tarascon<br/>
-</td>
-<td align="center">
-<br/>381 337 <br/>
-</td>
-<td align="center">
-<br/>374 714 <br/>
-</td>
-<td align="center">
-<br/>368 013 <br/>
-</td>
-<td align="center">
-<br/>361 241 <br/>
-</td>
-<td align="center">
-<br/>354 397 <br/>
-</td>
-<td align="center">
-<br/>347 486 <br/>
-</td>
-<td align="center">
-<br/>340 490 <br/>
-</td>
-<td align="center">
-<br/>333 468 <br/>
-</td>
-<td align="center">
-<br/>2 861 146<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000611<br/>
-</td>
-<td align="center">
-<br/>GRTgaz Région Rhône Méditerranée<br/>
-</td>
-<td align="center">
-<br/>GRTgaz station de compression de Saint-Martin-de-Crau<br/>
-</td>
-<td align="center">
-<br/>27 317 <br/>
-</td>
-<td align="center">
-<br/>24 446 <br/>
-</td>
-<td align="center">
-<br/>21 654 <br/>
-</td>
-<td align="center">
-<br/>18 946 <br/>
-</td>
-<td align="center">
-<br/>16 321 <br/>
-</td>
-<td align="center">
-<br/>13 781 <br/>
-</td>
-<td align="center">
-<br/>11 324 <br/>
-</td>
-<td align="center">
-<br/>8 957 <br/>
-</td>
-<td align="center">
-<br/>142 746<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000613<br/>
-</td>
-<td align="center">
-<br/>Chaux de Provence - SACAM<br/>
-</td>
-<td align="center">
-<br/>Chaux de Provence - SACAM<br/>
-</td>
-<td align="center">
-<br/>132 445 <br/>
-</td>
-<td align="center">
-<br/>130 144 <br/>
-</td>
-<td align="center">
-<br/>127 817 <br/>
-</td>
-<td align="center">
-<br/>125 465 <br/>
-</td>
-<td align="center">
-<br/>123 088 <br/>
-</td>
-<td align="center">
-<br/>120 688 <br/>
-</td>
-<td align="center">
-<br/>118 258 <br/>
-</td>
-<td align="center">
-<br/>115 819 <br/>
-</td>
-<td align="center">
-<br/>993 724<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000614<br/>
-</td>
-<td align="center">
-<br/>PETROINEOS Manufacturing France<br/>
-</td>
-<td align="center">
-<br/>Raffinerie de Lavéra<br/>
-</td>
-<td align="center">
-<br/>1 168 256 <br/>
-</td>
-<td align="center">
-<br/>1 147 965 <br/>
-</td>
-<td align="center">
-<br/>1 127 435 <br/>
-</td>
-<td align="center">
-<br/>1 106 690 <br/>
-</td>
-<td align="center">
-<br/>1 085 723 <br/>
-</td>
-<td align="center">
-<br/>1 064 551 <br/>
-</td>
-<td align="center">
-<br/>1 043 116 <br/>
-</td>
-<td align="center">
-<br/>1 021 606 <br/>
-</td>
-<td align="center">
-<br/>8 765 342<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000615<br/>
-</td>
-<td align="center">
-<br/>GEOGAZ-LAVERA<br/>
-</td>
-<td align="center">
-<br/>GEOGAZ-LAVERA<br/>
-</td>
-<td align="center">
-<br/>623 <br/>
-</td>
-<td align="center">
-<br/>558 <br/>
-</td>
-<td align="center">
-<br/>494 <br/>
-</td>
-<td align="center">
-<br/>432 <br/>
-</td>
-<td align="center">
-<br/>372 <br/>
-</td>
-<td align="center">
-<br/>314 <br/>
-</td>
-<td align="center">
-<br/>258 <br/>
-</td>
-<td align="center">
-<br/>204 <br/>
-</td>
-<td align="center">
-<br/>3 255<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000616<br/>
-</td>
-<td align="center">
-<br/>Naphtachimie<br/>
-</td>
-<td align="center">
-<br/>Naphtachimie <br/>
-</td>
-<td align="center">
-<br/>1 075 903 <br/>
-</td>
-<td align="center">
-<br/>1 057 001 <br/>
-</td>
-<td align="center">
-<br/>1 037 887 <br/>
-</td>
-<td align="center">
-<br/>1 018 584 <br/>
-</td>
-<td align="center">
-<br/>999 084 <br/>
-</td>
-<td align="center">
-<br/>979 403 <br/>
-</td>
-<td align="center">
-<br/>959 489 <br/>
-</td>
-<td align="center">
-<br/>939 513 <br/>
-</td>
-<td align="center">
-<br/>8 066 864<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000618<br/>
-</td>
-<td align="center">
-<br/>KEM ONE<br/>
-</td>
-<td align="center">
-<br/>KEM ONE FOS-SUR-MER <br/>
-</td>
-<td align="center">
-<br/>85 635 <br/>
-</td>
-<td align="center">
-<br/>84 147 <br/>
-</td>
-<td align="center">
-<br/>82 643 <br/>
-</td>
-<td align="center">
-<br/>81 122 <br/>
-</td>
-<td align="center">
-<br/>79 585 <br/>
-</td>
-<td align="center">
-<br/>78 033 <br/>
-</td>
-<td align="center">
-<br/>76 461 <br/>
-</td>
-<td align="center">
-<br/>74 885 <br/>
-</td>
-<td align="center">
-<br/>642 511<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000619<br/>
-</td>
-<td align="center">
-<br/>Lyondell Chimie France SAS<br/>
-</td>
-<td align="center">
-<br/>Lyondell Chimie France SAS<br/>
-</td>
-<td align="center">
-<br/>298 883 <br/>
-</td>
-<td align="center">
-<br/>293 691 <br/>
-</td>
-<td align="center">
-<br/>288 439 <br/>
-</td>
-<td align="center">
-<br/>283 132 <br/>
-</td>
-<td align="center">
-<br/>277 767 <br/>
-</td>
-<td align="center">
-<br/>272 351 <br/>
-</td>
-<td align="center">
-<br/>266 866 <br/>
-</td>
-<td align="center">
-<br/>261 364 <br/>
-</td>
-<td align="center">
-<br/>2 242 493<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000621<br/>
-</td>
-<td align="center">
-<br/>BPO ou BASELL POLYOLEFINES<br/>
-</td>
-<td align="center">
-<br/>Usine chimique de Berre<br/>
-</td>
-<td align="center">
-<br/>353 000 <br/>
-</td>
-<td align="center">
-<br/>346 868 <br/>
-</td>
-<td align="center">
-<br/>340 666 <br/>
-</td>
-<td align="center">
-<br/>334 398 <br/>
-</td>
-<td align="center">
-<br/>328 061 <br/>
-</td>
-<td align="center">
-<br/>321 665 <br/>
-</td>
-<td align="center">
-<br/>315 187 <br/>
-</td>
-<td align="center">
-<br/>308 688 <br/>
-</td>
-<td align="center">
-<br/>2 648 533<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000622<br/>
-</td>
-<td align="center">
-<br/>BPO ou BASELL POLYOLEFINES<br/>
-</td>
-<td align="center">
-<br/>Usine chimique de l'Aubette<br/>
-</td>
-<td align="center">
-<br/>845 760 <br/>
-</td>
-<td align="center">
-<br/>831 071 <br/>
-</td>
-<td align="center">
-<br/>816 208 <br/>
-</td>
-<td align="center">
-<br/>801 189 <br/>
-</td>
-<td align="center">
-<br/>786 010 <br/>
-</td>
-<td align="center">
-<br/>770 684 <br/>
-</td>
-<td align="center">
-<br/>755 165 <br/>
-</td>
-<td align="center">
-<br/>739 592 <br/>
-</td>
-<td align="center">
-<br/>6 345 679<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000623<br/>
-</td>
-<td align="center">
-<br/>FIGENAL SNC<br/>
-</td>
-<td align="center">
-<br/>FIGENAL SNC<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000624<br/>
-</td>
-<td align="center">
-<br/>Compagnie pétrochimique de Berre<br/>
-</td>
-<td align="center">
-<br/>Raffinerie de Berre<br/>
-</td>
-<td align="center">
-<br/>570 164 <br/>
-</td>
-<td align="center">
-<br/>560 260 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<p>1 130</p>
-<p>424</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000625<br/>
-</td>
-<td align="center">
-<br/>Ascométal<br/>
-</td>
-<td align="center">
-<br/>Ascométal - usine de Fos<br/>
-</td>
-<td align="center">
-<br/>76 802 <br/>
-</td>
-<td align="center">
-<br/>75 468 <br/>
-</td>
-<td align="center">
-<br/>74 118 <br/>
-</td>
-<td align="center">
-<br/>72 754 <br/>
-</td>
-<td align="center">
-<br/>71 375 <br/>
-</td>
-<td align="center">
-<br/>69 985 <br/>
-</td>
-<td align="center">
-<br/>68 575 <br/>
-</td>
-<td align="center">
-<br/>67 161 <br/>
-</td>
-<td align="center">
-<br/>576 238<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000626<br/>
-</td>
-<td align="center">
-<br/>CIFC<br/>
-</td>
-<td align="center">
-<br/>CIFC<br/>
-</td>
-<td align="center">
-<br/>144 148 <br/>
-</td>
-<td align="center">
-<br/>141 644 <br/>
-</td>
-<td align="center">
-<br/>139 111 <br/>
-</td>
-<td align="center">
-<br/>136 551 <br/>
-</td>
-<td align="center">
-<br/>133 964 <br/>
-</td>
-<td align="center">
-<br/>131 352 <br/>
-</td>
-<td align="center">
-<br/>128 707 <br/>
-</td>
-<td align="center">
-<br/>126 053 <br/>
-</td>
-<td align="center">
-<br/>1 081 530<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000627<br/>
-</td>
-<td align="center">
-<br/>ESSO Raffinage SAS - raffinerie de Fos-sur-Mer <br/>
-</td>
-<td align="center">
-<br/>ESSO RAFFINAGE SAS - Fos-sur-Mer<br/>
-</td>
-<td align="center">
-<br/>689 442 <br/>
-</td>
-<td align="center">
-<br/>677 467 <br/>
-</td>
-<td align="center">
-<br/>665 352 <br/>
-</td>
-<td align="center">
-<br/>653 109 <br/>
-</td>
-<td align="center">
-<br/>640 735 <br/>
-</td>
-<td align="center">
-<br/>628 241 <br/>
-</td>
-<td align="center">
-<br/>615 591 <br/>
-</td>
-<td align="center">
-<br/>602 897 <br/>
-</td>
-<td align="center">
-<br/>5 172 834<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000628<br/>
-</td>
-<td align="center">
-<br/>ArcelorMittal Méditerranée - Site de Fos-sur-Mer</td>
-<td align="center">
-<br/>ArcelorMittal Méditerranée - Site de Fos-sur-Mer</td>
-<td align="center">
-<br/>6 855 188 <br/>
-</td>
-<td align="center">
-<br/>6 736 120 <br/>
-</td>
-<td align="center">
-<br/>6 615 651 <br/>
-</td>
-<td align="center">
-<br/>6 493 928 <br/>
-</td>
-<td align="center">
-<br/>6 370 890 <br/>
-</td>
-<td align="center">
-<br/>6 246 659 <br/>
-</td>
-<td align="center">
-<br/>6 120 876 <br/>
-</td>
-<td align="center">
-<br/>5 994 660 <br/>
-</td>
-<td align="center">
-<br/>51 433 972<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000629<br/>
-</td>
-<td align="center">
-<br/>TOTAL raffinerie de Provence<br/>
-</td>
-<td align="center">
-<br/>Raffinerie de Provence<br/>
-</td>
-<td align="center">
-<br/>821 267 <br/>
-</td>
-<td align="center">
-<br/>807 002 <br/>
-</td>
-<td align="center">
-<br/>792 570 <br/>
-</td>
-<td align="center">
-<br/>777 987 <br/>
-</td>
-<td align="center">
-<br/>763 247 <br/>
-</td>
-<td align="center">
-<br/>748 364 <br/>
-</td>
-<td align="center">
-<br/>733 295 <br/>
-</td>
-<td align="center">
-<br/>718 174 <br/>
-</td>
-<td align="center">
-<br/>6 161 906<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000632<br/>
-</td>
-<td align="center">
-<br/>SOCIETE THERMIQUE DE SALON-DE-PROVENCE (STSP)<br/>
-</td>
-<td align="center">
-<br/>STSP SEMISAP<br/>
-</td>
-<td align="center">
-<br/>6 668 <br/>
-</td>
-<td align="center">
-<br/>5 958 <br/>
-</td>
-<td align="center">
-<br/>5 278 <br/>
-</td>
-<td align="center">
-<br/>4 620 <br/>
-</td>
-<td align="center">
-<br/>3 981 <br/>
-</td>
-<td align="center">
-<br/>3 364 <br/>
-</td>
-<td align="center">
-<br/>2 767 <br/>
-</td>
-<td align="center">
-<br/>2 192 <br/>
-</td>
-<td align="center">
-<br/>34 828<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000633<br/>
-</td>
-<td align="center">
-<br/>ELENGY<br/>
-</td>
-<td align="center">
-<br/>Terminal méthanier de Fos Tonkin<br/>
-</td>
-<td align="center">
-<br/>4 405 <br/>
-</td>
-<td align="center">
-<br/>3 941 <br/>
-</td>
-<td align="center">
-<br/>3 492 <br/>
-</td>
-<td align="center">
-<br/>3 054 <br/>
-</td>
-<td align="center">
-<br/>2 632 <br/>
-</td>
-<td align="center">
-<br/>2 223 <br/>
-</td>
-<td align="center">
-<br/>1 826 <br/>
-</td>
-<td align="center">
-<br/>1 445 <br/>
-</td>
-<td align="center">
-<br/>23 018<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000634<br/>
-</td>
-<td align="center">
-<br/>SAS Conserves de Provence<br/>
-</td>
-<td align="center">
-<br/>SAS CONSERVES DE PROVENCE<br/>
-</td>
-<td align="center">
-<br/>4 888 <br/>
-</td>
-<td align="center">
-<br/>4 374 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>9 262<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000636<br/>
-</td>
-<td align="center">
-<br/>CONSERVES France<br/>
-</td>
-<td align="center">
-<br/>CONSERVES France - site de Tarascon<br/>
-</td>
-<td align="center">
-<br/>7 751 <br/>
-</td>
-<td align="center">
-<br/>7 171 <br/>
-</td>
-<td align="center">
-<br/>6 605 <br/>
-</td>
-<td align="center">
-<br/>6 054 <br/>
-</td>
-<td align="center">
-<br/>5 518 <br/>
-</td>
-<td align="center">
-<br/>4 998 <br/>
-</td>
-<td align="center">
-<br/>4 491 <br/>
-</td>
-<td align="center">
-<br/>4 003 <br/>
-</td>
-<td align="center">
-<br/>46 591<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000637<br/>
-</td>
-<td align="center">
-<br/>LAVERA ENERGIES<br/>
-</td>
-<td align="center">
-<br/>LAVERA ENERGIES SNC<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000638<br/>
-</td>
-<td align="center">
-<br/>SETHELEC<br/>
-</td>
-<td align="center">
-<br/>Centrale de cogénération SETHELEC d'Arles<br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000639<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments<br/>
-</td>
-<td align="center">
-<br/>Lafarge Ciments - usine de La Malle<br/>
-</td>
-<td align="center">
-<br/>393 400 <br/>
-</td>
-<td align="center">
-<br/>386 567 <br/>
-</td>
-<td align="center">
-<br/>379 653 <br/>
-</td>
-<td align="center">
-<br/>372 668 <br/>
-</td>
-<td align="center">
-<br/>365 607 <br/>
-</td>
-<td align="center">
-<br/>358 478 <br/>
-</td>
-<td align="center">
-<br/>351 260 <br/>
-</td>
-<td align="center">
-<br/>344 016 <br/>
-</td>
-<td align="center">
-<br/>2 951 649<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000640<br/>
-</td>
-<td align="center">
-<br/>AULNAY ENERGIE SERVICES<br/>
-</td>
-<td align="center">
-<br/>AULNAY ENERGIE SERVICES - Cogénération<br/>
-</td>
-<td align="center">
-<br/>5 837 <br/>
-</td>
-<td align="center">
-<br/>4 726 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>10 563</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000641<br/>
-</td>
-<td align="center">
-<br/>Chaux de la Tour<br/>
-</td>
-<td align="center">
-<br/>Chaux de la Tour - usine d'Ensuès<br/>
-</td>
-<td align="center">
-<br/>121 189 <br/>
-</td>
-<td align="center">
-<br/>119 084 <br/>
-</td>
-<td align="center">
-<br/>116 954 <br/>
-</td>
-<td align="center">
-<br/>114 802 <br/>
-</td>
-<td align="center">
-<br/>112 627 <br/>
-</td>
-<td align="center">
-<br/>110 431 <br/>
-</td>
-<td align="center">
-<br/>108 207 <br/>
-</td>
-<td align="center">
-<br/>105 976 <br/>
-</td>
-<td align="center">
-<br/>909 270<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000642<br/>
-</td>
-<td align="center">
-<br/>COFELY GDF SUEZ<br/>
-</td>
-<td align="center">
-<br/>ROMAINVILLE<br/>
-</td>
-<td align="center">
-<br/>8 745 <br/>
-</td>
-<td align="center">
-<br/>8 334 <br/>
-</td>
-<td align="center">
-<br/>7 929 <br/>
-</td>
-<td align="center">
-<br/>7 534 <br/>
-</td>
-<td align="center">
-<br/>7 146 <br/>
-</td>
-<td align="center">
-<br/>6 765 <br/>
-</td>
-<td align="center">
-<br/>6 393 <br/>
-</td>
-<td align="center">
-<br/>6 030 <br/>
-</td>
-<td align="center">
-<br/>58 876<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000644<br/>
-</td>
-<td align="center">
-<br/>Aéroports de Paris<br/>
-</td>
-<td align="center">
-<br/>Centrale thermique Bât. 128<br/>
-</td>
-<td align="center">
-<br/>3 937 <br/>
-</td>
-<td align="center">
-<br/>3 523 <br/>
-</td>
-<td align="center">
-<br/>3 121 <br/>
-</td>
-<td align="center">
-<br/>2 730 <br/>
-</td>
-<td align="center">
-<br/>2 352 <br/>
-</td>
-<td align="center">
-<br/>1 986 <br/>
-</td>
-<td align="center">
-<br/>1 632 <br/>
-</td>
-<td align="center">
-<br/>1 291 <br/>
-</td>
-<td align="center">
-<br/>20 572<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000646<br/>
-</td>
-<td align="center">
-<br/>EURENCO<br/>
-</td>
-<td align="center">
-<br/>EURENCO<br/>
-</td>
-<td align="center">
-<br/>14 095 <br/>
-</td>
-<td align="center">
-<br/>13 446 <br/>
-</td>
-<td align="center">
-<br/>12 809 <br/>
-</td>
-<td align="center">
-<br/>12 188 <br/>
-</td>
-<td align="center">
-<br/>11 581 <br/>
-</td>
-<td align="center">
-<br/>10 989 <br/>
-</td>
-<td align="center">
-<br/>10 409 <br/>
-</td>
-<td align="center">
-<br/>9 845 <br/>
-</td>
-<td align="center">
-<br/>95 362<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000648<br/>
-</td>
-<td align="center">
-<br/>MONIER<br/>
-</td>
-<td align="center">
-<br/>Tuilerie Monier Marseille<br/>
-</td>
-<td align="center">
-<br/>11 548 <br/>
-</td>
-<td align="center">
-<br/>11 347 <br/>
-</td>
-<td align="center">
-<br/>11 144 <br/>
-</td>
-<td align="center">
-<br/>10 940 <br/>
-</td>
-<td align="center">
-<br/>10 732 <br/>
-</td>
-<td align="center">
-<br/>10 523 <br/>
-</td>
-<td align="center">
-<br/>10 311 <br/>
-</td>
-<td align="center">
-<br/>10 098 <br/>
-</td>
-<td align="center">
-<br/>86 643<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000649<br/>
-</td>
-<td align="center">
-<br/>SDCC<br/>
-</td>
-<td align="center">
-<br/>SDC Clichy<br/>
-</td>
-<td align="center">
-<br/>19 798 <br/>
-</td>
-<td align="center">
-<br/>17 462 <br/>
-</td>
-<td align="center">
-<br/>15 466 <br/>
-</td>
-<td align="center">
-<br/>13 532 <br/>
-</td>
-<td align="center">
-<br/>11 658 <br/>
-</td>
-<td align="center">
-<br/>9 844 <br/>
-</td>
-<td align="center">
-<br/>8 088 <br/>
-</td>
-<td align="center">
-<br/>6 399 <br/>
-</td>
-<td align="center">
-<br/>102 247<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000650<br/>
-</td>
-<td align="center">
-<br/>GENNEVILLIERS ENERGIE<br/>
-</td>
-<td align="center">
-<br/>Chaufferie du Luth<br/>
-</td>
-<td align="center">
-<br/>14 262 <br/>
-</td>
-<td align="center">
-<br/>12 763 <br/>
-</td>
-<td align="center">
-<br/>11 306 <br/>
-</td>
-<td align="center">
-<br/>9 896 <br/>
-</td>
-<td align="center">
-<br/>8 530 <br/>
-</td>
-<td align="center">
-<br/>7 209 <br/>
-</td>
-<td align="center">
-<br/>5 930 <br/>
-</td>
-<td align="center">
-<br/>4 697 <br/>
-</td>
-<td align="center">
-<br/>74 593<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000651<br/>
-</td>
-<td align="center">
-<br/>Société géothermale des Rives de la Marne <br/>
-</td>
-<td align="center">
-<br/>Société géothermale des Rives de la Marne <br/>
-</td>
-<td align="center">
-<br/>10 754 <br/>
-</td>
-<td align="center">
-<br/>9 624 <br/>
-</td>
-<td align="center">
-<br/>8 525 <br/>
-</td>
-<td align="center">
-<br/>7 458 <br/>
-</td>
-<td align="center">
-<br/>6 425 <br/>
-</td>
-<td align="center">
-<br/>5 425 <br/>
-</td>
-<td align="center">
-<br/>4 458 <br/>
-</td>
-<td align="center">
-<br/>3 527 <br/>
-</td>
-<td align="center">
-<br/>56 196<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000652<br/>
-</td>
-<td align="center">
-<br/>PLAINE COMMUNE ENERGIE</td>
-<td align="center">
-<br/>PLAINE COMMUNE ENERGIE NORD</td>
-<td align="center">
-<br/>7 919 <br/>
-</td>
-<td align="center">
-<br/>6 560 <br/>
-</td>
-<td align="center">
-<br/>5 537 <br/>
-</td>
-<td align="center">
-<br/>4 845 <br/>
-</td>
-<td align="center">
-<br/>4 173 <br/>
-</td>
-<td align="center">
-<br/>3 524 <br/>
-</td>
-<td align="center">
-<br/>2 896 <br/>
-</td>
-<td align="center">
-<br/>2 291 <br/>
-</td>
-<td align="center">
-<br/>37 745<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000654<br/>
-</td>
-<td align="center">
-<br/>SGD<br/>
-</td>
-<td align="center">
-<br/>SGD Sucy-en-Brie<br/>
-</td>
-<td align="center">
-<br/>58 494 <br/>
-</td>
-<td align="center">
-<br/>57 478 <br/>
-</td>
-<td align="center">
-<br/>56 450 <br/>
-</td>
-<td align="center">
-<br/>55 411 <br/>
-</td>
-<td align="center">
-<br/>54 361 <br/>
-</td>
-<td align="center">
-<br/>53 301 <br/>
-</td>
-<td align="center">
-<br/>52 228 <br/>
-</td>
-<td align="center">
-<br/>51 151 <br/>
-</td>
-<td align="center">
-<br/>438 874<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000655<br/>
-</td>
-<td align="center">
-<br/>DI GIOVANNI ALBERT<br/>
-</td>
-<td align="center">
-<br/>Kéraglass<br/>
-</td>
-<td align="center">
-<br/>18 985 <br/>
-</td>
-<td align="center">
-<br/>18 656 <br/>
-</td>
-<td align="center">
-<br/>18 322 <br/>
-</td>
-<td align="center">
-<br/>17 985 <br/>
-</td>
-<td align="center">
-<br/>17 644 <br/>
-</td>
-<td align="center">
-<br/>17 300 <br/>
-</td>
-<td align="center">
-<br/>16 952 <br/>
-</td>
-<td align="center">
-<br/>16 603 <br/>
-</td>
-<td align="center">
-<br/>142 447<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000657<br/>
-</td>
-<td align="center">
-<br/>Corning SAS<br/>
-</td>
-<td align="center">
-<br/>Corning SAS<br/>
-</td>
-<td align="center">
-<br/>4 414 <br/>
-</td>
-<td align="center">
-<br/>4 337 <br/>
-</td>
-<td align="center">
-<br/>4 260 <br/>
-</td>
-<td align="center">
-<br/>4 181 <br/>
-</td>
-<td align="center">
-<br/>4 102 <br/>
-</td>
-<td align="center">
-<br/>4 022 <br/>
-</td>
-<td align="center">
-<br/>3 941 <br/>
-</td>
-<td align="center">
-<br/>3 860 <br/>
-</td>
-<td align="center">
-<br/>33 117<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000660<br/>
-</td>
-<td align="center">
-<br/>CHELLES CHALEUR<br/>
-</td>
-<td align="center">
-<br/>CHELLES CHALEUR<br/>
-</td>
-<td align="center">
-<br/>4 951 <br/>
-</td>
-<td align="center">
-<br/>4 431 <br/>
-</td>
-<td align="center">
-<br/>3 925 <br/>
-</td>
-<td align="center">
-<br/>3 434 <br/>
-</td>
-<td align="center">
-<br/>2 958 <br/>
-</td>
-<td align="center">
-<br/>2 498 <br/>
-</td>
-<td align="center">
-<br/>2 052 <br/>
-</td>
-<td align="center">
-<br/>1 624 <br/>
-</td>
-<td align="center">
-<br/>25 873<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000661<br/>
-</td>
-<td align="center">
-<br/>Euro Disney Associés SCA<br/>
-</td>
-<td align="center">
-<br/>CEP (Centrale de Production d'Energie : chaufferie des parcs à thèmes)<br/>
-</td>
-<td align="center">
-<br/>9 167 <br/>
-</td>
-<td align="center">
-<br/>8 204 <br/>
-</td>
-<td align="center">
-<br/>7 266 <br/>
-</td>
-<td align="center">
-<br/>6 358 <br/>
-</td>
-<td align="center">
-<br/>5 477 <br/>
-</td>
-<td align="center">
-<br/>4 624 <br/>
-</td>
-<td align="center">
-<br/>3 800 <br/>
-</td>
-<td align="center">
-<br/>3 007 <br/>
-</td>
-<td align="center">
-<br/>47 903<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000662<br/>
-</td>
-<td align="center">
-<br/>SOCCRAM<br/>
-</td>
-<td align="center">
-<br/>SOCCRAM Chaufferie de la plaine du Lys (DAMMARIE)<br/>
-</td>
-<td align="center">
-<br/>9 604 <br/>
-</td>
-<td align="center">
-<br/>8 595 <br/>
-</td>
-<td align="center">
-<br/>7 613 <br/>
-</td>
-<td align="center">
-<br/>6 664 <br/>
-</td>
-<td align="center">
-<br/>5 744 <br/>
-</td>
-<td align="center">
-<br/>4 854 <br/>
-</td>
-<td align="center">
-<br/>3 993 <br/>
-</td>
-<td align="center">
-<br/>3 163 <br/>
-</td>
-<td align="center">
-<br/>50 230<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000663<br/>
-</td>
-<td align="center">
-<br/>BOREALIS CHIMIE SAS<br/>
-</td>
-<td align="center">
-<br/>Chaleur Grandpuits<br/>
-</td>
-<td align="center">
-<br/>8 496 <br/>
-</td>
-<td align="center">
-<br/>8 348 <br/>
-</td>
-<td align="center">
-<br/>8 199 <br/>
-</td>
-<td align="center">
-<br/>8 048 <br/>
-</td>
-<td align="center">
-<br/>7 896 <br/>
-</td>
-<td align="center">
-<br/>7 742 <br/>
-</td>
-<td align="center">
-<br/>7 586 <br/>
-</td>
-<td align="center">
-<br/>7 429 <br/>
-</td>
-<td align="center">
-<br/>63 744<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000664<br/>
-</td>
-<td align="center">
-<br/>RAFFINERIE DE GRANDPUITS<br/>
-</td>
-<td align="center">
-<br/>RAFFINERIE DE GRANDPUITS<br/>
-</td>
-<td align="center">
-<br/>592 595 <br/>
-</td>
-<td align="center">
-<br/>582 302 <br/>
-</td>
-<td align="center">
-<br/>571 888 <br/>
-</td>
-<td align="center">
-<br/>561 366 <br/>
-</td>
-<td align="center">
-<br/>550 730 <br/>
-</td>
-<td align="center">
-<br/>539 991 <br/>
-</td>
-<td align="center">
-<br/>529 117 <br/>
-</td>
-<td align="center">
-<br/>518 207 <br/>
-</td>
-<td align="center">
-<br/>4 446 196<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000665<br/>
-</td>
-<td align="center">
-<br/>ARJOWIGGINS SECURITY SAS<br/>
-</td>
-<td align="center">
-<br/>ARJOWIGGINS SECURITY SAS<br/>
-</td>
-<td align="center">
-<br/>6 706 <br/>
-</td>
-<td align="center">
-<br/>6 589 <br/>
-</td>
-<td align="center">
-<br/>6 471 <br/>
-</td>
-<td align="center">
-<br/>6 352 <br/>
-</td>
-<td align="center">
-<br/>6 232 <br/>
-</td>
-<td align="center">
-<br/>6 110 <br/>
-</td>
-<td align="center">
-<br/>5 987 <br/>
-</td>
-<td align="center">
-<br/>5 864 <br/>
-</td>
-<td align="center">
-<br/>50 311<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000666<br/>
-</td>
-<td align="center">
-<br/>GEOVAL<br/>
-</td>
-<td align="center">
-<br/>Centrale du Segrais<br/>
-</td>
-<td align="center">
-<br/>8 639 <br/>
-</td>
-<td align="center">
-<br/>7 588 <br/>
-</td>
-<td align="center">
-<br/>6 722 <br/>
-</td>
-<td align="center">
-<br/>5 883 <br/>
-</td>
-<td align="center">
-<br/>5 072 <br/>
-</td>
-<td align="center">
-<br/>4 286 <br/>
-</td>
-<td align="center">
-<br/>3 525 <br/>
-</td>
-<td align="center">
-<br/>2 792 <br/>
-</td>
-<td align="center">
-<br/>44 507<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000667<br/>
-</td>
-<td align="center">
-<br/>H2D DIDIER MARY<br/>
-</td>
-<td align="center">
-<br/>H2D DIDIER MARY<br/>
-</td>
-<td align="center">
-<br/>8 913 <br/>
-</td>
-<td align="center">
-<br/>7 977 <br/>
-</td>
-<td align="center">
-<br/>7 067 <br/>
-</td>
-<td align="center">
-<br/>6 185 <br/>
-</td>
-<td align="center">
-<br/>5 331 <br/>
-</td>
-<td align="center">
-<br/>4 505 <br/>
-</td>
-<td align="center">
-<br/>3 706 <br/>
-</td>
-<td align="center">
-<br/>2 935 <br/>
-</td>
-<td align="center">
-<br/>46 619<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000668<br/>
-</td>
-<td align="center">
-<br/>COMPAGNIE GEOTHERMIQUE DE CHAUFFAGE URBAIN (CGCU)<br/>
-</td>
-<td align="center">
-<br/>CGCU Cie GEOTHERMIQUE CHAUFFAGE URBAIN<br/>
-</td>
-<td align="center">
-<br/>13 155 <br/>
-</td>
-<td align="center">
-<br/>11 773 <br/>
-</td>
-<td align="center">
-<br/>10 429 <br/>
-</td>
-<td align="center">
-<br/>9 128 <br/>
-</td>
-<td align="center">
-<br/>7 868 <br/>
-</td>
-<td align="center">
-<br/>6 649 <br/>
-</td>
-<td align="center">
-<br/>5 469 <br/>
-</td>
-<td align="center">
-<br/>4 332 <br/>
-</td>
-<td align="center">
-<br/>68 803<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000669<br/>
-</td>
-<td align="center">
-<br/>SC2M<br/>
-</td>
-<td align="center">
-<br/>SC2M chaufferie urbaine de MELUN-MONTAIGU<br/>
-</td>
-<td align="center">
-<br/>1 853 <br/>
-</td>
-<td align="center">
-<br/>1 659 <br/>
-</td>
-<td align="center">
-<br/>1 469 <br/>
-</td>
-<td align="center">
-<br/>1 286 <br/>
-</td>
-<td align="center">
-<br/>1 107 <br/>
-</td>
-<td align="center">
-<br/>935 <br/>
-</td>
-<td align="center">
-<br/>769 <br/>
-</td>
-<td align="center">
-<br/>608 <br/>
-</td>
-<td align="center">
-<br/>9 686<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000670<br/>
-</td>
-<td align="center">
-<br/>STHAL<br/>
-</td>
-<td align="center">
-<br/>Chaufferie Urbaine STHAL<br/>
-</td>
-<td align="center">
-<br/>11 203 <br/>
-</td>
-<td align="center">
-<br/>10 025 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">0</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>21 228<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000671<br/>
-</td>
-<td align="center">
-<br/>SILEC CABLE<br/>
-</td>
-<td align="center">
-<br/>SILEC CABLE<br/>
-</td>
-<td align="center">
-<br/>8 302 <br/>
-</td>
-<td align="center">
-<br/>7 429 <br/>
-</td>
-<td align="center">
-<br/>6 580 <br/>
-</td>
-<td align="center">
-<br/>5 757 <br/>
-</td>
-<td align="center">
-<br/>4 960 <br/>
-</td>
-<td align="center">
-<br/>4 188 <br/>
-</td>
-<td align="center">
-<br/>3 441 <br/>
-</td>
-<td align="center">
-<br/>2 722 <br/>
-</td>
-<td align="center">
-<br/>43 379<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000672<br/>
-</td>
-<td align="center">
-<br/>SAM MONTEREAU SAS<br/>
-</td>
-<td align="center">
-<br/>SAM MONTEREAU SAS<br/>
-</td>
-<td align="center">
-<br/>96 185 <br/>
-</td>
-<td align="center">
-<br/>94 516 <br/>
-</td>
-<td align="center">
-<br/>92 825 <br/>
-</td>
-<td align="center">
-<br/>91 117 <br/>
-</td>
-<td align="center">
-<br/>89 391 <br/>
-</td>
-<td align="center">
-<br/>87 647 <br/>
-</td>
-<td align="center">
-<br/>85 883 <br/>
-</td>
-<td align="center">
-<br/>84 112 <br/>
-</td>
-<td align="center">
-<br/>721 676<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000673<br/>
-</td>
-<td align="center">
-<br/>ERIVA<br/>
-</td>
-<td align="center">
-<br/>ERIVA<br/>
-</td>
-<td align="center">
-<br/>10 349 <br/>
-</td>
-<td align="center">
-<br/>8 495 <br/>
-</td>
-<td align="center">
-<br/>6 846 <br/>
-</td>
-<td align="center">
-<br/>5 394 <br/>
-</td>
-<td align="center">
-<br/>4 472 <br/>
-</td>
-<td align="center">
-<br/>3 775 <br/>
-</td>
-<td align="center">
-<br/>3 103 <br/>
-</td>
-<td align="center">
-<br/>2 454 <br/>
-</td>
-<td align="center">
-<br/>44 888<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000674<br/>
-</td>
-<td align="center">
-<br/>SNECMA<br/>
-</td>
-<td align="center">
-<br/>SNECMA Villaroche<br/>
-</td>
-<td align="center">
-<br/>9 785 <br/>
-</td>
-<td align="center">
-<br/>9 615 <br/>
-</td>
-<td align="center">
-<br/>9 444 <br/>
-</td>
-<td align="center">
-<br/>9 274 <br/>
-</td>
-<td align="center">
-<br/>9 104 <br/>
-</td>
-<td align="center">
-<br/>8 934 <br/>
-</td>
-<td align="center">
-<br/>8 763 <br/>
-</td>
-<td align="center">
-<br/>8 593 <br/>
-</td>
-<td align="center">
-<br/>73 512<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000675<br/>
-</td>
-<td align="center">
-<br/>SAS Lesaffre Frères<br/>
-</td>
-<td align="center">
-<br/>SAS Lesaffre Frères<br/>
-</td>
-<td align="center">
-<br/>21 337 <br/>
-</td>
-<td align="center">
-<br/>20 966 <br/>
-</td>
-<td align="center">
-<br/>20 591 <br/>
-</td>
-<td align="center">
-<br/>20 212 <br/>
-</td>
-<td align="center">
-<br/>19 829 <br/>
-</td>
-<td align="center">
-<br/>19 442 <br/>
-</td>
-<td align="center">
-<br/>19 051 <br/>
-</td>
-<td align="center">
-<br/>18 658 <br/>
-</td>
-<td align="center">
-<br/>160 086<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000680<br/>
-</td>
-<td align="center">
-<br/>M. OUVRÉ Vincent<br/>
-</td>
-<td align="center">
-<br/>Sucrerie et Distillerie de Souppes OUVRÉ Fils SA<br/>
-</td>
-<td align="center">
-<br/>17 731 <br/>
-</td>
-<td align="center">
-<br/>17 423 <br/>
-</td>
-<td align="center">
-<br/>17 111 <br/>
-</td>
-<td align="center">
-<br/>16 796 <br/>
-</td>
-<td align="center">
-<br/>16 478 <br/>
-</td>
-<td align="center">
-<br/>16 157 <br/>
-</td>
-<td align="center">
-<br/>15 832 <br/>
-</td>
-<td align="center">
-<br/>15 505 <br/>
-</td>
-<td align="center">
-<br/>133 033<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000683<br/>
-</td>
-<td align="center">
-<br/>STORENGY<br/>
-</td>
-<td align="center">
-<br/>Stockage Souterrain de BEYNES<br/>
-</td>
-<td align="center">
-<br/>20 240 <br/>
-</td>
-<td align="center">
-<br/>18 113 <br/>
-</td>
-<td align="center">
-<br/>16 044 <br/>
-</td>
-<td align="center">
-<br/>14 037 <br/>
-</td>
-<td align="center">
-<br/>12 093 <br/>
-</td>
-<td align="center">
-<br/>10 210 <br/>
-</td>
-<td align="center">
-<br/>8 390 <br/>
-</td>
-<td align="center">
-<br/>6 637 <br/>
-</td>
-<td align="center">
-<br/>105 764<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000684<br/>
-</td>
-<td align="center">
-<br/>ITON SEINE<br/>
-</td>
-<td align="center">
-<br/>ITON SEINE<br/>
-</td>
-<td align="center">
-<br/>55 591 <br/>
-</td>
-<td align="center">
-<br/>54 626 <br/>
-</td>
-<td align="center">
-<br/>53 649 <br/>
-</td>
-<td align="center">
-<br/>52 661 <br/>
-</td>
-<td align="center">
-<br/>51 664 <br/>
-</td>
-<td align="center">
-<br/>50 657 <br/>
-</td>
-<td align="center">
-<br/>49 636 <br/>
-</td>
-<td align="center">
-<br/>48 613 <br/>
-</td>
-<td align="center">
-<br/>417 097<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000685<br/>
-</td>
-<td align="center">
-<br/>OOME<br/>
-</td>
-<td align="center">
-<br/>OOME<br/>
-</td>
-<td align="center">
-<br/>1 262 <br/>
-</td>
-<td align="center">
-<br/>1 042 <br/>
-</td>
-<td align="center">
-<br/>844 <br/>
-</td>
-<td align="center">
-<br/>697 <br/>
-</td>
-<td align="center">
-<br/>600 <br/>
-</td>
-<td align="center">
-<br/>506 <br/>
-</td>
-<td align="center">
-<br/>416 <br/>
-</td>
-<td align="center">
-<br/>329 <br/>
-</td>
-<td align="center">
-<br/>5 696<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000686<br/>
-</td>
-<td align="center">
-<br/>COFELY GDF SUEZ<br/>
-</td>
-<td align="center">
-<br/>PARLY 2<br/>
-</td>
-<td align="center">
-<br/>18 516 <br/>
-</td>
-<td align="center">
-<br/>16 570 <br/>
-</td>
-<td align="center">
-<br/>14 680 <br/>
-</td>
-<td align="center">
-<br/>12 848 <br/>
-</td>
-<td align="center">
-<br/>11 075 <br/>
-</td>
-<td align="center">
-<br/>9 359 <br/>
-</td>
-<td align="center">
-<br/>7 699 <br/>
-</td>
-<td align="center">
-<br/>6 098 <br/>
-</td>
-<td align="center">
-<br/>96 845<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000688<br/>
-</td>
-<td align="center">
-<br/>M. Thierry CHARVET (Directeur de l'usine de Flins)<br/>
-</td>
-<td align="center">
-<br/>Usine Renault de Flins<br/>
-</td>
-<td align="center">
-<br/>57 889 <br/>
-</td>
-<td align="center">
-<br/>51 807 <br/>
-</td>
-<td align="center">
-<br/>45 888 <br/>
-</td>
-<td align="center">
-<br/>40 149 <br/>
-</td>
-<td align="center">
-<br/>34 586 <br/>
-</td>
-<td align="center">
-<br/>29 204 <br/>
-</td>
-<td align="center">
-<br/>23 996 <br/>
-</td>
-<td align="center">
-<br/>18 983 <br/>
-</td>
-<td align="center">
-<br/>302 502<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000689<br/>
-</td>
-<td align="center">
-<br/>Ciments Calcia<br/>
-</td>
-<td align="center">
-<br/>Ciments Calcia - usine de Gargenville<br/>
-</td>
-<td align="center">
-<br/>274 256 <br/>
-</td>
-<td align="center">
-<br/>269 492 <br/>
-</td>
-<td align="center">
-<br/>264 672 <br/>
-</td>
-<td align="center">
-<br/>259 803 <br/>
-</td>
-<td align="center">
-<br/>254 880 <br/>
-</td>
-<td align="center">
-<br/>249 910 <br/>
-</td>
-<td align="center">
-<br/>244 878 <br/>
-</td>
-<td align="center">
-<br/>239 828 <br/>
-</td>
-<td align="center">
-<br/>2 057 719<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000691<br/>
-</td>
-<td align="center">
-<br/>SOMEC (Société Mantaise d'Exploitation de Chauffage)<br/>
-</td>
-<td align="center">
-<br/>Chaufferie urbaine SOMEC<br/>
-</td>
-<td align="center">
-<br/>23 876 <br/>
-</td>
-<td align="center">
-<br/>19 780 <br/>
-</td>
-<td align="center">
-<br/>16 115 <br/>
-</td>
-<td align="center">
-<br/>13 898 <br/>
-</td>
-<td align="center">
-<br/>11 980 <br/>
-</td>
-<td align="center">
-<br/>10 123 <br/>
-</td>
-<td align="center">
-<br/>8 327 <br/>
-</td>
-<td align="center">
-<br/>6 596 <br/>
-</td>
-<td align="center">
-<br/>110 695<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000692<br/>
-</td>
-<td align="center">
-<br/>TERREAL<br/>
-</td>
-<td align="center">
-<br/>TERREAL - LES MUREAUX<br/>
-</td>
-<td align="center">
-<br/>8 871 <br/>
-</td>
-<td align="center">
-<br/>8 717 <br/>
-</td>
-<td align="center">
-<br/>8 562 <br/>
-</td>
-<td align="center">
-<br/>8 403 <br/>
-</td>
-<td align="center">
-<br/>8 245 <br/>
-</td>
-<td align="center">
-<br/>8 084 <br/>
-</td>
-<td align="center">
-<br/>7 921 <br/>
-</td>
-<td align="center">
-<br/>7 758 <br/>
-</td>
-<td align="center">
-<br/>66 561<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000693<br/>
-</td>
-<td align="center">
-<br/>PEUGEOT CITROEN POISSY SNC<br/>
-</td>
-<td align="center">
-<br/>PEUGEOT CITROEN POISSY SNC<br/>
-</td>
-<td align="center">
-<br/>41 048 <br/>
-</td>
-<td align="center">
-<br/>36 735 <br/>
-</td>
-<td align="center">
-<br/>32 538 <br/>
-</td>
-<td align="center">
-<br/>28 469 <br/>
-</td>
-<td align="center">
-<br/>24 525 <br/>
-</td>
-<td align="center">
-<br/>20 707 <br/>
-</td>
-<td align="center">
-<br/>17 016 <br/>
-</td>
-<td align="center">
-<br/>13 461 <br/>
-</td>
-<td align="center">
-<br/>214 499<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000695<br/>
-</td>
-<td align="center">
-<br/>ALPA, ACIERIES ET LAMINOIRS DE PARIS<br/>
-</td>
-<td align="center">
-<br/>ALPA, ACIERIES ET LAMINOIRS DE PARIS<br/>
-</td>
-<td align="center">
-<br/>61 618 <br/>
-</td>
-<td align="center">
-<br/>60 548 <br/>
-</td>
-<td align="center">
-<br/>59 465 <br/>
-</td>
-<td align="center">
-<br/>58 371 <br/>
-</td>
-<td align="center">
-<br/>57 265 <br/>
-</td>
-<td align="center">
-<br/>56 148 <br/>
-</td>
-<td align="center">
-<br/>55 018 <br/>
-</td>
-<td align="center">
-<br/>53 883 <br/>
-</td>
-<td align="center">
-<br/>462 316<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000696<br/>
-</td>
-<td align="center">
-<br/>ENERLAY<br/>
-</td>
-<td align="center">
-<br/>ENERLAY Chaufferie du Bel Air (SAINT-GERMAIN)<br/>
-</td>
-<td align="center">
-<br/>6 559 <br/>
-</td>
-<td align="center">
-<br/>5 870 <br/>
-</td>
-<td align="center">
-<br/>5 200 <br/>
-</td>
-<td align="center">
-<br/>4 551 <br/>
-</td>
-<td align="center">
-<br/>3 923 <br/>
-</td>
-<td align="center">
-<br/>3 315 <br/>
-</td>
-<td align="center">
-<br/>2 727 <br/>
-</td>
-<td align="center">
-<br/>2 160 <br/>
-</td>
-<td align="center">
-<br/>34 305<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000698<br/>
-</td>
-<td align="center">
-<br/>VELIDIS<br/>
-</td>
-<td align="center">
-<br/>VELIDIS<br/>
-</td>
-<td align="center">
-<br/>27 094 <br/>
-</td>
-<td align="center">
-<br/>24 246 <br/>
-</td>
-<td align="center">
-<br/>21 480 <br/>
-</td>
-<td align="center">
-<br/>18 801 <br/>
-</td>
-<td align="center">
-<br/>16 206 <br/>
-</td>
-<td align="center">
-<br/>13 695 <br/>
-</td>
-<td align="center">
-<br/>11 265 <br/>
-</td>
-<td align="center">
-<br/>8 923 <br/>
-</td>
-<td align="center">
-<br/>141 710<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000699<br/>
-</td>
-<td align="center">
-<br/>Peugeot Citroën Automobiles SA Vélizy<br/>
-</td>
-<td align="center">
-<br/>Peugeot Citroën Automobiles SA Vélizy<br/>
-</td>
-<td align="center">
-<br/>5 024 <br/>
-</td>
-<td align="center">
-<br/>4 496 <br/>
-</td>
-<td align="center">
-<br/>3 983 <br/>
-</td>
-<td align="center">
-<br/>3 484 <br/>
-</td>
-<td align="center">
-<br/>3 001 <br/>
-</td>
-<td align="center">
-<br/>2 534 <br/>
-</td>
-<td align="center">
-<br/>2 082 <br/>
-</td>
-<td align="center">
-<br/>1 648 <br/>
-</td>
-<td align="center">
-<br/>26 252<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000700<br/>
-</td>
-<td align="center">
-<br/>VERSEO<br/>
-</td>
-<td align="center">
-<br/>Verseo<br/>
-</td>
-<td align="center">
-<br/>23 229 <br/>
-</td>
-<td align="center">
-<br/>20 524 <br/>
-</td>
-<td align="center">
-<br/>18 181 <br/>
-</td>
-<td align="center">
-<br/>15 914 <br/>
-</td>
-<td align="center">
-<br/>13 717 <br/>
-</td>
-<td align="center">
-<br/>11 592 <br/>
-</td>
-<td align="center">
-<br/>9 535 <br/>
-</td>
-<td align="center">
-<br/>7 553 <br/>
-</td>
-<td align="center">
-<br/>120 245<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000701<br/>
-</td>
-<td align="center">
-<br/>IMPRIMERIE HELIO-CORBEIL <br/>
-</td>
-<td align="center">
-<br/>IMPRIMERIE HELIO-CORBEIL <br/>
-</td>
-<td align="center">
-<br/>3 523 <br/>
-</td>
-<td align="center">
-<br/>3 152 <br/>
-</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>18 406<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000702<br/>
-</td>
-<td align="center">
-<br/>ALTIS SEMICONDUCTOR<br/>
-</td>
-<td align="center">
-<br/>ALTIS<br/>
-</td>
-<td align="center">
-<br/>8 415 <br/>
-</td>
-<td align="center">
-<br/>8 268 <br/>
-</td>
-<td align="center">
-<br/>8 121 <br/>
-</td>
-<td align="center">
-<br/>7 972 <br/>
-</td>
-<td align="center">
-<br/>7 821 <br/>
-</td>
-<td align="center">
-<br/>7 668 <br/>
-</td>
-<td align="center">
-<br/>7 513 <br/>
-</td>
-<td align="center">
-<br/>7 358 <br/>
-</td>
-<td align="center">
-<br/>63 136<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000704<br/>
-</td>
-<td align="center">
-<br/>GIE EVRY<br/>
-</td>
-<td align="center">
-<br/>Chaufferie urbaine GIE EVRY<br/>
-</td>
-<td align="center">
-<br/>39 572 <br/>
-</td>
-<td align="center">
-<br/>34 972 <br/>
-</td>
-<td align="center">
-<br/>30 981 <br/>
-</td>
-<td align="center">
-<br/>27 117 <br/>
-</td>
-<td align="center">
-<br/>23 374 <br/>
-</td>
-<td align="center">
-<br/>19 753 <br/>
-</td>
-<td align="center">
-<br/>16 248 <br/>
-</td>
-<td align="center">
-<br/>12 869 <br/>
-</td>
-<td align="center">
-<br/>204 886<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000705<br/>
-</td>
-<td align="center">
-<br/>MAISON D'ARRET DE FLEURY-MEROGIS <br/>
-</td>
-<td align="center">
-<br/>MAISON D'ARRET DE FLEURY-MEROGIS <br/>
-</td>
-<td align="center">
-<br/>6 757 <br/>
-</td>
-<td align="center">
-<br/>6 047 <br/>
-</td>
-<td align="center">
-<br/>5 357 <br/>
-</td>
-<td align="center">
-<br/>4 687 <br/>
-</td>
-<td align="center">
-<br/>4 037 <br/>
-</td>
-<td align="center">
-<br/>3 409 <br/>
-</td>
-<td align="center">
-<br/>2 801 <br/>
-</td>
-<td align="center">
-<br/>2 216 <br/>
-</td>
-<td align="center">
-<br/>35 311<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000706<br/>
-</td>
-<td align="center">
-<br/>SYNDICAT PRINCIPAL DES COPROPRIETAIRES DE GRIGNY 2<br/>
-</td>
-<td align="center">
-<br/>Chaufferie de Grigny 2<br/>
-</td>
-<td align="center">
-<br/>12 214 <br/>
-</td>
-<td align="center">
-<br/>10 930 <br/>
-</td>
-<td align="center">
-<br/>9 683 <br/>
-</td>
-<td align="center">
-<br/>8 475 <br/>
-</td>
-<td align="center">
-<br/>7 306 <br/>
-</td>
-<td align="center">
-<br/>6 174 <br/>
-</td>
-<td align="center">
-<br/>5 078 <br/>
-</td>
-<td align="center">
-<br/>4 022 <br/>
-</td>
-<td align="center">
-<br/>63 882<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000707<br/>
-</td>
-<td align="center">
-<br/>CURMA<br/>
-</td>
-<td align="center">
-<br/>CURMA LA BONDE<br/>
-</td>
-<td align="center">
-<br/>27 512 <br/>
-</td>
-<td align="center">
-<br/>22 628 <br/>
-</td>
-<td align="center">
-<br/>19 138 <br/>
-</td>
-<td align="center">
-<br/>16 745 <br/>
-</td>
-<td align="center">
-<br/>14 425 <br/>
-</td>
-<td align="center">
-<br/>12 180 <br/>
-</td>
-<td align="center">
-<br/>10 008 <br/>
-</td>
-<td align="center">
-<br/>7 917 <br/>
-</td>
-<td align="center">
-<br/>130 553<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000709<br/>
-</td>
-<td align="center">
-<br/>PACEMA<br/>
-</td>
-<td align="center">
-<br/>PACEMA<br/>
-</td>
-<td align="center">
-<br/>8 874 <br/>
-</td>
-<td align="center">
-<br/>8 720 <br/>
-</td>
-<td align="center">
-<br/>0</td>
-<td align="center">0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>17 594<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000711<br/>
-</td>
-<td align="center">
-<br/>Aéroports de Paris<br/>
-</td>
-<td align="center">
-<br/>Centrale thermique principale<br/>
-</td>
-<td align="center">
-<br/>16 909 <br/>
-</td>
-<td align="center">
-<br/>15 132 <br/>
-</td>
-<td align="center">
-<br/>13 403 <br/>
-</td>
-<td align="center">
-<br/>11 727 <br/>
-</td>
-<td align="center">
-<br/>10 103 <br/>
-</td>
-<td align="center">
-<br/>8 530 <br/>
-</td>
-<td align="center">
-<br/>7 009 <br/>
+<br/>5 656 <br/>
 </td>
 <td align="center">
 <br/>5 545 <br/>
 </td>
 <td align="center">
-<br/>88 358<br/>
+<br/>5 434 <br/>
+</td>
+<td align="center">
+<br/>5 321 <br/>
+</td>
+<td align="center">
+<br/>45 659<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000712<br/>
+<br/>FR-new-07001630<br/>
 </td>
 <td align="center">
-<br/>COFELY GDFSUEZ<br/>
+<br/>SA DESVRES<br/>
 </td>
 <td align="center">
-<br/>SAINT-MICHEL-SUR-ORGE<br/>
+<br/>SA DESVRES<br/>
 </td>
 <td align="center">
-<br/>9 418 <br/>
+<br/>21 982 <br/>
 </td>
 <td align="center">
-<br/>8 429 <br/>
+<br/>21 601 <br/>
 </td>
 <td align="center">
-<br/>7 467 <br/>
+<br/>21 215 <br/>
 </td>
 <td align="center">
-<br/>6 535 <br/>
+<br/>20 824 <br/>
 </td>
 <td align="center">
-<br/>5 634 <br/>
+<br/>20 430 <br/>
 </td>
 <td align="center">
-<br/>4 760 <br/>
+<br/>20 031 <br/>
 </td>
 <td align="center">
-<br/>3 916 <br/>
+<br/>19 627 <br/>
 </td>
 <td align="center">
-<br/>3 102 <br/>
+<br/>19 223 <br/>
 </td>
 <td align="center">
-<br/>49 261<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000713<br/>
-</td>
-<td align="center">
-<br/>IDEX ENERGIES<br/>
-</td>
-<td align="center">
-<br/>IDEX ENERGIES - chaufferie de Vigneux-sur-Seine<br/>
-</td>
-<td align="center">
-<br/>9 518 <br/>
-</td>
-<td align="center">
-<br/>8 518 <br/>
-</td>
-<td align="center">
-<br/>7 546 <br/>
-</td>
-<td align="center">
-<br/>6 605 <br/>
-</td>
-<td align="center">
-<br/>5 693 <br/>
-</td>
-<td align="center">
-<br/>4 812 <br/>
-</td>
-<td align="center">
-<br/>3 958 <br/>
-</td>
-<td align="center">
-<br/>3 134 <br/>
-</td>
-<td align="center">
-<br/>49 784<br/>
+<br/>164 933<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000714<br/>
+<br/>FR-new-07001815<br/>
 </td>
 <td align="center">
-<br/>SOCCRAM<br/>
+<br/>HAINAUT ENROBES<br/>
 </td>
 <td align="center">
-<br/>SOCCRAM Chaufferie Grande Borne (Viry-Châtillon)<br/>
+<br/>Centrale d'enrobage au bitume de matériaux routiers à chaud<br/>
 </td>
 <td align="center">
-<br/>8 382 <br/>
+<br/>2 977 <br/>
 </td>
 <td align="center">
-<br/>7 501 <br/>
+<br/>2 664 <br/>
 </td>
-<td align="center">
-<br/>6 644 <br/>
+<td align="center">0<br/>
 </td>
-<td align="center">
-<br/>5 816 <br/>
+<td align="center">0<br/>
 </td>
-<td align="center">
-<br/>5 013 <br/>
+<td align="center">0<br/>
 </td>
-<td align="center">
-<br/>4 236 <br/>
+<td align="center">0</td>
+<td align="center">0<br/>
 </td>
-<td align="center">
-<br/>3 485 <br/>
+<td align="center">0 <br/>
 </td>
-<td align="center">
-<br/>2 760 <br/>
-</td>
-<td align="center">
-<br/>43 837<br/>
+<td align="center">5 641<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000715<br/>
+<br/>FR-new-07001875<br/>
 </td>
 <td align="center">
-<br/>ENERLIS<br/>
+<br/>M. ROQUET David<br/>
 </td>
 <td align="center">
-<br/>Enerlis<br/>
+<br/>Centrale d'enrobage au bitume de matériaux routiers à chaud<br/>
 </td>
 <td align="center">
-<br/>34 736 <br/>
+<br/>2 266 <br/>
 </td>
 <td align="center">
-<br/>31 086 <br/>
+<br/>2 028 <br/>
 </td>
 <td align="center">
-<br/>27 538 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>24 104 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>20 777 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>17 558 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>14 442 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>11 439 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>181 680<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000717<br/>
-</td>
-<td align="center">
-<br/>3M France<br/>
-</td>
-<td align="center">
-<br/>3M France site de Beauchamp<br/>
-</td>
-<td align="center">
-<br/>9 763 <br/>
-</td>
-<td align="center">
-<br/>8 737 <br/>
-</td>
-<td align="center">
-<br/>7 738 <br/>
-</td>
-<td align="center">
-<br/>6 770 <br/>
-</td>
-<td align="center">
-<br/>5 833 <br/>
-</td>
-<td align="center">
-<br/>4 924 <br/>
-</td>
-<td align="center">
-<br/>4 048 <br/>
-</td>
-<td align="center">
-<br/>3 202 <br/>
-</td>
-<td align="center">
-<br/>51 015<br/>
+<br/>4 294<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000720<br/>
+<br/>FR-new-07002258<br/>
 </td>
 <td align="center">
-<br/>SEFIR <br/>
+<br/>SLME <br/>
 </td>
 <td align="center">
-<br/>Chaufferie urbaine Fossés Trempés<br/>
+<br/>SLME<br/>
 </td>
 <td align="center">
-<br/>4 959 <br/>
+<br/>2 298 <br/>
 </td>
 <td align="center">
-<br/>4 438 <br/>
+<br/>2 057 <br/>
 </td>
 <td align="center">
-<br/>3 931 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>3 441 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>2 966 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>2 507 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>2 062 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>1 633 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>25 937<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>FR000000000000721<br/>
-</td>
-<td align="center">
-<br/>SEFIR <br/>
-</td>
-<td align="center">
-<br/>Chaufferie urbaine Logis Verts<br/>
-</td>
-<td align="center">
-<br/>5 879 <br/>
-</td>
-<td align="center">
-<br/>5 261 <br/>
-</td>
-<td align="center">
-<br/>4 661 <br/>
-</td>
-<td align="center">
-<br/>4 079 <br/>
-</td>
-<td align="center">
-<br/>3 517 <br/>
-</td>
-<td align="center">
-<br/>2 972 <br/>
-</td>
-<td align="center">
-<br/>2 444 <br/>
-</td>
-<td align="center">
-<br/>1 936 <br/>
-</td>
-<td align="center">
-<br/>30 749<br/>
+<br/>4 355<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000722<br/>
+<br/>FR-new-07002325<br/>
 </td>
 <td align="center">
-<br/>COFELY<br/>
+<br/>GlaxoSmithKline Biologicals<br/>
 </td>
 <td align="center">
-<br/>Chaufferie Van-Gogh - Garges<br/>
+<br/>GLAXOSMITHKLINE BIOLOGICALS SAS<br/>
 </td>
 <td align="center">
 <br/>5 373 <br/>
 </td>
 <td align="center">
-<br/>4 808 <br/>
+<br/>5 279 <br/>
 </td>
 <td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
+<br/>5 185 <br/>
 </td>
 <td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0</td>
-<td align="center">
-<br/>0<br/>
+<br/>5 089 <br/>
 </td>
 <td align="center">
-<br/>10 181<br/>
+<br/>4 993 <br/>
+</td>
+<td align="center">
+<br/>4 896 <br/>
+</td>
+<td align="center">
+<br/>4 797 <br/>
+</td>
+<td align="center">
+<br/>4 698 <br/>
+</td>
+<td align="center">
+<br/>40 310<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>FR000000000000724<br/>
+<br/>FR-new-07004337<br/>
 </td>
 <td align="center">
-<br/>Aéroports De Paris - CDG Energie et Logistique - Pôle Production d'Energie<br/>
+<br/>COLAS NORD PICARDIE<br/>
 </td>
 <td align="center">
-<br/>CTFE Bâtiment 5400<br/>
+<br/>RF500<br/>
 </td>
 <td align="center">
-<br/>55 878 <br/>
+<br/>1 791 <br/>
 </td>
 <td align="center">
-<br/>50 005 <br/>
+<br/>1 603 <br/>
 </td>
 <td align="center">
-<br/>44 299 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>38 774 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>33 422 <br/>
+<br/>0<br/>
 </td>
 <td align="center">
-<br/>28 244 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>23 233 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>18 402 <br/>
+<br/>0 <br/>
 </td>
 <td align="center">
-<br/>292 257<br/>
+<br/>3 394<br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07201450<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE - usine de COGNAC<br/>
+</td>
+<td align="center">
+<br/>23 642 <br/>
+</td>
+<td align="center">
+<br/>29 038</td>
+<td align="center">
+<br/>28 519</td>
+<td align="center">27 994<br/>
+</td>
+<td align="center">
+<br/>27 464<br/>
+</td>
+<td align="center">
+<br/>26 928<br/>
+</td>
+<td align="center">
+<br/>26 386<br/>
+</td>
+<td align="center">
+<br/>25 842<br/>
+</td>
+<td align="center">
+<br/>215 813<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07201781<br/>
+</td>
+<td align="center">
+<br/>CENTRE OUEST CEREALES<br/>
+</td>
+<td align="center">
+<br/>CENTRE OUEST CEREALES <br/>
+</td>
+<td align="center">
+<br/>7 082 <br/>
+</td>
+<td align="center">
+<br/>6 946 <br/>
+</td>
+<td align="center">
+<br/>6 808 <br/>
+</td>
+<td align="center">
+<br/>6 669 <br/>
+</td>
+<td align="center">
+<br/>6 530 <br/>
+</td>
+<td align="center">
+<br/>6 390 <br/>
+</td>
+<td align="center">
+<br/>6 249 <br/>
+</td>
+<td align="center">
+<br/>6 107 <br/>
+</td>
+<td align="center">
+<br/>52 781<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07201828<br/>
+</td>
+<td align="center">
+<br/>UNION VIENNE LOIRE<br/>
+</td>
+<td align="center">
+<br/>UNION VIENNE LOIRE<br/>
+</td>
+<td align="center">
+<br/>199 <br/>
+</td>
+<td align="center">
+<br/>178 <br/>
+</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>377<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07205920<br/>
+</td>
+<td align="center">
+<br/>SOCOMAC<br/>
+</td>
+<td align="center">
+<br/>SOCOMAC<br/>
+</td>
+<td align="center">
+<br/>576 <br/>
+</td>
+<td align="center">
+<br/>516 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+<td align="center">0<br/>
+</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>0</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07208217<br/>
+</td>
+<td align="center">
+<br/>Electricité de France</td>
+<td align="center">
+<br/>Chaufferie DANISCO usine de Melle<br/>
+</td>
+<td align="center">
+<br/>19 513 <br/>
+</td>
+<td align="center">
+<br/>17 463 <br/>
+</td>
+<td align="center">
+<br/>15 468 <br/>
+</td>
+<td align="center">
+<br/>13 533 <br/>
+</td>
+<td align="center">
+<br/>11 659 <br/>
+</td>
+<td align="center">
+<br/>9 845 <br/>
+</td>
+<td align="center">
+<br/>8 089 <br/>
+</td>
+<td align="center">
+<br/>6 399 <br/>
+</td>
+<td align="center">
+<br/>101 969<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07208224<br/>
+</td>
+<td align="center">
+<br/>APPIA Grands Travaux<br/>
+</td>
+<td align="center">
+<br/>Centrale d'enrobage au bitume de matériaux routiers à chaud<br/>
+</td>
+<td align="center">
+<br/>582 <br/>
+</td>
+<td align="center">
+<br/>521 <br/>
+</td>
+<td align="center">
+<br/>461 <br/>
+</td>
+<td align="center">
+<br/>403 <br/>
+</td>
+<td align="center">
+<br/>348 <br/>
+</td>
+<td align="center">
+<br/>293 <br/>
+</td>
+<td align="center">
+<br/>241 <br/>
+</td>
+<td align="center">
+<br/>192 <br/>
+</td>
+<td align="center">
+<br/>3 041<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07400012<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE<br/>
+</td>
+<td align="center">
+<br/>PLACOPLATRE - usine de VAUJOURS<br/>
+</td>
+<td align="center">
+<br/>69 428 <br/>
+</td>
+<td align="center">
+<br/>85 277<br/>
+</td>
+<td align="center">
+<br/>83 752 <br/>
+</td>
+<td align="center">
+<br/>82 211 <br/>
+</td>
+<td align="center">
+<br/>80 653 <br/>
+</td>
+<td align="center">
+<br/>79 080<br/>
+</td>
+<td align="center">
+<br/>77 488<br/>
+</td>
+<td align="center">75 890<br/>
+</td>
+<td align="center">
+<br/>633 779<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07402252<br/>
+</td>
+<td align="center">
+<br/>DALKIA <br/>
+</td>
+<td align="center">
+<br/>Centrale "SOCOMIN" du MIN de Rungis </td>
+<td align="center">
+<br/>1 802 <br/>
+</td>
+<td align="center">
+<br/>1 613 <br/>
+</td>
+<td align="center">
+<br/>1 428 <br/>
+</td>
+<td align="center">
+<br/>1 249 <br/>
+</td>
+<td align="center">
+<br/>1 077 <br/>
+</td>
+<td align="center">
+<br/>909 <br/>
+</td>
+<td align="center">
+<br/>747 <br/>
+</td>
+<td align="center">
+<br/>591 <br/>
+</td>
+<td align="center">
+<br/>9 416<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-07402258<br/>
+</td>
+<td align="center">
+<br/>SIAAP<br/>
+</td>
+<td align="center">
+<br/>SIAAP site de SEINE-AMONT<br/>
+</td>
+<td align="center">
+<br/>14 690 <br/>
+</td>
+<td align="center">
+<br/>13 147 <br/>
+</td>
+<td align="center">
+<br/>11 644 <br/>
+</td>
+<td align="center">
+<br/>10 189 <br/>
+</td>
+<td align="center">
+<br/>8 777 <br/>
+</td>
+<td align="center">
+<br/>7 412 <br/>
+</td>
+<td align="center">
+<br/>6 090 <br/>
+</td>
+<td align="center">
+<br/>4 818 <br/>
+</td>
+<td align="center">
+<br/>76 767<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">FR-new-07409093 </p>
+</td>
+<td>
+<p align="center">SOCACHAL chaufferie d'appoint secours centralisé </p>
+</td>
+<td>
+<p align="center">SOCACHAL chaufferie d'appoint secours centralisé </p>
+</td>
+<td>
+<p align="center">14 703</p>
+</td>
+<td>
+<p align="center">13 158 </p>
+</td>
+<td>
+<p align="center">11 657 </p>
+</td>
+<td>
+<p align="center">10 203</p>
+</td>
+<td>
+<p align="center">8 794</p>
+</td>
+<td>
+<p align="center">7 432</p>
+</td>
+<td>
+<p align="center">6 113</p>
+</td>
+<td>
+<p align="center">4 842</p>
+</td>
+<td>
+<p align="center">76 902</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10000513<br/>
+</td>
+<td align="center">
+<br/>Châteauroux ceramics <br/>
+</td>
+<td align="center">
+<br/>Châteauroux ceramics <br/>
+</td>
+<td align="center">
+<br/>13 188 <br/>
+</td>
+<td align="center">
+<br/>11 100<br/>
+</td>
+<td align="center">
+<br/>10 901<br/>
+</td>
+<td align="center">
+<br/>10 700<br/>
+</td>
+<td align="center">10 497</td>
+<td align="center">
+<br/>10 292<br/>
+</td>
+<td align="center">
+<br/>10 085 <br/>
+</td>
+<td align="center">
+<br/>9 878 <br/>
+</td>
+<td align="center">
+<br/>86 639</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10000681<br/>
+</td>
+<td align="center">
+<br/>CORPOCHALEUR<br/>
+</td>
+<td align="center">
+<br/>Chaufferie de la Rabaterie (SAINT-PIERRE-DES-CORPS)<br/>
+</td>
+<td align="center">
+<br/>3 707 <br/>
+</td>
+<td align="center">
+<br/>3 317 <br/>
+</td>
+<td align="center">
+<br/>2 939 <br/>
+</td>
+<td align="center">
+<br/>2 571 <br/>
+</td>
+<td align="center">
+<br/>2 215 <br/>
+</td>
+<td align="center">
+<br/>1 870 <br/>
+</td>
+<td align="center">
+<br/>1 536 <br/>
+</td>
+<td align="center">
+<br/>1 216 <br/>
+</td>
+<td align="center">
+<br/>19 371<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10000771<br/>
+</td>
+<td align="center">
+<br/>TOURAINE ENROBES<br/>
+</td>
+<td align="center">
+<br/>Centrale d'enrobage au bitume de matériaux routiers à chaud<br/>
+</td>
+<td align="center">
+<br/>1 116 <br/>
+</td>
+<td align="center">
+<br/>999 <br/>
+</td>
+<td align="center">
+<br/>885 <br/>
+</td>
+<td align="center">
+<br/>775 <br/>
+</td>
+<td align="center">
+<br/>666 <br/>
+</td>
+<td align="center">
+<br/>563 <br/>
+</td>
+<td align="center">
+<br/>463 <br/>
+</td>
+<td align="center">
+<br/>366 <br/>
+</td>
+<td align="center">
+<br/>5 833<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10000788<br/>
+</td>
+<td align="center">
+<br/>FAURECIA AUTOMOTIVE COMPOSITES<br/>
+</td>
+<td align="center">
+<br/>FAURECIA AUTOMOTIVE COMPOSITES<br/>
+</td>
+<td align="center">
+<br/>4 145 <br/>
+</td>
+<td align="center">
+<br/>3 709 <br/>
+</td>
+<td align="center">
+<br/>3 285 <br/>
+</td>
+<td align="center">
+<br/>2 875 <br/>
+</td>
+<td align="center">
+<br/>2 477 <br/>
+</td>
+<td align="center">
+<br/>2 091 <br/>
+</td>
+<td align="center">
+<br/>1 718 <br/>
+</td>
+<td align="center">
+<br/>1 359 <br/>
+</td>
+<td align="center">
+<br/>21 659<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10001019<br/>
+</td>
+<td align="center">
+<br/>SIDESUP<br/>
+</td>
+<td align="center">
+<br/>SIDESUP<br/>
+</td>
+<td align="center">
+<br/>15 836 <br/>
+</td>
+<td align="center">
+<br/>15 245 <br/>
+</td>
+<td align="center">
+<br/>14 663 <br/>
+</td>
+<td align="center">
+<br/>14 091 <br/>
+</td>
+<td align="center">
+<br/>13 526 <br/>
+</td>
+<td align="center">
+<br/>12 970 <br/>
+</td>
+<td align="center">
+<br/>12 421 <br/>
+</td>
+<td align="center">
+<br/>11 885 <br/>
+</td>
+<td align="center">
+<br/>110 637<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10010658<br/>
+</td>
+<td align="center">
+<br/>COLAS Centre-Ouest - direction grands projets <br/>
+</td>
+<td align="center">
+<br/>COLAS Centre-Ouest - centrale d'enrobage mobile RMS300<br/>
+</td>
+<td align="center">
+<br/>862 <br/>
+</td>
+<td align="center">
+<br/>771 <br/>
+</td>
+<td align="center">
+<br/>684 <br/>
+</td>
+<td align="center">
+<br/>597 <br/>
+</td>
+<td align="center">
+<br/>515 <br/>
+</td>
+<td align="center">
+<br/>434 <br/>
+</td>
+<td align="center">
+<br/>357 <br/>
+</td>
+<td align="center">
+<br/>282 <br/>
+</td>
+<td align="center">
+<br/>4 502<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10011026<br/>
+</td>
+<td align="center">
+<br/>EUROVIA GRANDS TRAVAUX<br/>
+</td>
+<td align="center">
+<br/>TSM 28<br/>
+</td>
+<td align="center">
+<br/>1 809 <br/>
+</td>
+<td align="center">
+<br/>1 619 <br/>
+</td>
+<td align="center">
+<br/>1 435 <br/>
+</td>
+<td align="center">
+<br/>1 255 <br/>
+</td>
+<td align="center">
+<br/>1 081 <br/>
+</td>
+<td align="center">
+<br/>913 <br/>
+</td>
+<td align="center">
+<br/>750 <br/>
+</td>
+<td align="center">
+<br/>593 <br/>
+</td>
+<td align="center">
+<br/>9 455<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10300065<br/>
+</td>
+<td align="center">
+<br/>Novoceram SAS<br/>
+</td>
+<td align="center">
+<br/>NOVOCERAM<br/>
+</td>
+<td align="center">
+<br/>19 120 <br/>
+</td>
+<td align="center">
+<br/>18 789 <br/>
+</td>
+<td align="center">
+<br/>18 452 <br/>
+</td>
+<td align="center">
+<br/>18 113 <br/>
+</td>
+<td align="center">
+<br/>17 771 <br/>
+</td>
+<td align="center">
+<br/>17 424 <br/>
+</td>
+<td align="center">
+<br/>17 074 <br/>
+</td>
+<td align="center">
+<br/>16 720 <br/>
+</td>
+<td align="center">
+<br/>143 463<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10400075<br/>
+</td>
+<td align="center">
+<br/>ALFI<br/>
+</td>
+<td align="center">
+<br/>ALFI Pont-de-Claix<br/>
+</td>
+<td align="center">
+<br/>31 743 <br/>
+</td>
+<td align="center">
+<br/>31 191 <br/>
+</td>
+<td align="center">
+<br/>30 635 <br/>
+</td>
+<td align="center">
+<br/>30 071 <br/>
+</td>
+<td align="center">
+<br/>29 501 <br/>
+</td>
+<td align="center">
+<br/>28 926 <br/>
+</td>
+<td align="center">
+<br/>28 342 <br/>
+</td>
+<td align="center">
+<br/>27 758 <br/>
+</td>
+<td align="center">
+<br/>238 167<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-10400104<br/>
+</td>
+<td align="center">
+<br/>NOVAPEX<br/>
+</td>
+<td align="center">
+<br/>NOVAPEX<br/>
+</td>
+<td align="center">
+<br/>102 518 <br/>
+</td>
+<td align="center">
+<br/>100 736 <br/>
+</td>
+<td align="center">
+<br/>98 935 <br/>
+</td>
+<td align="center">
+<br/>97 115 <br/>
+</td>
+<td align="center">
+<br/>95 275 <br/>
+</td>
+<td align="center">
+<br/>93 417 <br/>
+</td>
+<td align="center">
+<br/>91 536 <br/>
+</td>
+<td align="center">
+<br/>89 648 <br/>
+</td>
+<td align="center">
+<br/>769 180<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-25200001<br/>
+</td>
+<td align="center">
+<br/>AREVA NP</td>
+<td align="center">
+<br/>AREVA NP<br/>
+</td>
+<td align="center">
+<br/>25 749 <br/>
+</td>
+<td align="center">
+<br/>23 045 <br/>
+</td>
+<td align="center">
+<br/>20 411 <br/>
+</td>
+<td align="center">
+<br/>17 859 <br/>
+</td>
+<td align="center">
+<br/>15 385 <br/>
+</td>
+<td align="center">
+<br/>12 990 <br/>
+</td>
+<td align="center">
+<br/>10 674 <br/>
+</td>
+<td align="center">
+<br/>8 444 <br/>
+</td>
+<td align="center">
+<br/>134 557<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-05401059</td>
+<td align="center">
+<br/>COOPERATIVE BOURGOGNE DU SUD<br/>
+</td>
+<td align="center">
+<br/>Coopérative Bourgogne du Sud site de Verdun-sur-le-Doubs<br/>
+</td>
+<td align="center">
+<br/>1 353 <br/>
+</td>
+<td align="center">
+<br/>1 211 <br/>
+</td>
+<td align="center">
+<br/>1 073 <br/>
+</td>
+<td align="center">
+<br/>939 <br/>
+</td>
+<td align="center">
+<br/>809 <br/>
+</td>
+<td align="center">
+<br/>683 <br/>
+</td>
+<td align="center">
+<br/>561 <br/>
+</td>
+<td align="center">
+<br/>444 <br/>
+</td>
+<td align="center">
+<br/>7 073<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-28300059<br/>
+</td>
+<td align="center">
+<br/>DOMINIQUE DAUDRUY<br/>
+</td>
+<td align="center">
+<br/>SAS NORD ESTER<br/>
+</td>
+<td align="center">
+<br/>3 789 <br/>
+</td>
+<td align="center">
+<br/>3 390 <br/>
+</td>
+<td align="center">
+<br/>3 003 <br/>
+</td>
+<td align="center">
+<br/>2 628 <br/>
+</td>
+<td align="center">
+<br/>2 264 <br/>
+</td>
+<td align="center">
+<br/>1 911 <br/>
+</td>
+<td align="center">
+<br/>1 571 <br/>
+</td>
+<td align="center">
+<br/>1 242 <br/>
+</td>
+<td align="center">
+<br/>19 798<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-69905007<br/>
+</td>
+<td align="center">
+<br/>EURODIF Production<br/>
+</td>
+<td align="center">
+<br/>Etablissement EURODIF production<br/>
+</td>
+<td align="center">
+<br/>2 538 <br/>
+</td>
+<td align="center">
+<br/>2 271 <br/>
+</td>
+<td align="center">
+<br/>2 012 <br/>
+</td>
+<td align="center">
+<br/>1 760 <br/>
+</td>
+<td align="center">
+<br/>1 517 <br/>
+</td>
+<td align="center">
+<br/>1 280 <br/>
+</td>
+<td align="center">
+<br/>1 052 <br/>
+</td>
+<td align="center">
+<br/>833 <br/>
+</td>
+<td align="center">
+<br/>13 263<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>FR-new-69908002<br/>
+</td>
+<td align="center">
+<br/>EDF CNPE de FESSENHEIM<br/>
+</td>
+<td align="center">
+<br/>Centre nucléaire de production d'électricité de Fessenheim<br/>
+</td>
+<td align="center">
+<br/>688 <br/>
+</td>
+<td align="center">
+<br/>616 <br/>
+</td>
+<td align="center">
+<br/>546 <br/>
+</td>
+<td align="center">
+<br/>478 <br/>
+</td>
+<td align="center">
+<br/>412 <br/>
+</td>
+<td align="center">
+<br/>347 <br/>
+</td>
+<td align="center">
+<br/>285<br/>
+</td>
+<td align="center">
+<br/>226 <br/>
+</td>
+<td align="center">
+<br/>3 598<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>special-16<br/>
+</td>
+<td align="center">
+<br/>SIFDDA BRETAGNE<br/>
+</td>
+<td align="center">
+<br/>SIFDDA BRETAGNE, site de Guer <br/>
+</td>
+<td align="center">
+<br/>9 702 <br/>
+</td>
+<td align="center">
+<br/>8 683 <br/>
+</td>
+<td align="center">
+<br/>7 691 <br/>
+</td>
+<td align="center">
+<br/>6 729 <br/>
+</td>
+<td align="center">
+<br/>5 796 <br/>
+</td>
+<td align="center">
+<br/>4 895 <br/>
+</td>
+<td align="center">
+<br/>4 022 <br/>
+</td>
+<td align="center">
+<br/>3 182 <br/>
+</td>
+<td align="center">
+<br/>50 700<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">FR-new-10010029</p>
+</td>
+<td>ICT France</td>
+<td>ICT France</td>
+<td>17 220</td>
+<td>16 920</td>
+<td>16 621</td>
+<td>16 321</td>
+<td>16 021</td>
+<td>15 722</td>
+<td>15 422</td>
+<td>15 123</td>
+<td>129 370</td>
+</tr>
+<tr>
+<td>
+<p align="center">FR-new-06301486</p>
+</td>
+<td>CODEMA</td>
+<td>CODEMA</td>
+<td>10 278</td>
+<td>9 197</td>
+<td>8 148</td>
+<td>7 132</td>
+<td>6 147</td>
+<td>5 195</td>
+<td>4 273</td>
+<td>3 385</td>
+<td>53 755</td>
 </tr>
 </tbody>
 </table>
