@@ -1,8 +1,8 @@
 # Article 227-2.08
 
-Critères de stabilité pour les navires pontés neufs construits après le 01/07/2014.
+Critères de stabilité pour les navires pontés neufs construits après le 01/07/2016.
 
-Le présent article ne s'applique qu'aux navires construits à compter du 01/07/2014.
+Le présent article ne s'applique qu'aux navires construits à compter du 01/07/2016.
 
 1. Tous navires
 

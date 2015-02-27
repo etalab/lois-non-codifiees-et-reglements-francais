@@ -4,11 +4,7 @@ Définitions
 
 Pour l'application de la présente division sont définis comme :
 
-"Longueur" : la longueur (L) telle que définie à l'article 222-2.01.
-
-Pour la détermination de la longueur hors tout (Lht), il sera fait application des critères définis pour les navires de pêche par le règlement (CEE) n° 2930/86 du Conseil du 22 septembre 1986, tel que modifié.
-
-Pour les embarcations semi-rigides et pneumatiques, la longueur à prendre en compte est la longueur maximale mesurée conformément à la norme ISO 8666 : 2003, la motorisation étant exclue.
+"Longueur" : pour les embarcations semi-rigides et pneumatiques, la longueur à prendre en compte est la longueur maximale mesurée conformément à la norme ISO 8666 : 2003, la motorisation étant exclue.
 
 "Insubmersible" : tout navire chargé au maximum qui, avec son compartiment principal totalement envahi et la totalité de son équipage occupant sa place normale à bord, continue de flotter dans des conditions acceptables. Le franc-bord résiduel ne peut alors être inférieur à 76 mm.
 

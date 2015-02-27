@@ -8,7 +8,7 @@ Aux fins de la présente division, on entend par :
 
 - "nourrisson" : toute personne âgée de moins de 4 ans ;
 
-- "enfant" : toute personne ayant 3 ans révolus et moins de 13 ans ;
+- "enfant" : toute personne ayant quatre ans et plus, et moins de 13 ans ;
 
 - "zone maritime protégée" : une zone maritime abritée des effets de la haute mer, dans laquelle un navire ne se trouve à aucun moment éloigné de plus de 6 milles d'un refuge où des personnes naufragées peuvent gagner la terre et dans laquelle la proximité d'installations de recherche et de sauvetage est assurée ;
 

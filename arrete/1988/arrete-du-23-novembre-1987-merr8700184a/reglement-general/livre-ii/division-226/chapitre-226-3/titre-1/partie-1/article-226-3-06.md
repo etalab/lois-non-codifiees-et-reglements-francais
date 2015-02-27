@@ -6,7 +6,7 @@ Commande de l'appareil propulsif
 
 1.2. La commande à distance visée à l'alinéa 1.1 doit s'effectuer au moyen d'un dispositif jugé satisfaisant par l'administration et, si besoin est, de dispositifs protégeant l'appareil propulsif contre les surcharges.
 
-1.3. L'appareil propulsif principal doit être muni, à la timonerie, d'un dispositif qui permette d'arrêter la machine en cas d'urgence et qui soit indépendant du système de commande à la timonerie visé à l'alinéa 1.1.
+1.3. L'appareil propulsif principal doit être muni, à la timonerie, d'un dispositif qui permette d'arrêter la machine en cas d'urgence et qui soit indépendant du système de commande à la timonerie visé à l'alinéa 1.1. Ce dispositif doit permettre d'éviter le risque de déclenchement accidentel.
 
 1.4. L'appareil propulsif ne doit pouvoir être commandé à distance qu'à partir d'un seul poste à la fois ; chaque poste doit être muni d'un dispositif indiquant le poste qui commande l'appareil propulsif.
 
