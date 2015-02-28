@@ -243,7 +243,6 @@
 - [Arrêté du 5 avril 2002 (ECOL0200031A)](arrete-du-5-avril-2002-ecol0200031a)
 - [Arrêté du 5 décembre 1996 (INDD9600808A)](arrete-du-5-decembre-1996-indd9600808a)
 - [Arrêté du 5 décembre 2008 (DEVA0818339A)](arrete-du-5-decembre-2008-deva0818339a)
-- [Arrêté du 5 février 2009 (DEFD0904758A)](arrete-du-5-fevrier-2009-defd0904758a)
 - [Arrêté du 5 février 2009 (ESRH0824092A)](arrete-du-5-fevrier-2009-esrh0824092a)
 - [Arrêté du 5 février 2009 (IOCD0900595A)](arrete-du-5-fevrier-2009-iocd0900595a)
 - [Arrêté du 5 février 2009 (MCCB0901809A)](arrete-du-5-fevrier-2009-mccb0901809a)
