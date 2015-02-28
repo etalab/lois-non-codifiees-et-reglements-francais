@@ -6,9 +6,19 @@ I. ― En métropole, dans les départements d'outre-mer et dans les collectivit
 
 a) sur convocation de l'autorité militaire ;
 
-b) en cas de manifestation publique officielle, militaire ou civile (prise d'arme, cérémonie, réunion ou fête), sur autorisation préalable du commandant de la région terrestre ou maritime, du commandant de la base aérienne de rattachement, du commandant de la région de gendarmerie, du directeur régional concerné des services de santé ou des essences des armées, ou du commandant supérieur outre-mer, compétent sur le lieu de cette manifestation. Cette autorisation peut être accordée pour plusieurs manifestations de même nature, pour une durée au maximum d'une année.
+b) En cas de manifestation publique officielle, militaire ou civile (prise d'arme, cérémonie, réunion ou fête), sur autorisation préalable de l'autorité suivante compétente sur le lieu de cette manifestation :
 
-L'autorisation préalable n'est pas nécessaire lorsque la note de service de l'autorité militaire organisatrice de la manifestation prévoit, pour cette manifestation, le port de l'uniforme militaire par les réservistes qui ont souscrit un engagement à servir dans la réserve opérationnelle, anciens réservistes admis à l'honorariat de leur grade ou anciens militaires soumis à l'obligation de disponibilité ;
+- le commandant de la zone terre ou le commandant d'arrondissement maritime ;
+
+- le commandant de la base aérienne de rattachement ;
+
+- le commandant de la région de gendarmerie ;
+
+- le directeur central du service du commissariat des armées, du service de santé des armées, du service des essences des armées ou du service d'infrastructure de la défense ;
+
+- ou le commandant supérieur outre-mer.
+
+Cette autorisation peut être accordée pour plusieurs manifestations de même nature, pour une durée au maximum d'une année.
 
 c) en cas de manifestations privées (cérémonie ou réunion familiale).
 

@@ -118,4 +118,16 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - fermeture des sites de Quintin et de Loudéac et restructuration des sites de Dinan, Guingamp, Lannion, Paimpol et Rostrenen de la direction départementale des territoires et de la mer des Côtes-d'Armor ;
 
-- fermeture des antennes d'Argentat et d'Egletons de la direction départementale des territoires de la Corrèze.
+- fermeture des antennes d'Argentat et d'Egletons de la direction départementale des territoires de la Corrèze ;
+
+- fermeture des implantations territoriales de Vic-en-Bigorre, Trie-sur-Baïse et Argelès-Gazost et restructuration de l'implantation territoriale de Lannemezan de la direction départementale des territoires des Hautes-Pyrénées ;
+
+- restructuration des sites de Toul, Lunéville et Briey de la direction départementale des territoires de Meurthe-et-Moselle ;
+
+- restructuration des implantations territoriales de Niort et Parthenay de la direction départementale des territoires des Deux-Sèvres ;
+
+- fermeture du site de Château-Arnoux et restructuration du site de Manosque de la direction départementale des territoires des Alpes-de-Haute-Provence ;
+
+- restructuration des implantations territoriales de Chalon-sur-Saône, Montceau-les-Mines et Mâcon et des antennes de Louhans et Paray-le-Monial de la direction départementale des territoires de Saône-et-Loire ;
+
+- fermeture du site des Herbiers, restructuration des sites de La Roche-sur-Yon et de Fontenay-le-Comte et reconfiguration des implantations territoriales de Challans et des Sables-d'Olonne de la direction départementale des territoires et de la mer de la Vendée.

@@ -2,7 +2,7 @@
 
 Les autorités suivantes reçoivent délégation des pouvoirs du ministre de la défense pour les décisions d'habilitation à connaître des informations et supports faisant l'objet d'une classification secret-défense ou confidentiel-défense, concernant le personnel placé sous leur autorité :
 
-I. ― Autorités relevant de l'administration centrale du ministère et autorités directement rattachées au ministre :
+I. - Autorités relevant de l'administration centrale du ministère et autorités directement rattachées au ministre :
 
 1° Le chef d'état-major des armées ;
 
@@ -34,47 +34,47 @@ I. ― Autorités relevant de l'administration centrale du ministère et autorit
 
 15° Le délégué pour le regroupement des états-majors, directions et services centraux du ministère de la défense.
 
-II. ― Autres autorités, n'appartenant pas à l'administration centrale du ministère :
+II. - Autres autorités, n'appartenant pas à l'administration centrale du ministère :
 
 1° Au sein de l'armée de terre :
 
-― les commandants organiques territoriaux ;
+- les commandants organiques territoriaux ;
 
-― le commandant des forces terrestres ;
+- le commandant des forces terrestres ;
 
-― le commandant du centre de doctrine et d'emploi des forces ;
+- le commandant du centre de doctrine et d'emploi des forces ;
 
-― le commandant de la brigade des sapeurs-pompiers de Paris ;
+- le commandant de la brigade des sapeurs-pompiers de Paris ;
 
 2° Au sein de la marine nationale :
 
-― les commandants de force maritime ;
+- les commandants de force maritime ;
 
-― les commandants d'arrondissement maritime ;
+- les commandants d'arrondissement maritime ;
 
-― le commandant de la marine à Paris ;
+- le commandant de la marine à Paris ;
 
-― le commandant du bataillon des marins-pompiers de Marseille ;
+- le commandant du bataillon des marins-pompiers de Marseille ;
 
 3° Au sein de l'armée de l'air :
 
-― les commandants opérationnels et organiques ;
+- les commandants opérationnels et organiques ;
 
-― le commandant du centre d'expériences aériennes militaires ;
+- le commandant du centre d'expériences aériennes militaires ;
 
-― le commandant des écoles des officiers de l'armée de l'air ;
+- le commandant des écoles des officiers de l'armée de l'air ;
 
-― le commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air ;
+- le commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air ;
 
 4° Relevant de l'état-major des armées :
 
-― les commandants supérieurs dans les départements et collectivités d'outre-mer ;
+- les commandants supérieurs dans les départements et collectivités d'outre-mer ;
 
-― les commandants des forces ou des éléments de forces stationnés à l'étranger ;
+- les commandants des forces ou des éléments de forces stationnés à l'étranger ;
 
-― les officiers généraux de zone de défense ;
+- les officiers généraux de zone de défense et de sécurité ;
 
-― les autorités commandant les organismes suivants :
+- les autorités commandant les organismes suivants :
 
 a) l'état-major interarmées de force et d'entraînement ;
 
@@ -83,3 +83,11 @@ b) le centre interarmées de concepts, de doctrines et d'expérimentation ;
 c) le commandement des opérations spéciales ;
 
 d) la direction de l'enseignement militaire supérieur.
+
+5° Relevant du directeur central du service du commissariat des armées :
+
+- le directeur du centre interarmées d'administration des opérations ;
+
+- le directeur du centre d'expertise de soutien général des armées ;
+
+- le directeur du centre d'expertise du soutien du combattant et des forces.
