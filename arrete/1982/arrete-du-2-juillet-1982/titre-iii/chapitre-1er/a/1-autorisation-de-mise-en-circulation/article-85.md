@@ -4,6 +4,8 @@ Aucun véhicule employé au transport en commun de personnes ne peut être mis e
 
 L'attestation d'aménagement est délivrée :
 
+-pour les véhicules usagés modifiés et réceptionnés par type selon la procédure dite de l'agrément de prototype, par le titulaire de l'agrément de prototype ou suivant les régions par la direction régionale et interdépartementale de l'énergie et de l'environnement (DRIEE), la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) ou la direction de l'environnement, de l'aménagement et du logement (DEAL) après, dans ce dernier cas, présentation du véhicule.
+
 -pour les véhicules neufs réceptionnés par type, par le constructeur ou suivant les régions par la direction régionale et interdépartementale de l'énergie et de l'environnement (DRIEE), la direction régionale de l'environnement, de l'aménagement et du logement (DREAL) ou la direction de l'environnement, de l'aménagement et du logement (DEAL) après, dans ce dernier cas, présentation du véhicule.
 
 Au sens du présent article, le terme " constructeur " désigne le constructeur établi en France, le représentant accrédité au sens de l'article R. 321-15 du code de la route ou l'organisme établi en France et mandaté par le constructeur étranger pour le représenter auprès de l'autorité compétente et agir en son nom pour délivrer l'attestation d'aménagement.

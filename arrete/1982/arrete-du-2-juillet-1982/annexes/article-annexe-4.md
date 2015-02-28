@@ -80,15 +80,7 @@ Lors de ces essais, les lests (150 kg par place couchée) seront placés comme s
 
 Chapitre III : Transport en commun d'enfants
 
-Article 8
-
-Transports exclusifs d'enfants
-
-La longueur du rectangle prévu au deuxième alinéa de l'article 5 de la présente annexe est ramenée à 145 cm sur les véhicules de transport en commun de personnes utilisés exclusivement pour le transport en commun d'enfants couchés.
-
-Les couchettes qui équipent ces véhicules devront en outre comporter un dispositif assurant une protection continue sur toute la longueur et la largeur de la couchette contre le risque de glissement en cas des sollicitations rencontrées dans les conditions normales de circulation, répondant aux prescriptions de l'article 7 de la présente annexe, à l'exception des poids et dimensions et qui seront ramenés respectivement à 100 kg et 136 cm x 40 cm.
-
-Toutefois, dans le cas des couchettes inférieures, le dispositif assurant la protection continue décrite ci-dessus ne sera pas exigé sur les côtés de la couchette parallèles à l'axe longitudinal du véhicule.
+Article 8 (supprimé)
 
 Article 9
 

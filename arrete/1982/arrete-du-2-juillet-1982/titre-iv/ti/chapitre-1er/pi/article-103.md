@@ -88,4 +88,10 @@ L'annexe 6 de l'arrêté du 2 juillet 1982 précité est supprimée à compter d
 
 3. Les dispositions des paragraphes 1 et 2 s'appliquent aux véhicules neufs des catégories internationales M2 et M3 faisant l'objet d'une réception individuelle telle que définie à l'article 24 de la directive 2007/46/ CE susvisée ou d'une réception à titre isolé telle que définie dans l'arrêté du 19 juillet 1954 modifié relatif à la réception des véhicules automobiles.
 
+4. Les véhicules neufs des catégories M2 et M3 immatriculés à compter du 1er novembre 2014 répondent aux prescriptions techniques du règlement 107 série 03 d'amendements annexé à l'accord de Genève du 20 mars 1958.
+
+5. Les véhicules neufs de transport en commun de personnes des classes II et III à un seul étage immatriculés à compter du 1er novembre 2014 répondent aux prescriptions techniques du règlement 66 série 02 d'amendements annexé à l'accord de Genève du 20 mars 1958.
+
+6. Les véhicules neufs de transport en commun de personnes de la classe B à un seul étage pouvant transporter plus de 16 passagers immatriculés à compter du 9 novembre 2017 répondent aux prescriptions techniques du règlement 66 série 02 d'amendements annexé à l'accord de Genève du 20 mars 1958.
+
 14° Sur le territoire des départements de Guyane et de Mayotte, les dispositions de l'article 75 bis du présent arrêté sont applicables six mois après la date à laquelle au moins un installateur et au moins un vérificateur auront été qualifiés dans chacun de ces deux départements par l'organisme visé à l'article 18 ter du présent arrêté, et au plus tard le 1er janvier 2015.
