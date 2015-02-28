@@ -20,7 +20,7 @@ e) La direction centrale du service du commissariat des armées (1) ;
 
 a) La direction des ressources humaines de l'armée de terre ;
 
-b) La direction centrale du matériel de l'armée de terre ;
+b) (Abrogé) ;
 
 c) Le service de la trésorerie aux armées ;
 

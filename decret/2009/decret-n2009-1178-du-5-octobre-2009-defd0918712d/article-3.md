@@ -1,6 +1,6 @@
 # Article 3
 
-Outre les organismes                      cités au 1° et au 2° du II et au 1° et au 3° du III de l'article 1er du présent décret, les organismes à caractère civil faisant partie de l'administration centrale du ministère de la défense sont :
+Outre les organismes cités au 1° et au 2° du II et au 1° et au 3° du III de l'article 1er du présent décret, les organismes à caractère civil faisant partie de l'administration centrale du ministère de la défense sont :
 
 I. ― La direction générale de l'armement, sous l'autorité du délégué général pour l'armement.
 
@@ -24,7 +24,7 @@ h) L'inspection de l'armement.
 
 II. ― Le secrétariat général pour l'administration, sous l'autorité du secrétaire général pour l'administration.
 
-Celui-ci exerce les attributions prévues à l'article 2 du décret n° 2009-870 du 15 juillet 2009 susvisé et  a autorité sur les organismes suivants :
+Celui-ci exerce les attributions prévues à l'article 2 du décret n° 2009-870 du 15 juillet 2009 susvisé et a autorité sur les organismes suivants :
 
 a) La direction des affaires financières ;
 
@@ -42,4 +42,4 @@ g) La direction centrale du service d'infrastructure de la défense ;
 
 h) Le service parisien de soutien de l'administration centrale ;
 
-i) La sous-direction du pilotage des programmes budgétaires.
+i) La sous-direction du pilotage des ressources humaines et financières.
