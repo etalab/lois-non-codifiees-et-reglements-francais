@@ -1,7 +1,0 @@
-# Article 3
-
-Le service du matériel de l'armée de terre participe aux études relatives aux évolutions de la maintenance, à la définition, à la conception des matériels nouveaux et à l'amélioration de la fiabilité des matériels visés à l'article 1er du présent décret.
-
-En liaison avec les organismes concernés des autres armées, de la gendarmerie nationale, de la direction générale de l'armement et du service interarmées des munitions, il collabore à la définition et à la mise en place du soutien logistique intégré pour les matériels nouveaux.
-
-Il définit, dans le cadre des directives de l'état-major de l'armée de terre, les caractéristiques techniques et les conditions d'emploi des matériels et équipements de maintenance qui ne relèvent pas de la compétence de la direction générale de l'armement ou du service interarmées des munitions ; il organise leur expérimentation et en propose les évolutions.

@@ -1,4 +1,4 @@
-# Décret n°2003-1381 du 31 décembre 2003 fixant les attributions du service des systèmes d'information de la marine.
+# Arrêté du 28 juin 2000 portant délégation de pouvoirs à certaines autorités militaires en matière de décisions individuelles concernant les militaires engagés de l'armée de terre
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

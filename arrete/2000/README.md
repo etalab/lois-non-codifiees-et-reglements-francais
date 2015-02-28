@@ -148,6 +148,7 @@
 - [Arrêté du 28 décembre 2000 (ECOA0020031A)](arrete-du-28-decembre-2000-ecoa0020031a)
 - [Arrêté du 28 février 2000 (MJSK9970083A)](arrete-du-28-fevrier-2000-mjsk9970083a)
 - [Arrêté du 28 juillet 2000 (EQUP0000696A)](arrete-du-28-juillet-2000-equp0000696a)
+- [Arrêté du 28 juin 2000 (DEFD0001713A)](arrete-du-28-juin-2000-defd0001713a)
 - [Arrêté du 28 juin 2000 (DEFD0001720A)](arrete-du-28-juin-2000-defd0001720a)
 - [Arrêté du 28 juin 2000 (DEFD0001723A)](arrete-du-28-juin-2000-defd0001723a)
 - [Arrêté du 28 juin 2000 (ECOC0000054A)](arrete-du-28-juin-2000-ecoc0000054a)

@@ -653,7 +653,6 @@
 - [Décret n°96-280 du 27 mars 1996 (BUDF9610069D)](decret-n96-280-du-27-mars-1996-budf9610069d)
 - [Décret n°96-281 du 27 mars 1996 (BUDF9610070D)](decret-n96-281-du-27-mars-1996-budf9610070d)
 - [Décret n°96-572 du 27 juin 1996 (TASS9621753D)](decret-n96-572-du-27-juin-1996-tass9621753d)
-- [Décret n°96-576 du 27 juin 1996 (DEFD9601172D)](decret-n96-576-du-27-juin-1996-defd9601172d)
 - [Décret n°96-581 du 27 juin 1996 (ECOT9610274D)](decret-n96-581-du-27-juin-1996-ecot9610274d)
 - [Décret n°96-591 du 27 juin 1996 (FPPA9600014D)](decret-n96-591-du-27-juin-1996-fppa9600014d)
 - [Décret n°96-761 du 27 août 1996 (INDF9600454D)](decret-n96-761-du-27-aout-1996-indf9600454d)

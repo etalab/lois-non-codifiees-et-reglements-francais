@@ -1000,7 +1000,6 @@
 - [Décret n°2003-1378 du 31 décembre 2003 (DEFP0302403D)](decret-n2003-1378-du-31-decembre-2003-defp0302403d)
 - [Décret n°2003-1379 du 31 décembre 2003 (DEFD0302302D)](decret-n2003-1379-du-31-decembre-2003-defd0302302d)
 - [Décret n°2003-1380 du 31 décembre 2003 (DEFP0302404D)](decret-n2003-1380-du-31-decembre-2003-defp0302404d)
-- [Décret n°2003-1381 du 31 décembre 2003 (DEFD0302311D)](decret-n2003-1381-du-31-decembre-2003-defd0302311d)
 - [Décret n°2003-1383 du 31 décembre 2003 (ECOT0310491D)](decret-n2003-1383-du-31-decembre-2003-ecot0310491d)
 - [Décret n°2003-1384 du 31 décembre 2003 (BUDF0320065D)](decret-n2003-1384-du-31-decembre-2003-budf0320065d)
 - [Décret n°2003-1385 du 31 décembre 2003 (BUDB0340039D)](decret-n2003-1385-du-31-decembre-2003-budb0340039d)

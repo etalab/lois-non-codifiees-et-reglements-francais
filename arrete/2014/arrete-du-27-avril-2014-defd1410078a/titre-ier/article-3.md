@@ -8,7 +8,7 @@ b) Du commandant des forces terrestres ;
 
 c) Du directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres ;
 
-d) Des officiers généraux commandant de région terre.
+d) Des officiers généraux   commandant de zone terre .
 
 2. L'état-major de l'armée de terre comprend :
 

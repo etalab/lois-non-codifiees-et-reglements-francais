@@ -10,11 +10,11 @@ Commandant du service militaire adapté pour les militaires du rang ayant souscr
 
 2. Formations de l'armée de terre
 
-Commandant de région terre, y compris pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
+Commandant de zone terre , y compris pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
 
 Commandant de la brigade de sapeurs-pompiers de Paris.
 
-Commandant de la région terre Ile-de-France - commandant organique terre de l'outre-mer et de l'étranger à l'égard des militaires du rang de l'armée de terre à l'étranger ne relevant pas d'un commandant de forces stationnées à l'étranger, ainsi que de ceux qui sont affectés dans les départements et les régions d'outre-mer. Il en est de même pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
+Commandant de la région terre Ile-de-France-commandant organique terre de l'outre-mer et de l'étranger à l'égard des militaires du rang de l'armée de terre à l'étranger ne relevant pas d'un commandant de forces stationnées à l'étranger, ainsi que de ceux qui sont affectés dans les départements et les régions d'outre-mer. Il en est de même pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
 
 Commandant de la légion étrangère pour les militaires du rang servant à titre étranger.
 
@@ -32,9 +32,9 @@ Lorsque aucune des autorités militaires de troisième niveau mentionnées ci-de
 
 ANNEXE II
 
-A. - Les autorités militaires de deuxième niveau sont habilitées, en ce qui concerne les militaires du rang relevant de leur commandement, à constituer un conseil de discipline et à en nommer les membres.
+A.-Les autorités militaires de deuxième niveau sont habilitées, en ce qui concerne les militaires du rang relevant de leur commandement, à constituer un conseil de discipline et à en nommer les membres.
 
-B. - Liste des autorités militaires habilitées, en ce qui concerne les militaires du rang relevant de leur commandement, à ordonner l'envoi devant un conseil d'enquête, à constituer ce conseil, en nommer les membres et en désigner le rapporteur.
+B.-Liste des autorités militaires habilitées, en ce qui concerne les militaires du rang relevant de leur commandement, à ordonner l'envoi devant un conseil d'enquête, à constituer ce conseil, en nommer les membres et en désigner le rapporteur.
 
 1. Formations relevant du chef d'état-major des armées
 
@@ -46,11 +46,11 @@ Commandant du service militaire adapté pour les militaires du rang ayant souscr
 
 2. Formations de l'armée de terre
 
-Commandant de région terre, y compris pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
+Commandant de zone terre , y compris pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
 
 Commandant de la brigade de sapeurs-pompiers de Paris.
 
-Commandant de la région terre Ile-de-France - commandant organique terre de l'outre-mer et de l'étranger à l'égard des militaires du rang de l'armée de terre à l'étranger ne relevant pas d'un commandant de forces stationnées à l'étranger ainsi que de ceux qui sont affectés dans les départements et les régions d'outre-mer. Il en est de même pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
+Commandant de la région terre Ile-de-France-commandant organique terre de l'outre-mer et de l'étranger à l'égard des militaires du rang de l'armée de terre à l'étranger ne relevant pas d'un commandant de forces stationnées à l'étranger ainsi que de ceux qui sont affectés dans les départements et les régions d'outre-mer. Il en est de même pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
 
 Commandant de la légion étrangère pour les militaires du rang servant à titre étranger.
 
@@ -76,11 +76,11 @@ Commandant du service militaire adapté pour les militaires du rang ayant souscr
 
 2. Formations de l'armée de terre
 
-Commandant de région terre, y compris pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
+Commandant de zone terre , y compris pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
 
 Commandant de la brigade de sapeurs-pompiers de Paris.
 
-Commandant de la région terre Ile-de-France - commandant organique terre de l'outre-mer et de l'étranger à l'égard des militaires du rang de l'armée de terre à l'étranger ne relevant pas d'un commandant de forces stationnées à l'étranger ainsi que de ceux qui sont affectés dans les départements et les régions d'outre-mer. Il en est de même pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
+Commandant de la région terre Ile-de-France-commandant organique terre de l'outre-mer et de l'étranger à l'égard des militaires du rang de l'armée de terre à l'étranger ne relevant pas d'un commandant de forces stationnées à l'étranger ainsi que de ceux qui sont affectés dans les départements et les régions d'outre-mer. Il en est de même pour les militaires du rang de l'armée de terre affectés dans une formation ne relevant pas de son commandement mais stationnée dans les limites territoriales relevant de sa compétence.
 
 Commandant de la légion étrangère pour les militaires du rang servant à titre étranger.
 

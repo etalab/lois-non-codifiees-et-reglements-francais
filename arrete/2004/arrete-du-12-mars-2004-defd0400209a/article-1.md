@@ -10,10 +10,10 @@ II.-Des organismes extérieurs relevant de la DCMAT et dont les missions sont fi
 
 -le centre d'études et de développements informatiques du matériel de l'armée de terre (CEDIMAT) ;
 
-III.-Des organismes extérieurs dont les attributions, l'organisation et le fonctionnement, sous réserve des attributions dévolues aux commandants des régions terre, sont fixés par des textes particuliers :
+III.-Des organismes extérieurs dont les attributions, l'organisation et le fonctionnement, sous réserve des attributions dévolues aux   commandants des zones terre , sont fixés par des textes particuliers :
 
 -les directions régionales du matériel (DIRMAT) ;
 
 -les bases de soutien du matériel (BSMAT) ;
 
-- les régiments du matériel (RMAT) et les bataillons du matériel (BMAT).
+-les régiments du matériel (RMAT) et les bataillons du matériel (BMAT).
