@@ -1,22 +1,8 @@
 # Article 1
 
-I. ― Les informations que les gestionnaires d'infrastructures de communications électroniques et les opérateurs de communications électroniques ne doivent pas communiquer à l'Etat, aux collectivités territoriales et à leurs groupements en vertu de l'article D. 98-6-3 du code des postes et télécommunications sont les suivantes :
-
-1° Informations relatives à la localisation des emprises de desserte et des systèmes de raccordement par les infrastructures et réseaux de communications électroniques, pour ceux de ces éléments qui se situent dans un périmètre pertinent, précisé à l'annexe B au présent décret, autour de points géographiques dont les coordonnées sont communiquées par le préfet des départements concernés par la demande ;
-
-2° Informations spécifiques à la localisation précise des nœuds et relais des réseaux de collecte tels que définis en annexe A au présent décret.
+I.-Les informations que les gestionnaires d'infrastructures de communications électroniques et les opérateurs de communications électroniques ne doivent pas communiquer à l'Etat, aux collectivités territoriales et à leurs groupements en vertu de l'article D. 98-6-3 du code des postes et des communications électroniques sont les informations spécifiques à la localisation précise des nœuds et relais des réseaux de collecte tels que définis en annexe A au présent décret.
 
 Le tracé des infrastructures d'accueil géographiquement isolées et dédiées aux réseaux longue distance ou à la desserte spécifique de clients professionnels peut être exclu de la communication par l'opérateur.
-
-Les points géographiques visés au 1° correspondent à des installations d'importance vitale, des points d'importance vitale ou des installations classées comme points sensibles, au sens du code de la défense. Lorsque l'étendue du site le justifie, les coordonnées géographiques peuvent être communiquées par le préfet sous forme d'un groupe de points.
-
-Les opérateurs et les gestionnaires d'infrastructures ne communiquent pas d'informations à l'Etat, aux collectivités territoriales et à leurs groupements s'ils ne disposent pas pour l'ensemble des départements concernés par la demande d'une liste de points communiquée dans les six derniers mois par le préfet. Ils prennent en compte, au moins tous les six mois, les mises à jour des listes de points communiquées par les préfets.
-
-Le périmètre pertinent visé au 1° est précisé pour chaque type de réseau en annexe B au présent décret. Dans les zones ainsi définies, les informations concernant les équipements passifs ne doivent contenir aucun élément de localisation plus précis que leur simple appartenance à cette zone. Les opérateurs ne fournissent en outre aucune information sur les infrastructures d'accueil des réseaux de communications électroniques situées dans le périmètre pertinent correspondant à leur type de réseau le plus largement déployé. Les gestionnaires d'infrastructures n'ayant pas d'équipements passifs ne fournissent aucune information sur les infrastructures d'accueil des réseaux de communications électroniques situées dans un rayon de 500 mètres autour des points géographiques dont les coordonnées sont transmises par les préfets.
-
-Les opérateurs et les gestionnaires d'infrastructures peuvent, pour le traitement de données non vectorielles, procéder à la suppression d'images indivisibles couvrant en partie une zone d'exclusion dès lors que leur dimension n'excède pas 300 mètres de côté.
-
-Lors de l'établissement ou de la modification de ces périmètres pertinents, les opérateurs et gestionnaires d'infrastructures transmettent aux préfets concernés les documents cartographiques et explicatifs leur permettant d'apprécier la pertinence de ces périmètres.
 
 II.-La transmission d'informations par les opérateurs et gestionnaires d'infrastructures dans le cadre de l'article D. 98-6-3 du code des postes et des communications électroniques s'effectue selon des modalités propres à garantir la confidentialité des données.
 
