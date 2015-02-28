@@ -1,4 +1,4 @@
-# Arrêté du 29 novembre 2010 portant organisation des bases de défense et fixant les attributions des commandants des bases de défense
+# Arrêté du 9 février 2015 portant création du comité d'hygiène, de sécurité et des conditions de travail local n° L247 de la base de défense de Toulon
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -6,5 +6,5 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
+- [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Annexe](annexe)
