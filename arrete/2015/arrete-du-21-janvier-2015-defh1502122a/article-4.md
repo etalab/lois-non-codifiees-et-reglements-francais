@@ -12,7 +12,7 @@ b) Représentants du personnel : quatre membres titulaires et quatre membres sup
 
 - trois sièges de titulaire et trois sièges de suppléant pour la fédération syndicale Force ouvrière de la défense des industries de l'armement et des secteurs assimilés (FO défense) ;
 
-- un siège de titulaire et un siège de suppléant pour la Fédération des établissements et arsenaux ;
+- un siège de titulaire et un siège de suppléant pour la Fédération des établissements et arsenaux de l'Etat (FEAE-CFDT) ;
 
 c) Le ou les médecins de prévention des entités listées à l'article 3 du présent arrêté ;
 

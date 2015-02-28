@@ -4,13 +4,13 @@ La composition de ce comité est fixée comme suit :
 
 a) Représentants de l'administration :
 
-- le chef d'emprise de la caserne Blandan ou son représentant qui en assure la présidence ;
+- le chef d'organisme du centre expert des ressources humaines et de la solde ou son représentant qui en assure la présidence ;
 
-- les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
+-l es chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
 
 b) Représentants du personnel : quatre membres titulaires et quatre membres suppléants, dont la répartition est la suivante :
 
-- un siège de titulaire et un siège de suppléant pour la fédération syndicale Force ouvrière de la défense des industries de l'armement et des secteurs assimilés (FO défense) ;
+-un siège de titulaire et un siège de suppléant pour la fédération syndicale Force ouvrière de la défense des industries de l'armement et des secteurs assimilés (FO défense) ;
 
 - deux sièges de titulaire et deux sièges de suppléant pour la Fédération des établissements et arsenaux de l'Etat (FEAE-CFDT) ;
 
