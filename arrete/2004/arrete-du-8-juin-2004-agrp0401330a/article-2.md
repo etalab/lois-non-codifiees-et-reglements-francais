@@ -1,5 +1,5 @@
 # Article 2
 
-Toute plantation visée à l'article précédent est soumise à une autorisation déposée auprès de la délégation régionale de l'Office national interprofessionnel des vins (ONIVINS) dont dépend le siège du demandeur, au plus tard le 30 juin de la campagne précédant la plantation.
+Toute plantation visée à l'article précédent est soumise à une autorisation dont la demande est déposée auprès de FranceAgriMer, au plus tard le 30 juin 2015.
 
-L'autorisation est accordée après accord du ministre chargé de l'agriculture sur avis de l'ONIVINS et le cas échéant de l'Institut national des appellations d'origine (INAO).
+L'autorisation est accordée sur avis de FranceAgriMer. L'avis de l'Institut national de l'origine et de la qualité (INAO) est requis si l'autorisation concerne une demande de plantation sur une aire géographique d'appellation d'origine protégée ou d'indication géographique protégée.
