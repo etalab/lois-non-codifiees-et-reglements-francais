@@ -1299,7 +1299,6 @@
 - [Arrêté du 18 août 2009 (ESRS0915557A)](arrete-du-18-aout-2009-esrs0915557a)
 - [Arrêté du 18 août 2009 (ESRS0919530A)](arrete-du-18-aout-2009-esrs0919530a)
 - [Arrêté du 18 août 2009 (JUSA0918408A)](arrete-du-18-aout-2009-jusa0918408a)
-- [Arrêté du 18 août 2009 (MAEF0916622A)](arrete-du-18-aout-2009-maef0916622a)
 - [Arrêté du 18 août 2009 (MAEF0916627A)](arrete-du-18-aout-2009-maef0916627a)
 - [Arrêté du 18 août 2009 (MAEF0916628A)](arrete-du-18-aout-2009-maef0916628a)
 - [Arrêté du 18 août 2009 (MAEF0916632A)](arrete-du-18-aout-2009-maef0916632a)
