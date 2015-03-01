@@ -24,7 +24,7 @@ Annexe 5 :
 
 -liste 2. Liste des GHS excluant le paiement des actes de dialyse en sus.
 
-Annexe 6. Liste des actes de mastectomie permettant la facturation du GHS 3362,3363,3364 ou 3365.
+Annexe 6. Liste des actes de mastectomie permettant la facturation du GHS 3362, 3363, 3364 ou 3365.
 
 Annexe 7 :
 
@@ -32,7 +32,7 @@ Annexe 7 :
 
 -liste 2. Actes marqueurs de suppléance vitale pour lesquels il faut au moins trois occurrences ;
 
--liste 3. Actes de pose d'un dispositif d'assistance ventriculaire donnant lieu à rémunération du GHS 1518,1519,1520,1521,8934,8935,8936 ou 8937.
+-liste 3. Actes de pose d'un dispositif d'assistance ventriculaire donnant lieu à rémunération du GHS 1518, 1519, 1520, 1521, 8934, 8935, 8936 ou 8937.
 
 Annexe 8 :
 
@@ -42,7 +42,7 @@ Annexe 8 :
 
 -liste 3. Diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue pour les enfants de moins de 18 ans.
 
-Annexe 9. Liste des forfaits de traitement de l'insuffisance rénale chronique en centre facturables par les établissements de santé mentionnés au d de l'article L. 162-22-6 du code de la sécurité sociale ;
+Annexe 9 : (annexe supprimée)
 
 Annexe 10. Liste des actes donnant lieu à rémunération sur la base d'un FFM.
 
