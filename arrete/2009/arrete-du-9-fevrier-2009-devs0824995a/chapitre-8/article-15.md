@@ -78,7 +78,9 @@ c) Soit un procès-verbal de RTI, soit :
 
 - en cas de transformation d'un type de véhicule de genre MTT1 le rendant conforme à un autre type de véhicule de genre MTT2, ou inversement : une attestation de conformité délivrée par le constructeur indiquant les caractéristiques nécessaires à l'établissement du certificat d'immatriculation du véhicule transformé et précisant que la transformation a été effectuée conformément à ses prescriptions ;
 
-- en cas de transformation en série d'un type de véhicules sous la responsabilité du constructeur : un certificat de conformité accompagné de son procès-verbal d'agrément de prototype.
+- en cas de transformation en série d'un type de véhicules sous la responsabilité du constructeur : un certificat de conformité accompagné de son procès-verbal d'agrément de prototype ;
+
+- en cas de transformation réversible pour les véhicules usagés de la catégorie M1, genre VASP, carrosserie DERIV VP afin de redevenir conforme à son type d'origine : une attestation d'adaptation réversible conforme à l'annexe 1-C de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules.
 
 d) En cas de modification de la carrosserie et si la carrosserie a été modifiée dans un pays tiers à l'Union européenne : un certificat 846A délivré par le service des douanes.
 

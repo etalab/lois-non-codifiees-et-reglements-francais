@@ -1268,6 +1268,19 @@ III. - Véhicules spécialisés non affectés au transport de marchandises
 </td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>
+<p align="center"> M1</p>
+</td>
+<td>
+<p align="left"> Adaptation réversible dérivée de VP</p>
+</td>
+<td>
+<p align="center"> DERIV VP</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Semi-remorques spécialisées.</p>
 </td>

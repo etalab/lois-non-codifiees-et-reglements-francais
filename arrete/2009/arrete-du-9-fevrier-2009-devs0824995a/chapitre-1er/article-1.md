@@ -10,13 +10,13 @@ Les dossiers de demande d'immatriculation d'un véhicule neuf ou d'occasion doiv
 
 La demande de certificat d'immatriculation, les justificatifs d'identité et d'adresse et le justificatif de vente.
 
-Pour les véhicules acquis en France, la demande de certificat d'immatriculation et le justificatif de vente peuvent être remplacés par le document dit "3 en 1".
+Pour les véhicules acquis en France, la demande de certificat d'immatriculation et le justificatif de vente peuvent être remplacés par le document dit " 3 en 1 ".
 
 1. A. 2. Justificatifs techniques de conformité
 
 Pour les véhicules acquis en France :
 
-Le document dit "3 en 1" ou le certificat de conformité à un type national ou le certificat de conformité à un type CE complété le cas échéant par le procès-verbal de contrôle de conformité initial si le véhicule de genre "CTTE" neuf, carrosserie "FOURGON" est carrossé en carrosserie "FGTD".
+Le document dit " 3 en 1 " ou le certificat de conformité à un type national ou le certificat de conformité à un type CE complété le cas échéant par le procès-verbal de contrôle de conformité initial si le véhicule de genre " CTTE " neuf, carrosserie " FOURGON " est carrossé en carrosserie " FGTD ".
 
 Le certificat de conformité à un type CE doit être rédigé en français.
 
@@ -28,13 +28,15 @@ Dans le cas où le certificat de conformité à un type CE ne permet pas d'immat
 
 Lorsque le certificat de conformité à un type CE est conforme à la directive 74/150/ CE, il est complété par des indications complémentaires au certificat de conformité 74/150/ CE.
 
+Pour les véhicules neufs de la catégorie M1, genre VP faisant l'objet d'une transformation réversible dite " DERIV VP ", une attestation d'adaptation réversible conforme à l'annexe 1-B de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules.
+
 1. A. 3. Justificatifs fiscaux
 
 Aucun justificatif fiscal n'est à produire pour les remorques, les semi-remorques, les véhicules agricoles et forestiers et les engins spéciaux provenant d'un Etat membre de l'Union européenne autre que la France.
 
 Pour les autres véhicules neufs :
 
-a) Provenant d'un Etat tiers à l'Union européenne ou d'une partie de territoire mentionnée à l'article 4.1 de l'annexe 1 du présent arrêté : un certificat 846 A délivré par le service des douanes ou le document dit "3 en 1" visé par le service des douanes ou une mention de dispense ;
+a) Provenant d'un Etat tiers à l'Union européenne ou d'une partie de territoire mentionnée à l'article 4.1 de l'annexe 1 du présent arrêté : un certificat 846 A délivré par le service des douanes ou le document dit " 3 en 1 " visé par le service des douanes ou une mention de dispense ;
 
 b) Provenant d'un Etat de l'Union européenne autre que la France, dans les cas autres que ceux mentionnés au point a : un quitus fiscal ou une mention de dispense.
 
@@ -46,17 +48,17 @@ Les pièces indiquées en 1. A. 1 pour le véhicule d'origine.
 
 1. B. 2. Justificatifs techniques de conformité
 
-Le document dit "3 en 1" ou le certificat de conformité à un type CE pour le véhicule d'origine complété du tableau figurant à l'annexe 17 du présent arrêté ou le certificat de conformité à un type national, et :
+Le document dit " 3 en 1 " ou le certificat de conformité à un type CE pour le véhicule d'origine complété du tableau figurant à l'annexe 17 du présent arrêté ou le certificat de conformité à un type national, et :
 
 a) Soit un procès-verbal de réception à titre isolé (RTI) ;
 
 b) Soit :
 
-- pour les véhicules du genre tracteur routier (TRR) et de carrosserie pour semi-remorque (PR SREM) : l'annexe X de l'arrêté du 19 juillet 1954 susvisé ;
+-pour les véhicules du genre tracteur routier (TRR) et de carrosserie pour semi-remorque (PR SREM) : l'annexe X de l'arrêté du 19 juillet 1954 susvisé ;
 
-- pour les autres véhicules de PTAC inférieur ou égal à 3,5 tonnes : un procès-verbal de contrôle de conformité initial ;
+-pour les autres véhicules de PTAC inférieur ou égal à 3,5 tonnes : un procès-verbal de contrôle de conformité initial ;
 
-- pour les autres véhicules de PTAC > 3,5 tonnes : un procès-verbal de contrôle de conformité initial.
+-pour les autres véhicules de PTAC > 3,5 tonnes : un procès-verbal de contrôle de conformité initial.
 
 Pour les véhicules équipés d'une benne amovible, carrosserie benne amovible (BEN AMO), une annexe IX de l'arrêté du 19 juillet 1954 susvisé doit être jointe à l'annexe VII du même arrêté ou au procès-verbal de contrôle de conformité initial ;
 
