@@ -82,7 +82,7 @@ I. - Dans chaque établissement, les catégories d'information enregistrées dan
 
 - confirmation de codage ;
 
-- les actes réalisés au cours du séjour et codés selon la version la plus récente de la liste établie dans les conditions fixées par l'article L. 162-1-7 du code de la sécurité sociale.
+- les actes portés dans les RPSS sont codés selon la plus récente mise à jour de la classification d'actes figurant à l'annexe II du présent arrêté.
 
 Ces informations doivent être conformes au contenu du dossier médical.
 
@@ -99,6 +99,8 @@ IV. - Pour les établissements de santé mentionnés aux d et e de l'article L. 
 V. - Un fichier relatif aux conventions mentionnées au onzième alinéa du 2° de l'article 2 encadrant l'intervention des établissements de santé d'hospitalisation à domicile dans les établissements sociaux ou médico-sociaux est produit. Les informations qui y sont renseignées sont les suivantes :
 
 - numéro FINESS de l'établissement social et médico-social ;
+
+- Type d'établissement ;
 
 - code forfait de soins ;
 

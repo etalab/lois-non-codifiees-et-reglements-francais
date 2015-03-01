@@ -10,6 +10,6 @@ En vue de la constitution par l'agence technique de l'information sur l'hospital
 
 En vue de la constitution de bases nationales de données annuelles l' agence régionale de santé transmet à l'agence technique de l'information sur l'hospitalisation, au plus tard au 1er mars de l'année en cours, les fichiers constitués de l'ensemble des informations que lui ont transmis les établissements de santé de la région au titre de l'année civile précédente.
 
-Les agences régionales de l'hospitalisation ou l'agence technique de l'information sur l'hospitalisation communiquent ces fichiers à tout autre organisme d'assurance maladie sous réserve que celui-ci ait été autorisé à les traiter par la commission nationale de l'informatique et des libertés dans le cadre des dispositions du chapitre X de la loi du 6 janvier 1978 susvisé.
+Les agences régionales de santé  ou l'agence technique de l'information sur l'hospitalisation communiquent ces fichiers à tout autre organisme d'assurance maladie sous réserve que celui-ci ait été autorisé à les traiter par la commission nationale de l'informatique et des libertés dans le cadre des dispositions du chapitre X de la loi du 6 janvier 1978 susvisé.
 
 III. - Dans chaque structure d'hospitalisation à domicile, le médecin chargé de l'information médicale est responsable de la sauvegarde de l'ensemble des fichiers produits. Il en assure la conservation de la copie produite pendant cinq ans.

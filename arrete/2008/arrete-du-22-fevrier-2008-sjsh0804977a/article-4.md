@@ -10,9 +10,9 @@ I. ― Le RUM ou le RSS comporte notamment des informations concernant :
 
 Les informations recueillies dans ces résumés sont conformes au contenu du dossier médical du patient.
 
-Les diagnostics portés dans les RUM sont codés selon la plus récente mise à jour de la dixième révision de la classification internationale des maladies de l'Organisation mondiale de la santé (CIM 10) et selon les extensions y afférentes prévues dans le document figurant en annexe I du présent arrêté, dans le respect des consignes de codage données dans le guide mentionné au V du présent article.
+Les diagnostics portés dans les RUM sont codés selon la plus récente mise à jour de la classification diagnostique figurant à l'annexe III du présent arrêté dans le respect des consignes de codage données dans le guide mentionné au V du présent article.
 
-Les actes portés dans les RUM sont codés selon la classification commune des actes médicaux (CCAM) figurant sur la liste établie dans les conditions fixées par l' article L. 162-1-7 du code de la sécurité sociale .
+Les actes portés dans les RUM sont codés selon la plus récente mise à jour de la classification d'actes figurant à l'annexe IV du présent arrêté.
 
 Les informations du RSS donnent lieu à l'affectation du séjour à une catégorie d'information synthétique, dénommée groupe homogène de malade (GHM), produite selon un algorithme de groupage défini par l'Etat. Ces GHM sont répertoriés et décrits selon la classification figurant en annexe I du présent arrêté.
 
