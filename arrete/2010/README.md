@@ -1290,7 +1290,6 @@
 - [Arrêté du 15 mars 2010 (SASP1006003A)](arrete-du-15-mars-2010-sasp1006003a)
 - [Arrêté du 15 mars 2010 (SASP1006019A)](arrete-du-15-mars-2010-sasp1006019a)
 - [Arrêté du 15 mars 2010 (SASP1006025A)](arrete-du-15-mars-2010-sasp1006025a)
-- [Arrêté du 15 mars 2010 (SASS1006030A)](arrete-du-15-mars-2010-sass1006030a)
 - [Arrêté du 15 novembre 2010 (DEFH1023149A)](arrete-du-15-novembre-2010-defh1023149a)
 - [Arrêté du 15 novembre 2010 (DEVA1028537A)](arrete-du-15-novembre-2010-deva1028537a)
 - [Arrêté du 15 octobre 2009 (JUSA0922281A)](arrete-du-15-octobre-2009-jusa0922281a)
