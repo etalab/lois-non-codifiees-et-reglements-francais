@@ -1,0 +1,3 @@
+# Article 3
+
+La consultation des acteurs concernés lors d'une demande d'extension d'un accord en application de l'article 165 du règlement (UE) n° 1308/2013 du 17 décembre 2013 susvisé est réalisée par une publication pendant trois semaines au Bulletin officiel du ministère chargé de l'agriculture (BO-agri) d'un avis, auquel est annexé le document mentionné au point 8 de l'article 1. Les observations des acteurs concernés sur les actions menées par l'organisation interprofessionnelle et financées par ces contributions sont adressées par écrit ou/et par voie électronique, conformément aux dispositions de l'avis publié, dans le délai de trois semaines prévu pour la consultation.
