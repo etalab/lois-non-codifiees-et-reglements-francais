@@ -10,15 +10,13 @@ Définitions et dispositions générales
 
 a) Œufs de consommation : les œufs de poules en coquille, propres à la consommation humaine en l'état à l'exclusion des œufs cassés, des œufs couvés et des œufs cuits ;
 
-b) Etablissement : toute construction ou, dans le cas d'installation à ciel ouvert, tout site clos ou non clos situé sur le territoire national, dans lequel les oiseaux d'élevage sont détenus, élevés ou entretenus en vue de la production d'œufs de consommation.L'établissement regroupe éventuellement plusieurs bâtiments contigus ou non et, le cas échéant, les parcours associés ;
+b) Etablissement : toute construction ou, dans le cas d'installation à ciel ouvert, tout site clos ou non clos situé sur le territoire national, dans lequel les oiseaux d'élevage sont détenus, élevés ou entretenus en vue de la production d'œufs de consommation. L'établissement regroupe éventuellement plusieurs bâtiments contigus ou non et, le cas échéant, les parcours associés ;
 
 c) Atelier : un bâtiment ou une volière, associé ou non à un parcours ;
 
 e) Lot d'oiseaux : un ensemble d'oiseaux de même espèce et de même âge.
 
-2.L'approvisionnement direct par le producteur d'œufs du consommateur final en petites quantités, prévu par le c du 2 de l'article 1er du règlement (CE) n° 852 / 2004 et au c du 3 de l'article 1er du 853 et au b du 3 de l'article 1er du règlement (CE) n° 2160 / 2003, et sans préjudice des dispositions prévues aux
-articles R. 231-13 à R. 231-15 du code rural et de la pêche maritime
-, et notamment de l'obligation de déclaration, est soumis aux conditions définies ci-après :
+2. L'approvisionnement direct par le producteur d'œufs du consommateur final en petites quantités, prévu par le c du 2 de l'article 1er du règlement (CE) n° 852/2004 et au c du 3 de l'article 1er du 853 et au b du 3 de l'article 1er du règlement (CE) n° 2160/2003, et sans préjudice des dispositions prévues aux articles R. 231-13 à R. 231-15 du code rural et de la pêche maritime, et notamment de l'obligation de déclaration, est soumis aux conditions définies ci-après :
 
 -le producteur respecte les dispositions sanitaires de la présente annexe et les règles de commercialisation prévues à l'article 9.
 
@@ -32,9 +30,9 @@ Normes d'aménagement et de fonctionnement de l'établissement
 
 1. Les accès à l'établissement sont délimités de façon à interdire la pénétration des personnes étrangères, d'autres animaux, ainsi que celle des véhicules destinés à l'enlèvement des cadavres. Dans le cas d'élevage de volailles avec parcours, la protection à mettre en place ne vise pas les oiseaux sauvages. Dans le cas de volailles en liberté, la délimitation concerne uniquement les véhicules destinés à l'enlèvement des cadavres.
 
-2.L'approvisionnement en aliments des troupeaux est conçu pour éviter autant que possible la circulation de véhicules étrangers dans la zone d'élevage.
+2. L'approvisionnement en aliments des troupeaux est conçu pour éviter autant que possible la circulation de véhicules étrangers dans la zone d'élevage.
 
-3. Toute personne ayant accès à l'établissement d'élevage revêt une tenue de travail spécifique à l'établissement.L'éleveur et le cas échéant son personnel ont accès à un local, situé sur le site de l'établissement et à proximité des bâtiments d'élevage, pour changer de tenue. Ce local comporte un lave-mains, avec eau si possible chaude, savon liquide, essuie-mains jetables et une poubelle. Il doit être maintenu en bon état d'entretien et de propreté. En cas de production multiple, les poules pondeuses sont isolées des autres espèces animales.
+3. Toute personne ayant accès à l'établissement d'élevage revêt une tenue de travail spécifique à l'établissement. L'éleveur et le cas échéant son personnel ont accès à un local, situé sur le site de l'établissement et à proximité des bâtiments d'élevage, pour changer de tenue. Ce local comporte un lave-mains, avec eau si possible chaude, savon liquide, essuie-mains jetables et une poubelle. Il doit être maintenu en bon état d'entretien et de propreté. En cas de production multiple, les poules pondeuses sont isolées des autres espèces animales.
 
 4. Les abords de chaque bâtiment sont maintenus en état de propreté satisfaisant.
 
@@ -50,7 +48,7 @@ a) Entérocoques : absence dans 100 ml ;
 
 b) Coliformes totaux-E. coli : absence dans 100 ml.
 
-Les entérocoques et les coliformes totaux-E. coli sont respectivement recherchés par les méthodes décrites dans les normes NF EN / ISO 7899-2 (T90-416) et NF / ISO 9308-1 (T90-414).
+Les entérocoques et les coliformes totaux-E. coli sont respectivement recherchés par les méthodes décrites dans les normes NF EN ISO 7899-2 (août 2000) et NF EN ISO 9308-1 (septembre 2000).
 
 En cas de résultats favorables lors d'un premier contrôle et sous réserve d'une protection satisfaisante du captage et du réseau de distribution interne à l'établissement, le protocole de surveillance de la qualité bactériologique de l'eau peut être allégé à la recherche des entérocoques à une fréquence bisannuelle suivant le même critère.
 
@@ -66,7 +64,7 @@ Chapitre 2
 
 Stockage, transport et commercialisation des œufs
 
-1. Les œufs sales et / ou fêlés doivent être immédiatement écartés. Les œufs de consommation doivent être stockés dans des conteneurs propres réservés à cet effet dans un local spécifique, propre, ventilé.
+1. Les œufs sales et/ ou fêlés doivent être immédiatement écartés. Les œufs de consommation doivent être stockés dans des conteneurs propres réservés à cet effet dans un local spécifique, propre, ventilé.
 
 2. Les œufs doivent être transportés dans des conteneurs réservés à cet effet.
 

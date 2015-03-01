@@ -18,22 +18,28 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </tr>
 <tr>
 <td>
-<p align="center">Agalactie contagieuse</p>
+<p align="left">Agalactie contagieuse </p>
 </td>
 <td>
-<p align="center"> Mycoplasma agalactiae</p>
+<p align="left">Mycoplasma agalactiae </p>
 </td>
 <td>
-<p> Ovins</p>
-<p>Caprins (en Aquitaine)</p>
+<p align="left">Ovins et caprins </p>
 </td>
-<td/>
-<td/>
+<td>
+<p align="center">Aquitaine</p>
+</td>
+<td>
+<p align="center">Préfet</p>
+</td>
 </tr>
 <tr>
-<td align="center">Artérite virale équine<br/>
+<td align="center">
+<p align="left">Artérite virale équine<br/>
+</p>
 </td>
-<td align="center">Virus de l'artérite équine (Arteriviridae, Arterivirus).<br/>
+<td align="center">
+<p align="left">Virus de l'artérite équine (Arteriviridae, Arterivirus).</p>
 </td>
 <td align="center">Equidés<br/>
 </td>
@@ -43,9 +49,13 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Arthrite encéphalite caprine<br/>
+<td align="center">
+<p align="left">Arthrite encéphalite caprine<br/>
+</p>
 </td>
-<td align="center">Virus de l'arthrite encéphalite caprine (Retroviridae, Lentivirus)<br/>
+<td align="center">
+<p align="left">Virus de l'arthrite encéphalite caprine (Retroviridae, Lentivirus)<br/>
+</p>
 </td>
 <td align="center">Caprins<br/>
 </td>
@@ -56,9 +66,12 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Brucellose porcine<br/>
+<td align="center">
+<p align="left">Brucellose porcine<br/>
+</p>
 </td>
-<td align="center">Brucella suis sérovar 2<br/>
+<td align="center">
+<p align="left">Brucella suis sérovar 2</p>
 </td>
 <td align="center">Porcins<br/>
 </td>
@@ -68,11 +81,28 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Chlamydophilose aviaire ou ornithose-psittacose<br/>
+<td align="center">
+<p align="left">Chlamydophilose aviaire ou ornithose-psittacose</p>
 </td>
-<td align="center">Chlamydophila psittaci.<br/>
+<td align="center">
+<p align="left">Chlamydophila psittaci.</p>
 </td>
-<td align="center">Volailles et oiseaux captifs<br/>
+<td align="center">Volailles et oiseaux captifs</td>
+<td align="center">France<br/>
+</td>
+<td align="center">Préfet<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Frelon asiatique (*)</p>
+</td>
+<td align="center">
+<p align="left">Vespa velutina</p>
+</td>
+<td align="center">
+<p align="center">Abeilles domestiques (Apis mellifera)<br/>
+</p>
 </td>
 <td align="center">France<br/>
 </td>
@@ -80,21 +110,12 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Frelon asiatique (*)<br/>
+<td align="center">
+<p align="left">Hypodermose clinique<br/>
+</p>
 </td>
-<td align="center">Vespa velutina<br/>
-</td>
-<td align="center">Abeilles domestiques (Apis mellifera)<br/>
-</td>
-<td align="center">France<br/>
-</td>
-<td align="center">Préfet<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Hypodermose clinique<br/>
-</td>
-<td align="center">Hypoderma bovis ou Hypoderma lineatum<br/>
+<td align="center">
+<p align="left">Hypoderma bovis ou Hypoderma lineatum</p>
 </td>
 <td align="center">Bovins<br/>
 </td>
@@ -104,9 +125,12 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Leucose bovine enzootique<br/>
+<td align="center">
+<p align="left">Leucose bovine enzootique<br/>
+</p>
 </td>
-<td align="center">Virus de la leucose bovine enzootique (Retroviridae, Deltaretrovirus)<br/>
+<td align="center">
+<p align="left">Virus de la leucose bovine enzootique (Retroviridae, Deltaretrovirus)</p>
 </td>
 <td align="center">Bovins<br/>
 </td>
@@ -116,9 +140,12 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Maladie des muqueuses/diarrhée virale bovine<br/>
+<td align="center">
+<p align="left">Maladie des muqueuses/diarrhée virale bovine<br/>
+</p>
 </td>
-<td align="center">Pestivirus de la maladie des muqueuses (Flaviviridae, pestivirus) <br/>
+<td align="center">
+<p align="left">Pestivirus de la maladie des muqueuses (Flaviviridae, pestivirus) </p>
 </td>
 <td align="center">Bovins<br/>
 </td>
@@ -129,21 +156,13 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Morve<br/>
+<td align="center">
+<p align="left">Morve<br/>
+</p>
 </td>
-<td align="center">Burkholderia mallei<br/>
-</td>
-<td align="center">Equidés<br/>
-</td>
-<td align="center">France<br/>
-</td>
-<td align="center">Préfet<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Métrite contagieuse équine<br/>
-</td>
-<td align="center">Taylorella equigenitalis<br/>
+<td align="center">
+<p align="left">Burkholderia mallei<br/>
+</p>
 </td>
 <td align="center">Equidés<br/>
 </td>
@@ -153,9 +172,25 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Pullorose-typhose<br/>
+<td align="center">
+<p align="left">Métrite contagieuse équine</p>
 </td>
-<td align="center">Salmonella Gallinarum Pullorum<br/>
+<td align="center">
+<p align="left">Taylorella equigenitalis</p>
+</td>
+<td align="center">Equidés<br/>
+</td>
+<td align="center">France<br/>
+</td>
+<td align="center">Préfet<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Pullorose-typhose</p>
+</td>
+<td align="center">
+<p align="left">Salmonella Gallinarum Pullorum</p>
 </td>
 <td align="center">Volailles<br/>
 </td>
@@ -165,9 +200,11 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Rhinotrachéite infectieuse bovine<br/>
+<td align="center">
+<p align="left">Rhinotrachéite infectieuse bovine</p>
 </td>
-<td align="center">Herpes-virus bovin BoHV-1<br/>
+<td align="center">
+<p align="left">Herpes-virus bovin BoHV-1</p>
 </td>
 <td align="center">Bovins<br/>
 </td>
@@ -178,23 +215,14 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Trichinellose<br/>
+<td align="center">
+<p align="left">Trichinellose</p>
 </td>
-<td align="center">Trichinella spp.<br/>
+<td align="center">
+<p align="left">Trichinella spp.</p>
 </td>
-<td align="center">Toute espèce animale sensible<br/>
-</td>
-<td align="center">France<br/>
-</td>
-<td align="center">Préfet<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Tularémie<br/>
-</td>
-<td align="center">Francisella tularensis<br/>
-</td>
-<td align="center">Lièvre et autres espèces réceptives<br/>
+<td align="center">
+<p align="center">Toute espèce animale sensible</p>
 </td>
 <td align="center">France<br/>
 </td>
@@ -202,11 +230,14 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Varroose (*)<br/>
+<td align="center">
+<p align="left">Tularémie</p>
 </td>
-<td align="center">Varroa destructor<br/>
+<td align="center">
+<p align="left">Francisella tularensis</p>
 </td>
-<td align="center">Abeilles domestiques (Apis mellifera)<br/>
+<td align="center">
+<p align="center">Lièvre et autres espèces réceptives</p>
 </td>
 <td align="center">France<br/>
 </td>
@@ -214,9 +245,28 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td align="center">Visna-Maëdi<br/>
+<td align="center">
+<p align="left">Varroose (*)</p>
 </td>
-<td align="center">Virus du Visna-Maëdi<br/>
+<td align="center">
+<p align="left">Varroa destructor</p>
+</td>
+<td align="center">
+<p align="center">Abeilles domestiques (Apis mellifera)</p>
+</td>
+<td align="center">France<br/>
+</td>
+<td align="center">Préfet<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Visna-Maëdi<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Virus du Visna-Maëdi<br/>
+</p>
 </td>
 <td align="center">Ovins<br/>
 </td>
@@ -227,7 +277,9 @@ DANGERS SANITAIRES DE DEUXIÈME CATÉGORIE POUR LES ESPÈCES ANIMALES
 </td>
 </tr>
 <tr>
-<td colspan="4">(*) Dangers sanitaires antérieurement maladies à déclaration obligatoire ou classées en danger sanitaire de deuxième catégorie n'ayant pas encore fait l'objet d'un avis de l'ANSES.<br/>
+<td colspan="4">
+<p align="left">(*) Dangers sanitaires antérieurement maladies à déclaration obligatoire ou classées en danger sanitaire de deuxième catégorie n'ayant pas encore fait l'objet d'un avis de l'ANSES.<br/>
+</p>
 </td>
 </tr>
 </tbody>
