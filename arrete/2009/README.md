@@ -1437,7 +1437,6 @@
 - [Arrêté du 19 février 2009 (MENE0903359A)](arrete-du-19-fevrier-2009-mene0903359a)
 - [Arrêté du 19 février 2009 (SASG0904838A)](arrete-du-19-fevrier-2009-sasg0904838a)
 - [Arrêté du 19 février 2009 (SASG0904841A)](arrete-du-19-fevrier-2009-sasg0904841a)
-- [Arrêté du 19 février 2009 (SASH0904095A)](arrete-du-19-fevrier-2009-sash0904095a)
 - [Arrêté du 19 février 2009 (SASH0904107A)](arrete-du-19-fevrier-2009-sash0904107a)
 - [Arrêté du 19 février 2009 (SASP0904387A)](arrete-du-19-fevrier-2009-sasp0904387a)
 - [Arrêté du 19 février 2009 (SASP0904389A)](arrete-du-19-fevrier-2009-sasp0904389a)

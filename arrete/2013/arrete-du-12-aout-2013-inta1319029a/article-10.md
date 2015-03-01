@@ -1,6 +1,6 @@
 # Article 10
 
-La sous-direction des libertés publiques est chargée de préparer les textes relatifs aux libertés publiques et individuelles relevant de son champ de compétence, et d'en suivre l'application. Elle veille à la protection des données à caractère personnel. Elle est le correspondant de la commission nationale de l'informatique et des libertés pour l'ensemble de l'administration du ministère.
+La sous-direction des libertés publiques est chargée de préparer les textes relatifs aux libertés publiques et individuelles relevant de son champ de compétence, et d'en suivre l'application. Elle veille à la protection des données à caractère personnel. Elle est le correspondant de la commission nationale de l'informatique et des libertés pour l'ensemble de l'administration du ministère. Elle prépare et met en œuvre les dispositions relatives aux gels d'avoirs.
 
 Elle analyse les questions relevant du droit pénal et de la procédure pénale, et propose les modifications qui apparaissent nécessaires. Elle suit l'application du droit pénal de la presse et de la protection du jeune public.
 
