@@ -30,7 +30,7 @@ L'épreuve de français se compose d'un commentaire et d'un entretien.
 
 Le commentaire prend appui sur un ou plusieurs textes contemporains à dimension ou à visée argumentative [œuvre(s) littéraire(s), article(s), essai(s)] pour en proposer une approche problématisée.
 
-L'entretien est un temps de reprise et d'élargissement. Les cinq dernières minutes de l'entretien sont consacrées à une réflexion sur le (ou les) texte(s) à idées étudié(s) lors de la première partie de l'épreuve et orientées sur les motivations du candidat et l'idée qu'il se fait du métier d'officier.
+L'entretien est un temps de reprise et d'élargissement consacré à une réflexion sur le (ou les) texte (s) étudié (s) lors de la première partie de l'épreuve.
 
 Cette épreuve vise à évaluer l'esprit d'analyse et de synthèse du candidat, sa capacité à s'interroger et à souligner les points clés, à appréhender des notions ou des problématiques dans leur contexte historique, intellectuel et culturel, à s'exprimer avec clarté, correction et rigueur, à formuler une réflexion personnelle.
 
@@ -48,9 +48,9 @@ Le niveau souhaitable correspond à un niveau baccalauréat + 2, soit B2.
 
 L'épreuve de travaux d'initiative personnelle encadrés (TIPE) comporte deux parties consécutives.
 
-Le candidat expose oralement devant un groupe de deux à trois examinateurs le travail effectué pendant l'année sur le sujet de TIPE qu'il a choisi.
+Le candidat expose oralement, pendant dix minutes, devant un groupe de deux à trois examinateurs, le travail effectué pendant l'année sur le sujet de TIPE qu'il a choisi.
 
-Puis, dans le cadre d'un entretien, le candidat est interrogé sur le contenu de son exposé. Cet entretien demeure strictement dans les limites du programme.
+Puis, dans le cadre d'un entretien, le candidat est interrogé pendant quinze minutes sur le contenu de son exposé. Cet entretien demeure strictement dans les limites du programme.
 
 Le candidat ne bénéficie d'aucun temps de préparation pour cette épreuve.
 
@@ -90,7 +90,7 @@ Cette épreuve se compose d'un commentaire et d'un entretien.
 
 Le commentaire prend appui sur un ou plusieurs textes à dimension ou à visée argumentative hors programme [œuvre(s) littéraire(s) ou philosophique(s), article(s), essai(s)] pour en proposer une problématique.
 
-L'entretien est un temps de reprise et d'élargissement. Les cinq dernières minutes de l'entretien sont consacrées à une réflexion sur le (ou les) texte(s) à idées étudié(s) lors de la première partie de l'épreuve et orientées sur les motivations du candidat et l'idée qu'il se fait du métier d'officier.
+L'entretien est un temps de reprise et d'élargissement consacré à une réflexion sur le (ou les) texte (s) étudié (s) lors de la première partie de l'épreuve.
 
 Cette épreuve vise à évaluer l'esprit d'analyse et de synthèse du candidat, sa capacité à s'interroger et à souligner les points clés, à appréhender des notions ou des problématiques dans leur contexte historique, intellectuel et culturel, à s'exprimer avec clarté, correction et rigueur, à formuler une réflexion personnelle.
 
@@ -180,7 +180,7 @@ L'épreuve de français se compose d'un commentaire et d'un entretien.
 
 Le commentaire prend appui sur un ou plusieurs textes contemporains à dimension ou à visée argumentative [œuvre(s) littéraire(s) ou philosophique(s), article(s), essai(s)] pour en proposer une approche problématisée.
 
-L'entretien est un temps de reprise et d'élargissement. Les cinq dernières minutes de l'entretien sont consacrées à une réflexion sur le (ou les) texte(s) à idées étudié(s) lors de la première partie de l'épreuve et orientées sur les motivations du candidat et l'idée qu'il se fait du métier d'officier.
+L'entretien est un temps de reprise et d'élargissement consacré à une réflexion sur le (ou les) texte (s) étudié (s) lors de la première partie de l'épreuve.
 
 Cette épreuve vise à évaluer l'esprit d'analyse et de synthèse du candidat, sa capacité à s'interroger et à souligner les points-clés, à appréhender des notions ou des problématiques dans leur contexte historique, intellectuel et culturel, à s'exprimer avec clarté, correction et rigueur, à formuler une réflexion personnelle.
 

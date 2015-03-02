@@ -1,804 +1,819 @@
 # Article 16
 
-Le concours scientifique
+Les épreuves des concours ouverts au titre du 1 de l'article 4 du décret n° 2008-940 du 12 septembre 2008 modifié sont fixées en fonction du type de concours (scientifique, littéraire et sciences économiques et sociales).
 
-Pour le concours scientifique, les candidats choisissent entre les voies correspondant aux options des classes préparatoires aux grandes écoles scientifiques : mathématiques-physique (MP), physique-chimie (PC) et physique-sciences de l'ingénieur (PSI). Les épreuves peuvent être communes ou spécifiques à ces voies.
+Le détail des épreuves de chacun des concours est fixé en annexe I.
+
+LE CONCOURS SCIENTIFIQUE
+
+Pour le concours scientifique, les candidats choisissent entre les voies correspondant aux options des classes préparatoires aux grandes écoles scientifiques : " mathématiques et physique " (MP), " physique et chimie " (PC) et " physique et sciences de l'ingénieur " (PSI). Les épreuves peuvent être communes ou spécifiques à ces voies. Quelle que soit la voie choisie, la seule langue vivante A autorisée au concours est l'anglais.
 
 <table>
 <tbody>
 <tr>
-<td colspan="10" width="574">
-<p align="center">CONCOURS SCIENTIFIQUE</p>
+<th colspan="10">
+<br/>CONCOURS SCIENTIFIQUE <br/>
+</th>
+</tr>
+<tr>
+<th colspan="5">
+<br/>Epreuves écrites d'admissibilité <br/>
+</th>
+<th colspan="5">
+<br/>Epreuves orales et sportives d'admission <br/>
+</th>
+</tr>
+<tr>
+<th rowspan="2">
+<br/>Epreuve <br/>
+</th>
+<th rowspan="2">
+<br/>Durée <br/>
+</th>
+<th colspan="3">
+<br/>Coefficient <br/>
+</th>
+<th rowspan="2">
+<br/>Epreuve <br/>
+</th>
+<th rowspan="2">
+<br/>Durée <br/>
+</th>
+<th colspan="3">
+<br/>Coefficient <br/>
+</th>
+</tr>
+<tr>
+<th>
+<br/>MP <br/>
+</th>
+<th>
+<br/>PC <br/>
+</th>
+<th>
+<br/>PSI <br/>
+</th>
+<th>
+<br/>MP <br/>
+</th>
+<th>
+<br/>PC <br/>
+</th>
+<th>
+<br/>PSI <br/>
+</th>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Mathématiques 1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>11 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Mathématiques 1 <br/>
+</td>
+<td align="center" rowspan="6" valign="middle">
+<br/>30 minutes de préparation. <br/>
+<br/>25 minutes de restitution. <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="5" width="296">
-<p align="center">ÉPREUVES ÉCRITES D'ADMISSIBILITÉ.</p>
+<td align="center" valign="middle">
+<br/>Mathématiques 2 <br/>
 </td>
-<td colspan="5" width="277">
-<p align="center">ÉPREUVES ORALES ET SPORTIVES D'ADMISSION.</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="2" width="152">
-<p align="center">Épreuve.</p>
+<td align="center" valign="middle">
+<br/>8<br/>
 </td>
-<td rowspan="2" width="59">
-<p align="center">Durée.</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td colspan="3" width="85">
-<p align="center">Coefficient.</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td rowspan="2" width="117">
-<p align="center">Épreuve.</p>
+<td align="center" valign="middle">
+<br/>Mathématiques 2 <br/>
 </td>
-<td rowspan="2" width="82">
-<p align="center">Durée.</p>
+<td align="center" valign="middle">
+<br/>8<br/>
 </td>
-<td colspan="3" width="79">
-<p align="center">Coefficient.</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-</tr>
-<tr>
-<td width="28">
-<p align="center">MP</p>
-</td>
-<td width="28">
-<p align="center">PC</p>
-</td>
-<td width="28">
-<p align="center">PSI</p>
-</td>
-<td width="29">
-<p align="center">MP</p>
-</td>
-<td width="23">
-<p align="center">PC</p>
-</td>
-<td width="27">
-<p align="center">PSI</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td width="152">
-<p align="center">Mathématiques 1<br/>(épreuves spécifiques)</p>
+<td align="center" valign="middle">
+<br/>Physique <br/>
 </td>
-<td width="59">
-<p align="center">4 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td width="28">
-<p align="center">8</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td width="28">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>9<br/>
 </td>
-<td width="28">
-<p align="center">7</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="117">
-<p align="center">Mathématiques 1 </p>
+<td align="center" valign="middle">
+<br/>Physique <br/>
 </td>
-<td rowspan="4" width="82">
-<p align="center">30 minutes de préparation.</p>
-<p align="center">25 minutes de restitution.</p>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td width="29">
-<p align="center">10</p>
+<td align="center" valign="middle">
+<br/>10<br/>
 </td>
-<td width="23">
-<p align="center">10</p>
-</td>
-<td width="27">
-<p align="center">10</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td width="152">
-<p align="center">Mathématiques 2 <br/>(dont mathématiques appliquées, épreuves spécifiques)</p>
-<br/>
+<td align="center" valign="middle">
+<br/>Physique-chimie <br/>
 </td>
-<td width="59">
-<p>4 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td width="28">
-<p align="center">8</p>
+<td align="center" valign="middle">
+<br/>6<br/>
 </td>
-<td width="28">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="28">
-<p align="center">7</p>
+<td align="center" valign="middle">
+<br/>8 <br/>
 </td>
-<td width="117">
-<p align="center">Mathématiques 2</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>Sciences physiques : physique 2 <br/>
+<br/>ou chimie<br/>
 </td>
-<td width="29">
-<p align="center">8</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>-<br/>
 </td>
-<td width="23">
-<p align="center">-</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>8 <br/>
 </td>
-<td width="27">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td width="152">
-<p align="center">Physique 1 <br/>(épreuves spécifiques)</p>
-</td>
-<td width="59">
-<p>4 heures</p>
-</td>
-<td width="28">
-<p align="center">5</p>
-</td>
-<td width="28">
-<p align="center">7</p>
-</td>
-<td width="28">
-<p align="center">6</p>
-</td>
-<td width="117">
-<p align="center">Physique 1 (épreuves spécifiques).</p>
-</td>
-<td width="29">
-<p align="center">10</p>
-</td>
-<td width="23">
-<p align="center">10</p>
-</td>
-<td width="27">
-<p align="center">10</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>10 <br/>
 </td>
 </tr>
 <tr>
-<td width="152">
-<p align="center">Physique 2 <br/>(épreuves spécifiques)</p>
+<td align="center" valign="middle">
+<br/>Chimie <br/>
 </td>
-<td width="59">
-<p>4 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures<br/>
 </td>
-<td width="28">
-<p align="center">5</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="28">
-<p align="center">7</p>
+<td align="center" valign="middle">
+<br/>6<br/>
 </td>
-<td width="28">
-<p align="center">8</p>
-</td>
-<td width="117">
-<p align="center">Sciences physiques : physique 2 ou chimie </p>
-</td>
-<td width="29">
-<p align="center">-</p>
-</td>
-<td width="23">
-<p align="center">8</p>
-</td>
-<td width="27">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="152">
-<p align="center">Chimie<br/>(épreuves spécifiques)</p>
+<td align="center" valign="middle">
+<br/>Modélisation de systèmes physiques ou chimiques <br/>
 </td>
-<td width="59">
-<p align="center">2 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures<br/>
 </td>
-<td width="28">
-<p align="center">3</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="28">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>6<br/>
 </td>
-<td width="28">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="117">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="82">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="29">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="23">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="27">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td width="59">
-<p align="center">4 heures</p>
+<td align="center" valign="middle">
+<br/>Sciences industrielles ou informatique <br/>
 </td>
-<td width="28">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td width="28">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>4<br/>
 </td>
-<td width="28">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-</tr>
-<tr>
-<td width="152">
-<br/>
-<p align="center">Sciences de l’ingénieur ou informatique</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="59">
-<p align="center">3 heures</p>
+<td align="center" rowspan="4" valign="middle">
+<br/>Sciences de l'ingénieur <br/>
 </td>
-<td width="28">
-<p align="center">3</p>
+<td align="center" rowspan="6" valign="middle">
+<br/>30 minutes de préparation. <br/>
+<br/>25 minutes de restitution.<br/>
 </td>
-<td width="28">
-<p align="center">-</p>
+<td align="center" rowspan="4" valign="middle">
+<br/>-<br/>
 </td>
-<td width="28">
-<p align="center">-</p>
+<td align="center" rowspan="4" valign="middle">
+<br/>-<br/>
 </td>
-<td rowspan="2" width="117">
-<p align="center">Sciences de l’ingénieur</p>
-</td>
-<td rowspan="4" width="82">
-<p align="center">30 minutes de préparation.</p>
-<p align="center">25 minutes de restitution.</p>
-</td>
-<td rowspan="2" width="29">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="23">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="27">
-<p align="center">8</p>
+<td align="center" rowspan="4" valign="middle">
+<br/>8 <br/>
 </td>
 </tr>
 <tr>
-<td width="152">
-<p align="center">Sciences de l’ingénieur</p>
+<td align="center" valign="middle">
+<br/>Sciences industrielles de l'ingénieur <br/>
 </td>
-<td width="59">
-<p align="center">4 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures<br/>
 </td>
-<td width="28">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="28">
-<br/>
-<br/>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="28">
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td width="152">
-<p align="center">Français (composition)</p>
-</td>
-<td width="59">
-<p align="center">4 heures</p>
-</td>
-<td colspan="3" width="85">
-<p align="center">8</p>
-</td>
-<td width="117">
-<p align="center">Français</p>
-</td>
-<td colspan="3" width="79">
-<p align="center">4</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td width="152">
-<p align="center">ANGLAIS</p>
+<td align="center" valign="middle">
+<br/>Informatique <br/>
 </td>
-<td width="59">
-<p align="center">2 heures</p>
+<td align="center" valign="middle">
+<br/>3 heures<br/>
 </td>
-<td colspan="3" width="85">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="117">
-<p align="center">ANGLAIS</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td colspan="3" width="79">
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" width="152">
-<p align="center">-</p>
-</td>
-<td rowspan="2" width="59">
-<p align="center">-</p>
-</td>
-<td colspan="3" rowspan="2" width="85">
-<p align="center">-</p>
-</td>
-<td width="117">
-<p align="center">Travaux d'initiative personnelle encadrés</p>
-</td>
-<td width="82">
-<p align="center">Pas de temps de préparation.</p>
-</td>
-<td colspan="3" width="79">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>4 <br/>
 </td>
 </tr>
 <tr>
-<td width="117">
-<p align="center">Épreuves sportives</p>
+<td align="center" valign="middle">
+<br/>Modélisation et ingénierie numérique <br/>
 </td>
-<td width="82">
-<br/>
-<br/>
+<td align="center" valign="middle">
+<br/>4 heures<br/>
 </td>
-<td colspan="3" width="79">
-<p align="center">10</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-</tr>
-<tr>
-<td width="152">
-<p align="center">Total </p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="59">
-<p align="center">-</p>
-</td>
-<td colspan="3" width="85">
-<p align="center">46</p>
-</td>
-<td width="117">
-<p align="center">-</p>
-</td>
-<td width="82">
-<br/>
-<br/>
-</td>
-<td colspan="3" width="79">
-<p align="center">54</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="6" width="413">
-<p>Epreuve écrite facultative de 2e langue vivante réalisée lors des épreuves d’admissibilité et prise en compte pour l’admission en cas d’admissibilité du candidat. La note de cette épreuve facultative n’est pas éliminatoire.</p>
+<td align="center" valign="middle">
+<br/>Français-philosophie <br/>
 </td>
-<td width="82">
-<p align="center">Ecrit</p>
-<p align="center">2 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td colspan="3" width="79">
-<p align="center">Coefficient 4 pour les points &gt;10</p>
+<td align="center" colspan="3" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Français <br/>
+</td>
+<td align="center" colspan="3" valign="middle">
+<br/>4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>LVA : anglais <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
+</td>
+<td align="center" colspan="3" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>LVA : anglais <br/>
+</td>
+<td align="center" colspan="3" valign="middle">
+<br/>6<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" colspan="3" rowspan="2" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" valign="middle">
+<br/>Travaux d'initiative personnelle <br/>
+<br/>encadrés <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Pas de temps de préparation. <br/>
+<br/>25 minutes <br/>
+<br/>de restitution <br/>
+</td>
+<td align="center" colspan="3" valign="middle">
+<br/>6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Epreuves sportives <br/>
+</td>
+<td align="left" valign="middle"/>
+<td align="center" colspan="3" valign="middle">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Total<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="center" colspan="3" valign="middle">
+<br/>46<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="left" valign="middle"/>
+<td align="center" colspan="3" valign="middle">
+<br/>54 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="6" valign="middle">
+<br/>Epreuve écrite facultative de langue vivante B réalisée lors des épreuves d'admissibilité et prise en compte pour l'admission en cas d'admissibilité du candidat. La note de cette épreuve facultative n'est pas éliminatoire. <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrit <br/>
+<br/>1 heure <br/>
+</td>
+<td align="center" colspan="3" valign="middle">
+<br/>Coefficient 4 pour les points &gt; 10 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le concours littéraire
+LE CONCOURS LITTÉRAIRE
 
-Pour le concours littéraire, les épreuves portent sur les programmes des classes préparatoires de lettres de première et deuxième année des écoles normales supérieures (ENS de Paris et de Lyon) tels qu'ils sont définis par le (ou les) ministère(s) chargé(s) de l'éducation nationale et de l'enseignement supérieur et de la recherche.
+Pour le concours littéraire, les épreuves portent sur les programmes des classes préparatoires de lettres de première et deuxième année des Ecoles normales supérieures (ENS de Paris et de Lyon) tels qu'ils sont définis par le ou les ministère (s) chargé (s) de l'éducation nationale et de l'enseignement supérieur et de la recherche. Les épreuves écrites sont celles du concours littéraire d'entrée à l'ENS de Lyon, série sciences humaines, spécialité histoire et géographie. La seule langue vivante A autorisée au concours est l'anglais.
 
 <table>
 <tbody>
 <tr>
-<td colspan="6">
-<p align="center">CONCOURS LITTERAIRE</p>
+<th colspan="7">
+<br/>CONCOURS LITTÉRAIRE <br/>
+</th>
+</tr>
+<tr>
+<th colspan="3">
+<br/>Epreuves écrites d'admissibilité <br/>
+</th>
+<th colspan="4">
+<br/>Epreuves orales et sportives d'admission <br/>
+</th>
+</tr>
+<tr>
+<th colspan="7">
+<br/>Epreuves obligatoires <br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Coefficient <br/>
+</th>
+<th>
+<br/>Durée <br/>
+</th>
+<th colspan="2">
+<br/>Epreuve <br/>
+</th>
+<th>
+<br/>Coefficient <br/>
+</th>
+<th>
+<br/>Durée <br/>
+</th>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Composition de français <br/>
+</td>
+<td align="center" valign="middle">
+<br/>10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>6 heures <br/>
+</td>
+<td align="center" colspan="2" rowspan="2" valign="middle">
+<br/>Commentaire-entretien littérature ou philosophie <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>12 <br/>
+</td>
+<td align="center" rowspan="4" valign="middle">
+<br/>1 heure de préparation. <br/>
+<br/>25 minutes <br/>
+<br/>de restitution. <br/>
 </td>
 </tr>
 <tr>
-<td colspan="3">
-<p align="center">Epreuves écrites d'admissibilité</p>
+<td align="center" valign="middle">
+<br/>Composition de philosophie <br/>
 </td>
-<td colspan="3">
-<p align="center">Epreuves orales et sportives d'admission</p>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-</tr>
-<tr>
-<td colspan="6">
-<p align="center">A) Epreuves obligatoires</p>
+<td align="center" valign="middle">
+<br/>6 heures <br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<br/>
-<br/>
+<td align="center" valign="middle">
+<br/>Composition d'histoire <br/>
 </td>
-<td width="113">
-<p align="center">Coefficient.</p>
+<td align="center" valign="middle">
+<br/>5 <br/>
 </td>
-<td width="113">
-<p align="center">Durée.</p>
+<td align="center" valign="middle">
+<br/>6 heures <br/>
 </td>
-<td width="113">
-<p align="center">Épreuve.</p>
+<td align="center" colspan="2" rowspan="2" valign="middle">
+<br/>Commentaire-entretien histoire ou géographie <br/>
 </td>
-<td width="113">
-<p align="center">Coefficient.</p>
-</td>
-<td width="113">
-<p align="center">Durée.</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p align="center">Composition de français</p>
+<td align="center" valign="middle">
+<br/>Composition de géographie <br/>
 </td>
-<td width="113">
-<p align="center">10</p>
+<td align="center" valign="middle">
+<br/>5 <br/>
 </td>
-<td width="113">
-<p align="center">6 heures</p>
-</td>
-<td rowspan="2" width="113">
-<p align="center">Commentaire-entretien littérature ou philosophie</p>
-</td>
-<td rowspan="2" width="113">
-<p align="center">12</p>
-</td>
-<td rowspan="4" width="113">
-<p align="center">1 heure de préparation.</p>
-<p align="center">25 minutes de restitution.</p>
+<td align="center" valign="middle">
+<br/>5 heures <br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p align="center">Composition de philosophie</p>
+<td align="center" valign="middle">
+<br/>Commentaire et traduction de texte en anglais <br/>
 </td>
-<td width="113">
-<p align="center">9</p>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td width="113">
-<p align="center">6 heures</p>
+<td align="center" valign="middle">
+<br/>6 heures <br/>
 </td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">Composition d’histoire</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Anglais <br/>
 </td>
-<td width="113">
-<p align="center">5</p>
+<td align="center" valign="middle">
+<br/>8 <br/>
 </td>
-<td width="113">
-<p align="center">6 heures</p>
-</td>
-<td rowspan="2" width="113">
-<p align="center">Commentaire-entretien histoire ou géographie</p>
-</td>
-<td rowspan="2" width="113">
-<p align="center">12</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>30 minutes <br/>
+<br/>de préparation. <br/>
+<br/>25 minutes <br/>
+<br/>de restitution. <br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p align="center">Composition de géographie</p>
+<td align="center" valign="middle">
+<br/>Histoire 2 : commentaire de texte ou de documents historiques <br/>
 </td>
-<td width="113">
-<p align="center">5</p>
+<td align="center" valign="middle">
+<br/>4 <br/>
 </td>
-<td width="113">
-<p align="center">5 heures</p>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
 </td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">Commentaire et traduction de texte en anglais</p>
+<td align="center" colspan="2" valign="middle">
+<br/>2e langue vivante ou ancienne <br/>
 </td>
-<td width="113">
-<p align="center">9</p>
-</td>
-<td width="113">
-<p align="center">6 heures</p>
-</td>
-<td width="113">
-<p align="center">ANGLAIS</p>
-</td>
-<td width="113">
-<p align="center">8</p>
-</td>
-<td rowspan="3" width="113">
-<p align="center">30 minutes de préparation.</p>
-<p align="center">25 minutes de restitution.</p>
+<td align="center" valign="middle">
+<br/>8 <br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p align="center">Histoire 2 : commentaire de texte ou de documents historiques</p>
+<td align="center" valign="middle">
+<br/>Géographie 2 : commentaire de carte géographique <br/>
 </td>
-<td width="113">
-<p align="center">4</p>
+<td align="center" valign="middle">
+<br/>4 <br/>
 </td>
-<td width="113">
-<p align="center">3 heures</p>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
 </td>
-<td width="113">
-<p align="center">2e langue vivante ou ancienne</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Mathématiques <br/>
 </td>
-<td width="113">
-<p align="center">8</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<p align="center">Géographie 2 : commentaire de carte géographique</p>
-</td>
-<td width="113">
-<p align="center">4</p>
-</td>
-<td width="113">
-<p align="center">3 heures</p>
-</td>
-<td width="113">
-<p align="center">Mathématiques</p>
-</td>
-<td width="113">
-<p align="center">4</p>
+<td align="center" valign="middle">
+<br/>4<br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="113">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="113">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="113">
-<p align="center">Épreuves<br/>sportives</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Epreuves sportives <br/>
 </td>
-<td width="113">
-<p align="center">10</p>
+<td align="center" valign="middle">
+<br/>10 <br/>
 </td>
-<td width="113">
-<br/>
-<br/>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Total <br/>
+</td>
+<td align="center" valign="middle">
+<br/>46<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
+</td>
+<td align="left" colspan="2" valign="middle"/>
+<td align="center" valign="middle">
+<br/>54<br/>
+</td>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td width="113">
-<p align="center">Total</p>
-</td>
-<td width="113">
-<p align="center">46</p>
-</td>
-<td width="113">
-<p align="center">-</p>
-</td>
-<td width="113">
-<br/>
-<br/>
-</td>
-<td width="113">
-<p align="center">54</p>
-</td>
-<td width="113">
-<p align="center">-</p>
+<td align="center" colspan="7" valign="middle">
+<br/>Epreuve facultative <br/>
 </td>
 </tr>
 <tr>
-<td colspan="6">
-<p align="center">B) Epreuves facultative</p>
+<td align="center" colspan="4" valign="middle">
+<br/>3e langue vivante ou ancienne <br/>
 </td>
-</tr>
-<tr>
-<td colspan="3">
-<p align="center"> 3e langue vivante ou ancienne</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Coefficient 4 pour les points &gt; 10 <br/>
 </td>
-<td colspan="2">
-<p align="center">Coefficient 4 pour les points &gt;10 </p>
-</td>
-<td>
-<p align="center">30 minutes de préparation.</p>
-<p align="center">25 minutes de restitution. </p>
+<td align="center" valign="middle">
+<br/>30 minutes <br/>
+<br/>de préparation. <br/>
+<br/>25 minutes <br/>
+<br/>de restitution. <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Le concours en sciences économiques et sociales
+LE CONCOURS EN SCIENCES ÉCONOMIQUES ET SOCIALES
 
-Le programme des épreuves du concours en sciences économiques et sociales (SES) est celui de première et de seconde année des classes préparatoires économiques et commerciales, option économique, tel qu'il est défini par le ministère chargé de l'éducation nationale.
+Le programme des épreuves du concours en sciences économiques et sociales (SES) est celui de première et de seconde année des classes préparatoires économiques et commerciales, option économique, tel qu'il est défini par le ministère chargé de l'éducation nationale. L'anglais est la seule langue vivante A autorisée au concours.
 
 <table>
 <tbody>
 <tr>
-<td colspan="7" width="680">
-<p align="center">CONCOURS SCIENCES ECONOMIQUES ET SOCIALES</p>
+<th colspan="6">
+<br/>CONCOURS SCIENCES ÉCONOMIQUES ET SOCIALES <br/>
+</th>
+</tr>
+<tr>
+<th colspan="4">
+<br/>Epreuves écrites d'admissibilité <br/>
+</th>
+<th colspan="2">
+<br/>Epreuves orales et sportives d'admission <br/>
+</th>
+</tr>
+<tr>
+<th colspan="6">
+<br/>Epreuves obligatoires <br/>
+</th>
+</tr>
+<tr>
+<th colspan="2"/>
+<th>
+<br/>Coefficient <br/>
+</th>
+<th>
+<br/>Durée <br/>
+</th>
+<th>
+<br/>Coefficient <br/>
+</th>
+<th>
+<br/>Durée <br/>
+</th>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>Français <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Composition <br/>
+</td>
+<td align="center" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>8 <br/>
+</td>
+<td align="center" rowspan="7" valign="middle">
+<br/>30 minutes <br/>
+<br/>de préparation. <br/>
+<br/>25 minutes <br/>
+<br/>de restitution. <br/>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="360">
-<p align="center">ÉPREUVES ÉCRITES D’ADMISSIBILITÉ.</p>
+<td align="center" valign="middle">
+<br/>Contraction de texte <br/>
 </td>
-<td colspan="3" width="320">
-<p align="center">ÉPREUVES ORALES<br/>et sportives d’admission.</p>
+<td align="center" valign="middle">
+<br/>4 <br/>
 </td>
-</tr>
-<tr>
-<td colspan="7" width="680">
-<p align="center">A) Épreuves obligatoires.</p>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="226">
-<br/>
+<td align="center" colspan="2" valign="middle">
+<br/>Mathématiques <br/>
 </td>
-<td width="117">
-<p align="center">Coefficient.</p>
+<td align="center" valign="middle">
+<br/>9 <br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">Durée.</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td width="117">
-<p align="center">Coefficient.</p>
-</td>
-<td width="122">
-<p align="center">Durée.</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2" width="104">
-<p align="center">Français</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Economie, sociologie, histoire <br/>
 </td>
-<td width="122">
-<p align="center">Composition</p>
+<td align="center" valign="middle">
+<br/>12 <br/>
 </td>
-<td width="117">
-<p align="center">8</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">4 heures</p>
-</td>
-<td rowspan="2" width="117">
-<p align="center">8</p>
-</td>
-<td rowspan="7" width="122">
-<p align="center">30 minutes de préparation.</p>
-<p align="center">25 minutes de restitution.</p>
+<td align="center" valign="middle">
+<br/>12 <br/>
 </td>
 </tr>
 <tr>
-<td width="122">
-<p align="center">Contraction de texte </p>
+<td align="center" colspan="2" valign="middle">
+<br/>Economie approfondie<br/>
 </td>
-<td width="117">
-<p align="center">4</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">3 heures</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-</tr>
-<tr>
-<td colspan="2" width="226">
-<p align="center">Mathématiques</p>
-</td>
-<td width="117">
-<p align="center">9</p>
-</td>
-<td colspan="2" width="98">
-<p align="center">4 heures</p>
-</td>
-<td width="117">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="226">
-<p align="center">Analyse économique </p>
-<p align="center">et historique des</p>
-<p align="center">sociétés contemporaines</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Langue vivante A anglais <br/>
 </td>
-<td width="117">
-<p align="center">12</p>
+<td align="center" valign="middle">
+<br/>7 <br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">4 heures</p>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
 </td>
-<td width="117">
-<p align="center">12</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="226">
-<p align="center">Économie</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Langue vivante B <br/>
 </td>
-<td width="117">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
 </td>
-<td width="117">
-<p align="center">6</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="226">
-<p align="center">1re langue vivante ANGLAIS</p>
-</td>
-<td width="117">
-<p align="center">7</p>
-</td>
-<td colspan="2" width="98">
-<p align="center">4 heures</p>
-</td>
-<td width="117">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>6 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="226">
-<p align="center">2e langue vivante</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Epreuves sportives<br/>
 </td>
-<td width="117">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">3 heures</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="117">
-<p align="center">6</p>
+<td align="center" valign="middle">
+<br/>10<br/>
 </td>
-</tr>
-<tr>
-<td colspan="2" width="226">
-<p align="center">Épreuves sportives</p>
-</td>
-<td width="117">
-<p align="center">-</p>
-</td>
-<td colspan="2" width="98">
-<p align="center">-</p>
-</td>
-<td width="117">
-<p align="center">10</p>
-</td>
-<td width="122">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="226">
-<p align="center">Total</p>
+<td align="center" colspan="2" valign="middle">
+<br/>Total <br/>
 </td>
-<td width="117">
-<p align="center">46</p>
+<td align="center" valign="middle">
+<br/>46<br/>
 </td>
-<td colspan="2" width="98">
-<p align="center">-</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
-<td width="117">
-<p align="center">54</p>
+<td align="center" valign="middle">
+<br/>54<br/>
 </td>
-<td width="122">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td colspan="7" width="680">
-<p align="center">B) Épreuve facultative.</p>
+<td align="center" valign="middle">
+<br/>-<br/>
 </td>
 </tr>
 <tr>
-<td colspan="5" width="442">
-<p align="center">3e langue vivante ou ancienne</p>
+<td align="center" colspan="6" valign="middle">
+<br/>Epreuve facultative <br/>
 </td>
-<td width="117">
-<p align="center">coefficient 4 pour les<br/>points &gt;10</p>
+</tr>
+<tr>
+<td align="center" colspan="4" valign="middle">
+<br/>3e langue vivante ou ancienne <br/>
 </td>
-<td width="122">
-<p align="center">30 minutes de préparation.</p>
-<p align="center">25 minutes de restitution.</p>
+<td align="center" valign="middle">
+<br/>Coefficient 4 pour les points &gt; 10 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>30 minutes <br/>
+<br/>de préparation. <br/>
+<br/>25 minutes <br/>
+<br/>de restitution.<br/>
 </td>
 </tr>
 </tbody>
 </table>
-
-.
