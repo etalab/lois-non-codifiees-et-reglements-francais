@@ -6,7 +6,9 @@ I. ― Ont accès à tout ou partie des données à caractère personnel et info
 
 2° Les militaires de la gendarmerie nationale individuellement désignés et spécialement habilités soit par les commandants de groupement, soit par les commandants de la gendarmerie dans les départements et territoires d'outre-mer et en Nouvelle-Calédonie, soit par les commandants de région ou d'organisme assimilé, soit par les commandants de gendarmeries spécialisées, soit par le sous-directeur de la police judiciaire ou, le cas échéant, par le directeur général de la gendarmerie nationale ;
 
-3° Les agents des douanes individuellement désignés et spécialement habilités soit par les directeurs régionaux des douanes, soit par le chef du service nationale de douane judiciaire ou, le cas échéant, par la directrice générale des douanes et droits indirects.
+3° Les agents des douanes individuellement désignés et spécialement habilités soit par les directeurs régionaux des douanes, soit par le chef du service nationale de douane judiciaire ou, le cas échéant, par la directrice générale des douanes et droits indirects ;
+
+4° Les agents de la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur individuellement désignés et spécialement habilités par le directeur.
 
 II. ― Peuvent être destinataires, dans le cadre de leurs attributions légales et dans la limite du besoin d'en connaître, de tout ou partie des mêmes données et informations :
 
