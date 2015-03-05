@@ -2,8 +2,6 @@
 
 1. Activités de l'Etablissement français du sang accompagnées de leur localisation
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -95,8 +93,6 @@
 </tr>
 </tbody>
 </table>
-
-</div>
 
 2. Liste des établissements de santé autorisés à gérer un dépôt de sang
 
@@ -200,6 +196,15 @@
 <td width="284">
 <p>Guilherand-Granges</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center"> 07</p>
+</td>
+<td>
+<p>Centre hospitalier d'Ardèche Nord </p>
+</td>
+<td>Annonay</td>
 </tr>
 <tr>
 <td width="113">

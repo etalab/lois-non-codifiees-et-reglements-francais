@@ -42,7 +42,7 @@
 <td align="left">
 <p>1. Nantes, site de Nantes Hôtel-Dieu</p>
 <p>2. Angers, site d'Angers</p>
-<p>3. Laval, site de Laval</p>
+<p>3. Laval, site de Laval Domaigné maison du don </p>
 <p>4. La Roche-sur-Yon, site de La Roche-sur-Yon</p>
 <p>5. Le Mans, site du Mans</p>
 <p>6. Saint-Nazaire, site de Saint-Nazaire</p>

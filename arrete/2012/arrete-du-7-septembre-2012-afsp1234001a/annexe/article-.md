@@ -996,6 +996,11 @@
 <p>Fourmies</p>
 </td>
 </tr>
+<tr>
+<td align="center"> 59</td>
+<td align="left">Centre hospitalier de Roubaix, maternité Pavillon Paul Gellé </td>
+<td>Roubaix  </td>
+</tr>
 </tbody>
 </table>
 

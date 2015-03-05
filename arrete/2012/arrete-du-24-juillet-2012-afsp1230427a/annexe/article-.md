@@ -41,7 +41,7 @@
 <p align="left">7. (supprimé)</p>
 <p align="left">8. PARIS, site de l'hôpital européen Georges Pompidou (HEGP)<br/>9. PARIS, site de La Pitié-Salpêtrière<br/>10. Meaux, site de Meaux<br/>11. PARIS, site de Lariboisière<br/>12. LES ULIS, site des Ulis</p>
 <p align="left">13. (supprimé)</p>
-<p align="left">14. MELUN, site de Melun<br/>15. VILLEJUIF, site de Paul Brousse<br/>16. POISSY, site de Poissy<br/>17. PONTOISE, site de Pontoise<br/>18. RAMBOUILLET, site de Rambouillet<br/>19. PARIS, site de Robert Debré<br/>20. PARIS, site de Saint-Louis<br/>21. PARIS, site de Saint-Antoine - Crozatier<br/>22. VERSAILLES, site de Versailles<br/>23. PARIS, site de collecte fixe Trinité<br/>
+<p align="left">14. MELUN, site de Melun<br/>15. VILLEJUIF, site de Paul Brousse<br/>16. POISSY, site de Poissy<br/>17. PONTOISE, site de Pontoise<br/>18. RAMBOUILLET, site de Rambouillet<br/>19. (supprimé)<br/>20. PARIS, site de Saint-Louis<br/>21. PARIS, site de Saint-Antoine - Crozatier<br/>22. VERSAILLES, site de Versailles<br/>23. PARIS, site de collecte fixe Trinité<br/>
 </p>
 </td>
 </tr>
@@ -70,6 +70,9 @@
 <p align="left">20. Paris, site de Robert Debré </p>
 <p align="left">21. Paris, site de Tenon </p>
 <p align="left">22. Villejuif, site de Paul Brousse </p>
+<p align="left">23. Paris, site de Saint-Louis  : <br/>
+<br/>24. Paris, site d'Armand Trousseau  ; <br/>
+<br/>25. Le Kremlin-Bicêtre, site du Kremlin-Bicêtre </p>
 </td>
 </tr>
 <tr>

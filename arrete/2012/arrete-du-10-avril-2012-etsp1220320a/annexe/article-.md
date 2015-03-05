@@ -19,7 +19,7 @@
 <p>1. Plateau technique de préparation des PSL</p>
 </td>
 <td valign="top" width="340">
-<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois</p>
+<p>1. Vandœuvre-lès-Nancy, site de Nancy-Lobau </p>
 </td>
 </tr>
 <tr>
@@ -27,7 +27,7 @@
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
 <td valign="top" width="340">
-<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -35,8 +35,8 @@
 <p>3. Sites fixes de collecte</p>
 </td>
 <td valign="top" width="340">
-<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois</p>
-<p>2. Nancy, site de Nancy-Lionnois</p>
+<p>1. Vandœuvre-lès-Nancy, site de Nancy-Lobau </p>
+<p>2. Nancy, site de Nancy-Lobau </p>
 <p>3. Saint-Dié-des-Vosges, site de Saint-Dié-des-Vosges</p>
 <p>4. Epinal, site d'Epinal</p>
 <p>5. Metz, site de Metz rue des Dames</p>
@@ -53,7 +53,8 @@
 <p>4. Sites de délivrance de PSL</p>
 </td>
 <td valign="top" width="340">
-<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois<br/>2. Nancy, site de Nancy-Lionnois<br/>3. Epinal, site d'Epinal</p>
+<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois<br/>2. Nancy, site de Nancy-Lobau</p>
+<p>3. Epinal, site d'Epinal</p>
 <p>4. Metz, site de Metz Charles-Abel</p>
 <p>5. Troyes, site de Troyes</p>
 </td>
@@ -71,7 +72,7 @@
 <p>6. Sites réalisant des analyses IH Receveur</p>
 </td>
 <td valign="top" width="340">
-<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois<br/>2. Nancy, site de Nancy-Lionnois</p>
+<p>1. Vandœuvre-lès-Nancy, site de Nancy-Brabois<br/>2. Nancy, site de Nancy-Lobau </p>
 <p>3. Metz, site de Metz Charles-Abel<br/>4. Troyes, site de Troyes</p>
 </td>
 </tr>

@@ -26,9 +26,7 @@
 <td width="337">
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
-<td width="337">
-<br/>
-</td>
+<td width="337"/>
 </tr>
 <tr>
 <td valign="top" width="337">
@@ -41,7 +39,7 @@
 <p>4. Morlaix, site de Morlaix</p>
 <p>5. Landerneau, site de Landerneau</p>
 <p>6. Quimper, site de Quimper</p>
-<p>7. Lorient, site de Lorient</p>
+<p>7. Lorient, site de Scorff </p>
 <p>8. Vannes, site de Vannes</p>
 <p>9. Saint-Brieuc, site de Saint-Brieuc</p>
 </td>
@@ -55,7 +53,7 @@
 <p>2. Rennes, site de Rennes Pontchaillou</p>
 <p>3. Brest, site de Brest Cavale Blanche</p>
 <p>4. Quimper, site de Quimper</p>
-<p>5. Lorient, site de Lorient</p>
+<p>5. Lorient, site de Scorff </p>
 <p>6. Vannes, site de Vannes</p>
 <p>7. Saint-Brieuc, site de Saint-Brieuc</p>
 </td>
@@ -68,7 +66,7 @@
 <p>1. Rennes, site de Rennes Pontchaillou</p>
 <p>2. Brest, site de Brest Cavale Blanche</p>
 <p>3. Quimper, site de Quimper</p>
-<p>4. Lorient, site de Lorient</p>
+<p>4. Lorient, site de Scorff </p>
 <p>5. Vannes, site de Vannes</p>
 <p>6. Saint-Brieuc, site de Saint-Brieuc</p>
 </td>
@@ -81,7 +79,7 @@
 <p>1. Rennes, site de Rennes Pontchaillou</p>
 <p>2. Brest, site de Brest Cavale Blanche</p>
 <p>3. Quimper, site de Quimper</p>
-<p>4. Lorient, site de Lorient</p>
+<p>4. Lorient, site de Scorff</p>
 <p>5. Vannes, site de Vannes</p>
 <p>6. Saint-Brieuc, site de Saint-Brieuc</p>
 </td>
@@ -267,10 +265,10 @@
 <p align="center">56</p>
 </td>
 <td width="284">
-<p>Centre hospitalier de Bretagne Atlantique de Vannes</p>
+<p>Centre hospitalier Bretagne Atlantique Vannes</p>
 </td>
 <td width="284">
-<p>Auray</p>
+<p>Auray-Vannes</p>
 </td>
 </tr>
 <tr>

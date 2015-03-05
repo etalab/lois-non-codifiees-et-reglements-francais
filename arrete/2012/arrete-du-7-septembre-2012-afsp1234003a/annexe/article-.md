@@ -357,7 +357,7 @@
 <tr>
 <td align="center">84<br/>
 </td>
-<td align="center">Centre hospitalier de Pertuis<br/>
+<td align="center">Centre hospitalier intercommunal Aix-Pertuis<br/>
 </td>
 <td align="center">Pertuis<br/>
 </td>

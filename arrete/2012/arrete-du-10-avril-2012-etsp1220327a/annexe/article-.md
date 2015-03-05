@@ -30,6 +30,8 @@ PROJET DE SOTS 2012-2017 POUR L'ETS NORMANDIE
 </td>
 <td width="340">
 <br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -118,7 +120,7 @@ PROJET DE SOTS 2012-2017 POUR L'ETS NORMANDIE
 <p align="center">14 </p>
 </td>
 <td width="284">
-<p>Pôle de santé unique, Côte Fleurie </p>
+<p>Centre hospitalier de la Côte Fleurie, La Brèche au Bois</p>
 </td>
 <td width="284">
 <p>Cricquebœuf </p>

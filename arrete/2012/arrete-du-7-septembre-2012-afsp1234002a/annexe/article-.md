@@ -44,7 +44,7 @@
 <p>5. Carcassone, site Carcassonne René Blanc</p>
 <p>6. Montauban, site de Montauban</p>
 <p>7. Montpellier, site Montpellier Pierre Cazal</p>
-<p>8. Narbonne, site de Narbonne</p>
+<p>8. (Supprimé)</p>
 <p>9. Nîmes, site de Nîmes</p>
 <p>10. Perpignan, site de Perpignan</p>
 <p>11. Rodez, site de Rodez</p>
@@ -450,6 +450,11 @@
 <td>
 <p>Toulouse</p>
 </td>
+</tr>
+<tr>
+<td align="center"> 31</td>
+<td>Centre hospitalier universitaire de Toulouse, Institut universitaire du cancer </td>
+<td>Toulouse  </td>
 </tr>
 <tr>
 <td>

@@ -27,7 +27,7 @@
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
 <td width="337">
-<p>1. Tours, site de Tours Bretonneau</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -430,7 +430,7 @@
 <p align="center">18</p>
 </td>
 <td width="284">
-<p>Clinique Guillaume-de-Varye</p>
+<p>Hôpital privé Guillaume de Varye-Saint-Doulchard </p>
 </td>
 <td width="284">
 <p>Saint-Doulchard</p>

@@ -26,9 +26,7 @@
 <td width="300">
 <p>2. Plateau technique de qualification biologique du don</p>
 </td>
-<td width="375">
-<br/>
-</td>
+<td width="375"/>
 </tr>
 <tr>
 <td valign="top" width="300">
@@ -170,7 +168,7 @@
 <p align="center">25</p>
 </td>
 <td width="284">
-<p>Centre hospitalier de Pontarlier</p>
+<p>Centre hospitalier intercommunal de Haute-Comté-Pontarlier </p>
 </td>
 <td width="265">
 <p>Pontarlier</p>
