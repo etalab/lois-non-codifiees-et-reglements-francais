@@ -1,0 +1,3 @@
+# Article 4
+
+A titre transitoire, les praticiens qui exercent à la date de l'entrée en vigueur du présent décret dans les établissements, les laboratoires et les organismes mentionnés à l'article L. 2131-1 du code de la santé publique et qui ne satisfont pas aux conditions mentionnées aux 2° et 3° du I de l'article R. 2131-3 figurant à l'article 1er du présent décret disposent d'un délai de trois ans à compter de l'entrée en vigueur du présent décret pour se conformer aux conditions mentionnées au I de l'article R. 2131-3 institué par le présent décret. Durant cette période, ils sont autorisés à exercer les activités mentionnées à ces mêmes articles.
