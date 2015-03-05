@@ -180,7 +180,7 @@
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Directeur du laboratoire du service des essences des armées </p>
+<p>Directeur du      centre d'expertise pétrolière interarmées </p>
 </td>
 <td valign="top" width="227">
 <p align="center">MAPA x 20 </p>
