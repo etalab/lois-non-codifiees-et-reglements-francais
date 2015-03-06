@@ -14,6 +14,8 @@ A ce titre, il est chargé de :
 
 ― contribuer à l'audit interne dans l'armée de l'air. Il assure notamment, au sein de l'armée de l'air, la coordination des travaux d'audit interne budgétaire.
 
+Il est responsable des inspections des mesures de sécurité nucléaire.
+
 Il est autorisé à correspondre directement avec les formations de l'armée de l'air.
 
 Il préside le conseil permanent de la sécurité aérienne de l'armée de l'air.

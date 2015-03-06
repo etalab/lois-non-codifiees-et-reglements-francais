@@ -1,9 +1,9 @@
 # Article 5
 
-L'inspecteur de l'armée de l'air dispose de deux inspecteurs délégués :
+L'inspecteur de l'armée de l'air est assisté d'un inspecteur adjoint, officier général, qui le supplée.
 
-― l'inspecteur « emploi », officier général du corps des officiers de l'air. Il évalue la cohérence des conditions d'emploi de l'arme aérienne et des moyens de l'armée de l'air ;
+L'inspecteur adjoint est chargé d'évaluer la cohérence des conditions d'emploi de l'arme aérienne et des moyens de l'armée de l'air et exerce les fonctions d'inspecteur des mesures de sécurité des systèmes d'information.
 
-― l'inspecteur « technique », officier général du corps des officiers mécaniciens de l'air. Il apporte son expertise technique à l'inspecteur de l'armée de l'air dans l'exercice de toutes ses missions. En outre, il exerce les fonctions d'inspecteur des mesures de sécurité nucléaire et d'inspecteur des mesures de sécurité des systèmes d'information.
+L'inspecteur de l'armée de l'air et l'inspecteur adjoint n'ont pas d'attribution de commandement sur les formations de l'armée de l'air.
 
-L'inspecteur de l'armée de l'air et les inspecteurs délégués n'ont pas d'attribution de commandement sur les formations de l'armée de l'air.
+L'inspecteur de l'armée de l'air dispose, en outre, d'un officier supérieur chargé de coordonner les travaux de l'inspection, qui porte le titre de chef d'état-major. Le chef d'état-major de l'inspection de l'armée de l'air peut suppléer l'inspecteur de l'armée de l'air en cas d'absence ou d'empêchement de l'inspecteur adjoint.
