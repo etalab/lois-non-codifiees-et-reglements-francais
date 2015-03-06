@@ -2,7 +2,7 @@
 
 L'attribution de l'aide est subordonnée au respect par le souscripteur du prêt des conditions suivantes :
 
-1° Le prêt doit être destiné au financement de la formation d'une personne physique âgée de 16 ans au moins et de 25 ans au plus, à la date de la signature du contrat de formation mentionné au 4°.
+1° Le prêt doit être destiné au financement de la formation d'une personne physique âgée de 15 ans au moins et de 25 ans au plus, à la date de la signature du contrat de formation mentionné au 4°.
 
 2° Le prêt doit être exclusivement destiné au financement d'une première inscription à une formation délivrée à titre onéreux par un établissement d'enseignement de la conduite mentionné à l'article L. 213-1 du code de la route ayant signé avec l'Etat une convention.
 
