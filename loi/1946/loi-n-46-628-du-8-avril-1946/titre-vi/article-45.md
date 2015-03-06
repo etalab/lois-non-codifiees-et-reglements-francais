@@ -2,13 +2,13 @@
 
 Le Conseil supérieur de l'énergie est consulté sur :
 
-1° L'ensemble des actes de nature réglementaire émanant de l'Etat intéressant le secteur de l'électricité ou du gaz, à l'exception de ceux qui relèvent du domaine de compétence de la Caisse nationale des industries électriques et gazières ;
+1° L'ensemble des actes de nature réglementaire émanant du gouvernement intéressant le secteur de l'électricité ou du gaz, à l'exception de ceux qui relèvent du domaine de compétence de la Caisse nationale des industries électriques et gazières ;
 
 2° Les décrets et arrêtés de nature réglementaire mentionnés aux articles 14 et 15 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique.
 
 Le Conseil supérieur de l'énergie peut émettre, à la demande du ministre chargé de l'énergie, des avis concernant la politique en matière d'électricité, de gaz et d'autres énergies fossiles, d'énergies renouvelables et d'économies d'énergie. Ces avis sont remis au Gouvernement.
 
-Un  comité de suivi des énergies renouvelables est institué au sein du  Conseil supérieur de l'énergie, afin d'évaluer la progression vers  l'objectif de 23 % d'énergies renouvelables dans la consommation  d'énergie finale en 2020.
+Un comité de suivi des énergies renouvelables est institué au sein du Conseil supérieur de l'énergie, afin d'évaluer la progression vers l'objectif de 23 % d'énergies renouvelables dans la consommation d'énergie finale en 2020.
 
 Le Conseil supérieur de l'énergie est composé :
 
