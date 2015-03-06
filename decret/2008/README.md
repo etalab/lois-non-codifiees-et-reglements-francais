@@ -810,7 +810,6 @@
 - [Décret n°2008-996 du 23 septembre 2008 (BCFZ0821430D)](decret-n2008-996-du-23-septembre-2008-bcfz0821430d)
 - [Décret n°2008-998 du 23 septembre 2008 (AGRP0816270D)](decret-n2008-998-du-23-septembre-2008-agrp0816270d)
 - [Décret n°2007-1267 du 24 août 2007 (ECEA0760899D)](decret-n2007-1267-du-24-aout-2007-ecea0760899d)
-- [Décret n°2007-1268 du 24 août 2007 (ECEA0760871D)](decret-n2007-1268-du-24-aout-2007-ecea0760871d)
 - [Décret n°2007-1532 du 24 octobre 2007 (ECEI0753560D)](decret-n2007-1532-du-24-octobre-2007-ecei0753560d)
 - [Décret n°2007-1817 du 24 décembre 2007 (JUSD0772092D)](decret-n2007-1817-du-24-decembre-2007-jusd0772092d)
 - [Décret n°2007-1825 du 24 décembre 2007 (DEVA0773091D)](decret-n2007-1825-du-24-decembre-2007-deva0773091d)
