@@ -127,6 +127,7 @@
 - [Décret n°2011-475 du 28 avril 2011 (MCCB1105634D)](decret-n2011-475-du-28-avril-2011-mccb1105634d)
 - [Décret n°2010-1664 du 29 décembre 2010 (DEVR1024885D)](decret-n2010-1664-du-29-decembre-2010-devr1024885d)
 - [Décret n°2011-1038 du 29 août 2011 (MFPF1100889D)](decret-n2011-1038-du-29-aout-2011-mfpf1100889d)
+- [Décret n°2011-1213 du 29 septembre 2011 (DEFD1111996D)](decret-n2011-1213-du-29-septembre-2011-defd1111996d)
 - [Décret n°2011-1666 du 29 novembre 2011 (EFII1117269D)](decret-n2011-1666-du-29-novembre-2011-efii1117269d)
 - [Décret n°2011-1671 du 29 novembre 2011 (EFII1117279D)](decret-n2011-1671-du-29-novembre-2011-efii1117279d)
 - [Décret n°2011-1673 du 29 novembre 2011 (EFII1117281D)](decret-n2011-1673-du-29-novembre-2011-efii1117281d)
