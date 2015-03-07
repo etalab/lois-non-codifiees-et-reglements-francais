@@ -615,6 +615,21 @@ Tableau récapitulatif des valeurs des coefficients SN et VN homologués ainsi q
 <p align="center">6,98</p>
 </td>
 </tr>
+<tr>
+<td align="center"> 15</td>
+<td align="center">1er octobre 2014-<p>31 décembre 2014</p>
+</td>
+<td align="center"> 0,015 </td>
+<td align="center">0,015  </td>
+<td align="center">26.97  </td>
+<td align="center">Supprimé  </td>
+<td align="center"> Supprimé</td>
+<td align="center">Supprimé <br/>
+</td>
+<td align="center">13,74  </td>
+<td align="center">13,05  </td>
+<td align="center">6,80 </td>
+</tr>
 </tbody>
 </table>
 </div>
