@@ -805,7 +805,6 @@
 - [ARRÊTÉ du 11 décembre 2014 (MAEA1423004A)](arrete-du-11-decembre-2014-maea1423004a)
 - [ARRÊTÉ du 11 décembre 2014 (MENG1425851A)](arrete-du-11-decembre-2014-meng1425851a)
 - [ARRÊTÉ du 11 décembre 2014 (PRMG1429190A)](arrete-du-11-decembre-2014-prmg1429190a)
-- [Arrêté du 11 février 2014 (AFSH1403669A)](arrete-du-11-fevrier-2014-afsh1403669a)
 - [Arrêté du 11 février 2014 (BUDE1403684A)](arrete-du-11-fevrier-2014-bude1403684a)
 - [Arrêté du 11 février 2014 (EFIT1403029A)](arrete-du-11-fevrier-2014-efit1403029a)
 - [Arrêté du 11 février 2014 (ETSD1402715A)](arrete-du-11-fevrier-2014-etsd1402715a)
