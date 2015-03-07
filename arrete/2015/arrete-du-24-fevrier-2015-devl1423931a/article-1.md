@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 moyenne vallée du Doubs » (zone spéciale de conservation FR 4301294) l'espace délimité sur la carte d'assemblage au 1/110 000 et les six cartes au 1/25 000 ci-jointes, s'étendant, dans le département du Doubs, sur une partie du territoire des communes suivantes : Adam-lès-Passavant, Baume-les-Dames, Chalèze, Champlive, Cusance, Deluz, Esnans, Fontain, Fourbanne, Gennes, Guillon-les-Bains, Hyèvre-Magny, Hyèvre-Paroisse, Laissey, Montfaucon, Morre, Mérey-sous-Montrond, Novillars, Ougney-Douvot, Pont-les-Moulins, Roche-lez-Beaupré, Roulans, Saint-Juan, Saône, Silley-Bléfond, Vaire-Arcier, Vaire-le-Petit, Villers-Saint-Martin et Vèze.
