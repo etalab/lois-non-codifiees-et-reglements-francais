@@ -2,24 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 janvier 2014
-
-Lille-Oran (Algérie).
-
-Paris-Abidjan (Côte d'Ivoire).
-
-Jusqu'au 31 mai 2014
-
-Paris-Beyrouth (Liban).
-
-Jusqu'au 1er mars 2015
-
-Paris-Agadir (Maroc).
-
-Paris-Djerba (Tunisie).
-
-Paris-Monastir (Tunisie).
-
 Jusqu'au 15 mars 2015
 
 Paris-Dakar (Sénégal).
@@ -105,6 +87,10 @@ Lyon-Biskra (Algérie) ;
 Metz-Alger (Algérie) ;
 
 Nice-Constantine (Algérie).
+
+Jusqu'au 31 décembre 2017
+
+Paris-Djerba (Tunisie).
 
 Jusqu'au 31 mars 2018
 
