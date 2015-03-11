@@ -18,23 +18,25 @@ CEFI Solidaires, 144, boulevard de la Villette, 75019 Paris ;
 
 Institut de formation et d'études des travailleurs et travailleuses des secteurs d'activités sanitaires et sociaux solidaires, unitaires et démocratiques (IFET-SUD), 70, rue Philippe-de-Girard, 75018 Paris ;
 
+Institut de formations syndicales UNSA santé sociaux (IFSU2S), 3, chemin de la Croix, 33133 Galcon ;
+
 Institut du travail de l'université Strasbourg-III, 39, avenue de la Forêt-Noire, 67000 Strasbourg ;
 
 Institut des sciences sociales du travail de l'université Paris-I, 37, avenue du Président-Franklin-Roosevelt, 92330 Sceaux ;
 
 Institut national de formation et d'application (INFA) du centre de culture ouvrière, 82, rue François-Rolland, 94130 Nogent-sur-Marne ;
 
-Institut régional d'éducation ouvrière Nord - Pas-de-Calais (IREO) de la faculté des sciences juridiques, politiques et sociales de l'université Lille-II, 1, place Déliot, BP 629, 59024 Lille Cedex ;
+Institut régional d'éducation ouvrière Nord-Pas-de-Calais (IREO) de la faculté des sciences juridiques, politiques et sociales de l'université Lille-II, 1, place Déliot, BP 629,59024 Lille Cedex ;
 
-Institut d'études sociales de l'université des sciences sociales de Grenoble, domaine universitaire de Saint-Martin-d'Hères, BP 47, 38040 Grenoble Cedex 9 ;
+Institut d'études sociales de l'université des sciences sociales de Grenoble, domaine universitaire de Saint-Martin-d'Hères, BP 47,38040 Grenoble Cedex 9 ;
 
 Institut régional du travail de l'université Aix-Marseille-II, 12, traverse Saint-Pierre, 13100 Aix-en-Provence ;
 
-Institut de formation syndicale de l'université Lumière - Lyon-II, 86, rue Pasteur, 69365 Lyon Cedex 07 ;
+Institut de formation syndicale de l'université Lumière-Lyon-II, 86, rue Pasteur, 69365 Lyon Cedex 07 ;
 
 Institut régional du travail de l'université Nancy-II, 138, avenue de la Libération, 54000 Nancy Cedex ;
 
-Institut du travail de l'université Montesquieu - Bordeaux-IV, faculté de droit (bureau E 205), avenue Léon-Duguit, BP 3409, 33608 Pessac Cedex ;
+Institut du travail de l'université Montesquieu-Bordeaux-IV, faculté de droit (bureau E 205), avenue Léon-Duguit, BP 3409,33608 Pessac Cedex ;
 
 Institut régional d'éducation ouvrière de Picardie, campus universitaire, 80025 Amiens Cedex 1 ;
 
