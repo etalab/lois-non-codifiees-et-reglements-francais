@@ -4,7 +4,7 @@ La Caisse nationale de surcompensation est tenue de posséder un fonds de réser
 
 Le fonds de réserve est constitué par les excédents annuels des recettes sur les dépenses afférentes au service d'indemnisation intempéries.
 
-Le montant de ces fonds de réserve doit correspondre au minimum à deux fois le produit du montant des salaires servant d'assiette à la cotisation au titre de la dernière campagne par la moyenne des taux de risque calculée sur les dix derniers exercices clos.
+Le montant de ces fonds de réserve doit correspondre au minimum à une fois et demi le produit du montant des salaires servant d'assiette à la cotisation au titre de la dernière campagne par la moyenne des taux de risque calculée sur les dix derniers exercices clos.
 
 Le taux de risque de la campagne est le quotient des dépenses totales hors provisions et amortissements de la campagne par les salaires soumis à cotisation.
 
