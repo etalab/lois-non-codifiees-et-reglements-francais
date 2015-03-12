@@ -851,7 +851,6 @@
 - [Arrêté du 11 juillet 2011 (AGRM1116525A)](arrete-du-11-juillet-2011-agrm1116525a)
 - [Arrêté du 11 juillet 2011 (AGRT1116884A)](arrete-du-11-juillet-2011-agrt1116884a)
 - [Arrêté du 11 juillet 2011 (BCRS1119305A)](arrete-du-11-juillet-2011-bcrs1119305a)
-- [Arrêté du 11 juillet 2011 (DEVT1116335A)](arrete-du-11-juillet-2011-devt1116335a)
 - [Arrêté du 11 juillet 2011 (ESRS1119238A)](arrete-du-11-juillet-2011-esrs1119238a)
 - [Arrêté du 11 juillet 2011 (ETSH1119479A)](arrete-du-11-juillet-2011-etsh1119479a)
 - [Arrêté du 11 juillet 2011 (ETSH1119489A)](arrete-du-11-juillet-2011-etsh1119489a)
