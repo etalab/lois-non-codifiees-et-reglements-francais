@@ -42,7 +42,7 @@ Royal Air Force Regiment, Coningsby-Honington ;
 
 Bureaux sécurité nucléaire des bases aériennes de Dijon, Saint-Dizier, Istres et Bourges-Avord.
 
-3. Gendarmerie :
+3° Gendarmerie :
 
 Groupement d'intervention de la gendarmerie nationale ;
 
@@ -52,17 +52,13 @@ Equipe sportive militaire de haut niveau du groupement blindé de gendarmerie mo
 
 Au titre des militaires des armées de mer et de l'air :
 
-- commandement des opérations spéciales ;
+-commandement des opérations spéciales ;
 
-- détachement aéroporté du 44e régiment d'infanterie ;
+-détachement aéroporté du 44e régiment d'infanterie ;
 
-- école des troupes aéroportées.
+-école des troupes aéroportées ;
 
-Au titre des militaires de l'armée de mer :
-
-- groupement de soutien de la base de défense de Brest et ses antennes (personnel de la base des fusiliers marins et des commandos de l'antenne de Lorient) ;
-
-- groupement de soutien de la base de défense de Toulon et ses antennes (personnel du commando Hubert affecté à l'antenne de Saint-Mandrier).
+-antenne du Centre national des sports de la défense (CNSD) de Gap.
 
 5° Service de santé des armées :
 
