@@ -1,61 +1,74 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR**
-**L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : cariste d'entrepôt.
+Intitulé : cariste d'entrepôt
 
 Niveau : V.
 
-Code NSF : 311 u (transport, manutention, magasinage).
+Code NSF : 311 u
 
 Résumé du référentiel d'emploi
 
-Sur une zone d'entreposage ou dans un entrepôt, le (la) cariste d'entrepôt effectue le stockage et le déstockage des unités de manutention (palettes, caisses...) à l'aide de chariots automoteurs de manutention à conducteur porté de catégories 3 et 5. Ces opérations visent à préserver et ranger les marchandises et à les mettre à disposition d'autres utilisateurs.
+Le (la) cariste d'entrepôt déplace, stocke et déstocke des unités de manutention afin de préserver et ranger les marchandises ou les mettre à disposition des autres opérateurs. Il (elle) conduit des chariots de manutention industrielle à conducteur porté des catégories 3 et 5.
 
-Il s'assure que l'engin est approprié aux marchandises à manipuler et effectue les contrôles et la maintenance de premier niveau des engins qu'il conduit. Il réalise efficacement les opérations de déplacement, de rangement et de chargement de véhicules. Une partie de ses activités s'effectue en travaillant en relais avec d'autres opérateurs de la zone (autres caristes d'entrepôts, préparateurs de commandes, manutentionnaires, réceptionnaires...).
+Le (la) cariste d'entrepôt participe à la politique de responsabilité sociétale de l'entreprise. Il (elle) respecte les procédures de sécurité, de sûreté, de qualité et de protection de la santé au travail. Il (elle) veille à la bonne conservation des biens et des équipements et maintient les zones d'évolutions propres et rangées.
 
-Il (elle) enregistre les opérations effectuées dans le système d'information prévu.
+Le (la) cariste d'entrepôt reçoit ses instructions par l'intermédiaire de terminaux informatiques fixes, embarqués ou portables reliés au système de gestion de l'entrepôt. Il (elle) vérifie que le chariot élévateur est adapté aux opérations de manutention envisagées et adapte les équipements porte-charge si besoin. Il (elle) s'assure du bon fonctionnement du chariot et signale tout dysfonctionnement aux personnes concernées.
 
-Le (la) cariste d'entrepôt travaille généralement en équipe sur une zone d'évolution délimitée. Il (elle) travaille sous la responsabilité d'un chef d'équipe qui lui donne les instructions relatives aux opérations à réaliser ainsi que les consignes de réalisation.
+Le (la) cariste d'entrepôt déplace des marchandises dans le stock ou sur les zones de réception et d'expédition. Il (elle) les stocke et déstocke en pile ou en palettier. Il (elle) vérifie l'adéquation des emplacements de stockage aux caractéristiques des produits et aux volumes des unités de manutention.
 
-Il (elle) peut être soumis à des niveaux sonores importants, à des poussières ou des températures négatives. Il (elle) travaille généralement en équipe, le plus souvent en horaire posté, avec une amplitude quotidienne qui peut être adaptée à la charge de travail.
+Tout au long des opérations logistiques, il saisit et valide les données relatives aux déplacements des produits dans le système de gestion de l'entrepôt.
 
-L'emploi suppose une attention particulière aux règles de sécurité relatives à la circulation et à la manutention des charges, souvent pondéreuses.
+Le (la) cariste d'entrepôt charge et décharge, depuis le sol et latéralement, les camions ou remorques. Il (elle) contrôle les marchandises et leur support ou contenant. Il peut avoir à renseigner les documents de transport.
+
+Le (la) cariste d'entrepôt travaille sous la responsabilité d'un chef d'équipe. Il (elle) est en relation avec les responsables logistiques et le service maintenance. Il (elle) interagit avec les autres caristes, les préparateurs de commandes, les réceptionnaires, les chargeurs et les conducteurs routiers afin de contribuer à l'atteinte du niveau de service client visé et à l'optimisation de la production.
+
+Selon l'environnement et les types de produits, le (la) cariste d'entrepôt peut être exposé (e) à un niveau sonore important, à des poussières ou à des températures négatives. Il (elle) peut porter des charges lourdes. Il (elle) peut travailler à l'extérieur des locaux et être exposé aux intempéries. Ses horaires de travail peuvent être décalés ou postés.
 
 Capacités attestées et descriptif des composantes de la certification
 
-Réaliser et valider les opérations de stockage et déstockage en conduisant en sécurité des chariots automoteurs de manutention à conducteur porté de catégories 3 et 5
+Réaliser et valider les opérations de stockage et de déstockage en conduisant en sécurité des chariots automoteurs de manutention à conducteur porté de catégories 3 et 5
 
-Vérifier l'adéquation du chariot à l'opération de manutention envisagée.
+Vérifier l'adéquation du chariot aux opérations de manutention envisagées.
 
-Réaliser les opérations de vérification et de maintenance de premier niveau sur des chariots de manutention industrielle de catégories 3 et 5, et alerter en cas d'anomalie.
+Réaliser les opérations de vérification et de maintenance de premier niveau sur des chariots de manutention industrielle de catégories 3 et 5 et alerter en cas d'anomalie.
 
-Réaliser efficacement seul et en relais les opérations de manutention avec un chariot de catégorie 3 dans le respect des règles de qualité et de sécurité.
+Réaliser seul et en relais les opérations de manutention avec un chariot de catégorie 3 dans le respect des règles de qualité et de sécurité.
 
-Réaliser efficacement seul et en relais les opérations de manutention avec un chariot de catégorie 5 dans le respect des règles de qualité et de sécurité.
+Réaliser seul et en relais les opérations de manutention avec un chariot de catégorie 5 dans le respect des règles de qualité et de sécurité.
 
-Rechercher les informations et saisir les données relatives aux opérations dans le système informatique.
+Rechercher, consulter, saisir et valider des données relatives aux opérations logistiques dans le système informatique.
 
-Repérer et signaler les anomalies sur les produits, les supports de charges, les espaces de stockage et lors des opérations de réception et d'expédition.
+Corriger et signaler les anomalies sur les produits, les supports de charges et les espaces de stockage.
 
-Secteur d'activité ou types d'emploi accessibles par le détenteur du titre
+Compétences transversales de l'emploi (le cas échéant)
 
-Tous secteurs nécessitant le stockage en entrepôt : entreprises industrielles ou commerciales, plates-formes logistiques, prestataires logistiques, répartiteurs.
+Appliquer les règles d'hygiène, de sécurité, de sûreté et de qualité en entrepôt.
+
+Manipuler avec dextérité et en sécurité les chariots de manutention des catégories 3 et 5.
+
+Secteurs d'activité et types d'emploi accessibles par le détenteur du titre
+
+Le (la) cariste d'entrepôt est employé (e) dans les entrepôts et sur les plates-formes des entreprises du commerce de gros, de la grande distribution, de la distribution spécialisé, de la vente par correspondance, des prestataires logistiques.
+
+Les types d'emplois accessibles sont les suivants :
+
+-cariste d'entrepôt ;
+
+-cariste agent de quai ;
+
+-cariste en préparation logistique ;
+
+-cariste pointeur.
 
 Code ROME :
 
-N 1101-Conduite d'engins de déplacement des charges
+N1101-Conduite d'engins de déplacement des charges.
 
 Réglementation de l'activité :
 
-En application du
-décret n° 98-1084 du 2 décembre 1998
-, l'autorisation de conduite d'engin à conducteur porté est donnée par l'employeur à tout cariste ayant suivi une formation adaptée et déclaré apte après avis médical.
-
-Pour l'utilisation d'engins de manutention à conducteur porté, la Caisse nationale d'assurance maladie des travailleurs salariés (CNAM-TS) recommande la détention du CACES (recommandation R-389).
-
-Le titre professionnel de cariste d'entrepôt dispense son titulaire de la détention des CACES relatifs aux engins de catégories 3 et 5, définies par la CNAM-TS, pendant cinq ans à compter de la date d'obtention du titre.
+Néant.
 
 Autorité responsable de la certification :
 
@@ -63,7 +76,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation
-;
+Code de l'éducation, articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 8 décembre 2008 (JO du 16 décembre 2008) relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 28 juillet 2015.
