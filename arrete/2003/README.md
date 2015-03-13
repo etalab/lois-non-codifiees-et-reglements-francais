@@ -519,7 +519,6 @@
 - [Arrêté du 20 août 2003 (AGRF0301646A)](arrete-du-20-aout-2003-agrf0301646a)
 - [Arrêté du 20 avril 1995 (EQUS9500861A)](arrete-du-20-avril-1995-equs9500861a)
 - [Arrêté du 20 avril 2003 (INTA0300264A)](arrete-du-20-avril-2003-inta0300264a)
-- [Arrêté du 20 décembre 2002 (MEND0202755A)](arrete-du-20-decembre-2002-mend0202755a)
 - [Arrêté du 20 février 2003 (AGRR0300391A)](arrete-du-20-fevrier-2003-agrr0300391a)
 - [Arrêté du 20 février 2003 (JUSE0340022A)](arrete-du-20-fevrier-2003-juse0340022a)
 - [Arrêté du 20 février 2003 (MENJ0300419A)](arrete-du-20-fevrier-2003-menj0300419a)
