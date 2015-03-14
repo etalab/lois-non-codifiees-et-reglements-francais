@@ -16,10 +16,20 @@ Lorsqu'un avocat désigné d'office est, au cours d'une mesure de garde à vue, 
 
 Les dispositions des alinéas précédents sont applicables à la rétribution des avocats désignés d'office intervenant au cours de la retenue douanière dans les conditions prévues par le code des douanes.
 
-La contribution de l'Etat à la rétribution de l'avocat intervenant au cours d'une procédure de médiation ou de composition pénales ou au cours d'une mesure ou activité d'aide ou de réparation prévue par l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante est fixée à 46 euros hors taxes.
+La contribution de l'Etat à la rétribution des avocats intervenant au titre de l'article 23-1-1 de l'ordonnance n° 92-1147 du 12 octobre 1992 pour chaque audition ou confrontation est fixée, hors taxes, à 88 euros.
+
+La contribution de l'Etat à la rétribution de l'avocat intervenant au titre de l'article 23-2-1 de l'ordonnance n° 92-1147 du 12 octobre 1992 est fixée, hors taxes, à 46 euros.
+
+La contribution de l'Etat à la rétribution de l'avocat intervenant au titre de l'article 23-3 de l'ordonnance n° 92-1147 du 12 octobre 1992 est fixée à 46 euros hors taxes.
 
 La contribution de l'Etat à la rétribution de l'avocat intervenant au cours d'une procédure disciplinaire à l'encontre d'un détenu est fixée à 88 euros hors taxes.
 
+La contribution de l'Etat à la rétribution des avocats assistant une personne placée en retenue en application des articles 141-4 et 709-1-1 du code de procédure pénale est de :
+
+61 euros hors taxes pour l'entretien mentionné à l'article 63-4 du code de procédure pénale ;
+
+100 euros hors taxes pour l'assistance de la personne placée en retenue au cours des auditions et confrontations mentionnées à l'article 63-4-2 du code de procédure pénale ;
+
 Les contributions mentionnées au présent article sont exclusives de toute autre rémunération.
 
-Dans les îles Wallis et Futuna, la contribution de l'Etat à la rétribution de la personne agréée intervenant au cours d'une garde à vue, d'une procédure de médiation ou composition pénales ou au cours d'une mesure ou activité d'aide ou de réparation prévue par l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou encore au cours d'une procédure disciplinaire à l'encontre d'un détenu égale aux deux tiers de la contribution fixée au présent article.
+Dans les îles Wallis et Futuna, la contribution de l'Etat à la rétribution de la personne agréée intervenant au titre des mesures prévues aux articles 23-2 à 23-4 de l'ordonnance n° 92-1147 du 12 octobre 1992 est égale aux deux tiers de la contribution fixée au présent article.

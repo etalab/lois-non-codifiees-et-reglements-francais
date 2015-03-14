@@ -966,6 +966,18 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 </tr>
 <tr>
+<td> V. 5. Recours devant le premier président statuant en la forme des référés</td>
+<td>
+<p align="center"> 8</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
 <td colspan="8" valign="top" width="605">
 <p>(1) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° à 4° de l'article 771 du code de procédure civile et aux articles 911, 912 et 944 du même code.</p>
 <p>(2) Porté à 50 UV quand le même avocat représente deux époux et que ceux-ci ont tous deux l'aide juridictionnelle.</p>
@@ -1218,8 +1230,14 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 </tr>
 <tr>
+<td>X. 2. Assistance d'une personne déférée au procureur général et présentée au premier président en exécution d'un mandat d'arrêt européen ou d'une demande d'extradition </td>
+<td>
+<p align="center"> 5</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="535">
-<p>X.2. Assistance d'un prévenu pour les appels des ordonnances du juge d'instruction et du juge des libertés et de la détention (5) et autres procédures devant la chambre de l'instruction (y compris extradition et procédures de remise résultant de l'exécution d'un mandat d'arrêt européen)</p>
+<p>X.3. Assistance d'un prévenu pour les appels des ordonnances du juge d'instruction et du juge des libertés et de la détention (5) et autres procédures devant la chambre de l'instruction (y compris extradition et procédures de remise résultant de l'exécution d'un mandat d'arrêt européen)</p>
 </td>
 <td valign="top" width="69">
 <p align="center">5</p>
@@ -1274,6 +1292,18 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 <td valign="top" width="69">
 <p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td>XI. 4. Assistance du condamné lors du débat contradictoire prévu par le deuxième alinéa de l'article 713-47 du code de procédure pénale </td>
+<td>
+<p align="center"> 2</p>
+</td>
+</tr>
+<tr>
+<td>XI. 5. Assistance d'un condamné devant la commission de l'application des peines en application de l'article 720 du code de procédure pénale </td>
+<td>
+<p align="center"> 4</p>
 </td>
 </tr>
 <tr>
@@ -1414,7 +1444,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 </tr>
 <tr>
-<td align="center"> XVI. - Assistance d'un requérant devant le tribunal départemental des  pensions ou la cour régionale des pensions et les autres juridictions  administratives, sauf le Conseil d'Etat</td>
+<td align="center">XVI. - Assistance d'un requérant devant le tribunal départemental des pensions ou la cour régionale des pensions et les autres juridictions administratives, sauf le Conseil d'Etat</td>
 <td/>
 </tr>
 <tr>
@@ -1468,7 +1498,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td valign="top" width="535">
-<p align="center">XIX. - Procédure de révision</p>
+<p align="center">XIX.-Procédure de révision et de réexamen </p>
 </td>
 <td valign="top" width="69">
 <br/>
@@ -1477,7 +1507,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td valign="top" width="535">
-<p>XIX.1. Assistance ou représentation du requérant devant la commission de révision</p>
+<p>XIX. 1. Assistance ou représentation du requérant devant la commission d'instruction des demandes en révision et en réexamen </p>
 </td>
 <td valign="top" width="69">
 <p align="center">7</p>
@@ -1485,7 +1515,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td valign="top" width="535">
-<p>XIX.2. Assistance ou représentation du requérant devant la cour de révision</p>
+<p>XIX. 2. Assistance ou représentation du requérant devant la formation de jugement de la cour de révision et de réexamen</p>
 </td>
 <td valign="top" width="69">
 <p align="center">10</p>
@@ -1493,18 +1523,10 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td valign="top" width="535">
-<p>XIX.3. Assistance ou représentation de la partie civile devant la cour</p>
+<p>XIX. 3. Assistance ou représentation de la partie civile devant la commission d'instruction des demandes en révision et en réexamen et la formation de jugement de la cour de révision et de réexamen</p>
 </td>
 <td valign="top" width="69">
 <p align="center">7</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="535">
-<p>XX. - Réexamen d'une décision pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme Assistance ou représentation d'un condamné devant la commission de la Cour de cassation</p>
-</td>
-<td valign="top" width="69">
-<p align="center">17</p>
 </td>
 </tr>
 <tr>
