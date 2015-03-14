@@ -60,11 +60,7 @@ Série sciences et technologies de la santé et du social (ST2S)
 <td align="center">
 <br/>orale (2)<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -81,11 +77,7 @@ Série sciences et technologies de la santé et du social (ST2S)
 <td align="center">
 <br/>CCF (3)<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -223,19 +215,16 @@ Série sciences et technologies de la santé et du social (ST2S)
 <td align="center">
 <br/>CCF (3)<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td colspan="4">
-<br/>(1) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux. <p>(2) L'épreuve est évaluée en cours d'année.</p>
-<p>(3) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
-<p>(4) La partie orale de l'épreuve est évaluée en cours d'année.</p>
-<p>(5) Evaluation en cours d'année et lors d'un oral terminal. L'évaluation en cours d'année est affectée d'un coefficient 4 et l'oral terminal est affecté d'un coefficient 3.</p>
-<p>(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.<br/>
+<p>(1) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux. </p>
+<p align="left">(2) L'épreuve est évaluée en cours d'année.</p>
+<p align="left">(3) Contrôle en cours de formation (cf. arrêté du 21 décembre 2011 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal prévus pour l'éducation physique et sportive des baccalauréats général et technologique) .</p>
+<p align="left">(4) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p align="left">(5) Evaluation en cours d'année et lors d'un oral terminal. L'évaluation en cours d'année est affectée d'un coefficient 4 et l'oral terminal est affecté d'un coefficient 3.</p>
+<p align="left">(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.<br/>
 </p>
 </td>
 </tr>
@@ -248,16 +237,16 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 <tbody>
 <tr>
 <td valign="top" width="360">
-<p>Désignation</p>
+<p align="center">Désignation</p>
 </td>
 <td valign="top" width="80">
-<p>Coefficient</p>
+<p align="center">Coefficient</p>
 </td>
 <td valign="top" width="100">
-<p>Nature de l'épreuve</p>
+<p align="center">Nature de l'épreuve</p>
 </td>
 <td valign="top" width="140">
-<p>Durée</p>
+<p align="center">Durée</p>
 </td>
 </tr>
 <tr>
@@ -464,14 +453,14 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE LABORATOIRE (STL)
 </tr>
 <tr>
 <td colspan="4" width="680">
-<p>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
-<p>(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
-<p>(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
-<p>(4) Enseignement spécifique à la spécialité : "biotechnologies" ou "sciences physiques et chimiques en laboratoire".</p>
-<p>(5) Evaluation en cours d'année de la conduite du projet et d'une présentation du projet. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 3.</p>
-<p>(6) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
-<p>(7) Evaluation en cours d'année.</p>
-<p>(8) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+<p align="left">(1) Contrôle en cours de formation (cf. arrêté du 21 décembre 2011 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal prévus pour l'éducation physique et sportive des baccalauréats général et technologique) .</p>
+<p align="left">(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p align="left">(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
+<p align="left">(4) Enseignement spécifique à la spécialité : "biotechnologies" ou "sciences physiques et chimiques en laboratoire".</p>
+<p align="left">(5) Evaluation en cours d'année de la conduite du projet et d'une présentation du projet. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 3.</p>
+<p align="left">(6) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
+<p align="left">(7) Evaluation en cours d'année.</p>
+<p align="left">(8) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
 </td>
 </tr>
 </tbody>
@@ -483,16 +472,16 @@ SÉRIE SCIENCES ET TECHNOLOGIES DU DESIGN ET DES ARTS APPLIQUÉS (STD2A)
 <tbody>
 <tr>
 <td valign="top" width="359">
-<p>Désignation</p>
+<p align="center">Désignation</p>
 </td>
 <td valign="top" width="76">
-<p>Coefficient</p>
+<p align="center">Coefficient</p>
 </td>
 <td valign="top" width="105">
-<p>Nature de l'épreuve</p>
+<p align="center">Nature de l'épreuve</p>
 </td>
 <td valign="top" width="141">
-<p>Durée</p>
+<p align="center">Durée</p>
 </td>
 </tr>
 <tr>
@@ -689,13 +678,13 @@ SÉRIE SCIENCES ET TECHNOLOGIES DU DESIGN ET DES ARTS APPLIQUÉS (STD2A)
 </tr>
 <tr>
 <td colspan="4" width="680">
-<p>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
-<p>(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
-<p>(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
-<p>(4) Epreuve évaluée en cours d'année et lors d'un oral terminal. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 8.</p>
-<p>(5) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
-<p>(6) Epreuve évaluée en cours d'année.</p>
-<p>(7) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+<p align="left">(1) Contrôle en cours de formation (cf. arrêté du 21 décembre 2011 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal prévus pour l'éducation physique et sportive des baccalauréats général et technologique) .</p>
+<p align="left">(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p align="left">(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
+<p align="left">(4) Epreuve évaluée en cours d'année et lors d'un oral terminal. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 8.</p>
+<p align="left">(5) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
+<p align="left">(6) Epreuve évaluée en cours d'année.</p>
+<p align="left">(7) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
 </td>
 </tr>
 </tbody>
@@ -707,16 +696,16 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE (STI
 <tbody>
 <tr>
 <td valign="top" width="359">
-<p>Désignation</p>
+<p align="center">Désignation</p>
 </td>
 <td valign="top" width="80">
-<p>Coefficient</p>
+<p align="center">Coefficient</p>
 </td>
 <td valign="top" width="100">
-<p>Nature de l'épreuve</p>
+<p align="center">Nature de l'épreuve</p>
 </td>
 <td valign="top" width="141">
-<p>Durée</p>
+<p align="center">Durée</p>
 </td>
 </tr>
 <tr>
@@ -913,20 +902,18 @@ SÉRIE SCIENCES ET TECHNOLOGIES DE L'INDUSTRIE ET DU DÉVELOPPEMENT DURABLE (STI
 </tr>
 <tr>
 <td colspan="4" width="680">
-<p>(1) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).</p>
-<p>(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
-<p>(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
-<p>(4) Enseignement spécifique à la spécialité : "architecture et construction", "énergies et environnement", "innovation technologique et écoconception" ou "systèmes d'information et numérique".</p>
-<p>(5) Evaluation en cours d'année et lors d'un oral terminal. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 6.</p>
-<p>(6) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
-<p>(7) Epreuve évaluée en cours d'année.</p>
-<p>(8) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+<p align="left">(1) Contrôle en cours de formation (cf. arrêté du 21 décembre 2011 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal prévus pour l'éducation physique et sportive des baccalauréats général et technologique) .</p>
+<p align="left">(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p align="left">(3) A compter de la session 2017. Pour les sessions 2013 à 2016, l'épreuve est facultative.</p>
+<p align="left">(4) Enseignement spécifique à la spécialité : "architecture et construction", "énergies et environnement", "innovation technologique et écoconception" ou "systèmes d'information et numérique".</p>
+<p align="left">(5) Evaluation en cours d'année et lors d'un oral terminal. Chacune de ces deux parties de l'évaluation est affectée d'un coefficient 6.</p>
+<p align="left">(6) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.</p>
+<p align="left">(7) Epreuve évaluée en cours d'année.</p>
+<p align="left">(8) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-SÉRIE SCIENCES ET TECHNOLOGIES DE LA GESTION (STG)
 
 Série sciences et technologies du management et de la gestion (STMG)
 
@@ -1088,7 +1075,239 @@ Série sciences et technologies du management et de la gestion (STMG)
 </tr>
 <tr>
 <td colspan="4">
-<br/>(1) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.<br/>(2) L'épreuve est évaluée en cours d'année.<br/>(3) Contrôle en cours de formation (cf. arrêté du 9 avril 2002 relatif aux épreuves d'éducation physique et sportive des baccalauréats général et technologique).<br/>(4) La partie orale de l'épreuve est évaluée en cours d'année.<br/>(5) La partie pratique de l'épreuve est évaluée en cours d'année. Chacune des deux parties de l'épreuve est affectée d'un coefficient 6.<br/>(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</td>
+<p>(1) Seuls sont pris en compte les points supérieurs à la moyenne de 10 sur 20. Ces points sont multipliés par deux.<br/>(2) L'épreuve est évaluée en cours d'année.<br/>(3) Contrôle en cours de formation (cf. arrêté du 21 décembre 2011 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal prévus pour l'éducation physique et sportive des baccalauréats général et technologique) .<br/>(4) La partie orale de l'épreuve est évaluée en cours d'année.<br/>(5) La partie pratique de l'épreuve est évaluée en cours d'année. Chacune des deux parties de l'épreuve est affectée d'un coefficient 6.<br/>(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS complémentaire.</p>
+</td>
 </tr>
 </tbody>
 </table>
+
+Série sciences et technologies de l'hôtellerie et de la restauration (STHR)
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>DÉSIGNATION <br/>
+</th>
+<th>
+<br/>COEFFICIENT <br/>
+</th>
+<th>
+<br/>NATURE DE L'ÉPREUVE <br/>
+</th>
+<th>
+<br/>DURÉE <br/>
+</th>
+</tr>
+<tr>
+<td align="center" colspan="4" valign="middle">
+<br/>Epreuves anticipées <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>1. Français <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>2. Français <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Orale <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 minutes <br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4" valign="middle">
+<br/>Epreuves terminales <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>3. Education physique et sportive <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>CCF (1) <br/>
+</td>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>4. Histoire-géographie <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 h 30 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>5. Langue vivante 1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite et orale (2) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures (partie écrite) <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>6. Langue vivante 2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite et orale (2) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures (partie écrite) <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>7. Mathématiques <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>8. Philosophie <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>9. Economie et gestion hôtelière <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>10. Projet en STHR <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Orale (3) <br/>
+</td>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>11. Enseignement technologique en langue vivante <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Intégrée à l'épreuve de langue-expression orale <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Orale (4) <br/>
+</td>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td valign="middle">
+<br/>12. Sciences et technologies des services (STS) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 ou 7 + 2 (5) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite et pratique <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>13. Sciences et technologies culinaires (STC) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>7 ou 7 + 2 (5) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>Ecrite et pratique <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 heures <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>EPS de complément (6) <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>CCF (1) <br/>
+</td>
+<td align="left" valign="middle"/>
+</tr>
+<tr>
+<td colspan="4" valign="middle">
+<p align="left">(1) Contrôle en cours de formation (cf. arrêté du 21 décembre 2011 relatif aux modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal prévus pour l'éducation physique et sportive des baccalauréats général et technologique). </p>
+<p align="left">(2) La partie orale de l'épreuve est évaluée en cours d'année.</p>
+<p align="left">(3) Evaluation en cours d'année.</p>
+<p align="left">(4) Evaluation en cours d'année sur l'enseignement de STS.</p>
+<p align="left">(5) Lorsque le candidat a choisi de faire porter le projet sur les STS ou STC.</p>
+<p align="left">(6) Uniquement pour les élèves ayant suivi l'enseignement d'EPS de complément. </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left"/>
