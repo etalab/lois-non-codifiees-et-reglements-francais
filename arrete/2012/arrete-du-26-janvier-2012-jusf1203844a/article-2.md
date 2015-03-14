@@ -1,9 +1,9 @@
 # Article 2
 
-Pour l'accomplissement des missions définies à l'article 3, ce service est constitué de trois unités se répartissant comme suit :
+Pour l'accomplissement de ses missions définies à l'article 3, ce service est constitué des trois unités éducatives suivantes :
 
-― une unité éducative de milieu ouvert (UEMO), sise espace Saint-Christophe, 21, avenue des Genottes, 95800 Cergy-Saint-Christophe ;
+- une unité éducative de milieu ouvert, dénommée "UEMO Courdimanche", sise 1 et 3, allée des Verdiers, 95800 Courdimanche ;
 
-― une unité éducative auprès du tribunal (UEAT), sise tribunal de grande instance, 3, rue Victor-Hugo, 95300 Pontoise ;
+- une unité éducative auprès du tribunal de grande instance de Pontoise, dénommée "UEAT Pontoise", sise cité judiciaire, 3, rue Victor-Hugo, BP 95220, 95302 Pontoise ;
 
-― une unité éducative de milieu ouvert (UEMO), sise 29 bis, rue Vigneronde, 95100 Argenteuil.
+- une unité éducative de milieu ouvert, dénommée "UEMO Argenteuil", sise 29 bis, rue Vigneronde, 95100 Argenteuil.

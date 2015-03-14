@@ -1,6 +1,6 @@
 # Article 2
 
-Le service territorial éducatif de milieu ouvert Arnouville exerce les missions suivantes :
+Le service territorial éducatif de milieu ouvert Sarcelles Est Val-d'Oise  exerce les missions suivantes :
 
 ― l'accueil et l'information des mineurs et des familles ;
 

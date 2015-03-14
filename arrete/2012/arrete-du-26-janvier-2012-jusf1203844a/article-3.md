@@ -1,6 +1,6 @@
 # Article 3
 
-Le service territorial éducatif de milieu ouvert Ouest Val-d'Oise exerce les missions suivantes :
+Le service territorial éducatif de milieu ouvert Courdimanche Ouest Val-d'Oise  exerce les missions suivantes :
 
 ― l'aide à la décision judiciaire par l'apport d'éléments d'information et d'analyse relatifs à la situation des mineurs ;
 
