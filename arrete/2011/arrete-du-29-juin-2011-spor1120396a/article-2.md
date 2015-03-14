@@ -8,4 +8,4 @@ a) Représentants de l'administration :
 
 ― le secrétaire général du Musée national du sport ou son représentant.
 
-b) Représentants du personnel : trois membres titulaires et trois membres suppléants désignés par suite d'un scrutin sur sigle.
+b) Représentants du personnel : deux membres titulaires et deux membres suppléants désignés par suite d'un scrutin sur sigle.
