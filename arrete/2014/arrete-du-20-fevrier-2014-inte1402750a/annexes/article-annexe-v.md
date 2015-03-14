@@ -12,7 +12,7 @@ Sous réserve de respecter les dispositions citées supra, l'organisme de format
 
 -jusqu'au 31 août 2015, les membres de l'équipe pédagogique peuvent délivrer l'unité d'enseignement "pédagogie appliquée à l'emploi de formateur au sauvetage aquatique en milieu naturel" en l'absence du certificat de compétences de "formateur de formateurs" ainsi que de celui de "formateur au sauvetage aquatique en milieu naturel" ;
 
--à compter du 1er septembre 2015 et jusqu'au 30 août 2016 inclus, les membres de l'équipe pédagogique peuvent délivrer l'unité d'enseignement "pédagogie appliquée à l'emploi de formateur au sauvetage aquatique en milieu naturel" en l'absence du certificat de compétences de "formateur de formateurs". En revanche, ils doivent obligatoirement être détenteurs du certificat de compétences de " formateur au sauvetage aquatique en milieu naturel " ;
+-à compter du 1er septembre 2015 et jusqu'au 31 août 2016 inclus, les membres de l'équipe pédagogique peuvent délivrer l'unité d'enseignement "pédagogie appliquée à l'emploi de formateur au sauvetage aquatique en milieu naturel" en l'absence du certificat de compétences de "formateur de formateurs". En revanche, ils doivent obligatoirement être détenteurs du certificat de compétences de " formateur au sauvetage aquatique en milieu naturel " ;
 
 -à compter du 1er septembre 2016, l'ensemble des dispositions de la partie 4 (Qualification des formateurs) de l'annexe II du présent arrêté est applicable.
 
@@ -22,7 +22,7 @@ Si l'organisme de formation peut justifier d'une compétence reconnue dans le do
 
 2.1. Contenu de la demande de validation
 
-Afin de faire reconnaître les acquis des personnes susmentionnées, l'organisme de formation doit faire parvenir à la direction générale de la sécurité civile et de la gestion des crises, par voie postale, avant le 1er juin 2015, le cachet de la poste faisant foi, une demande qui doit contenir :
+Afin de faire reconnaître les acquis des personnes susmentionnées, l'organisme de formation doit faire parvenir à la direction générale de la sécurité civile et de la gestion des crises, par voie postale, avant le 30 juin 2015, le cachet de la poste faisant foi, une demande qui doit contenir :
 
 -un mémoire permettant de justifier d'une compétence reconnue dans le domaine de la surveillance et du sauvetage aquatique en milieu naturel, ainsi que de son enseignement, depuis plus de dix ans ;
 
@@ -66,7 +66,7 @@ Seul un organisme de formation agréé peut effectuer une demande de délivrance
 
 2.2. Décision de validation
 
-Les dossiers seront étudiés à compter du 10 juin 2015 par la direction générale de la sécurité civile et de la gestion des crises.
+Les dossiers seront étudiés à compter du 10 juillet 2015 par la direction générale de la sécurité civile et de la gestion des crises.
 
 La décision de validation est prise sur la base :
 
@@ -84,6 +84,6 @@ Tout dossier incomplet ou non conforme lors de son examen fera l'objet d'un reje
 
 2.3. Délivrance des diplômes
 
-Si le dossier répond aux conditions exigées, l'intéressé se voit délivrer, par la direction générale de la sécurité civile et de la gestion des crises, le certificat de compétences de "formateur au sauvetage aquatique en milieu naturel".
+Si le dossier répond aux conditions exigées, l'intéressé se voit délivrer, par la direction générale de la sécurité civile et de la gestion des crises, le certificat de compétences de "formateur au sauvetage aquatique en milieu naturel" et, en tant que de besoin, une attestation de formation relative à l'unité d'enseignement définie par l'arrêté du 8 août 2012 susvisé.
 
 La liste nominative des personnes se voyant délivrer ce certificat sera publiée au Journal officiel de la République française.

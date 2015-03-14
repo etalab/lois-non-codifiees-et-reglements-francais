@@ -8,24 +8,22 @@ Chaque organisme de formation agréé pour la formation à la présente unité d
 
 Le certificat de compétences de " surveillant-sauveteur aquatique-littoral " est délivré, par l'organisme formateur, aux personnes qui satisfont aux conditions suivantes :
 
--être titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport ;
+- être titulaire de l'un des diplômes prévus à l'article D. 322-11 du code du sport et satisfaire aux dispositions de formation continue ou de vérification de maintien des acquis s'y rapportant  ;
 
--être titulaire du certificat de compétences défini par l'arrêté du 14 novembre 2007 susvisé ;
+- être titulaire du certificat de compétences défini par l'arrêté du 14 novembre 2007 susvisé ;
 
--satisfaire aux dispositions de l'arrêté du 24 mai 2000 susvisé ;
+- satisfaire aux dispositions de l'arrêté du 24 mai 2000 susvisé ;
 
--satisfaire aux dispositions de l'article 10 de l'arrêté du 23 janvier 1979 modifié susvisé ;
+- avoir suivi l'ensemble de la formation à la présente unité d'enseignement ;
 
--avoir suivi l'ensemble de la formation à la présente unité d'enseignement ;
-
--satisfaire aux modalités certificatives définies dans le référentiel interne de certification de l'organisme formateur.
+- satisfaire aux modalités certificatives définies dans le référentiel interne de certification de l'organisme formateur.
 
 Ce référentiel interne de certification doit mettre en œuvre un processus certificatif composé d'une évaluation formative, sommative et de certification.
 
 L'évaluation sommative porte sur une évaluation continue des capacités de l'apprenant à :
 
--réaliser correctement, lors des séquences d'apprentissage, l'ensemble des techniques et des procédures abordées lors de la formation ;
+- réaliser correctement, lors des séquences d'apprentissage, l'ensemble des techniques et des procédures abordées lors de la formation ;
 
--démontrer, lors des séquences de mise en situation, l'atteinte de l'ensemble des objectifs de la formation, en termes de capacités théoriques, pratiques et comportementales.
+- démontrer, lors des séquences de mise en situation, l'atteinte de l'ensemble des objectifs de la formation, en termes de capacités théoriques, pratiques et comportementales.
 
 L'évaluation de certification, obligatoirement associée à une évaluation sommative, s'effectue en fin de formation. Elle atteste l'atteinte, par le participant, de l'ensemble des compétences figurant en annexe I du présent arrêté.

@@ -16,7 +16,7 @@ Sous réserve de respecter les dispositions citées supra, l'organisme de format
 
 2. Délivrance, par équivalence, du certificat de compétences de "surveillant-sauveteur aquatique sur littoral"
 
-Sous réserve de respecter les dispositions citées supra, l'organisme de formation agréé peut reconnaître, jusqu'au 30 juin 2015, les acquis des personnes auxquelles il a délivré, antérieurement à la date de publication du présent arrêté, des formations spécifiques en matière de surveillance et de sauvetage aquatique en milieu naturel.
+Sous réserve de respecter les dispositions citées supra, l'organisme de formation agréé peut reconnaître, jusqu'au 30 juin 2015, les acquis des personnes auxquelles il a délivré, antérieurement à cette date, des formations spécifiques en matière de surveillance et de sauvetage aquatique en milieu naturel.
 
 Afin de faire reconnaître les acquis des personnes susmentionnées, l'organisme de formation doit, pour chaque individu, procéder à la vérification de ses compétences selon le même processus que celui figurant dans son référentiel interne de certification. Dans ce cas, il n'est pas astreint à respecter les dispositions de la partie 3 (Durée de formation) de l'annexe II du présent arrêté.
 
@@ -24,4 +24,4 @@ Si l'intéressé fait l'objet d'un bilan favorable et qu'il remplit les conditio
 
 L'ensemble des pièces justificatives de ce processus de certification doivent être archivées par l'organisme formateur durant trente ans.
 
-Un état récapitulatif des personnes pour lesquelles l'organisme de formation a procédé à la délivrance du certificat de compétences de "surveillant-sauveteur aquatique sur littoral", dans le cadre des dispositions dérogatoires, sera transmis à la direction générale de la sécurité civile et de la gestion des crises avant le 1er avril 2015 en précisant les nom et prénoms du titulaire, date et lieu de naissance, numéro du département de naissance, numéro du certificat de compétences.
+Un état récapitulatif des personnes pour lesquelles l'organisme de formation a procédé à la délivrance du certificat de compétences de "surveillant-sauveteur aquatique sur littoral", dans le cadre des dispositions dérogatoires, sera transmis à la direction générale de la sécurité civile et de la gestion des crises avant le 1er août  2015 en précisant les nom et prénoms du titulaire, date et lieu de naissance, numéro du département de naissance, numéro du certificat de compétences.
