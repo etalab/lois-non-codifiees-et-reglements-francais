@@ -26,9 +26,9 @@ Sous réserve des conditions relatives à l'inaptitude temporaire, aux privilèg
 
 2) Pour voler en campagne, le pilote de planeur doit, sous réserve d'avoir acquis au préalable une expérience suffisante concernant le pilotage de base et la détection et la montée en ascendance, répondre aux conditions suivantes :
 
-- avoir suivi au moins 5 heures d'instruction en double commande réalisée sous la conduite d'un instructeur de vol à voile (ITV) ou un instructeur de pilote de planeur (ITP) formés à l'enseignement du vol sur la campagne
+- avoir suivi au moins 5 heures d'instruction en double commande réalisée sous la conduite d'un instructeur de vol planeur FI(S), partie FCL, ou FI(S), partie FCL, restreint conformément au FCL.910.FI tels que visés au paragraphe 7.1.6 du chapitre VII de l'annexe au présent arrêté, d'un instructeur de vol à voile (ITV) ou d'un instructeur de pilote de planeur (ITP) formés à l'enseignement du vol sur la campagne.
 
-- avoir effectué un circuit d'au moins 100 kilomètres avec un instructeur ou d'au moins 50 kilomètres, comme pilote seul à bord, une autorisation mentionnée sur le carnet de vol du pilote de planeur est nécessaire pour la réalisation de ce circuit en campagne. Cette autorisation est délivrée par l'instructeur de vol à voile (ITV) ou l'instructeur de pilote de planeur (ITP) formés à l'enseignement du vol sur la campagne.
+- avoir effectué un circuit d'au moins 100 kilomètres avec un instructeur ou d'au moins 50 kilomètres, comme pilote seul à bord, une autorisation mentionnée sur le carnet de vol du pilote de planeur est nécessaire pour la réalisation de ce circuit en campagne. Cette autorisation est délivrée par l'instructeur de vol planeur FI(S), partie FCL, ou FI(S), partie FCL, restreint conformément au FCL.910.FI tels que visés au paragraphe 7.1.6 du chapitre VII de l'annexe au présent arrêté, l'instructeur de vol à voile (ITV) ou l'instructeur de pilote de planeur (ITP) formés à l'enseignement du vol sur la campagne.
 
 3) Pour exercer les fonctions de commandant de bord sur tout planeur transportant des passagers, le pilote de planeur doit avoir accompli 50 heures (25 heures pour les titulaires d'une licence de pilote d'avion) de vol sur planeur comme pilote commandant de bord depuis l'obtention de sa licence, et y avoir été autorisé par un instructeur habilité après avoir satisfait à un contrôle en vol.
 
@@ -62,13 +62,15 @@ a) Le titulaire d'une licence de pilote de planeur ne peut exercer les privilèg
 
 b) Le titulaire d'une licence de pilote de planeur qui ne répond pas aux conditions dé ﬁ nies en a) doit satisfaire à un contrôle de compétence auprès d'un instructeur de vol à voile.
 
-4.1.5. Les dispositions du 4.1.3 sont applicables jusqu'au 30 juin 2008.
+4.1.5. Conversion de la licence en licence de pilote de planeur SPL partie FCL
 
-A compter du 1er juillet 2008, les dispositions du
+Les conditions dans lesquelles les personnels navigants titulaires d'un brevet et d'une licence de pilote de planeur peuvent obtenir :
 
-4.1.4 sont applicables à compter de la date de ﬁ n de validité de la licence sauf pour ce qui concerne les dispositions du 4.1.4 (a) (2).
+- soit une licence de pilote de planeur SPL conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 modifié déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié ;
 
-Les dispositions du 4.1.4 (a) (2) sont applicables à compter du 1er janvier 2009 pour les licences venues à expiration entre le 1er juillet 2008 et le 31 décembre 2008 et à compter de la date de ﬁ n de validité de la licence pour les licences venant à expiration à compter du 1er janvier 2009.
+- soit une licence de pilote de planeur SPL conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné et dont les privilèges sont restreints à ceux du brevet et de la licence de pilote de planeur détenus, tant que l'ensemble des exigences complémentaires demandées n'auront pas été satisfaites.
+
+sont fixées à l'appendice 3 de l'annexe au présent arrêté.
 
 4.2. Brevet et licence de pilote privé avion
 
@@ -354,6 +356,6 @@ S'il ne remplit pas cette condition, sa licence est renouvelée s'il satisfait �
 
 Les conditions dans lesquelles les personnels navigants titulaires d'un brevet et d'une licence de base de pilote avion peuvent obtenir :
 
--soit une licence de pilote d'aéronef léger pour avion LAPL (A) conforme aux dispositions de l'annexe I  "   Partie FCL " du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié ;
+-soit une licence de pilote d'aéronef léger pour avion LAPL (A) conforme aux dispositions de l'annexe I " Partie FCL " du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié ;
 
 -soit une licence de pilote d'aéronef léger pour avion LAPL (A) conforme aux dispositions de l'annexe I " Partie FCL " du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné et dont les privilèges sont restreints à ceux du brevet et de la licence de base de pilote avion détenue, tant que l'ensemble des exigences complémentaires demandées n'auront pas été satisfaites, sont fixées à l'appendice 2 de l'annexe au présent arrêté.

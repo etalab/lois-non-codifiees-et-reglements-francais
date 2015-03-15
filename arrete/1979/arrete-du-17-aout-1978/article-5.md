@@ -2,9 +2,9 @@
 
 Pour être admis à se présenter à l'épreuve pratique en vol, le candidat doit être titulaire du certificat d'aptitude prévu à l'article 2.
 
-Le contrôle des épreuves pratiques en vol est assuré par un instructeur qualifié faisant fonction d'examinateur autre que celui qui présente le candidat, sauf en cas de circonstances spéciales et autorisation expresse de l'Autorité, et qui atteste de son niveau de formation.
+- le contrôle des épreuves pratiques en vol est assuré par un examinateur de vol planeur FE(S) conforme à l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 modifié susmentionné ou par un instructeur qualifié faisant fonction d'examinateur autre que celui qui présente le candidat, sauf en cas de circonstances spéciales et autorisation expresse de l'Autorité, et qui atteste de son niveau de formation.
 
-Les instructeurs de pilote de planeur (ITP) ne sont pas habilités à effectuer ce contrôle.
+- les instructeurs de pilote planeur (ITP) et les instructeurs de vol planeur FI(S) conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné ne sont pas habilités à effectuer ce contrôle.
 
 Un pilote inspecteur de l'administration ou un autre examinateur pourra, en toutes circonstances, être substitué à l'instructeur qualifié proposé pour le contrôle des épreuves.
 

@@ -5,6 +5,7 @@
 - [APPENDICE 2](appendice-2)
 - [Article 2](article-2.md)
 - [Chapitre II : Règles générales](chapitre-ii)
+- [APPENDICE 3](appendice-3)
 - [Article 3](article-3.md)
 - [Chapitre III : Stagiaire](chapitre-iii)
 - [Chapitre IV : Brevets et licences de pilotes](chapitre-iv)

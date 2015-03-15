@@ -10,9 +10,7 @@ Sont dispensés de l'épreuve théorique les candidats :
 
 -titulaires d'un brevet civil ou militaire de pilote d'avion ou d'hélicoptère ;
 
--titulaires d'une licence de membre d'équipage de conduite d'avion conforme à l'arrêté du 29 mars 1999 relatif aux licences et qualifications de membre d'équipage de conduite d'avions (FCL 1) ou d'hélicoptère conforme à l'arrêté du 12 juillet 2005 relatif aux licences et qualifications de membre d'équipage de conduite d'hélicoptères (FCL 2) ;
-
--titulaires d'une licence de membre d'équipage de conduite d'avion ou d'hélicoptère délivrée par un Etat membre de l'Union européenne, un Etat partie à l'accord sur l'Espace économique européen ou par la Confédération suisse, conformément aux règles aéronautiques communes pour la délivrance des licences de membre d'équipage de conduite, dites JAR-FCL, première partie avion ou deuxième partie hélicoptère, élaborées par les autorités conjointes de l'aviation civile (JAA) ;
+- titulaires d'une licence de membre d'équipage de conduite d'avion ou d'hélicoptère conforme à l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié ;
 
 -titulaires d'un certificat d'aptitude théorique, d'un brevet ou d'une licence de pilote professionnel d'avion ou d'hélicoptère ; ou
 

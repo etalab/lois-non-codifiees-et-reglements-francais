@@ -7,3 +7,15 @@ Les examinateurs nommés pour conduire les contrôles en vue de renouvellement d
 À l'issue de cette période, ils sont soumis aux conditions relatives à l'autorisation d'examinateur ﬁxées par le paragraphe FCL 1.425 de la sous-partie I de l'arrêté du 29 mars 1999 relatif aux licences et qualiﬁcations de membre d'équipage de conduite d'avions (FCL 1).
 
 10.2. Les instructeurs de pilote privé hélicoptère nommés pour conduire les contrôles en vue de la délivrance des licences de pilote privé hélicoptère ou pour conduire les contrôles en vue de la délivrance des qualiﬁcations de type peuvent se voir délivrer une autorisation d'examinateur pour faire passer les épreuves pratiques d'aptitude et les contrôles de compétences déﬁnies dans l'annexe de l'arrêté du 12 juillet 2005 relatif aux licences et qualiﬁcations de membre d'équipage de conduite d'hélicoptères (FCL 2), pour une durée maximale de trois ans et sous réserve de démontrer une connaissance des parties pertinentes du JAR-FCL 2 et du JAR-OPS 3 dans des conditions déﬁnies par arrêté.
+
+10.3. Conversion des qualifications d'instructeur ITV en autorisations examinateur FE (S) et FIE (S) partie FCL
+
+Les conditions dans lesquelles les personnels navigants titulaires d'une qualification instructeur de vol à voile (ITV) peuvent obtenir une autorisation d'examinateur de vol planeur FE (S) et une autorisation d'examinateur d'instructeur de vol planeur FIE (S), conformes aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié, sont fixées à l'appendice 3 de l'annexe au présent arrêté.
+
+10.4. Examinateur FE (S) partie FCL et épreuves théorique et pratique en vue de la délivrance du brevet et licence de pilote de planeur
+
+Les personnels navigants titulaires d'une autorisation d'examinateur de vol planeur FE (S) conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné sont habilités à conduire les épreuves théorique et pratique visées au 3 du paragraphe 4.1.1 et les contrôles de compétences visés au a 2 et au b du paragraphe 4.1.4 du chapitre IV de l'annexe au présent arrêté.
+
+10.5. Examinateur FIE (S) partie FCL et épreuves pratique d'aptitude en vue de la délivrance d'une qualification d'instructeur de pilote planeur (ITP) ou d'une qualification d'instructeur vol à voile (ITV)
+
+Les personnels navigants titulaires d'une autorisation d'examinateur d'instructeur de vol planeur FIE (S) conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné sont habilités à conduire les épreuves pratiques d'aptitude visées au f du paragraphe 7.1.1.1, au e du paragraphe 7.1.2.1 et les contrôles de compétences visés aux paragraphes 7.1.1.3 et 7.1.2.3 du chapitre VII de l'annexe au présent arrêté.

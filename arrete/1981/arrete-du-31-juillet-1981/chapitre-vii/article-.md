@@ -98,6 +98,34 @@ L'exigence visée au b du paragraphe 7.1.2.3 prend effet à compter du 15 mai 20
 
 Les détenteurs d'une qualification d'instructeur de vol à voile dont la validité prend fin entre le 15 mai 2012 et le 14 mai 2013 ne sont pas concernés par cette exigence.
 
+7.1.4. Conversion des qualifications d'instructeur ITP en qualification instructeur FI(S) partie FCL
+
+Les conditions dans lesquelles les personnels navigants titulaires d'une qualification instructeur de pilote de planeur (ITP) peuvent obtenir :
+
+- soit une qualification instructeur de vol planeur FI(S) conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 modifié déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil modifié ;
+
+- soit une qualification instructeur de vol planeur FI(S) conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné et dont les privilèges sont restreints à ceux de la qualification d'instructeur de pilote planeur (ITP) détenue, tant que l'ensemble des exigences complémentaires demandées n'auront pas été satisfaites,
+
+sont fixées à l'appendice 3 de l'annexe au présent arrêté.
+
+7.1.5. Conversion des qualifications d'instructeur ITV en qualification instructeur FI(S) partie FCL
+
+Les conditions dans lesquelles les personnels navigants titulaires d'une qualification instructeur de vol à voile (ITV) peuvent obtenir une qualification instructeur de vol planeur FI(S) conforme aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné, sont fixées à l'appendice 3 de l'annexe au présent arrêté.
+
+7.1.6. Instructeur FI(S) partie FCL et formation au brevet et licence de pilote de planeur
+
+Les personnels navigants titulaires d'une des qualifications suivantes conformes aux dispositions de l'annexe I, partie FCL, du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié susmentionné :
+
+- instructeur de vol planeur FI(S) ;
+
+- instructeur de vol planeur FI(S) dont les privilèges sont restreints conformément au FCL.910.FI de l'annexe I, partie FCL, du même règlement ;
+
+- instructeur de vol planeur FI(S) dont les privilèges sont restreints à ceux de la qualification d'instructeur de pilote planeur (ITP) détenue conformément au troisième alinéa du paragraphe 7.1.4 du chapitre VII de l'annexe au présent arrêté,
+
+sont réputés être instructeurs habilités au sens du présent arrêté pour l'instruction au brevet et licence de pilote de planeur visée au 2 du paragraphe 4.1.1 et pour les extensions des privilèges de la licence de pilote de planeur visées au paragraphe 4.1.2 du chapitre IV de l'annexe au présent arrêté.
+
+Par ailleurs l'instructeur de vol planeur FI(S) dont les privilèges sont restreints conformément au FCL.910.FI de l'annexe I, partie FCL, ne disposera pas du privilège d'autoriser les élèves pilotes à faire leurs premiers vols solo et leurs premiers vols en campagne solo dans le cadre d'une instruction au brevet et licence de pilote de planeur et de ses extensions de privilèges.
+
 7.2. Instructeur de pilote privé avion
 
 7.2.1. Qualiﬁcation d'instructeur stagiaire de pilote de base d'avion
