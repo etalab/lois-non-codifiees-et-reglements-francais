@@ -2606,7 +2606,6 @@
 - [Arrêté du 29 juin 2011 (SPOR1120396A)](arrete-du-29-juin-2011-spor1120396a)
 - [Arrêté du 29 juin 2011 (SPOR1120402A)](arrete-du-29-juin-2011-spor1120402a)
 - [Arrêté du 29 mars 2011 (AGRG1108929A)](arrete-du-29-mars-2011-agrg1108929a)
-- [Arrêté du 29 mars 2011 (BCRB1102917A)](arrete-du-29-mars-2011-bcrb1102917a)
 - [Arrêté du 29 mars 2011 (BCRB1108137A)](arrete-du-29-mars-2011-bcrb1108137a)
 - [Arrêté du 29 mars 2011 (ETSH1109415A)](arrete-du-29-mars-2011-etsh1109415a)
 - [Arrêté du 29 mars 2011 (ETSP1108796A)](arrete-du-29-mars-2011-etsp1108796a)
