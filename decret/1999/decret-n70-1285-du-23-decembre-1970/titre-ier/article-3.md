@@ -8,9 +8,9 @@ Véhicules exclusivement affectés aux transports intérieurs dans les chantiers
 
 Véhicules destinés à la vente ou effectuant des essais, mis en circulation par les fabricants, marchands ou réparateurs, faisant l'objet d'une immatriculation particulière à condition qu'ils n'effectuent pas de transports de marchandises ou d'objets de charge utile ;
 
-Véhicules militaires faisant l'objet d'une immatriculation particulière.
+Véhicules de la défense nationale, de la protection civile, des services publics de lutte contre les incendies et autres services publics de secours et des forces responsables du maintien de l'ordre.
 
-Jusqu'au 31 décembre 2014, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
+Jusqu'au 31 décembre 2019, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
 
 1° Les engins de levage et de manutention automoteurs (grues installées sur un châssis routier) ;
 
