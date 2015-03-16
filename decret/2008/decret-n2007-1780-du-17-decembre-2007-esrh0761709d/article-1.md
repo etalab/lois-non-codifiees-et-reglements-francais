@@ -18,17 +18,17 @@ les pouvoirs relatifs à :
 
 a) l'avancement ;
 
-b) la cessation de fonctions ;
+b) La cessation de fonctions, lorsque l'avis de la commission administrative paritaire est requis ;
 
 c) dans le cas où l'avis du Comité médical supérieur est requis, les congés prévus aux 2°, 3°, 4° de l'article 34 de la loi du 11 janvier 1984 susvisée, ainsi qu'au 7° du même article ;
 
 d) la mise à disposition ;
 
-e) le détachement ;
+e) Le détachement, à l'exception des détachements de plein droit prévus au troisième alinéa de l'article 17 du décret du 16 septembre 1985 ;
 
 f) la position hors cadre ;
 
-g) la mise en disponibilité lorsque sa durée est supérieure à trois mois.
+g) La mise en disponibilité, lorsque l'avis de la commission administrative paritaire est requis.
 
 Il prend en outre toutes les mesures exigeant l'avis de la commission administrative paritaire.
 
