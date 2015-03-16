@@ -34,7 +34,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">33,6*<br/>
+<td align="center" valign="middle">33,6 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -42,7 +42,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">13,5*<br/>
+<td align="center" valign="middle">14*<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -50,7 +50,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">TOTAL OP DU SUD<br/>
 </td>
-<td align="center" valign="middle">184,1<br/>
+<td align="center" valign="middle">184,6<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -62,7 +62,7 @@
 </td>
 <td align="right">JEAN MARIE CHRISTIAN VII immatriculé 900270<br/>
 </td>
-<td align="center" valign="middle">234<br/>
+<td align="center" valign="middle">233<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -118,7 +118,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">Palangriers hauturiers titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">41,7*<br/>
+<td align="center" valign="middle">42,7 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -126,7 +126,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">148,9*<br/>
+<td align="center" valign="middle">155,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -134,7 +134,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">12,6*<br/>
+<td align="center" valign="middle">6,0 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -204,7 +204,7 @@
 </td>
 <td align="left" colspan="2" valign="middle">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">1,2*<br/>
+<td align="center" valign="middle">1,2 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -222,7 +222,7 @@
 </td>
 <td align="left" colspan="2" valign="middle">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">7,9*<br/>
+<td align="center" valign="middle">7,9 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -240,7 +240,7 @@
 </td>
 <td align="left" colspan="2" valign="middle">Palangriers "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">2,6*<br/>
+<td align="center" valign="middle">2,6 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -248,7 +248,7 @@
 <tr>
 <td align="left" colspan="2" valign="middle">Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"<br/>
 </td>
-<td align="center" valign="middle">1,5*<br/>
+<td align="center" valign="middle">1,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -294,7 +294,7 @@
 </td>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime des Alpes-Maritimes<br/>
 </td>
-<td align="center" valign="middle">0,7*<br/>
+<td align="center" valign="middle">0,7 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -302,7 +302,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime des Bouches-du-Rhône<br/>
 </td>
-<td align="center" valign="middle">8,5*<br/>
+<td align="center" valign="middle">8,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -310,7 +310,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime de la Corse<br/>
 </td>
-<td align="center" valign="middle">1,8*<br/>
+<td align="center" valign="middle">1,8 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -318,7 +318,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime de l'Hérault<br/>
 </td>
-<td align="center" valign="middle">9*<br/>
+<td align="center" valign="middle">9 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -326,7 +326,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime des Pyrénées-Orientales<br/>
 </td>
-<td align="center" valign="middle">1*<br/>
+<td align="center" valign="middle">1 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -334,7 +334,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime du Var<br/>
 </td>
-<td align="center" valign="middle">0,2*<br/>
+<td align="center" valign="middle">0,2 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -344,7 +344,7 @@
 </td>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime des Alpes-Maritimes<br/>
 </td>
-<td align="center" valign="middle">0,5*<br/>
+<td align="center" valign="middle">0,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -352,7 +352,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime des Bouches-du-Rhône<br/>
 </td>
-<td align="center" valign="middle">1,8*<br/>
+<td align="center" valign="middle">1,8 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -360,7 +360,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime de la Corse<br/>
 </td>
-<td align="center" valign="middle">2*<br/>
+<td align="center" valign="middle">2 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -368,7 +368,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime de l'Hérault<br/>
 </td>
-<td align="center" valign="middle">1*<br/>
+<td align="center" valign="middle">0,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -376,7 +376,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime des Pyrénées-Orientales<br/>
 </td>
-<td align="center" valign="middle">0,5*<br/>
+<td align="center" valign="middle">0,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -384,7 +384,7 @@
 <tr>
 <td align="left" valign="middle">et immatriculés dans un quartier maritime du Var<br/>
 </td>
-<td align="center" valign="middle">0,5*<br/>
+<td align="center" valign="middle">0,5 (*)<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
@@ -393,7 +393,7 @@
 <td align="left" colspan="2" valign="middle">
 <p align="left">TOTAL HORS OP</p>
 </td>
-<td align="center" valign="middle">305,5<br/>
+<td align="center" valign="middle">305<br/>
 </td>
 <td align="center" valign="middle">0<br/>
 </td>
