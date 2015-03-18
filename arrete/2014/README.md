@@ -2528,7 +2528,6 @@
 - [ARRÊTÉ du 26 novembre 2014 (DEFH1425569A)](arrete-du-26-novembre-2014-defh1425569a)
 - [ARRÊTÉ du 26 novembre 2014 (DEFH1428062A)](arrete-du-26-novembre-2014-defh1428062a)
 - [ARRÊTÉ du 26 novembre 2014 (DEVR1428176A)](arrete-du-26-novembre-2014-devr1428176a)
-- [ARRÊTÉ du 26 novembre 2014 (DEVR1428725A)](arrete-du-26-novembre-2014-devr1428725a)
 - [ARRÊTÉ du 26 novembre 2014 (INTJ1424326A)](arrete-du-26-novembre-2014-intj1424326a)
 - [ARRÊTÉ du 26 septembre 2014 (AFSH1419277A)](arrete-du-26-septembre-2014-afsh1419277a)
 - [ARRÊTÉ du 26 septembre 2014 (DEFH1422851A)](arrete-du-26-septembre-2014-defh1422851a)
