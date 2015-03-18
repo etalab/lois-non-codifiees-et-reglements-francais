@@ -569,7 +569,6 @@
 - [Arrêté du 8 juin 2010 (BCRE1012710A)](arrete-du-8-juin-2010-bcre1012710a)
 - [Arrêté du 8 juin 2010 (ECEI1013515A)](arrete-du-8-juin-2010-ecei1013515a)
 - [Arrêté du 8 juin 2010 (MAEA1015032A)](arrete-du-8-juin-2010-maea1015032a)
-- [Arrêté du 8 juin 2010 (MAEA1015039A)](arrete-du-8-juin-2010-maea1015039a)
 - [Arrêté du 8 juin 2010 (MAEA1015067A)](arrete-du-8-juin-2010-maea1015067a)
 - [Arrêté du 8 juin 2010 (SASH1015326A)](arrete-du-8-juin-2010-sash1015326a)
 - [Arrêté du 8 juin 2010 (SASP1015145A)](arrete-du-8-juin-2010-sasp1015145a)
