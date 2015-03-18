@@ -1,8 +1,10 @@
 # Article 1
 
-I. ― L'évaluation forfaitaire des pensions d'invalidité prévue au premier alinéa de l'article R. 376-1 du code de la sécurité sociale est calculée conformément au barème figurant à l'annexe 1 du présent arrêté.
+I. - L'évaluation forfaitaire des pensions d'invalidité prévue au premier alinéa de l'article R. 376-1 du code de la sécurité sociale est calculée conformément au barème figurant à l'annexe 1 du présent arrêté.
 
-II. ― L'évaluation forfaitaire prévue au premier alinéa de l'article R. 454-1 du code de la sécurité sociale est effectuée, pour les dépenses résultant du paiement des rentes d'accidents du travail et de la fourniture, la réparation et le renouvellement des appareils de prothèse et d'orthopédie dans le cas d'accidents du travail imputables à un tiers, conformément aux dispositions définies ci-après :
+L'évaluation forfaitaire prévue au premier alinéa de l'article R. 376-1 du code de la sécurité sociale pour les dépenses résultant du paiement de la fourniture, la réparation et le renouvellement des appareils de prothèse et d'orthopédie dans le cas d'accidents imputables à un tiers s'effectue selon les modalités définies au 2° du II du présent article.
+
+II. - L'évaluation forfaitaire prévue au premier alinéa de l'article R. 454-1 du code de la sécurité sociale est effectuée, pour les dépenses résultant du paiement des rentes d'accidents du travail et de la fourniture, la réparation et le renouvellement des appareils de prothèse et d'orthopédie dans le cas d'accidents du travail imputables à un tiers, conformément aux dispositions définies ci-après :
 
 1° La dépense résultant du paiement des rentes attribuées aux victimes ou aux ayants droit des victimes d'accidents du travail est fixée au montant du capital représentatif de ces rentes calculé à l'aide du barème figurant aux I et II de l'annexe 2 du présent arrêté, en tenant compte de l'âge atteint par les bénéficiaires à la date de l'accord amiable de versement ou de la décision de justice ordonnant ce versement.
 
@@ -34,4 +36,4 @@ Si la victime a droit, en raison d'infirmités multiples, à plusieurs appareils
 
 Les frais d'appareillage payés antérieurement à la date du versement font l'objet d'un remboursement séparé.
 
-III. ― L'évaluation forfaitaire des prestations futures liée à la tierce personne et aux frais médicaux et paramédicaux prévue au premier alinéa des articles R. 376-1 et R. 454-1 est fixée, hormis les prestations visées au I et au 1° du II et sous réserve des dispositions prévues au 2° du II du présent article, au montant du capital représentatif de ces prestations calculé selon les modalités définies au 1° du II du présent article.
+III. - L'évaluation forfaitaire des prestations futures liée à la tierce personne et aux frais médicaux et paramédicaux prévue au premier alinéa des articles R. 376-1 et R. 454-1 est fixée, hormis les prestations visées au I et au 1° du II et sous réserve des dispositions prévues au 2° du II du présent article, au montant du capital représentatif de ces prestations calculé selon les modalités définies au 1° du II du présent article.

@@ -1,696 +1,811 @@
 # Article Annexe 1
 
-Barème servant à la détermination de la valeur forfaitaire des rentes d'invalidité
+Barème servant à la détermination de la valeur forfaitaire des pensions d'invalidité
 
 attribuées aux assurés sociaux en cas d'accident ou de blessure causés par un tiers
 
-A partir de la table de mortalité INSEE 2000-2002
+A partir de la table de mortalité INSEE 2006-2008, taux 1,97 %
 
-Taux 2,97 %
+Sexe masculin
 
 <table>
 <tbody>
 <tr>
-<td colspan="2" width="340">
-<p align="center">SEXE MASCULIN</p>
+<th>
+<br/>ÂGE DE CONSOLIDATION <br/>
+</th>
+<th>
+<br/>VALEUR DE CONVERSION <br/>
+<br/>rente-capital <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>16 <br/>
 </td>
-<td colspan="2" width="340">
-<p align="center">SEXE FÉMININ</p>
+<td align="center">
+<br/>29,523 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">Age de consolidation</p>
+<td align="center">
+<br/>17 <br/>
 </td>
-<td width="170">
-<p align="center">Valeur de conversion <br/>rente - capital</p>
-</td>
-<td width="170">
-<p align="center">Age de consolidation</p>
-</td>
-<td width="170">
-<p align="center">Valeur de conversion <br/>rente - capital</p>
+<td align="center">
+<br/>29,115 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">16</p>
+<td align="center">
+<br/>18 <br/>
 </td>
-<td width="170">
-<p align="center">24,344</p>
-</td>
-<td width="170">
-<p align="center">16</p>
-</td>
-<td width="170">
-<p align="center">24,816</p>
+<td align="center">
+<br/>28,702 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">17</p>
+<td align="center">
+<br/>19 <br/>
 </td>
-<td width="170">
-<p align="center">24,079</p>
-</td>
-<td width="170">
-<p align="center">17</p>
-</td>
-<td width="170">
-<p align="center">24,559</p>
+<td align="center">
+<br/>28,286 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">18</p>
+<td align="center">
+<br/>20 <br/>
 </td>
-<td width="170">
-<p align="center">23,809</p>
-</td>
-<td width="170">
-<p align="center">18</p>
-</td>
-<td width="170">
-<p align="center">24,295</p>
+<td align="center">
+<br/>27,863 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">19</p>
+<td align="center">
+<br/>21 <br/>
 </td>
-<td width="170">
-<p align="center">23,538</p>
-</td>
-<td width="170">
-<p align="center">19</p>
-</td>
-<td width="170">
-<p align="center">24,026</p>
+<td align="center">
+<br/>27,434 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">20</p>
+<td align="center">
+<br/>22 <br/>
 </td>
-<td width="170">
-<p align="center">23,262</p>
-</td>
-<td width="170">
-<p align="center">20</p>
-</td>
-<td width="170">
-<p align="center">23,748</p>
+<td align="center">
+<br/>26,996 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">21</p>
+<td align="center">
+<br/>23 <br/>
 </td>
-<td width="170">
-<p align="center">22,977</p>
-</td>
-<td width="170">
-<p align="center">21</p>
-</td>
-<td width="170">
-<p align="center">23,462</p>
+<td align="center">
+<br/>26,550 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">22</p>
+<td align="center">
+<br/>24 <br/>
 </td>
-<td width="170">
-<p align="center">22,684</p>
-</td>
-<td width="170">
-<p align="center">22</p>
-</td>
-<td width="170">
-<p align="center">23,167</p>
+<td align="center">
+<br/>26,098 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">23</p>
+<td align="center">
+<br/>25 <br/>
 </td>
-<td width="170">
-<p align="center">22,382</p>
-</td>
-<td width="170">
-<p align="center">23</p>
-</td>
-<td width="170">
-<p align="center">22,863</p>
+<td align="center">
+<br/>25,635 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">24</p>
+<td align="center">
+<br/>26 <br/>
 </td>
-<td width="170">
-<p align="center">22,071</p>
-</td>
-<td width="170">
-<p align="center">24</p>
-</td>
-<td width="170">
-<p align="center">22,550</p>
+<td align="center">
+<br/>25,163 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">25</p>
+<td align="center">
+<br/>27 <br/>
 </td>
-<td width="170">
-<p align="center">21,750</p>
-</td>
-<td width="170">
-<p align="center">25</p>
-</td>
-<td width="170">
-<p align="center">22,228</p>
+<td align="center">
+<br/>24,681 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">26</p>
+<td align="center">
+<br/>28 <br/>
 </td>
-<td width="170">
-<p align="center">21,419</p>
-</td>
-<td width="170">
-<p align="center">26</p>
-</td>
-<td width="170">
-<p align="center">21,896</p>
+<td align="center">
+<br/>24,190 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">27</p>
+<td align="center">
+<br/>29 <br/>
 </td>
-<td width="170">
-<p align="center">21,079</p>
-</td>
-<td width="170">
-<p align="center">27</p>
-</td>
-<td width="170">
-<p align="center">21,554</p>
+<td align="center">
+<br/>23,689 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">28</p>
+<td align="center">
+<br/>30 <br/>
 </td>
-<td width="170">
-<p align="center">20,729</p>
-</td>
-<td width="170">
-<p align="center">28</p>
-</td>
-<td width="170">
-<p align="center">21,203</p>
+<td align="center">
+<br/>23,177 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">29</p>
+<td align="center">
+<br/>31 <br/>
 </td>
-<td width="170">
-<p align="center">20,368</p>
-</td>
-<td width="170">
-<p align="center">29</p>
-</td>
-<td width="170">
-<p align="center">20,841</p>
+<td align="center">
+<br/>22,655 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">30</p>
+<td align="center">
+<br/>32 <br/>
 </td>
-<td width="170">
-<p align="center">19,997</p>
-</td>
-<td width="170">
-<p align="center">30</p>
-</td>
-<td width="170">
-<p align="center">20,468</p>
+<td align="center">
+<br/>22,124 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">31</p>
+<td align="center">
+<br/>33 <br/>
 </td>
-<td width="170">
-<p align="center">19,615</p>
-</td>
-<td width="170">
-<p align="center">31</p>
-</td>
-<td width="170">
-<p align="center">20,085</p>
+<td align="center">
+<br/>21,583 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">32</p>
+<td align="center">
+<br/>34 <br/>
 </td>
-<td width="170">
-<p align="center">19,222   </p>
-<br/>
-</td>
-<td width="170">
-<p align="center">32</p>
-</td>
-<td width="170">
-<p align="center">19,691</p>
+<td align="center">
+<br/>21,031 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">33</p>
+<td align="center">
+<br/>35 <br/>
 </td>
-<td width="170">
-<p align="center">18,818   </p>
-</td>
-<td width="170">
-<p align="center">33</p>
-</td>
-<td width="170">
-<p align="center">19,286</p>
+<td align="center">
+<br/>20,470 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">34</p>
+<td align="center">
+<br/>36 <br/>
 </td>
-<td width="170">
-<p align="center">18,402</p>
-</td>
-<td width="170">
-<p align="center">34</p>
-</td>
-<td width="170">
-<p align="center">18,870</p>
+<td align="center">
+<br/>19,899 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">35</p>
+<td align="center">
+<br/>37 <br/>
 </td>
-<td width="170">
-<p align="center">17,976</p>
-</td>
-<td width="170">
-<p align="center">35</p>
-</td>
-<td width="170">
-<p align="center">18,443</p>
+<td align="center">
+<br/>19,320 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">36</p>
+<td align="center">
+<br/>38 <br/>
 </td>
-<td width="170">
-<p align="center">17,538</p>
-</td>
-<td width="170">
-<p align="center">36</p>
-</td>
-<td width="170">
-<p align="center">18,005</p>
+<td align="center">
+<br/>18,729 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">37</p>
+<td align="center">
+<br/>39 <br/>
 </td>
-<td width="170">
-<p align="center">17,090</p>
-</td>
-<td width="170">
-<p align="center">37</p>
-</td>
-<td width="170">
-<p align="center">17,553</p>
+<td align="center">
+<br/>18,128 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">38</p>
+<td align="center">
+<br/>40 <br/>
 </td>
-<td width="170">
-<p align="center">16,628</p>
-</td>
-<td width="170">
-<p align="center">38</p>
-</td>
-<td width="170">
-<p align="center">17,090</p>
+<td align="center">
+<br/>17,516 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">39</p>
+<td align="center">
+<br/>41 <br/>
 </td>
-<td width="170">
-<p align="center">16,156</p>
-</td>
-<td width="170">
-<p align="center">39</p>
-</td>
-<td width="170">
-<p align="center">16,613</p>
+<td align="center">
+<br/>16,894 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">40</p>
+<td align="center">
+<br/>42 <br/>
 </td>
-<td width="170">
-<p align="center">15,671</p>
-</td>
-<td width="170">
-<p align="center">40</p>
-</td>
-<td width="170">
-<p align="center">16,124</p>
+<td align="center">
+<br/>16,263 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">41</p>
+<td align="center">
+<br/>43 <br/>
 </td>
-<td width="170">
-<p align="center">15,174</p>
-</td>
-<td width="170">
-<p align="center">41</p>
-</td>
-<td width="170">
-<p align="center">15,623</p>
+<td align="center">
+<br/>15,621 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">42</p>
+<td align="center">
+<br/>44 <br/>
 </td>
-<td width="170">
-<p align="center">14,667</p>
-</td>
-<td width="170">
-<p align="center">42</p>
-</td>
-<td width="170">
-<p align="center">15,107</p>
+<td align="center">
+<br/>14,968 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">43</p>
+<td align="center">
+<br/>45 <br/>
 </td>
-<td width="170">
-<p align="center">14,147</p>
-</td>
-<td width="170">
-<p align="center">43</p>
-</td>
-<td width="170">
-<p align="center">14,577</p>
+<td align="center">
+<br/>14,306 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">44</p>
+<td align="center">
+<br/>46 <br/>
 </td>
-<td width="170">
-<p align="center">13,615</p>
-</td>
-<td width="170">
-<p align="center">44</p>
-</td>
-<td width="170">
-<p align="center">14,032</p>
+<td align="center">
+<br/>13,633 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">45</p>
+<td align="center">
+<br/>47 <br/>
 </td>
-<td width="170">
-<p align="center">13,070</p>
-</td>
-<td width="170">
-<p align="center">45</p>
-</td>
-<td width="170">
-<p align="center">13,473</p>
+<td align="center">
+<br/>12,950 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">46</p>
+<td align="center">
+<br/>48 <br/>
 </td>
-<td width="170">
-<p align="center">12,511</p>
-</td>
-<td width="170">
-<p align="center">46</p>
-</td>
-<td width="170">
-<p align="center">12,898</p>
+<td align="center">
+<br/>12,257 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">47</p>
+<td align="center">
+<br/>49 <br/>
 </td>
-<td width="170">
-<p align="center">11,939</p>
-</td>
-<td width="170">
-<p align="center">47</p>
-</td>
-<td width="170">
-<p align="center">12,307</p>
+<td align="center">
+<br/>11,551 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">48</p>
+<td align="center">
+<br/>50 <br/>
 </td>
-<td width="170">
-<p align="center">11,353</p>
-</td>
-<td width="170">
-<p align="center">48</p>
-</td>
-<td width="170">
-<p align="center">11,699</p>
+<td align="center">
+<br/>10,836 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">49</p>
+<td align="center">
+<br/>51 <br/>
 </td>
-<td width="170">
-<p align="center">10,750</p>
-</td>
-<td width="170">
-<p align="center">49</p>
-</td>
-<td width="170">
-<p align="center">11,073</p>
+<td align="center">
+<br/>10,108 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">50</p>
+<td align="center">
+<br/>52 <br/>
 </td>
-<td width="170">
-<p align="center">10,129</p>
-</td>
-<td width="170">
-<p align="center">50</p>
-</td>
-<td width="170">
-<p align="center">10,430</p>
+<td align="center">
+<br/>9,367 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">51</p>
+<td align="center">
+<br/>53 <br/>
 </td>
-<td width="170">
-<p align="center">9,491</p>
-</td>
-<td width="170">
-<p align="center">51</p>
-</td>
-<td width="170">
-<p align="center">9,767</p>
+<td align="center">
+<br/>8,612 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">52</p>
+<td align="center">
+<br/>54 <br/>
 </td>
-<td width="170">
-<p align="center">8,834</p>
-</td>
-<td width="170">
-<p align="center">52</p>
-</td>
-<td width="170">
-<p align="center">9,083</p>
+<td align="center">
+<br/>7,841 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">53</p>
+<td align="center">
+<br/>55 <br/>
 </td>
-<td width="170">
-<p align="center">8,158</p>
-</td>
-<td width="170">
-<p align="center">53</p>
-</td>
-<td width="170">
-<p align="center">8,380</p>
+<td align="center">
+<br/>7,053 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">54</p>
+<td align="center">
+<br/>56 <br/>
 </td>
-<td width="170">
-<p align="center">7,460</p>
-</td>
-<td width="170">
-<p align="center">54</p>
-</td>
-<td width="170">
-<p align="center">7,654</p>
+<td align="center">
+<br/>6,248 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">55</p>
+<td align="center">
+<br/>57 <br/>
 </td>
-<td width="170">
-<p align="center">6,741</p>
-</td>
-<td width="170">
-<p align="center">55</p>
-</td>
-<td width="170">
-<p align="center">6,907</p>
+<td align="center">
+<br/>5,424 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">56</p>
+<td align="center">
+<br/>58 <br/>
 </td>
-<td width="170">
-<p align="center">5,999</p>
-</td>
-<td width="170">
-<p align="center">56</p>
-</td>
-<td width="170">
-<p align="center">6,137</p>
+<td align="center">
+<br/>4,579 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">57</p>
+<td align="center">
+<br/>59 <br/>
 </td>
-<td width="170">
-<p align="center">5,232</p>
-</td>
-<td width="170">
-<p align="center">57</p>
-</td>
-<td width="170">
-<p align="center">5,343</p>
+<td align="center">
+<br/>3,713 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">58</p>
+<td align="center">
+<br/>60 <br/>
 </td>
-<td width="170">
-<p align="center">4,438</p>
-</td>
-<td width="170">
-<p align="center">58</p>
-</td>
-<td width="170">
-<p align="center">4,523</p>
+<td align="center">
+<br/>2,823 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">59</p>
+<td align="center">
+<br/>61 <br/>
 </td>
-<td width="170">
-<p align="center">3,615</p>
-</td>
-<td width="170">
-<p align="center">59</p>
-</td>
-<td width="170">
-<p align="center">3,677</p>
+<td align="center">
+<br/>1,909 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">60</p>
+<td align="center">
+<br/>62 <br/>
 </td>
-<td width="170">
-<p align="center">2,763</p>
-</td>
-<td width="170">
-<p align="center">60</p>
-</td>
-<td width="170">
-<p align="center">2,803</p>
+<td align="center">
+<br/>0,969 <br/>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p align="center">61</p>
+<td align="center">
+<br/>63<br/>
 </td>
-<td width="170">
-<p align="center">1,878</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td width="170">
-<p align="center">61</p>
-</td>
-<td width="170">
-<p align="center">1,900</p>
-</td>
-</tr>
-<tr>
-<td align="center"> 62</td>
-<td align="center"> 0,958</td>
-<td align="center"> 62<br/>
-</td>
-<td align="center"> 0,966<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 63</td>
-<td align="center"> -</td>
-<td align="center"> 63<br/>
-</td>
-<td align="center"> -</td>
 </tr>
 </tbody>
-</table>.
+</table>
+
+Sexe féminin
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ÂGE DE CONSOLIDATION <br/>
+</th>
+<th>
+<br/>VALEUR DE CONVERSION <br/>
+<br/>rente-capital <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>16 <br/>
+</td>
+<td align="center">
+<br/>30,055 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>17 <br/>
+</td>
+<td align="center">
+<br/>29,652 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>18 <br/>
+</td>
+<td align="center">
+<br/>29,242 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>19 <br/>
+</td>
+<td align="center">
+<br/>28,824 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>20 <br/>
+</td>
+<td align="center">
+<br/>28,399 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>21 <br/>
+</td>
+<td align="center">
+<br/>27,966 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>22 <br/>
+</td>
+<td align="center">
+<br/>27,525 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23 <br/>
+</td>
+<td align="center">
+<br/>27,074 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>24 <br/>
+</td>
+<td align="center">
+<br/>26,615 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>25 <br/>
+</td>
+<td align="center">
+<br/>26,146 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>26 <br/>
+</td>
+<td align="center">
+<br/>25,668 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>27 <br/>
+</td>
+<td align="center">
+<br/>25,182 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>28 <br/>
+</td>
+<td align="center">
+<br/>24,686 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>29 <br/>
+</td>
+<td align="center">
+<br/>24,180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>30 <br/>
+</td>
+<td align="center">
+<br/>23,664 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>31 <br/>
+</td>
+<td align="center">
+<br/>23,139 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32 <br/>
+</td>
+<td align="center">
+<br/>22,604 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>33 <br/>
+</td>
+<td align="center">
+<br/>22,059 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>34 <br/>
+</td>
+<td align="center">
+<br/>21,503 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>35 <br/>
+</td>
+<td align="center">
+<br/>20,938 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>36 <br/>
+</td>
+<td align="center">
+<br/>20,363 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>37 <br/>
+</td>
+<td align="center">
+<br/>19,777 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>38 <br/>
+</td>
+<td align="center">
+<br/>19,181 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>39 <br/>
+</td>
+<td align="center">
+<br/>18,574 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>40 <br/>
+</td>
+<td align="center">
+<br/>17,957 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>41 <br/>
+</td>
+<td align="center">
+<br/>17,328 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>42 <br/>
+</td>
+<td align="center">
+<br/>16,687 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>43 <br/>
+</td>
+<td align="center">
+<br/>16,036 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>44 <br/>
+</td>
+<td align="center">
+<br/>15,372 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>45 <br/>
+</td>
+<td align="center">
+<br/>14,697 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>46 <br/>
+</td>
+<td align="center">
+<br/>14,010 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>47 <br/>
+</td>
+<td align="center">
+<br/>13,311 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>48 <br/>
+</td>
+<td align="center">
+<br/>12,598 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>49 <br/>
+</td>
+<td align="center">
+<br/>11,872 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>50 <br/>
+</td>
+<td align="center">
+<br/>11,134 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>51 <br/>
+</td>
+<td align="center">
+<br/>10,380 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>52 <br/>
+</td>
+<td align="center">
+<br/>9,613 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>8,830 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>54 <br/>
+</td>
+<td align="center">
+<br/>8,030 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>55 <br/>
+</td>
+<td align="center">
+<br/>7,213 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>56 <br/>
+</td>
+<td align="center">
+<br/>6,380 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>57 <br/>
+</td>
+<td align="center">
+<br/>5,528 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>58 <br/>
+</td>
+<td align="center">
+<br/>4,658 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>59 <br/>
+</td>
+<td align="center">
+<br/>3,769 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>60 <br/>
+</td>
+<td align="center">
+<br/>2,859 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>61 <br/>
+</td>
+<td align="center">
+<br/>1,928 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>62 <br/>
+</td>
+<td align="center">
+<br/>0,976 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>63<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
