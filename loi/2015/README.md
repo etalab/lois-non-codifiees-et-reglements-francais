@@ -12,3 +12,4 @@
 - [LOI n°2015-195 du 20 février 2015 (MCCB1421649L)](loi-n2015-195-du-20-fevrier-2015-mccb1421649l)
 - [LOI n°2015-264 du 9 mars 2015 (RDFX1429934L)](loi-n2015-264-du-9-mars-2015-rdfx1429934l)
 - [LOI n°2015-29 du 16 janvier 2015 (INTX1412841L)](loi-n2015-29-du-16-janvier-2015-intx1412841l)
+- [LOI n°2015-292 du 16 mars 2015 (RDFX1423975L)](loi-n2015-292-du-16-mars-2015-rdfx1423975l)
