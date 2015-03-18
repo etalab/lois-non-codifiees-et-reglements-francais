@@ -228,15 +228,24 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">130041916<br/>
+<td align="left" valign="top">
+<p align="left">130041916<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">840000491 130000409<br/>
+<td align="left" valign="top">
+<p align="left">840000491</p>
+<p align="left">130000409<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -396,15 +405,24 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">340780055<br/>
+<td align="left" valign="top">
+<p align="left">340780055<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">340021211 340000033<br/>
+<td align="left" valign="top">
+<p align="left">340021211</p>
+<p align="left">340000033<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -564,15 +582,24 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">510000060<br/>
+<td align="left" valign="top">
+<p align="left">510000060<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">510017098 510000235<br/>
+<td align="left" valign="top">
+<p align="left">510017098</p>
+<p align="left">510000235<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -682,9 +709,14 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">650000417<br/>
+<td align="left" valign="top">
+<p>650000417</p>
+<p>650780182<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -788,15 +820,24 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">810000380<br/>
+<td align="left" valign="top">
+<p align="left">810000380<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">810000521 810000547<br/>
+<td align="left" valign="top">
+<p align="left">810000521</p>
+<p align="left">810000547<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1068,15 +1109,24 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">570000158<br/>
+<td align="left" valign="top">
+<p align="left">570000158<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">570000901 570000661<br/>
+<td align="left" valign="top">
+<p align="left">570000901</p>
+<p align="left">570000661<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1231,8 +1281,7 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 </table>
 
 </div>
-<div align="center">
-
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -1278,12 +1327,15 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Périmètre de facturation<br/>
+<td align="left" valign="top">
+<p align="left">Périmètre de facturation<br/>
+</p>
 </td>
-<td align="left" valign="top">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left" valign="top">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
 </div>

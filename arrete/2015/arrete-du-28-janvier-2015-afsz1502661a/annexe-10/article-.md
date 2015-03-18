@@ -1020,7 +1020,9 @@ Liste des établissements de santé expérimentateurs concernés par la facturat
 <tr>
 <td align="left" valign="top">Finess géographiques<br/>
 </td>
-<td align="left" valign="top">310787304<br/>310783055<br/>310016977<br/>310783048<br/>310019351<br/>
+<td align="left" valign="top">
+<p>310787304<br/>310783055<br/>310016977<br/>310783048<br/>310019351<br/>310025333</p>
+<p>310783063 </p>
 </td>
 </tr>
 <tr>
@@ -1798,13 +1800,18 @@ Liste des établissements de santé expérimentateurs concernés par la facturat
 <tr>
 <td align="left" valign="top">Finess juridique<br/>
 </td>
-<td align="left" valign="top">680000486<br/>
+<td align="left" valign="top">680080336<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">Finess géographiques<br/>
 </td>
-<td align="left" valign="top">680004553<br/>680004546<br/>680000627<br/>
+<td align="left" valign="top">
+<p>680004553<br/>680004546<br/>680000627</p>
+<p>680000122</p>
+<p>680000601</p>
+<p>680020096<br/>
+</p>
 </td>
 </tr>
 <tr>

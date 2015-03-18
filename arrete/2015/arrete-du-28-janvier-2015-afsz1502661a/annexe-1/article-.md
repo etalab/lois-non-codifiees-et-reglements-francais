@@ -2,8 +2,6 @@
 
 Liste des établissements de santé concernés par un démarrage de la facturation individuelle le 1er février 2015 en application de l'article 1er du présent arrêté et périmètre de celle-ci
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -15,7 +13,10 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <tr>
 <td align="left" valign="top">Finess géographiques<br/>
 </td>
-<td align="left" valign="top">020000394 020004300<br/>
+<td align="left" valign="top">
+<p>020000394</p>
+<p>020004300<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +58,6 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -83,7 +83,7 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <tr>
 <td align="left" valign="top">Code comptable<br/>
 </td>
-<td align="left" valign="top">074005<br/>
+<td align="left" valign="top">074050<br/>
 </td>
 </tr>
 <tr>
@@ -623,15 +623,24 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">610790594<br/>
+<td align="left" valign="top">
+<p align="left">610790594<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">610780108 610780116<br/>
+<td align="left" valign="top">
+<p>610780108</p>
+<p>610780116<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -847,15 +856,23 @@ Liste des établissements de santé concernés par un démarrage de la facturati
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">Finess juridique<br/>
+<td align="left" valign="top">
+<p align="left">Finess juridique<br/>
+</p>
 </td>
-<td align="left" valign="top">830100616<br/>
+<td align="left" valign="top">
+<p align="left">830100616<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Finess géographiques<br/>
+<td align="left" valign="top">
+<p align="left">Finess géographiques<br/>
+</p>
 </td>
-<td align="left" valign="top">830000345<br/>830100608<br/>
+<td align="left" valign="top">
+<p align="left">830000345<br/>830100608<br/>
+</p>
 </td>
 </tr>
 <tr>
