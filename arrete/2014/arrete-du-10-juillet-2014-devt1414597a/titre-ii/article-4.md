@@ -7,3 +7,5 @@
 -pour ceux recrutés par voie de concours, d'un baccalauréat ou d'un diplôme national admis en équivalence ; et
 
 -pour ceux recrutés par voie d'une sélection sur titres, du brevet de technicien supérieur maritime de la spécialité " maintenance des systèmes électro-navals ".
+
+3° L'inscription au concours et à la sélection sur titres fait l'objet de frais d'inscription dont le montant est arrêté chaque année par le ministre chargé de la mer.
