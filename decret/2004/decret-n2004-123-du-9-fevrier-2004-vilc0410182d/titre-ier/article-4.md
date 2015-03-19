@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins deux fois par an, sur convocatio
 
 Il est réuni de plein droit à la demande écrite d'un tiers de ses membres ou à celle du ministre de tutelle, sur les points de l'ordre du jour déterminés par eux, dans le délai d'un mois suivant la demande.
 
-L'ordre du jour est porté à la connaissance des membres du conseil d'administration au moins dix jours avant la réunion.
+L'ordre du jour est porté à la connaissance des membres du conseil d'administration au moins dix jours avant la réunion, sauf en cas d'urgence motivée. Dans ce cas, le délai ne peut être inférieur à quarante-huit heures.
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres sont présents. Si ce quorum n'est pas atteint, le conseil est convoqué à nouveau sur le même ordre du jour ; il délibère alors quel que soit le nombre des membres présents.
 

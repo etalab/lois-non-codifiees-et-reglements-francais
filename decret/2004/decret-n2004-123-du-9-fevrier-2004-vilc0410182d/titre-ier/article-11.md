@@ -14,4 +14,4 @@ Il ordonne le versement des subventions.
 
 Il peut déléguer sa signature à des agents de l'établissement et aux délégués de l'agence dans le département.
 
-Il établit le rapport annuel d'activité, le soumet pour approbation au conseil d'administration puis le communique au comité d'évaluation et de suivi et au ministre de tutelle.
+Il établit le rapport annuel d'activité, le soumet pour approbation au conseil d'administration puis le communique au ministre de tutelle.
