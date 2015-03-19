@@ -1101,7 +1101,6 @@
 - [Arrêté du 14 février 2005 (SOCF0510257A)](arrete-du-14-fevrier-2005-socf0510257a)
 - [Arrêté du 14 février 2005 (SOCF0510258A)](arrete-du-14-fevrier-2005-socf0510258a)
 - [Arrêté du 14 février 2005 (SOCF0510259A)](arrete-du-14-fevrier-2005-socf0510259a)
-- [Arrêté du 14 février 2005 (SOCF0510260A)](arrete-du-14-fevrier-2005-socf0510260a)
 - [Arrêté du 14 janvier 2010 (AGRT1000855A)](arrete-du-14-janvier-2010-agrt1000855a)
 - [Arrêté du 14 janvier 2010 (DEFD1001696A)](arrete-du-14-janvier-2010-defd1001696a)
 - [Arrêté du 14 janvier 2010 (ECED1001072A)](arrete-du-14-janvier-2010-eced1001072a)
