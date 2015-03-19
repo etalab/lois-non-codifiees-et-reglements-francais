@@ -20,6 +20,8 @@ TTL Nordifa SA/Nordifa/Nordifa SA, 3, rue F.-Garnier, 33000 Bordeaux ; puis 270,
 
 Wanner/Wanner Isofi, 2, rue Blanqui, 33000 Bordeaux : de 1967 à 1997 ; Wanner/Wanner Isofi, 1, rue Marcel-Dassault, 33600 Pessac-Alouette : de 1967 à 1997.
 
+Papeteries de Gascogne, Gascogne Paper, Gascogne Sack, Bel Air, BP 8 40201 Mimizan, rue de la Papeterie, BP 10057, 40201 Mimizan, de 1973 à 1986, de 1986 à 1998, de 1986 à 1998.
+
 Auvergne
 
 Amisol, 35, rue du Pré-la-Reine, 63000 Clermont-Ferrand : de 1910 à 1974 ;
@@ -54,7 +56,9 @@ Entreprise du Centre, 35290 Saint-Méen-le-Grand : de 1960 à 1976 ;
 
 Eternit, établissement de Saint-Grégoire, BP 1, 35761 Saint-Grégoire Cedex : de 1962 à 1997 ;
 
-Le Mastic Breton, 35530 Noyal-sur-Vilaine : de 1960 à 1985.
+Le Mastic Breton, 35530 Noyal-sur-Vilaine : de 1960 à 1985 ;
+
+SEAGEM, BP 1, 29223 Saint-Thégonnec, de 1968 jusqu'au 28 février 1987.
 
 Centre
 
@@ -312,7 +316,9 @@ Ferrettite/DCP/Doneco-Ferrettite/Celtite Profilex/DFC/ Covaldi/EPC : Villiers-Sa
 
 Rieter Automotive, 60650 La Chapelle-aux-Pots : de 1960 à 1988 ;
 
-Valeo, espace industriel Nord, 5, rue Roger-Dumoulin, BP 0926, 80009 Amiens Cedex 1 : de 1958 à 1992.
+Valeo, espace industriel Nord, 5, rue Roger-Dumoulin, BP 0926, 80009 Amiens Cedex 1 : de 1958 à 1992 ;
+
+THOMSON, de 1935 à 1954, THOMSON-BRANDT, 128, avenue Jean-Jaurès, BP 30, 02301 Chauny Cedex, de 1954 à 1985, THOMSON CUIVRE, de 1985 à 1988, ALCATEL CUIVRE, de 1989 à 1996, Société de coulée continue de cuivre (SCCC), 42, rue Ferdinand-Buisson, BP 105, 02301 Chauny Cedex, de 1977 à 1996.
 
 Provence-Alpes-Côte d'Azur
 
@@ -718,7 +724,7 @@ SAFT (Société des ateliers et fonderies de Tamaris) puis AHL (Aciéries du hau
 
 SITUB, ZA de Berthet, 219, avenue de l'Hermitage, 30200 Bagnols-sur-Cèze : de 1994 à 1996 ;
 
-Etablissement Jean Richard DUCROS, 12, montée du Silhol, 30100 Alès. Avenue de Croupillac, 30100 Alès.  De 1965 à 1997.
+Etablissement Jean Richard DUCROS, 12, montée du Silhol, 30100 Alès. Avenue de Croupillac, 30100 Alès. De 1965 à 1997.
 
 Limousin
 
