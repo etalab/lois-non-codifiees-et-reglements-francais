@@ -16,7 +16,7 @@ Le premier cycle de formation inclut les formations, telles que définies par ar
 
 7. Certificat de formation de base aux opérations liées à la cargaison des pétroliers et des navires-citernes pour produits chimiques.
 
-8. Certificat attestant la validation de l'enseignement médical de niveau III.
+8. Certificat attestant la validation de l'enseignement médical de niveau II.
 
 9. Attestation de formation au système de visualisation des cartes électroniques et d'information (ECDIS).
 
