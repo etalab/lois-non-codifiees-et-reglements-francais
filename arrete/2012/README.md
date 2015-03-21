@@ -1711,7 +1711,6 @@
 - [Arrêté du 20 novembre 2012 (PROI1238596A)](arrete-du-20-novembre-2012-proi1238596a)
 - [Arrêté du 20 novembre 2012 (TRAT1239411A)](arrete-du-20-novembre-2012-trat1239411a)
 - [Arrêté du 20 septembre 2011 (DEVA1125660A)](arrete-du-20-septembre-2011-deva1125660a)
-- [Arrêté du 20 septembre 2011 (ETSD1123441A)](arrete-du-20-septembre-2011-etsd1123441a)
 - [Arrêté du 20 septembre 2011 (ETSD1123444A)](arrete-du-20-septembre-2011-etsd1123444a)
 - [Arrêté du 20 septembre 2012 (DEVK1234708A)](arrete-du-20-septembre-2012-devk1234708a)
 - [Arrêté du 20 septembre 2012 (OMEO1221518A)](arrete-du-20-septembre-2012-omeo1221518a)
