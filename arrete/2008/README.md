@@ -432,7 +432,6 @@
 - [Arrêté du 14 août 2008 (SJSP0820197A)](arrete-du-14-aout-2008-sjsp0820197a)
 - [Arrêté du 14 août 2008 (SJSP0820218A)](arrete-du-14-aout-2008-sjsp0820218a)
 - [Arrêté du 14 avril 2008 (DEVT0810476A)](arrete-du-14-avril-2008-devt0810476a)
-- [Arrêté du 14 avril 2008 (MAEA0808298A)](arrete-du-14-avril-2008-maea0808298a)
 - [Arrêté du 14 novembre 2002 (AGRR0202457A)](arrete-du-14-novembre-2002-agrr0202457a)
 - [Arrêté du 14 novembre 2008 (AGRS0822589A)](arrete-du-14-novembre-2008-agrs0822589a)
 - [Arrêté du 14 novembre 2008 (AGRS0822591A)](arrete-du-14-novembre-2008-agrs0822591a)
