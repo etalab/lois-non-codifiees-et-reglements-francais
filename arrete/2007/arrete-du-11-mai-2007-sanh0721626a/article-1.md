@@ -6,136 +6,160 @@ L'échelle indiciaire applicable au corps des cadres socio-éducatifs de la fonc
 <tbody>
 <tr>
 <td>
-<p align="center">ÉCHELONS </p>
+<p align="center"> ÉCHELONS </p>
+<p align="center">cadres socio-éducatifs </p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS </p>
+</td>
+<td>
+<p align="center"> ÉCHELONS </p>
+<p align="center">cadres supérieurs socio-éducatifs </p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS </p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="center">
+<br/>8e </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>740 </p>
+</td>
+<td align="left">
 <br/>
-<p align="center">Cadres </p>
+</td>
+<td align="left">
 <br/>
-<p align="center">socio-éducatifs</p>
-</td>
-<td>
-<p align="center">INDICES BRUTS</p>
-</td>
-<td>
-<p align="center">ÉCHELONS </p>
-<br/>
-<p align="center">Cadres supérieurs </p>
-<br/>
-<p align="center">socio-éducatifs</p>
-</td>
-<td>
-<p align="center">INDICES BRUTS</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">8e</p>
+<td align="left">
+<p align="center">
+<br/>7e </p>
 </td>
-<td>
-<p align="center">740</p>
+<td align="left">
+<p align="center">
+<br/>664 </p>
 </td>
-<td>
-<pre> </pre>
+<td align="left">
+<p align="center">
+<br/>7e </p>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e</p>
-</td>
-<td>
-<p align="center">664</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="left">
+<p align="center">
+<br/>801 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">6e</p>
+<td align="left">
+<p align="center">
+<br/>6e </p>
 </td>
-<td>
-<p align="center">627</p>
+<td align="left">
+<p align="center">
+<br/>627 </p>
 </td>
-<td>
-<p align="center">6e</p>
+<td align="left">
+<p align="center">
+<br/>6e </p>
 </td>
-<td>
-<p align="center">780</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e</p>
-</td>
-<td>
-<p align="center">589</p>
-</td>
-<td>
-<p align="center">5e</p>
-</td>
-<td>
-<p align="center">752</p>
+<td align="left">
+<p align="center">
+<br/>780 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">4e</p>
+<td align="left">
+<p align="center">
+<br/>5e </p>
 </td>
-<td>
-<p align="center">558</p>
+<td align="left">
+<p align="center">
+<br/>589 </p>
 </td>
-<td>
-<p align="center">4e</p>
+<td align="left">
+<p align="center">
+<br/>5e </p>
 </td>
-<td>
-<p align="center">700</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e</p>
-</td>
-<td>
-<p align="center">520</p>
-</td>
-<td>
-<p align="center">3e</p>
-</td>
-<td>
-<p align="center">680</p>
+<td align="left">
+<p align="center">
+<br/>752 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">2e</p>
+<td align="left">
+<p align="center">
+<br/>4e </p>
 </td>
-<td>
-<p align="center">480</p>
+<td align="left">
+<p align="center">
+<br/>558 </p>
 </td>
-<td>
-<p align="center">2e</p>
+<td align="left">
+<p align="center">
+<br/>4e </p>
 </td>
-<td>
-<p align="center">651</p>
+<td align="left">
+<p align="center">
+<br/>700 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p align="center">1er</p>
+<td align="left">
+<p align="center">
+<br/>3e </p>
 </td>
-<td rowspan="2">
-<p align="center">430</p>
+<td align="left">
+<p align="center">
+<br/>520 </p>
 </td>
-<td rowspan="2">
-<p align="center">1er</p>
+<td align="left">
+<p align="center">
+<br/>3e </p>
 </td>
-<td rowspan="2">
-<p align="center">625</p>
+<td align="left">
+<p align="center">
+<br/>680 </p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="center">
+<br/>2e </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>480 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>2e </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>651 </p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="center">
+<br/>1er </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>430 </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>1er </p>
+</td>
+<td align="left">
+<p align="center">
+<br/>625</p>
 </td>
 </tr>
 </tbody>

@@ -71,7 +71,7 @@ Les coefficients prévus à l'article 5 du décret du 28 juin 1978 susvisé, app
 </tr>
 <tr>
 <td>
-<p align="left">Elève des écoles d'enseignement technique ou préparatoires âgés de moins de dix sept ans, élève des lycées militaires admis dans les classes préparatoires, au titre de l'aide au recrutement ou sous statut des écoles militaires préparatoires </p>
+<p align="left">Elève des lycées militaires admis dans les classes préparatoires, au titre de l'aide au recrutement ou sous statut des écoles militaires préparatoires </p>
 </td>
 <td>
 <p align="center">0,90 </p>
@@ -79,7 +79,7 @@ Les coefficients prévus à l'article 5 du décret du 28 juin 1978 susvisé, app
 </tr>
 <tr>
 <td>
-<p align="left">Elèves de l'Ecole polytechnique admis à l'école à partir de 2004. </p>
+<p align="left">Elèves de l'Ecole polytechnique admis à l'école à partir de 2004</p>
 </td>
 <td>
 <p align="center">5,43 </p>
@@ -94,11 +94,19 @@ Les coefficients prévus à l'article 5 du décret du 28 juin 1978 susvisé, app
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td align="left" valign="top">
 <p align="left">Volontaire, stagiaire du service militaire adapté, en service en métropole, dans un département d'outre-mer, dans un territoire ou une collectivité territoriale d'outre-mer </p>
 </td>
-<td rowspan="2">
+<td align="left" valign="top">
 <p align="center">3,77</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Elèves des écoles d'enseignement technique ou préparatoire non nommés dans un grade</p>
+</td>
+<td>
+<p align="center">0,98</p>
 </td>
 </tr>
 </tbody>
