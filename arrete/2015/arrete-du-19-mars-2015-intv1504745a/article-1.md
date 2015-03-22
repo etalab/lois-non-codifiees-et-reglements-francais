@@ -1,0 +1,3 @@
+# Article 1
+
+L'autorité administrative compétente, en application des articles 15, 35 et 53 du décret du 30 décembre 1993 susvisé, pour recevoir les demandes de naturalisation, de réintégration dans la nationalité française ou d'autorisation de perdre la nationalité française ainsi que les déclarations de nationalité française à raison du mariage, est désignée, selon le lieu de résidence du demandeur ou du déclarant, conformément au tableau annexé au présent arrêté. Ce tableau fixe également, pour chaque département, chaque collectivité d'outre-mer et la Nouvelle-Calédonie, la date d'entrée en vigueur mentionnée à l'article 11 du décret n° 2015-316 du 19 mars 2015 susvisé.
