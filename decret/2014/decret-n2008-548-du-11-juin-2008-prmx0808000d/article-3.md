@@ -1,0 +1,11 @@
+# Article 3
+
+Outre les missions mentionnées à l'article 1er, la commission exerce les attributions suivantes :
+
+1° Au titre de la période de programmation 2007-2013 :
+
+a) Elle est chargée d'établir les rapports et l'avis de conformité prévus à l'article 71 des règlements (CE) des 11 et 27 juillet 2006 susvisés ainsi que de contrôler les rapports d'exécution et les états justificatifs des dépenses prévus à l'article 15 du règlement (CE) du 20 décembre 2006 susvisé ;
+
+b) Elle est l'autorité compétente pour établir le résumé des audits et déclarations disponibles en application de l'article 53 ter du règlement (CE, Euratom) du 25 juin 2002 susvisé ainsi que pour assurer les fonctions d'audit de la gestion des "programmes opérationnels conjoints" financés par l'instrument européen de voisinage et de partenariat, en application de l'article 10 du règlement (CE) du 24 octobre 2006 susvisé ;
+
+2° Au titre de la programmation 2014-2020 et pour les fonds européens relevant de sa compétence, la commission est l'organisme d'audit indépendant chargé de produire les rapports et avis servant de base à la désignation des autorités de gestion et de certification des fonds européens en application de l'article 124 du règlement (UE) n° 1303/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen, au Fonds de cohésion, au Fonds européen agricole pour le développement rural et au Fonds européen pour les affaires maritimes et la pêche, portant dispositions générales applicables au Fonds européen de développement régional, au Fonds social européen, au Fonds de cohésion et au Fonds européen pour les affaires maritimes et la pêche, et abrogeant le règlement (CE) n° 1083/2006 du Conseil, de l'article 35 du règlement (UE) n° 223/2014 du Parlement européen et du Conseil du 11 mars 2014 relatif au Fonds européen d'aide aux plus démunis, et de l'article 26 du règlement (UE) n° 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au fonds "Asile, migration et intégration" et à l'instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu'à la gestion des crises.
