@@ -853,7 +853,7 @@ A compter de l'année 2006, le Gouvernement remet tous les trois ans au Parlemen
 
 - à l'évolution annuelle, pour chaque département, d'un ratio harmonisé rapportant le nombre des allocataires du revenu minimum d'insertion, des allocataires du revenu de solidarité et des bénéficiaires du revenu minimum d'activité au montant de la dépense effectuée au titre de l'exercice des politiques publiques transférées par la loi n° 2003-1200 du 18 décembre 2003 précitée ;
 
-- au bilan de la gestion administrative et financière de ces politiques publiques par chaque département, sous la forme d'indicateurs annuels de résultats harmonisés et renseignés par des informations transmises par les conseils généraux ;
+- au bilan de la gestion administrative et financière de ces politiques publiques par chaque département, sous la forme d'indicateurs annuels de résultats harmonisés et renseignés par des informations transmises par les conseils départementaux ;
 
 - à l'analyse des variations annuelles selon les départements du nombre des allocataires du revenu minimum d'insertion, des allocataires du revenu de solidarité et des bénéficiaires du revenu minimum d'activité.
 
