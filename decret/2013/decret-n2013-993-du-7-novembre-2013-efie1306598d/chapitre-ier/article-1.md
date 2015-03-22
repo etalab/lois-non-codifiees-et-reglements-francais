@@ -4,7 +4,7 @@ I. ― Les membres de la commission départementale des valeurs locatives des lo
 
 II. ― Les membres du conseil de Paris sont désignés par celui-ci, siégeant en formation de conseil général, dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
 
-Les membres du conseil général sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers généraux.
+Les membres du conseil départemental sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers généraux.
 
 Les maires sont désignés par l'association départementale des maires dans les deux mois qui suivent le renouvellement général des conseils municipaux. La durée de leur mandat est la même que celle du mandat des conseillers municipaux.
 
