@@ -6,4 +6,4 @@ Indices bruts :
 
 - cadre socio-éducatif : 430-740 ;
 
-- cadre supérieur socio-éducatif : 625-780.
+- cadre supérieur socio-éducatif : 625-801.
