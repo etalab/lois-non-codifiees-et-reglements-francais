@@ -2,7 +2,7 @@
 
 Les massifs de montagne s'étendant sur plusieurs régions font l'objet de politiques interrégionales. Ces politiques sont retracées dans un schéma interrégional d'aménagement et de développement de massif qui constitue le document d'orientation stratégique du massif.
 
-Ce schéma est préparé par le comité de massif et approuvé par les conseils régionaux concernés, après avis des conseils généraux concernés. Le schéma interrégional d'aménagement et de développement de massif peut donner lieu à des déclinaisons thématiques. Notamment, il peut être élaboré, à l'initiative des professionnels de la forêt et du bois, un schéma stratégique de massif forestier ayant principalement pour objet de préciser, dans une perspective à moyen terme, les objectifs et les actions concourant à :
+Ce schéma est préparé par le comité de massif et approuvé par les conseils régionaux concernés, après avis des conseils départementaux concernés. Le schéma interrégional d'aménagement et de développement de massif peut donner lieu à des déclinaisons thématiques. Notamment, il peut être élaboré, à l'initiative des professionnels de la forêt et du bois, un schéma stratégique de massif forestier ayant principalement pour objet de préciser, dans une perspective à moyen terme, les objectifs et les actions concourant à :
 
 -la mobilisation de la ressource forestière ;
 

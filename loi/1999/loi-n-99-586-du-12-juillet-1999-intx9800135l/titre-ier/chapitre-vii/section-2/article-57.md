@@ -1,10 +1,10 @@
 # Article 57
 
-I. - Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10 du code général des collectivités territoriales, les délégués des communes au conseil de la communauté de villes conservent leur mandat, pour la durée de celui-ci restant à courir, au conseil de la communauté d'agglomération ou de la communauté de communes selon le cas.
+I.-Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10 du code général des collectivités territoriales, les délégués des communes au conseil de la communauté de villes conservent leur mandat, pour la durée de celui-ci restant à courir, au conseil de la communauté d'agglomération ou de la communauté de communes selon le cas.
 
-II. - Les communautés de villes existant à la date de publication de la présente loi sont régies, jusqu'à la date d'effet de leur transformation en application des dispositions de l'article 56, par les dispositions de l'article L. 5210-2 et du chapitre Ier du titre Ier du livre II de la cinquième partie du code général des collectivités territoriales ainsi que par les dispositions suivantes :
+II.-Les communautés de villes existant à la date de publication de la présente loi sont régies, jusqu'à la date d'effet de leur transformation en application des dispositions de l'article 56, par les dispositions de l'article L. 5210-2 et du chapitre Ier du titre Ier du livre II de la cinquième partie du code général des collectivités territoriales ainsi que par les dispositions suivantes :
 
-A. - Organisation et fonctionnement :
+A.-Organisation et fonctionnement :
 
 A défaut d'accord amiable entre les conseils municipaux intervenu dans un délai de trois mois à compter de la publication de l'arrêté fixant le périmètre de la communauté, la répartition des sièges au sein du conseil de communauté est assurée en fonction de la population à la représentation à la plus forte moyenne. Dans ce cas, le nombre total des sièges à répartir est déterminé par application des dispositions de l'article L. 5215-6 du même code et est augmenté, après répartition, de façon à ce que chaque commune dispose au moins d'un siège et à ce qu'aucune ne dispose de plus de la moitié des sièges.
 
@@ -12,11 +12,11 @@ La désignation des délégués de chaque commune au conseil de communauté est 
 
 Les décisions du conseil de communauté dont les effets ne concernent qu'une seule des communes membres ne peuvent être prises qu'après avis du conseil municipal de cette commune. S'il n'a pas été rendu dans un délai de deux mois à compter de la transmission du projet de la communauté, l'avis est réputé favorable. Lorsque cet avis est défavorable, la décision doit être prise à la majorité des deux tiers des membres du conseil de communauté.
 
-B. - Conditions d'exercice du mandat de membre du conseil de communauté :
+B.-Conditions d'exercice du mandat de membre du conseil de communauté :
 
 Les dispositions du chapitre III du titre II du livre Ier de la deuxième partie du code général des collectivités territoriales relatives à l'exercice des mandats municipaux ainsi que celles de l'article L. 5215-17 du même code sont applicables aux membres du conseil de communauté.
 
-C. - Compétences :
+C.-Compétences :
 
 1° La communauté de villes exerce de plein droit au lieu et place des communes membres, pour la conduite d'actions d'intérêt communautaire, les compétences relevant de chacun des deux groupes suivants :
 
@@ -42,7 +42,7 @@ La définition des compétences transférées au sein de chacun de ces groupes e
 
 5° Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont achevées les opérations décidées par les communes, les syndicats de communes ou les districts avant le transfert de compétences, notamment en ce qui concerne le financement de ces opérations.
 
-D. - Dispositions financières :
+D.-Dispositions financières :
 
 Les recettes du budget de la communauté de villes comprennent :
 
@@ -64,7 +64,7 @@ Les recettes du budget de la communauté de villes comprennent :
 
 Les garanties accordées et les subventions et annuités attribuées par les départements en faveur des communes ou groupements pour la réalisation d'ouvrages faisant l'objet d'un transfert se trouvent reportées sur la communauté de villes malgré toutes dispositions conventionnelles contraires.
 
-E. - Représentation-substitution :
+E.-Représentation-substitution :
 
 La communauté de villes est substituée de plein droit, pour les compétences qu'ils exercent, aux syndicats de communes ou districts préexistants dont le périmètre est identique au sien.
 
@@ -72,17 +72,17 @@ La communauté de villes est substituée, pour l'exercice des compétences qu'el
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles peuvent être dévolues à une communauté de villes des compétences exercées antérieurement par un syndicat de communes inclus en tout ou en partie dans le périmètre de la communauté ou englobant celle-ci.
 
-F. - Dissolution :
+F.-Dissolution :
 
 La communauté de villes peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble, statuant à la majorité des deux tiers au moins des conseils municipaux des communes intéressées représentant plus des trois quarts de la population totale de celles-ci, ou des trois quarts des conseils municipaux des communes intéressées représentant plus des deux tiers de la population totale, cette majorité devant nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la population totale concernée.
 
 La dissolution est prononcée par décret en conseil des ministres.
 
-Un décret en Conseil d'Etat détermine, sous réserve du droit des tiers, les conditions dans lesquelles la communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens, droits et obligations, après l'avis d'une commission dont la composition est fixée par arrêté du ministre de l'intérieur et qui comprend notamment des maires et des conseillers généraux.
+Un décret en Conseil d'Etat détermine, sous réserve du droit des tiers, les conditions dans lesquelles la communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens, droits et obligations, après l'avis d'une commission dont la composition est fixée par arrêté du ministre de l'intérieur et qui comprend notamment des maires et des conseillers départementaux.
 
 Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, après avis des commissions administratives paritaires compétentes, sans qu'il puisse être procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de coopération attributaires supportent les charges financières correspondantes. Un décret en Conseil d'Etat fixe les conditions et les modalités de cette répartition.
 
-G. - Retrait d'une commune :
+G.-Retrait d'une commune :
 
 Le troisième alinéa de l'article L. 5211-19 du code général des collectivités territoriales ne s'applique pas aux cas de retrait d'une commune d'une communauté de villes pour adhérer à une communauté d'agglomération ou à un établissement public de coopération intercommunale qui a décidé de se transformer en communauté d'agglomération.
 

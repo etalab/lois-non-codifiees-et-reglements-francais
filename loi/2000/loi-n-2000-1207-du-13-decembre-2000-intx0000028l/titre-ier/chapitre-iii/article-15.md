@@ -1,8 +1,8 @@
 # Article 15
 
-I. - Afin de favoriser l'embauche de jeunes dans les départements d'outre-mer par la cessation d'activité de salariés âgés, l'Etat, le conseil régional ou le conseil général, ainsi que les organisations syndicales d'employeurs et de salariés représentatives dans le département peuvent passer une convention-cadre aux fins de la mise en place d'un dispositif dénommé congé-solidarité.
+I. - Afin de favoriser l'embauche de jeunes dans les départements d'outre-mer par la cessation d'activité de salariés âgés, l'Etat, le conseil régional ou le conseil départemental, ainsi que les organisations syndicales d'employeurs et de salariés représentatives dans le département peuvent passer une convention-cadre aux fins de la mise en place d'un dispositif dénommé congé-solidarité.
 
-La convention-cadre fixe les engagements respectifs de l'Etat, du conseil régional et du conseil général.
+La convention-cadre fixe les engagements respectifs de l'Etat, du conseil régional et du conseil départemental.
 
 La convention-cadre doit être conclue au plus tard le 31 décembre 2001. Elle désigne, avec son accord, l'organisme gestionnaire de l'allocation de congé-solidarité.
 

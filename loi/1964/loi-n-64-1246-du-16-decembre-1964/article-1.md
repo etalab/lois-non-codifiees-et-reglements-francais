@@ -6,6 +6,6 @@ Des zones de lutte contre les moustiques sont délimitées par arrêté préfect
 
 2° Dans les départements où les moustiques constituent une menace pour la santé de la population et dont la liste est fixée par arrêté conjoint du ministre en charge de la santé et du ministre en charge de l'environnement ;
 
-3° En cas de besoin, dans les départements dont les conseils généraux le demanderaient.
+3° En cas de besoin, dans les départements dont les conseils départementaux le demanderaient.
 
 A l'intérieur de ces zones, les services du département sont autorisés à procéder d'office aux prospections, traitements, travaux et contrôles nécessaires à cette action. Lorsque le département confie la réalisation de ces opérations à un organisme de droit public, les agents de cet organisme disposent, pour l'exercice de ces missions, des mêmes compétences que les agents du département.

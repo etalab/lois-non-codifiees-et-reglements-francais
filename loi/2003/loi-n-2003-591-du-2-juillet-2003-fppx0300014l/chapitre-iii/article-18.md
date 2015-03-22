@@ -16,4 +16,4 @@ Dans les conditions prévues à l'article 38 de la Constitution et afin de facil
 
 7° Modifier les modalités de convocation des électeurs pour les élections municipales et pour les élections législatives ;
 
-8° Aligner le régime de démission d'office des conseillers généraux, des conseillers régionaux et des conseillers de Corse sur celui des conseillers municipaux.
+8° Aligner le régime de démission d'office des conseillers départementaux, des conseillers régionaux et des conseillers de Corse sur celui des conseillers municipaux.

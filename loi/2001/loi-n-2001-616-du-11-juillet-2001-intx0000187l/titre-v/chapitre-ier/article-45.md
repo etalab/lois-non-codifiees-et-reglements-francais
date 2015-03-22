@@ -8,4 +8,4 @@ II. - La chambre professionnelle de Mayotte continue d'exercer ses compétences 
 
 III. - A la date de mise en place effective de chacune des chambres mentionnées au I, les dispositions qui sont applicables dans les départements d'outre-mer à la même catégorie de chambres s'appliquent à Mayotte, sous réserve des règles relatives aux modalités de financement de ces établissements publics et sous réserve des adaptations transitoires fixées par le décret en Conseil d'Etat portant création des trois chambres mentionnées au I.
 
-Un décret fixe les modalités de répartition entre les trois établissements publics des ressources que le conseil général de Mayotte leur affecte.
+Un décret fixe les modalités de répartition entre les trois établissements publics des ressources que le conseil départemental de Mayotte leur affecte.

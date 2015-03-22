@@ -2,9 +2,9 @@
 
 Dans les entreprises mentionnées à l'article 1er, il peut être institué une commission consultative dans chaque établissement de plus de 200 salariés. Cette commission est composée :
 
-- de représentants de la commune, du conseiller général du canton et des parlementaires intéressés ;
+-de représentants de la commune, du conseiller départemental du canton et des parlementaires intéressés ;
 
-- de représentants du comité d'établissement ou du comité d'entreprise.
+-de représentants du comité d'établissement ou du comité d'entreprise.
 
 Elle est présidée par le chef d'établissement assisté de collaborateurs choisis par lui.
 

@@ -6,7 +6,7 @@ Un représentant du ministre chargé de l'information, président de la commissi
 
 Un représentant du ministre chargé de l'économie nationale et des finances ;
 
-Un délégué de chacun des conseils généraux des départements compris en totalité ou partiellement dans la région ;
+Un délégué de chacun des conseils départementaux des départements compris en totalité ou partiellement dans la région ;
 
 Trois représentants des directeurs de journaux ;
 

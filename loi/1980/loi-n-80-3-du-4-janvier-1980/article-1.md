@@ -2,7 +2,7 @@
 
 La Compagnie nationale du Rhône a notamment pour mission, dans le cadre de la concession générale accordée par l'Etat, de produire et de commercialiser de l'électricité par utilisation de la puissance hydraulique, de favoriser l'utilisation du Rhône comme voie navigable en poursuivant son aménagement et de contribuer à l'irrigation, à l'assainissement et aux autres usages agricoles.
 
-Un cahier des charges définit et précise les missions d'intérêt général qui lui sont confiées. Ce cahier des charges est approuvé par décret après avis des conseils généraux et régionaux concernés. Ces avis sont réputés favorables à l'issue d'un délai de quatre mois à compter de la transmission du projet de cahier des charges aux conseils généraux et aux conseils régionaux intéressés.
+Un cahier des charges définit et précise les missions d'intérêt général qui lui sont confiées. Ce cahier des charges est approuvé par décret après avis des conseils départementaux et régionaux concernés. Ces avis sont réputés favorables à l'issue d'un délai de quatre mois à compter de la transmission du projet de cahier des charges aux conseils départementaux et aux conseils régionaux intéressés.
 
 La Compagnie générale du Rhône est une société anonyme dont la majorité du capital social et des droits de vote est détenue par des collectivités territoriales ainsi que par d'autres personnes morales de droit public ou des entreprises appartenant au secteur public.
 

@@ -1,6 +1,6 @@
 # Article 7
 
-Sont habilités, à leur demande, à participer à la campagne les partis et groupements politiques auxquels ont déclaré se rattacher trois élus au moins parmi les parlementaires et les conseillers généraux élus en Corse, le président, les membres du conseil exécutif et les conseillers de l'Assemblée de Corse.
+Sont habilités, à leur demande, à participer à la campagne les partis et groupements politiques auxquels ont déclaré se rattacher trois élus au moins parmi les parlementaires et les conseillers départementaux élus en Corse, le président, les membres du conseil exécutif et les conseillers de l'Assemblée de Corse.
 
 Les demandes d'habilitation sont présentées auprès du représentant de l'Etat dans la collectivité territoriale de Corse, au plus tard le troisième lundi précédant le scrutin à 17 heures. Elles sont accompagnées de déclarations individuelles de rattachement à ces partis ou groupements signées par les élus intéressés.
 
