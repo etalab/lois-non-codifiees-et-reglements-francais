@@ -6,7 +6,7 @@ Les vice-présidents sont répartis de la façon suivante :
 
 ― trois représentants du conseil régional ;
 
-― quatre représentants des conseils généraux ;
+― quatre représentants des conseils départementaux ;
 
 ― cinq représentants des établissements publics de coopération intercommunale à fiscalité propre.
 
