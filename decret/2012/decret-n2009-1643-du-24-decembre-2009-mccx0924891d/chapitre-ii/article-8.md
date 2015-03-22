@@ -12,7 +12,7 @@ Le conseil d'administration comprend quinze membres :
 
 ― le préfet d'Ile-de-France ou son représentant ;
 
-2° Le président du conseil général des Hauts-de-Seine ou son représentant ;
+2° Le président du conseil départemental des Hauts-de-Seine ou son représentant ;
 
 3° Le maire de Sèvres ou son représentant ;
 

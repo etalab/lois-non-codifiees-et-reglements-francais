@@ -14,7 +14,7 @@ Sept représentants des départements ministériels concernés :
 
 -un représentant du ministre chargé de l'emploi et de la formation professionnelle ;
 
--un représentant du Commissariat général à l'égalité des territoires ;
+-un représentant du secrétariat général du comité interministériel des villes ;
 
 -un représentant du ministre chargé de la jeunesse ;
 
@@ -36,7 +36,7 @@ Six représentants des collectivités territoriales :
 
 -un maire ou un responsable territorial en charge des politiques sociales, désigné par l'Association des maires de France (AMF) ;
 
--un président de conseil général ou un responsable des politiques sociales, désigné par l'Assemblée des départements de France (ADF) ;
+-un président de conseil départemental ou un responsable des politiques sociales, désigné par l'Assemblée des départements de France (ADF) ;
 
 -un élu membre du conseil régional ou un responsable des politiques sociales, désigné par l'Association des régions de France (ARF) ;
 

@@ -1,10 +1,10 @@
 # Article 12
 
-La composition des instances locales prévues à l'article 4 de la loi du 31 mai 1990 susvisée, et désignées par le plan, est arrêtée par arrêté conjoint du préfet et du président du conseil général.
+La composition des instances locales prévues à l'article 4 de la loi du 31 mai 1990 susvisée, et désignées par le plan, est arrêtée par arrêté conjoint du préfet et du président du conseil départemental.
 
-Elles sont présidées par un représentant de l'Etat ou par un représentant du conseil général ou par un représentant de l'établissement public de coopération intercommunale compétent en matière d'habitat lorsque le périmètre de l'instance locale est celui de l'établissement public et qu'il a conclu une convention de délégation selon les modalités prévues à l'article L. 301-5-1 du code de la construction et de l'habitation.
+Elles sont présidées par un représentant de l'Etat ou par un représentant du conseil départemental ou par un représentant de l'établissement public de coopération intercommunale compétent en matière d'habitat lorsque le périmètre de l'instance locale est celui de l'établissement public et qu'il a conclu une convention de délégation selon les modalités prévues à l'article L. 301-5-1 du code de la construction et de l'habitation.
 
-Outre un représentant de l'Etat et un représentant du conseil général, elles comprennent les représentants des organismes compétents dans le périmètre de l'instance et notamment :
+Outre un représentant de l'Etat et un représentant du conseil départemental, elles comprennent les représentants des organismes compétents dans le périmètre de l'instance et notamment :
 
 ― le cas échéant, le représentant de l'établissement public de coopération intercommunale ayant conclu, en application de l'article L. 301-5-1 du code de la construction et de l'habitation, une convention avec l'Etat ;
 
@@ -36,6 +36,6 @@ b) Par le comité responsable du plan :
 
 ― la mise en oeuvre de tout ou partie des missions de la commission spécialisée de coordination des actions de prévention des expulsions locatives, prévue à l'article 4 de la loi du 31 mai 1990 susvisée ;
 
-c) Par le président du conseil général ou le responsable d'un fonds local, l'octroi des aides prévues par le fonds de solidarité pour le logement ou le fonds local ;
+c) Par le président du conseil départemental ou le responsable d'un fonds local, l'octroi des aides prévues par le fonds de solidarité pour le logement ou le fonds local ;
 
 d) La mise en oeuvre d'actions complémentaires décidées sur le territoire concerné.

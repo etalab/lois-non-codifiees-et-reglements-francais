@@ -20,7 +20,7 @@ f) Le recteur de l'académie d'Aix-Marseille ou son représentant ;
 
 a) Le maire de Marseille ou son représentant ;
 
-b) Le président du conseil général des Bouches-du-Rhône ou son représentant ;
+b) Le président du conseil départemental des Bouches-du-Rhône ou son représentant ;
 
 c) Le président du conseil régional Provence-Alpes-Côte d'Azur ou son représentant ;
 

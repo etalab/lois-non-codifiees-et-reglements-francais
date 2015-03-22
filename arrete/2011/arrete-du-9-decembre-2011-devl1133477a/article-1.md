@@ -4,11 +4,11 @@ Sont nommés membres de la commission consultative de l'établissement public du
 
 I. ― Au titre des collectivités territoriales ainsi que de leurs groupements, établissements publics et syndicats mixtes :
 
-1° Le président du conseil général de Vendée ou son représentant ;
+1° Le président du conseil départemental de Vendée ou son représentant ;
 
-2° Le président du conseil général des Deux-Sèvres ou son représentant ;
+2° Le président du conseil départemental des Deux-Sèvres ou son représentant ;
 
-3° Le président du conseil général de la Charente-Maritime ou son représentant ;
+3° Le président du conseil départemental de la Charente-Maritime ou son représentant ;
 
 4° Le président de l'institution interdépartementale du bassin de la Sèvre niortaise (IIBSN) ou son représentant ;
 

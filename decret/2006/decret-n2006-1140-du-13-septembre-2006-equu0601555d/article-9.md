@@ -4,6 +4,6 @@ Le conseil d'administration élit un président pour six ans parmi les représen
 
 Le conseil d'administration désigne également les membres ayant voie délibérative qui, avec le président et les deux vice-présidents, constituent le bureau.
 
-Le conseil d'administration fixe le nombre de membres du bureau, qui comporte au moins un représentant de chacun des conseils généraux et un nombre égal de représentants du conseil régional.
+Le conseil d'administration fixe le nombre de membres du bureau, qui comporte au moins un représentant de chacun des conseils départementaux et un nombre égal de représentants du conseil régional.
 
 Les vice-présidents suppléent dans l'ordre de leur nomination le président, en cas d'absence ou d'empêchement.

@@ -14,7 +14,7 @@ c) Un directeur régional des affaires culturelles ;
 
 a) Un maire ou un conseiller municipal, désigné par le président de l'Association des maires de France ;
 
-b) Un président de conseil général ou un conseiller général, désigné par le président de l'Assemblée des départements de France ;
+b) Un président de conseil départemental ou un conseiller départemental, désigné par le président de l'Assemblée des départements de France ;
 
 c) Un président de conseil régional ou un conseiller régional, désigné par le président de l'Association des régions de France ;
 
@@ -30,4 +30,4 @@ La liste des organisations professionnelles représentatives mentionnées au 3°
 
 Pour chacun des membres mentionnés aux 1°, 2° et 5°, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
-Le directeur, le président du conseil d'orientation,        le contrôleur budgétaire et l'agent comptable, ainsi que toute personne dont le président souhaite recueillir l'avis, assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur, le président du conseil d'orientation, le contrôleur budgétaire et l'agent comptable, ainsi que toute personne dont le président souhaite recueillir l'avis, assistent aux séances du conseil d'administration avec voix consultative.

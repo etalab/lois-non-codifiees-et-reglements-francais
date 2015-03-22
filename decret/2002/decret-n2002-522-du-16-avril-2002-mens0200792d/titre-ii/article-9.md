@@ -12,7 +12,7 @@ Dix-huit membres de droit :
 
 -le président du conseil régional Midi-Pyrénées ou son représentant ;
 
--les présidents des conseils généraux de l'Aveyron, du Lot et du Tarn ou leurs représentants ;
+-les présidents des conseils départementaux de l'Aveyron, du Lot et du Tarn ou leurs représentants ;
 
 -le maire de la ville d'Albi ou son représentant ;
 
@@ -22,7 +22,7 @@ Dix-huit membres de droit :
 
 -le président de la communauté d'agglomération du Grand Rodez ou son représentant ;
 
--le président du    conseil économique, social et environnemental régional ou son représentant.
+-le président du conseil économique, social et environnemental régional ou son représentant.
 
 Six personnalités extérieures désignées par le recteur d'académie dont deux représentants des organisations économiques et sociales, soit un représentant des organisations d'employeurs et un représentant des organismes de salariés.
 

@@ -36,9 +36,9 @@ c) Cinq représentants des établissements publics de coopération intercommunal
 
 d) Le président du conseil régional de la région Midi-Pyrénées et le président du conseil régional de la région Aquitaine ;
 
-e) Le président du conseil général des Hautes-Pyrénées, le président du conseil général des Pyrénées-Atlantiques ;
+e) Le président du conseil départemental des Hautes-Pyrénées, le président du conseil départemental des Pyrénées-Atlantiques ;
 
-f) Cinq conseillers généraux désignés par leur assemblée, dont trois pour le département des Hautes-Pyrénées.
+f) Cinq conseillers départementaux désignés par leur assemblée, dont trois pour le département des Hautes-Pyrénées.
 
 3° Dix-sept personnalités :
 
@@ -72,7 +72,7 @@ c) Cinq personnalités à compétence nationale :
 
 4° Un représentant du personnel élu avec son suppléant par le personnel permanent de l'établissement public du parc.
 
-II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent. Les maires mentionnés au a du 2° du I et les présidents des conseils régionaux et des conseils généraux, les conseillers généraux et les maires peuvent se faire suppléer par un élu de la même assemblée délibérante. Les autres représentants des collectivités territoriales peuvent se faire suppléer par un élu désigné dans les mêmes conditions.
+II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent. Les maires mentionnés au a du 2° du I et les présidents des conseils régionaux et des conseils départementaux, les conseillers départementaux et les maires peuvent se faire suppléer par un élu de la même assemblée délibérante. Les autres représentants des collectivités territoriales peuvent se faire suppléer par un élu désigné dans les mêmes conditions.
 
 Les membres mentionnés au 3° peuvent donner mandat à un autre membre du conseil d'administration.
 

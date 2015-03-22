@@ -18,7 +18,7 @@ Le conseil d'administration des Thermes nationaux d'Aix-les-Bains comprend quinz
 
 -une personnalité choisie en raison de sa compétence en matière de thermalisme, sur proposition du ministre chargé de la santé ;
 
--le président du conseil général de la Savoie ou son représentant, désigné par le conseil général en son sein ;
+-le président du conseil départemental de la Savoie ou son représentant, désigné par le conseil départemental en son sein ;
 
 -le maire de la commune d'Aix-les-Bains ou son représentant, désigné par le conseil municipal en son sein ;
 
@@ -34,4 +34,4 @@ Tout membre mentionné au 3° dont le siège devient vacant pour quelque cause q
 
 Le mandat de ce nouveau membre expire à la date à laquelle aurait normalement pris fin celui de son prédécesseur.
 
-Le préfet de la Savoie ou son représentant, le        contrôleur budgétaire, le directeur général et l'agent comptable de l'établissement assistent aux séances du conseil d'administration.
+Le préfet de la Savoie ou son représentant, le contrôleur budgétaire, le directeur général et l'agent comptable de l'établissement assistent aux séances du conseil d'administration.

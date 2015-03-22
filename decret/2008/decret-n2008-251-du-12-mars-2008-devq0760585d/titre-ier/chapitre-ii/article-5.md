@@ -8,7 +8,7 @@ a) Des députés et des sénateurs élus dans le ou les départements intéress�
 
 b) Des conseillers régionaux de la ou des régions intéressées désignés par leur conseil régional ;
 
-c) Des conseillers généraux du ou des départements intéressés désignés par leur assemblée ;
+c) Des conseillers départementaux du ou des départements intéressés désignés par leur assemblée ;
 
 d) Des conseillers municipaux désignés par leur conseil municipal ou des membres de l'assemblée délibérante de groupements de communes désignés par leur assemblée. Chaque commune intéressée doit disposer d'au moins un représentant soit directement soit par l'intermédiaire d'un groupement de communes dont elle est membre ;
 

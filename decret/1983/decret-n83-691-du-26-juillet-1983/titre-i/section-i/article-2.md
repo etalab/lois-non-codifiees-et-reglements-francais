@@ -12,7 +12,7 @@ La commission régionale des études médicales comprend :
 
 5° Deux conseillers régionaux ;
 
-6° Trois conseillers généraux ;
+6° Trois conseillers départementaux ;
 
 7° Un médecin conseil de la caisse régionale d'assurance maladie des travailleurs salariés, désigné par le conseil d'administration de la caisse ;
 

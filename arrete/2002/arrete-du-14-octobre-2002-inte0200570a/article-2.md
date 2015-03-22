@@ -6,9 +6,9 @@ Pendant la période de conception et de construction des locaux et jusqu'à la d
 
 -le président ou le directeur de l'établissement, lorsque l'opération est réalisée sous la maîtrise d'ouvrage de l'établissement ;
 
--le maire, le président du conseil général, le président du conseil régional ou le président du groupement de collectivités territoriales, quand la maîtrise d'ouvrage a été confiée par l'Etat à une collectivité territoriale ou à un groupement de collectivités territoriales ;
+-le maire, le président du conseil départemental, le président du conseil régional ou le président du groupement de collectivités territoriales, quand la maîtrise d'ouvrage a été confiée par l'Etat à une collectivité territoriale ou à un groupement de collectivités territoriales ;
 
--le président du conseil général, lorsque le département a passé avec l'Etat une convention afin de continuer à exercer ses responsabilités à l'égard des biens affectés aux instituts universitaires de formation des maîtres.
+-le président du conseil départemental, lorsque le département a passé avec l'Etat une convention afin de continuer à exercer ses responsabilités à l'égard des biens affectés aux instituts universitaires de formation des maîtres.
 
 Le fonctionnaire ou l'agent ainsi désigné :
 

@@ -36,7 +36,7 @@ La commission interrégionale des abattoirs comprend :
 
 ― le ou les présidents de conseil régional concernés ou leur représentant ;
 
-― un ou plusieurs présidents de conseil général ou leur représentant ;
+― un ou plusieurs présidents de conseil départemental ou leur représentant ;
 
 ― un ou plusieurs présidents des chambres d'agriculture ou leur représentant ;
 

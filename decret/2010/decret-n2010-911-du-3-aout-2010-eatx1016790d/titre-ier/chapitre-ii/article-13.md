@@ -16,7 +16,7 @@ Il comprend :
 
 6° Un représentant de la ville de Paris désigné par le conseil de Paris ;
 
-7° Un représentant des départements de Seine-et-Marne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise, chacun d'eux étant désigné par l'assemblée délibérante du conseil général.
+7° Un représentant des départements de Seine-et-Marne, des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et du Val-d'Oise, chacun d'eux étant désigné par l'assemblée délibérante du conseil départemental.
 
 Les membres des catégories 1° à 4° sont nommés par arrêté conjoint des ministres de tutelle.
 

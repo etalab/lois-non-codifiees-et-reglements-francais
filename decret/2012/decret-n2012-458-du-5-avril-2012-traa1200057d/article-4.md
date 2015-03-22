@@ -6,7 +6,7 @@
 
 ― le président du conseil régional de Bretagne ;
 
-― le président du conseil général de la Loire-Atlantique ;
+― le président du conseil départemental de la Loire-Atlantique ;
 
 ― le président de la communauté urbaine de Nantes-Métropole ;
 

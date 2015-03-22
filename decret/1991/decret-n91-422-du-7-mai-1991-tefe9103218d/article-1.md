@@ -20,7 +20,7 @@ b) Cinq élus proposés par les associations d'élus dont :
 
 - un représentant des présidents de conseil régional et des conseillers régionaux sur proposition de l'Association des régions de France ;
 
-- un représentant des présidents de conseil général et des conseillers généraux, sur proposition de l'Assemblée des départements de France ;
+- un représentant des présidents de conseil départemental et des conseillers généraux, sur proposition de l'Assemblée des départements de France ;
 
 - un représentant des maires et des conseillers municipaux sur proposition de l'Association des maires de France ;
 

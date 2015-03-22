@@ -6,11 +6,11 @@ Le conseil d'administration des écoles nationales d'ingénieurs comprend 24 mem
 
 -le président du conseil régional de la région dans laquelle l'établissement a son siège ou son représentant ;
 
--le président du conseil général du département dans lequel l'établissement a son siège ou son représentant ;
+-le président du conseil départemental du département dans lequel l'établissement a son siège ou son représentant ;
 
 -le maire de la ville dans laquelle l'établissement a son siège ou son représentant ;
 
--le président de la      chambre de commerce et d'industrie territoriale dans le ressort de laquelle se trouve l'établissement ou son représentant ;
+-le président de la chambre de commerce et d'industrie territoriale dans le ressort de laquelle se trouve l'établissement ou son représentant ;
 
 -un président ou un directeur d'établissement public à caractère scientifique, culturel et professionnel ou son représentant ;
 

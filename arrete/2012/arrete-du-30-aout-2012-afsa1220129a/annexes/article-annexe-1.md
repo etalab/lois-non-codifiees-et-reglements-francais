@@ -12,11 +12,11 @@ Le secteur des services d'aide à domicile est actuellement confronté à d'impo
 
 L'article 150-II de la loi de finances n° 2011-1977 du 28 décembre 2011 de finances pour 2012 dispose :
 
-" Des expérimentations relatives aux modalités de tarification des services d'aide et d'accompagnement à domicile mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, autorisés au titre de l'article L. 313-1 du même code, peuvent être menées à compter du 1er janvier 2012 pour une durée n'excédant pas trois ans. Elles peuvent notamment associer les présidents de conseil général ayant signé un contrat pluriannuel d'objectifs et de moyens dans le cadre de la mise en œuvre de la restructuration conformément au 1° du I du présent article.
+" Des expérimentations relatives aux modalités de tarification des services d'aide et d'accompagnement à domicile mentionnés aux 6° et 7° du I de l'article L. 312-1 du code de l'action sociale et des familles, autorisés au titre de l'article L. 313-1 du même code, peuvent être menées à compter du 1er janvier 2012 pour une durée n'excédant pas trois ans. Elles peuvent notamment associer les présidents de conseil départemental ayant signé un contrat pluriannuel d'objectifs et de moyens dans le cadre de la mise en œuvre de la restructuration conformément au 1° du I du présent article.
 
-Ces expérimentations peuvent inclure des modalités particulières de conventionnement entre les présidents de conseil général et les services mentionnés au 2° de l'article L. 313-1-2 du même code et, le cas échéant, les organismes de protection sociale. Elles respectent un cahier des charges approuvé par arrêté des ministres chargés de la famille, des personnes âgées et des personnes handicapées, du budget et des collectivités territoriales.
+Ces expérimentations peuvent inclure des modalités particulières de conventionnement entre les présidents de conseil départemental et les services mentionnés au 2° de l'article L. 313-1-2 du même code et, le cas échéant, les organismes de protection sociale. Elles respectent un cahier des charges approuvé par arrêté des ministres chargés de la famille, des personnes âgées et des personnes handicapées, du budget et des collectivités territoriales.
 
-Les présidents de conseil général ayant choisi de participer à l'expérimentation remettent, en fin d'expérimentation, un rapport d'évaluation aux ministres chargés de la famille, des personnes âgées et des personnes handicapées, du budget et des collectivités territoriales. "
+Les présidents de conseil départemental ayant choisi de participer à l'expérimentation remettent, en fin d'expérimentation, un rapport d'évaluation aux ministres chargés de la famille, des personnes âgées et des personnes handicapées, du budget et des collectivités territoriales. "
 
 Le cadre posé par cette habilitation législative est le suivant :
 

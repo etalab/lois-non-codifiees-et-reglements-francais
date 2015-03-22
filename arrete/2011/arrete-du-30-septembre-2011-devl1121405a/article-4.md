@@ -4,7 +4,7 @@ Sont destinataires de la totalité ou d'une partie des données mentionnées à 
 
 ― services de l'Etat dans le département : délégations territoriales des agences régionales de santé, préfectures, directions départementales interministérielles (DDT, DDCS), représentant de l'ANAH dans le département ;
 
-― collectivités territoriales : conseil général, communes, établissements publics de coopération intercommunale compétents dans le domaine de l'habitat, services communaux d'hygiène et de santé ;
+― collectivités territoriales : conseil départemental, communes, établissements publics de coopération intercommunale compétents dans le domaine de l'habitat, services communaux d'hygiène et de santé ;
 
 ― caisses d'allocations familiales et mutualité sociale agricole.
 

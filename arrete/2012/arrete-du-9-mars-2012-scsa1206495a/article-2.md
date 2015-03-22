@@ -10,6 +10,6 @@ A la demande mentionnée à l'article 1er sont joints :
 
 4° Le projet d'établissement ou de service spécifique à l'accueil de jour en cours de validité.
 
-A réception de la demande initiale, après avoir vérifié son caractère complet, le directeur général de l'agence régionale de santé autorise l'établissement ou le service à déroger, pour une période d'un an renouvelable, à la capacité minimale fixée au premier alinéa de l'article D. 312-8 du code précité. Il informe le président du conseil général de sa décision.
+A réception de la demande initiale, après avoir vérifié son caractère complet, le directeur général de l'agence régionale de santé autorise l'établissement ou le service à déroger, pour une période d'un an renouvelable, à la capacité minimale fixée au premier alinéa de l'article D. 312-8 du code précité. Il informe le président du conseil départemental de sa décision.
 
 La période d'un an renouvelable court à compter de la date de notification de la décision du directeur général de l'agence régionale de santé.

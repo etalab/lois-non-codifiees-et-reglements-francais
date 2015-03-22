@@ -10,7 +10,7 @@ Le rapport préliminaire de sûreté peut être consulté par le public pendant 
 
 II.-Lorsqu'une partie du territoire d'un Etat étranger est distante de moins de cinq kilomètres du périmètre de l'installation ou, même si cette condition de distance n'est pas remplie, lorsqu'il estime, de sa propre initiative ou sur demande des autorités d'un Etat étranger, que l'installation peut avoir des incidences notables sur l'environnement de cet Etat, le préfet met en oeuvre les consultations prévues au I de l'article R. 122-10 du code de l'environnement.
 
-III.-Dans chaque département et commune où doit se dérouler l'enquête publique, le préfet consulte le conseil général et les conseils municipaux au plus tard avant l'ouverture de l'enquête. Seuls les avis communiqués au préfet dans les quinze jours suivant la clôture de l'enquête sont pris en considération.
+III.-Dans chaque département et commune où doit se dérouler l'enquête publique, le préfet consulte le conseil départemental et les conseils municipaux au plus tard avant l'ouverture de l'enquête. Seuls les avis communiqués au préfet dans les quinze jours suivant la clôture de l'enquête sont pris en considération.
 
 Selon les mêmes modalités, le préfet consulte la commission locale de l'eau compétente si l'une des communes mentionnées au I est située en tout ou en partie dans la zone d'un schéma d'aménagement et de gestion des eaux, ainsi que la commission locale d'information prévue à l'article 22 de la loi du 13 juin 2006 lorsqu'elle a été constituée.
 

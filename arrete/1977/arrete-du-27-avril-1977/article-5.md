@@ -6,7 +6,7 @@ La Commission nationale paritaire des sapeurs-pompiers volontaires est constitu�
 
 " Le directeur général de la sécurité civile et de la gestion des crises ou son représentant ;
 
-" Un président de conseil général ou un conseiller général le représentant ;
+" Un président de conseil départemental ou un conseiller départemental le représentant ;
 
 " Un président de groupement de communes disposant d'un corps de sapeurs-pompiers volontaires ou mixte ;
 

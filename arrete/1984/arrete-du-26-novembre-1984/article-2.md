@@ -1,12 +1,12 @@
 # Article 2
 
-La commission dont les membres sont nommés par arrêté du ministre chargé des transports et choisis parmi les membres de l'assemblée générale du Conseil national des transports comprend, outre son président [*composition*] :
+La commission dont les membres sont nommés par arrêté du ministre chargé des transports et choisis parmi les membres de l'assemblée générale du Conseil national des transports comprend, outre son président :
 
 1° Trois élus locaux :
 
 Un conseiller régional ;
 
-Un conseiller général ;
+Un conseiller départemental ;
 
 Un maire ou président d'autorité organisatrice de transports urbains.
 

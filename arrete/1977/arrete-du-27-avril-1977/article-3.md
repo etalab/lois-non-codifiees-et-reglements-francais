@@ -4,7 +4,7 @@ La commission nationale paritaire des sapeurs-pompiers professionnels est compos
 
 a) Représentants des collectivités locales
 
-" Trois présidents de conseils généraux ou conseillers généraux les représentant ;
+" Trois présidents de conseils départementaux ou conseillers généraux les représentant ;
 
 " Quatre présidents de groupements de communes ayant compétence en matière d'incendie ;
 

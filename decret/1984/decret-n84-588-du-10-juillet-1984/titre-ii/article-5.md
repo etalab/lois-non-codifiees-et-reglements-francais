@@ -10,7 +10,7 @@ Le conseil d'administration de chacun des instituts comprend, outre son préside
 
 4° Un fonctionnaire de l'Etat choisi en raison de son expérience en matière de formation et de gestion des ressources humaines et exerçant au sein d'une administration dans laquelle peuvent être affectés les élèves de l'institut ;
 
-5° Le président du conseil régional, le président du conseil général et le maire de la ville où est installé l'institut ou leurs représentants nommément désignés ;
+5° Le président du conseil régional, le président du conseil départemental et le maire de la ville où est installé l'institut ou leurs représentants nommément désignés ;
 
 6° Un membre choisi parmi les personnels enseignants des universités en raison de ses compétences dans le domaine de la préparation aux concours ;
 
@@ -36,4 +36,4 @@ Le président désigne le membre de droit chargé de le suppléer au cas où il 
 
 Les représentants des élèves participent aux délibérations du conseil d'administration à l'exception de celles relatives à la désignation des enseignants.
 
-Le directeur, le directeur des études et des stages, le directeur de la formation continue et le secrétaire général de l'institut assistent aux séances du conseil d'administration sans pouvoir prendre part au vote. Le        contrôleur budgétaire et l'agent comptable peuvent participer dans les mêmes conditions aux travaux du conseil.
+Le directeur, le directeur des études et des stages, le directeur de la formation continue et le secrétaire général de l'institut assistent aux séances du conseil d'administration sans pouvoir prendre part au vote. Le contrôleur budgétaire et l'agent comptable peuvent participer dans les mêmes conditions aux travaux du conseil.

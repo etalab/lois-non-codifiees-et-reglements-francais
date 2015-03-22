@@ -18,9 +18,9 @@ L'établissement est administré par un conseil de dix-sept membres dotés chacu
 
 ― cinq représentants de la région Lorraine désignés en son sein par le conseil régional ;
 
-― trois représentants du département de Meurthe-et-Moselle désignés en son sein par le conseil général ;
+― trois représentants du département de Meurthe-et-Moselle désignés en son sein par le conseil départemental ;
 
-― trois représentants du département de la Moselle désignés en son sein par le conseil général ;
+― trois représentants du département de la Moselle désignés en son sein par le conseil départemental ;
 
 ― un représentant de la communauté de communes du Pays Haut Val d'Alzette désigné en son sein par le conseil de la communauté.
 

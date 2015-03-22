@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conseil général de l'Allier</p>
+<p align="left">Conseil départemental de l'Allier</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Développement d'une offre de mobilité durable en territoire rural</p>
@@ -445,7 +445,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conseil général du Gers</p>
+<p align="left">Conseil départemental du Gers</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Tèrra Mair, pôle de l'écoconstruction</p>
@@ -566,7 +566,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conseil général de la Haute-Loire</p>
+<p align="left">Conseil départemental de la Haute-Loire</p>
 </td>
 <td align="left" valign="top">
 <p align="left">PER Domaine du Sauvage </p>
@@ -787,7 +787,7 @@
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">Conseil général des Hautes-Pyrénées</td>
+<td align="left" valign="top">Conseil départemental des Hautes-Pyrénées</td>
 <td align="left" valign="top">La route numérique 65</td>
 </tr>
 <tr>
@@ -819,7 +819,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conseil général du Bas-Rhin</p>
+<p align="left">Conseil départemental du Bas-Rhin</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Innovation pour l'autonomie</p>
@@ -917,7 +917,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conseil général des Deux-Sèvres</p>
+<p align="left">Conseil départemental des Deux-Sèvres</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Deux-Sèvres pôle international de la biodiversité</p>

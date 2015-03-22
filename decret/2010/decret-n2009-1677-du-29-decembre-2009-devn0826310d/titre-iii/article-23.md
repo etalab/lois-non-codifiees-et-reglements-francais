@@ -28,7 +28,7 @@ b) Huit représentants des établissements publics de coopération intercommunal
 
 c) Le président du conseil régional de la région Languedoc-Roussillon et le président du conseil régional de la région Rhône-Alpes ;
 
-d) Le président du conseil général de l'Ardèche, le président du conseil général du Gard et le président du conseil général de la Lozère ;
+d) Le président du conseil départemental de l'Ardèche, le président du conseil départemental du Gard et le président du conseil départemental de la Lozère ;
 
 e) Quatre conseillers généraux désignés par leur assemblée dont trois pour le département de la Lozère et un pour le département du Gard ;
 
@@ -66,7 +66,7 @@ d) Cinq personnalités à compétence nationale :
 
 4° Un représentant du personnel élu avec son suppléant par le personnel permanent de l'établissement public du parc.
 
-II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent. Les présidents des conseils régionaux et des conseils généraux, les conseillers généraux ainsi que les représentants des établissements publics de coopération intercommunale à fiscalité propre peuvent se faire suppléer par un élu de la même assemblée délibérante. Les autres représentants des collectivités territoriales peuvent se faire suppléer par un élu désigné dans les mêmes conditions.
+II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent. Les présidents des conseils régionaux et des conseils départementaux, les conseillers généraux ainsi que les représentants des établissements publics de coopération intercommunale à fiscalité propre peuvent se faire suppléer par un élu de la même assemblée délibérante. Les autres représentants des collectivités territoriales peuvent se faire suppléer par un élu désigné dans les mêmes conditions.
 
 Les membres mentionnés au 3° peuvent donner mandat à un autre membre du conseil d'administration.
 

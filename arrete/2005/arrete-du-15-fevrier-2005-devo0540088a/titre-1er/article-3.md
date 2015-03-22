@@ -6,7 +6,7 @@ Préalablement à l'approbation du schéma, le préfet coordonnateur de bassin c
 
 2° Les préfets de département intéressés ;
 
-3° Les présidents des conseils généraux intéressés ;
+3° Les présidents des conseils départementaux intéressés ;
 
 4° Les présidents des associations départementales des maires intéressés ;
 

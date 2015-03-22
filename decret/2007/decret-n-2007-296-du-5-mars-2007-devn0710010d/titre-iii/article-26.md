@@ -38,7 +38,7 @@ b) Les représentants des établissements publics de coopération intercommunale
 
 c) Le président du conseil régional et deux conseillers régionaux désignés par leur assemblée ;
 
-d) Le président du conseil général et deux conseillers généraux désignés par leur assemblée.
+d) Le président du conseil départemental et deux conseillers généraux désignés par leur assemblée.
 
 3° De trente-neuf personnalités :
 
@@ -68,7 +68,7 @@ c) Trente-quatre personnalités à compétence locale ;
 
 -une personnalité compétente en matière de développement rural, sur proposition du Conseil économique et social ;
 
--une personnalité compétente en matière d'action sociale pour l'emploi et l'insertion, nommée sur proposition du conseil général ;
+-une personnalité compétente en matière d'action sociale pour l'emploi et l'insertion, nommée sur proposition du conseil départemental ;
 
 -une personnalité compétente en matière d'action culturelle, nommée sur proposition du conseil de la culture, de l'éducation et de l'environnement ;
 
@@ -78,7 +78,7 @@ c) Trente-quatre personnalités à compétence locale ;
 
 -un représentant de la propriété forestière privée du coeur, nommé sur proposition du préfet de la Réunion ;
 
--un représentant de la propriété forestière publique du coeur, nommé sur proposition du conseil général ;
+-un représentant de la propriété forestière publique du coeur, nommé sur proposition du conseil départemental ;
 
 -les directeurs du muséum d'histoire naturelle de la Réunion et du conservatoire botanique national compétent à la Réunion, au titre de la protection de la nature et de l'éducation à l'environnement ;
 
@@ -86,7 +86,7 @@ c) Trente-quatre personnalités à compétence locale ;
 
 -deux personnalités compétentes en sciences de l'homme, nommées sur proposition de l'université de la Réunion ;
 
--une personnalité compétente en matière de jeunesse ou de création artistique, nommée sur proposition du conseil général ;
+-une personnalité compétente en matière de jeunesse ou de création artistique, nommée sur proposition du conseil départemental ;
 
 -une personnalité compétente en matière de coopération régionale ou d'innovation, nommée sur proposition du conseil régional ;
 
@@ -98,7 +98,7 @@ d) Trois personnalités à compétence nationale ou représentant des organismes
 
 -un représentant de l'Office national des forêts.
 
-4° D'un représentant du personnel élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au  comité technique de l'établissement.
+4° D'un représentant du personnel élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique de l'établissement.
 
 II.-Les membres mentionnés aux 1° et 2° du I du présent article peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent ou un élu de la même assemblée délibérante.
 

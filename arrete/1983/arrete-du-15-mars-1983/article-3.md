@@ -8,15 +8,15 @@ Le préfet, président ;
 
 Le directeur départemental des affaires sanitaires et sociales, vice-président ;
 
-Un conseiller général désigné par ses collègues ;
+Un conseiller départemental désigné par ses collègues ;
 
-Deux maires désignés par le conseil général ;
+Deux maires désignés par le conseil départemental ;
 
 Un magistrat désigné par le premier président de la cour
 
 d'appel ;
 
-Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie  ;
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 Le président de l'union départementale des associations
 

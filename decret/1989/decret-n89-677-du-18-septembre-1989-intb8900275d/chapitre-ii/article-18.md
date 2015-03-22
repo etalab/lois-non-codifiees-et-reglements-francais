@@ -18,6 +18,6 @@ Les représentants des collectivités territoriales et de leurs établissements 
 
 1° Un conseiller régional choisi sur une liste comportant les noms de deux conseillers régionaux désignés par l'assemblée dont ils font partie ;
 
-2° Deux conseillers généraux choisis sur une liste comportant les noms de trois conseillers généraux de chacun des départements situés dans le ressort du conseil de discipline de recours et désignés par l'assemblée dont ils font partie ;
+2° Deux conseillers départementaux choisis sur une liste comportant les noms de trois conseillers départementaux de chacun des départements situés dans le ressort du conseil de discipline de recours et désignés par l'assemblée dont ils font partie ;
 
 3° Des membres des conseils municipaux des communes situées dans le ressort du conseil de discipline de recours choisis en nombre égal parmi les membres des conseils municipaux des communes de plus de 20 000 habitants et parmi les maires des communes de moins de 20 000 habitants, le membre supplémentaire étant choisi parmi ces derniers lorsque le nombre de membres est impair. Ces membres sont choisis sur une liste comportant, pour chaque commune, le nom d'un membre du conseil municipal désigné par l'assemblée dont il fait partie.

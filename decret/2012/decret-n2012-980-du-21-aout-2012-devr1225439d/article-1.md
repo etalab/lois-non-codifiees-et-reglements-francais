@@ -2,7 +2,7 @@
 
 Le conseil à l'électrification rurale mentionné au neuvième alinéa du I de l'article L. 2224-31 du code général des collectivités territoriales est composé de dix-sept membres nommés par arrêté du ministre chargé de l'énergie :
 
-a) Sept représentants des collectivités territoriales et des établissements publics maîtres d'ouvrage, dont un représentant des conseils généraux, sur proposition de l'Assemblée des départements de France, et six représentants des autorités organisatrices de la distribution d'électricité susceptibles de bénéficier des aides à l'électrification rurale, sur proposition des associations représentatives ;
+a) Sept représentants des collectivités territoriales et des établissements publics maîtres d'ouvrage, dont un représentant des conseils départementaux, sur proposition de l'Assemblée des départements de France, et six représentants des autorités organisatrices de la distribution d'électricité susceptibles de bénéficier des aides à l'électrification rurale, sur proposition des associations représentatives ;
 
 b) Deux représentants d'Electricité réseau distribution France, sur proposition de cette société ;
 

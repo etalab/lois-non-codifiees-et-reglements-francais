@@ -14,7 +14,7 @@ Le conseil d'administration comprend vingt-huit membres :
 
 -le président du conseil régional de la région Rhône-Alpes ou son représentant ;
 
--le président du conseil général du département du Rhône ou son représentant ;
+-le président du conseil départemental du département du Rhône ou son représentant ;
 
 2° Huit personnalités extérieures choisies en raison de leur compétence dans les domaines intéressant les missions de l'école, dont sept sont désignées par le recteur de l'académie de Lyon :
 
@@ -46,6 +46,6 @@ Pour chaque membre du conseil, à l'exception des membres de droit, est désign�
 
 Le recteur de l'académie de Lyon assiste ou se fait représenter aux séances du conseil et peut être entendu chaque fois qu'il le demande.
 
-Le directeur de l'établissement, le secrétaire général, le directeur des études, l'agent comptable et le        contrôleur budgétaire assistent aux séances avec voix consultative.
+Le directeur de l'établissement, le secrétaire général, le directeur des études, l'agent comptable et le contrôleur budgétaire assistent aux séances avec voix consultative.
 
 Le conseil d'administration peut inviter à assister aux séances, avec voix consultative, toute autre personne dont il juge la présence utile.

@@ -1,6 +1,6 @@
 # Article 4
 
-Le préfet et le président du conseil général soumettent, pour avis, le projet de plan, accompagné de l'évaluation du plan en cours :
+Le préfet et le président du conseil départemental soumettent, pour avis, le projet de plan, accompagné de l'évaluation du plan en cours :
 
 ― au comité régional de l'habitat ou, dans les départements d'outre-mer, au conseil départemental de l'habitat, visés à l'article L. 364-1 du code de la construction et de l'habitation ;
 
@@ -10,4 +10,4 @@ Le préfet et le président du conseil général soumettent, pour avis, le proje
 
 Ces avis sont rendus dans le délai de deux mois ; à défaut, l'avis est réputé avoir été rendu.
 
-Au vu de ces avis, le nouveau plan est arrêté par le préfet et par le président du conseil général, après délibération de cette assemblée. Le plan est publié par le préfet au recueil des actes administratifs de la préfecture et par le président du conseil général au recueil des actes administratifs du département.
+Au vu de ces avis, le nouveau plan est arrêté par le préfet et par le président du conseil départemental, après délibération de cette assemblée. Le plan est publié par le préfet au recueil des actes administratifs de la préfecture et par le président du conseil départemental au recueil des actes administratifs du département.

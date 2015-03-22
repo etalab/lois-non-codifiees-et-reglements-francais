@@ -1,6 +1,6 @@
 # Article 10
 
-Un comité responsable du plan est chargé de sa mise en oeuvre. Il est coprésidé par le préfet et le président du conseil général.
+Un comité responsable du plan est chargé de sa mise en oeuvre. Il est coprésidé par le préfet et le président du conseil départemental.
 
 Il comprend au moins :
 
@@ -20,7 +20,7 @@ Il comprend au moins :
 
 ― un représentant des organismes collecteurs de la participation des employeurs à l'effort de construction.
 
-Les membres du comité sont désignés par le préfet et le président du conseil général pour la durée du plan par un arrêté commun qui fait l'objet des mesures de publicité prévues à l'article 4.
+Les membres du comité sont désignés par le préfet et le président du conseil départemental pour la durée du plan par un arrêté commun qui fait l'objet des mesures de publicité prévues à l'article 4.
 
 Le comité responsable peut déléguer tout ou partie de ses compétences prévues à l'article 11 à un comité technique permanent qui lui rend compte. Toutefois, ne peut pas être déléguée la décision de créer la commission spécialisée de coordination des actions de prévention des expulsions locatives, prévue à l'article 4 de la loi du 31 mai 1990 susvisée.
 
@@ -28,4 +28,4 @@ Le comité technique est composé des représentants du comité responsable du p
 
 Le comité responsable du plan se réunit au moins deux fois par an.
 
-Son secrétariat est assuré par l'Etat ou le conseil général ou le cas échéant par le groupement d'intérêt public prévu par cet article.
+Son secrétariat est assuré par l'Etat ou le conseil départemental ou le cas échéant par le groupement d'intérêt public prévu par cet article.

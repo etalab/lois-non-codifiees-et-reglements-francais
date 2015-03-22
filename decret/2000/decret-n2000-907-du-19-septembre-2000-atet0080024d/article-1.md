@@ -6,7 +6,7 @@ Le Conseil national de l'aménagement et du développement du territoire compren
 
 2. Huit présidents de conseil régional, désignés sur proposition de l'association des régions de France, dont un représentant des régions d'outre-mer ;
 
-3. Six présidents de conseil général, désignés sur proposition de l'association des départements de France, dont un représentant des départements d'outre-mer ;
+3. Six présidents de conseil départemental, désignés sur proposition de l'association des départements de France, dont un représentant des départements d'outre-mer ;
 
 4. Deux maires de communes de plus de 80 000 habitants, deux maires de communes de 5 000 à 80 000 habitants et trois maires de communes de moins de 5 000 habitants, désignés sur proposition de l'Association des maires de France ;
 

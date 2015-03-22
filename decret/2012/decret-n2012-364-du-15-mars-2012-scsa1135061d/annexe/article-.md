@@ -4,7 +4,7 @@ A N N E X E 4-8
 
 RÉFÉRENTIEL FIXANT LES CRITÈRES DE L'AGRÉMENT DES ASSISTANTS MATERNELS PAR LE PRÉSIDENT DU CONSEIL GÉNÉRAL
 
-Le service départemental de protection maternelle et infantile instruit les demandes d'agrément des assistants maternels, qu'il s'agisse d'une première demande, d'une demande de modification ou d'une demande de renouvellement. En cas d'exercice en maison d'assistants maternels, la demande est instruite par le service du conseil général du département dans lequel est située la maison.
+Le service départemental de protection maternelle et infantile instruit les demandes d'agrément des assistants maternels, qu'il s'agisse d'une première demande, d'une demande de modification ou d'une demande de renouvellement. En cas d'exercice en maison d'assistants maternels, la demande est instruite par le service du conseil départemental du département dans lequel est située la maison.
 
 La procédure comporte au moins un entretien et une ou plusieurs visites au domicile ou dans la maison d'assistants maternels, en fonction du mode d'exercice. Les visites au domicile du candidat doivent concilier le respect de sa vie privée et la nécessaire protection des enfants qu'il va accueillir.
 

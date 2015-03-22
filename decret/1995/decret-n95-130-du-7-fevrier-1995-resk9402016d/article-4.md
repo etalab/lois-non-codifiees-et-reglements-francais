@@ -8,13 +8,13 @@ Le conseil d'orientation de l'université de Bretagne-Sud est composé de vingt-
 
 3° Quatre personnalités représentant les collectivités territoriales :
 
-- le président du conseil régional de Bretagne ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
+-le président du conseil régional de Bretagne ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
 
-- le président du conseil général du Morbihan ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
+-le président du conseil départemental du Morbihan ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
 
-- le maire de la commune de Vannes ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
+-le maire de la commune de Vannes ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
 
-- le maire de la commune de Lorient ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
+-le maire de la commune de Lorient ou son représentant désigné nominativement à la date de la première réunion du conseil d'orientation ;
 
 4° Cinq personnalités extérieures à l'établissement représentant les activités économiques, nommées par le ministre chargé de l'enseignement supérieur ;
 

@@ -38,7 +38,7 @@ f) Le président de la communauté urbaine de Marseille Provence Métropole ains
 
 g) Le président du conseil régional de la région Provence-Alpes-Côte d'Azur ;
 
-h) Le président du conseil général des Bouches-du-Rhône ainsi que deux conseillers généraux désignés par l'assemblée départementale ;
+h) Le président du conseil départemental des Bouches-du-Rhône ainsi que deux conseillers départementaux désignés par l'assemblée départementale ;
 
 3° Vingt-neuf personnalités :
 

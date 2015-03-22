@@ -12,7 +12,7 @@ Le principe de la référence horaire est maintenu, à la fois pour :
 
 -le calcul de la participation horaire des usagers.
 
-L'expérimentation comporte deux options au choix du conseil général. L'allocation de ressources repose :
+L'expérimentation comporte deux options au choix du conseil départemental. L'allocation de ressources repose :
 
 -soit sur un tarif relatif à un ou des paniers de prestations socle, complété, le cas échéant, de dotations de compensation liées à des contraintes particulières, ou des missions d'intérêt général et constituant des charges particulières pour le service (option 1) ;
 
@@ -62,7 +62,7 @@ Modalités de tarification
 <tr>
 <td align="center">Dotations complémentaires liées à des contraintes de coûts ou à des missions d'intérêt général <br/>
 </td>
-<td align="center">Dotation compensant des contraintes de coûts accrus telles que l'ancienneté du personnel, ou l'application de statuts particuliers ; <br/>Dotation public à forte amplitude horaire d'intervention : personnes âgées isolées socialement, personnes handicapées ; <br/>Dotation couverture géographique : compensation du service pour une desserte coûteuse, dans les limites des références organisationnelles déterminées par le département ; <br/>Missions particulières liées aux publics et déterminées dans le cadre du CPOM ; <br/>Missions particulières rendues par le service en accord avec le conseil général telles que le rôle développé par certains services à domicile pour les personnes handicapées de centre de ressources pour les services tous publics) <br/>
+<td align="center">Dotation compensant des contraintes de coûts accrus telles que l'ancienneté du personnel, ou l'application de statuts particuliers ; <br/>Dotation public à forte amplitude horaire d'intervention : personnes âgées isolées socialement, personnes handicapées ; <br/>Dotation couverture géographique : compensation du service pour une desserte coûteuse, dans les limites des références organisationnelles déterminées par le département ; <br/>Missions particulières liées aux publics et déterminées dans le cadre du CPOM ; <br/>Missions particulières rendues par le service en accord avec le conseil départemental telles que le rôle développé par certains services à domicile pour les personnes handicapées de centre de ressources pour les services tous publics) <br/>
 </td>
 <td align="center">Possibilité de définir <br/>des dotations complémentaires <br/>
 </td>
@@ -82,7 +82,7 @@ Le CPOM prévoit les éléments de la convergence des services d'aide et d'accom
 
 -le projet de service, la nature des populations aidées, la zone de chalandise couverte ;
 
--les critères organisationnels sur lesquels le service s'engage avec le conseil général ainsi que les missions spécifiques d'intérêt général qu'il réalise ;
+-les critères organisationnels sur lesquels le service s'engage avec le conseil départemental ainsi que les missions spécifiques d'intérêt général qu'il réalise ;
 
 -le montant de la dotation et les modalités de son évolution.
 
@@ -140,7 +140,7 @@ Les objectifs de l'expérimentation prennent la forme d'engagements pluriannuels
 
 -le plan de formation et niveau de qualification :
 
-Sur la base du projet de service retenu et de la population accompagnée durant l'année N-1, un dialogue doit être engagé par le service et le conseil général pour déterminer, dans le cadre des références départementales, les niveaux de qualification à mettre en regard de l'activité réalisée par le service :
+Sur la base du projet de service retenu et de la population accompagnée durant l'année N-1, un dialogue doit être engagé par le service et le conseil départemental pour déterminer, dans le cadre des références départementales, les niveaux de qualification à mettre en regard de l'activité réalisée par le service :
 
 -affectation du personnel en fonction des personnes accompagnées et des caractéristiques de prise en charge de ces personnes ;
 
@@ -156,7 +156,7 @@ Ces objectifs passent par des engagements sur :
 
 -les engagements relatifs à l'organisation.
 
-Sur la base des indicateurs de référence organisationnels et des indicateurs propres du service, un engagement doit être formalisé entre le conseil général et les services notamment sur les frais de structures, la couverture territoriale optimale à réaliser par le service (pour laquelle, selon l'option de tarification retenue, une dotation spécifique d'intérêt général est donnée au service qui accepte de couvrir des zones rurales) les possibilités de mutualisation entre services.
+Sur la base des indicateurs de référence organisationnels et des indicateurs propres du service, un engagement doit être formalisé entre le conseil départemental et les services notamment sur les frais de structures, la couverture territoriale optimale à réaliser par le service (pour laquelle, selon l'option de tarification retenue, une dotation spécifique d'intérêt général est donnée au service qui accepte de couvrir des zones rurales) les possibilités de mutualisation entre services.
 
 -l'adoption de la télégestion :
 
@@ -174,7 +174,7 @@ Option 2 : tarification à l'activité :
 
 Sous-option 2.1 : un tarif moyen du service est calculé à partir des tarifs " aide à la personne " et " aide à l'environnement " au prorata des activités du service. Ce tarif, opposable à l'ensemble des usagers, sert de base à la valorisation de leur plan d'aide ou de compensation et pour le calcul de leur participation.
 
-Sous-option 2.2 : le tarif appliqué à chaque usager est calculé sur la base des tarifs " aide à l'environnement " ou " aide à la personne " et de la répartition des prestations réalisées auprès de lui selon ces deux tarifs Cette répartition est effectuée soit par le service, soit par le conseil général ou la MDPH pour les bénéficiaires de la PCH, précise dans les plans d'aide APA ou les plans de compensation.
+Sous-option 2.2 : le tarif appliqué à chaque usager est calculé sur la base des tarifs " aide à l'environnement " ou " aide à la personne " et de la répartition des prestations réalisées auprès de lui selon ces deux tarifs Cette répartition est effectuée soit par le service, soit par le conseil départemental ou la MDPH pour les bénéficiaires de la PCH, précise dans les plans d'aide APA ou les plans de compensation.
 
 D'autres options peuvent être expérimentées par le département, qu'il explicitera, le cas échéant dans le cadre de la note de cadrage prévue à l'article 2 de l'arrêté.
 

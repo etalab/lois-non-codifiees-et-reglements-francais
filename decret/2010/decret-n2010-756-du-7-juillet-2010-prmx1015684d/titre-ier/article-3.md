@@ -28,7 +28,7 @@ Le conseil de surveillance comprend vingt et un membres :
 
 2° Le président du conseil régional d'Ile-de-France ;
 
-3° Les présidents des conseils généraux des huit départements de la région Ile-de-France ;
+3° Les présidents des conseils départementaux des huit départements de la région Ile-de-France ;
 
 4° Un maire d'une commune de la région Ile-de-France ou un président d'établissement public de coopération intercommunale de cette région.
 

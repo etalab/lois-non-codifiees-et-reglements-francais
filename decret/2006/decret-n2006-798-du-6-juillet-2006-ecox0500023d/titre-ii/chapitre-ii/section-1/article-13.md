@@ -1,12 +1,12 @@
 # Article 13
 
-Dans le délai de quatre mois suivant la remise de son rapport par le commissaire enquêteur et l'accomplissement le cas échéant des consultations prévues au III de l'article R. 122-11 du code de l'environnement, le préfet chargé de l'instruction et le préfet maritime présentent, lors d'une réunion de concertation qu'ils président conjointement, la demande de titre minier, le rapport du              directeur régional de l'environnement, de l'aménagement et du logement et, le cas échéant celui du chef du service gestionnaire du domaine public maritime ou du directeur du port autonome ainsi que le projet d'arrêté préfectoral d'autorisation d'ouverture de travaux.
+Dans le délai de quatre mois suivant la remise de son rapport par le commissaire enquêteur et l'accomplissement le cas échéant des consultations prévues au III de l'article R. 122-11 du code de l'environnement, le préfet chargé de l'instruction et le préfet maritime présentent, lors d'une réunion de concertation qu'ils président conjointement, la demande de titre minier, le rapport du directeur régional de l'environnement, de l'aménagement et du logement et, le cas échéant celui du chef du service gestionnaire du domaine public maritime ou du directeur du port autonome ainsi que le projet d'arrêté préfectoral d'autorisation d'ouverture de travaux.
 
 Participent à cette réunion :
 
 1° S'il y a lieu, les préfets des autres départements intéressés, ou leurs représentants ;
 
-2° Le président du conseil général et, s'il y a lieu, les présidents des conseils généraux des autres départements intéressés, ou leurs représentants ;
+2° Le président du conseil départemental et, s'il y a lieu, les présidents des conseils départementaux des autres départements intéressés, ou leurs représentants ;
 
 3° Un représentant de l'Ifremer, désigné par cet organisme ;
 

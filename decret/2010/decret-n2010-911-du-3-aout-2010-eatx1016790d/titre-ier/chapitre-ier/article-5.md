@@ -4,9 +4,9 @@ Le collège des élus comprend neuf membres :
 
 ― le président du conseil régional d'Ile-de-France ;
 
-― le président du conseil général des Yvelines ;
+― le président du conseil départemental des Yvelines ;
 
-― le président du conseil général de l'Essonne ;
+― le président du conseil départemental de l'Essonne ;
 
 ― le président de la communauté d'agglomération du plateau de Saclay ;
 

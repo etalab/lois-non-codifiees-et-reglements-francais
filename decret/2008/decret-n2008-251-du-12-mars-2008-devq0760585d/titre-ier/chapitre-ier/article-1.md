@@ -6,13 +6,13 @@ La décision créant une commission locale d'information :
 
 2° Fixe la composition de la commission, conformément aux dispositions de l'article 5, en nomme les membres et détermine la durée de leur mandat ;
 
-3° Dans le cas où la commission n'est pas présidée par le président du conseil général, en nomme le président.
+3° Dans le cas où la commission n'est pas présidée par le président du conseil départemental, en nomme le président.
 
-Le président du conseil général peut désigner, parmi les membres de la commission, un vice-président chargé de suppléer le président en cas d'absence ou d'empêchement de ce dernier.
+Le président du conseil départemental peut désigner, parmi les membres de la commission, un vice-président chargé de suppléer le président en cas d'absence ou d'empêchement de ce dernier.
 
-Dans le cas où la commission est créée par décision conjointe de plusieurs présidents de conseil général, la décision précise les modalités retenues par ces présidents pour l'exercice de la présidence et la gestion administrative de la commission.
+Dans le cas où la commission est créée par décision conjointe de plusieurs présidents de conseil départemental, la décision précise les modalités retenues par ces présidents pour l'exercice de la présidence et la gestion administrative de la commission.
 
-La décision instituant la commission est notifiée par le président du conseil général :
+La décision instituant la commission est notifiée par le président du conseil départemental :
 
 1° Au préfet et à l'Autorité de sûreté nucléaire ;
 

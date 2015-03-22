@@ -16,7 +16,7 @@ Quinze représentants des collectivités locales :
 
 1. Un membre désigné par le conseil régional Rhône-Alpes ;
 
-2. Deux membres désignés par le conseil général de l'Ardèche ;
+2. Deux membres désignés par le conseil départemental de l'Ardèche ;
 
 3. Deux membres désignés par le syndicat intercommunal de la vallée de l'Ardèche ;
 
@@ -36,7 +36,7 @@ Quinze représentants des collectivités locales :
 
 1. Un membre désigné par le conseil régional Languedoc-Roussillon ;
 
-2. Un membre désigné par le conseil général du Gard ;
+2. Un membre désigné par le conseil départemental du Gard ;
 
 3. Un membre désigné par le conseil municipal d'Aiguèze ;
 
@@ -86,7 +86,7 @@ Le directeur départemental de l'agriculture et de la forêt de l'Ardèche ou so
 
 Le directeur départemental de l'équipement de l'Ardèche ou son représentant ;
 
-Le directeur départemental de la jeunesse et des sports de l'Ardèche ou son représentant, accompagné du directeur du C.R.E.P.S. Alpes-Vivarais ;
+Le directeur départemental de la jeunesse et des sports de l'Ardèche ou son représentant, accompagné du directeur du C. R. E. P. S. Alpes-Vivarais ;
 
 Le directeur départemental de la jeunesse et des sports du Gard ou son représentant ;
 

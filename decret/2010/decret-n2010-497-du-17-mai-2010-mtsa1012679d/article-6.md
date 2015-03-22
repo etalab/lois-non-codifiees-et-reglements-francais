@@ -14,4 +14,4 @@ L'indice synthétique de ressources et de charges est obtenu par addition des r�
 
 Le comité de gestion arrête annuellement les valeurs des coefficients a et b. Le coefficient a ne peut pas être inférieur à 50 % ni supérieur à 75 %.
 
-Le montant de la dotation attribuée à chaque département est notifié par le président du comité de gestion aux présidents des conseils généraux.
+Le montant de la dotation attribuée à chaque département est notifié par le président du comité de gestion aux présidents des conseils départementaux.

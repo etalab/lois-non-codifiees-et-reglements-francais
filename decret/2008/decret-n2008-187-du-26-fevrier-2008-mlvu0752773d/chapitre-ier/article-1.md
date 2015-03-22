@@ -1,10 +1,10 @@
 # Article 1
 
-Sont membres de droit de la commission spécialisée de coordination des actions de prévention des expulsions locatives coprésidée par le préfet et le président du conseil général ou leurs représentants :
+Sont membres de droit de la commission spécialisée de coordination des actions de prévention des expulsions locatives coprésidée par le préfet et le président du conseil départemental ou leurs représentants :
 
 ― le préfet ou son représentant ;
 
-― le président du conseil général ou son représentant ;
+― le président du conseil départemental ou son représentant ;
 
 ― un représentant de chacun des organismes payeurs des aides personnelles au logement ;
 

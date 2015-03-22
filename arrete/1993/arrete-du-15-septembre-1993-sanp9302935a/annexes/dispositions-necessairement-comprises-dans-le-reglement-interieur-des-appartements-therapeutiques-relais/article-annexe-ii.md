@@ -18,7 +18,7 @@ La personne accueillie dans les appartements doit être majeure.
 
 Article 4
 
-Si la personne accueillie souhaite être hébergée avec ses enfants mineurs, l'association doit s'assurer qu'elle est bien titulaire de l'autorité parentale et qu'elle ou un membre de la famille, ou à défaut le conseil général de son lieu de résidence, peut en assurer la prise en charge financière.
+Si la personne accueillie souhaite être hébergée avec ses enfants mineurs, l'association doit s'assurer qu'elle est bien titulaire de l'autorité parentale et qu'elle ou un membre de la famille, ou à défaut le conseil départemental de son lieu de résidence, peut en assurer la prise en charge financière.
 
 Article 5
 

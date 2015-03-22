@@ -6,11 +6,11 @@ L'établissement public est administré par un conseil composé de trente membre
 
 -onze pour le conseil régional d'Ile-de-France ;
 
--un pour chaque conseil général de la région Ile-de-France ;
+-un pour chaque conseil départemental de la région Ile-de-France ;
 
 -quatre représentants des établissements publics de coopération intercommunale à fiscalité propre et des communes élus par l'assemblée spéciale prévue à l'article 7.
 
-Les représentants des conseils généraux des départements qui ne sont pas compris majoritairement dans le périmètre défini à l'article 2 assistent au conseil d'administration avec voix consultative ;
+Les représentants des conseils départementaux des départements qui ne sont pas compris majoritairement dans le périmètre défini à l'article 2 assistent au conseil d'administration avec voix consultative ;
 
 2° Un représentant du conseil économique, social et environnemental régional ;
 
@@ -26,7 +26,7 @@ Les représentants des conseils généraux des départements qui ne sont pas com
 
 -le préfet de la région Ile-de-France, préfet de Paris, ou son représentant ;
 
--le           directeur régional des finances publiques d'Ile-de-France et du département de Paris ou son représentant ;
+-le trésorier-payeur général de la région Ile-de-France ou son représentant ;
 
 -le directeur régional de l'équipement de la région Ile-de-France ou son représentant.
 

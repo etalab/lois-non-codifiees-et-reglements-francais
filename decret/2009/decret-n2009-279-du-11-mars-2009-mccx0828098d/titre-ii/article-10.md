@@ -22,4 +22,4 @@ Le conseil d'administration comprend, outre le président de l'établissement, q
 
 5° Le maire de Fontainebleau ou son représentant ;
 
-6° Le président du conseil général de Seine-et-Marne ou son représentant.
+6° Le président du conseil départemental de Seine-et-Marne ou son représentant.

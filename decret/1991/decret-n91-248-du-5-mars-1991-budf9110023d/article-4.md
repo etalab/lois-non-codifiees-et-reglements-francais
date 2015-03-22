@@ -4,7 +4,7 @@ Les décisions de la commission départementale des impôts directs locaux sont 
 
 Ce dernier les notifie :
 
-a) Au président du conseil général et aux maires du département lorsqu'elles sont prises pour l'application des articles 12, 24 et 26 de la loi du 30 juillet 1990 ;
+a) Au président du conseil départemental et aux maires du département lorsqu'elles sont prises pour l'application des articles 12,24 et 26 de la loi du 30 juillet 1990 ;
 
 b) Au maire de la commune concernée lorsqu'elles sont prises pour l'application des articles 8 et 27 de la loi précitée.
 

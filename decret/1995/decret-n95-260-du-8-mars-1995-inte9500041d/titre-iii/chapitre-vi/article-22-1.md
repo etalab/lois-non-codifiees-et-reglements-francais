@@ -20,10 +20,10 @@ La sous-commission départementale pour la sécurité des infrastructures et sys
 
 -le président de l'établissement public de coopération intercommunale compétent pour le dossier inscrit à l'ordre du jour ;
 
--le président du conseil général compétent pour le dossier inscrit à l'ordre du jour, ou un vice-président ou, à défaut, un conseiller général désigné par lui ;
+-le président du conseil départemental compétent pour le dossier inscrit à l'ordre du jour, ou un vice-président ou, à défaut, un conseiller départemental désigné par lui ;
 
 -les autres représentants des services de l'Etat dont la présence s'avère nécessaire pour l'examen des dossiers inscrits à l'ordre du jour.
 
-3° Est membre à titre consultatif en fonction des affaires traitées le président de la      chambre de commerce et d'industrie territoriale.
+3° Est membre à titre consultatif en fonction des affaires traitées le président de la chambre de commerce et d'industrie territoriale.
 
 4° Le secrétariat est assuré par le directeur départemental de l'équipement.

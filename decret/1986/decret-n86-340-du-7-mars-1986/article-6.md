@@ -8,7 +8,7 @@ a) Le directeur de l'établissement, président ;
 
 b) Un représentant du conseil régional ;
 
-c) Un représentant du conseil général ;
+c) Un représentant du conseil départemental ;
 
 d) Trois personnalités qualifiées désignées par le recteur de l'académie de Nice ;
 

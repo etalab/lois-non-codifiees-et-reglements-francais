@@ -18,9 +18,9 @@ Il comprend en outre :
 
 Le maire de la commune de Belfort ou son représentant ;
 
-Le président du conseil général du département du Doubs ou son représentant ;
+Le président du conseil départemental du département du Doubs ou son représentant ;
 
-Le président du conseil général du département du territoire de Belfort ou son représentant ;
+Le président du conseil départemental du département du territoire de Belfort ou son représentant ;
 
 Le président du conseil régional de la région Franche-Comté ou son représentant ;
 

@@ -6,7 +6,7 @@ a) Un député, sur proposition du président de l'Assemblée nationale ;
 
 b) Un sénateur, sur proposition du président du Sénat ;
 
-c) Quatorze conseillers généraux présidents ou vice-présidents de conseils d'administration des services départementaux d'incendie et de secours, sur proposition du président de l'Assemblée des départements de France ;
+c) Quatorze conseillers départementaux présidents ou vice-présidents de conseils d'administration des services départementaux d'incendie et de secours, sur proposition du président de l'Assemblée des départements de France ;
 
 d) Quatre maires élus aux conseils d'administration des services départementaux d'incendie et de secours, sur proposition du président de l'Association des maires de France ;
 
@@ -22,7 +22,7 @@ g) Cinq représentants de l'Etat :
 
 -un représentant du ministre de l'intérieur ;
 
--le    directeur général de la sécurité civile et de la gestion des crises ;
+-le directeur général de la sécurité civile et de la gestion des crises ;
 
 -le directeur général des collectivités locales ;
 

@@ -22,7 +22,7 @@ Le comité départemental de l'information géographique est présidé par le pr
 
 -le directeur départemental de la sécurité publique ou son représentant ;
 
--le directeur départemental des affaires sanitaires et socia les ou son représentant ;
+-le directeur départemental des affaires sanitaires et sociales ou son représentant ;
 
 -le directeur départemental du travail, de l'emploi et de la formation professionnelle ou son représentant ;
 
@@ -34,7 +34,7 @@ Le comité départemental de l'information géographique est présidé par le pr
 
 -un représentant élu de la région désigné par le président du conseil régional ;
 
--un représentant élu du département désigné par le président du conseil général ;
+-un représentant élu du département désigné par le président du conseil départemental ;
 
 -un représentant des ingénieurs des services techniques des collectivités territoriales, désigné par leur association ;
 
@@ -54,4 +54,4 @@ En outre, le comité peut s'adjoindre, le cas échéant, des représentants loca
 
 Cette liste, non limitative, peut tenir compte des particularités propres à chaque département.
 
-Le président peut également inviter aux séances du comité, se lon l'ordre du jour, les intervenants dont la contribution lui paraît utile.
+Le président peut également inviter aux séances du comité, selon l'ordre du jour, les intervenants dont la contribution lui paraît utile.

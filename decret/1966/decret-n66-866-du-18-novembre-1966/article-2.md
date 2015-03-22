@@ -22,7 +22,7 @@ Le mandat de ces membres est de trois ans renouvelable deux fois au maximum. Le 
 
 -deux courtiers désignés par le syndicat des courtiers des vins et spiritueux de Bordeaux, de la Gironde et du Sud-Ouest ;
 
--huit délégués du conseil général de la Gironde, en exercice, dont quatre viticulteurs ou, à défaut, élus de cantons viticoles, deux délégués étant en outre maires ;
+-huit délégués du conseil départemental de la Gironde, en exercice, dont quatre viticulteurs ou, à défaut, élus de cantons viticoles, deux délégués étant en outre maires ;
 
 -deux personnalités qualifiées dans les domaines juridique et économique nommées par le préfet de la Gironde ;
 
@@ -48,7 +48,7 @@ Le mandat de ces membres est de trois ans renouvelable deux fois au maximum. Le 
 
 -le doyen de l'institut d'oenologie de Bordeaux ;
 
--le         directeur régional de l'alimentation, de l'agriculture et de la forêt  de la région Aquitaine ou son représentant ;
+-le directeur régional de l'alimentation, de l'agriculture et de la forêt de la région Aquitaine ou son représentant ;
 
 -le directeur départemental de l'agriculture et de la forêt de la Gironde ou son représentant ;
 

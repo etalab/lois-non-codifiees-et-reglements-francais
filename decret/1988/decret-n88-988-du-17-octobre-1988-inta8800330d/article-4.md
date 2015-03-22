@@ -1,6 +1,6 @@
 # Article 4
 
-I.-Le conseil général exerce les attributions suivantes :
+I.-Le conseil départemental exerce les attributions suivantes :
 
 1° Il détermine les prélèvements prioritaires à effectuer pour couvrir les annuités d'emprunts visées au troisième alinéa du II de l'article 1648 A précité au profit de la ou des communes d'implantation dont les bases de taxe professionnelle sont soumises à écrêtement au titre d'un établissement mis en service avant le 1er janvier 1976. Le montant de l'annuité d'emprunt pris en charge par le fonds départemental est égal, dans la limite du produit de l'écrêtement, au total des annuités inscrit dans le budget de la commune au titre des emprunts contractés avant le 1er juillet 1975. Il est augmenté, le cas échéant, de la fraction des annuités mises à la charge de la commune au 1er juillet 1975, lorsque cette commune appartient à un groupement qui a contracté un emprunt avant cette date ;
 
@@ -14,7 +14,7 @@ I.-Le conseil général exerce les attributions suivantes :
 
 Figurent sur cette liste les communes où sont domiciliés, au 1er janvier de l'année de l'écrêtement, au moins dix salariés travaillant dans l'établissement et dans lesquelles ces salariés et leurs familles représentent au moins 1 % de la population totale de la commune. Pour l'appréciation de cette dernière condition, le nombre de salariés est multiplié par quatre.
 
-Peuvent également figurer sur la liste les communes qui justifient d'un préjudice ou d'une charge répondant aux critères objectifs fixés par le conseil général.
+Peuvent également figurer sur la liste les communes qui justifient d'un préjudice ou d'une charge répondant aux critères objectifs fixés par le conseil départemental.
 
 II.-Lorsqu'il existe dans un département plusieurs établissements donnant lieu à écrêtement, le minimum de 40 % visé au 2° du II de l'article 1648 A précité du code général des impôts est apprécié établissement par établissement.
 

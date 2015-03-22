@@ -1,6 +1,6 @@
 # Article 4
 
-I. - Le Conseil commun de la fonction publique est composé de trois collèges :
+I.-Le Conseil commun de la fonction publique est composé de trois collèges :
 
 1° Le collège des représentants des organisations syndicales de fonctionnaires comprend trente membres désignés par les organisations syndicales de fonctionnaires appelées à siéger au sein de cette instance.
 
@@ -10,7 +10,7 @@ Ces sièges sont répartis entre les organisations syndicales à la représentat
 
 a) Sept membres choisis parmi les maires et les conseillers municipaux ;
 
-b) Deux membres choisis parmi les présidents de conseil général et conseillers généraux ;
+b) Deux membres choisis parmi les présidents de conseil départemental et conseillers généraux ;
 
 c) Un membre choisi parmi les présidents de conseil régional et conseillers régionaux ;
 

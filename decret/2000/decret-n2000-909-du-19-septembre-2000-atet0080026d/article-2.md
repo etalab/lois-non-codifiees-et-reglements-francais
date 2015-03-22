@@ -1,6 +1,6 @@
 # Article 2
 
-S'il estime que les conditions pour arrêter le périmètre d'étude du pays sont réunies, le préfet de région saisit pour avis le ou les conseils généraux et le ou les conseils régionaux intéressés.
+S'il estime que les conditions pour arrêter le périmètre d'étude du pays sont réunies, le préfet de région saisit pour avis le ou les conseils départementaux et le ou les conseils régionaux intéressés.
 
 A la demande du préfet de région, le ou les préfets de département compétents recueillent l'avis de la ou des commissions départementales de coopération intercommunale.
 

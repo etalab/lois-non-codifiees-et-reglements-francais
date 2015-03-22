@@ -26,9 +26,9 @@ b) Quatre représentants des établissements publics de coopération intercommun
 
 c) Le président du conseil régional de la région Provence-Alpes-Côte d'Azur ;
 
-d) Le président du conseil général des Alpes-Maritimes, le président du conseil général des Alpes-de-Haute-Provence ;
+d) Le président du conseil départemental des Alpes-Maritimes, le président du conseil départemental des Alpes-de-Haute-Provence ;
 
-e) Quatre conseillers généraux, trois désignés par le conseil général des Alpes-Maritimes et un par le conseil général des Alpes-de-Haute-Provence ;
+e) Quatre conseillers généraux, trois désignés par le conseil départemental des Alpes-Maritimes et un par le conseil départemental des Alpes-de-Haute-Provence ;
 
 3° Seize personnalités :
 
@@ -58,6 +58,6 @@ c) Cinq personnalités à compétence nationale :
 
 4° Un représentant du personnel élu avec son suppléant par le personnel permanent de l'établissement public du parc.
 
-II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent. Le président du conseil régional et les présidents des conseils généraux peuvent se faire suppléer par un élu de la même assemblée délibérante.
+II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent. Le président du conseil régional et les présidents des conseils départementaux peuvent se faire suppléer par un élu de la même assemblée délibérante.
 
 III. ― Le président du conseil économique, social et culturel assiste aux séances avec voix consultative.

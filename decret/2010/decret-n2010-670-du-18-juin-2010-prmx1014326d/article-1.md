@@ -4,7 +4,7 @@ Les commissions de transition vers la télévision numérique instituées par l'
 
 I. ― Trois représentants des services déconcentrés de l'Etat.
 
-II. ― Un représentant du Conseil supérieur de l'audiovisuel.;
+II. ― Un représentant du Conseil supérieur de l'audiovisuel. ;
 
 III. ― Cinq représentants des collectivités territoriales :
 
@@ -14,7 +14,7 @@ Si, dans la collectivité, il n'existe pas d'association de maires, ces représe
 
 S'il existe plusieurs associations, les trois conseillers municipaux sont désignés conjointement par leurs présidents. A défaut d'accord entre eux, il est procédé à l'élection prévue à l'alinéa précédent ;
 
-2° Deux élus du conseil général désignés par le président du conseil général.
+2° Deux élus du conseil départemental désignés par le président du conseil départemental.
 
 Pour le département de Paris, les cinq représentants des collectivités territoriales sont désignés par le maire de Paris.
 

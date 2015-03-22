@@ -6,13 +6,13 @@ Le comité de massif est composé, selon la superficie des massifs, de 49 à 83 
 
 a) Des conseillers régionaux désignés par chaque conseil régional ;
 
-b) Des conseillers généraux désignés par chaque conseil général parmi ceux qui sont élus dans un canton situé en tout ou partie dans le massif ;
+b) Des conseillers départementaux désignés par chaque conseil départemental parmi ceux qui sont élus dans un canton situé en tout ou partie dans le massif ;
 
 c) Des représentants des communes situées dans le massif, proposés par l'Association des maires de France et des établissements publics de coopération intercommunale regroupant des communes situées dans le massif, proposés par l'Association des communautés de France ;
 
 2° D'un collège de représentants des activités économiques ; il comprend :
 
-a) Des représentants des chambres d'agriculture, des      chambres de commerce et d'industrie territoriales et des chambres de métiers et de l'artisanat de région ayant en tout ou partie le massif pour ressort, proposés par chacune des chambres consulaires, dans la limite de trois sièges pour chacune d'elles ;
+a) Des représentants des chambres d'agriculture, des chambres de commerce et d'industrie territoriales et des chambres de métiers et de l'artisanat de région ayant en tout ou partie le massif pour ressort, proposés par chacune des chambres consulaires, dans la limite de trois sièges pour chacune d'elles ;
 
 b) Des représentants des organisations syndicales représentatives des secteurs de l'agriculture et de la sylviculture, de l'industrie, du sport ou du tourisme ayant en tout ou partie le massif pour ressort, proposés par ces organisations dans la limite de deux sièges pour chacun de ces trois secteurs ;
 

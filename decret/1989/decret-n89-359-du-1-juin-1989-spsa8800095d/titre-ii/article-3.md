@@ -10,9 +10,9 @@ Le conseil d'administration de l'établissement public Antoine-Koenigswarter com
 
 4° Trois personnalités qualifiées désignées par le préfet de l'Yonne ;
 
-5° Un représentant du département de l'Essonne désigné par le président du conseil général ;
+5° Un représentant du département de l'Essonne désigné par le président du conseil départemental ;
 
-6° Un représentant du département de l'Yonne désigné par le président du conseil général ;
+6° Un représentant du département de l'Yonne désigné par le président du conseil départemental ;
 
 7° Quatre représentants des usagers, dont deux au moins désignés sur proposition des associations nationales représentatives des personnes handicapées ou des parents d'enfants handi capés ;
 

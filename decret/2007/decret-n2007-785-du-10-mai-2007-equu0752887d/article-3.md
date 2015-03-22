@@ -22,7 +22,7 @@ g) Le trésorier-payeur général du département du Val-de-Marne, ou son repré
 
 a) Trois représentants de la région d'Ile-de-France désignés en son sein par le conseil régional ;
 
-b) Trois représentants du département du Val-de-Marne désignés en son sein par le conseil général ;
+b) Trois représentants du département du Val-de-Marne désignés en son sein par le conseil départemental ;
 
 c) Un représentant de la communauté d'agglomération Plaine centrale du Val-de-Marne désigné en son sein par le conseil de la communauté ;
 

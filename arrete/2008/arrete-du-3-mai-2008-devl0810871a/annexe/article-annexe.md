@@ -6,7 +6,7 @@ A.-Chaque direction départementale de l'équipement et direction départemental
 
 En relèvent, outre les personnels qui y sont affectés :
 
-― les personnels mis à disposition ou en détachement sans limitation de durée auprès des conseils généraux ou conseils régionaux ;
+― les personnels mis à disposition ou en détachement sans limitation de durée auprès des conseils départementaux ou conseils régionaux ;
 
 ― les agents affectés dans les missions d'inspection générale territoriale (MIGT) (sauf MIGT 2 et 12), les inspections du travail des transports (sauf Paris), les délégations régionales de l'Agence nationale de l'habitat, les centres interministériels de renseignements administratifs (sauf Paris), les délégations territoriales de la mission de l'inspection interministérielle du logement social (MIILOS) (sauf Ile-de-France), les sites du centre national des ponts et secours, le centre de formation polyvalent de Brest pour la direction départementale du Finistère ;
 
@@ -158,7 +158,7 @@ W.-Chacun des établissements publics suivants :
 
 12° L'Etablissement public de sécurité ferroviaire ;
 
-13° L' Institut national de l'information géographique et forestière ;
+13° L'Institut national de l'information géographique et forestière ;
 
 14° L'Institut national de recherche sur les transports et leur sécurité ;
 
@@ -174,7 +174,7 @@ W.-Chacun des établissements publics suivants :
 
 20° Les parcs nationaux de France (Port-Cros, Vanoise, Pyrénées, Cévennes, Ecrins, Mercantour, Guyane, Guadeloupe et Réunion).
 
-Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central) .
+Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central).
 
 X.-Des bureaux de vote spéciaux sont institués dans chacun des services ou directions d'administration centrale suivantes :
 

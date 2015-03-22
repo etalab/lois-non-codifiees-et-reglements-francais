@@ -28,7 +28,7 @@ I.-Le conseil d'administration de l'établissement public est composé :
 
 -le président du conseil régional et un conseiller régional désigné par son assemblée ;
 
--le président du conseil général et un conseiller général désigné par son assemblée ;
+-le président du conseil départemental et un conseiller général désigné par son assemblée ;
 
 -le président de l'association des maires du département de la Guyane ;
 
@@ -64,7 +64,7 @@ d) Trois personnalités à compétence nationale ou représentant des organismes
 
 -un représentant de l'Office national des forêts.
 
-4° D'un représentant du personnel, élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au  comité technique de l'établissement.
+4° D'un représentant du personnel, élu avec son suppléant par le personnel de l'établissement public du parc sur une liste présentée par les organisations syndicales habilitées à désigner des représentants au comité technique de l'établissement.
 
 II.-Les membres mentionnés aux 1° et 2° du I peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent ou un élu de la même assemblée délibérante, à l'exception des représentants des autorités coutumières, qui peuvent se faire représenter par un autre membre de la communauté du territoire concerné.
 

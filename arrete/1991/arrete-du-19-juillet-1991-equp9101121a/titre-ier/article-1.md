@@ -24,7 +24,7 @@ Un ancien élève de l'école représentant de l'association des ingénieurs des
 
 Trois représentants des collectivités locales se répartissant comme suit :
 
-- un président de conseil général ;
+- un président de conseil départemental ;
 
 - un maire ;
 

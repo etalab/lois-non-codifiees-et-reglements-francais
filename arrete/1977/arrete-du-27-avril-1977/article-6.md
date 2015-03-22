@@ -1,6 +1,6 @@
 # Article 6
 
-Les représentants des conseils généraux sont nommés par le ministre de l'intérieur après consultation de l'assemblée des présidents de conseils généraux.
+Les représentants des conseils départementaux sont nommés par le ministre de l'intérieur après consultation de l'assemblée des présidents de conseils départementaux.
 
 " Les représentants des communes à la Commission nationale paritaire des sapeurs-pompiers professionnels sont élus dans les conditions précisées par arrêté du ministre de l'intérieur.
 

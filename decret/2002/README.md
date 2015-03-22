@@ -30,6 +30,7 @@
 - [Décret n°2002-459 du 4 avril 2002 (ECOX0200001D)](decret-n2002-459-du-4-avril-2002-ecox0200001d)
 - [Décret n°2002-8 du 4 janvier 2002 (MESH0124421D)](decret-n2002-8-du-4-janvier-2002-mesh0124421d)
 - [Décret n°2002-9 du 4 janvier 2002 (MESH0124422D)](decret-n2002-9-du-4-janvier-2002-mesh0124422d)
+- [Décret n°2002-962 du 4 juillet 2002 (DEVN0200054D)](decret-n2002-962-du-4-juillet-2002-devn0200054d)
 - [Décret n°2002-465 du 5 avril 2002 (MESH0220982D)](decret-n2002-465-du-5-avril-2002-mesh0220982d)
 - [Décret n°2002-466 du 5 avril 2002 (MESH0220983D)](decret-n2002-466-du-5-avril-2002-mesh0220983d)
 - [Décret n°2002-1064 du 7 août 2002 (PRMX0205836D)](decret-n2002-1064-du-7-aout-2002-prmx0205836d)

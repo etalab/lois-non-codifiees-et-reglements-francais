@@ -14,7 +14,7 @@ II.-Ce conseil comprend :
 
 5° Quatre personnalités extérieures de chaque établissement dont un représentant des anciens élèves.
 
-Il comprend également cinq représentants des collectivités territoriales sur le territoire desquelles sont situées les implantations principales de l'établissement, désignés respectivement par le conseil régional du Centre, le conseil général du Cher et le conseil général de Loir-et-Cher, et les organes délibérants de l'établissement public de coopération intercommunal compétent.
+Il comprend également cinq représentants des collectivités territoriales sur le territoire desquelles sont situées les implantations principales de l'établissement, désignés respectivement par le conseil régional du Centre, le conseil départemental du Cher et le conseil départemental de Loir-et-Cher, et les organes délibérants de l'établissement public de coopération intercommunal compétent.
 
 Le président de chaque établissement désigne, après consultation de son conseil d'administration, les membres mentionnés aux 2°, 3° et 4° issus de leur établissement respectif.
 

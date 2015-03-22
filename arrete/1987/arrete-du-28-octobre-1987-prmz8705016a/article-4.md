@@ -14,7 +14,7 @@ Le conseil d'orientation de la forêt méditerranéenne comprend, outre son pré
 
 -un représentant du ministre chargé de l'environnement ;
 
--les   préfets des régions de Corse, Languedoc-Roussillon et Rhône-Alpes ou leur représentant ;
+-les préfets des régions de Corse, Languedoc-Roussillon et Rhône-Alpes ou leur représentant ;
 
 -le directeur général de l'Office national des forêts ou son représentant.
 
@@ -22,7 +22,7 @@ Le conseil d'orientation de la forêt méditerranéenne comprend, outre son pré
 
 -le président de chacun des conseils régionaux de Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur et Rhône-Alpes, ou le conseiller régional le représentant ;
 
--le conseiller général représentant chacun des conseils généraux membre de l'entente interdépartementale en vue de la protection de la forêt contre l'incendie au sein du bureau de cette entente.
+-le conseiller général représentant chacun des conseils départementaux membre de l'entente interdépartementale en vue de la protection de la forêt contre l'incendie au sein du bureau de cette entente.
 
 3° Les représentants des milieux socioprofessionnels suivants :
 

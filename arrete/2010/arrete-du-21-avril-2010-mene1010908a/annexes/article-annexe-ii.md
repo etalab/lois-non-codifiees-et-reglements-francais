@@ -599,7 +599,7 @@ S 1 Les institutions publiques françaises et européennes
 <p>•· Le maire.</p>
 <p>S 1-4-2 Les collectivités territoriales</p>
 <p>•· Le conseil régional et ses principaux services.</p>
-<p>•· Le conseil général et ses principaux services.</p>
+<p>•· Le conseil départemental et ses principaux services.</p>
 <p>•· Le conseil municipal.</p>
 <p>•· La coopération intercommunale.</p>
 </td>

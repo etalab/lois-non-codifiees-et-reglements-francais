@@ -1,6 +1,6 @@
 # Article 2
 
-I. ― Le préfet précise, après accord du préfet coordonnateur de bassin la consistance des services ou parties de services faisant l'objet des transferts prévus à l'article 1er et fournit des éléments représentatifs de l'état des charges liées à ces services ou parties de services. A cet effet, il prend, après avis du  comité technique spécial du service concerné, un arrêté comportant :
+I. ― Le préfet précise, après accord du préfet coordonnateur de bassin la consistance des services ou parties de services faisant l'objet des transferts prévus à l'article 1er et fournit des éléments représentatifs de l'état des charges liées à ces services ou parties de services. A cet effet, il prend, après avis du comité technique spécial du service concerné, un arrêté comportant :
 
 a) La liste détaillée des services ou parties de services à transférer ;
 
@@ -12,7 +12,7 @@ d) Un état des charges de fonctionnement, autres que celles de personnel, suppo
 
 e) Un état des charges supportées par l'Etat au titre des années 2005,2006,2007 pour les vacations nécessaires au fonctionnement des services ou parties de services à transférer.
 
-II. ― Dans le même temps, le préfet communique au président du conseil général :
+II. ― Dans le même temps, le préfet communique au président du conseil départemental :
 
 a) La liste nominative des agents occupant un emploi à transférer ainsi que la liste des emplois devenus vacants depuis le 31 décembre 2007 ;
 
@@ -20,7 +20,7 @@ b) Un état des jours acquis au titre du compte épargne-temps par chacun de ces
 
 c) Un état des durées de service accomplies dans un emploi classé en catégorie active par chacun de ces agents.
 
-Il actualise ces données à la date du transfert des services ou parties de services et transmet ces compléments d'information au président du conseil général dans le mois suivant la date du transfert.
+Il actualise ces données à la date du transfert des services ou parties de services et transmet ces compléments d'information au président du conseil départemental dans le mois suivant la date du transfert.
 
 III. ― Pour l'application du quatrième alinéa du II de l'article 104 de la loi du 13 août 2004 susvisée, le nombre des emplois à transférer correspond au nombre d'emplois pourvus au 31 décembre 2007 dans les services ou parties de services mentionnés à l'article 1er pour la part d'activité exercée au titre des voies d'eau dont la propriété a été transférée.
 

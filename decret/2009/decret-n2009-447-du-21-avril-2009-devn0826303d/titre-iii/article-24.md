@@ -28,9 +28,9 @@ c) Deux représentants d'établissements publics de coopération intercommunale 
 
 d) Le président du conseil régional de la région Rhône-Alpes ;
 
-e) Le président du conseil général de la Savoie ;
+e) Le président du conseil départemental de la Savoie ;
 
-f) Deux conseillers généraux désignés par le conseil général de la Savoie ;
+f) Deux conseillers généraux désignés par le conseil départemental de la Savoie ;
 
 3° Seize personnalités :
 
@@ -66,7 +66,7 @@ c) Sept personnalités à compétence nationale ou représentant des organismes 
 
 II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
 
-Les maires des communes de Pralognan-la-Vanoise et de Termignon, le président du conseil régional et le président du conseil général peuvent se faire suppléer par un élu de la même assemblée délibérante.
+Les maires des communes de Pralognan-la-Vanoise et de Termignon, le président du conseil régional et le président du conseil départemental peuvent se faire suppléer par un élu de la même assemblée délibérante.
 
 Les autres représentants des collectivités territoriales et ceux des établissements publics de coopération intercommunale à fiscalité propre sont nommés avec un suppléant désigné dans les mêmes conditions.
 

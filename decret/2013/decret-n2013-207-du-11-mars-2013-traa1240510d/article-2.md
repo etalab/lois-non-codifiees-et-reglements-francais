@@ -22,6 +22,6 @@ Le préfet du Var.
 
 Le président de la communauté d'agglomération Toulon-Provence-Méditerranée.
 
-Le président du conseil général du Var.
+Le président du conseil départemental du Var.
 
-Les membres de la commission peuvent être suppléés dans les conditions prévues à l'article 3 du décret du 8 juin 2006 susvisé. Le président de la communauté d'agglomération Toulon-Provence-Méditerranée et le président du conseil général du Var peuvent, en outre, être suppléés par un agent relevant, respectivement, de leur collectivité.
+Les membres de la commission peuvent être suppléés dans les conditions prévues à l'article 3 du décret du 8 juin 2006 susvisé. Le président de la communauté d'agglomération Toulon-Provence-Méditerranée et le président du conseil départemental du Var peuvent, en outre, être suppléés par un agent relevant, respectivement, de leur collectivité.

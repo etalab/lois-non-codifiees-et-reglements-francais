@@ -22,7 +22,7 @@ Il comprend en outre :
 
 9. Deux huissiers de justice désignés sur proposition de la chambre nationale des huissiers de justice ;
 
-10. Un conseiller général ou un conseiller de Paris ;
+10. Un conseiller départemental ou un conseiller de Paris ;
 
 11. Un représentant de l'Association des maires de France ;
 

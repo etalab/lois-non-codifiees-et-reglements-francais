@@ -8,7 +8,7 @@ Un représentant de l'association des maires de France ;
 
 Un représentant de l'association des maires des stations françaises de sports d'hiver ;
 
-Un représentant de l'assemblée permanente des présidents de conseils généraux ;
+Un représentant de l'assemblée permanente des présidents de conseils départementaux ;
 
 Un représentant des associations nationales d'élus régionaux ;
 

@@ -10,7 +10,7 @@ Le directeur général du centre national de gestion assure, au nom du ministre 
 
 4° La gestion et la rémunération des personnels de direction, des directeurs des soins et des praticiens hospitaliers en recherche d'affectation ;
 
-5° La gestion et la rémunération des conseillers généraux des établissements de santé ;
+5° La gestion et la rémunération des conseillers départementaux des établissements de santé ;
 
 6° La gestion et la rémunération des personnels de direction placés en congé spécial ;
 
@@ -36,7 +36,8 @@ Le directeur général du centre national de gestion assure, au nom du ministre 
 
 17° L'organisation des concours des personnels de direction, de praticiens des établissements publics de santé, des attachés d'administration hospitalière, des directeurs des soins, des concours de l'internat, ainsi que de ceux concernant les épreuves classantes nationales, les procédures d'autorisation d'exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien dans le respect des règles prévues par les articles L. 4111-2 et L. 4221-12 du code de la santé publique, à l'exclusion de tout acte relatif à la détermination des programmes, aux conditions d'admission à concourir, au nombre de places offertes aux concours et à l'ouverture de ceux-ci ;
 
-18° La gestion et le secrétariat des commissions d'autorisation d'exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien prévues aux articles L. 4111-2, L. 4111-3, L. 4111-4, L. 4131-1-1, L. 4141-3-1, L. 4151-5-1, L. 4221-9, L. 4221-12, L. 4221-14-1 et L. 4221-14-2 du code de la santé publique ainsi que la gestion et le secrétariat de la section de la commission compétente pour l'examen des autorisations d'exercice des fonctions de biologiste médical prévues aux articles L. 6213-2 et L. 6213-3 du même code ;
+18° La gestion et le secrétariat des commissions d'autorisation d'exercice des professions de médecin, chirurgien-dentiste, sage-femme et pharmacien prévues aux articles L. 4111-2, L. 4111-3, L. 4111-4,
+L. 4131-1-1, L. 4141-3-1, L. 4151-5-1, L. 4221-9, L. 4221-12, L. 4221-14-1 et L. 4221-14-2 du code de la santé publique ainsi que la gestion et le secrétariat de la section de la commission compétente pour l'examen des autorisations d'exercice des fonctions de biologiste médical prévues aux articles L. 6213-2 et L. 6213-3 du même code ;
 
 19° La définition des actions de formation des personnels de direction, des directeurs des soins et des praticiens hospitaliers.
 

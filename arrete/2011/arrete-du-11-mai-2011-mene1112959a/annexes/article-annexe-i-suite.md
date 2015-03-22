@@ -1,787 +1,1419 @@
 # Article Annexe I (suite)
 
-Remarque :
-
-Les élèves pourront acquérir les compétences liées aux gestes d'urgence et à la prévention des risques liés à l'activité physique lors des formations à l'unité d'enseignement du certificat de sauveteur secouriste du travail (SST) ou de prévention secours civiques de niveau 1 (PSC1) et du certificat de prévention des risques liés à l'activité physique sanitaire et social (PRAP 2S).
-
-Ventilation des savoirs associés selon les options
-
-<table>
-<tbody>
-<tr>
-<td colspan="4" width="674">
-<p align="center">NUTRITION - ALIMENTATION </p>
-</td>
-</tr>
-<tr>
-<td width="223">
-<p align="center">Domicile</p>
-</td>
-<td colspan="2" width="226">
-<p align="center">Connaissances communes</p>
-</td>
-<td width="217">
-<p align="center">Structure</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">1 SOURCES NUTRITIONNELLES </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">1.1 Constituants alimentaires </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="318">
-<p>1.2 Groupes d'aliments </p>
-<p>1.3 Modifications physico-chimiques </p>
-</td>
-<td colspan="2" width="352"/>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">2 ALIMENTATION RATIONNELLE </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">2 - Alimentation rationnelle </p>
-<p align="center">2.1 Besoins nutritionnels </p>
-<p align="center">2.2 Alimentation du nourrisson, de l'enfant </p>
-<p align="center">2 .3 Alimentation des adolescents, adultes, personnes âgées </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="318">
-<p>2.4 Équilibre alimentaire </p>
-</td>
-<td colspan="2" valign="top" width="352"/>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">3 - REGIMES ALIMENTAIRES </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">4 - COMPORTEMENTS ET HABITUDES ALIMENTAIRES </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">5 - QUALITE SANITAIRE DES ALIMENTS </p>
-</td>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="5" width="674">
-<p align="center">Techniques professionnelles et technologie associée : <br/>SERVICES A L'USAGER</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="222">
-<p align="center">Domicile</p>
-</td>
-<td colspan="2" width="222">
-<p align="center">Connaissances communes</p>
-</td>
-<td width="222">
-<p align="center">Structure</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1- ENTRETIEN DE L'ENVIRONNEMENT DE LA PERSONNE</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1 1- Éléments de connaissances communs aux techniques</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.2 - Entretien des locaux et des équipements</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>*Chambre, </p>
-<p>Salle bains, toilettes </p>
-<p>Cuisine </p>
-<p>1.2.1 Techniques de dépoussiérage manuel et mécanique </p>
-<p>1.2.2 Techniques de lavage manuel sols et surfaces, équipements, vaisselle </p>
-</td>
-<td colspan="2" width="353">
-<p>**chambre de malade Salle bains, toilettes </p>
-<p>1.2.3 Techniques de bionettoyage des locaux, équipements et matériels </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.2.4 Matériaux à entretenir : <br/>locaux, équipements, matériels, aides techniques, jouets, ...</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317"/>
-<td colspan="2" width="353">
-<p>1.2.5 Zones à risques </p>
-<p>1.2.6 Techniques de préparation de la stérilisation </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.2.7 Déchets selon le contexte professionnel <br/>caractéristiques, sources, risques déchets ménagers banals</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317"/>
-<td colspan="2" width="353">
-<p>déchets des activités de soins </p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>1.3 - Entretien des textiles </p>
-<p>1.3.1 Techniques relatives au tri, détachage, lavage repassage, pliage réfection courante et adaptation simple du linge et des vêtements </p>
-<p>1.3.2 Matières textiles </p>
-</td>
-<td colspan="2" width="353"/>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>1.4 - Technologie des appareils et des matériels </p>
-<p>1.4.1 Matériels et appareils de préparation, conservation, cuisson des aliments </p>
-</td>
-<td colspan="2" width="353"/>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.4.2 Matériels et appareils de remise en température</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>1.4.3 Matériels et appareils d'entretien du linge </p>
-</td>
-<td colspan="2" valign="top" width="353"/>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.4.4 Matériels et appareils d'entretien des locaux et des équipements</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.5 - Produits de nettoyage et de désinfection</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.6 - Gestion des stocks de produits et de matériels</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.7 - Aménagement des locaux et des espaces</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1.7.1 Facteurs d'hygiène et de confort des locaux pour le bien-être de la personne</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>1.7.2 Agencement et équipement des locaux pour l'accessibilité, la sécurité et la prévention des accidents domestiques </p>
-</td>
-<td colspan="2" width="353"/>
-</tr>
-<tr>
-<td colspan="3" valign="top" width="317"/>
-<td colspan="2" width="353">
-<p>1.7.3 Circuits </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">2 PREPARATION DES COLLATIONS ET DES REPAS</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">2.1 - Produits alimentaires</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>2.1.1 Produits alimentaires courants </p>
-</td>
-<td colspan="2" valign="top" width="353"/>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">2.1.2 produits spécifiques</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>2.2 - Techniques de préparations de repas </p>
-</td>
-<td colspan="2" width="353"/>
-</tr>
-<tr>
-<td width="168"/>
-<td colspan="2" width="145"/>
-<td colspan="2" width="353">
-<p>2.3 - Techniques de préparations de collations </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">2.4 - Techniques de services des repas, des collations</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">3 GESTION ET ORGANISATION FAMILIALE</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>3.1 - Achats alimentaires </p>
-</td>
-<td colspan="2" valign="top" width="353"/>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>3.2 - Gestion de budget </p>
-</td>
-<td colspan="2" valign="top" width="353"/>
-</tr>
-<tr>
-<td colspan="3" width="317">
-<p>3.3 - Gestion des documents </p>
-</td>
-<td colspan="2" valign="top" width="353"/>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">Techniques professionnelles et technologie associée <br/>ERGONOMIE - SOINS </p>
-</td>
-</tr>
-<tr>
-<td width="222">
-<p align="center">Domicile</p>
-</td>
-<td colspan="2" width="222">
-<p align="center">Connaissances communes</p>
-</td>
-<td width="222">
-<p align="center">Structure</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">1 HYGIENE PROFESSIONNELLE </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">2 ERGONOMIE ET SANTE AU TRAVAIL </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">3 TECHNIQUES DE SOINS D'HYGIENE ET DE CONFORT </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="316">
-<br/>
-</td>
-<td colspan="2" width="354">
-<p>3.1 Démarche de soins </p>
-</td>
-</tr>
-<tr>
-<td width="222">
-<br/>
-</td>
-<td colspan="2" width="222">
-<p>3.2 Soins d'hygiène et de confort de la personne </p>
-</td>
-<td width="222">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.2.1 Soins d'hygiène corporelle de l'adulte </p>
-<p align="center">3.2.2 Soins d'hygiène corporelle de l'enfant </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="316">
-<br/>
-</td>
-<td colspan="2" width="354">
-<p>3.2.3 Prévention des risques d'alitement prolongé </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.2.4 Habillage et déshabillage </p>
-<p align="center">3.2.5 Réfection d'un lit vide </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="316">
-<br/>
-</td>
-<td colspan="2" width="354">
-<p>3.2.6 Réfection d'un lit occupé </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.2.7 Différents lits : lits enfants, lits adulte </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="316">
-<br/>
-</td>
-<td colspan="2" width="354">
-<p>3.2.8 Berceaux maternité, lits médicalisés </p>
-<p>3.2.9 Accessoires du lit: </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.2.10 Installation au lit, au fauteuil </p>
-<p align="center">3.2.11 Installation pour un repas. Aide aux déplacements </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.2.12 Aide à l'élimination </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.2.14 Matériel : d'aide à la mobilisation </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.3 Surveillance de l'état de santé de la personne </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="316">
-<br/>
-</td>
-<td colspan="2" width="354">
-<p>3.3.1 Paramètres vitaux et principales constantes </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.3.2 Observation des signes cliniques </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.3.3 Observation du comportement relationnel ou social </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">3.4 Transmission des informations </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">3.4.1 Transmissions </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" width="316">
-<br/>
-</td>
-<td colspan="2" width="354">
-<p>3.4.2 Transmissions ciblées </p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">3.5 Aide à la prise de médicaments </p>
-</td>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="2" width="674">
-<p align="center">Techniques professionnelles et technologie associée <br/>ANIMATION - EDUCATION A LA SANTE</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="674">
-<p align="center">1 - ACTIVITES D'ACQUISITION OU DE MAINTIEN DE L'AUTONOMIE ET DE LA VIE SOCIALE</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="315"/>
-<td width="355">
-<p>1.1 Apprentissages et handicap </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="674">
-<p align="center">1.2 Conduite d'activités pour une personne ou un groupe</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="315"/>
-<td width="355">
-<p>1.3 Projet d'animation </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="674">
-<p align="center">1.4 Conduite d'animation</p>
-</td>
-</tr>
-<tr>
-<td width="315">
-<p>2 - Animation de réunion de travail </p>
-</td>
-<td valign="top" width="355"/>
-</tr>
-<tr>
-<td width="315"/>
-<td width="355">
-<p>3 - Conduite d'actions d'éducation à la santé </p>
-</td>
-</tr>
-</tbody>
-</table>
-
 .
 
 <table>
 <tbody>
 <tr>
 <td colspan="4" width="674">
-<p align="center">Sciences médico-sociales </p>
+<p align="center">SCIENCES MÉDICO-SOCIALES </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">1 - PERSONNES AUX DIFFERENTES ETAPES DE LA VIE ET LES REPONSES INSTITUTIONNELLES </p>
+<td width="278">
+<p align="center">Compétences </p>
 </td>
-</tr>
-<tr>
-<td width="222">
-<p align="center">Domicile</p>
+<td width="278">
+<p align="center">Limites de connaissances exigées </p>
 </td>
-<td colspan="2" width="222">
-<p align="center">Connaissances communes</p>
+<td width="53">
+<p align="center">D </p>
 </td>
-<td width="222">
-<p align="center">Structure</p>
+<td width="53">
+<p align="center">S </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.1 Politique de santé publique </p>
+<p>1-Personne aux différentes étapes de la vie et les réponses institutionnelles </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">1.1.1 Notions de démographie et de santé publique </p>
+<td colspan="4" width="674">
+<p>1.1 Politique de santé publique </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="314">
+<td width="278">
+<p>1.1.1 Notions de démographie et de santé publique </p>
+</td>
+<td width="278">
+<p>Définir les termes : natalité, fécondité, morbidité, mortalité <br/>Définir le concept de santé, la notion de prévention <br/>Dégager les caractéristiques, à partir de données démographiques et/ ou épidémiologiques, d'une population : âge, CSP, familles, état de santé.... <br/>Présenter des causes d'altération de la santé et leurs caractéristiques </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.1.2 Santé dans le monde Indicateurs et déterminants de santé d'une population </p>
+</td>
+<td width="278">
+<p>À partir de documents, comparer l'état de santé de populations de différents pays (espérance de vie, prévalence de certaines pathologies,...) </p>
+</td>
+<td width="53">
 <br/>
 </td>
-<td colspan="2" width="356">
-<p>1.1.2 Santé dans le monde </p>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">1.1.3 Organisation sanitaire et sociale en France </p>
+<td width="278">
+<p>1.1.3 Organisation sanitaire et sociale en France </p>
+</td>
+<td width="278">
+<p>Présenter schématiquement l'organisation sanitaire et sociale au niveau de l'état et des collectivités territoriales <br/>Donner quelques exemples de compétences, dans le secteur sanitaire et social pour chaque niveau </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" width="314">
-<br/>
-</td>
-<td colspan="2" width="356">
+<td width="278">
 <p>1.1.4 Promotion de la santé en faveur des élèves </p>
 </td>
+<td width="278">
+<p>Indiquer le rôle du service de promotion de la santé en faveur des élèves à partir d'exemples </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">1.1.5 Différents systèmes de protection sociale </p>
+<td width="278">
+<p>1.1.5 Différents systèmes de protection sociale : sécurité sociale (risques, branches, régimes), aide sociale, mutuelles, assurances </p>
+</td>
+<td width="278">
+<p>Définir un risque social <br/>Citer les principaux risques sociaux <br/>Indiquer les principaux types de protection sociale, leurs rôles respectifs et leur financement <br/>Indiquer les principaux risques couverts par la sécurité sociale </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.2 Besoins et attentes de la personne aux différents âges - Rythmes de vie </p>
+<p>1.2 Besoins et attentes de la personne aux différents âges-Les rythmes de vie </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="278">
+<p>Pour une personne donnée et à différents âges de la vie :<br/>-repérer et justifier ses besoins, ses attentes<br/>-justifier leur prise en compte dans l'accompagnement de la personne<br/>-décrire le rythme de vie (temps de repos, de sommeil, activité, capacité d'attention, résistance à la fatigue,...) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.3 Enfant </p>
+<p>1.3 Enfant </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" valign="top" width="674">
-<p align="center">1.3.1 Examens de l'enfant à la naissance </p>
-<p align="center">1.3.2 Développement somatique, sensoriel et moteur </p>
-<p align="center">1.3.3 Développement affectif, social, intellectuel et psychologique Modes d'expression et de communication </p>
-<p align="center">1.3.4 Acquisition du schéma corporel et de la notion de temps et d'espace </p>
-<p align="center">1.3.5 Développement intellectuel </p>
-<p align="center">1.3.6 Comportement social </p>
-<p align="center">1.3.7 Droits de l'enfant </p>
-<p align="center">1.3.8 Protection maternelle et infantile </p>
-<p align="center">1.3.9 Accueil collectif </p>
+<td width="278">
+<p>1.3.1 Examens de l'enfant à la naissance </p>
+</td>
+<td width="278">
+<p>Indiquer les différents tests réalisés à la naissance (score d'Apgar, contrôle des réflexes archaïques, test de Guthrie...) et justifier leurs intérêts </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314">
+<td rowspan="4" width="278">
+<p>1.3.2 Développement somatique, sensoriel et moteur </p>
+</td>
+<td width="278">
+<p>Énoncer les indicateurs de croissance de référence de la naissance à l'adolescence (taille, poids, segments, indice de masse corporelle (I. M. C)) <br/>Comparer des courbes staturo-pondérales d'une personne donnée aux courbes moyennes </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Indiquer les capacités sensorielles du nouveau-né et leur évolution <br/>Énoncer les signes indicateurs du développement sensoriel (poursuite oculaire, réaction aux bruits...), ses anomalies et indiquer l'intérêt de leur correction précoce </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Présenter l'évolution des capacités posturales et motrices durant les trois premières années <br/>Décrire les différents stades de l'acquisition de la préhension </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Énoncer les facteurs favorables à l'acquisition de la propreté et indiquer les facteurs de régression possibles <br/>Définir l'énurésie, l'encoprésie <br/>Citer les causes possibles et proposer une attitude adaptée leur correction précoce </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.3 Développement affectif, social, intellectuel et psychologique Modes d'expression et de communication </p>
+</td>
+<td width="278">
+<p>À partir d'exemples, repérer :<br/>-l'évolution des réactions de l'enfant, durant les premiers mois, aux stimulations, à l'environnement<br/>-les étapes de l'évolution du langage oral<br/>-les étapes de l'évolution du graphisme <br/>Présenter les conditions favorables à ces acquisitions <br/>
+<br/>Définir les troubles du langage (dyslexie, dysphasie, bégaiement,...) et justifier l'intérêt de leur prise en charge précoce </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.4 Acquisition du schéma corporel et de la notion de temps et d'espace </p>
+</td>
+<td width="278">
+<p>Présenter les étapes d'acquisition du schéma corporel (découverte du corps, des différences anatomiques) <br/>À partir de situations, à différents âges, comparer la capacité pour l'enfant à se repérer dans le temps, dans l'espace </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.5 Développement intellectuel </p>
+</td>
+<td width="278">
+<p>À l'aide d'exemples, dégager les principaux aspects du développement intellectuel de l'enfant : imitation, construction de la pensée logique, imagination, curiosité, capacité d'attention, de mémorisation, d'abstraction </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.6 Comportement social </p>
+</td>
+<td width="278">
+<p>Présenter les étapes de la socialisation et l'évolution des relations de l'enfant avec son entourage <br/>Indiquer l'attitude adaptée face à un enfant présentant un comportement difficile : violences verbales ou physiques, opposition systématique, hyper activité, difficulté de concentration... </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.7 Droits de l'enfant </p>
+</td>
+<td width="278">
+<p>Présenter les principes énoncés dans la convention relative aux droits de l'enfant </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.8 Protection maternelle et infantile </p>
+</td>
+<td width="278">
+<p>Présenter les objectifs de la protection maternelle et infantile (P. M. I) et ses actions (actions médico-sociales générales et actions en faveur des milieux de vie) <br/>Justifier l'intérêt des différents examens médicaux de la femme enceinte et de l'enfant <br/>Présenter les documents de suivi de la femme enceinte et de l'enfant et leurs intérêts </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.3.9 Accueil collectif : accueil collectif régulier, accueil collectif occasionnel ou ponctuel, jardins d'enfants, jardins d'éveil, service d'accueil familial, multi-accueil... </p>
+</td>
+<td width="278">
+<p>Indiquer les caractéristiques des différents modes d'accueil : âge des enfants accueillis, effectifs, statut, conditions et durée d'accueil, taux d'encadrement, personnels, objectifs <br/>Présenter les différents professionnels de la petite enfance (qualification et rôles) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="278">
 <p>1.3.10 Accueil individuel : assistants maternels </p>
 </td>
-<td colspan="2" valign="top" width="356"/>
+<td width="278">
+<p>Énoncer les modalités d'agrément des assistants maternels et caractériser leurs conditions d'exercice selon leur statut (individuel, salarié, groupement) Indiquer les ressources et partenaires de l'assistant maternel </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
 </tr>
 <tr>
-<td colspan="2" width="314"/>
-<td colspan="2" width="356">
+<td width="278">
+<p>Définir le relais d'assistants maternels (RAM) et justifier son intérêt Indiquer la spécificité de l'accueil en maisons d'assistants maternels </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>1.3.11 École maternelle, élémentaire </p>
+</td>
+<td width="278">
+<p>Présenter les objectifs de l'école maternelle, de l'école élémentaire <br/>Préciser les modalités de fonctionnement et organisation de l'école maternelle (inscription, âge des enfants, cycles) <br/>Énoncer des différentes catégories de personnels intervenant au niveau de l'école maternelle et préciser leur qualification, leur rôle et leur statut </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>1.3.12 Accueil de loisirs sans hébergement, séjours de vacances avec hébergement </p>
-<p>1. 4 adolescent </p>
+</td>
+<td width="278">
+<p>Présenter les objectifs, la réglementation en vigueur, les différentes catégories de personnel </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.5 Aide sociale à l'enfance</p>
+<p>1.4 Adolescent </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.4.1 Définition <br/>Évolution du concept </p>
+</td>
+<td width="278">
+<p>Présenter et justifier les principales caractéristiques de l'adolescence : transformations physiques et physiologiques, évolution des relations familiales, modification de l'image de soi, quête identitaire, désir d'autonomie... <br/>Différencier adolescence et puberté </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.4.2 Comportements </p>
+</td>
+<td width="278">
+<p>Présenter les particularités du comportement social du jeune (expérimentations, conduites alimentaires, vestimentaires, langagières, importance du groupe ou du réseau d'amis...) </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.4.3 Conduites à risques <br/>(cf. P. S. E) </p>
+</td>
+<td width="278">
+<p>Définir la notion de conduite à risques <br/>Analyser des données statistiques et présenter des réponses institutionnelles à quelques problèmes susceptibles de survenir (milieu scolaire,...) </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.4.4 Droits des mineurs </p>
+</td>
+<td width="278">
+<p>Énoncer les différents droits des mineurs <br/>Préciser l'intérêt des maisons de l'adolescent </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1. 6 Famille</p>
+<p>1.5 Aide sociale à l'enfance </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="278">
+<p>Présenter les missions de l'ASE :<br/>-objectifs<br/>-actions<br/>-moyens (professionnels, mesures éducatives, établissements d'accueil, assistants familiaux,...) <br/>À l'aide de documents, identifier les catégories d'enfants protégés par l'aide sociale à l'enfance <br/>Définir enfant en danger ou en risque de l'être et énumérer les signes susceptibles d'évoquer une maltraitance. <br/>
+<br/>Décrire les procédures de transmission d'information et de signalement d'une situation de maltraitance ou de danger (obligation, personnes et services destinataires) <br/>Préciser les compétences du juge des enfants <br/>
+<br/>Pour une situation donnée, identifier les professionnels compétents et leurs rôles </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.6.1 Évolution de la famille </p>
-<p align="center">1.6.2 Formes d'union </p>
-<p align="center">1.6.3 Autorité parentale</p>
+<p>1.6 Famille </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314">
+<td width="278">
+<p>1.6.1 Évolution de la famille </p>
+</td>
+<td width="278">
+<p>Présenter les différentes formes de la famille et son évolution à partir de données démographiques </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.6.2 Formes d'union </p>
+</td>
+<td width="278">
+<p>Caractériser les différentes formes d'union et leurs effets <br/>Définir la filiation <br/>Définir la reconnaissance d'un enfant <br/>Présenter le principe de dévolution du nom de famille et les démarches à effectuer </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.6.3 Autorité parentale </p>
+</td>
+<td width="278">
+<p>Définir l'autorité parentale <br/>Énoncer les situations dans lesquelles l'autorité parentale peut être déléguée <br/>Présenter les droits et devoirs qui découlent de l'autorité parentale <br/>En déduire l'attitude professionnelle à adopter pour une situation donnée <br/>
+<br/>Préciser les compétences du juge aux affaires familiales <br/>Énoncer les conséquences juridiques d'une séparation </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>1.6.4 Sécurité sociale : branche famille </p>
 </td>
-<td colspan="2" width="356"/>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">1.7 Personne âgée</p>
+<td width="278">
+<p>Préciser l'organisme qui délivre les prestations familiales <br/>Énoncer les différentes prestations familiales <br/>Pour un cas simple et à partir de documents, indiquer le droit aux prestations </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.7.1 Vieillissement, sénescence, sénilité </p>
-<p align="center">1.7.2 Différents âges de la vieillesse </p>
-<p align="center">1.7.3 Vieillissement biologique </p>
-<p align="center">1.7.4 Maladie d'Alzheimer </p>
-<p align="center">1.7.5 Vieillissement cognitif et psychologique </p>
-<p align="center">1.7.6 Perte d'autonomie, dépendance </p>
-<p align="center">1.7.7 Facteurs générateurs de la perte d'autonomie </p>
-<p align="center">1.7.8 Comportements face au vieillissement </p>
-<p align="center">1.7.9 Politique sociale et médicosociale</p>
+<p>1.7 Personne âgée </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314">
-<p>1.7.10 Sécurité sociale : branche retraite, caisse nationale de solidarité pour l'autonomie </p>
-<p>1.7.11 Les retraites complémentaires </p>
+<td width="278">
+<p>1.7.1 Vieillissement, sénescence, sénilité </p>
 </td>
-<td colspan="2" width="356"/>
+<td width="278">
+<p>À partir d'exemples et ou d'observations définir et différencier les notions de vieillissement, sénescence et sénilité </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.2 Différents âges de la vieillesse (3ème âge, 4ème âge) et place de la personne âgée dans la société </p>
+</td>
+<td width="278">
+<p>À partir de situations données, définir et caractériser les différents âges de la vieillesse <br/>Présenter la place des personnes âgées dans la société (personnes autonomes, personnes dépendantes) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.3 Vieillissement biologique </p>
+</td>
+<td width="278">
+<p>En lien avec le cours de biologie : <br/>Indiquer les modifications cellulaires et tissulaires liées au vieillissement <br/>À partir d'observations ou de documents, repérer les modifications morphologiques du corps liées au vieillissement (transformation de la silhouette, évolution de la peau et des phanères, augmentation de la masse graisseuse,...) <br/>Recenser les modifications anatomiques et physiologiques liées au vieillissement (muqueuses, appareils locomoteur, cardio-vasculaire, respiratoire, digestif, rénal, système nerveux, organes des sens, systèmes endocrinien, immunitaire) et en déduire les conséquences pour la personne <br/>À partir de situations données, caractériser le vieillissement différentiel </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.4 Maladie d'Alzheimer </p>
+</td>
+<td width="278">
+<p>En lien avec le cours de Biologie : <br/>Justifier l'attitude professionnelle adaptée au regard des comportements caractéristiques des malades : anxiété, déambulation, agressivité, pertes des repères... </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.5 Vieillissement cognitif et psychologique </p>
+</td>
+<td width="278">
+<p>À partir de situations données, repérer les modifications cognitives et psychologiques, en déduire les conséquences pour la personne </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.6 Perte d'autonomie, dépendance </p>
+</td>
+<td width="278">
+<p>Définir les notions d'autonomie et de dépendance <br/>À partir d'exemples ou d'observations, repérer les signes évocateurs d'une perte d'autonomie <br/>À partir de différents outils, évaluer la dépendance d'une personne (exemple grille AGGIR,...) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.7 Facteurs générateurs de la perte d'autonomie </p>
+</td>
+<td width="278">
+<p>À partir de différentes situations, repérer et classer les facteurs générateurs d'une perte d'autonomie </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.8 Comportements face au vieillissement </p>
+</td>
+<td width="278">
+<p>Présenter et analyser les réactions de la personne âgée, de son entourage face au vieillissement <br/>Comparer le rôle et la place de la personne âgée dans différentes cultures </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.9 Politique sociale et médicosociale </p>
+</td>
+<td width="278">
+<p>Énoncer et justifier les grands principes de la politique sociale et médico-sociale en faveur des personnes âgées <br/>Préciser les objectifs et conditions d'attribution des différentes allocations ou aides dédiées aux personnes âgées <br/>Indiquer les services ou organismes et les professionnels permettant la mise en œuvre de la politique médicosociale en faveur des personnes âgées </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.10 Sécurité sociale : branche retraite, caisse nationale de solidarité pour l'autonomie (C. N. S. A) </p>
+</td>
+<td width="278">
+<p>Définir le risque vieillesse Indiquer l'organisme qui gère la branche retraite et ses déclinaisons locales <br/>Présenter les conditions d'accès à la retraite dans le cadre du régime général </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.11 Retraites complémentaires </p>
+</td>
+<td width="278">
+<p>Présenter les conditions d'accès aux retraites complémentaires pour les personnes affiliées au régime général de la sécurité sociale </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.12 Etablissements et structures d'accueil (contrat de séjour, charte, professionnels....) </p>
+</td>
+<td width="278">
+<p>Présenter les différents établissements ou structures d'accueil pour personnes âgées : objectifs, modalités d'accueil, fonctionnement, personnels et rôles, prestations proposées et tarification <br/>À partir de situations données, repérer les alternatives au placement en institution proposées aux personnes âgées (accueil familial, hébergement temporaire,...) <br/>Indiquer les principes énoncés dans la charte des personnes âgées dépendantes, les illustrer par des exemples </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.7.13 Maintien à domicile </p>
+</td>
+<td width="278">
+<p>À partir de situations données, présenter l'intérêt et les limites du maintien à domicile des personnes en perte d'autonomie <br/>À partir de documents, décrire les principales aides ou services permettant le maintien à domicile </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.7.12 Établissements et structures d'accueil </p>
-<p align="center">1.7.13 Maintien à domicile</p>
+<p>1.8 Personne handicapée </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="674">
-<p align="center">1.8 Personne handicapée</p>
+<td width="278">
+<p>1.8.1 Différents types de handicap </p>
+</td>
+<td width="278">
+<p>Définir la notion de handicap <br/>À partir de la classification en vigueur, illustrer et caractériser, à l'aide d'exemples, les principaux types de handicaps (handicaps physiques, mentaux ; acquis, congénitaux) <br/>Énoncer les principales causes de handicaps et les incidences des altérations sur la vie quotidienne, sociale, et dans les activités d'apprentissage <br/>Énumérer et justifier les principaux moyens de prévention existant pour certains handicaps </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="674">
-<p align="center">1.8.1 Différents types de handicap </p>
-<p align="center">1.8.2 Attitudes face au handicap </p>
-<p align="center">1.8.3 Législation en faveur des personnes handicapées </p>
-<p align="center">1.8.4 Établissements en faveur des personnes handicapées </p>
-<p align="center">1.8.5 Services spécifiques aux personnes handicapées</p>
+<td width="278">
+<p>1.8.2 Attitudes face au handicap </p>
+</td>
+<td width="278">
+<p>Présenter les facteurs favorisant l'inclusion de la personne handicapée <br/>Analyser les réactions possibles de l'environnement, de la famille face au handicap (rejet, surprotection...) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314"/>
-<td colspan="2" width="356">
+<td width="278">
+<p>1.8.3 Législation en faveur des personnes handicapées </p>
+</td>
+<td width="278">
+<p>Énoncer les grands principes de la législation en faveur des personnes handicapées <br/>Présenter les missions des différentes instances ou commissions : maison départementale des personnes handicapées (M. D. P. H), équipe pluridisciplinaire d'évaluation, commission des droits et de l'autonomie des personnes handicapées (C. D. A. P. H),... <br/>Indiquer les prestations sociales en faveur de la personne handicapée <br/>
+<br/>À partir d'un plan personnalisé de compensation, identifier son objectif et en repérer les différentes étapes <br/>Présenter les facteurs favorisant la participation à la vie sociale : accès au travail et à la formation, accessibilité, services et moyens de communication, accès aux loisirs et aux vacances... <br/>Présenter la législation relative à l'emploi des personnes handicapées en milieu ordinaire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.8.4 Établissements en faveur des personnes handicapées </p>
+</td>
+<td width="278">
+<p>Présenter les différentes structures de rééducation et de travail protégé : objectifs, conditions d'accueil, personnels et rôles <br/>
+<br/>Présenter les établissements médico-sociaux et les différentes structures d'hébergement : objectifs, modalités d'accueil, fonctionnement, personnels et rôles </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.8.5 Services spécifiques aux personnes handicapées </p>
+</td>
+<td width="278">
+<p>Pour chaque service : <br/>services d'éducation spécialisée et de soins à domicile (S. E. S. S. A. D.) <br/>services d'accompagnement à la vie sociale (S. A. V. S.) services d'accompagnement médico-social pour adultes handicapés (S. A. M. S. A. H.) <br/>expliquer :<br/>-les missions<br/>-le fonctionnement<br/>-les prestations proposées et leur tarification </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>1.8.6 Handicap et scolarisation </p>
 </td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p align="center">1.9 Protection des majeurs vulnérables</p>
+<td width="278">
+<p>Développer les principes de la scolarisation en milieu ordinaire <br/>Définir l'inclusion scolaire <br/>Énoncer les activités possibles d'une personne accompagnant un jeune handicapé en milieu scolaire <br/>Caractériser les différentes modalités de scolarisation : milieu ordinaire, classes pour l'inclusion scolaire, unités localisées pour l'inclusion scolaire, unités d'enseignement en établissement médicosocial et établissement de santé <br/>Justifier l'intérêt du projet personnalisé de scolarisation <br/>Montrer l'articulation entre le plan personnalisé de compensation et le plan personnalisé de scolarisation </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.10 Personne malade</p>
+<p>1.9 Protection des majeurs vulnérables </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="278">
+<p>Énoncer les principes généraux de la protection des majeurs vulnérables <br/>
+<br/>Préciser les compétences du juge des tutelles <br/>
+<br/>Énumérer les différents types de mesures : le mandat de protection future la sauvegarde de justice la tutelle, la curatelle <br/>Pour chaque mesure :<br/>-énoncer les finalités<br/>-citer les effets sur la capacité de la personne protégée et sur l'administration de ses biens </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.10.1 Classification des maladies </p>
-<p align="center">1.10.2 Conséquences de la maladie </p>
-<p align="center">1.10.3 Comportements face à la maladie</p>
+<p>1.10 Personne malade </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314"/>
-<td colspan="2" width="356">
+<td width="278">
+<p>1.10.1 Classification des maladies </p>
+</td>
+<td width="278">
+<p>À partir de documents, proposer une classification des maladies <br/>Différencier maladie chronique et maladie aiguë <br/>Définir troubles mentaux et du comportement <br/>À partir d'exemples et/ ou de données épidémiologiques, caractériser une maladie dite émergente </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.10.2 Conséquences de la maladie </p>
+</td>
+<td width="278">
+<p>Indiquer les conséquences de la maladie sur la personne et son entourage (financières, relationnelles...) <br/>Énoncer les moyens d'évaluation de la douleur et sa prise en charge </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.10.3 Comportements face à la maladie </p>
+</td>
+<td width="278">
+<p>Présenter et analyser les réactions du malade, de son entourage face à la maladie, à l'équipe soignante, à l'hospitalisation <br/>Présenter et justifier les besoins de l'enfant hospitalisé et citer les réponses apportées </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>1.10.4 Droits du malade </p>
-<p>1.10.5 Établissements en faveur des malades </p>
+</td>
+<td width="278">
+<p>À partir de la charte du malade hospitalisé et de la législation en vigueur, énoncer les droits du malade </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.10.5 Établissements en faveur des malades (dont professionnels) </p>
+</td>
+<td width="278">
+<p>Présenter les différents établissements de santé en fonction de leur statut : missions, organisation, fonctionnement, personnels <br/>Situer, à partir de l'organigramme d'un pôle d'activités, les liens hiérarchiques et fonctionnels des différents personnels <br/>Énoncer les grands principes de la législation en vigueur sur les missions de service public et les centres hospitaliers </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.10.6 Sécurité sociale : assurance maladie, <br/>
+<br/>Couverture maladie universelle (C. M. U.), aide médicale, forfait hospitalier, mutuelle </p>
+</td>
+<td width="278">
+<p>Énoncer les différentes prestations servies dans le cadre de l'assurance maladie <br/>
+<br/>Pour un cas simple et à partir de documents, indiquer le droit aux prestations </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.10.6 Sécurité sociale : assurance maladie</p>
+<p>1.11 fin de vie et mort </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.11.1 Aspects biologiques, psychosociologiques, culturels de la mort </p>
+</td>
+<td width="278">
+<p>Donner une définition biologique de la mort <br/>Présenter l'approche de la mort dans différentes cultures <br/>Présenter les réactions possibles de l'entourage face à la mort et décrire les étapes du deuil </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.11.2 Mort subite du nourrisson </p>
+</td>
+<td width="278">
+<p>Définir la mort subite du nourrisson, indiquer les facteurs favorisants et les moyens de prévention </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>1.11.3 Personne mourante : accompagnement, problèmes éthiques </p>
+</td>
+<td width="278">
+<p>Énoncer et justifier les droits de la personne en fin de vie, selon la législation en vigueur <br/>Définir acharnement thérapeutique, euthanasie et suicide assisté en les situant par rapport à la législation <br/>Définir la notion de soins palliatifs <br/>Énoncer les objectifs des services ou unités de soins palliatifs et leurs rôles auprès de la personne en fin de vie et de son entourage dans le respect des personnes </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">1.11 Fin de vie et mort</p>
+<p>2-Méthodologie d'intervention </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2 - METHODOLOGIE D'INTERVENTION</p>
+<p>2.1 Bientraitance-Maltraitance </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.1.1 Promotion de la bientraitance </p>
+</td>
+<td width="278">
+<p>Définir le concept de bientraitance <br/>Énoncer et justifier les principes de la bientraitance : respect de la personne, promotion de l'expression de la personne, communication personne/ professionnel,... <br/>À partir de documents (guide de bonnes pratiques professionnelles) ou d'expériences, présenter des actions de promotion de la bientraitance </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.1.2 Prévention de la maltraitance </p>
+</td>
+<td width="278">
+<p>Définir la maltraitance <br/>Repérer les situations à risques, les facteurs pouvant être à l'origine de situations de maltraitance : facteurs institutionnels, facteurs liés au personnel, à l'usager <br/>À partir d'exemples (articles de presse...) présenter les différents types de maltraitance : atteinte à la dignité, défaut d'information, sévices physiques... <br/>
+<br/>Énoncer la conduite à tenir en cas de maltraitance : procédure de signalement <br/>Présenter les risques juridiques (sanctions) en cas d'acte maltraitant </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2.1 Bientraitance - Maltraitance</p>
+<p>2.2 Projet individualisé, projet de vie, projet personnalisé, projet d'accompagnement </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.2.1 Différents types de projet </p>
+</td>
+<td width="278">
+<p>Définir les différents projets <br/>Préciser le contexte professionnel et réglementaire des différents projets </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.2.2 Construction du projet </p>
+</td>
+<td width="278">
+<p>Préciser la place de la personne et de son entourage dans la construction du projet <br/>À partir d'exemples, caractériser les différentes étapes d'élaboration d'un projet <br/>Présenter les différents acteurs impliqués dans la construction du projet <br/>Citer des exemples de freins à la mise en place d'un projet </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2.2 Projet individualisé, projet de vie, projet personnalisé, projet d'accompagnement</p>
+<p>2.3 Services à domicile </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314">
-<p>2. 3 Services à domicile </p>
+<td width="278">
+<p>2.3.1 Différents interlocuteurs et instances du maintien à domicile </p>
 </td>
-<td colspan="2" valign="top" width="356"/>
+<td width="278">
+<p>Énoncer les différentes missions des interlocuteurs et instances du maintien à domicile : centre communal d'action sociale (C. C. A. S), conseil départemental, services sociaux, caisse nationale d'assurance vieillesse (C. N. A. V.), associations, maison départementale des personnes handicapées (M. D. P. H.), centre local d'information et de coordination (C. L. I. C.),... </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.2 Professionnels du maintien à domicile :<br/>-médecin, infirmier, aide soignant, ergothérapeute, kinésithérapeute<br/>-aide ménagère, aide à domicile, auxiliaire de vie sociale, aide médico psychologique, technicien d'intervention sociale et familiale </p>
+</td>
+<td width="278">
+<p>Énoncer le rôle de ces professionnels <br/>Préciser les rôles et la formation des auxiliaires de vie sociale, des aides ménagères </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.3 Services de soins infirmiers à domicile-L'hospitalisation à domicile </p>
+</td>
+<td width="278">
+<p>Caractériser les structures dispensant une aide médicale : mission, bénéficiaires, fonctionnement et financement </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.4 Services d'aide à domicile </p>
+</td>
+<td width="278">
+<p>Différencier service prestataire et service mandataire <br/>Énoncer les conditions d'autorisation, d'agrément de ces différents services <br/>Énumérer les différentes certifications ou labels, chartes de ce secteur </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.5 Financement des services à domicile </p>
+</td>
+<td width="278">
+<p>Énumérer les différentes aides financières favorisant le maintien à domicile (crédit d'impôt, avantages fiscaux...) <br/>Définir le chèque emploi service universel et ses conditions d'utilisation </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.6 Aidants familiaux </p>
+</td>
+<td width="278">
+<p>Présenter les structures offrant un répit aux aidants familiaux <br/>Citer les bénéficiaires et les caractéristiques du congé de soutien familial, du congé de solidarité familiale </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.7 Méthodologie d'intervention de l'aide à domicile </p>
+</td>
+<td width="278">
+<p>À partir de situations données et dans le cadre d'un projet de maintien à domicile, d'un plan d'aide, identifier les éléments de la démarche d'intervention à domicile :<br/>-observation et analyse des informations<br/>-identification des besoins et attentes, exprimés ou non<br/>-établissement d'un bilan de situation<br/>-définition de priorités en fonction des besoins et des ressources des personnes<br/>-proposition de solutions<br/>-planification de la mise en œuvre des actions en lien avec le projet de vie et les autres intervenants </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3.8 Acteurs : agence nationale des services à la personne, associations, fédérations </p>
+</td>
+<td width="278">
+<p>Présenter les objectifs et missions de l'agence nationale des services à la personne, des associations et fédérations du secteur de l'aide à domicile <br/>Repérer les ressources mises à disposition </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2.4 Notions de droit</p>
+<p>2.4 Notions de droit (en lien avec le programme d'économie gestion) </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.4.1 Contrat de travail </p>
+</td>
+<td width="278">
+<p>À partir d'un contrat de travail du secteur professionnel, identifier les éléments de ce contrat et de leurs conséquences <br/>Énoncer les différentes formes de rupture du contrat de travail <br/>À partir de documents, présenter les modalités de licenciement et de son indemnisation </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.4.2 Durée du travail, congés </p>
+</td>
+<td width="278">
+<p>Énoncer la durée légale du travail, les différents types de congés dont congé maternité, paternité... </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.4.3 Salaire </p>
+</td>
+<td width="278">
+<p>Énoncer des modalités de fixation et de paiement des salaires dans le cadre de la profession </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.4.4 Formation tout au long de la vie dans le secteur sanitaire et social </p>
+</td>
+<td width="278">
+<p>Repérer les différents dispositifs existants (Droit individuel à la formation (D. I. F.), Congé individuel de formation (C. I. F.), plan de formation de l'entreprise, validation d'acquis d'expérience (V. A. E.), bilan de compétences,...) <br/>Préciser leurs objectifs et les principales conditions de leur mise en œuvre </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.4.5 Convention collective </p>
+</td>
+<td width="278">
+<p>À partir de conventions collectives du secteur professionnel, énoncer leurs rôles et leurs effets </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2.5 Éthique et déontologie</p>
+<p>2.5 Éthique et Déontologie </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Secret professionnel, discrétion professionnelle, secret partagé </p>
+</td>
+<td width="278">
+<p>Définir les termes : éthique, déontologie, secret professionnel (en référence au Code pénal), discrétion professionnelle <br/>Énoncer les conditions d'application du secret professionnel et les personnes qui y sont assujetties (dépositaires par profession, dépositaires en raison d'une mission et d'une fonction) Indiquer les conditions de la levée du secret professionnel <br/>Préciser les risques encourus en cas de non respect du secret <br/>Définir le secret partagé <br/>Donner quelques exemples de codes de déontologie </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2. 6 Qualité</p>
+<p>2.6 Qualité </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314"/>
-<td colspan="2" width="356">
+<td width="278">
 <p>2.6.1 Certification des établissements de santé </p>
+</td>
+<td width="278">
+<p>Définir et énoncer les principes et les objectifs de la certification dans le secteur sanitaire, social, médico-social <br/>Citer les organismes de référence : haute autorité de santé (HAS), agence nationale de l'évaluation et de la qualité dans les établissements et services sociaux et médico-sociaux (ANESM), fédération de l'hospitalisation privée (FHP). <br/>
+<br/>Présenter les missions de la haute autorité de santé (HAS) dans le processus de certification <br/>Énoncer les étapes de la procédure de certification (engagement, auto évaluations, groupe de travail, visite de certification, rapport et publication, recommandations, mesures et plan d'action) </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>2.6.2 Évaluation en EHPAD </p>
 </td>
+<td width="278">
+<p>Définir la notion d'évaluation et ses objectifs <br/>Citer les items retenus par la législation pour l'évaluation en structures sociales et médico-sociales <br/>Expliquer brièvement les modalités de la démarche d'évaluation en distinguant les notions d'évaluation interne et externe <br/>Énoncer l'intérêt de l'évaluation pour faire évoluer les pratiques professionnelles </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
 </tr>
 <tr>
-<td colspan="4" width="674">
-<p align="center">2.6.3 Notion d'analyse des pratiques professionnelles, d'évaluation des pratiques professionnelles, de guides de bonnes pratiques</p>
+<td width="278">
+<p>2.6.3 Notion d'analyse des pratiques professionnelles, d'évaluation des pratiques professionnelles, de guides de bonnes pratiques </p>
+</td>
+<td width="278">
+<p>Définir le terme de bonnes pratiques et donner des exemples <br/>Préciser les objectifs et intérêts des guides de bonnes pratiques <br/>À partir de cas concrets, expliciter les principes d'élaboration de grilles d'auto évaluation </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2.7 Travail en équipe - Gestion d'équipe</p>
-<p align="center">- Tutorat</p>
+<p>2.7 Travail en équipe-Gestion d'équipe-Tutorat </p>
 </td>
 </tr>
 <tr>
-<td colspan="4" width="674">
-<p align="center">2.7.1 Travail en équipe</p>
+<td width="278">
+<p>2.7.1 Travail en équipe </p>
+</td>
+<td width="278">
+<p>Pour un contexte professionnel donné, ou à partir d'organigramme, de fiches de poste :<br/>-énoncer les missions et limites de compétences des professionnels d'une équipe<br/>-situer la place de chacun dans la structure<br/>-préciser les liens hiérarchique et fonctionnel <br/>Justifier les intérêts d'un travail en équipe <br/>Caractériser les conditions indispensables pour un travail en équipe <br/>Développer les différents outils de communication utilisés dans une équipe de travail </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
-<td colspan="2" width="314">
+<td width="278">
 <p>2.7.2 Gestion d'équipe </p>
 </td>
-<td colspan="2" valign="top" width="356"/>
+<td width="278">
+<p>Différencier les diverses formes de plannings d'activités ou de travail et leurs intérêts respectifs <br/>Énoncer les moyens facilitant la communication au sein d'une équipe <br/>Préciser les moyens de valorisation des membres de l'équipe <br/>Indiquer les moyens de régulation dans la gestion d'une équipe (coordination, intégration des nouveaux personnels, gestion des tensions,...) <br/>Présenter les outils et le cadre réglementaire d'un entretien professionnel en vue de l'évaluation du personnel </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<br/>
+</td>
 </tr>
 <tr>
-<td colspan="4" width="674">
-<p align="center">2.7.3 Tutorat des stagiaires</p>
-<p align="center">2.7.4 Accompagnement des nouveaux agents, des bénévoles</p>
+<td width="278">
+<p>2.7.3 Tutorat des stagiaires </p>
+</td>
+<td width="278">
+<p>Énoncer les rôles du tuteur auprès du stagiaire <br/>Indiquer les documents nécessaires au suivi et à l'évaluation du stagiaire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.7.4 Accompagnement des nouveaux agents, des bénévoles </p>
+</td>
+<td width="278">
+<p>Définir la notion de bénévolat <br/>Préciser les positionnements possibles d'un bénévole au sein d'un service ou d'une structure </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">2.8 Relation personne aidante- personne aidée</p>
+<p>2.8 Relation personne aidante-personne aidée </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="278">
+<p>À partir d'exemples :<br/>-identifier les acteurs en présence (personne aidée, famille, service d'aide à domicile, intervenants à domicile)<br/>-différencier la relation fonctionnelle du lien hiérarchique <br/>
+<br/>À partir d'exemples (retour à domicile, fin de vie, accompagnement de jeunes handicapés...), caractériser la notion d'accompagnement <br/>
+<br/>À partir d'exemples, repérer les réactions de défense et l'adaptation possible de la personne aidée, de la personne aidante (rejet, agressivité, coopération, dépendance, maternage, acceptation....) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">3 - COMMUNICATION PROFESSIONNELLE ET INTERPROFESSIONNELLE</p>
+<p>3-Communication professionnelle et interprofessionnelle </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">3. 1 Formes, rôles et contexte de la communication </p>
-<p align="center">3. 2 Communication écrite </p>
-<p align="center">3. 3 Communication visuelle </p>
-<p align="center">3. 4 Communication orale</p>
+<p>3.1 Formes, rôles et contexte de la communication </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Formes, situations, fonctions, facteurs de la communication </p>
+</td>
+<td width="278">
+<p>Selon le contexte professionnel :<br/>-analyser la variété des situations de communication (prise en compte signes verbaux, non verbaux)<br/>-identifier la diversité des formes de communication (écrite, orale, visuelle)<br/>-expliciter les fonctions de la communication (entre les personnes, entre les structures...)<br/>-repérer les facteurs qui influencent la communication entre les personnes (facteurs favorisants, freins) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>3.2 Communication écrite </p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" width="278">
+<p>Cadre juridique de la communication écrite </p>
+</td>
+<td width="278">
+<p>Selon le contexte professionnel :<br/>-identifier les situations impliquant un écrit<br/>-repérer les objectifs de la communication écrite et les destinataires<br/>-présenter les caractéristiques des productions écrites (courrier, courrier administratif, compte rendu, rapport, bilan, note de synthèse, carnet de bord, relevé de conclusions, fiches techniques...) et justifier leur utilisation <br/>À partir d'exemples, indiquer les caractéristiques des formulaires, imprimés, questionnaires, grilles d'observation utilisés dans le secteur sanitaire et social et justifier leur utilisation ; indiquer l'intérêt de supports informatisés, télécopie, courriel, réseaux... <br/>Identifier les critères d'efficacité d'une communication écrite <br/>
+<br/>Préciser les aspects réglementaires concernant la diffusion des informations sur la personne <br/>Indiquer les précautions à prendre pour l'enregistrement ou l'archivage, la diffusion des documents écrits, du dossier médical (traçabilité,...) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>3.3 Communication visuelle </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="278">
+<p>Selon le contexte professionnel :<br/>-justifier l'intérêt des supports visuels en fonction de l'objectif visé, des publics concernés (signalétique, pictogrammes, affiches, dépliants, panneaux d'exposition...)<br/>-présenter les caractéristiques des productions visuelles<br/>-identifier les critères d'efficacité d'une communication visuelle<br/>-coder et décoder des supports de communication visuelle y compris supports informatisés, publipostage, PAO </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>3.4 Communication orale </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="278">
+<p>Selon le contexte professionnel :<br/>-repérer les principes de la communication orale<br/>-analyser et justifier les méthodes et les moyens utilisés dans une situation d'accueil direct, dans un accueil téléphonique, dans la transmission orale d'informations à des usagers, à des pairs, à la hiérarchie<br/>-identifier les critères d'une communication orale efficace<br/>-proposer des attitudes adaptées face à une situation de communication orale difficile </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X</p>
 </td>
 </tr>
 </tbody>
@@ -792,1610 +1424,1354 @@ Ventilation des savoirs associés selon les options
 <table>
 <tbody>
 <tr>
-<td colspan="5" width="674">
-<p align="center">Biologie et microbiologie appliquées </p>
+<td colspan="4" width="674">
+<p align="center">BIOLOGIE ET MICROBIOLOGIE APPLIQUÉES </p>
 </td>
 </tr>
 <tr>
-<td width="222">
-<p align="center">Domicile</p>
+<td width="278">
+<p align="center">Compétences </p>
 </td>
-<td colspan="3" width="222">
-<p align="center">Connaissances communes</p>
+<td width="279">
+<p align="center">Limites de connaissances exigées </p>
 </td>
-<td width="222">
-<p align="center">Structure</p>
+<td width="53">
+<p align="center">D </p>
 </td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">1. ORGANISATION GENERALE DU CORPS HUMAIN </p>
+<td width="53">
+<p align="center">S </p>
 </td>
 </tr>
 <tr>
-<td colspan="5" width="674">
-<p align="center">2 CELLULE </p>
+<td colspan="4" width="674">
+<p>1-Organisation générale du corps humain </p>
 </td>
 </tr>
 <tr>
-<td colspan="5" width="674">
-<p align="center">3 MALADIES GENETIQUES </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">4 ANOMALIES DU FONCTIONNEMENT DE LA CELLULE - CANCERS </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">5 TISSUS </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">6 PEAU </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">7 APPAREILS GENITAUX </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" valign="top" width="674">
-<p align="center">7.1 Anatomie </p>
-<p align="center">7.2 Gonades </p>
-<p align="center">7.3 Gamètes </p>
-<p align="center">7.4 Puberté, ménopause, andropause </p>
-<p align="center">7.5 Contraception </p>
-<p align="center">7.6 Physiopathologie : <br/>Les infections sexuellement transmissibles (IST </p>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="313">
+<td width="278">
 <br/>
 </td>
-<td colspan="3" width="357">
+<td width="279">
+<p>Énoncer les différents niveaux d'organisation </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>2-Cellule </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.1 Structure et ultra structure </p>
+</td>
+<td width="279">
+<p>Annoter un schéma simplifié d'une cellule </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.2 Principaux organites </p>
+</td>
+<td width="279">
+<p>Indiquer le rôle des mitochondries, des ribosomes, du noyau </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.3 Échanges membranaires </p>
+</td>
+<td width="279">
+<p>Indiquer le rôle de la membrane cytoplasmique et préciser les principaux types d'échanges membranaires </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.4 Multiplication cellulaire : mitose </p>
+</td>
+<td width="279">
+<p>Définir la mitose <br/>Annoter le schéma simplifié d'un chromosome <br/>Commenter, à partir de schémas, les différentes phases de la mitose et énoncer leurs caractéristiques </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>2.5 Caryotype </p>
+</td>
+<td width="279">
+<p>Définir le caryotype </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>3-Maladies génétiques </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="279">
+<p>Définir un gène <br/>À partir d'exemples, différencier hérédité autosomique dominante et récessive, hérédité liée au sexe <br/>Définir maladie génétique, maladie héréditaire <br/>Indiquer les objectifs du conseil génétique, des diagnostics anténatal et néonatal </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>4-Anomalies du fonctionnement de la cellule : cancers </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="279">
+<p>Caractériser une cellule cancéreuse <br/>Définir métastase Expliciter les étapes de diffusion de cellules tumorales <br/>Énoncer les principaux traitements actuellement proposés <br/>À partir de documents, pour deux exemples de cancers :<br/>-énoncer les causes favorisantes<br/>-les moyens de prévention </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>5-Tissus </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<br/>
+</td>
+<td width="279">
+<p>Définir un tissu <br/>Caractériser les tissus épithéliaux, conjonctifs et les différents tissus glandulaires <br/>Citer les principales glandes endocrines et exocrines et préciser leurs secrétions </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>6-Peau </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>6.1 Structure, fonctions </p>
+</td>
+<td width="279">
+<p>Annoter un schéma de la peau <br/>Expliciter les principales fonctions de la peau </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>6.2 Flore cutanée </p>
+</td>
+<td width="279">
+<p>Indiquer la composition et le rôle de la flore cutanée </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>6.3 Évolution de la peau </p>
+</td>
+<td width="279">
+<p>Énoncer les caractéristiques de la peau d'un enfant, d'une personne âgée </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>6.4 Observation de la peau </p>
+</td>
+<td width="279">
+<p>Décrire les signes observables de la peau (couleur, chaleur, présence de lésions, signes de déshydratation) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Physiopathologie : plaies, brûlures, escarres, érythème fessier, gale, pédiculose </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition<br/>-citer l'agent responsable ou le (s) mécanisme (s) d'apparition<br/>-justifier les facteurs favorisants et/ ou les modes de propagation<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les moyens de prévention et les traitements </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>7-Appareils génitaux </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>7.1 Anatomie </p>
+</td>
+<td width="279">
+<p>Légender sur des schémas les éléments anatomiques des appareils génitaux <br/>Indiquer le rôle des différents éléments des appareils génitaux </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>7.2 Gonades </p>
+</td>
+<td width="279">
+<p>Annoter la coupe transversale du testicule <br/>Indiquer les hormones sécrétées, préciser leur lieu de sécrétion et leurs rôles <br/>Décrire le cycle menstruel (ovarien, utérin, hormonal) <br/>Indiquer le rôle de l'axe hypothalamo-hypophysaire dans le contrôle des sécrétions hormonales (rétro contrôle positif, négatif) <br/>Comparer le fonctionnement des glandes sexuelles mâles et femelles </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>7.3 Gamètes </p>
+</td>
+<td width="279">
+<p>Présenter la structure et les caractéristiques des gamètes (nombre de chromosomes, durée de vie, mobilité, taille...) <br/>Décrire le cycle ovarien (ovogénèse, folliculogénèse), repérer sur des coupes transversales de l'ovaire le stade de maturation de l'ovocyte <br/>Décrire la spermatogénèse et le cheminement des gamètes mâles au cours de leur maturation </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>7.4 Puberté, ménopause, andropause </p>
+</td>
+<td width="279">
+<p>Préciser les variations hormonales aux différents âges de la vie et en indiquer les conséquences </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>7.5 Contraception </p>
+</td>
+<td width="279">
+<p>Préciser, pour les différentes méthodes de contraception et de contragestion, le principe et le lieu d'action (lien avec programme de prévention-santé-environnement) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>7.6 Physiopathologie : <br/>Les infections sexuellement transmissibles (IST) </p>
+</td>
+<td width="279">
+<p>Indiquer les principales infections sexuellement transmissibles (IST), les modes de transmission et leurs conséquences. (lien avec le programme de prévention-Santé-Environnement) <br/>Justifier les méthodes de prévention </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>7.7 Fécondation </p>
+</td>
+<td width="279">
+<p>Définir la fécondation <br/>Décrire les conditions et les étapes de la fécondation </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>7.8 Gestation, hygiène de la grossesse </p>
+</td>
+<td width="279">
+<p>Indiquer les modifications de la sécrétion hormonale durant la gestation <br/>Décrire les premières étapes conduisant à la formation de l'embryon (segmentation, migration, nidation...) <br/>Décrire le placenta et Indiquer son rôle et la nature des échanges placentaires <br/>Indiquer l'évolution de la taille et du poids du fœtus au cours de la grossesse. <br/>Justifier les conseils d'hygiène de vie au cours de la grossesse <br/>Décrire succinctement l'accouchement (travail, expulsion, délivrance) </p>
+</td>
+<td width="53">
+<br/>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <p>7.9 Glandes mammaires </p>
 </td>
-</tr>
-<tr>
-<td colspan="5" valign="top" width="674">
-<p align="center">7.10 Physiopathologie : Toxoplasmose congénitale </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">8 APPAREIL CARDIO VASCULAIRE </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">9 APPAREIL EXCRETEUR </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">10 APPAREIL RESPIRATOIRE </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">11 SYSTEME LOCOMOTEUR </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">12 APPAREIL DIGESTIF </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">13 REGULATION DE LA GLYCEMIE </p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">14 SYSTEME NERVEUX </p>
-<p align="center">14.1 Organisation du système nerveux</p>
-<p align="center">14.2 Structure, propriétés du neurone et du nerf</p>
-<p align="center">14.3 Synapses</p>
-<p align="center">14.4 Activités réflexe</p>
-<p align="center">14.5 Activité volontaire</p>
-<p align="center">14.6 Sommeil</p>
-<p align="center">14.7 Physiopathologie :</p>
-<p align="center">Douleur, troubles de l'équilibre, Parkinson,</p>
-<p align="center">Démences séniles, Alzheimer,</p>
-<p align="center">Épilepsie</p>
-<p align="center">14.8 Toxicomanies</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">15 ŒIL</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">16 OREILLE</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">17 EXPLORATIONS ET MOYENS DIAGNOSTICS</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">18 DIVERSITÉ DU MONDE MICROBIEN</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">19 BACTÉRIES</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">20 POUVOIR PATHOGÈNES DES BACTÉRIES</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">21 VIRUS</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">22 SYSTÈME IMMUNITAIRE</p>
-</td>
-</tr>
-<tr>
-<td colspan="5" width="674">
-<p align="center">23 MALADIES INFECTIEUSES DE L'ENFANT</p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="335"/>
-<td colspan="2" width="335">
-<p>24 INFECTIONS NOSOCOMIALES ET INFECTIONS ASSOCIÉES AUX SOINS</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="4" width="674">
-<p align="center">NUTRITION - ALIMENTATION</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p align="center">Compétences</p>
-</td>
-<td width="278">
-<p align="center">Limites de connaissances exigées</p>
-</td>
-<td width="53">
-<p align="center">D</p>
-</td>
-<td width="53">
-<p align="center">S</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1 - Sources Nutritionnelles</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.1 Constituants alimentaires <br/>Nature et rôle des constituants </p>
-<p>Principales propriétés des constituants alimentaires</p>
-</td>
-<td width="278">
-<p>Préciser la nature des constituants alimentaires et citer les principales biomolécules <br/>Indiquer les rôles majeurs des constituants alimentaires </p>
-<p>Énoncer les principales propriétés des constituants alimentaires</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2 Groupes d'aliments</p>
-</td>
-<td width="278">
-<p>Indiquer pour chaque groupe d'aliments les constituants caractéristiques <br/>Justifier les équivalences énergétiques, protidiques et calciques dans des situations données</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Légender un schéma du sein (féminin) <br/>Décrire la glande mammaire et son évolution au cours de la vie <br/>Décrire la lactation : <br/>(Déclenchement, production du lait, éjection du lait, régulation) </p>
 </td>
 <td width="53">
 <br/>
 </td>
+<td width="53">
+<p align="center">X </p>
+</td>
 </tr>
 <tr>
 <td width="278">
-<p>1.3 Modifications physicochimiques des constituants alimentaires <br/>En lien avec les techniques professionnelles</p>
+<p>7.10 Physiopathologie : Toxoplasmose congénitale </p>
 </td>
+<td width="279">
+<p>Indiquer l'agent responsable de la toxoplasmose et sa nature <br/>Préciser le mode de transmission de cet agent Justifier les moyens de prévention <br/>Indiquer les conséquences de la toxoplasmose congénitale sur l'embryon ou le fœtus selon le moment de la contamination <br/>Indiquer les moyens de dépistage puis de surveillance au cours de la grossesse <br/>Énoncer les principales mesures en cas de contamination </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>8-Appareil cardiovasculaire </p>
+</td>
+</tr>
+<tr>
 <td width="278">
-<p>Indiquer les modifications physiques et chimiques intervenant au cours du stockage, de la conservation des aliments et lors de la réalisation des préparations culinaires <br/>Expliquer les conséquences nutritionnelles des modifications physiques et chimiques</p>
+<p>8.1 Anatomie du cœur et des vaisseaux </p>
+</td>
+<td width="279">
+<p>Annoter un schéma de l'appareil cardiovasculaire, une coupe schématique du cœur, des artères <br/>Décrire et citer le rôle des différents vaisseaux </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>8.2 Contraction cardiaque, pression artérielle </p>
+</td>
+<td width="279">
+<p>Expliquer, à partir de schémas fournis, les différentes phases de la contraction cardiaque <br/>Définir :<br/>-la pression artérielle et préciser les valeurs normales,<br/>-le rythme cardiaque et la valeur normale, à différents âges<br/>-les anomalies du rythme (tachycardie, bradycardie, arythmie) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>8.3 Composition du sang et de la lymphe </p>
+</td>
+<td width="279">
+<p>Citer les différents éléments figurés du sang (hématies, leucocytes, thrombocytes) et expliquer le rôle de chacun <br/>Indiquer la composition du plasma <br/>Comparer la composition du sang et de la lymphe </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>8.4 Principales constantes sanguines </p>
+</td>
+<td width="279">
+<p>Énoncer la valeur des principales constantes sanguines (numération formule sanguine (NFS), vitesse de sédimentation (VS), glycémie, cholestérolémie, high density lipoprotein (HDL), low density lipoprotein (LDL)) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>8.5 Physiopathologie :<br/>-hypertension artérielle, AVC, infarctus du myocarde, phlébites </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition-citer les mécanismes d'apparition<br/>-justifier les facteurs favorisants<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les moyens de prévention et les traitements<br/>-justifier l'urgence de l'alerte et la conduite à tenir, le cas échéant, face à un accident cardio-vasculaire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>9-Appareil excréteur </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>9.1 Anatomie </p>
+</td>
+<td width="279">
+<p>Repérer, sur un schéma, les différents éléments anatomiques de l'appareil excréteur </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>9.2 Structure et rôles du néphron </p>
+</td>
+<td width="279">
+<p>Repérer, sur un schéma, les différents éléments du néphron Indiquer ses rôles </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>9.3 Rôles du rein, homéostasie </p>
+</td>
+<td width="279">
+<p>Définir l'homéostasie <br/>Expliquer les différents rôles du rein </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>9.4 Physiopathologie : <br/>infections urinaires, incontinences urinaires, insuffisance rénale </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition,<br/>-citer l'agent responsable ou les mécanismes d'apparition<br/>-justifier les facteurs favorisants, les modes de propagation,<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles,<br/>-justifier les moyens de prévention et les traitements </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>10-Appareil respiratoire </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>10.1 Anatomie </p>
+</td>
+<td width="279">
+<p>Repérer, sur un schéma, les différents éléments anatomiques de l'appareil respiratoire <br/>Énumérer les principales caractéristiques des voies respiratoires : cils vibratiles, mucus </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>10.2 Mécanique ventilatoire </p>
+</td>
+<td width="279">
+<p>Décrire les phénomènes d'inspiration, d'expiration, à partir de documents <br/>Préciser la variation du rythme respiratoire (âge, activité, pathologie) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>10.3 Échanges gazeux </p>
+</td>
+<td width="279">
+<p>Décrire les phénomènes d'inspiration, d'expiration, à partir de documents <br/>Préciser la variation du rythme respiratoire (âge, activité, pathologie) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>10.4 Physiopathologie : <br/>asthme, insuffisance respiratoire, asphyxie (monoxyde de carbone), tuberculose, bronchiolite </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition<br/>-citer l'agent responsable ou les mécanismes d'apparition<br/>-justifier les facteurs favorisants, les modes de propagation<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les moyens de prévention et les traitements </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>10.5 Tabagisme </p>
+</td>
+<td width="279">
+<p>Citer les conséquences du tabagisme sur l'appareil respiratoire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>11-Système locomoteur </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.1 Anatomie du squelette </p>
+</td>
+<td width="279">
+<p>Légender un schéma du squelette :<br/>-différentes parties du corps (tête, tronc, membres, ceintures)<br/>-os les constituant </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.2 Différents types d'os, structure d'un os long </p>
+</td>
+<td width="279">
+<p>Citer les différents types d'os et illustrer par quelques exemples <br/>Représenter schématiquement une coupe transversale et une coupe longitudinale d'un os long et les légender <br/>Caractériser les différents tissus squelettiques : tissu cartilagineux, tissu osseux (cellules, fibres, composition chimique, rôles) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.3 Mécanismes de la croissance osseuse, indices de croissance </p>
+</td>
+<td width="279">
+<p>Indiquer les étapes de l'ossification crânienne, de l'ossification d'un os long <br/>Comparer, à partir de schémas ou de clichés radiographiques, la structure d'un os long d'un nouveau-né, d'un jeune enfant, d'un adulte <br/>Énoncer les facteurs nécessaires et favorables à la croissance </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.4 Tissu musculaire : structure et propriétés </p>
+</td>
+<td width="279">
+<p>Indiquer les différentes formes de muscles rencontrés dans le corps humain et donner quelques exemples Indiquer les différents types de muscles et leurs rôles <br/>Différencier, sur le plan physiologique, muscle strié et muscle lisse <br/>Représenter schématiquement et légender une coupe transversale de muscle strié <br/>À partir du schéma de l'ultra structure de la fibre musculaire striée, expliquer la contraction musculaire et préciser le rôle de l'actine et de la myosine dans cette contraction, <br/>Définir et décrire les différentes propriétés de la fibre musculaire et du muscle strié </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.5 Anatomie d'une articulation </p>
+</td>
+<td width="279">
+<p>Indiquer les différents types d'articulations (fibreuse, cartilagineuse, synoviale), en donner des exemples Légender un schéma d'articulation :<br/>-synoviale,<br/>-cartilagineuse,<br/>-vertébrale </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.6 Étude d'un mouvement, de la marche </p>
+</td>
+<td width="279">
+<p>Expliquer le rôle des muscles, de l'articulation lors d'une flexion, d'une extension <br/>Décrire les différentes étapes du mécanisme de la marche </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>11.7 Physiopathologie :<br/>-ostéoporose,<br/>-arthrose, arthrite,<br/>-fracture, entorse<br/>-luxation<br/>-lordose, cyphose, scoliose,<br/>-troubles musculosquelettiques <br/>(en lien avec le programme de PSE et PRAP 2S ou référentiels de formations en vigueur) </p>
+</td>
+<td width="279">
+<p>Pour chacune de ces pathologies :<br/>-donner une définition<br/>-citer les mécanismes d'apparition-justifier les facteurs favorisants, les modes de propagation<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les moyens de prévention et les traitements </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>12-Appareil digestif </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>12.1 Anatomie </p>
+</td>
+<td width="279">
+<p>Indiquer, sur un schéma, les différents organes de l'appareil digestif </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>12.2 Mécanismes et bilan de la digestion </p>
+</td>
+<td width="279">
+<p>Caractériser les différentes étapes de la digestion (phénomènes chimiques et mécaniques) <br/>Préciser le bilan de la digestion pour les différentes biomolécules <br/>Annoter une villosité intestinale et décrire le mécanisme d'absorption </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>12.3 Dentition, hygiène bucco dentaire </p>
+</td>
+<td width="279">
+<p>Annoter le schéma d'une dent <br/>Indiquer l'ordre chronologique d'apparition des dents (dentition temporaire, dentition définitive) <br/>Repérer sur un schéma les différents types de dents et énoncer le rôle de chaque type <br/>Définir plaque dentaire et carie <br/>Décrire l'évolution d'une carie <br/>Justifier les conditions d'une bonne hygiène buccodentaire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>12.4 Spécificités de l'appareil digestif du jeune enfant, de la personne âgée </p>
+</td>
+<td width="279">
+<p>Présenter les spécificités de l'appareil digestif du jeune enfant, de la personne âgée et leurs conséquences </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>12.5 Physiopathologie : <br/>troubles digestifs (vomissements, diarrhée, constipation), gastro-entérites </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition<br/>-citer l'agent responsable ou les mécanismes d'apparition<br/>-justifier les facteurs favorisants, les modes de propagation<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les moyens de prévention et les traitements </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>13-Régulation de la glycémie </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <br/>
 </td>
+<td width="279">
+<p>Définir la glycémie, la glycosurie <br/>Indiquer les variations de la glycémie au cours de la journée, (glycémie à jeun et postprandiale) <br/>Indiquer les hormones hypo et hyperglycémiantes et préciser leur origine <br/>Représenter schématiquement la régulation de la glycémie </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>13.1 Physiopathologie : <br/>Diabète de type 1 <br/>Diabète de type 2 </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition-expliquer le mécanisme d'apparition<br/>-justifier les facteurs favorisants<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les moyens de prévention, de surveillance et les traitements </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.1 Organisation du système nerveux </p>
+</td>
+<td width="279">
+<p>Annoter un schéma général du système nerveux cérébrospinal <br/>Indiquer la fonction des systèmes nerveux cérébrospinal et neurovégétatif <br/>Annoter un schéma simplifié de la moelle épinière </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.2 Structure, propriétés du neurone et du nerf </p>
+</td>
+<td width="279">
+<p>Annoter le schéma d'un neurone et d'un nerf <br/>Différencier, dans leur fonctionnement, un nerf moteur, un nerf sensitif, un nerf mixte <br/>Énoncer et expliquer les propriétés des neurones et du nerf </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.3 Synapses </p>
+</td>
+<td width="279">
+<p>Définir une synapse <br/>Expliciter, à partir de schémas fournis, les différentes phases de la transmission synaptique neuro neuronale et neuromusculaire <br/>Définir un neurotransmetteur <br/>Donner quelques exemples de neurotransmetteurs </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.4 Activité réflexe </p>
+</td>
+<td width="279">
+<p>Définir un réflexe, inné, acquis <br/>Expliciter, à partir d'un schéma fourni, l'arc réflexe </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.5 Activité volontaire </p>
+</td>
+<td width="279">
+<p>Définir l'activité volontaire <br/>Expliciter, à partir d'un schéma fourni, l'activité volontaire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.6 Sommeil </p>
+</td>
+<td width="279">
+<p>(voir le programme de PSE et les techniques professionnelles) </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.7 Physiopathologie : <br/>Douleur, troubles de l'équilibre, Parkinson, Démences séniles, Alzheimer, <br/>
+<br/>Épilepsie </p>
+</td>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition-citer les mécanismes d'apparition<br/>-justifier les facteurs favorisants, les modes de propagation<br/>-énoncer les signes cliniques, les conséquences potentielles<br/>-justifier les moyens de prévention et les traitements <br/>
+<br/>Définir l'épilepsie <br/>Indiquer la conduite à tenir face à une crise d'épilepsie </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>14.8 Toxicomanies <br/>(en lien avec l'éducation à la santé et la PSE) </p>
+</td>
+<td width="279">
+<p>Définir les phénomènes de dépendance, accoutumance <br/>Expliquer, à partir d'un schéma de synapse, les dysfonctionnements consécutifs à l'usage des drogues <br/>Identifier les effets à court terme et long terme sur l'organisme </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p>2 - Alimentation rationnelle</p>
+<p>15-Œil </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>2.1 Besoins nutritionnels : <br/>Besoins nutritionnels et apports recommandés Influence de l'âge, du mode de vie, de l'activité, de l'état physiologique ou pathologique</p>
+<p>15.1 Anatomie de l'œil </p>
 </td>
-<td width="278">
-<p>Indiquer et justifier les besoins et apports nutritionnels de la personne aux différents âges <br/>Justifier les modifications des besoins de l'organisme en fonction des facteurs (activité, état physiologique et pathologique) <br/>Répertorier les principes du maintien de l'équilibre nutritionnel y compris équilibre hydrique <br/>Énoncer les conséquences d'une alimentation hyperlipidique et/ ou hyperglucidique <br/>Indiquer les conséquences des carences en fer, calcium, vitamines, protéines</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Indiquer, sur un schéma, les différents éléments anatomiques de l'œil <br/>Annoter un schéma de la rétine </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>2.2 Alimentation du nourrisson, de l'enfant : <br/>Alimentation lactée <br/>Alimentation diversifiée</p>
+<p>15.2 Vision : perception et transmission des images </p>
 </td>
-<td width="278">
-<p>Indiquer la ration lactée à répartir sur la journée en fonction de l'âge </p>
-<p>Citer les caractéristiques nutritionnelles des différents types de laits (lait maternel et aliments lactés diététiques) <br/>Justifier leur choix en fonction des besoins et des possibilités digestives de l'enfant <br/>Indiquer et justifier les principales étapes de l'introduction des aliments <br/>Justifier l'évolution de la texture des préparations en fonction de l'âge</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Expliquer la formation de l'image sur la rétine, l'origine de l'influx nerveux visuel (rôle des cellules rétiniennes) et sa transmission au cerveau </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>2.3 Alimentation des adolescents, adultes, personnes âgées</p>
+<p>15.3 Physiopathologie :<br/>-Défauts de la vision (myopie, presbytie)<br/>-Strabisme<br/>-Cataracte<br/>-Dégénérescence maculaire liée à l'âge </p>
 </td>
-<td width="278">
-<p>Proposer une adaptation quantitative et qualitative aux besoins spécifiques des personnes dans une situation donnée <br/>Justifier les aliments choisis en raison de leur valeur nutritionnelle, des goûts, des habitudes culturelles, de l'état physiologique ou pathologique de la personne</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Pour chaque pathologie :<br/>-donner une définition<br/>-citer les mécanismes d'apparition<br/>-justifier les facteurs favorisants<br/>-énoncer les signes cliniques, les conséquences et évolution potentielles<br/>-justifier les traitements </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>16-Oreille </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>2.4 Équilibre alimentaire</p>
+<p>16.1 Anatomie de l'oreille </p>
 </td>
+<td width="279">
+<p>Légender un schéma de l'oreille <br/>Préciser le (s) rôle (s) des différentes parties de l'oreille </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
 <td width="278">
-<p>Proposer des repas ou compléments de repas adaptés aux différents âges, à l'état physiologique ou pathologique de la personne <br/>À partir d'exemples de menus vérifier qu'ils permettent d'atteindre l'équilibre alimentaire <br/>Justifier l'adaptation des menus à un régime prescrit</p>
+<p>16.2 Audition : perception et transmission des sons <br/>Équilibre </p>
+</td>
+<td width="279">
+<p>Expliquer la transmission des sons dans l'oreille, l'origine de l'influx nerveux auditif et sa transmission au cerveau </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>16.3 Physiopathologie : <br/>Otite <br/>
+<br/>
+<br/>Surdité </p>
+</td>
+<td width="279">
+<p>Donner une définition <br/>Citer les mécanismes d'apparition Justifier les facteurs favorisants <br/>Énoncer les signes cliniques, les conséquences et évolution potentielles <br/>Justifier les moyens de prévention et traitements <br/>
+<br/>Énoncer les différents types de surdité Pour chacun en indiquer les causes <br/>Proposer des moyens de prévention </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>17-Explorations et moyens diagnostics </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>Examens biologiques (analyses de sang, d'urine, de selles, de liquide céphalorachidien) <br/>Examens par imagerie (radiologie, échographie, scannographie, scintigraphies, imagerie par résonnance magnétique) <br/>Examens par endoscopie <br/>Examen par enregistrement graphique (électrocardiogramme, électroencéphalogramme, doppler) </p>
+</td>
+<td width="279">
+<p>Pour chaque examen :<br/>-énoncer de façon simple le principe<br/>-indiquer l'utilité<br/>-donner un exemple d'utilisation pour une pathologie donnée </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>18-Diversité du monde microbien </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>18.1 Protozoaires, champignons microscopiques, bactéries, virus </p>
+</td>
+<td width="279">
+<p>Présenter les principaux types de microorganismes présents dans le monde microbien. <br/>Définir une cellule eucaryote et une cellule procaryote et en caractériser la structure <br/>Indiquer des exemples de micro-organismes<br/>-responsables de maladies,<br/>-utilisés dans les industries agro-alimentaires, pharmaceutiques </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>18.2 Physiopathologie étude d'une mycose : <br/>l'intertrigo interdigital (pied d'athlète) ou le muguet </p>
+</td>
+<td width="279">
+<p>Définir une mycose <br/>Indiquer l'agent responsable et sa nature <br/>Présenter les signes <br/>Indiquer les facteurs favorisants <br/>Décrire le traitement <br/>Proposer des moyens de prévention </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>19-Bactéries </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>19.1 Structure, ultrastructure </p>
+</td>
+<td width="279">
+<p>Indiquer les critères morphologiques de classification (forme, dimension, mobilité, spore, capsule) et donner des d'exemples <br/>Décrire les différentes étapes de la coloration de Gram, et en préciser les colorations caractéristiques obtenues. <br/>Indiquer le rôle de la paroi dans la coloration Gram <br/>Repérer, sur des préparations ou des microphotographies, différents types de bactéries <br/>Représenter schématiquement l'ultrastructure d'une cellule bactérienne <br/>Énoncer les éléments permanents et non permanents et indiquer leurs rôles. </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>19.2 Conditions de vie et multiplication </p>
+</td>
+<td width="279">
+<p>Distinguer les différents types de bactéries selon :<br/>-la source de carbone utilisée<br/>-la source d'énergie utilisée<br/>-les besoins en dioxygène <br/>Définir les bactéries, aérobies, anaérobies, aéro-anaérobies <br/>Représenter schématiquement la multiplication d'une bactérie <br/>Décrire les différentes phases d'une courbe de croissance bactérienne en milieu non renouvelé <br/>Donner des exemples de valeurs de temps de génération et de taux de croissance horaire ; <br/>Indiquer les paramètres (température, pH, teneur en eau, nutriments...) favorables ou défavorables à la croissance bactérienne </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>19.3 Sporulation </p>
+</td>
+<td width="279">
+<p>Définir la sporulation, en préciser les conditions favorables et énoncer les propriétés des spores </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>20-Pouvoir pathogène des bactéries </p>
+</td>
+</tr>
+<tr>
+<td width="278">
 <br/>
 </td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3 - Régimes alimentaires</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.1 Différents régimes prescrits</p>
-</td>
-<td width="278">
-<p>Caractériser et justifier les principaux types de régimes prescrits (hyposodés hypoglucidiques, hypolipidiques, sans résidu, hyperprotidiques) <br/>Énumérer les mesures à respecter en cas de troubles digestifs </p>
-<p>Justifier l'utilisation de compléments alimentaires</p>
+<td width="279">
+<p>Définir le pouvoir pathogène<br/>-Distinguer les bactéries pathogènes spécifiques et les bactéries pathogènes opportunistes <br/>Définir un porteur asymptomatique <br/>Définir le pouvoir invasif<br/>-Indiquer les facteurs favorisant le pouvoir invasif des bactéries<br/>-Donner des exemples de bactéries agissant par leur pouvoir invasif <br/>Définir le pouvoir toxique<br/>-Indiquer les caractéristiques des deux groupes de toxines produites par les bactéries<br/>-Énoncer les propriétés des deux catégories de toxines <br/>Indiquer les toxines importantes en pathologie infectieuse (tétanique, botulinique,...) </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>3.2 Allergies alimentaires</p>
+<p>20.1 Infection bactérienne </p>
 </td>
-<td width="278">
-<p>Indiquer les mesures à respecter en cas d'allergies alimentaires aux composants alimentaires (arachides, protéines du lait de vache,...)</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Définir l'infection <br/>À partir d'un exemple de maladie infectieuse :<br/>-Présenter les différentes voies de pénétration des microorganismes dans l'organisme<br/>-Définir les phases d'incubation, d'invasion, d'état<br/>-Décrire les différentes phases de l'infection : multiplication des micro-organismes localement, réaction inflammatoire, propagation ou non dans l'organisme, rôles des ganglions lymphatiques, libération ou non de toxines, rôles de l'immunité non spécifique et de l'immunité spécifique <br/>Décrire les principaux signes cliniques (rougeurs oedèmes, diarrhées, vomissements...) </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>3.3 Intolérance au gluten</p>
+<p>20.2 Antibiotiques, résistance bactérienne </p>
 </td>
-<td width="278">
-<p>Indiquer les mesures à respecter en cas d'intolérance au gluten</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Présenter la notion de spectre d'activité <br/>Définir et indiquer le rôle d'un antibiogramme <br/>Repérer un antibiotique actif sur un antibiogramme <br/>Définir la résistance bactérienne et en indiquer les conséquences <br/>Préciser les risques liés à la multi résistance </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p>4 - Comportement et habitudes alimentaires</p>
+<p>21-Virus </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>4.1 Qualité organoleptique</p>
+<p>21.1 Structure. et reproduction </p>
 </td>
-<td width="278">
-<p>Présenter les éléments intervenant dans l'appétit Indiquer les critères de qualité organoleptique <br/>Identifier sur un schéma les éléments participant à la perception des saveurs et des odeurs <br/>Énoncer les facteurs qui concourent à mettre en valeur les préparations culinaires</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Indiquer les caractéristiques structurales des virus <br/>Définir la notion de parasitisme obligatoire <br/>Indiquer les différentes phases de reproduction d'un virus dans le cas d'un virus à ADN. </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>4.2 Éducation alimentaire <br/>- découverte des saveurs et textures <br/>- surpoids et obésité <br/>- ...</p>
+<p>21.2 Physiopathologie <br/>Deux exemples de maladie virale : l'hépatite B, la grippe </p>
 </td>
-<td width="278">
-<p>Justifier l'intérêt d'une éducation alimentaire <br/>Différencier surpoids et obésité et proposer des moyens de prévention dans une situation donnée</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<td width="279">
+<p>Pour chaque maladie :<br/>-Indiquer et décrire l'agent responsable<br/>-Énoncer les principaux signes cliniques et la conduite à tenir<br/>-Indiquer les complications<br/>-Présenter les moyens de prévention </p>
 </td>
 <td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>4.3 Troubles de l'alimentation</p>
-</td>
-<td width="278">
-<p>Énumérer les obstacles (physiologiques, sociaux économiques, psychosociaux) à l'alimentation <br/>Énoncer les signes et les conséquences des états de dénutrition et déshydratation <br/>Caractériser les troubles du comportement alimentaire: anorexie, boulimie</p>
+<p align="center">X </p>
 </td>
 <td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td colspan="4" width="674">
-<p>5 - Qualité sanitaire des aliments</p>
+<p>22-Système immunitaire </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>Critères de qualité <br/>Altérations courantes <br/>Toxi infections</p>
+<p>22.1 Immunité innée : <br/>Barrière cutanéo-muqueuse, <br/>Réaction inflammatoire </p>
 </td>
-<td width="278">
-<p>Indiquer les critères de qualité sanitaire </p>
-<p>Citer les altérations courantes des produits alimentaires <br/>Énoncer les modes de contamination des aliments tout au long de la chaîne alimentaire (règle des 5 M) <br/>Justifier les pratiques professionnelles </p>
-<p>Définir les infections d'origine alimentaire. <br/>Citer les microorganismes responsables des principales TIA <br/>Préciser leur mode d'action : <br/>- toxine ou produit toxique produit par le microorganisme ; <br/>- présence de microorganismes vivants responsables de l'infection <br/>Définir les TIAC ; recenser les aliments responsables de TIAC</p>
+<td width="279">
+<p>Indiquer les rôles de la peau et des muqueuses <br/>Décrire la réaction inflammatoire et indiquer les différentes cellules qui y participent et leur rôle <br/>Définir le chimiotactisme, la diapédèse, la phagocytose <br/>Représenter schématiquement les étapes de la phagocytose </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 </tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
+<tr>
+<td width="278">
+<p>22.2 Immunité adaptative : <br/>réponse humorale <br/>réponse cellulaire </p>
+</td>
+<td width="279">
+<p>Caractériser les deux types de réponses immunitaires <br/>Définir un antigène, un anticorps <br/>Décrire la réaction antigène-anticorps <br/>Énumérer les différents types de cellules intervenant dans la réponse immunitaire et préciser leur rôle <br/>Commenter un schéma présentant la suite des événements immunitaires permettant l'élimination d'une bactérie ou d'un virus <br/>Définir la mémoire immunitaire </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>22.3 Vaccination </p>
+</td>
+<td width="279">
+<p>Énoncer le principe de la vaccination Indiquer les caractéristiques de l'immunité conférée par les vaccins <br/>Présenter les différents vaccins et leur classification (germes vivants atténués, tués ou inactivés, anatoxines...) <br/>Justifier les vaccinations obligatoires et conseillées selon le calendrier vaccinal en vigueur (InVS) <br/>Justifier les rappels pour certains vaccins, commenter une courbe de production d'anticorps </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td width="278">
+<p>22.4 Physiopathologie <br/>Allergies </p>
+</td>
+<td width="279">
+<p>Définir une allergie <br/>Indiquer la cause (contact allergène/ anticorps) <br/>Lister les principaux allergènes <br/>Décrire la réaction anaphylactique Décrire le choc anaphylactique et les conditions de sa survenue <br/>Citer les moyens thérapeutiques utilisés contre les allergies </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
 <tr>
 <td colspan="4" width="674">
-<p align="center">Techniques professionnelles et technologie associée : SERVICES À L'USAGER</p>
+<p>23-Maladies infectieuses de l'enfant </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p align="center">Compétences</p>
-</td>
-<td width="278">
-<p align="center">Limites de connaissances exigées</p>
-</td>
-<td width="53">
-<p align="center">D</p>
-</td>
-<td width="53">
-<p align="center">S</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1- Entretien de l'environnement de la personne</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.1 - Éléments de connaissances communs aux techniques</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.1.1 Concepts de propreté, d'hygiène</p>
-</td>
-<td width="278">
-<p>Définir propreté et propreté hygiénique <br/>Justifier les objectifs de l'hygiène</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.1.2 Dégradations et salissures <br/>Différentes dégradations : <br/>dépôts, tartre, <br/>Différentes salissures : <br/>non adhérentes <br/>adhérentes</p>
-</td>
-<td width="278">
-<p>Différencier dégradations, salissures et déchets </p>
-<p>Indiquer la classification des différentes salissures, leur nature (chimique ou physique) (se limiter aux salissures usuelles de l'environnement de la personne)</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.1.3 Facteurs et méthodes intervenant dans les opérations de nettoyage</p>
-</td>
-<td width="278">
-<p>Définir un mode opératoire, un protocole <br/>Justifier l'obligation d'un mode opératoire, d'un protocole, de l'ordonnancement du travail <br/>Expliquer l'interdépendance des facteurs intervenant dans les opérations de nettoyage <br/>Citer les actions mises en œuvre dans la technique</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.1.4 Contrôles des opérations et des résultats (contrôles visuels et microbiologiques)</p>
-</td>
-<td width="278">
-<p>Selon le contexte professionnel et pour une activité donnée, <br/>- indiquer et justifier les différents contrôles à effectuer et les matériels adaptés <br/>- énoncer les critères de contrôle visuel</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>selon le contexte professionnel : <br/>Domicile : <br/>chambre, Salle bains, toilettes <br/>Cuisine <br/>Structure : <br/>chambre de malade, salle bains, toilettes</p>
-</td>
-<td rowspan="3" width="278">
-<p>Indicateurs communs aux techniques <br/>- Identifier le protocole adapté au contexte professionnel <br/>- Expliquer le principe de chaque technique <br/>- Préciser les critères de choix d'une technique en fonction de la nature du support, de la nature et de la quantité des salissures, du résultat attendu <br/>- Justifier le choix et le dosage des produits <br/>- Justifier le choix du matériel et des accessoires <br/>- Justifier l'ordre des opérations Indiquer les critères de qualité du résultat <br/>- Justifier les règles d'hygiène, de sécurité et les principes d'ergonomie et d'économie <br/>- Énoncer les précautions à prendre pour respecter l'intégrité des matériaux et de l'environnement</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2.1 Techniques de dépoussiérage manuel et mécanique</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
 <br/>
 </td>
+<td width="279">
+<p>Énoncer les principales maladies contagieuses de l'enfant (rubéole, coqueluche, scarlatine, varicelle, rougeole, oreillons, méningites) <br/>Pour chaque maladie :<br/>-l'agent responsable<br/>-citer les principaux signes cliniques,<br/>-indiquer les complications possibles<br/>-les moyens de prévention </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+<td width="53">
+<p align="center">X </p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="674">
+<p>24-Infections nosocomiales et infections associées aux soins </p>
+</td>
 </tr>
 <tr>
 <td width="278">
-<p>1.2.2 Techniques de lavage manuel sols et surfaces, équipements, vaisselle</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
 <br/>
 </td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2.3 Techniques de bionettoyage des locaux, équipements et matériels</p>
-</td>
-<td width="278">
-<p>Indicateurs communs aux techniques <br/>Définir désinfection, bionettoyage <br/>Justifier les étapes de plans de nettoyage, de bionettoyage et de fréquences des opérations selon le secteur d'activité et les contraintes (espace, degré de salissure)</p>
+<td width="279">
+<p>Définir les infections nosocomiales et les infections associées aux soins </p>
 </td>
 <td width="53">
-<br/>
+<p align="center">X </p>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>1.2.4 Matériaux à entretenir : locaux, équipements, matériels, aides techniques, jouets, ...</p>
+<p>24.1 Agents pathogènes dont Bactéries multirésistantes Modes de transmission (porteurs malades, porteurs asymptomatiques, réservoirs inertes...) </p>
 </td>
-<td width="278">
-<p>Identifier les matériaux à entretenir et mettre en relation avec leurs propriétés d'usage et les méthodes d'entretien (type de produits, matériels, techniques, protocoles...)</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2.5 Zones à risques</p>
-</td>
-<td width="278">
-<p>Définir les différentes zones à risques <br/>Énoncer les précautions à prendre dans l'activité professionnelle selon la zone</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2.6 Techniques de préparation de la stérilisation</p>
-</td>
-<td width="278">
-<p>Définir stérilisation, désinfection, pré désinfection, décontamination <br/>Énoncer les différentes étapes de la stérilisation de matériels médicaux<br/>Caractériser les différentes techniques de stérilisation (agents utilisés, paramètres, contrôles de l'efficacité de la stérilisation ...) <br/>Indiquer et justifier les opérations de préparation préalables à la stérilisation : pré désinfection des matériels (trempage, rinçage, lavage...)</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2.7 Déchets selon le contexte professionnel : <br/>Domicile : <br/>caractéristiques, sources, risques déchets ménagers banals <br/>Structures déchets des activités de soins</p>
-</td>
-<td width="278">
-<p>Indiquer les différentes catégories de déchets et leurs origines et en donner des exemples <br/>Énumérer les risques encourus dans le cadre des activités professionnelles et énoncer les mesures réglementaires de prévention, les précautions à prendre Indiquer leurs différentes voies d'élimination et de valorisation</p>
-<p>Présenter le tri, le conditionnement, l'organisation des circuits, de la collecte, le traitement local des déchets selon la réglementation en vigueur</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-<p>X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.3 - Entretien des textiles</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.3.1 Techniques relatives au tri, détachage, lavage repassage, pliage réfection courante et adaptation simple du linge et des vêtements</p>
-</td>
-<td width="278">
-<p>Indicateurs communs </p>
-<p>Justifier les techniques, les précautions à prendre selon le contexte professionnel <br/>Justifier les réfections et adaptations proposées</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.3.2 Matières textiles (coton, laine, polyester, viscose, chlorofibres, nouveaux textiles)</p>
-</td>
-<td width="278">
-<p>Énoncer les propriétés des matières textiles les plus utilisées en lien avec leurs usages <br/>Identifier les symboles liés aux conseils d'entretien et déduire les précautions à prendre pour l'entretien</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.4 - Technologie des appareils et des matériels</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.4.1 Matériels et appareils de préparation, conservation, cuisson des aliments</p>
-</td>
-<td rowspan="4" width="278">
-<p>Dans un contexte professionnel donné, pour chaque appareil ou matériel : <br/>- expliquer la fonction globale des matériels et des appareils <br/>- énoncer le principe de fonctionnement et identifier les organes (fonctionnels, de commande...) sur un schéma <br/>- identifier les consignes d'utilisation, de nettoyage, de maintien en état sur une fiche technique d'appareil <br/>- énumérer les règles de sécurité à respecter lors de l'utilisation et l'entretien des appareils <br/>- justifier la fréquence des opérations d'entretien</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.4.2 Matériels et appareils de remise en température</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.4.3 Matériels et appareils d'entretien du linge</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.4.4 Matériels et appareils d'entretien des locaux et des équipements</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.5 - Produits de nettoyage et de désinfection</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Détergents, désinfectants, détergents-désinfectants, détartrants, abrasifs, agglutinants</p>
-</td>
-<td width="278">
-<p>Dans un contexte professionnel donné, pour chaque type de produits : <br/>- expliquer les principales caractéristiques physicochimiques des produits, leurs principales propriétés et leur mode d'action <br/>- justifier le choix des produits en fonction des salissures à éliminer, du support à traiter, des matériels à disposition et de la dimension développement durable <br/>- justifier les règles et précautions d'utilisation <br/>- indiquer les conditions de rangement et de conservation des produits d'entretien et les règles de sécurité à respecter <br/>- identifier les pictogrammes concernant les risques chimiques énumérer les risques toxicologiques ou chimiques</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.6 - Gestion des stocks de produits et de matériels</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Outils de gestion (support papier ou numérique selon contexte professionnel) : <br/>bons de commande, de livraison, factures, contrats de location, contrat de maintenance, fiches de stock, fiches de signalement des anomalies... </p>
-<p>Rangement des produits alimentaires, d'entretien, d'hygiène, de pharmacie</p>
-</td>
-<td width="278">
-<p>À partir d'une situation donnée <br/>- Définir la notion de stock <br/>- Justifier les quantités et la rotation d'un stock <br/>Indiquer la fonction et l'utilisation des différents outils de gestion. </p>
-<p>Énoncer les règles de sécurité et d'hygiène pour le rangement</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.7 - Aménagement des locaux et des espaces</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.7.1 Facteurs d'hygiène et de confort des locaux pour le bien-être de la personne <br/>- qualité de l'air <br/>- confort thermique <br/>- confort acoustique confort visuel</p>
-</td>
-<td width="278">
-<p>Indiquer les facteurs d'hygiène et de confort (températures optimales des pièces, degré hygrométrique, circulation et renouvellement de l'air) <br/>Pour une situation donnée, proposer des mesures simples permettant d'assurer le confort et le bien être de la personne et argumenter ses choix</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.7.2 Agencement et équipement des locaux pour l'accessibilité, la sécurité et la prévention des accidents domestiques</p>
-</td>
-<td width="278">
-<p>Repérer sur un plan l'orientation, les surfaces, l'agencement des locaux et les circulations possibles <br/>Répertorier les risques existants en fonction de l'aménagement des locaux et des espaces, de l'âge, de l'autonomie des personnes <br/>Pour une situation donnée, proposer des solutions simples permettant l'adaptation du logement aux besoins des personnes pour en assurer la fonctionnalité et la sécurité, justifier ses choix <br/>Énoncer les principales causes d'accidents domestiques et les moyens de prévention <br/>Énumérer les recommandations en matière de circulation et d'accessibilité au regard de la réglementation</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.7.3 Circuits : principes d'organisation des circuits dans les locaux : <br/>marche en avant circuit propre/sale double circulation des personnes (professionnels et usagers) réglementation</p>
-</td>
-<td width="278">
-<p>Analyser les risques de bio-contaminations lors des circulations et les mettre en relation avec les mesures réglementaires <br/>Définir un circuit en prenant appui sur des exemples <br/>Justifier l'intérêt de la mise en œuvre des circuits</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2 Préparation des collations et des repas</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2.1 - Produits alimentaires</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>2.1.1 Produits alimentaires courants : <br/>- laits, laits modifiés, produits laitiers <br/>- viandes, produits de la pêche, œufs <br/>- produits céréaliers <br/>- produits sucrés <br/>- végétaux frais, appertisés, surgelés, déshydratés, sous atmosphère contrôlée, sous vide <br/>- corps gras <br/>- boissons</p>
-</td>
-<td width="278">
-<p>Pour chaque type de produits : <br/>- indiquer les principales formes de commercialisation des différentes catégories de produits alimentaires <br/>- définir les différentes gammes de produits <br/>- énumérer et justifier les règles concernant le transport, le stockage, l'utilisation, la conservation des produits alimentaires <br/>- présenter à partir de l'étiquetage, les éléments relatifs à la composition, à la qualité, aux dates limites de consommation, au stockage, à la conservation, au mode d'utilisation <br/>- justifier le choix d'un produit alimentaire pour une personne donnée <br/>- énumérer les critères de qualité d'un aliment</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>2.1.2 produits spécifiques, <br/>- laits pour nourrissons <br/>- farines infantiles <br/>- substituts alimentaires (produits de réhydratation, ...) <br/>- compléments alimentaires</p>
-</td>
-<td width="278">
-<p>Pour chaque type de produits : <br/>- présenter, à partir de l'étiquetage les éléments relatifs à la composition, à la qualité, au stockage, aux dates limites de consommation, à la conservation, au mode d'utilisation <br/>- justifier leurs indications</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2.2 - Techniques de préparations de repas</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Préparation des produits alimentaires <br/>Différentes cuissons <br/>Différentes fabrications de pâtes, crèmes, sauces... </p>
-<p>Préparations mixées <br/>Confection de biberons à base d'aliments lactés diététiques (en poudre) pour nourrissons, de farines diététiques instantanées. </p>
-<p>Utilisation de produits prêts à l'emploi et de compléments alimentaires</p>
-</td>
-<td width="278">
-<p>Pour chaque type de techniques : <br/>- justifier le choix du matériel, des produits et du mode de cuisson (en fonction du temps imparti, du régime...) <br/>- justifier la technique utilisée et les précautions au regard des transformations physico-chimiques des aliments <br/>- expliquer le principe de chaque technique <br/>- justifier l'organisation du travail <br/>- énoncer les critères de qualité de la préparation. <br/>- justifier les précautions à prendre pour conserver la valeur nutritionnelle et organoleptique des aliments <br/>- énoncer et justifier les règles d'hygiène, de sécurité, d'économie et d'ergonomie mises en œuvre lors des techniques de préparation, de cuisson, de maintien et de remise en température.</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2.3 - Techniques de préparations de collations</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Préparation des fruits </p>
-<p>Différentes fabrications de pâtes à crêpes, pâtes levées </p>
-<p>Boissons chaudes et froides </p>
-<p>Confection de biberons </p>
-<p>Utilisation de produits prêts à l'emploi, substituts alimentaires, compléments alimentaires</p>
-</td>
-<td width="278">
-<p>Justifier les intérêts des collations dans des situations données (pour une personne donnée) <br/>Énoncer et justifier les règles d'hygiène, de sécurité, d'économie mises en œuvre lors des techniques de préparation, de conservation, de maintien et de remise en température <br/>Justifier le choix du matériel, des produits <br/>Justifier l'organisation du travail <br/>Présenter les critères de qualité de la préparation. <br/>Justifier les précautions à prendre pour conserver la valeur nutritionnelle et organoleptique des préparations</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2.4 - Techniques de services des repas, des collations</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Formes de distribution des repas et collations <br/>- distribution directe<br/>- distribution différée dans le temps et dans l'espace : liaison chaude, liaison réfrigérée </p>
-<p>Modes de distribution des repas et collations : service à table, service au lit </p>
-<p>Aide à la prise des repas : prévention des fausses routes, de la déshydratation, de la dénutrition</p>
-</td>
-<td width="278">
-<p>Définir les formes de distribution <br/>Mettre en relation le principe de la distribution et les contraintes réglementaires <br/>Indiquer les paramètres à contrôler au moment de la réception des repas ou des collations, lors du maintien et la remise en température <br/>Énoncer les critères de qualité attendus lors du service des repas </p>
-<p>Justifier la technique et les précautions à prendre lors de l'aide à la prise des repas en fonction du degré d'autonomie de la personne</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3 Gestion et organisation familiale</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.1 - Achats alimentaires</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Achats (cf PSE ) <br/>- Différents points de vente, <br/>- Critères d'achat <br/>Modes de paiement (cf PSE)</p>
-</td>
-<td width="278">
-<p>Justifier le choix du lieu d'achat pour une situation donnée Indiquer les structures accessibles aux personnes en grandes difficultés financières (épiceries sociales ou solidaires, ...) <br/>Énoncer les critères de choix pour un achat alimentaire </p>
-<p>Énoncer l'intérêt des différents modes de paiement <br/>Citer les règles à respecter lors de l'utilisation des différents modes de paiement</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.2 - Gestion de budget</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Gestion de budget (cf PSE) <br/>- Composantes d'un budget <br/>- Tenue d'un livre de compte</p>
-</td>
-<td width="278">
-<p>Pour une situation donnée : <br/>Identifier les différents postes du budget <br/>Analyser la part relative des différents postes du budget <br/>Justifier l'intérêt de la tenue d'un livre de compte</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.3 - Gestion des documents</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Gestion des documents administratifs courants et factures, échéanciers, </p>
-<p>Techniques de classement</p>
-</td>
-<td width="278">
-<p>Lister les documents spécifiques utiles pour une situation donnée <br/>Indiquer les caractéristiques des documents utilisés (valeur juridique, objectifs, modalités d'utilisation, transmission) <br/>Justifier l'échéancier établi et les démarches engagées </p>
-<p>Présenter et justifier différentes techniques de classement Indiquer les délais à respecter et durées d'archivage pour ces documents</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="4" width="674">
-<p align="center">Techniques professionnelles et technologie associée : ERGONOMIE - SOINS</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p align="center">Compétences</p>
-</td>
-<td width="278">
-<p align="center">Limites de connaissances exigées</p>
-</td>
-<td width="53">
-<p align="center">D</p>
-</td>
-<td width="53">
-<p align="center">S</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1 - Hygiène professionnelle</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.1 Tenue professionnelle</p>
-</td>
-<td width="278">
-<p>Dans un contexte professionnel donné : <br/>- justifier l'importance d'une tenue professionnelle <br/>- caractériser les différents éléments de la tenue professionnelle et en justifier le choix <br/>- justifier un usage des gants réservé à certains gestes</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>1.2 Hygiène des mains</p>
-</td>
-<td width="278">
-<p>Justifier l'intérêt de l'hygiène des mains en secteur professionnel <br/>Caractériser les différentes méthodes d'hygiène des mains : <br/>- friction hydro-alcoolisée <br/>- lavage des mains : simple, antiseptique, chirurgical <br/>Indiquer les différents produits d'hygiène des mains (produits hydroalcoolisés / savons...) et énoncer leurs modalités d'utilisation</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2 - Ergonomie et santé au travail</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2.1 Conditions de travail</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>2.1.1 Définition et champ de l'ergonomie</p>
-</td>
-<td width="278">
-<p>Définir l'ergonomie en précisant ses objectifs et ses enjeux <br/>À partir d'une situation de travail prise dans le contexte professionnel, présenter le champ d'action de l'ergonomie (activités physiques, cognitives et organisationnelles) <br/>Présenter les différentes étapes de la démarche ergonomique</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>2.1.2 Activité de travail et situation de travail <br/>En lien avec le cours de biologie PSE + PRAP2S et autres référentiels de formations en vigueur</p>
-</td>
-<td width="278">
-<p>Différencier activité et tâche <br/>À partir d'une activité donnée : <br/>- déterminer les tâches à accomplir, <br/>- indiquer les facteurs qui influencent cette activité (gestes, postures et déplacements, polyvalence des tâches, charges physique, mentale et psychique, rythmes et horaires de travail...)</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>2.1.3 Amélioration des conditions de travail et prévention des risques professionnels <br/>En lien avec le cours de biologie PSE + PRAP2S et autres référentiels de formations en vigueur</p>
-</td>
-<td width="278">
-<p>À partir de statistiques, relever les principales causes d'arrêt de travail et les principales maladies professionnelles chez ces personnels <br/>À partir d'une situation de travail donnée : <br/>- repérer les risques et dommages potentiels liés aux activités relevées <br/>- proposer des solutions pour supprimer ou limiter ces risques : modalités d'aménagement et/ou d'utilisation des espaces et postes de travail, adaptation des outils de travail, EPI, réorganisation des activités de travail.... <br/>- alerter en cas de situations dangereuses <br/>- intervenir en sécurité en cas d'incident ou d'accident <br/>- identifier les sources de risques psychosociaux (stress, harcèlement, violence, injures) afin de formaliser une alerte pertinente</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>2.2 Manutentions manuelles et prévention des troubles musculo-squelettiques</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Techniques gestuelles adaptées <br/>En lien avec le cours de biologie PSE + PRAP2S et autres référentiels de formations en vigueur</p>
-</td>
-<td width="278">
-<p>Justifier, à partir de situations, les principes de base pour protéger son dos et ses articulations lors d'un travail assis, debout, ou accroupi Indiquer les principes de sécurité physique et d'économie d'effort à adopter et les critères à respecter lors : <br/>- du soulèvement de charges inertes <br/>- de la manutention des personnes - d'aide aux activités motrices des personnes. <br/>* (le recours aux manutentions manuelles sera limité aux situations de travail ne permettant pas l'utilisation d'aides à la manutention et à l'aide aux activités motrices des personnes).</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3 - Techniques de soins d'hygiène et de confort</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.1 Démarche de soins</p>
-</td>
-</tr>
-<tr>
-<td width="278"/>
-<td valign="bottom" width="278">
-<p>Définir la démarche de soins <br/>Énumérer et justifier les différentes étapes de la démarche de soins : recueil de données, analyse des données, planification des soins, réalisation des soins, évaluation, remédiation <br/>Justifier les intérêts d'une démarche de soins</p>
+<td width="279">
+<p>Énoncer les principaux agents pathogènes responsables des infections nosocomiales et leurs modes de transmission </p>
 </td>
 <td width="53">
 <br/>
 </td>
 <td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.2 Soins d'hygiène et de confort de la personne</p>
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>3.2.1 Soins d'hygiène corporelle de l'adulte : aide à la toilette pour l'option à domicile ou réalisation pour l'option en structure </p>
+<p>24.2 Facteurs favorisants </p>
 </td>
-<td rowspan="2" width="278">
-<p>Pour chaque soin à réaliser et en fonction du contexte professionnel, des besoins et/ou des pathologies de la personne et de son degré d'autonomie: <br/>- citer l'objectif du soin <br/>- décrire et justifier les étapes de réalisation <br/>- justifier le choix des matériels et produits utilisés <br/>Énoncer les conduites à tenir pour respecter la pudeur, le confort et la sécurité de la personne <br/>Repérer et justifier les zones sensibles nécessitant une attention particulière lors de la toilette <br/>Énoncer les propriétés des différents produits d'hygiène dont produits de prévention et de traitement des érythèmes <br/>Justifier les modalités d'utilisation et les éventuelles précautions d'emploi de ces produits <br/>Indiquer les différents types de change et de protection et justifier leur choix</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.2 Soins d'hygiène corporelle de l'enfant</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.3 Prévention des risques d'alitement prolongé (escarre, phlébite, constipation, syndrome de glissement)</p>
-</td>
-<td width="278">
-<p>En lien avec l'enseignement de biologie : <br/>Indiquer et justifier les différents moyens de prévention des risques d'alitement prolongé <br/>Énoncer les limites de ses compétences </p>
-<p>Énoncer les propriétés des différents produits utilisés et justifier les modalités d'utilisation et les éventuelles précautions d'emploi <br/>Décrire les différents moyens de prévention et de traitement des escarres et leurs conditions d'utilisation</p>
+<td width="279">
+<p>Expliquer les circonstances favorisant les infections nosocomiales <br/>Justifier les moyens de prévention <br/>Énoncer les règles d'isolement concernant les patients </p>
 </td>
 <td width="53">
 <br/>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>3.2.4 Habillage et déshabillage</p>
+<p>24.3 Structures de prévention dont comités de lutte contre les infections nosocomiales (CLIN) </p>
 </td>
-<td width="278">
-<p>En fonction du contexte professionnel, du degré d'autonomie, de la pathologie ou des capacités motrices de la personne : <br/>Justifier les techniques mises en œuvre <br/>Présenter et justifier l'utilisation de vêtements, dont les bas de contention, d'accessoires facilitant l'habillage ou le déshabillage, d'adaptations de vêtements</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.5 Réfection d'un lit inoccupé</p>
-</td>
-<td width="278">
-<p>En fonction du contexte professionnel : Indiquer et justifier les différents types de réfection : partielle, totale <br/>Décrire la technique de réfection du lit inoccupé</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.6 Réfection d'un lit occupé</p>
-</td>
-<td width="278">
-<p>En fonction du contexte professionnel, du degré d'autonomie, de la pathologie ou des capacités motrices de la personne : <br/>Décrire les techniques de réfection du lit occupé <br/>Justifier la réfection partielle ou totale <br/>Préciser les modalités de participation et/ou de mobilité de la personne alitée</p>
+<td width="279">
+<p>Indiquer la composition et les rôles des comités de lutte contre l'infection nosocomiale </p>
 </td>
 <td width="53">
 <br/>
 </td>
 <td width="53">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 </tr>
 <tr>
 <td width="278">
-<p>3.2.7 Différents lits : lits enfants, lits adulte,</p>
+<p>24.4 Risques biologiques </p>
 </td>
-<td rowspan="2" width="278">
-<p>Pour chaque type de lit, présenter : <br/>- les caractéristiques - les conditions d'utilisation <br/>- les modalités d'entretien <br/>- les intérêts pour le personnel, la personne</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.8 Berceaux maternité, lits médicalisés</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.9 Accessoires du lit : potence, barrières, arceaux, Linge de lit</p>
-</td>
-<td width="278">
-<p>Énoncer les fonctions de chacun des accessoires, les conditions d'utilisation et d'entretien </p>
-<p>Énoncer les différentes pièces de linge</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.10 Installation au lit, au fauteuil</p>
-</td>
-<td width="278">
-<p>En fonction du contexte professionnel, du degré d'autonomie, de la pathologie ou des capacités motrices de la personne : <br/>Énoncer les différentes positions au lit : assise, semi assise, décubitus... <br/>Décrire et justifier les techniques de mobilisation et de déplacement</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.11 Installation pour un repas, aide aux déplacements</p>
-</td>
-<td width="278">
-<p>Justifier le choix et l'utilisation d'accessoires pour ces techniques de mobilisation</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.12 Aide à l'élimination</p>
-</td>
-<td width="278">
-<p>Décrire l'utilisation d'un bassin, d'un urinal, d'un fauteuil garde-robe...</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.2.13 Matériel : <br/>D'aide à la mobilisation (lève malade, planche de transfert, poignée de traction, draps de transfert...)</p>
-</td>
-<td rowspan="2" width="278">
-<p>Selon le contexte professionnel, pour chaque matériel, présenter : <br/>- les caractéristiques <br/>- leurs intérêts pour le personnel, pour la personne <br/>- leurs conditions d'utilisation <br/>- les modalités d'entretien et/ou de maintenance <br/>- les contrats de maintenance et de location</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>D'aide aux déplacements (déambulateur, fauteuil roulant, différents types de cannes) </p>
-<p>D'aide aux repas (vaisselle adaptée, ...) D'aide à l'élimination (bassin, urinal, fauteuil garde-robe, sur-élévateur)</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.3 Surveillance de l'état de santé de la personne</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.3.1 Paramètres vitaux et principales constantes</p>
-</td>
-<td width="278">
-<p>Lister les principaux paramètres vitaux (pulsations, rythme respiratoire, pression artérielle, température, taille, poids, diurèse) et indiquer leur valeur normale <br/>Énoncer les modalités de transcription des relevés et des observations selon les habitudes du service <br/>Justifier la fréquence des contrôles des paramètres</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.3.2 Observation des signes cliniques : - troubles cutanés - douleur - troubles du transit, de l'élimination vomissements</p>
-</td>
-<td width="278">
-<p>Énoncer les signes cliniques et justifier l'intérêt de leur repérage dans la prise en charge de la personne <br/>Indiquer les moyens d'évaluation de la douleur</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.3.3 Observation du comportement relationnel ou social</p>
-</td>
-<td width="278">
-<p>Donner des exemples de modifications de comportements ou d'attitudes pouvant exprimer un mal être ou les signes d'une pathologie débutante</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.4 Transmission des informations</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.4.1 Transmissions</p>
-</td>
-<td width="278">
-<p>Selon le contexte professionnel : <br/>- énoncer les intérêts des transmissions et de la traçabilité : pour l'usager, pour la famille, pour le service et la structure <br/>- préciser les différentes modalités de transmission, justifier l'intérêt de chacune</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>3.4.2 Transmissions ciblées</p>
-</td>
-<td width="278">
-<p>Définir la notion de transmissions ciblées <br/>Développer les objectifs des transmissions ciblées <br/>Expliquer les modalités de mise en œuvre des transmissions ciblées <br/>Énoncer la composition et l'intérêt du dossier patient</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>3.5 Aide à la prise de médicaments</p>
-</td>
-</tr>
-<tr>
-<td width="278"/>
-<td width="278">
-<p>Définir médicament, excipient, principe actif et posologie <br/>Indiquer les différentes voies d'administration <br/>Répertorier les principales formes galéniques <br/>Préciser les conditions de délivrance d'un médicament <br/>Repérer les conditions de conservation et de stockage d'un médicament à partir de la notice et à l'étiquetage <br/>Présenter les principes de la législation en vigueur sur l'aide à la prise de médicaments <br/>Selon le contexte professionnel, <br/>- préciser les modalités de l'aide (contrôle du respect de la posologie et de la prise effective du ou des médicaments) <br/>- indiquer les limites de compétences</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-.
-
-<table>
-<tbody>
-<tr>
-<td colspan="4" width="674">
-<p align="center">Techniques professionnelles et technologie associée : ANIMATION - ÉDUCATION À LA SANTÉ</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p align="center">Compétences</p>
-</td>
-<td width="278">
-<p align="center">Limites de connaissances exigées</p>
-</td>
-<td width="53">
-<p align="center">D</p>
-</td>
-<td width="53">
-<p align="center">S</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1 - Activités d'acquisition ou de maintien de l'autonomie et de la vie sociale</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.1 Apprentissages et handicap</p>
-</td>
-</tr>
-<tr>
-<td width="278"/>
-<td width="278">
-<p>Identifier les acteurs concourant à la mise en œuvre du plan personnalisé de scolarisation </p>
-<p>Indiquer ses limites de compétences au sein de l'équipe de suivi de la scolarisation </p>
-<p>Indiquer et justifier les différentes méthodes pédagogiques, les supports d'apprentissage et leurs adaptations <br/>Lister les aides techniques possibles <br/>Présenter les modalités de communication adaptée (Braille, langue des signes française (LSF), langue française parlée complétée (LPC),...) <br/>Préciser l'aménagement des examens et concours, selon la réglementation en vigueur</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" width="674">
-<p>1.2 Conduite d'activités pour une personne ou un groupe</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Activités manuelles, jeux individuels ou de groupe, chants, contes, activités d'extérieur ...</p>
-</td>
-<td width="278">
-<p>Selon le contexte professionnel : <br/>Indiquer des jeux ou des activités de loisirs adaptés pour différents âges et différents degrés d'autonomie <br/>Pour chaque activité, présenter et justifier : <br/>- les objectifs <br/>- les intérêts pour le public concerné <br/>- les matériels et produits nécessaires - les techniques de réalisation si nécessaire, l'organisation retenue (temps, espace) <br/>Caractériser les différents produits et matériaux (composition, texture...) spécifiques à l'animation <br/>Justifier les conditions d'utilisation et les précautions d'emploi des produits <br/>Présenter les intérêts des différents matériels utilisés en animation, expliciter leurs conditions d'utilisation</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>1.3 Projet d'animation</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="278"/>
-<td valign="bottom" width="278">
-<p>Énoncer et justifier les différentes phases de l'élaboration d'un projet d'animation (objectif, activités, financement, préparation, partenaires, déroulement, évaluation,...) <br/>Justifier le choix et l'organisation d'un projet en fonction du public concerné <br/>Indiquer les démarches administratives et réglementaires à effectuer (autorisations, assurances, encadrement, instances à contacter, délais, documents obligatoires...)</p>
-</td>
-<td valign="bottom" width="53"/>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>1.4 Conduite d'animation</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="278"/>
-<td valign="bottom" width="278">
-<p>Présenter les différents modes d'animation (directif, participatif,...) <br/>Justifier le choix d'un mode d'animation pour une activité et un public donnés <br/>Décrire les moyens à mettre en œuvre pour obtenir l'adhésion de la personne ou la participation d'un groupe</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>2 - Animation de réunion de travail</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="278"/>
-<td valign="bottom" width="278">
-<p>Expliciter les différentes phases de mise en place d'une réunion <br/>Énoncer les différents types de réunion et justifier le choix d'un de ces types selon l'objectif retenu </p>
-<p>Présenter les fonctions, attitudes et qualités de l'animateur d'une réunion </p>
-<p>Justifier le mode d'animation </p>
-<p>Indiquer les intérêts des différents documents ou outils utilisés lors d'une réunion : convocation, liste d'émargement, compte rendu, relevé de conclusions, ... </p>
-<p>Justifier le choix de ces documents et de leur mode de diffusion</p>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-<td width="53">
-<br/>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>3 - Conduite d'actions d'éducation à la santé</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>3.1 Éducation à la santé, promotion de la santé</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="278"/>
-<td valign="bottom" width="278">
-<p>Définir les notions de promotion de la santé, d'éducation à la santé</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>3.2 Analyse des besoins</p>
-</td>
-</tr>
-<tr>
-<td width="278">
-<p>Risques sanitaires</p>
-</td>
-<td valign="bottom" width="278">
-<p>Énoncer quelques mesures de prévention, différents plans nationaux, campagnes..., s'inscrivant dans les axes de la politique nationale de santé </p>
-<p>Lister les différentes techniques et outils de recueil des besoins d'un public (boîte à idées, observation, entretien, grilles, questionnaires, statistiques...) dans le cadre d'un projet local </p>
-<p>Justifier le choix de la technique ou de l'outil retenus</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>3.3 Préparation de l'action</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="278"/>
-<td valign="bottom" width="278">
-<p>Identifier les partenaires possibles en fonction du thème et du public retenus <br/>Présenter et justifier la constitution et l'organisation d'un ensemble documentaire lié au thème et au public ciblés <br/>Justifier le choix de supports adaptés aux publics et le contenu des messages produits <br/>Différencier la communication destinée au grand public, celle destinée à des publics ciblés</p>
-</td>
-<td width="53">
-<br/>
-</td>
-<td width="53">
-<p align="center">X</p>
-<p>X</p>
-</td>
-</tr>
-<tr>
-<td colspan="4" valign="bottom" width="674">
-<p>3.4 Mise en œuvre</p>
-</td>
-</tr>
-<tr>
-<td valign="bottom" width="278"/>
-<td valign="bottom" width="278">
-<p>Cf. techniques d'animation de réunion, projet d'animation <br/>Indiquer les spécificités des modalités d'animation des actions d'éducation à la santé (message non culpabilisant, non stigmatisant, ...)</p>
+<td width="279">
+<p>Énoncer les situations de risques d'exposition au sang et autres produits biologiques <br/>Indiquer quelques moyens de prévention </p>
 </td>
 <td width="53">
 <br/>

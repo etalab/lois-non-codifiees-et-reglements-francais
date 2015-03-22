@@ -6,4 +6,4 @@ Le contenu de la brochure mentionnée à l'article L. 153 précité du code de l
 
 L'arrêté du 7 mai 1992 modifié relatif au certificat médical prénuptial est abrogé.
 
-(1) Les annexes I et II pourront être consultées auprès des services du conseil général de chaque département et dans les mairies.
+(1) Les annexes I et II pourront être consultées auprès des services du conseil départemental de chaque département et dans les mairies.

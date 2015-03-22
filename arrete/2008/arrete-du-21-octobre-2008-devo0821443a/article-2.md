@@ -1,6 +1,6 @@
 # Article 2
 
-Un arrêté du président du conseil général et en Corse, s'il y a lieu, du président du conseil exécutif de Corse définit le tarif applicable par habitant et par année pour l'assistance technique prévue à l'article L. 3232-1-1 du code général des collectivités territoriales pour l'assainissement collectif, pour l'assistance technique pour l'assainissement non collectif, pour l'assistance technique pour la protection de la ressource en eau et pour l'assistance technique pour la restauration et l'entretien des milieux aquatiques.
+Un arrêté du président du conseil départemental et en Corse, s'il y a lieu, du président du conseil exécutif de Corse définit le tarif applicable par habitant et par année pour l'assistance technique prévue à l'article L. 3232-1-1 du code général des collectivités territoriales pour l'assainissement collectif, pour l'assistance technique pour l'assainissement non collectif, pour l'assistance technique pour la protection de la ressource en eau et pour l'assistance technique pour la restauration et l'entretien des milieux aquatiques.
 
 Le tarif annuel par habitant applicable aux collectivités pouvant bénéficier de l'assistance technique mise à disposition par le département est défini en tenant compte des coûts par habitant des prestations d'assistance pour des collectivités qui ne sont pas considérées comme rurales en application du I de l'article D. 3334-8-1 du code général des collectivités territoriales.
 

@@ -6,7 +6,7 @@ Le Conseil national des parcs et jardins comprend, outre son président nommé p
 
 a) Le directeur général des patrimoines ou son représentant ;
 
-b) Le   directeur général de la création artistique ou son représentant ;
+b) Le directeur général de la création artistique ou son représentant ;
 
 c) Le président du Centre des monuments nationaux ou son représentant ;
 
@@ -26,7 +26,7 @@ h) Un architecte des Bâtiments de France ;
 
 a) Un maire désigné par le président de l'Association des maires de France ;
 
-b) Un président de conseil général désigné par le président de l'Assemblée des départements de France ;
+b) Un président de conseil départemental désigné par le président de l'Assemblée des départements de France ;
 
 c) Un président de conseil régional désigné par le président de l'Association des régions de France ;
 

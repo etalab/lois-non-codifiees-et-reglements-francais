@@ -8,4 +8,4 @@ Les directives, instructions, circulaires mentionnées au premier alinéa de l'a
 
 Cette publication peut intervenir par voie électronique.
 
-Les maires, les présidents des conseils généraux, les présidents des conseils régionaux et le président du conseil exécutif de la collectivité territoriale de Corse informent le préfet de la forme de publication adoptée.
+Les maires, les présidents des conseils départementaux, les présidents des conseils régionaux et le président du conseil exécutif de la collectivité territoriale de Corse informent le préfet de la forme de publication adoptée.

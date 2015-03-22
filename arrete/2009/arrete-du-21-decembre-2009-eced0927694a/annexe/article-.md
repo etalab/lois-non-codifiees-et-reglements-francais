@@ -18,7 +18,7 @@ La gouvernance des maisons de l'emploi est structurée autour de membres constit
 
 ― les membres constitutifs obligatoires sont au nombre de trois : les collectivités territoriales ou leur groupement porteurs de projet, l'Etat et Pôle emploi ;
 
-― le conseil régional, le conseil général, les intercommunalités et les communes distinctes de la collectivité territoriale fondatrice, concourant au projet, sont, à leur demande, membres constitutifs ;
+― le conseil régional, le conseil départemental, les intercommunalités et les communes distinctes de la collectivité territoriale fondatrice, concourant au projet, sont, à leur demande, membres constitutifs ;
 
 ― tous les autres acteurs locaux de la politique de l'emploi et de la formation professionnelle, parmi lesquels les partenaires sociaux, peuvent devenir des membres associés à la maison de l'emploi dès lors que leur admission a reçu l'accord préalable des membres constitutifs obligatoires.
 

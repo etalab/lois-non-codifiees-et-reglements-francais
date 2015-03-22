@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article L. 271-7 du code de l'action sociale et des familles, les présidents de conseils généraux transmettent chaque année, avant le 31 mars, à la directrice de la recherche, des études, de l'évaluation et des statistiques, au moyen du fichier informatique sous tableur préformaté permettant son exportation tel que présenté en annexe du présent arrêté, les informations suivantes relatives à l'année écoulée :
+En application de l'article L. 271-7 du code de l'action sociale et des familles, les présidents de conseils départementaux transmettent chaque année, avant le 31 mars, à la directrice de la recherche, des études, de l'évaluation et des statistiques, au moyen du fichier informatique sous tableur préformaté permettant son exportation tel que présenté en annexe du présent arrêté, les informations suivantes relatives à l'année écoulée :
 
 ― le nombre de nouvelles mesures d'accompagnement social personnalisé selon leur nature, les motifs de leur mise en œuvre, la nature de la mesure judiciaire de protection les ayant le cas échéant précédées, la durée prévue et les prestations sociales sur lesquelles elles ont porté ;
 

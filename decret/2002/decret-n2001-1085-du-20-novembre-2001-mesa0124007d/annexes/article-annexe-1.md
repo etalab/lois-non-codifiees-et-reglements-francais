@@ -116,8 +116,8 @@ Percevez-vous :
 <tr>
 <td>
 <p>l'aide ménagère versée par les </p>
-<p>caisses de retraite (le conseil </p>
-<p>général prendra directement </p>
+<p>caisses de retraite (le </p>
+<p>conseil départemental prendra directement </p>
 <p>l'attache de votre caisse de </p>
 <p>retraite) :.............................. </p>
 </td>
@@ -157,7 +157,7 @@ Attention : l'allocation personnalisée d'autonomie n'est cumulable ni avec la p
 
 Déclaration sur l'honneur
 
-Autorisation de transmission par le conseil général du dossier aux caisses de retraite (en cas de rejet d'allocation personnalisée d'autonomie).
+Autorisation de transmission par le conseil départemental du dossier aux caisses de retraite (en cas de rejet d'allocation personnalisée d'autonomie).
 
 II.-Liste des pièces justificatives à joindre
 

@@ -4,31 +4,31 @@ L'établissement public est administré par un conseil d'administration comporta
 
 1. Cinq membres représentant l'Etat désignés à raison de :
 
-- deux membres par le ministre chargé de l'équipement ;
+-deux membres par le ministre chargé de l'équipement ;
 
-- deux membres par te ministre chargé de l'économie et des finances ;
+-deux membres par te ministre chargé de l'économie et des finances ;
 
-- un membre par le ministre de l'intérieur.
+-un membre par le ministre de l'intérieur.
 
 2. Une personne qualifiée désignée par le ministre chargé de l'équipement.
 
 3. Des représentants des collectivités locales et établissements publics suivants :
 
-- le président du conseil régional d'lIe-de-France ou son représentant ;
+-le président du conseil régional d'lIe-de-France ou son représentant ;
 
-- un représentant de la région d'Ile-de-France, désigné en son sein par le conseil régional ;
+-un représentant de la région d'Ile-de-France, désigné en son sein par le conseil régional ;
 
-- le président du conseil général du département de Seine-et-Marne ou son représentant ;
+-le président du conseil départemental du département de Seine-et-Marne ou son représentant ;
 
-- un représentant du département de Seine-et-Marne, désigné en son sein par le conseil général ;
+-un représentant du département de Seine-et-Marne, désigné en son sein par le conseil départemental ;
 
-- le président du syndicat d'agglomération nouvelle du Val-Maubuée ;
+-le président du syndicat d'agglomération nouvelle du Val-Maubuée ;
 
-- cinq représentants des communes incluses dans l'agglomération nouvelle du Val-Maubuée, désignés en son sein par le comité du syndicat d'agglomération nouvelle ;
+-cinq représentants des communes incluses dans l'agglomération nouvelle du Val-Maubuée, désignés en son sein par le comité du syndicat d'agglomération nouvelle ;
 
-- deux représentants de la commune de Bussy-Saint-Georges désignés en son sein par le conseil municipal ;
+-deux représentants de la commune de Bussy-Saint-Georges désignés en son sein par le conseil municipal ;
 
-- le représentant de chacune des communes liées à l'établissement par une convention de délégation de maîtrise d'ouvrage dans les conditions prévues par l'article R. 321-4 du code de l'urbanisme.
+-le représentant de chacune des communes liées à l'établissement par une convention de délégation de maîtrise d'ouvrage dans les conditions prévues par l'article R. 321-4 du code de l'urbanisme.
 
 Lorsque, en application de l'alinéa précédent, le nombre des représentants des communes liées à l'établissement par une convention de délégation de maîtrise d'ouvrage est supérieur à la moitié du nombre des représentants des communes incluses dans l'agglomération nouvelle, ce dernier est augmenté de manière à ce qu'il soit égal au double du premier.
 

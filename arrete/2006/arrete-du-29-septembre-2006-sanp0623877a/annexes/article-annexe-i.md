@@ -8,27 +8,27 @@ PREMIÈRE PARTIE
 
 Les missions de la structure de gestion
 
-I. - Sensibilisation et information des professionnels et de la population
+I.-Sensibilisation et information des professionnels et de la population
 
-II. - Relations avec les professionnels de santé concourant aux dépistages organisés
+II.-Relations avec les professionnels de santé concourant aux dépistages organisés
 
 II-1. Relations avec les médecins généralistes et spécialistes concernés
 
 II-2. Relations avec les autres professionnels impliqués dans le dépistage
 
-III. - Constitution et gestion de fichiers
+III.-Constitution et gestion de fichiers
 
 III-1. Les fichiers de référence de la population concernée
 
 III-2. Les fichiers des personnes dépistées
 
-IV. - Relations avec les personnes dépistées
+IV.-Relations avec les personnes dépistées
 
-V. - Gestion optimale des moyens financiers au travers de l'utilisation du budget type
+V.-Gestion optimale des moyens financiers au travers de l'utilisation du budget type
 
-VI. - Evaluation et assurance qualité
+VI.-Evaluation et assurance qualité
 
-VII. - Aspects réglementaires, consentement et confidentialité
+VII.-Aspects réglementaires, consentement et confidentialité
 
 VII-1. Commission nationale informatique et libertés (CNIL)
 
@@ -40,11 +40,11 @@ DEUXIÈME PARTIE
 
 Les moyens de la structure de gestion
 
-I. - Moyens en personnel
+I.-Moyens en personnel
 
-II. - Administration de la structure de gestion
+II.-Administration de la structure de gestion
 
-III. - Moyens financiers
+III.-Moyens financiers
 
 PREMIÈRE PARTIE
 
@@ -54,25 +54,27 @@ La structure de gestion est l'instance opérationnelle assurant l'organisation l
 
 La structure de gestion est responsable :
 
-- des relations avec les professionnels concourant au dépistage ;
+-des relations avec les professionnels concourant au dépistage ;
 
-- de la sensibilisation et de l'information des professionnels et de la population ;
+-de la sensibilisation et de l'information des professionnels et de la population ;
 
-- de la gestion des fichiers centralisés des personnes dépistées ;
+-de la gestion des fichiers centralisés des personnes dépistées ;
 
-- des relations avec les personnes dépistées ;
+-des relations avec les personnes dépistées ;
 
-- du recueil des données et de la transmission des résultats aux personnes concernées ;
+-du recueil des données et de la transmission des résultats aux personnes concernées ;
 
-- de la gestion optimale des moyens financiers au travers de l'utilisation du budget type ;
+-de la gestion optimale des moyens financiers au travers de l'utilisation du budget type ;
 
-- de l'évaluation interne et de l'assurance qualité du programme ;
+-de l'évaluation interne et de l'assurance qualité du programme ;
 
-- du retour d'information vers les professionnels de santé, comportant la transmission périodique de statistiques individuelles et globales permettant à chaque médecin d'évaluer sa pratique ;
+-du retour d'information vers les professionnels de santé, comportant la transmission périodique de statistiques individuelles et globales permettant à chaque médecin d'évaluer sa pratique ;
 
-- de la conservation des données.
+-de la conservation des données.
 
-I. - SENSIBILISATION ET INFORMATION DES PROFESSIONNELS ET DE LA POPULATION
+I.-SENSIBILISATION ET INFORMATION
+
+DES PROFESSIONNELS ET DE LA POPULATION
 
 La structure de gestion participe à l'information et à la sensibilisation des populations cibles et des partenaires, dans l'objectif de relayer au niveau local les campagnes nationales. Toute adaptation liée au contexte local (catégories socioprofessionnelles, âge, localisation géographique) doit être réalisée en cohérence avec la campagne de communication nationale.
 
@@ -82,7 +84,7 @@ Pour mettre en œuvre ces actions, la structure de gestion utilise les outils de
 
 Les médecins du travail, ainsi que les acteurs du milieu médico-social (pharmaciens, kinésithérapeutes, infirmières, travailleurs sociaux, sages-femmes...), qui sont en contact régulier avec la population, doivent être informés par la structure de gestion des modalités de déroulement des campagnes de dépistage qui les concernent, pour leur permettre de répondre aux questions qui peuvent leur être posées sur le sujet et les amener à inciter les personnes concernées à participer au programme.
 
-II. - RELATIONS AVEC LES PROFESSIONNELS DE SANTÉ CONCOURANT AUX DÉPISTAGES ORGANISÉS
+II.-RELATIONS AVEC LES PROFESSIONNELS DE SANTÉ CONCOURANT AUX DÉPISTAGES ORGANISÉS
 
 II-1. Relations avec les médecins généralistes
 
@@ -98,19 +100,21 @@ Dans le cadre du programme de dépistage du cancer du sein, la structure de gest
 
 En l'absence de nouvelles d'une personne dépistée après l'annonce d'un résultat anormal, une relance est faite par la structure de gestion dans le cadre de la procédure de suivi.
 
-II-2. Relations avec les autres professionnels impliqués dans le dépistage
+II-2. Relations avec les autres professionnels
+
+impliqués dans le dépistage
 
 La structure de gestion s'assure que les professionnels (ou organismes) concourant au dépistage se conforment aux cahiers des charges relatifs à chaque programme. Elle communique ses observations aux DRASS et aux organismes d'assurance maladie qui contractent avec les professionnels.
 
 La structure de gestion collabore avec l'ensemble des professionnels concernés par le dépistage (personnels médicaux et paramédicaux). En particulier, elle veille à impliquer les pharmaciens et à développer le réseau d'anatomopathologistes collaborant aux programmes de dépistage et à les impliquer étroitement, par exemple en assurant leur participation au conseil scientifique (évoqué au II de la deuxième partie). Elle favorise les collaborations avec les réseaux de cancérologie et les registres des tumeurs.
 
-III. - CONSTITUTION ET GESTION DE FICHIERS
+III.-CONSTITUTION ET GESTION DE FICHIERS
 
 Chaque structure de gestion doit solliciter, en application de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, l'autorisation de la Commission nationale de l'informatique et des libertés (CNIL) pour la constitution et la gestion de son fichier de personnes invitées et dépistées. Elle doit s'assurer que toutes les précautions physiques et logistiques sont prises pour la protection et la confidentialité des données concernant les personnes dépistées.
 
 III-1. Les fichiers de référence de la population concernée
 
-La structure de gestion constitue le ou les fichier(s) de la population du département ciblée par dépistage mis en œuvre, à partir des fichiers transmis par les différents organismes d'assurance maladie et les autres régimes spéciaux d'assurance maladie, ou le cas échéant par la caisse pivot que ces organismes ont désignée.
+La structure de gestion constitue le ou les fichier (s) de la population du département ciblée par dépistage mis en œuvre, à partir des fichiers transmis par les différents organismes d'assurance maladie et les autres régimes spéciaux d'assurance maladie, ou le cas échéant par la caisse pivot que ces organismes ont désignée.
 
 La tenue et la mise à jour du fichier ainsi constitué incombent à la structure de gestion. Cette gestion comporte également le retrait des doublons, des personnes décédées ou ayant changé d'adresse.
 
@@ -120,13 +124,13 @@ Les résultats des examens de dépistage, ainsi que, le cas échéant, les donn�
 
 La structure de gestion assure la gestion ainsi que la consolidation de ces données.
 
-IV. - RELATIONS AVEC LES PERSONNES DÉPISTÉES
+IV.-RELATIONS AVEC LES PERSONNES DÉPISTÉES
 
-Dans le cadre du dépistage du cancer du sein, la structure de gestion est responsable de l'envoi des résultats des examens de dépistage aux personnes dépistées et au(x) médecin(s) qu'elles ont désigné(s). La structure de gestion engage sa responsabilité en cas de perte ou d'erreur d'attribution.
+Dans le cadre du dépistage du cancer du sein, la structure de gestion est responsable de l'envoi des résultats des examens de dépistage aux personnes dépistées et au (x) médecin (s) qu'elles ont désigné (s). La structure de gestion engage sa responsabilité en cas de perte ou d'erreur d'attribution.
 
 La rédaction des différents courriers de la campagne des deux programmes de dépistage (lettre accompagnant les invitations, lettre d'information de l'examen négatif, lettre informant que le résultat est anormal et invitant à pratiquer les examens complémentaires, lettre de suivi à moyen terme des anomalies, lettres de relance) doit être cohérente avec les modèles nationaux approuvés par l'Etat et l'assurance maladie sur la base des propositions faites par l'INCA.
 
-V. - GESTION OPTIMALE DES MOYENS FINANCIERS AU TRAVERS DE L'UTILISATION DU BUDGET TYPE
+V.-GESTION OPTIMALE DES MOYENS FINANCIERS AU TRAVERS DE L'UTILISATION DU BUDGET TYPE
 
 Les structures de gestion doivent adresser leurs demandes budgétaires sur la base du document (budget type) figurant à l'annexe 2 du présent arrêté.
 
@@ -134,7 +138,7 @@ Le budget type constitue un cadre budgétaire unique destiné à établir le bud
 
 Le budget prévisionnel doit donner lieu à une consolidation budgétaire réalisée d'abord au niveau régional par la DRASS et l'URCAM, puis au niveau national, qui permet d'assurer une comparaison des besoins et de l'activité des structures de gestion d'un département à l'autre.
 
-VI. - ÉVALUATION ET ASSURANCE QUALITÉ
+VI.-ÉVALUATION ET ASSURANCE QUALITÉ
 
 La structure de gestion s'engage à respecter le protocole d'assurance qualité défini pour chacun des dépistages.
 
@@ -144,7 +148,7 @@ Les procédures d'évaluation au niveau national sont définies par l'Institut d
 
 La structure de gestion s'assure du respect des obligations définies dans le cahier des charges spécifique à chaque programme par l'ensemble des acteurs impliqués dans la mise en œuvre de ce programme, et signale les manquements constatés à la DDASS, à la DRASS et aux organismes d'assurance maladie.
 
-VII. - ASPECTS RÉGLEMENTAIRES, CONSENTEMENT ET CONFIDENTIALITÉ
+VII.-ASPECTS RÉGLEMENTAIRES, CONSENTEMENT ET CONFIDENTIALITÉ
 
 VII-1. Commission nationale informatique et libertés (CNIL)
 
@@ -174,7 +178,7 @@ DEUXIÈME PARTIE
 
 Les moyens de la structure de gestion
 
-I. - MOYENS EN PERSONNEL
+I.-MOYENS EN PERSONNEL
 
 Les moyens en personnel de la structure de gestion sont décrits par la structure de gestion dans les budgets types.
 
@@ -182,17 +186,17 @@ La structure de gestion est placée sous la responsabilité médicale d'un méde
 
 Le personnel est composé au minimum de :
 
-- un médecin coordinateur, déjà mentionné ci-dessus;
+-un médecin coordinateur, déjà mentionné ci-dessus ;
 
-- un responsable administratif et financier;
+-un responsable administratif et financier ;
 
-- en tant que de besoin, un paramédical ayant une expérience de santé publique ;
+-en tant que de besoin, un paramédical ayant une expérience de santé publique ;
 
-- un agent de secrétariat à temps plein ; une personne compétente en informatique.
+-un agent de secrétariat à temps plein ; une personne compétente en informatique.
 
 Ce personnel s'engage à suivre les formations organisées au niveau régional ou national.
 
-II. - ADMINISTRATION DE LA STRUCTURE DE GESTION
+II.-ADMINISTRATION DE LA STRUCTURE DE GESTION
 
 La gestion de la structure de gestion est sous la responsabilité d'un conseil d'administration ou d'une instance équivalente qui en répond auprès des services déconcentrés du ministère de la santé (DDASS, DRASS). Ce conseil doit associer des représentants des financeurs, des professionnels impliqués dans le dépistage, des usagers et de l'Ordre des médecins.
 
@@ -200,18 +204,18 @@ Il est assisté d'un comité scientifique par programme de dépistage.
 
 Il est recommandé que la moitié au moins des membres de ces comités scientifiques soient extérieurs à la structure de gestion. Leur composition pourrait comprendre au minimum :
 
-- un médecin généraliste ;
+-un médecin généraliste ;
 
-- un médecin spécialiste (oncologue, gastro-entérologue, gynécologue obstétricien ou médical, radiologue...) ;
+-un médecin spécialiste (oncologue, gastro-entérologue, gynécologue obstétricien ou médical, radiologue...) ;
 
-- un biologiste ;
+-un biologiste ;
 
-- un anatomocytopathologiste ;
+-un anatomocytopathologiste ;
 
-- un professionnel de santé publique.
+-un professionnel de santé publique.
 
-III. - MOYENS FINANCIERS
+III.-MOYENS FINANCIERS
 
-Le budget de la structure de gestion est notamment financé par une dotation des organismes d'assurance maladie et par l'Etat. Il peut être complété par d'autres financements (conseils généraux, Ligue contre le cancer, etc.).
+Le budget de la structure de gestion est notamment financé par une dotation des organismes d'assurance maladie et par l'Etat. Il peut être complété par d'autres financements ( conseils départementaux, Ligue contre le cancer, etc.).
 
 Les documents budgétaires présentés par la structure de gestion doivent être conformes au budget type mentionné au V de la première partie.

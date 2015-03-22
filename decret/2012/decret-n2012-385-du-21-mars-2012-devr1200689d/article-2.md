@@ -10,7 +10,7 @@ b) Le directeur général de l'aménagement, du logement et de la nature ;
 
 c) Le directeur général de la prévention des risques ;
 
-d) Le            directeur général des entreprises ;
+d) Le directeur général de la compétitivité, de l'industrie et des services ;
 
 e) Le directeur général du Trésor ;
 
@@ -20,7 +20,7 @@ e) Le directeur général du Trésor ;
 
 a) Un représentant des communes ou groupements de communes désigné par l'Association des maires de France ;
 
-b) Un représentant des conseils généraux désigné par l'Assemblée des présidents des conseils généraux de France ;
+b) Un représentant des conseils départementaux désigné par l'Assemblée des présidents des conseils départementaux de France ;
 
 c) Un représentant des conseils régionaux désigné par l'Association des présidents de conseils régionaux ;
 

@@ -8,7 +8,7 @@ a) Deux à cinq conseillers régionaux désignés par le conseil régional ;
 
 b) Deux représentants du conseil économique et social de la région désignés par l'assemblée de ce conseil ;
 
-c) Un conseiller général par département du ressort désigné par le conseil général de chaque département ;
+c) Un conseiller départemental par département du ressort désigné par le conseil départemental de chaque département ;
 
 d) Un à trois maires désignés parmi les maires de la région par l'Association des maires de France ;
 
@@ -28,4 +28,4 @@ k) Un représentant de l'organisation professionnelle patronale des transports c
 
 l) Deux membres au titre des associations d'usagers des transports collectifs, désignés par le président de la région ;
 
-m) Un représentant des      chambres de commerce et d'industrie territoriales désigné par l'assemblée régionale de la chambre de commerce et d'industrie territoriale.
+m) Un représentant des chambres de commerce et d'industrie territoriales désigné par l'assemblée régionale de la chambre de commerce et d'industrie territoriale.

@@ -28,9 +28,9 @@ Le délégué à la sûreté nucléaire et à la radioprotection pour les activi
 
 2° En qualité d'élus :
 
-Le président du conseil général de la Drôme.
+Le président du conseil départemental de la Drôme.
 
-Le président du conseil général de Vaucluse.
+Le président du conseil départemental de Vaucluse.
 
 Un sénateur de la Drôme.
 
@@ -54,13 +54,13 @@ Un représentant du conseil régional Provence-Alpes-Côte d'Azur.
 
 Un représentant du conseil régional Languedoc.
 
-Cinq représentants du conseil général de la Drôme.
+Cinq représentants du conseil départemental de la Drôme.
 
-Un représentant du conseil général de Vaucluse.
+Un représentant du conseil départemental de Vaucluse.
 
-Deux représentants du conseil général de l'Ardèche.
+Deux représentants du conseil départemental de l'Ardèche.
 
-Deux représentants du conseil général du Gard.
+Deux représentants du conseil départemental du Gard.
 
 Un représentant de la mairie de Donzère.
 

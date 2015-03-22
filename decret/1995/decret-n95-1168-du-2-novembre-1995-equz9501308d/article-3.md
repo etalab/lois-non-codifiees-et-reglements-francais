@@ -12,17 +12,17 @@ A ces représentants s'ajoute le directeur de l'agence régionale de l'hospitali
 
 b) Onze conseillers régionaux, désignés par le président du conseil régional parmi les membres de la commission permanente ;
 
-c) Le président du conseil général et sept conseillers généraux désignés par le président du conseil général parmi les membres de la commission permanente ;
+c) Le président du conseil départemental et sept conseillers départementaux désignés par le président du conseil départemental parmi les membres de la commission permanente ;
 
-d) Dix représentants des exécutifs des communes, communautés de communes, communautés d'agglomération et communautés urbaines et des pays, désignés par accord des présidents des associations de maires des départements dans la région.A défaut d'accord, il est procédé à une élection au sein du collège des maires organisée par le préfet de région au scrutin de liste majoritaire à un tour.
+d) Dix représentants des exécutifs des communes, communautés de communes, communautés d'agglomération et communautés urbaines et des pays, désignés par accord des présidents des associations de maires des départements dans la région. A défaut d'accord, il est procédé à une élection au sein du collège des maires organisée par le préfet de région au scrutin de liste majoritaire à un tour.
 
 Conformément aux dispositions du deuxième alinéa de l'article 34 ter de la loi du 7 janvier 1983 susvisée, toute communauté d'agglomération ou communauté urbaine instituée dans l'agglomération urbaine la plus importante de chaque département a droit à un représentant.
 
 Les pays représentés sont ceux qui ont fait l'objet d'une reconnaissance en application de l'article 22 de la loi du 4 février 1995 susvisée.
 
-Aux dix membres du présent collège, s'ajoute un représentant de parc naturel régional classé.S'il existe plusieurs parcs naturels régionaux classés dans la région, leur représentant est désigné par accord des présidents de ces parcs. En l'absence de tout parc naturel régional classé dans la région, le nombre des membres du collège défini au premier alinéa est porté à onze ;
+Aux dix membres du présent collège, s'ajoute un représentant de parc naturel régional classé. S'il existe plusieurs parcs naturels régionaux classés dans la région, leur représentant est désigné par accord des présidents de ces parcs. En l'absence de tout parc naturel régional classé dans la région, le nombre des membres du collège défini au premier alinéa est porté à onze ;
 
-e) Le président et onze membres du conseil économique, social et environnemental régional, dont au moins un représentant de       chambre de commerce et d'industrie de région, un représentant de chambre départementale d'agriculture et un représentant de chambre régionale des métiers, désignés par le conseil économique et social. Le conseil désigne ses membres en tenant compte de la diversité des intérêts économiques et sociaux représentés ;
+e) Le président et onze membres du conseil économique, social et environnemental régional, dont au moins un représentant de chambre de commerce et d'industrie de région, un représentant de chambre départementale d'agriculture et un représentant de chambre régionale des métiers, désignés par le conseil économique et social. Le conseil désigne ses membres en tenant compte de la diversité des intérêts économiques et sociaux représentés ;
 
 f) Douze représentants d'organisations syndicales et professionnelles, désignés respectivement par chacun des organismes suivants :
 

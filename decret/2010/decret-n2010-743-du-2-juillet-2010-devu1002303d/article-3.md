@@ -20,7 +20,7 @@ L'établissement est administré par un conseil de seize membres, désignés com
 
 ― un représentant de la région Ile-de-France désigné en son sein par le conseil régional ;
 
-― deux représentants du département des Hauts-de-Seine désignés en son sein par le conseil général ;
+― deux représentants du département des Hauts-de-Seine désignés en son sein par le conseil départemental ;
 
 ― un représentant de la ville de Paris désigné en son sein par le conseil de Paris ;
 

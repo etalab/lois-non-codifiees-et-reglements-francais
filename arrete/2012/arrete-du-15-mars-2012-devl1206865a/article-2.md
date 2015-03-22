@@ -4,7 +4,7 @@ La composition des commissions consultatives en matière de réglementation de l
 
 ― le préfet ou son représentant, président ;
 
-― le président du conseil général ou son représentant ;
+― le président du conseil départemental ou son représentant ;
 
 ― le directeur départemental des territoires ou son représentant ;
 

@@ -4,19 +4,19 @@ Le code de l'action sociale et des familles prévoit, dans son article L. 113-2 
 
 La loi précise le triple objet de ces conventions :
 
-- favoriser la coordination des prestations servies aux personnes âgées dépendantes ;
+-favoriser la coordination des prestations servies aux personnes âgées dépendantes ;
 
-- accomplir les tâches d'instruction et de suivi de ces prestations ;
+-accomplir les tâches d'instruction et de suivi de ces prestations ;
 
-- préciser les modalités de gestion de cette coordination.
+-préciser les modalités de gestion de cette coordination.
 
 Ces conventions, et donc le cahier des charges prévu par le législateur, doivent respecter les normes juridiques qui leur sont supérieures, notamment celles qui régissent l'activité et garantissent la libre administration ou l'autonomie de gestion des parties à ces conventions. Elles doivent également assurer le respect des missions dévolues à d'autres autorités administratives, et en particulier aux représentants de l'Etat dans la région et le département.
 
-Dans ce cadre, le présent cahier des charges comprend des prescriptions et des recommandations élaborées en concertation avec les représentants des présidents de conseil général et des organismes de sécurité sociale :
+Dans ce cadre, le présent cahier des charges comprend des prescriptions et des recommandations élaborées en concertation avec les représentants des présidents de conseil départemental et des organismes de sécurité sociale :
 
-- les prescriptions déterminent le contenu minimum des conventions afin de réaliser leur triple objet. Il revient aux parties de convenir des modalités de mise en oeuvre de ces prescriptions. Le cas échéant, le Comité national de la coordination gérontologique assurera une fonction de médiation en la matière ;
+-les prescriptions déterminent le contenu minimum des conventions afin de réaliser leur triple objet. Il revient aux parties de convenir des modalités de mise en oeuvre de ces prescriptions. Le cas échéant, le Comité national de la coordination gérontologique assurera une fonction de médiation en la matière ;
 
-- les recommandations proposent un contenu qu'il paraît souhaitable, dans l'esprit de la loi, de voir figurer dans les conventions.
+-les recommandations proposent un contenu qu'il paraît souhaitable, dans l'esprit de la loi, de voir figurer dans les conventions.
 
 Ces prescriptions et recommandations peuvent être mises en oeuvre immédiatement ou par étapes en fonction d'un calendrier défini.
 
@@ -52,23 +52,23 @@ Ces modalités communes d'instruction et de suivi feront appel, dans le respect 
 
 Devront être définis :
 
-- les lieux de dépôt possibles des demandes ;
+-les lieux de dépôt possibles des demandes ;
 
-- les modalités d'acheminement des demandes vers le ou les services(s) instructeur(s) en assurant le respect du secret médical ;
+-les modalités d'acheminement des demandes vers le ou les services (s) instructeur (s) en assurant le respect du secret médical ;
 
-- les modalités d'information des parties à la convention du dépôt d'une demande et d'information, le cas échéant, du maire de la commune de résidence ;
+-les modalités d'information des parties à la convention du dépôt d'une demande et d'information, le cas échéant, du maire de la commune de résidence ;
 
-- les modalités de déclaration du caractère complet des dossiers de demande ;
+-les modalités de déclaration du caractère complet des dossiers de demande ;
 
-- les modalités de participation des signataires à la constitution des équipes médico-sociales et leur organisation territoriale ;
+-les modalités de participation des signataires à la constitution des équipes médico-sociales et leur organisation territoriale ;
 
-- les modes de relation entre les équipes médico-sociales et le ou les service(s) instructeur(s) ;
+-les modes de relation entre les équipes médico-sociales et le ou les service (s) instructeur (s) ;
 
-- les modalités particulières de relation entre l'équipe médico-sociale et le service instructeur lorsqu'il apparaît, en cas d'urgence, que la prestation spécifique dépendance pourrait être attribuée à titre provisoire ;
+-les modalités particulières de relation entre l'équipe médico-sociale et le service instructeur lorsqu'il apparaît, en cas d'urgence, que la prestation spécifique dépendance pourrait être attribuée à titre provisoire ;
 
-- les modalités d'organisation du suivi du plan d'aide (contrôle de l'effectivité, de l'adéquation aux besoins et de la qualité du service rendu) ;
+-les modalités d'organisation du suivi du plan d'aide (contrôle de l'effectivité, de l'adéquation aux besoins et de la qualité du service rendu) ;
 
-- les modalités de contrôle de l'effectivité de certaines aides par des échanges d'informations avec les organismes de recouvrement des cotisations de sécurité sociale et d'allocations familiales devant comporter les données prévues en annexe au présent cahier des charges.
+-les modalités de contrôle de l'effectivité de certaines aides par des échanges d'informations avec les organismes de recouvrement des cotisations de sécurité sociale et d'allocations familiales devant comporter les données prévues en annexe au présent cahier des charges.
 
 Résolution des conventions
 

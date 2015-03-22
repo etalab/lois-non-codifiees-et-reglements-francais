@@ -8,11 +8,11 @@ Il est composé de :
 
 a) Quinze représentants de la collectivité territoriale de Corse désignés par l'Assemblée de Corse ;
 
-b) Quatre représentants des conseils généraux élus par chaque organe délibérant, à raison de :
+b) Quatre représentants des conseils départementaux élus par chaque organe délibérant, à raison de :
 
-― Deux pour le conseil général de la Corse-du-Sud ;
+― Deux pour le conseil départemental de la Corse-du-Sud ;
 
-― deux pour le conseil général de la Haute-Corse.
+― deux pour le conseil départemental de la Haute-Corse.
 
 c) Huit représentants des communautés d'agglomération, élus par chaque organe délibérant, à raison de :
 
@@ -48,6 +48,6 @@ Quatre personnalités socioprofessionnelles, désignées en son sein par l'organ
 
 ― un représentant du conseil économique, social et culturel de Corse.
 
-Le directeur régional de l'environnement, de l'aménagement et du logement de Corse, le représentant         du contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent également de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le directeur régional de l'environnement, de l'aménagement et du logement de Corse, le représentant du contrôleur budgétaire de l'Etat et l'agent comptable de l'établissement assistent également de droit aux réunions du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
 Le préfet de Corse publie par arrêté la liste nominative des membres du conseil, d'administration et procède à son installation.

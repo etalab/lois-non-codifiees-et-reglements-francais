@@ -4,33 +4,33 @@ L'établissement public est administré par un conseil d'administration comporta
 
 1° Cinq membres représentant l'Etat désignés à raison de :
 
-- deux membres par le ministre de l'urbanisme, du logement et des transports ;
+-deux membres par le ministre de l'urbanisme, du logement et des transports ;
 
-- deux membres par le ministre de l'économie, des finances et du budget ;
+-deux membres par le ministre de l'économie, des finances et du budget ;
 
-- un membre par le ministre de l'intérieur et de la décentralisation.
+-un membre par le ministre de l'intérieur et de la décentralisation.
 
 2° Une personne qualifiée désignée par le ministre de l'urbanisme, du logement et des transports ;
 
 3° Des représentants des collectivités locales et établissements publics suivants :
 
-- le président du conseil régional d'lle-de-France ou son représentant ;
+-le président du conseil régional d'lle-de-France ou son représentant ;
 
-- un représentant de la région d'Ile-de-France, désigné en son sein par le conseil régional ;
+-un représentant de la région d'Ile-de-France, désigné en son sein par le conseil régional ;
 
-- un représentant du département de Seine-et-Marne désigné en son sein par le conseil général ;
+-un représentant du département de Seine-et-Marne désigné en son sein par le conseil départemental ;
 
-- un représentant du département de l'Essonne désigné en son sein par le conseil général :
+-un représentant du département de l'Essonne désigné en son sein par le conseil départemental :
 
--  le président du syndicat d'agglomération nouvelle de Sénart, en Essonne ;
+-le président du syndicat d'agglomération nouvelle de Sénart, en Essonne ;
 
-- le président du syndicat d'agglomération nouvelle de Sénart-Ville nouvelle ;
+-le président du syndicat d'agglomération nouvelle de Sénart-Ville nouvelle ;
 
-- un représentant des communes incluses dans l'agglomération nouvelle de Rougeau-Sénart, désigné en son sein par le comité du syndicat d'agglomération nouvelle ;
+-un représentant des communes incluses dans l'agglomération nouvelle de Rougeau-Sénart, désigné en son sein par le comité du syndicat d'agglomération nouvelle ;
 
-- cinq représentants des communes incluses dans l'agglomération nouvelle de Sénart-Ville nouvelle, désignés en son sein par le comité du syndicat d'agglomération nouvelle ;
+-cinq représentants des communes incluses dans l'agglomération nouvelle de Sénart-Ville nouvelle, désignés en son sein par le comité du syndicat d'agglomération nouvelle ;
 
-- les représentants de chacune des communes liées à l'établissement par une convention de délégation de maîtrise d'ouvrage dans les conditions prévues par l'article R. 321-4 du code de l'urbanisme.
+-les représentants de chacune des communes liées à l'établissement par une convention de délégation de maîtrise d'ouvrage dans les conditions prévues par l'article R. 321-4 du code de l'urbanisme.
 
 Lorsque, en application de l'alinéa précédent, le nombre des représentants des communes liées à l'établissement par une convention de délégation de maîtrise d'ouvrage est supérieur à la moitié du nombre des représentants des communes incluses dans l'agglomération nouvelle, ce dernier est augmenté de manière à ce qu'il soit égal au double du premier.
 

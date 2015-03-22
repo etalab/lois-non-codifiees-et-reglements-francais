@@ -8,7 +8,7 @@ Outre les mesures qu'il prend en vertu de l'article 2, il accomplit tous les act
 
 Il prépare et assure l'exécution des délibérations du conseil d'administration auquel il rend compte de sa gestion.
 
-Il recrute et nomme les agents dans le respect du tableau des emplois fixé par le conseil d'administration. Il a autorité sur l'ensemble des personnels rémunérés par l'établissement à l'exclusion des conseillers généraux des établissements de santé.
+Il recrute et nomme les agents dans le respect du tableau des emplois fixé par le conseil d'administration. Il a autorité sur l'ensemble des personnels rémunérés par l'établissement à l'exclusion des conseillers départementaux des établissements de santé.
 
 Il agit en justice au nom de l'établissement pour les décisions et conventions relatives à la gestion de ce dernier et le représente dans tous les actes de la vie civile. Il passe au nom de l'établissement les contrats, les marchés, les actes d'acquisition et de vente et les transactions, sous réserve des attributions conférées au conseil d'administration par l'article 8.
 

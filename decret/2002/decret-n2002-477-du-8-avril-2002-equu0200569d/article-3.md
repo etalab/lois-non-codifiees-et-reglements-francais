@@ -24,15 +24,15 @@ h) De la ville.
 
 a) Le président du conseil régional d'Ile-de-France ou son représentant désigné par lui au sein du conseil régional ;
 
-b) Le président du conseil général de la Seine-Saint-Denis ou son représentant désigné par lui au sein du conseil général ;
+b) Le président du conseil départemental de la Seine-Saint-Denis ou son représentant désigné par lui au sein du conseil départemental ;
 
-c) Le président du conseil général du Val-d'Oise ou son représentant désigné par lui au sein du conseil général ;
+c) Le président du conseil départemental du Val-d'Oise ou son représentant désigné par lui au sein du conseil départemental ;
 
 d) Sept représentants de la région Ile-de-France désignés en son sein par le conseil régional ;
 
-e) Un représentant du département de la Seine-Saint-Denis désigné par le conseil général ;
+e) Un représentant du département de la Seine-Saint-Denis désigné par le conseil départemental ;
 
-f) Un représentant du département du Val-d'Oise désigné par le conseil général ;
+f) Un représentant du département du Val-d'Oise désigné par le conseil départemental ;
 
 g) Trois représentants de la communauté d'agglomération de Plaine Commune désignés en son sein par le conseil communautaire ;
 

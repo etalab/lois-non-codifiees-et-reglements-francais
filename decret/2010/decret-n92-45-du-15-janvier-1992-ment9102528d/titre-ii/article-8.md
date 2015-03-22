@@ -20,9 +20,9 @@ a) Onze membres de droit :
 
 8° Le président du conseil régional d'Alsace ou son représentant ;
 
-9° Le président du conseil général du Bas-Rhin ou son représentant ;
+9° Le président du conseil départemental du Bas-Rhin ou son représentant ;
 
-10° Le président du conseil général du Haut-Rhin ou son représentant ;
+10° Le président du conseil départemental du Haut-Rhin ou son représentant ;
 
 11° Un représentant du chapitre Saint-Thomas ;
 
@@ -40,7 +40,7 @@ e) Deux étudiants inscrits à la bibliothèque nationale et universitaire de St
 
 f) Deux usagers de la bibliothèque nationale et universitaire de Strasbourg nommés parmi les membres des associations culturelles et éducatives locales par le recteur de l'académie de Strasbourg, sur proposition de l'administrateur.
 
-Assistent avec voix consultative au conseil d'administration : l'administrateur de la bibliothèque nationale et universitaire de Strasbourg, le secrétaire général, le directeur du service commun de la documentation de l'université de Strasbourg, les directeurs de départements de la bibliothèque nationale et universitaire de Strasbourg s'ils ne figurent pas parmi les membres élus,      le contrôleur budgétaire et l'agent comptable.
+Assistent avec voix consultative au conseil d'administration : l'administrateur de la bibliothèque nationale et universitaire de Strasbourg, le secrétaire général, le directeur du service commun de la documentation de l'université de Strasbourg, les directeurs de départements de la bibliothèque nationale et universitaire de Strasbourg s'ils ne figurent pas parmi les membres élus, le contrôleur budgétaire et l'agent comptable.
 
 Le président ou, à défaut, le vice-président ainsi que l'administrateur peuvent appeler à participer aux séances toute personne dont ils jugent la présence utile.
 

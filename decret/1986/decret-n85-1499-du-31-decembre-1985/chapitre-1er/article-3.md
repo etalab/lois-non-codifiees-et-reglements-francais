@@ -4,4 +4,4 @@ Les dépenses prises en compte sont celles des exercices 1976 à 1985. Toutefois
 
 Le montant à prendre en compte pour une année est celui qui figure en dépense au compte administratif de l'année.
 
-Dans chaque département, le commissaire de la République informe le président du conseil général du montant des dépenses constatées pour le département.
+Dans chaque département, le commissaire de la République informe le président du conseil départemental du montant des dépenses constatées pour le département.

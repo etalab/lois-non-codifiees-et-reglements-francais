@@ -1,6 +1,6 @@
 # Article 8
 
-Le conseil d'administration élit, parmi les représentants du conseil général des Hauts-de-Seine, pour une durée de six ans, un président. Il élit parmi l'ensemble de ses membres un vice-président ; il désigne également trois membres qui, avec le président et le vice-président, constituent le bureau.
+Le conseil d'administration élit, parmi les représentants du conseil départemental des Hauts-de-Seine, pour une durée de six ans, un président. Il élit parmi l'ensemble de ses membres un vice-président ; il désigne également trois membres qui, avec le président et le vice-président, constituent le bureau.
 
 Le bureau comporte au moins un représentant de l'assemblée spéciale prévue à l'article 6.
 

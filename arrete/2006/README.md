@@ -270,6 +270,7 @@
 - [Arrêté du 27 juin 2006 (MENF0601140A)](arrete-du-27-juin-2006-menf0601140a)
 - [Arrêté du 27 juin 2006 (SANS0622672A)](arrete-du-27-juin-2006-sans0622672a)
 - [Arrêté du 27 juin 2006 (SOCU0610507A)](arrete-du-27-juin-2006-socu0610507a)
+- [Arrêté du 27 juin 2006 (SSHC0622673A)](arrete-du-27-juin-2006-sshc0622673a)
 - [Arrêté du 27 mars 2006 (DEFP0600366A)](arrete-du-27-mars-2006-defp0600366a)
 - [Arrêté du 27 mars 2006 (DEFP0600367A)](arrete-du-27-mars-2006-defp0600367a)
 - [Arrêté du 27 novembre 2006 (AGRG0602473A)](arrete-du-27-novembre-2006-agrg0602473a)

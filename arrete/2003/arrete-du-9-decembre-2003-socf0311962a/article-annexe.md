@@ -60,7 +60,7 @@ accessibles par le détenteur du titre
 
 Les entreprises générales de travaux publics ou les entreprises spécialisées dans le domaine de la construction routière ou des canalisations.
 
-Les services de l'équipement des conseils généraux.
+Les services de l'équipement des conseils départementaux.
 
 Les sociétés concessionnaires d'autoroutes.
 
@@ -68,7 +68,7 @@ Les sociétés concessionnaires (alimentation et distribution d'eau potable, EDF
 
 Code ROME :
 
-61231 - chef de chantier du BTP.
+61231-chef de chantier du BTP.
 
 Réglementation de l'activité :
 

@@ -4,11 +4,11 @@ La commission départementale des mines prévue, dans les départements d'outre-
 
 a) Le président du conseil régional ou son représentant ;
 
-b) Le président du conseil général ou son représentant ;
+b) Le président du conseil départemental ou son représentant ;
 
 c) Un maire désigné par l'association départementale des maires ou, à défaut d'association ou s'il y en a plusieurs, élu par le collège des maires du département convoqué à cet effet par le préfet, le vote pouvant avoir lieu par correspondance ;
 
-d) Le              directeur régional de l'environnement, de l'aménagement et du logement ou son représentant ;
+d) Le directeur régional de l'environnement, de l'aménagement et du logement ou son représentant ;
 
 e) Le directeur départemental de l'agriculture et de la forêt ou son représentant ;
 

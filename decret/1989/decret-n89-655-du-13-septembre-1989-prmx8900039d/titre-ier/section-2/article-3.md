@@ -12,7 +12,7 @@ Dans les autres départements ainsi que dans les collectivités territoriales de
 
 5° Le président du conseil régional ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil exécutif de Corse, le président de l'assemblée de Corse ;
 
-6° Le président du conseil général ;
+6° Le président du conseil départemental ;
 
 7° Le maire de la commune dans laquelle se déroule la cérémonie ;
 
@@ -34,7 +34,7 @@ Dans les départements d'outre-mer, le président du conseil de la culture, de l
 
 14° Les membres du conseil régional ou, dans les départements de Corse-du-Sud et de Haute-Corse, les membres de l'assemblée de Corse ;
 
-15° Les membres du conseil général ;
+15° Les membres du conseil départemental ;
 
 16° Les membres du Conseil économique, social et environnemental ;
 

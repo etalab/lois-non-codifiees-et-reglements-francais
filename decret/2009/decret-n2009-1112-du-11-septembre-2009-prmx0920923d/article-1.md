@@ -2,7 +2,7 @@
 
 Le comité d'évaluation mentionné à l'article 32 de la loi du 1er décembre 2008 susvisée est composé de :
 
-1° Cinq représentants des départements, présidents de conseil général, nommés sur proposition de l'Association des départements de France ;
+1° Cinq représentants des départements, présidents de conseil départemental, nommés sur proposition de l'Association des départements de France ;
 
 2° Quatre représentants de l'Etat :
 
@@ -12,7 +12,7 @@ b) Le directeur de l'animation de la recherche, des études et des statistiques 
 
 c) Le directeur de la recherche, des études, de l'évaluation et des statistiques ;
 
-d) Le        directeur général du Trésor ;
+d) Le directeur général du Trésor ;
 
 3° Trois représentants des organismes chargés de la mise en œuvre du revenu de solidarité active :
 
@@ -34,4 +34,4 @@ c) Trois personnes bénéficiant du revenu de solidarité active.
 
 Les membres mentionnés au 1° sont nommés par arrêté conjoint du ministre chargé de l'action sociale et du ministre chargé des collectivités territoriales. Les membres mentionnés aux 4° et au c du 5° sont nommés par arrêté du ministre chargé de l'action sociale. Le président du comité d'évaluation est nommé dans les mêmes conditions parmi les membres mentionnés au 4°.
 
-Les membres mentionnés au 1° peuvent se faire représenter par un élu de leur assemblée ou un membre des services du département dont ils président le conseil général. Les membres mentionnés aux 2°, 3° et aux a et b du 5° peuvent se faire représenter par un membre du service ou de l'organisme auquel ils appartiennent.
+Les membres mentionnés au 1° peuvent se faire représenter par un élu de leur assemblée ou un membre des services du département dont ils président le conseil départemental. Les membres mentionnés aux 2°, 3° et aux a et b du 5° peuvent se faire représenter par un membre du service ou de l'organisme auquel ils appartiennent.

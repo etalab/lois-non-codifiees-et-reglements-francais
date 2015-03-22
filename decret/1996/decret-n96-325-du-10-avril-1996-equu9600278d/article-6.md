@@ -18,13 +18,13 @@ f) Un membre désigné par le ministre chargé de la politique de la ville ;
 
 g) Un membre désigné par le ministre chargé des collectivités locales ;
 
-h) Le   directeur départemental des finances publiques du département des Yvelines ou son représentant.
+h) Le trésorier-payeur général du département des Yvelines ou son représentant.
 
 2° Dix-huit membres représentant les collectivités territoriales ou leurs établissements :
 
 a) Trois représentants de la région d'Ile-de-France désignés en son sein par le conseil régional ;
 
-b) Trois représentants du département des Yvelines désignés en son sein par le conseil général ;
+b) Trois représentants du département des Yvelines désignés en son sein par le conseil départemental ;
 
 c) Trois représentants de la communauté d'agglomération de Mantes-en-Yvelines désignés en son sein par le conseil de la communauté ;
 

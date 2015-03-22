@@ -10,7 +10,7 @@ Le département expérimentateur ne peut pas refuser à un service autorisé vol
 
 Les conseils généraux expérimentateurs peuvent choisir de faire porter leur expérimentation soit sur les activités " personnes âgées " ou " personnes handicapées ", soit sur les deux publics.
 
-1. Les engagements contractuels du conseil général et du service d'aide et d'accompagnement à domicile (SAAD)
+1. Les engagements contractuels du conseil départemental et du service d'aide et d'accompagnement à domicile (SAAD)
 
 1.1. L'engagement des services envers les usagers.
 
@@ -26,7 +26,7 @@ La mise en œuvre par les services d'aide à domicile d'actions de préventions 
 
 La garantie de pouvoir bénéficier dans le cadre de l'intervention du service d'aide à domicile, en fonction de ses besoins, des compétences de professionnels (encadrement, aide à domicile, psychologue, ergothérapeute,...) formés et qualifiés.
 
-Le respect des objectifs d'interventions définis par les équipes médico-sociales du conseil général.
+Le respect des objectifs d'interventions définis par les équipes médico-sociales du conseil départemental.
 
 L'adaptabilité et réactivité de l'intervention des services pour prendre en compte les variations souhaitées par les personnes (rythme de vie, saisonnalité, présence ponctuelle d'aidants...).
 
@@ -46,13 +46,13 @@ L'équité d'accès à l'aide des bénéficiaires en mettant fin, d'une part, à
 
 La signature d'un CPOM engage :
 
--le conseil général à garantir au service ayant contractualisé avec lui une vision budgétaire pluriannuelle apportant une sécurité des financements alloués sur la durée du CPOM, ce qui concourt à la maîtrise des dépenses départementales pour les personnes en perte d'autonomie à leur domicile ;
+-le conseil départemental à garantir au service ayant contractualisé avec lui une vision budgétaire pluriannuelle apportant une sécurité des financements alloués sur la durée du CPOM, ce qui concourt à la maîtrise des dépenses départementales pour les personnes en perte d'autonomie à leur domicile ;
 
 -le service d'aide à domicile à réaliser les missions d'intérêt général contractualisées dans le contrat : prise en charge de toutes les populations s'adressant au service, lutte contre l'isolement, insertion et formation professionnelle, participation à la sécurité des personnes, actions de prévention ;
 
-Les services ayant contractualisé avec le conseil général sur plusieurs années auront une vision budgétaire à plus long terme.
+Les services ayant contractualisé avec le conseil départemental sur plusieurs années auront une vision budgétaire à plus long terme.
 
-L'intervention des services s'adaptera en fonction des besoins des usagers, limitant le nombre des heures perdues. Ils pourront en effet redéployer les heures non réalisées auprès d'usagers (pour cause d'hospitalisation ou autres motifs d'absence par exemple) auprès d'autres usagers dont les besoins le justifient, au lieu de rembourser ces heures au conseil général.
+L'intervention des services s'adaptera en fonction des besoins des usagers, limitant le nombre des heures perdues. Ils pourront en effet redéployer les heures non réalisées auprès d'usagers (pour cause d'hospitalisation ou autres motifs d'absence par exemple) auprès d'autres usagers dont les besoins le justifient, au lieu de rembourser ces heures au conseil départemental.
 
 1.3. Engagement envers les salariés des SAAD.
 
@@ -96,7 +96,7 @@ Aussi, en tant que services sociaux d'intérêt général (SSIG), les SAAD expé
 
 -la protection et la participation des utilisateurs : diffusion aux utilisateurs des informations nécessaires à leur choix de service et définition des voies de recours en cas de non-satisfaction.
 
-Le CPOM entre le SAAD et le conseil général peut associer les autres financeurs (ARS, caisse de retraite, CNSA) pour certaines actions ou missions relevant de leurs compétences respectives : actions de prévention de la perte d'autonomie et coordination des parcours de soins en application des schémas régionaux de prévention élaborés et financés par l'agence régionale de santé, actions de prévention des caisses de sécurité sociale, actions de modernisation de l'aide à domicile de la CNSA.
+Le CPOM entre le SAAD et le conseil départemental peut associer les autres financeurs (ARS, caisse de retraite, CNSA) pour certaines actions ou missions relevant de leurs compétences respectives : actions de prévention de la perte d'autonomie et coordination des parcours de soins en application des schémas régionaux de prévention élaborés et financés par l'agence régionale de santé, actions de prévention des caisses de sécurité sociale, actions de modernisation de l'aide à domicile de la CNSA.
 
 3. Les fonctions des SAAD expérimentateurs
 
@@ -162,7 +162,7 @@ Détermine les temps de réunion nécessaires au fonctionnement du service dans 
 
 Précise quels matériels il met à disposition de ses salariés (véhicule, téléphone/ télégestion, matériel à usage unique.).
 
-Met en place la télégestion, afin de simplifier et automatiser le contrôle du temps de travail de ses salariés ; cette télégestion permet en outre d'alimenter les indicateurs globaux d'activité transmis au conseil général.
+Met en place la télégestion, afin de simplifier et automatiser le contrôle du temps de travail de ses salariés ; cette télégestion permet en outre d'alimenter les indicateurs globaux d'activité transmis au conseil départemental.
 
 Détermine les formations organisées pour les salariés et en tant que de besoin au regard des problématiques des personnes accueillies.
 
@@ -222,11 +222,11 @@ Cette refondation se traduit par la mise en œuvre :
 
 D'une évaluation plus efficiente du besoin en aide des usagers des services par la prise en compte de leur degré de perte d'autonomie mais également par la prise en compte de leur degré d'isolement conformément à la grille d'évaluation définie dans le présent cahier des charges.
 
-D'une redéfinition des responsabilités entre le conseil général et les SAAD dans l'élaboration des modalités d'intervention du service au domicile de l'usager conformément au schéma d'intervention déterminé dans le présent cahier des charge.
+D'une redéfinition des responsabilités entre le conseil départemental et les SAAD dans l'élaboration des modalités d'intervention du service au domicile de l'usager conformément au schéma d'intervention déterminé dans le présent cahier des charge.
 
 La création d'outils communs à l'ensemble des préfigurateurs, l'outil de diagnostic médico-social, l'outil d'élaboration du projet individuel d'intervention, le plan individuel d'intervention (PII).
 
-Ce plan individuel d'intervention est élaboré en trois phases. Il est constitué du contrat d'intervention auquel sont annexés le diagnostic médico-social et les objectifs d'aides déterminés par le conseil général ainsi que le projet individuel d'intervention coconstruit et cosigné par l'usager et le SAAD.
+Ce plan individuel d'intervention est élaboré en trois phases. Il est constitué du contrat d'intervention auquel sont annexés le diagnostic médico-social et les objectifs d'aides déterminés par le conseil départemental ainsi que le projet individuel d'intervention coconstruit et cosigné par l'usager et le SAAD.
 
 Phase 1 : le diagnostic médico-social et les objectifs élaborés par l'équipe médico-sociale du département.
 
@@ -318,7 +318,7 @@ Cela doit se faire avec l'accord des bénéficiaires pris en charge avant l'entr
 
 Pour les nouveaux bénéficiaires, les nouvelles modalités de participation et de tarification doivent lui être présentées afin de pouvoir choisir librement, le cas échéant, un autre service agréé ou autorisé ayant d'autres modalités de tarification.
 
-La participation des usagers peut prendre la forme de l'une des modalités suivantes, au choix du conseil général expérimentateur. Les modalités de participation de l'usager doivent être indiquées dans le CPOM.
+La participation des usagers peut prendre la forme de l'une des modalités suivantes, au choix du conseil départemental expérimentateur. Les modalités de participation de l'usager doivent être indiquées dans le CPOM.
 
 7.1. Calcul de la participation des bénéficiaires de l'APA à domicile tel que défini à l'article R. 232-11 du code de l'action sociale et des familles (CASF).
 
@@ -328,7 +328,7 @@ Les modalités de participation demeurent inchangées par rapport à la régleme
 
 Dans la formule de l'article R. 232-11 du code de l'action sociale et des familles, le montant du plan d'aide (A) devient le montant de la fraction du plan d'aide acceptée par le bénéficiaire et non plus du montant du plan d'aide utilisé.
 
-Un bénéficiaire dont le plan d'aide apparaît structurellement sous-dimensionné ou surdimensionné au regard des ses besoins ou de l'utilisation qu'il en fait peut en demander la révision au service et au conseil général, ce qui permettra d'ajuster sa participation financière à la hausse ou à la baisse.
+Un bénéficiaire dont le plan d'aide apparaît structurellement sous-dimensionné ou surdimensionné au regard des ses besoins ou de l'utilisation qu'il en fait peut en demander la révision au service et au conseil départemental, ce qui permettra d'ajuster sa participation financière à la hausse ou à la baisse.
 
 7.3. Calcul de la participation des bénéficiaires de l'APA sur la base de ses seules ressources pour les GIR 1,2 et 3, voire GIR 4.
 

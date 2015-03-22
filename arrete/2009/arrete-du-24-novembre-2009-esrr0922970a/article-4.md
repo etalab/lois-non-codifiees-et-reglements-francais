@@ -24,7 +24,7 @@ Le conseil d'enseignement est présidé par le président du conseil d'administr
 
 ― le président du conseil régional du Centre ou son représentant ;
 
-― le président du conseil général du Loiret ou son représentant ;
+― le président du conseil départemental du Loiret ou son représentant ;
 
 ― le maire d'Orléans ou son représentant ;
 

@@ -1,6 +1,6 @@
 # Article 8
 
-Le conseil d'administration élit, parmi les représentants du conseil général du Val-d'Oise, pour une durée de six ans, un président. Il élit parmi l'ensemble de ses membres un vice-président ; il désigne également trois membres qui, avec le président et le vice-président, constituent le bureau.
+Le conseil d'administration élit, parmi les représentants du conseil départemental du Val-d'Oise, pour une durée de six ans, un président. Il élit parmi l'ensemble de ses membres un vice-président ; il désigne également trois membres qui, avec le président et le vice-président, constituent le bureau.
 
 Le bureau comporte au moins un représentant de l'assemblée spéciale prévue à l'article 6.
 

@@ -18,11 +18,11 @@ f) Le premier président de la cour d'appel de Colmar ou son représentant ;
 
 2° Le président du conseil régional d'Alsace ou son représentant ;
 
-3° Le président du conseil général de la Moselle ou son représentant ;
+3° Le président du conseil départemental de la Moselle ou son représentant ;
 
-4° Le président du conseil général du Bas-Rhin ou son représentant ;
+4° Le président du conseil départemental du Bas-Rhin ou son représentant ;
 
-5° Le président du conseil général du Haut-Rhin ou son représentant ;
+5° Le président du conseil départemental du Haut-Rhin ou son représentant ;
 
 6° Le président de l'institut du droit local alsacien-mosellan ou son représentant ;
 

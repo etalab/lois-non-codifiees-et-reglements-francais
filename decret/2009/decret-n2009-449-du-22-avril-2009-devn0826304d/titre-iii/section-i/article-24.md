@@ -34,7 +34,7 @@ d) Un représentant d'établissement public de coopération intercommunale à fi
 
 e) Le président du conseil régional de la région Provence-Alpes-Côte d'Azur ;
 
-f) Le président du conseil général du Var.
+f) Le président du conseil départemental du Var.
 
 3° Quinze personnalités :
 
@@ -66,7 +66,7 @@ c) Six personnalités à compétence nationale :
 
 II.-Les représentants de l'Etat peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
 
-Les représentants des collectivités territoriales peuvent se faire suppléer par un élu de la même assemblée délibérante désigné par celle-ci pour les représentants mentionnés                                              aux b, c et d du 2° du I. Le maire et les présidents mentionnés aux a, e et f du 2° du I peuvent se faire suppléer par un élu de la même assemblée délibérante.
+Les représentants des collectivités territoriales peuvent se faire suppléer par un élu de la même assemblée délibérante désigné par celle-ci pour les représentants mentionnés aux b, c et d du 2° du I. Le maire et les présidents mentionnés aux a, e et f du 2° du I peuvent se faire suppléer par un élu de la même assemblée délibérante.
 
 Les membres mentionnés au 3° peuvent donner mandat à un autre membre du conseil d'administration.
 

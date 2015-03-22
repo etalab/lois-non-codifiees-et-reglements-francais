@@ -8,9 +8,9 @@ Elle est également consultée sur la délivrance, par le préfet de région du 
 
 II.-La commission régionale des pêches maritimes et de l'aquaculture marine est présidée par le préfet de région et comprend :
 
-1° Des représentants des services de l'Etat, dont le    directeur interrégional de la mer et le trésorier-payeur général de région ;
+1° Des représentants des services de l'Etat, dont le directeur interrégional de la mer et le trésorier-payeur général de région ;
 
-2° Des représentants des collectivités territoriales, dont le président du conseil régional et le président du conseil général de chacun des départements littoraux ;
+2° Des représentants des collectivités territoriales, dont le président du conseil régional et le président du conseil départemental de chacun des départements littoraux ;
 
 3° Des représentants du secteur des pêches maritimes et élevages marins dont le président du comité régional des pêches maritimes et des élevages marins ainsi que des organismes bancaires intervenant dans ce secteur ;
 

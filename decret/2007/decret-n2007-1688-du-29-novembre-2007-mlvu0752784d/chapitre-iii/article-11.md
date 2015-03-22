@@ -44,8 +44,8 @@ g) En ce qui concerne les mesures adaptées concernant la contribution du fonds 
 
 ― donne un avis sur les projets de règlement intérieur du fonds de solidarité pour le logement et, le cas échéant, des fonds locaux, ainsi que sur les projets de modification de ces règlements, avant adoption de ces projets par le département ou les communes ou leurs groupements responsables des fonds locaux ;
 
-― émet un avis sur le bilan annuel d'activité du fonds de solidarité pour le logement présenté par le président du conseil général en application de l'article 4 de la loi du 31 mai 1990 susvisée ;
+― émet un avis sur le bilan annuel d'activité du fonds de solidarité pour le logement présenté par le président du conseil départemental en application de l'article 4 de la loi du 31 mai 1990 susvisée ;
 
 ― vérifie que le fonds de solidarité pour le logement et, le cas échéant, les fonds locaux concourent aux objectifs du plan et fait des propositions en la matière.
 
-Sur la base des documents dont il est destinataire, le comité responsable du plan définit les orientations et actions à mener dans chacun de ces domaines et établit un bilan annuel de leur mise en oeuvre. Le préfet et le président du conseil général transmettent le bilan annuel d'exécution du plan aux instances mentionnées à l'article 4.
+Sur la base des documents dont il est destinataire, le comité responsable du plan définit les orientations et actions à mener dans chacun de ces domaines et établit un bilan annuel de leur mise en oeuvre. Le préfet et le président du conseil départemental transmettent le bilan annuel d'exécution du plan aux instances mentionnées à l'article 4.

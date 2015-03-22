@@ -12,16 +12,16 @@ Ce seuil est ramené à zéro :
 
 ― dans les terrains cultivés à protéger et inconstructibles délimités en application du 9° de l'article L. 123-1 du code de l'urbanisme ;
 
-― dans les périmètres d'aménagement foncier rural en cours définis au 1° du deuxième alinéa de l'article L. 121-1 du code rural, entre les dates fixées par arrêté préfectoral, délibération du conseil général ou arrêté du président du conseil général ordonnant l'ouverture et la clôture des opérations, ainsi que dans le cas de parcelles enclavées au sens de l'article 682 du code civil ;
+― dans les périmètres d'aménagement foncier rural en cours définis au 1° du deuxième alinéa de l'article L. 121-1 du code rural, entre les dates fixées par arrêté préfectoral, délibération du conseil départemental ou arrêté du président du conseil départemental ordonnant l'ouverture et la clôture des opérations, ainsi que dans le cas de parcelles enclavées au sens de l'article 682 du code civil ;
 
-- dans les communes incluses dans la zone de production en appellation " Champagne " ;
+-dans les communes incluses dans la zone de production en appellation " Champagne " ;
 
-- dans les communes suivantes :
+-dans les communes suivantes :
 
-- Aube : Arrelles, Balnot-la-Grange, Bossancourt, Bouilly, Etourvy, Fontvannes, Javernant, Laines-au-Bois, Macey, Messon, Prugny, Saint-Germain-l'Epine, Souligny, Torvilliers, Villery ;
+-Aube : Arrelles, Balnot-la-Grange, Bossancourt, Bouilly, Etourvy, Fontvannes, Javernant, Laines-au-Bois, Macey, Messon, Prugny, Saint-Germain-l'Epine, Souligny, Torvilliers, Villery ;
 
-- Haute-Marne : Champcourt, Harricourt ;
+-Haute-Marne : Champcourt, Harricourt ;
 
-- Marne, à l'exception des parcelles mentionnées au dernier alinéa du présent article : Baslieux-lès-Fismes, Blacy, Boissy-le-Repos, Bouvancourt, Breuil-sur-Vesle, Bussy-le-Repos, Champfleury, Courlandon, Courcy, Courdemanges, Fismes, Huiron, La Ville-sous-Orbay, Le Thoult-Trosnay, Loivre, Montmirail, Mont-sur-Courville, Péas, Romain, Saint-Loup, Soulanges, Ventelay.
+-Marne, à l'exception des parcelles mentionnées au dernier alinéa du présent article : Baslieux-lès-Fismes, Blacy, Boissy-le-Repos, Bouvancourt, Breuil-sur-Vesle, Bussy-le-Repos, Champfleury, Courlandon, Courcy, Courdemanges, Fismes, Huiron, La Ville-sous-Orbay, Le Thoult-Trosnay, Loivre, Montmirail, Mont-sur-Courville, Péas, Romain, Saint-Loup, Soulanges, Ventelay.
 
 Il est ramené, dans le département de la Marne, à 3 ares pour les parcelles situées en zone de production en appellation " Champagne ".

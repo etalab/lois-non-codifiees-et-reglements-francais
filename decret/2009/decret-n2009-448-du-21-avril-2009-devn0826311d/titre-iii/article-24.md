@@ -32,7 +32,7 @@ b) Treize maires, à l'exclusion des maires mentionnés au a, ou représentants 
 
 c) Le président du conseil régional de la région Provence-Alpes-Côte d'Azur et le président du conseil régional de la région Rhône-Alpes ;
 
-d) Le président du conseil général des Hautes-Alpes, le président du conseil général de l'Isère ;
+d) Le président du conseil départemental des Hautes-Alpes, le président du conseil départemental de l'Isère ;
 
 e) Quatre conseillers généraux désignés par leur assemblée, dont trois pour le département des Hautes-Alpes ;
 
@@ -72,7 +72,7 @@ c) Sept personnalités à compétence nationale :
 
 II. ― Les représentants de l'Etat ou de ses établissements publics peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
 
-Les maires mentionnés au a du 2° du I, les présidents des conseils régionaux et des conseils généraux peuvent se faire suppléer par un élu de la même assemblée délibérante. Les autres représentants des collectivités territoriales sont nommés avec un suppléant désigné dans les mêmes conditions.
+Les maires mentionnés au a du 2° du I, les présidents des conseils régionaux et des conseils départementaux peuvent se faire suppléer par un élu de la même assemblée délibérante. Les autres représentants des collectivités territoriales sont nommés avec un suppléant désigné dans les mêmes conditions.
 
 Le président du conseil scientifique de l'établissement public et les personnalités désignées à raison de leur compétence peuvent donner mandat à un autre membre du conseil d'administration. Ces mandats ne sont toutefois pas compris dans le calcul du quorum prévu à l'article R. 331-28 du code de l'environnement.
 

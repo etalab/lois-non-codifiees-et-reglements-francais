@@ -42,23 +42,23 @@ b) De dix-sept représentants de l'Etat désignés par arrêté du ministre dont
 
 c) De représentants des six organismes suivants, désignés par ceux-ci :
 
-- un représentant du Conseil supérieur des Français de l'étranger ;
+-un représentant du Conseil supérieur des Français de l'étranger ;
 
-- un représentant du centre français du commerce extérieur ;
+-un représentant du centre français du commerce extérieur ;
 
-- un représentant de l'agence pour la coopération technique industrielle et économique ;
+-un représentant de l'agence pour la coopération technique industrielle et économique ;
 
-- un représentant de la Maison de la France ;
+-un représentant de la Maison de la France ;
 
-- un représentant de la société de promotion de l'exportation des produits agricoles et alimentaires ;
+-un représentant de la société de promotion de l'exportation des produits agricoles et alimentaires ;
 
-- un représentant du comité du rayonnement français.
+-un représentant du comité du rayonnement français.
 
 d) De trois représentants des collectivités locales :
 
 -un désigné par l'association des présidents de conseils régionaux ;
 
--un désigné par l'association des présidents de conseils généraux ;
+-un désigné par l'association des présidents de conseils départementaux ;
 
 -un représentant de l'Association des maires de France.
 

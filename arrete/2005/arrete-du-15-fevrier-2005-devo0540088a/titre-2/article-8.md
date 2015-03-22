@@ -6,7 +6,7 @@ Le préfet sous l'autorité duquel est placé le service de prévision des crues
 
 2° Des préfets de zone de défense intéressés ;
 
-3° Des présidents des conseils généraux intéressés ;
+3° Des présidents des conseils départementaux intéressés ;
 
 4° Des présidents des associations départementales des maires intéressés ;
 

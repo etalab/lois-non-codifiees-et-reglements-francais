@@ -12,7 +12,7 @@ Les avis du service central de prévention de la corruption prévus au troisièm
 
 5. Le président de la Commission nationale des comptes de campagne et des financements politiques ;
 
-6. Le président    de l'Autorité de la concurrence ;
+6. Le président de l'Autorité de la concurrence ;
 
 7. Le président de l'Autorité des marchés financiers ;
 
@@ -26,6 +26,6 @@ Les avis du service central de prévention de la corruption prévus au troisièm
 
 12. Les trésoriers-payeurs généraux et les autres comptables publics ;
 
-13. Les présidents des conseils régionaux, le président du conseil exécutif de Corse, les présidents des conseils généraux, les maires, les présidents de groupements de collectivités territoriales et des autres établissements publics des collectivités territoriales ;
+13. Les présidents des conseils régionaux, le président du conseil exécutif de Corse, les présidents des conseils départementaux, les maires, les présidents de groupements de collectivités territoriales et des autres établissements publics des collectivités territoriales ;
 
 14. Les dirigeants des organismes privés chargés d'une mission de service public.

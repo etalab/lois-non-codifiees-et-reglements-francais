@@ -17,8 +17,8 @@ de l'article L. 232-8 du code de l'action sociale et des familles
 </td>
 <td align="center">
 <p>RETENU PAR </p>
-<p>le président du </p>
-<p>conseil général </p>
+<p>le président du</p>
+<p> conseil départemental </p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,8 @@ de l'article L. 232-8 du code de l'action sociale et des familles
 <td>
 <p>Contribution de l'assurance maladie </p>
 <p>au titre de l'</p>
-<p>article 30 du décret n° 99-316 du 26 avril 1999 fixée par </p>
+<p>
+article 30 du décret n° 99-316 du 26 avril 1999 fixée par </p>
 <p>l'autorité de tarification de l'Etat = C. </p>
 </td>
 <td/>
@@ -79,8 +80,8 @@ de l'article L. 232-8 du code de l'action sociale et des familles
 <p>résidents bénéficiaires de l'allocation </p>
 <p>personnalisée d'autonomie en </p>
 <p>établissement des autres départements </p>
-<p>que celui du président du conseil </p>
-<p>général tarificateur = G. </p>
+<p>que celui du président du </p>
+<p>conseil départemental tarificateur = G. </p>
 </td>
 <td/>
 <td/>

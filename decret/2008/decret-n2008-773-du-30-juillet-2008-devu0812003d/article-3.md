@@ -24,7 +24,7 @@ L'établissement est administré par un conseil de vingt-six membres, comportant
 
 ― trois représentants de la région Provence-Alpes-Côte d'Azur désignés en son sein par le conseil régional ;
 
-― trois représentants du département des Alpes-Maritimes désignés en son sein par le conseil général ;
+― trois représentants du département des Alpes-Maritimes désignés en son sein par le conseil départemental ;
 
 ― quatre représentants de la communauté d'agglomération Nice-Côte d'Azur désignés en son sein par le conseil de la communauté ;
 
@@ -34,7 +34,7 @@ L'établissement est administré par un conseil de vingt-six membres, comportant
 
 3° Le troisième collège comprend cinq membres, répartis comme suit :
 
-― le président de la      chambre de commerce et d'industrie territoriale des Alpes-Maritimes ;
+― le président de la chambre de commerce et d'industrie territoriale des Alpes-Maritimes ;
 
 ― le président de l'université de Nice-Sophia Antipolis ;
 

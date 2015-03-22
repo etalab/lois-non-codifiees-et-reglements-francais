@@ -20,7 +20,7 @@ a) Le maire de la commune de Chambord ou son représentant ;
 
 b) Le président du conseil régional de la région Centre ou son représentant ;
 
-c) Le président du conseil général de Loir-et-Cher ou son représentant ;
+c) Le président du conseil départemental de Loir-et-Cher ou son représentant ;
 
 d) Le président de la communauté d'agglomération de Blois ou son représentant ;
 
