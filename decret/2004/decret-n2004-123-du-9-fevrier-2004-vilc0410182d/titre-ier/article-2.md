@@ -34,7 +34,7 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 -un représentant des présidents d'établissements publics de coopération intercommunale désigné par l'Association des communautés de France ;
 
--un représentant des présidents de conseils généraux désigné par l'Assemblée des départements de France ;
+-un représentant des présidents de conseils départementaux désigné par l'Assemblée des départements de France ;
 
 -un représentant des présidents de conseils régionaux désigné par l'Association des régions de France.
 
