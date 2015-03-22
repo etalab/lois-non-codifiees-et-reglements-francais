@@ -6,7 +6,7 @@ Le président et les vice-présidents sont répartis de la façon suivante :
 
 ― un représentant du conseil régional ;
 
-― un représentant d'un conseil général ;
+― un représentant d'un conseil départemental;
 
 ― un représentant d'une communauté d'agglomération chef-lieu de département ;
 
