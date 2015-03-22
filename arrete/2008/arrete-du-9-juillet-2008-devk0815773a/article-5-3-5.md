@@ -6,7 +6,7 @@ La mission de la flotte de commerce exerce les attributions suivantes :
 
 ― élaboration et suivi des procédures administratives liées aux conditions du pavillon ;
 
-- gestion du guichet unique en charge des demandes d'immatriculation et de francisation des navires du registre international français ;
+― gestion administrative des navires immatriculés au registre international français ;
 
 ― suivi statistique des différents segments de la flotte, des armements et des registres français ;
 
@@ -21,3 +21,5 @@ La mission de la flotte de commerce exerce les attributions suivantes :
 ― suivi de l'évolution du droit maritime et de la législation maritime aux plans national et international ;
 
 ― gestion des accords maritimes.
+
+Elle comprend le guichet unique du registre international français.

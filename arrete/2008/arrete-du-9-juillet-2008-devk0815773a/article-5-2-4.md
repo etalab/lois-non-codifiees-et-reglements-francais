@@ -22,7 +22,9 @@ La sous-direction des transports routiers exerce les attributions suivantes :
 
 ― délivrance et gestion des autorisations internationales de transport routier de voyageurs ;
 
-- détermination des règles relatives à la circulation des transports routiers.
+― gestion du registre des entreprises de voitures de transport avec chauffeur ;
+
+― détermination des règles relatives à la circulation des transports routiers.
 
 Elle comprend :
 
@@ -34,4 +36,4 @@ Elle comprend :
 
 ― le bureau de l'organisation et de l'animation du contrôle des transports routiers ;
 
-- le bureau de la circulation des transports routiers.
+― le bureau de la circulation des transports routiers.
