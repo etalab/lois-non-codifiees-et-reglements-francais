@@ -24,7 +24,7 @@ a) Les représentants des services de l'Etat :
 
 b) Le directeur départemental des services d'incendie et de secours ;
 
-c) Trois conseillers généraux et trois maires.
+c) Trois conseillers départementaux et trois maires.
 
 2. En fonction des affaires traitées :
 
