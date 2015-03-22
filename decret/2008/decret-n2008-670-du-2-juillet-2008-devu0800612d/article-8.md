@@ -6,4 +6,4 @@ Les vice-présidents suppléent, dans l'ordre de leur élection, le président e
 
 Le conseil d'administration désigne également trois membres qui, avec le président, les vice-présidents et un représentant de l'Etat désigné par les membres de ce collège en leur sein, constituent le bureau.
 
-Le bureau comporte au moins deux représentants du conseil régional, deux représentants des conseils généraux et deux représentants des établissements publics de coopération intercommunale à fiscalité propre.
+Le bureau comporte au moins deux représentants du conseil régional, deux représentants des conseils départementaux et deux représentants des établissements publics de coopération intercommunale à fiscalité propre.
