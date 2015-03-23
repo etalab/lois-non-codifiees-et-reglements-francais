@@ -13,3 +13,5 @@ b) Aux fonctionnaires et agents publics des collectivités territoriales, de l'E
 c) Aux candidats justifiant de quatre ans de services publics auprès d'une administration, un organisme ou un établissement mentionnés au deuxième alinéa du 2° de l'article 36 de la loi du 26 janvier 1984 susvisée, dans les conditions fixées par cet alinéa et par le décret n° 2010-311 du 22 mars 2010 susvisé.
 
 Le nombre de places offertes au concours externe est égal à 50 % au moins du nombre de places offertes aux concours interne et externe mentionnés à l'article 7 du présent décret.
+
+En application du deuxième alinéa de l'article 55 de la loi du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, la proportion minimale de personnes de chaque sexe composant le jury des concours prévus au présent article est fixée à 30 % jusqu'au 31 décembre 2019.

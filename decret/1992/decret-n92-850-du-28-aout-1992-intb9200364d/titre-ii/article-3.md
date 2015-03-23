@@ -13,3 +13,5 @@ Sont inscrits sur cette liste d'aptitude les candidats déclarés admis :
 La nature et les modalités des épreuves du concours sont fixées par décret.
 
 Lorsque le nombre de candidats ayant subi avec succès les épreuves de l'un des trois concours est inférieur au nombre de places offertes au titre de ce concours, le jury peut augmenter, dans la limite de 15 %, le nombre de places offertes aux candidats des concours externe et interne.
+
+En application du deuxième alinéa de l'article 55 de la loi du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, la proportion minimale de personnes de chaque sexe composant le jury des concours prévus au présent article est fixée à 30 % jusqu'au 31 décembre 2019.

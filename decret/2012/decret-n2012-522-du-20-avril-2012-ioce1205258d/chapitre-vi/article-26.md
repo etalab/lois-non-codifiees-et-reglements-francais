@@ -5,3 +5,5 @@ I. ― A compter de la date d'entrée en vigueur du présent décret et durant s
 II. ― A compter de la date d'entrée en vigueur du présent décret et au plus tard au terme de la cinquième année, il n'est fait application des dispositions du quatrième alinéa de l'article 4 et de l'article 6 que si l'ensemble des sous-officiers mentionnés au I du service départemental d'incendie et de secours, sont inscrits sur liste d'aptitude.
 
 III. ― Pour l'application des dispositions de l'article R. 1424-23-1, les agents nommés en application du I ne peuvent être comptabilisés qu'au terme de la période transitoire telle que définie par le présent article.
+
+IV.-En application du deuxième alinéa de l'article 55 de la loi du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, la proportion minimale de personnes de chaque sexe composant le jury de l'examen professionnel prévu au présent article est fixée à 30 %.

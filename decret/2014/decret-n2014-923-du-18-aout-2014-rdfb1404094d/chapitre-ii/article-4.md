@@ -1,6 +1,6 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres avec épreuves ouvert aux candidats titulaires d'un des diplômes ou titres mentionnés à l'article L. 356-2 (3°) du code de la santé publique susvisé ou d'une autorisation d'exercer la profession de sage-femme délivrée par le ministre chargé de la santé en application de l'article L. 356 de ce même code.
+Sont inscrits sur la liste d'aptitude prévue à l'article 3 les candidats déclarés admis à un concours sur titres complété d'une ou plusieurs épreuves ouvert aux candidats titulaires du diplôme d'Etat de puéricultrice mentionné à l'article R. 4311-13 du code de la santé publique ou d'une autorisation d'exercer cette profession délivrée en application de l'article L. 4311-4 du même code.
 
 La nature et les modalités des épreuves du concours sont fixées par décret.
 

@@ -13,3 +13,5 @@ III. ― Durant les trois années suivantes :
 IV. ― Durant les quatre premières années, il n'est pas fait application des dispositions des articles 5,6 et 6-1 du décret du 30 juillet 2001 susvisé dans leur rédaction issue du présent décret.
 
 V. ― Pour la cinquième année, les inscriptions sur liste d'aptitude opérées au titre de l'article 6-1 du décret du 30 juillet 2001 susvisé dans sa rédaction issue du présent décret représentent 20 % du total des inscriptions opérées au titre de l'article 6-1 et des dispositions du présent article.
+
+VI.-En application du deuxième alinéa de l'article 55 de la loi du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, la proportion minimale de personnes de chaque sexe composant le jury des concours prévus au présent article est fixée à 30 %.

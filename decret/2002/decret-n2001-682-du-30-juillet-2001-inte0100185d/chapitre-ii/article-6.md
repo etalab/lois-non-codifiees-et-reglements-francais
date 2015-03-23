@@ -15,3 +15,5 @@ c) Aux candidats justifiant de quatre ans de services publics auprès d'une admi
 Le nombre de places offertes au concours externe est égal à 60 % au moins du nombre total de places offertes aux concours mentionnés aux 1° et 2°.
 
 Les modalités d'organisation des concours ainsi que la nature et le programme des épreuves sont fixés par arrêté conjoint du ministre de l'intérieur et du ministre chargé de la fonction publique.
+
+En application du deuxième alinéa de l'article 55 de la loi du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, la proportion minimale de personnes de chaque sexe composant le jury des concours prévus au présent article est fixée à 30 % jusqu'au 31 décembre 2019.

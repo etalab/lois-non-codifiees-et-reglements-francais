@@ -13,3 +13,5 @@ Les inscriptions sur liste d'aptitude opérées au titre de cet examen professio
 III. ― Durant la période mentionnée au I et au plus tard au terme de la septième année, il n'est fait application des dispositions du dernier alinéa de l'article 3 et de l'article 5 du présent décret que si l'ensemble des caporaux et caporaux-chefs mentionnés au I sont inscrits sur la liste d'aptitude avant l'expiration du délai de sept ans.
 
 IV. ― Les agents nommés en application du I ne peuvent être comptabilisés pour l'application de l'article R. 1424-23-1 du code général des collectivités territoriales qu'au terme de la période transitoire.
+
+V.-En application du deuxième alinéa de l'article 55 de la loi du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, la proportion minimale de personnes de chaque sexe composant le jury de l'examen professionnel prévu au présent article est fixée à 30 %.
