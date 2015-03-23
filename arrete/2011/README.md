@@ -1566,7 +1566,6 @@
 - [Arrêté du 19 septembre 2011 (IOCJ1117663A)](arrete-du-19-septembre-2011-iocj1117663a)
 - [Arrêté du 19 septembre 2011 (JUSB1124881A)](arrete-du-19-septembre-2011-jusb1124881a)
 - [Arrêté du 19 septembre 2011 (MAEA1123857A)](arrete-du-19-septembre-2011-maea1123857a)
-- [Arrêté du 19 septembre 2011 (PRMX1122926A)](arrete-du-19-septembre-2011-prmx1122926a)
 - [Arrêté du 19 septembre 2011 (SPOR1119811A)](arrete-du-19-septembre-2011-spor1119811a)
 - [Arrêté du 19 septembre 2011 (SPOV1125497A)](arrete-du-19-septembre-2011-spov1125497a)
 - [Arrêté du 19 mai 2011 (BCRE1106031A)](arrete-du-19-mai-2011-bcre1106031a)
