@@ -880,7 +880,6 @@
 - [Arrêté du 12 novembre 2009 (DEVU0917037A)](arrete-du-12-novembre-2009-devu0917037a)
 - [Arrêté du 12 novembre 2009 (DEVU0917038A)](arrete-du-12-novembre-2009-devu0917038a)
 - [Arrêté du 12 novembre 2009 (ECEU0914059A)](arrete-du-12-novembre-2009-eceu0914059a)
-- [Arrêté du 12 novembre 2009 (JUSA0926416A)](arrete-du-12-novembre-2009-jusa0926416a)
 - [Arrêté du 12 novembre 2009 (JUSB0927124A)](arrete-du-12-novembre-2009-jusb0927124a)
 - [Arrêté du 12 novembre 2009 (JUSF0927345A)](arrete-du-12-novembre-2009-jusf0927345a)
 - [Arrêté du 12 novembre 2009 (MAEA0926071A)](arrete-du-12-novembre-2009-maea0926071a)

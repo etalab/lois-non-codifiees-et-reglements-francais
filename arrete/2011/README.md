@@ -2233,7 +2233,6 @@
 - [Arrêté du 26 août 2011 (EFIP1122819A)](arrete-du-26-aout-2011-efip1122819a)
 - [Arrêté du 26 août 2011 (IOCJ1120859A)](arrete-du-26-aout-2011-iocj1120859a)
 - [Arrêté du 26 août 2011 (IOCJ1120865A)](arrete-du-26-aout-2011-iocj1120865a)
-- [Arrêté du 26 août 2011 (JUSA1121760A)](arrete-du-26-aout-2011-jusa1121760a)
 - [Arrêté du 26 août 2011 (JUSA1121761A)](arrete-du-26-aout-2011-jusa1121761a)
 - [Arrêté du 26 août 2011 (JUSA1121762A)](arrete-du-26-aout-2011-jusa1121762a)
 - [Arrêté du 26 août 2011 (JUSF1124528A)](arrete-du-26-aout-2011-jusf1124528a)
