@@ -1319,7 +1319,7 @@ E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS
 
 DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
 
-E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques :
+E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques et du centre technique des industries mécaniques et du décolletage :
 
 <table>
 <tbody>
@@ -1646,18 +1646,16 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 </td>
 </tr>
 <tr>
+<td>-les opérations de contrôle et de reprise associées.</td>
+</tr>
+<tr>
 <td valign="top" width="529">
 <p>à l'exclusion :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>- du décolletage mentionné au paragraphe E-III ; </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- du découpage sur plan par laser mentionné dans la catégorie 28.50.1.</p>
+<p>- du découpage sur plan par laser mentionné dans la catégorie 25.50.1.</p>
 </td>
 </tr>
 <tr>
@@ -1750,7 +1748,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 <p>25.93.14</p>
 </td>
 <td valign="top" width="529">
-<p>Pointes, clous, punaises, agrafes et articles similaires, pour articles filetés et rondelles en aluminium autres que décolletés. </p>
+<p>Pointes, clous, punaises, agrafes et articles similaires, pour articles filetés et rondelles en aluminium. </p>
 </td>
 </tr>
 <tr>
@@ -1782,7 +1780,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 <p>25.94</p>
 </td>
 <td valign="top" width="529">
-<p>Articles de boulonnerie-visserie, y compris tous les articles de fixation mécanique à l'exclusion des produits mentionnés au paragraphe E-III. </p>
+<p>Articles de boulonnerie-visserie, y compris tous les articles de fixation mécanique.</p>
 </td>
 </tr>
 <tr>
@@ -2753,7 +2751,7 @@ E-II. - Produits, activités et prestations relevant de l'institut de soudure
 <p>27.90.32</p>
 </td>
 <td valign="top" width="529">
-<p>Parties de matériel électrique pour le soudage et le brasage ; parties de matériel électrique pour la projection à chaud de métaux ou de carbures métalliques frittés, pour les pièces, parties et accessoires des équipements mentionnés dans le paragraphe 27.91.31 ci-dessus. </p>
+<p>Parties de matériel électrique pour le soudage et le brasage ; parties de matériel électrique pour la projection à chaud de métaux ou de carbures métalliques frittés, pour les pièces, parties et accessoires des équipements mentionnés dans le paragraphe 27.90.31 ci-dessus. </p>
 </td>
 </tr>
 <tr>
@@ -2822,51 +2820,7 @@ E-II. - Produits, activités et prestations relevant de l'institut de soudure
 </tbody>
 </table>
 
-E-III. - Produits, activités et prestations relevant du centre technique de l'industrie du décolletage
-
-<table>
-<tbody>
-<tr>
-<td rowspan="4" valign="top" width="151">
-<p>25.62.10</p>
-</td>
-<td valign="top" width="529">
-<p>Décolletage, pour les activités et produits de décolletage, y compris : </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- la sous-traitance ; </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- la fabrication sur tours automatiques ou semi-automatiques, tours à barres, machines automatiques ou semi-automatiques à partir de barres, de couronnes, de tous profils, de pièces de formes diverses, qu'elles soient standards ou exécutées d'après dessin, en tous métaux ou matériaux non métalliques, destinées à la vente en l'état ou sous forme d'ensembles simples ; </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="529">
-<p>- les opérations de contrôle et de reprise associées. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>25.93.14</p>
-</td>
-<td valign="top" width="529">
-<p>Pointes, clous, punaises, agrafes et articles similaires, pour les produits de boulonnerie et de visserie et les rondelles décolletés en aluminium et alliages </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>25.94.1</p>
-</td>
-<td valign="top" width="529">
-<p>Articles de boulonnerie-visserie, pour les produits de la boulonnerie et visserie et les rondelles décolletés, en tous métaux autres qu'aluminium ou en matériaux non métalliques.</p>
-</td>
-</tr>
-</tbody>
-</table>
+E-III. (abrogé)
 
 E-IV. - Produits, activités et prestations relevant du centre technique industriel de la construction métallique
 
