@@ -2418,7 +2418,7 @@ AÉRODROMES OUVERTS À LA CIRCULATION AÉRIENNE PUBLIQUE
 </tr>
 <tr>
 <td align="center">
-<br/>Roanne-Renaison</td>
+<br/>Roanne</td>
 <td align="center">
 <br/>Loire</td>
 <td align="center">
