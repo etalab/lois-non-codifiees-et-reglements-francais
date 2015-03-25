@@ -652,6 +652,12 @@ Dans l'hypothèse où le produit ou service créé par le licencié intégrerait
 
 La part variable proportionnelle au chiffre d'affaires généré par la réutilisation des informations publiques définies à l'article 1er du présent arrêté est due pendant toute la durée de l'exploitation et au maximum cinq ans à compter du 1er janvier suivant la dernière licence délivrée.
 
+4.1.4. Dispositions applicables aux données comptables détaillées des exercices 2013 et suivants.
+
+Par dérogation, les "données comptables détaillées" des exercices 2013 et suivants font l'objet d'une mise en ligne à titre gratuit dans des conditions fixées par le directeur général des finances publiques.
+
+La réutilisation des données mentionnées à l'alinéa précédent ne fait l'objet d'aucune redevance.
+
 4.2. La tarification applicable au fichier de recensement des éléments d'imposition de fiscalité directe locale REI
 
 Les redevances dues en cas de réutilisation des informations publiques visées à l'article 1.2 sont les suivantes :
@@ -1079,8 +1085,8 @@ Les redevances dues en cas de réutilisation des informations publiques visées 
 <tr>
 <td>
 <p align="center">
-<br/>Un département <br/>
-<br/>(y compris région DOM) </p>
+<br/>Un département </p>
+<p>(y compris région DOM) </p>
 </td>
 <td>
 <p align="center">
@@ -1192,8 +1198,8 @@ Les redevances dues en cas de réutilisation des informations publiques visées 
 <tr>
 <td>
 <p align="center">
-<br/>Un département <br/>
-<br/>(y compris région DOM) </p>
+<br/>Un département </p>
+<p>(y compris région DOM) </p>
 </td>
 <td>
 <p align="center">
@@ -1264,8 +1270,7 @@ Les redevances dues en cas de réutilisation des informations publiques visées 
 </tr>
 <tr>
 <td colspan="9">
-<p>
-<br/>(1) N désignant la dernière année comptable achevée et disponible et n étant strictement supérieur à 1.</p>
+<p>(1) N désignant la dernière année comptable achevée et disponible et n étant strictement supérieur à 1.</p>
 </td>
 </tr>
 </tbody>
@@ -1288,4 +1293,4 @@ Les redevances dues en cas de réutilisation des informations publiques visées 
 <div align="left">
 <br/>L'administration peut délivrer une seule licence pour différents types de réutilisation ; la redevance applicable sera alors la plus élevée des redevances applicables à chacune des réutilisations déclarées par le licencié.</div>
 <div align="left">
-<br/>4.4. Dans tous les cas, la mise à disposition des informations publiques définies à l'article 1er du présent arrêté à des fins de réutilisation est soumise au paiement d'une redevance d'un montant minimum de 500 euros.</div>
+<br/>4.4. Sous réserve des dispositions du paragraphe 4.1.4 ci-dessus, la mise à disposition des informations publiques définies à l'article 1er du présent arrêté à des fins de réutilisation est soumise au paiement d'une redevance d'un montant minimum de 500 euros.</div>
