@@ -173,7 +173,6 @@
 - [Arrêté du 10 décembre 1987 (ECOT8711010A)](arrete-du-10-decembre-1987-ecot8711010a)
 - [Arrêté du 10 février 1987](arrete-du-10-fevrier-1987)
 - [Arrêté du 10 juillet 1987 (ASET8703542A)](arrete-du-10-juillet-1987-aset8703542a)
-- [Arrêté du 10 juillet 1987 (DEFL8701586A)](arrete-du-10-juillet-1987-defl8701586a)
 - [Arrêté du 10 juillet 1987 (ECOZ8700028A)](arrete-du-10-juillet-1987-ecoz8700028a)
 - [Arrêté du 10 juin 1987](arrete-du-10-juin-1987)
 - [Arrêté du 10 juin 1987 (ECOT8750030A)](arrete-du-10-juin-1987-ecot8750030a)
