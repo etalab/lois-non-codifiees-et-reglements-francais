@@ -1170,7 +1170,6 @@
 - [Arrêté du 16 juin 2009 (IOCD0831505A)](arrete-du-16-juin-2009-iocd0831505a)
 - [Arrêté du 16 juin 2009 (SASH0901658A)](arrete-du-16-juin-2009-sash0901658a)
 - [Arrêté du 16 mars 1993 (INTD9300215A)](arrete-du-16-mars-1993-intd9300215a)
-- [Arrêté du 16 mars 2009 (BCFB0808660A)](arrete-du-16-mars-2009-bcfb0808660a)
 - [Arrêté du 16 mars 2009 (DEVL0829913A)](arrete-du-16-mars-2009-devl0829913a)
 - [Arrêté du 16 mars 2009 (DEVT0905410A)](arrete-du-16-mars-2009-devt0905410a)
 - [Arrêté du 16 mars 2009 (ECEC0906062A)](arrete-du-16-mars-2009-ecec0906062a)
