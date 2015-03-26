@@ -1275,7 +1275,6 @@
 - [Arrêté du 17 mars 2009 (BCFR0906027A)](arrete-du-17-mars-2009-bcfr0906027a)
 - [Arrêté du 17 mars 2009 (ECEC0907104A)](arrete-du-17-mars-2009-ecec0907104a)
 - [Arrêté du 17 mars 2009 (IOCA0906750A)](arrete-du-17-mars-2009-ioca0906750a)
-- [Arrêté du 17 mars 2009 (IOCC0905265A)](arrete-du-17-mars-2009-iocc0905265a)
 - [Arrêté du 17 mars 2009 (LOGU0903756A)](arrete-du-17-mars-2009-logu0903756a)
 - [Arrêté du 17 mars 2009 (SASH0906327A)](arrete-du-17-mars-2009-sash0906327a)
 - [Arrêté du 17 mars 2009 (SASS0902651A)](arrete-du-17-mars-2009-sass0902651a)
