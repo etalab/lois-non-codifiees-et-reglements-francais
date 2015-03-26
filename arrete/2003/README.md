@@ -94,7 +94,6 @@
 - [Arrêté du 4 août 2003 (MENS0301773A)](arrete-du-4-aout-2003-mens0301773a)
 - [Arrêté du 4 avril 2003 (DEVP0320110A)](arrete-du-4-avril-2003-devp0320110a)
 - [Arrêté du 4 avril 2003 (INDI0301426A)](arrete-du-4-avril-2003-indi0301426a)
-- [Arrêté du 4 décembre 2003 (AGRG0302505A)](arrete-du-4-decembre-2003-agrg0302505a)
 - [Arrêté du 4 décembre 2003 (DEVN0320367A)](arrete-du-4-decembre-2003-devn0320367a)
 - [Arrêté du 4 décembre 2003 (SANH0324736A)](arrete-du-4-decembre-2003-sanh0324736a)
 - [Arrêté du 4 décembre 2003 (SANH0324737A)](arrete-du-4-decembre-2003-sanh0324737a)
