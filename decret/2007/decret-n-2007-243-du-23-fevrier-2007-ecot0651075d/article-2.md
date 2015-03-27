@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Les exploitants évaluent les charges mentionnées au I de l'article 20 de la loi du 28 juin 2006 susvisée selon les cinq catégories suivantes ;
+I. - Les exploitants évaluent les charges mentionnées à l'article L. 594-1 du code de l'environnement selon les cinq catégories suivantes ;
 
 1° Les charges de démantèlement des installations nucléaires de base, hors gestion à long terme des colis de déchets radioactifs ;
 
@@ -26,4 +26,12 @@ II. - L'évaluation de ces charges est effectuée au moyen d'une méthode reposa
 
 5° La prise en compte du retour d'expérience, notamment pour les opérations en cours en réalisation.
 
-III. - Le cycle d'exploitation mentionné au deuxième alinéa du II de l'article 20 de la loi du 28 juin 2006 susvisée fait référence à des installations industrielles construites ou en construction. La nomenclature mentionnée au dernier alinéa du I détermine les charges afférentes aux provisions liées au cycle d'exploitation susmentionné.
+III. - Le cycle d'exploitation mentionné au deuxième alinéa de l'article L. 594-2 du code de l'environnement fait référence à des installations industrielles construites ou en construction. La nomenclature mentionnée au dernier alinéa du I détermine les charges afférentes aux provisions liées au cycle d'exploitation susmentionné.
+
+IV. - Tant que la valeur de réalisation des actifs mentionnés à l'article L. 594-2 du code de l'environnement est inférieure à 110 % du montant des provisions correspondant aux charges définies à l'article L. 594-1 du même code, à l'exclusion de celles liées au cycle d'exploitation, la dotation annuelle à ces actifs est positive ou nulle.
+
+Pour le calcul du montant de cette dotation, ne sont pas pris en compte :
+
+- les décaissements effectués au titre des opérations mentionnées à l'article L. 594-1 du code de l'environnement, à l'exclusion de celles liées au cycle d'exploitation ;
+
+- les dotations d'actifs aux provisions correspondant aux charges définies à l'article L. 594-1 du même code effectuées au titre de charges nouvelles ou du fait de modifications des hypothèses de calcul des provisions.

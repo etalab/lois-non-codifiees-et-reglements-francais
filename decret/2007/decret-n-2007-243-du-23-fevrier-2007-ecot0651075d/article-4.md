@@ -26,7 +26,7 @@ premier alinéa de l'article R. 332-17 du code des assurances
 
 Les actifs mentionnés au 5° sont suivis et évalués de façon distincte des autres actifs admissibles à titre d'actifs de couverture.
 
-III.-Sauf dérogation accordée au cas par cas par le ministre chargé de l'économie et le ministre chargé de l'énergie, sont exclus des actifs de couverture, à l'exception des parts et actions d'organismes de placement collectif :
+III.-Sauf dérogation accordée au cas par cas par le ministre chargé de l'économie et le ministre chargé de l'énergie, sont exclus des actifs de couverture :
 
 1° Les valeurs émises par l'exploitant ou par une entreprise appartenant au même groupe que l'exploitant ;
 
@@ -45,7 +45,9 @@ pour être incluses, par intégration globale ou par agrégation, dans l'ensembl
 
 .
 
-Sont également exclus des actifs de couverture les biens fonciers affectés à l'usage de l'exploitant ou d'une entreprise appartenant au même groupe que l'exploitant.
+Sont également exclus des actifs de couverture les actifs immobiliers détenus directement ou indirectement par l'exploitant, afférents à des immeubles affectés à son usage ou à celui d'une entreprise appartenant au même groupe que lui, sauf s'il s'agit d'immeubles à usage tertiaire non situés sur le site d'une installation à usage industriel.
+
+Les 1° et 2° ne sont pas applicables aux parts et actions d'organismes de placement collectif ni aux parts et actions de sociétés ayant pour seul objet la détention directe ou indirecte d'un actif immobilier ou d'un ensemble d'actifs immobiliers localisés sur un même site.
 
 IV.-La valeur totale des actifs libellés en devises autres que l'euro est limitée à 20 % du total des actifs de couverture.
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Le taux d'actualisation utilisé pour le calcul du montant des provisions mentionnées au premier alinéa du II de l'article 20 de la loi du 28 juin 2006 susvisée est déterminé par l'exploitant dans le respect des normes comptables applicables.
+Le taux d'actualisation utilisé pour le calcul du montant des provisions mentionnées au premier alinéa de l'article L. 594-2 du code de l'environnement est déterminé par l'exploitant dans le respect des normes comptables applicables.
 
 Ce taux d'actualisation ne peut excéder le taux de rendement, tel qu'anticipé avec un haut degré de confiance, des actifs de couverture, gérés avec un degré de sécurité et de liquidité suffisant pour répondre à leur objet.
 
