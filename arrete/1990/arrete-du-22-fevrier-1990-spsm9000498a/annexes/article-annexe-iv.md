@@ -36,6 +36,8 @@ Champignons hallucinogènes, notamment des genres stropharia, conocybes et psilo
 
 Chlorphentermine et ses sels, à l'exception de leurs préparations autres qu'injectables
 
+Ethylphénidate et ses sels
+
 Fenbutrazate et ses sels
 
 Kétamine et ses sels, à l'exception de leurs préparations injectables
