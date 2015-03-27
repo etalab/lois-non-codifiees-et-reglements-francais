@@ -1,0 +1,3 @@
+# Titre Ier : SERVICES ET ORGANISMES RELEVANT DE L'ÉTAT-MAJOR DES ARMÉES
+
+- [Article 2](article-2.md)

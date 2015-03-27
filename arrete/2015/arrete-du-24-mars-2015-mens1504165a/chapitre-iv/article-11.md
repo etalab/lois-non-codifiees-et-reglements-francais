@@ -1,0 +1,3 @@
+# Article 11
+
+Si le nombre de votants dans un collège est inférieur ou égal à 5, afin d'assurer le secret du vote des électeurs, le bureau de vote ne procédera pas au dépouillement pour ce collège. Les suffrages non dépouillés devront être immédiatement transmis avec mention au procès-verbal de leur nombre par collège, sous pli cacheté en recommandé avec accusé de réception, par le président ou le directeur de l'établissement, à la commission nationale pour les élections des représentants du personnel au Conseil national de l'enseignement supérieur et de la recherche à l'adresse indiquée à l'article 4 ci-dessus.

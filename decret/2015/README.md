@@ -280,6 +280,8 @@
 - [DÉCRET n°2015-208 du 24 février 2015 (AFSP1429629D)](decret-n2015-208-du-24-fevrier-2015-afsp1429629d)
 - [DÉCRET n°2015-209 du 24 février 2015 (AFSS1430062D)](decret-n2015-209-du-24-fevrier-2015-afss1430062d)
 - [DÉCRET n°2015-210 du 24 février 2015 (AFSP1410251D)](decret-n2015-210-du-24-fevrier-2015-afsp1410251d)
+- [DÉCRET n°2015-331 du 24 mars 2015 (DEVR1502664D)](decret-n2015-331-du-24-mars-2015-devr1502664d)
+- [DÉCRET n°2015-332 du 24 mars 2015 (AFSS1503855D)](decret-n2015-332-du-24-mars-2015-afss1503855d)
 - [DÉCRET n°2014-1405 du 25 novembre 2014 (JUSB1424510D)](decret-n2014-1405-du-25-novembre-2014-jusb1424510d)
 - [DÉCRET n°2014-1408 du 25 novembre 2014 (ETSR1419741D)](decret-n2014-1408-du-25-novembre-2014-etsr1419741d)
 - [DÉCRET n°2015-211 du 25 février 2015 (DEFD1423509D)](decret-n2015-211-du-25-fevrier-2015-defd1423509d)
