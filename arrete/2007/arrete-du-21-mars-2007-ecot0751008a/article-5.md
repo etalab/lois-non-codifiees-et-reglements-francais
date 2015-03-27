@@ -1,12 +1,12 @@
 # Article 5
 
-Le rapport mentionné au III de l'article 20 de la loi du 28 juin 2006 susvisée comprend cinq chapitres.
+Le rapport mentionné à l'article L. 594-4 du code de l'environnement comprend cinq chapitres et les états d'analyse des provisions mentionnés au VI.
 
-I. - Le premier chapitre, relatif à l'évaluation des charges mentionnées à l'article 2 du décret du 23 février 2007 susvisé, comprend cinq parties, organisées selon les catégories de la nomenclature annexée (annexe non reproduite, consulter le fac-similé) au présent arrêté.
+I.-Le premier chapitre, relatif à l'évaluation des charges mentionnées à l'article 2 du décret du 23 février 2007 susvisé, comprend cinq parties, organisées selon les catégories de la nomenclature annexée (annexe non reproduite, consulter le fac-similé) au présent arrêté.
 
 1° La première partie est relative aux charges de démantèlement des installations nucléaires de base, hors gestion à long terme des colis de déchets. Elle comprend :
 
-a) En fonction des spécificités, une section qui présente les principales caractéristiques des installations nucléaires de base, en tant que de besoin regroupées par type ou par site, leur durée de vie prévisionnelle, la stratégie de démantèlement retenue, notamment l'état final visé, les principales opérations prévues conformément aux principes généraux de démantèlement mentionnés au I de l'article 29 de la loi du 13 juin 2006 susvisée et précisés dans ses textes d'application, leur échéancier et l'évaluation de leur coût ; les opérations sont présentées selon la nomenclature annexée au présent arrêté ;
+a) En fonction des spécificités, une section qui présente les principales caractéristiques des installations nucléaires de base, en tant que de besoin regroupées par type ou par site, leur durée de vie prévisionnelle, la stratégie de démantèlement retenue, notamment l'état final visé, les principales opérations prévues conformément aux principes généraux de démantèlement mentionnés à l'article L. 593-7 du code de l'environnement et précisés dans ses textes d'application, leur échéancier et l'évaluation de leur coût ; les opérations sont présentées selon la nomenclature annexée au présent arrêté ;
 
 b) S'il y a lieu, une section qui précise les quotes-parts incombant à des tiers, ainsi que les engagements pris par l'exploitant pour le financement d'opérations de démantèlement d'installations exploitées par des tiers.
 
@@ -40,15 +40,15 @@ c) La présentation et la justification des hypothèses retenues et des méthode
 
 d) S'il y a lieu, une analyse des opérations effectuées, des écarts aux prévisions constatés et la prise en compte du retour d'expérience.
 
-II. - Le deuxième chapitre présente de manière synthétique :
+II.-Le deuxième chapitre présente de manière synthétique :
 
-a) L'évaluation de l'ensemble des charges mentionnées au I de l'article 20 de la loi du 28 juin 2006 susvisée et décrites dans le premier chapitre ;
+a) L'évaluation de l'ensemble des charges mentionnées à l'article L. 594-1 du code de l'environnement et décrites dans le premier chapitre ;
 
 b) Le déroulement des travaux en cours au regard de l'échéancier prévu, ainsi que l'impact éventuel de l'avancement de ces travaux sur l'évaluation des charges et le coût à terminaison ;
 
 c) Le cas échéant, les principales évolutions intervenues depuis la date de transmission à l'autorité administrative du précédent rapport.
 
-III. - Le troisième chapitre présente :
+III.-Le troisième chapitre présente :
 
 a) Les provisions mentionnées à l'article 3 du décret du 23 février 2007 susvisé, réparties selon la nomenclature annexée au présent arrêté ;
 
@@ -56,9 +56,9 @@ b) Les méthodes appliquées par l'exploitant pour établir ses provisions à pa
 
 c) La méthode mentionnée au dernier alinéa de l'article 3 du même décret et la sensibilité du montant actualisé des provisions à la hausse et à la baisse du taux d'actualisation.
 
-IV. - Le quatrième chapitre contient les informations relatives aux actifs mentionnés à l'article 4 du décret du 23 février 2007 susvisé permettant à l'autorité administrative de connaître :
+IV.-Le quatrième chapitre contient les informations relatives aux actifs mentionnés à l'article 4 du décret du 23 février 2007 susvisé permettant à l'autorité administrative de connaître :
 
-a) La composition des actifs selon les catégories mentionnées à l'article 4 du même décret, ainsi que, le cas échéant, le plan de constitution prévu aux troisième et quatrième alinéas du III de l'article 20 de la loi du 28 juin 2006 susvisée ;
+a) La composition des actifs selon les catégories mentionnées à l'article 4 du même décret, ainsi que, le cas échéant, le plan de constitution prévu au I de l'article L. 594-6 du code de l'environnement ;
 
 b) La valeur comptable et de réalisation de chaque catégorie d'actifs ;
 
@@ -70,4 +70,6 @@ e) L'évaluation des risques et les résultats du test mentionnés à l'article 
 
 f) Les évolutions intervenues depuis la date de transmission à l'autorité administrative du rapport précédent.
 
-V. - Le cinquième chapitre expose la situation de l'exploitant au regard des dispositions prévues par l'article 20 de la loi du 28 juin 2006 susvisée et par le décret du 23 février 2007 susvisé ainsi que, le cas échéant, les mesures envisagées pour s'y conformer.
+V.-Le cinquième chapitre expose la situation de l'exploitant au regard des dispositions prévues par les articles L. 594-1 à L. 594-13 du code de l'environnement et par le décret du 23 février 2007 susvisé ainsi que, le cas échéant, les mesures envisagées pour s'y conformer.
+
+VI.-L'autorité administrative précise à l'exploitant le contenu et les modalités de présentation des états d'analyse des provisions, qui détaillent l'ensemble des provisions mentionnées à l'article L. 594-2 du code de l'environnement conformément à la nomenclature annexée au présent arrêté.

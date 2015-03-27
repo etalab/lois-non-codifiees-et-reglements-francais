@@ -1,3 +1,0 @@
-# CHAPITRE II : DU BUREAU ET DES SECTIONS DE VOTE
-
-- [Article 6](article-6.md)

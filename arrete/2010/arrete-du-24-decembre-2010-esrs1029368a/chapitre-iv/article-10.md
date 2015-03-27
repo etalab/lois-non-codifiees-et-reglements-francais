@@ -1,3 +1,0 @@
-# Article 10
-
-Après la clôture du scrutin, les urnes du bureau et, le cas échéant, des sections sont ouvertes. Pour chacune des catégories d'électeurs, les enveloppes contenues dans les urnes des sections sont versées dans l'urne du bureau correspondante et le nombre des enveloppes est vérifié pour chacune de ces catégories. Si ce nombre est différent de celui des émargements, il en est fait mention au procès-verbal des opérations électorales.
