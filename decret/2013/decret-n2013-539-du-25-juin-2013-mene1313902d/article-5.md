@@ -1,23 +1,17 @@
 # Article 5
 
-Le Conseil national éducation économie comprend vingt-six membres nommés par le ministre de l'éducation nationale :
+Le Conseil national éducation économie comprend trente-quatre membres, répartis comme suit :
 
-1° Cinq représentants des employeurs ;
+1° Trente membres choisis par les ministres chargés de l'éducation nationale et de l'enseignement supérieur en raison de leur compétence et de leur expérience dans le domaine de l'économie et de l'éducation, en veillant à l'équilibre entre ces deux domaines, à une représentation équilibrée entre les femmes et les hommes et à la présence de personnalités représentant les organisations syndicales de salariés et d'employeurs.
 
-2° Cinq représentants des salariés proposés par les organisations syndicales les plus représentatives ;
+Ces membres sont nommés pour cinq ans ;
 
-3° Cinq chefs d'entreprise ;
-
-4° Cinq représentants des personnels enseignants du second degré ; un représentant est proposé par chacun des cinq premiers syndicats de personnel enseignant du second degré. La liste de ces syndicats est arrêtée dans l'ordre décroissant du nombre moyen de voix obtenues aux élections professionnelles des corps considérés ;
-
-5° Quatre membres de droit :
+2° Quatre membres de droit :
 
 a) Le directeur général de l'enseignement scolaire ;
 
-b) Le directeur général pour l'enseignement supérieur et l'insertion professionnelle ;
+b) Le directeur général de l'enseignement supérieur et de l'insertion professionnelle ;
 
-c) Le directeur général du commerce, de l'industrie et des services ;
+c) Le directeur général des entreprises ;
 
-d) Le délégué général à l'emploi et à la formation professionnelle ;
-
-6° Deux présidents de conseils régionaux.
+d) Le délégué général à l'emploi et à la formation professionnelle.
