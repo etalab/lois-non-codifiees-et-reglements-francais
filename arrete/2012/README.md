@@ -450,7 +450,6 @@
 - [Arrêté du 7 février 2005 (SANY0520482A)](arrete-du-7-fevrier-2005-sany0520482a)
 - [Arrêté du 7 février 2012 (AGRE1202961A)](arrete-du-7-fevrier-2012-agre1202961a)
 - [Arrêté du 7 février 2012 (AGRM1203639A)](arrete-du-7-fevrier-2012-agrm1203639a)
-- [Arrêté du 7 février 2012 (BCRB1200792A)](arrete-du-7-fevrier-2012-bcrb1200792a)
 - [Arrêté du 7 février 2012 (BCRE1202609A)](arrete-du-7-fevrier-2012-bcre1202609a)
 - [Arrêté du 7 février 2012 (DEVP1202101A)](arrete-du-7-fevrier-2012-devp1202101a)
 - [Arrêté du 7 février 2012 (DEVP1205002A)](arrete-du-7-fevrier-2012-devp1205002a)
