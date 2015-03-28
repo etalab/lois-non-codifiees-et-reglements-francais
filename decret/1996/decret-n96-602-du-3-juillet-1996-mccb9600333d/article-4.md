@@ -1,9 +1,11 @@
 # Article 4
 
-Une commission spécialisée de terminologie et de néologie est créée dans chaque département ministériel par arrêté du ministre concerné pris après avis du délégué général à la langue française. Lorsque la spécialité du vocabulaire le justifie, il peut être créé plusieurs commissions spécialisées au sein d'un même département.
+Le délégué général à la langue française et aux langues de France prépare les travaux de la commission d'enrichissement de la langue française.
 
-Une même commission spécialisée peut être créée dans plusieurs départements ministériels par arrêté conjoint des ministres intéressés pris après avis du délégué général à la langue française.
+A cette fin, il peut constituer sur un sujet et pour une durée déterminés des groupes d'experts composés de représentants des administrations intéressées et de personnalités choisies en raison de leurs compétences. Il peut inviter des représentants de l'Académie française à participer à leurs travaux.
 
-La délégation générale à la langue française coordonne les travaux des différentes commissions spécialisées de terminologie et de néologie et contribue à leur diffusion.
+Les groupes d'experts qu'il constitue ont pour mission :
 
-Les dépenses de fonctionnement des commissions spécialisées de terminologie et de néologie sont prises en charge par les administrations auxquelles elles sont rattachées.
+1° D'établir l'inventaire des cas dans lesquels il est souhaitable de compléter le vocabulaire français, compte tenu des besoins exprimés ;
+
+2° De recueillir, analyser et proposer les termes et expressions nécessaires, notamment ceux équivalents à des termes et expressions nouveaux apparaissant dans les langues étrangères, accompagnés de leur définition.

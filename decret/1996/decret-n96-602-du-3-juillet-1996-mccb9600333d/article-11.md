@@ -6,4 +6,4 @@ Les termes et expressions publiés au Journal officiel sont obligatoirement util
 
 2° Dans les cas prévus aux articles 5 et 14 de la loi du 4 août 1994 susvisée relative à l'emploi de la langue française.
 
-La commission générale observe l'usage prévu au présent article des termes et expressions publiés.
+La commission observe l'usage prévu au présent article des termes et expressions publiés.
