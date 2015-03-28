@@ -131,7 +131,6 @@
 - [Arrêté du 9 août 2001 (AGRG0101632A)](arrete-du-9-aout-2001-agrg0101632a)
 - [Arrêté du 9 avril 2001 (AGRG0100096A)](arrete-du-9-avril-2001-agrg0100096a)
 - [Arrêté du 9 avril 2001 (ECOD0170008A)](arrete-du-9-avril-2001-ecod0170008a)
-- [Arrêté du 9 avril 2001 (MENE0100740A)](arrete-du-9-avril-2001-mene0100740a)
 - [Arrêté du 9 avril 2001 (MENS0101043A)](arrete-du-9-avril-2001-mens0101043a)
 - [Arrêté du 9 avril 2001 (MENS0101269A)](arrete-du-9-avril-2001-mens0101269a)
 - [Arrêté du 9 février 2001 (MENF0100172A)](arrete-du-9-fevrier-2001-menf0100172a)
