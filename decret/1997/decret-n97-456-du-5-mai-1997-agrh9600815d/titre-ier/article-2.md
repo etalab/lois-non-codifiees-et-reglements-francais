@@ -8,4 +8,6 @@ Sont membres de la société mère de la spécialité qui les concerne :
 
 2° Des membres associés en raison de leur compétence, dans les conditions déterminées par les statuts ;
 
-3° Le président ou le vice-président de chacune des fédérations régionales des courses prévues à l'article 14 ci-après.
+3° Le président ou le vice-président de chacune des fédérations régionales des courses prévues à l'article 14 ci-après ;
+
+4° Les présidents des sociétés de courses organisant des réunions dans la spécialité concernée.

@@ -1,16 +1,12 @@
 # Article 31
 
-Les ressources provenant des prélèvements opérés sur le pari mutuel au profit des sociétés de courses et de la Fédération nationale des courses françaises sont affectées :
+I.-Les ressources des sociétés mères provenant des activités de jeux et de prise de paris sont, après imputation de leurs propres frais, affectées :
 
-1° Abrogé
+1° Au financement des actions résultant des obligations de service public qui leur incombent en vertu de l'article 2 de la loi du 2 juin 1891 et de l'article 12 du présent décret ;
 
-2° A la couverture des dépenses de surveillance et de fonctionnement ;
+2° Au financement d'actions sociales en faveur des personnels actifs ou retraités des sociétés de course et de leurs organismes communs ou des personnels des écuries de courses, des entraîneurs, des jockeys et des drivers actifs ou retraités.
 
-3° A des actions d'encouragements à l'élevage ;
-
-4° Au financement d'actions et d'investissements au profit de la filière du cheval ;
-
-5° A l'allocation de secours, de prestations d'assistance, de crédits de formation professionnelle ou d'avantages de prévoyance ou de retraites complémentaires en faveur du personnel actif ou retraité des sociétés et des écuries de courses ainsi que des entraîneurs jockeys et drivers actifs ou retraités.
+II.-Le ministre chargé du budget fixe par arrêté la part du produit des gains non réclamés affectée au financement de l'allocation de retraite supplémentaire et des actions de prévoyance. La fraction restante est versée au budget général de l'Etat.
 
 Les prévisions de trésorerie pour l'exercice et les modalités de placement des disponibilités sont communiquées chaque année aux autorités compétentes pour approuver le budget.
 

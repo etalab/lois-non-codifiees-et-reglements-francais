@@ -17,7 +17,8 @@ Titre Ier : Décisions administratives individuelles prises par décret
 <p>Approbation des statuts des sociétés d'aménagement régional. </p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 112-13 du code rural et de la pêche maritime. </p>
+<p>
+Article R. 112-13 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 </tbody>
@@ -48,7 +49,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Décisions de retrait d'agrément des sociétés d'aménagement foncier et d'établissement rural pour non-respect de leurs obligations (agriculture et finances). </p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 141-8 du code rural et de la pêche maritime. </p>
+<p>
+Article R. 141-8 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>
@@ -70,7 +72,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Approbation des enregistreurs de température (agriculture, économie et finances). </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 64-949 du 9 septembre 1964 modifié portant règlement d'administration publique en ce qui concerne les produits surgelés, art. 2-1. </p>
+<p>
+Décret n° 64-949 du 9 septembre 1964 modifié portant règlement d'administration publique en ce qui concerne les produits surgelés, art. 2-1. </p>
 </td>
 </tr>
 <tr>
@@ -78,7 +81,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Autorisation de mise sur le marché d'organismes génétiquement modifiés. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 73-138 du 12 février 1973 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l'alimentation de l'homme et des animaux (art. 11-1)-ministres de l'agriculture, de la consommation et de l'industrie. </p>
+<p>
+Décret n° 73-138 du 12 février 1973 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l'alimentation de l'homme et des animaux (art. 11-1)-ministres de l'agriculture, de la consommation et de l'industrie. </p>
 </td>
 </tr>
 <tr>
@@ -86,7 +90,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Agrément des organismes certificateurs de produits agricoles et alimentaires et du mode de production en agriculture biologique (agriculture, alimentation et consommation). </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés, art. 8. </p>
+<p>
+Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés, art. 8. </p>
 </td>
 </tr>
 <tr>
@@ -102,7 +107,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et de la pêche maritime et des textes pris pour leur application. </p>
 </td>
 <td valign="top" width="302">
-<p>Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural et de la pêche maritime. </p>
+<p>
+Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>
@@ -110,7 +116,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Désignation des personnes chargées du contrôle des laboratoires nationaux de référence et des laboratoires agréés en application du chapitre II du titre préliminaire du livre II du code rural et de la pêche maritime et des textes pris pour son application. </p>
 </td>
 <td valign="top" width="302">
-<p>Articles R. 202-6 et R. 202-16 du code rural et de la pêche maritime. </p>
+<p>
+Articles R. 202-6 et R. 202-16 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>
@@ -153,7 +160,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p align="left">Autorisation de répartition entre les associés d'une société coopérative agricole ou d'une union de sociétés coopératives du surplus d'actif net après dévolution des réserves indisponibles lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément (agriculture, économie et budget). </p>
 </td>
 <td valign="top" width="302">
-<p align="left">Article R. 526-4, 2e alinéa du code rural et de la pêche maritime. </p>
+<p align="left">
+Article R. 526-4, 2e alinéa du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>
@@ -175,7 +183,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Inscriptions au plan national d'équipement en abattoirs (agriculture, économie, finances, budget, intérieur, commerce et artisanat). </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 91-1234 du 6 décembre 1991 relatif aux abattoirs privés de type industriel, art. 2. </p>
+<p>
+Décret n° 91-1234 du 6 décembre 1991 relatif aux abattoirs privés de type industriel, art. 2. </p>
 </td>
 </tr>
 <tr>
@@ -189,7 +198,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Autorisation d'acquisitions, de constructions et de travaux effectués par les sociétés de courses (agriculture et budget). </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 31. </p>
+<p>
+Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 31. </p>
 </td>
 </tr>
 <tr>
@@ -197,7 +207,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Approbation du plan comptable des sociétés de courses (agriculture et budget). </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 32. </p>
+<p>
+Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 32. </p>
 </td>
 </tr>
 <tr>
@@ -205,7 +216,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Liste des sociétés de courses et des organismes communs dont les projets de budget et les comptes financiers sont approuvés par les ministres. Décisions d'approbation de ces projets de budget et de ces comptes financiers (agriculture et budget) </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 34, 1er alinéa. </p>
+<p>
+Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 34, 1er alinéa. </p>
 </td>
 </tr>
 <tr>
@@ -219,7 +231,8 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Agrément prévu par l'article L. 640-3 du code rural et de la pêche maritime, des organismes chargés de la qualification des exploitations agricoles au titre de l'agriculture raisonnée et de son contrôle </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 2002-631 du 25 avril 2002 relatif à la qualification des exploitations agricoles au titre de l'agriculture raisonnée. </p>
+<p>
+Décret n° 2002-631 du 25 avril 2002 relatif à la qualification des exploitations agricoles au titre de l'agriculture raisonnée. </p>
 </td>
 </tr>
 </tbody>
@@ -248,7 +261,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation de commercialisation de matériels forestiers de reproduction en cas de difficultés passagères d'approvisionnement. </p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 554-3 du code forestier. </p>
+<p>
+Article R. 554-3 du code forestier. </p>
 </td>
 </tr>
 <tr>
@@ -270,7 +284,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des experts chargés de la vérification de l'existence des propriétés définies à l'article L. 617-2 du code de la santé publique en vue de la mise sur le marché des médicaments vétérinaires. </p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 5146-19 du code de la santé publique. </p>
+<p>
+Article R. 5146-19 du code de la santé publique. </p>
 </td>
 </tr>
 <tr>
@@ -286,7 +301,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des laboratoires d'analyse de terre. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 80-478 du 16 juin 1980 portant règlement d'administration publique pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne les matières fertilisantes et les supports de culture, art. 8. </p>
+<p>
+Décret n° 80-478 du 16 juin 1980 portant règlement d'administration publique pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne les matières fertilisantes et les supports de culture, art. 8. </p>
 </td>
 </tr>
 <tr>
@@ -294,7 +310,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des organismes religieux habilités à désigner des sacrificateurs autorisés à pratiquer l'abattage rituel. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 80-791 du 1er octobre 1980 modifié pris pour l'application de l'article 276 du code rural et de la pêche maritime, art. 10. </p>
+<p>
+Décret n° 80-791 du 1er octobre 1980 modifié pris pour l'application de l'article 276 du code rural et de la pêche maritime, art. 10. </p>
 </td>
 </tr>
 <tr>
@@ -302,7 +319,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Habilitation des laboratoires d'analyse des semences. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 2 (I. 2°) et 9. </p>
+<p>
+Décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 2 (I. 2°) et 9. </p>
 </td>
 </tr>
 <tr>
@@ -310,8 +328,10 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation d'utilisation, de dissémination et de mise sur le marché des organismes génétiquement modifiés. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 93-1177 du 18 octobre 1993 pris pour l'application s'agissant de plantes, semences et de plants du titre III de la loi du 13 juillet 1992, art. 1er, 15 et 19 ; </p>
-<p>Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes ornementales, des jeunes plants de légumes, des plantes fruitières et des matériels de multiplication de toutes ces plantes et modifiant le décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 7 et 10 ; </p>
+<p>
+Décret n° 93-1177 du 18 octobre 1993 pris pour l'application s'agissant de plantes, semences et de plants du titre III de la loi du 13 juillet 1992, art. 1er, 15 et 19 ; </p>
+<p>
+Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes ornementales, des jeunes plants de légumes, des plantes fruitières et des matériels de multiplication de toutes ces plantes et modifiant le décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 7 et 10 ; </p>
 <p>Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2,13,20-II et 25 ; </p>
 <p>Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23,25,27). </p>
 </td>
@@ -321,7 +341,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisations de dissémination et de mise sur le marché des matières fertilisantes et des supports de culture composés en tout ou partie d'organismes génétiquement modifiés. </p>
 </td>
 <td valign="top" width="302">
-<p>R. * 255-8, R. * 255-16, R. * 255-23, R. * 255-28 et R. * 255-32 du code rural et de la pêche maritime. </p>
+<p>
+R. * 255-8, R. * 255-16, R. * 255-23, R. * 255-28 et R. * 255-32 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>
@@ -433,7 +454,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des programmes d'amélioration génétique. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 69-667 du 14 juin 1969 relatif à l'amélioration génétique du cheptel, art. 3 et 4. </p>
+<p>
+Décret n° 69-667 du 14 juin 1969 relatif à l'amélioration génétique du cheptel, art. 3 et 4. </p>
 </td>
 </tr>
 <tr>
@@ -471,7 +493,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Reconnaissance des organisations de producteurs dans le secteur des pêches maritimes et des cultures marines. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 86-1282 du 16 décembre 1986 modifié relatif à la reconnaissance et au contrôle des organisations de producteurs dans le secteur des pêches maritimes et des cultures marines et à l'extension aux non-adhérents de certaines règles de ces organisations, art. 3. </p>
+<p>
+Décret n° 86-1282 du 16 décembre 1986 modifié relatif à la reconnaissance et au contrôle des organisations de producteurs dans le secteur des pêches maritimes et des cultures marines et à l'extension aux non-adhérents de certaines règles de ces organisations, art. 3. </p>
 </td>
 </tr>
 <tr>
@@ -479,7 +502,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Délivrance des permis de mise en exploitation des navires de pêche d'une longueur supérieure à 25 mètres. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 93-33 du 8 janvier 1993 relatif au permis de mise en exploitation des navires de pêche pris pour l'application de l'article 3-1 du décret du 9 janvier 1852 modifié sur l'exercice de la pêche maritime, art. 3 et 6. </p>
+<p>
+Décret n° 93-33 du 8 janvier 1993 relatif au permis de mise en exploitation des navires de pêche pris pour l'application de l'article 3-1 du décret du 9 janvier 1852 modifié sur l'exercice de la pêche maritime, art. 3 et 6. </p>
 </td>
 </tr>
 <tr>
@@ -487,13 +511,15 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Répartition des quotas de pêche. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 90-94 du 25 janvier 1990 pris pour l'application de l'article 3 du décret du 9 janvier 1852 modifié fixant les conditions générales d'exercice de la pêche maritime dans les eaux soumises à la réglementation communautaire de conservation et de gestion, art. 14. </p>
+<p>
+Décret n° 90-94 du 25 janvier 1990 pris pour l'application de l'article 3 du décret du 9 janvier 1852 modifié fixant les conditions générales d'exercice de la pêche maritime dans les eaux soumises à la réglementation communautaire de conservation et de gestion, art. 14. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="302"/>
 <td valign="top" width="302">
-<p>Décret n° 90-95 du 25 janvier 1990 pris pour l'application de l'article 3 du décret du 9 janvier 1852 modifié fixant les conditions générales d'exercice de la pêche maritime dans les zones de pêche non couvertes par la réglementation communautaire de conservation et de gestion, art. 16. </p>
+<p>
+Décret n° 90-95 du 25 janvier 1990 pris pour l'application de l'article 3 du décret du 9 janvier 1852 modifié fixant les conditions générales d'exercice de la pêche maritime dans les zones de pêche non couvertes par la réglementation communautaire de conservation et de gestion, art. 16. </p>
 </td>
 </tr>
 <tr>
@@ -504,10 +530,10 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Approbation des programmes et des calendriers des courses des sociétés de courses autres que les sociétés mères </p>
+<p>Approbation et modification des programmes et des calendriers des courses des sociétés de courses autres que les sociétés mères </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 12 et 22. </p>
+<p>Décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel, art. 3, 12 et 22. </p>
 </td>
 </tr>
 <tr>
@@ -529,7 +555,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité. </p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique, art. 8. </p>
+<p>
+Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique, art. 8. </p>
 </td>
 </tr>
 <tr>
@@ -603,7 +630,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Décisions d'exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat. </p>
 </td>
 <td valign="top" width="302">
-<p>Article 42 du code des marchés publics. </p>
+<p>
+Article 42 du code des marchés publics. </p>
 </td>
 </tr>
 <tr>
@@ -623,7 +651,8 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Décisions d'agrément des centres de formation des inspecteurs chargés de procéder au contrôle des matériels mentionnés à l'article L. 256-1 du code rural et de la pêche maritime. </p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 256-30 du code rural et de la pêche maritime. </p>
+<p>
+Article R. 256-30 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>

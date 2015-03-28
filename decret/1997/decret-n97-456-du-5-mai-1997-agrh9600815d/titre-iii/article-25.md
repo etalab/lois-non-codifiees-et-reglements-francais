@@ -1,13 +1,11 @@
 # Article 25
 
-La Commission nationale de répartition du Fonds commun est composée des six membres du conseil d'administration de la Fédération nationale des courses françaises, ou leurs représentants, et de six représentants de l'Etat :
+La Commission nationale de répartition du Fonds commun des courses est composée de sept membres désignés par le conseil d'administration de la Fédération nationale des courses hippiques : six représentants dudit conseil ainsi qu'une personnalité qualifiée. Le conseil d'administration de la fédération nationale désigne également pour chacun des membres de la commission un suppléant.
 
-Un conseiller maître à la Cour des comptes, président, dont la voix est prépondérante en cas de partage ;
+La commission élit son président parmi ses membres.
 
-Trois représentants du ministre chargé de l'agriculture, dont le directeur général de la forêt et des affaires rurales, commissaire du Gouvernement ;
+Le directeur compétent au ministère chargé de l'agriculture, ou son représentant et le membre du corps du contrôle général économique et financier désigné en application de l'article 35 peuvent assister aux réunions de la commission de répartition du fonds commun des courses.
 
-Deux représentants du ministre chargé du budget, dont le        contrôleur budgétaire désigné en application de l'article 35 ci-après.
+La Commission nationale de répartition du fonds commun se réunit au moins deux fois par an. Réunie en commission d'équipement, elle examine les demandes d'aides à l'équipement et fait des propositions dans le cadre du budget alloué.
 
-La Commission nationale de répartition du Fonds commun se réunit au moins deux fois par an. Réunie en commission d'équipement, elle examine les demandes d'aides à l'équipement et fait des propositions dans le cadre du budget alloué.
-
-La commission nationale met en oeuvre les actions communes au bénéfice des sociétés de courses autres que les sociétés mères. Elle soumet le budget prévisionnel du fonds et la répartition des concours à l'approbation du ministre chargé de l'agriculture. Cette approbation est réputée acquise en cas de silence gardé par le ministre pendant un mois à compter de la réception de la demande.
+Le président fait connaître les dates et l'ordre du jour des réunions des commissions mentionnées à l'alinéa précédent au directeur compétent au ministère chargé de l'agriculture et au membre du contrôle général économique et financier, qui peuvent, en outre, se faire présenter, à tout moment, toute pièce intéressant la gestion du fonds commun.
