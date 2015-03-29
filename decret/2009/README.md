@@ -419,7 +419,6 @@
 - [Décret n°2009-45 du 13 janvier 2009 (DEVP0825420D)](decret-n2009-45-du-13-janvier-2009-devp0825420d)
 - [Décret n°2009-47 du 13 janvier 2009 (MAEF0827739D)](decret-n2009-47-du-13-janvier-2009-maef0827739d)
 - [Décret n°2009-48 du 13 janvier 2009 (AGRP0826056D)](decret-n2009-48-du-13-janvier-2009-agrp0826056d)
-- [Décret n°2009-50 du 13 janvier 2009 (AGRP0824232D)](decret-n2009-50-du-13-janvier-2009-agrp0824232d)
 - [Décret n°2009-535 du 13 mai 2009 (MCCT0910694D)](decret-n2009-535-du-13-mai-2009-mcct0910694d)
 - [Décret n°2004-58 du 14 janvier 2004 (SOCN0312066D)](decret-n2004-58-du-14-janvier-2004-socn0312066d)
 - [Décret n°2009-1233 du 14 octobre 2009 (JUSC0921466D)](decret-n2009-1233-du-14-octobre-2009-jusc0921466d)
