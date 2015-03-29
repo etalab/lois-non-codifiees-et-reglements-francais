@@ -1,11 +1,9 @@
 # Article 5
 
-La récidive d'un manquement à une même obligation quantitative, au titre d'une même aide, constaté lors de la même campagne ou de la campagne précédente entraîne une diminution du montant de l'aide accordée, calculée selon les modalités suivantes :
+Lorsqu'un manquement à une obligation quantitative a donné lieu à une décision de réduction ou d'exclusion au titre d'une campagne N et qu'un manquement à une même obligation quantitative au titre de la même aide, est constaté au titre de la campagne N + 1, cette récidive entraîne l'application des mesures suivantes :
 
-1° Lorsque le taux d'écart relevé lors d'un second contrôle successif est inférieur ou égal à 5 %, le montant de l'aide est réduit de 5 % de son total calculé après application de la correction prévue au premier alinéa de l'article 3 ;
+1° Lorsque le taux d'écart relevé lors du contrôle au titre de la campagne N + 1 est inférieur ou égal à 5 % l'organisme payeur adresse au demandeur de l'aide une lettre d'observations contenant un rappel à la réglementation applicable, mentionnant notamment le régime applicable à l'aide concernée ;
 
-2° Lorsque le taux d'écart relevé lors d'un second contrôle successif est supérieur à 5 % et inférieur ou égal à 20 %, le montant de l'aide est réduit de 10 % de son total calculé après application de la correction prévue au premier alinéa de l'article 3 ;
+2° Lorsque le taux d'écart relevé lors du contrôle au titre de la campagne N + 1 est supérieur 5 %, le montant de l'aide est réduit de 100 % du taux d'écart constaté après application de la correction prévue au premier alinéa de l'article 3.
 
-3° Lorsque le taux d'écart lors d'un second contrôle successif est supérieur à 20 % et inférieur ou égal à 50 %, le montant de l'aide est réduit de 60 % de son total calculé après application de la correction prévue au premier alinéa de l'article 3 ;
-
-4° Le constat, lors d'un second contrôle successif, d'un taux d'écart supérieur à 50 % entraîne l'inéligibilité, au titre de la campagne concernée, à l'aide demandée.
+En conséquence, le constat d'un taux d'écart égal ou supérieur à 100 % entraîne l'inéligibilité à l'aide demandée, au titre de la campagne concernée.
