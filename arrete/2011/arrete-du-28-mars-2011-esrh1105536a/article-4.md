@@ -2,7 +2,7 @@
 
 Le candidat adresse au ministère de l'enseignement supérieur et de la recherche un dossier comprenant :
 
-1° Une déclaration de candidature établie sur le modèle de l'annexe précisant notamment que sa candidature n'a pas été retenue par deux fois dans le même corps par la même section du Conseil national des universités ou du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques au cours des deux années précédentes. Toute fausse déclaration entraînera le rejet de la candidature ;
+1° Une déclaration de candidature établie sur le modèle de l'annexe précisant notamment que sa candidature n'a pas été retenue par deux fois dans le même corps par la même section du Conseil national des universités ou du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques. Toute fausse déclaration entraînera le rejet de la candidature ;
 
 2° Une copie d'une pièce d'identité avec photographie.
 
