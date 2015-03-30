@@ -4,6 +4,6 @@ Secteur agriculture
 
 Vous pouvez consulter les fiches dans le fac-similé du JO
 
-nº 0297 du 24/12/2014, texte nº 18
+nº 0075 du 29/03/2015, texte nº 6 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141224&numTexte=18&pageDebut=21838&pageFin=22134
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150329&numTexte=6&pageDebut=05682&pageFin=05761
