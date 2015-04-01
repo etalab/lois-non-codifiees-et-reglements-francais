@@ -5,5 +5,4 @@
 - [TITRE III : CLASSEMENT.](titre-iii)
 - [TITRE IV : AVANCEMENT.](titre-iv)
 - [TITRE V : DÉTACHEMENT.](titre-v)
-- [TITRE VI : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-vi)
 - [Article 23](article-23.md)
