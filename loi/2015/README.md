@@ -1,6 +1,7 @@
 # 2015
 
 - [Loi du 17 décembre 1926](loi-du-17-decembre-1926)
+- [Loi du 24 mai 1872](loi-du-24-mai-1872)
 - [Loi du 3 octobre 1940](loi-du-3-octobre-1940)
 - [LOI n° 2014-1662 du 30 décembre 2014 (FCPM1411464L)](loi-n-2014-1662-du-30-decembre-2014-fcpm1411464l)
 - [LOI n° 2014-1663 du 30 décembre 2014 (VJSV1407508L)](loi-n-2014-1663-du-30-decembre-2014-vjsv1407508l)
