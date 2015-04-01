@@ -51,7 +51,6 @@
 - [Arrêté du 3 juillet 2008 (DEVN0811686A)](arrete-du-3-juillet-2008-devn0811686a)
 - [Arrêté du 3 juillet 2008 (DEVT0816299A)](arrete-du-3-juillet-2008-devt0816299a)
 - [Arrêté du 3 juillet 2008 (IOCE0817053A)](arrete-du-3-juillet-2008-ioce0817053a)
-- [Arrêté du 3 juin 2008 (DEVA0772052A)](arrete-du-3-juin-2008-deva0772052a)
 - [Arrêté du 3 juin 2008 (ECED0813417A)](arrete-du-3-juin-2008-eced0813417a)
 - [Arrêté du 3 juin 2008 (SJSH0805925A)](arrete-du-3-juin-2008-sjsh0805925a)
 - [Arrêté du 3 mars 2008 (SJSH0805636A)](arrete-du-3-mars-2008-sjsh0805636a)
