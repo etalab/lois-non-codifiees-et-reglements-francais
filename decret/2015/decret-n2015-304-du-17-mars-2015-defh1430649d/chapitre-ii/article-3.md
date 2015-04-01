@@ -1,0 +1,5 @@
+# Article 3
+
+I. - Les fonctionnaires détachés, à la date d'entrée en vigueur du présent décret, dans le corps des cadres de santé civils régi par le décret du 29 octobre 2004 susvisé, qui souhaitent conserver, dans leur corps ou cadre d'emplois d'origine, la possibilité de se prévaloir des dispositions relatives à la catégorie active prévues à l'article 37 de la loi du 5 juillet 2010 susvisée, poursuivent leur détachement dans le corps régi par le décret du 29 octobre 2004 susvisé.
+
+II. - Les fonctionnaires qui, en position de détachement, ont déjà exercé leur droit d'option dans leur corps ou cadre d'emplois d'origine en application de l'article 37 de la loi du 5 juillet 2010 susvisée poursuivent leur détachement dans le corps régi par le décret du 29 octobre 2004 précité s'ils ont opté pour la conservation de la catégorie active à titre personnel ou sont détachés dans le corps régi par le décret n° 2015-303 du 17 mars 2015 précité s'ils ont renoncé au bénéfice de la catégorie active.

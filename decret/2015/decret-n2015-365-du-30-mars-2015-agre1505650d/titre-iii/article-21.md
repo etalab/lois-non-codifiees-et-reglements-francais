@@ -1,0 +1,3 @@
+# Article 21
+
+Le règlement intérieur de l'institut peut prévoir que les membres des conseils participent aux séances par des moyens de visioconférence ou de communication électronique satisfaisant à des caractéristiques techniques garantissant la transmission continue et simultanée des débats et la confidentialité des votes lorsque le scrutin est secret, permettant l'identification des intervenants et assurant la participation effective de ceux-ci à un débat collégial. Les membres qui participent par ces moyens aux séances sont réputés présents dans le calcul du quorum et de la majorité requise.

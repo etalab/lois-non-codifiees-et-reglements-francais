@@ -1,0 +1,7 @@
+# Article 25
+
+I. - Les concours de recrutement et concours professionnels ouverts dans le corps régi par le décret du 29 octobre 2004 susvisé dont les arrêtés d'ouverture ont été publiés avant la date d'entrée en vigueur du présent décret demeurent régis par les dispositions applicables à la date de publication de ces arrêtés.
+
+II. - Les lauréats des concours interne et externe d'accès au corps régi par le décret du 29 octobre 2004 dont la nomination n'a pas été prononcée dans ce corps avant l'entrée en vigueur du présent décret peuvent être nommés en qualité de stagiaire dans le corps des cadres de santé paramédicaux civils du ministère de la défense régi par le présent décret, en application des dispositions des articles 11 à 16.
+
+III. - Les lauréats des concours professionnels d'accès au grade de cadre supérieur de santé du corps régi par le décret du 29 octobre 2004 susvisé autres que ceux ayant opté pour le maintien dans ce corps en application de l'article 23 sont classés dans le grade de cadre supérieur de santé paramédical du corps régi par le présent décret en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé d'appartenir à leur ancien corps jusqu'à la date de leur promotion, puis promus dans le grade de cadre supérieur de santé de ce corps et, enfin, reclassés à cette même date conformément aux tableaux de correspondance prévus à l'article 24.

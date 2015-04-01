@@ -1,0 +1,3 @@
+# Article 32
+
+Lorsqu'une juridiction de l'ordre judiciaire ou de l'ordre administratif a, par une décision qui n'est plus susceptible de recours, décliné la compétence de l'ordre de juridiction auquel elle appartient au motif que le litige ne ressortit pas à cet ordre, toute juridiction de l'autre ordre, saisie du même litige, si elle estime que le litige ressortit à l'ordre de juridiction primitivement saisi, doit, par une décision motivée qui n'est susceptible d'aucun recours même en cassation, renvoyer au Tribunal des conflits le soin de décider sur la question de compétence ainsi soulevée et surseoir à toute procédure jusqu'à la décision du tribunal.

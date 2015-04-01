@@ -1,0 +1,3 @@
+# Article 3
+
+L'institut peut également conclure des conventions d'association avec des organismes, fondations reconnues d'utilité publique, établissements ayant vocation à participer aux réflexions, aux activités et projets menés en son sein, notamment en matière de stratégie et d'expertise dans les domaines de la formation, la recherche, le développement et le transfert de technologie par délibération de son conseil d'administration. Les associés sont soumis pour ce qui les concerne aux dispositions du présent décret et peuvent siéger au conseil d'administration avec voix consultative, sur invitation du président et en fonction de l'ordre du jour.
