@@ -184,7 +184,6 @@
 - [Décret n°2009-519 du 7 mai 2009 (DEVV0909553D)](decret-n2009-519-du-7-mai-2009-devv0909553d)
 - [Décret n°2009-520 du 7 mai 2009 (MTSS0906888D)](decret-n2009-520-du-7-mai-2009-mtss0906888d)
 - [Décret n°2009-521 du 7 mai 2009 (AGRS0905207D)](decret-n2009-521-du-7-mai-2009-agrs0905207d)
-- [Décret n°2009-522 du 7 mai 2009 (AGRE0908311D)](decret-n2009-522-du-7-mai-2009-agre0908311d)
 - [Décret n°2009-523 du 7 mai 2009 (SJSS0829542D)](decret-n2009-523-du-7-mai-2009-sjss0829542d)
 - [Décret n°2009-524 du 7 mai 2009 (MLVU0828736D)](decret-n2009-524-du-7-mai-2009-mlvu0828736d)
 - [Décret n°2008-1277 du 8 décembre 2008 (PRMX0828773D)](decret-n2008-1277-du-8-decembre-2008-prmx0828773d)
