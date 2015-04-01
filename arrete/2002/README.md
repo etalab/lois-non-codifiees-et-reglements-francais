@@ -6,7 +6,6 @@
 - [Arrêté du 1 août 2002 (INTE0200476A)](arrete-du-1-aout-2002-inte0200476a)
 - [Arrêté du 1 février 2002 (AGRG0200019A)](arrete-du-1-fevrier-2002-agrg0200019a)
 - [Arrêté du 1 février 2002 (AGRG0200235A)](arrete-du-1-fevrier-2002-agrg0200235a)
-- [Arrêté du 1 février 2002 (ECOC0200002A)](arrete-du-1-fevrier-2002-ecoc0200002a)
 - [Arrêté du 1 février 2002 (JUSG0260014A)](arrete-du-1-fevrier-2002-jusg0260014a)
 - [Arrêté du 1 février 2002 (MENF0102694A)](arrete-du-1-fevrier-2002-menf0102694a)
 - [Arrêté du 1 février 2002 (MENF0200338A)](arrete-du-1-fevrier-2002-menf0200338a)
