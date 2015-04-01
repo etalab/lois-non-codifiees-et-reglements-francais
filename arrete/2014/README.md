@@ -939,7 +939,6 @@
 - [Arrêté du 12 mars 2014 (AGRG1406157A)](arrete-du-12-mars-2014-agrg1406157a)
 - [Arrêté du 12 mars 2014 (AGRT1402929A)](arrete-du-12-mars-2014-agrt1402929a)
 - [Arrêté du 12 mars 2014 (DEFK1410151A)](arrete-du-12-mars-2014-defk1410151a)
-- [Arrêté du 12 mars 2014 (DEVA1330944A)](arrete-du-12-mars-2014-deva1330944a)
 - [Arrêté du 12 mars 2014 (DEVK1331657A)](arrete-du-12-mars-2014-devk1331657a)
 - [Arrêté du 12 mars 2014 (EFIS1405886A)](arrete-du-12-mars-2014-efis1405886a)
 - [Arrêté du 12 mars 2014 (ETLK1405680A)](arrete-du-12-mars-2014-etlk1405680a)
