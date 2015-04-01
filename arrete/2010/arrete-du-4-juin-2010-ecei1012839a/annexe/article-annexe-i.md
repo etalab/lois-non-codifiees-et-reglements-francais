@@ -126,6 +126,14 @@ B. Pré-requis pour le classement d'une résidence dans la catégorie "Résidenc
 
 Pour être classée "Résidence de tourisme" une résidence doit avoir une capacité d'accueil minimale de 100 lits (personnes susceptibles d'être accueillies).
 
+Lorsque l'établissement concerné est placé sous le régime de la copropriété ou sous le statut des sociétés d'attribution d'immeubles en jouissance à temps partagé, il doit être constitué d'au moins 70 % de locaux d'habitation meublés en application de l'article D. 321-2 du code du tourisme.
+
+A titre dérogatoire, ce seuil est fixé à 55 % pour :
+
+-les résidences de tourisme exploitées depuis plus de neuf ans, dont le classement est arrivé à échéance à la date du 1er avril 2015 ;
+
+-les établissements non classés répondant aux caractéristiques fixées à l'article D. 321-1 du code du tourisme, exploités depuis plus de neuf ans.
+
 C. Tableau de classement
 
 <table>
