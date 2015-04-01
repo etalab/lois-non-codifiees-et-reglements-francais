@@ -10,6 +10,8 @@ Les autres stagiaires peuvent être autorisés à effectuer un stage complément
 
 Les adjoints administratifs de 2e classe stagiaires et les adjoints administratifs de 1re classe stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas été jugé satisfaisant sont soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
 
+Pendant la durée correspondant à la période de stage, il ne peut être attribué aucune réduction ni majoration individuelle de la durée moyenne d'avancement d'échelon à un fonctionnaire stagiaire en application des dispositions relatives à la reconnaissance de la valeur professionnelle des fonctionnaires de la direction générale de la sécurité extérieure.
+
 IV. ― La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
 
 V. ― Les adjoints administratifs de 1re classe recrutés par la voie du concours interne sont titularisés dès leur nomination.

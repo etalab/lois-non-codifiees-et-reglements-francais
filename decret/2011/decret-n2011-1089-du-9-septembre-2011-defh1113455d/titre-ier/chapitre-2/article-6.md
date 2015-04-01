@@ -8,6 +8,8 @@ Les stagiaires qui n'ont pas été titularisés peuvent être autorisés à effe
 
 Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas été jugé satisfaisant sont soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
 
+Pendant la durée correspondant à la période de stage, il ne peut être attribué aucune réduction ni majoration individuelle de la durée moyenne d'avancement d'échelon à un fonctionnaire stagiaire en application des dispositions relatives à la reconnaissance de la valeur professionnelle des fonctionnaires de la direction générale de la sécurité extérieure.
+
 La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
 
 Les fonctionnaires recrutés dans le grade de surveillant de la direction générale de la sécurité extérieure sont classés dans ce grade conformément aux articles 3 à 7 bis du décret du 29 septembre 2005 susvisé.

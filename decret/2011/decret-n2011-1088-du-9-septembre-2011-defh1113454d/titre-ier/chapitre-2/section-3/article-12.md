@@ -10,6 +10,8 @@ Les stagiaires qui n'ont pas été titularisés peuvent être autorisés à effe
 
 Les agents techniques de 2e classe stagiaires, les agents techniques de 1re classe stagiaires et les agents techniques principaux de 2e classe stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas été jugé satisfaisant sont soit licenciés s'ils n'avaient pas préalablement la qualité de fonctionnaire, soit réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
 
+Pendant la durée correspondant à la période de stage, il ne peut être attribué aucune réduction ni majoration individuelle de la durée moyenne d'avancement d'échelon à un fonctionnaire stagiaire en application des dispositions relatives à la reconnaissance de la valeur professionnelle des fonctionnaires de la direction générale de la sécurité extérieure.
+
 III. ― La durée du stage est prise en compte pour l'avancement dans la limite d'une année.
 
 IV. ― Les agents techniques principaux de 2e classe recrutés par la voie du concours interne sont titularisés dès leur nomination.
