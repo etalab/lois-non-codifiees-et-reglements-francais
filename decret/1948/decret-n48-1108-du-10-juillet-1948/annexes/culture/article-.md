@@ -148,7 +148,7 @@
 </tr>
 <tr>
 <td valign="top" width="331">
-<p>directeur général de la création artistique </p>
+<p>Directeur général de la création artistique </p>
 </td>
 <td valign="top" width="113">
 <p align="center">HEA-HEC </p>
@@ -248,39 +248,6 @@
 </td>
 <td valign="top" width="113">
 <br/>
-</td>
-<td valign="top" width="279"/>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Corps des inspecteurs et conseillers de la création et des enseignements artistiques et de l'action culturelle </p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="279"/>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Inspecteur général de la création, des enseignements artistiques et de l'action culturelle </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<p align="center">901-HEB </p>
-</td>
-<td valign="top" width="279"/>
-</tr>
-<tr>
-<td valign="top" width="331">
-<p>Inspecteur et conseiller de la création, des enseignements artistiques et de l'action culturelle </p>
-<p>1ère classe </p>
-<p>2ème classe </p>
-</td>
-<td valign="top" width="113">
-<br/>
-<br/>
-<p align="center">701-1015 </p>
-<p align="center">499-801 </p>
 </td>
 <td valign="top" width="279"/>
 </tr>
@@ -834,9 +801,7 @@
 <p align="center">399-579 </p>
 <p align="center">306-544 </p>
 </td>
-<td valign="top" width="279">
-<br/>
-</td>
+<td valign="top" width="279"/>
 </tr>
 <tr>
 <td valign="top" width="331">
@@ -878,9 +843,7 @@
 <p align="center">399-579 </p>
 <p align="center">306-544</p>
 </td>
-<td valign="top" width="279">
-<br/>
-</td>
+<td valign="top" width="279"/>
 </tr>
 <tr>
 <td valign="top" width="331"/>
