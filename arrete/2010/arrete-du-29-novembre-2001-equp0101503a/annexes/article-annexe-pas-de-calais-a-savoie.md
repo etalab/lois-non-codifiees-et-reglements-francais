@@ -287,7 +287,7 @@ Direction départementale de l'équipement du Haut-Rhin
 </tbody>
 </table>
 
-Direction départementale de l'équipement du Rhône
+Direction départementale des territoires du Rhône
 
 <table>
 <tbody>
@@ -307,7 +307,7 @@ Direction départementale de l'équipement du Rhône
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du service politique de la ville</p>
+<p align="left">Adjoint au chef de service, en charge de la mission politique de la ville et renouvellement urbain-service habitat et renouvellement urbain</p>
 </td>
 <td>
 <p align="center">A</p>
