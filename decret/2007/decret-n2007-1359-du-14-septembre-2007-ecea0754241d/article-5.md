@@ -6,13 +6,9 @@ Cette commission, instituée par arrêté du préfet de région ou, dans la coll
 
 1° Le préfet de région, ou, dans la collectivité territoriale de Corse, le préfet de Corse, ou son représentant, président ;
 
-2° Le délégué régional au commerce et à l'artisanat ou son représentant ;
+2° Trois représentants de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou de la direction des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
-3° Le délégué régional au tourisme ou son représentant ;
-
-4° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
-
-5° Quatre représentants titulaires désignés, ainsi que leurs suppléants, par le préfet de région ou, dans la collectivité territoriale de Corse, par le préfet de Corse, sur proposition des organisations professionnelles du secteur de la restauration représentatives au niveau national. Les représentants de ces organisations sont nommés pour une durée de cinq ans renouvelable.
+3° Quatre représentants titulaires désignés, ainsi que leurs suppléants, par le préfet de région ou, dans la collectivité territoriale de Corse, par le préfet de Corse, sur proposition des organisations professionnelles du secteur de la restauration représentatives au niveau national. Les représentants de ces organisations sont nommés pour une durée de cinq ans renouvelable.
 
 En cas de partage des voix, la voix du président ou de son représentant est prépondérante.
 
