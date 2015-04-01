@@ -187,4 +187,3 @@
 - [Décret n°2001-1378 du 31 décembre 2001 (MESH0124153D)](decret-n2001-1378-du-31-decembre-2001-mesh0124153d)
 - [Décret n°2001-1382 du 31 décembre 2001 (INTE0100351D)](decret-n2001-1382-du-31-decembre-2001-inte0100351d)
 - [Décret n°2002-121 du 31 janvier 2002 (PRMG0170814D)](decret-n2002-121-du-31-janvier-2002-prmg0170814d)
-- [Décret n°2002-1318 du 31 octobre 2002 (MCCX0200031D)](decret-n2002-1318-du-31-octobre-2002-mccx0200031d)
