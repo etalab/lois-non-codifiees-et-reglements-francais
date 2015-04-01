@@ -1,5 +1,5 @@
 # Article 2
 
-Une entreprise qui acquiert ou qui prend en location un véhicule satisfaisant aux conditions définies à l'article 1er et le donne en location dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans ne bénéficie pas de l'aide instituée à cet article pour l'acquisition initiale du véhicule.
+Une entreprise qui acquiert ou prend en location un véhicule et le donne en location dans le cadre d'un contrat d'une durée supérieure ou égale à deux ans ne peut bénéficier des aides prévues aux articles 1er et 4.
 
-Les concessionnaires et les agents de marques de véhicules ne bénéficient pas de l'aide instituée à l'article 1er pour l'acquisition ou la prise en location d'un véhicule neuf satisfaisant aux conditions définies à cet article qu'ils affectent à la démonstration. Toutefois, est éligible un véhicule affecté à la démonstration si sa cession ou sa location intervient dans un délai d'un an suivant la date de sa première immatriculation.
+Les concessionnaires et les agents de marques de véhicules ne peuvent bénéficier des aides prévues aux articles 1er et 4 pour l'acquisition ou la prise en location d'un véhicule qu'ils affectent à la démonstration. Toutefois, un véhicule affecté à la démonstration peut donner lieu au versement de ces aides s'il fait l'objet d'une cession ou d'une prise en location dans un délai d'un an suivant la date de sa première immatriculation.
