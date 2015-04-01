@@ -784,7 +784,6 @@
 - [Arrêté du 26 décembre 2007 (DEFH0762504A)](arrete-du-26-decembre-2007-defh0762504a)
 - [Arrêté du 26 décembre 2007 (DEFH0770225A)](arrete-du-26-decembre-2007-defh0770225a)
 - [Arrêté du 26 décembre 2007 (DEFH0771897A)](arrete-du-26-decembre-2007-defh0771897a)
-- [Arrêté du 26 décembre 2007 (DEVA0773416A)](arrete-du-26-decembre-2007-deva0773416a)
 - [Arrêté du 26 décembre 2007 (DEVN0769415A)](arrete-du-26-decembre-2007-devn0769415a)
 - [Arrêté du 26 décembre 2007 (ESRF0771698A)](arrete-du-26-decembre-2007-esrf0771698a)
 - [Arrêté du 26 décembre 2007 (IOCA0769827A)](arrete-du-26-decembre-2007-ioca0769827a)
