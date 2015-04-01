@@ -25,3 +25,5 @@ Paragraphe 2. Parmi les équipements sous pression, mentionnés au Paragraphe 1 
 - les générateurs de vapeur ;
 
 - appareils à couvercle amovible à fermeture rapide.
+
+La déclaration auprès du préfet s'effectue par l'intermédiaire du téléservice  https://lune.application.developpement-durable.gouv.fr.
