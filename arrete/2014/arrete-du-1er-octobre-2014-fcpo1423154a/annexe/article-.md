@@ -266,6 +266,12 @@ des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr/)
 <p align="center">Céreq</p>
 </td>
 </tr>
+<tr>
+<td>Enquête auprès de bénéficiaires d'un emploi d'avenir (EAv) et d'une population témoin - Vagues de réinterrogation (2, 3, 4 et 5)<br/>
+</td>
+<td align="center">Annuelle </td>
+<td align="center">DARES </td>
+</tr>
 </tbody>
 </table>
 
@@ -435,6 +441,11 @@ des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr/)
 <p align="center">DARES/Pôle emploi </p>
 </td>
 </tr>
+<tr>
+<td>Enquête de cheminement tous niveaux du système éducatif " Génération 2010 " 2e vague </td>
+<td align="center">Ponctuelle </td>
+<td align="center">CEREQ</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -563,8 +574,8 @@ Liste des producteurs
 <p align="left">Centre d'études et de recherches sur les qualifications </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche <br/>
-<br/>Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social </p>
+<p align="left">Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche </p>
+<p>Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social </p>
 </td>
 </tr>
 <tr>
@@ -608,8 +619,7 @@ Liste des producteurs
 </td>
 <td align="left" valign="top">
 <p align="left">Ministère des finances et des comptes publics</p>
-<p align="left">
-<br/>Ministère de l'économie, de l'industrie et du numérique<br/>
+<p>Ministère de l'économie, de l'industrie et du numérique<br/>
 </p>
 </td>
 </tr>

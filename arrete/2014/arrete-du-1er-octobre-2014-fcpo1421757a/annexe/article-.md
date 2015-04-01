@@ -1,10 +1,10 @@
 # Article 
 
-ANNEXE
+PROGRAMME D'ENQUÊTES STATISTIQUES AUPRÈS DES ENTREPRISES
 
-PROGRAMME D'ENQUÊTES STATISTIQUES AUPRÈS DES ENTREPRISES, DES EXPLOITATIONS AGRICOLES ET DES SERVICES PUBLICS POUR 2015
+ET DES EXPLOITATIONS AGRICOLES DES SERVICES PUBLICS POUR 2015
 
-L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr).
+L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêtes sont disponibles sur le site du CNIS ( http://www.cnis.fr/).
 
 1. Enquêtes d'intérêt général et obligatoires
 
@@ -53,7 +53,6 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -507,12 +506,20 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </td>
 </tr>
 <tr>
+<td>Enquête communautaire sur l'innovation (CIS-Community Innovation Survey) </td>
+<td>Biennale</td>
+<td>INSEE <br/>
+</td>
+</tr>
+<tr>
 <td colspan="3">(1) Collecte sur une période de six mois dans l'année.</td>
+</tr>
+<tr>
+<td colspan="3">(*) Voir liste des producteurs. </td>
 </tr>
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -544,7 +551,6 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -568,7 +574,6 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -614,7 +619,6 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -644,10 +648,30 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
+<p>Producteur </p>
 
-1.B. Enquête d'initiative régionale
+<table>
+<tbody>
+<tr>
+<th>SIGLE DU PRODUCTEUR <br/>
+</th>
+<th>INTITULÉ DU PRODUCTEUR <br/>
+</th>
+<th>MINISTÈRE OU MINISTÈRE DE TUTELLE <br/>le cas échéant <br/>
+</th>
+</tr>
+<tr>
+<td align="left">INSEE <br/>
+</td>
+<td align="left">Institut national de la statistique et des études économiques <br/>
+</td>
+<td align="left">Ministère des finances et des comptes publics <br/>Ministère de l'économie, de l'industrie et du numérique<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
+<p>1.B. Enquête d'initiative régionale</p>
 <div align="center">
 
 <table>
@@ -672,11 +696,7 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </table>
 
 </div>
-
-2. Enquêtes d'intérêt général
-
-2.A. Enquêtes d'initiative nationale
-
+<p>2. Enquêtes d'intérêt général<br/>2.A. Enquêtes d'initiative nationale</p>
 <div align="center">
 
 <table>
@@ -756,7 +776,6 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </tbody>
 </table>
 
-</div>
 <div align="center">
 
 <table>
@@ -786,9 +805,7 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </table>
 
 </div>
-
-2.B. Enquête d'initiative régionale
-
+<p>2.B. Enquête d'initiative régionale</p>
 <div align="center">
 
 <table>
@@ -813,9 +830,7 @@ L'avis d'opportunité, l'avis de conformité ainsi que le descriptif des enquêt
 </table>
 
 </div>
-
-Liste des producteurs
-
+<p>Liste des producteurs</p>
 <div align="center">
 
 <table>
@@ -893,5 +908,19 @@ Liste des producteurs
 </tr>
 </tbody>
 </table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
