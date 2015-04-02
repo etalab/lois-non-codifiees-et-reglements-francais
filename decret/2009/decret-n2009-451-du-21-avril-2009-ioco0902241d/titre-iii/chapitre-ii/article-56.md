@@ -1,5 +1,0 @@
-# Article 56
-
-Le haut-commissaire de la République en Nouvelle-Calédonie demande au déclarant de produire un certificat médical datant de moins de quinze jours délivré dans les conditions prévues à l'article 44 si les autorités locales compétentes en matière de santé, consultées par ses soins, ont signalé que le déclarant a été hospitalisé d'office ou à la demande d'un tiers dans un établissement de santé habilité conformément à la réglementation localement applicable ou a suivi ou suit un traitement dans un service ou secteur de psychiatrie.
-
-Dans le cas où le certificat médical prévu au premier alinéa établit que l'état de santé du déclarant est incompatible avec la détention d'une arme ou dans le cas où celui-ci est inscrit au                              fichier national des personnes interdites d'acquisition et de détention d'armes, le haut-commissaire de la République en Nouvelle-Calédonie ordonne le dessaisissement de l'arme ou des éléments d'armes dans les conditions prévues à l'article L. 2336-4 du code de la défense.

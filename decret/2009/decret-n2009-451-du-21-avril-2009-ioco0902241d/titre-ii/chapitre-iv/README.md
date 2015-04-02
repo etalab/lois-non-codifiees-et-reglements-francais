@@ -1,4 +1,0 @@
-# CHAPITRE IV : OBLIGATIONS DES COMMERCANTS EN ARMES  DES 5E ET 7E CATEGORIES
-
-- [Article 23](article-23.md)
-- [Article 24](article-24.md)

@@ -1,7 +1,0 @@
-# Article 53
-
-1° Lorsqu'elle est faite en vue du transfert vers un Etat membre de la Communauté européenne ou de l'exportation vers un pays tiers, l'acquisition des armes des paragraphes 1 et 2 du I de la 7e catégorie et des munitions, éléments de munition du II de la 7e catégorie n'est pas subordonnée à la présentation au vendeur d'un permis de chasser délivré selon la réglementation localement applicable ou de toute pièce administrative qui en tient lieu, régulièrement validée selon la réglementation localement applicable, revêtus de la validation de l'année en cours ou de l'année précédente, d'une licence d'une fédération sportive ayant reçu délégation, selon la réglementation localement applicable, pour la pratique du tir délivrée dans les conditions du 4° du II de l'article 43.
-
-2° L'acquisition des armes du paragraphe 3 du I de la 7e catégorie, ainsi que l'acquisition des armes et des munitions du II de la 7e catégorie, n'est pas subordonnée à la présentation de l'un des titres prévus au 1°.
-
-3° L'acquisition des armes à percussion annulaire du paragraphe 1 du I de la 7e catégorie ou des éléments de ces armes ou des munitions et des éléments de munitions de ces armes n'est pas subordonnée à la présentation de l'un des titres mentionnés au 1° si elle est faite par une association agréée pour la pratique du tir sportif ou par un exploitant de tir forain autorisé à exercer son activité conformément à la réglementation localement applicable.

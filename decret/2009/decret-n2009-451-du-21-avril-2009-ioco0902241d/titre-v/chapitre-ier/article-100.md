@@ -1,3 +1,0 @@
-# Article 100
-
-Est punie de la peine d'amende prévue pour les contraventions de la 5e classe toute personne qui cède une arme ou un élément d'arme du I de la 5e catégorie ou des paragraphes 1 et 2 du I de la 7e catégorie, en omettant de se faire présenter préalablement par l'acquéreur un permis de chasser revêtu de la validation de l'année en cours ou de l'année précédente, ou une licence de tir d'une fédération sportive ayant reçu délégation, selon la réglementation localement applicable, pour la pratique du tir en cours de validité, ou, à défaut de l'un de ces titres, du certificat médical mentionné à l'article 54.

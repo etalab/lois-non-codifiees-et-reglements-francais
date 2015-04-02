@@ -1,0 +1,49 @@
+# Article 187-1
+
+<div align="left">Les articles 4 à 6,49,57 à 61,74 à 89,96,110 et 111 du présent décret dans sa rédaction issue du décret n° 2014-1253 du 27 octobre 2014relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples) sont applicables en Polynésie française et en Nouvelle-Calédonie, sous réserve des adaptations suivantes : <br/>
+<br/>1° Pour l'application des dispositions susmentionnées en Polynésie française : <br/>
+<br/>a) Les références au préfet de département et au préfet sont remplacées par la référence au haut-commissaire de la République en Polynésie française ; <br/>
+<br/>b) L'article 49 est ainsi rédigé : <br/>
+<br/>“ Art. 49.-Tout propriétaire ou détenteur, à la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie, d'armes ou d'éléments d'arme soumis à déclaration doit en faire la déclaration, dans les conditions prévues à l'article R. 312-55 du code de la sécurité intérieure, auprès du haut-commissaire de la République en Polynésie française dans les six mois à compter de l'entrée en vigueur de ce décret. <br/>
+<br/>“ Tout propriétaire ou détenteur, à la date d'entrée en vigueur du décret mentionné à l'alinéa précédent, d'armes ou d'éléments d'arme soumis à enregistrement doit procéder à cet enregistrement dans les conditions prévues à l'article R. 312-55 du code de la sécurité intérieure auprès du haut-commissaire de la République en Polynésie française dans les six mois à compter de l'entrée en vigueur de ce décret. <br/>
+<br/>“ Toutefois, les propriétaires ou détenteurs d'armes ou d'éléments d'arme classés au 1° de la catégorie D à la date d'entrée en vigueur du décret mentionné au premier alinéa, qui ont procédé à la déclaration de ces armes et éléments d'arme auprès du haut-commissaire de la République en Polynésie française, en application du décret n° 2009-450 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Polynésie française, ne sont pas soumis à l'obligation d'enregistrement. ” ; <br/>
+<br/>c) A l'article 57, le premier alinéa est supprimé ; <br/>
+<br/>d) Aux articles 58 et 60, les mots : “ au 6 septembre 2013 ” sont remplacés par les mots : “ à l'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie ” ; <br/>
+<br/>e) Au V de l'article 75, les mots : “ conformément aux prescriptions des articles L. 251 et suivants du code de commerce susvisé ” sont remplacés par les mots : “ conformément aux dispositions applicables localement ” ; <br/>
+<br/>f) L'article 81 est ainsi modifié :<br/>
+<p>
+<br/>-au c, les mots : “ ou des articles suivants du code du travail : articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L. 8114-2, L. 8224-1 à L. 8224-4 ; ” sont remplacés par les mots : “ aux dispositions du droit du travail localement applicables en matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du travail ” ;<br/>
+<br/>-il est ajouté un alinéa ainsi rédigé : <br/>
+</p>
+<p>
+<br/>“ Le haut-commissaire de la République en Polynésie française est informé des décisions de retrait d'autorisation prises par le ministre de la défense. ” ; <br/>
+<br/>g) A l'article 85, il est ajouté un alinéa ainsi rédigé : <br/>
+<br/>“ Une copie de ce compte rendu est adressée au haut-commissaire de la République en Polynésie française. ” ; <br/>
+<br/>2° Pour l'application des dispositions susmentionnées en Nouvelle-Calédonie : <br/>
+<br/>a) Les références au préfet de département et au préfet sont remplacées par la référence au haut-commissaire de la République en Nouvelle-Calédonie ; <br/>
+<br/>b) L'article 49 est ainsi rédigé : <br/>
+<br/>“ Art. 49.-Tout propriétaire ou détenteur, à la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie, d'armes ou d'éléments d'arme soumis à déclaration, dans les conditions prévues à l'article R. 312-55 du code de la sécurité intérieure, auprès du haut-commissaire de la République en Polynésie française dans les six mois à compter de l'entrée en vigueur de ce décret. <br/>
+<br/>Tout propriétaire ou détenteur, à la date d'entrée en vigueur du décret mentionné à l'alinéa précédent d'armes ou d'éléments d'arme soumis à enregistrement doit procéder à cet enregistrement, dans les conditions prévues à l'article R. 312-55 du code de la sécurité intérieure, auprès du haut-commissaire de la République en Polynésie française dans les six mois à compter de l'entrée en vigueur de ce décret. <br/>
+<br/>“ Toutefois, les propriétaires ou détenteurs d'armes ou d'éléments d'arme classés au 1° de la catégorie D à la date d'entrée en vigueur du décret mentionné au premier alinéa, qui ont procédé à la déclaration de ces armes et éléments d'armes auprès du haut-commissaire de la République en Nouvelle-Calédonie, en application du décret n° 2009-450 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie, ne sont pas soumis à l'obligation d'enregistrement. ” <br/>
+<br/>c) A l'article 57, le premier alinéa est supprimé ; <br/>
+<br/>d) Aux articles 58 et 60, les mots : “ au 6 septembre 2013 ” sont remplacés par les mots : “ à l'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie ” ; <br/>
+<br/>e) Il est inséré un article 59-1 ainsi rédigé : <br/>
+<br/>“ Art. 59-1.-Les personnes qui détiennent plus de huit armes mentionnées aux 1°, 2°, 4° et 9° de la catégorie B à l'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie disposent d'un délai de six mois pour se mettre en conformité avec les dispositions du premier alinéa du 2° de l'article R. 312-40 du code de la sécurité intérieure. <br/>
+<br/>“ Les personnes qui détiennent plus de quatre armes de la catégorie C et du 1° de la catégorie D à la date de l'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie disposent d'un délai de six mois pour se mettre en conformité avec les dispositions de l'article R. 312-52 du code de la sécurité intérieure. <br/>
+<br/>“ Disposent d'un délai de six mois pour se mettre en conformité avec les dispositions du 3° de l'article R. 312-47 et du 36° de l'article R. 345-4 du code de la sécurité intérieure, les personnes qui détiennent à la date d'entrée en vigueur du décret n° 2015-130 du 5 février 2015 modifiant certaines dispositions du code de la sécurité intérieure (partie réglementaire) relatives aux armes et munitions en Polynésie française et en Nouvelle-Calédonie : <br/>
+<br/>“-plus de 1 000 munitions et éléments de munitions quel que soit le nombre d'armes détenues de catégories B, C et du 1° de la catégorie D ; <br/>
+<br/>“-plus de 150 munitions du c du 1° de la catégorie D à projectiles multiples, dont le diamètre est supérieur à 5 mm, ou à projectile unique. <br/>
+<br/>“ Les personnes qui détiennent des armes, éléments d'armes et munitions au-delà des quotas fixés aux alinéas précédents, s'en dessaisissent selon l'une des modalités prévues à l'article R. 312-74 du code de la sécurité intérieure. <br/>
+<br/>“ A l'expiration d'un délai de six mois, lorsque les détenteurs d'armes, d'éléments d'armes et de munitions ne s'en sont pas dessaisis, le haut-commissaire de la République en Nouvelle-Calédonie ordonne leur remise selon les modalités prévues à l'article L. 312-12 du code de la sécurité intérieure, sans préjudice des sanctions pénales prévues à l'article R. 317-4 et au 54° de l'article R. 345-4 du code de la sécurité intérieure. ” ; <br/>
+<br/>f) Au V de l'article 75, les mots : “ conformément aux prescriptions des articles L. 251 et suivants du code de commerce susvisé ” sont remplacés par les mots : “ conformément aux dispositions applicables localement ” ; <br/>
+<br/>g) L'article 81 est ainsi modifié :<br/>
+</p>
+<p>
+<br/>-au c, les mots : “ ou des articles suivants du code du travail : articles L. 4721-3, L. 4721-7, L. 4731-5, L. 4732-1 à L. 4732-4, L. 4741-1 et L. 4741-2, L. 4741-5 et L. 4741-6, L. 4741-9 à L. 4741-14, L. 4742-1, L. 4744-1 à L. 4744-6, L. 4745-1, L. 8114-1 et L. 8114-2, L. 8224-1 à L. 8224-4 ; ” sont remplacés par les mots : “ aux dispositions du droit du travail localement applicables en matière d'hygiène et de sécurité, de médecine du travail, de travail dissimulé et de contrôle du travail ” ;<br/>
+<br/>-il est ajouté un alinéa ainsi rédigé : <br/>
+</p>
+<p>
+<br/>“ Le haut-commissaire de la République en Nouvelle-Calédonie est informé des décisions de retrait d'autorisation prises par le ministre de la défense. ” ; <br/>
+<br/>h) A l'article 85, il est ajouté un alinéa ainsi rédigé : <br/>
+<br/>“ Une copie de ce compte rendu est adressée au haut-commissaire de la République en Nouvelle-Calédonie. ”</p>
+</div>
