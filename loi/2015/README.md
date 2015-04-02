@@ -15,3 +15,4 @@
 - [LOI n°2015-29 du 16 janvier 2015 (INTX1412841L)](loi-n2015-29-du-16-janvier-2015-intx1412841l)
 - [LOI n°2015-292 du 16 mars 2015 (RDFX1423975L)](loi-n2015-292-du-16-mars-2015-rdfx1423975l)
 - [LOI n°2015-300 du 18 mars 2015 (AFSX1331973L)](loi-n2015-300-du-18-mars-2015-afsx1331973l)
+- [LOI n°2015-366 du 31 mars 2015 (RDFX1303221L)](loi-n2015-366-du-31-mars-2015-rdfx1303221l)
