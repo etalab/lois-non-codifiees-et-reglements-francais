@@ -1,5 +1,9 @@
 # Article 8
 
-Il est institué une commission d'évaluation chargée d'émettre des avis ou des propositions dans les conditions prévues aux articles 9, 14, 16, 18 et 19 ci-dessous.
+Il est institué auprès du ministre chargé de la culture une commission d'évaluation des professeurs des écoles nationales supérieures d'art consultée dans les cas prévus aux articles 7, 9, 14, 16, 18 et 19.
 
-Cette commission est composée du   directeur général de la création artistique ou de son représentant, qui la préside, ainsi que de quatre représentants titulaires et quatre représentants suppléants élus pour trois ans parmi les professeurs des écoles nationales supérieures d'art, et de deux personnalités qualifiées titulaires et de deux personnalités qualifiées suppléantes, nommées par arrêté pour la même durée par le ministre chargé de la culture. Un arrêté de celui-ci fixe les règles de fonctionnement de la commission.
+La commission d'évaluation est présidée par le directeur général de la création artistique ou son représentant et comprend quatre représentants titulaires et quatre représentants suppléants élus parmi les professeurs des écoles nationales supérieures d'art ainsi que deux personnalités qualifiées titulaires et deux personnalités suppléantes, choisies dans le domaine de l'enseignement supérieur et nommées par arrêté du ministre chargé de la culture.
+
+La durée du mandat des membres, élus et désignés, est de quatre ans.
+
+Un arrêté du ministre chargé de la culture fixe les règles de fonctionnement de la commission d'évaluation des professeurs des écoles nationales supérieures d'art.
