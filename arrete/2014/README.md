@@ -2760,7 +2760,6 @@
 - [ARRÊTÉ du 28 juillet 2014 (MENH1412832A)](arrete-du-28-juillet-2014-menh1412832a)
 - [Arrêté du 28 juin 2013 (DEVA1316159A)](arrete-du-28-juin-2013-deva1316159a)
 - [Arrêté du 28 mars 2014 (AFSS1407661A)](arrete-du-28-mars-2014-afss1407661a)
-- [Arrêté du 28 mars 2014 (AGRS1407732A)](arrete-du-28-mars-2014-agrs1407732a)
 - [Arrêté du 28 mars 2014 (BUDE1407606A)](arrete-du-28-mars-2014-bude1407606a)
 - [Arrêté du 28 mars 2014 (DEVD1404828A)](arrete-du-28-mars-2014-devd1404828a)
 - [Arrêté du 28 mars 2014 (EFIU1401571A)](arrete-du-28-mars-2014-efiu1401571a)
