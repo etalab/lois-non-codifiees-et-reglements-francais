@@ -1,3 +1,3 @@
 # Article 2
 
-Les opérateurs de jeux et de paris en ligne titulaires de l'agrément mentionné à l'article 21 de la loi du 12 mai 2010 susvisée doivent faire figurer le message prévu à l'article 1er sur les pages d'accueil de leurs sites tels que mentionnés à l'article 24 de cette même loi.
+Les opérateurs de jeux et de paris en ligne titulaires de l'agrément mentionné à l'article 21 de la loi du 12 mai 2010 susvisée doivent faire figurer le message prévu à l'article 1er sur les pages d'accueil de leurs sites tels que mentionnés à l'article 24 de cette même loi. La personne morale titulaire de droits exclusifs en matière d'offre publique de jeux en ligne sur le fondement de l'article 136 de la loi du 31 mai 1933 portant fixation du budget général de l'exercice 1933, est également tenue de faire figurer le message prévu à l'article premier pour son offre publique de jeux en ligne.
