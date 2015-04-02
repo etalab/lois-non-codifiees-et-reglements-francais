@@ -1069,7 +1069,6 @@
 - [ARRÊTÉ du 28 janvier 2015 (AGRS1502571A)](arrete-du-28-janvier-2015-agrs1502571a)
 - [ARRÊTÉ du 28 janvier 2015 (AGRT1429208A)](arrete-du-28-janvier-2015-agrt1429208a)
 - [ARRÊTÉ du 28 janvier 2015 (DEVM1500878A)](arrete-du-28-janvier-2015-devm1500878a)
-- [ARRÊTÉ du 28 janvier 2015 (DEVM1500891A)](arrete-du-28-janvier-2015-devm1500891a)
 - [ARRÊTÉ du 28 janvier 2015 (DEVT1500039A)](arrete-du-28-janvier-2015-devt1500039a)
 - [ARRÊTÉ du 28 janvier 2015 (DEVT1500043A)](arrete-du-28-janvier-2015-devt1500043a)
 - [ARRÊTÉ du 28 janvier 2015 (FCPB1429604A)](arrete-du-28-janvier-2015-fcpb1429604a)
