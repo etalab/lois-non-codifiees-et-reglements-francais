@@ -412,6 +412,10 @@ Djibouti :
 
 Paris-Djibouti ;
 
+Dominique :
+
+Paris-Marigot.
+
 Egypte :
 
 Paris-Le Caire ;
@@ -498,6 +502,8 @@ Paris-San Diego (Californie) ;
 
 Paris-San Francisco (Californie) ;
 
+Paris-San Juan (Porto Rico) ;
+
 Paris-Seattle (Washington) ;
 
 Paris-Tampa (Floride) ;
@@ -517,6 +523,10 @@ Paris-Libreville ;
 Ghana :
 
 Paris-Accra ;
+
+Grenade :
+
+Paris-Saint-Georges.
 
 Guatémala :
 
@@ -965,6 +975,10 @@ Paris-Kigali ;
 Saint-Martin :
 
 Paris-Phillipsburg ;
+
+Sainte-Lucie :
+
+Paris-Castries.
 
 Salvador :
 
