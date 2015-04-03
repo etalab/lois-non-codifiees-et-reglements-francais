@@ -4,7 +4,7 @@ DÉTERMINATION DU NIVEAU FORFAITAIRE
 
 DE POLLUTION THÉORIQUE PRODUITE
 
-Le tableau n° 2 suivant indique pour chaque activité polluante d'un établissement, identifiée par un code d'activité, la définition de la grandeur caractérisant l'activité. Pour chaque élément constitutif de la pollution, la pollution théorique produite est égale au produit du nombre d'unités de la grandeur caractérisant l'activité par le niveau forfaitaire de pollution produite par unité de cette même grandeur. Elle est, selon les cas, exprimée par mois ou directement par année.
+Le tableau n° 2 suivant indique pour chaque activité polluante d'un établissement, identifiée par un code d'activité, la définition de la grandeur caractérisant l'activité. Pour chaque élément constitutif de la pollution mentionné dans le tableau suivant, la pollution théorique produite est égale au produit du nombre d'unités de la grandeur caractérisant l'activité par le niveau forfaitaire de pollution produite par unité de cette même grandeur. Elle est, selon les cas, exprimée par mois ou directement par année.
 
 Les valeurs des niveaux forfaitaires de pollution théorique produite par unité de grandeur caractérisant l'activité sont exprimées :
 
@@ -12,7 +12,7 @@ Les valeurs des niveaux forfaitaires de pollution théorique produite par unité
 
 - en kiloéquitox pour la toxicité aiguë ;
 
-- en siemens / cm × m ³ pour les sels dissous ;
+- en siemens/cm × m³ pour les sels dissous ;
 
 - en mégathermie pour la chaleur.
 
@@ -22,7 +22,7 @@ Pour déterminer la quantité de pollution rejetée mensuellement ou annuellemen
 
 En l'absence d'activité polluante de l'établissement au cours d'un mois donné, la grandeur caractéristique "nombre d'emplois" est considérée comme nulle. Le cas échéant, elle est pondérée en fonction du nombre de semaines de fermeture au cours d'un même mois ;
 
-- lorsque la grandeur caractérisant l'activité est "le fil", "le disque, "le châssis", "la débiteuse à disque" ou "le polissoir", celle-ci est égale au nombre d'appareils présents dans l'établissement.
+- lorsque la grandeur caractérisant l'activité est "le fil", "le disque", "le châssis", "la débiteuse à disque" ou "le polissoir", celle-ci est égale au nombre d'appareils présents dans l'établissement.
 
 TABLEAU N° 2
 
@@ -121,11 +121,11 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>490 / ED-</p>
+<p>490/ED-</p>
 </td>
 <td valign="top"/>
 <td valign="top">
-<p>87, 5 / ED-</p>
+<p>87,5/ED-</p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -766,7 +766,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>3, 5 </p>
+<p>3,5 </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -1447,7 +1447,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>0,3 </p>
 </td>
 <td valign="top">
-<p>4, 8 </p>
+<p>4,8 </p>
 </td>
 <td valign="top">
 <p>3 </p>
@@ -2969,7 +2969,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>Utilisation du cuivre et alliage dans le cadre du code D710 </p>
 </td>
 <td valign="top">
-<p>Tonne de cuivre mis en œ uvre. </p>
+<p>Tonne de cuivre mis en œuvre. </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -2996,7 +2996,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>Utilisation du cuivre et alliage dans le cadre du code D710 </p>
 </td>
 <td valign="top">
-<p>Tonne de zinc mis en œ uvre. </p>
+<p>Tonne de zinc mis en œuvre. </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -3023,7 +3023,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>Utilisation du cuivre et alliage dans le cadre du code D710 </p>
 </td>
 <td valign="top">
-<p>Tonne de plomb mis en œ uvre. </p>
+<p>Tonne de plomb mis en œuvre. </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -4376,7 +4376,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>Emploi. </p>
 </td>
 <td valign="top">
-<p>18,1 </p>
+<p>18, 1 </p>
 </td>
 <td valign="top">
 <p>41 </p>
@@ -4553,7 +4553,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>1,6 </p>
 </td>
 <td valign="top">
-<p>2, 2 </p>
+<p>2,2 </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -6726,7 +6726,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>On considère que le nombre de jours d'activité est égal à : <br/>- 100 jours / an pour les rejets de l'eau de coupe ; <br/>- 200 jours / an pour les rejets de saumure fermentée. <br/>Par tonne de choux mis en  uvre, on retient : <br/>- 120 litres de coupe ; <br/>- 220 litres de saumure fermentée.<br/>A calculer par mois. </p>
+<p>On considère que le nombre de jours d'activité est égal à : <br/>- 100 jours/an pour les rejets de l'eau de coupe ; <br/>- 200 jours/an pour les rejets de saumure fermentée. <br/>Par tonne de choux mis en  uvre, on retient : <br/>- 120 litres de coupe ; <br/>- 220 litres de saumure fermentée.<br/>A calculer par mois. </p>
 </td>
 </tr>
 <tr>
@@ -6784,7 +6784,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>2, 4 </p>
+<p>2,4 </p>
 </td>
 <td valign="top"/>
 <td valign="top">
@@ -7599,7 +7599,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>12 </p>
 </td>
 <td valign="top">
-<p>2,2 </p>
+<p>2, 2 </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -8357,7 +8357,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <td valign="top"/>
 <td valign="top"/>
 <td valign="top">
-<p>4, 5 </p>
+<p>4,5 </p>
 </td>
 <td valign="top"/>
 <td valign="top">
@@ -9054,7 +9054,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>Tonne de poisson entrant en criée. </p>
 </td>
 <td valign="top">
-<p>2,2 </p>
+<p>2, 2 </p>
 </td>
 <td valign="top">
 <p>5,5 </p>
@@ -9249,7 +9249,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>0,4 </p>
 </td>
 <td valign="top">
-<p>3, 6 </p>
+<p>3,6 </p>
 </td>
 <td valign="top"/>
 <td valign="top">
@@ -9917,7 +9917,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>Tonne de laine produite carbonisée séchée à 17 % d'humidité. </p>
 </td>
 <td valign="top">
-<p>4,3 </p>
+<p>4, 3 </p>
 </td>
 <td valign="top">
 <p>19 </p>
@@ -10023,7 +10023,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 </td>
 <td valign="top"/>
 <td valign="top">
-<p>6, 5 </p>
+<p>6,5 </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>
@@ -10175,7 +10175,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 <p>80 </p>
 </td>
 <td valign="top">
-<p>6, 5 </p>
+<p>6,5 </p>
 </td>
 <td valign="top">
 <p>0,6 </p>
@@ -12234,7 +12234,7 @@ Détermination du niveau forfaitaire de pollution théorique produite
 </td>
 <td valign="top"/>
 <td valign="top">
-<p>0,04 </p>
+<p>0, 04 </p>
 </td>
 <td valign="top"/>
 <td valign="top"/>

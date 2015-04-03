@@ -22,7 +22,11 @@ La campagne générale de mesures comprend la réalisation simultanée sur chaqu
 
 -d'un prélèvement à l'aide d'un échantillonneur automatique asservi à la mesure du débit permettant la constitution d'échantillons moyens représentatifs des effluents pendant la période de mesure.
 
-Ces opérations sont effectuées conformément aux normes en vigueur et aux recommandations des constructeurs des matériels utilisés, et le cas échéant aux prescriptions techniques établies par l'agence de l'eau. Les analyses sont réalisées selon les méthodes définies par l'annexe II du présent arrêté.
+Ces opérations sont effectuées conformément aux normes en vigueur. Les analyses sont réalisées selon les méthodes définies par l'annexe II du présent arrêté. Elles s'appuient sur :
+
+- le fascicule de documentation FD T 90-523-2, "qualité de l'eau- guide de prélèvement pour le suivi de qualité des eaux dans l'environnement-partie 2 : prélèvement d'eau résiduaire" ;
+
+- le guide technique opérationnel établi par AQUAREF, relatif aux pratiques d'échantillonnage et de conditionnement en vue de la recherche de micropolluants prioritaires et émergents en assainissement collectif et industriel.
 
 Pour chaque élément constitutif de la pollution, la quantité rejetée est égale au produit de la concentration de l'échantillon constitué par le volume d'eau mesuré pendant la période considérée.
 

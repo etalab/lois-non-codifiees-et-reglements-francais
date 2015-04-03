@@ -90,7 +90,7 @@ Détermination du coefficient d'élimination de la pollution
 <p align="center">P</p>
 </td>
 <td width="37">
-<p align="center">MI et AOX</p>
+<p align="center">MI, AOX et SDE </p>
 </td>
 <td>
 <p align="center">Métox<br/>et sels dissous</p>
@@ -382,7 +382,7 @@ Pour l'application du I de l'article R. 213-48-9 du code de l'environnement, la 
 
 -l'établissement peut proposer à l'Agence de l'eau de constituer des échantillons sur une période supérieure à vingt-quatre heures et inférieure ou égale à un mois sur présentation d'une étude démontrant la faisabilité de l'échantillonnage et la représentativité des résultats obtenus ;
 
--l'établissement prend en charge la réalisation des mesures et des analyses ainsi que leur validation par un organisme de son choix, en application des dispositions du point 3 de l'annexe III.
+-l'établissement prend en charge la réalisation des mesures, des prélèvements et des analyses ainsi que leur validation par le biais d'un diagnostic effectué, en application des dispositions du point 3 de l'annexe III.
 
 TABLEAU N° 5
 
@@ -391,232 +391,299 @@ Détermination de la fréquence de constitution d'échantillons journaliers
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="170">
+<td rowspan="2" width="174">
 <p align="center">ÉLÉMENT CONSTITUTIF <br/>de la pollution</p>
 </td>
-<td colspan="5" width="469">
+<td colspan="6" width="538">
 <p align="center">FRÉQUENCE DE CONSTITUTION D'ÉCHANTILLONS JOURNALIERS <br/>en fonction du niveau théorique de pollution (NTP) <br/>déterminé en application de l'article R. 213-48-6</p>
 </td>
 </tr>
 <tr>
-<td width="78">
+<td width="94">
+<p align="center">1 fois<br/>par an</p>
+</td>
+<td width="88">
 <p align="center">1 fois par<br/>trimestre</p>
 </td>
-<td width="105">
-<p align="center">1 fois par mois</p>
+<td width="86">
+<p align="center">1 fois<br/>par mois</p>
 </td>
-<td width="106">
-<p align="center">1 fois par semaine</p>
+<td width="87">
+<p align="center">1 fois<br/>par semaine</p>
 </td>
-<td width="106">
+<td width="87">
 <p align="center">2 fois par<br/>semaine</p>
 </td>
-<td>
+<td width="86">
 <p align="center">1 fois par jour</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Matières en suspension (t / an). </p>
+<td valign="top" width="174">
+<p>Matières en suspension (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 100</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">100 ≤ NTP &lt; 600</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">600 ≤ NTP &lt; 1 000</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">1 000 ≤ NTP &lt; 3 000</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">NTP ≥ 3 000</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Demande chimique en oxygène (t / an). </p>
+<td valign="top" width="174">
+<p>Demande chimique en oxygène (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 200</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">200 ≤ NTP &lt; 600</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">600 ≤ NTP &lt; 1 000</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">1 000 ≤ NTP &lt; 3 000</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">NTP ≥ 3 000</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Demande biochimique en oxygène en cinq jours (t / an). </p>
+<td valign="top" width="174">
+<p>Demande biochimique en oxygène en cinq jours (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 300</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">300 ≤ NTP &lt; 1 000</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">1 000 ≤ NTP &lt; 2 000</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≤ 2 000</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Azote réduit (t / an). </p>
+<td valign="top" width="174">
+<p>Azote réduit (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 40</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">40 ≤ NTP &lt; 100</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">100 ≤ NTP &lt; 200</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≥ 200</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Azote oxydé (nitrites et nitrates) (t / an). </p>
+<td valign="top" width="174">
+<p>Azote oxydé (nitrites et nitrates) (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 40</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">40 ≤ NTP &lt; 100</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">100 ≤ NTP &lt; 200</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≥ 200</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Phosphore total, organique ou minéral (t / an). </p>
+<td valign="top" width="174">
+<p>Phosphore total, organique ou minéral (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 10</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">10 ≤ NTP &lt; 50</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">50 ≤ NTP &lt; 100</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≥ 100</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Toxicité aiguë (téq / an). </p>
+<td valign="top" width="174">
+<p>Toxicité aiguë (téq/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 10</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">10 ≤ NTP &lt; 50</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">50 ≤ NTP &lt; 100</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≥ 100</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Métox (t / an). </p>
+<td valign="top" width="174">
+<p>Métox (t/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 10</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">10 ≤ NTP &lt; 50</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">50 ≤ NTP &lt; 100</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≥ 100</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Composés halogénés adsorbables sur charbon actif (t / an). </p>
+<td valign="top" width="174">
+<p>Substances dangereuses pour l'environnement (SDE) (kg/an)</p>
 </td>
-<td width="78">
+<td valign="top" width="94">
+<p align="center">NTP &lt; 360</p>
+</td>
+<td valign="top" width="88">
+<p align="center">NTP≥ 360</p>
+</td>
+<td valign="top" width="86">
+<br/>
+</td>
+<td valign="top" width="87">
+<br/>
+</td>
+<td valign="top" width="87">
+<br/>
+</td>
+<td valign="top" width="86">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="174">
+<p>Composés halogénés adsorbables sur charbon actif (t/an). </p>
+</td>
+<td valign="top" width="94">
+<br/>
+</td>
+<td valign="top" width="88">
 <p align="center">NTP &lt; 2</p>
 </td>
-<td width="105">
+<td valign="top" width="86">
 <p align="center">2 ≤ NTP &lt; 10</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">10 ≤ NTP &lt; 20</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">NTP ≥ 20</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 <tr>
-<td width="170">
-<p>Sels dissous (Mm ³ × S / cm / an). </p>
+<td valign="top" width="174">
+<p align="left">Sels dissous (Mm³ × S/cm/an). </p>
 </td>
-<td width="78">
+<td valign="top" width="94">
 <p align="center">/</p>
 </td>
-<td width="105">
+<td valign="top" width="88">
+<br/>
+</td>
+<td valign="top" width="86">
 <p align="center">0, 1 ≤ NTP &lt; 1</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">1 ≤ NTP</p>
 </td>
-<td width="106">
+<td valign="top" width="87">
 <p align="center">/</p>
 </td>
-<td>
+<td valign="top" width="86">
 <p align="center">/</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+
+Pour l'élément constitutif de pollution SDE, s'il est démontré,
+
+<div align="left">- à l'appui de résultats de mesures représentatives de l'activité polluante du redevable, que les concentrations analytiques d'une ou plusieurs substances composant le paramètre sont inférieure (s) au (x) seuil (s) de quantification défini (s) dans l'avis en vigueur pris en application de l'arrêté du 27 octobre 2011 portant les modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau ;</div>
+<div align="left">- ou à l'appui d'études représentatives de l'activité de l'établissement, que la substance n'est pas caractéristique des rejets de l'établissement,</div>
+<div align="left">cette ou ces substances, en accord avec l'agence de l'eau, seront exclues du suivi analytique durant cinq années. A l'issue de cette période, une détermination de l'ensemble des substances composant l'élément constitutif de pollution SDE devra être réalisée pour ajuster, si nécessaire, le programme de mesure.</div>
+<div align="left">En cas de changement notable d'activité ou de l'autorisation d'exploiter au titre de la réglementation relative aux installations classées pour la protection de l'environnement visées à l'article L 511-1 du code de l'environnement, une détermination de l'ensemble des substances composant l'élément constitutif de pollution SDE devra être réalisée dans l'année qui suit le changement. </div>
 
 -les concentrations des échantillons en éléments constitutifs de la pollution sont déterminées soit par analyse de ces éléments selon les méthodes mentionnées à l'annexe II du présent arrêté, soit par analyse d'éléments de substitution et application de règles de corrélation en application du point 2 de l'annexe III du présent arrêté ;
 
@@ -635,521 +702,557 @@ Détermination de la fréquence de constitution d'échantillons journaliers
 -en l'absence de résultats de mesures validés ou de transmission de ces résultats à l'Agence de l'eau, sans préjudice des dispositions transitoires définies au point b ci-après et sous réserve de la transmission d'éléments d'appréciation sur le fonctionnement de l'ouvrage de dépollution pendant l'année considérée tels que la consommation d'énergie, la consommation de réactifs et la production de boues, le tableau n° 6 ci-dessous indique la valeur forfaitaire du coefficient d'élimination de la pollution pour chaque élément constitutif de la pollution, selon le procédé de dépollution et en fonction des caractéristiques générales de fonctionnement du dispositif de dépollution.
 
 TABLEAU N° 6
-
 Détermination de la valeur forfaitaire du coefficient d'élimination de la pollution
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="171">
+<td rowspan="2" width="172">
 <p align="center">DESCRIPTION DU DISPOSITIF <br/>d'épuration</p>
 </td>
-<td colspan="10" width="464">
+<td colspan="11" width="540">
 <p align="center">VALEUR FORFAITAIRE DU COEFFICIENT D'ÉLIMINATION <br/>de la pollution pour chacun des éléments constitutifs de la redevance</p>
 </td>
 </tr>
 <tr>
-<td width="49">
+<td width="47">
 <p align="center">MES</p>
 </td>
-<td width="51">
+<td width="47">
 <p align="center">DBO5</p>
 </td>
-<td width="42">
+<td width="47">
 <p align="center">DCO</p>
 </td>
-<td width="45">
+<td width="47">
 <p align="center">MI</p>
 </td>
-<td width="46">
+<td width="47">
 <p align="center">NR</p>
 </td>
-<td width="45">
+<td width="47">
 <p align="center">NO</p>
 </td>
-<td width="41">
+<td width="47">
 <p align="center">P</p>
 </td>
-<td width="41">
+<td width="47">
 <p align="center">AOX</p>
 </td>
-<td>
+<td width="47">
+<p align="center">SDE</p>
+</td>
+<td width="47">
 <p align="center">Sels dissous</p>
 </td>
-<td>
+<td width="47">
 <p align="center">Métox</p>
 </td>
 </tr>
 <tr>
-<td width="171">
-<p>Bassin de décantation sans réactifs. </p>
+<td valign="top" width="172">
+<p align="left">Bassin de décantation sans réactifs. </p>
 </td>
-<td width="49">
-<p align="center">0, 50</p>
+<td valign="top" width="47">
+<p align="center">0,50</p>
 </td>
-<td width="51">
-<p align="center">0, 20</p>
+<td valign="top" width="47">
+<p align="center">0,20</p>
 </td>
-<td width="42">
-<p align="center">0, 15</p>
+<td valign="top" width="47">
+<p align="center">0,15</p>
 </td>
-<td width="45">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td width="46">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td width="45">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td width="41">
-<p align="center">0, 10</p>
+<td valign="top" width="47">
+<p align="center">0,10</p>
 </td>
-<td width="41">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-</tr>
-<tr>
-<td width="171">
-<p>Unité de traitement physico-chimique, hors détoxication. </p>
-</td>
-<td width="49">
-<p align="center">0, 7</p>
-</td>
-<td width="51">
-<p align="center">0, 45</p>
-</td>
-<td width="42">
-<p align="center">0, 35</p>
-</td>
-<td width="45">
-<p align="center">0, 2</p>
-</td>
-<td width="46">
-<p align="center">0</p>
-</td>
-<td width="45">
-<p align="center">0</p>
-</td>
-<td width="41">
-<p align="center">0, 8</p>
-</td>
-<td width="41">
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0, 5</p>
-</td>
-</tr>
-<tr>
-<td width="171">
-<p>Unité de tamisage. </p>
-</td>
-<td width="49">
-<p align="center">0, 6</p>
-</td>
-<td width="51">
-<p align="center">0, 4</p>
-</td>
-<td width="42">
-<p align="center">0, 4</p>
-</td>
-<td width="45">
-<p align="center">0, 2</p>
-</td>
-<td width="46">
-<p align="center">0, 1</p>
-</td>
-<td width="45">
-<p align="center">0</p>
-</td>
-<td width="41">
-<p align="center">0, 25</p>
-</td>
-<td width="41">
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0</p>
-</td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
 </tr>
 <tr>
-<td width="171">
-<p>Unité de traitement biologique assurant ni la nitrification ni la déphosphatation. </p>
+<td valign="top" width="172">
+<p align="left">Unité de traitement physico-chimique, hors détoxication. </p>
 </td>
-<td width="49">
-<p align="center">0, 7</p>
+<td valign="top" width="47">
+<p align="center">0,7</p>
 </td>
-<td width="51">
-<p align="center">0, 75</p>
+<td valign="top" width="47">
+<p align="center">0,45</p>
 </td>
-<td width="42">
-<p align="center">0, 65</p>
+<td valign="top" width="47">
+<p align="center">0,35</p>
 </td>
-<td width="45">
-<p align="center">0, 3</p>
+<td valign="top" width="47">
+<p align="center">0,2</p>
 </td>
-<td width="46">
-<p align="center">0, 2</p>
-</td>
-<td width="45">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td width="41">
-<p align="center">0, 2</p>
-</td>
-<td width="41">
-<p align="center">0, 3</p>
-</td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td>
-<p align="center">0, 5</p>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,5</p>
 </td>
 </tr>
 <tr>
-<td width="171">
-<p>Unité de traitement biologique assurant la nitrification. </p>
+<td valign="top" width="172">
+<p align="left">Unité de tamisage. </p>
 </td>
-<td width="49">
-<p align="center">0, 7</p>
+<td valign="top" width="47">
+<p align="center">0,6</p>
 </td>
-<td width="51">
-<p align="center">0, 75</p>
+<td valign="top" width="47">
+<p align="center">0,4</p>
 </td>
-<td width="42">
-<p align="center">0, 65</p>
+<td valign="top" width="47">
+<p align="center">0,4</p>
 </td>
-<td width="45">
-<p align="center">0, 3</p>
+<td valign="top" width="47">
+<p align="center">0,2</p>
 </td>
-<td width="46">
-<p align="center">0, 6</p>
+<td valign="top" width="47">
+<p align="center">0,1</p>
 </td>
-<td width="45">
-<p align="center">0, 6</p>
-</td>
-<td width="41">
-<p align="center">0, 2</p>
-</td>
-<td width="41">
-<p align="center">0, 3</p>
-</td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td>
-<p align="center">0, 5</p>
+<td valign="top" width="47">
+<p align="center">0,25</p>
 </td>
-</tr>
-<tr>
-<td width="171">
-<p>Unité de traitement biologique assurant la nitrification et la déphosphatation. </p>
-</td>
-<td width="49">
-<p align="center">0, 7</p>
-</td>
-<td width="51">
-<p align="center">0, 75</p>
-</td>
-<td width="42">
-<p align="center">0, 65</p>
-</td>
-<td width="45">
-<p align="center">0, 3</p>
-</td>
-<td width="46">
-<p align="center">0, 6</p>
-</td>
-<td width="45">
-<p align="center">0, 6</p>
-</td>
-<td width="41">
-<p align="center">0, 6</p>
-</td>
-<td width="41">
-<p align="center">0, 3</p>
-</td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td>
-<p align="center">0, 5</p>
-</td>
-</tr>
-<tr>
-<td width="171">
-<p>Installation de détoxication sans précipitation des phosphates par voie physico-chimique. </p>
-</td>
-<td width="49">
-<p align="center">0, 7</p>
-</td>
-<td width="51">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td width="42">
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
-<td width="45">
-<p align="center">0, 7</p>
-</td>
-<td width="46">
-<p align="center">0</p>
-</td>
-<td width="45">
-<p align="center">0</p>
-</td>
-<td width="41">
-<p align="center">0, 2</p>
-</td>
-<td width="41">
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0, 7</p>
-</td>
-</tr>
-<tr>
-<td width="171">
-<p>Installation de détoxication et élimination des phosphates par précipitation voie physico-chimique. </p>
-</td>
-<td width="49">
-<p align="center">0, 7</p>
-</td>
-<td width="51">
-<p align="center">0</p>
-</td>
-<td width="42">
-<p align="center">0</p>
-</td>
-<td width="45">
-<p align="center">0, 7</p>
-</td>
-<td width="46">
-<p align="center">0</p>
-</td>
-<td width="45">
-<p align="center">0</p>
-</td>
-<td width="41">
-<p align="center">0, 8</p>
-</td>
-<td width="41">
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0, 7</p>
-</td>
-</tr>
-<tr>
-<td width="171">
-<p>Bassin d'évaporation. </p>
-</td>
-<td width="49">
-<p align="center">1, 00</p>
-</td>
-<td width="51">
-<p align="center">1, 00</p>
-</td>
-<td width="42">
-<p align="center">1, 00</p>
-</td>
-<td width="45">
-<p align="center">1, 00</p>
-</td>
-<td width="46">
-<p align="center">1, 00</p>
-</td>
-<td width="45">
-<p align="center">1, 00</p>
-</td>
-<td width="41">
-<p align="center">1, 00</p>
-</td>
-<td width="41">
-<p align="center">1, 00</p>
-</td>
-<td>
-<p align="center">1, 00</p>
-</td>
-<td>
-<p align="center">1, 00</p>
-</td>
-</tr>
-<tr>
-<td width="171">
-<p>Transfert des pollutions dans un autre établissement. </p>
-</td>
-<td width="49">
-<p align="center">1, 00</p>
-</td>
-<td width="51">
-<p align="center">1, 00</p>
-</td>
-<td width="42">
-<p align="center">1, 00</p>
-</td>
-<td width="45">
-<p align="center">1, 00</p>
-</td>
-<td width="46">
-<p align="center">1, 00</p>
-</td>
-<td width="45">
-<p align="center">1, 00</p>
-</td>
-<td width="41">
-<p align="center">1, 00</p>
-</td>
-<td width="41">
-<p align="center">1, 00</p>
-</td>
-<td>
-<p align="center">1, 00</p>
-</td>
-<td>
-<p align="center">1, 00</p>
-</td>
-</tr>
-<tr>
-<td width="171">
-<p>Fouille fermée. </p>
-</td>
-<td width="49">
-<p align="center">1, 00</p>
-</td>
-<td width="51">
-<p align="center">0</p>
-</td>
-<td width="42">
-<p align="center">0</p>
-</td>
-<td width="45">
-<p align="center">0</p>
-</td>
-<td width="46">
-<p align="center">0</p>
-</td>
-<td width="45">
-<p align="center">0</p>
-</td>
-<td width="41">
-<p align="center">0</p>
-</td>
-<td width="41">
-<p align="center">0</p>
-</td>
-<td>
-<p align="center">0</p>
-</td>
-<td>
+<td valign="top" width="47">
 <p align="center">0</p>
 </td>
 </tr>
 <tr>
-<td width="171">
-<p>Recyclage et revalorisation. </p>
+<td valign="top" width="172">
+<p align="left">Unité de traitement biologique assurant ni la nitrification ni la déphosphatation. </p>
 </td>
-<td width="49">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,7</p>
 </td>
-<td width="51">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,75</p>
 </td>
-<td width="42">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,65</p>
 </td>
-<td width="45">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,3</p>
 </td>
-<td width="46">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,2</p>
 </td>
-<td width="45">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0</p>
 </td>
-<td width="41">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,2</p>
 </td>
-<td width="41">
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,3</p>
 </td>
-<td>
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0,3</p>
 </td>
-<td>
-<p align="center">1, 00</p>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,5</p>
 </td>
 </tr>
 <tr>
-<td width="171">
-<p>Unité de séparation physique par évapoconcentration ou par dispositif à membranes. </p>
+<td valign="top" width="172">
+<p align="left">Unité de traitement biologique assurant la nitrification. </p>
 </td>
-<td width="49">
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0,7</p>
 </td>
-<td width="51">
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0,75</p>
 </td>
-<td width="42">
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0,65</p>
 </td>
-<td width="45">
-<p align="center">0, 3</p>
+<td valign="top" width="47">
+<p align="center">0,3</p>
 </td>
-<td width="46">
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0,6</p>
 </td>
-<td width="45">
-<p align="center">0, 3</p>
+<td valign="top" width="47">
+<p align="center">0,6</p>
 </td>
-<td width="41">
-<p align="center">0, 5</p>
+<td valign="top" width="47">
+<p align="center">0,2</p>
 </td>
-<td width="41">
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0,3</p>
 </td>
-<td>
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0,3</p>
 </td>
-<td>
-<p align="center">0, 8</p>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Unité de traitement biologique assurant la nitrification et la déphosphatation. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,75</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,65</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,3</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,6</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,6</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,6</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,3</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,3</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Installation de détoxication sans précipitation des phosphates par voie physico-chimique. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,2</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Installation de détoxication et élimination des phosphates par précipitation voie physico-chimique. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Bassin d'évaporation. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Transfert des pollutions dans un autre établissement. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Fouille fermée. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Recyclage et revalorisation. </p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+<td valign="top" width="47">
+<p align="center">1,00</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="172">
+<p align="left">Unité de séparation physique par évapoconcentration ou par dispositif à membranes.</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,3</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,3</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,5</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
+</td>
+<td valign="top" width="47">
+<p align="center">0,8</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-b) Mesures transitoires.
-
-Pour les ouvrages de dépollution en service à la date de publication du présent arrêté, les dispositions en vigueur en 2007 pour le suivi des ouvrages peuvent être reconduites pour les années 2008 et 2009 au lieu et place des dispositions du tableau n° 5 ci-dessus.
-
-c) Détermination du coefficient d'élimination des boues.
+b) Détermination du coefficient d'élimination des boues.
 
 Pour l'application du I de l'article R. 213-48-9 du code de l'environnement, la valeur du coefficient d'élimination des boues est déterminée en faisant le rapport entre la quantité annuelle de boues éliminées selon une filière conforme à la réglementation à la quantité annuelle de boues produites. Une filière est dite conforme si la filière de traitement est déclarée ou autorisée selon sa taille et si le transport des boues est effectué conformément à la réglementation en vigueur.
 
 En cas d'épandage des boues d'épuration sur des terres agricoles, le coefficient d'élimination des boues est déterminé conformément au tableau n° 7 ci-dessous en fonction des caractéristiques générales de fonctionnement de l'épandage.
 
 TABLEAU N° 7
-
 Détermination du coefficient forfaitaire d'élimination des boues
 
 <table>
@@ -1188,7 +1291,7 @@ Détermination du coefficient forfaitaire d'élimination des boues
 </tr>
 <tr>
 <td valign="top" width="455">
-<p>NIVEAU BON : <br/>Respect des conditions du niveau moyen. <br/>Le cahier d'épandage met en évidence des pratiques conformes aux prescription du plan d'épandage. </p>
+<p>NIVEAU BON : <br/>Respect des conditions du niveau moyen. <br/>Le cahier d'épandage met en évidence des pratiques conformes aux prescriptions du plan d'épandage. </p>
 </td>
 <td valign="top" width="220">
 <p align="center">1, 00</p>
@@ -1199,7 +1302,7 @@ Détermination du coefficient forfaitaire d'élimination des boues
 
 La valeur du coefficient ainsi déterminé est appliquée au prorata des quantités de boues éliminées par épandage en cas d'existence de plusieurs filières d'élimination des boues.
 
-d) Détermination du coefficient de pollution à déduire
+c) Détermination du coefficient de pollution à déduire
 
 Si une partie des effluents et résidus liés aux activités des centrales à béton est recyclée in situ dans le procédé de fabrication, la pollution correspondante dénommée pollution à déduire est déduite de la pollution théorique produite.
 
@@ -1270,6 +1373,6 @@ La pollution éliminée par le dispositif de dépollution est déterminée comme
 
 -dans le cas d'un ouvrage collectif de dépollution assurant le traitement des eaux usées d'une agglomération d'assainissement, les données prises de compte pour le calcul de la pollution éliminée sont celles produites en application des dispositions du chapitre 5 de l'arrêté du 22 juin 2007 mentionné au point a ci-dessus.A défaut de données ou de leur validation, les dispositions du tableau n° 6 ci-dessus sont applicables.
 
-Pour les établissements raccordés à un dispositif collectif de dépollution, et dans l'impossibilité de mesurer les matières inhibitrices et les AOX en amont et en aval du dispositif collectif de dépollution en raison des caractéristiques de l'effluent, les coefficients d'élimination des matières inhibitrices et des AOX sont fixés par l'agence en application du tableau n° 6 ci-dessus et, s'il y a lieu, en tenant compte des résultats d'études de l'abattement de la pollution rejetée par l'établissement ou d'établissements réalisant la même activité.
+Pour les établissements raccordés à un dispositif collectif de dépollution, et dans l'impossibilité de mesurer les matières inhibitrices, les AOX et les SDE en amont et en aval du dispositif collectif de dépollution en raison des caractéristiques de l'effluent, les coefficients d'élimination des matières inhibitrices, des AOX et des SDE sont fixés par l'agence en application du tableau n° 6 ci-dessus et, s'il y a lieu, en tenant compte des résultats d'études de l'abattement de la pollution rejetée par l'établissement ou d'établissements réalisant la même activité.
 
 La valeur du coefficient d'élimination des boues issues du dispositif d'épuration est déterminée en application des dispositions du point c du 2 ci-dessus.
