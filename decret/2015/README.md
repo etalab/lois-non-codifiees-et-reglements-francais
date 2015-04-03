@@ -485,4 +485,7 @@
 - [DÉCRET n°2014-1765 du 31 décembre 2014 (AFSS1415092D)](decret-n2014-1765-du-31-decembre-2014-afss1415092d)
 - [DÉCRET n°2014-1766 du 31 décembre 2014 (AFSS1430370D)](decret-n2014-1766-du-31-decembre-2014-afss1430370d)
 - [DÉCRET n°2014-1767 du 31 décembre 2014 (MCCE1328601D)](decret-n2014-1767-du-31-decembre-2014-mcce1328601d)
+- [DÉCRET n°2015-371 du 31 mars 2015 (PRMX1507294D)](decret-n2015-371-du-31-mars-2015-prmx1507294d)
+- [DÉCRET n°2015-373 du 31 mars 2015 (AFSP1429066D)](decret-n2015-373-du-31-mars-2015-afsp1429066d)
+- [DÉCRET n°2015-374 du 31 mars 2015 (AFSP1501623D)](decret-n2015-374-du-31-mars-2015-afsp1501623d)
 - [DÉCRET n°2014-1432 du 1er décembre 2014 (EINI1424749D)](decret-n2014-1432-du-1er-decembre-2014-eini1424749d)
