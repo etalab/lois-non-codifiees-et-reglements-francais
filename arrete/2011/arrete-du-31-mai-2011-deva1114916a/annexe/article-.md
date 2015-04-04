@@ -155,3 +155,9 @@ Marseille-Tlemcen (Algérie).
 Jusqu'au 31 décembre 2019 :
 
 Mulhouse-Oran (Algérie).
+
+Jusqu'au 31 mars 2020 :
+
+Paris-Xi'an (Chine) ;
+
+Paris-Hangzhou (Chine).
