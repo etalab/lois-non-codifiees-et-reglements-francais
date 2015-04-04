@@ -101,3 +101,11 @@ Paris-Punta Cana (République dominicaine) ;
 Paris-Puerto Plata (République dominicaine) ;
 
 Paris-La Romana (République dominicaine).
+
+Jusqu'au 31 mars 2020 :
+
+Lille-Bodrum (Turquie) ;
+
+Lille-Djerba (Tunisie) ;
+
+Lille-Monastir (Tunisie).
