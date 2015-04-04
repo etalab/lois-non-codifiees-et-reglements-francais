@@ -1,0 +1,5 @@
+# Article 6
+
+Conformément aux dispositions du I de l'article R. 122-14 du code de l'environnement, l'annexe au présent décret (1) mentionne les mesures à la charge du maître d'ouvrage destinées à éviter, réduire et compenser les effets négatifs notables du projet sur l'environnement et la santé humaine, et les modalités de suivi associées. Les études détaillées préciseront, le cas échéant, ces mesures avant le début des travaux.
+
+Les mesures relatives à la protection de l'eau, des milieux aquatiques et des zones humides, celles relatives aux espèces et habitats d'espèces protégées, celles relatives au patrimoine ainsi que celles relatives au défrichement pourront être adaptées, dans le respect des mêmes objectifs, par des prescriptions fixées par des arrêtés ultérieurs pris en application respectivement des articles L. 214-1 et suivants, de l'article L. 411-2, des articles L. 341-1 et suivants du code de l'environnement et des articles L. 214-13 et L. 341-1 et suivants du code forestier.

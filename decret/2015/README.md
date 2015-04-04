@@ -489,3 +489,6 @@
 - [DÉCRET n°2015-373 du 31 mars 2015 (AFSP1429066D)](decret-n2015-373-du-31-mars-2015-afsp1429066d)
 - [DÉCRET n°2015-374 du 31 mars 2015 (AFSP1501623D)](decret-n2015-374-du-31-mars-2015-afsp1501623d)
 - [DÉCRET n°2014-1432 du 1er décembre 2014 (EINI1424749D)](decret-n2014-1432-du-1er-decembre-2014-eini1424749d)
+- [DÉCRET n°2015-376 du 1er avril 2015 (DEVT1425960D)](decret-n2015-376-du-1er-avril-2015-devt1425960d)
+- [DÉCRET n°2015-377 du 1er avril 2015 (DEVK1428064D)](decret-n2015-377-du-1er-avril-2015-devk1428064d)
+- [DÉCRET n°2015-379 du 1er avril 2015 (FCPO1505777D)](decret-n2015-379-du-1er-avril-2015-fcpo1505777d)

@@ -1,0 +1,3 @@
+# Article 20
+
+Les organismes de titrisation ou les compartiments d'organismes de titrisation mentionnés aux articles L. 310-1-2 du codes des assurances, qui supportent des risques d'assurance agréés avant le 31 décembre 2015 sont soumis au droit de l'Etat membre de l'Espace économique européen qui a agréé le véhicule de titrisation. Toute nouvelle activité de ces véhicules de titrisation commencée après cette date est soumise à la législation nationale de ces Etats, dans ses dispositions issues de la transposition des paragraphes 1, 2 et 2 bis de l'article 211 de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 (Solvabilité II).
