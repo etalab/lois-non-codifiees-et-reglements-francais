@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 massifs forestiers d'Halatte, de Chantilly et d'Ermenonville » (zone spéciale de conservation FR 2200380) l'espace délimité sur la carte d'assemblage au 1/100 000 et les cinq cartes au 1/25 000 ci-jointes, s'étendant dans le département de l'Oise, sur une partie du territoire des communes suivantes : Aumont-en-Halatte, Baron, La Chapelle-en-Serval, Coye-la-Forêt, Fontaine-Chaalis, Mont-l'Evêque, Montlognon, Mortefontaine, Plailly, Pont-Sainte-Maxence, Pontarmé, Pontpoint, Senlis, Thiers-sur-Thève, Villeneuve-sur-Verberie, Villers-Saint-Frambourg.

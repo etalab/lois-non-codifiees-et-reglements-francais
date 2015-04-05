@@ -1,0 +1,3 @@
+# Article 2
+
+Les bateaux fluviaux à passagers non astreints au rôle d'équipage ne peuvent accéder au parcours maritime entre l'estuaire de la Loire, à la limite transversale de la mer, et les bassins de Saint-Nazaire que lorsqu'ils disposent de l'autorisation individuelle prévue par l'alinéa II de l'article L. 5241-1 du code des transports, accordée à cet effet par le préfet du département de la Loire-Atlantique, qu'ils respectent les conditions fixées aux articles 3 à 6 du présent arrêté, qu'ils reçoivent l'autorisation de passage définie à l'article 7 du présent arrêté et qu'ils souscrivent l'engagement décrit à l'article 8 du présent arrêté.
