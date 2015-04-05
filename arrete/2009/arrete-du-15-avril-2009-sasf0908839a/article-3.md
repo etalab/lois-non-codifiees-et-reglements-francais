@@ -10,7 +10,7 @@ Les exigences préalables requises pour accéder à la formation, prévues à l'
 
 Il est procédé à la vérification de ces exigences préalables au moyen :
 
-― de la production d'une attestation d'une activité d'enseignement d'au moins trois cents heures au cours des trois dernières années en aïkido ou aïkibudo ou disciplines associées, délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ;
+― de la production d'une attestation d'une activité d'enseignement d'au moins trois cents heures au cours des cinq saisons sportives en aïkido ou aïkibudo ou disciplines associées, délivrée par le directeur régional de la jeunesse, des sports et de la cohésion sociale ;
 
 ― d'un test technique d'une durée de trente minutes d'un niveau de 2e dan, organisé par l'Union des fédérations d'aïkido ;
 
