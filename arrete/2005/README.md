@@ -20,7 +20,6 @@
 - [Arrêté du 2 février 2005 (FPPA0400115A)](arrete-du-2-fevrier-2005-fppa0400115a)
 - [Arrêté du 2 février 2005 (SANS0520035A)](arrete-du-2-fevrier-2005-sans0520035a)
 - [Arrêté du 2 mars 2004 (SOCT0410465A)](arrete-du-2-mars-2004-soct0410465a)
-- [Arrêté du 2 novembre 2005 (AGRM0502427A)](arrete-du-2-novembre-2005-agrm0502427a)
 - [Arrêté du 2 septembre 2005 (AGRG0501461A)](arrete-du-2-septembre-2005-agrg0501461a)
 - [Arrêté du 2 septembre 2005 (INTE0500434A)](arrete-du-2-septembre-2005-inte0500434a)
 - [Arrêté du 2 septembre 2005 (INTE0500435A)](arrete-du-2-septembre-2005-inte0500435a)
