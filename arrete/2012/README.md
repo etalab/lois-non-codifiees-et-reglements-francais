@@ -139,7 +139,6 @@
 - [Arrêté du 3 octobre 2012 (DEVL1234172A)](arrete-du-3-octobre-2012-devl1234172a)
 - [Arrêté du 3 octobre 2012 (DEVP1230766A)](arrete-du-3-octobre-2012-devp1230766a)
 - [Arrêté du 3 septembre 2012 (AFSR1233938A)](arrete-du-3-septembre-2012-afsr1233938a)
-- [Arrêté du 3 septembre 2012 (DEFD1233654A)](arrete-du-3-septembre-2012-defd1233654a)
 - [Arrêté du 3 septembre 2012 (DEVA1233417A)](arrete-du-3-septembre-2012-deva1233417a)
 - [Arrêté du 3 septembre 2012 (DEVP1233134A)](arrete-du-3-septembre-2012-devp1233134a)
 - [Arrêté du 3 septembre 2012 (EFIP1233113A)](arrete-du-3-septembre-2012-efip1233113a)

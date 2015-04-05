@@ -1,4 +1,4 @@
-# Arrêté du 5 janvier 2004 relatif à l'état-major interarmées de force et d'entraînement.
+# Arrêté du 20 décembre 2007 portant création de l'établissement géographique interarmées
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -8,4 +8,8 @@ Dans le domaine de la préparation et de l'emploi des forces, il :
 
 - contribue à l'élaboration de la doctrine européenne ;
 
-- participe aux études et recherches au niveau interministériel national et au niveau international.
+- participe aux études et recherches au niveau interministériel national et au niveau international ;
+
+- réalise les études concernant le retour d'expérience interarmées tiré des opérations et exercices conduits dans un cadre national ou multinational ;
+
+- conduit des réflexions prospectives dans le domaine opérationnel.
