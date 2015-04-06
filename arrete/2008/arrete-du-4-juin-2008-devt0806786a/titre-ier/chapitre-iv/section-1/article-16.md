@@ -2,11 +2,7 @@
 
 _Règles d'exploitation du poste d'inspection-filtrage_. ― L'exploitant de l'installation portuaire établit les règles d'armement des postes d'inspection-filtrage, en prévoyant leur adaptation au volume et à la nature des flux traités et à leurs fluctuations.
 
-L'armement des postes d'inspection-filtrage permet d'assurer que la palpation de sécurité est effectuée par un agent du même sexe que la personne contrôlée.
-
 L'exploitant de l'installation portuaire tient à la disposition du représentant de l'Etat dans le département un compte-rendu mensuel d'exploitation du dispositif d'inspection-filtrage qui indique :
-
-― les résultats des tests de performance des équipements utilisés dans chaque dispositif d'inspection-filtrage ;
 
 ― le nombre journalier de personnes (en précisant la répartition entre passagers et autres personnes) et de véhicules traités ;
 

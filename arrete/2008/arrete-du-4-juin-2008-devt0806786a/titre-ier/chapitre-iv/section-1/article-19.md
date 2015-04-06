@@ -4,6 +4,6 @@ _Règles applicables à la cargaison_. ― Le contrôle de la cargaison est effe
 
 Il comprend en outre l'une au moins des vérifications suivantes :
 
-― contrôle de sûreté incluant au moins le contrôle visuel de l'intégrité apparente de l'unité de charge ;
+― contrôle de sûreté incluant au moins le contrôle visuel de l'intégrité de l'unité de charge ;
 
 ― fouille de l'unité de charge, et éventuellement de la cargaison.

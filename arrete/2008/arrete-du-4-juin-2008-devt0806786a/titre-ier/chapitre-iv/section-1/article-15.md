@@ -8,6 +8,8 @@ _Equipement pour l'inspection-filtrage_. ― I. - L'exploitant de l'installation
 
 ― une table de dépose permettant de procéder aux fouilles des bagages ;
 
-― un moyen de communication permettant d'alerter en cas d'urgence les services de police nationale ou de gendarmerie nationale ou de douane.
+― un moyen de communication permettant d'alerter en cas d'urgence les services de police nationale, de gendarmerie nationale ou de douane.
 
-II. - L'exploitant de l'installation portuaire où le trafic annuel est supérieur à 350 000 passagers embarquant s'assure que chaque accès à une zone d'accès restreint comporte un ou des équipements d'imagerie radioscopique d'inspection des bagages et l'outil servant au calibrage, et un ou des portiques de détection des masses métalliques sur les personnes et l'outil servant au calibrage.
+II. - L'exploitant de l'installation portuaire où le trafic annuel est supérieur à 350 000 passagers embarquant s'assure que chaque accès à une zone d'accès restreint comporte un ou des équipements d'imagerie radioscopique d'inspection des bagages, et un ou des portiques de détection des masses métalliques sur les personnes ainsi que les outils nécessaires au calibrage de ces équipements et l'outil servant au calibrage.
+
+III. - L'exploitant d'une installation accueillant des navires rouliers embarquant également des passagers dispose d'une capacité de détection de matières explosives déterminée par l'évaluation de sûreté.

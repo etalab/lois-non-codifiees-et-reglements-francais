@@ -4,9 +4,9 @@ _Obligations générales_. ― Les personnes pénétrant ou se trouvant dans la 
 
 ― se soumettre au contrôle des documents listés à l'article 4 du présent arrêté, être en mesure de présenter un document attestant de leur identité, et accepter que soit établie la correspondance entre ce document et leur personne ;
 
-― se soumettre, ainsi que leurs bagages et les marchandises qu'ils transportent, à l'inspection-filtrage ;
+― se soumettre, ainsi que leurs véhicules leurs bagages et les marchandises qu'ils transportent, à l'inspection-filtrage ;
 
-― signaler au début de l'inspection-filtrage au personnel chargé de procéder aux visites de sûreté les articles prohibés qu'ils transportent ;
+― signaler au plus tard lors du premier contrôle d'accès à l'installation portuaire au personnel chargé de procéder aux visites de sûreté les articles prohibés qu'ils transportent ;
 
 ― ne pas faciliter l'entrée en zone d'accès restreint d'articles prohibés ou de personnes dépourvues des autorisations nécessaires ;
 

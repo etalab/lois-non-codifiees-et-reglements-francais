@@ -2,7 +2,7 @@
 
 _Obligations attachées à la détention d'un titre de circulation de véhicule_. ― Le conducteur du véhicule doté d'un titre de circulation doit :
 
-― ne pas permettre à une personne non autorisée de pénétrer dans la zone d'accès restreint au moyen de ce véhicule ;
+― ne pas permettre à une personne non autorisée de pénétrer dans la zone d'accès restreint en évitant les contrôles au moyen de ce véhicule ;
 
 ― apposer le titre d'une manière apparente sur la lunette avant du véhicule pendant toute la durée du séjour dans la zone d'accès restreint ;
 

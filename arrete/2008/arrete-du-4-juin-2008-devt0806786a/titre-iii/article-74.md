@@ -1,6 +1,6 @@
 # Article 74
 
-_Délai de mise en conformité_. ― Le représentant de l'Etat dans le département peut accorder à l'exploitant d'installation portuaire un délai après la mise à jour du plan de sûreté de l'installation portuaire pour atteindre les taux de contrôle minimaux. Ce délai ne peut excéder deux ans.
+_Délai de mise en conformité_. ― Le représentant de l'Etat dans le département peut accorder à l'exploitant d'installation portuaire un délai après la mise à jour du plan de sûreté de l'installation portuaire pour atteindre les taux de contrôle minimaux. Ce délai ne peut excéder un an.
 
 Pendant cette période, le représentant de l'Etat dans le département fixe les taux de contrôle minimaux. Il peut, au cours de cette période, décider de les augmenter.
 
