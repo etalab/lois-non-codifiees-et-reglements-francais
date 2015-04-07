@@ -42,7 +42,7 @@ Cabinet du directeur général de la police nationale (CAB-DGPN)
 <p align="center">TD</p>
 </td>
 <td>
-<p align="left">Conseiller social du directeur général de la police nationale</p>
+<p align="left">Conseiller social - ressources humaines</p>
 </td>
 <td>
 <p align="left">PARIS</p>
@@ -1313,21 +1313,6 @@ Direction centrale de la sécurité publique (DCSP)
 <br/>TD<br/>
 </td>
 <td valign="middle">
-<br/>Chef de circonscription<br/>
-</td>
-<td align="left" valign="middle">
-<p>VERNON<br/>
-</p>
-</td>
-<td align="center" valign="middle">
-<br/>27<br/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<br/>TD<br/>
-</td>
-<td valign="middle">
 <br/>Directeur départemental et commissaire central<br/>
 </td>
 <td align="left" valign="middle">
@@ -1486,6 +1471,18 @@ Direction centrale de la sécurité publique (DCSP)
 </td>
 <td align="center" valign="middle">
 <br/>31<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">TD</p>
+</td>
+<td>Chef du service de sécurité de proximité</td>
+<td align="center">
+<p align="left">POINTE-A-PITRE</p>
+</td>
+<td>
+<p align="center">971</p>
 </td>
 </tr>
 <tr>
