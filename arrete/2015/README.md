@@ -1,6 +1,7 @@
 # 2015
 
 - [ARRÊTÉ du 2 avril 2015 (AGRG1508600A)](arrete-du-2-avril-2015-agrg1508600a)
+- [ARRÊTÉ du 2 avril 2015 (DEVA1507870A)](arrete-du-2-avril-2015-deva1507870a)
 - [ARRÊTÉ du 2 décembre 2014 (DEVP1427670A)](arrete-du-2-decembre-2014-devp1427670a)
 - [ARRÊTÉ du 2 décembre 2014 (ETLL1420785A)](arrete-du-2-decembre-2014-etll1420785a)
 - [ARRÊTÉ du 2 décembre 2014 (ETLL1420787A)](arrete-du-2-decembre-2014-etll1420787a)
