@@ -118,7 +118,7 @@ Intervention sociale : accompagnement de publics spécifiques.
 
 Intervention sociale : insertion et réinsertion sociale et professionnelle.
 
-Intervention sociale : médiation par le sport.
+Intervention sociale : développement social et médiation par le sport.
 
 Intervention sociale : accompagnement social.
 
@@ -256,17 +256,17 @@ Métiers de l'information : archives, médiation et patrimoine.
 
 Métiers de l'information : métiers du journalisme et de la presse.
 
-Métiers de l'informatique : administration et sécurité des systèmes.
+Métiers de l'information : veille et gestion des ressources documentaires.
+
+Métiers de l'informatique : administration et sécurité des systèmes et des réseaux.
+
+Métiers de l'informatique : conception, développement et test de logiciels.
 
 Métiers de l'informatique : conduite de projets.
 
-Métiers de l'informatique : développement d'applications.
+Métiers de l'informatique : applications web.
 
-Métiers de l'informatique : développement internet et intranet.
-
-Métiers de l'informatique : systèmes d'information et gestion des bases de données.
-
-Métiers de l'informatique : test et qualité des logiciels.
+Métiers de l'informatique : systèmes d'information et gestion de données.
 
 Métiers de l'instrumentation, de la mesure et du contrôle qualité.
 
