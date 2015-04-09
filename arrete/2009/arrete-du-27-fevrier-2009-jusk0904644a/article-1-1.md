@@ -21,9 +21,21 @@ La liste des établissements pénitentiaires voués à la fermeture prévue par 
 </td>
 </tr>
 <tr>
-<td align="center">Maison d'arrêt <br/>
+<td align="center">
+<p align="center">Maison d'arrêt <br/>
+</p>
 </td>
-<td align="center">Paris-La Santé</td>
+<td align="center">
+<p align="center">Lure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Maison d'arrêt </p>
+</td>
+<td>
+<p align="center">Paris-La Santé</p>
+</td>
 </tr>
 </tbody>
 </table>
