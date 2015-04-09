@@ -216,6 +216,7 @@
 - [Arrêté du 8 mars 2007 (SANS0720703A)](arrete-du-8-mars-2007-sans0720703a)
 - [Arrêté du 8 novembre 2006 (EQUR0602162A)](arrete-du-8-novembre-2006-equr0602162a)
 - [Arrêté du 8 novembre 2007 (DEVE0768582A)](arrete-du-8-novembre-2007-deve0768582a)
+- [Arrêté du 8 novembre 2007 (MAEA0770167A)](arrete-du-8-novembre-2007-maea0770167a)
 - [Arrêté du 8 novembre 2007 (MCCB0769658A)](arrete-du-8-novembre-2007-mccb0769658a)
 - [Arrêté du 8 novembre 2007 (MLVU0759263A)](arrete-du-8-novembre-2007-mlvu0759263a)
 - [Arrêté du 8 novembre 2007 (MLVU0759264A)](arrete-du-8-novembre-2007-mlvu0759264a)
