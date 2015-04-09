@@ -8,7 +8,7 @@ Les catégories d'informations à caractère personnel enregistrées sont les su
 
 3° Le cas échéant, le nom du dirigeant et les coordonnées de contacts de l'entreprise ;
 
-4° Les données issues de la déclaration en douane ;
+4° Les données issues des déclarations en douane, données relatives à la liquidation et au paiement de la taxe spéciale sur certains véhicules routiers et données relatives aux demandes de vérification de mouvements intracommunautaires de produits soumis à accise ;
 
 5° Les données relatives au déroulement et au résultat du contrôle ;
 
