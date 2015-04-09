@@ -53,11 +53,9 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <tr>
 <td/>
 <td>
-<p align="center">01 <br/>
-</p>
+<p align="center">01</p>
 </td>
-<td>Anatomie <br/>
-</td>
+<td>Anatomie </td>
 <td>
 <p align="center">Mixte</p>
 </td>
@@ -76,11 +74,10 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </tr>
 <tr>
 <td align="center"/>
-<td align="center">
-<br/>02 <br/>
+<td align="center">02 <br/>
 </td>
 <td align="center">
-<br/>Histologie, embryologie et cytogénétique <br/>
+<p align="left">Histologie, embryologie et cytogénétique</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -101,50 +98,16 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>03 <br/>
-</td>
-<td align="center">
-<br/>Anatomie et cytologie pathologiques <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>43 <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Biophysique et imagerie médicale : <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
-</td>
-<td align="center">
-<br/>Biophysique et médecine nucléaire <br/>
-</td>
-<td align="center">
-<p align="center">
-<br/>Mixte <br/>
+<p align="center">03 <br/>
 </p>
 </td>
 <td align="center">
+<p align="left">Anatomie et cytologie pathologiques</p>
+</td>
+<td align="center">
+<br/>Mixte <br/>
+</td>
+<td align="center">
 <br/>6 <br/>
 </td>
 <td align="center">
@@ -155,6 +118,56 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 <td align="center">
 <br/>3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">43</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Biophysique et imagerie médicale : </p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>Biophysique et médecine nucléaire </td>
+<td>
+<p align="center">Mixte</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +176,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Radiologie et imagerie médicale <br/>
+<p align="left">Radiologie et imagerie médicale </p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -182,21 +195,52 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
+<td align="center">44</td>
+<td align="center"/>
 <td align="center">
-<br/>44 <br/>
+<p align="left">Biochimie, biologie cellulaire et moléculaire, physiologie et nutrition :</p>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center"/>
 <td align="center">
-<br/>Biochimie, biologie cellulaire et moléculaire, physiologie et nutrition : <br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>Biochimie et biologie moléculaire </td>
+<td>
+<p align="center">Mixte</p>
+</td>
+<td>
+<p align="center">6 </p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
 <td align="center"/>
-<td align="center">
-<br/>01 <br/>
+<td align="center">02 <br/>
 </td>
 <td align="center">
-<br/>Biochimie et biologie moléculaire <br/>
+<p align="left">Physiologie</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -212,6 +256,106 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 <td align="center">
 <br/>3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">03</td>
+<td align="center">
+<p align="left">Biologie cellulaire</p>
+</td>
+<td align="center">
+<br/>Mixte <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">04 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Nutrition</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Mixte </p>
+</td>
+<td align="left" valign="top">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+</tr>
+<tr>
+<td align="center">45</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Microbiologie, maladies transmissibles et hygiène : </p>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>
+<p align="left">Bactériologie-virologie ; hygiène hospitalière (2 options) </p>
+</td>
+<td>
+<p align="center">Mixte</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3 </p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
@@ -220,112 +364,9 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Physiologie <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>03 <br/>
-</td>
-<td align="center">
-<br/>Biologie cellulaire <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>04 <br/>
-</td>
-<td align="center">
-<br/>Nutrition <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>45 <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Microbiologie, maladies transmissibles et hygiène : <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
-</td>
-<td align="center">
-<br/>Bactériologie-virologie ; hygiène hospitalière (2 options) <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>02 <br/>
-</td>
-<td align="center">
+<p align="left">
 <br/>Parasitologie et mycologie <br/>
+</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -349,7 +390,9 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>03 <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Maladies infectieuses ; maladies tropicales (2 options) <br/>
+</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -368,36 +411,54 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
+<td align="center">46</td>
 <td align="center">
-<br/>46 <br/>
+<br/>
+<br/>
 </td>
-<td align="center"/>
 <td align="center">
-<br/>Santé publique, environnement et société : <br/>
+<p align="left">Santé publique, environnement et société :</p>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
+<td/>
+<td>
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>Epidémiologie, économie de la santé et prévention <br/>
+<td>Epidémiologie, économie de la santé et prévention</td>
+<td>
+<p align="center">Mixte</p>
 </td>
-<td align="center">
-<br/>Mixte <br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">
-<br/>4 <br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>2 <br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +467,134 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
+<p align="left">
 <br/>Médecine et santé au travail <br/>
+</p>
+</td>
+<td align="center">
+<br/>Mixte <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<p align="center">03 <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Médecine légale et droit de la santé</p>
+</td>
+<td align="center">
+<br/>Mixte <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">04 <br/>
+</td>
+<td align="center">
+<p align="left">Biostatistiques, informatique médicale et technologies de communication</p>
+</td>
+<td align="center">
+<br/>Mixte <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>4 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">47 </td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Cancérologie, génétique, hématologie, immunologie : </p>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>
+<p align="left">Hématologie ; transfusion (2 options)</p>
+</td>
+<td>
+<p align="center">Mixte</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p align="center">2 </p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>02 <br/>
+</td>
+<td align="center">
+<p align="left">Cancérologie ; radiothérapie (2 options)</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -430,7 +618,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>03 <br/>
 </td>
 <td align="center">
-<br/>Médecine légale et droit de la santé <br/>
+<p align="left">Immunologie</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -454,7 +642,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>04 <br/>
 </td>
 <td align="center">
-<br/>Biostatistiques, informatique médicale et technologies de communication <br/>
+<p align="left">Génétique</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -473,36 +661,55 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
+<td align="center">48 </td>
 <td align="center">
-<br/>47 <br/>
+<br/>
 </td>
-<td align="center"/>
 <td align="center">
-<br/>Cancérologie, génétique, hématologie, immunologie : <br/>
+<p align="left">Anesthésiologie, réanimation, médecine d'urgence, pharmacologie et thérapeutique :</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
+<td/>
+<td>
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>Hématologie ; transfusion (2 options) <br/>
+<td>
+<p align="left">Anesthésiologie-réanimation ; médecine d'urgence (2 options) </p>
 </td>
-<td align="center">
-<br/>Mixte <br/>
+<td>
+<p align="center">Mixte </p>
 </td>
-<td align="center">
-<br/>4 <br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">
-<br/>2 <br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">
-<br/>4 <br/>
+<td>
+<p align="center">4</p>
 </td>
-<td align="center">
-<br/>2 <br/>
+<td>
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
@@ -511,111 +718,8 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Cancérologie ; radiothérapie (2 options) <br/>
+<p align="left">Réanimation ; médecine d'urgence (2 options)</p>
 </td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>03 <br/>
-</td>
-<td align="center">
-<br/>Immunologie <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>04 <br/>
-</td>
-<td align="center">
-<br/>Génétique <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>48 <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Anesthésiologie, réanimation, médecine d'urgence, pharmacologie et thérapeutique : <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
-</td>
-<td align="center">
-<br/>Anesthésiologie-réanimation ; médecine d'urgence (2 options) </td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>02 <br/>
-</td>
-<td align="center">
-<br/>Réanimation ; médecine d'urgence (2 options)</td>
 <td align="center">
 <br/>Clinique <br/>
 </td>
@@ -638,7 +742,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>03 <br/>
 </td>
 <td align="center">
-<br/>Pharmacologie fondamentale ; pharmacologie clinique ; addictologie (3 options) <br/>
+<p align="left">Pharmacologie fondamentale ; pharmacologie clinique ; addictologie (3 options)</p>
 </td>
 <td align="center">
 <br/>Mixte <br/>
@@ -681,36 +785,58 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>49 <br/>
+<td align="center">49 <br/>
 </td>
-<td align="center"/>
 <td align="center">
-<br/>Pathologie nerveuse et musculaire, pathologie mentale, handicap et rééducation : <br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Pathologie nerveuse et musculaire, pathologie mentale, handicap et rééducation : </p>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
+<td/>
+<td>
+<p align="center">01 </p>
 </td>
-<td align="center">
-<br/>Neurologie <br/>
+<td>
+<p align="left">Neurologie</p>
 </td>
-<td align="center">
-<br/>Clinique <br/>
+<td>
+<p align="center">Clinique</p>
 </td>
-<td align="center">
-<br/>6 <br/>
+<td>
+<p align="center">6</p>
 </td>
-<td align="center">
-<br/>3 <br/>
+<td>
+<p align="center">3 </p>
 </td>
-<td align="center">
-<br/>2 <br/>
+<td>
+<p align="center">2 </p>
 </td>
-<td align="center">
-<br/>1 <br/>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -719,7 +845,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Neurochirurgie <br/>
+<p align="left">Neurochirurgie</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -743,7 +869,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>03 <br/>
 </td>
 <td align="center">
-<br/>Psychiatrie d'adultes ; addictologie (2 options) <br/>
+<p align="left">Psychiatrie d'adultes ; addictologie (2 options)</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -767,7 +893,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>04 <br/>
 </td>
 <td align="center">
-<br/>Pédopsychiatrie ; addictologie (2 options) <br/>
+<p align="left">Pédopsychiatrie ; addictologie (2 options)</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -791,7 +917,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>05 <br/>
 </td>
 <td align="center">
-<br/>Médecine physique et de réadaptation <br/>
+<p align="left">Médecine physique et de réadaptation</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -810,21 +936,57 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
+<td align="center">50</td>
 <td align="center">
-<br/>50 <br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Pathologie ostéo-articulaire, dermatologie et chirurgie plastique :</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
 </td>
 <td align="center"/>
-<td align="center">
-<br/>Pathologie ostéo-articulaire, dermatologie et chirurgie plastique : <br/>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>Rhumatologie </td>
+<td>
+<p align="center">Clinique</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3 </p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>01 <br/>
+<p align="center">02 <br/>
+</p>
 </td>
 <td align="center">
-<br/>Rhumatologie <br/>
+<p align="left">Chirurgie orthopédique et traumatologique</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -845,10 +1007,102 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <tr>
 <td align="center"/>
 <td align="center">
+<p align="center">03 <br/>
+</p>
+</td>
+<td align="center">
+<p align="left">Dermato-vénéréologie</p>
+</td>
+<td align="center">
+<br/>Clinique <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">04 <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Chirurgie plastique, reconstructrice et esthétique ; brûlologie (2 options)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique </p>
+</td>
+<td align="left" valign="top">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="center">51</td>
+<td align="center"/>
+<td align="center">
+<p align="left">Pathologie cardio-respiratoire et vasculaire : </p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>Pneumologie ; addictologie (2 options) </td>
+<td>
+<p align="center">Clinique</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">2 </p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Chirurgie orthopédique et traumatologique <br/>
+<p align="left">Cardiologie </p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -872,7 +1126,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>03 <br/>
 </td>
 <td align="center">
-<br/>Dermato-vénéréologie <br/>
+<p align="left">Chirurgie thoracique et cardio-vasculaire </p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -896,7 +1150,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>04 <br/>
 </td>
 <td align="center">
-<br/>Chirurgie plastique, reconstructrice et esthétique ; brûlologie (2 options) <br/>
+<p align="left">Chirurgie vasculaire ; médecine vasculaire (2 options) </p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -915,36 +1169,38 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
+<td align="center">52</td>
 <td align="center">
-<br/>51 <br/>
+<br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Maladies des appareils digestif et urinaire : </p>
 </td>
 <td align="center"/>
-<td align="center">
-<br/>Pathologie cardio-respiratoire et vasculaire : <br/>
-</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
+<td/>
+<td>
+<p align="center">01</p>
 </td>
-<td align="center">
-<br/>Pneumologie ; addictologie (2 options) <br/>
+<td>Gastroentérologie ; hépatologie ; addictologie (3 options) </td>
+<td>Clinique </td>
+<td>
+<p align="center">6</p>
 </td>
-<td align="center">
-<br/>Clinique <br/>
+<td>
+<p align="center">3</p>
 </td>
-<td align="center">
-<br/>6 <br/>
+<td>
+<p align="center">2</p>
 </td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -953,7 +1209,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Cardiologie <br/>
+<p align="left">Chirurgie digestive</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -977,7 +1233,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>03 <br/>
 </td>
 <td align="center">
-<br/>Chirurgie thoracique et cardio-vasculaire <br/>
+<p align="left">Néphrologie </p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -1001,40 +1257,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>04 <br/>
 </td>
 <td align="center">
-<br/>Chirurgie vasculaire ; médecine vasculaire (2 options) <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>52 <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Maladies des appareils digestif et urinaire : <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
-</td>
-<td align="center">
-<br/>Gastroentérologie ; hépatologie ; addictologie (3 options) <br/>
+<p align="left">Urologie</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -1051,6 +1274,47 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <td align="center">
 <br/>1 <br/>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">53</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Médecine interne, gériatrie, chirurgie générale et médecine générale :</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique </p>
+</td>
+<td align="left" valign="top">
+<p align="center">8 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>
+<p align="left">Médecine interne ; gériatrie et biologie du vieillissement ; addictologie (3 options).</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="center"/>
@@ -1058,115 +1322,10 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Chirurgie digestive <br/>
+<p align="left">Chirurgie générale</p>
 </td>
 <td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>03 <br/>
-</td>
-<td align="center">
-<br/>Néphrologie <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>04 <br/>
-</td>
-<td align="center">
-<br/>Urologie <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>53 <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Médecine interne, gériatrie et chirurgie générale : <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
-</td>
-<td align="center">
-<br/>Médecine interne ; gériatrie et biologie du vieillissement ; médecine générale ; addictologie (4 options) <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>8 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>02 <br/>
-</td>
-<td align="center">
-<br/>Chirurgie générale <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
+<p align="center">Clinique </p>
 </td>
 <td align="center">
 <br/>6 <br/>
@@ -1182,27 +1341,87 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54 <br/>
+<td/>
+<td>
+<p align="center">03</p>
 </td>
-<td align="center"/>
+<td>Médecine générale </td>
+<td>
+<p align="center">Clinique</p>
+</td>
+<td>
+<p align="center">4</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td align="center">54</td>
 <td align="center">
-<br/>Développement et pathologie de l'enfant, gynécologie-obstétrique, endocrinologie et reproduction : <br/>
+<br/>
+</td>
+<td align="center">
+<p align="left">Développement et pathologie de l'enfant, gynécologie-obstétrique, endocrinologie et reproduction : </p>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01 </p>
+</td>
+<td>Pédiatrie</td>
+<td>
+<p align="center">Clinique</p>
+</td>
+<td>
+<p align="center">8 </p>
+</td>
+<td>
+<p align="center">4 </p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
 <td align="center"/>
-<td align="center">
-<br/>01 <br/>
+<td align="center">02 <br/>
 </td>
 <td align="center">
-<br/>Pédiatrie <br/>
+<p align="left">Chirurgie infantile <br/>
+</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>8 <br/>
 </td>
 <td align="center">
 <br/>4 <br/>
@@ -1211,7 +1430,117 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>2 <br/>
 </td>
 <td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
 <br/>1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">03 <br/>
+</td>
+<td align="center">
+<p align="left">Gynécologie-obstétrique ; gynécologie médicale (2 options) <br/>
+</p>
+</td>
+<td align="center">
+<br/>Clinique <br/>
+</td>
+<td align="center">
+<br/>6 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">04</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Endocrinologie, diabète et maladies métaboliques ; gynécologie médicale (2 options)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Clinique </p>
+</td>
+<td align="left" valign="top">
+<p align="center">6 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">3 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">1 </p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">05</td>
+<td align="center">
+<p align="left">Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options) </p>
+</td>
+<td align="center">Mixte <br/>
+</td>
+<td align="center">4 <br/>
+</td>
+<td align="center">2 <br/>
+</td>
+<td align="center">4 <br/>
+</td>
+<td align="center">2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">55</td>
+<td align="center"/>
+<td align="center">
+<p align="left">Pathologie de la tête et du cou :</p>
+</td>
+<td align="center"/>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center">01</p>
+</td>
+<td>Oto-rhino-laryngologie </td>
+<td>
+<p align="center">Clinique</p>
+</td>
+<td>
+<p align="center">6</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -1220,31 +1549,7 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 <br/>02 <br/>
 </td>
 <td align="center">
-<br/>Chirurgie infantile <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>03 <br/>
-</td>
-<td align="center">
-<br/>Gynécologie-obstétrique ; gynécologie médicale (2 options) <br/>
+<p align="left">Ophtalmologie</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
@@ -1264,116 +1569,10 @@ La liste des sections, des sous-sections et des options ainsi que le nombre des 
 </tr>
 <tr>
 <td align="center"/>
-<td align="center">
-<br/>04 <br/>
+<td align="center">03 <br/>
 </td>
 <td align="center">
-<br/>Endocrinologie, diabète et maladies métaboliques ; gynécologie médicale (2 options) <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>05 <br/>
-</td>
-<td align="center">
-<br/>Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options) <br/>
-</td>
-<td align="center">
-<br/>Mixte <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>4 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>55 <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Pathologie de la tête et du cou : <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>01 <br/>
-</td>
-<td align="center">
-<br/>Oto-rhino-laryngologie <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>02 <br/>
-</td>
-<td align="center">
-<br/>Ophtalmologie <br/>
-</td>
-<td align="center">
-<br/>Clinique <br/>
-</td>
-<td align="center">
-<br/>6 <br/>
-</td>
-<td align="center">
-<br/>3 <br/>
-</td>
-<td align="center">
-<br/>2 <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>03 <br/>
-</td>
-<td align="center">
-<br/>Chirurgie maxillo-faciale et stomatologie <br/>
+<p align="left">Chirurgie maxillo-faciale et stomatologie</p>
 </td>
 <td align="center">
 <br/>Clinique <br/>
