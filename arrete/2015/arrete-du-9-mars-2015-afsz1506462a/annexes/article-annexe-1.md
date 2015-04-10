@@ -2,1313 +2,1563 @@
 
 LISTE DES ÉTABLISSEMENTS DE SANTÉ CONCERNÉS PAR UN DÉMARRAGE DE LA FACTURATION INDIVIDUELLE LE 1ER MARS 2015 EN APPLICATION DE L'ARTICLE 1ER DU PRÉSENT ARRÊTÉ ET PÉRIMÈTRE DE CELLE-CI
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify">                     FINESS juridique<br/>
+<td>FINESS juridique<br/>
 </td>
-<td align="justify">                     240000117<br/>
-</td>
-</tr>
-<tr>
-<td align="justify">                     FINESS géographique<br/>
-</td>
-<td align="justify">                     240000489<br/>
+<td>
+<p align="left">240000117<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="justify">                     Etablissement<br/>
+<td>FINESS géographique<br/>
 </td>
-<td align="justify">                     CENTRE HOSPITALIER DE PÉRIGUEUX<br/>
-</td>
-</tr>
-<tr>
-<td align="justify">                     Code comptable<br/>
-</td>
-<td align="justify">                     024045<br/>
+<td>
+<p align="left">240000489<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="justify">                     Ville du comptable<br/>
+<td>Etablissement<br/>
 </td>
-<td align="justify">                     PÉRIGUEUX ÉTABLISSEMENTS HOSPITALIERS<br/>
-</td>
-</tr>
-<tr>
-<td align="justify">                     Code CPU<br/>
-</td>
-<td align="justify">                     01471<br/>
+<td>
+<p align="left">CENTRE HOSPITALIER DE PÉRIGUEUX<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="justify">                     Libellé CPU<br/>
+<td>Code comptable<br/>
 </td>
-<td align="justify">                     CPAM Agen<br/>
+<td>
+<p align="left">024045<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="justify">                     Périmètre de facturation<br/>
+<td>Ville du comptable<br/>
 </td>
-<td align="justify">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td>
+<p align="left">PÉRIGUEUX ÉTABLISSEMENTS HOSPITALIERS<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>Code CPU<br/>
+</td>
+<td>
+<p align="left">01471<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>Libellé CPU<br/>
+</td>
+<td>
+<p align="left">CPAM Agen<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>Périmètre de facturation<br/>
+</td>
+<td>
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     640781290<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     640000600<br/>
+<td align="left">
+<p align="left">640781290<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER DE PAU<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     064025<br/>
+<td align="left">
+<p align="left">640000600<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     PAU ÉTABLISSEMENT HOSPITALIERS<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01471<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER DE PAU<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Bayonne<br/>
+<td align="left">
+<p align="left">064025<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">PAU ÉTABLISSEMENT HOSPITALIERS<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01641<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Bayonne<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     400780193<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     400000105<br/>
+<td align="left">
+<p align="left">400780193<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER DE DAX<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     040032<br/>
+<td align="left">
+<p align="left">400000105<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     DAX CENTRE HOSPITALIER<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     02641<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER DE DAX<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     MSA Sud Aquitaine<br/>
+<td align="left">
+<p align="left">040032<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">DAX CENTRE HOSPITALIER<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">02641<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">MSA Sud Aquitaine<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     500000393<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     500000591<br/>
+<td align="left">
+<p align="left">500000393<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER COUTANCES<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     050006<br/>
+<td align="left">
+<p align="left">500000591<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     COUTANCES<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01141<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER COUTANCES<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Caen<br/>
+<td align="left">
+<p align="left">050006<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5°°et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">COUTANCES<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01141<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Caen<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5°°et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     140000035<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     140000027<br/>
+<td align="left">
+<p align="left">140000035<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER DE LISIEUX<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     014052<br/>
+<td align="left">
+<p align="left">140000027<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     LISIEUX INTERCOM<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01141<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER DE LISIEUX<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Caen<br/>
+<td align="left">
+<p align="left">014052<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">LISIEUX INTERCOM<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01141<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Caen<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     290000041<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     290000173<br/>
+<td align="left">
+<p align="left">290000041<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CH FERDINAND GRALL LANDERNEAU<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     029013<br/>
+<td align="left">
+<p align="left">290000173<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     LANDERNEAU<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01291<br/>
+<td align="left">
+<p align="left">CH FERDINAND GRALL LANDERNEAU<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM du Finistère<br/>
+<td align="left">
+<p align="left">029013<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">LANDERNEAU<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01291<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM du Finistère<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     120780044<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     120000039<br/>
+<td align="left">
+<p align="left">120780044<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CH DE RODEZ HÔPITAL JACQUES PUEL<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     012019<br/>
+<td align="left">120000039<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     RODEZ HÔPITAL<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     02121<br/>
+<td align="left">
+<p align="left">CH DE RODEZ HÔPITAL JACQUES PUEL<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     MSA Midi-Pyrénées Nord<br/>
+<td align="left">
+<p align="left">012019<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">RODEZ HÔPITAL<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">02121<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">MSA Midi-Pyrénées Nord<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     020000022<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     020000089<br/>
+<td align="left">
+<p align="left">020000022<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER DE GUISE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     002054<br/>
+<td align="left">
+<p align="left">020000089<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     GUISE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01801<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER DE GUISE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Amiens<br/>
+<td align="left">
+<p align="left">002054<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">GUISE<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01801<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Amiens<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify">                     FINESS juridique<br/>
+<td>FINESS juridique<br/>
 </td>
-<td align="left">                     130784127<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     130001647<br/>
+<td align="left">
+<p align="left">130784127<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     INSTITUT PAOLI CALMETTES<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     -<br/>
+<td align="left">
+<p align="left">130001647<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     -<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01131<br/>
+<td align="left">
+<p align="left">INSTITUT PAOLI CALMETTES<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Marseille<br/>
+<td align="left">-<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01131<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Marseille<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     740790381<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     740000328<br/>
+<td align="left">
+<p align="left">740790381<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CHI LES HÔPITAUX DU LÉMAN<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     074031<br/>
+<td align="left">
+<p align="left">740000328<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     THONON<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01741<br/>
+<td align="left">
+<p align="left">CHI LES HÔPITAUX DU LÉMAN<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Annecy<br/>
+<td align="left">
+<p align="left">074031<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">THONON<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01741<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Annecy<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     720012749<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     720000389<br/>
+<td align="left">
+<p align="left">720012749<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     FONDATION GEORGES COULON<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     -<br/>
+<td align="left">
+<p align="left">720000389<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     -<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01351<br/>
+<td align="left">
+<p align="left">FONDATION GEORGES COULON<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM La Roche-sur-Yon<br/>
+<td align="left">-<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01851<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM La Roche-sur-Yon<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     330780545<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     330000332<br/>
+<td align="left">
+<p align="left">330780545<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     HÔPITAL SUBURBAIN<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     -<br/>
+<td align="left">
+<p align="left">330000332<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     -<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01331<br/>
+<td align="left">
+<p align="left">HÔPITAL SUBURBAIN<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Bordeaux<br/>
+<td align="left">-<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01331<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Bordeaux<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     330796392<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     330780529<br/>                     330780495<br/>
+<td align="left">
+<p align="left">330796392<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     PAVILLON DE LA MUTUALITÉ<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     -<br/>
+<td align="left">
+<p align="left">330780529<br/>330780495<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     -<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01331<br/>
+<td align="left">
+<p align="left">PAVILLON DE LA MUTUALITÉ<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Bordeaux<br/>
+<td align="left">-<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01331<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Bordeaux<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     070005566<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     070000484<br/>                     070000609<br/>
+<td align="left">
+<p align="left">070005566<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CH D'ARDÈCHE MÉRIDIONALE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     007044<br/>
+<td align="left">
+<p align="left">070000484<br/>070000609<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     AUBENAS<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01261<br/>
+<td align="left">
+<p align="left">CH D'ARDÈCHE MÉRIDIONALE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Valence<br/>
+<td align="left">
+<p align="left">007044<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">AUBENAS<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01261<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Valence<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     130789316<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     130002835<br/>
+<td align="left">
+<p align="left">130789316<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER DE MARTIGUES<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     013215<br/>
+<td align="left">
+<p align="left">130002835<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     MARTIGUES<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01131<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER DE MARTIGUES<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Marseille<br/>
+<td align="left">
+<p align="left">013215<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">MARTIGUES<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01131<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Marseille<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     120780069<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     120001128<br/>                     120000054<br/>
+<td align="left">
+<p align="left">120780069<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CH VILLEFRANCHE-DE-ROUERGUE - LA CHARTREUSE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     012045<br/>
+<td align="left">
+<p align="left">120001128<br/>120000054<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     VILLEFRANCHE-DE-ROUERGUE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     02121<br/>
+<td align="left">
+<p align="left">CH VILLEFRANCHE-DE-ROUERGUE - LA CHARTREUSE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     MSA Midi-Pyrénées Nord<br/>
+<td align="left">
+<p align="left">012045<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">VILLEFRANCHE-DE-ROUERGUE<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">02121<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">MSA Midi-Pyrénées Nord<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="left">                     FINESS juridique<br/>
+<td align="left">FINESS juridique<br/>
 </td>
-<td align="left">                     160000485<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     160000311<br/>
+<td align="left">
+<p align="left">160000485<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     HOPITAL LABAJOUDERIE - CONFOLENS<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     016053<br/>
+<td align="left">
+<p align="left">160000311<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     CONFOLENS MUNICIPALE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     02171<br/>
+<td align="left">
+<p align="left">HOPITAL LABAJOUDERIE - CONFOLENS<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     MSA Charentes<br/>
+<td align="left">
+<p align="left">016053<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">CONFOLENS MUNICIPALE<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">02171<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">MSA Charentes<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify" valign="bottom">                     FINESS juridique<br/>
+<td valign="bottom">FINESS juridique<br/>
 </td>
-<td align="left" valign="bottom">                     290020700<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     290000066<br/>                     290000025<br/>
+<td align="left" valign="bottom">
+<p align="left">290020700<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CTRE HOSP.INTERCOM.CORNOUAILLE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     029216<br/>
+<td align="left">
+<p align="left">290000066<br/>290000025<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     QUIMPER CENTRES HOSPITALIERS<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01291<br/>
+<td align="left">
+<p align="left">CTRE HOSP.INTERCOM.CORNOUAILLE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM du Finistère<br/>
+<td align="left">
+<p align="left">029216<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">QUIMPER CENTRES HOSPITALIERS<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01291<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM du Finistère<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify" valign="bottom">                     FINESS juridique<br/>
+<td valign="bottom">FINESS juridique<br/>
 </td>
-<td align="left" valign="bottom">                     020004495<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     20001087<br/>
+<td align="left" valign="bottom">
+<p align="left">020004495<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER D'HIRSON<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     002081<br/>
+<td align="left">
+<p align="left">20001087<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     HIRSON<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01801<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER D'HIRSON<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Amiens<br/>
+<td align="left">
+<p align="left">002081<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">HIRSON<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01801<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Amiens<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify" valign="bottom">                     FINESS juridique<br/>
+<td valign="bottom">FINESS juridique<br/>
 </td>
-<td align="left" valign="bottom">                     440042844<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     350005021<br/>
+<td align="left" valign="bottom">
+<p align="left">440042844<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     UGECAM BRETAGNE ET PAYS DE LA LOIRE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     -<br/>
+<td align="left">
+<p align="left">350005021<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     -<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01351<br/>
+<td align="left">
+<p align="left">UGECAM BRETAGNE ET PAYS DE LA LOIRE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Rennes<br/>
+<td align="left">-<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01351<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Rennes<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify" valign="bottom">                     FINESS juridique<br/>
+<td valign="bottom">FINESS juridique<br/>
 </td>
-<td align="left" valign="bottom">                     140000092<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     140024886<br/>
+<td align="left" valign="bottom">
+<p align="left">140000092<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CENTRE HOSPITALIER DE BAYEUX<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     014005<br/>
+<td align="left">
+<p align="left">140024886<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     BAYEUX - MONCEAUX-EN-BESSIN<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01141<br/>
+<td align="left">
+<p align="left">CENTRE HOSPITALIER DE BAYEUX<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM Caen<br/>
+<td align="left">
+<p align="left">014005<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">BAYEUX - MONCEAUX-EN-BESSIN<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01141<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM Caen<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify" valign="bottom">                     FINESS juridique<br/>
+<td valign="bottom">FINESS juridique<br/>
 </td>
-<td align="left" valign="bottom">                     690031190<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     690780416<br/>
+<td align="left" valign="bottom">
+<p align="left">690031190<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     UMG DES ÉTABLISSEMENT DU GRAND LYON<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     -<br/>
+<td align="left">
+<p align="left">690780416<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     -<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     01691<br/>
+<td align="left">
+<p align="left">UMG DES ÉTABLISSEMENT DU GRAND LYON<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     CPAM du Rhône<br/>
+<td align="left">-<br/>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">-<br/>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">01691<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">CPAM du Rhône<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<td align="justify" valign="bottom">                     FINESS juridique<br/>
+<td valign="bottom">FINESS juridique<br/>
 </td>
-<td align="left" valign="bottom">                     170780175<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     FINESS géographique<br/>
-</td>
-<td align="left">                     170000103<br/>
+<td align="left" valign="bottom">
+<p align="left">170780175<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Etablissement<br/>
+<td align="left">FINESS géographique<br/>
 </td>
-<td align="left">                     CTRE HOSP. DE SAINTONGE - SAINTES<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code comptable<br/>
-</td>
-<td align="left">                     017037<br/>
+<td align="left">
+<p align="left">170000103<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Ville du comptable<br/>
+<td align="left">Etablissement<br/>
 </td>
-<td align="left">                     SAINTES ET BANLIEUE MUNICIPALE<br/>
-</td>
-</tr>
-<tr>
-<td align="left">                     Code CPU<br/>
-</td>
-<td align="left">                     02171<br/>
+<td align="left">
+<p align="left">CTRE HOSP. DE SAINTONGE - SAINTES<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Libellé CPU<br/>
+<td align="left">Code comptable<br/>
 </td>
-<td align="left">                     MSA Charentes<br/>
+<td align="left">
+<p align="left">017037<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left">                     Périmètre de facturation<br/>
+<td align="left">Ville du comptable<br/>
 </td>
-<td align="left">                     La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>                     - les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>                     - la rétrocession de médicaments ;<br/>                     - la facturation de la CMUC et des prestations aux migrants ;<br/>                     - pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>                     Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>                     - les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>                     - les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>                     - les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+<td align="left">
+<p align="left">SAINTES ET BANLIEUE MUNICIPALE<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Code CPU<br/>
+</td>
+<td align="left">
+<p align="left">02171<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Libellé CPU<br/>
+</td>
+<td align="left">
+<p align="left">MSA Charentes<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left">Périmètre de facturation<br/>
+</td>
+<td align="left">
+<p align="left">La facturation individuelle concerne les prestations de soins hospitaliers suivantes :<br/>- les actes et consultations externes visés à l'article L. 162-26 du code de la sécurité sociale, y compris les forfaits techniques d'imagerie ;<br/>- la rétrocession de médicaments ;<br/>- la facturation de la CMUC et des prestations aux migrants ;<br/>- pour les patients bénéficiaires de l'AME : les consultations et actes externes, les forfaits ATU, FFM, SE et APE et les forfaits IVG.<br/>Ne sont pas inclus dans le périmètre de la facturation individuelle :<br/>- les actes et consultations externes réalisés dans le cadre de l'activité libérale des praticiens hospitaliers temps plein ;<br/>- les forfaits ATU, FFM, SE et APE, qui continuent d'être financés via les arrêtés de versement pour les assurés sociaux et ne doivent être transmis en facturation directe que pour les bénéficiaires de l'AME ;<br/>- les consultations ou actes associés aux forfaits mentionnés aux 2°, 4°, 5° et 6° de l'article R. 162-32 du code de la sécurité sociale (ATU, FFM, SE et APE).<br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
