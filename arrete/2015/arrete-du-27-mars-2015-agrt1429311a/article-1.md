@@ -1,0 +1,3 @@
+# Article 1
+
+Les opérateurs déclarent annuellement, à l'organisme de défense et de gestion les quantités produites en vue d'une commercialisation, qu'il s'agisse d'une commercialisation au consommateur final ou à une entreprise de transformation, sur le marché intérieur ou à l'exportation, et quel qu'en soit le conditionnement. Ces quantités doivent apparaître dans la comptabilité matière des opérateurs et sont conformes aux dispositions du cahier des charges du signe concerné. Elles s'entendent déduction faite des quantités retirées à l'issue des autocontrôles et des contrôles internes prévus à l'article R. 642-39 du code rural et de la pêche maritime. L'organisme de défense et de gestion communique ces données à l'Institut national de l'origine et de la qualité.

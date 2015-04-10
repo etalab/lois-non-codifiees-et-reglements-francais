@@ -1,0 +1,7 @@
+# Article 11
+
+I. - Les opérateurs apporteurs de données dans le système national d'information génétique doivent recueillir un consentement écrit signé de chaque éleveur. Le document portant ce consentement contient la liste des données brutes pouvant être collectées dans l'élevage et précise, le cas échéant, que ce consentement vaut autorisation de produire des données élaborées à partir de ces données brutes. Ce document peut prévoir une liste d'accès et d'utilisations plus large que celles mentionnées à l'article 8. Les opérateurs apportant ou utilisant des données du système national d'information génétique doivent mettre en œuvre les dispositions nécessaires pour assurer le respect des consentements signés par les éleveurs.
+
+II. - Les données recueillies dans le cadre de l'application de l'article 8 sont du seul usage des organismes destinataires. Elles ne doivent pas être diffusées à des tiers.
+
+III. - Toute diffusion par ces organismes à des tiers ou tout accès aux données du système national d'information génétique des porcins, mentionnées dans le présent arrêté hors cadre fixé par les consentements écrits des éleveurs tels que prévus à l'article 10, doit faire l'objet d'un accord spécifique écrit préalable des éleveurs concernés. Cet accord précise les conditions d'utilisation des données transmises, qui doivent être reprises dans une convention de mise à disposition établie entre l'organisme émetteur et l'organisme destinataire.

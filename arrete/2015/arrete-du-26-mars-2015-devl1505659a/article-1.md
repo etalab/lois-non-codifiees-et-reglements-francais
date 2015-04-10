@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 marais tufeux du Châtillonnais » (zone spéciale de conservation FR 2600963) l'espace délimité sur la carte d'assemblage au 1/300 000 et les treize cartes au 1/25 000 ci-jointes, s'étendant dans le département de Côte-d'Or, sur une partie du territoire des communes suivantes : Avot, Beaulieu, Beneuvre, Brémur-et-Vaurois, Bure-les-Templiers, Chanceaux, Cussey-les-Forges, Frôlois, Gurgy-le-Château, Leuglay, Lignerolles, Marey-sur-Tille, Moitron, Recey-sur-Ource, Rochefort-sur-Brévon, Saint-Broing-les-Moines, Saint-Germain-le-Rocheux, Vernois-lès-Vesvres, Villedieu, Echalot.
