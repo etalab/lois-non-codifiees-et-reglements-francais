@@ -14,4 +14,6 @@ Le consul général de France à Karachi exerce, dans sa circonscription consula
 
 6. Les relations avec la marine marchande dans les conditions fixées par le décret du 21 novembre 1946 susvisé ;
 
-7. L'organisation des opérations de vote pour l'élection du Président de la République, le référendum et l'élection de l'Assemblée des Français de l'étranger et l'établissement des procurations de vote.
+7. L'organisation des opérations de vote pour l'élection du Président de la République, le référendum et l'élection de l'Assemblée des Français de l'étranger et l'établissement des procurations de vote ;
+
+8. La légalisation d'actes dans les conditions fixées par le décret n° 2007-1205 du 10 août 2007 relatif aux attributions du ministre des affaires étrangères, des ambassadeurs et des chefs de poste consulaire en matière de légalisation d'actes.
