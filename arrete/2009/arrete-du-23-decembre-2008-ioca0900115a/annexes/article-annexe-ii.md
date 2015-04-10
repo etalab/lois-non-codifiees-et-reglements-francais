@@ -1795,7 +1795,7 @@ Périmètre secrétariats généraux pour l'administration du ministère de l'in
 <br/>SGAMI de la zone de défense et de sécurité Est/Metz<br/>
 </td>
 <td align="left">
-<br/>Responsable de l'atelier auto<br/>
+<br/>Responsable réception à l'atelier auto<br/>
 </td>
 <td align="center">
 <br/>1<br/>
@@ -1832,8 +1832,7 @@ Périmètre secrétariats généraux pour l'administration du ministère de l'in
 </tr>
 <tr>
 <td align="center">
-<br/>37<br/>
-</td>
+<br/>76</td>
 <td align="left">
 <br/>SGAMI de la zone de défense et de sécurité Ouest/Oissel<br/>
 </td>
@@ -2077,10 +2076,10 @@ Périmètre gendarmerie nationale
 <br/>77<br/>
 </td>
 <td align="left" valign="middle">
-<br/>RZG IDF/EOGN Melun/BBSAI<br/>
+<br/>RZG IdF/EOGN Melun/BBSAI<br/>
 </td>
 <td align="left">
-<br/>Chef de l'atelier peinture<br/>
+<br/>Chef de l'atelier menuiserie<br/>
 </td>
 <td align="center">
 <br/>1<br/>
@@ -2101,9 +2100,7 @@ Périmètre gendarmerie nationale
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60<br/>
-</td>
+<td align="center">21</td>
 <td align="left" valign="middle">
 <br/>RZG METZ/RG Bourgogne/CM Dijon<br/>
 </td>
@@ -2116,7 +2113,7 @@ Périmètre gendarmerie nationale
 </tr>
 <tr>
 <td align="center">
-<br/>60<br/>
+<br/>80<br/>
 </td>
 <td align="left" valign="middle">
 <br/>RZG Picardie/cercle mixte/Amiens<br/>
@@ -2158,10 +2155,10 @@ Périmètre gendarmerie nationale
 </tr>
 <tr>
 <td align="center">
-<br/>44<br/>
+<br/>31<br/>
 </td>
 <td align="left" valign="middle">
-<br/>RZG Aquitaine/RG Midi-Pyrénées/CM Toulouse<br/>
+<br/>RZG AQUITAINE/RG Midi-Pyrénées/CM Toulouse<br/>
 </td>
 <td align="left">
 <br/>Chef de cuisine<br/>

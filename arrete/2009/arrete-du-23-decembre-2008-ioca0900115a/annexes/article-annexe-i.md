@@ -11,7 +11,7 @@ Périmètre préfectures
 <p align="center">LOCALISATION</p>
 </td>
 <td>
-<p align="center"> FONCTION</p>
+<p align="center">FONCTION</p>
 </td>
 <td>
 <p align="center">NOMBRE<br/>d'emplois</p>
@@ -278,13 +278,13 @@ Périmètre secrétariats généraux pour l'administration du ministère de l'in
 <tbody>
 <tr>
 <td colspan="2">
-<p align="center"> LOCALISATION</p>
+<p align="center">LOCALISATION</p>
 </td>
 <td>
 <p align="center">FONCTION</p>
 </td>
 <td>
-<p align="center"> NOMBRE<br/>d'emplois </p>
+<p align="center">NOMBRE<br/>d'emplois </p>
 </td>
 </tr>
 <tr>
@@ -450,7 +450,7 @@ Périmètre gendarmerie nationale
 <tbody>
 <tr>
 <td colspan="2">
-<p align="center"> LOCALISATION</p>
+<p align="center">LOCALISATION</p>
 </td>
 <td>
 <p align="center">FONCTION</p>
@@ -482,18 +482,18 @@ Périmètre sécurité civile
 <tbody>
 <tr>
 <td colspan="2">
-<p align="center"> LOCALISATION</p>
+<p align="center">LOCALISATION</p>
 </td>
 <td>
-<p align="center"> FONCTION </p>
+<p align="center">FONCTION </p>
 </td>
 <td>
-<p align="center"> NOMBRE<br/>d'emplois </p>
+<p align="center">NOMBRE<br/>d'emplois </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>57 <br/>
+<br/>13 <br/>
 </td>
 <td align="left">
 <br/>Direction de la sécurité civile/ ESOL Sud <br/>
@@ -514,7 +514,7 @@ Périmètre de l'administration centrale
 <tbody>
 <tr>
 <td colspan="2">
-<p align="center"> LOCALISATION</p>
+<p align="center">LOCALISATION</p>
 </td>
 <td>
 <p align="center">FONCTION</p>
