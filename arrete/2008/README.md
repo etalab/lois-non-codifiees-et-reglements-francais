@@ -329,7 +329,6 @@
 - [Arrêté du 10 octobre 2008 (IOCD0822802A)](arrete-du-10-octobre-2008-iocd0822802a)
 - [Arrêté du 10 octobre 2008 (IOCE0824193A)](arrete-du-10-octobre-2008-ioce0824193a)
 - [Arrêté du 10 octobre 2008 (MAEA0823233A)](arrete-du-10-octobre-2008-maea0823233a)
-- [Arrêté du 10 octobre 2008 (SJSH0825580A)](arrete-du-10-octobre-2008-sjsh0825580a)
 - [Arrêté du 10 septembre 2008 (AGRE0821908A)](arrete-du-10-septembre-2008-agre0821908a)
 - [Arrêté du 10 septembre 2008 (AGRM0821906A)](arrete-du-10-septembre-2008-agrm0821906a)
 - [Arrêté du 10 septembre 2008 (BCFD0824770A)](arrete-du-10-septembre-2008-bcfd0824770a)
