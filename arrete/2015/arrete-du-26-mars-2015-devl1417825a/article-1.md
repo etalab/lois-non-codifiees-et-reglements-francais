@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation " site Natura 2000 vallée de l'Autize " (zone spéciale de conservation FR 5400443) l'espace délimité sur la carte d'assemblage au 1/80 000 et les cinq cartes au 1/25 000 ci-jointes, s'étendant dans le département des Deux-Sèvres, sur une partie du territoire des communes suivantes : Allonne, Ardin, Béceleuf, Le Beugnon, La Boissière-en-Gâtine, La Chapelle-Thireuil, Coulonges-sur-l'Autize, Cours, Fenioux, Les Groseillers, Pamplie, Puihardy, Le Retail, Saint-Marc-la-Lande, Saint-Pardoux, Saint-Pompain, Scillé, Secondigny, Surin, Vernoux-en-Gâtine, Xaintray.
