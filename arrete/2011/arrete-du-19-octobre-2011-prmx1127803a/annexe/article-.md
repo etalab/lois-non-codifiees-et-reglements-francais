@@ -130,4 +130,14 @@ Liste des opérations ouvrant droit dans les directions départementales intermi
 
 - restructuration des implantations territoriales de Chalon-sur-Saône, Montceau-les-Mines et Mâcon et des antennes de Louhans et Paray-le-Monial de la direction départementale des territoires de Saône-et-Loire ;
 
-- fermeture du site des Herbiers, restructuration des sites de La Roche-sur-Yon et de Fontenay-le-Comte et reconfiguration des implantations territoriales de Challans et des Sables-d'Olonne de la direction départementale des territoires et de la mer de la Vendée.
+- fermeture du site des Herbiers, restructuration des sites de La Roche-sur-Yon et de Fontenay-le-Comte et reconfiguration des implantations territoriales de Challans et des Sables-d'Olonne de la direction départementale des territoires et de la mer de la Vendée ;
+
+- fermeture de la délégation territoriale de Foix - Saint-Girons et de la délégation de Pamiers-Lavelanet de la direction départementale des territoires de l'Ariège ;
+
+- fermeture des sites de Quimperlé, Pont-l'Abbé, Landerneau, Saint-Renan et Carhaix et restructuration des sites de Concarneau, Quimper, Douarnenez, Chateauneuf, Brest et Morlaix de la direction départementale des territoires et de la mer du Finistère ;
+
+- restructuration des sites de Capbreton, Parentis et Hagetmau de la direction départementale des territoires et de la mer des Landes ;
+
+- fermeture de l'unité territoriale de Font-Romeu et réorganisation des sites de Prades et Céret de la direction départementale des territoires et de la mer des Pyrénées-Orientales ;
+
+- fermeture du service d'instruction des demandes de transports exceptionnels et restructuration du service d'application du droit des sols de la direction départementale des territoires de l'Yonne.
