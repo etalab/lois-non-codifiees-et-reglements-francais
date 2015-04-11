@@ -31,7 +31,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">3 octobre 2001 </p>
 </td>
 <td>
-<p align="center">2 octobre 2013 </p>
+<p align="center">2 octobre 2015 </p>
 </td>
 </tr>
 <tr>
@@ -60,13 +60,13 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes. </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">1er novembre 1991 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">31 octobre 1994 </p>
 </td>
 </tr>
@@ -114,13 +114,13 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Territoire du Congo et pays limitrophes </p>
+<td align="left" valign="top">
+<p align="left">Territoire du Congo et pays limitrophes </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">19 mars 1997 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">18 mars 2000 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">19 septembre 2002 </p>
 </td>
 <td>
-<p align="center">17 septembre 2012 </p>
+<p align="center">17 septembre 2014 </p>
 </td>
 </tr>
 <tr>
@@ -193,14 +193,14 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Dans le cadre de la mission des Nations unies de stabilisation en Haïti (MINUSTAH) sur les territoires de la République d'Haïti et des pays et eaux avoisinants </p>
 </td>
-<td>
-<p>19 février 2004 </p>
+<td align="left" valign="top">
+<p align="center">19 février 2004 </p>
 </td>
-<td>
-<p>18 février 2012 </p>
+<td align="left" valign="top">
+<p align="center">18 février 2014 </p>
 </td>
 </tr>
 <tr>
@@ -211,11 +211,29 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage). </p>
 </td>
-<td colspan="2">
+<td align="left" colspan="2" valign="top">
 <p align="center">A compter du 1er avril 1991 et jusqu'à cessation des hostilités </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<strong>Royaume de Jordanie</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Dans le cadre de l'opération Tamour sur le territoire du Royaume de Jordanie </p>
+</td>
+<td>
+<p align="center">6 août 2012 </p>
+</td>
+<td>
+<p align="center">5 août 2014 </p>
 </td>
 </tr>
 <tr>
@@ -226,13 +244,13 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman et de la République de Djibouti et leurs eaux avoisinantes ainsi que sur les eaux de la mer Rouge</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">8 décembre 2008</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">7 décembre 2010</p>
 </td>
 </tr>
@@ -244,15 +262,14 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
-<p>
-<br/>Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman, de la République de Djibouti, de la République de Tanzanie, de la République du Mozambique, de Madagascar et leurs eaux avoisinantes (limitées à l'est par le méridien Est 065°, au nord par le parallèle Nord 022° 30 et au sud par le parallèle Sud 015°) ainsi que les eaux de la mer Rouge limitées à la zone sud d'une ligne reliant la frontière Erythrée-Soudan à la frontière Yémen-Arabie saoudite</p>
+<td align="left" valign="top">
+<p>Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman, de la République de Djibouti, de la République de Tanzanie, de la République du Mozambique, de Madagascar et leurs eaux avoisinantes (limitées à l'est par le méridien Est 065°, au nord par le parallèle Nord 022° 30 et au sud par le parallèle Sud 015°) ainsi que les eaux de la mer Rouge limitées à la zone sud d'une ligne reliant la frontière Erythrée-Soudan à la frontière Yémen-Arabie saoudite</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">8 décembre 2010</p>
 </td>
-<td>
-<p align="center">7 décembre 2013</p>
+<td align="left" valign="top">
+<p align="center">7 décembre 2015</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +342,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">1er mai 2011 </p>
 </td>
 <td>
-<p align="center">30 avril 2013 </p>
+<p align="center">30 avril 2015 </p>
 </td>
 </tr>
 <tr>
@@ -353,10 +370,37 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </p>
 </td>
 <td>
-<p align="center">30 mars 1947 </p>
+<p align="center">30 mars 1947</p>
 </td>
 <td>
-<p align="center">1er octobre 1949 </p>
+<p align="center">1er octobre 1949</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<strong>République du Mali</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Dans le cadre de l'opération "Serval" sur les territoires de la République du Mali, de la République islamique de Mauritanie, de la République du Sénégal, de la République de Côte d'Ivoire, du Burkina Faso, de la République du Niger et de la République du Tchad </p>
+</td>
+<td align="left" valign="top">
+<p align="center">10 janvier 2013 </p>
+</td>
+<td align="left" valign="top">
+<p align="center">9 janvier 2015 </p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -448,31 +492,40 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <tr>
 <td>
 <p>3e période </p>
-<p>Opération Boali </p>
+<p>Opération "Boali"</p>
 </td>
 <td>
 <p align="center">3 décembre 2002 </p>
 </td>
 <td>
-<p align="center">1er décembre 2012 </p>
+<p align="center">1er décembre 2014 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Dans le cadre de l'opération "Sangaris" sur les territoires de la République Centrafricaine, du Cameroun et du Tchad</p>
+</td>
+<td>
+<p align="center">5 décembre 2013 </p>
+</td>
+<td>
+<p align="center">4 décembre 2015</p>
 </td>
 </tr>
 <tr>
 <td>
 <p>Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT) </p>
 </td>
-<td colspan="2">
-<br/>
-</td>
+<td colspan="2"/>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>1re période </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">25 septembre 2007 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">24 septembre 2008 </p>
 </td>
 </tr>
@@ -535,14 +588,14 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p>Dans le cadre de l'opération MONUSCO (Mission de l'organisation des Nations unies pour la stabilisation en République démocratique du Congo) sur le territoire de la République démocratique du Congo </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">2 juin 2011 </p>
 </td>
-<td>
-<p align="center">1er juin 2013 </p>
+<td align="left" valign="top">
+<p align="center">1er juin 2015 </p>
 </td>
 </tr>
 <tr>
@@ -591,9 +644,7 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <td>
 <p>Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT) </p>
 </td>
-<td colspan="2">
-<br/>
-</td>
+<td colspan="2"/>
 </tr>
 <tr>
 <td>
