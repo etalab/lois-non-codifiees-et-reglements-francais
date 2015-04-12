@@ -116,6 +116,7 @@
 - [DÉCRET n°2014-1483 du 10 décembre 2014 (MAEM1414286D)](decret-n2014-1483-du-10-decembre-2014-maem1414286d)
 - [Décret n°2014-607 du 10 juin 2014 (JUSB1405851D)](decret-n2014-607-du-10-juin-2014-jusb1405851d)
 - [DÉCRET n°2015-146 du 10 février 2015 (PRMX1424636D)](decret-n2015-146-du-10-fevrier-2015-prmx1424636d)
+- [DÉCRET n°2015-149 du 10 février 2015 (FCPE1127932D)](decret-n2015-149-du-10-fevrier-2015-fcpe1127932d)
 - [DÉCRET n°2015-150 du 10 février 2015 (AFSH1414010D)](decret-n2015-150-du-10-fevrier-2015-afsh1414010d)
 - [DÉCRET n°2015-151 du 10 février 2015 (ETSD1428498D)](decret-n2015-151-du-10-fevrier-2015-etsd1428498d)
 - [DÉCRET n°2015-152 du 10 février 2015 (RDFB1501579D)](decret-n2015-152-du-10-fevrier-2015-rdfb1501579d)
