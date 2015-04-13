@@ -8,6 +8,10 @@ Gestion de l'autorisation nationale de pêche de la sole commune (Solea solea) e
 
 L'autorisation nationale de pêche est délivrée par le préfet de la région compétent. Celui-ci peut déléguer cette compétence aux chefs de services déconcentrés dans les conditions fixées par le décret du 29 avril 2004.
 
+Pour l'année 2015, exceptionnellement et sans préjudice du respect des dispositions de l'article 3, toute demande d'autorisation nationale doit être déposée avant le 13 avril 2015.
+
+Aucun navire ne se verra délivrer une autorisation s'il n'est pas équipé d'un système de surveillance par satellite de type vessel monitoring system (VMS) installé et validé à la date du 1er juin 2015 dans les conditions prévues par l'arrêté du 10 janvier 2012 susvisé.
+
 3. Les imprimés de demande d'autorisation nationale de pêche sont disponibles sur le site du ministère chargé des pêches maritimes et de l'aquaculture.
 
 4. Tout couple navire-armateur éligible à cette autorisation nationale de pêche pour laquelle aucune demande n'est déposée avant le 1er février de l'année en cours est supprimé, pour l'année de gestion en cours, de la liste d'éligibilité visée au paragraphe 3 de l'article 4 du présent arrêté.
