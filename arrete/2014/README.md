@@ -1924,7 +1924,6 @@
 - [ARRÊTÉ du 22 décembre 2014 (DEVD1425923A)](arrete-du-22-decembre-2014-devd1425923a)
 - [ARRÊTÉ du 22 décembre 2014 (EINC1427396A)](arrete-du-22-decembre-2014-einc1427396a)
 - [ARRÊTÉ du 22 décembre 2014 (FCPE1430770A)](arrete-du-22-decembre-2014-fcpe1430770a)
-- [ARRÊTÉ du 22 décembre 2014 (INTC1428880A)](arrete-du-22-decembre-2014-intc1428880a)
 - [ARRÊTÉ du 22 décembre 2014 (INTC1428886A)](arrete-du-22-decembre-2014-intc1428886a)
 - [ARRÊTÉ du 22 décembre 2014 (INTS1416537A)](arrete-du-22-decembre-2014-ints1416537a)
 - [ARRÊTÉ du 22 décembre 2014 (INTS1429468A)](arrete-du-22-decembre-2014-ints1429468a)
