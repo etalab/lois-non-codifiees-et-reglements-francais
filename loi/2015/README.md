@@ -18,3 +18,4 @@
 - [LOI n°2015-366 du 31 mars 2015 (RDFX1303221L)](loi-n2015-366-du-31-mars-2015-rdfx1303221l)
 - [LOI n°2015-381 du 3 avril 2015 (RDFX1430530L)](loi-n2015-381-du-3-avril-2015-rdfx1430530l)
 - [LOI n°2015-382 du 3 avril 2015 (RDFX1430534L)](loi-n2015-382-du-3-avril-2015-rdfx1430534l)
+- [LOI n°2015-411 du 13 avril 2015 (EINX1506507L)](loi-n2015-411-du-13-avril-2015-einx1506507l)

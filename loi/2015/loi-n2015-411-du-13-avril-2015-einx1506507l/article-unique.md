@@ -1,0 +1,3 @@
+# Article unique
+
+Le Gouvernement remet annuellement au Parlement, le premier mardi d'octobre, un rapport présentant l'évolution, sur les années passées, de nouveaux indicateurs de richesse, tels que des indicateurs d'inégalités, de qualité de vie et de développement durable, ainsi qu'une évaluation qualitative ou quantitative de l'impact des principales réformes engagées l'année précédente et l'année en cours et de celles envisagées pour l'année suivante, notamment dans le cadre des lois de finances, au regard de ces indicateurs et de l'évolution du produit intérieur brut. Ce rapport peut faire l'objet d'un débat devant le Parlement.
