@@ -2,7 +2,7 @@
 
 Le dossier à fournir par l'entreprise en réponse à la mise en demeure du préfet de région ou, le cas échéant, du préfet de Mayotte, prévue au I de l'article 11 du décret du 16 août 1985 susvisé et au I de l'article 9-5 du décret du 30 août 1999 susvisé, comprend les documents suivants :
 
-― une analyse de la situation financière de l'entreprise (analyse du fonds de roulement et des soldes intermédiaires de gestion) portant sur les trois derniers exercices comptables, établie par un expert-comptable, un commissaire aux comptes ou un centre de gestion agréé ;
+― une analyse de la situation financière de l'entreprise (analyse du fonds de roulement et des soldes intermédiaires de gestion) portant sur les trois derniers exercices comptables, établie par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité ;
 
 ― une analyse financière prévisionnelle portant sur les trois prochains exercices comptables, détaillant en particulier l'évolution du chiffre d'affaires, du résultat d'exploitation, du résultat net et des capitaux propres ;
 
