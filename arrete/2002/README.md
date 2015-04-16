@@ -615,8 +615,6 @@
 - [Arrêté du 29 janvier 2002 (JUSA0100399A)](arrete-du-29-janvier-2002-jusa0100399a)
 - [Arrêté du 29 janvier 2002 (JUSA0100400A)](arrete-du-29-janvier-2002-jusa0100400a)
 - [Arrêté du 29 janvier 2002 (MCCB0200088A)](arrete-du-29-janvier-2002-mccb0200088a)
-- [Arrêté du 29 janvier 2002 (MCCB0200089A)](arrete-du-29-janvier-2002-mccb0200089a)
-- [Arrêté du 29 janvier 2002 (MCCB0200090A)](arrete-du-29-janvier-2002-mccb0200090a)
 - [Arrêté du 29 janvier 2002 (MENS0200234A)](arrete-du-29-janvier-2002-mens0200234a)
 - [Arrêté du 29 janvier 2002 (MENS0200235A)](arrete-du-29-janvier-2002-mens0200235a)
 - [Arrêté du 29 mars 2002 (AGRP0200704A)](arrete-du-29-mars-2002-agrp0200704a)
