@@ -553,7 +553,6 @@
 - [Arrêté du 30 mai 2005 (MENE0500957A)](arrete-du-30-mai-2005-mene0500957a)
 - [Arrêté du 31 décembre 2004 (EQUR0401133A)](arrete-du-31-decembre-2004-equr0401133a)
 - [Arrêté du 31 décembre 2004 (SANH0520003A)](arrete-du-31-decembre-2004-sanh0520003a)
-- [Arrêté du 31 janvier 2005 (MJSK0570011A)](arrete-du-31-janvier-2005-mjsk0570011a)
 - [Arrêté du 31 janvier 2005 (SANH0520335A)](arrete-du-31-janvier-2005-sanh0520335a)
 - [Arrêté du 31 janvier 2005 (SANS0520363A)](arrete-du-31-janvier-2005-sans0520363a)
 - [Arrêté du 31 janvier 2005 (SOCU0510098A)](arrete-du-31-janvier-2005-socu0510098a)
