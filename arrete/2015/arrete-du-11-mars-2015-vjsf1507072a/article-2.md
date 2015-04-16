@@ -1,0 +1,3 @@
+# Article 2
+
+Le recyclage est organisé par l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme. L'organisation peut faire l'objet, en tout ou en partie, d'un conventionnement avec un organisme de formation, après avis de la section permanente de l'alpinisme de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, conformément à un cahier des charges établi par l'Ecole nationale des sports de montagne, site de l'Ecole nationale de ski et d'alpinisme, publié au Bulletin officiel de la jeunesse et des sports et sur le site de l'Ecole nationale des sports de montagne, dont le cadre général est défini en annexe au présent arrêté.

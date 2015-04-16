@@ -174,6 +174,8 @@
 - [DÉCRET n°2015-288 du 13 mars 2015 (MENH1429020D)](decret-n2015-288-du-13-mars-2015-menh1429020d)
 - [DÉCRET n°2015-289 du 13 mars 2015 (AGRG1421917D)](decret-n2015-289-du-13-mars-2015-agrg1421917d)
 - [DÉCRET n°2015-290 du 13 mars 2015 (MCCB1427888D)](decret-n2015-290-du-13-mars-2015-mccb1427888d)
+- [DÉCRET n°2015-413 du 13 avril 2015 (INTJ1504532D)](decret-n2015-413-du-13-avril-2015-intj1504532d)
+- [DÉCRET n°2015-414 du 13 avril 2015 (OMEO1502897D)](decret-n2015-414-du-13-avril-2015-omeo1502897d)
 - [Décret n°83-817 du 13 septembre 1983](decret-n83-817-du-13-septembre-1983)
 - [DÉCRET n°2015-169 du 14 février 2015 (JUSE1431120D)](decret-n2015-169-du-14-fevrier-2015-juse1431120d)
 - [DÉCRET n°2015-26 du 14 janvier 2015 (INTD1430748D)](decret-n2015-26-du-14-janvier-2015-intd1430748d)
