@@ -2,7 +2,7 @@
 
 Les opérations de restructuration de service listées ci-après ouvrent droit au bénéfice de la prime de restructuration de service et, le cas échéant, de l'allocation d'aide à la mobilité du conjoint :
 
-1° La réorganisation des services d ’ administration centrale et des services à compétence nationale qui leur sont rattachés ;
+1° La réorganisation des services d'administration centrale et des services à compétence nationale qui leur sont rattachés ;
 
 2° Les restructurations des directions régionales de l'industrie, de la recherche et de l'environnement, des directions régionales de l'environnement et des directions régionales de l'équipement dans le cadre de leur regroupement au sein des directions régionales de l'environnement, de l'aménagement et du logement, ainsi que dans le cadre d'opérations de mutualisation de fonctions supports ;
 
@@ -94,4 +94,6 @@ Les opérations de restructuration de service listées ci-après ouvrent droit a
 
 45° La restructuration de la mission interministérielle d'inspection du logement social dans le cadre de la création de l'Agence nationale du contrôle du logement social ;
 
-46° Le transfert à La Défense des services du commissariat général au développement durable implantés à Paris.
+46° Le transfert à La Défense des services du commissariat général au développement durable implantés à Paris ;
+
+47° Le transfert de la direction de la communication de La Défense au boulevard Saint-Germain à Paris.
