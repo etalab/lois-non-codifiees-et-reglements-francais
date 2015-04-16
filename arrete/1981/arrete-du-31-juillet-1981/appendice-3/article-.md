@@ -98,6 +98,8 @@ Néanmoins la qualification FI(S) partie FCL délivrée par conversion est restr
 
 Cette restriction pourra être levée dès lors que son titulaire a suivi une formation complémentaire à l'instruction au vol en campagne comprenant au minimum 8 heures de formation théorique et de formation pratique en double commande.
 
+Cette restriction devra être levée au plus tard le 8 avril 2021.
+
 3.2. Privilège d'instruction au vol sur TMG
 
 Le titulaire d'une qualification instructeur de pilote de planeur (ITP) qui justifie, à la date de la conversion de sa qualification, d'une expérience de 20 heures en tant que PIC sur planeur à dispositif d'envol incorporé (TMG) se voit délivrer une qualification d'instructeur de vol planeur FI(S) partie FCL dont les privilèges sont étendus à l'instruction au vol sur TMG.
