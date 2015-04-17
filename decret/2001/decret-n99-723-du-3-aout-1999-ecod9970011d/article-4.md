@@ -1,3 +1,3 @@
 # Article 4
 
-Les véhicules pour lesquels l'utilisation de fioul domestique à la carburation est autorisée sur le fondement de l'article 265 B du code des douanes ne sont pas considérés comme des véhicules routiers et sont en conséquence exclus du bénéfice du remboursement de la taxe sur les quantités de gazole qu'ils pourraient consommer.
+Les véhicules autorisés à consommer du gazole sous condition d'emploi visé aux indices 20 et 21 du tableau B du 1 de l'article 265 du code des douanes sur le fondement de l'article 265 B du code des douanes, sont exclus du bénéfice du remboursement de la taxe sur les quantités de gazole qu'ils pourraient consommer.
