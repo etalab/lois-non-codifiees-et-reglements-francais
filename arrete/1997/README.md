@@ -192,7 +192,6 @@
 - [Arrêté du 7 avril 1997 (MCCB9700214A)](arrete-du-7-avril-1997-mccb9700214a)
 - [Arrêté du 7 décembre 1997 (ECOI9700797A)](arrete-du-7-decembre-1997-ecoi9700797a)
 - [Arrêté du 7 février 1997 (ECOP9700067A)](arrete-du-7-fevrier-1997-ecop9700067a)
-- [Arrêté du 7 février 1997 (ECOP9700068A)](arrete-du-7-fevrier-1997-ecop9700068a)
 - [Arrêté du 7 février 1997 (ECOT9710295A)](arrete-du-7-fevrier-1997-ecot9710295a)
 - [Arrêté du 7 février 1997 (MIPP9700017A)](arrete-du-7-fevrier-1997-mipp9700017a)
 - [Arrêté du 7 février 1997 (TAST9710219A)](arrete-du-7-fevrier-1997-tast9710219a)
