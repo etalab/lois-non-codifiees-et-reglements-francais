@@ -80,7 +80,6 @@
 - [Décret n°2002-1262 du 15 octobre 2002 (MENF0201967D)](decret-n2002-1262-du-15-octobre-2002-menf0201967d)
 - [Décret n°2002-358 du 15 mars 2002 (EQUU0200563D)](decret-n2002-358-du-15-mars-2002-equu0200563d)
 - [Décret n°2002-69 du 15 janvier 2002 (RECF0100351D)](decret-n2002-69-du-15-janvier-2002-recf0100351d)
-- [Décret n°2003-363 du 15 avril 2003 (EQUP0300181D)](decret-n2003-363-du-15-avril-2003-equp0300181d)
 - [Décret n°74-449 du 15 mai 1974](decret-n74-449-du-15-mai-1974)
 - [Décret n°2002-522 du 16 avril 2002 (MENS0200792D)](decret-n2002-522-du-16-avril-2002-mens0200792d)
 - [Décret n°2002-532 du 16 avril 2002 (EQUP0200349D)](decret-n2002-532-du-16-avril-2002-equp0200349d)
