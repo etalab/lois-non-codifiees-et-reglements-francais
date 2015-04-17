@@ -1,7 +1,7 @@
 # Article 1
 
-Pour l'application de l'article 265 sexies du code des douanes, l'exploitant de taxi bénéficiaire du remboursement de la taxe intérieure de consommation sur les carburants s'entend :
+Pour l'application de l'article 265 sexies du code des douanes, l'exploitant de taxi bénéficiaire du remboursement de la taxe intérieure de consommation sur les carburants s'entend de la personne titulaire d'une ou plusieurs autorisations de stationnement  :
 
-1° De la personne titulaire des autorisations de stationnement qui exploite elle-même par ses propres moyens, ou avec son conjoint, ou avec des salariés, un ou plusieurs taxis ;
+1° Qui assure personnellement l'exploitation effective et continue du ou des taxis, ou avec des salariés  ;
 
-2° De la personne qui prend en location pour l'exploiter un taxi, auprès d'une personne titulaire d'autorisations de stationnement.
+2° Qui consent la location du véhicule de taxi à un conducteur de taxi.
