@@ -1,0 +1,3 @@
+# Article 3
+
+Dès lors qu'ils remplissent les conditions requises pour l'avancement de grade fixées par le statut particulier du corps auquel ils appartiennent, les fonctionnaires des corps de France Télécom mentionnés à l'article 1er dont les décrets portant statut particulier prévoient un avancement de grade par la seule voie du concours professionnel peuvent bénéficier d'un avancement de grade ou être promus dans un nouveau corps après une sélection spécifique opérée par voie de concours s'ils justifient des conditions fixées par les statuts particuliers du nouveau corps pour se présenter au concours pour l'accès à ce nouveau corps.
