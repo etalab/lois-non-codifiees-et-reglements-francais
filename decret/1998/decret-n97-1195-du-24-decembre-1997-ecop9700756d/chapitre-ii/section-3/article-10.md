@@ -10,9 +10,61 @@ Sont prises par les directeurs interrégionaux, les chefs de service à compéte
 
 2 bis Autorisation d'importer et d'exporter des marchandises en franchise de droits de douane, prévue par le règlement du 28 mars 1983 susvisé ;
 
-2 ter La mainlevée et sa suspension, la retenue et la levée de la retenue des marchandises, prévues au 1 des articles 4 et 9, et au 1 des articles 13 et 14 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 ;
+2 ter La retenue et la suspension de la mainlevée des marchandises prévues aux articles 17 et 18 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 et au premier alinéa des articles L. 335-10, L. 335-11, L. 521-14, L. 521-15, L. 614-32, L. 614-33, L 623-36, L. 623-37, L. 716-8, L. 716-8-1, L. 722-9 et L. 722-10 du code de la propriété intellectuelle ;
 
-2 quater : Décisions de prélèvement d'échantillons et de leur remise au titulaire du droit, prévues par l'article 9 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 et par les articles L. 521-17 et L. 716-8-3 du code de la propriété intellectuelle ;
+2 quater La mainlevée des marchandises prévue par les articles 17,18, au 1 de l'article 23 et au 9 de l'article 24 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013, au quatrième alinéa des articles L. 335-10, L. 335-11, L. 521-14, L. 521-15, L. 614-32, L. 614-33, L. 623-36, L. 623-37, L. 716-8, L. 716-8-1, L. 722-9, L. 722-10, au III des articles L. 335-14, L. 521-17-1, L. 614-36, L. 623-40, L. 716-8-4, L. 722-13 et au IV des articles
+L. 335-15
+,
+L. 521-17-2
+,
+L. 614-37
+,
+L. 716-8-5
+et
+L. 722-14
+du code de la propriété intellectuelle ;
+
+2 quater-0 L'autorisation de circulation sous surveillance douanière des marchandises, destinées à être détruites prévue au 2 de l'article 25 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 ;
+
+2 quater-1 La décision de prélèvement d'échantillons prévue à article 19 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 et aux articles
+L. 335-13
+,
+L. 521-17
+,
+L. 614-35
+,
+L. 623-39
+,
+L. 716-8-3
+et
+L. 722-12
+du code de la propriété intellectuelle ;
+
+2 quater-2 La décision de destruction des marchandises soupçonnées de contrefaçon prévue au 1 de l'article 23 et aux 3 et 8 de l'article 26 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 et aux articles
+L. 335-14
+,
+L. 335-15
+,
+L. 521-17-1
+,
+L. 521-17-2
+,
+L. 614-36
+,
+L. 614-37
+,
+L. 623-40
+,
+L. 716-8-4
+,
+L. 716-8-5
+,
+L. 722-13
+et
+L. 722-14
+du code de la propriété intellectuelle ;
+
+2 quater-3 La prorogation du délai de la retenue prévue au 4 de l'article 23 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 et au III des articles L. 335-14, L. 521-17-1, L. 614-36, L. 623-40, L. 716-8-4, L. 722-13 ;
 
 2 quinquies : Retenue des marchandises prévue au 2 de l'article 10 du règlement (CE) n° 1236/2005 du Conseil du 27 juin 2005 ;
 
