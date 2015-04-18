@@ -18,6 +18,8 @@ Elle assure le suivi des affaires budgétaires, logistiques, financières et imm
 
 Elle contribue à la mise en œuvre de la politique de formation de ses personnels, en liaison avec la direction des ressources et des compétences de la police nationale.
 
-Dans une recherche permanente d'amélioration de l'efficacité et de l'efficience, elle assure une mission d'étude, de prospective et de normalisation. Elle coordonne et réalise les audits des services de la police aux frontières et apporte un soutien technique aux chefs de service dans l'application des normes et des procédures.
+Dans une recherche permanente d'amélioration de l'efficacité et de l'efficience, elle assure une mission d'étude, de prospective et de normalisation.
 
-Les  missions logistiques sont assurées en liaison avec le service de  l'achat, des équipements et de la logistique de la sécurité intérieure.
+Elle coordonne et réalise les audits des services de la police aux frontières et apporte un soutien technique aux chefs de service dans l'application des normes et des procédures.
+
+Les missions logistiques sont assurées en liaison avec le service de l'achat, des équipements et de la logistique de la sécurité intérieure.

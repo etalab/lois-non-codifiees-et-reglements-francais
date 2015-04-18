@@ -12,7 +12,7 @@ Elle participe à la conception, à la rédaction et à l'application de la rég
 
 Elle anime et coordonne au plan national l'action conduite en matière de contrôle transfrontalier en liaison avec les autres administrations concernées par cette mission.
 
-Elle assure l'assistance juridique des services déconcentrés de la police aux frontières.
+Elle assure l'assistance juridique des services de la police aux frontières.
 
 Elle met en œuvre la coopération opérationnelle européenne et internationale dans les domaines de compétence relevant de la police aux frontières et contribue à la mise en œuvre des programmes et actions de coopération policière, en liaison avec la direction de la coopération internationale.
 
