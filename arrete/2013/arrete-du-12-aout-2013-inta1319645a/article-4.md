@@ -8,10 +8,12 @@ Relèvent directement du directeur général de la gendarmerie nationale :
 
 3° Un conseiller juridique et judiciaire ;
 
-4° Conjointement avec le directeur général de la police nationale :
+4° Un conseiller scientifique ;
 
-― l'unité de coordination de la lutte contre l'insécurité routière ;
+5° Le conseil permanent de la sécurité aérienne de la gendarmerie nationale ;
 
-― l'unité de coordination des forces d'intervention ;
+6° Conjointement avec le directeur général de la police nationale :
 
-5° Le conseil permanent de la sécurité aérienne de la gendarmerie nationale.
+-l'unité de coordination de la lutte contre l'insécurité routière ;
+
+-l'unité de coordination des forces d'intervention.

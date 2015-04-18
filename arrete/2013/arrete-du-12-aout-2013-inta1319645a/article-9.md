@@ -8,8 +8,8 @@ I. ― La sous-direction des systèmes d'information :
 
 II. ― La sous-direction des systèmes d'information est constituée des bureaux suivants :
 
-― le bureau des systèmes opérationnels spécifiques ;
+- le bureau des systèmes d'aide à l'enquête ;
 
-― le bureau des systèmes centraux ;
+- le bureau de l'activité et des procédures ;
 
-― le bureau des systèmes logistiques et de soutien.
+- le bureau des outils de soutien et des statistiques

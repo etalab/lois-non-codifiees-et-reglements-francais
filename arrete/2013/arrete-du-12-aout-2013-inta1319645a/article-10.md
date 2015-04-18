@@ -1,23 +1,23 @@
 # Article 10
 
-I. ― La sous-direction des réseaux et des technologies avancées :
+I. ― La sous-direction des réseaux radio :
 
-― représente les utilisateurs de la sécurité intérieure dans le cadre de la gouvernance des réseaux animée par la mission de gouvernance ministérielle des systèmes d'information et de communication ;
+- assure la maîtrise d'œuvre des réseaux radio du ministère de l'intérieur ;
+
+― représente les utilisateurs de la sécurité intérieure (maîtrise d'ouvrage) dans le cadre de la gouvernance des réseaux animée par la mission de gouvernance ministérielle des systèmes d'information et de communication ;
 
 ― participe à la mise en œuvre de la stratégie ministérielle d'évolution et de rationalisation des réseaux définie par la mission de gouvernance ministérielle des systèmes d'information et de communication ;
 
-― assure au profit de la police et de la gendarmerie nationales, la conception et la conduite des projets de réalisation et de déploiement d'équipements adhérents au système d'information ;
+- assure au profit de la police et de la gendarmerie nationales, la conception et la conduite des projets de réalisation, d'intégration et de déploiement d'équipements adhérents aux systèmes d'information ;
 
-― assure les fonctions de recherche et développement et de mutualisation pour les technologies avancées.
+- assure les fonctions de veille technologique, de recherche et développement pour les technologies liées aux systèmes d'information et de communication.
 
-II. ― La sous-direction des réseaux et des technologies avancées est constituée des bureaux suivants :
+II. - La sous-direction des réseaux radio est constituée des bureaux suivants :
 
-― le bureau des systèmes de communication opérationnelle ;
+- le bureau opérateur de radiocommunication ;
 
-― le bureau des technologies de réseaux ;
+- le bureau des utilisateurs et du pilotage ;
 
-― le bureau des technologies de haute intensité ;
+- le bureau des équipements périphériques ;
 
-― le bureau de la mobilité et de l'intégration ;
-
-― le bureau des systèmes intégrés.
+- le bureau de la prospective radio.

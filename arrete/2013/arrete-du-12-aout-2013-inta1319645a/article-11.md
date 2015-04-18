@@ -1,17 +1,21 @@
 # Article 11
 
-I. ― La sous-direction des supports opérationnels :
+I. - La sous-direction des supports opérationnels :
 
-― organise et pilote pour la police et la gendarmerie nationales le soutien fonctionnel et opérationnel des systèmes d'information et de communication et des équipements spécialisés adhérents ;
+- assure la gestion et le suivi des ressources humaines du service et anime la coordination de la formation des personnels ;
 
-― assure le pilotage et l'animation du centre national d'assistance aux utilisateurs au profit de l'ensemble du service et des structures décentralisées ;
+- pilote la programmation, le suivi budgétaire des programmes de la police et de la gendarmerie nationales et des financements européens ou extrabudgétaires ;
 
-― traite des questions d'ordre administratif, financier et juridique intéressant le service.
+- organise et pilote la chaîne de soutien utilisateurs de la police nationale et participe à la coordination des services déconcentrés chargés des systèmes d'information et de communication ;
 
-II. ― La sous-direction des supports opérationnels est constituée des bureaux suivants :
+- assure le pilotage et l'animation du centre national d'assistance aux utilisateurs de la gendarmerie et de la police nationales ;
 
-― le bureau de la gestion des équipements ;
+- organise et pilote pour la police et la gendarmerie nationales la gestion des équipements spécialisés.
 
-― le bureau du pilotage des services ;
+II. - La sous-direction des supports opérationnels est constituée d'un pôle des ressources humaines et des bureaux suivants :
 
-― le bureau des ressources et des finances.
+- le bureau des ressources financières ;
+
+- le bureau du pilotage des services ;
+
+- le bureau des équipements de proximité.
