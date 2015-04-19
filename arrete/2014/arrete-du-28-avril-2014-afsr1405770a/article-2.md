@@ -72,74 +72,78 @@ Direction générale de la santé
 
 4° Sous-directeur chargé de l'appui au pilotage et du soutien des politiques de santé.
 
+Direction générale de l'offre de soins
+
+5° Sous-directeur de la stratégie et des ressources.
+
 Direction générale de la cohésion sociale
 
-5° Sous-directeur de l'enfance et de la famille.
+6° Sous-directeur de l'enfance et de la famille.
 
-6° Sous-directeur des professions sociales, de l'emploi et des territoires.
+7° Sous-directeur des professions sociales, de l'emploi et des territoires.
 
-7° Sous-directeur des affaires financières et de la modernisation.
+8° Sous-directeur des affaires financières et de la modernisation.
 
 Direction de la sécurité sociale
 
-8° Sous-directeur de l'accès aux soins, des prestations familiales et des accidents du travail.
+9° Sous-directeur de l'accès aux soins, des prestations familiales et des accidents du travail.
 
-9° Sous-directeur de la gestion et des systèmes d'information.
+10° Sous-directeur de la gestion et des systèmes d'information.
 
 Direction de la recherche, des études, de l'évaluation et des statistiques
 
-10° Sous-directeur de l'observation de la santé et de l'assurance maladie.
+11° Sous-directeur de l'observation de la santé et de l'assurance maladie.
 
-11° Sous-directeur de l'observation de la solidarité.
+12° Sous-directeur de l'observation de la solidarité.
 
-12° Sous-directeur des synthèses, des études économiques et de l'évaluation.
+13° Sous-directeur des synthèses, des études économiques et de l'évaluation.
 
 Délégation générale à l'emploi et à la formation professionnelle
 
-13° Sous-directeur des parcours d'accès à l'emploi.
+14° Sous-directeur des parcours d'accès à l'emploi.
 
-14° Sous-directeur des politiques de formation et du contrôle.
+15° Sous-directeur des politiques de formation et du contrôle.
 
-15° Sous-directeur du Fonds social européen.
+16° Sous-directeur du Fonds social européen.
 
 Direction de l'animation, de la recherche, des études et des statistiques
 
-16° Sous-directeur du suivi et de l'évaluation des politiques de l'emploi et de la formation professionnelle.
+17° Sous-directeur du suivi et de l'évaluation des politiques de l'emploi et de la formation professionnelle.
 
-17° Sous-directeur de l'emploi et du marché du travail.
+18° Sous-directeur de l'emploi et du marché du travail.
 
-18° Sous-directeur des salaires, du travail et des relations professionnelles.
+19° Sous-directeur des salaires, du travail et des relations professionnelles.
 
-19° Sous-directeur de l'action régionale, de la diffusion et des moyens.
+20° Sous-directeur de l'action régionale, de la diffusion et des moyens.
 
 Direction des sports
 
-20° Sous-directeur de l'emploi et des formations.
+21° Sous-directeur de l'emploi et des formations.
 
-21° Sous-directeur de l'action territoriale, du développement des pratiques sportives et de l'éthique du sport.
+22° Sous-directeur de l'action territoriale, du développement des pratiques sportives et de l'éthique du sport.
 
-22° Sous-directeur de la vie fédérale et du sport de haut niveau.
+23° Sous-directeur de la vie fédérale et du sport de haut niveau.
 
 Direction de la jeunesse, de l'éducation populaire et de la vie associative
 
-23° Sous-directeur de la vie associative et de l'éducation populaire.
+24° Sous-directeur de la vie associative et de l'éducation populaire.
 
 Direction des ressources humaines
 
-24° Sous-directeur de la qualité de vie au travail.
+25° Sous-directeur de la qualité de vie au travail.
 
 Direction des finances, des achats et des services
 
-25° Sous-directeur des affaires budgétaires.
+26° Sous-directeur des affaires budgétaires.
 
-26° Sous-directeur de la comptabilité et du contrôle de gestion.
+27° Sous-directeur de la comptabilité et du contrôle de gestion.
 
 Direction des systèmes d'information
 
-27° Sous-directeur des projets des systèmes d'information.
+28° Sous-directeur des projets des systèmes d'information.
 
-28° Sous-directeur des infrastructures et du support utilisateurs.
+29° Sous-directeur des infrastructures et du support utilisateurs.
 
 Direction des affaires juridiques
 
-29° Sous-directeur, adjoint au directeur.
+30° Sous-directeur, adjoint au directeur.
