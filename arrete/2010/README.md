@@ -1831,7 +1831,6 @@
 - [Arrêté du 21 octobre 2010 (BCRE1028293A)](arrete-du-21-octobre-2010-bcre1028293a)
 - [Arrêté du 21 octobre 2010 (BCRE1028302A)](arrete-du-21-octobre-2010-bcre1028302a)
 - [Arrêté du 21 octobre 2010 (DEVE1016117A)](arrete-du-21-octobre-2010-deve1016117a)
-- [Arrêté du 21 octobre 2010 (DEVT1027187A)](arrete-du-21-octobre-2010-devt1027187a)
 - [Arrêté du 21 octobre 2010 (ECEI1025327A)](arrete-du-21-octobre-2010-ecei1025327a)
 - [Arrêté du 21 octobre 2010 (ESRH1018813A)](arrete-du-21-octobre-2010-esrh1018813a)
 - [Arrêté du 21 octobre 2010 (JUSF1027500A)](arrete-du-21-octobre-2010-jusf1027500a)

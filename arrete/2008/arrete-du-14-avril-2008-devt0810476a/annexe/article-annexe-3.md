@@ -20,6 +20,8 @@ Les sections frontières du réseau ferroviaire, y compris les voies de service 
 
 - entre la frontière luxembourgeoise et la gare de Thionville ;
 
+- entre la frontière luxembourgeoise et la gare de Volmerange-les-Mines ;
+
 - entre la frontière allemande et la gare d'Apach ;
 
 - entre la frontière allemande et la gare Bouzonville ;
