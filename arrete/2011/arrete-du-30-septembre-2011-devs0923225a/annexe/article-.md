@@ -6,43 +6,43 @@ A. - Les performances minimales exigées sont fixées pour chaque caractéristiq
 
 1. Pour les panneaux :
 
-― résistance mécanique :
+- résistance mécanique :
 
-― charges et déformations (temporaires et permanentes) sous l'action de la pression du vent ;
+- charges et déformations (temporaires et permanentes) sous l'action de la pression du vent ;
 
-― pression dynamique provenant du déneigement ;
+- pression dynamique provenant du déneigement ;
 
-― déformations permanentes sous l'action de charges ponctuelles ;
+- déformations permanentes sous l'action de charges ponctuelles ;
 
-― résistance à la corrosion ;
+- résistance à la corrosion ;
 
-― résistance à la pénétration de la poussière et de l'eau ;
+- résistance à la pénétration de la poussière et de l'eau ;
 
-― caractéristiques de visibilité :
+- caractéristiques de visibilité :
 
-― panneaux comportant des décors rétroréfléchissants : chromaticité de jour et facteur de luminance, coefficient de rétroréflexion ;
+- panneaux comportant des décors rétroréfléchissants : chromaticité de jour et facteur de luminance, coefficient de rétroréflexion ;
 
-― panneaux comportant des décors non rétroréfléchissants : chromaticité de jour et facteur de luminance ;
+- panneaux comportant des décors non rétroréfléchissants : chromaticité de jour et facteur de luminance ;
 
-― caissons lumineux rétroréfléchissants : coordonnées chromatiques, facteur de luminance, luminance moyenne et uniformité de luminance ;
+- caissons lumineux rétroréfléchissants : coordonnées chromatiques, facteur de luminance, luminance moyenne et uniformité de luminance ;
 
-― panneaux éclairés de l'extérieur : luminance moyenne et uniformité de luminance ;
+- panneaux éclairés de l'extérieur : luminance moyenne et uniformité de luminance ;
 
-― durabilité :
+- durabilité :
 
-― résistance aux chocs sur la face du panneau ;
+- résistance aux chocs sur la face du panneau ;
 
-― résistance au vieillissement des faces.
+- résistance au vieillissement des faces.
 
 2. Pour les supports :
 
-― résistance aux charges horizontales dues à la pression du vent (déformations en flexion et en torsion) ;
+- résistance aux charges horizontales dues à la pression du vent (déformations en flexion et en torsion) ;
 
-― performance sous choc de véhicule (sécurité passive) ;
+- performance sous choc de véhicule (sécurité passive) ;
 
-― résistance à la corrosion ;
+- résistance à la corrosion ;
 
-― résistance à la pénétration de la poussière et de l'eau.
+- résistance à la pénétration de la poussière et de l'eau.
 
 B. - Dans le cas des caractéristiques techniques où plusieurs classes de performances ont été établies par ladite norme, les classes minimales ou invariables suivantes sont exigées.
 
@@ -70,25 +70,25 @@ Déformations sous l'action de charges ponctuelles :
 
 Les coefficients partiels de sécurité et des matériaux établis dans la norme NF EN 12899-1 s'appliquent aux charges définies ci-après :
 
-― pour les panneaux de signalisation de police et les panonceaux : la classe PL1 est exigée ;
+- pour les panneaux de signalisation de police et les panonceaux : la classe PL1 est exigée ;
 
-― pour les autres panneaux : la classe PL2 est exigée.
+- pour les autres panneaux : la classe PL2 est exigée.
 
 Seules les déformations permanentes en flexion sont retenues et ne doivent pas excéder :
 
-― pour les panneaux de signalisation de police et les panonceaux : 20 % de la classe TDB6 soit 20 mm/m ;
+- pour les panneaux de signalisation de police et les panonceaux : 20 % de la classe TDB6 soit 20 mm/m ;
 
-― pour les autres panneaux : 20 % de la classe TDB5 soit 10 mm/m.
+- pour les autres panneaux : 20 % de la classe TDB5 soit 10 mm/m.
 
 Pour les zones climatiques particulièrement exposées, le maître d'ouvrage pourra exiger des performances supérieures.
 
-1.1.2. Protection des surfaces ― Résistance à la corrosion :
+1.1.2. Protection des surfaces - Résistance à la corrosion :
 
 Les classes de protection des surfaces sont les suivantes :
 
-― pour les panneaux métalliques et en bois, la classe SP1 est exigée ;
+- pour les panneaux métalliques et en bois, la classe SP1 est exigée ;
 
-― pour les panneaux en matériaux composites et plastique, la classe SP2 est exigée.
+- pour les panneaux en matériaux composites et plastique, la classe SP2 est exigée.
 
 1.1.3. Résistance à la pénétration de la poussière et de l'eau :
 
@@ -132,7 +132,7 @@ Le contraste des caissons lumineux est compris entre 5 et 15.
 
 La classe U2, soit 1/6, est exigée pour l'uniformité de luminance des caissons lumineux.
 
-― En situation dégradée (fonctionnement rétroréfléchissant du caisson éteint), les performances mesurées, photométriques et colorimétriques, sont celles des revêtements rétroréfléchissants microprismatiques sur la base des valeurs indiquées dans la norme XP P98-502.
+- En situation dégradée (fonctionnement rétroréfléchissant du caisson éteint), les performances mesurées, photométriques et colorimétriques, sont celles des revêtements rétroréfléchissants microprismatiques sur la base des valeurs indiquées dans la norme XP P98-502.
 
 Panneaux éclairés de l'extérieur :
 
@@ -184,11 +184,29 @@ La classe TDT0 s'applique pour les déformations temporaires et permanentes dues
 
 Pour les zones climatiques particulièrement exposées, le maître d'ouvrage pourra exiger des performances supérieures.
 
-1.2.2. Performance sous choc de véhicule (sécurité passive).
+1.2.2. La décision d'installation de supports à sécurité passive résulte d'une analyse de la configuration de la section de voie traitée prenant en compte, notamment :
 
-La classe de performance 0 de la norme NF EN 12767 est retenue.
+- la probabilité d'accidents, les gains escomptés de sécurité ;
 
-Pour les supports de panneaux de signalisation directionnelle, tels que définis dans l'instruction interministérielle sur la signalisation routière, qui présentent des performances de sécurité passive dans le cadre de la norme NF EN 12767, une demande d'autorisation d'emploi à titre expérimental devra être adressée à la Délégation à la sécurité et à la circulation routières par le maître d'ouvrage.
+- les conséquences pour les divers usagers, notamment pour les usagers vulnérables comme les piétons et les cyclistes, pour les deux roues motorisés, et pour les tiers ;
+
+- les contraintes d'exploitation ;
+
+- ainsi que, le cas échéant, les avantages d'un autre mode d'aménagement mieux adapté au vu des contraintes de sécurité inhérentes à l'utilisation de ce type de supports.
+
+Si cette analyse conduit à privilégier l'installation de supports à sécurité passive, le choix des niveaux de performance du dispositif dépend de la configuration de la section de voie en respectant les principes suivants :
+
+1. Le choix de la classe de vitesse fixant le niveau de performance au sens de la norme NF EN 12767 est d'au minimum :
+
+100 pour une vitesse de référence de 90 km/h ou plus ;
+
+70 pour une vitesse de référence de 70 km/h ;
+
+50 pour une vitesse de référence de 50 km/h.
+
+2. Le choix de la catégorie d'absorption d'énergie est faite sur la base de l'analyse de la configuration de la section de voie, en tenant compte, comme indiqué au premier paragraphe du présent chapitre, de la présence éventuelle d'usagers vulnérables (piétons, cyclistes, deux roues motorisés) et du risque de chute éventuelle de l'équipement sur une voie adjacente (voie ferrée par exemple).
+
+3. Le choix du niveau de sécurité des occupants 1,2,3 fixant le niveau de performance au sens de la norme NF EN 12767, résulte de l'analyse de la configuration de la section de voie, en prenant en considération le fait que, pour une catégorie d'absorption d'énergie donnée, le niveau 3 est meilleur que le niveau 2, lui-même meilleur que le niveau 1.
 
 1.2.3. Résistance à la corrosion :
 
@@ -210,11 +228,11 @@ pour la marque NF ou autres marques
 
 Ces caractéristiques doivent, en application de la réglementation en vigueur relative à la signalisation des routes et autoroutes, être conformes :
 
-― à la norme NF P98-531 pour les dimensions et tolérances des subjectiles, des décors et de leurs positionnements relatifs ;
+- à la norme NF P98-531 pour les dimensions et tolérances des subjectiles, des décors et de leurs positionnements relatifs ;
 
-― aux normes NF P98-532 parties 0,2,3,5,7 et 8 en ce qui concerne les règles de composition et de dimensionnement des décors réglementaires ;
+- aux normes NF P98-532 parties 0,2,3,5,7 et 8 en ce qui concerne les règles de composition et de dimensionnement des décors réglementaires ;
 
-― à la norme XP P98-544 pour les panneaux comportant un décor en camaïeu de marron.
+- à la norme XP P98-544 pour les panneaux comportant un décor en camaïeu de marron.
 
 1.1.2. Bords des panneaux :
 
@@ -252,32 +270,32 @@ Pour les zones climatiques particulièrement exposées, le maître d'ouvrage pou
 
 2. Dispositions générales :
 
-Le droit d'usage de la marque NF  Equipements de la route  est délivré, en application de l'article 3 du présent arrêté, selon les conditions administratives et techniques définies par les règles de certification et leurs annexes de ladite marque et conformément aux dispositions de l'arrêté du 14 février 2003 susvisé.
+Le droit d'usage de la marque NF Equipements de la route est délivré, en application de l'article 3 du présent arrêté, selon les conditions administratives et techniques définies par les règles de certification et leurs annexes de ladite marque et conformément aux dispositions de l'arrêté du 14 février 2003 susvisé.
 
 III. - Normes relatives aux panneaux, panonceaux
 
 et supports de signalisation routière verticale permanente
 
-NF EN 12899. ― Signaux fixes de signalisation routière verticale. ― Partie 1 : Panneaux fixes. ― Partie 4 : Contrôles de production en usine. ― Partie 5 : Essai de type initial.
+NF EN 12899. - Signaux fixes de signalisation routière verticale. - Partie 1 : Panneaux fixes. - Partie 4 : Contrôles de production en usine. - Partie 5 : Essai de type initial.
 
-NF P 98-501. ― Signalisation routière verticale. ― Généralités.
+NF P 98-501. - Signalisation routière verticale. - Généralités.
 
-NF P 98-531. ― Signalisation routière verticale permanente. ― Dimensions principales des panneaux de signalisation et de leurs supports. ― Valeurs et tolérances dimensionnelles.
+NF P 98-531. - Signalisation routière verticale permanente. - Dimensions principales des panneaux de signalisation et de leurs supports. - Valeurs et tolérances dimensionnelles.
 
-NF P 98-532-0. ― Signalisation routière verticale. ― Catalogue des décors des panneaux de signalisation et des panonceaux. ― Partie 0 : Articulation générale des normes NF P98-532.
+NF P 98-532-0. - Signalisation routière verticale. - Catalogue des décors des panneaux de signalisation et des panonceaux. - Partie 0 : Articulation générale des normes NF P98-532.
 
-NF P 98-532-2. ― Signalisation routière verticale. ― Catalogue des décors des panneaux de signalisation et des panonceaux. ― Partie 2 : Dimensions et représentation graphique des signaux permanents à décor défini.
+NF P 98-532-2. - Signalisation routière verticale. - Catalogue des décors des panneaux de signalisation et des panonceaux. - Partie 2 : Dimensions et représentation graphique des signaux permanents à décor défini.
 
-NF P 98-532-3. ― Signalisation routière verticale. ― Catalogue des décors des panneaux de signalisation et des panonceaux. ― Partie 3 : Dimensions et représentation graphique des panonceaux.
+NF P 98-532-3. - Signalisation routière verticale. - Catalogue des décors des panneaux de signalisation et des panonceaux. - Partie 3 : Dimensions et représentation graphique des panonceaux.
 
-NF P 98-532-5. ― Signalisation routière verticale. ― Catalogue des décors des panneaux de signalisation et des panonceaux. ― Partie 5 : Dimensions et représentation graphique des éléments de base des signaux permanents à décor à composer.
+NF P 98-532-5. - Signalisation routière verticale. - Catalogue des décors des panneaux de signalisation et des panonceaux. - Partie 5 : Dimensions et représentation graphique des éléments de base des signaux permanents à décor à composer.
 
-NF P 98-532-7. ― Signalisation routière verticale. ― Catalogue des décors des panneaux de signalisation et des panonceaux. ― Partie 7 : Règles de composition des signaux permanents et temporaires à composer.
+NF P 98-532-7. - Signalisation routière verticale. - Catalogue des décors des panneaux de signalisation et des panonceaux. - Partie 7 : Règles de composition des signaux permanents et temporaires à composer.
 
-NF P 98-532-8. ― Signalisation routière verticale. ― Catalogue des décors des panneaux de signalisation et des panonceaux. ― Partie 8 : Caractéristiques typologiques des signaux permanents des aménagements cyclables.
+NF P 98-532-8. - Signalisation routière verticale. - Catalogue des décors des panneaux de signalisation et des panonceaux. - Partie 8 : Caractéristiques typologiques des signaux permanents des aménagements cyclables.
 
-XP P 98-544. ― Signalisation routière verticale. ― Faces des panneaux en camaïeu de marron.
+XP P 98-544. - Signalisation routière verticale. - Faces des panneaux en camaïeu de marron.
 
-P 98-551. ― Signalisation routière verticale. ― Panneaux de grandes dimensions de type SD3 posés sur portiques, potences, hauts mâts et ouvrages d'art. ― Caractéristiques et spécifications techniques.
+P 98-551. - Signalisation routière verticale. - Panneaux de grandes dimensions de type SD3 posés sur portiques, potences, hauts mâts et ouvrages d'art. - Caractéristiques et spécifications techniques.
 
-XP P 98-502. ― Signalisation routière verticale. ― Décors technologie microprismatiques. ― Performances, caractéristiques techniques et spécifications.
+XP P 98-502. - Signalisation routière verticale. - Décors technologie microprismatiques. - Performances, caractéristiques techniques et spécifications.
