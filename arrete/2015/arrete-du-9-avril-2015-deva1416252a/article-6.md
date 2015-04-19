@@ -1,0 +1,3 @@
+# Article 6
+
+Les titulaires de la qualification AFIS qui, à la date d'entrée en vigueur du présent arrêté, fournissent les services d'information de vol et d'alerte en langue anglaise, sont réputés satisfaire aux exigences du niveau B1 du CECR requis au a de l'article 2-1-1 pendant trois ans et sont réputés avoir satisfait à l'obligation, mentionnée au point b de l'article 2-1-1, de formation à la phraséologie et de formation sur les thèmes aéronautiques de l'annexe 7. Par exception au premier alinéa de l'article 2-1-1, ils disposent d'un délai de six mois à compter de la date d'entrée en vigueur du présent arrêté pour faire apposer la mention anglais AFIS sur leur qualification AFIS.
