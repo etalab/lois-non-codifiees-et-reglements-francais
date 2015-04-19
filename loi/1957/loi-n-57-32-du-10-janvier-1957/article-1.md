@@ -4,6 +4,6 @@ Il est créé, sous le nom d'Agence France-Presse, un organisme autonome doté d
 
 Cet organisme a pour objet :
 
-1° De rechercher, tant en France et dans l'ensemble de l'Union française qu'à l'étranger, les éléments d'une information complète et objective ;
+1° De rechercher, tant en France          qu'à l'étranger, les éléments d'une information complète et objective ;
 
 2° De mettre contre payement cette information à la disposition des usagers.

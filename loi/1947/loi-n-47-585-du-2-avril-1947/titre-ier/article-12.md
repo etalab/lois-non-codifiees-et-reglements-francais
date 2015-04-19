@@ -1,3 +1,9 @@
 # Article 12
 
-Le barème des tarifs de messageries est soumis à l'approbation de l'assemblée générale. Il s'impose à toutes les entreprises de presse clientes de la société coopérative.
+Les barèmes des tarifs de chaque société coopérative de messageries de presse sont soumis à l'approbation de son assemblée générale. Ils sont fixés dans le respect des principes de solidarité entre coopératives et au sein d'une coopérative et de préservation des équilibres économiques du système collectif de distribution de la presse. Ces principes permettent d'assurer l'égalité des éditeurs face au système de distribution grâce à une gestion démocratique, efficiente et désintéressée des moyens mis en commun. Ils permettent également de répartir entre toutes les entreprises de presse adhérant aux coopératives, de façon objective, transparente et non discriminatoire, la couverture des coûts de la distribution, y compris des surcoûts spécifiques induits par la distribution des quotidiens et qui ne peuvent être évités.
+
+Dans le respect du secret des affaires, les barèmes des tarifs des messageries de presse et ceux des sociétés communes regroupant les messageries de presse sont transmis au président du Conseil supérieur des messageries de presse et à l'Autorité de régulation de la distribution de la presse dans un délai de quinze jours suivant leur approbation.
+
+Le président du Conseil supérieur des messageries de presse transmet, dans un délai de quatre semaines à compter de la réception des barèmes, un avis motivé à l'Autorité de régulation de la distribution de la presse, qui se prononce sur ces barèmes dans un délai de six semaines à compter de leur réception. L'autorité peut refuser d'homologuer les barèmes si elle estime qu'ils ne respectent pas les principes mentionnés au premier alinéa. De nouveaux barèmes, tenant compte de ses observations, lui sont alors transmis en vue de leur homologation, dans le délai prévu au deuxième alinéa.
+
+Si de nouveaux barèmes ne lui sont pas transmis dans un délai d'un mois à compter de son refus d'homologation, l'autorité détermine les barèmes applicables.

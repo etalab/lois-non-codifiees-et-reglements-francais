@@ -1,4 +1,4 @@
-# Titre II : Conseil supérieur des messageries de presse et Autorité de régulation de la distribution de la presse.
+# Titre II : L'Autorité de régulation de la distribution de la presse et le Conseil supérieur des messageries de presse.
 
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)
@@ -14,6 +14,7 @@
 - [Article 18-10](article-18-10.md)
 - [Article 18-11](article-18-11.md)
 - [Article 18-12](article-18-12.md)
+- [Article 18-12-1](article-18-12-1.md)
 - [Article 18-13](article-18-13.md)
 - [Article 18-14](article-18-14.md)
 - [Article 18-15](article-18-15.md)

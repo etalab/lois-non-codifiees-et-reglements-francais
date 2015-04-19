@@ -3,4 +3,4 @@
 - [Article 1](article-1.md)
 - [Titre Ier : Statut des sociétés coopératives de messageries de presse.](titre-ier)
 - [Article 2](article-2.md)
-- [Titre II : Conseil supérieur des messageries de presse et Autorité de régulation de la distribution de la presse.](titre-ii)
+- [Titre II : L'Autorité de régulation de la distribution de la presse et le Conseil supérieur des messageries de presse.](titre-ii)

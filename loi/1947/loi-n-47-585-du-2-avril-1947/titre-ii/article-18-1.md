@@ -1,16 +1,20 @@
 # Article 18-1
 
-L'Autorité de régulation de la distribution de la presse exerce les missions définies aux articles 18-11 à 18-16. Elle comprend trois membres, nommés par arrêté du ministre chargé de la communication :
+L'Autorité de régulation de la distribution de la presse comprend quatre membres, nommés par arrêté du ministre chargé de la communication :
 
 1° Un conseiller d'Etat désigné par le vice-président du Conseil d'Etat ;
 
 2° Un magistrat de la Cour de cassation désigné par le premier président de la Cour de cassation ;
 
-3° Un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes.
+3° Un magistrat de la Cour des comptes désigné par le premier président de la Cour des comptes ;
+
+4° Une personnalité qualifiée choisie à raison de sa compétence sur les questions économiques et industrielles, désignée par l'Autorité de la concurrence.
 
 Le président de l'Autorité de régulation de la distribution de la presse est élu en son sein.
 
-Le mandat des membres de l'Autorité de régulation de la distribution de la presse est de quatre ans. Il n'est ni révocable ni renouvelable.
+Le mandat des membres de l'Autorité de régulation de la distribution de la presse est de quatre ans. Ce mandat est renouvelable une fois. Il n'est pas révocable.
+
+L'Autorité de régulation de la distribution de la presse est renouvelée par moitié tous les deux ans.
 
 A l'expiration de leur mandat, les membres de l'autorité restent en fonctions jusqu'à la première réunion de celle-ci dans sa nouvelle composition.
 

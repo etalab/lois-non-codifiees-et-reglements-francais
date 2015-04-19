@@ -1,8 +1,8 @@
 # Article 6
 
-I.-Les articles 1er, 2 et 4 de la présente loi sont applicables à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
+I.-Les articles 1er, 2 et 4 de la présente loi sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
-L'article 3 est applicable dans les îles Wallis et Futuna et à Mayotte.
+L'article 3 est applicable dans les îles Wallis et Futuna.
 
 II.-Pour l'application de la présente loi aux collectivités d'outre-mer citées au I et en Nouvelle-Calédonie :
 
@@ -12,21 +12,17 @@ II.-Pour l'application de la présente loi aux collectivités d'outre-mer citée
 
 3° Au 3° de l'article 2, le mot : " décret " est remplacé par les mots : " arrêté du représentant de l'Etat ".
 
-III.-Pour l'application de la présente loi à Mayotte :
+III. - Pour l'application de la présente loi à Mayotte :
 
-1° Les mots : " Dans chaque département ", " dans le département ", " pour le département " et " du département " sont respectivement remplacés par les mots : " A Mayotte ", " à Mayotte ", " pour Mayotte " et " de Mayotte " ;
+1° Les références au département et à ses arrondissements sont remplacées par la référence à Mayotte ;
 
 2° A l'article 2 :
 
-a) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Mayotte " ;
+a) Le premier alinéa est ainsi rédigé :
 
-b) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
+"Tous les journaux d'information générale, judiciaire ou technique ne consacrant pas à la publicité plus des deux tiers de leur surface et justifiant d'une diffusion par abonnements ou par dépositaires sont inscrits de droit sur la liste prévue ci-dessous, sous les conditions suivantes :" ;
 
-c) Au cinquième alinéa, après le mot : " représentant ", sont ajoutés les mots : " ou à défaut, du greffier du tribunal de première instance " ;
-
-d) Le sixième alinéa est remplacé par les dispositions suivantes :
-
-Cette liste des journaux susceptibles de recevoir les annonces légales à Mayotte est publiée par arrêté du représentant de l'Etat.
+b) Au 3°, le mot : "décret" est remplacé par les mots : "arrêté du préfet"  ;
 
 IV.-Pour l'application de la présente loi dans les îles Wallis et Futuna :
 
@@ -38,11 +34,11 @@ IV.-Pour l'application de la présente loi dans les îles Wallis et Futuna :
 
 a) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " des îles Wallis et Futuna " ;
 
-b) Au cinquième alinéa, les mots : "président de la chambre départementale des notaires ou de son représentant” sont remplacés par les mots : "greffier du tribunal de première instance” et le mot : "trois” est remplacé par le mot : "deux” ;
+b) (Abrogé) ;
 
-c) Le sixième alinéa est remplacé par les dispositions suivantes :
+c) L'avant-dernier alinéa est remplacé par les dispositions suivantes :
 
-Cette liste des journaux susceptibles de recevoir les annonces légales à Wallis et Futuna est publiée par arrêté du représentant de l'Etat. ;
+La liste des journaux susceptibles de recevoir les annonces légales à Wallis et Futuna est fixée chaque année au mois de décembre, pour l'année suivante, par arrêté du représentant de l'Etat ;
 
 4° A l'article 4, après les mots : " 9 000 Euros ", sont insérés les mots : " ou son équivalent en monnaie locale ".
 
@@ -64,13 +60,13 @@ c) Après les mots : " prévues à l'article 2 ", sont insérés les mots : " ou
 
 a) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de la Polynésie française " ;
 
-b) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
+b) (Abrogé)
 
-c) Le sixième alinéa est ainsi rédigé :
+c)  L'avant-dernier alinéa est ainsi rédigé :
 
 Cette liste des journaux susceptibles de recevoir les annonces légales en Polynésie française est publiée par arrêté du représentant de l'Etat. ;
 
-d) Au septième alinéa, les mots : " de l'article 3 " sont remplacés par les mots : " des dispositions applicables localement. " ;
+d) Au dernier alinéa, les mots : " de l'article 3 " sont remplacés par les mots : " des dispositions applicables localement. " ;
 
 4° A l'article 4, après les mots : " 9 000 Euros ", sont insérés les mots : " ou son équivalent en monnaie locale ".
 
@@ -90,13 +86,13 @@ b) Après les mots : " lois et décrets ", sont insérés les mots : " et la ré
 
 a) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de la Nouvelle-Calédonie ou de ses provinces " ;
 
-b) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
+b) (Abrogé)
 
-c) Le sixième alinéa est remplacé par les dispositions suivantes :
+c) L'avant-dernier alinéa est remplacé par les dispositions suivantes :
 
-Cette liste de journaux susceptibles de recevoir les annonces légales, soit en Nouvelle-Calédonie soit dans une ou plusieurs provinces, est publiée par arrêté du représentant de l'Etat. ;
+La liste de journaux susceptibles de recevoir les annonces légales, soit en Nouvelle-Calédonie soit dans une ou plusieurs provinces, est fixée chaque année au mois de décembre, pour l'année suivante, par arrêté du représentant de l'Etat ;
 
-d) Au septième alinéa, les mots : " de l'article 3 " sont remplacés par les mots : " des dispositions applicables localement " ;
+d) Au dernier alinéa, les mots : " de l'article 3 " sont remplacés par les mots : " des dispositions applicables localement " ;
 
 4° A l'article 4, après les mots : " 9 000 Euros ", sont insérés les mots : " ou son équivalent en monnaie locale ".
 
@@ -118,15 +114,11 @@ b) Le mot : " décret " est remplacé par les mots : " arrêté du représentant
 
 c) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Saint-Barthélemy " ;
 
-d) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
+d) à f (abrogés)
 
-e) Après le mot : " représentant " sont ajoutés les mots : " ou, à défaut, d'un greffier du tribunal de grande instance désigné par son président " ;
+g) L'avant-dernier alinéa est remplacé par les dispositions suivantes :
 
-f) Le mot : "trois” est remplacé par le mot : "deux” ;
-
-g) Le sixième alinéa est remplacé par les dispositions suivantes :
-
-Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Barthélemy est publiée par arrêté du représentant de l'Etat.
+La liste de journaux susceptibles de recevoir les annonces légales à Saint-Barthélemy est  fixée chaque année au mois de décembre, pour l'année suivante, par arrêté du représentant de l'Etat.
 
 VIII.-Pour l'application de la présente loi à Saint-Martin :
 
@@ -142,15 +134,11 @@ a) Le mot : " décret " est remplacé par les mots : " arrêté du représentant
 
 b) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Saint-Martin " ;
 
-c) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
+c) à e (Abrogés)
 
-d) Après le mot : " représentant " sont ajoutés les mots : " ou, à défaut, d'un greffier du tribunal de grande instance désigné par son président " ;
+f) L'avant-dernier alinéa est remplacé par les dispositions suivantes :
 
-e) Le mot : "trois” est remplacé par le mot : "deux” ;
-
-f) Le sixième alinéa est remplacé par les dispositions suivantes :
-
-Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Martin est publiée par arrêté du représentant de l'Etat.
+La liste de journaux susceptibles de recevoir les annonces légales à Saint-Martin est fixée chaque année au mois de décembre, pour l'année suivante, par arrêté du représentant de l'Etat.
 
 IX.-Pour l'application de la présente loi à Saint-Pierre-et-Miquelon :
 
@@ -166,10 +154,8 @@ a) Le mot : " décret " est remplacé par les mots : " arrêté du représentant
 
 b) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Saint-Pierre-et-Miquelon " ;
 
-c) Après le mot : " représentant " sont ajoutés les mots : " ou, à défaut, d'un greffier du tribunal de première instance désigné par son président " ;
+c) et d) (Abrogés)
 
-d) Le mot : "trois” est remplacé par le mot : "deux” ;
+e) L'avant-dernier  alinéa est remplacé par les dispositions suivantes :
 
-e) Le sixième alinéa est remplacé par les dispositions suivantes :
-
-Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Pierre-et-Miquelon est publiée par arrêté du représentant de l'Etat.
+La  liste de journaux susceptibles de recevoir les annonces légales à Saint-Pierre-et-Miquelon est fixée chaque année au mois de décembre, pour l'année suivante, par arrêté du représentant de l'Etat.
