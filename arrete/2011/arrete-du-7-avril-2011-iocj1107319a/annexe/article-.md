@@ -2,7 +2,7 @@
 
 LISTE DES SERVICES ET UNITÉS DONT LES MISSIONS EXIGENT, POUR DES RAISONS DE SÉCURITÉ ET EN APPLICATION DE L'ARTICLE 39 SEXIES DE LA LOI DU 29 JUILLET 1881 SUSVISÉE LE RESPECT DE L'ANONYMAT DES FONCTIONNAIRES DE LA POLICE NATIONALE ET DES MILITAIRES DE LA GENDARMERIE NATIONALE QUI Y APPARTIENNENT
 
-I.-Services et unités relevant de la police nationale :
+I. ― Services et unités relevant de la police nationale :
 
 1° L'unité de coordination de la lutte antiterroriste.
 
@@ -18,15 +18,15 @@ I.-Services et unités relevant de la police nationale :
 
 3° Au titre de la direction centrale de la sécurité publique :
 
-- la division nationale de la recherche et de l'appui du service central du renseignement territorial ;
+-la division nationale de la recherche et de l'appui du service central du renseignement territorial ;
 
-- les sections de recherche et d'appui des services du renseignement territorial de chaque direction départementale de la sécurité publique chef-lieu de zone de défense.
+-les sections de recherche et d'appui des services du renseignement territorial de chaque direction départementale de la sécurité publique chef-lieu de zone de défense.
 
 4° Au titre de la direction centrale de la police aux frontières, l'Office central pour la répression de l'immigration irrégulière et de l'emploi des étrangers sans titre.
 
-5° L'unité de recherche, d'assistance, d'intervention et de dissuasion (RAID).
+5° L'unité de recherche, d'assistance, d'intervention et de dissuasion (RAID) et ses antennes ;
 
-6° Les groupes d'intervention de la police nationale (GIPN).
+6° Les groupes d'intervention de la police nationale d'outre mer (GIPN).
 
 7° Le groupe de sécurité de la présidence de la République du service de la protection.
 

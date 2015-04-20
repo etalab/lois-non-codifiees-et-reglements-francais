@@ -6,7 +6,7 @@ Le RAID contribue, dans l'ensemble du territoire de la République, à la lutte 
 
 ― d'apporter son concours opérationnel aux services chargés de la prévention et de la répression de la criminalité organisée et du terrorisme ;
 
-― d'assister le service de protection des hautes personnalités dans ses missions ;
+― d'assister le service de la protection dans ses missions
 
 ― de mettre à la disposition des services de police des matériels spécialisés servis par le personnel de l'unité ;
 
