@@ -1,0 +1,3 @@
+# Article 1
+
+Les orientations stratégiques et méthodologiques mentionnées au premier alinéa du III de l'article 78 de la loi du 27 janvier 2014 susvisée pour la mise en œuvre, en France métropolitaine à l'exception de la Corse, et dans les collectivités territoriales régies par l'article 73 de la Constitution, des programmes de développement rural, sont fixées dans les annexes au présent décret. Ces annexes définissent également celles des mesures qui doivent être identiques dans toutes les régions ainsi que les montants minimaux du Fonds européen agricole pour le développement rural par région à consacrer à certaines mesures.
