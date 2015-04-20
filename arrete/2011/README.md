@@ -2431,7 +2431,6 @@
 - [Arrêté du 28 décembre 2011 (TRAT1131854A)](arrete-du-28-decembre-2011-trat1131854a)
 - [Arrêté du 28 février 2011 (AGRT1105947A)](arrete-du-28-fevrier-2011-agrt1105947a)
 - [Arrêté du 28 février 2011 (DEVK1106149A)](arrete-du-28-fevrier-2011-devk1106149a)
-- [Arrêté du 28 février 2011 (EFIE1100179A)](arrete-du-28-fevrier-2011-efie1100179a)
 - [Arrêté du 28 février 2011 (EFIP1102179A)](arrete-du-28-fevrier-2011-efip1102179a)
 - [Arrêté du 28 février 2011 (ETSH1105214A)](arrete-du-28-fevrier-2011-etsh1105214a)
 - [Arrêté du 28 février 2011 (ETSH1106258A)](arrete-du-28-fevrier-2011-etsh1106258a)
