@@ -1068,7 +1068,6 @@
 - [Arrêté du 13 septembre 2010 (BCRB1021543A)](arrete-du-13-septembre-2010-bcrb1021543a)
 - [Arrêté du 13 septembre 2010 (BCRE1023902A)](arrete-du-13-septembre-2010-bcre1023902a)
 - [Arrêté du 13 septembre 2010 (DEFP1024066A)](arrete-du-13-septembre-2010-defp1024066a)
-- [Arrêté du 13 septembre 2010 (DEVU1022515A)](arrete-du-13-septembre-2010-devu1022515a)
 - [Arrêté du 13 septembre 2010 (JSAJ1012962A)](arrete-du-13-septembre-2010-jsaj1012962a)
 - [Arrêté du 13 septembre 2010 (MTSA1022020A)](arrete-du-13-septembre-2010-mtsa1022020a)
 - [Arrêté du 13 septembre 2010 (MTSA1023512A)](arrete-du-13-septembre-2010-mtsa1023512a)
