@@ -243,7 +243,6 @@
 - [Arrêté du 5 août 2011 (JUSK1122151A)](arrete-du-5-aout-2011-jusk1122151a)
 - [Arrêté du 5 août 2011 (JUST1121968A)](arrete-du-5-aout-2011-just1121968a)
 - [Arrêté du 5 avril 2011 (AGRG1108303A)](arrete-du-5-avril-2011-agrg1108303a)
-- [Arrêté du 5 avril 2011 (BCRE1110188A)](arrete-du-5-avril-2011-bcre1110188a)
 - [Arrêté du 5 avril 2011 (ETSD1110894A)](arrete-du-5-avril-2011-etsd1110894a)
 - [Arrêté du 5 avril 2011 (ETSD1110895A)](arrete-du-5-avril-2011-etsd1110895a)
 - [Arrêté du 5 avril 2011 (ETSD1110896A)](arrete-du-5-avril-2011-etsd1110896a)
