@@ -1,6 +1,6 @@
 # Article 2
 
-Pour les techniciens de police technique et scientifique, les agents spécialisés de police technique et scientifique et les adjoints techniques de la police nationale, à l'exception de ceux d'entre eux servant en administration centrale, les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police et, dans les départements d'outre-mer, les services administratifs et techniques de la police reçoivent délégation pour prendre les décisions concernant :
+Pour les techniciens de police technique et scientifique, les agents spécialisés de police technique et scientifique et les adjoints techniques de la police nationale, à l'exception de ceux d'entre eux servant en administration centrale, les préfets de zone de défense et de sécurité  et, dans les départements d'outre-mer, les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police  reçoivent délégation pour prendre les décisions concernant :
 
 ― la prolongation et la mise à fin de stage ;
 
