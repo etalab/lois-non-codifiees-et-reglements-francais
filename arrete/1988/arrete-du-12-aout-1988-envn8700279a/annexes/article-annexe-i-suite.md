@@ -2096,11 +2096,23 @@
 <td>André Maruejouls, La Grange Réauté, 35235 Thorigné-Fouillard<br/>
 </td>
 <td>Piège "Maruejouls" </td>
-<td colspan="2">Dimension du piège tendu : 27 × 8,5 cm<p>Dimension de la palette : 6,5 × 7 cm</p>
+<td colspan="2">Dimension du piège tendu : 27 × 8,5 cm<p>Dimension de la palette : rectangle de 6,5 × 7 cm ou disque de 5 cm de diamètre </p>
 </td>
 <td align="center" colspan="2"> 829</td>
 <td colspan="2">Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort<br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td align="center"> 21</td>
+<td>Piège à lacet de patte </td>
+<td>Jean-Yves Viol, 23, avenue de l'Odet, 29950 Bénodet </td>
+<td>HINGIOL </td>
+<td colspan="2">Dimension du piège tendu : 22 cm x 23 cm<p>Dimension de la palette : </p>
+<p>5,5 x 7 ,5 cm</p>
+</td>
+<td align="center" colspan="2"> 830</td>
+<td colspan="2">Piège métallique à déclenchement par une palette </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
