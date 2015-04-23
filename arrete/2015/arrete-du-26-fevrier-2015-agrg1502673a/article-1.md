@@ -1,0 +1,3 @@
+# Article 1
+
+La liste des macro-organismes dispensés de demande d'autorisation d'entrée sur un territoire et d'introduction dans l'environnement, prévue au paragraphe II de l'article R. 258-2 du code rural et de la pêche maritime susvisé, figure en annexe 1 du présent arrêté. Pour chaque macro-organisme, ces dispenses valent pour un territoire donné, pour un fournisseur donné et sous réserve du maintien des caractéristiques (telles qu'évaluées par l'ANSES), notamment en terme d'origine géographique et d'identification taxonomique et moléculaire. Cette dispense peut toutefois valoir pour tout autre fournisseur s'il est établi que le macro-organisme présente exactement les mêmes caractéristiques.

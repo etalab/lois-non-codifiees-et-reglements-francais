@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation site Natura 2000 « Vallée de la Loire des Ponts-de-Cé à Montsoreau » (zone spéciale de conservation FR 5200629) l'espace délimité sur la carte d'assemblage au 1/120 000 et les six cartes au 1/25 000 ci-jointes, s'étendant dans le département de Maine-et-Loire, sur une partie du territoire des communes suivantes : Blaison-Gohier, La Bohalle, Chênehutte-Trèves-Cunault, La Daguenière, Gennes, Juigné-sur-Loire, La Ménitré, Montsoreau, Parnay, Les Ponts-de-Cé, Les Rosiers-sur-Loire, Saint-Clément-des-Levées, Saint-Jean-des-Mauvrets, Saint-Martin-de-la-Place, Saint-Mathurin-sur-Loire, Saint-Rémy-la-Varenne, Saint-Saturnin-sur-Loire, Saint-Sulpice, Saumur, Souzay-Champigny, Le Thoureil, Turquant, Varennes-sur-Loire, Villebernier.

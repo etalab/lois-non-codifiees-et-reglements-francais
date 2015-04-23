@@ -285,6 +285,7 @@
 - [DÉCRET n°2015-40 du 20 janvier 2015 (MENS1423828D)](decret-n2015-40-du-20-janvier-2015-mens1423828d)
 - [DÉCRET n°2015-41 du 20 janvier 2015 (AGRT1413984D)](decret-n2015-41-du-20-janvier-2015-agrt1413984d)
 - [DÉCRET n°2015-42 du 20 janvier 2015 (MCCB1426263D)](decret-n2015-42-du-20-janvier-2015-mccb1426263d)
+- [DÉCRET n°2015-450 du 20 avril 2015 (DEVL1500842D)](decret-n2015-450-du-20-avril-2015-devl1500842d)
 - [DÉCRET n°2014-1390 du 21 novembre 2014 (ETSD1418594D)](decret-n2014-1390-du-21-novembre-2014-etsd1418594d)
 - [DÉCRET n°2014-1391 du 21 novembre 2014 (EINI1424752D)](decret-n2014-1391-du-21-novembre-2014-eini1424752d)
 - [DÉCRET n°2015-44 du 21 janvier 2015 (INTV1425985D)](decret-n2015-44-du-21-janvier-2015-intv1425985d)
