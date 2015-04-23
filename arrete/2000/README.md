@@ -27,7 +27,6 @@
 - [Arrêté du 6 novembre 2000 (AGRG0002259A)](arrete-du-6-novembre-2000-agrg0002259a)
 - [Arrêté du 6 novembre 2000 (AGRP0002321A)](arrete-du-6-novembre-2000-agrp0002321a)
 - [Arrêté du 6 novembre 2000 (PRMX0004473A)](arrete-du-6-novembre-2000-prmx0004473a)
-- [Arrêté du 6 mai 2000 (INTE0000271A)](arrete-du-6-mai-2000-inte0000271a)
 - [Arrêté du 6 mai 2000 (INTE0000272A)](arrete-du-6-mai-2000-inte0000272a)
 - [Arrêté du 7 août 2000 (ATEG0090069A)](arrete-du-7-aout-2000-ateg0090069a)
 - [Arrêté du 7 juillet 2000 (MESS0022234A)](arrete-du-7-juillet-2000-mess0022234a)
