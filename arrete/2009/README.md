@@ -1139,7 +1139,6 @@
 - [Arrêté du 16 février 2009 (AGRP0826987A)](arrete-du-16-fevrier-2009-agrp0826987a)
 - [Arrêté du 16 février 2009 (AGRP0901675A)](arrete-du-16-fevrier-2009-agrp0901675a)
 - [Arrêté du 16 février 2009 (AGRP0903519A)](arrete-du-16-fevrier-2009-agrp0903519a)
-- [Arrêté du 16 février 2009 (DEFC0904161A)](arrete-du-16-fevrier-2009-defc0904161a)
 - [Arrêté du 16 février 2009 (DEVA0900977A)](arrete-du-16-fevrier-2009-deva0900977a)
 - [Arrêté du 16 février 2009 (ECED0903929A)](arrete-du-16-fevrier-2009-eced0903929a)
 - [Arrêté du 16 février 2009 (ESRS0830278A)](arrete-du-16-fevrier-2009-esrs0830278a)

@@ -1,3 +1,0 @@
-# Article 4
-
-Le comité d'hygiène, de sécurité et des conditions de travail ministériel placé auprès des ministres chargés de l'égalité des territoires, du logement, de l'écologie, du développement durable et de l'énergie est compétent, dans le cadre des dispositions du titre IV du décret n° 82-453 susvisé, pour connaître des questions communes au centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement et aux établissements publics administratifs visés à l'article 1er de l'arrêté du 3 février 2012 portant création des comités d'hygiène, de sécurité et des conditions de travail au sein du ministère de l'écologie, du développement durable, des transports et du logement.
