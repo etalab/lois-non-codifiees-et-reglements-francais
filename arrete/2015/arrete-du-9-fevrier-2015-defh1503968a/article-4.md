@@ -4,15 +4,15 @@ La composition de ce comité est fixée comme suit :
 
 a) Représentants de l'administration :
 
-- le chef d'emprise du quartier Jayat ou son représentant, qui en assure la présidence ;
+- le chef d'organisme de la 12e base de soutien du matériel ou son représentant, qui en assure la présidence ;
 
-- les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
+-les chefs d'organismes ayant autorité sur le personnel des entités listées à l'article 3 du présent arrêté ou leur représentant ;
 
 b) Représentants du personnel : quatre membres titulaires et quatre membres suppléants, dont la répartition est la suivante :
 
-- trois sièges de titulaires et trois siège de suppléant pour la fédération syndicale Force ouvrière de la défense des industries de l'armement et des secteurs assimilés (FO défense) ;
+-trois sièges de titulaires et trois siège de suppléant pour la fédération syndicale Force ouvrière de la défense des industries de l'armement et des secteurs assimilés (FO défense) ;
 
-- un siège de titulaire et un siège de suppléant pour la Fédération nationale des travailleurs de l'Etat (FNTE-CGT) ;
+-un siège de titulaire et un siège de suppléant pour la Fédération nationale des travailleurs de l'Etat (FNTE-CGT) ;
 
 c) Le ou les médecins de prévention des entités listées à l'article 3 du présent arrêté ;
 
