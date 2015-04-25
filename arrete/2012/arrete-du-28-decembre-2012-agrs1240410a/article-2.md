@@ -44,7 +44,9 @@ b) Au secrétariat général, service des affaires juridiques :
 
 -sous-directeur du droit de l'administration, de la concurrence et des procédures juridiques communautaires ;
 
--sous-directeur du droit des produits, des politiques sectorielles et des exploitations.
+-sous-directeur du droit des produits, des politiques sectorielles et des exploitations ;
+
+- sous-directeur, adjoint au directeur des affaires juridiques.
 
 c) Au secrétariat général :
 
