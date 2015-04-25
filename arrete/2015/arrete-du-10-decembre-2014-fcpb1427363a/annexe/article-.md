@@ -386,7 +386,7 @@
 <tr>
 <td align="left">Mobilier national et manufactures nationales (Gobelins, Beauvais, Savonnerie)<br/>
 </td>
-<td align="left">Contrôleur budgétaire et comptable ministériel auprès du ministère chargé de la culture<br/>
+<td align="left">Directeur régional des finances publiques de la région Ile-de-France <br/>
 </td>
 </tr>
 <tr>
