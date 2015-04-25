@@ -1,17 +1,15 @@
 # Article 3
 
-La mise en demeure de mettre fin aux dangers que présentent les navires et engins flottants abandonnés, prévue à l'article 2 de la loi du 3 juillet 1985 susvisée, est adressée, selon la localisation du navire ou de l'engin flottant abandonné par :
+La mise en demeure de mettre fin au danger ou à l'entrave prolongée que présente un navire abandonné, prévue à l'article L. 5141-2-1 du code des transports, est adressée, selon la localisation du navire abandonné, par :
 
--le préfet maritime, dans les ports militaires et, dans le cadre de son autorité de police administrative générale en mer, dans la limite de la région maritime et à partir de la laisse de basse mer, sauf dans les ports à l'intérieur de leurs limites administratives, dans les estuaires en deçà des limites transversales de la mer et dans les baies fermées dont la liste et les limites sont fixées par arrêté du Premier ministre ;
+1° Le préfet maritime, dans la limite de la zone maritime et à partir de la laisse de basse mer côté du large, sauf dans les ports à l'intérieur de leurs limites administratives et dans les estuaires en amont des limites transversales de la mer ;
 
--le directeur dans les ports autonomes ;
+2° Le préfet sur le littoral maritime et le rivage jusqu'à la laisse de basse mer ;
 
--le président du conseil départemental, dans les ports départementaux ;
+3° L'autorité portuaire mentionnée à l'article L. 5331-5 du code des transports lorsque le navire se trouve dans un port autre qu'un port militaire ;
 
--le maire, dans les ports communaux ;
+4° Le commandant d'arrondissement maritime ou, sur délégation, le commandant de la base navale, dans les ports militaires.
 
--le préfet dans les ports non militaires relevant de la compétence de l'Etat, autres que les ports autonomes, dans les estuaires et les baies fermées dont la liste et les limites sont fixées par arrêté du Premier ministre, et sur le rivage.
+Dans le cas où il peut y avoir doute sur la limite de partage des compétences entre certaines de ces autorités, ces autorités interviennent conjointement.
 
-Dans le cas où il peut y avoir doute sur la limite de partage des compétences entre l'une de ces quatre dernières autorités et le préfet maritime, cette autorité et le préfet maritime interviennent conjointement.
-
-Le préfet maritime peut déléguer ses pouvoirs de mise en demeure au commandant de la marine dans les ports militaires, et dans les autres cas à l'administrateur des affaires maritimes, chef de quartier.
+Le préfet maritime peut déléguer ses pouvoirs de mise en demeure au directeur des territoires et de la mer ou au délégué à la mer et au littoral.

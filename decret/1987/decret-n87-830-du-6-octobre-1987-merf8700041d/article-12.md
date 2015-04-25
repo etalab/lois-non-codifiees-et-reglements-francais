@@ -1,5 +1,5 @@
 # Article 12
 
-Si le navire ou l'engin flottant abandonné demeure porteur d'une cargaison, les ayants droit à la cargaison disposent d'un délai de trois mois pour la revendiquer ou l'enlever. Ce délai court à partir de la notification qui leur est faite ou, s'il sont inconnus, à partir des publications et de la notifications au consul prévues à l'article 5 du présent décret.
+La cargaison qui, à l'expiration du délai mentionné à l'article précédent, n'a été ni revendiquée ni enlevée, peut être remise à l'administration chargée des domaines aux fins d'aliénation, selon les règles définies par le code général de la propriété des personnes publiques.
 
-Toutefois, s'il s'agit d'une marchandise périssable, l'administrateur des affaires maritimes, chef de quartier, peut faire procéder à la vente sans qu'aient été observés les délais prévus à l'alinéa précédent.
+Le produit de la vente, pour l'application de l'article 4 de la loi du 3 juillet 1985 susvisée, est consigné à la Caisse des dépôts et consignations dans les conditions prévues à l'article L. 5141-6 du code des transports.
