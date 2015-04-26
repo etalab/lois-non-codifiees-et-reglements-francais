@@ -24,6 +24,6 @@ Il représente la direction générale auprès du régime social des indépendan
 
 Il coordonne les propositions de la direction générale relatives à la simplification, à la stabilité et à la qualité de l'environnement juridique des entreprises, et concourt aux démarches de simplification en faveur des entreprises.
 
-Il élabore et met en œuvre les textes législatifs et réglementaires relatifs aux formalités de déclaration des entreprises auprès des centres de formalités des entreprises. Il assure le secrétariat de la commission de coordination des centres de formalités des entreprises. Il représente la direction générale auprès du groupement d'intérêt public « Guichet Entreprises ».
+Il élabore et met en œuvre les textes législatifs et réglementaires relatifs aux formalités de déclaration des entreprises auprès des centres de formalités des entreprises. Il assure le secrétariat de la commission de coordination des centres de formalités des entreprises.
 
 Il assure la coordination et la veille juridiques en matière de textes nationaux et européens pour la direction générale.
