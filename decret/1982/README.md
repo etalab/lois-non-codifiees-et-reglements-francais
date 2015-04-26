@@ -73,7 +73,6 @@
 - [Décret n°82-242 du 15 mars 1982](decret-n82-242-du-15-mars-1982)
 - [Décret n°82-243 du 15 mars 1982](decret-n82-243-du-15-mars-1982)
 - [Décret n°82-339 du 15 avril 1982](decret-n82-339-du-15-avril-1982)
-- [Décret n°82-883 du 15 octobre 1982](decret-n82-883-du-15-octobre-1982)
 - [Décret n°82-886 du 15 octobre 1982](decret-n82-886-du-15-octobre-1982)
 - [Décret n°82-894 du 15 octobre 1982](decret-n82-894-du-15-octobre-1982)
 - [Décret n°82-896 du 15 octobre 1982](decret-n82-896-du-15-octobre-1982)
