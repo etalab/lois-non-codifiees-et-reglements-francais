@@ -4,4 +4,4 @@ Les candidats inscrits en qualité de réfugié, apatride, bénéficiaire de l'a
 
 Le jury établit une liste alphabétique des candidats reçus.
 
-Cette liste, arrêtée par profession, discipline, spécialité et par ordre alphabétique, est publiée au Journal officiel de la République française.
+Cette liste, arrêtée par profession, spécialité et par ordre alphabétique, est publiée au Journal officiel de la République française.

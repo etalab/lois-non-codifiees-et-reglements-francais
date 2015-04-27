@@ -1,6 +1,6 @@
 # Article 11
 
-Pour chaque profession, discipline et spécialité ouverte au concours, conformément à la répartition prévue aux articles D. 4111-3, D. 4111-4 et D. 4221-3 du code de la santé publique, un jury composé comme suit est constitué :
+Pour chaque profession et spécialité ouverte au concours, conformément à la répartition prévue aux articles D. 4111-3, D. 4111-4 et D. 4221-9 du code de la santé publique, un jury composé comme suit est constitué :
 
 a) Un président du jury exerçant des fonctions hospitalières et d'enseignement ;
 
