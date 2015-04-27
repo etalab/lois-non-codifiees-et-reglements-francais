@@ -1,0 +1,3 @@
+# Article 5
+
+En application du dernier alinéa de l'article 7 du décret du 3 juillet 2006 susvisé, les membres des délégations ministérielles et les agents nommément désignés par le ministre ou son chef de cabinet peuvent prétendre, dans la limite des sommes effectivement engagées, au remboursement de leurs frais d'hébergement, de transport et de restauration aux frais réels. Pour l'application de ce dispositif, l'ordre de mission autorisant le déplacement devra être signé par le ministre, le directeur de cabinet ou le chef de cabinet du ministre et comporter la mention « hébergement, restauration, transport aux frais réels ».
