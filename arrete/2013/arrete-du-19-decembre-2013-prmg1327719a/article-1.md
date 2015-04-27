@@ -14,7 +14,7 @@ I. - Groupe I :
 
 II. - Groupe II :
 
-1° Chef du service de la législation et de la qualité du droit au secrétariat général du Gouvernement ;
+1° (Abrogé)
 
 2° Chef du service "coordination" au secrétariat général pour la modernisation de l'action publique ;
 
