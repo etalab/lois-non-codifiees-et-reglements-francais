@@ -234,6 +234,7 @@
 - [DÉCRET n°2015-186 du 17 février 2015 (AFSH1422544D)](decret-n2015-186-du-17-fevrier-2015-afsh1422544d)
 - [DÉCRET n°2015-187 du 17 février 2015 (AFSS1500609D)](decret-n2015-187-du-17-fevrier-2015-afss1500609d)
 - [DÉCRET n°2015-301 du 17 mars 2015 (DEVT1429410D)](decret-n2015-301-du-17-mars-2015-devt1429410d)
+- [DÉCRET n°2015-302 du 17 mars 2015 (DEVT1504538D)](decret-n2015-302-du-17-mars-2015-devt1504538d)
 - [DÉCRET n°2015-303 du 17 mars 2015 (DEFH1430648D)](decret-n2015-303-du-17-mars-2015-defh1430648d)
 - [DÉCRET n°2015-304 du 17 mars 2015 (DEFH1430649D)](decret-n2015-304-du-17-mars-2015-defh1430649d)
 - [DÉCRET n°2015-305 du 17 mars 2015 (DEFH1430650D)](decret-n2015-305-du-17-mars-2015-defh1430650d)
