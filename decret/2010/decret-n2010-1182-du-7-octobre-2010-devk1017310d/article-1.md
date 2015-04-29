@@ -10,9 +10,9 @@ Au titre des 2°, 3°, 4° et 5° du II de l'article 1er du décret du 24 novemb
 
 - les certificats de capacité de conduite des bateaux de commerce conformes aux modèles figurant à l'annexe 9 de l'arrêté du 19 décembre 2003 relatif à l'équipage et à la conduite des bateaux de navigation intérieure ;
 
-- les attestations spéciales  radar  conformes au modèle figurant à l'annexe 9 de l'arrêté du 19 décembre 2003 relatif à l'équipage et à la conduite des bateaux de navigation intérieure ;
+- les attestations spéciales radar conformes au modèle figurant à l'annexe 9 de l'arrêté du 19 décembre 2003 relatif à l'équipage et à la conduite des bateaux de navigation intérieure ;
 
-- les attestations spéciales  passagers  conformes au modèle figurant à l'annexe 9 de l'arrêté du 19 décembre 2003 relatif à l'équipage et à la conduite des bateaux de navigation intérieure ;
+- les attestations spéciales passagers conformes au modèle figurant à l'annexe 9 de l'arrêté du 19 décembre 2003 relatif à l'équipage et à la conduite des bateaux de navigation intérieure ;
 
 - la carte chronotachygraphe électronique ;
 
@@ -30,4 +30,6 @@ Au titre des 2°, 3°, 4° et 5° du II de l'article 1er du décret du 24 novemb
 
 - les extraits des inscriptions de droits réels ;
 
-- le certificat de formation des conducteurs procédant au transport de marchandises dangereuses par route (certificat de formation ADR).
+- le certificat de formation des conducteurs procédant au transport de marchandises dangereuses par route (certificat de formation ADR) ;
+
+- la carte de qualification de conducteur.
