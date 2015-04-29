@@ -1076,7 +1076,6 @@
 - [Arrêté du 14 décembre 2011 (DEVP1133571A)](arrete-du-14-decembre-2011-devp1133571a)
 - [Arrêté du 14 décembre 2011 (EFIE1130166A)](arrete-du-14-decembre-2011-efie1130166a)
 - [Arrêté du 14 décembre 2011 (EFIE1130169A)](arrete-du-14-decembre-2011-efie1130169a)
-- [Arrêté du 14 décembre 2011 (ETSS1134190A)](arrete-du-14-decembre-2011-etss1134190a)
 - [Arrêté du 14 décembre 2011 (ETST1135008A)](arrete-du-14-decembre-2011-etst1135008a)
 - [Arrêté du 14 décembre 2011 (JUSB1133462A)](arrete-du-14-decembre-2011-jusb1133462a)
 - [Arrêté du 14 décembre 2011 (JUSC1132391A)](arrete-du-14-decembre-2011-jusc1132391a)
