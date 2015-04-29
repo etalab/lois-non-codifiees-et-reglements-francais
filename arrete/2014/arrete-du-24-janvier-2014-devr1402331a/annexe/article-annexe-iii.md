@@ -5,21 +5,18 @@ Extensions significatives de capacité
 <table>
 <tbody>
 <tr>
-<th>
+<th rowspan="2">
 <br/>IDENTIFIANT<br/>
 </th>
-<th>
+<th rowspan="2">
 <br/>NOM DE L'EXPLOITANT<br/>
 </th>
-<th>
+<th rowspan="2">
 <br/>NOM DE L'INSTALLATION</th>
 <th colspan="9">
 <br/>QUANTITÉ DE QUOTAS AFFECTÉS</th>
 </tr>
 <tr>
-<th/>
-<th/>
-<th/>
 <th>
 <br/>2013</th>
 <th>
@@ -89,16 +86,13 @@ Extensions significatives de capacité
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>FR000000000000095</p>
+<p>FR000000000000095</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>SEE BRUYERES &amp; FILS</p>
+<p>SEE BRUYERES &amp; FILS</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>BRUYERES</p>
+<p>BRUYERES</p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -139,16 +133,13 @@ Extensions significatives de capacité
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>FR000000000001152</p>
+<p>FR000000000001152</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>SAINT-GOBAIN ISOVER</p>
+<p>SAINT-GOBAIN ISOVER</p>
 </td>
 <td align="center">
-<p align="left">
-<br/>SAINT-GOBAIN ISOVER</p>
+<p>SAINT-GOBAIN ISOVER</p>
 </td>
 <td align="center">
 <p align="center">
@@ -189,16 +180,13 @@ Extensions significatives de capacité
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>FR-new-05904915</p>
+<p>FR-new-05904915</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>SLV-Ta-Specialty Polymers2</p>
+<p>SLV-Ta-Specialty Polymers2</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>Solvay Electrolyse France</p>
+<p>Solvay Electrolyse France</p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -239,16 +227,13 @@ Extensions significatives de capacité
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>FR000000000000837</p>
+<p>FR000000000000837</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>Tereos Syral</p>
+<p>Tereos Syral</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>Tereos Syral </p>
+<p>Tereos Syral </p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -289,16 +274,13 @@ Extensions significatives de capacité
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>FR000000000001075</p>
+<p>FR000000000001075</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>LABORATOIRES SERVIER INDUSTRIE</p>
+<p>LABORATOIRES SERVIER INDUSTRIE</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>LABORATOIRES SERVIER INDUSTRIE</p>
+<p>LABORATOIRES SERVIER INDUSTRIE</p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -339,16 +321,13 @@ Extensions significatives de capacité
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">
-<br/>FR000000000000979</p>
+<p>FR000000000000979</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>NESTLE PURINA PETCARE France - Usine de Marconnelle</p>
+<p>NESTLE PURINA PETCARE France - Usine de Marconnelle</p>
 </td>
 <td align="left" valign="top">
-<p align="left">
-<br/>NESTLE PURINA PETCARE France</p>
+<p>NESTLE PURINA PETCARE France</p>
 </td>
 <td align="left" valign="top">
 <p align="center">
@@ -385,45 +364,6 @@ Extensions significatives de capacité
 <td align="left" valign="top">
 <p align="center">
 <br/>17 840</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">FR000000000000274</p>
-</td>
-<td align="left" valign="top">
-<p>SNC Renault</p>
-<p>(CLEON) </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Usine Renault de Cléon </p>
-</td>
-<td align="left" valign="top">
-<p align="center">5 834</p>
-</td>
-<td align="left" valign="top">
-<p align="center">5 221</p>
-</td>
-<td align="left" valign="top">
-<p align="center">4 625</p>
-</td>
-<td align="left" valign="top">
-<p align="center">4 049</p>
-</td>
-<td align="left" valign="top">
-<p align="center">3 490</p>
-</td>
-<td align="left" valign="top">
-<p align="center">2 949</p>
-</td>
-<td align="left" valign="top">
-<p align="center">2 426</p>
-</td>
-<td align="left" valign="top">
-<p align="center">1 921</p>
-</td>
-<td align="left" valign="top">
-<p align="center">30 515</p>
 </td>
 </tr>
 <tr>
@@ -500,6 +440,94 @@ Extensions significatives de capacité
 </td>
 <td align="left" valign="top">
 <p align="center">16 682</p>
+</td>
+</tr>
+<tr>
+<td>FR000000000000564</td>
+<td>
+<p align="left">LHOIST France OUEST-Usine de NEAU </p>
+</td>
+<td>
+<p align="left">Lhoist France Ouest-Usine de Neau (53) </p>
+</td>
+<td>41 006 </td>
+<td>65 075</td>
+<td>63 922 </td>
+<td>62 770 </td>
+<td>61 618 </td>
+<td>60 465 </td>
+<td>59 313 </td>
+<td>58 161 </td>
+<td>472 330 </td>
+</tr>
+<tr>
+<td>FR000000000000383</td>
+<td>
+<p align="left">ARKEMA France </p>
+</td>
+<td>ARKEMA Usine de Jarrie  </td>
+<td>
+<p align="center">13 141 </p>
+</td>
+<td>
+<p align="center">12 912 </p>
+</td>
+<td>
+<p align="center">12 684 </p>
+</td>
+<td>
+<p align="center">12 455 </p>
+</td>
+<td>
+<p align="center">12 226</p>
+</td>
+<td>
+<p align="center">11 998 </p>
+</td>
+<td>
+<p align="center">11 769 </p>
+</td>
+<td>
+<p align="center">11 540 </p>
+</td>
+<td>
+<p align="center">98 725 </p>
+</td>
+</tr>
+<tr>
+<td>FR000000000000554</td>
+<td>
+<p align="left">SIFDDA CENTRE </p>
+</td>
+<td>
+<p align="left">SIFDDA CENTRE SAS </p>
+</td>
+<td>
+<p align="center">0</p>
+</td>
+<td>
+<p align="center">1 349 </p>
+</td>
+<td>
+<p align="center">2 371 </p>
+</td>
+<td>
+<p align="center">2 075 </p>
+</td>
+<td>
+<p align="center">1 789</p>
+</td>
+<td>
+<p align="center">1 512 </p>
+</td>
+<td>
+<p align="center">1 243 </p>
+</td>
+<td>
+<p align="center">985</p>
+</td>
+<td>
+<p align="center">11 324</p>
 </td>
 </tr>
 </tbody>

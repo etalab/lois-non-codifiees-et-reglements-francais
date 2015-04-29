@@ -378,43 +378,42 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000001158<br/>
+<td align="center">
+<p align="center">FR000000000001158</p>
 </td>
 <td align="center">
-<p align="left">GDF SUEZ THERMIQUE<br/>
-</p>
+<p align="left">GDF SUEZ THERMIQUE</p>
 </td>
 <td align="center">
-<p align="left">Centrale électrique SPEM<br/>
-</p>
+<p align="left">Centrale électrique SPEM</p>
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000001159<br/>
+<td align="center">
+<p align="center">FR000000000001159</p>
 </td>
 <td align="center">
-<p align="left">GDF SUEZ THERMIQUE France<br/>
-</p>
+<p align="left">GDF SUEZ THERMIQUE France</p>
 </td>
 <td align="center">
-<p align="left">GDF Suez Thermique France ― Centrale de Fos-sur-Mer COMBIGOLFE<br/>
-</p>
+<p align="left">GDF Suez Thermique France ― Centrale de Fos-sur-Mer COMBIGOLFE</p>
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000001165<br/>
+<td align="center">
+<p align="center">FR000000000001165</p>
 </td>
 <td align="center">
-<p align="left">Electricité de France <br/>
-</p>
+<p align="left">Electricité de France</p>
 </td>
 <td align="center">
-<p align="left">EDF ― CETAC Site Montereau<br/>
-</p>
+<p align="left">EDF ― CETAC Site Montereau</p>
 </td>
 </tr>
 <tr>
-<td align="center">FR000000000001166<br/>
+<td align="center">
+<p align="center">FR000000000001166<br/>
+</p>
 </td>
 <td align="center">
 <p align="left">3CB<br/>
@@ -426,7 +425,9 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td align="center">Fr-new-05802143<br/>
+<td align="center">
+<p align="center">Fr-new-05802143<br/>
+</p>
 </td>
 <td align="center">
 <p align="left">EDF<br/>
@@ -438,7 +439,9 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td align="center">FR-New-06208313<br/>
+<td align="center">
+<p align="center">FR-new-06208313<br/>
+</p>
 </td>
 <td align="center">
 <p align="left">TOUL POWER SAS<br/>
@@ -449,7 +452,9 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td align="center">FR-New-06900399 <br/>
+<td align="center">
+<p align="center">FR-new-06900399 <br/>
+</p>
 </td>
 <td align="center">
 <p align="left">ALBIOMA CARAÏBES</p>
@@ -471,7 +476,7 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </tr>
 <tr>
 <td>
-<p align="center">FR-New-06900568</p>
+<p align="center">FR-new-06900568</p>
 </td>
 <td>
 <p align="left">EDF PEI</p>
@@ -515,19 +520,20 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td align="center">FR-new-07404411<br/>
+<td align="center">
+<p align="center">FR-new-07404411</p>
 </td>
 <td align="center">
-<p align="left">GLOBAL SWITCH<br/>
-</p>
+<p align="left">GLOBAL SWITCH</p>
 </td>
 <td align="center">
-<p align="left">GLOBAL SWITCH<br/>
-</p>
+<p align="left">GLOBAL SWITCH</p>
 </td>
 </tr>
 <tr>
-<td>FR-new40000003</td>
+<td>
+<p align="center">FR-new40000003</p>
+</td>
 <td>
 <p align="left">Electricité de Mayotte </p>
 </td>
@@ -536,7 +542,34 @@ INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN Q
 </td>
 </tr>
 <tr>
-<td>FR-new40000024</td>
+<td>
+<p align="center">FR000000000000451</p>
+</td>
+<td>EDF </td>
+<td>
+<p align="left">CENTRALE DE BLÉNOD</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Fr-new-10009485 </p>
+</td>
+<td>UNIBIENS (CREDIT AGRICOLE)</td>
+<td>UNIBIENS Site de Fontaine</td>
+</tr>
+<tr>
+<td>
+<p align="center">Fr-new-10009486</p>
+</td>
+<td>UNIBIENS (CREDIT AGRICOLE)</td>
+<td>
+<p align="left">UNIBIENS Site de Mainvilliers </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">FR-new40000024</p>
+</td>
 <td>
 <p align="left">Electricité de Mayotte </p>
 </td>

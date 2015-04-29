@@ -555,6 +555,7 @@
 - [ARRÊTÉ du 14 avril 2015 (FCPD1502973A)](arrete-du-14-avril-2015-fcpd1502973a)
 - [ARRÊTÉ du 14 avril 2015 (FCPD1503322A)](arrete-du-14-avril-2015-fcpd1503322a)
 - [ARRÊTÉ du 14 avril 2015 (JUST1508450A)](arrete-du-14-avril-2015-just1508450a)
+- [Arrêté du 14 décembre 2011 (ETSS1134190A)](arrete-du-14-decembre-2011-etss1134190a)
 - [ARRÊTÉ du 14 janvier 2015 (AFSP1501146A)](arrete-du-14-janvier-2015-afsp1501146a)
 - [ARRÊTÉ du 14 janvier 2015 (AFSS1500966A)](arrete-du-14-janvier-2015-afss1500966a)
 - [ARRÊTÉ du 14 janvier 2015 (AGRE1500523A)](arrete-du-14-janvier-2015-agre1500523a)
