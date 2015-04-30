@@ -195,7 +195,6 @@
 - [Arrêté du 9 septembre 1999 (DEFT9901908A)](arrete-du-9-septembre-1999-deft9901908a)
 - [Arrêté du 9 septembre 1999 (DEFT9901909A)](arrete-du-9-septembre-1999-deft9901909a)
 - [Arrêté du 10 août 1999 (AGRA9901532A)](arrete-du-10-aout-1999-agra9901532a)
-- [Arrêté du 10 août 1999 (MENS9901711A)](arrete-du-10-aout-1999-mens9901711a)
 - [Arrêté du 10 août 1999 (MJSK9970095A)](arrete-du-10-aout-1999-mjsk9970095a)
 - [Arrêté du 10 décembre 1998 (ATEP9870458A)](arrete-du-10-decembre-1998-atep9870458a)
 - [Arrêté du 10 février 1999 (ECOI9900032A)](arrete-du-10-fevrier-1999-ecoi9900032a)
