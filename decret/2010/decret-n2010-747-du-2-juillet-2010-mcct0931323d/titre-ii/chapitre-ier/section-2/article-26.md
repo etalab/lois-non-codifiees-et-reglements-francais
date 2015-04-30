@@ -1,6 +1,6 @@
 # Article 26
 
-I. ― Par dérogation au premier alinéa du I de l'article 25, le taux de l'obligation est fixé, en tenant compte du nombre d'abonnés au service, au moins aux pourcentages suivants :
+I. ― Par dérogation au premier alinéa de l'article 25, le taux de l'obligation est fixé à 13 % lorsque le nombre d'abonnés au service est inférieur à 3 millions.
 
 <table>
 <tbody>
@@ -91,8 +91,7 @@ II. ― Par dérogation au deuxième alinéa du même article, la part composée
 </tr>
 <tr>
 <td>
-<p>
-<br/>Egal ou supérieur à 3 millions et </p>
+<p>Egal ou supérieur à 3 millions et </p>
 <p align="center">inférieur à 4 millions</p>
 </td>
 <td>

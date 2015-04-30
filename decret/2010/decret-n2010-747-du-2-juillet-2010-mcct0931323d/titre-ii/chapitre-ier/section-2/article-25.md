@@ -6,4 +6,4 @@ La part de l'obligation prévue à l'alinéa précédent composée de dépenses 
 
 Sont patrimoniales au sens de la présente section les œuvres énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi du 30 septembre 1986 susvisée.
 
-II. ― Les œuvres européennes qui ne sont pas d'expression originale française ne peuvent représenter plus de 15 % des obligations mentionnées au I du présent article ou à l'article 26.
+II. ― Les œuvres d'expression originale française représentent au moins 85 % des obligations mentionnées au I du présent article et à l'article 26.

@@ -4,7 +4,7 @@ Les éditeurs de services de cinéma de premières diffusions consacrent chaque 
 
 Pour les éditeurs de services dont les ressources totales sont celles définies au deuxième alinéa de l'article 33, cette part est fixée au moins à 3,6 %. Pour les autres éditeurs de services, cette part est fixée au moins à 4,8 %.
 
-Les œuvres patrimoniales européennes qui ne sont pas d'expression originale française doivent être éligibles aux aides financières du Centre national du cinéma et de l'image animée et ne peuvent représenter plus de 15 % de cette contribution.
+Les œuvres patrimoniales d'expression originale française représentent au moins 85 % de cette contribution. Les œuvres patrimoniales européennes qui ne sont pas d'expression originale française doivent être éligibles aux aides financières du Centre national du cinéma et de l'image animée.
 
 Sont patrimoniales au sens de la présente section les œuvres énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi du 30 septembre 1986 susvisée.
 
