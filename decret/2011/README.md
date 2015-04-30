@@ -35,6 +35,7 @@
 - [Décret n°2011-502 du 6 mai 2011 (DEVA1103531D)](decret-n2011-502-du-6-mai-2011-deva1103531d)
 - [Décret n°2011-1463 du 7 novembre 2011 (AGRT1118900D)](decret-n2011-1463-du-7-novembre-2011-agrt1118900d)
 - [Décret n°2011-1819 du 7 décembre 2011 (AGRT1119940D)](decret-n2011-1819-du-7-decembre-2011-agrt1119940d)
+- [Décret n°2011-1823 du 7 décembre 2011 (AGRT1126933D)](decret-n2011-1823-du-7-decembre-2011-agrt1126933d)
 - [Décret n°2011-380 du 7 avril 2011 (EFIE1102366D)](decret-n2011-380-du-7-avril-2011-efie1102366d)
 - [Décret n°2011-632 du 7 juin 2011 (DEFD1108950D)](decret-n2011-632-du-7-juin-2011-defd1108950d)
 - [Décret n°2011-1081 du 8 septembre 2011 (AGRT1108533D)](decret-n2011-1081-du-8-septembre-2011-agrt1108533d)
