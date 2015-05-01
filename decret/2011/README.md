@@ -137,6 +137,7 @@
 - [Décret n°2004-388 du 30 avril 2004 (INDI0402817D)](decret-n2004-388-du-30-avril-2004-indi0402817d)
 - [Décret n°2010-1690 du 30 décembre 2010 (DEFF1027383D)](decret-n2010-1690-du-30-decembre-2010-deff1027383d)
 - [Décret n°2010-1693 du 30 décembre 2010 (DEFH1025585D)](decret-n2010-1693-du-30-decembre-2010-defh1025585d)
+- [Décret n°2010-1702 du 30 décembre 2010 (DEVD1026557D)](decret-n2010-1702-du-30-decembre-2010-devd1026557d)
 - [Décret n°2010-1749 du 30 décembre 2010 (BCRF1033417D)](decret-n2010-1749-du-30-decembre-2010-bcrf1033417d)
 - [Décret n°2010-1756 du 30 décembre 2010 (AGRS1028868D)](decret-n2010-1756-du-30-decembre-2010-agrs1028868d)
 - [Décret n°2011-1034 du 30 août 2011 (ETSS1123735D)](decret-n2011-1034-du-30-aout-2011-etss1123735d)
