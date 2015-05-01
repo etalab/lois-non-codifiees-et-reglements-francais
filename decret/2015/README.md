@@ -551,6 +551,7 @@
 - [DÉCRET n°2015-364 du 30 mars 2015 (ETST1503721D)](decret-n2015-364-du-30-mars-2015-etst1503721d)
 - [DÉCRET n°2015-365 du 30 mars 2015 (AGRE1505650D)](decret-n2015-365-du-30-mars-2015-agre1505650d)
 - [DÉCRET n°2015-368 du 30 mars 2015 (DEFD1505925D)](decret-n2015-368-du-30-mars-2015-defd1505925d)
+- [DÉCRET n°2015-369 du 30 mars 2015 (AGRS1504757D)](decret-n2015-369-du-30-mars-2015-agrs1504757d)
 - [DÉCRET n°2015-370 du 30 mars 2015 (MCCB1427631D)](decret-n2015-370-du-30-mars-2015-mccb1427631d)
 - [DÉCRET n°2015-86 du 30 janvier 2015 (AFSS1430153D)](decret-n2015-86-du-30-janvier-2015-afss1430153d)
 - [DÉCRET n°2014-1756 du 31 décembre 2014 (DEFH1430290D)](decret-n2014-1756-du-31-decembre-2014-defh1430290d)
