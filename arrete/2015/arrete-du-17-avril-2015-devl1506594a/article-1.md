@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 forêts de Raismes, Saint-Amand, Wallers et Marchiennes et plaine alluviale de la Scarpe » (zone spéciale de conservation FR 3100507) l'espace délimité sur la carte d'assemblage au 1/100 000 et les sept cartes au 1/25 000 ci-jointes, s'étendant dans le département du Nord, sur une partie du territoire des communes suivantes : Beuvry-la-Forêt, Bousignies, Château-l'Abbaye, Fenain, Hasnon, Marchiennes, Millonfosse, Nivelle, Odomez, Raismes, Rieulay, Saint-Amand-les-Eaux, Thun-Saint-Amand, Tilloy-lez-Marchiennes, Vred, Wallers, Wandignies-Hamage, Warlaing.

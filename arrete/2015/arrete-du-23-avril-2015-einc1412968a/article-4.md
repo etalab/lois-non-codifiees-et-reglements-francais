@@ -1,0 +1,3 @@
+# Article 4
+
+Les indicateurs retenus pour mesurer la hausse des cours des matières premières, élaborés par l'Institut national de la statistique et des études économiques (INSEE), sont constitués par le cours mensuel du blé à Chicago (prix en cents américains par boisseau de 60 livres), par les séries des indices mensuels des prix internationaux des matières premières importées en euros pour les denrées tropicales, les oléagineux, les céréales, le sucre et la viande de bœuf empaquetée, et par l'indice mensuel des prix agricoles à la production (IPPAP) du lait, des porcins et du poulet (données brutes).
