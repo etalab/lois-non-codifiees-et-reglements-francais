@@ -2472,7 +2472,6 @@
 - [Arrêté du 28 mars 2012 (IOCA1209432A)](arrete-du-28-mars-2012-ioca1209432a)
 - [Arrêté du 28 mars 2012 (IOCD1204298A)](arrete-du-28-mars-2012-iocd1204298a)
 - [Arrêté du 28 mars 2012 (IOCL1206178A)](arrete-du-28-mars-2012-iocl1206178a)
-- [Arrêté du 28 mars 2012 (MAEA1133919A)](arrete-du-28-mars-2012-maea1133919a)
 - [Arrêté du 28 mars 2012 (PRMX1208660A)](arrete-du-28-mars-2012-prmx1208660a)
 - [Arrêté du 28 mars 2012 (PRMX1208662A)](arrete-du-28-mars-2012-prmx1208662a)
 - [Arrêté du 28 novembre 2011 (BCRE1128339A)](arrete-du-28-novembre-2011-bcre1128339a)
