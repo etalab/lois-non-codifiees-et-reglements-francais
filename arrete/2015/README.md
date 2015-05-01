@@ -979,7 +979,6 @@
 - [ARRÊTÉ du 22 décembre 2014 (JUSF1431017A)](arrete-du-22-decembre-2014-jusf1431017a)
 - [ARRÊTÉ du 22 décembre 2014 (MAEF1429727A)](arrete-du-22-decembre-2014-maef1429727a)
 - [ARRÊTÉ du 22 décembre 2014 (MAEF1430233A)](arrete-du-22-decembre-2014-maef1430233a)
-- [ARRÊTÉ du 22 décembre 2014 (MAEF1430234A)](arrete-du-22-decembre-2014-maef1430234a)
 - [ARRÊTÉ du 22 décembre 2014 (MENF1416502A)](arrete-du-22-decembre-2014-menf1416502a)
 - [ARRÊTÉ du 22 décembre 2014 (PRMG1500831A)](arrete-du-22-decembre-2014-prmg1500831a)
 - [ARRÊTÉ du 22 décembre 2014 (VJSF1431198A)](arrete-du-22-decembre-2014-vjsf1431198a)
