@@ -1,7 +1,9 @@
 # Article 240-1.03
 
-Navires marqués "CE"
+Exigences concernant la fonction de chef de bord.
 
-I. Pour satisfaire aux exigences de sécurité et de prévention de la pollution de la présente division, un navire relevant du champ d'application du décret du 4 juillet 1996 précité et répondant aux dispositions donnant lieu à son marquage "CE", telles que prévues par le dit décret, n'est pas astreint aux dispositions du chapitre 240-2.
+I.-Le chef de bord s'assure que tous les équipements et matériels de sécurité qui répondent aux dispositions de conformité du navire et à la présente division sont embarqués, en état de validité, adaptés à l'équipage et en bon état.
 
-II. La présomption de conformité du navire est établie à partir de la déclaration écrite de conformité fournie par son fabricant, ou le délégataire de celui-ci. Toutefois, dans le cas d'un navire concerné par les dispositions de l'article 240-1.05, la conformité aux exigences de sécurité et de prévention de la pollution de la présente division, est établie à partir de la déclaration écrite de conformité fournie par la personne assumant la responsabilité de la conformité du navire, et du rapport d'examen délivré par l'organisme notifié ayant effectué l'évaluation après construction.
+II.-Le chef de bord les met en œuvre lorsque les conditions l'exigent.
+
+III.-Dans le cadre d'activités d'enseignement organisées par un organisme d'Etat ou par une structure membre d'une fédération sportive agréée par le ministre chargé des sports, sur des voiliers de masse lège inférieure à 250 kilogrammes, cette fonction peut être assumée par un encadrant embarqué sur un moyen nautique à proximité.

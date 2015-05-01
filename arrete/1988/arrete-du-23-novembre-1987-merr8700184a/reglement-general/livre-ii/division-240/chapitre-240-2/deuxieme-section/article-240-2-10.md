@@ -1,11 +1,9 @@
 # Article 240-2.10
 
-Ouvertures extérieures
+Exemptions au matériel d'armement et de sécurité.
 
-I. Toutes les ouvertures extérieures sont conçues de manière à prévenir les entrées d'eau intempestives.
+I.-Les navires dont les équipages effectuent une navigation dans le cadre d'activités organisées par un organisme d'Etat, ou par une structure membre d'une fédération sportive agréée par le ministre chargé des sports, peuvent être exemptés de tout ou partie du matériel d'armement et de sécurité prescrit par la présente division. Dans ce cas, l'organisme, pour ce qui le concerne, ou la fédération sportive agréée par le ministre chargé des sports pour les structures qui lui sont affiliées, définit le matériel de sécurité qui doit être embarqué ou les conditions dans lesquelles une dispense de moyens de prévention des chutes de personnes à l'eau peut être accordée.
 
-II. Les accès ménagés dans les superstructures et les roufs sont munis de moyens de fermeture étanches aux intempéries s'ouvrant vers l'extérieur. Les panneaux de fermeture amovibles ou coulissants menant aux aménagements sont munis d'un dispositif de verrouillage manœuvrable depuis l'intérieur et l'extérieur.
+Les décisions prises au titre de l'alinéa précédent font l'objet d'une notification auprès du ministre chargé de la mer qui la publie.
 
-III. Aucune porte d'accès aux superstructures ni aucune descente ne comporte un surbau inférieur à 100 mm par rapport à la partie du pont considérée.
-
-IV. Les fenêtres, hublots, portes et panneaux d'écoutilles résistent à la pression de l'eau qu'ils sont susceptibles de subir à l'endroit où ils sont placés, ainsi qu'aux charges concentrées qui peuvent leurs être appliquées par le poids des personnes se déplaçant sur le pont. Dans ce but, le positionnement, les matériaux, l'échantillonnage et le montage des panneaux transparents sont conformes aux dispositions de l'article 240-2.11.
+II.-Les navires existants bénéficiant de la reconnaissance d'insubmersibilité et pour lesquels la série a fait l'objet d'une décision d'insubmersibilité par l'administration ne sont pas tenus d'embarquer le radeau de survie gonflable prescrit par les articles 240-2.07 et 240-2.08, tant qu'ils naviguent dans les limites, en termes d'éloignement d'un abri, de la catégorie de navigation pour laquelle l'insubmersibilité a été reconnue. Un navire neuf identique à un navire reconnu insubmersible continue de bénéficier de cette reconnaissance tant qu'il est fabriqué par la même personne.

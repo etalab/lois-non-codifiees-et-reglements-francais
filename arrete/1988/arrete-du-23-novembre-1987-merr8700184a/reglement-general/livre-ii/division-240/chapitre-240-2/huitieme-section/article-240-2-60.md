@@ -1,9 +1,0 @@
-# Article 240-2.60
-
-Moyen de remonter à bord en cas de chute à l'eau
-
-I. Tout navire comporte un dispositif permettant à une personne tombée à l'eau de remonter à bord aisément et par ses propres moyens, sans compromettre la stabilité.
-
-II. Dès lors qu'une personne tombée à l'eau a atteint l'endroit du navire prévu pour la remontée à bord, elle doit pouvoir mettre en œuvre le moyen de remonter sans assistance extérieure.
-
-III. Lorsque le franc-bord lège est supérieur à 500 mm, ce dispositif peut être une échelle dépliante ou un filet, ou tout dispositif de marches et de poignées assujetti de manière permanente au navire, à condition qu'il puisse être déployé en cas de nécessité au moins à 300 mm sous la flottaison la plus basse. Lorsque le franc-bord lège est inférieur à 500 mm, des prises de mains simples, ou une ligne souple, solidement fixées sur le pourtour du navire, sont admises.

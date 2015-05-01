@@ -1,13 +1,43 @@
 # Article 240-2.02
 
-Attribution d'une catégorie de conception
+Limitations des conditions d'utilisation.
 
-Les navires de plaisance neufs sont classés dans l'une des quatre catégories de conception suivantes :
+I.-Effectuent des navigations à une distance d'un abri n'excédant pas 300 mètres :
 
-1. Catégorie de conception A : catégorie attribuée aux navires de plaisance conçus pour la navigation en "haute mer", pour de grands voyages au cours desquels le vent peut dépasser la force 8 (sur l'échelle de Beaufort) et les vagues une hauteur significative de 4 m et pour lesquels ces bateaux sont, dans une large mesure, autosuffisants.
+-les engins de plage ; leur navigation est obligatoirement diurne ;
 
-2. Catégorie de conception B : catégorie attribuée aux navires de plaisance pour la navigation "au large", conçus pour des voyages au large des côtes au cours desquels les vents peuvent aller jusqu'à la force 8 comprise et les vagues peuvent atteindre une hauteur significative jusqu'à 4 m compris.
+-les annexes (le navire porteur est considéré comme un abri).
 
-3. Catégorie de conception C : catégorie attribuée aux navires de plaisance pour la navigation "à proximité des côtes", conçus pour des voyages à proximité des côtes et dans de grandes baies, de grands estuaires, lacs et rivières, au cours desquels les vents peuvent aller jusqu'à la force 6 comprise et les vagues peuvent atteindre une hauteur significative jusqu'à 2 m compris.
+II.-Effectuent des navigations diurnes et à une distance d'un abri n'excédant pas 2 milles :
 
-4. Catégorie de conception D : catégorie attribuée aux navires de plaisance pour la navigation en eaux protégées , conçus pour des voyages dans des eaux côtières protégées, des baies de petite dimension, des petits lacs, rivières et canaux, au cours desquels le vent peut atteindre la force 4 et les vagues une hauteur significative jusqu'à 0,3 mètre, avec des vagues occasionnelles, causées par exemple par des bateaux de passage, d'une hauteur maximale de 0,5 mètre.
+-les planches à voile et planches aérotractées ;
+
+-les véhicules nautiques à moteur dont la capacité d'embarquement est d'au maximum une personne. Cette valeur est indiquée sur la plaque constructeur ;
+
+-les planches nautiques à moteur ;
+
+-les embarcations propulsées principalement par l'énergie humaine qui ne sont pas des engins de plage, si consécutivement à un chavirement un dispositif permet au pratiquant :
+
+-de rester au contact du flotteur ;
+
+-de remonter sur l'embarcation et repartir, seul ou, le cas échéant, avec l'assistance d'un accompagnant.
+
+Les kayaks de mer sont dotés d'un dispositif intégré ou solidaire de la coque permettant le calage du bassin et des membres inférieurs ;
+
+-les engins de plage, dans le cadre d'activités organisées par un organisme d'Etat ou par une structure membre d'une fédération sportive agréée par le ministre chargé des sports, si les conditions suivantes sont respectées :
+
+-présence sur zone d'un encadrement qualifié au sens du code du sport permettant d'effectuer une intervention immédiate pour mettre en sécurité les pratiquants ;
+
+-port effectif pour chaque pratiquant d'un équipement individuel de flottabilité conforme à l'article 240-2.12 ou une combinaison de protection conforme à l'article 240-2.13.
+
+III.-Effectuent des navigations diurnes à une distance d'un abri n'excédant pas 6 milles :
+
+-les véhicules nautiques à moteur autres que ceux visés au II du présent article ;
+
+-les embarcations propulsées principalement par l'énergie humaine visées au II du présent article, à l'exception des planches à pagaie, aux conditions suivantes :
+
+-effectuer cette navigation à deux embarcations de conserve minimum ;
+
+-disposer pour chaque groupe de deux d'un émetteur-récepteur VHF conforme aux exigences de l'article 240-2.17, étanche, qui ne coule pas lors d'une immersion et accessible en permanence par le pratiquant.
+
+Toutefois, une telle navigation peut être réalisée à une seule embarcation si le pratiquant est adhérent à une association déclarée pour cette pratique et emporte un émetteur-récepteur VHF conforme à l'alinéa précédent.
