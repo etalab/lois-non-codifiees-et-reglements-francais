@@ -1072,7 +1072,6 @@
 - [Décret n°2012-945 du 1er août 2012 (BUDD1202122D)](decret-n2012-945-du-1er-aout-2012-budd1202122d)
 - [Décret n°2012-948 du 1er août 2012 (DEVL1225587D)](decret-n2012-948-du-1er-aout-2012-devl1225587d)
 - [Décret n°2012-951 du 1er août 2012 (PROI1131651D)](decret-n2012-951-du-1er-aout-2012-proi1131651d)
-- [Décret n°2012-952 du 1er août 2012 (ESRS1225567D)](decret-n2012-952-du-1er-aout-2012-esrs1225567d)
 - [Décret n°2012-953 du 1er août 2012 (TRAT1200054D)](decret-n2012-953-du-1er-aout-2012-trat1200054d)
 - [Décret n°2012-312 (SPOV1129067D)](decret-n2012-312-spov1129067d)
 - [Décret n°2012-552 (COTB1200939D)](decret-n2012-552-cotb1200939d)
