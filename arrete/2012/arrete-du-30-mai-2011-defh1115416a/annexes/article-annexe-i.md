@@ -12,46 +12,43 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 <table>
 <tbody>
 <tr>
-<td rowspan="3">
-<p align="center"> CAPC PAR CORPS ET GRADES </p>
+<th>CAPC PAR CORPS <p>et grades <br/>
+</p>
+</th>
+<th colspan="4">
+<br/>REPRÉSENTANTS <br/>
+</th>
+</tr>
+<tr>
+<td align="left" rowspan="2" valign="middle"/>
+<td align="center" colspan="2" valign="middle">
+<br/>Du personnel <br/>
 </td>
-<td colspan="4">
-<p align="center"> REPRÉSENTANTS </p>
+<td align="center" colspan="2" valign="middle">
+<br/>De l'administration <br/>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<p align="center"> Du personnel </p>
+<td align="center" valign="middle">
+<br/>Titulaires <br/>
 </td>
-<td colspan="2">
-<p align="center"> De l'administration </p>
+<td align="center" valign="middle">
+<br/>Suppléants <br/>
 </td>
-</tr>
-<tr>
-<td>
-<p align="center"> Titulaires </p>
+<td align="center" valign="middle">
+<br/>Titulaires <br/>
 </td>
-<td>
-<p align="center"> Suppléants </p>
-</td>
-<td>
-<p align="center"> Titulaires </p>
-</td>
-<td>
-<p align="center"> Suppléants </p>
+<td align="center" valign="middle">
+<br/>Suppléants <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5" valign="middle">
 <br/>Administrateurs civils <br/>
 </td>
-<td align="left" valign="middle"/>
-<td align="left" valign="middle"/>
-<td align="left" valign="middle"/>
-<td align="left" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td valign="middle">
 <br/>Administrateurs généraux <br/>
 </td>
 <td align="center" valign="middle">
@@ -68,7 +65,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td valign="middle">
 <br/>Administrateurs civils hors classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -79,7 +76,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td valign="middle">
 <br/>Administrateurs civils <br/>
 </td>
 <td align="center" valign="middle">
@@ -90,16 +87,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5" valign="middle">
 <br/>Ingénieurs des travaux maritimes <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td valign="middle">
 <br/>Ingénieur en chef <br/>
 </td>
 <td align="center" valign="middle">
@@ -116,16 +109,29 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Attachés d'administration du ministère de la défense <br/>
+<td align="center" colspan="5" valign="middle">
+<br/>Attachés d'administration de l'Etat <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td valign="middle">
+<br/>Attaché d'administration hors classe <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<br/>6 <br/>
+</td>
+<td align="center" rowspan="3" valign="middle">
+<br/>6 <br/>
+</td>
+</tr>
+<tr>
+<td>
 <br/>Attaché principal d'administration <br/>
 </td>
 <td align="center" valign="middle">
@@ -134,15 +140,9 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 <td align="center" valign="middle">
 <br/>2 <br/>
 </td>
-<td align="center" rowspan="2" valign="middle">
-<br/>4 <br/>
-</td>
-<td align="center" rowspan="2" valign="middle">
-<br/>4 <br/>
-</td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Attaché d'administration <br/>
 </td>
 <td align="center" valign="middle">
@@ -153,33 +153,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Directeur des services déconcentrés du ministère de la défense (grade unique) <br/>
-</td>
-<td align="center" valign="middle">
-<br/>1 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>1 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>1 <br/>
-</td>
-<td align="center" valign="middle">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Ingénieurs d'études et de fabrications <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Ingénieur divisionnaire d'études et de fabrications <br/>
 </td>
 <td align="center" valign="middle">
@@ -196,7 +175,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Ingénieur d'études et de fabrications <br/>
 </td>
 <td align="center" valign="middle">
@@ -207,7 +186,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Ingénieur d'études et de fabrication (grade provisoire) <br/>
 </td>
 <td align="center" valign="middle">
@@ -218,16 +197,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Conseillers techniques de service social <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Conseiller technique de service social <br/>
 </td>
 <td align="center" valign="middle">
@@ -244,16 +219,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Assistants de service social <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Assistant principal de service social <br/>
 </td>
 <td align="center" valign="middle">
@@ -270,7 +241,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Assistant de service social <br/>
 </td>
 <td align="center" valign="middle">
@@ -281,16 +252,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Infirmiers de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Infirmier hors classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -307,7 +274,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Infirmier de classe supérieure <br/>
 </td>
 <td align="center" valign="middle">
@@ -318,7 +285,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Infirmier de classe normale <br/>
 </td>
 <td align="center" valign="middle">
@@ -329,16 +296,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Infirmiers civils de soins généraux du ministère de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Infirmier civil de classe supérieure <br/>
 </td>
 <td align="center" valign="middle">
@@ -355,7 +318,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Infirmier civil de classe normale <br/>
 </td>
 <td align="center" valign="middle">
@@ -366,16 +329,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Infirmiers civils en soins généraux et spécialisés du ministère de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Deuxième grade <br/>
 </td>
 <td align="center" valign="middle">
@@ -392,7 +351,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Premier grade <br/>
 </td>
 <td align="center" valign="middle">
@@ -403,16 +362,16 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
 <br/>Cadres de santé civils du ministère de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Cadre supérieur de santé <br/>
 </td>
 <td align="center" valign="middle">
@@ -429,7 +388,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Cadre de santé <br/>
 </td>
 <td align="center" valign="middle">
@@ -440,16 +399,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Aides-soignants et agents des services hospitaliers qualifiés civils <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Aide-soignant civil de classe exceptionnelle <br/>
 </td>
 <td align="center" valign="middle">
@@ -466,7 +421,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Aide-soignant civil de classe supérieure <br/>
 </td>
 <td align="center" valign="middle">
@@ -477,7 +432,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Aide-soignant civil de classe normale <br/>
 </td>
 <td align="center" valign="middle">
@@ -488,7 +443,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Agent des services hospitaliers qualifiés civils <br/>
 </td>
 <td align="center" valign="middle">
@@ -499,16 +454,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Techniciens paramédicaux civils du service de santé des armées <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Technicien paramédical civil de classe supérieure <br/>
 </td>
 <td align="center" valign="middle">
@@ -525,7 +476,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Technicien paramédical civil de classe normale <br/>
 </td>
 <td align="center" valign="middle">
@@ -536,16 +487,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Techniciens supérieurs d'études et de fabrications du ministère de la défense <br/>
+<td align="center" colspan="5">
+<br/>Techniciens supérieurs d'étudeset de fabrications du ministère de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Technicien supérieur d'études et de fabrications de 1re classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -562,7 +509,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Technicien supérieur d'études et de fabrications de 2e classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -573,7 +520,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Technicien supérieur d'études et de fabrications de 3e classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -584,16 +531,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Secrétaires administratifs du ministère de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Secrétaire administratif de classe exceptionnelle <br/>
 </td>
 <td align="center" valign="middle">
@@ -610,7 +553,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Secrétaire administratif de classe supérieure <br/>
 </td>
 <td align="center" valign="middle">
@@ -621,7 +564,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Secrétaire administratif de classe normale <br/>
 </td>
 <td align="center" valign="middle">
@@ -632,16 +575,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Adjoints administratifs <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Adjoint administratif principal de 1re classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -658,7 +597,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Adjoint administratif principal de 2e classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -669,7 +608,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Adjoint administratif de 1re classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -680,8 +619,8 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
-<br/>Adjoint administratif de 2 eclasse <br/>
+<td>
+<p>Adjoint administratif de 2e classe </p>
 </td>
 <td align="center" valign="middle">
 <br/>3 <br/>
@@ -691,16 +630,12 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" colspan="5">
 <br/>Agents techniques du ministère de la défense <br/>
 </td>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
-<td align="center" valign="middle"/>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Agent technique de 2e classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -717,7 +652,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Agent technique de 1re classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -728,7 +663,7 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Agent technique principal de 2e classe <br/>
 </td>
 <td align="center" valign="middle">
@@ -739,14 +674,15 @@ DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 </td>
 </tr>
 <tr>
-<td align="left">
+<td>
 <br/>Agent technique principal de 1re classe <br/>
 </td>
 <td align="center" valign="middle">
 <br/>2 <br/>
 </td>
 <td align="center" valign="middle">
-<br/>2</td>
+<br/>2<br/>
+</td>
 </tr>
 </tbody>
 </table>
