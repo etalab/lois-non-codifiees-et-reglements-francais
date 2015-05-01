@@ -4,7 +4,7 @@ L'administration centrale du ministère chargé de l'agriculture, de l'alimentat
 
 a) Le secrétariat général ;
 
-b) La direction générale des politiques agricole, agroalimentaire et des territoires ;
+b) La direction générale de la performance économique et environnementale des entreprises ;
 
 c) La direction générale de l'alimentation ;
 

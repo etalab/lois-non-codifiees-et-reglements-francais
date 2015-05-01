@@ -22,10 +22,10 @@ II. ― Elle définit et anime, en liaison avec les autres ministères concerné
 
 Elle coordonne et suit la mise en œuvre des orientations arrêtées en matière de recherche et d'innovation au sein du ministère et des établissements qui en dépendent.
 
-Elle définit la politique de développement agricole et rural. Elle assure sa mise en œuvre, sous réserve des compétences exercées par la direction générale des politiques agricole, alimentaire et des territoires à l'égard des chambres d'agriculture.
+Elle définit la politique de développement agricole et rural. Elle assure sa mise en œuvre, sous réserve des compétences exercées par la direction générale de la performance économique et environnementale des entreprises  à l'égard des chambres d'agriculture.
 
 III. ― Elle organise les contrôles de l'Etat sur les organismes et les établissements d'enseignement et de formation ; elle dispose d'une inspection.
 
-Elle exerce, pour le compte du ministre, la tutelle sur les établissements publics d'enseignement supérieur agronomique, agro-alimentaire et vétérinaire et les établissements publics nationaux relevant de sa compétence, ainsi que sur l'Institut national de la recherche agronomique et le Centre national du machinisme agricole, du génie rural, des eaux et des forêts.
+Elle exerce, pour le compte du ministre, la tutelle sur l'Institut agronomique, vétérinaire et forestier de France,  les établissements publics d'enseignement supérieur agronomique, agro-alimentaire et vétérinaire et les établissements publics nationaux relevant de sa compétence, ainsi que sur l'Institut national de la recherche agronomique et l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture.
 
 Elle assure les contrôles prévus par les textes législatifs et réglementaires sur les organismes du développement agricole.
