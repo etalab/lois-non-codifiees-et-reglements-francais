@@ -18,11 +18,11 @@ b) Au secrétariat général :
 
 -sous-directeur des systèmes d'information.
 
-c) A la direction générale des politiques agricole, agroalimentaire et des territoires :
+c) A la direction générale de la performance économique et environnementale des entreprises :
 
--sous-directeur des produits et des marchés ;
+- sous-directeur des filières agroalimentaires ;
 
--sous-directeur des entreprises agricoles.
+- sous-directeur de la gestion des aides de la politique agricole commune.
 
 d) A la direction générale de l'alimentation :
 
@@ -58,21 +58,19 @@ c) Au secrétariat général :
 
 -sous-directeur du pilotage des services.
 
-d) A la direction générale des politiques agricole, agroalimentaire et des territoires :
+d) A la direction générale de la performance économique et environnementale des entreprises :
 
--sous-directeur de la gouvernance ;
+- sous-directeur des filières forêt-bois, cheval et bioéconomie ;
 
--sous-directeur de la forêt et du bois ;
+- sous-directeur de la compétitivité ;
 
--sous-directeur du développement rural et du cheval ;
+- sous-directeur de la performance environnementale et de la valorisation des territoires ;
 
--sous-directeur de l'organisation économique, des industries agroalimentaires et de l'emploi ;
+- sous-directeur de la gouvernance et du pilotage ;
 
--sous-directeur de la biomasse et de l'environnement ;
+- sous-directeur Europe ;
 
--sous-directeur des affaires européennes ;
-
--sous-directeur des échanges internationaux.
+- sous-directeur de l'international.
 
 e) A la direction générale de l'alimentation :
 

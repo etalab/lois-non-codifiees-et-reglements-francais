@@ -10,9 +10,9 @@ a) Au secrétariat général :
 
 - chef du service des ressources humaines.
 
-b) A la direction générale des politiques agricole, agroalimentaire et des territoires :
+b) A la direction générale de la performance économique et environnementale des entreprises :
 
-- chef du service de la production agricole, directeur général adjoint de la direction des politiques agricole, agroalimentaire et des territoires.
+- chef du service du développement des filières et de l'emploi, directeur général adjoint de la performance économique et environnementale des entreprises.
 
 c) A la direction générale de l'alimentation :
 
@@ -32,13 +32,13 @@ a) Au secrétariat général :
 
 - chef de service, délégué à l'information et à la communication.
 
-b) A la direction générale des politiques agricole, agroalimentaire et des territoires :
+b) A la direction générale de la performance économique et environnementale des entreprises :
 
-- chef du service de la forêt, de la ruralité et du cheval ;
+- chef du service de la compétitivité et de la performance environnementale ;
 
-- chef du service de la stratégie agroalimentaire et du développement durable ;
+- chef du service Europe et international ;
 
-- chef du service des relations internationales.
+- chef du service de la gouvernance et de la gestion de la politique agricole commune.
 
 c) A la direction générale de l'alimentation :
 
