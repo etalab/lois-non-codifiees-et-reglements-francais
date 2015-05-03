@@ -1,12 +1,14 @@
 # Article 19
 
+Les frais pour excédents de bagage liés au fonctionnement des services (valise accompagnée, matériel technique du service de sécurité diplomatique et du centre de crise, paquetage des agents de sécurité en mission de renfort) peuvent donner lieu à une avance de 100 % sur présentation d'un document estimatif du service ordonnateur de la mission. L'estimation est calculée sur la base du tarif au kilo pratiqué par la compagnie aérienne empruntée. Son montant est ajusté le cas échéant sur présentation du justificatif lors de la liquidation de l'état de frais.
+
 Les frais suivants peuvent donner lieu à remboursement sur présentation des pièces justificatives :
 
 a) Les frais liés à la délivrance d'un passeport et d'un visa ;
 
 b) Les frais de vaccinations et de traitements médicaux prophylactiques obligatoires ou recommandés par l'Institut Pasteur, les taxes d'aéroport et autres taxes et impôts touchant les voyageurs ;
 
-c) Les excédents de bagage afférents au transport de matériel technique ou de documents administratifs pour des raisons de service, sous réserve de l'accord préalable de l'autorité administrative ;
+c) Les excédents de bagage afférents au transport de matériel technique ou de documents administratifs pour des raisons de service, autres que ceux prévus par le premier alinéa, sous réserve de l'accord préalable de l'autorité administrative ;
 
 d) Les frais de transport en commun engagés par l'agent au départ et au retour de la mission entre sa résidence et la gare ou l'aéroport (et inversement). En cas d'absence de transport en commun, les frais de taxi engagés par l'agent peuvent être remboursés sur production des justificatifs de dépense, ou, si l'agent a utilisé son véhicule personnel, sur la base des indemnités kilométriques prévues à l'article 10 du décret du 3 juillet 2006 susvisé. En outre, dans ce dernier cas, les frais de parc de stationnement peuvent lui être remboursés dans la limite de 72 heures. Les frais de transport en commun et, en leur absence, les frais de taxi exposés par nécessité de service sur le lieu de la mission peuvent être remboursés sur production des justificatifs de la dépense ;
 
