@@ -1661,7 +1661,6 @@
 - [Arrêté du 21 juin 2009 (SASF0915529A)](arrete-du-21-juin-2009-sasf0915529a)
 - [Arrêté du 21 octobre 2009 (AGRM0923052A)](arrete-du-21-octobre-2009-agrm0923052a)
 - [Arrêté du 21 octobre 2009 (AGRS0922948A)](arrete-du-21-octobre-2009-agrs0922948a)
-- [Arrêté du 21 octobre 2009 (BCFJ0917114A)](arrete-du-21-octobre-2009-bcfj0917114a)
 - [Arrêté du 21 octobre 2009 (DEVA0924203A)](arrete-du-21-octobre-2009-deva0924203a)
 - [Arrêté du 21 octobre 2009 (DEVE0921644A)](arrete-du-21-octobre-2009-deve0921644a)
 - [Arrêté du 21 octobre 2009 (IMIK0924863A)](arrete-du-21-octobre-2009-imik0924863a)
