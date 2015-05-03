@@ -2639,7 +2639,6 @@
 - [Arrêté du 29 septembre 2011 (MENE1123265A)](arrete-du-29-septembre-2011-mene1123265a)
 - [Arrêté du 29 septembre 2011 (MENE1123294A)](arrete-du-29-septembre-2011-mene1123294a)
 - [Arrêté du 29 mai 2011 (DEFT1115222A)](arrete-du-29-mai-2011-deft1115222a)
-- [Arrêté du 30 août 1995 (EQUP9501180A)](arrete-du-30-aout-1995-equp9501180a)
 - [Arrêté du 30 août 2001 (DEFP0101949A)](arrete-du-30-aout-2001-defp0101949a)
 - [Arrêté du 30 août 2011 (AGRE1117814A)](arrete-du-30-aout-2011-agre1117814a)
 - [Arrêté du 30 août 2011 (AGRE1123797A)](arrete-du-30-aout-2011-agre1123797a)
