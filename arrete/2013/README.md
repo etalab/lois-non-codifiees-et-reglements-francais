@@ -38,7 +38,6 @@
 - [Arrêté du 4 juin 2013 (ESRS1312234A)](arrete-du-4-juin-2013-esrs1312234a)
 - [Arrêté du 4 mars 2013 (AGRE1305406A)](arrete-du-4-mars-2013-agre1305406a)
 - [Arrêté du 5 août 2013 (DEVP1317672A)](arrete-du-5-aout-2013-devp1317672a)
-- [Arrêté du 5 avril 2013 (DEFF1309680A)](arrete-du-5-avril-2013-deff1309680a)
 - [Arrêté du 5 décembre 2013 (BUDE1330751A)](arrete-du-5-decembre-2013-bude1330751a)
 - [Arrêté du 5 décembre 2013 (EFIS1328096A)](arrete-du-5-decembre-2013-efis1328096a)
 - [Arrêté du 5 décembre 2013 (TRAT1329969A)](arrete-du-5-decembre-2013-trat1329969a)
