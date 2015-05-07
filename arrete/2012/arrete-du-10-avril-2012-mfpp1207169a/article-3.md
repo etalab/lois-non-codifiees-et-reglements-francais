@@ -1,14 +1,14 @@
 # Article 3
 
-I. ― Le département en charge de l'opérateur national de paye :
+I. - Le département en charge du suivi du programme SIRH-Paye :
 
-― assure le suivi de l'activité de l'opérateur national de paye, conjointement avec la direction générale des finances publiques ;
+- assure le suivi de l'activité du centre interministériel de services informatiques relatifs aux ressources humaines, conjointement avec la direction générale des finances publiques et la direction du budget ;
 
-― coordonne l'activité du département des études et des statistiques et des bureaux de la direction générale concernant la prise en compte des règles de paye et de gestion administrative par les systèmes d'information de l'opérateur national de paye, et assure la maintenance des référentiels juridiques utilisés par ces derniers ;
+- coordonne les projets métiers de la direction générale liés au programme SIRH-Paye concernant la conformité des règles de paye et de gestion administrative par les systèmes d'information au travers notamment des référentiels juridiques utilisés par ces derniers ;
 
-― accompagne les ministères dans la phase préparatoire au déploiement de l'opérateur national de paye et dans l'évolution de leur organisation et des métiers en matière de ressources humaines, de gestion administrative et de paye de leurs agents ;
+- accompagne les ministères dans leurs travaux et dans l'évolution de leur organisation et des métiers en matière de ressources humaines, de gestion administrative et de paye de leurs agents en lien avec le bureau de la modernisation des politiques de ressources humaines et de l'animation interministérielle et territoriale ;
 
-― est l'interlocuteur des autres administrations dans ces domaines et assure la maîtrise d'ouvrage interministérielle des systèmes d'information en matière de ressources humaines.
+- est l'interlocuteur de la direction interministérielle des systèmes d'information et de communication et des autres administrations dans ces domaines et assure la maîtrise d'ouvrage interministérielle des systèmes d'information en matière de ressources humaines.
 
 II. ― Le bureau de la qualité du droit :
 
@@ -22,11 +22,13 @@ II. ― Le bureau de la qualité du droit :
 
 III. ― Le département des études et des statistiques :
 
-― propose et met en œuvre le programme d'études et de recherche sur la gestion des ressources humaines dans la fonction publique, dans sa dimension statistique, et assure le secrétariat du conseil scientifique de la direction générale ;
+- participe à l'élaboration du programme d'études et de recherche sur la gestion des ressources humaines dans la fonction publique et en propose les travaux dans sa dimension statistique. Il assure à ce titre le secrétariat du conseil scientifique de la direction générale ;
 
-― élabore et diffuse des données, informations et études statistiques sur la fonction publique, et contribue à l'élaboration du rapport annuel sur l'état de la fonction publique, en liaison avec le bureau de l'animation interministérielle et de l'évaluation des politiques de ressources humaines et de l'égalité professionnelle ;
+- élabore et diffuse des données, informations et études statistiques sur la fonction publique. Il produit la partie faits et chiffres du rapport annuel sur l'état de la fonction publique, dont il assure la coordination d'ensemble en liaison avec le bureau de la modernisation des politiques de ressources humaines et de l'animation interministérielle et territoriale ;
 
-― conçoit et gère le système d'information statistique sur la fonction publique et assure, en lien avec le département en charge de l'opérateur national de paye, la maîtrise d'ouvrage du système d'information décisionnel adossé à l'opérateur national de paye ;
+- conçoit et gère le système d'information statistique sur la fonction publique et assure, en lien avec le département en charge de du suivi du programme SIRH-paye, la maîtrise d'ouvrage du système d'information décisionnel sur les agents de la fonction publique d'État et des autres fonctions publiques ;
+
+- participe à la définition des normes de déclarations sociales et au suivi de leur mise en œuvre par la fonction publique ;
 
 ― contribue à la mesure statistique de l'impact, de l'efficience et de l'efficacité des politiques de gestion des ressources humaines.
 
@@ -39,5 +41,7 @@ IV. ― Le secrétariat général :
 ― a en charge l'administration générale et le fonctionnement de la direction générale ;
 
 ― gère les moyens informatiques et contribue à la modernisation des outils et du parc applicatifs ;
+
+- promeut une démarche de qualité au sein de la direction générale ;
 
 ― élabore et exécute les programmes budgétaires relatifs aux crédits d'intervention du ministère chargé de la fonction publique et gère les crédits de fonctionnement courant de la direction générale.
