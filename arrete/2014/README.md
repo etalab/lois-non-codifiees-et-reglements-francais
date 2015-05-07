@@ -1243,7 +1243,6 @@
 - [Arrêté du 16 avril 2014 (CPTX1408116A)](arrete-du-16-avril-2014-cptx1408116a)
 - [Arrêté du 16 avril 2014 (DEFD1409431A)](arrete-du-16-avril-2014-defd1409431a)
 - [Arrêté du 16 avril 2014 (DEVA1408324A)](arrete-du-16-avril-2014-deva1408324a)
-- [Arrêté du 16 avril 2014 (DEVL1402639A)](arrete-du-16-avril-2014-devl1402639a)
 - [ARRÊTÉ du 16 avril 2014 (ETSD1408323A)](arrete-du-16-avril-2014-etsd1408323a)
 - [Arrêté du 16 avril 2014 (FCPE1408306A)](arrete-du-16-avril-2014-fcpe1408306a)
 - [Arrêté du 16 avril 2014 (FCPE1408307A)](arrete-du-16-avril-2014-fcpe1408307a)
