@@ -32,7 +32,6 @@
 - [Arrêté du 2 mai 2002 (ECOP0200209A)](arrete-du-2-mai-2002-ecop0200209a)
 - [Arrêté du 2 mai 2007 (DEVO0751365A)](arrete-du-2-mai-2007-devo0751365a)
 - [Arrêté du 2 mai 2007 (ECOP0752978A)](arrete-du-2-mai-2007-ecop0752978a)
-- [Arrêté du 2 mai 2007 (ECOU0753211A)](arrete-du-2-mai-2007-ecou0753211a)
 - [Arrêté du 2 mai 2007 (MENS0753287A)](arrete-du-2-mai-2007-mens0753287a)
 - [Arrêté du 2 mai 2007 (MENS0753314A)](arrete-du-2-mai-2007-mens0753314a)
 - [Arrêté du 2 mai 2007 (SANG0720688A)](arrete-du-2-mai-2007-sang0720688a)

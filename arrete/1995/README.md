@@ -50,7 +50,6 @@
 - [Arrêté du 2 octobre 1995 (MENU9502150A)](arrete-du-2-octobre-1995-menu9502150a)
 - [Arrêté du 2 octobre 1995 (TEFO9500987A)](arrete-du-2-octobre-1995-tefo9500987a)
 - [Arrêté du 2 mai 1995 (BUDF9500004A)](arrete-du-2-mai-1995-budf9500004a)
-- [Arrêté du 2 mai 1995 (BUDZ9500005A)](arrete-du-2-mai-1995-budz9500005a)
 - [Arrêté du 2 mai 1995 (COPB9500007A)](arrete-du-2-mai-1995-copb9500007a)
 - [Arrêté du 2 mai 1995 (ECOC9500054A)](arrete-du-2-mai-1995-ecoc9500054a)
 - [Arrêté du 2 mai 1995 (ECOT9510236A)](arrete-du-2-mai-1995-ecot9510236a)

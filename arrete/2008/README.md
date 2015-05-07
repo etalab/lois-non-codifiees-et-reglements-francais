@@ -888,7 +888,6 @@
 - [Arrêté du 24 décembre 2008 (IOCF0827042A)](arrete-du-24-decembre-2008-iocf0827042a)
 - [Arrêté du 24 décembre 2008 (MTSS0831237A)](arrete-du-24-decembre-2008-mtss0831237a)
 - [Arrêté du 24 janvier 2008 (AGRG0802102A)](arrete-du-24-janvier-2008-agrg0802102a)
-- [Arrêté du 24 janvier 2008 (BCFB0760437A)](arrete-du-24-janvier-2008-bcfb0760437a)
 - [Arrêté du 24 janvier 2008 (SJSP0800469A)](arrete-du-24-janvier-2008-sjsp0800469a)
 - [Arrêté du 24 juillet 2008 (DEVL0816376A)](arrete-du-24-juillet-2008-devl0816376a)
 - [Arrêté du 24 juillet 2008 (ESRS0818265A)](arrete-du-24-juillet-2008-esrs0818265a)

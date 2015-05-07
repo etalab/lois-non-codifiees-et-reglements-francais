@@ -5,3 +5,5 @@ LISTE DES CYCLES DE FORMATION INITIALE D'INGÉNIEUR SOUS STATUT SALARIÉ D'UNE D
 Ingénieur diplômé de l'Ecole nationale supérieure des mines d'Alès, spécialité "informatique et réseaux".
 
 Ingénieur diplômé de l'Ecole nationale supérieure des mines d'Alès, spécialité "conception et management de la construction".
+
+Ingénieur diplômé de l'Ecole nationale supérieure des mines d'Alès, " spécialité mécatronique ".
