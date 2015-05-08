@@ -83,6 +83,8 @@
 - [DÉCRET n°2015-5 du 6 janvier 2015 (DEVP1423625D)](decret-n2015-5-du-6-janvier-2015-devp1423625d)
 - [DÉCRET n°2015-6 du 6 janvier 2015 (MENJ1428813D)](decret-n2015-6-du-6-janvier-2015-menj1428813d)
 - [DÉCRET n°2015-7 du 6 janvier 2015 (FCPT1425057D)](decret-n2015-7-du-6-janvier-2015-fcpt1425057d)
+- [DÉCRET n°2015-505 du 6 mai 2015 (EINI1510307D)](decret-n2015-505-du-6-mai-2015-eini1510307d)
+- [DÉCRET n°2015-506 du 6 mai 2015 (MCCB1505459D)](decret-n2015-506-du-6-mai-2015-mccb1505459d)
 - [Décret n°2007-1322 du 7 septembre 2007 (IOCD0762214D)](decret-n2007-1322-du-7-septembre-2007-iocd0762214d)
 - [DÉCRET n°2015-10 du 7 janvier 2015 (AGRT1413518D)](decret-n2015-10-du-7-janvier-2015-agrt1413518d)
 - [DÉCRET n°2015-11 du 7 janvier 2015 (AGRT1413989D)](decret-n2015-11-du-7-janvier-2015-agrt1413989d)
