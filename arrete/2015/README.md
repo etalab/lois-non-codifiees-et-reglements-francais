@@ -1307,7 +1307,6 @@
 - [ARRÊTÉ du 27 mars 2015 (FCPE1506390A)](arrete-du-27-mars-2015-fcpe1506390a)
 - [ARRÊTÉ du 27 mars 2015 (INTJ1507463A)](arrete-du-27-mars-2015-intj1507463a)
 - [ARRÊTÉ du 27 mars 2015 (PRMG1506499A)](arrete-du-27-mars-2015-prmg1506499a)
-- [ARRÊTÉ du 27 mars 2015 (VJSV1507209A)](arrete-du-27-mars-2015-vjsv1507209a)
 - [ARRÊTÉ du 27 novembre 2014 (DEFH1322651A)](arrete-du-27-novembre-2014-defh1322651a)
 - [ARRÊTÉ du 27 novembre 2014 (DEVK1426652A)](arrete-du-27-novembre-2014-devk1426652a)
 - [ARRÊTÉ du 27 novembre 2014 (ETSZ1428758A)](arrete-du-27-novembre-2014-etsz1428758a)

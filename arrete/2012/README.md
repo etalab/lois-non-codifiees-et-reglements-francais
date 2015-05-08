@@ -1045,7 +1045,6 @@
 - [Arrêté du 14 décembre 2011 (DEFH1121592A)](arrete-du-14-decembre-2011-defh1121592a)
 - [Arrêté du 14 décembre 2012 (BUDB1242411A)](arrete-du-14-decembre-2012-budb1242411a)
 - [Arrêté du 14 décembre 2012 (BUDW1237298A)](arrete-du-14-decembre-2012-budw1237298a)
-- [Arrêté du 14 décembre 2012 (DEFA1243077A)](arrete-du-14-decembre-2012-defa1243077a)
 - [Arrêté du 14 décembre 2012 (DEFH1234411A)](arrete-du-14-decembre-2012-defh1234411a)
 - [Arrêté du 14 décembre 2012 (DEFH1242407A)](arrete-du-14-decembre-2012-defh1242407a)
 - [Arrêté du 14 décembre 2012 (EFIS1242093A)](arrete-du-14-decembre-2012-efis1242093a)
