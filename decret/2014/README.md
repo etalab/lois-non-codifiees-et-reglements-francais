@@ -8,6 +8,7 @@
 - [DÉCRET n°2014-923 du 18 août 2014 (RDFB1404094D)](decret-n2014-923-du-18-aout-2014-rdfb1404094d)
 - [Décret n°64-1333 du 22 décembre 1964](decret-n64-1333-du-22-decembre-1964)
 - [Décret n°99-125 du 22 février 1999 (EQUU9900170D)](decret-n99-125-du-22-fevrier-1999-equu9900170d)
+- [DÉCRET n°2014-1280 du 23 octobre 2014 (FCPM1418263D)](decret-n2014-1280-du-23-octobre-2014-fcpm1418263d)
 - [DÉCRET n°2014-1296 du 23 octobre 2014 (AGRX1416996D)](decret-n2014-1296-du-23-octobre-2014-agrx1416996d)
 - [DÉCRET n°2014-1297 du 23 octobre 2014 (AGRX1416989D)](decret-n2014-1297-du-23-octobre-2014-agrx1416989d)
 - [DÉCRET n°2014-1241 du 24 octobre 2014 (RDFB1418687D)](decret-n2014-1241-du-24-octobre-2014-rdfb1418687d)
