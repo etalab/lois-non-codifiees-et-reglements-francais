@@ -1,0 +1,3 @@
+# Article 14
+
+Pour la conduite d'actions ou dans un objectif de rationalisation des moyens, les préfets concernés peuvent décider conjointement par convention qu'un service déconcentré de l'Etat peut être chargé, en tout ou partie, d'une mission ou de la réalisation d'actes ou de prestations relevant de ses attributions pour le compte d'un autre service dont le ressort territorial peut différer du sien. Cette décision est prise après avis de la ou des instances consultatives représentatives des personnels compétentes et de l'instance de collégialité des chefs des services déconcentrés de l'Etat en région ou dans le département.
