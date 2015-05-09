@@ -28,6 +28,6 @@ LISTE DES CATÉGORIES DE DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES DANS LE
 
 13° Décisions de saisine des inspections générales.
 
-14° Décisions déterminant la liste des entreprises auxquelles s'applique le régime du service de défense, et décisions autorisant une personne faisant l'objet d'une affectation collective de défense à occuper un emploi dans un autre service ou une autre entreprise ;
+14° Supprimé
 
 15° Décisions de nomination des conseillers de défense et de sécurité exerçant leurs fonctions auprès des ministres.
