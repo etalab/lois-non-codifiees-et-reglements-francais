@@ -18,4 +18,8 @@ A ce titre et sans préjudice des autres fonctions que ce ministre peut lui conf
 
 7° Il veille, en liaison avec les responsables de programme, à la transmission au ministre chargé du budget des informations relatives au périmètre des budgets opérationnels de programme et des unités opérationnelles ;
 
-8° Il s'assure de la mise en œuvre des dispositifs de contrôle interne budgétaire et comptable ainsi que, le cas échéant, de comptabilité analytique.
+8° Il s'assure de la mise en œuvre des dispositifs de contrôle interne budgétaire et comptable ainsi que, le cas échéant, de comptabilité analytique ;
+
+9° Il veille à faciliter la mise en œuvre territoriale des politiques publiques concourant aux mêmes objectifs et à favoriser une gestion efficace et mutualisée des dépenses au niveau déconcentré ;
+
+10° Il s'assure que les responsables de programme conduisent avec les responsables des budgets opérationnels de programme le dialogue de gestion prévu à l'article 70.

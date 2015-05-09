@@ -6,7 +6,7 @@ Le responsable de programme établit le projet annuel de performances prévu à 
 
 Il définit le périmètre des budgets opérationnels de programme et des unités opérationnelles et en désigne les responsables.
 
-Dans le cadre d'un dialogue de gestion, en liaison avec les responsables des budgets opérationnels de programme :
+Dans le cadre d'un dialogue de gestion qui vise notamment à déterminer les moyens attribués en fonction des objectifs assignés, en liaison avec les responsables des budgets opérationnels de programme :
 
 1° Il établit la programmation prévue à l'article 66 ;
 
