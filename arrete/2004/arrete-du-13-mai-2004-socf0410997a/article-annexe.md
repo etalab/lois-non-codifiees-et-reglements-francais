@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien de bureau d'études en électricité.
+Titre professionnel : technicien de bureau d'études en électricité (ancien intitulé : technicien de bureau d'études en électricité).
 
 Niveau : IV.
 
@@ -12,55 +12,65 @@ Code NSF : 255 n.
 
 Résumé du référentiel d'emploi
 
-Le technicien de bureau d'études en électricité constitue le dossier technique d'installation électrique de locaux d'habitation, tertiaires ou industriels. Il réalise les différents éléments du dossier : schémas électriques, plans d'implantation et de raccordement des équipements électriques, notes de calcul, nomenclature des matériels et métrés, synoptiques et spécifications techniques, etc. Il met à jour ces documents en fonction des modifications et les diffuse sur supports numérique et papier aux destinataires définis au contrat (maître d'œuvre, organismes de contrôle, coordinateurs...) et aux équipes de réalisation des travaux. Le technicien utilise la majeure partie de son temps l'outil informatique avec un poste de travail CAO / DAO (conception assistée par ordinateur / dessin assisté par ordinateur). Ses horaires de travail sont fixes. Des déplacements occasionnels dans des ateliers ou sur les sites et chantiers de construction, généralement avec un véhicule de service, sont parfois demandés pour assister à des réunions ou effectuer des relevés. Il réalise l'ensemble de ses activités dans le respect des règles de sécurité individuelle et collective.
+Le technicien de bureau d'études en électricité constitue le dossier technique d'installation électrique de locaux de tous types (d'habitation, tertiaires ou industriels) : schémas électriques, plans d'implantation et de raccordement des équipements électriques, notes de calcul, nomenclature des matériels et métrés, synoptiques et spécifications techniques. Il réalise ces documents d'ensemble et de détail sur un poste informatique, les met à jour en fonction des modifications et les diffuse sur supports numériques et papier aux équipes de réalisation des travaux et aux destinataires prévus suivant les spécifications du contrat (maître d'œuvre, organismes de contrôle, coordinateurs …).
+
+Le technicien de bureau d'études est employé principalement par les entreprises d'installation électrique et les cabinets d'ingénierie spécialisés. Il est placé sous la direction du responsable du bureau d'études qui répartit la charge de travail, et reçoit ses consignes de travail d'un projeteur ou d'un chargé d'affaires qui contrôleront sa production.
+
+Les horaires de travail sont généralement fixes. Mais des déplacements dans des ateliers ou sur les sites et chantiers de construction, peuvent être nécessaires pour des réunions ou pour effectuer des relevés. La travail est réalisé au moyen d'un poste informatique équipé de logiciels de CAO/ DAO (Conception assistée par ordinateur/ Dessin assisté par ordinateur). Le technicien est amené à être en contact direct ou à échanger par messagerie ou par téléphone avec les différents services internes de son entreprise, et les services techniques des fournisseurs, des fabricants de matériel ainsi que des clients ou de leurs représentants.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Réaliser des dossiers informatiques d'installation électrique
+1. Réaliser des dossiers d'installation électrique
 
-Saisir et mettre à jour le dossier d'une installation électrique.
+Constituer le dossier d'une installation électrique en DAO et en assurer la diffusion.
 
-Réaliser les plans et schémas de principe de l'installation électrique d'un logement individuel.
+Etablir les documents quantitatifs et de métrés du matériel d'une installation électrique.
 
-Structurer et diffuser le dossier d'une installation électrique.
+2. Réaliser des études de détail d'installation électrique de locaux
 
-2. Réaliser l'étude et les dossiers d'installation électrique de locaux
+Réaliser l'étude de détail de l'installation électrique d'un local d'habitation.
 
-Réaliser l'étude d'installation électrique d'un local d'habitation collective.
+Réaliser l'étude de détail de l'installation électrique d'un local tertiaire.
 
-Réaliser l'étude d'installation électrique d'un local tertiaire ou industriel.
+Intégrer le dossier " Système de sécurité incendie " à l'étude de détail de l'installation électrique d'un bâtiment.
 
-Compléter le dossier d'exécution de l'installation d'un système de sécurité incendie.
+Intégrer le dossier " Courants faibles " et automatismes à l'étude de détail de l'installation électrique d'un bâtiment.
 
-Réaliser les calculs de distribution électrique d'une installation.
+3. Réaliser des études de détail d'installation électrique industrielle
 
-Etablir un métré à partir du dossier quantitatif estimatif d'une installation électrique.
+Réaliser l'étude de détail de la puissance d'une installation électrique industrielle.
 
-3. Intégrer les équipements de gestion technique et de contrôle commande aux dossiers d'étude d'installation électrique
+Intégrer le dossier d'automatismes à l'étude de détail de la commande d'une installation électrique industrielle.
 
-Intégrer le lot courants faibles à l'étude d'installation électrique d'un bâtiment.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Réaliser l'étude d'exécution d'une installation électrique industrielle.
+Les entreprises d'installation électrique (majors, PME, artisanales).
 
-Intégrer le dossier d'automatismes à l'étude d'une installation électrique.
+Les bureaux d'études techniques (BET) ou les cabinets de contrôle de conformité.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Les cabinets d'ingénierie spécialisés (notamment dans les domaines des automatismes industriels, automatismes du bâtiment, énergies renouvelables, réseaux informatiques et de communication …).
 
-Moyennes, grandes ou petites entreprises d'équipement électrique.
+Les agences de travail temporaire (souvent spécialisées en BE).
 
-Cabinets spécialisés et bureaux d'études, d'ingénierie et d'automatismes.
+Les bureaux d'études ou les services travaux neufs de sites industriels ou tertiaires (hôpitaux, groupes d'hôtellerie, grande distribution …).
 
-Bureaux d'études, bureaux de méthodes ou services travaux neufs d'usines et de collectivités (comme les hôpitaux, les municipalités...).
+Les services techniques des collectivités territoriales.
 
-Entreprises de travail intérimaire, parfois spécialisées en bureau d'études.
+Les services d'assistance technique des distributeurs et fabricants de matériels électriques.
 
-Code ROME :
+Dessinateur petites études en électricité, dessinateur d'étude en électricité, technicien d'étude en électricité, dessinateur DAO électrique.
 
-52133-Dessinateur / dessinatrice en électricité et électronique.
+Codes ROME :
+
+F1104-Dessin BTP.
+
+H1202-Conception et dessin de produits électriques et électroniques.
 
 Réglementation de l'activité :
 
-Néant.
+Lorsque l'entreprise charge le technicien de bureau d'études d'effectuer des relevés sur site, l'employeur doit délivrer au salarié après qu'il a suivi une formation à la prévention du risque électrique :
+
+Une habilitation BE Mesurage, H0 (articles R. 4544-3, R. 4544-9 et R. 4544-10 du code du travail).
 
 Autorité responsable de la certification :
 
