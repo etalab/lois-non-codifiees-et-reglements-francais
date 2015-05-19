@@ -616,6 +616,8 @@
 - [ARRÊTÉ du 15 décembre 2014 (DEVT1427851A)](arrete-du-15-decembre-2014-devt1427851a)
 - [ARRÊTÉ du 15 décembre 2014 (ETSD1429745A)](arrete-du-15-decembre-2014-etsd1429745a)
 - [ARRÊTÉ du 15 décembre 2014 (ETSD1429761A)](arrete-du-15-decembre-2014-etsd1429761a)
+- [ARRÊTÉ du 15 décembre 2014 (ETSD1429775A)](arrete-du-15-decembre-2014-etsd1429775a)
+- [ARRÊTÉ du 15 décembre 2014 (ETSD1429788A)](arrete-du-15-decembre-2014-etsd1429788a)
 - [ARRÊTÉ du 15 décembre 2014 (ETSR1431202A)](arrete-du-15-decembre-2014-etsr1431202a)
 - [ARRÊTÉ du 15 décembre 2014 (ETSR1431204A)](arrete-du-15-decembre-2014-etsr1431204a)
 - [ARRÊTÉ du 15 décembre 2014 (MCCB1429008A)](arrete-du-15-decembre-2014-mccb1429008a)
