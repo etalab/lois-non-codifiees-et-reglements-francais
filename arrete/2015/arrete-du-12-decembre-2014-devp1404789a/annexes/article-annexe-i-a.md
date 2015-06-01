@@ -1,6 +1,6 @@
 # Article Annexe I-A
 
-prescriptions générales applicables aux installations classées POUR la protection de l'environnement soumises à déclaration sous la rubrique n° 1310-2.c
+prescriptions générales applicables aux installations classées POUR la protection de l'environnement soumises à déclaration sous la rubrique n° 4210-1.b
 
 Définitions
 
@@ -44,7 +44,7 @@ h) Comme agent protecteur ;
 
 " Consommation de solvants " : la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation ;
 
-" Réutilisation " : l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de  réutilisation  les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
+" Réutilisation " : l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de réutilisation les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
 
 " Emission diffuse de COV " : toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis ;
 
@@ -66,7 +66,7 @@ L'installation est soumise à des contrôles périodiques par des organismes agr
 
 Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " Objet du contrôle ", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables. Le contenu de ces contrôles est précisé à la fin de chaque point de la présente annexe après la mention " Objet du contrôle ". Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention " le non-respect de ce point relève d'une non-conformité majeure ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier  installation classée  prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installation classée prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -136,7 +136,7 @@ L'installation est implantée et maintenue de manière que :
 
 - les effets dominos de toute installation, équipement ou bâtiment externe ou interne au site, présentant un risque caractérisé d'explosion ou d'incendie ne touchent pas l'installation.
 
-Les locaux de l'installation sont séparés des locaux abritant des installations relevant des rubriques 1311, 1312 et 2793 de la nomenclature des installations classées pour la protection de l'environnement et, le cas échéant, des installations mettant en œuvre d'autres produits dangereux à l'exception des quantités strictement nécessaires des produits indispensables au fonctionnement de l'installation.
+Les locaux de l'installation sont séparés des locaux abritant des installations relevant des rubriques 4220, 1312 et 2793 de la nomenclature des installations classées pour la protection de l'environnement et, le cas échéant, des installations mettant en œuvre d'autres produits dangereux à l'exception des quantités strictement nécessaires des produits indispensables au fonctionnement de l'installation.
 
 Lorsque les produits explosifs se trouvant dans l'installation peuvent présenter un régime de décomposition rapide de type détonation, les distances d'isolement entre deux bâtiments ou installations pyrotechniques respectent a minima les distances (en mètres au niveau du sol, en terrain plat et sans protection particulière et où Q représente la masse nette maximale de matière explosible susceptible d'être présente dans chacun des deux bâtiments ou installations pyrotechniques exprimée en kg) de 0,5.Q1/3 et de 2,4.Q1/3 s'il y a un risque de projections primaires.
 
@@ -208,7 +208,7 @@ Les classifications sont exprimées en minutes (60 = coupe-feu de degré 1 heure
 
 Les ouvertures effectuées dans les éléments séparatifs (passage de gaines et canalisations, de convoyeurs) sont munies de dispositifs assurant un degré coupe-feu équivalent à celui exigé pour ces éléments séparatifs.
 
-Les justificatifs attestant des propriétés de résistance au feu sont conservés dans le dossier  installations classées  prévu au point 1.4.
+Les justificatifs attestant des propriétés de résistance au feu sont conservés dans le dossier installations classées prévu au point 1.4.
 
 Les portes et fermetures résistantes au feu qui participent à la sectorisation des installations en cas d'incendie sont équipées de dispositifs de fermeture automatique et sont maintenues fermées en cas d'incendie.
 
@@ -230,7 +230,7 @@ Objet du contrôle :
 
 L'installation dispose en permanence d'au moins un accès pour permettre l'intervention des services de secours ou d'urgence compétents.
 
-Au sens de la présente annexe, on entend par  accès à l'installation  une ouverture reliant la voie de desserte ou publique et l'intérieur du site suffisamment dimensionnée pour permettre l'entrée des engins de secours et leur mise en œuvre.
+Au sens de la présente annexe, on entend par accès à l'installation une ouverture reliant la voie de desserte ou publique et l'intérieur du site suffisamment dimensionnée pour permettre l'entrée des engins de secours et leur mise en œuvre.
 
 Les véhicules dont la présence est liée à l'exploitation de l'installation stationnent sans occasionner de gêne pour l'accessibilité des engins des services de secours ou d'urgence depuis les voies de circulation externes à l'installation, même en dehors des heures d'exploitation et d'ouverture de celle-ci.
 
@@ -242,7 +242,7 @@ Objet du contrôle :
 
 2.6. Ventilation
 
-Sans préjudice des dispositions du code du travail  et en phase normale de fonctionnement, les locaux sont convenablement ventilés pour éviter tout risque d'atmosphère explosive ou toxique.
+Sans préjudice des dispositions du code du travail et en phase normale de fonctionnement, les locaux sont convenablement ventilés pour éviter tout risque d'atmosphère explosive ou toxique.
 
 Les orifices de ventilation sont conçus et disposés de façon à ne pas permettre l'introduction dans les bâtiments de substances susceptibles d'initier une réaction des produits présents ainsi que la pénétration d'animaux. Ces dispositifs sont nettoyés régulièrement en vue de prévenir toute accumulation de matières dangereuses.
 
@@ -596,7 +596,7 @@ Objet du contrôle :
 
 4.4. Matériels utilisables en atmosphères explosibles
 
-Dans les parties de l'installation visées au point 4.3. et recensées  atmosphères explosibles , les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret n° 96-1010 du 19 novembre 1996 modifié relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant, dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc ni étincelle, ni surface chaude susceptible de provoquer une explosion.
+Dans les parties de l'installation visées au point 4.3. et recensées atmosphères explosibles , les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret n° 96-1010 du 19 novembre 1996 modifié relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant, dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc ni étincelle, ni surface chaude susceptible de provoquer une explosion.
 
 Les canalisations électriques ne doivent pas être une cause possible d'inflammation et sont convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
@@ -636,7 +636,7 @@ Objet du contrôle :
 
 Les conditions de prélèvements et de rejets liées au fonctionnement de l'installation sont compatibles avec les objectifs du SDAGE et les documents de planification associés le cas échéant.
 
-5.1.2. Connexité avec des ouvrages soumis à la nomenclature  Eau  en application des articles L. 214-1 à L. 214-3 du code de l'environnement
+5.1.2. Connexité avec des ouvrages soumis à la nomenclature Eau en application des articles L. 214-1 à L. 214-3 du code de l'environnement
 
 Tous les ouvrages et équipements nécessaires au fonctionnement de l'installation et visés par la nomenclature eau (IOTA) sont inférieurs au seuil de l'autorisation. Ces ouvrages et équipements ne sont soumis qu'aux dispositions du présent arrêté.
 
@@ -965,9 +965,7 @@ Les émissions sonores émises par l'installation ne sont pas à l'origine, dans
 <table>
 <tbody>
 <tr>
-<th>NIVEAU DE BRUIT AMBIANT <br/>existant dans les zones à émergence réglementée <br/>(incluant le bruit de l'installation) <br/>
-<br/>
-</th>
+<th>NIVEAU DE BRUIT AMBIANT <br/>existant dans les zones à émergence réglementée <br/>(incluant le bruit de l'installation) </th>
 <th>ÉMERGENCE ADMISSIBLE <br/>pour la période allant de 7 heures à 22 heures <br/>sauf dimanches et jours fériés<br/>
 </th>
 <th>ÉMERGENCE ADMISSIBLE <br/>pour la période allant de 22 heures à 7 heures, <br/>ainsi que les dimanches et jours fériés<br/>
