@@ -16,4 +16,4 @@ La commission disciplinaire se réunit, en tant que de besoin, sur convocation d
 
 Les avis de la commission disciplinaire sont exprimés à la majorité des membres présents, en cas de partage des voix, celle du président est prépondérante.
 
-Toute personne dont le cas relève de la commission disciplinaire doit être informée, par lettre recommandée avec accusé de réception, au moins quinze jours avant la date de la réunion de la commission afin de pouvoir soit demander à être entendue en séance, soit adresser à son président, au moins sept jours avant la séance, un rapport écrit.
+Toute personne dont le cas relève de la commission disciplinaire doit être informée, par courrier avant la date de la réunion de la commission afin de pouvoir soit demander à être entendue en séance, soit adresser à son président, au moins sept jours avant la séance, un rapport écrit.

@@ -2,7 +2,7 @@
 
 Pour être habilité, au titre du 3° de l'article D. 212-65 du code rural et de la pêche maritime, les intéressés doivent adresser une demande d'habilitation au ministre en charge de l'agriculture (direction générale de l'alimentation) accompagnée d'un dossier comprenant :
 
-- une photocopie de la carte d'identité ou du passeport certifiée conforme ;
+- une photocopie de la carte d'identité ou du passeport ;
 
 - un extrait de casier judiciaire ;
 
