@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : technicien en électricité et automatismes du bâtiment (ancien intitulé : technicien en automatismes du bâtiment).
+Titre professionnel : technicien en électricité et automatismes du bâtiment.
 
 Niveau : IV.
 
@@ -12,61 +12,73 @@ Code NSF : 255 s.
 
 Résumé du référentiel d'emploi
 
-Le technicien en électricité et automatismes du bâtiment réalise la distribution, la mise en service et la maintenance d'installations électriques de locaux. Il installe également des automatismes de confort, d'économie d'énergie, de communication, de surveillance ou de sécurité dont il assure la maintenance. Il travaille dans des bâtiments d'habitation ou tertiaires, sur des installations neuves ou existantes. Le technicien en électricité et automatismes du bâtiment exerce en toutes saisons. Les déplacements sont fréquents. Il travaille en liaison avec d'autres corps de métier, dans des locaux vides ou occupés et peut avoir à réaliser des travaux en hauteur. Dans certains cas, ce technicien est affecté en permanence sur un site où il réalise des travaux de maintenance et de modification des installations. Il utilise fréquemment des outils portatifs (perceuse, outils de creusement de saignée, pistolets de scellement, etc.) dans le respect des mesures de sécurité réglementaires. Il intervient dans le respect de la réglementation de sécurité (habilitation électrique C18-510), sur des installations électriques en présence de tension.
+Le technicien en électricité et automatismes du bâtiment réalise la distribution, la mise en service et la maintenance d'installations électriques en basse tension de locaux à usage d'habitation ou tertiaires. Il détermine et installe également des automatismes de confort, d'économie d'énergie, de communication, de surveillance ou de sécurité dont il assure la maintenance. Il intervient sur des installations neuves ou sur des adaptations, rénovations, extensions ou mises aux normes d'installations existantes.
 
-L'emploi est accessible à partir d'une expérience professionnelle d'électricien d'équipement ou d'une formation spécialisée dans le domaine.
+Le technicien en électricité et automatismes du bâtiment est spécialisé en fonction des activités de l'entreprise, des dimensions des réalisations, des lots techniques composant les chantiers tels que courants forts, courants faibles, communications, réseaux, sécurité intrusion, confort, GTC, domotique. Le technicien met rarement en œuvre seul l'ensemble de ces équipements.
+
+Le technicien en électricité et automatismes du bâtiment exerce en toutes saisons en atelier et sur chantier. Les déplacements sont fréquents. Il travaille en liaison avec d'autres corps de métier, dans des locaux vides ou occupés. Dans certains cas, ce technicien est affecté en permanence sur un site où il réalise des travaux de maintenance et de modification des installations. Il utilise fréquemment des outils portatifs et peut être amené à réaliser des travaux en hauteur. Il réalise l'ensemble de ses activités dans le respect des règles de sécurité individuelle et collective, notamment en appliquant les mesures de prévention du risque électrique. Pour mettre en œuvre les systèmes communicants à distance, le technicien utilise souvent les outils informatiques tels qu'ordinateur, tablette, smartphone.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Réaliser la distribution, la mise en service et la maintenance de l'installation électrique des locaux
+1. Réaliser la distribution, la mise en service et la maintenance d'une installation électrique de locaux
 
 Réaliser l'installation électrique des locaux d'habitation.
 
-Réaliser le raccordement des locaux d'habitation au réseau de distribution électrique.
+Réaliser l'alimentation des locaux d'habitation jusqu'au point de livraison.
 
 Réaliser l'installation électrique des établissements recevant du public et des travailleurs.
 
-Adapter et réaliser l'installation et la gestion du chauffage électrique des locaux.
+Adapter et réaliser l'installation et la régulation du chauffage électrique des locaux.
 
 Assurer la mise en service et la maintenance des installations électriques.
 
-2. Installer et assurer la maintenance des automatismes de confort, d'économies d'énergie et de communication
+2. Définir et installer l'intercommunication des automatismes de confort, d'économie d'énergie et de communication et en assurer la maintenance
 
-Réaliser un réseau de communication résidentiel ou tertiaire en câblage cuivre.
+Réaliser un réseau de communication en résidentiel et petit tertiaire (câblage cuivre et fibre optique).
 
-Dimensionner et installer un système solaire photovoltaïque raccordé au réseau.
+Dimensionner, installer et maintenir un système solaire photovoltaïque en autoconsommation ou raccordé au réseau.
 
-Déterminer et installer les systèmes d'automatismes des locaux d'habitation et tertiaire.
+Définir, installer et maintenir les systèmes d'automatismes de confort et d'économies d'énergie.
 
-3. Installer et assurer la maintenance des systèmes de surveillance et de sécurité
+Définir, installer et maintenir les systèmes d'intercommunication des automatismes de confort et d'économies d'énergie.
 
-Installer et maintenir des systèmes d'alarme intrusion et d'alarme technique.
+3. Définir et installer l'intercommunication des systèmes de surveillance et de sécurité et en assurer la maintenance
 
-Installer, régler et dépanner des systèmes de vidéoprotection.
+Définir, installer et maintenir les systèmes d'alarme intrusion et technique.
 
-Installer et tester des systèmes d'alarme incendie dans les immeubles collectifs et établissements recevant du public.
+Définir, installer, régler et maintenir les systèmes de vidéosurveillance.
 
-Installer et maintenir des systèmes de contrôle d'accès.
+Définir, installer et maintenir les systèmes de contrôle d'accès.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Définir, installer et maintenir les systèmes d'intercommunication d'alarmes, de vidéosurveillance et de contrôle d'accès.
 
-Petites, moyennes et grosses entreprises d'installations électriques.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre :
 
-Services techniques de collectivités (hôtels, hôpitaux...).
+-électricité générale d'équipement (courants forts, courants faibles) ;
 
-Sociétés d'intérim.
+-maintenance en installations électriques et automatismes ;
+
+-agences de travail temporaire ;
+
+-services travaux et entretien de collectivités tels que les hôpitaux, hôtels, grandes surfaces, écoles, municipalités ;
+
+-électricien d'équipement ;
+
+-technicien en électricité et automatismes ;
+
+-technicien de maintenance en électricité et automatismes.
 
 Code ROME :
 
-42211-Electricien/ électricienne du bâtiment et des travaux publics.
-
-52333-Maintenicien/ maintenicienne en électronique.
-
-52311-Technicien/ technicienne d ` installation d ` équipements industriels et professionnels.
+F1602-Electricité bâtiment.
 
 Réglementation de l'activité :
 
-Habilitation pour les travaux électriques (normes C18-510).
+Pour la tenue de l'emploi, l'employeur doit délivrer au salarié après qu'il a suivi une formation à la prévention des risques électriques (articles R. 4544-9 et R. 4544-10 du code du travail) :
+
+-une habilitation B2V, BR, BC sur les installations de locaux à usage d'habitation ;
+
+-une habilitation B2V Essais, BR, BC sur les installations de locaux à usage professionnel.
 
 Autorité responsable de la certification :
 
