@@ -41,6 +41,7 @@
 - [DÉCRET n°2015-250 du 3 mars 2015 (INTS1501244D)](decret-n2015-250-du-3-mars-2015-ints1501244d)
 - [DÉCRET n°2015-251 du 3 mars 2015 (INTJ1429131D)](decret-n2015-251-du-3-mars-2015-intj1429131d)
 - [DÉCRET n°2015-254 du 3 mars 2015 (EINI1404116D)](decret-n2015-254-du-3-mars-2015-eini1404116d)
+- [DÉCRET n°2015-255 du 3 mars 2015 (VJSV1505155D)](decret-n2015-255-du-3-mars-2015-vjsv1505155d)
 - [DÉCRET n°2015-383 du 3 avril 2015 (DEVA1505061D)](decret-n2015-383-du-3-avril-2015-deva1505061d)
 - [DÉCRET n°2015-384 du 3 avril 2015 (MENE1505830D)](decret-n2015-384-du-3-avril-2015-mene1505830d)
 - [DÉCRET n°2015-386 du 3 avril 2015 (DEFH1426725D)](decret-n2015-386-du-3-avril-2015-defh1426725d)
