@@ -5,4 +5,3 @@
 - [CHAPITRE III : LE CONSEIL SCIENTIFIQUE](chapitre-iii)
 - [Article 4](article-4.md)
 - [CHAPITRE IV : LE COMITE D'ETHIQUE](chapitre-iv)
-- [CHAPITRE V : LA COMMISSION D'EVALUATION DES CHERCHEURS](chapitre-v)
