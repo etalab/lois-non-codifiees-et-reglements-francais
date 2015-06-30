@@ -171,7 +171,6 @@
 - [Arrêté du 7 août 2003 (EQUG0300607A)](arrete-du-7-aout-2003-equg0300607a)
 - [Arrêté du 7 août 2003 (MENE0301803A)](arrete-du-7-aout-2003-mene0301803a)
 - [Arrêté du 7 août 2003 (MENE0301804A)](arrete-du-7-aout-2003-mene0301804a)
-- [Arrêté du 7 août 2003 (MENE0301805A)](arrete-du-7-aout-2003-mene0301805a)
 - [Arrêté du 7 août 2003 (MENS0301795A)](arrete-du-7-aout-2003-mens0301795a)
 - [Arrêté du 7 avril 2003 (AGRA0300526A)](arrete-du-7-avril-2003-agra0300526a)
 - [Arrêté du 7 avril 2003 (AGRG0300827A)](arrete-du-7-avril-2003-agrg0300827a)
