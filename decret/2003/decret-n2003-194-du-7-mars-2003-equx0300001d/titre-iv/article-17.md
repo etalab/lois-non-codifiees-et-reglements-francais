@@ -1,6 +1,6 @@
 # Article 17
 
-Réseau ferré de France élabore un document de référence du réseau ferré national qui contient l'ensemble des informations nécessaires à l'exercice des droits d'accès au réseau ferré national mentionnés au titre Ier. Le document de référence du réseau ferré national intègre les documents de référence élaborés par les titulaires d'une convention de délégation de service public dans les conditions prévues à l'article 20 du décret n° 2006-1534 du 6 décembre 2006, ainsi que les informations fournies par les titulaires d'un contrat de partenariat dans les conditions prévues à l'article 14 du décret susmentionné.
+SNCF Réseau  élabore un document de référence du réseau ferré national qui contient l'ensemble des informations nécessaires à l'exercice des droits d'accès au réseau ferré national mentionnés au titre Ier. Le document de référence du réseau ferré national intègre les documents de référence élaborés par les titulaires d'une convention de délégation de service public ou d'une concession de travaux  dans les conditions prévues à l'article 20 du décret n° 2006-1534 du 6 décembre 2006, ainsi que les informations fournies par les titulaires d'un contrat de partenariat dans les conditions prévues à l'article 14 du décret susmentionné.
 
 Le document de référence comprend notamment :
 
@@ -12,11 +12,11 @@ c) Les règles de répartition des capacités d'infrastructure, celles-ci préci
 
 d) Les délais et modalités de présentation et d'instruction des demandes d'attribution des capacités ;
 
-e) Les principes de tarification et le projet de tarification de l'infrastructure ferroviaire mentionné à l'article 9 du décret n° 97-446 du 5 mai 1997 susvisé, en précisant les règles d'imputation comptable, par nature, des diverses charges prises en compte pour l'établissement des redevances, les hypothèses d'évolution de fréquentation du réseau et des charges de Réseau ferré de France par rapport, d'une part, aux coûts constatés dans sa comptabilité et, d'autre part, à l'évolution constatée du coût des unités d'œuvre des travaux de renouvellement. Ces hypothèses tiennent compte des objectifs de productivité fixés dans le cadre des conventions mentionnées aux articles 11-1 et 11-2 du décret n° 97-444 du 5 mai 1997 susvisé ;
+e) Les principes de tarification et le projet de tarification de l'infrastructure ferroviaire mentionné à l'article 9 du décret n° 97-446 du 5 mai 1997 susvisé, en précisant les règles d'imputation comptable, par nature, des diverses charges prises en compte pour l'établissement des redevances, les hypothèses d'évolution de fréquentation du réseau et des charges de SNCF Réseau  par rapport, d'une part, aux coûts constatés dans sa comptabilité et, d'autre part, à l'évolution constatée du coût des unités d'œuvre des travaux de renouvellement ;
 
 f) Les conditions dans lesquelles les entreprises qui utilisent le réseau ferré national mettent en œuvre la réglementation relative à l'utilisation de l'infrastructure ;
 
-g) Les conditions dans lesquelles les entreprises qui utilisent le réseau ferré national reçoivent et peuvent fournir les informations nécessaires à la mise en œuvre ou à l'exploitation du service pour lequel des capacités ont été accordées ;
+g) Les conditions dans lesquelles les entreprises qui utilisent le réseau ferré national reçoivent et fournissent  les informations nécessaires à la mise en œuvre ou à l'exploitation du service pour lequel des capacités ont été accordées ;
 
 h) La liste des gares de voyageurs du réseau ferré national, regroupées par catégorie conformément au I de l'article 13-1, et les principes de tarification applicables ainsi qu'une description de la méthode utilisée pour la mettre en œuvre ; l'ensemble des informations détaillées nécessaires à l'utilisation de ces gares figure dans le document de référence des gares de voyageurs prévu à l'article 14-1 ;
 

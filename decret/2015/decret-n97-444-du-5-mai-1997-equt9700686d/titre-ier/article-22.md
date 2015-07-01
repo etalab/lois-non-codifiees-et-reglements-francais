@@ -1,0 +1,11 @@
+# Article 22
+
+Lorsque SNCF Réseau envisage la fermeture d'une ligne ou d'une section de ligne, il soumet le projet de fermeture à la région compétente pour organiser les services ferroviaires régionaux de voyageurs sur la ligne ou la section de ligne en cause ou, le cas échéant, au Syndicat des transports d'Ile-de-France. La région ou le syndicat dispose d'un délai de trois mois pour faire connaître son avis. L'absence de réponse de l'organe délibérant dans ce délai vaut avis favorable.
+
+Parallèlement, SNCF Réseau publie dans une publication professionnelle du secteur des transports un avis relatif à ce projet de fermeture. Les entreprises ferroviaires, les gestionnaires d'infrastructure de réseaux raccordés ou embranchés et les titulaires de contrat ou de convention prévus aux articles L. 2111-11 et L. 2111-12 du code des transports disposent d'un délai de trois mois pour lui faire connaître leurs observations.
+
+Dès l'engagement des consultations, SNCF Réseau informe de son projet le ministre chargé des transports qui s'assure notamment que la fermeture projetée ne présente pas d'inconvénient au regard des impératifs de défense.
+
+Après avoir recueilli les avis et observations mentionnés aux premier et deuxième alinéas et s'il entend poursuivre son projet, SNCF Réseau adresse au ministre chargé des transports une proposition motivée de fermeture, accompagnée des avis reçus et du bilan des observations recueillies.
+
+Le ministre chargé des transports dispose d'un délai de deux mois pour autoriser la fermeture et, le cas échéant, en vue de préserver la possibilité de mise en place ultérieure d'un système de transports, demander le maintien en place de la voie ou de tout ou partie des biens constitutifs de l'infrastructure de cette ligne ou section de ligne. Le silence gardé par le ministre chargé des transports pendant ce délai vaut autorisation pour SNCF Réseau de fermer la ligne ou la section de ligne considérée. La décision de fermeture est publiée au recueil des actes administratifs de la préfecture du département sur le territoire duquel est située la ligne ou la section de ligne considérée. Les lignes ou sections de ligne fermées ne font plus partie du réseau ferré national.
