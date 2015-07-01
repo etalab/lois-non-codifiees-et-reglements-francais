@@ -1,5 +1,0 @@
-# Article 21-1
-
-Lorsque la réalisation d'essais sur le réseau ferré national apparaît être le seul moyen possible pour obtenir l'autorisation de mise en exploitation commerciale d'un sous-système prévue au I de l'article 44 du décret n° 2006-1279 du 19 octobre 2006 relatif la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, RFF met à la disposition du demandeur les capacités d'infrastructure nécessaires. Les caractéristiques des capacités mises à disposition sont déterminées par RFF, en concertation avec le demandeur et dans le respect des capacités déjà accordées en application du décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré national. RFF ne peut refuser la mise à disposition des capacités nécessaires lorsque l'EPSF atteste que les essais sollicités sont indispensables à l'instruction de la demande d'autorisation.
-
-Les capacités sont mises à disposition dans un délai de trois mois à compter de la réception de la demande, sauf décision contraire de RFF dûment motivée.L'ensemble des charges liées à cette mise à disposition est facturé au demandeur.
