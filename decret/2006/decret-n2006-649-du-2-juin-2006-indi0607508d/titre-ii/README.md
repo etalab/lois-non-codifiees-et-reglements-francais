@@ -5,3 +5,4 @@
 - [Chapitre III : Procédure d'instruction des demandes d'autorisation présentées au titre de l'article 3.](chapitre-iii)
 - [Chapitre IV : Procédure d'instruction des déclarations déposées au titre de l'article 4.](chapitre-iv)
 - [Chapitre V : Dispositions relatives aux travaux miniers et aux travaux de stockage souterrain exécutés dans la mer territoriale ou dans les eaux intérieures.](chapitre-v)
+- [Chapitre VI : Dispositions particulières relatives à l'exploitation d'un gîte géothermique de minime importance](chapitre-vi)

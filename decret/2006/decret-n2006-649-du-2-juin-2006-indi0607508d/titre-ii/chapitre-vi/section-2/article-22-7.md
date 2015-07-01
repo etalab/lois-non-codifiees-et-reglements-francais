@@ -1,0 +1,7 @@
+# Article 22-7
+
+I.-La personne qui réalise les travaux de forage lors de l'ouverture des travaux d'exploitation d'un gîte géothermique de minime importance ou les travaux de remise en état lors de l'arrêt des travaux d'exploitation est tenue de disposer d'une attestation de qualification délivrée selon les conditions prévues par un arrêté conjoint des ministres chargés des mines, de l'environnement et de l'énergie.
+
+II.-Les organismes accordant des qualifications aux entreprises de forage d'un gîte géothermique de minime importance doivent être accrédités par le comité français d'accréditation ou par un organisme signataire de l'accord européen multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation. Cette accréditation, dont les critères sont définis par arrêté conjoint des ministres chargés de l'énergie, de l'environnement et des mines, est accordée en considération de l'organisation interne de l'organisme en cause, des exigences requises des personnes chargées des missions d'examinateur et de la capacité de l'organisme à assurer la surveillance des entreprises de forages qualifiées.
+
+III.-Par dérogation aux paragraphes précédents, tout ressortissant légalement établi et autorisé à réaliser des opérations similaires dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen peut exercer cette activité en France, sous réserve que l'habilitation dont il dispose dans cet Etat présente des garanties équivalentes à celles requises dans le présent décret.
