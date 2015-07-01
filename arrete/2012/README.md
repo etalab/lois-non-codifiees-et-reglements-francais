@@ -1888,7 +1888,6 @@
 - [Arrêté du 23 avril 2012 (DEFD1221563A)](arrete-du-23-avril-2012-defd1221563a)
 - [Arrêté du 23 avril 2012 (DEFD1221568A)](arrete-du-23-avril-2012-defd1221568a)
 - [Arrêté du 23 avril 2012 (DEVK1208415A)](arrete-du-23-avril-2012-devk1208415a)
-- [Arrêté du 23 avril 2012 (DEVP1221639A)](arrete-du-23-avril-2012-devp1221639a)
 - [Arrêté du 23 avril 2012 (EFIR1105130A)](arrete-du-23-avril-2012-efir1105130a)
 - [Arrêté du 23 avril 2012 (EFIT1207983A)](arrete-du-23-avril-2012-efit1207983a)
 - [Arrêté du 23 avril 2012 (ETSH1221561A)](arrete-du-23-avril-2012-etsh1221561a)

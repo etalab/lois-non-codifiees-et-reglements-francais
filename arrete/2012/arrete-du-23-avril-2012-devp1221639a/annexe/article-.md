@@ -1,5 +1,0 @@
-# Article 
-
-Attestations de formation portant qualification pour l'encadrement et la formation de personnel exerçant l'application de produits biocides mentionnée à l'article L. 522-14-2 du code de l'environnement et qui utilise les produits mentionnés aux 1° et 2° du I de l'article 9 de la loi n° 2008-757.
-
-Le certificat individuel pour l'activité " utilisation à titre professionnel des produits phytopharmaceutiques " dans la catégorie " décideur en travaux et services " au sens de l'arrêté du 21 octobre 2011 portant création et fixant les modalités d'obtention du certificat individuel pour l'activité " utilisation à titre professionnel des produits phytopharmaceutiques " dans les catégories " décideur en travaux et services " et " opérateur en travaux et services " vaut attestation de formation portant qualification pour l'encadrement et la formation de personnel exerçant l'application de produits biocides mentionnée à l'article L. 522-14-2 du code de l'environnement et qui utilise les produits mentionnés aux 1° et 2° du I de l'article 9 de la loi n° 2008-757.
