@@ -1,3 +1,0 @@
-# PRISE EN COMPTE DIFFÉRENCIÉE DES OBSTACLES FIXES : MASSIFS, MINCES ET FILIFORMES.
-
-- [Article Annexe III](article-annexe-iii.md)
