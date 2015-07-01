@@ -1,0 +1,3 @@
+# Article 55
+
+Le présent décret entre en vigueur à la date d'effet pour SNCF Mobilités du certificat de sécurité délivré par l'Etablissement public de sécurité ferroviaire conformément aux dispositions du décret du 19 octobre 2006 susvisé dans sa rédaction résultant du décret n° 2015-143 du 10 février 2015 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, validant le système de gestion de la sécurité de SNCF Mobilités dans son organisation résultant du présent décret ou, si elle est plus tardive, à la date de fin de validité de l'agrément de sécurité dont est actuellement titulaire SNCF Mobilités, et au plus tard le 1er juillet 2015.

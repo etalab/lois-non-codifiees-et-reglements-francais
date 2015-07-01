@@ -1,0 +1,3 @@
+# Article 30
+
+Le directeur des gares publie chaque année un rapport d'activité, qui comprend notamment l'extrait des comptes certifiés de SNCF Mobilités relatif à la direction autonome des gares. Ce rapport détaille les mesures d'organisation internes prises pour prévenir les risques de pratiques discriminatoires entre entreprises ferroviaires. Il est communiqué à l'Autorité de régulation des activités ferroviaires. Il rend compte de la réalisation des objectifs de performance pour la gestion des gares de voyageurs, de l'amélioration de la qualité des services fournis et de la réalisation des programmes d'investissements.

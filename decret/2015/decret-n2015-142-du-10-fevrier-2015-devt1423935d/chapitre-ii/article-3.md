@@ -1,0 +1,9 @@
+# Article 3
+
+La composition, l'élection et le mandat du comité central du groupe public ferroviaire sont déterminés par les articles L. 2327-3 à L. 2327-10 du code du travail, sous réserve des dispositions du présent article.
+
+Pour l'application des articles L. 2327-3 et L. 2327-7 du code du travail, le nombre de sièges de délégués titulaires et de délégués suppléants au comité central du groupe public ferroviaire attribués aux établissements distincts dans chaque établissement public constituant le groupe public ferroviaire est déterminé au prorata des effectifs de ces établissements publics, selon la règle de la représentation proportionnelle au plus fort reste. Toutefois, le nombre de délégués ne peut être inférieur à un titulaire et un suppléant pour l'ensemble des établissements distincts relevant d'un même établissement public.
+
+Le nombre de sièges attribués en application de l'alinéa précédent à l'ensemble des établissements distincts dans chaque établissement public est réparti entre ces établissements distincts au prorata des effectifs de ces établissements distincts, selon la règle de la représentation proportionnelle au plus fort reste. Toutefois, un accord conclu entre l'employeur et l'ensemble des organisations syndicales représentatives peut prévoir que le nombre de vingt titulaires ou vingt suppléants soit dépassé, dans les limites nécessaires pour que chaque établissement distinct dispose d'au moins un siège de délégué titulaire ou de délégué suppléant dans la commission consultative constituée auprès de l'établissement public dont il relève.
+
+Les sièges de délégué titulaire et de délégué suppléant appartenant à la catégorie des ingénieurs, chefs de service et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification, sont attribués, au sein de chacun des établissements publics, à l'établissement distinct dont le plus grand nombre de salariés relève de cette catégorie.
