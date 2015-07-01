@@ -1,3 +1,3 @@
 # Article Annexes
 
-Les annexes seront publiés au Bulletin officiel du ministère de l'écologie, du développement durable, des transports et du logement.
+Les annexes seront publiées au Bulletin officiel du ministère de l'écologie, du développement durable et de l'énergie.
