@@ -793,7 +793,6 @@
 - [Décret n°2008-1523 du 22 décembre 2008 (DEFH0821094D)](decret-n2008-1523-du-22-decembre-2008-defh0821094d)
 - [Décret n°2008-1530 du 22 décembre 2008 (MLVU0827160D)](decret-n2008-1530-du-22-decembre-2008-mlvu0827160d)
 - [Décret n°2008-1532 du 22 décembre 2008 (BCFF0825539D)](decret-n2008-1532-du-22-decembre-2008-bcff0825539d)
-- [Décret n°2008-1533 du 22 décembre 2008 (BCFF0825391D)](decret-n2008-1533-du-22-decembre-2008-bcff0825391d)
 - [Décret n°2008-1535 du 22 décembre 2008 (BCFB0827247D)](decret-n2008-1535-du-22-decembre-2008-bcfb0827247d)
 - [Décret n°2009-1138 du 22 septembre 2009 (DEVN0911437D)](decret-n2009-1138-du-22-septembre-2009-devn0911437d)
 - [Décret n°2009-1139 du 22 septembre 2009 (DEVP0907756D)](decret-n2009-1139-du-22-septembre-2009-devp0907756d)
