@@ -98,8 +98,10 @@ I. - Véhicules affectés au transport de personnes
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -115,8 +117,10 @@ I. - Véhicules affectés au transport de personnes
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -149,8 +153,10 @@ I. - Véhicules affectés au transport de personnes
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -166,8 +172,10 @@ I. - Véhicules affectés au transport de personnes
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -200,11 +208,14 @@ I. - Véhicules affectés au transport de personnes
 <tr>
 <td align="left" valign="top">
 <br/>
-</td>
-<td align="left" valign="top">
 <br/>
 </td>
 <td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -234,8 +245,10 @@ I. - Véhicules affectés au transport de personnes
 <tr>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 <td align="left" valign="top">
@@ -743,17 +756,6 @@ II. - Véhicules affectés au transport de marchandises
 <td align="left" valign="top"/>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Fourgonnette dérivée de VP.</p>
-</td>
-<td align="left" valign="top">
-<p align="center">DERIV VP</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
 <p align="left">Bétonnière.</p>
 </td>
 <td align="left" valign="top">
@@ -1071,8 +1073,10 @@ III. - Véhicules spécialisés non affectés au transport de marchandises
 <tr>
 <td align="center">
 <br/>
+<br/>
 </td>
 <td align="center">
+<br/>
 <br/>
 </td>
 <td align="center">
@@ -1270,15 +1274,9 @@ III. - Véhicules spécialisés non affectés au transport de marchandises
 <tr>
 <td/>
 <td/>
-<td>
-<p align="center"> M1</p>
-</td>
-<td>
-<p align="left"> Adaptation réversible dérivée de VP</p>
-</td>
-<td>
-<p align="center"> DERIV VP</p>
-</td>
+<td align="center">M1 </td>
+<td align="left">Adaptation réversible dérivée de VP </td>
+<td align="center">DERIV VP </td>
 </tr>
 <tr>
 <td align="center">
@@ -1647,6 +1645,12 @@ B. - Genres et carrosseries anciennes
 <p align="center">VOIERIE</p>
 <p align="center">NON SPEC</p>
 </td>
+</tr>
+<tr>
+<td align="center">CTTE (N1) </td>
+<td align="center"> DERIV VP </td>
+<td align="center"> VASP (M1)</td>
+<td align="center"> DERIV VP</td>
 </tr>
 </tbody>
 </table>
