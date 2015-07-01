@@ -1,6 +1,6 @@
 # Article 14-1
 
-I.-Le directeur des gares établit chaque année un document de référence des gares de voyageurs gérées par la direction autonome créée par l'article 11-2 du décret n° 83-109 du 18 février 1983 relatif aux statuts de la Société nationale des chemins de fer français, soit qu'elle en assure directement la gestion soit qu'elle la confie à un tiers. Ce document, qui est transmis à Réseau ferré de France après avis de l'Autorité de régulation des activités ferroviaires pour être annexé au document de référence du réseau mentionné à l'article 17 du présent décret, précise, pour chaque gare de voyageurs du réseau ferré national, les prestations régulées qui y sont rendues, les conditions dans lesquelles elles sont rendues, notamment les horaires et périodes pendant lesquels elles sont fournies, et les tarifs des redevances associées.
+I.-Le directeur des gares établit chaque année un document de référence des gares de voyageurs gérées par la direction autonome créée par l'article 25 du décret n° 2015-138 du 10 février 2015 relatif aux missions et aux statuts de SNCF Mobilités, soit qu'elle en assure directement la gestion soit qu'elle la confie à un tiers. Ce document, qui est transmis à Réseau ferré de France après avis de l'Autorité de régulation des activités ferroviaires pour être annexé au document de référence du réseau mentionné à l'article 17 du présent décret, précise, pour chaque gare de voyageurs du réseau ferré national, les prestations régulées qui y sont rendues, les conditions dans lesquelles elles sont rendues, notamment les horaires et périodes pendant lesquels elles sont fournies, et les tarifs des redevances associées.
 
 Les conditions générales du contrat mentionné à l'article L. 2123-2 du code des transports devant être conclu entre la Société nationale des chemins de fer français représentée par le directeur des gares et l'entreprise ferroviaire sont annexées au document de référence des gares.
 
@@ -24,7 +24,7 @@ e) Les hypothèses ayant permis de déterminer la clé de répartition utilisée
 
 f) Les programmes d'investissements ainsi que la structure des financements correspondants justifiant les amortissements et le calcul du coût des capitaux engagés prévus à l'article 13-1 ;
 
-g) Le détail des produits de cession prévus à l'article 22 du décret n° 83-816 du 13 septembre 1983 susvisé.
+g) Le détail des produits de cession prévus à l'article 50 du décret n° 2015-138 du 10 février 2015 relatif aux missions et aux statuts de SNCF Mobilités.
 
 Le document de référence des gares de voyageurs s'inscrit dans une perspective pluriannuelle et permet une comparaison des coûts affectés aux gares sur les deux années antérieures.
 
