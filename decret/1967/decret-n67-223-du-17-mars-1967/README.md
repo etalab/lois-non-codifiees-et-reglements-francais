@@ -10,3 +10,4 @@
 - [Section VII : Procédure.](section-vii)
 - [Section VIII : Les unions de syndicats de copropriétaires.](section-viii)
 - [Section IX : Dispositions diverses.](section-ix)
+- [Annexes](annexes)
