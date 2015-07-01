@@ -1,6 +1,6 @@
 # Article 19
 
-Chaque gestionnaire de l'infrastructure ainsi que le gestionnaire d'infrastructure délégué doivent être titulaires d'un agrément de sécurité, délivré par l'EPSF pour une durée maximale de cinq ans, qui établit leur aptitude à satisfaire aux exigences réglementaires de sécurité et à maîtriser les risques liés à la gestion et à l'exploitation de l'infrastructure ouverte à la circulation publique.
+Chaque gestionnaire de l'infrastructure est titulaire  d'un agrément de sécurité, délivré par l'EPSF pour une durée maximale de cinq ans, qui établit son aptitude à satisfaire aux exigences réglementaires de sécurité et à maîtriser les risques liés à la gestion et à l'exploitation de l'infrastructure ouverte à la circulation publique.
 
 La délivrance de l'agrément de sécurité vaut approbation du système de gestion de la sécurité établi par le titulaire et des dispositions prises ou à prendre pour son application en ce qui concerne notamment :
 

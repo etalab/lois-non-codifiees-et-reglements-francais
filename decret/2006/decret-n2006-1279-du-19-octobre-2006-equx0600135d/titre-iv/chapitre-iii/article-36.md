@@ -4,8 +4,8 @@ Le ministre chargé des transports peut accorder des dérogations aux spécifica
 
 Il en est de même lorsqu'à la suite d'un accident ou d'une catastrophe naturelle, les conditions de rétablissement rapide du réseau ne permettent pas économiquement ou techniquement l'application partielle ou totale des spécifications techniques d'interopérabilité correspondantes.
 
-La demande de dérogation est adressée au ministre chargé des transports et à l'EPSF qui fait connaître son avis au ministre. Elle comprend la description de l'état d'avancement du projet et les spécifications retenues ainsi que les spécifications techniques d'interopérabilité auxquelles le demandeur souhaite déroger.
+La demande de dérogation est adressée au ministre chargé des transports et à l'EPSF qui fait connaître son avis au ministre. Elle comprend les éléments définis à l'annexe IX de la directive 2008/57/ CE susvisée.
 
 Lorsque le ministre chargé des transports envisage de faire droit à la demande de dérogation, la Commission européenne en est préalablement informée et le dossier lui est communiqué.
 
-Le silence gardé par le ministre pendant plus de six mois vaut décision de rejet. Ce délai ne court qu'à compter du moment où le dossier est complet.
+Le silence gardé pendant six mois par le ministre chargé des transports vaut décision de rejet.

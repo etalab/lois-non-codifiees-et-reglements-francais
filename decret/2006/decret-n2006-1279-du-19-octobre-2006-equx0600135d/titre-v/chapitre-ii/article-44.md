@@ -30,6 +30,6 @@ III. - L'EPSF fait connaître dans le mois suivant la réception de chaque dossi
 
 IV. - Le dossier de conception de la sécurité ou le dossier de définition de sécurité est soumis pour avis à l'EPSF. En absence de notification de l'avis dans les quatre mois suivant la réception du dossier complet, l'avis est réputé émis.
 
-V. - Le dossier préliminaire de sécurité est soumis pour approbation à l'EPSF. Le dossier de sécurité est joint à la demande d'autorisation présentée pour décision à l'EPSF. Le silence gardé par l'EPSF pendant plus de quatre mois suivant la réception du dossier complet vaut refus, selon le cas, d'approuver le dossier préliminaire de sécurité ou d'autoriser la mise en exploitation commerciale.
+V. - Le dossier préliminaire de sécurité est soumis pour approbation à l'EPSF. Le dossier de sécurité est joint à la demande d'autorisation présentée pour décision à l'EPSF. Le silence gardé pendant trois mois et deux semaines par l'EPSF vaut décision de refus, selon le cas, d'approuver le dossier préliminaire de sécurité ou d'autoriser la mise en exploitation commerciale.
 
 VI. - Un arrêté conjoint du ministre chargé des transports et du ministre chargé de la sécurité civile précise le contenu et les modalités d'instruction des dossiers.

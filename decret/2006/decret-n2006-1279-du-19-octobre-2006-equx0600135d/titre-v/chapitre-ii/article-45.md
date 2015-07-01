@@ -2,7 +2,7 @@
 
 I. - Dès la conception d'un véhicule ou d'un sous-système nouveau ou d'une modification substantielle d'un véhicule ou d'un sous-système existant puis au cours de la phase de réalisation, le responsable du projet recourt aux services d'un organisme qualifié agréé.
 
-L'agrément de l'organisme qualifié est délivré par l'EPSF pour une durée au plus de cinq ans. Un arrêté du ministre chargé des transports précise les conditions et les modalités de délivrance, de renouvellement, de restriction, de suspension et de retrait de cet agrément.
+L'agrément de l'organisme qualifié est délivré par l'EPSF pour une durée au plus de cinq ans. Le silence gardé pendant trois mois et deux semaines par l'EPSF vaut décision de refus d'agréer le demandeur. Un arrêté du ministre chargé des transports précise les conditions et les modalités de délivrance, de renouvellement, de restriction, de suspension et de retrait de cet agrément.
 
 La qualification d'organisme habilité au sens du 9° du I de l'article 31 vaut agrément en tant qu'organisme qualifié pour évaluer la conformité d'un véhicule ou d'un sous-système nouveau ou substantiellement modifié aux spécifications techniques d'interopérabilité définies au 8° du I de l'article 31.
 

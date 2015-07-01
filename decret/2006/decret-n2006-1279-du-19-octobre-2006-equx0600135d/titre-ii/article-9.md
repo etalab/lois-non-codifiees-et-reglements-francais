@@ -2,12 +2,8 @@
 
 Au sens du présent décret, on entend par :
 
--" Gestionnaire de l'infrastructure " :
+-" gestionnaire de l'infrastructure ", toute entité ou entreprise chargée notamment de l'établissement, de la gestion et de l'entretien de l'infrastructure ferroviaire, y compris la gestion du trafic, et du système de signalisation et de contrôle-commande ; les fonctions de gestionnaire de l'infrastructure sur tout ou partie d'un réseau peuvent être attribuées à plusieurs entités ou entreprises.
 
-Réseau ferré de France ci-après dénommé " RFF ", chargé en application des dispositions de la loi du 13 février 1997 susvisée de l'aménagement, du développement et de la maintenance du réseau ferré national ;
-
-Le cas échéant, le titulaire d'un contrat de partenariat ou d'une convention de délégation de service public conclus en application de l'article 1er-1 ou de l'article 1er-2 de la même loi, au titre de la mission de gestion et d'exploitation de l'infrastructure ferroviaire, telle que définie au A de l'annexe I du règlement (CEE) n° 2598 / 70 de la Commission du 18 décembre 1970 susvisé, prévue par ce contrat ou cette convention ;
-
--" Gestionnaire d'infrastructure délégué " : la Société nationale des chemins de fer français ci-après dénommée " SNCF ", en tant qu'elle est chargée, en vertu des dispositions de la même loi, de la gestion du trafic et des circulations, assurée par le service gestionnaire des trafics et des circulations mentionné au III de l'article 24 de la loi du 30 décembre 1982, ou du fonctionnement et de l'entretien des installations techniques et de sécurité du réseau ferré national ;
+Constituent notamment des gestionnaires de l'infrastructure sur le réseau ferré national, outre les entités ou entreprises mentionnées à l'article L. 2111-1 du code des transports, les titulaires d'une convention mentionnée au dernier alinéa de l'article L. 2111-9 du même code lorsque celle-ci prévoit, dans les conditions prévues à l'article 14 du décret du 5 mai 1997 susvisé, la qualité de gestionnaire d'infrastructure du titulaire ou en tout état de cause lorsqu'elle confie à celui-ci la rédaction de la documentation d'exploitation et des règles d'exploitation particulières ou la gestion opérationnelle des circulations.
 
 -" Entreprise ferroviaire " : toute personne titulaire d'une licence d'entreprise ferroviaire assurant la traction ferroviaire pour la fourniture de services de transport de marchandises ou de voyageurs.

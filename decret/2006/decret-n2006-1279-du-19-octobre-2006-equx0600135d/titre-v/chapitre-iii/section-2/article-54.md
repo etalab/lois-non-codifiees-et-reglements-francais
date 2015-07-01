@@ -22,8 +22,20 @@ II. - L'EPSF fait connaître dans le mois suivant la réception de chaque dossie
 
 III. - L'EPSF statue sur la demande d'autorisation de mise en exploitation commerciale portant sur un sous-système relevant du présent article dans les conditions prévues au V de l'article 44.
 
-IV. - L'EPSF s'efforce de statuer par décision expresse dans un délai de deux mois suivant la réception du dossier complet sur la demande d'autorisation relative à un véhicule mentionné au septième alinéa du I du présent article et dans un délai de quatre mois sur les demandes relatives aux autres véhicules.
+IV. - a) Le silence gardé pendant trois mois par l'EPSF sur une demande relative à la conformité d'un véhicule aux spécifications techniques d'interopérabilité pertinentes lors de la mise en exploitation commerciale lorsque celui-ci est déjà autorisé dans un Etat membre vaut décision d'acceptation après l'expiration des délais suivants :
 
-En cas de silence gardé par l'EPSF à l'expiration du délai d'instruction, fixé à l'alinéa précédent, augmenté de trois mois, l'autorisation sollicitée est réputée accordée.
+- quatre mois après la présentation du dossier ;
+
+- le cas échéant, deux mois après la fourniture de toute information complémentaire demandée par l'autorité nationale de sécurité ;
+
+- le cas échéant, deux mois après la fourniture des résultats des essais demandés par l'autorité nationale de sécurité ;
+
+b) Le silence gardé pendant trois mois par l'EPSF sur les demandes relatives aux véhicules non mentionnés au a vaut décision d'acceptation après l'expiration des délais suivants :
+
+- deux mois après la présentation du dossier ;
+
+- le cas échéant, un mois après la fourniture de toute information complémentaire demandée par l'autorité nationale de sécurité ;
+
+- le cas échéant, un mois après la fourniture des résultats des essais demandés par l'autorité nationale de sécurité.
 
 V. - Un arrêté conjoint du ministre chargé des transports et du ministre chargé de la sécurité civile précise les modalités d'application du présent article, notamment le contenu et les modalités d'instruction des dossiers.

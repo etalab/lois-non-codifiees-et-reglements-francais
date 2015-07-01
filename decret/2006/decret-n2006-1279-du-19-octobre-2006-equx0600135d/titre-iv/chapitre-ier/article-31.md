@@ -26,7 +26,7 @@ I. - Au sens du présent titre, on entend par :
 
 12° "Substitution dans le cadre d'un entretien" : le remplacement de composants par des pièces ayant une fonction et offrant des performances identiques dans le cadre d'un entretien préventif ou correcteur.
 
-II. - RFF pour le réseau ferré national ou le responsable de la gestion de l'infrastructure pour les réseaux relevant du titre III établit et publie un registre de l'infrastructure dont il a la charge. Ce registre décrit les caractéristiques principales de chaque sous-système et partie de sous-système et la concordance entre celles-ci et les prescriptions des spécifications techniques d'interopérabilité applicables. Il comporte l'ensemble des paramètres techniques nécessaires à la définition des conditions techniques d'admission des circulations.
+II. - SNCF Réseau, en se fondant sur les informations transmises par le responsable de la gestion de l'infrastructure, qu'il n'appartient pas à SNCF Réseau de vérifier pour les réseaux relevant du titre III, établit et publie un registre de l'infrastructure, dont il a la charge.  Ce registre décrit les caractéristiques principales de chaque sous-système et partie de sous-système et la concordance entre celles-ci et les prescriptions des spécifications techniques d'interopérabilité applicables. Il comporte l'ensemble des paramètres techniques nécessaires à la définition des conditions techniques d'admission des circulations.
 
 III. - Le ministre chargé des transports précise par arrêté :
 
