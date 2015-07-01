@@ -86,7 +86,6 @@
 - [Décret n°83-211 du 17 mars 1983](decret-n83-211-du-17-mars-1983)
 - [Décret n°83-216 du 17 mars 1983](decret-n83-216-du-17-mars-1983)
 - [Décret n°83-109 du 18 février 1983](decret-n83-109-du-18-fevrier-1983)
-- [Décret n°83-110 du 18 février 1983](decret-n83-110-du-18-fevrier-1983)
 - [Décret n°83-917 du 18 octobre 1983](decret-n83-917-du-18-octobre-1983)
 - [Décret n°83-992 du 18 novembre 1983](decret-n83-992-du-18-novembre-1983)
 - [Décret n°83-394 du 18 mai 1983](decret-n83-394-du-18-mai-1983)
