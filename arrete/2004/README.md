@@ -307,7 +307,6 @@
 - [Arrêté du 13 mai 2004 (SOCF0410990A)](arrete-du-13-mai-2004-socf0410990a)
 - [Arrêté du 13 mai 2004 (SOCF0410992A)](arrete-du-13-mai-2004-socf0410992a)
 - [Arrêté du 13 mai 2004 (SOCF0410993A)](arrete-du-13-mai-2004-socf0410993a)
-- [Arrêté du 13 mai 2004 (SOCF0410996A)](arrete-du-13-mai-2004-socf0410996a)
 - [Arrêté du 13 mai 2004 (SOCF0410997A)](arrete-du-13-mai-2004-socf0410997a)
 - [Arrêté du 14 avril 2004 (AGRP0400966A)](arrete-du-14-avril-2004-agrp0400966a)
 - [Arrêté du 14 décembre 2004 (AGRF0402567A)](arrete-du-14-decembre-2004-agrf0402567a)
