@@ -156,7 +156,6 @@
 - [Arrêté du 11 octobre 2005 (BUDF0500036A)](arrete-du-11-octobre-2005-budf0500036a)
 - [Arrêté du 11 octobre 2005 (EQUT0501662A)](arrete-du-11-octobre-2005-equt0501662a)
 - [Arrêté du 11 mai 2005 (EQUH0500863A)](arrete-du-11-mai-2005-equh0500863a)
-- [Arrêté du 12 août 2005 (SOCF0511619A)](arrete-du-12-aout-2005-socf0511619a)
 - [Arrêté du 12 avril 2005 (DOMB0500009A)](arrete-du-12-avril-2005-domb0500009a)
 - [Arrêté du 12 décembre 1986](arrete-du-12-decembre-1986)
 - [Arrêté du 12 décembre 2005 (DEVN0540472A)](arrete-du-12-decembre-2005-devn0540472a)
