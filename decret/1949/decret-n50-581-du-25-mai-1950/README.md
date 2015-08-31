@@ -2,4 +2,3 @@
 
 - [CHAPITRE II : Dispositions particulières à certaines catégories de personnels ou à certaines disciplines.](chapitre-ii)
 - [CHAPITRE III : Dispositions transitoires et d'exécution.](chapitre-iii)
-- [CHAPITRE PREMIER : Dispositions générales.](chapitre-premier)
