@@ -85,7 +85,6 @@
 - [Décret n°89-836 du 9 novembre 1989 (ACVP8920035D)](decret-n89-836-du-9-novembre-1989-acvp8920035d)
 - [Décret n°88-690 du 9 mai 1988 (PRMJ8860045D)](decret-n88-690-du-9-mai-1988-prmj8860045d)
 - [Décret n°89-303 du 9 mai 1989 (MAEJ8930028D)](decret-n89-303-du-9-mai-1989-maej8930028d)
-- [Décret n°80-28 du 10 janvier 1980](decret-n80-28-du-10-janvier-1980)
 - [Décret n°89-166 du 10 mars 1989 (PTTA8801159D)](decret-n89-166-du-10-mars-1989-ptta8801159d)
 - [Décret n°89-210 du 10 avril 1989 (TEFF8903321D)](decret-n89-210-du-10-avril-1989-teff8903321d)
 - [Décret n°89-214 du 10 avril 1989 (MAEJ8930025D)](decret-n89-214-du-10-avril-1989-maej8930025d)
