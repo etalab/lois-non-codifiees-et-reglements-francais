@@ -20,7 +20,7 @@ Classes ayant un effectif de moins de 20 élèves : 11 heures ;
 
 Les professeurs de philosophie, lettres, histoire et géographie ou langues vivantes dont le service est partagé entre la classe de première supérieure et celle de lettres supérieures ont le même maximum de service que s'ils donnaient tout leur enseignement en première supérieure.
 
-2° Le maximum de service des professeurs qui n'assurent dans la classe de première supérieure ou dans celle de lettres supérieures qu'une partie de leur service est fixé conformément aux articles 1er et 4 du présent décret. Toutefois, chaque heure d'enseignement faite soit en première supérieure, soit en lettres supérieures est comptée pour une heure et demie, sous réserve :
+2° Le maximum de service des professeurs qui n'assurent dans la classe de première supérieure ou dans celle de lettres supérieures qu'une partie de leur service est fixé conformément à l'article 2 du décret n°  2014-940 du 20 août 2014. Toutefois, chaque heure d'enseignement faite soit en première supérieure, soit en lettres supérieures est comptée pour une heure et demie, sous réserve :
 
 a) Que dans le décompte des heures faites dans lesdites classes, les heures consacrées au même enseignement dans deux divisions ou sections d'une même classe ne soient comptées qu'une fois ;
 

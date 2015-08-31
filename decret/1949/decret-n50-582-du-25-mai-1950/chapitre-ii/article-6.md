@@ -4,7 +4,7 @@ Le maximum de service des professeurs qui donnent tout leur enseignement dans le
 
 Le maximum de service des professeurs de mathématiques et sciences physiques qui donnent tout leur enseignement dans les classes préparatoires (deuxième année) au concours de recrutement spécial défini par le décret n° 59-897 du 30 juillet 1959 est fixé à dix heures.
 
-Le maximum de service des professeurs qui n'assurent, dans les classes désignées au paragraphe ci-dessus qu'une partie de leur service, est fixé conformément aux articles 1er et 4 du présent décret. Toutefois, chaque heure d'enseignement faite dans les classes préparatoires aux grandes écoles est comptée pour une heure et demie, sous réserve :
+Le maximum de service des professeurs qui n'assurent, dans les classes désignées au paragraphe ci-dessus qu'une partie de leur service, est fixé conformément à l'article 2 du décret n°  2014-940 du 20 août 2014. Toutefois, chaque heure d'enseignement faite dans les classes préparatoires aux grandes écoles est comptée pour une heure et demie, sous réserve :
 
 1° Que, dans le décompte des heures faites dans lesdites classes, les heures données à deux divisions ou sections parallèles d'une même classe ne soient comptées qu'une seule fois ;
 

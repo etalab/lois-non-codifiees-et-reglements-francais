@@ -30,7 +30,7 @@ Toutefois, le professeur de physique chargé d'une classe préparatoire à l'Eco
 
 2° Les professeurs de mathématiques, sciences physiques et sciences naturelles dont le service est partagé entre la classe de mathématiques spéciales ou la classe préparatoire à l'Ecole normale supérieure (sciences expérimentales) et les autres classes désignées ci-dessus ont le même maximum de service que s'ils donnaient tout leur enseignement dans la classe de mathématiques spéciales ou celle de préparation à l'Ecole normale supérieure (sciences expérimentales).
 
-Le maximum de service des professeurs qui n'assurent dans les classes désignées ci-dessus qu'une partie de leur service est fixé conformément aux articles 1er et 4 du présent décret. Toutefois chaque heure d'enseignement fait dans les classes désignées ci-dessus est comptée pour une heure et demie, sous réserve :
+Le maximum de service des professeurs qui n'assurent dans les classes désignées ci-dessus qu'une partie de leur service est fixé conformément à l'article 2 du décret n°  2014-940 du 20 août 2014. Toutefois chaque heure d'enseignement fait dans les classes désignées ci-dessus est comptée pour une heure et demie, sous réserve :
 
 a) Que dans le décompte des heures faites dans lesdites classes, les heures consacrées aux mêmes enseignements dans deux divisions ou sections d'une même classe ne soient comptées qu'une fois ;
 
