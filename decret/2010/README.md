@@ -195,7 +195,6 @@
 - [Décret du 8 juillet 2010 (ESRS1004718D)](decret-du-8-juillet-2010-esrs1004718d)
 - [Décret n°2009-1521 du 8 décembre 2009 (BCFP0928220D)](decret-n2009-1521-du-8-decembre-2009-bcfp0928220d)
 - [Décret n°2010-1064 du 8 septembre 2010 (DEVT1019353D)](decret-n2010-1064-du-8-septembre-2010-devt1019353d)
-- [Décret n°2010-1065 du 8 septembre 2010 (MENF1019188D)](decret-n2010-1065-du-8-septembre-2010-menf1019188d)
 - [Décret n°2010-1067 du 8 septembre 2010 (IOCB1001316D)](decret-n2010-1067-du-8-septembre-2010-iocb1001316d)
 - [Décret n°2010-1069 du 8 septembre 2010 (ESRS1013146D)](decret-n2010-1069-du-8-septembre-2010-esrs1013146d)
 - [Décret n°2010-1070 du 8 septembre 2010 (BCRB1016603D)](decret-n2010-1070-du-8-septembre-2010-bcrb1016603d)
