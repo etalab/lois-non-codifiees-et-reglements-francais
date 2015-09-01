@@ -1,3 +1,0 @@
-# Article 27
-
-Dans la limite de l'horaire global défini à l'article 24 les étudiants accomplissent des stages cliniques de participation aux fonctions hospitalières suivant des modalités prévues à l'article 10 du présent arrêté. Ces stages peuvent se dérouler en dehors des centres de soins, d'enseignement et de recherche dentaires pour une durée n'excédant pas un semestre. Les étudiants doivent également participer à des actions de prévention d'intérêt général ou de santé publique qui ne peuvent excéder 100 heures. Ils peuvent accomplir des stages hospitaliers hors des services d'odontologie, d'une durée maximale de 100 heures. Ces stages se déroulent dans des services qui n'ont pas été choisis par eux pendant le deuxième cycle.

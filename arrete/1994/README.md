@@ -854,7 +854,6 @@
 - [Arrêté du 27 septembre 1994 (ECOT9410220A)](arrete-du-27-septembre-1994-ecot9410220a)
 - [Arrêté du 27 septembre 1994 (ECOT9420013A)](arrete-du-27-septembre-1994-ecot9420013a)
 - [Arrêté du 27 septembre 1994 (INDA9401106A)](arrete-du-27-septembre-1994-inda9401106a)
-- [Arrêté du 27 septembre 1994 (RESK9400707A)](arrete-du-27-septembre-1994-resk9400707a)
 - [Arrêté du 27 septembre 1994 (SANH9403071A)](arrete-du-27-septembre-1994-sanh9403071a)
 - [Arrêté du 27 septembre 1994 (SANH9403072A)](arrete-du-27-septembre-1994-sanh9403072a)
 - [Arrêté du 27 septembre 1994 (SPSS9403067A)](arrete-du-27-septembre-1994-spss9403067a)
