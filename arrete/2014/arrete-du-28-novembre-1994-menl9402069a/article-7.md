@@ -1,3 +1,0 @@
-# Article 7
-
-En application de l'article D. 336-48 susvisé, le diplôme délivré au bachelier de la série technologique "techniques de la musique et de la danse porte l'indication suivante : "Le candidat a satisfait aux épreuves d'enseignement général à la session de... et aux épreuves à caractère professionnel à la session de....

@@ -2761,7 +2761,6 @@
 - [Arrêté du 28 mars 2014 (OMEO1407076A)](arrete-du-28-mars-2014-omeo1407076a)
 - [Arrêté du 28 mars 2014 (PRMG1404649A)](arrete-du-28-mars-2014-prmg1404649a)
 - [Arrêté du 28 mars 2014 (PRMG1404652A)](arrete-du-28-mars-2014-prmg1404652a)
-- [Arrêté du 28 novembre 1994 (MENL9402069A)](arrete-du-28-novembre-1994-menl9402069a)
 - [Arrêté du 28 novembre 2013 (AFSA1328471A)](arrete-du-28-novembre-2013-afsa1328471a)
 - [Arrêté du 28 novembre 2013 (INTA1328935A)](arrete-du-28-novembre-2013-inta1328935a)
 - [ARRÊTÉ du 28 novembre 2014 (AFSH1427826A)](arrete-du-28-novembre-2014-afsh1427826a)
