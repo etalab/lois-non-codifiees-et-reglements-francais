@@ -125,7 +125,6 @@
 - [Arrêté du 4 mars 1997 (AGRG9700484A)](arrete-du-4-mars-1997-agrg9700484a)
 - [Arrêté du 4 mars 1997 (AGRG9700485A)](arrete-du-4-mars-1997-agrg9700485a)
 - [Arrêté du 4 mars 1997 (DEFE9701244A)](arrete-du-4-mars-1997-defe9701244a)
-- [Arrêté du 4 mars 1997 (MENU9700546A)](arrete-du-4-mars-1997-menu9700546a)
 - [Arrêté du 4 mars 1997 (MENU9700547A)](arrete-du-4-mars-1997-menu9700547a)
 - [Arrêté du 4 mars 1997 (TASA9720842A)](arrete-du-4-mars-1997-tasa9720842a)
 - [Arrêté du 4 novembre 1997 (ECOC9700166A)](arrete-du-4-novembre-1997-ecoc9700166a)
