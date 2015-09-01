@@ -20,8 +20,6 @@ b) " Contient plus de 85 % d'humidité " lorsque la teneur en matière sèche du
 
 En cas d'utilisation d'arômes de produits définis à l'annexe, la nature de l'arôme ne pourra figurer que dans la liste des ingrédients.
 
-5° La mention " fabriqué à la ferme puis affiné par l'établissement " suivie du nom de l'affineur, dans le cas des fromages fermiers tels que définis à l'article 9-1 mais dont la phase d'affinage a été réalisée en dehors de l'exploitation agricole. Cette mention suit immédiatement la dénomination " fromage fermier ". La taille des caractères de ces mentions est identique.
-
 B. - L'indication de la teneur en matière grasse pour 100 grammes de produit fini, à l'issue du processus de fabrication. Cette mention n'est toutefois pas exigée lorsque le produit comporte un étiquetage nutritionnel incluant l'indication de la teneur en lipides pour 100 grammes.
 
 Pour les fromages élaborés avec un lait n'ayant pas subi d'écrémage ni de standardisation en matière grasse, notamment les produits fermiers, la mention " au lait entier " peut remplacer l'indication de la teneur en matière grasse.
