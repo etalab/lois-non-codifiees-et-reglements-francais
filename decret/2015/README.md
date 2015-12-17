@@ -242,6 +242,7 @@
 - [DÉCRET n°2015-179 du 16 février 2015 (AFSH1420569D)](decret-n2015-179-du-16-fevrier-2015-afsh1420569d)
 - [DÉCRET n°2015-180 du 16 février 2015 (AFSR1500161D)](decret-n2015-180-du-16-fevrier-2015-afsr1500161d)
 - [DÉCRET n°2015-181 du 16 février 2015 (INTD1423739D)](decret-n2015-181-du-16-fevrier-2015-intd1423739d)
+- [DÉCRET n°2015-293 du 16 mars 2015 (FCPT1423044D)](decret-n2015-293-du-16-mars-2015-fcpt1423044d)
 - [DÉCRET n°2015-295 du 16 mars 2015 (MAEM1502352D)](decret-n2015-295-du-16-mars-2015-maem1502352d)
 - [DÉCRET n°2015-296 du 16 mars 2015 (DEFH1410950D)](decret-n2015-296-du-16-mars-2015-defh1410950d)
 - [DÉCRET n°2015-297 du 16 mars 2015 (INTB1500838D)](decret-n2015-297-du-16-mars-2015-intb1500838d)
