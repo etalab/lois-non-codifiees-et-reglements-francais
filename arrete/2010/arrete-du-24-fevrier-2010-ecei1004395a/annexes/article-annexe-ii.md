@@ -82,7 +82,57 @@ La liste des substances classées CMR et de leurs utilisations autorisées confo
 
 IV. - Valeurs limites spécifiques pour les produits chimiques utilisés dans les jouets destinés à l'usage d'enfants de moins de trente-six mois ou dans d'autres jouets destinés à être mis en bouche en application du 6 de la partie III "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
-Aucune.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SUBSTANCE</p>
+</td>
+<td>
+<p align="center">NUMÉRO CAS </p>
+</td>
+<td>
+<p align="center">VALEUR LIMITE </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">TCEP </p>
+</td>
+<td align="center">115-96-8 </td>
+<td align="center">
+<p align="left">5 mg/kg (teneur limite) </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">TCPP </p>
+</td>
+<td align="center">13674-84-5 </td>
+<td align="center">
+<p align="left">5 mg/kg (teneur limite) </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">TDCP </p>
+</td>
+<td align="center">13674-87-8 </td>
+<td align="center">
+<p align="left">5 mg/kg (teneur limite) </p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Bisphénol A </p>
+</td>
+<td align="center">80-05-7 </td>
+<td align="center">
+<p align="left">0,1 mg/l (limite de migration), conformément aux méthodes établies <br/>par les normes EN 71-10 : 2005 et EN 71-11 : 2005 </p>
+</td>
+</tr>
+</tbody>
+</table>
 
 V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouets en application du 9 de la partie "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
