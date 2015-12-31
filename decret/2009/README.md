@@ -1119,7 +1119,6 @@
 - [Décret n°2009-603 du 28 mai 2009 (DEVK0900957D)](decret-n2009-603-du-28-mai-2009-devk0900957d)
 - [Décret n°2009-604 du 28 mai 2009 (ECED0910083D)](decret-n2009-604-du-28-mai-2009-eced0910083d)
 - [Décret n°2005-720 du 29 juin 2005 (SOCN0510935D)](decret-n2005-720-du-29-juin-2005-socn0510935d)
-- [Décret n°2005-721 du 29 juin 2005 (SOCN0510937D)](decret-n2005-721-du-29-juin-2005-socn0510937d)
 - [Décret n°2006-1479 du 29 novembre 2006 (EQUP0601981D)](decret-n2006-1479-du-29-novembre-2006-equp0601981d)
 - [Décret n°2009-109 du 29 janvier 2009 (ECEL0830123D)](decret-n2009-109-du-29-janvier-2009-ecel0830123d)
 - [Décret n°2009-110 du 29 janvier 2009 (ECED0901023D)](decret-n2009-110-du-29-janvier-2009-eced0901023d)
