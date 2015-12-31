@@ -558,7 +558,6 @@
 - [Arrêté du 8 février 2011 (OMEO1032181A)](arrete-du-8-fevrier-2011-omeo1032181a)
 - [Arrêté du 8 janvier 1997 (EQUI9700037A)](arrete-du-8-janvier-1997-equi9700037a)
 - [Arrêté du 8 juillet 1993 (AGRM9300948A)](arrete-du-8-juillet-1993-agrm9300948a)
-- [Arrêté du 8 juillet 2011 (AGRE1117556A)](arrete-du-8-juillet-2011-agre1117556a)
 - [Arrêté du 8 juillet 2011 (COTB1116508A)](arrete-du-8-juillet-2011-cotb1116508a)
 - [Arrêté du 8 juillet 2011 (DEFH1119396A)](arrete-du-8-juillet-2011-defh1119396a)
 - [Arrêté du 8 juillet 2011 (DEVA1119114A)](arrete-du-8-juillet-2011-deva1119114a)
