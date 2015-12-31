@@ -1180,7 +1180,6 @@
 - [ARRÊTÉ du 15 octobre 2014 (MENH1423624A)](arrete-du-15-octobre-2014-menh1423624a)
 - [Arrêté du 15 septembre 1993 (AGRM9301801A)](arrete-du-15-septembre-1993-agrm9301801a)
 - [ARRÊTÉ du 15 septembre 2014 (AFSP1410238A)](arrete-du-15-septembre-2014-afsp1410238a)
-- [ARRÊTÉ du 15 septembre 2014 (AGRG1418650A)](arrete-du-15-septembre-2014-agrg1418650a)
 - [ARRÊTÉ du 15 septembre 2014 (DEFH1402074A)](arrete-du-15-septembre-2014-defh1402074a)
 - [ARRÊTÉ du 15 septembre 2014 (DEFH1402081A)](arrete-du-15-septembre-2014-defh1402081a)
 - [ARRÊTÉ du 15 septembre 2014 (DEFH1402088A)](arrete-du-15-septembre-2014-defh1402088a)

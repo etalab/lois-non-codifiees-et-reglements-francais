@@ -481,7 +481,6 @@
 - [Arrêté du 8 janvier 2009 (MTSS0900525A)](arrete-du-8-janvier-2009-mtss0900525a)
 - [Arrêté du 8 juillet 2009 (AGRM0913203A)](arrete-du-8-juillet-2009-agrm0913203a)
 - [Arrêté du 8 juillet 2009 (BCFP0915411A)](arrete-du-8-juillet-2009-bcfp0915411a)
-- [Arrêté du 8 juillet 2009 (BCFP0915829A)](arrete-du-8-juillet-2009-bcfp0915829a)
 - [Arrêté du 8 juillet 2009 (DEFD0917987A)](arrete-du-8-juillet-2009-defd0917987a)
 - [Arrêté du 8 juillet 2009 (DEVP0913606A)](arrete-du-8-juillet-2009-devp0913606a)
 - [Arrêté du 8 juillet 2009 (ECED0911093A)](arrete-du-8-juillet-2009-eced0911093a)
