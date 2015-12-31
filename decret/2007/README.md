@@ -1459,7 +1459,6 @@
 - [Décret n° 2007-502 du 30 mars 2007 (INDI0630223D)](decret-n-2007-502-du-30-mars-2007-indi0630223d)
 - [Décret n°2006-1089 du 30 août 2006 (SOCU0611116D)](decret-n2006-1089-du-30-aout-2006-socu0611116d)
 - [Décret n°2007-1144 du 30 juillet 2007 (PRER0710784D)](decret-n2007-1144-du-30-juillet-2007-prer0710784d)
-- [Décret n°2007-1145 du 30 juillet 2007 (JUSA0757018D)](decret-n2007-1145-du-30-juillet-2007-jusa0757018d)
 - [Décret n°2007-1146 du 30 juillet 2007 (DEFH0759288D)](decret-n2007-1146-du-30-juillet-2007-defh0759288d)
 - [Décret n°2007-1151 du 30 juillet 2007 (JUSJ0756721D)](decret-n2007-1151-du-30-juillet-2007-jusj0756721d)
 - [Décret n°2007-1287 du 30 août 2007 (PRMX0764429D)](decret-n2007-1287-du-30-aout-2007-prmx0764429d)

@@ -1,3 +1,0 @@
-# Article 2
-
-La finalité de ce traitement est de mettre à la disposition des magistrats, officiers de police judiciaire et agents des douanes habilités à effectuer des enquêtes judiciaires, qui procèdent conformément aux articles 74-2, 80-4, 100 à 100-7 et 706-95 du code de procédure pénale à des interceptions de correspondances émises par la voie de communications électroniques, les données relatives au trafic et le contenu des minimessages émis ou reçus par un numéro de téléphone dont la ligne est interceptée et qui leur sont transmis par les opérateurs de communications électroniques. Les données relatives au trafic des interceptions et le contenu des minimessages font l'objet d'un chiffrement.
