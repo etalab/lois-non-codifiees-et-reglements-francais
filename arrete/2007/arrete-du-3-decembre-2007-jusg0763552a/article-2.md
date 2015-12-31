@@ -14,7 +14,7 @@ Cette épreuve comporte deux questions :
 
 ― option 2 : procédure pénale ;
 
-― option 3 : procédure applicable devant le tribunal du travail de Mayotte.
+― option 3 : procédure applicable devant le  conseil de prud'hommes de Mayotte.
 
 Epreuve orale (durée : quinze minutes)
 
