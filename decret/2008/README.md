@@ -935,7 +935,6 @@
 - [Décret n°2008-613 du 27 juin 2008 (ECET0802759D)](decret-n2008-613-du-27-juin-2008-ecet0802759d)
 - [Décret n°2008-614 du 27 juin 2008 (IMIK0815065D)](decret-n2008-614-du-27-juin-2008-imik0815065d)
 - [Décret n°2008-616 du 27 juin 2008 (AGRE0804496D)](decret-n2008-616-du-27-juin-2008-agre0804496d)
-- [Décret n°2008-618 du 27 juin 2008 (ESRS0807325D)](decret-n2008-618-du-27-juin-2008-esrs0807325d)
 - [Décret n°2008-619 du 27 juin 2008 (ESRS0807322D)](decret-n2008-619-du-27-juin-2008-esrs0807322d)
 - [Décret n°2008-620 du 27 juin 2008 (ESRS0807321D)](decret-n2008-620-du-27-juin-2008-esrs0807321d)
 - [Décret n°2008-621 du 27 juin 2008 (SJSH0812458D)](decret-n2008-621-du-27-juin-2008-sjsh0812458d)
