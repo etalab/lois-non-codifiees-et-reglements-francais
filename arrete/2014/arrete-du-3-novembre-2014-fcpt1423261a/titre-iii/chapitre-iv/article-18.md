@@ -1,0 +1,3 @@
+# Article 18
+
+Lorsqu'une autorité d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen fixe un taux de coussin contra-cyclique supérieur à 2,5 % du montant total d'exposition au risque calculé conformément au paragraphe 3 de l'article 92 du règlement (UE) n° 575/2013 susvisé et que le Haut Conseil de stabilité financière n'a pas reconnu le taux de coussin contra-cyclique supérieur à 2,5 % conformément à l'article 10, les entreprises assujetties appliquent un taux de coussin contra-cyclique égal à 2,5 % du montant total d'exposition au risque pour leurs expositions de crédit pertinentes situées dans l'Etat membre de cette autorité désignée.

@@ -1,0 +1,7 @@
+# Article 13
+
+Lorsqu'un taux de coussin contra-cyclique a été fixé et publié par l'autorité d'un Etat non membre de l'Union européenne et non partie à l'accord sur l'Espace économique européen pour cet Etat, le Haut Conseil de stabilité financière peut fixer un taux différent, pour cet Etat, aux fins du calcul, par les entreprises assujetties, de leur coussin de fonds propres contra-cyclique spécifique, s'il a des motifs raisonnables d'estimer que le taux fixé par cet Etat ne suffit pas à protéger ces entreprises assujetties de manière appropriée contre les risques de croissance excessive du crédit dans cet Etat non membre de l'Union européenne et non partie à l'accord sur l'Espace économique européen.
+
+Lorsque le Haut Conseil de stabilité financière exerce le pouvoir qui lui est conféré en vertu du premier alinéa, il ne fixe pas de taux de coussin contra-cyclique qui soit inférieur au niveau retenu par l'autorité de l'Etat non membre de l'Union européenne et non partie à l'accord sur l'Espace économique européen, à moins que ce taux ne soit supérieur à 2,5 % du montant total d'exposition au risque, calculé conformément au paragraphe 3 de l'article 92 du règlement (UE) n° 575/2013 susvisé, des entreprises assujetties qui ont des expositions de crédit dans cet Etat.
+
+Lorsque le Haut Conseil de stabilité financière exerce le pouvoir qui lui est conféré en vertu du premier alinéa, il tient compte des éventuelles recommandations du Comité européen du risque systémique.

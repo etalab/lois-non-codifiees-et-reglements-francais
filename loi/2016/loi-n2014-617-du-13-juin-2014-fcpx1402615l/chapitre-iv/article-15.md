@@ -1,0 +1,3 @@
+# Article 15
+
+La Caisse des dépôts et consignations publie chaque année le nombre de dépôts, d'avoirs, de contrats d'assurance sur la vie et de bons ou contrats de capitalisation qui y ont été déposés en application de la présente loi. Elle publie également, pour chacun des produits financiers susmentionnés, le montant déposé au cours de l'année, le montant total des sommes détenues ainsi que le montant versé aux titulaires, aux ayants droit ou aux bénéficiaires au cours de l'année. Elle adresse un rapport annuel au Parlement sur le suivi et la gestion des sommes qu'elle détient au titre de la présente loi.

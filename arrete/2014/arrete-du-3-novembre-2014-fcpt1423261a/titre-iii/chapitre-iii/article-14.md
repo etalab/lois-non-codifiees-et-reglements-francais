@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsque le Haut Conseil de stabilité financière fixe, conformément aux articles 12 ou 13, pour un Etat qui n'est pas membre de l'Union européenne ni partie à l'accord sur l'Espace économique européen, un taux de coussin contra-cyclique qui relève le taux en vigueur, les entreprises assujetties doivent appliquer ce taux aux fins du calcul de leur coussin de fonds propres contra-cyclique spécifique dans un délai de douze mois à compter de la publication par le Haut Conseil de stabilité financière du taux sur son site internet conformément à l'article 15. En cas de circonstances exceptionnelles, le Haut Conseil de stabilité financière peut décider que les entreprises assujetties appliquent le nouveau taux dans un délai plus court.

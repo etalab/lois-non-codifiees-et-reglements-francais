@@ -1,0 +1,3 @@
+# Article 24
+
+Les éléments de catégorisation définis au deuxième alinéa du VI de l'article L. 511-41-1 A du code monétaire et financier pour recenser les établissements d'importance systémique mondiale reçoivent chacune une pondération égale et comprennent des indicateurs quantifiables. Sur la base de cette méthodologie, l'Autorité de contrôle prudentiel et de résolution attribue à chaque établissement évalué une note globale, qui lui permet d'établir la liste des établissements d'importance systémique mondiale et de les classer dans l'une des sous-catégories mentionnées à l'article 25 du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsque le Haut Conseil de stabilité financière fixe un taux de coussin contra-cyclique supérieur à zéro pour la première fois ou lorsque, par la suite, il relève le taux jusqu'alors en vigueur, les entreprises assujetties doivent appliquer ce nouveau taux aux fins du calcul de leur coussin de fonds propres contra-cyclique spécifique dans un délai de douze mois à compter de la publication par le Haut Conseil de stabilité financière du taux applicable sur son site internet. En cas de circonstances exceptionnelles, le Haut Conseil de stabilité financière peut décider que les entreprises assujetties appliquent le nouveau taux dans un délai plus court.
