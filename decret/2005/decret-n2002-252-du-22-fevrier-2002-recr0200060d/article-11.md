@@ -1,3 +1,5 @@
 # Article 11
 
-Les reports sur l'exercice suivant des crédits disponibles à la fin d'un exercice donnent lieu à une décision modificative budgétaire provisoire prise en accord avec le contrôleur budgétaire et retracée dans la plus prochaine décision modificative du budget soumise au conseil d'administration.
+L'ordonnateur peut, après avis du contrôleur budgétaire, reporter sur l'exercice budgétaire tout ou partie des autorisations d'engagement et crédits de paiement relatifs aux tranches annuelles non exécutées des opérations d'investissement programmées et des contrats de recherche pluriannuels en cours, qu'ils soient exécutés au sein de l'établissement ou que l'établissement en assure le financement.
+
+Cette décision donne lieu à un budget rectificatif approuvé à l'occasion de la plus prochaine réunion du conseil d'administration.
