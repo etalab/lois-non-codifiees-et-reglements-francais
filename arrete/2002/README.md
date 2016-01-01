@@ -426,7 +426,6 @@
 - [Arrêté du 20 juin 2002 (DEVG0210246A)](arrete-du-20-juin-2002-devg0210246a)
 - [Arrêté du 20 juin 2002 (DEVG0210247A)](arrete-du-20-juin-2002-devg0210247a)
 - [Arrêté du 20 juin 2002 (DEVP0210218A)](arrete-du-20-juin-2002-devp0210218a)
-- [Arrêté du 20 juin 2002 (DEVP0210222A)](arrete-du-20-juin-2002-devp0210222a)
 - [Arrêté du 20 juin 2002 (DEVP0210230A)](arrete-du-20-juin-2002-devp0210230a)
 - [Arrêté du 20 juin 2002 (DEVP0210231A)](arrete-du-20-juin-2002-devp0210231a)
 - [Arrêté du 20 mars 2002 (AGRR0200652A)](arrete-du-20-mars-2002-agrr0200652a)

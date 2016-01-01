@@ -1,5 +1,0 @@
-# Article 38
-
-I.-Dans les parties de l'installation visées à l'article 37 et présentant un risque " atmosphères explosives ", les installations électriques doivent être conformes aux dispositions du décret n° 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles doivent être réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et être entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant, dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendre ni arc, ni étincelle, ni surface chaude susceptible de provoquer une explosion.
-
-II.-Les canalisations électriques ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.

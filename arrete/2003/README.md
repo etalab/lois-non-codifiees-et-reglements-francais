@@ -833,7 +833,6 @@
 - [Arrêté du 30 décembre 2002 (MENF0300049A)](arrete-du-30-decembre-2002-menf0300049a)
 - [Arrêté du 30 décembre 2002 (SANG0223928A)](arrete-du-30-decembre-2002-sang0223928a)
 - [Arrêté du 30 décembre 2003 (AGRP0302337A)](arrete-du-30-decembre-2003-agrp0302337a)
-- [Arrêté du 30 juillet 2003 (DEVP0320297A)](arrete-du-30-juillet-2003-devp0320297a)
 - [Arrêté du 30 juillet 2003 (EQUT0301007A)](arrete-du-30-juillet-2003-equt0301007a)
 - [Arrêté du 30 juillet 2003 (LBLB0300008A)](arrete-du-30-juillet-2003-lblb0300008a)
 - [Arrêté du 30 juillet 2003 (MENE0301652A)](arrete-du-30-juillet-2003-mene0301652a)
