@@ -53,3 +53,5 @@ Cette déclaration comprend :
 -les déchets ayant bénéficié de la procédure de sortie du statut de déchet tel que mentionné à l'article L. 541-4-3.
 
 IV.-Dans le cas de mouvements transfrontaliers de déchets soumis à notification, l'exploitant indique en outre le numéro de notification.
+
+V. - L'exploitant d'une carrière visée à la rubrique 2510-1 de la nomenclature des installations classées est tenu de déclarer les informations mentionnées au point 9 de l'annexe III.
