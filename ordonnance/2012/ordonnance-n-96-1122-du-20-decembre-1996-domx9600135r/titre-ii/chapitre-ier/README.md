@@ -13,6 +13,7 @@
 - [Article 20-5-4](article-20-5-4.md)
 - [Article 20-5-5](article-20-5-5.md)
 - [Article 20-5-6](article-20-5-6.md)
+- [Article 20-5-7](article-20-5-7.md)
 - [Article 20-6](article-20-6.md)
 - [Article 20-7](article-20-7.md)
 - [Article 20-7-1](article-20-7-1.md)
