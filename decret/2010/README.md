@@ -1087,7 +1087,6 @@
 - [Décret n°2010-1306 du 29 octobre 2010 (BCRS1022492D)](decret-n2010-1306-du-29-octobre-2010-bcrs1022492d)
 - [Décret n°2010-1659 du 29 décembre 2010 (PREX1031038D)](decret-n2010-1659-du-29-decembre-2010-prex1031038d)
 - [Décret n°2010-1660 du 29 décembre 2010 (DEFH1033395D)](decret-n2010-1660-du-29-decembre-2010-defh1033395d)
-- [Décret n°2010-1663 du 29 décembre 2010 (DEVR1024897D)](decret-n2010-1663-du-29-decembre-2010-devr1024897d)
 - [Décret n°2010-1666 du 29 décembre 2010 (JUST1032468D)](decret-n2010-1666-du-29-decembre-2010-just1032468d)
 - [Décret n°2010-1667 du 29 décembre 2010 (JUST1025195D)](decret-n2010-1667-du-29-decembre-2010-just1025195d)
 - [Décret n°2010-1668 du 29 décembre 2010 (JUST1025196D)](decret-n2010-1668-du-29-decembre-2010-just1025196d)
