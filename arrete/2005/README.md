@@ -468,7 +468,6 @@
 - [Arrêté du 26 juillet 2005 (DEFD0501036A)](arrete-du-26-juillet-2005-defd0501036a)
 - [Arrêté du 26 juillet 2005 (MENE0501665A)](arrete-du-26-juillet-2005-mene0501665a)
 - [Arrêté du 26 octobre 2005 (AGRP0502489A)](arrete-du-26-octobre-2005-agrp0502489a)
-- [Arrêté du 26 octobre 2005 (SOCT0512189A)](arrete-du-26-octobre-2005-soct0512189a)
 - [Arrêté du 26 septembre 2005 (DEFP0501372A)](arrete-du-26-septembre-2005-defp0501372a)
 - [Arrêté du 26 septembre 2005 (FPPA0500080A)](arrete-du-26-septembre-2005-fppa0500080a)
 - [Arrêté du 26 septembre 2005 (MAEA0520318A)](arrete-du-26-septembre-2005-maea0520318a)
