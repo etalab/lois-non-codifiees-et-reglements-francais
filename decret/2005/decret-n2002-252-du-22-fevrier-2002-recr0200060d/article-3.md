@@ -8,7 +8,7 @@ Le premier agrégat se rapporte à l'activité conduite par les unités de reche
 
 - entre les différentes finalités des thèmes et programmes de recherche, de manière à faire ressortir leur impact socio-économique ou leur contribution à une stratégie de recherche, d'autre part.
 
-Cette seconde ventilation est adaptée aux spécificités de chaque établissement. Les crédits sont engagés et suivis dans leur consommation selon l'une ou l'autre des répartitions.
+Cette seconde ventilation est adaptée aux spécificités de chaque établissement. Les crédits sont consommés selon l'une ou l'autre des répartitions.
 
 Le deuxième agrégat se rapporte aux actions communes de l'établissement. Ces actions comprennent notamment les grands équipements scientifiques, les actions de valorisation des résultats de la recherche, les échanges internationaux, l'information scientifique et technique, la formation permanente.
 
