@@ -1,10 +1,8 @@
 # Article 2
 
-Les établissements dépositaires de sommes et valeurs sont autorisés à clôturer les comptes qu'ils tiennent lorsque les dépôts et avoirs inscrits à ces comptes n'ont fait l'objet, de la part des ayants droit, d'aucune opération ou réclamation depuis dix années. Ces avoirs sont déposés dans un établissement habilité à cet effet par décret.
+Les sociétés ou établissements à caractère commercial peuvent déposer à la Caisse des dépôts et consignations les titres émis par eux et mentionnés à l'article L. 1126-1 du code général de la propriété des personnes publiques lorsqu'il s'est écoulé plus de dix ans sans réclamation des titulaires depuis le jour où ces derniers ont eu le droit d'en exiger le paiement.
 
-Ils resteront détenus pour le compte de leur titulaire par ledit établissement jusqu'à l'expiration du délai prévu à l'article L1126-1 du code général de la propriété des personnes publiques .
-
-Il en est de même pour les sociétés ou établissements à caractère commercial en ce qui concerne les titres émis par eux et visés à l'article L1126-1 du code général de la propriété des personnes publiques lorsqu'il s'est écoulé plus de dix ans sans réclamation des titulaires depuis le jour où ils ont eu le droit d'en exiger le paiement.
+Ces titres sont détenus par la Caisse des dépôts et consignations, pour le compte de leurs détenteurs, jusqu'à l'expiration du délai prévu au premier alinéa de l'article L. 518-24 du code monétaire et financier.
 
 Un décret en Conseil d'Etat fixera les conditions d'application du présent article.
 
