@@ -344,7 +344,6 @@
 - [Décret n°2005-785 du 12 juillet 2005 (BUDB0560009D)](decret-n2005-785-du-12-juillet-2005-budb0560009d)
 - [Décret n°2008-930 du 12 septembre 2008 (DEFH0801136D)](decret-n2008-930-du-12-septembre-2008-defh0801136d)
 - [Décret n°2008-931 du 12 septembre 2008 (DEFH0801138D)](decret-n2008-931-du-12-septembre-2008-defh0801138d)
-- [Décret n°2008-932 du 12 septembre 2008 (DEFH0801140D)](decret-n2008-932-du-12-septembre-2008-defh0801140d)
 - [Décret n°2008-933 du 12 septembre 2008 (DEFH0801150D)](decret-n2008-933-du-12-septembre-2008-defh0801150d)
 - [Décret n°2008-934 du 12 septembre 2008 (DEFH0801153D)](decret-n2008-934-du-12-septembre-2008-defh0801153d)
 - [Décret n°2008-937 du 12 septembre 2008 (DEFH0801157D)](decret-n2008-937-du-12-septembre-2008-defh0801157d)
