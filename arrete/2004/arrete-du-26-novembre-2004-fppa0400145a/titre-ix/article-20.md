@@ -1,6 +1,6 @@
 # Article 20
 
-Rapportée à la valeur comptable des actifs de l'établissement, la valeur nette comptable des actifs énumérés ci-après ne peut excéder :
+I. - Rapportée à la valeur comptable des actifs de l'établissement, la valeur nette comptable des actifs énumérés ci-après ne peut excéder :
 
 1. 5 % pour l'ensemble des valeurs émises par un même organisme, à l'exception :
 
@@ -11,3 +11,5 @@ b) Des actions ou des parts émises par les organismes mentionnés au 4° de l'a
 2. 1 % pour les valeurs mentionnées au 9° de l'article R. 931-10-21 du code de la sécurité sociale ;
 
 3. 1 % pour un même immeuble.
+
+II.-Le plafond de la valeur nette comptable des valeurs émises par un même organisme est apprécié en tenant compte de la détention directe ou indirecte de ces actifs par l'établissement.
