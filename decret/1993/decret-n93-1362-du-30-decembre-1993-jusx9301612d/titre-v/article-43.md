@@ -1,8 +1,6 @@
 # Article 43
 
-Le préfet ou, à Paris, le préfet de police auprès duquel la demande a été déposée examine si les conditions requises par la loi sont remplies.
-
-Dans la négative, il déclare la demande irrecevable.
+Le préfet du département de résidence du postulant ou, à Paris, le préfet de police déclare la demande irrecevable si les conditions requises par les articles 21-15, 21-16, 21-17,21-22, 21-23, 21-24 et 21-27 du code civil ne sont pas remplies.
 
 Si, dès la procédure de constitution du dossier, une pièce fait apparaître que la demande est manifestement irrecevable, une décision constatant l'irrecevabilité de la demande peut intervenir sans qu'il soit besoin de procéder à l'entretien mentionné à l'article 41.
 

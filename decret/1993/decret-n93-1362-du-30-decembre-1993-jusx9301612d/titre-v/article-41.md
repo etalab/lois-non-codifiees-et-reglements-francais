@@ -1,6 +1,6 @@
 # Article 41
 
-Le postulant se présente en personne devant un agent désigné nominativement par le préfet ou l'autorité consulaire.
+Le postulant se présente en personne devant un agent désigné nominativement par  l'autorité administrative chargée de recevoir la demande.
 
 Lors d'un entretien individuel, l'agent vérifie que le demandeur possède les connaissances attendues de lui, selon sa condition, sur l'histoire, la culture et la société françaises, telles qu'elles sont définies au 2° de l'article 37.
 

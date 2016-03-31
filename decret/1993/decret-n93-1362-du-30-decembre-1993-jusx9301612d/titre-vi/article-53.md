@@ -4,4 +4,4 @@ Toute demande en vue d'obtenir l'autorisation de perdre la qualité de Français
 
 A l'étranger, elle est déposée auprès de l'autorité consulaire compétente en vertu de l'arrêté du ministre des affaires étrangères mentionné au deuxième alinéa de l'article 10 du présent décret.
 
-Lorsque le postulant réside en France, le préfet du département où il a établi sa résidence, à Paris, le préfet de police ont qualité pour recevoir sa demande.
+Lorsque le postulant réside en France, le préfet désigné selon le département de résidence de l'intéressé par arrêté du ministre chargé des naturalisations, à Paris, le préfet de police ont qualité pour recevoir sa demande.
