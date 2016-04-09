@@ -1,3 +1,0 @@
-# TITRE V : DISPOSITIONS TRANSITOIRES ET FINALES
-
-- [Article 41](article-41.md)
