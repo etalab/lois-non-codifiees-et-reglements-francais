@@ -404,7 +404,6 @@
 - [Arrêté du 7 avril 2011 (ETSS1109873A)](arrete-du-7-avril-2011-etss1109873a)
 - [Arrêté du 7 avril 2011 (IOCJ1107319A)](arrete-du-7-avril-2011-iocj1107319a)
 - [Arrêté du 7 avril 2011 (MENE1109863A)](arrete-du-7-avril-2011-mene1109863a)
-- [Arrêté du 7 avril 2011 (PRMX1109197A)](arrete-du-7-avril-2011-prmx1109197a)
 - [Arrêté du 7 décembre 2010 (DEVA1022990A)](arrete-du-7-decembre-2010-deva1022990a)
 - [Arrêté du 7 décembre 2011 (DEVA1133358A)](arrete-du-7-decembre-2011-deva1133358a)
 - [Arrêté du 7 décembre 2011 (DEVD1122405A)](arrete-du-7-decembre-2011-devd1122405a)
