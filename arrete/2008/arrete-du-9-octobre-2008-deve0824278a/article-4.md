@@ -58,7 +58,9 @@ Les catégories de matières suivantes devront en particulier être distinguées
 
 Ne sont pas déclarées dans ces catégories 18 à 23 les quantités de matières qui sont déjà déclarées dans les catégories 1 à 17.
 
-Les quantités déclarées sont exprimées en masse ou en masse de métal lourd.
+Les quantités de matières valorisables extractibles, notamment le plutonium et l'uranium, des combustibles avant utilisation, en cours d'utilisation ou usés ainsi que des rebuts de combustibles, sont précisées dans les déclarations.
+
+Les quantités déclarées sont exprimées en masse de métal lourd ainsi qu'en activité.
 
 Pour les matières visées à l'article L. 542-2-1 du code de l'environnement, les exploitants précisent annuellement à l'ANDRA la part revenant à chaque Etat, y compris la France, en cohérence avec l'inventaire figurant au rapport annuel mentionné au II du même article.
 
