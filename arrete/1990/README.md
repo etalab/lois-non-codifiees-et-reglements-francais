@@ -224,7 +224,6 @@
 - [Arrêté du 10 septembre 1990 (BUDF9000019A)](arrete-du-10-septembre-1990-budf9000019a)
 - [Arrêté du 10 septembre 1990 (BUDR9005048A)](arrete-du-10-septembre-1990-budr9005048a)
 - [Arrêté du 10 septembre 1990 (EQUS9001282A)](arrete-du-10-septembre-1990-equs9001282a)
-- [Arrêté du 10 septembre 1990 (MENL9001919A)](arrete-du-10-septembre-1990-menl9001919a)
 - [Arrêté du 10 septembre 1990 (TEFE9003869A)](arrete-du-10-septembre-1990-tefe9003869a)
 - [Arrêté du 10 mai 1990 (DEFM9001491A)](arrete-du-10-mai-1990-defm9001491a)
 - [Arrêté du 10 mai 1990 (EQUT9000722A)](arrete-du-10-mai-1990-equt9000722a)
