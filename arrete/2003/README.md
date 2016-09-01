@@ -346,7 +346,6 @@
 - [Arrêté du 13 août 2003 (INTE0300529A)](arrete-du-13-aout-2003-inte0300529a)
 - [Arrêté du 13 août 2003 (SANS0323168A)](arrete-du-13-aout-2003-sans0323168a)
 - [Arrêté du 13 janvier 2003 (MAEA0220595A)](arrete-du-13-janvier-2003-maea0220595a)
-- [Arrêté du 13 juin 2003 (AGRE0301271A)](arrete-du-13-juin-2003-agre0301271a)
 - [Arrêté du 13 juin 2003 (DEFD0301753A)](arrete-du-13-juin-2003-defd0301753a)
 - [Arrêté du 13 novembre 2003 (MCCB0300707A)](arrete-du-13-novembre-2003-mccb0300707a)
 - [Arrêté du 13 novembre 2003 (SANH0324430A)](arrete-du-13-novembre-2003-sanh0324430a)
