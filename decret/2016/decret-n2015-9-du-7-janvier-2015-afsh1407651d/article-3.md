@@ -1,0 +1,3 @@
+# Article 3
+
+Par dérogation à l'article R. 5126-101-1 du code de la santé publique, peuvent également, à compter du 1er septembre 2016, exercer ou reprendre un exercice en pharmacie à usage intérieur les pharmaciens sapeurs-pompiers professionnels des services départementaux d'incendie et de secours, dès lors que, à cette même date, ces services auront créé une pharmacie à usage intérieur et que les intéressés, lauréats du concours de recrutement de pharmacien-sapeur-pompier professionnel avant 2015, pourront justifier d'un exercice en pharmacie à usage intérieur, soit à temps plein, soit à temps partiel, d'une durée équivalente à un an à temps plein sur la période des quatre dernières années.
