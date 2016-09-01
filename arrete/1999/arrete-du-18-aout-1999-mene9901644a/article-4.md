@@ -2,7 +2,7 @@
 
 Pour les candidats visés à l'article 3, sont prises en compte pour l'attribution du diplôme national du brevet :
 
-a) La maîtrise du socle commun de connaissances et de compétences, palier 3 ;
+a) La maîtrise du      socle commun de connaissances, de compétences et de culture, palier 3 ;
 
 b) La note obtenue à l'oral d'histoire des arts ;
 
@@ -10,7 +10,7 @@ c) Les notes obtenues à l'examen du brevet ;
 
 d) Les notes de contrôle continu obtenues en cours de formation.
 
-Le diplôme national du brevet est attribué aux candidats ayant obtenu la maîtrise du socle commun de connaissances et de compétences et une note moyenne égale ou supérieure à 10 résultant de la division de la somme des notes obtenues selon les modalités décrites aux b, c et d par le total des coefficients attribués à chacune de ces notes. Des mentions sont attribuées conformément à l'article D. 332-20 du code de l'éducation.
+Le diplôme national du brevet est attribué aux candidats ayant obtenu la maîtrise du      socle commun de connaissances, de compétences et de culture et une note moyenne égale ou supérieure à 10 résultant de la division de la somme des notes obtenues selon les modalités décrites aux b, c et d par le total des coefficients attribués à chacune de ces notes. Des mentions sont attribuées conformément à l'article D. 332-20 du code de l'éducation.
 
 L'examen comporte quatre épreuves :
 
@@ -182,13 +182,13 @@ Les résultats de ces candidats, en classe de troisième, sont pris en compte co
 
 Sont également pris en compte les points obtenus au-dessus de la moyenne de 10 sur 20 dans l'un des enseignements optionnels facultatifs choisis par le candidat :
 
-- latin ou grec ; ou
+-latin ou grec ; ou
 
-- langue vivante régionale ; ou
+-langue vivante régionale ; ou
 
-- langue des signes française ; ou
+-langue des signes française ; ou
 
-- découverte professionnelle option 3 heures.
+-découverte professionnelle option 3 heures.
 
 b) Série professionnelle :
 

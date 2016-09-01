@@ -8,7 +8,7 @@ Préambule
 
 Le baccalauréat sciences et technologies du design et des arts appliqués, au même titre que les autres baccalauréats de la voie générale ou technologique, est une première étape vers une poursuite d'études. Il apporte le socle nécessaire à un accès à l'enseignement supérieur dans l'ensemble des formations préparant aux métiers du design et des métiers d'art visant une insertion professionnelle, aux plans national et international.
 
-Des champs professionnels variés :
+Des champs professionnels variés :f
 
 Le secteur du design et des arts appliqués concerne les champs de la conception et de la création industrielle ou artisanale :
 
@@ -50,11 +50,11 @@ L'enseignement en baccalauréat sciences et technologies du design et des arts a
 
 La pédagogie développée en classes de première et terminale s'appuie sur des démarches expérimentales et exploratoires qui conduisent les élèves à appréhender de manière active les univers complexes du design et des métiers d'art. Par manière active, il faut entendre : recherche documentaire, atelier expérimental, découverte de la matière, pratique de conception, démarche hypothétique, etc. Pour autant, le baccalauréat n'a pas pour vocation d'apporter une qualification professionnelle aux élèves. Il propose une sensibilisation aux exigences et aux pratiques des métiers de la conception.
 
-Les enseignements technologiques de la série  sciences et technologies du design et des arts appliqués  fonctionnent intrinsèquement sur le principe de l'interdisciplinarité imposée par les croisements incessants des savoirs qui nourrissent les pratiques de conception en design et en métier d'art (collaborations pluridisciplinaires, ingénierie concourante, etc.). Les enseignements doivent se référer aux pratiques qui caractérisent l'activité professionnelle afin de s'inscrire au mieux dans un contexte socio-économique, culturel et technologique donné.
+Les enseignements technologiques de la série sciences et technologies du design et des arts appliqués fonctionnent intrinsèquement sur le principe de l'interdisciplinarité imposée par les croisements incessants des savoirs qui nourrissent les pratiques de conception en design et en métier d'art (collaborations pluridisciplinaires, ingénierie concourante, etc.). Les enseignements doivent se référer aux pratiques qui caractérisent l'activité professionnelle afin de s'inscrire au mieux dans un contexte socio-économique, culturel et technologique donné.
 
 Objectifs de formation
 
-La formation, en continuité avec celle dispensée en classe de seconde dans l'enseignement d'exploration  création et culture design , permet à l'élève :
+La formation, en continuité avec celle dispensée en classe de seconde dans l'enseignement d'exploration création et culture design , permet à l'élève :
 
 ― d'acquérir une culture du design, soit :
 
@@ -134,7 +134,7 @@ Ce pôle transversal ne donne pas lieu à un cours. Les compétences qu'il vise 
 <tbody>
 <tr>
 <td>
-<p align="center"> ARTS, TECHNIQUES<br/>et civilisations</p>
+<p align="center">ARTS, TECHNIQUES<br/>et civilisations</p>
 </td>
 <td>
 <p align="center">DÉMARCHE CRÉATIVE<br/>
@@ -154,10 +154,9 @@ Ce pôle transversal ne donne pas lieu à un cours. Les compétences qu'il vise 
 </tr>
 </tbody>
 </table>
-
 <div align="left"/>
 
-Le pôle Arts, techniques et civilisations a pour objet l'étude des phénomènes artistiques, techniques et sociaux en tant qu'ils participent des mouvements, continuités et ruptures de l'histoire. Pour l'élève, appréhender la création de son temps ne peut se faire sans le repérage de sources, de liens, de références. Faire émerger une conscience historique et sociale est essentiel pour nourrir une pratique du design. Ce pôle bénéficie des savoirs acquis par les élèves dans le cadre de l'enseignement d'histoire des arts lors de leur scolarité antérieure et prend appui sur le socle commun des connaissances et des compétences : la maîtrise de la langue française (compétence 1) ; la culture humaniste (compétence 5) ; les compétences sociales et civiques (compétence 6).
+Le pôle Arts, techniques et civilisations a pour objet l'étude des phénomènes artistiques, techniques et sociaux en tant qu'ils participent des mouvements, continuités et ruptures de l'histoire. Pour l'élève, appréhender la création de son temps ne peut se faire sans le repérage de sources, de liens, de références. Faire émerger une conscience historique et sociale est essentiel pour nourrir une pratique du design. Ce pôle bénéficie des savoirs acquis par les élèves dans le cadre de l'enseignement d'histoire des arts lors de leur scolarité antérieure et prend appui sur le socle commun de connaissances, de compétences et de culture : la maîtrise de la langue française (compétence 1) ; la culture humaniste (compétence 5) ; les compétences sociales et civiques (compétence 6).
 
 Les objets d'étude sont puisés dans l'ensemble des arts, techniques et civilisations, depuis la naissance de l'écriture, sans prétendre à l'exhaustivité. L'ensemble des points est abordé à travers toute pratique (architecture, peinture, sculpture, photographie, vidéo, installation, arts décoratifs, design) en croisant les différentes entrées proposées.
 
@@ -165,7 +164,7 @@ Dans le traitement des thématiques choisies, un éclairage sur les pratiques so
 
 L'histoire des arts, en première et terminale, peut conforter le pôle Arts, techniques et civilisations par des approches complémentaires de certaines thématiques ou problématiques.
 
-Le pôle Démarche créative met en œuvre des démarches d'expérimentation et de concrétisation dans l'ensemble des domaines du design et des métiers d'art. A l'aide d'outils, de supports, de moyens dédiés et à partir d'éléments contextuels donnés, la démarche créative permet à l'élève d'acquérir une posture d'observation active et une autonomie progressive dans la résolution de problèmes simples. Ce pôle prend appui sur le socle commun des connaissances et des compétences : l'esprit d'initiative, l'anticipation, l'inventivité, la curiosité, la créativité (compétence 7), l'observation, le questionnement, la manipulation, l'expérimentation (compétence 3).
+Le pôle Démarche créative met en œuvre des démarches d'expérimentation et de concrétisation dans l'ensemble des domaines du design et des métiers d'art. A l'aide d'outils, de supports, de moyens dédiés et à partir d'éléments contextuels donnés, la démarche créative permet à l'élève d'acquérir une posture d'observation active et une autonomie progressive dans la résolution de problèmes simples. Ce pôle prend appui sur le socle commun de connaissances, de compétences et de culture : l'esprit d'initiative, l'anticipation, l'inventivité, la curiosité, la créativité (compétence 7), l'observation, le questionnement, la manipulation, l'expérimentation (compétence 3).
 
 Pour l'ensemble de la démarche créative, la succession des savoirs ne saurait valoir comme méthode à appliquer de manière systématique. Les savoirs sont interdépendants et abordables dans un ordre variable selon les incitations proposées et les notions envisagées. Tous les supports et modes de communication peuvent être utilisés : 2D, 3D, multimédia.
 
@@ -181,7 +180,7 @@ Certains savoirs sont abordés en étroite relation avec l'enseignement de physi
 
 La place des outils infographiques
 
-Les contenus pédagogiques dispensés en classes de première et terminale de la série  sciences et technologies du design et des arts appliqués  nécessitent une approche des traitements numériques de l'image. Les outils numériques font partie intégrante des démarches créatives propres à ces champs disciplinaires. Une partie des savoirs et savoir-faire spécifiques aux outils numériques puise les compétences requises dans le B2i (compétence 4 du socle commun du collège). L'autre partie complète les compétences du B2i lycée.
+Les contenus pédagogiques dispensés en classes de première et terminale de la série sciences et technologies du design et des arts appliqués nécessitent une approche des traitements numériques de l'image. Les outils numériques font partie intégrante des démarches créatives propres à ces champs disciplinaires. Une partie des savoirs et savoir-faire spécifiques aux outils numériques puise les compétences requises dans le B2i (compétence 4 du socle commun du collège). L'autre partie complète les compétences du B2i lycée.
 
 Cette approche a pour but de fournir les outils qui permettent l'acquisition et le traitement de données multimédia afin, d'une part, de communiquer les études et projets menés en cours d'arts appliqués, et d'autre part, d'appréhender ces outils au sein de la démarche de recherche en design.
 

@@ -8,7 +8,7 @@ Préambule
 
 Les évolutions des biotechnologies dans les domaines de l'environnement, de la santé, de la recherche et de l'industrie conduisent la société à s'interroger sur son devenir. Cette réflexion a besoin de diagnostics précis, d'analyses fiables et de productions innovantes, conduites avec un souci d'assurance qualité et de sécurité biologique.
 
-Les biotechnologies conduites en laboratoires d'analyse ou de production (domaine médical, pharmaceutique, agroalimentaire...) offrent à l'Homme une source de savoirs et de savoir-faire novateurs adaptés à l'évolution des exigences indispensables à la préservation de sa santé et de son environnement.
+Les biotechnologies cofnduites en laboratoires d'analyse ou de production (domaine médical, pharmaceutique, agroalimentaire...) offrent à l'Homme une source de savoirs et de savoir-faire novateurs adaptés à l'évolution des exigences indispensables à la préservation de sa santé et de son environnement.
 
 Les biotechnologies se sont imposées comme science à part entière et font l'objet d'enseignements au lycée et à l'université pour conduire à des métiers d'avenir en constante évolution.
 
@@ -64,7 +64,7 @@ L'accès à certaines écoles peut nécessiter une poursuite d'étude en classes
 
 Des activités technologiques au laboratoire qui rendent l'élève acteur de sa formation.
 
-L'enseignement d'exploration de biotechnologies prend appui sur les acquis du socle commun des connaissances et de compétences. Il se décline sous la forme d'activités technologiques qui donnent lieu à la mise en œuvre de techniques de laboratoire. Il vise le développement de compétences méthodologiques, transversales ou spécifiques et permet de découvrir la diversité des domaines des biotechnologies.
+L'enseignement d'exploration de biotechnologies prend appui sur les acquis du socle commun de connaissances, de compétences et de culture. Il se décline sous la forme d'activités technologiques qui donnent lieu à la mise en œuvre de techniques de laboratoire. Il vise le développement de compétences méthodologiques, transversales ou spécifiques et permet de découvrir la diversité des domaines des biotechnologies.
 
 Les activités technologiques réalisées principalement en laboratoires de biotechnologie permettent aux élèves :
 

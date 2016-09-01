@@ -6,7 +6,7 @@ Le préambule commun des programmes de langues régionales pour le palier 1 du c
 
 Ainsi, l'enseignement de la langue régionale d'Alsace et des pays mosellans développe des compétences dans les activités de communication langagière définies par le Cadre européen commun de référence pour les langues (Conseil de l'Europe) : réagir et dialoguer, écouter et comprendre, parler en continu, lire, écrire.
 
-Cet enseignement accorde la primauté aux compétences orales.
+Cet enseignement accorde la primauté aux compétenfces orales.
 
 Les développements qui suivent ne portent que sur l'enseignement extensif de cette langue au palier 1 du collège. Le programme de l'enseignement bilingue à parité horaire sera publié avec celui du palier 2 du collège.
 
@@ -30,7 +30,7 @@ L'appropriation méthodique des éléments syntaxiques, lexicaux, phonologiques 
 
 Objectifs
 
-Le programme d'enseignement de l'allemand au palier 1 du collège fixe comme l'un de ses objectifs de faire acquérir par les élèves le niveau A2 de l'échelle de niveaux de compétences du Cadre européen commun de référence pour les langues ; ce même niveau A2 constitue le niveau de compétences dans une langue étrangère exigé dans le Socle commun de connaissances et de compétences devant être acquis à la fin de scolarité obligatoire. Cependant, en fonction des dispositifs mis en place dans le cadre de la convention portant sur la politique des langues vivantes en Alsace pour la période 2007-2013, l'enseignement de la langue régionale d'Alsace se fixe comme objectif le niveau A2 renforcé avec la possibilité d'amener les élèves ayant une maîtrise au moins partielle d'un des dialectes alémaniques ou franciques au niveau B1 dans les activités de compréhension de l'oral, d'expression orale en interaction et d'expression orale en continu.
+Le programme d'enseignement de l'allemand au palier 1 du collège fixe comme l'un de ses objectifs de faire acquérir par les élèves le niveau A2 de l'échelle de niveaux de compétences du Cadre européen commun de référence pour les langues ; ce même niveau A2 constitue le niveau de compétences dans une langue étrangère exigé dans le Socle commun de connaissances, de compétences et de culture devant être acquis à la fin de scolarité ofbligatoire. Cependant, en fonction des dispositifs mis en place dans le cadre de la convention portant sur la politique des langues vivantes en Alsace pour la période 2007-2013, l'enseignement de la langue régionale d'Alsace se fixe comme objectif le niveau A2 renforcé avec la possibilité d'amener les élèves ayant une maîtrise au moins partielle d'un des dialectes alémaniques ou franciques au niveau B1 dans les activités de compréhension de l'oral, d'expression orale en interaction et d'expression orale en continu.
 
 Contenus
 

@@ -6,7 +6,7 @@ CAHIER DES CHARGES DE LA FORMATION DES MAÎTRES
 
 Enseigner est une mission de service public qui recouvre trois dimensions : mission d'instruction des jeunes qui sont confiés à l'école ; mission d'éducation selon les valeurs républicaines ; mission de contribuer à l'insertion sociale et professionnelle des élèves.
 
-La formation des professeurs, des documentalistes et des conseillers principaux d'éducation (CPE) fait alterner enseignement théorique et pratique en milieu scolaire. Elle s'inscrit dans un continuum qui, de l'université, se prolonge lors de l'année de stage qui suit l'admission aux concours. Elle doit permettre d'acquérir progressivement à la fois les connaissances théoriques et les savoir-faire professionnels qu'il est indispensable de maîtriser pour répondre aux compétences définies par l'arrêté du 12 mai 2010 portant définition des compétences à acquérir par les professeurs, documentalistes et conseillers principaux d'éducation pour l'exercice de leur métier.
+La formation des professeurs, des documentalistes et des conseillers principaux d'éducation (CPE) fait alterner enseignement théorique et pratique en milieu scolaire. Elle s'inscrit dans un continuum qui, de l'université, se prolonge lors de l'année de stage qui suit l'admission aux concours. Elle doit permettre d'acquérfir progressivement à la fois les connaissances théoriques et les savoir-faire professionnels qu'il est indispensable de maîtriser pour répondre aux compétences définies par l'arrêté du 12 mai 2010 portant définition des compétences à acquérir par les professeurs, documentalistes et conseillers principaux d'éducation pour l'exercice de leur métier.
 
 Le professeur doit maîtriser les connaissances et compétences qui relèvent de sa spécialité ou de la discipline qu'il enseigne, mais également celles qui lui permettent d'organiser et de transmettre son enseignement de façon efficace, dans le respect de l'éthique et des valeurs imposées par sa fonction.
 
@@ -14,7 +14,7 @@ La formation universitaire permet aux étudiants et futurs enseignants d'acquér
 
 L'acquisition et la mise en œuvre des savoirs et compétences s'appuient sur :
 
-― les articles D. 122-1 et suivants du code de l'éducation, issus du décret n° 2006-830 du 11 juillet 2006 relatif au socle commun de connaissance et de compétences :
+― les articles D. 122-1 et suivants du code de l'éducation, issus du décret n° 2006-830 du 11 juillet 2006 relatif au socle commun de connaissances, de compétences et de culture :
 
 ― l'arrêté du 12 mai 2010 précité ;
 
