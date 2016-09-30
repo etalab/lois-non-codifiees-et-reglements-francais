@@ -6,7 +6,6 @@
 - [Arrêté du 1 août 1990 (FPPA9000102A)](arrete-du-1-aout-1990-fppa9000102a)
 - [Arrêté du 1 août 1990 (MCCK9000535A)](arrete-du-1-aout-1990-mcck9000535a)
 - [Arrêté du 1 août 1990 (SPSG9001646A)](arrete-du-1-aout-1990-spsg9001646a)
-- [Arrêté du 1 août 1990 (SPSP9001317A)](arrete-du-1-aout-1990-spsp9001317a)
 - [Arrêté du 1 août 1990 (TEFG9003736A)](arrete-du-1-aout-1990-tefg9003736a)
 - [Arrêté du 1 décembre 1989 (EQUT8901315A)](arrete-du-1-decembre-1989-equt8901315a)
 - [Arrêté du 1 février 1990 (AGRS9000296A)](arrete-du-1-fevrier-1990-agrs9000296a)

@@ -1,3 +1,0 @@
-# Article 59
-
-Par dérogation aux dispositions de l'article 31 du présent arrêté, les anciens étudiants en médecine ayant validé les deux premiers cycles des études médicales sont dispensés des deux premières années d'études de manipulateur d'électroradiologie médicale et admis en fonction des places disponibles à se présenter à l'examen de passage de deuxième en troisième année sous réserve d'avoir validé six mois de stages organisés sous la responsabilité de l'école d'accueil notamment en imagerie médicale, radiothérapie et électrophysiologie. Chaque stage fait l'objet d'une notation sur vingt points par le chef de service d'accueil sur proposition du manipulateur d'électroradiologie médicale ou le cas échéant du professionnel responsable de l'élève en stage.
