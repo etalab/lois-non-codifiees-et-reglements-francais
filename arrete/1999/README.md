@@ -159,7 +159,6 @@
 - [Arrêté du 8 janvier 1999 (MESN9920115A)](arrete-du-8-janvier-1999-mesn9920115a)
 - [Arrêté du 8 janvier 1999 (MESP9920055A)](arrete-du-8-janvier-1999-mesp9920055a)
 - [Arrêté du 8 juillet 1999 (ECOT9951822A)](arrete-du-8-juillet-1999-ecot9951822a)
-- [Arrêté du 8 juillet 1999 (EQUH9901063A)](arrete-du-8-juillet-1999-equh9901063a)
 - [Arrêté du 8 juillet 1999 (INTE9900229A)](arrete-du-8-juillet-1999-inte9900229a)
 - [Arrêté du 8 juillet 1999 (INTE9900230A)](arrete-du-8-juillet-1999-inte9900230a)
 - [Arrêté du 8 mars 1999 (ATEN9870438A)](arrete-du-8-mars-1999-aten9870438a)
