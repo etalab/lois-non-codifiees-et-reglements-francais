@@ -1,6 +1,6 @@
 # Article 13
 
-I.-Sous réserve des dispositions transitoires figurant à l'article 35, lorsque la durée d'assurance, définie au III ci-après, est inférieure au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension mentionné à l'article 12, un coefficient de minoration, dont le taux est celui prévu pour les fonctionnaires de l'Etat en application du I de l'article L. 14 du code des pensions civiles et militaires de retraite, s'applique au montant de la pension calculée en application de l'article 12, dans la limite de vingt trimestres.
+I. - Sous réserve des dispositions transitoires figurant à l'article 35, lorsque la durée d'assurance, définie au III ci-après, est inférieure au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension mentionné à l'article 12, un coefficient de minoration, dont le taux est celui prévu pour les fonctionnaires de l'Etat en application du I de l'article L. 14 du code des pensions civiles et militaires de retraite, s'applique au montant de la pension calculée en application de l'article 12, dans la limite de vingt trimestres.
 
 Le nombre de trimestres pris en compte pour ce calcul est égal :
 
@@ -20,11 +20,13 @@ II. ― Lorsque la durée d'assurance, définie au III ci-après, est supérieur
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance au sens du III ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge mentionné au premier alinéa de l'article L. 161-17-2 du code de la sécurité sociale et en sus du nombre de trimestres mentionné à l'alinéa précédent.
 
+Toutefois, les bonifications de durée de services et majorations de durée d'assurance, à l'exclusion de celles accordées au titre des enfants et du handicap, prévues par les dispositions législatives et réglementaires, quel que soit le régime de retraite de base au titre duquel elles ont été acquises, ne sont pas prises en compte pour le calcul de la durée d'assurance mentionnée au premier alinéa du présent II. La liste des bonifications et majorations de durée auxquelles s'applique le présent alinéa est celle fixée par le décret prévu au troisième alinéa du III de l'article L. 14 du code des pensions civiles et militaires de retraite.
+
 Lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction égale à celle que définit le régime de travail autorisé.
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
-Le taux du coefficient de majoration est égal, par trimestre supplémentaire dans la limite de vingt trimestres, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires de retraite.
+Le taux du coefficient de majoration est égal, par trimestre supplémentaire, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires de retraite.
 
 III. ― La durée d'assurance totalise la durée des services et des bonifications admissibles en liquidation augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs autres régimes de retraite de base obligatoires.
 

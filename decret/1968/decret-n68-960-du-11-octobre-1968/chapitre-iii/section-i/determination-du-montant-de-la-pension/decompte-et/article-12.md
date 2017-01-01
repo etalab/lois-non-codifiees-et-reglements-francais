@@ -1,6 +1,6 @@
 # Article 12
 
-I.-La durée des services et des bonifications prévus aux articles 6,7,10 bis, 11 et 11 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
+I.-La durée des services et des bonifications prévus aux articles 6, 7, 10 bis, 11 et 11 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 Sous réserve des dispositions du V du présent article, le nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension est fixé à cent soixante-douze.
 
@@ -66,4 +66,6 @@ Le coefficient de minoration prévu au II ci-dessus n'est applicable qu'aux pers
 
 L'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du II diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
 
-VI.-Le VI de l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, dans sa rédaction issue de l'article 17 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, est applicable aux assurés affiliés au régime spécial de retraite régi par le présent décret.
+VI. - La durée des services et des bonifications nécessaire à l'obtention du pourcentage maximum de la pension est celle qui est en vigueur lorsque les assurés atteignent l'âge de soixante ans.
+
+Par dérogation à l'alinéa précédent, la durée des services et des bonifications exigée des assurés qui remplissent les conditions de liquidation d'une pension avant l'âge de soixante ans est celle exigée des assurés atteignant l'âge de soixante ans l'année à compter de laquelle la liquidation peut intervenir.
