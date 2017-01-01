@@ -152,7 +152,6 @@
 - [Arrêté du 6 février 2003 (AGRA0300216A)](arrete-du-6-fevrier-2003-agra0300216a)
 - [Arrêté du 6 février 2003 (MCCB0300099A)](arrete-du-6-fevrier-2003-mccb0300099a)
 - [Arrêté du 6 juin 2003 (BUDR0303020A)](arrete-du-6-juin-2003-budr0303020a)
-- [Arrêté du 6 juin 2003 (MENE0301239A)](arrete-du-6-juin-2003-mene0301239a)
 - [Arrêté du 6 juin 2003 (MENE0301240A)](arrete-du-6-juin-2003-mene0301240a)
 - [Arrêté du 6 juin 2003 (MENF0301100A)](arrete-du-6-juin-2003-menf0301100a)
 - [Arrêté du 6 juin 2003 (SANP0322110A)](arrete-du-6-juin-2003-sanp0322110a)
