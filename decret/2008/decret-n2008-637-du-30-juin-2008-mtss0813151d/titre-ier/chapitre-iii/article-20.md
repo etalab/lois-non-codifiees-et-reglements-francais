@@ -11,3 +11,5 @@ Pour le calcul de la pension :
 4° Les bénéfices de campagne sont accordés dans les mêmes conditions que pour les fonctionnaires civils de l'Etat. Le pourcentage maximum fixé à l'article 23 peut être augmenté de cinq points du chef de ces bénéfices de campagne.
 
 Le cumul des bonifications prévues aux 1° et 2° ne peut avoir pour effet d'entraîner une bonification totale supérieure à cinq ans.
+
+Les bonifications prévues au 4° du présent article sont prises en compte dès  lors que la pension rémunère au moins quinze années de services effectifs. Elles  sont prises en compte sans condition de durée pour les agents mis en réforme.
