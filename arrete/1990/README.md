@@ -170,7 +170,6 @@
 - [Arrêté du 7 novembre 1990 (BUDR9005053A)](arrete-du-7-novembre-1990-budr9005053a)
 - [Arrêté du 7 novembre 1990 (ECOC9000142A)](arrete-du-7-novembre-1990-ecoc9000142a)
 - [Arrêté du 7 novembre 1990 (TEFE9003947A)](arrete-du-7-novembre-1990-tefe9003947a)
-- [Arrêté du 7 septembre 1990 (JUSC9020734A)](arrete-du-7-septembre-1990-jusc9020734a)
 - [Arrêté du 7 septembre 1990 (SPSS9001840A)](arrete-du-7-septembre-1990-spss9001840a)
 - [Arrêté du 7 septembre 1990 (TOUR9003607A)](arrete-du-7-septembre-1990-tour9003607a)
 - [Arrêté du 8 août 1990 (ECOT9010080A)](arrete-du-8-aout-1990-ecot9010080a)
