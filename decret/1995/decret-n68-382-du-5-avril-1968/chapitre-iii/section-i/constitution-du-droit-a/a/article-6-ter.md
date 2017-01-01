@@ -1,29 +1,7 @@
 # Article 6 ter
 
-I. - L'âge de soixante ans mentionné au dernier alinéa du I de l'article 6 est abaissé pour les assurés relevant du régime spécial de retraite des personnels de l'Opéra national de Paris qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée des services et des bonifications nécessaire pour obtenir le pourcentage maximum de la pension prévue au I de l'article 14 du présent décret et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
+L'âge d'ouverture du droit à pension résultant de l'application du 5° du I de l'article 6 est abaissé pour les assurés relevant du régime de retraite régi par le présent décret qui ont commencé leur activité avant un âge et dans des conditions déterminés par le décret pris pour l'application de l'article L. 25 bis du code des pensions civiles et militaires de retraite et ont accompli une durée totale d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires au moins égale à une limite définie par le même décret tout ou partie de cette durée totale ayant donné lieu à cotisations à la charge de l'assuré. Les modalités d'application du présent article et, notamment, les conditions dans lesquelles, le cas échéant, une partie des périodes de service national et les périodes pendant lesquelles les salariés ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire peuvent être réputées avoir donné lieu au versement de cotisations sont celles prévues par ce même décret.
 
-1° A cinquante-six ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, et ayant commencé leur activité avant l'âge de seize ans ;
+Toutefois, pour l'application de la condition de durée minimale d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont également réputées cotisées l'intégralité des périodes de maternité mentionnées au 2° du R. 351-12 du code de la sécurité sociale et les périodes de chômage mentionnées au I de l'article 13 ter dans la limite de quatre trimestres.
 
-2° A cinquante-huit ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, minorée de quatre trimestres, et ayant commencé leur activité avant l'âge de seize ans ;
-
-3° A cinquante-neuf ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa, minorée de huit trimestres, et ayant commencé leur activité avant l'âge de dix-sept ans.
-
-Pour l'application de la condition d'âge de début d'activité définie aux 1°, 2° et 3°, sont considérés comme ayant commencé leur activité avant l'âge de seize ou dix-sept ans les assurés justifiant :
-
-- soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire ;
-
-- soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire.
-
-Pour l'application de la condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés définie aux 1°, 2° et 3°, sont réputées avoir donné lieu à cotisations :
-
-- les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la plus favorable étant retenue ;
-
-- les périodes pendant lesquelles les assurés ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire.
-
-Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile.
-
-Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés, il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a été affilié successivement ou simultanément à plusieurs des régimes considérés.
-
-Pour l'application de la condition de durée d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont prises en compte les bonifications pour enfant mentionnées au dernier alinéa de l'article 12 et les périodes d'interruption ou de réduction d'activité mentionnées au 2° du IV de l'article 6.
-
-II. - L'année au cours de laquelle sont réunies les conditions définies au I du présent article est l'année retenue pour l'application des dispositions du V de l'article 14, à condition que l'assuré demande à bénéficier des dispositions du présent article avant son soixantième anniversaire.
+Pour l'application de chacune des limites prévues à l'alinéa précédent, il est tenu compte des trimestres réputés cotisés auprès de l'ensemble des régimes obligatoires de base, au titre de ces mêmes dispositions ou de dispositions réglementaires ayant le même objet et se rapportant, respectivement, aux périodes de même nature.
