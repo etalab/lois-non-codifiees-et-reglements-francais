@@ -4,6 +4,8 @@ A défaut du versement à sa date d'exigibilité d'une provision prévue à l'ar
 
 Après avoir constaté le vote du budget prévisionnel par l'assemblée générale des copropriétaires ainsi que la déchéance du terme, le président du tribunal de grande instance statuant comme en matière de référé peut condamner le copropriétaire défaillant au versement des provisions prévues à l'article 14-1 et devenues exigibles. L'ordonnance est assortie de l'exécution provisoire de plein droit.
 
+Le présent article est applicable aux cotisations du fonds de travaux mentionné à l'article 14-2.
+
 Lorsque la mesure d'exécution porte sur une créance à exécution successive du débiteur du copropriétaire défaillant, notamment une créance de loyer ou d'indemnité d'occupation, cette mesure se poursuit jusqu'à l'extinction de la créance du syndicat résultant de l'ordonnance.
 
 Si l'assemblée générale vote pour autoriser le syndic à agir en justice pour obtenir la saisie en vue de la vente d'un lot d'un copropriétaire débiteur vis-à-vis du syndicat, la voix de ce copropriétaire n'est pas prise en compte dans le décompte de la majorité et ce copropriétaire ne peut recevoir mandat pour représenter un autre copropriétaire en application de l'article 22.

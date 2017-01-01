@@ -2,7 +2,7 @@
 
 Les copropriétaires sont tenus de participer aux charges entraînées par les services collectifs et les éléments d'équipement commun en fonction de l'utilité que ces services et éléments présentent à l'égard de chaque lot.
 
-Ils sont tenus de participer aux charges relatives à la conservation, à l'entretien et à l'administration des parties communes proportionnellement aux valeurs relatives des parties privatives comprises dans leurs lots, telles que ces valeurs résultent des dispositions de l'article 5.
+Ils sont tenus de participer aux charges relatives à la conservation, à l'entretien et à l'administration des parties communes et de verser au fonds de travaux mentionné à l'article 14-2 la cotisation prévue au même article, proportionnellement aux valeurs relatives des parties privatives comprises dans leurs lots, telles que ces valeurs résultent des dispositions de l'article 5.
 
 Le règlement de copropriété fixe la quote-part afférente à chaque lot dans chacune des catégories de charges.
 
