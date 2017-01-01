@@ -21,3 +21,5 @@ Pour les agents de conduite qui ne comptent pas le nombre d'années de conduite 
 chaque année de conduite au-delà de la quinzième donne droit à une année supplémentaire par rapport au calcul des bonifications précisé au présent 1°. Le nombre de ces années supplémentaires est plafonné à trois, dans la limite de la durée de la période d'empêchement.
 
 2° Les bénéfices de campagne acquis au titre des services militaires validés, ces bénéfices de campagne étant attribués et décomptés conformément aux dispositions applicables aux fonctionnaires civils de l'Etat. Le pourcentage maximum visé au troisième alinéa de l'article 12 peut être augmenté de cinq points du chef de ces bénéfices.
+
+Les bonifications prévues au présent 2° sont prises en compte dès lors que la pension rémunère au moins quinze années de services effectifs. Elles sont prises en compte sans condition de durée pour les agents réformés.
