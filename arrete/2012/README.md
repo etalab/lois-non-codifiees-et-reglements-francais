@@ -1299,7 +1299,6 @@
 - [Arrêté du 17 février 2012 (DEVL1203460A)](arrete-du-17-fevrier-2012-devl1203460a)
 - [Arrêté du 17 février 2012 (IOCA1205226A)](arrete-du-17-fevrier-2012-ioca1205226a)
 - [Arrêté du 17 février 2012 (IOCB1130117A)](arrete-du-17-fevrier-2012-iocb1130117a)
-- [Arrêté du 17 février 2012 (PRMX1204066A)](arrete-du-17-fevrier-2012-prmx1204066a)
 - [Arrêté du 17 janvier 2012 (AGRE1200369A)](arrete-du-17-janvier-2012-agre1200369a)
 - [Arrêté du 17 janvier 2012 (AGRE1200374A)](arrete-du-17-janvier-2012-agre1200374a)
 - [Arrêté du 17 janvier 2012 (AGRG1201665A)](arrete-du-17-janvier-2012-agrg1201665a)
