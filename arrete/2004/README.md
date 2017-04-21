@@ -185,7 +185,6 @@
 - [Arrêté du 9 juin 2004 (SANP0422019A)](arrete-du-9-juin-2004-sanp0422019a)
 - [Arrêté du 9 mars 2004 (SOCF0410437A)](arrete-du-9-mars-2004-socf0410437a)
 - [Arrêté du 9 mars 2004 (SOCF0410439A)](arrete-du-9-mars-2004-socf0410439a)
-- [Arrêté du 9 mars 2004 (SOCF0410441A)](arrete-du-9-mars-2004-socf0410441a)
 - [Arrêté du 9 mars 2004 (SOCF0410442A)](arrete-du-9-mars-2004-socf0410442a)
 - [Arrêté du 9 mars 2004 (SOCF0410443A)](arrete-du-9-mars-2004-socf0410443a)
 - [Arrêté du 9 mars 2004 (SOCF0410445A)](arrete-du-9-mars-2004-socf0410445a)
