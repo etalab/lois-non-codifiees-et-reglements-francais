@@ -232,7 +232,6 @@
 - [Arrêté du 4 mai 2012 (IOCJ1220526A)](arrete-du-4-mai-2012-iocj1220526a)
 - [Arrêté du 4 mai 2012 (MENH1220786A)](arrete-du-4-mai-2012-menh1220786a)
 - [Arrêté du 4 mai 2012 (PRMX1221973A)](arrete-du-4-mai-2012-prmx1221973a)
-- [Arrêté du 4 mai 2012 (PRMX1222429A)](arrete-du-4-mai-2012-prmx1222429a)
 - [Arrêté du 4 mai 2012 (SCSA1222813A)](arrete-du-4-mai-2012-scsa1222813a)
 - [Arrêté du 4 mai 2012 (SCSA1222840A)](arrete-du-4-mai-2012-scsa1222840a)
 - [Arrêté du 4 mai 2012 (TRAK1204493A)](arrete-du-4-mai-2012-trak1204493a)
