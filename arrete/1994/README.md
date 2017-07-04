@@ -737,7 +737,6 @@
 - [Arrêté du 24 décembre 1993 (ENVP9430014A)](arrete-du-24-decembre-1993-envp9430014a)
 - [Arrêté du 24 février 1994 (ECOC9400016A)](arrete-du-24-fevrier-1994-ecoc9400016a)
 - [Arrêté du 24 février 1994 (EQUS9400428A)](arrete-du-24-fevrier-1994-equs9400428a)
-- [Arrêté du 24 février 1994 (INDB9400006A)](arrete-du-24-fevrier-1994-indb9400006a)
 - [Arrêté du 24 février 1994 (JUSB9410076A)](arrete-du-24-fevrier-1994-jusb9410076a)
 - [Arrêté du 24 février 1994 (JUSD9430010A)](arrete-du-24-fevrier-1994-jusd9430010a)
 - [Arrêté du 24 février 1994 (SPSH9400748A)](arrete-du-24-fevrier-1994-spsh9400748a)
