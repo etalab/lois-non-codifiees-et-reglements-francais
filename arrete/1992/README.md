@@ -440,7 +440,6 @@
 - [Arrêté du 14 février 1992 (DEFL9201188A)](arrete-du-14-fevrier-1992-defl9201188a)
 - [Arrêté du 14 février 1992 (INDG9100989A)](arrete-du-14-fevrier-1992-indg9100989a)
 - [Arrêté du 14 février 1992 (MENF9200141A)](arrete-du-14-fevrier-1992-menf9200141a)
-- [Arrêté du 14 février 1992 (MENL9200331A)](arrete-du-14-fevrier-1992-menl9200331a)
 - [Arrêté du 14 février 1992 (SANS9102803A)](arrete-du-14-fevrier-1992-sans9102803a)
 - [Arrêté du 14 février 1992 (SPSP9200492A)](arrete-du-14-fevrier-1992-spsp9200492a)
 - [Arrêté du 14 janvier 1991 (INTA9100042A)](arrete-du-14-janvier-1991-inta9100042a)
