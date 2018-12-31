@@ -416,7 +416,6 @@
 - [Arrêté du 14 mars 1994 (BUDR9405011A)](arrete-du-14-mars-1994-budr9405011a)
 - [Arrêté du 14 mars 1994 (DEFD9401280A)](arrete-du-14-mars-1994-defd9401280a)
 - [Arrêté du 14 mars 1994 (JUSC9420229A)](arrete-du-14-mars-1994-jusc9420229a)
-- [Arrêté du 14 novembre 1994 (AGRE9402282A)](arrete-du-14-novembre-1994-agre9402282a)
 - [Arrêté du 14 novembre 1994 (SPSS9403094A)](arrete-du-14-novembre-1994-spss9403094a)
 - [Arrêté du 14 novembre 1994 (SPSS9403095A)](arrete-du-14-novembre-1994-spss9403095a)
 - [Arrêté du 14 octobre 1994 (AGRG9402010A)](arrete-du-14-octobre-1994-agrg9402010a)
