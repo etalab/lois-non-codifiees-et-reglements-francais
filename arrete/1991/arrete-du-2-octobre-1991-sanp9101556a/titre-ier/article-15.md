@@ -1,9 +1,0 @@
-# Article 15
-
-Sont admis en troisième année les élèves ayant obtenu une moyenne générale des notes de contrôle continu et des épreuves terminales égale ou supérieure à 10 sur 20, sans note inférieure à 7 sur 20 à l'une des épreuves terminales écrites ou pratiques.
-
-Cette moyenne est calculée à la fin de la deuxième année pour les sportifs de haut niveau autorisés à présenter les épreuves de l'examen de passage sur deux années. Une moyenne intermédiaire est, en outre, établie à la fin de la première année. Cette dernière est utilisée pour déterminer, selon les conditions fixées au dernier alinéa, si le sportif peut se présenter à la seconde session de l'examen de passage pour les épreuves qu'il a passées lors cette première année (1).
-
-Les élèves ayant obtenu une moyenne générale à 10 sur 20 avec une ou plusieurs notes inférieures à 7 sur 20 à l'une des épreuves terminales ainsi que ceux dont la moyenne générale est comprise entre 7 et 10 sur 20 peuvent se présenter à la seconde session de l'examen de passage en troisième année. Cette seconde session est organisée avant la rentrée scolaire suivante et deux semaines au moins après la dernière épreuve écrite de la première session. Les candidats qui s'y présentent conservent la note globale moyenne de l'évaluation continue des enseignements théoriques de l'année ainsi que les notes supérieures ou égales à 10 obtenues lors des épreuves terminales de la première session.
-
-Les élèves qui, à l'issue de la seconde session, ne satisfont pas aux conditions définies au premier alinéa du présent article sont admis à redoubler, à l'exception de ceux qui, ayant déjà redoublé leur première ou leur deuxième année, ont obtenu soit une moyenne générale inférieure à 10 sur 20, soit une note inférieure à 7 sur 20 à l'une des épreuves terminales écrites ou pratiques de l'examen de passage, qui sont exclus définitivement de la formation.
